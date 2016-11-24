@@ -1,0 +1,202 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Hawaii (CB-3)</title>
+    <ns>0</ns>
+    <id>236491</id>
+    <revision>
+      <id>744792517</id>
+      <parentid>741259995</parentid>
+      <timestamp>2016-10-17T13:12:26Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>/* References */ fixed column size</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19335">{{Other ships|USS Hawaii}}
+{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Hawaii CB-3.jpg|300px|alt=A large ship is being built. Seen from the stern, one of the 12-inch turrets equipped with three guns is visible. Most of the deck is cluttered with part of the ship in various stages of completion. Walkways connect the ship to the sides of the building ways.]]
+|Ship caption=''Hawaii'' fitting out prior to the suspension of her construction in February 1947.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1944}}
+|Ship name=''Hawaii''
+|Ship namesake=Territory of [[Hawaii]]
+|Ship ordered=September 1940
+|Ship awarded=
+|Ship builder=[[New York Shipbuilding Corporation]], [[Camden, New Jersey]]
+|Ship original cost=
+|Ship yard number=
+|Ship laid down=20 December 1943
+|Ship launched=3 November 1945
+|Ship sponsor=[[Elizabeth P. Farrington|Elizabeth Farrington]]
+|Ship struck=9 June 1958
+|Ship fate=Sold for [[ship breaking|scrap]], 15 April 1959
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as designed)
+|Ship class={{sclass-|Alaska|cruiser|0}} [[Alaska-class cruiser#.22Large cruisers.22 or .22battlecruisers.22|large cruiser]]
+|Ship displacement=*{{convert|29779|LT|t}} ([[Displacement (ship)#Standard displacement|standard]])
+*{{convert|34253|LT|t}} ([[deep load]])
+|Ship length={{convert|808|ft|6|in|m|abbr=on|1}}
+|Ship beam={{convert|91|ft|1|in|m|abbr=on|1}}
+|Ship draft=*{{convert|27|ft|1|in|m|abbr=on|1}}
+*{{convert|32|ft|m|abbr=on|1}} (full load)
+|Ship propulsion=4 shafts, [[General Electric]] [[steam turbine]]s
+|Ship speed={{convert|31.4|kn|lk=in}}
+|Ship power=*{{convert|150000|shp|abbr=on|lk=in}}
+*8 Babcock &amp; Wilcox boilers
+|Ship endurance={{convert|12000|nmi|lk=in|abbr=on}} at {{convert|15|kn}}
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*9 × {{convert|305|mm|in|disp=flip|abbr=on}} guns
+*12 × {{convert|127|mm|in|disp=flip|abbr=on}} guns
+*56 × {{convert|40|mm|in|abbr=on}} guns
+*34 × {{convert|20|mm|in|abbr=on}} guns
+|Ship armor=*Belt: {{convert|5|-|9|in|mm|abbr=on}}
+*Deck: {{convert|3.8|-|4|in|mm|abbr=on}}
+*Barbettes: {{convert|11|-|13|in|mm|abbr=on}}
+*Turrets: {{convert|5|-|12.8|in|mm|abbr=on}}
+|Ship aircraft=4 × [[floatplane]]s
+|Ship aircraft facilities=*2 × [[hangar]]s
+*2 × [[aircraft catapult|catapult]]s
+|Ship notes=
+}}
+|}
+'''''Hawaii'' (CB-3)'''&lt;ref group=A&gt;''Hawaii'' was never commissioned into the United States Navy; hence she should not be referred to as &quot;USS ''Hawaii''&quot;.  However, that designation has been included in this article's title to adhere to Wikipedia naming conventions.&lt;/ref&gt;  was originally intended to be the third member of the {{sclass-|Alaska|cruiser|4}} of  [[Alaska-class cruiser#.22Large cruisers.22 or .22battlecruisers.22|large cruisers]]. She was the first [[United States Navy]] ship to be named after the [[Territory of Hawaii]].&lt;ref group=A&gt;Hawaii was not yet a state at this time; instead, it was an [[insular area]]. It joined the Union as the fiftieth state in 1959.&lt;/ref&gt; Because her construction was delayed by higher-priority ships such as [[aircraft carrier]]s, her [[keel]] was not laid until December 1943, about two years after her [[sister ship]] {{USS|Guam|CB-2|2}}.
+
+After her launch on 3 November 1945,&lt;!--http://www.history.navy.mil/photos/sh-usn/usnsh-h/cb3.htm--&gt; ''Hawaii'' began [[fitting out]], but post-war budget cutbacks necessitated the cancellation of the ship on 17 February 1947. For a time it was planned that she would be converted to be the U.S.' first guided missile cruiser, but this did not come to fruition. A conversion to a large [[command ship]] was later contemplated; planning went far enough that money was allocated in the 1952 budget for this purpose, but with one ({{USS|Northampton|CLC-1|2}}) complete and a second ({{USS|Wright|CVL-49|2}}) already chosen, no work was started upon ''Hawaii''. Having been laid up for twelve years, the ship was towed to [[ship breaking|breakers]] to be scrapped on 20 June 1959.
+
+== Design and description==
+{{main|Alaska-class cruiser}}
+The initial impetus for the design of the ''Alaska'' class came from the [[commerce raider|commerce-raiding]] abilities of German and Japanese ships; the three {{sclass-|Deutschland|cruiser|2}}s, also known as &quot;pocket battleships&quot;, the two {{sclass-|Scharnhorst|battleship|2}}s, and Japan's large force of both heavy and light cruisers. By the time that they were built, their role had expanded to protect carrier groups. It was thought that the class's bigger guns, greater size and higher speed would give them a marked advantage in this role over heavy cruisers, and they would also provide insurance against reports that Japan was building &quot;super cruisers&quot; more powerful than American cruisers limited by the [[London Naval Treaty]].&lt;ref group=A&gt;Japan actually developed plans for two of the &quot;super cruisers&quot; in 1941—the [[Design B-65 cruiser]]s—mostly in response to the new ''Alaska'' ships. They were never ordered due to the greater need for carriers.&lt;/ref&gt;
+
+''Hawaii'' was {{convert|808|ft|6|in}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|91|ft|1|in|m|1}} and a [[draft (nautical)|draft]] of {{convert|31|ft|10|in|m|1}}. She displaced {{convert|29779|LT}} as designed and up to {{convert|34253|LT}} at full combat load. The ship was powered by four [[General Electric]] geared [[steam turbine]] sets, each driving one propeller, and eight oil-fired [[Babcock &amp; Wilcox]] [[boiler]]s rated at {{convert|150000|shp|lk=on}} and a top speed of {{convert|33|kn|lk=in}}. The ship had a cruising range of {{convert|12000|nmi|lk=in}} at a speed of {{convert|15|kn|abbr=on}}.&lt;ref name=G122&gt;Gardiner &amp; Chesneau, p. 122&lt;/ref&gt;&lt;ref&gt;Egan, p. 36&lt;/ref&gt; She carried four [[floatplane]]s, housed in two [[hangar]]s,&lt;ref&gt;Garzke &amp; Dulin, p. 182&lt;/ref&gt; with a pair of [[aircraft catapult]]s mounted amidships.&lt;ref&gt;Friedman, p. 303&lt;/ref&gt;
+
+The ship was armed with a main battery of nine [[12&quot;/50 caliber Mark 8 gun|12&amp;nbsp;inch L/50 Mark 8]] guns in three triple [[gun turret]]s, two in a [[superfire|superfiring pair]] forward and one aft of the [[superstructure]].&lt;ref group=A&gt;L/50 refers to the length of the gun in terms of [[Caliber (artillery)|calibers]]. An L/50 gun is 50 times long as it is in bore diameter.&lt;/ref&gt; The secondary battery consisted of twelve [[5&quot;/38 caliber gun|5-inch L/38]] [[dual-purpose gun]]s in six twin turrets. Two were placed on the [[centerline (nautical)|centerline]] superfiring over the main battery turrets, fore and aft, and the remaining four turrets were placed on the corners of the superstructure. The light anti-aircraft battery consisted of 56 quad-mounted [[Bofors 40 mm|{{convert|40|mm|abbr=on}} Bofors]] guns and 34 single-mounted [[Oerlikon 20 mm cannon|{{convert|20|mm|abbr=on}} Oerlikon]] guns.&lt;ref name=G122/&gt; A pair of Mk 34 gun directors aided gunlaying for the main battery, while two Mk 37 directors controlled the 5-inch guns and a Mk 57 director aided the 40&amp;nbsp;mm guns.&lt;ref&gt;Friedman, p. 483&lt;/ref&gt; The main [[armored belt]] was {{convert|9|in|abbr=on|0}} thick, while the gun turrets had {{convert|12.8|in|abbr=on|0}} thick faces. The main armored deck was {{convert|4|in|abbr=on|0}} thick.&lt;ref name=G122/&gt;
+
+== Construction, conversion proposals and eventual fate ==
+Along with the five {{sclass-|Montana|battleship|2}}s and the final three ''Alaska''-class cruisers, the construction of ''Hawaii'' was suspended in May 1942 before work began. This freed materials and facilities so that they could be used to build additional ships which could be completed faster and were needed in the war zones, like [[anti-submarine warfare|anti-submarine]] escorts.&lt;ref name=&quot;1940 program&quot;&gt;&quot;USS ''Hawaii'' (CB-3); 1940 program &amp;ndash; never completed&quot;&lt;/ref&gt; Over {{convert|4000|LT|t}} of steel plates and shapes which had been destined for ''Hawaii'' was redirected to other ships in July 1942.&lt;ref name=&quot;G&amp;D&quot;/&gt; However, ''Hawaii'' was added back onto the construction queue on 25 May 1943, unlike CB-4 through CB-6, which were canceled on 24 June 1943.&lt;ref&gt;Whitley, p. 278&lt;/ref&gt; Her keel was laid on 20 December 1943,&lt;ref name=&quot;G&amp;D&quot;/&gt; and she was finally launched on 3 November 1945, about two years after ''Guam''.&lt;ref group=A&gt;Garzke and Dulin, p. 184 give a launching date of 11 March 1945, but [[:File:USS Hawaii launch.jpg|an official U.S. Navy photograph]], along with ''Hawaii''{{'}}s ''DANFS'' entry and Gardiner and Cheasneau, p. 122, appear to directly disprove this.&lt;/ref&gt; The ship was [[Ship Sponsor|sponsored]] by [[Elizabeth P. Farrington|Mary P. Farrington]], the wife of the [[Delegate (United States Congress)|delegate]] from the Territory of Hawaii to the [[United States House of Representatives]], [[Joseph Rider Farrington|Joseph Farrington]].&lt;ref name=&quot;Hawaii DANFS&quot;&gt;&quot;''Hawaii''&quot; in ''DANFS''&lt;/ref&gt; After her launch, little, if any, work was done before construction was halted in either February or April 1947&lt;ref group=A&gt;&quot;USS ''Hawaii'' (CB-3); 1940 program &amp;ndash; never completed&quot; gives 17 February; Garzke and Dulin, p. 184 gives 16 April.&lt;/ref&gt; due to the reduction in defense expenditures after [[World War II]];&lt;ref name=&quot;Hawaii DANFS&quot;/&gt; the ship was 82.4% complete when work was halted.&lt;ref name=&quot;1940 program&quot;/&gt; The turrets for the main battery had been fitted and the superstructure was mostly finished,&lt;ref name=&quot;G&amp;D&quot;/&gt; although the former were removed when the ship was moved into the reserve fleet at the [[Philadelphia Naval Shipyard]].&lt;ref name=&quot;1940 program&quot;/&gt;
+
+=== Guided-missile cruiser designs ===
+Similar to the incomplete battleship {{USS|Kentucky|BB-66|2}},&lt;ref group=A&gt;This similar proposal planned to take ''Kentucky'', an incomplete ''Iowa''-class battleship whose construction had also been halted, and convert her into the first guided missile battleship (BBG). However, this conversion never materialized, and ''Kentucky'' was scrapped in 1958.&lt;/ref&gt; ''Hawaii'' was considered for a conversion to be a test platform for the development of guided missiles in September 1946. Designated CB(SW), the cruisers' gun armament would have consisted of sixteen 3-inch/70 caliber guns in eight dual mounts. Most missiles would have been mounted toward the bow, while two &quot;missile launching pits&quot; would be located near the stern.&lt;ref name=&quot;G&amp;D&quot;/&gt; For this task, no armor would have been needed, and previously installed armor was to be taken off the ship when required.&lt;ref name=&quot;G&amp;D&quot;/&gt; These plans never came to fruition, so ''Hawaii'' remained in the Reserve Fleet, still incomplete.&lt;ref name=&quot;Hawaii DANFS&quot;/&gt;
+
+Two years later, in 1948, a similar conversion plan was put forth. This plan, designated Project SCB 26A, proposed that ''Hawaii'' be converted into a Ballistic Guided Missile Ship. This plan called for ''Hawaii'' to be completed with 12 vertical launchers for U.S.-made [[V-2 rocket|V-2]] [[short-range ballistic missile]]s and 6 launchers for the [[SSM-N-2 Triton]] surface-to-surface [[cruise missile]].&lt;ref name=Scarpaci19&gt;Scarpaci, p. 19&lt;/ref&gt; Triton was an attempt to give the Navy a reliable cruise missile that it could launch off of its ships. The design process began with an approval from the U.S. Navy in September 1946. After &quot;formulating performance objectives and possible design baselines&quot;, the designers settled on attempting to fit a {{convert|36000|lb|kg|adj=on}} ramjet-powered cruiser missile onto solid-fuel rocket boosters that could carry the missile {{convert|2000|nmi}} at [[Mach number|Mach]] 1.6&amp;ndash;2.5 in 1950. After lowering the ambitious goals to more realistic levels in 1955, a fully operational version was expected by 1965, but with tests for the [[SSM-N-8 Regulus|SSM-N-9/RGM-15 Regulus II]] planned for that year and the up-and-coming [[UGM-27 Polaris]] [[SLCM|submarine-launched cruise missile]], the project was terminated in 1957.&lt;ref&gt;Parsch, &quot;SSM-N-2&quot;&lt;/ref&gt; One source has a variation of this scheme, with the developmental XPM (Experimental Prototype Missile) from [[Operation Bumblebee]] replacing the Triton launchers. XPM eventually led to the [[RIM-8 Talos]] surface-to-air missile.&lt;ref&gt;Friedman, pp. 374-377&lt;/ref&gt;
+
+''Hawaii'' would have also been able to launch the [[Republic-Ford JB-2|JB-2 &quot;Loon&quot;]] cruise missile from a hydraulic catapult installed on her forward flight deck; lastly, an aircraft crane and twin aircraft catapults were to be added on the stern of the ship. Interestingly the conversion, as envisioned, would have looked similar to a completed {{sclass-|Graf Zeppelin|aircraft carrier|2}}.&lt;ref name=Scarpaci20&gt;Scarpaci, p. 20&lt;/ref&gt; The conversion was authorized in the same year (1948) and was scheduled to be completed in 1950; the ship's [[Hull classification symbol|classification]] was changed to CBG-3 to reflect the planned overhaul. However, the conversion was canceled in 1949, along with any other plans for surface ships equipped with ballistic missiles, due to the volatility of the rocket fuels and the shortcomings with guidance systems that were available.&lt;ref name=Scarpaci19/&gt;
+
+=== Large command ship ===
+[[File:USS Hawaii CB-3 Scrap.jpg|thumb|right|''Hawaii'' being towed to the breakers|alt=A clearly unfinished warship, with an incomplete superstructure and no gun turrets, is being moved by tugboats.]]
+Yet another conversion of ''Hawaii'', this time to a &quot;[[command ship|large command ship]]&quot;, was contemplated from August 1951.&lt;ref name=&quot;G&amp;D&quot;&gt;Garzke and Dulin, p. 184&lt;/ref&gt; In this role, she would have been similar to {{USS|Northampton|CLC-1|2}}, but larger. This conversion would have boasted expansive flag facilities and fully capable radar and communication systems for commanding carrier task forces, though there would have been no facilities for [[amphibious assault|amphibious operations]].&lt;ref name=&quot;G&amp;D&quot;/&gt;&lt;ref name=Scarpaci20/&gt; Armament would have consisted of sixteen [[5&quot;/54 caliber gun]]s in single mounts;&lt;ref name=Scarpaci20/&gt; this gun size was specified because [[3&quot;/50 caliber gun]]s were believed to be too light.&lt;ref name=&quot;G&amp;D&quot;/&gt; Two [[radar]]s would have been mounted: an [[AN/SPS-2]] on top of a forward tower, and an [[AN/SPS-8]] on the aft superstructure.&lt;ref name=Scarpaci20/&gt; In addition, an [[List of radars#Naval|SC-2]] was to be mounted on top of a short tower aft of the stack (though forward of the SPS-8); this would have been used for &quot;troposphere scatter communications&quot;.&lt;ref name=Scarpaci20/&gt;
+
+Two Mk37/25 [[Fire-control system|fire-control director]]s were planned, both fore and aft of the superstructure.&lt;ref name=Scarpaci20/&gt; The conversion plans were authorized,&lt;ref name=&quot;G&amp;D&quot;/&gt; and her classification was changed to CBC-1 to reflect this on 26 February 1952.&lt;ref name=&quot;Hawaii DANFS&quot;/&gt; Money to begin the project was included in the 1952 budget,&lt;ref&gt;Garzke &amp; Dulin, p. 189&lt;/ref&gt; but the only work done on the ship was the removal of the 12&quot; turrets,&lt;ref name=Scarpaci20/&gt; as it was intended that experience from ''Northampton'' should be analyzed before a full conversion.&lt;ref name=Breyer253&gt;Breyer, p. 253&lt;/ref&gt; However, when it was seen that a smaller and cheaper ship—like the light carrier {{USS|Wright|CVL-49|2}}—could do the same duty,&lt;ref name=Breyer253/&gt; the ''Hawaii'' project was canceled in 1953.&lt;ref name=Scarpaci20/&gt; She reverted to her original designation of CB-3 on 9 September 1954.&lt;ref name=&quot;G&amp;D&quot;/&gt;&lt;ref&gt;Breyer, pp. 251, 253&lt;/ref&gt;&lt;ref group=A&gt;The ''Dictionary of American Naval Fighting Ships'' notates this date as 9 October 1954.&lt;/ref&gt;
+
+===Polaris study===
+In February 1957, a study entitled &quot;Polaris Study&amp;ndash;CB-3&quot; was published, proposing that ''Hawaii'' be stripped of all her guns in favor of twenty Polaris missiles, mounted in the hull vertically in roughly the same location as the third main turret would have been located, two [[RIM-8 Talos|Talos]] [[surface-to-air missile]] (SAM) launchers, one each fore and aft, two [[RIM-24 Tartar|Tartar]] SAMs mounted on either side of the superstructure, and a single [[RUR-5 ASROC|ASROC]] [[anti-submarine weapon]] mounted where the second main turret would have been placed. Nothing further was done with the study.&lt;ref&gt;Friedman, pp. 400-401&lt;/ref&gt;
+
+===Disposal===
+On 9 June 1958, ''Hawaii'' was struck from the [[Naval Vessel Register]]&lt;ref name=&quot;G&amp;D&quot;/&gt;&lt;ref name=&quot;Hawaii DANFS&quot;/&gt;&lt;ref name=Breyer251&gt;Breyer, p. 251&lt;/ref&gt; and the ship was sold to the [[Boston Metals Company]] of Baltimore on 15 April 1959. The still-incomplete ''Hawaii'' was towed to Baltimore, arriving there on 6 January 1960, and was subsequently [[ship breaking|broken up]] for scrap.&lt;ref name=Breyer251/&gt;&lt;ref name=Whitley279&gt;Whitley, p. 279&lt;/ref&gt;
+
+== Notes ==
+{{Reflist|group=A}}
+
+== References ==
+{{Reflist|30em}}
+
+== Sources ==
+* {{cite book
+ | last1 = Breyer
+ | first1 = Siegfried
+ | title = Battleships and Battle Cruisers, 1905–1970
+ | location = Garden City, New York
+ | publisher = Doubleday
+ | year = 1973
+ | oclc = 702840
+ | isbn = 0-385-07247-3
+}}
+*{{cite book|author1=Dulin, Robert O., Jr. |author2=Garzke, William H., Jr. | title=Battleships: United States Battleships in World War II |location=Annapolis, Maryland |publisher=Naval Institute Press |year=1976 |isbn=1-55750-174-2 |oclc=29387525}}
+* {{cite book |last=Friedman|first=Norman |authorlink=Norman Friedman |title=U.S. Cruisers: An Illustrated Design History |publisher=Naval Institute Press |year=1984|location=[[Annapolis, Maryland]] |url= |doi= |isbn=0-87021-718-6}}
+*{{cite book|author1=Gardiner, Robert |author2=Chesneau, Roger | title=Conway's All the World's Fighting Ships, 1922–1946 |location=Annapolis, Maryland |publisher=Naval Institute Press |year=1980 |isbn=0-87021-913-8 |oclc=18121784}}
+* {{cite DANFS | title = Hawaii | url = http://www.history.navy.mil/danfs/h3/hawaii.htm | accessdate=14 October 2008|link=no}}
+* {{cite web |url=http://www.designation-systems.net/dusrm/app1/ssm-n-2.html |title=SSM-N-2 |accessdate=22 January 2009 |last=Parsch |first=Andreas |year=2003 |publisher=designation-systems.net }}
+* {{cite book |last1=Scarpaci |first1=Wayne |title=Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942&amp;ndash;1964: An Illustrated Technical Reference |date=April 2008 |publisher=Nimble Books LLC |isbn=1-934840-38-6 |oclc= |url=https://books.google.com/books?id=L4z8UIRymR4C}}
+* {{cite web|url=http://www.history.navy.mil/photos/sh-usn/usnsh-h/cb3.htm |title=USS ''Hawaii'' (CB-3); 1940 program &amp;ndash; never completed |accessdate=31 October 2008|year=2000 |publisher=Navy Department, Naval History &amp; Heritage Command}}
+* {{cite book
+| last        = Whitley
+| first       = M. J.
+| title       = Cruisers of World War Two: An International Encyclopedia
+| location    = Annapolis, Maryland
+| publisher   = Naval Institute Press
+| year        = 1995
+| isbn        = 1-55750-141-6
+| oclc        = 34089382}}
+
+== External links ==
+{{Commons category|USS Hawaii (CB-3)}}
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-h/cb3.htm Navy photographs of ''Hawaii'' (CB-3)]
+
+{{Alaska class large cruiser}}
+
+{{Good article}}
+
+{{DEFAULTSORT:Hawaii (Cb-3)}}
+[[Category:Alaska-class cruisers]]
+[[Category:Ships built in Camden, New Jersey]]
+[[Category:Cancelled ships of the United States Navy]]
+[[Category:United States Navy Hawaii-related ships]]
+[[Category:1945 ships]]</text>
+      <sha1>2hm00nx0xa2m7qh576q4frhis0lniqn</sha1>
+    </revision>
+  </page>
+</mediawiki>

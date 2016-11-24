@@ -1,0 +1,167 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>U-5-class submarine (Austria-Hungary)</title>
+    <ns>0</ns>
+    <id>20047323</id>
+    <revision>
+      <id>736157319</id>
+      <parentid>704244836</parentid>
+      <timestamp>2016-08-25T15:32:57Z</timestamp>
+      <contributor>
+        <username>Sietse Snel</username>
+        <id>94775</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */ fix deprecated reference tag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17357">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SM U-5 (Austria-Hungary) postcard.jpg|300px|''U-5'', the [[lead ship|lead boat]] of the ''U-5'' class, as seen in a pre-war postcard]]
+|Ship caption=''U-5'', the [[lead ship|lead boat]] of the ''U-5'' class, as seen in a pre-war postcard
+}}
+{{Infobox ship class overview
+|Builders=[[Whitehead &amp; Co.]], [[Fiume]]&lt;ref name=Conway&gt;Gardiner, p. 343.&lt;/ref&gt;
+|Operators={{navy|Austria-Hungary}}
+|Class before=[[U-3 class submarine (Austria-Hungary)|''U-3''-class submarine]]
+|Class after= {{sclass|U-7|submarine|1}}
+|Built range=1909–1911
+|In commission range=1910–1918
+|Total ships completed=3
+|Total ships lost=2
+|Total ships preserved=0
+}}
+{{Infobox ship characteristics
+|Ship type=[[submarine]]
+|Ship displacement=*{{convert|240|MT|ST|abbr=on}} surfaced
+*{{convert|273|MT|ST|abbr=on}} submerged&lt;ref name=Conway /&gt;
+|Ship length={{convert|105|ft|4|in|m|abbr=on}}&lt;ref name=Conway /&gt;
+|Ship beam={{convert|13|ft|9|in|m|abbr=on}}&lt;ref name=Conway /&gt;
+|Ship draft={{convert|12|ft|10|in|m|abbr=on}}&lt;ref name=Conway /&gt;
+|Ship propulsion=*2 × shafts
+*2 × 6-cylinder [[gasoline engine]]s, {{convert|500|bhp|abbr=on}} total&lt;ref name=Sieche-17&gt;Sieche, p. 17.&lt;/ref&gt;
+*2 × [[electric motor]]s, {{convert|230|shp|abbr=on}} total&lt;ref name=Conway /&gt;
+|Ship speed=*{{convert|10.75|knots|km/h}} surfaced
+*{{convert|8.5|knots|km/h}} submerged&lt;ref name=Conway /&gt;
+|Ship range=*{{convert|800|nmi|km|abbr=on}} @ {{convert|8.5|knots|km/h}} surfaced
+*{{convert|48|nmi|km|abbr=on}} @ {{convert|6|knots|km/h|1}} submerged&lt;ref name=Conway /&gt;
+|Ship endurance=
+|Ship test depth=
+|Ship complement=19&lt;ref name=Conway /&gt;
+|Ship armament=2 × {{convert|45|cm|in|1|abbr=on}} torpedo tubes (both in front); 4 torpedoes&lt;ref name=Sieche-22 /&gt;
+|Ship notes=
+}}
+|}
+The '''''U-5'' class''' was a [[ship class|class]] of three [[submarine]]s or [[U-boats]] that were operated by the [[Austro-Hungarian Navy]] ({{lang-de|Kaiserliche und Königliche Kriegsmarine ''or'' K.u.K. Kriegsmarine}}) before and during [[World War I]]. The class was a part of the Austro-Hungarian Navy's efforts to competitively evaluate three foreign submarine designs.
+
+The design of the boats was based upon [[John Philip Holland]]'s submarine design and featured a single, [[teardrop hull]], which resembled the design of modern nuclear submarines.&lt;ref name=Sieche-21&gt;Sieche, p. 21.&lt;/ref&gt; The class members were just over {{convert|105|ft|m}} long and [[displacement (ship)|displaced]] {{convert|240|MT|ST}} surfaced and {{convert|273|MT|ST}} submerged. All were originally equipped with two bow torpedo tubes and could carry four torpedoes. The first two boats, ''U-5'' and ''U-6'', built specifically for the Austro-Hungarian Navy, to the same design as the [[United States C class submarine]] were partially constructed in the [[United States]] and completed at [[Whitehead &amp; Co.]] at [[Rijeka|Fiume]]. The third was completely constructed by Whitehead's at Fiume and purchased by [[Austria-Hungary]] to bolster their U-boat fleet after the outbreak of World War I.
+
+All three boats had successes during World War I; between them they sank five ships with a combined tonnage of 22,391. In addition they captured seven ships as [[prize (law)|prize]]s and damaged {{ship|French battleship|Jean Bart|1911|2}}, a French [[dreadnought]] of 22,189 tons displacement. All three boats were sunk during the war, though ''U-5'', the [[lead boat]] of the class, was raised and recommissioned after her sinking. After the war's end, ''U-5'', the only survivor of the class, was ceded to Italy as a [[war reparation]] and was broken up in 1920.
+
+== Design and construction ==
+In 1904, after allowing the navies of other countries to pioneer submarine developments, the [[Austro-Hungarian Navy]] ordered the Austrian Naval Technical Committee (MTK) to produce a submarine design. The January 1905 design developed by the MTK and other designs submitted by the public as part of a design competition were all rejected by the Navy as impracticable. They instead opted to order two submarines each of designs by [[Simon Lake]], [[Friedrich Krupp Germaniawerft|Germaniawerft]], and [[John Philip Holland]] for a competitive evaluation. The two Holland submarines comprised the ''U-5'' class.&lt;ref name=Con-340&gt;Gardiner, p. 340.&lt;/ref&gt;&lt;ref group=Note&gt;The Lake design became the [[U-1 class submarine (Austria-Hungary)|''U-1'' class]] while the Germaniawerft design became the [[U-3 class submarine (Austria-Hungary)|''U-3'' class]].&lt;/ref&gt; The Navy authorized two boats, ''U-5'' and ''U-6'', from [[Whitehead &amp; Co.]] of [[Fiume]] in 1906.&lt;ref name=Gib-384&gt;Gibson and Prendergast, p. 384.&lt;/ref&gt;
+
+The ''U-5'' class was built to the same design as [[United States C class submarine|the C class for the US Navy]]&lt;ref name=&quot;Fontenoy&quot;&gt;{{Cite book  | last1 =  Fontenoy| first1 =  Paul E.| title = Submarines: An Illustrated History of Their Impact| date =  2007| publisher =  ABC-CLIO| location =  | isbn = 978-1-85109-563-6 | pages =  156}}&lt;/ref&gt; and was built by [[Robert Whitehead]]'s firm of Whitehead &amp; Co. under license from Holland and his company, [[Electric Boat]].&lt;ref name=Conway /&gt; Components for the first two Austrian boats were manufactured by the Electric Boat Company and assembled at Fiume, while the third boat was a speculative private venture by Whitehead that failed to find a buyer and was purchased by Austria-Hungary upon the outbreak of World War I.&lt;ref name=&quot;Fontenoy&quot;/&gt;
+
+The ''U-5'' class boats had a single-[[hull (watercraft)|hull]]ed design with a [[teardrop hull|teardrop-shape]] that bore a strong resemblance to modern nuclear submarines.&lt;ref name=Sieche-21 /&gt; The boats were just over {{convert|105|ft|m}} long and [[displacement (ship)|displaced]] {{convert|240|t|ST}} surfaced, and {{convert|273|t|ST}} submerged.&lt;ref name=Conway /&gt; The torpedo tubes featured unique, cloverleaf-shaped design [[hatch (nautical)|hatch]]es that rotated on a central axis.&lt;ref name=Conway /&gt; The ships were powered by twin 6-cylinder [[gasoline engine]]s while surfaced, but suffered from inadequate ventilation which resulted in frequent intoxication of the crew.&lt;ref name=Con-340 /&gt; While submerged, they were propelled by twin [[electric motor]]s.&lt;ref name=Conway /&gt;
+
+The first two boats, ''U-5'' and ''U-6'', were ordered by the Austro-Hungarian Navy for evaluation and were partially assembled in the United States, shipped to Fiume, and riveted together by Whitehead &amp; Co., which, author Edwin Sieche reports, &quot;caused a lot of trouble&quot;.&lt;ref name=Sieche-21 /&gt; ''U-5'' was launched in February 1909 and was followed in June by the launch of ''U-6''.&lt;ref name=Conway /&gt; Both boats were [[ship commissioning|commissioned]] by April 1910.&lt;ref name=Sieche-21_22&gt;Sieche, pp. 21–22.&lt;/ref&gt;
+
+The third boat, originally named ''SS-3'', was built on speculation entirely at Whitehead's in Fiume. The boat's design featured improvements in the electrical and mechanical systems&lt;!-- source does not detail what those improvements were --&gt;.&lt;ref name=Conway /&gt; Gibson and Prendergast report that, when built, ''SS-3'' was powered by electric motors for both surface and submerged running. When the surface performance of the electric motors proved disappointing in trials, ''SS-3''{{'}}s power-plant was rebuilt to match the gasoline/electric combination used in ''U-5'' and ''U-6''.&lt;ref&gt;Gibson and Prendergast, pp. 384–85.&lt;/ref&gt; ''SS-3'' was launched in March 1911 and was offered to the Austro-Hungarian Navy, but because the evaluation of the first two ''U-5''-class boats was still underway, they declined to purchase.&lt;ref name=Conway /&gt;
+
+As built, the ''U-5''-class boats were armed with two {{convert|45|cm|in|1|sp=us|adj=on}} bow [[torpedo tube]]s and could carry a supply of four torpedoes.&lt;ref name=Sieche-17 /&gt; By 1915, all had received a 3.7&amp;nbsp;cm/23 (1.5&amp;nbsp;in) [[deck gun]].&lt;ref name=Sieche-21_22 /&gt;
+
+== Service career ==
+''U-5'' and ''U-6'' were both [[commission (ship)|commission]]ed into the [[Austro-Hungarian Navy]] by April 1910, and served as training boats through 1914, making as many as ten training cruises per month. During their early years, each boat was demonstrated to a foreign naval delegation; ''U-5'' to a [[Peru]]vian detachment in 1911, ''U-6'' to a [[Norway|Norwegian]] group in 1910.&lt;ref name=Sieche-21_22 /&gt; At the beginning of [[World War I]] in August 1914, ''U-5'' and ''U-6'' comprised half of the operational U-boat fleet of the Austro-Hungarian Navy.&lt;ref name=Con-341&gt;Gardiner, p. 341.&lt;/ref&gt;
+
+In the three years after ''SS-3''{{'}}s March 1911 launch, Whitehead's attempted to sell the boat to the navies of [[Peru]], [[Portugal]], the [[Netherlands]], [[Brazil]], and [[Bulgaria]], before the Austro-Hungarian Navy rejected an offer for the second time.&lt;ref name=Conway /&gt; With the outbreak of war, however, the Austro-Hungarian Navy purchased the unsold submarine to quickly bolster its fleet.&lt;ref name=Con-341 /&gt; Although provisionally commissioned as ''U-7'', she was commissioned as ''U-12'' in August 1914.&lt;ref name=Sieche-21_22 /&gt;
+
+By late December 1914, all three of the ''U-5''-class boats were based at the naval base at [[Cattaro]] and all took part in combat patrols.&lt;ref name=Conway /&gt; Between the three boats, they sank five ships with a combined tonnage of 22,391,&lt;ref group=Note name=tonnage&gt;Merchant ship tonnage is in [[gross register ton]]s. Warship tonnage is in tons of [[displace (ship)|displacement]].&lt;/ref&gt; captured seven ships, and damaged one dreadnought.&lt;ref name=U5-ships&gt;{{cite web | last = Helgason | first = Guðmundur | title = Ships hit during WWI: Ships hit by KUK U5 | url = http://uboat.net/wwi/ships_hit/search.php?boat=KUK+U5 | work = U-Boat War in World War I | publisher = Uboat.net | accessdate = 24 November 2008 }}&lt;/ref&gt;&lt;ref name=U6-ships&gt;{{cite web | last = Helgason | first = Guðmundur | title = Ships hit during WWI: Ships hit by KUK U6 | url = http://uboat.net/wwi/ships_hit/search.php?boat=KUK+U6 | work = U-Boat War in World War I | publisher = Uboat.net | accessdate = 24 November 2008 }}&lt;/ref&gt;&lt;ref name=U12-ships&gt;{{cite web | last = Helgason | first = Guðmundur | title = Ships hit during WWI: Ships hit by KUK U12 | url = http://uboat.net/wwi/ships_hit/search.php?boat=KUK+U12 | work = U-Boat War in World War I | publisher = Uboat.net | accessdate = 24 November 2008 }}&lt;/ref&gt; ''U-6'' was the least successful, sinking a single ship of {{GRT|756}};&lt;ref name=U6-ships /&gt; ''U-5'' was the most successful, sinking four ships with of a combined {{GRT|21,604}},&lt;ref name=U5-ships /&gt; including the French [[armoured cruiser]] [[French armoured cruiser Léon Gambetta|''Léon Gambetta'']].&lt;ref name=Sieche-22&gt;Sieche, p. 22.&lt;/ref&gt; ''U-12'' damaged, but did not sink, the largest ship torpedoed by any of the ''U-5'' class when she hit the French battleship {{ship|French battleship|Jean Bart|1911|2}} on 21 December 1914.&lt;ref name=Sieche-22 /&gt;
+
+Of the three boats of the class, only ''U-5'' survived the war intact.&lt;ref name=Conway /&gt; ''U-12'' was sunk with the loss of all hands when she hit a [[naval mine|mine]] near [[Venice]] in August 1915,&lt;ref name=Grant-162&gt;Grant, p. 162.&lt;/ref&gt;&lt;ref group=Note&gt;Grant (p. 162), Gibson and Prendergast (p. 73), and Halpern (p. 150) report ''U-12''{{'}}s loss in August 1915, while Sieche (p. 23) and Gardiner (p. 343) report the loss in August 1916.&lt;/ref&gt; while ''U-6'' was scuttled by her crew in May 1916 after becoming trapped in an [[anti-submarine net]] that was a part of the [[Otranto Barrage]].&lt;ref name=Grant-162 /&gt; ''U-5'' herself sank after hitting an Austro-Hungarian mine during a training exercise, but was raised, repaired and recommissioned before the war's end.&lt;ref name=Sieche-22 /&gt; ''U-5'' was ceded to Italy as a [[war reparation]] and scrapped in 1920.&lt;ref name=Sieche-22 /&gt;
+
+== Class members ==
+{{Multiple image|direction=vertical|align=right|image1=CruiserLeonGambetta.jpg|image2=Jean Bart Cuirasse 1913.png|width=250|caption2={{SMU|U-5|Austria-Hungary|2}} sank the French cruiser {{ship|French armoured cruiser|Léon Gambetta||2}} in April 1915 with heavy loss of life.|{{ship|French battleship|Jean Bart|1911|2}} was torpedoed by {{SMU|U-12|Austria-Hungary|2}} in December 1914, but the crew of the French battleship was able to keep the ship afloat.}}
+
+=== SM ''U-5'' ===
+{{main|SM U-5 (Austria-Hungary)}}
+SM ''U-5'' was [[keel laying|laid down]] in April 1907 and [[launch (ship)|launch]]ed in February 1909. She was [[commission (ship)|commission]]ed into the Austro-Hungarian Navy in April 1910, and served as a training boat—sometimes making as many as ten cruises a month—through the beginning of the First World War in 1914.&lt;ref name=Sieche-22 /&gt; The submarine scored most of her wartime successes during the first year of the war while under the command of [[Georg Ritter von Trapp]]. The French armoured cruiser [[French armoured cruiser Léon Gambetta|''Léon Gambetta'']], sunk in April 1915, was the largest ship sunk by ''U-5''.&lt;ref name=U5-ships /&gt; In May 1917, ''U-5'' hit a [[mine (naval)|mine]] and sank with the loss of six men. She was raised, rebuilt, and recommissioned, but sank no more ships. At the end of the war, ''U-5'' was ceded to Italy as a [[war reparation]], and scrapped in 1920.&lt;ref name=Sieche-22 /&gt; In all, ''U-5'' sank four ships totaling 21,604 tons.&lt;ref name=U5-ships /&gt;
+
+=== SM ''U-6'' ===
+{{main|SM U-6 (Austria-Hungary)}}
+SM ''U-6'' was [[keel laying|laid down]] in February 1908 and [[launch (ship)|launch]]ed the following June. She served as a training boat after her July 1910 [[commission (ship)|commission]]ing into the Austro-Hungarian Navy. She served in that capacity through the beginning of World War I in 1914, making as many as ten training cruises a month. ''U-6'' scored only one wartime success, sinking a French [[destroyer]] in March 1916. In May that same year, she became entangled in [[anti-submarine net]]ting deployed as part of the [[Otranto Barrage]]. Coming under fire from [[Naval drifter|drifters]] running the nets, ''U-6'' was abandoned and sunk. All of her crewmen were rescued and were held in captivity through the end of the war.&lt;ref name=Sieche-22 /&gt;
+
+=== SM ''U-12'' ===
+{{main|SM U-12 (Austria-Hungary)}}
+SM ''U-12'' was built on speculation by [[Whitehead &amp; Co.]] of [[Fiume]] under the name ''SS-3''. She was [[keel laying|laid down]] in 1909 and [[launch (ship)|launch]]ed in March 1911 and featured improvements in the electrical and mechanical systems from the Holland design of her older sister boats, ''U-5'' and ''U-6''. Whitehead's tried selling ''SS-3'' to several different navies, but she was finally bought by the Austro-Hungarian Navy after the outbreak of World War I, despite having been rejected twice before. She was [[commission (ship)|commission]]ed as ''U-12'' in August 1914.&lt;ref name=Sieche-21_22 /&gt; She sank only one ship during the war, a Greek [[cargo ship]] in May 1915, but had earlier captured six [[Montenegro|Montenegrin]] sailing vessels as [[prize (law)|prize]]s in March.&lt;ref name=U12-ships /&gt; ''U-12'' also damaged, but did not sink, the French battleship {{ship|French battleship|Jean Bart|1911|2}} in December 1914.&lt;ref name=Gib-69&gt;Gibson and Prendergast, p. 69.&lt;/ref&gt; While searching for targets in the vicinity of [[Venice]] in August 1915, ''U-12'' struck a mine that blew her stern off, and sank with all hands,&lt;ref name=Grant-162 /&gt; becoming the first Austro-Hungarian submarine sunk in the war.&lt;ref name=Halp-150&gt;Halpern, p. 150.&lt;/ref&gt; Her wreck was salvaged the next year by the Italians, who interred the bodies of ''U-12''{{'}}s crewmen in a Venetian cemetery.&lt;ref name=Sieche-23&gt;Sieche, p. 23.&lt;/ref&gt;
+
+== Notes ==
+{{Reflist|group=Note|2}}
+
+== References ==
+{{Reflist|2}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last = Gardiner | first = Robert, ed. | title = Conway's All the World's Fighting Ships, 1906–1921 | location = [[Annapolis, Maryland]] | publisher = [[Naval Institute Press]] | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 }}
+* {{cite book | last1 = Gibson | first1 = R. H. | last2=Prendergast | first2=M. &lt;!-- not the American painter --&gt; | title = The German Submarine War, 1914–1918 | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2003 | origyear = 1931 | isbn = 978-1-59114-314-7 | oclc = 52924732 }}
+* {{cite book | last = Grant | first = Robert M. | title = U-boats Destroyed: The Effect of Anti-submarine Warfare, 1914–1918 | location = [[Penzance]] | publisher = Periscope | origyear = 1964 | year = 2002 | isbn = 978-1-904381-00-6 | oclc = 50215640 }}
+* {{cite book | last = Halpern | first = Paul G. | title = A Naval History of World War I | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 1994 | isbn = 978-1-55750-352-7 | oclc = 57447525 }}
+* {{cite book | last = Sieche | first = Erwin F. | chapter = Austro-Hungarian Submarines | title = Warship, Volume 2 | publisher = Naval Institute Press | year = 1980 | isbn = 978-0-87021-976-4 | oclc = 233144055 }}
+{{Refend}}
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+{{U-5 class submarines (Austria-Hungary)}}
+{{Austro-Hungarian submarine classes}}
+
+{{Good article}}
+
+{{DEFAULTSORT:U-5 Class Submarine (Austria-Hungary)}}
+[[Category:Submarine classes]]
+[[Category:U-5-class submarines| ]]</text>
+      <sha1>5nl8rhb94x8ucigw12oipzg1yggogre</sha1>
+    </revision>
+  </page>
+</mediawiki>

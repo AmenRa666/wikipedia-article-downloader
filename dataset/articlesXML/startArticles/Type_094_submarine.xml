@@ -1,0 +1,175 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Type 094 submarine</title>
+    <ns>0</ns>
+    <id>3717560</id>
+    <revision>
+      <id>751047815</id>
+      <parentid>751014196</parentid>
+      <timestamp>2016-11-23T01:45:18Z</timestamp>
+      <contributor>
+        <username>RovingPersonalityConstruct</username>
+        <id>14751539</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9493">{{Use dmy dates|date=May 2016}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Jin class SSBN.svg|300px]]
+|Ship caption=Profile of the Type 094 
+}}
+|-
+{{Infobox ship image
+|Ship image=[[File:Jin (Type 094) Class Ballistic Missile Submarine.JPG|300px]]
+|Ship caption= Type 094 submarine
+}}
+{{Infobox ship class overview
+|Name= Type 094 (Jin class)
+|Builders=[[Bohai Shipyard]], [[Huludao]], China
+|Operators={{navy|CHN}} 
+|Class before=[[Type 092 submarine|Type 092 (Xia class)]]
+|Class after=[[Type 096 submarine|Type 096 (Tang class)]]
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=
+|In commission range= 2007–present&lt;ref name=&quot;cmpr2010&quot;&gt;{{Cite report |author=United States Department of Defense |authorlink=United States Department of Defense |title=Annual Report To Congress: Military and Security Developments Involving the People’s Republic of China 2010 |url=http://www.defense.gov/pubs/pdfs/2010_CMPR_Final.pdf |pages=3 (pp12 of PDF) |accessdate=21 April 2015}}&lt;/ref&gt;
+|Total ships building=
+|Total ships planned=8 (projected)&lt;ref name=&quot;Fisher_2015-04-19&quot;&gt;{{cite web |last1=Fisher |first1=Richard D, Jr. |url=http://www.janes.com/article/50761/us-upgrades-assessment-of-china-s-type-094-ssbn-fleet |title=US upgrades assessment of China's Type 094 SSBN fleet |website=IHS Jane's 360 |date=19 April 2015 |accessdate=5 October 2015}}&lt;/ref&gt;
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=4&lt;ref name=&quot;oni2015_20&quot;&gt;{{Cite report |author=United States Office of Naval Intelligence |authorlink=Office of Naval Intelligence |title=The PLA Navy: New Capabilities and Missions for the 21st Century |url=http://www.oni.navy.mil/Intelligence_Community/china_media/2015_PLA_NAVY_PUB_Print.pdf |pages=20 |accessdate=21 April 2015}}&lt;/ref&gt;
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship class=
+|Ship type=[[Ballistic missile submarine]]
+|Ship tonnage= 11,000 tons submerged.&lt;ref&gt;http://news.usni.org/2014/06/09/chinese-weapons-worry-pentagon&lt;/ref&gt;
+|Ship displacement=
+|Ship tons burthen=
+|Ship length={{convert|135|m|ftin|abbr=on}}&lt;ref name=&quot;fas_2007-07-05&quot;&gt;{{cite web |url=https://fas.org/blogs/security/2007/07/new_chinese_ballistic_missile/ |title=New Chinese Ballistic Missile Submarine Spotted |last=Kristensen |first=Hans M. |date=5 July 2007 |website=fas.org |publisher=Federation of American Scientists |access-date=21 April 2015}}&lt;/ref&gt;
+|Ship beam={{convert|12.5|m|ftin|abbr=on}}
+|Ship height=
+|Ship drought=
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=Nuclear reactor, 1 shaft
+|Ship sail plan=
+|Ship speed=
+|Ship range=Unlimited
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=''Missiles'': 12 [[JL-2|JL-2 SLBM]]
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The '''Type 094''' ({{zh|c=094型核潜艇}}; Chinese designation: 09-IV; [[NATO reporting name]]: '''[[Jin dynasty (265–420)|''Jin'']] class''') is a class of [[ballistic missile submarine]] developed by China for the [[People's Liberation Army Navy Submarine Force]]. The Type 094 succeeds the [[Type 092 submarine]].
+
+==Background==
+The Type 094 was first spotted in 2006 on commercial satellite imagery of the Xiaopingdao Submarine Base. It was noted as being longer than the Type 092.&lt;ref name=&quot;fas_2007-07-05&quot;/&gt; Two Type 094s were spotted at the [[Bohai Shipyard]] in May 2007, although it was not clear if these included the one spotted in 2006.&lt;ref&gt;{{cite web |url=https://fas.org/blogs/security/2007/10/two_more_chinese_ssbns_spotted/ |title=Two More Chinese SSBNs Spotted |last=Kristensen |first=Hans M. |date=4 October 2007 |website=fas.org |publisher=Federation of American Scientists |access-date=21 April 2015}}&lt;/ref&gt;
+
+One was operational in 2010,&lt;ref name=&quot;cmpr2010&quot;/&gt; three in 2013,&lt;ref name=&quot;cmpr2013&quot;/&gt; and four in 2015.&lt;ref name=&quot;oni2015_20&quot;/&gt; As many as eight may enter service by 2020.&lt;ref name=&quot;Fisher_2015-04-19&quot;/&gt;
+
+The [[PRC]] is interested in augmenting its [[ICBM]] forces with [[SSBN]]s to enhance its comprehensive nuclear deterrent force.&lt;ref&gt;{{cite web|url=http://chinapower.csis.org/ssbn/|title=Does China have an effective sea-based nuclear deterrent?|publisher=ChinaPowerCSIS}}&lt;/ref&gt; Nuclear deterrent patrols commenced in December 2015.&lt;ref&gt;{{Cite journal|last=Fisher|first=Richard D., Jr.|title=China advances sea- and land-based nuclear deterrent capabilities|journal=Jane's Defence Weekly|volume=53|issue=6|date=16 December 2015|publisher=Jane's Information Group|location=Surrey, UK|issn=0265-3818}}&lt;/ref&gt;
+
+==Description==
+[[File:JL-1 and JL-2.PNG|thumb|left|upright|JL-1 and JL-2 missiles]]
+The Type 094 is armed with 12 [[JL-2]] [[Submarine-launched ballistic missile|SLBM]]s, each with an estimated range of {{convert|7400|km|mi|abbr=on}}.&lt;ref name=&quot;cmpr2013&quot;&gt;{{Cite report |author=United States Department of Defense |authorlink=United States Department of Defense |date=May 2013 |title=Annual Report To Congress: Military and Security Developments Involving the People’s Republic of China 2013 |url=http://www.defense.gov/pubs/2013_China_Report_FINAL.pdf |pages=6 (pp14 of PDF) |accessdate=24 January 2015}}&lt;/ref&gt;&lt;ref name=&quot;nasic&quot;&gt;{{Cite report |author=National Air and Space Intelligence Center |authorlink=National Air and Space Intelligence Center |date=2013 |title=Ballistic &amp; Cruise Missile Threat |url=http://www.25af.af.mil/shared/media/document/AFD-130710-054.pdf |page=25 |accessdate=21 April 2015}}&lt;/ref&gt; According to ''Global Security'', the missile reportedly can carry 3 to 4 ([[MIRV]]) nuclear warheads.&lt;ref&gt;http://www.globalsecurity.org/wmd/world/china/jl-2.htm&lt;/ref&gt; The Type 094 and JL-2 will give China &quot;its first credible sea-based nuclear strike capability.&quot;&lt;ref name=&quot;cmpr2009&quot;&gt;{{Cite journal | title= Military Power of the People's Republic of China 2009 |url=http://www.defense.gov/Portals/1/Documents/pubs/China_Military_Power_Report_2009.pdf | publisher=Office of the Secretary of Defense |page=48 (pp60 of PDF)}}&lt;/ref&gt;
+
+globalsecurity.org notes that a Type 094 patrolling just northeast of the [[Kuril Islands]] would be able to strike three-quarters of the continental United States;&lt;ref name=&quot;gs_type094&quot;&gt;{{cite web |editor-last1=Pike |editor-first1=John |url=http://www.globalsecurity.org/wmd/world/china/type_94.htm |title=Type 094 Jin-class Ballistic Missile Submarine |website=globalsecurity.org |date=20 January 2015 |accessdate=5 October 2015}}&lt;/ref&gt; launching from Chinese coastal waters would barely reach the [[Aleutian Islands]].&lt;ref name=&quot;gs_jl2&quot;&gt;{{cite web |editor1-last=Pike |editor1-first=John |url=http://www.globalsecurity.org/wmd/world/china/jl-2.htm |title=JL-2 (CSS-NX-14) |website=globalsecurity.org |date=20 March 2014 |accessdate=5 October 2015}}&lt;/ref&gt; Thomas-noone and Medcalf note that the Type 094s noisiness would make it difficult for it to reach and maintain patrol areas where it could strike at the continental United States; no such limitations would exist against Indian targets.&lt;ref name=&quot;Thomas-noone-2015-09&quot;&gt;{{Cite report |last1=Thomas-noone |first1=Brendan |last2=Medcalf |first2=Rory |date=September 2015 |title=Nuclear-armed submarines in Indo-Pacific Asia: Stabiliser or menace? |url=http://www.lowyinstitute.org/files/nuclear-armed-submarines-in-indo-pacific-asia-stabiliser-or-menace_0.pdf |publisher= [[Lowy Institute for International Policy]]|accessdate=5 October 2015 |page=6 (pp8 of PDF)}}&lt;/ref&gt;
+
+== Noise ==
+
+In 2009, USN ONI listed the Type 094 as being slightly noisier than [[Delta III-class submarine|Project 667BDR]] (NATO reporting name Delta III) from the late-1970s,&lt;ref name=&quot;oni_2009&quot;&gt;{{Cite report |author=Office of Naval Intelligence |authorlink=Office of Naval Intelligence |date=August 2009 |title=The People's Liberation Army Navy, A Modern Navy with Chinese Characteristics |url=https://fas.org/irp/agency/oni/pla-navy.pdf |accessdate=24 January 2015 |page=22 (pp25 of PDF)}}&lt;/ref&gt; some of which were in service through 2015 with the Russian navy.&lt;ref name=&quot;Novichkov_2015-08-13&quot;&gt;{{cite web |last1=Novichkov |first1=Nikolai |url=http://www.janes.com/article/53643/russia-s-new-maritime-doctrine |title=Russia's new maritime doctrine |website=IHS Jane's 360 |date=13 August 2015 |accessdate=5 October 2015}}&lt;/ref&gt;
+
+== Type 094A ==
+The Type 094A is a variant with a modified sail; the sail appears to incorporate features from one installed on a modified Type 093 (dubbed Type 093B by observers.)&lt;ref name=&quot;Fisher_2016-07-15&quot;&gt;{{cite web |last1=Fisher |first1=Richard D, Jr. |url=http://www.janes.com/article/62282/images-show-possible-new-variant-of-china-s-type-094-ssbn |title=Images show possible new variant of China's Type 094 SSBN |website=IHS Jane's 360 |date=15 July 2016 |accessdate=22 November 2016}}&lt;/ref&gt;
+
+==See also==
+*[[Type 093 submarine]] – a Chinese SSN class
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.haijun360.com/news/HQT/2012/13/121323946HFJ69GFD45C9HE2014K2.html 094 ballistic missile submarine] (in Chinese)
+
+{{Ship classes of the Chinese Navy|state=collapsed}}
+{{SSBN classes in service|state=collapsed}}
+
+[[Category:Type 094 submarines| ]]
+[[Category:Submarine classes]]
+[[Category:Ballistic missile submarines]]</text>
+      <sha1>8sn60nkdv9zduf39n9posd1w0g2vqy4</sha1>
+    </revision>
+  </page>
+</mediawiki>

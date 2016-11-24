@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Runaway Scrape</title>
+    <ns>1</ns>
+    <id>6400864</id>
+    <revision>
+      <id>716589901</id>
+      <parentid>716587687</parentid>
+      <timestamp>2016-04-22T15:57:02Z</timestamp>
+      <contributor>
+        <username>Maile66</username>
+        <id>3102801</id>
+      </contributor>
+      <comment>/* Years required */ I think I fixed it all now</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4407">
+{{ArticleHistory
+|currentstatus=FA
+|maindate= 21 April 2016
+
+|action1=WAR
+|action1date=04:49, 28 December 2014 (UTC)
+|action1link=Wikipedia:WikiProject Military history/Assessment/Runaway Scrape/Archive1
+|action1result=not approved
+|action1oldid=639836747
+
+|action2=WAR
+|action2date=03:06, 26 September 2015 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/Runaway Scrape
+|action2result=approved
+|action2oldid=681822727
+
+|action3=FAC
+|action3date=2015-11-07
+|action3link=Wikipedia:Featured article candidates/Runaway Scrape/archive1
+|action3result=promoted
+|action3oldid=687938170
+}}
+{{WikiProjectBannerShell|1=
+{{MILHIST|class = FA|A-Class=pass|b1=y|b2=y|b3=y|b4=y|b5=y|US=y}}
+{{WikiProject United States|class = FA|importance=low|TX=yes|TX-importance=low}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 125K
+|counter = 1
+|minthreadsleft = 0
+|algo = old(90d)
+|archive = Talk:Runaway Scrape/Archive %(counter)d
+}}
+{{archives|bot=MiszaBot I|age=90}}
+
+== Years required ==
+
+The timeline of events in this article is very difficult for anyone to follow who is not familiar with this period. Throughout almost all of the article, reference is only made to the month when an event occurred, leading to detective work to work out whether the year in question is 1824, 1835, or 1836. It's easy for someone who is very familiar with the source material to assume everybody knows what year is referred to, but for most readers that will not be the case.
+
+As an example, in [[Runaway Scrape #Ad interim government]], the dates of events are: 1834; November 28; December; November 3 (presumably 1835); December 12; December 1; December 20; December 30; January 10, 1836; January 11, December 10; March 1 (presumably 1836); March 4; March 16. Note that these do not necessarily run in chronological order.
+
+Most of these can be worked out because I assume that the Consultation of 1835 convened on November 3, 1835. Similarly I expect the Convention of 1836 met on March 1, 1836. But when did Santa Anna start amassing his army? November 28, 1834, or November 28, 1835? Did Joaquín Ramírez y Sesma lead the Vanguard in December 1834 or December 1835? Did Austin take almost a year to convene the Consultation of 1835? or was it convened in anticipation of a Mexican attack?
+
+When the reader moves on to the ''Battle of Gonzales'' section, the scene is set in the second sentence when the date of September 1835, is given, and the events may be assumed to take place up to November 4, 1835. It's clear we have moved chronologically backwards from the final events of the previous paragraph. But when the reader then comes to the ''Béxar'' section, we have no way of knowing whether the reader is taken back to October 9, 1835 or forward to October 9, 1836. And so on.
+
+I'm suggesting therefore, that each section is explicit about the first date it mentions. I shouldn't have to get a book out of the library or find [[Timeline of the Texas Revolution]] just to work out the sequence of events, especially not in a Featured Article. --[[User:RexxS|RexxS]] ([[User talk:RexxS|talk]]) 14:38, 22 April 2016 (UTC)
+
+:I will take care of this.  Somewhere in the history of getting this up to FA, some editor complained about the confusion of having the very dates you request.  I agree with you, so I will take care of it. [[User:Maile66|— Maile ]] ([[User talk:Maile66|talk]]) 14:54, 22 April 2016 (UTC)
+::
+:: Thank you, {{u|Maile66|Maile}}, I have a much clearer overview of how events turned out now. FWIW, the other possibility I was considering was to set the scene in the lead: along the lines of &quot;the events took place mainly between September 1835 and April 1836&quot;, which would make each mention of a month unique - as well as giving a good idea of the timescale of events - but I couldn't see how to fit that neatly into the current lead. Cheers --[[User:RexxS|RexxS]] ([[User talk:RexxS|talk]]) 15:38, 22 April 2016 (UTC)
+
+:::{{Done}} Thank you for mentioning this.  I think I have gone through it all now, including adding the lead sentence you have suggested.  Let me know if anything else is a-lop.  As I was reading the Prelude section, it seemed dates were a bit mixed up and confusing.  I have put things in order now.  Hope this clears up everything.   But if not, just ask me. [[User:Maile66|— Maile ]] ([[User talk:Maile66|talk]]) 15:57, 22 April 2016 (UTC)</text>
+      <sha1>rz8kv1ubsh5nv93rbc3jzer7tza6xxv</sha1>
+    </revision>
+  </page>
+</mediawiki>

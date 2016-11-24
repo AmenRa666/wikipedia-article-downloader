@@ -1,0 +1,377 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mark Oliphant</title>
+    <ns>0</ns>
+    <id>315710</id>
+    <revision>
+      <id>749345829</id>
+      <parentid>748074781</parentid>
+      <timestamp>2016-11-13T21:39:59Z</timestamp>
+      <contributor>
+        <username>Hawkeye7</username>
+        <id>302229</id>
+      </contributor>
+      <comment>Embed template</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55090">{{featured article}}
+{{Use dmy dates|date=March 2013}}
+{{Use Australian English|date=April 2013}}
+{{Infobox scientist
+| name = Sir Mark Oliphant
+| honorific_suffix = {{post-nominals|country=AUS|size=100%|AC|KBE|FRS|FAA}}
+| image = Sir Mark Oliphant.jpg
+| caption = Mark Oliphant (1939)
+| birth_date = {{Birth date|1901|10|8|df=y}}
+| birth_place = [[Kent Town, South Australia|Kent Town]], [[Adelaide]], Australia
+| death_date = {{Death date and age|2000|7|14|1901|10|8|df=y}}
+| death_place = [[Canberra]], Australia
+| residence = {{Plainlist|
+* Australia
+* United Kingdom
+* United States}}
+| nationality = Australian
+| work_institution = {{Plainlist|
+* [[Cavendish Laboratory]]
+* [[Lawrence Berkeley National Laboratory]]
+* [[University of Birmingham]]
+* [[Australian National University]]}}
+| alma_mater = {{Plainlist|
+* [[University of Adelaide]]
+* [[University of Cambridge]]}}
+| doctoral_advisor = [[Ernest Rutherford]]
+| thesis_title = The Neutralization of Positive Ions at Metal Surfaces, and the Emission of Secondary Electrons
+| thesis_year = 1929
+| academic_advisors =
+| doctoral_students = [[Ernest William Titterton]]
+| known_for = {{Plainlist|
+* Co-discovery of [[tritium]], [[helium-3]] and [[nuclear fusion]]
+* Development of [[microwave radar]]}}
+| prizes = {{Plainlist|
+* [[Fellow of the Royal Society]] {{small|(1937)}}
+* [[Hughes Medal]] {{small|(1943)}}
+* [[Faraday Medal]] {{small|(1948)}} }}
+| footnotes =
+| module= {{Infobox officeholder
+| embed=yes| honorific-prefix    = [[Excellency|His Excellency]] [[The Honourable]]
+| name             = Sir Mark Oliphant
+| honorific-suffix = {{post-nominals|country=AUS|size=100%|AC|KBE|FRS|FAA}}
+| order               = 27th
+| office              = Governor of South Australia
+| term_start          = 1 December 1971
+| term_end            = 30 November 1976
+| lieutenant_governor = [[Mellis Napier|Sir Mellis Napier]]&lt;br&gt;[[Walter Crocker|Sir Walter Crocker]]
+| monarch             = [[Elizabeth II]]
+| premier             = [[Don Dunstan]]
+| predecessor         = [[James Harrison (Australian governor)|Sir James Harrison]]
+| successor           = [[Douglas Nicholls|Sir Douglas Nicholls]]
+}}
+}}
+'''Sir Marcus Laurence Elwin''' &quot;'''Mark'''&quot; '''Oliphant''' {{post-nominals|country=AUS|AC|KBE|FRS|FAA}} (8 October 1901 – 14 July 2000) was an Australian [[physicist]] and [[Humanitarianism|humanitarian]] who played an important role in the first experimental demonstration of [[nuclear fusion]] and also the development of [[nuclear weapon]]s.
+
+Born and raised in [[Adelaide]], South Australia, Oliphant graduated from the [[University of Adelaide]] in 1922. He was awarded an [[1851 Exhibition Scholarship]] in 1927 on the strength of the research he had done on [[Mercury (element)|mercury]], and went to England, where he studied under Sir [[Ernest Rutherford]] at the [[University of Cambridge]]'s [[Cavendish Laboratory]]. There, he used a [[particle accelerator]] to fire [[heavy hydrogen]] [[atomic nucleus|nuclei]] ([[deuteron]]s) at various targets. He discovered the nuclei of [[helium-3]] (helions) and [[tritium]] (tritons). He also discovered that when they reacted with each other, the particles that were released had far more energy than they started with. Energy had been liberated from inside the nucleus, and he realised that this was a result of nuclear fusion.
+
+Oliphant left the Cavendish Laboratory in 1937 to become the [[John Henry Poynting|Poynting]] Professor of Physics at the [[University of Birmingham]]. He attempted to build a {{convert|60|inch|cm|adj=on}} [[cyclotron]] at the university, but its completion was postponed by the outbreak of the Second World War in Europe in 1939. He became involved with the development of [[radar]], heading a group at the University of Birmingham that included [[John Randall (physicist)|John Randall]] and [[Harry Boot]]. They created a radical new design, the [[cavity magnetron]], that made [[microwave radar]] possible. Oliphant also formed part of the [[MAUD Committee]], which reported in July 1941, that an [[atomic bomb]] was not only feasible, but might be produced as early as 1943. Oliphant was instrumental in spreading the word of this finding in the United States, thereby starting what became the [[Manhattan Project]]. Later in the war, he worked on it with his friend [[Ernest Lawrence]] at the [[Radiation Laboratory]] in [[Berkeley, California]], developing [[electromagnetic isotope separation]].
+
+After the war, Oliphant returned to Australia as the first Director of the [[Research School of Physical Sciences and Engineering]] at the new [[Australian National University]], where he initiated the design and construction of the world's largest (500 megajoule) [[homopolar generator]]. He retired in 1976, but was appointed [[Governor of South Australia]] on the advice of [[Premier of South Australia|Premier]], [[Don Dunstan]]. He assisted in the founding of the [[Australian Democrats]] political party, and he was the chairman of the meeting in Melbourne in 1977 at which the party was launched. Late in life he watched his wife, Rosa, suffer before her death in 1987, and he became an advocate for voluntary [[euthanasia]]. He died in Canberra in 2000.
+
+== Early life ==
+Marcus &quot;Mark&quot; Laurence Elwin Oliphant was born on 8 October 1901 in [[Kent Town, South Australia|Kent Town]], a suburb of Adelaide. His father was Harold George &quot;Baron&quot; Oliphant, a [[civil servant]] with the [[SA Water|South Australian Engineering and Water Supply Department]] and part-time lecturer in Economics with the [[Workers' Educational Association]].&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article56764831 |title=Workers' Educational Association |newspaper=[[The Register (Adelaide)|The Register]] |date=9 October 1928 |accessdate=18 July 2012 |page=3 }}&lt;/ref&gt;&lt;ref name=&quot;FRS&quot;&gt;{{cite journal| last1 = Bleaney | first1 = B.| authorlink = Brebis Bleaney| doi = 10.1098/rsbm.2001.0022 | title = Sir Mark (Marcus Laurence Elwin) Oliphant, A.C., K.B.E. 8 October 1901 – 14 July 2000: Elected F.R.S. 1937| journal = [[Biographical Memoirs of Fellows of the Royal Society]]| volume = 47 | pages = 383–393 | year = 2001 | pmid = | pmc = }}&lt;/ref&gt; His mother was Beatrice Edith Fanny Oliphant, née Tucker, an artist.{{sfn|Cockburn|Ellyard|1981|p=3}}&lt;ref name=&quot;Joffe&quot;&gt;{{cite web |url=http://www.mickjoffe.com/Sir_Mark_Oliphant |title=Mick Joffe, interview with Sir Mark Oliphant |publisher=Mick Joffe |accessdate=30 April 2013}}&lt;/ref&gt; He was named after [[Marcus Clarke]], the Australian author, and [[Laurence Oliphant (author)|Laurence Oliphant]], the British traveller and mystic. Most people called him Mark; this became official when he was knighted in 1959.{{sfn|Cockburn|Ellyard|1981|p=6}} He had four younger brothers, Roland, Keith, Nigel and Donald.{{sfn|Cockburn|Ellyard|1981|p=18}} His parents were [[theosophist]]s, and as such were opposed to eating meat. Marcus became a lifelong [[vegetarian]] while a boy, after witnessing the slaughter of pigs on a farm.{{sfn|Cockburn|Ellyard|1981|p=8}} He was found to be completely deaf in one ear and he needed glasses for severe [[astigmatism]] and short-sightedness.{{sfn|Cockburn|Ellyard|1981|p=16}}
+
+Oliphant was first educated at primary schools in [[Goodwood, South Australia|Goodwood]] and [[Mylor, South Australia|Mylor]], after the family moved there in 1910.{{sfn|Cockburn|Ellyard|1981|pp=14–15}} He attended [[Unley High School]] in Adelaide, and, for his final year in 1918, [[Adelaide High School]].{{sfn|Cockburn|Ellyard|1981|p=19}} After graduation he failed to obtain a [[bursary]] to attend university, and so got a job cleaning floors for a jewellery manufacturer. He then got a [[cadetship]] with the [[State Library of South Australia]], which allowed him to take courses at the [[University of Adelaide]] at night.{{sfn|Cockburn|Ellyard|1981|pp=20–21}}
+
+In 1919, Oliphant began studying at the University of Adelaide. At first he was interested in a career in medicine, but later in the year [[Kerr Grant]], the physics professor, offered him a cadetship in the Physics Department. It paid 10 [[shilling (Australian)|shilling]]s a week ({{Inflation|AU|1|1919|fmt=eq|cursign=AUD$}}), the same amount that Oliphant received for working at the State Library, but it allowed him to take any university course that did not conflict with his work for the department.{{sfn|Cockburn|Ellyard|1981|pp=22–23}} He received his [[Bachelor of Science]] (BSc) degree in 1921 and then did [[honours degree|honours]] the following year, supervised by Kerr Grant.{{sfn|Cockburn|Ellyard|1981|p=28}} Roy Burdon, who acted as head of the department when Kerr went on sabbatical in 1925, worked with Oliphant to produce two papers in 1927 on the properties of [[Mercury (element)|mercury]], &quot;The Problem of the Surface Tension of Mercury and the Action of Aqueous Solutions on a Mercury Surface&quot;&lt;ref&gt;{{cite journal |title=The Problem of the Surface Tension of Mercury and the Action of Aqueous Solutions on a Mercury Surface |journal=[[Transactions of the Faraday Society]] |first=R. S. |last=Burdon |first2= M. L. |last2=Oliphant |year=1927 |volume=23 |pages=205–213|doi=10.1039/TF9272300205 }}&lt;/ref&gt; and &quot;Absorption of Gases on the Surface of Mercury&quot;.&lt;ref&gt;{{cite journal |first2=R. S. |last2=Burdon |first= M. L. |last=Oliphant |title=Absorption of Gases on the Surface of Mercury |journal=[[Nature (journal)|Nature]] |volume=120 |issue=3025 |pages=584–585 |date=22 October 1927|doi=10.1038/120584b0 |bibcode = 1927Natur.120..584O }}&lt;/ref&gt; Oliphant later recalled that Burdon taught him &quot;the extraordinary exhilaration there was in even minor discoveries in the field of physics&quot;.&lt;ref name=curiosity&gt;{{cite web | last =Sutherland | first =Denise | title =&quot;Just Curiosity...&quot;, Sir Mark Oliphant | publisher =[[University of Melbourne]] | year =1997 |url =http://www.asap.unimelb.edu.au/bsparcs/exhib/journal/as_oliphant.htm |accessdate = 28 January 2007 }}&lt;/ref&gt;
+
+Oliphant married Rosa Louise Wilbraham, who was also from Adelaide, on 23 May 1925. The two had known each other since they were teenagers. He made Rosa's wedding ring in the laboratory from a gold nugget (from the [[Coolgardie]] Goldfields) that his father had given him.{{sfn|Cockburn|Ellyard|1981|p=29}}
+
+== Cavendish Laboratory ==
+In 1925, Oliphant heard a speech given by the New Zealand physicist, Sir [[Ernest Rutherford]], and he decided he wanted to work for him&amp;nbsp;– an ambition that he fulfilled by earning a position at the [[Cavendish Laboratory]] at the [[University of Cambridge]] in 1927.{{sfn|Cockburn|Ellyard|1981|p=29}} He applied for an [[1851 Exhibition Scholarship]] on the strength of the research he had done on mercury with Burdon. It came with a living allowance of £250 per annum ({{Inflation|AU|500|1927|fmt=eq|r=-3|cursign=AUD$}}). When word came through that he had been awarded a fellowship, he [[electrical telegraph|wired]] Rutherford and [[Trinity College, Cambridge]]. Both accepted him.{{sfn|Cockburn|Ellyard|1981|p=30}}
+
+[[File:The Cavendish Laboratory - geograph.org.uk - 631839.jpg|thumb|left|The Cavendish Laboratory was the home of some of the great discoveries in physics. It was founded in 1874 by the [[Duke of Devonshire]] (Cavendish was his family name), and its first professor was [[James Clerk Maxwell]].&lt;ref&gt;{{cite web |url=http://www.phy.cam.ac.uk/history |title=The History of the Cavendish |publisher=[[University of Cambridge]] |accessdate=15 August 2014 }}&lt;/ref&gt;]]
+Rutherford's Cavendish Laboratory was carrying out some of the most advanced research into [[nuclear physics]] in the world at the time. Oliphant was invited to afternoon tea by Rutherford and Lady Rutherford. He soon got to meet other researchers at the Cavendish Laboratory, including [[Patrick Blackett]], [[Edward Bullard]], [[James Chadwick]], [[John Cockcroft]], [[Charles Drummond Ellis|Charles Ellis]], [[Peter Kapitza]], [[Philip Moon]] and [[Ernest Walton]]. There were two fellow Australians: [[Harrie Massey]] and [[John Keith Roberts]]. Oliphant would become especially close friends with Cockcroft. The laboratory had considerable talent but not a lot of money to spare, and tended to use a &quot;string and sealing wax&quot; approach to experimental equipment.{{sfn|Cockburn|Ellyard|1981|p=37}} Oliphant had to buy his own equipment, at one point spending £24 ({{Inflation|AU|24|1927|fmt=eq|r=-2|cursign=AUD$}}) of his allowance on a vacuum pump.{{sfn|Cockburn|Ellyard|1981|p=41}}
+
+Oliphant submitted his [[PhD]] thesis on &quot;The Neutralization of Positive Ions at Metal Surfaces, and the Emission of Secondary Electrons&quot; in December 1929.&lt;ref name=&quot;AAS&quot; /&gt; For his ''[[oral exam|viva]]'', he was examined by Rutherford and Ellis. Receiving his degree was the attainment of a major life goal, but it also meant the end of his 1851 Exhibition Scholarship. Oliphant secured an 1851 Senior Studentship, of which there were five awarded each year. It came with a living allowance of £450 per annum ({{Inflation|AU|900|1929|fmt=eq|r=-3|cursign=A$}}) for two years, with the possibility of a one-year extension in exceptional circumstances, which Oliphant was also awarded.{{sfn|Cockburn|Ellyard|1981|pp=42–43}}
+
+A son, Geoffrey Bruce Oliphant, was born 6 October 1930,{{sfn|Cockburn|Ellyard|1981|p=43}} but he died of [[meningitis]] on 5 September 1933, and was interred in an unmarked grave in the [[Ascension Parish Burial Ground, Cambridge|Ascension Parish Burial Ground]] in Cambridge alongside Timothy Cockcroft, the infant son of Sir John and Lady Elizabeth Cockcroft, who had died the year before. Unable to have more children, the Oliphants adopted a four-month-old boy, Michael John, in 1936,{{sfn|Cockburn|Ellyard|1981|p=59}} and a daughter, Vivian, in 1938.{{sfn|Cockburn|Ellyard|1981|p=71}}
+
+[[File:Sir Ernest Rutherfords laboratory, early 20th century. (9660575343).jpg|thumb|right|Sir Ernest Rutherford's laboratory]]
+In 1932 and 1933, the scientists at the Cavendish Laboratory made a series of ground-breaking discoveries. Cockroft and Walton bombarded [[lithium]] with high energy [[proton]]s and succeeded in [[nuclear transmutation|transmuting]] it into energetic [[atomic nucleus|nuclei]] of [[helium]]. This was one of the earliest experiments to change the [[atomic nucleus]] of one element to another by artificial means. Then Chadwick devised an experiment that discovered a new, uncharged particle with roughly the same mass as the proton: the [[neutron]]. In 1933, Blackett discovered tracks in his [[cloud chamber]] that confirmed the existence of the [[positron]] and revealed the opposing spiral traces of positron–electron [[pair production]].{{sfn|Cockburn|Ellyard|1981|pp=45–46}}
+
+Oliphant followed up the work by constructing a [[particle accelerator]] that could fire protons with up to 600,000 [[electronvolts]] of energy. He soon confirmed the results of Cockroft and Walton on the [[artificial disintegration]] of the nucleus and positive [[ion]]s. He produced a series of six papers over the following two years.{{sfn|Cockburn|Ellyard|1981|pp=48–50}} In 1933, the Cavendish Laboratory received a gift from the American [[physical chemist]] [[Gilbert N. Lewis]] of a few drops of [[heavy water]]. The accelerator was used to fire [[heavy hydrogen]] nuclei (''[[deuteron]]s'', which Rutherford called ''diplons'') at various targets. Working with Rutherford and others, Oliphant thereby discovered the nuclei of [[Helium-3]] (''helions'') and [[tritium]] (''tritons'').{{sfn|Cockburn|Ellyard|1981|pp=52–55}}&lt;ref&gt;{{cite journal |first=M. L. E. |last=Oliphant |first2=Lord |last2=Rutherford |authorlink2=Lord Rutherford |date=3 July 1933 |doi=10.1098/rspa.1933.0117 |volume=141 |issue=843 |pages=259–281 |journal=[[Proceedings of the Royal Society]] A  |title=Experiments on the Transmutation of Elements by Protons |bibcode=1933RSPSA.141..259O }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |first=M. L. E. |last=Oliphant |first2=B. B. |last2=Kinsey |first3=Lord |last3=Rutherford |authorlink3=Lord Rutherford |journal=[[Proceedings of the Royal Society]] A |title= The Transmutation of Lithium by Protons and by Ions of the Heavy Isotope of Hydrogen  |date=1 September 1933 |volume=141 |issue=845 |pages=722–733 |doi=10.1098/rspa.1933.0150 |bibcode=1933RSPSA.141..722O }}&lt;/ref&gt;&lt;ref&gt;{{cite journal |first=M. L. E. |last=Oliphant |first2=P. |last2=Harteck |authorlink2=Paul Harteck |first3=Lord |last3=Rutherford |authorlink3=Lord Rutherford |journal=[[Proceedings of the Royal Society]] A |title= Transmutation Effects Observed with Heavy Hydrogen  |date=1 May 1934 |volume=144 |issue=853 |pages=692–703 |doi=10.1098/rspa.1934.0077 |bibcode=1934RSPSA.144..692O }}&lt;/ref&gt;
+
+Oliphant used [[electromagnetic separation]] to separate the isotopes of lithium.&lt;ref name=&quot;Electromagnetic separation&quot; /&gt; He was the first to experimentally demonstrate [[nuclear fusion]]. He found that when deuterons reacted with nuclei of Helium-3, tritium or with other deuterons, the particles that were released had far more energy than they started with. [[Binding energy]] had been liberated from inside the nucleus.{{sfn|Cockburn|Ellyard|1981|pp=55–57}}&lt;ref&gt;{{cite journal |title=The Accurate Determination of the Energy Released in Certain Nuclear Transformations |first=M. L. E. |last=Oliphant |first2=A. R. |last2=Kempton |first3=Lord |last3=Rutherford |authorlink3=Lord Rutherford |journal=[[Proceedings of the Royal Society]] A |volume=149 |pages=406–416 |issue=867 |doi=10.1098/rspa.1935.0071 |date=1 April 1935|bibcode = 1935RSPSA.149..406O }}&lt;/ref&gt; Following  [[Arthur Eddington]]'s 1920 prediction that energy released by [[nuclear fusion|fusing]] small nuclei together could provide the energy source that powers the stars,&lt;ref&gt;{{cite journal|authorlink=Arthur Eddington|bibcode=1920Obs....43..341E|year=1920|title=The internal constitution of the stars|url=http://articles.adsabs.harvard.edu/full/1920Obs....43..341E |last=Eddington|first=Arthur S.|journal=The Observatory|volume=43|pages=341–358}}&lt;/ref&gt; Oliphant speculated that nuclear fusion reactions might be what powered the sun.{{sfn|Cockburn|Ellyard|1981|pp=52–55}} With its higher [[cross section (physics)#Nuclear physics|cross section]], the deuterium–tritium nuclear fusion reaction became the basis of a [[hydrogen bomb]].&lt;ref name=curiosity /&gt; Oliphant had not foreseen this development:{{quote|... we had no idea whatever that this would one day be applied to make hydrogen bombs. Our curiosity was just curiosity about the structure of the nucleus of the atom, and the discovery of these reactions was purely, as the Americans would put it, coincidental.&lt;ref name=curiosity /&gt; }}
+
+In 1934, Cockcroft arranged for Oliphant become a fellow of [[St John's College, Cambridge]], which paid about £600. When Chadwick left the Cavendish Laboratory for the [[University of Liverpool]] in 1935, Oliphant and Ellis both replaced him as Rutherford's Assistant Director for Research. The job came with a salary of £600 ({{Inflation|AU|1200|1935|fmt=eq|cursign=AUD$|r=-2}}).{{sfn|Cockburn|Ellyard|1981|p=58}} With the money from St John's, this gave him a comfortable income.&lt;ref name=&quot;AAS&quot; /&gt; Oliphant soon fitted out a new accelerator laboratory with a 1.23 [[Electronvolt|MeV]] generator at a cost of £6,000 ({{Inflation|AU|12000|1935|fmt=eq|cursign=AUD$|r=-3}}) while he designed an even larger 2&amp;nbsp;MeV generator.{{sfn|Cockburn|Ellyard|1981|p=53}} He was the first to conceive of the proton [[synchrotron]], a new type of cyclic particle accelerator.&lt;ref&gt;{{cite journal | last1 = Rotblat | first1 = Józef| authorlink = Józef Rotblat| title = Mark Oliphant (1901–2000) | journal = Nature | volume = 407 | issue = 6803| pages = 468 | year = 2000 | doi = 10.1038/35035202 | pmid =  11028988| pmc = }}&lt;/ref&gt; In 1937, he was elected to the [[Royal Society]]. When he died he was its longest-serving fellow.&lt;ref name=&quot;AAS&quot; /&gt;
+
+== University of Birmingham ==
+[[File:Poynting Physics building 1.jpg|thumb|left|The [[John Henry Poynting|Poynting]] Physics building at the [[University of Birmingham]]. Its mode of construction helped give rise to the phrase &quot;[[redbrick university]]&quot;.{{sfn|Cockburn|Ellyard|1981|p=71}}]]
+[[Samuel Walter Johnson Smith]]'s imminent mandatory retirement at age 65 prompted a search for a new [[John Henry Poynting|Poynting]] Professor of Physics at the [[University of Birmingham]].{{sfn|Cockburn|Ellyard|1981|pp=66–69}} The University wanted not just a replacement, but a well-known name, and was willing to spend lavishly in order to build up nuclear physics expertise at Birmingham.&lt;ref&gt;{{cite web |url=http://www.birmingham.ac.uk/research/activity/energy/history-of-energy-at-birmingham.aspx |archiveurl=https://web.archive.org/web/20140201212431/http://www.birmingham.ac.uk/research/activity/energy/history-of-energy-at-birmingham.aspx |archivedate=1 February 2014 |title=A Century of Expertise |publisher=[[University of Birmingham]] }}&lt;/ref&gt; Neville Moss, its Professor of [[Mining Engineering]] and the Dean of its Faculty of Science approached Oliphant, who presented his terms. In addition to his salary of £1,300 ({{Inflation|AU|2600|1937|fmt=eq|cursign=AUD$|r=-3}}), he wanted the University to spend £2,000 ({{Inflation|AU|4000|1937|fmt=eq|cursign=A$|r=-3}}) to upgrade the laboratory, and another £1,000 per annum ({{Inflation|AU|2000|1937|fmt=eq|cursign=A$|r=-3}}) on it. And he did not wish to start until October 1937, to enable him to wrap up his work at the Cavendish Laboratory. Moss agreed to Oliphant's terms.{{sfn|Cockburn|Ellyard|1981|pp=66–69}}
+
+To obtain funding for the {{convert|60|inch|cm|adj=on}} [[cyclotron]] that he wanted, Oliphant wrote to the prime minister, [[Neville Chamberlain]], who was from [[Birmingham]]. Chamberlain took up the matter with his friend [[Lord Nuffield]], who provided £60,000 ({{Inflation|AU|120000|1937|fmt=eq|cursign=AUD$|r=-6}}) for the project, enough for the cyclotron, a brand new building to house it, and a trip to [[Berkeley, California]], so Oliphant could confer with [[Ernest Lawrence]], the inventor of the cyclotron. Lawrence was supportive of the project, sending Oliphant the plans of the 60-inch cyclotron that he had under construction at Berkeley, and inviting Oliphant to visit him at the [[Radiation laboratory|Radiation Laboratory]]. Oliphant sailed for New York on 10 December 1938, and met Lawrence in Berkeley. The two men got along very well, dining at ''[[Trader Vic's]]'' in [[Oakland]]. Oliphant was aware of the problems in building cyclotrons encountered by Chadwick at the University of Liverpool and Cockcroft at the Cavendish Laboratory, and intended to avoid these and get his cyclotron built on time and on budget by following Lawrence's specifications as closely as possible. He hoped that it would be running by Christmas 1939, but the outbreak of the Second World War quashed his hopes.{{sfn|Cockburn|Ellyard|1981|pp=74–78}} The Nuffield Cyclotron would not be completed until after the war.&lt;ref&gt;{{cite web |url=http://www.np.ph.bham.ac.uk/history/cyclotrons |title=The Nuffield Cyclotron at Birmingham |first=Dr N. M. |last=Clarke |accessdate=2 May 2013 |publisher=[[University of Birmingham]] }}&lt;/ref&gt;
+
+=== Radar ===
+[[File:Original cavity magnetron, 1940 (9663811280).jpg|thumb|right|Anode of the original cavity magnetron developed by [[John Randall (physicist)|John Randall]] and [[Harry Boot]] at Birmingham University]]
+In 1938, Oliphant became involved with the development of [[radar]], then still a secret. While visiting prototype radar stations, he realised that shorter-wavelength [[radio waves]] were needed urgently, especially if there was to be any chance of building a radar set small enough to fit into an aircraft. In August 1939, he took a small group to [[Ventnor]], on the [[Isle of Wight]], to examine the [[Chain Home]] system first hand. He obtained a grant from the [[Admiralty]] to develop radar systems with wavelengths less than {{convert|10|cm}}; the best available at the time was {{convert|150|cm}}.&lt;ref name=&quot;odnb&quot; /&gt;
+
+Oliphant's group at Birmingham worked on developing two promising devices, the [[klystron]] and the [[magnetron]]. Working with [[James Sayers (physicist)|James Sayers]], Oliphant managed to produce an improved version of the klystron capable of generating 400W. Meanwhile, two more members of his Birmingham team, [[John Randall (physicist)|John Randall]] and [[Harry Boot]], worked on a radical new design, a cavity magnetron. By February 1940, they had an output of 400W with a wavelength of {{convert|9.8|cm}}, just the kind of [[microwaves|short wavelengths]] needed for good airborne radars. The magnetron's power was soon increased a hundred-fold, and Birmingham concentrated on magnetron development. The first operational magnetrons were delivered in August 1941. This invention was one of the key scientific breakthroughs during the war and played a major part in defeating the German [[U-boats]], intercepting enemy bombers, and in directing Allied bombers.{{sfn|Cockburn|Ellyard|1981|pp=83–90}}
+
+In 1940, the [[Fall of France]], and the possibility that Britain might be invaded, prompted Oliphant to send his wife and children to Australia. The [[Fall of Singapore]] in February 1942 led him to offer his services to John Madsen, the Professor of Electrical Engineering at the [[University of Sydney]], and the head of the Radiophysics Laboratory at the [[Council for Scientific and Industrial Research]], which was responsible for developing radar.{{sfn|Cockburn|Ellyard|1981|pp=83–90}}{{sfn|Mellor|1958|pp=427–428}} He embarked from Glasgow for Australia on {{ship|QSMV|Dominion Monarch}} on 20 March. The voyage, part of a 46-ship convoy, was a slow one, with the convoy frequently zigzagging to avoid U-boats, and the ship did not reach Fremantle until 27 May.{{sfn|Cockburn|Ellyard|1981|pp=91–92}}
+
+The Australians were already preparing to produce radar sets locally. Oliphant persuaded Professor [[Thomas Laby]] to release [[Eric Burhop]] and [[Leslie H. Martin|Leslie Martin]] from their work on optical munitions to work on radar, and they succeeded in building a cavity magnetron in their laboratory at the [[University of Melbourne]] in May 1942.{{sfn|Mellor|1958|p=446}} Oliphant worked with Martin on the process of moving the magnetrons for the laboratory to the production line.{{sfn|Cockburn|Ellyard|1981|pp=92–93}} Over 2,000 radar sets were produced in Australia during the war.{{sfn|Mellor|1958|p=450}}
+
+=== Manhattan Project ===
+At the University of Birmingham in March 1940, [[Otto Frisch]] and [[Rudolf Peierls]] examined the theoretical issues involved in developing, producing and using [[atomic bomb]]s in a paper that became known as the [[Frisch–Peierls memorandum]]. They considered what would happen to a sphere of pure uranium-235, and found that not only could a [[chain reaction]] occur, but it might require as little as {{convert|1|kg}} of uranium-235 to unleash the energy of hundreds of tons of [[TNT]]. The first person they showed their paper to was Oliphant, and he immediately took it to Sir [[Henry Tizard]], the chairman of the Committee for the Scientific Survey of Air Warfare (CSSAW).{{sfn|Gowing|1964|pp=39–41, 407}} As a result, a special subcommittee of the CSSAW known as the [[MAUD Committee]] was created to investigate the matter further. It was chaired by Sir [[George Paget Thomson|George Thomson]], and its original membership included Oliphant, Chadwick, Cockcroft and Moon.{{sfn|Gowing|1964|p=45}} In its final report in July 1941, the MAUD Committee concluded that an atomic bomb was not only feasible, but might be produced as early as 1943.{{sfn|Gowing|1964|p=78}}
+
+[[File:Y-12 Calutron Alpha racetrack.jpg|left|thumb|Giant Alpha I racetrack at Y-12 at [[Oak Ridge, Tennessee]], used for electromagnetic separation.|alt=A large oval-shaped structure.]]
+Great Britain was at war and authorities there thought that the development of an atomic bomb was urgent, but there was much less urgency in the United States. Oliphant was one of the people who pushed the American program into motion. Oliphant flew to the United States in late August 1941 in an unheated bomber, ostensibly to discuss the radar-development program, but was assigned to find out why the United States was ignoring the findings of the MAUD Committee.{{sfn|Rhodes|1986|p=372}} He later recalled: &quot;the minutes and reports had been sent to [[Lyman Briggs]], who was the Director of the Uranium Committee, and we were puzzled to receive virtually no comment. I called on Briggs in Washington [DC], only to find out that this inarticulate and unimpressive man had put the reports in his safe and had not shown them to members of his committee. I was amazed and distressed.&quot;&lt;ref&gt;{{cite journal |last=Oliphant |first=Mark |title=The Beginning: Chadwick and the Neutron |journal=[[Bulletin of the Atomic Scientists]] |date=December 1982 |volume=38 |issue=10 |pages=14–18 |issn=0096-3402 |url=https://books.google.com/?id=jwoAAAAAMBAJ&amp;pg=PA14&amp;dq=The+beginning:+Chadwick+and+the+neutron#v=onepage&amp;q=The%20beginning%3A%20Chadwick%20and%20the%20neutron&amp;f=false |accessdate=3 May 2012 }}&lt;/ref&gt;
+
+Oliphant then met with the Uranium Committee. [[Samuel King Allison|Samuel K. Allison]], a new member of the Committee, was a talented experimental physicist and a protégé of [[Arthur Compton]] at the [[University of Chicago]]. Oliphant &quot;came to a meeting&quot;, Allison recalls, &quot;and said 'bomb' in no uncertain terms. He told us we must concentrate every effort on the bomb, and said we had no right to work on power plants or anything but the bomb. The bomb would cost 25 million dollars, he said, and Britain did not have the money or the manpower, so it was up to us.&quot; Allison was surprised that Briggs had kept the committee in the dark.{{sfn|Rhodes|1986|p=373}} Oliphant visited his friend Ernest Lawrence, and also spoke with [[James Bryant Conant|James Conant]] and [[Enrico Fermi]]. He not only managed to convince the Americans that an atomic bomb was feasible, but also inspired Lawrence to convert his {{convert|37|inch|cm|adj=on}} cyclotron into a giant [[mass spectrometer]] for [[isotope separation]],{{sfn|Hewlett|Anderson|1962|pp=43–44}} a technique Oliphant had pioneered in 1934.&lt;ref name=&quot;Electromagnetic separation&quot;&gt;{{cite journal |first=M. L. E. |last=Oliphant |first2=E. S. |last2=Shire |first3=B. M. |last3=Crowther  |journal=[[Proceedings of the Royal Society]] A |title=Separation of the Isotopes of Lithium and Some Nuclear Transformations Observed with them |date=15 October 1934 |volume=146 |issue=859 |pages=922–929 |doi=10.1098/rspa.1934.0197 |bibcode=1934RSPSA.146..922O }}&lt;/ref&gt; [[Leo Szilard]] later wrote, &quot;if Congress knew the true history of the atomic energy project, I have no doubt but that it would create a special medal to be given to meddling foreigners for distinguished services, and that Dr Oliphant would be the first to receive one.&quot;{{sfn|Rhodes|1986|p=372}}
+
+[[File:University of Birmingham - Poynting Physics Building - blue plaques group - Oliphant.jpg|thumb|right|University of Birmingham - Poynting Physics Building - blue plaque]]
+On 26 October 1942, Oliphant embarked from Melbourne, taking Rosa and the children back with him. The wartime sea voyage on the French ''Desirade'' was again a slow one, and they did not reach Glasgow until 29 February 1943.{{sfn|Cockburn|Ellyard|1981|pp=93–94}} But he had to leave them behind once more in November 1943 after he joined the [[Manhattan Project]] in the United States as part of the [[British contribution to the Manhattan Project|British Mission]]. Oliphant was one of the scientists whose services the Americans were most eager to secure, and [[Robert Oppenheimer]], the head of the [[Los Alamos Laboratory]] attempted to persuade Oliphant to join. The work on the bomb itself made him uneasy, and he preferred to head the team assisting his friend Lawrence at the Radiation Laboratory in Berkeley to develop the electromagnetic [[uranium enrichment]]&amp;nbsp;– a vital but less overtly military part of the project.{{sfn|Cockburn|Ellyard|1981|p=114}}
+
+Oliphant secured the services of fellow Australian physicist [[Harrie Massey]], who had been working for the Admiralty on [[magnetic mines]], along with James Stayers and Stanley Duke, who had worked with him on the [[cavity magnetron]]. This initial group set out for Berkeley in a [[B-24 Liberator]] bomber in November 1943.{{sfn|Cockburn|Ellyard|1981|pp=113–115}} Oliphant became Lawrence's ''de facto'' deputy, and was in charge of the Berkeley Radiation Laboratory when Lawrence was absent.{{sfn|Gowing|1964|pp=256–260}} Although based in Berkeley, he often visited [[Oak Ridge, Tennessee]], where the separation plant was, and was an occasional visitor to Los Alamos.{{sfn|Cockburn|Ellyard|1981|p=183}} He made efforts to involve Australian scientists in the project,&lt;ref name=&quot;Binnie&quot;&gt;{{cite journal |url=http://royalsoc.org.au/publications/journal_2000_on/139_p1,2_binnie.pdf |journal=Journal and Proceedings of the Royal Society of New South Wales |volume=139 |issue=419–420 |pp=11–22 |year=2006 |issn=0035-9173 |first=Anna |last=Binnie |title=Oliphant, the Father of Atomic Energy}}&lt;/ref&gt; and had Sir [[David Rivett]], the head of the Council for Scientific and Industrial Research, release Eric Burhop to work on the Manhattan Project.&lt;ref name=&quot;Binnie&quot;/&gt;&lt;ref&gt;{{cite web |url=http://www.info.dfat.gov.au/info/historical/HistDocs.nsf/vSearch/1D95E8DBD173A89ECA256B7E001E3F8D?openDocument&amp;start=1&amp;Highlight=2,Burhop&amp;SearchOrder=4 |title=Rivett to White |date=5 January 1944 |publisher=[[Department of Foreign Affairs and Trade (Australia)|Department of Foreign Affairs and Trade]] |accessdate=23 February 2015 }}&lt;/ref&gt; He briefed [[Stanley Bruce]], the [[Australian High Commissioner to the United Kingdom]], on the project, and urged the Australian government to secure Australian uranium deposits.&lt;ref name=&quot;Binnie&quot;/&gt;&lt;ref&gt;{{cite web |url=http://www.info.dfat.gov.au/info/historical/HistDocs.nsf/vSearch/B298AB36DBE69D0BCA256D3B00156CE3?openDocument&amp;start=1&amp;Highlight=2,Oliphant&amp;SearchOrder=4 |title=Bruce to Curtin |date=16 August 1943  |publisher=[[Department of Foreign Affairs and Trade (Australia)|Department of Foreign Affairs and Trade]] |accessdate=23 February 2015 }}&lt;/ref&gt;
+
+Oliphant returned to England in March 1945, and resumed his post as a professor of physics at the University of Birmingham. He was on holiday in Wales with his family when he first heard of the [[atomic bombing of Hiroshima and Nagasaki]].{{sfn|Cockburn|Ellyard|1981|pp=122–124}} He was later to remark that he felt &quot;sort of proud that the bomb had worked, and absolutely appalled at what it had done to human beings&quot;. Oliphant became a harsh critic of nuclear weapons and a member of the [[Pugwash Conferences on Science and World Affairs]], saying, &quot;I, right from the beginning, have been terribly worried by the existence of nuclear weapons and very much against their use.&quot;&lt;ref name=curiosity /&gt; His wartime work would have earned him a [[Presidential Medal of Freedom]] with Gold Palm, but the Australian government vetoed this honour,&lt;ref name=&quot;AAS&quot;&gt;{{cite web|title=Australian Academy of Science – Biographical Memoirs – Marcus Laurence Elwin Oliphant|url=http://science.org.au/fellows/memoirs/oliphant.html|accessdate=7 March 2013|archivedate=6 August 2013 |archiveurl=https://web.archive.org/web/20130806033305/http://www.science.org.au/fellows/memoirs/oliphant.html}}&lt;/ref&gt; as government policy at the time was not to confer honours on civilians.{{sfn|Cockburn|Ellyard|1981|p=198}}
+
+== Later years in Australia ==
+In April 1946, the [[Prime Minister of Australia|Prime Minister]], [[Ben Chifley]], asked Oliphant if he would be a technical advisor to the Australian delegation to the newly formed [[United Nations Atomic Energy Commission]] (UNAEC), which was debating international control of nuclear weapons. Oliphant agreed, and joined the [[Minister for Foreign Affairs (Australia)|Minister for External Affairs]], [[H. V. Evatt]] and the Australian Representative at the [[United Nations]], [[Paul Hasluck]], to hear the [[Baruch Plan]]. The attempt at international control was unsuccessful, and no agreement was reached.{{sfn|Cockburn|Ellyard|1981|pp=131–132}}
+
+Chifley, and the Minister for [[Department of Post-War Reconstruction|Post-War Reconstruction]], Dr [[H. C. Coombs|H. C. &quot;Nugget&quot; Coombs]], also discussed with Oliphant a plan to create a new research institute that would attract the world's best scholars to Australia and lift the standard of university education nationwide. They hoped to start by attracting three of Australia's most distinguished expatriates: Oliphant, [[Howard Florey]] and [[Keith Hancock]].{{sfn|Cockburn|Ellyard|1981|pp=144–145}}
+
+[[File:Homopolar anu-MJC.jpg|thumb|The remains of the ANU 500 MJ generator]]
+It was academic suicide; Australia was far from the centres where the latest research was being carried out, and communications were much poorer at that time. But Oliphant accepted, and in 1950 returned to Australia as the first Director of the [[Research School of Physical Sciences and Engineering]] at the [[Australian National University]]. Within the school he created a Department of Particle Physics, which he headed himself, a Department of Nuclear Physics under [[Ernest Titterton]], a Department of Geophysics under John Jaeger, a Department of Astronomy under [[Bart Bok]], a Department of Theoretical Physics under [[Kenneth Le Couteur]] and a Department of Mathematics under [[Bernhard Neumann]].{{sfn|Cockburn|Ellyard|1981|pp=171–179}}
+
+Oliphant was an advocate of nuclear weapons research. He served on the post-war Technical Committee that advised the British government on nuclear weapons,{{sfn|Gowing|Arnold|1974|p=45}} and publicly declared that Britain needed to develop its own nuclear weapons independent of the United States to &quot;avoid the danger of becoming a lesser power&quot;.{{sfn|Reynolds|2000|p=53}} The establishment of a world-class nuclear physics research capability in Australia was intimately linked with the government's plans to develop nuclear power and weapons. Locating the new research institute in [[Canberra]] would place it close to the [[Snowy Mountains Scheme]], which was planned to be the centrepiece of a new nuclear power industry.{{sfn|Gowing|Arnold|1974|p=147}} Oliphant hoped that Britain would assist with the Australian program, and the British were interested in cooperation because Australia had uranium ore and weapons testing sites, and there were concerns that Australia was becoming too closely aligned with the United States. Arrangements were made for Australian scientists to be seconded to the British [[Atomic Energy Research Establishment]] at Harwell, but the close cooperation he sought was stymied by security concerns arising from Britain's commitments to the United States.{{sfn|Gowing|Arnold|1974|pp=336–337}}
+
+[[File:Baxter Oliphant (1954).jpg|thumb|left|During a two-day symposium on &quot;Atomic Power in Australia&quot; at the New South Wales University of Technology, Sydney, which began on 31 August 1954, Oliphant (left), [[Homi Jehangir Bhabha]] (centre) and [[Philip Baxter]] (right) meet over a cup of tea]]
+Oliphant envisaged Canberra one day becoming a [[college town|university town]] like Oxford or Cambridge.{{sfn|Reynolds|2000|pp=52–53}} A threat to the future of the University arose in the wake of the [[Australian federal election, 1949|1949 election]], when the [[Liberal Party of Australia]] led by [[Robert Menzies]] won. Many Liberals were opposed to the University, which they saw as an extravagance. Menzies defended it, but in 1954 he announced that it had entered a period of consolidation, with a funding ceiling, ending the possibility of successful competition with universities in Europe and North America. A further blow came in 1959, when the [[Menzies government]] amalgamated it with the [[Canberra University College]]. Henceforth, it would no longer be a research university, but a regular one, with responsibility for teaching undergraduates. Nonetheless, parts of the university stayed committed to the old mission,{{sfn|Cockburn|Ellyard|1981|pp=171–179}} and the ANU remained a university where research is central to its activities.&lt;ref&gt;{{cite web |url=http://about.anu.edu.au/__documents/strategic-plans/anu-2020-strategy.pdf |title=ANU by 2020 |publisher=Australian National University |accessdate=30 March 2014 }}&lt;/ref&gt; Despite the setbacks, by 2014 the vision of Canberra as a university town would be well on its way to becoming a reality.&lt;ref&gt;{{cite news |newspaper=[[Canberra Times]] |date=1 December 2014 |first=Emma |last=Macdonald |title=Canberra the most 'university town' in the country, say UC and ANU |url=http://www.canberratimes.com.au/act-news/canberra-the-most-university-town-in-the-country-say-uc-and-anu-20141201-11xh7s.html |accessdate=27 March 2015 }}&lt;/ref&gt;
+
+In September 1951, Oliphant applied for a visa to travel to the United States for a nuclear physics conference in Chicago. The visa was not refused, nor was Oliphant accused of subversive activities, but neither was it issued. This was the height of the [[Red Scare]]. The American [[McCarran Act]] restricted travel to the United States, and in Australia the Menzies government was [[Australian referendum, 1951|attempting to ban the Communist Party]], and was not inclined to support Oliphant against the American government. A subsequent request to travel to Canada via Hawaii in September 1954 was refused by the [[United States Department of State]]. Although Oliphant was granted a special waiver that allowed him to transit the US, he preferred to cancel the trip rather than accept this humiliation. The Menzies government subsequently excluded him from participating in or observing the [[British nuclear tests at Maralinga]], nor was he allowed access to classified nuclear information for fear of antagonising the US.{{sfn|Cockburn|Ellyard|1981|pp=188–193}}
+
+In 1955, Oliphant initiated the design and construction of a 500 megajoule [[homopolar generator]] (HPG), the world's largest. This massive machine contained three discs {{convert|3.5|m}} in diameter and weighing {{convert|38|tonnes|LT}}. He obtained £40,000 ({{Inflation|AU|80000|1955|fmt=eq|cursign=A$|r=-6}}) initial funding from the [[Australian Atomic Energy Commission]].{{sfn|Cockburn|Ellyard|1981|pp=229–231}} Completed in 1963, the HPG was intended to be the power source for a synchrotron, but this was not built.{{sfn|Cockburn|Ellyard|1981|pp=247–249}} Instead, it was used to power the LT-4 [[Tokamak]] and a large-scale [[railgun]] that was used as a scientific instrument for experiments with [[plasma physics]]. It was decommissioned in 1985.&lt;ref name=&quot;AAS&quot; /&gt;
+
+[[File:Australian Academy of Science - The Shine Dome.jpg|thumb|right|Australian Academy of Science&amp;nbsp;– The Shine Dome in Canberra]]
+Oliphant founded the [[Australian Academy of Science]] in 1954, teaming up with [[David Martyn]] to overcome the obstacles that had frustrated previous attempts. Oliphant was its president until 1956. Deciding that the Academy of Science should have its own special building, Oliphant raised the required money from donations. As chairman of the Building Design Committee, he selected and oversaw the construction of one of Canberra's most striking architectural designs. He also delivered the Academy of Science's 1961 [[Matthew Flinders]] Lecture, on the subject of &quot;[[Michael Faraday|Faraday]] in his time and today&quot;.&lt;ref name=&quot;AAS&quot; /&gt;
+
+Oliphant retired as Professor of Particle Physics in 1964, and was appointed Professor of Ionised Gases. In this chair he produced his first research papers since the 1930s. He was appointed [[Professor Emeritus]] in 1967.{{sfn|Cockburn|Ellyard|1981|pp=247–249}} He was invited by the [[Premier of South Australia|premier]], [[Don Dunstan]], to become the [[Governor of South Australia]], a position he held from 1971 to 1976. During this period, he caused great concern to Dunstan when he strongly supported the decision of the [[Governor-General of Australia|Governor-General]], [[John Kerr (governor-general)|Sir John Kerr]], in the [[1975 Australian constitutional crisis]].&lt;ref name=&quot;FRS&quot; /&gt;
+
+''[[The Age]]'' reported in 1981 that &quot;Sir Mark Oliphant warned the Dunstan Government of the 'grave dangers' of appointing an [[Australian Aborigine]], Sir [[Douglas Nicholls]], to succeed him as South Australia's Governor&quot;.&lt;ref name=&quot;Black&quot; /&gt; Oliphant had secretly written, &quot;[t]here is something inherent in the personality of the Aborigine which makes it difficult for him to adapt fully to the ways of the white man.&quot; The authors of Oliphant's biography noted that &quot;that was the prevailing attitude of almost the entire white population of Australia until well after World War&amp;nbsp;II&quot;.&lt;ref name=&quot;Black&quot;&gt;{{cite news |newspaper=[[The Age]] |date=20 August 1981 |url=https://news.google.com/newspapers?nid=1300&amp;dat=19810820&amp;id=6zJVAAAAIBAJ&amp;sjid=h5QDAAAAIBAJ&amp;pg=3739,1176081 |title=Oliphant did not want Black |accessdate=7 June 2013}}&lt;/ref&gt;
+
+Oliphant was created a [[Knight Commander of the Order of the British Empire]] (KBE) in 1959,&lt;ref name=&quot;KBE&quot;&gt;{{LondonGazette|issue=41590 |startpage=38|date=1 January 1959|accessdate=2 May 2013}}&lt;/ref&gt; and was made a [[Companion of the Order of Australia]] (AC) in 1977 &quot;for eminent achievement and merit of the highest degree in the field of public service and in service to the crown&quot;.&lt;ref name=&quot;AC&quot;&gt;{{Cite It's an Honour |ausawardid=885284 |date= 26 January 1977 |recipient=Mark Oliphant |award=Companion of the Order of Australia |postnominal=AC |citation=For eminent achievement and merit of the highest degree in the field of public service and in service to the crown. |accessdate=2 May 2013 }}&lt;/ref&gt;
+
+Late in life he watched his wife, Rosa, suffer before her death in 1987, and he became an advocate for voluntary euthanasia.&lt;ref&gt;{{cite web |url=http://www.saves.asn.au/archives/resources/handbook/rtc1.php |accessdate=2 May 2013 |title=Handbook of the South Australian Voluntary Euthanasia Society |publisher=South Australian Voluntary Euthanasia Society }}&lt;/ref&gt; On 14 July 2000, he died in [[Canberra]], at the age of 98.&lt;ref&gt;{{cite web |url=http://www.abc.net.au/science/news/stories/s152880.htm |title=Sir Mark Oliphant dies |publisher=[[Australian Broadcasting Corporation]] |date=18 July 2000 |accessdate=2 May 2013}}&lt;/ref&gt; His body was cremated.&lt;ref name=&quot;odnb&quot;&gt;{{cite ODNB|id=74397|title=Oliphant, Sir Marcus Laurence Elwin (1901–2000) |first=Brebis |last=Bleaney }}&lt;/ref&gt; He was survived by his daughter Vivian, his son Michael having died from colon cancer in 1971.{{sfn|Cockburn|Ellyard|1981|p=267}}
+
+== Legacy ==
+[[File:Mark Oliphant Canberra Homopolar Generator.JPG|thumb|right|upright|The remains of the ANU 500 MJ generator]]
+Places and things named in honour of Sir Mark Oliphant include the Oliphant Building at the Australian National University,&lt;ref&gt;{{cite web |url=http://campusmap.anu.edu.au/displaybldg.asp?no=60 |title=Oliphant Building |publisher=[[Australian National University]] |accessdate=4 May 2013}}&lt;/ref&gt; the Mark Oliphant Conservation Park,&lt;ref&gt;{{cite web |url=http://www.environment.sa.gov.au/parks/Find_a_Park/Browse_by_region/Adelaide_Hills/Mark_Oliphant_Conservation_Park |title=Mark Oliphant Conservation Park |publisher= Department of Environment, Water and Natural Resources |accessdate=4 May 2013}}&lt;/ref&gt; a South Australian high schools science competition,&lt;ref&gt;{{cite web |url=http://www.sasta.asn.au/index.php/page/view_by_id/46 |title=Oliphant Science Awards |publisher=South Australian Science Teachers Association |accessdate=4 May 2013}}&lt;/ref&gt; the Oliphant Wing of the Physics Building at the University of Adelaide,&lt;ref&gt;{{cite web |url=http://www.adelaide.edu.au/library/about/libraries/bsl/oliphant.pdf |archiveurl=https://web.archive.org/web/20131005035427/http://www.adelaide.edu.au/library/about/libraries/bsl/oliphant.pdf |archivedate=5 October 2013 |title=Sir Mark Oliphant (1901–2000) |publisher=[[University of Adelaide]] |accessdate=4 May 2013}}&lt;/ref&gt; and a high school in [[Munno Para West, South Australia]].&lt;ref&gt;{{cite web |url=http://moc.sa.edu.au/about/people/introduction/ |title=Mark Oliphant College B-12 |publisher=Mark Oliphant College |accessdate=15 February 2015}}&lt;/ref&gt; His papers are in the Adolph Basser Library at the Australian Academy of Science, and the Barr Smith Library at the University of Adelaide.&lt;ref&gt;{{cite web |url=http://www.eoas.info/biogs/P000683b.htm |title=Oliphant, Marcus Laurence Elwin  |publisher= Encyclopedia of Australian Science |accessdate=23 February 2015 }}&lt;/ref&gt; Oliphant's nephew, [[Pat Oliphant]], is a [[Pulitzer Prize]]-winning cartoonist.&lt;ref name=&quot;Joffe&quot; /&gt;
+
+== Honours and awards ==
+* 1937 Elected [[Fellow of the Royal Society]]&lt;ref name=&quot;AAS&quot; /&gt;
+* 1943 Awarded [[Hughes Medal]] by the Royal Society&lt;ref name=&quot;AAS&quot; /&gt;
+* 1946 Awarded Silvanius Thomson Medal, Institute of Radiology&lt;ref name=&quot;AAS&quot; /&gt;
+* 1948 Awarded [[Faraday Medal]] by the Institution of Engineers&lt;ref name=&quot;AAS&quot; /&gt;
+* 1954 Elected (Foundation) [[Fellow of the Australian Academy of Science]]&lt;ref name=&quot;AAS&quot; /&gt;
+* 1954 Elected (Foundation) President of the Australian Academy of Science&lt;ref name=&quot;AAS&quot; /&gt;
+* 1955 Invited to deliver the [[Bakerian Lecture]] by the Royal Society&lt;ref name=&quot;AAS&quot; /&gt;
+* 1955 Invited to deliver the [[Rutherford Memorial Lecture]] by the Royal Society&lt;ref name=&quot;AAS&quot; /&gt;
+* 1956 Awarded Galathea Medal by King [[Frederick IX of Denmark]]&lt;ref name=&quot;AAS&quot; /&gt;
+* 1959 Created [[Knight Commander of the Order of the British Empire]]&lt;ref name=&quot;KBE&quot; /&gt;
+* 1961 Awarded [[Matthew Flinders Medal and Lecture]] &lt;ref&gt;{{cite web|url=https://www.science.org.au/matthew-flinders-medal-and-lecture|title=Matthew Flinders Medal and Lecture|work=science.org.au|accessdate=12 May 2016}}&lt;/ref&gt;
+* 1977 Appointed [[Companion of the Order of Australia]]&lt;ref name=&quot;AC&quot; /&gt;
+
+&lt;gallery class=&quot;center&quot; widths=&quot;200px&quot; heights=&quot;300px&quot; caption=&quot;Memorials to Mark Oliphant&quot;&gt;
+File:J150W-statue-Oliphant.jpg|Statue on North Terrace
+File:J150W-statue-Oliphant-text.jpg|Text on the statue
+File:J150W-Oliphant.jpg|Plaque on the [[Jubilee 150 Walkway]]
+&lt;/gallery&gt;
+
+== Bibliography ==
+* {{cite book |last=Oliphant |first= Mark |title=The Atomic age |location=London |publisher=G. Allen and Unwin |year=1949 |oclc=880015 }}
+* {{cite book |last=Oliphant |first= Mark |authormask=1 |title=Science and the Future |location=Bedford Park, South Australia |publisher=Flinders University Science Association |year=1970 |oclc=37096592 }}
+* {{cite book |last=Oliphant |first= Mark |authormask=1 |title=Rutherford: Recollections of the Cambridge Days |location=Amsterdam |publisher=Elsevier Pub. Co. |year=1972 |isbn=978-0-444-40968-3 |oclc=379045 }}
+
+== Notes ==
+{{reflist|30em}}
+
+== References ==
+*{{cite book
+| last = Cockburn
+| first = Stewart
+| first2 = David
+| last2 = Ellyard
+| title = Oliphant, the Life and Times of Sir Mark Oliphant
+| location = Adelaide
+| year = 1981
+| publisher = Axiom Books
+| isbn = 978-0-9594164-0-4
+| ref = harv
+}}
+*{{cite book
+ | last = Gowing
+ | first = Margaret
+ | authorlink = Margaret Gowing
+ | year = 1964
+ | title = Britain and Atomic Energy, 1939–1945
+ | location = London
+ | publisher = MacMillan
+ | oclc=670156897
+ | ref = harv
+}}
+* {{cite book
+ | last1 = Gowing
+ | first1 = Margaret
+ | first2 = Lorna
+ | last2 = Arnold
+ | authorlink2=Lorna Arnold
+ | title=Independence and Deterrence: Britain and Atomic Energy, 1945–1952, Volume 1, Policy Making
+ | publisher= Macmillan
+ | year = 1974
+ | location = London
+ | isbn = 0-333-15781-8
+ | oclc = 611555258
+ | ref=harv
+}}
+* {{cite book
+ | last=Hewlett
+ | first=Richard G.
+ | authorlink=Richard G. Hewlett
+ | last2=Anderson
+ | first2=Oscar E.
+ | title=The New World, 1939–1946
+ | location=University Park
+ | publisher=Pennsylvania State University Press
+ | year=1962
+ | url=http://www.governmentattic.org/5docs/TheNewWorld1939-1946.pdf
+ | accessdate=26 March 2013
+ | isbn=0-520-07186-7
+ | oclc=637004643
+ | ref=harv
+}}
+*{{cite book
+| last = Mellor
+| first = D. P.
+| title = The Role of Science and Industry
+| location = Canberra
+| publisher = Australian War Memorial
+| series = [[Australia in the War of 1939–1945]]
+| year = 1958
+| url = http://www.awm.gov.au/histories/second_world_war/volume.asp?levelID=67920
+| accessdate = 6 May 2013
+| oclc = 4092792
+| ref = harv
+}}
+* {{cite book
+ | last = Reynolds
+ | first = Wayne
+ | year = 2000
+ | title = Australia's Bid for the Atomic Bomb
+ | location = Carlton, Victoria
+ | publisher = Melbourne University Press
+ | isbn = 978-0-522-84914-1
+ | oclc = 46880369
+ | ref = harv
+}}
+* {{cite book
+ | last = Rhodes
+ | first = Richard
+ | authorlink = Richard Rhodes
+ | title = [[The Making of the Atomic Bomb]]
+ | location = New York
+ | publisher = Simon &amp; Schuster
+ | year = 1986
+ | isbn = 0-671-44133-7
+ | oclc = 13793436
+ | ref = harv
+}}
+
+== External links ==
+* {{cite web |url=https://ieeetv.ieee.org/history/larson-collection-interview-with-mark-oliphant |title=
+Larson Collection interview with Mark Oliphant |accessdate=5 October 2014 |publisher=[[IEEE]] }} Video interview.
+* {{cite web |url=http://www.aip.org/history/ohilist/4805.html |title=Oral History Transcript — Sir Mark Oliphant |publisher=[[American Institute of Physics]] |accessdate=5 October 2014 |date=3 November 1971 }}
+* {{cite web |url=http://photos.lbl.gov/viewphoto.php?imageId=4717023 |title=Group photograph of British Mission at Berkeley, 1944 |publisher=[[Lawrence Berkeley Laboratory]] |accessdate=12 March 2015}}
+
+{{s-start}}
+{{s-gov}}
+{{succession box |
+ before=[[James Harrison (Australian governor)|Major General Sir James Harrison]] |
+ after=[[Douglas Nicholls|Sir Douglas Nicholls]] |
+ title=[[Governor of South Australia]] |
+ years=1971–1976
+}}
+{{s-end}}
+
+{{Governors of South Australia}}
+{{Manhattan Project}}
+{{Subject bar|portal1=Australia|portal2=Biography|portal3=History of science|portal4=Nuclear technology|portal5=Physics|portal6=South Australia|portal7=University of Cambridge|portal8=World War II|commons=y|q=y}}
+{{Authority control}}
+
+
+{{DEFAULTSORT:Oliphant, Mark}}
+[[Category:1901 births]]
+[[Category:2000 deaths]]
+[[Category:People from Adelaide]]
+[[Category:Australian academics]]
+[[Category:Australian atheists]]
+[[Category:Australian physicists]]
+[[Category:Australian nuclear physicists]]
+[[Category:Accelerator physicists]]
+[[Category:Companions of the Order of Australia]]
+[[Category:Fellows of the Australian Academy of Science]]
+[[Category:Governors of South Australia]]
+
+[[Category:Australian Knights Commander of the Order of the British Empire]]
+[[Category:Manhattan Project people]]
+[[Category:Radar pioneers]]
+[[Category:University of Adelaide alumni]]
+[[Category:Australian Fellows of the Royal Society]]
+[[Category:University of Adelaide faculty]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:Australian National University faculty]]</text>
+      <sha1>5ga2ipknymtl5hw57kr81stor4xloug</sha1>
+    </revision>
+  </page>
+</mediawiki>

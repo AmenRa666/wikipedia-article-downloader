@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alan Green (admiral)</title>
+    <ns>0</ns>
+    <id>44261987</id>
+    <revision>
+      <id>639516632</id>
+      <parentid>636152537</parentid>
+      <timestamp>2014-12-24T21:39:28Z</timestamp>
+      <contributor>
+        <username>GrahamHardy</username>
+        <id>2956291</id>
+      </contributor>
+      <minor/>
+      <comment>+defsort</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2561">{{Other people|Alan Green}}
+
+{{Infobox military person
+| honorific_prefix  = 
+| name              = Alan Graham Green
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| birth_date    = {{birth date and age|df=yes|1952|12|19}}
+| death_date    = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} death date first, then birth date --&gt;
+| birth_place   = 
+| death_place   = 
+| placeofburial = 
+| placeofburial_label = 
+| placeofburial_coordinates = &lt;!-- {{Coord|LAT|LONG|display=inline,title}} --&gt;
+| nickname      = 
+| birth_name    = 
+| allegiance    = {{ZAF}}
+| branch        = {{navy|South Africa}}
+| serviceyears  = 
+| rank          = Rear Admiral
+| servicenumber = &lt;!--Do not use data from primary sources such as service records.--&gt;
+| unit          = 
+| commands      = {{plainlist |
+* SAS Simonsberg
+}}
+| battles       = 
+| battles_label = 
+| awards        = {{plainlist |
+* [[Medal for Distinguished Conduct and Loyal Service]]
+}} 
+| memorials     =
+| spouse        = &lt;!-- Add spouse if reliably sourced --&gt; 
+| relations     = [[Eric Green (admiral)|Eric Green]] (brother)
+| laterwork     = 
+| signature     = 
+| website       = &lt;!-- {{URL|example.com}} --&gt;
+| module        = 
+}}
+
+Rear Admiral Alan Green (born 19 December 1952) &lt;ref name=&quot;CV&quot;&gt;{{cite web | url=http://www.armscomm.org.za/hearings/witness-statements/ws-Admiral-Alan-Green.pdf | title=Statement and CV of Alan Green | publisher=The Arms Procurement commission | accessdate=July 24, 2014}}&lt;/ref&gt; is a retired South African Navy officer who served as Chief: Military Policy, Strategy and Planning for the [[South African National Defence Force]]. He retired in 2012.&lt;ref name=&quot;CV&quot; /&gt;
+
+His awards and honours include the [[Medal for Distinguished Conduct and Loyal Service]] for 40 years service.&lt;ref name=&quot;Medals&quot;&gt;{{cite web | url=http://www.defenceweb.co.za/index.php?option=com_content&amp;view=article&amp;id=29441:western-cape-sandf-members-receive-medals&amp;catid=111:sa-defence&amp;Itemid=242 | title=Western Cape SANDF members receive medals | publisher=Defenceweb | date=February 13, 2013 | accessdate=October 31, 2014 | author=Wingrin, Dean}}&lt;/ref&gt;
+
+He  commanded the [[Warrior class strike craft]] {{SAS|Job Masego}} (previously SAS Kobie Koetzee) in 1988.&lt;ref&gt;http://152.111.1.87/argief/berigte/dieburger/1988/07/23/3/2.html&lt;/ref&gt;
+==References==
+{{reflist}}
+
+{{SouthAfrica-mil-bio-stub}}
+{{DEFAULTSORT:Green, Alan}}
+[[Category:South African admirals]]
+[[Category:1952 births]]
+[[Category:Living people]]</text>
+      <sha1>mtfvvzg365cl8hxk0hrgn50q18p9big</sha1>
+    </revision>
+  </page>
+</mediawiki>

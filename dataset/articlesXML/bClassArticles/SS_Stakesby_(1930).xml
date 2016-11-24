@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Stakesby (1930)</title>
+    <ns>0</ns>
+    <id>32066862</id>
+    <revision>
+      <id>734970663</id>
+      <parentid>733533442</parentid>
+      <timestamp>2016-08-17T21:29:04Z</timestamp>
+      <contributor>
+        <username>Josve05a</username>
+        <id>12023796</id>
+      </contributor>
+      <minor/>
+      <comment>cleanup, [[WP:AWB/T|typo(s) fixed]]: 56KM → 56&amp;nbsp;km (6) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32398">{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               =
+| Ship caption             =
+}}
+{{Infobox ship career
+| Hide header              =
+| Ship name                =*''Stakesby'' (1930-43)
+*''Empire Derwent'' (1943-46)
+*''Swan Point'' (1946-49)
+| Ship owner               =*Rowland &amp; Marwood Steamship Co Ltd (1930-43)
+*Ministry of War Transport (1943-45)
+*Ministry of Transport (1945-46)
+*Cereal Trade &amp; Shipping Co Ltd (1946-49)
+| Ship operator            =*Headlam &amp; Son Ltd (1930-40)
+*Neill &amp; Pandelis Ltd (1943-46)
+*J D McLaren &amp; Co Ltd (1946-49)
+| Ship registry            =*{{flagicon|United Kingdom|civil}} Whitby, United Kingdom (1930-40)
+*{{flagicon|United Kingdom|civil}} Sunderland (1943-46)
+*{{flagicon|United Kingdom|civil}} London (1946-49)
+| Ship route               =
+| Ship ordered             =
+| Ship builder             = William Pickersgill &amp; Sons Ltd
+| Ship original cost       =
+| Ship yard number         =
+| Ship way number          =
+| Ship laid down           =
+| Ship launched            = 1930
+| Ship completed           =
+| Ship commissioned        =
+| Ship decommissioned      =
+| Ship christened          =
+| Ship acquired            =
+| Ship maiden voyage       =
+| Ship in service          =
+| Ship out of service      =
+| Ship identification      =*United Kingdom Official Number 161017
+*Code Letters LGDK (1930-34)
+*{{ICS|Lima}}{{ICS|Golf}}{{ICS|Delta}}{{ICS|Kilo}}
+*Code Letters GPWM (1934-40, 1943-49)
+*{{ICS|Golf}}{{ICS|Papa}}{{ICS|Whiskey}}{{ICS|Mike}}
+| Ship fate                = Torpedoed and sunk in 1940, salvaged in 1943, wrecked in 1949
+| Ship status              =
+| Ship notes               =
+}}
+{{Infobox ship characteristics
+| Hide header              =
+| Header caption           =
+| Ship class               = Cargo ship
+| Ship tonnage             =*{{GRT|4,026}}
+*{{NRT|2,339}}&lt;!--
+*x,xxx [[deadweight tonnage|DWT]]--&gt;
+| Ship displacement        =
+| Ship length              = {{convert|365|ft|6|in|m|2|abbr=on}}
+| Ship beam                = {{convert|51|ft|0|in|m|2|abbr=on}}
+| Ship height              =
+| Ship draught             = {{convert|22|ft|5+3/4|in|m}}
+| Ship depth               = {{convert|23|ft|5|in|m|2|abbr=on}}
+| Ship decks               =
+| Ship deck clearance      =
+| Ship ramps               =
+| Ship ice class           =
+| Ship range               =
+| Ship power               = 277 nhp
+| Ship propulsion          = Compound steam engine
+| Ship speed               = &lt;!--{{convert|xx|kn|km/h}}--&gt;
+| Ship capacity            =
+| Ship crew                = 36
+| Ship notes               =
+| Ship armament            = 1 x 4-inch gun, 1 x 12-pounder gun (1939-45)
+}}
+|}
+{{location map|Oceans around British Isles|width=304
+|lat=58.867
+|long=-6.567
+|caption=Location where ''Stakesby'' was torpedoed.
+}}
+{{location map|Bangladesh|width=304
+|lat=22.367
+|long=91.8
+|caption=Location where ''Swan Point'' was wrecked, shown in relation to [[Bangladesh]].
+}}
+
+'''''Stakesby''''' was a {{GRT|4,026}} [[cargo ship]] that was built in 1930 by William Pickersgill &amp; Sons Ltd, [[Sunderland, Co Durham]], [[United Kingdom]]. She was torpedoed by {{GS|U-124|1940|2}} in 1940 and later sank. Raised in 1943, she was repaired, passed to the [[Ministry of War Transport]] (MoWT) and renamed '''''Empire Derwent'''''. She was sold into merchant service in 1946 and renamed '''''Swan Point''''', serving until she was wrecked in 1949.
+
+==Description==
+The ship was built in 1930 by William Pickersgill &amp; Sons Ltd, [[Sunderland, Co Durham]].&lt;ref name=Ships&gt;{{cite book |last1= Mitchell |first1=W.H. |last2=Sawyer |first2=L.A. |year=1995 |title=The Empire Ships |page=not cited |publisher= Lloyd's of London Press Ltd |location= London, New York, Hamburg, Hong Kong |isbn=1-85044-275-4}}&lt;/ref&gt;&lt;!-- She was yard number xxx.&lt;ref name=xxxx&gt;--&gt;
+
+The ship was {{convert|365|ft|5|in|m|2}} long, with a beam of {{convert|51|ft|0|in|m|2}}. She had a depth of {{convert|34|ft|2|in|m|2}} and a draught of {{convert|22|ft|5+3/4|in|m}}.&lt;ref name=Stakesby30&gt;{{cite web|url=http://www.plimsollshipdata.org/pdffile.php?name=30b1120.pdf |title=LLOYD'S REGISTER, NAVIRES A VAPEUR ET A MOTEURS |publisher=Plimsoll Ship Data |accessdate=15 July 2011}}&lt;/ref&gt; She was assessed at {{GRT|4,026}},&lt;ref name=Ships/&gt; {{NRT|2,339}}.&lt;ref name=Stakesby30/&gt;&lt;!-- Her [[deadweight tonnage|DWT]] was x,xxx.&lt;ref name=xxxx/&gt;--&gt;
+
+The ship was propelled by a 277 [[nominal horsepower|nhp]] [[compound steam engine]], which had two cylinders of {{convert|18+3/4|in|cm}} and two cylinders of {{convert|39+3/4|in|cm}} diameter by {{convert|39+2/8|in|cm}} stroke. The engine was built by J Dickinson &amp; Sons Ltd, Sunderland.&lt;ref name=Stakesby30/&gt;&lt;!-- It drove a screw propeller and could propel the ship at {{convert|xx|kn|km/h}}.&lt;ref name=xxxx/&gt;--&gt;
+
+==History==
+
+===Pre-war===
+''Stakesby'' was built for Rowland &amp; Marwood Steamship Co, [[Whitby]]. She was operated under the management of Headlam &amp; Son, Whitby.&lt;ref name=Ships/&gt; The Official Number 161017 and [[Code Letters]] LGDK were allocated.&lt;ref name=Stakesby30/&gt; On 15 May 1933, ''Stakesby'' ran aground at [[Buenos Aires]], [[Argentina]]. She was on a voyage from [[Cardiff]], [[Glamorgan]] to [[Villa Constitución]].&lt;ref name=Times160533&gt;{{Cite newspaper The Times |articlename=Casualty Reports |day_of_week=Tuesday |date=16 May 1933 |page_number=25 |issue=46445 |column=E }}&lt;/ref&gt; She was refloated on 19 May.&lt;ref name=Times200533&gt;{{Cite newspaper The Times |articlename=Casualty Reports |day_of_week=Saturday |date=20 May 1933 |page_number=21 |issue=47449 |column=C }}&lt;/ref&gt; With the change of Code Letters in 1934, ''Stakesby'' was allocated GPWM.&lt;ref name=Stakesby37&gt;{{cite web |url=http://www.plimsollshipdata.org/pdffile.php?name=37b0824.pdf |title=LLOYD'S REGISTER, STEAMERS &amp; MOTORSHIPS |publisher=Plimsoll Ship Data |accessdate=15 July 2011}}&lt;/ref&gt; On 23 June 1939, ''Stakesby'' ran aground near [[Puerto Obligado]], Argentina, whilst outward bound for [[Sharpness]], [[Gloucestershire]].&lt;ref name=Times260639&gt;{{Cite newspaper The Times |articlename=Casualty Reports |day_of_week=Monday |date=26 June 1939 |page_number=25 |issue=48341 |column=D }}&lt;/ref&gt; She was refloated on 25 June.&lt;ref name=Times270639&gt;{{Cite newspaper The Times |articlename=Casualty reports |day_of_week=Tuesday |date=27 June 1939 |page_number=10 |issue=48342 |column=G }}&lt;/ref&gt;
+
+===World War II===
+
+====1939-40====
+With the onset of [[World War II]], ''Stakesby'' was armed with a four-inch gun and a 12-pounder gun.&lt;ref name=Uboat&gt;{{cite web |url=http://www.uboat.net/allies/merchants/ships/480.html |title=Stakesby |publisher=Uboat |accessdate=2 June 2011}}&lt;/ref&gt; She departed from [[Kingston, Jamaica]] on 24 September 1939 for [[Newport, Wales|Newport]], [[Monmouthshire (historic)|Monmouthshire]], where she arrived on 15 October. She then sailed to [[Avonmouth]], [[Gloucestershire]], arriving on 19 October. She left Avonmouth on 25 October for Newport, from where she departed on 7 November for [[Milford Haven]], [[Pembrokeshire]], arriving two days later. On 11 November, she sailed from Milford Haven to join [[Convoy OB 33]],&lt;ref name=Port&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?search.php?vessel=STAKESBY~armain |title=STAKESBY |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; which departed from [[Liverpool]], [[Lancashire]], on 10 November and dispersed at sea on 15 November. She was carrying a cargo of [[coal]] with a stated destination of Buenos Aires,&lt;ref name=OB33&gt;{{cite web |url=http://www.convoyweb.org.uk/ob2/index.html?ob.php?convoy=33!~obmain |title=Convoy OB.33 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; where she arrived on 20 December.&lt;ref name=Port/&gt;
+
+''Stakesby'' departed from Buenos Aires on 8 January 1940 and sailed to [[Freetown]], [[Sierra Leone]], arriving on 30 January.&lt;ref name=Port/&gt; Carrying a cargo of [[maize]] and [[bran|pollards]], she departed from Freetown on 10 February as a member of [[Convoy SL 20]], which joined Convoy SL 20F at sea on 25 February.&lt;ref name=SL20&gt;{{cite web |url=http://www.convoyweb.org.uk/sl2/index.html?sl.php?convoy=20!~slmain |title=Convoy SL 20 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; The combined convoy arrived at Liverpool on 28 February.&lt;ref name=SL20F&gt;{{cite web |url=http://www.convoyweb.org.uk/sl2/index.html?sl.php?convoy=20F!~slmain |title=Convoy SL 20F |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; ''Stakesby'' detached from the convoy and sailed to [[The Downs]], off the coast of [[Kent]]. She arrived on 28 February and sailed that day to [[Southend-on-Sea|Southend]], [[Essex]], to join [[Convoy FN 106]], which arrived at [[Methil]], [[Fife]], on 1 March. She departed from Methil on 4 March and sailed to [[Aberdeen]], arriving the next day.&lt;ref name=Port/&gt;
+
+''Stakesby'' departed from Aberdeen on 16 March for the [[River Tyne|Tyne]], arriving two days later. She departed from the Tyne on 17 April as a member of [[Convoy FS 148]],&lt;ref name=Port/&gt; which arrived at Southend on 19 April.&lt;ref name=FS148&gt;{{cite web |url=http://www.convoyweb.org.uk/fs/index.html?fs.php?convoy=0148!~fsmain |title=Convoy FS.148 = Convoy FS.48 / Phase 2 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; She detached from the convoy and put into [[Immingham]], [[Lincolnshire]], arriving on 18 April and leaving two days later to join [[Convoy FS 151]]&lt;ref name=Port/&gt; which departed from the Tyne that day and arrived at Southend on 22 April.&lt;ref name=FS151&gt;{{cite web |url=http://www.convoyweb.org.uk/fs/index.html?fs.php?convoy=0151!~fsmain |title=Convoy FS.151 = Convoy FS.51 / Phase 2 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; She departed from Southend on 24 April as a member of Convoy OA 135G, which formed [[Convoy OG 27]] on 26 April. Her destination was [[Saint John's, Newfoundland and Labrador|Saint John's]], [[Dominion of Newfoundland|Newfoundland]].&lt;ref name=OA135G&gt;{{cite web |url=http://www.convoyweb.org.uk/oa/index.html?oa.php?convoy=135G!~oamain |title=Convoy OA.135G|publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; Convoy OG 27 arrived at [[Gibraltar]] on 3 May.&lt;ref name=OG27&gt;{{cite web |url=http://www.convoyweb.org.uk/og/index.html?og.php?convoy=27!~ogmain |title=Convoy OG.27 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; ''Stakesby'' detached from the convoy and sailed to Saint John's, arriving on 10 May. Five days later, she sailed to [[Halifax Regional Municipality|Halifax]], [[Nova Scotia]], [[Canada]], arriving on 19 May.&lt;ref name=Port/&gt; Laden with a cargo of [[lumber]], she departed from Halifax on 25 May as a member of [[Convoy HX 49]], which arrived at Liverpool on 24 June.&lt;ref name=HX49&gt;{{cite web |url=http://www.convoyweb.org.uk/hx/index.html?hx.php?convoy=49!~hxmain |title=Convoy HX.49 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; She detached from the convoy and sailed to Southend, arriving on 24 June, departing the next day with [[Convoy FN 201]], which arrived at Methil on 27 June. She then sailed to [[Dundee]], [[Perthshire]].&lt;ref name=Port/&gt;
+
+''Stakesby'' departed from Dundee on 9 July and sailed to Methil.&lt;ref name=Port/&gt; She departed from Methil on 20 July as a member of [[Convoy OA 187]], which dispersed at sea on 25 July.&lt;ref name=OA187&gt;{{cite web |url=http://www.convoyweb.org.uk/oa/index.html?oa.php?convoy=187!~oamain |title=Convoy OA.187 |publisher=Convoyweb |accessdate=12 June 2011}}&lt;/ref&gt; Her destination was [[Sydney, Nova Scotia|Sydney]], [[Cape Breton Island|Cape Breton]], Nova Scotia, where she arrived on 2 August. She departed the next day for [[Chatham, New Brunswick]]. She returned to Sydney on 10 August, departing two days later as a member of [[Convoy HX 65]],&lt;ref name=Port/&gt;  which arrived at Liverpool on 27 August. ''Stakesby'' was carrying a cargo of [[pit prop]]s, destined for the Tyne.&lt;ref name=HX65&gt;{{cite web |url=http://www.warsailors.com/convoys/hx65.html |title=CONVOY HX 65 |publisher=Warsailors |accessdate=12 June 2011}}&lt;/ref&gt;
+
+At about 23:55 hrs (German time) on 25 August, ''Stakesby'' was hit by a [[torpedo]] fired by {{GS|U-124|1940|2}}, which was under the command of [[Kapitänleutnant]] [[Georg-Wilhelm Schulz]]. She was hit in the No.1 hold. Her cargo provided sufficient buoyancy to keep her afloat, although a fire developed at the forward end of the ship. At the time, ''Stakesby'' was {{convert|23|nmi|km}} north of the [[Butt of Lewis]] ({{coord|58|52|N|6|34|W}}). After an hour, the 36 crew abandoned ship, as the fire was beyond their capacity to fight. They were rescued by the [[Norway|Norwegian]] merchant ship {{SS|Cetus|1920|2}} which took them to [[Stornoway]], [[Outer Hebrides]]. {{HMS|Thames|1938|6}} was despatched to the aid of ''Stakesby''. She was towed to Glumaig Bay, on west coast of [[Isle of Skye]] in Scotland, but sank after the tow broke.&lt;ref name=Uboat/&gt;
+
+====1942-43====
+In January 1942, ''Stakesby'' was raised and temporary repairs were carried out. She departed from Stornoway under tow on 9 June and arrived at [[Rothesay, Bute|Rothesay Bay]], [[Isle of Bute|Bute]], on 12 June. She was then towed to the [[River Clyde|Clyde]] where more temporary repairs were made. ''Stakesby'' was then towed to Sunderland for permanent repairs to be made. She was taken over by the MoWT, renamed ''Empire Derwent'' and placed under the management of Neill &amp; Pandelis Ltd, London.&lt;ref name=Uboat/&gt; She retained her Code Letters GPWM and Official Number 161017. Her port of registry was changed to Sunderland.&lt;ref name=ID&gt;{{cite web |url=http://convoyweb.org.uk/signal/index.html?search_all.php~signalmain |title=Signal Letters Database |publisher=Convoyweb |accessdate=8 June 2011}} (Enter GPWM in relevant search box)&lt;/ref&gt;
+
+=====Re-named Empire Derwent=====
+The repair of ''Empire Derwent'' took until 30 April 1943 to complete. She departed from Sunderland on 1 May and sailed to Methil, arriving the next day. She then joined Convoy EN 223, which arrived at Oban on 5 May. She left Oban a week later and sailed to the Clyde, arriving on 13 May.&lt;ref name=Port2&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?search.php?vessel=EMPIRE%20DERWENT~armain |title=EMPIRE DERWENT |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She was a member of Convoy ONS 9, which departed from Liverpool on 28 May and arrived at Halifax on 9 June. ''Empire Derwent'' was bound for New York.&lt;ref name=ONS5&gt;{{cite web |url=http://www.convoyweb.org.uk/ons/index.html?ons.php?convoy=9!~onsmain |title=Convoy ONS.9 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She then joined Convoy XB 57A, which departed from Halifax that day and arrived at [[Boston, Massachusetts]] on 11 June.&lt;ref name=XB57A&gt;{{cite web |url=http://www.convoyweb.org.uk/xb/index.html?xb.php?convoy=57A!~xbmain |title=Convoy XB57A |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; ''Empire Derwent'' left the convoy at the [[Cape Cod Canal]] and sailed to New York, arriving on 14 June. She sailed from New York on 1 July for Boston. She then joined Convoy BX 61, which arrived at Halifax on 6 July.&lt;ref name=Port2/&gt; Carrying a cargo of lumber and [[steel]], she joined Convoy SC 126, which departed from Halifax on 8 July and arrived at Liverpool on 23 July.&lt;ref name=SC136&gt;{{cite web |url=http://www.warsailors.com/convoys/sc136.html |title=CONVOY SC 136 |publisher=Warsailors |accessdate=13 June 2011}}&lt;/ref&gt; She left the convoy at Loch Ewe to join Convoy WN 458 which arrived at Methil on 25 June.&lt;ref name=Port2/&gt; She then joined Convoy FS 1178, which departed from Methil on 26 June and arrived at Southend two days later.&lt;ref name=FS1178&gt;{{cite web |url=http://www.convoyweb.org.uk/fs/index.html?fs.php?convoy=1178!~fsmain |title=Convoy FS.1178 = Convoy FS.78 / Phase 12|publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; ''Empire Derwent'' left the convoy at the Tyne, arriving on 27 July.&lt;ref name=Port2/&gt;
+
+''Empire Derwent'' departed from the Tyne on 28 August to join Convoy FS 1206,&lt;ref name=Port2/&gt; which had departed from Methil that day and arrived at Southend on 30 August.&lt;ref name=FS1206&gt;{{cite web |url=http://www.convoyweb.org.uk/fs/index.html?fs.php?convoy=1206!~fsmain |title=Convoy Convoy FS.1206 = Convoy FS.6 / Phase 13|publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She then joined Convoy CW 205, which departed the next day and arrived at the [[St Helens, Isle of Wight|St Helens Roads]] on 1 September.&lt;ref name=CW205&gt;{{cite web |url=http://www.convoyweb.org.uk/cw/index.html?cw.php?convoy=205!~cwmain |title=Convoy CW.205 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She then sailed to the Clyde, arriving on 13 September. ''Empire Derwent'' departed from the Clyde on 8 October to join Convoy OS 56&amp;nbsp;km,&lt;ref name=Port2/&gt; which had departed from Liverpool on 7 October and split at sea on 18 October. She was carrying cargo described as &quot;stores&quot; and vehicles.&lt;ref name=OS56KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=56KM!~osmain |title=Convoy OS.56 / KMS.29 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She was in the part of the convoy that formed Convoy KMS 29G, which arrived at Gibraltar on 20 October.&lt;ref name=KMS29G&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=29G!~kmsmain |title=Convoy KMS.26G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; ''Empire Derwent'' was a member of Convoy KMS 30, which departed from Gibraltar on 31 October and arrived at [[Port Said]], [[Egypt]], on 11 November. She left the convoy at [[Bône]], [[Algeria]],&lt;ref name=KMS30&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=30!~kmsmain |title=Convoy KMS.30 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; arriving on 4 November. She departed from Bône on 22 November for [[Philippeville, Algeria|Philippeville]], where she arrived the next day. On 27 November, she departed for [[Algiers]], arriving the next day and departing two days later to join Convoy MKS 32,&lt;ref name=Port2/&gt; which had departed from Port Said on 22 November and arrived at Gibraltar on 3 December.&lt;ref name=MKS32&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=32!~mksmain |title=Convoy MKS.32 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; Carrying a cargo of [[iron ore]], ''Empire Derwent'' joined Convoy MKS 32G, which departed that day and rendezvoused with Convoy SL 141 at sea on 14 December.&lt;ref name=MKS32G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=32G!~mksmain |title=Convoy MKS.32G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; The combined convoy arrived at Liverpool on 17 December.&lt;ref name=SL141MK&gt;{{cite web |url=http://www.convoyweb.org.uk/sl/index.html?sl141.htm~slmain |title=Convoy SL.141 / MKS.32 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; Her destination was [[Barrow-in-Furness]], Lancashire, where she arrived that day. She departed from Barrow-in-Furness on 25 December for Newport, arriving two days later.&lt;ref name=Port2/&gt;
+
+====1944-45====
+''Empire Derwent'' departed from Newport on 8 January for Milford Haven, arriving the next day. She departed on 13 January to join Convoy OS 65&amp;nbsp;km,&lt;ref name=Port/&gt; which departed from Liverpool on 14 January and split at sea on 26 January. Her cargo consisted [[coal]] and vehicles, destined for [[Naples]], [[Italy]].&lt;ref name=OS65KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=65KM!~osmain |title=Convoy OS.65 / KMS.39 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She was in the part of the convoy that formed Convoy KMS39G, which arrived at Gibraltar on 28 January.&lt;ref name=KMS39G&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=39G!~kmsmain |title=Convoy KMS.39G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She then joined Convoy KMS 39, which departed that day and arrived at Port Said on 7 February. ''Empire Derwent'' left the convoy at [[Augusta, Sicily]],&lt;ref name=KMS39&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=39!~kmsmain |title=Convoy KMS.39 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; on 3 February to join Convoy AH 22A, which departed that day and arrived at [[Bari]] on 5 February.&lt;ref name=AH22A&gt;{{cite web |url=http://www.convoyweb.org.uk/ah/index.html?ah.php?convoy=22A!~ahmain |title=Convoy AH.22A |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She sailed on to [[Taranto]], arriving that day. On 9 February, ''Empire Derwent'' departed from Taranto for [[Gallipoli, Apulia|Gallipoli]]. She departed on 23 February to join Convoy HA 26,&lt;ref name=Port2/&gt; which had departed from Bari that day and arrived at Augusta on 25 February.&lt;ref name=HA26&gt;{{cite web |url=http://www.convoyweb.org.uk/ha/index.html?ha.php?convoy=26!~hamain |title=Convoy HA.26 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She departed from Augusta on 11 March to join Convoy GUS 33, which had departed from Port Said on 5 March and arrived at the [[Hampton Roads]], [[Virginia]], United States, on 4 April. She left the convoy at [[Bizerta]], Algeria,&lt;ref name=GUS33&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=33!~gusmain |title=Convoy GUS.33 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; on 14 March. She departed from Bizerta on 23 March, arriving back there on 9 April. ''Empire Derwent'' departed that day to join Convoy KMS 46,&lt;ref name=Port2/&gt; which had departed from Gibraltar on 6 April and arrived at Port Said ten days later.&lt;ref name=KMS46&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?home.php~armain |title=Convoy KMS.46 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She left the convoy at Augusta on 11 April. The next day, she was escorted to [[Brindisi]], arriving on 14 April. She departed on 28 April to join Convoy HA 39,&lt;ref name=Port2/&gt; which had departed from Bari that day and arrived at Augusta two days later.&lt;ref name=HA39&gt;{{cite web |url=http://www.convoyweb.org.uk/ha/index.html?ha.php?convoy=39!~hamain |title=Convoy HA.39 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; ''Empire Derwent'' departed on 4 May to join Convoy MKS 48,&lt;ref name=Port2/&gt; which had departed from Port Said on 29 April and arrived at Gibraltar on 10 May. She left the convoy at Bizerta,&lt;ref name=MKS48&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=48!~mksmain |title=Convoy MKS.48 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; where she arrived on 12 May. She departed on 16 May to join Convoy MKS 49,&lt;ref name=Port2/&gt; which had departed from Port Said on 9 May and arrived at Gibraltar on 20 May.&lt;ref name=MKS49&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=49!~mksmain |title=Convoy MKS.49 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She departed three days later for [[Melilla]], Spain, where she arrived on 24 May, departing three days later for Gibraltar, arriving on 28 May.&lt;ref name=Port/&gt; ''Empire Derwent'' was a member of Convoy MKS 50G, which departed from Gibraltar on 30 May and rendezvoused at sea with Convoy SL 159 on 31 May. She was carrying a cargo of iron ore.&lt;ref name=MKS50G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=50G!~mksmain |title=Convoy MKS.50G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; The combined convoy arrived at Liverpool on 11 June.&lt;ref name=SL159MK&gt;{{cite web |url=http://www.convoyweb.org.uk/sl2/index.html?sl.php?convoy=159MK!~slmain |title=Convoy SL.159 / MKS.50 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She left the convoy at Cardiff, arriving on 12 June.&lt;ref name=Port2/&gt;
+
+''Empire Derwent'' departed from Cardiff on 10 July and sailed to the Belfast Lough, from where she departed on 13 July to join Convoy OS 83&amp;nbsp;km,&lt;ref name=Port2/&gt; which had departed from Liverpool on 12 July and split at sea on 23 July. She was carrying a cargo of coal.&lt;ref name=OS83KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=83KM!~osmain |title=Convoy OS.83 / KMS.57 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She reached Gibraltar via Convoy KMS 57G, arriving on 25 July and departing that day as a member of Convoy KMS 57,&lt;ref name=Port2/&gt; which arrived at Port Said on 4 August. She left the convoy at [[Oran]], Algeria,&lt;ref name=KMS57&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=57!~kmsmain |title=Convoy KMS.57 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; the next day. She then departed that day to join Convoy MKS 58,&lt;ref name=Port2/&gt; which had departed from Port Said on 7 August and arrived at Gibraltar on 17 August.&lt;ref name=MKS58&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=58!~mksmain |title=Convoy MKS.58 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She arrived at Gibraltar on 18 August and departed two days later for [[Águilas]], Spain, where she arrived on 21 August. She departed four days later and arrived back at Gibraltar on 25 August.&lt;ref name=Port2/&gt; Laden with a cargo of iron ore, ''Empire Derwent'' was a member of Convoy MKS 59G, which departed from Gibraltar on 29 August and rendezvoused at sea with Convoy SL 168 the next day.&lt;ref name=MKS59G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=59G!~mksmain |title=Convoy MKS.59G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; The combined convoy arrived at Liverpool on 30 August.&lt;ref name=SL168MK&gt;{{cite web |url=http://www.convoyweb.org.uk/sl2/index.html?sl.php?convoy=168MK!~slmain |title=Convoy SL.168 / MKS.59|publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She sailed on to the Clyde, arriving on 8 September.&lt;ref name=Port2/&gt;
+
+On 16 September, ''Empire Derwent'' departed from the Clyde to join Convoy ON 254,&lt;ref name=Port2/&gt; which had departed from Liverpool that day and arrived at New York on 5 October.&lt;ref name=ON254&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=254!~onzmain |title=Convoy ON.254 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She left the convoy as Sydney, from where she departed on 1 October as a member of Convoy SQ 96, which arrived at [[Father Point]], [[Quebec]], on 4 October.&lt;ref name=SQ96&gt;{{cite web |url=http://www.convoyweb.org.uk/misc/index.html?yy.php?convoy=SQ.96!~miscmain |title=Convoy SQ 96 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She then sailed to the Red Islet,{{Where|date=July 2011}} from where she departed on 13 October with Convoy QS 97, which arrived at Sydney four days later.&lt;ref name=QS97&gt;{{cite web |url=http://www.convoyweb.org.uk/misc/index.html?yy.php?convoy=QS.97!~miscmain |title=Convoy QS.97 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; Laden with [[grain]] destined for [[Manchester]], Lancashire,&lt;ref name=SC159/&gt; she departed on 19 October to join Convoy SC 159,&lt;ref name=Port2/&gt; which had departed from Halifax on 18 October and arrived at Liverpool on 2 November.&lt;ref name=SC159&gt;{{cite web |url=http://www.warsailors.com/convoys/sc159.html |title=CONVOY SC 159 |publisher=Warsailors |accessdate=13 June 2011}}&lt;/ref&gt;
+
+''Empire Derwent'' departed from Liverpool on 8 December for Cardiff, arriving two days later. She departed a week later and sailed to Milford Haven, arriving the same day and departing on 19 December to join Convoy OS 99&amp;nbsp;km,&lt;ref name=Port2/&gt; which had departed from Liverpool on 18 December and dispersed at sea on 21 December. She was carrying a cargo of coal bound for Gibraltar,&lt;ref name=OS99KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=99KM!~osmain |title=Convoy OS.99KM |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; which was reached on 26 December.&lt;ref name=Port/&gt; ''Empire Derwent'' departed from Gibraltar on 9 January 1945 for Águilas, from where she departed on 17 January, returning to Gibraltar two days later.&lt;ref name=Port2/&gt; Laden with iron ore, she departed on 21 January as a member of Convoy MKS 78G, which arrived at Liverpool on 29 January.&lt;ref name=MKS78G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=78G!~mksmain |title=Convoy MKS.78G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She sailed on to [[Workington]], [[Cumberland]], arriving on 29 January. She departed from Workington on 10 February and sailed to [[Barry, Vale of Glamorgan|Barry]], Glamorgan, arriving two days later.&lt;ref name=Port2/&gt;
+
+''Empire Derwent'' departed from Barry on 14 April for Milford Haven, from where she departed on 18 April to join Convoy OS 123&amp;nbsp;km,&lt;ref name=Port/&gt; which had departed from Liverpool on 17 April and split at sea on 23 April. She developed engine defects and returned to Milford Haven,&lt;ref name=OS123KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=123KM!~osmain |title=Convoy OS.123 / KMS.98 |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; arriving on 18 April. Defects rectified, she departed on 23 April to join Convoy OS 124&amp;nbsp;km,&lt;ref name=Port2/&gt; which had departed from the Clyde on 21 April and split at sea on 27 April.&lt;ref name=OS124KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=124KM!~osmain |title=Convoy OS.124 / KMS.99|publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; She was in the part of the convoy that formed Convoy KMS 98G and arrived at Gibraltar on 1 May.&lt;ref name=KMS98G&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=98G!~kmsmain |title=Convoy KMS.98G |publisher=Convoyweb |accessdate=13 June 2011}}&lt;/ref&gt; ''Empire Derwent'' arrived on 30 April, and departed three days later for [[Malta]], where she arrived on 8 May.&lt;ref name=Port2/&gt;
+
+===Post-war===
+''Empire Derwent'' departed from Malta on 18 May for Gibraltar, arriving on 24 May and departing the next day for Águilas, where she arrived on 26 May. She departed on 30 May for Workington via Gibraltar, arriving on 10 June. She departed nine days later for Barry, arriving on 21 June. ''Empire Derwent'' departed from Barry on 31 July and sailed to Gibraltar, arriving on 5 August and departing the next day for Naples, where she arrived on 11 August. ''Empire Derwent'' departed from Naples on 1 September for [[Tunis]], [[Tunisia]] where she arrived on 3 September. She left two days later and sailed to Gibraltar, from where she departed on 11 September for [[Falmouth, Cornwall]], arriving on 18 September and departing the next day for [[Middlesbrough]], [[North Riding of Yorkshire|Yorkshire]], where she arrived on 23 September.&lt;ref name=Port2/&gt;
+
+''Empire Derwent'' departed from Middlesbrough on 3 October for [[Kingston upon Hull|Hull]], arriving the next day. She departed on 12 October for [[Lisbon]], [[Portugal]], where she arrived on 24 October, departing a week later for Gibraltar, arriving on 4 November. She departed from Gibraltar on 15 November to make a round trip to Melilla, returning five days later and departing on 22 November for London, where she arrived on 29 November.&lt;ref name=Port2/&gt;
+
+In 1946, ''Empire Derwent'' was sold to the Cereal Trade &amp; Shipping Co Ltd. She was renamed ''Swan Point'' and her port of registry was changed to London.&lt;ref name=Times090446&gt;{{Cite newspaper The Times |articlename=Public Notices |day_of_week=Tuesday |date=9 April 1946 |page_number=1 |issue=50422 |column=C }}&lt;/ref&gt; She was operated under the management of J D McLaren &amp; Co Ltd, London. On 31 July 1949, ''Swan Point'' became stranded in the [[Karnaphuli River]], [[Chittagong]], [[India]], and broke in two. She was declared a total loss.&lt;ref name=Ships/&gt;
+
+==References==
+{{reflist|2}}
+{{Use dmy dates|date=July 2011}}
+
+{{Empire D ships}}
+{{1933 shipwrecks}}
+{{June 1939 shipwrecks}}
+{{August 1940 shipwrecks}}
+{{1949 shipwrecks}}
+
+{{DEFAULTSORT:Stakesby}}
+[[Category:1930 ships]]
+[[Category:Wear-built ships]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Maritime incidents in 1933]]
+[[Category:Maritime incidents in 1939]]
+[[Category:Maritime incidents in August 1940]]
+[[Category:Ships sunk by German submarines in World War II]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]
+[[Category:Empire ships]]
+[[Category:Ministry of War Transport ships]]
+[[Category:Maritime incidents in 1949]]
+[[Category:Karnaphuli River]]
+[[Category:Shipwrecks in the Bay of Bengal]]</text>
+      <sha1>gqvzg9tcn7spf9az8q3mjvmw5257cax</sha1>
+    </revision>
+  </page>
+</mediawiki>

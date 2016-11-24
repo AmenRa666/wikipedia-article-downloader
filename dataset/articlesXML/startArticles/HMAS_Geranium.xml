@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMAS Geranium</title>
+    <ns>0</ns>
+    <id>445499</id>
+    <revision>
+      <id>704818710</id>
+      <parentid>686973379</parentid>
+      <timestamp>2016-02-13T20:05:56Z</timestamp>
+      <contributor>
+        <username>Colonies Chris</username>
+        <id>577301</id>
+      </contributor>
+      <minor/>
+      <comment>minor fixes, replaced: [[Australia]] → Australia, Gulf of Carpenteria → Gulf of Carpentaria using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6653">{{other ships|HMS Geranium}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMAS Geranium.jpg|300px|HMAS ''Geranium'']]
+|Ship caption=HMAS ''Geranium''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag= {{shipboxflag|UK|naval}}
+|Ship name=''Geranium''
+|Ship namesake=
+|Ship ordered=
+|Ship builder=[[Greenock Dockyard Company|Greenock &amp; Grangemouth Dockyard Company]], [[Scotland]]
+|Ship laid down=August 1915
+|Ship launched=8 November 1915
+|Ship acquired=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Transferred to Australia, 1919 
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Australia
+|Ship flag={{shipboxflag|Australia|naval-1913}}
+|Ship name=''Geranium''
+|Ship acquired=18 October 1919
+|Ship commissioned=17 January 1920
+|Ship decommissioned=10 November 1927
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship homeport=
+|Ship motto=  
+|Ship nickname=Gerger
+|Ship honours=
+|Ship fate=*Dismantled, June 1932
+*Sunk as a hulk, 24 April 1935
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Arabis|sloop}}
+|Ship displacement=1,250 tons
+|Ship length={{Convert|267|ft|9|in|m|abbr=on}} [[Length overall|o/a]] 
+|Ship beam={{Convert|33|ft|6|in|m|abbr=on}}
+|Ship height=
+|Ship draught={{Convert|11|ft|9|in|m|abbr=on}}
+|Ship propulsion=*1 × 4-cylinder [[triple expansion engine]]
+*1 screw
+|Ship speed={{Convert|16.5|kn}}
+|Ship range={{Convert|2000|nmi}} at {{Convert|15|kn|abbr=on}} with max. 250 tons of coal
+|Ship endurance=
+|Ship boats=
+|Ship complement=*77 (RN)
+*113 (RAN)
+|Ship armament=
+|Ship armour=
+|Ship aircraft=1 × [[Fairey III|Fairey IIID]] [[seaplane]] (RAN)
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''HMAS ''Geranium''''' (formerly '''HMS ''Geranium''''') was an {{sclass|Arabis|sloop}} built in Scotland and launched in 1915. The ship was operated by the [[Royal Navy]] as a minesweeper from 1915 until 1919, when she was transferred to the [[Royal Australian Navy]] (RAN) for use as a survey ship between 1919 and 1927. The ship was decommissioned in 1927 and scrapped during 1932, with the remains scuttled in 1935.
+
+==Design and construction==
+{{Main|Arabis class sloop}}
+''Geranium'' was one of 56 ''Arabis'' class sloops built for the Royal Navy during World War I.&lt;ref name=FrameBaker114/&gt; The [[sloops-of-war]] were intended for minesweeping duties in European waters.&lt;ref name=FrameBaker114/&gt;
+
+''Geranium'' had a displacement of 1,250 tons.&lt;ref name=FrameBaker114/&gt; She was {{Convert|267|ft|9|in|}} in [[length overall]], had a beam of {{Convert|33|ft|6|in|}}, and a maximum draught of {{Convert|11|ft|9|in|}}.&lt;ref name=Bastock90&gt;Bastock, ''Australia's Ships of War'', p. 90&lt;/ref&gt; The propulsion system consisted of a four-cylinder [[triple expansion engine]], connected to a single propeller shaft.&lt;ref name=Bastock90/&gt; Maximum speed was {{Convert|16.5|kn}}, and the ship could achieve a range of {{Convert|2000|nmi}} at {{convert|15|kn}}.&lt;ref name=Bastock90/&gt; Up to 250 tons of coal could be carried.&lt;ref&gt;Frame &amp; Baker, ''Mutiny!'', p. 115&lt;/ref&gt;
+
+''Geranium'' was laid down for the [[Royal Navy]] by the [[Greenock Dockyard Company|Greenock &amp; Grangemouth Dockyard Company]], [[Greenock]], [[Scotland]], in August 1915 and launched on 8 November 1915.&lt;ref name=Bastock91&gt;Bastock, ''Australia's Ships of War'', p. 91&lt;/ref&gt;
+
+==Operational history==
+After World War I, ''Geranium'' and two sister ships ({{HMAS|Mallow||2}} and {{HMAS|Marguerite||2}}) were sent to Australia to clear mines deployed by the German auxiliary cruiser [[SMS Wolf (auxiliary cruiser)|SMS ''Wolf'']].&lt;ref name=FrameBaker114&gt;Frame &amp; Baker, ''Mutiny!'', p. 114&lt;/ref&gt; Despite hard work in rough seas, the ships only found one mine.&lt;ref name=FrameBaker114/&gt;
+
+''Geranium'' and the other two ships were transferred to the [[Royal Australian Navy]] on 18 October 1919.&lt;ref name=FrameBaker114/&gt; The ships' minesweeper design made them suitable for handling survey equipment,&lt;ref name=FrameBaker114/&gt; and ''Geranium'' entered RAN service as the navy's first [[survey ship]].&lt;ref name=Bastock92&gt;Bastock, ''Australia's Ships of War'', p. 92&lt;/ref&gt; The ship was poorly designed for survey duties in tropical Australian waters: she was designed for the [[North Sea]] climate, and was required to carry a ship's company of 113, 36 more than the intended ship's company of 77.&lt;ref name=FrameBaker114/&gt; In 1923, the sloop ran aground on an uncharted reef off [[Vanderlin Island]] in the [[Gulf of Carpentaria]].&lt;ref&gt;Frame &amp; Baker, ''Mutiny!'', pp. 118-9&lt;/ref&gt; The ship's company were able to refloat the ship and patch the damage, and after repairs in Sydney, the ship resumed northern survey operations.&lt;ref name=FrameBaker119&gt;Frame &amp; Baker, ''Mutiny!'', p. 119&lt;/ref&gt; In October, ''Geranium'' rescued the civilian steamship ''Montoro'' after she struck [[Young Reef]].&lt;ref name=FrameBaker119/&gt;
+
+In early 1924, the ship ran aground again in the [[MacArthur River]].&lt;ref name=FrameBaker119/&gt; The ship was refloated and repaired.&lt;ref name=FrameBaker119/&gt; Later that year, ''Geranium'' was fitted to carry a [[Fairey III|Fairey IIID]] [[seaplane]]: the first RAN survey vessel to carry an aircraft.&lt;ref name=FrameBaker120&gt;Frame &amp; Baker, ''Mutiny!'', p. 120&lt;/ref&gt; In May 1927, the survey ship assisted the steamship ''Tasman'', which had hit a reef off [[Clarke Island (Tasmania)|Clarke Island]].{{Clarify|date=November 2011|reason=Source does not specify which Clarke Island}}&lt;ref name=FrameBaker120/&gt;
+
+==Decommissioning and fate==
+''Geranium'' paid off in 1927.&lt;ref name=Bastock92/&gt; The ship was broken up for scrap at Cockatoo Island during 1932, and the stripped hulk was sunk outside [[Sydney Heads]] on 24 April 1935.&lt;ref name=FrameBaker120/&gt;
+
+==Citations==
+{{Reflist}}
+
+==References==
+*{{cite book |last=Bastock |first=John |title=Australia's Ships of War |year=1975 |publisher=Angus and Robertson |location=Cremorne, NSW |isbn=0207129274 |oclc=2525523}}
+*{{cite book |last=Frame |first=Tom |author2=Baker, Kevin |title=Mutiny! Naval Insurrections in Australia and New Zealand |publisher=Allen &amp; Unwin |location=St. Leonards, NSW |year=2000 |isbn=1-86508-351-8 |oclc=46882022}}
+
+{{Navbox shipwrecks of New South Wales|state=collapsed}}
+
+{{DEFAULTSORT:Geranium}}
+[[Category:World War I sloops of the United Kingdom]]
+[[Category:Arabis-class sloops of the Royal Australian Navy]]
+[[Category:Clyde-built ships]]
+[[Category:1915 ships]]
+[[Category:Scuttled vessels of New South Wales]]</text>
+      <sha1>ca2wpy3qnrv58r0jawvo2hwlfnhypm0</sha1>
+    </revision>
+  </page>
+</mediawiki>

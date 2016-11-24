@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-174</title>
+    <ns>0</ns>
+    <id>36508819</id>
+    <revision>
+      <id>749074381</id>
+      <parentid>748803828</parentid>
+      <timestamp>2016-11-12T06:27:23Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10803">{|{{Infobox ship begin}}
+{{Use dmy dates|date=July 2012}}
+{{Infobox ship image
+|Ship image=U-505chicago.jpg
+|Ship caption=''U-505'', a typical Type IXC boat
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''U-174''
+|Ship ordered=23 December 1939
+|Ship builder=[[DeSchiMAG]] [[AG Weser]], [[Bremen]]
+|Ship yard number=1014
+|Ship laid down =2 January 1941
+|Ship launched=21 August 1941
+|Ship commissioned=26 November 1941
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sunk, April 1943{{sfn|Kemp|1999|p=111}}
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[German Type IX submarine#Type IXC|Type IXC]] [[submarine]]
+|Ship displacement=
+*{{convert|1120|t|LT|abbr=on}} surfaced
+*{{convert|1232|t|LT|abbr=on}} submerged
+|Ship length=
+*{{convert|76.76|m|ftin|abbr=on}} [[o/a]]
+*{{convert|58.75|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam=
+*{{convert|6.76|m|ftin|abbr=on}} o/a
+*{{convert|4.40|m|ftin|abbr=on}} pressure hull
+|Ship height={{convert|9.60|m|ftin|abbr=on}}
+|Ship draught={{convert|4.70|m|ftin|abbr=on}}
+|Ship power=
+*{{convert|4400|PS|kW bhp|abbr=on}} (diesels)
+*{{convert|1000|PS|kW shp|-1|abbr=on}} (electric)
+|Ship propulsion=
+*2 shafts
+*2 × [[diesel engine]]s
+*2 × [[Motor-generator|electric motors]]
+|ship speed=
+*{{convert|18.3|kn}} surfaced
+*{{convert|7.3|kn}} submerged
+|Ship range=
+*{{convert|13,450|nmi|lk=in|abbr=on}} at {{convert|10|kn}} surfaced
+*{{convert|64|nmi|abbr=on}} at {{convert|4|kn}} submerged
+|Ship test depth={{convert|230|m|ft|abbr=on}}
+|Ship complement=4 officers, 44 enlisted48 to 56
+|Ship armament=
+*6 × [[torpedo tube]]s (4 bow, 2 stern)
+*22 × {{convert|53.3|cm|in|0|abbr=on}} [[torpedo]]es
+*1 × {{convert|10.5|cm|in|abbr=on}} [[deck gun]] (180 rounds)
+*1 × {{convert|3.7|cm|in|abbr=on}} AA gun
+*1 × twin [[2 cm FlaK 30]] AA guns
+|Ship notes=
+}}
+{{service record
+|is_ship=yes
+|label=
+|partof=
+*[[4th U-boat Flotilla]]
+**26 November 1941 – 31 July 1942
+*[[10th U-boat Flotilla]]
+**1 August – 27 April 1943
+|codes=
+|commanders=
+*''[[F.Kapt.]]'' Ulrich Thilo
+**26 November 1941 – 8 March 1943
+*''[[Oblt.z.S.]]'' Wolfgang Grandefeld
+**9 March – 27 April 1943
+|operations=Three
+|victories=Five ships sunk, of ({{GRT|30,813}})
+}}
+|}
+
+'''German submarine ''U-174''''' was a [[German Type IX submarine#Type IXC|Type IXC]] [[U-boat]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'' during [[World War II]].
+
+She was [[Keel laying|laid down]] at the [[DeSchiMAG]] [[AG Weser]] yard in [[Bremen]] as yard number 1014 on 2 January 1941, [[Ceremonial ship launching|launched]] on 21 August and [[Ship commissioning|commissioned]] on 26 November with ''[[Fregattenkapitän]]'' Ulrich Thilo in command.
+
+''U-174'' began her service career with training as part of the [[4th U-boat Flotilla]]. She was reassigned to the [[10th U-boat Flotilla|10th flotilla]] for operations on 1 August 1942.
+
+She was sunk by an American [[Lockheed Ventura]] in April 1943.
+
+==Design==
+[[German Type IX submarine#Type IXC|German Type IXC submarines]] were slightly larger than the original [[German Type IXB submarine|Type IXB]]s. ''U-174'' had a displacement of {{convert|1120|t|LT}} when at the surface and {{convert|1232|t|LT}} while submerged.{{sfn|Gröner|1991|p=68}} The U-boat had a total length of {{convert|76.76|m|ftin|abbr=on}}, a [[pressure hull]] length of {{convert|58.75|m|ftin|abbr=on}}, a [[beam (nautical)|beam]] of {{convert|6.76|m|ftin|abbr=on}}, a height of {{convert|9.60|m|ftin|abbr=on}}, and a [[draught (ship)|draught]] of {{convert|4.70|m|ftin|abbr=on}}. The submarine was powered by two [[MAN SE|MAN]] M 9 V 40/46 [[supercharged]] four-stroke, nine-cylinder [[diesel engine]]s producing a total of {{convert|4400|PS|kW shp|-1}} for use while surfaced, two [[Siemens-Schuckert]] 2 GU 345/34 [[Motor–generator|double-acting electric motors]] producing a total of {{convert|1000|PS|kW shp|-1}} for use while submerged. She had two shafts and two {{convert|1.92|m|ft|abbr=on|0}} [[propeller]]s. The boat was capable of operating at depths of up to {{convert|230|m}}.{{sfn|Gröner|1991|p=68}}
+
+The submarine had a maximum surface speed of {{convert|18.3|kn}} and a maximum submerged speed of {{convert|7.3|kn}}.{{sfn|Gröner|1991|p=68}} When submerged, the boat could operate for {{convert|63|nmi}} at {{convert|4|kn}}; when surfaced, she could travel {{convert|13450|nmi}} at {{convert|10|kn}}. ''U-174'' was fitted with six {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s (four fitted at the bow and two at the stern), 22 [[torpedo]]es, one [[10.5 cm SK C/32 naval gun|{{convert|10.5|cm|in|2|abbr=on}} SK C/32 naval gun]], 180 rounds, and a {{convert|3.7|cm|in|abbr=on}} as well as a {{convert|2|cm|in|abbr=on}} anti-aircraft gun. The boat had a [[Ship's company|complement]] of forty-eight.{{sfn|Gröner|1991|p=68}}
+
+==Service history==
+
+===1st patrol===
+The boat departed [[Kiel]] on 30 July 1942, moved through the [[North Sea]] and negotiated the 'gap' between [[Iceland]] and the [[Faroe Islands]]. She encountered, in mid-Atlantic Ocean, the corvette {{HNoMS|Potentilla|K 214|6}}. The Norwegian ship attacked; at one point, she was so close that a [[depth charge]] projected towards the U-boat, fell on the far side of the German vessel. The submarine escaped; nevertheless, the damage inflicted was sufficient to cause ''U-174'' to leave a tell-tale trail of oil, thus obliging Thilo to abort the patrol. She entered [[Lorient]], on the French Atlantic coast, on 6 September.
+
+===2nd patrol===
+For her second sortie, she sailed to the waters off Brazil. There she sank four ships between 31 October and 2 November 1942. She sank a fifth vessel on 15 December but was twice unsuccessfully attacked by American [[PBY Catalina|Catalina]] aircraft on the same day. She returned to Lorient on 9 January 1943.
+
+===3rd patrol and loss===
+''U-174'' had departed her French base on 18 March 1943, bound for the eastern seaboard of North America. On 27 April, she was attacked and sunk by an American [[Lockheed Ventura]] aircraft of [[VPB-125|VB-125]] southwest of [[Newfoundland (island)|Newfoundland]]. Fifty-three men died; there were no survivors.{{sfn|Kemp|1999|p=111}}&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/u174.htm
+ |title=The Type IXC boat U-174
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=3 October 2014
+}}&lt;/ref&gt;
+
+===Wolfpacks===
+''U-174'' took part in one [[Wolfpack (naval tactic)|wolfpack]], namely.
+* [[Wolfpack Lohs|Lohs]] (11–26 August 1942)
+
+==Summary of raiding history==
+{| class=&quot;wikitable sortable&quot; style=&quot;margin: 1em auto 1em auto;&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|-
+! Date
+! Name
+! Nationality
+! Tonnage&lt;br/&gt;([[Gross register tonnage|GRT]])
+! Fate&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/successes/u174.html
+ |title=Ships hit by U-174
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=3 October 2014
+}}&lt;/ref&gt;
+|-
+|align=&quot;right&quot;|31 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#31 October|''Marlyn'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|4,555
+|align=&quot;leftt&quot; |Sunk
+|-
+|align=&quot;right&quot;|1 November 1942
+|align=&quot;left&quot; |[[List of shipwrecks in November 1942#1 November|''Elmdale'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|4,872
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|2 November 1942
+|align=&quot;left&quot; |[[List of shipwrecks in November 1942#2 November|''Zaandam'']]
+|align=&quot;left&quot; |{{flag|Netherlands}}
+|align=&quot;right&quot;|10,909
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|2 November 1942
+|align=&quot;left&quot; |[[List of shipwrecks in November 1942#2 December''Besholt'']]
+|align=&quot;left&quot; |{{flag|Norway}}
+|align=&quot;right&quot;|4,977
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|15 December 1942
+|align=&quot;left&quot; |[[List of shipwrecks in December 1942#15 December|''Alcoa Rambler'']]
+|align=&quot;left&quot; |{{flag|United States|1912}}
+|align=&quot;right&quot;|5,500
+|align=&quot;left&quot; |Sunk
+|}
+
+==In popular culture==
+The ''U-174'' is said to have been the submarine on which Xavier March served during [[World War II]] in [[Robert Harris (novelist)|Robert Harris]]'s 1992 [[alternative history]] novel ''[[Fatherland (novel)|Fatherland]].''
+
+==See also==
+* [[Convoy ON 122]]
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+|ref=harv
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+*{{cite book
+|last=Kemp
+|first=Paul
+|title=U-Boats Destroyed - German Submarine Losses in the World Wars
+|location=London
+|year=1999
+|publisher=Arms &amp; Armour
+|isbn=1-85409-515-3
+|ref=harv
+}}
+
+{{Refend}}
+
+==External links==
+*{{Cite web
+ |url=http://uboat.net/boats/u174.html
+ |title=The Type VIIC boat U-174
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=29 December 2014
+}}
+*{{cite web
+|url=http://www.u-boot-archiv.de/dieboote/u0174.html
+|title=''U 174''
+|last=Hofmann
+|first=Markus
+|website=Deutsche U-Boote 1935-1945 - u-boot-archiv.de
+|language=German
+|accessdate=30 January 2015
+}}
+
+{{German Type IXC submarines}}
+{{April 1943 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+}}
+{{coord|43|35|N|56|18|W|type:landmark_source:kolossus-dewiki|display=title}}
+
+{{DEFAULTSORT:U0174}}
+[[Category:German Type IX submarines]]
+[[Category:U-boats commissioned in 1941]]
+[[Category:U-boats sunk in 1943]]
+[[Category:World War II submarines of Germany]]
+[[Category:1941 ships]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:U-boats sunk by US aircraft]]
+[[Category:Ships lost with all hands]]
+[[Category:Maritime incidents in April 1943]]</text>
+      <sha1>nwg1gixf1hjxiwgd37e045obs4tdsgt</sha1>
+    </revision>
+  </page>
+</mediawiki>

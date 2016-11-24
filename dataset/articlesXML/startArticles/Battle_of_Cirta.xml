@@ -1,0 +1,109 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Cirta</title>
+    <ns>0</ns>
+    <id>8449910</id>
+    <revision>
+      <id>725823769</id>
+      <parentid>715459135</parentid>
+      <timestamp>2016-06-18T03:22:16Z</timestamp>
+      <contributor>
+        <username>APersonBot</username>
+        <id>21527109</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots/Requests for approval/APersonBot 8|Bot]] updating 2 categories with sort keys for an article about a battle</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2291">{{no footnotes|date=September 2014}}
+{{Infobox Military Conflict|
+conflict=Battle of Cirta|
+partof=the [[Second Punic War]]|
+campaign=|
+image=|
+caption=|
+date=203 BC|
+place= [[Cirta]]|
+casus= |
+territory=|
+result=Roman victory|
+combatant1=[[Numidia]]|
+combatant2=[[Roman Republic]]|
+commander1=[[Syphax]]|
+commander2=[[Masinissa]]&lt;br&gt;[[Gaius Laelius]]|
+strength1=|
+strength2=|
+casualties1=|
+casualties2=|
+}}
+{{Campaignbox Second Punic War}}
+
+{{History of Algeria}}
+
+The '''Battle of Cirta''' was a battle during the [[Second Punic War]] between the forces of the [[Roman Republic]] under [[Scipio Africanus|Publius Cornelius Scipio]] and [[Carthage]]'s main ally, [[Syphax]].
+
+On Scipio's orders, two of his ablest commanders, Laelius and [[Masinissa]], followed Syphax's retreat to the town of [[Cirta]], wherein Syphax garnered fresh forces to meet the two generals in the open. He proceeded to organise them on the Roman model, hoping to copy the continuous success of Scipio on the battlefield; he had a force large enough to take on the Romans, but nearly all of his soldiers were raw and unexperienced. The first encounter was between the two opposing cavalry units, and though the battle was initially hard-fought, when the Roman infantry line reinforced the intervals of their cavalry, the raw troops broke and fled. Syphax, seeing his force crumbling, sought to inspire his men into regrouping by riding forward and exposing himself to danger. In this gallant attempt, he was unhorsed and made prisoner, and failed to rally his troops.
+
+The Roman force pushed on to Cirta, and gained control of the town merely by showing the African leader in chains. Scipio's foothold in Africa was all but assured, and with the Carthaginian general [[Hannibal]] soon returning from Italy, the [[Battle of Zama]] would soon follow.
+
+==References==
+&lt;!-- For texts consulted in writing --&gt;
+{{Refbegin}}
+*Livy, Titus (trans. Rev. Canon Roberts). ''The History of Rome, Volume 4''. London: J. M. Dent &amp; Sons, Limited, 1905. pp. 11-12
+
+{{coord|36.3675|N|6.6119|E|source:wikidata|display=title}}
+
+[[Category:Battles of the Second Punic War|Cirta]]
+[[Category:Military history of Algeria|Cirta]] 
+[[Category:203 BC]]
+[[Category:200s BC conflicts|Cirta]]
+
+{{Punic Wars navbox}}
+{{AncientRome-battle-stub}}</text>
+      <sha1>fbw9x350mbi3efgscc3xg5opd5dhmik</sha1>
+    </revision>
+  </page>
+</mediawiki>

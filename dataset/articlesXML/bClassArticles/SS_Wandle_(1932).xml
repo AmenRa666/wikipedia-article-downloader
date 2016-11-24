@@ -1,0 +1,188 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Wandle (1932)</title>
+    <ns>0</ns>
+    <id>32130479</id>
+    <revision>
+      <id>727755356</id>
+      <parentid>688843110</parentid>
+      <timestamp>2016-07-01T01:51:18Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* Sources */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13511">{{Use dmy dates|date=December 2011}}
+{{Use British English|date=December 2011}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image = [[File:SS 'Wandle' (1932) on her maiden voyage (cropped version).jpg|300px]]
+|Ship caption = ''Wandle'' steams up the River Thames on her [[maiden voyage]],&lt;br&gt;30 October 1932
+}}
+{{Infobox ship career
+|Hide header = 
+|Ship country = [[United Kingdom]]
+|Ship flag = {{Shipboxflag|UK|civil}}
+|Ship name = ''Wandle''
+|Ship namesake = [[River Wandle]], [[South London]]
+|Ship owner =*[[Wandsworth and District Gas Company]]&lt;ref name=LR33&gt;{{cite book |url= http://www.plimsollshipdata.org/pdffile.php?name=33b0945.pdf |year=1933 |title=Lloyd's Register, Steamers &amp; Motorships |location=London |publisher=[[Lloyd's Register]] |accessdate=20 December 2013}}&lt;/ref&gt; (1932–49)
+*[[South Eastern Gas Board]] (1949–59)
+|Ship operator =*Wandsworth and District Gas Company (1932–49)
+*South Eastern Gas Board (1949–59)
+|Ship registry = {{flagicon|UK|civil}} London
+|Ship route = [[North East England]] to [[Wandsworth]]&lt;ref name=COI-53&gt;Central Office of Information, 1947, page 53&lt;/ref&gt;
+|Ship ordered = 
+|Ship builder = [[Burntisland Shipbuilding Company]]&lt;ref name=LR33/&gt;
+|Ship original cost = 
+|Ship yard number = 173&lt;ref name=Burntisland&gt;{{cite web |url=http://www.burntisland.net/ships-list-anderson.htm |title=Ships built by the Burntisland Shipbuilding Company Ltd: arranged by date of launch |last=Anderson |first=James B |editor-last=Sommerville |editor-first=Iain |year=2008 |work=Welcome to Burntisland |publisher=Iain Sommerville |accessdate=18 June 2011}}&lt;/ref&gt;
+|Ship way number = 
+|Ship laid down = 
+|Ship launched = 29 September 1932&lt;ref name=Burntisland/&gt;
+|Ship completed = October 1932&lt;ref name=LR33/&gt;
+|Ship acquired = 
+|Ship maiden voyage = 30 October 1932
+|Ship identification =*UK [[official number]] 163297&lt;ref name=LR33/&gt;
+*[[Code Letters]] LHVD&lt;ref name=LR33/&gt;
+*{{ICS|Lima}}{{ICS|Hotel}}{{ICS|Victor}}{{ICS|Delta}}
+*[[Call sign#Ships and boats|call sign]] MKBB&lt;ref&gt;{{cite book |url= http://www.plimsollshipdata.org/pdffile.php?name=37b0936.pdf |year=1937 |title=Lloyd's Register, Steamers &amp; Motorships |location=London |publisher=[[Lloyd's Register]] |accessdate=20 December 2013}}&lt;/ref&gt;
+*{{ICS|Mike}}{{ICS|Kilo}}{{ICS|Bravo}}{{ICS|Bravo}}
+|Ship fate = Scrapped 1959&lt;ref name=Burntisland/&gt;
+|Ship notes = 
+}}
+{{Infobox ship characteristics
+|Hide header = 
+|Header caption = 
+|Ship type = [[Flatiron (ship)|flat-iron]] [[Collier (ship)|collier]]&lt;ref name=Burntisland/&gt;
+|Ship class = 
+|Ship tonnage =*{{GRT|1482|first=long}}&lt;ref name=LR33/&gt;
+*tonnage under deck 1,158&lt;ref name=LR33/&gt;
+*796 [[Net register tonnage|net register tons]]&lt;ref name=Burntisland/&gt;
+*2,330 [[Deadweight tonnage|deadweight tons]]&lt;ref name=COI-53/&gt;
+|Ship displacement = 
+|Ship length = {{convert|236|ft|1|abbr=on}}&lt;ref name=LR33/&gt;
+|Ship beam = {{convert|38|ft|1|abbr=on}}&lt;ref name=LR33/&gt;
+|Ship height = 
+|Ship draught = {{convert|16|ft|0+1/4|in|m|1|abbr=on}}&lt;ref name=LR33/&gt;
+|Ship depth = {{convert|16.5|ft|1|abbr=on}}&lt;ref name=LR33/&gt;
+|Ship decks = 
+|Ship deck clearance = 
+|Ship power = 164 [[Horsepower#Nominal horsepower|NHP]]&lt;ref name=LR33/&gt;
+|Ship propulsion = 3-cylinder [[Marine steam engine#Triple or multiple expansion|triple expansion steam engine]] built by North Eastern Marine Engineering;&lt;ref name=LR33/&gt; single [[Propeller|screw]]
+|Ship speed = 
+|Ship capacity = 
+|Ship crew = 
+|Ship notes = 
+|Ship armament =*as [[Defensively Equipped Merchant Ship|DEMS]]:
+*1 × [[QF 12-pounder 12 cwt naval gun|12 pounder gun]]
+*2 × [[Lewis gun]]s&lt;ref name=COI-54&gt;Central Office of Information, 1947, page 54&lt;/ref&gt;
+*1 × [[Hotchkiss et Cie|Hotchkiss]] gun&lt;ref name=COI-54/&gt;
+}}
+|}
+[[File:SS 'Wandle' (1932) under Southwark Bridge, London.jpg|thumb|305px|''Wandle'' on her maiden voyage, 30 October 1932, on the Thames under [[Southwark Bridge]]. Her mast, funnel and wheelhouse are folded flat to pass under the bridge]]
+
+'''SS ''Wandle''''' was a British [[Coastal trading vessel|coastal]] [[Collier (ship)|collier]] owned and operated by the proprietors of [[Wandsworth]] [[gas works]] in south-west London. She was a [[Flatiron (ship)|flatiron]], meaning that she had a low-profile superstructure, hinged funnel, hinged or telescopic mast and folding [[Bridge (nautical)|wheelhouse]] to enable her to pass under low bridges on the tidal [[River Thames]] upriver from the [[Pool of London]]. She was in service from 1932 to 1959&lt;ref name=Burntisland/&gt; and survived a number of enemy attacks in the [[World War II|Second World War]].
+
+==Namesakes==
+SS ''Wandle'' was named after the [[River Wandle]], which flows through much of district that Wandsworth gas works then served and joins the Thames at [[Wandsworth]] near the company's gas works and headquarters. She was the third flatiron of the same name in the service of the same owners.&lt;ref name=COI-53-54&gt;Central Office of Information, 1947, pages 53–54&lt;/ref&gt; The first was built in 1909 and survived an engagement with a [[U-boat#World War I|U-boat]] in 1916. The second was built in 1922 and sold to [[Stephenson Clarke Shipping|Stephenson Clarke and Associates]] in 1932.&lt;ref name=Burntisland/&gt;
+
+In the Second World War ''Wandle''{{'}}s [[Captain (nautical)|Master]] was G.A.W. Mastin, whose father G.E.A. Mastin had commanded the first SS ''Wandle'' when she repulsed a U-boat attack in 1916.&lt;ref name=COI-54/&gt;
+
+==Building and civilian service==
+The [[Burntisland Shipbuilding Company]] of [[Burntisland]] on the [[Firth of Forth]] in [[Fife]], Scotland, built ''Wandle'' in 1932 for the [[Wandsworth and District Gas Company]].&lt;ref name=LR33/&gt; She had four corrugated furnaces with a combined grate area of {{convert|66|sqft|0}} that heated one single-ended boiler with a heating surface of {{convert|2850|sqft|0}}. This fed steam at 200 [[Pounds per square inch|lb&lt;sub&gt;f&lt;/sub&gt;/in&lt;sup&gt;2&lt;/sup&gt;]] to a three-cylinder [[Marine steam engine#Triple or multiple expansion|triple expansion steam engine]] built by North East Marine Engineering Co of [[Newcastle upon Tyne]]. The engine was rated at 164 [[Horsepower#Nominal horsepower|NHP]] and drove a single [[Propeller|screw]].&lt;ref name=LR33/&gt;
+
+She carried coal from ports in [[North East England]] down the North Sea coast and up the Thames&lt;ref name=COI-53/&gt; to the gas works at Wandsworth in south-west London. She had capacity for a cargo of up to 2,200 [[long ton]]s of coal.
+
+==War service==
+In the Second World War ''Wandle'' travelled laden in [[List of convoy codes#F|FS-series convoys]] southwards as far as [[Southend]] and in ballast in [[List of convoy codes#F|FN-series]] or [[List of convoy codes#E|EC-series convoys]]  from [[Southend]] northwards. When the UK [[Defensively equipped merchant ship|armed its merchant ships]] she was fitted with one [[QF 12-pounder 12 cwt naval gun|12 pounder gun]], two [[Lewis gun]]s and a [[Hotchkiss et Cie|Hotchkiss]] gun.&lt;ref name=COI-54/&gt;
+
+===Sea and air attacks===
+During air attacks on 13 and 31 August 1940, ''Wandle'' succeeded in hitting enemy aircraft.&lt;ref name=COI-54/&gt; On the latter occasion a fire started on her [[Degaussing#Degaussing ships' hulls|degaussing]] cable but her engineers repaired the cable enabling her to pass through a heavily [[Naval mine|mined]] area.&lt;ref name=COI-54/&gt;
+
+On 23 March 1941 in the North Sea an [[E-boat]] attacked her with rapid gunfire but ''Wandle''{{'}}s [[Chief mate|Mate]], Edward Clarke, returned fire with the 12-pounder and with his sixth shot disabled the E-boat's gun and repulsed the attack.&lt;ref name=COI-54/&gt;
+
+At 2340 hrs on 11 June 1941 enemy aircraft torpedoed and sank the {{GRT|2056|link=off}} coaster SS ''Moorwood''.&lt;ref&gt;{{cite web |url=http://www.wrecksite.eu/wreck.aspx?11710 |title=SS Moorwood [+1941] |last1=Allen |first1=Tony |last2=Racey |first2=Carl |date=26 February 2011 |work=The Wreck Site |publisher= |accessdate=24 February 2011}}&lt;/ref&gt; ''Wandle''{{'}}s Mate recovered a man who had been blown overboard from ''Moorwood'' into the sea; then the Mate and ''Wandle''{{'}}s crew picked up the remainder from ''Moorwood''{{'}}s lifeboat.&lt;ref name=COI-54/&gt;
+
+During an air attack on 20 September 1941, ''Wandle'' fired at enemy aircraft and succeeded in damaging one.&lt;ref name=COI-54/&gt; On 24 October during an attack off the east coast of [[Norfolk]] she returned fire and &quot;probably&quot; hit an enemy E-boat.&lt;ref name=COI-54/&gt;
+
+In April 1942 Captain Mastin was awarded the [[Order of the British Empire|OBE]] and Edward Clarke was awarded the [[Order of the British Empire|MBE]] for the fine defence of their ship.&lt;ref name=COI-54/&gt;
+
+===Torpedoing and salvage===
+At 2125 hrs on 9 November 1942 ''Wandle'' was in ballast heading northwards off [[Lowestoft]] when a flotilla of E-boats attacked her convoy.&lt;ref name=Burntisland/&gt; A torpedo struck her starboard side about {{convert|20|ft|0}} forward of her bridge.&lt;ref name=COI-54/&gt; It almost completely blew off her bow, and flung débris so far that it killed a [[Royal Artillery]] Maritime Regiment [[Defensively Equipped Merchant Ships|DEMS]] gunner in the after part of the ship.&lt;ref name=COI-54/&gt; After 20 minutes her crew launched both lifeboats and abandoned ship.&lt;ref name=COI-54/&gt; A rescue tug recovered the survivors and then went to recover survivors from another ship that had been sunk.&lt;ref name=COI-54/&gt; After this ''Wandle'' was still afloat but she was on fire, her below decks accommodation was flooded, her fore part awash and her no. 2 [[Hold (ship)|hold]] taking water.&lt;ref name=COI-55&gt;Central Office of Information, 1947, page 55&lt;/ref&gt;
+
+Captain Mastin assembled a volunteer crew of nine men including himself and the Mate Edward Clarke.&lt;ref name=COI-55/&gt; They reboarded the ship and extinguished the fire, and a party directed by the Chief Engineer J.S. Johnson got her dynamo and pumps started.&lt;ref name=COI-55/&gt; The rescue tug took her in tow, but her ruined bow was still attached which worked as a large and unwieldy [[sea anchor]].&lt;ref name=COI-56&gt;Central Office of Information, 1947, page 56&lt;/ref&gt; This limited their progress to about {{convert|1|kn|km/h|0}}, and it took the tug 16 hours to tow ''Wandle'' to [[Great Yarmouth]] the next day.&lt;ref name=COI-56/&gt; She was anchored off Yarmouth and her condition was deemed so precarious that she was abandoned a second time.&lt;ref name=COI-56/&gt;
+
+An [[Admiralty]] salvage officer came aboard and cut away several hundred tons of wreckage.&lt;ref name=COI-56/&gt; This relieved the strain on her [[Bulkhead (partition)|bulkhead]], which was then patched and shored up with heavy timbers.&lt;ref name=COI-56/&gt; She was towed into Yarmouth for a few hours but was then towed north again by two tugs.&lt;ref name=COI-56/&gt; A northerly gale arose and swung her about violently, and she was often awash.&lt;ref name=COI-56/&gt; The tugs and ''Wandle'' sheltered in the Humber to escape heavy seas and in a bay to wait for fog to pass.&lt;ref name=COI-56/&gt; On the fifth day after being torpedoed, ''Wandle'' finally reached the [[River Tyne]].&lt;ref name=COI-56/&gt; On 5 December she was [[dry-dock]]ed at [[John Readhead &amp; Sons]]' shipyard&lt;ref name=JR&gt;John Redhead &amp; Sons, 1948 (pages not numbered)&lt;/ref&gt; in [[South Shields]].&lt;ref name=Burntisland/&gt; During this whole period of salvage and towing, the volunteer crew led by Captain George Mastin, Mate Edward Clarke and Engineer &quot;Stanley&quot; Johnson, remained with the Wandle, until she was safely docked at Redheads, to ensure no salvage claims were made on the owners.&lt;ref&gt;Private papers and photographs of Captain Mastin&lt;/ref&gt;
+
+''Wandle'' had not only lost her bow; what remained of her was now badly twisted.&lt;ref name=COI-56/&gt; Readheads straightened her, built a new bow onto her&lt;ref name=COI-56/&gt; and on either 30 March&lt;ref name=JR/&gt; or 8 April 1943&lt;ref name=Burntisland/&gt; she was ready to return to service.
+
+==Final years==
+In 1949 the Wandsworth and District Gas Company was nationalised and became part of the new [[South Eastern Gas Board]]. ''Wandle'' became part of the SEGB fleet and remained in service until 1959.&lt;ref name=Burntisland/&gt; A Dutch tug then towed her across the North Sea to [[Rotterdam]], where she arrived on 3 November 1959 to be scrapped.&lt;ref name=Burntisland/&gt;
+
+==See also==
+*{{SS|Gasfire}}, a [[Gas Light and Coke Company]] collier that survived an E-boat blowing her stern off in 1940
+
+==References==
+{{reflist}}
+
+==Sources==
+*{{cite book |author=[[Central Office of Information]] |coauthors=for [[Department for Transport#History|Ministry of Transport]] |title=British Coaster: The Official Story |location=London |publisher=[[Office of Public Sector Information#History|His Majesty's Stationery Office]] |year=1947 |pages=53–56}}
+*{{cite book |author=anonymous |title=John Readhead &amp; Sons Limited, Shipbuilders Shiprepairers Engine and Boiler Builders |location=South Shields |publisher=[[John Readhead &amp; Sons]] |year=1948 |pages=not numbered |url=http://www.flickr.com/photos/59662214@N06/6432785881/}} The book includes a two-page spread showing four photos of ''Wandle'': one at sea after being torpedoed and three in Readheads' dry dock. The three photos in dry dock show her before and after her damaged bow was cut away, and after her hull had been straightened and rebuilt.
+
+{{November 1942 shipwrecks}}
+
+{{DEFAULTSORT:Wandle (1932)}}
+[[Category:1932 ships]]
+[[Category:Ships built in Scotland]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Maritime incidents in August 1940]]
+[[Category:Maritime incidents in March 1941]]
+[[Category:Maritime incidents in November 1942]]</text>
+      <sha1>q8mtdv8khwj3hldmi1crcgsikcz89jv</sha1>
+    </revision>
+  </page>
+</mediawiki>

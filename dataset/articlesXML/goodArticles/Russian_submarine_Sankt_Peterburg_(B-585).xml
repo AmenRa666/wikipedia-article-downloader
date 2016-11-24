@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian submarine Sankt Peterburg (B-585)</title>
+    <ns>0</ns>
+    <id>34561190</id>
+    <revision>
+      <id>702136603</id>
+      <parentid>682246718</parentid>
+      <timestamp>2016-01-28T17:55:53Z</timestamp>
+      <contributor>
+        <username>Navyav8r17</username>
+        <id>23892655</id>
+      </contributor>
+      <minor/>
+      <comment>St. Petersburg is NATO classification, not Lada</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10588">{{Good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image=[[File:B-585 Sankt-Peterburg in 2010.jpg|300px]]
+| Ship caption=''Sankt Peterburg'' in 2010
+}}
+{{Infobox ship career
+| Hide header=
+| Ship country=Russia
+| Ship flag={{shipboxflag|Russia|naval}} 
+| Ship name= B-585 ''Sankt Peterburg''
+| Ship namesake=City of [[Saint Petersburg]]
+| Ship ordered=Unknown
+| Ship builder=[[Admiralty Shipyard]]
+| Ship laid down=26 December 1997
+| Ship launched={{Start date|2004|10|28|df=y}}
+| Ship acquired=
+| Ship commissioned=6 May 2010
+| Ship decommissioned=
+| Ship in service=
+| Ship out of service=
+| Ship struck=
+| Ship reinstated=
+| Ship fate=
+| Ship status={{Ship in active service}}
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Header caption=
+| Ship class={{sclass2-|St. Petersburg|submarine|0}} [[diesel-electric submarine]]
+| Ship displacement=2,800 tons submerged; 1,675 tons surfaced&lt;ref name=FAS/&gt;
+| Ship length=
+| Ship beam={{convert|7.1|m|ftin|abbr=on}}&lt;ref name=Rusnavy.com/&gt;
+| Ship draught=
+| Ship draft={{convert|6.5|m|ftin|abbr=on}}&lt;ref name=FAS/&gt;
+| Ship propulsion=
+| Ship speed={{Convert|10|kn}} surfaced; {{Convert|21|kn}} submerged&lt;ref name=Rusnavy2/&gt;
+| Ship range={{Convert|650|mi|km|disp=flip}} submerged at cruising speed&lt;ref name=Rusnavy.com/&gt;
+| Ship endurance=45 days&lt;ref name=Rusnavy.com/&gt;
+| Ship test depth={{convert|300|m|ft|0|abbr=on}}&lt;ref name=Rusnavy.com/&gt;
+| Ship complement=35&lt;ref name=Rusnavy2/&gt;
+| Ship sensors=
+| Ship EW=
+| Ship armament=6 x {{Convert|533|mm|in}} torpedo tubes for 18 x torpedoes or missiles or 44 x mines&lt;ref name=FAS/&gt;&lt;ref name=Rusnavy2/&gt;
+| Ship notes=
+}}
+|}
+
+'''B-585 ''Sankt Peterburg''''' ({{lang-ru|Б-585 «Санкт-Петербург»}}; named after [[Saint Petersburg]]) is the [[lead boat]] of the {{Sclass2-|St. Petersburg|submarine|4}} of the [[Russian Navy]]. The Lada class is the fourth generation of [[diesel-electric submarine]]s designed and constructed in the former [[Soviet Union]] and [[Russia]] to replace the {{sclass2-|Kilo|submarine|4}}. [[Boat building|Construction]] of the boat started in December 1997, and she was [[Ship launching|launched]] in October 2004. After undergoing a series of [[sea trial]]s, ''Sankt Peterburg'' was [[Ship commissioning|commissioned]] in May 2010. However, the Russian Navy decided not to accept the St. Petersburg class after it was discovered that the boat's propulsion and sonar systems were inadequate. After design corrections the submarine was accepted. In 2014, ''Sankt Peterburg'' joined the [[Northern Fleet]].
+
+==Background and construction==
+''Sankt Peterburg'' is first boat of [[Rubin Design Bureau]]'s Lada class, of which a total of eight were expected to be procured by the Russian Navy. A less capable version, the {{sclass2-|Amur|submarine|4}}, is marketed for export. Designed during the 1990s, the St. Petersburg class is intended to be the successor to the larger Kilo class.&lt;ref name=FAS&gt;
+{{cite web |url= http://www.fas.org/man/dod-101/sys/ship/row/rus/677.htm |title= Project 677 Lada class Project 1650 Amur class Diesel-Electric Torpedo Submarine |author= |date= 7 September 2000 |publisher= [[Federation of American Scientists]]|accessdate=29 January 2012}}&lt;/ref&gt; The Kilo class is considered to be one of the quietest diesel classes in operations, giving rise to the nickname &quot;Black Hole&quot;.&lt;ref name=Rian.ru&gt;{{cite news |title= Russian Navy to commission first Lada class diesel sub in 2010 |author= |url= http://en.rian.ru/russia/20090320/120665371.html |agency= [[RIA Novosti]] |date= 20 March 2009 |accessdate=1 February 2012}}&lt;/ref&gt;  Among the expected capabilities improvements of the St. Petersburg class over its predecessor were the incorporation of improved anechoic coating (to minimize [[sonar]] contact), extended cruise range, and the upgrade to newer weapons for [[Anti-submarine warfare|anti-submarine]] and [[Anti-surface warfare|anti-ship operations]].&lt;ref name=Rian.ru/&gt; St. Petersburg-class boats can also conduct [[reconnaissance]] and defend [[Naval base|naval facilities]] and sea lanes.&lt;ref name=Rusnavy.com&gt;{{cite web |url= http://rusnavy.com/news/navy/index.php?ELEMENT_ID=9416 |title=St. Andrew's flag flies over new sub |author= |date= 11 May 2010 |work= |publisher= Rusnavy.com |accessdate=1 February 2012}}&lt;/ref&gt;
+
+Amid a severe shortage of funds experienced during the 1990s following the [[dissolution of the Soviet Union]],&lt;ref&gt;{{cite web |url=http://www.armedforcesjournal.com/2009/05/3989255/ |title=The Russian Navy revitalized |author=Vego, Milan |date= |work=[[Armed Forces Journal]] |accessdate=25 February 2012}}&lt;/ref&gt; the [[keel]] of ''Sankt Peterburg'' was laid down on 26 December 1997, in [[Saint Petersburg]] by [[Admiralty Shipyard]].&lt;ref name=FAS/&gt;&lt;ref name=Rian07&gt;{{cite news |title= Project-677 submarine set for final sea trials – shipyard |author= |url= http://en.rian.ru/russia/20070123/59551193.html |agency= [[RIA Novosti]] |date= 23 January 2007 |accessdate=1 February 2012}}&lt;/ref&gt; The company specialises in submarine construction, having built more than 300 boats,&lt;ref name=Rian07/&gt; including the {{sclass2-|Victor|submarine|5}} and {{sclass2-|Alfa|submarine|0}} [[nuclear-powered submarine]]s. By 2006, two more of ''Sankt Peterburg''{{'}}s [[Sister ship|sister boats]], ''Kronshtadt'' and ''Sevastopol'' had had their keels laid down.&lt;ref&gt;{{cite news |title= Russian shipbuilder to start making 4th-generation submarine |author= |url= http://en.rian.ru/russia/20061012/54760836.html |agency= [[RIA Novosti]] |date= 10 December 2006 |accessdate=1 February 2012}}&lt;/ref&gt; ''Sankt Peterburg'' was [[Ship launching|launched]] on 28 October 2004, to coincide with the 300th anniversary of Sankt Peterburg's founding, before undergoing several sea trials, to validate her systems, until 2009.&lt;ref&gt;{{cite news |script-title=ru:&quot;Подводный охотник&quot; вышел в плавание |trans_title= &quot;Underwater Hunter&quot; went to sea |language= Russian |author= Kramar, Vladislav |url= http://nvo.ng.ru/armament/2004-11-12/6_peterburg.html |newspaper= [[Nezavisimaya Gazeta]] |date= 12 November 2004 |accessdate=1 February 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title= Final sea trials set for Russian Lada sub |author= |url= http://www.upi.com/Business_News/Security-Industry/2007/01/23/Final-sea-trials-set-for-Russian-Lada-sub/UPI-23861169570849/ |newspaper= [[United Press International]] |publisher= UPI.com |date= 23 January 2007 |accessdate=1 February 2012}}&lt;/ref&gt;
+
+As of 25 February 2008, ''Sankt Peterburg'' was part of the 13th Brigade of Ships Under Repair and Construction (military unit number 22875), [[Leningrad Naval Base]].&lt;ref name=&quot;kommersant-2008&quot;&gt;[http://www.kommersant.ru/doc.aspx?fromsearch=2b626373-9d95-458a-8bde-860820efc586&amp;docsid=856203 Журнал «Власть» № 7(760) от 25.02.2008]. Military Unit number is via warfare.ru, http://warfare.be/?catid=321&amp;linkid=2225&amp;title=western-military-district---osc-west. Retrieved 26 February 2012.&lt;/ref&gt;
+
+==Operational history==
+On 6 May 2010, ''Sankt Peterburg'' was commissioned into the Russian Navy, signalling the official start of her operational service. The boat thereafter underwent combat training with the [[Baltic Fleet]] and participated in a naval [[parade]] and an [[Military exercise|exercise]].&lt;ref name=Rusnavy.com/&gt;&lt;ref&gt;{{cite news |title=Russian Navy Waives Further Construction of Project 677 Lada Submarines |author= |url=http://navaltoday.com/2012/02/10/russian-navy-waives-further-construction-of-project-677-lada-submarines/ |newspaper=NavalToday.com |date=10 February 2012 |accessdate=23 February 2012}}&lt;/ref&gt;&lt;ref name=ST&gt;{{cite web |url= http://rusnavy.com/news/navy/index.php?ELEMENT_ID=11175 |title= Submarine St. Petersburg to continue trials in 2011 |author= |date= 24 December 2010 |work= |publisher= Rusnavy.com |accessdate=1 February 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |script-title=ru:Военно-морской флаг поднят на подлодке &quot;Санкт-Петербург&quot; |trans_title= Naval flag hoisted on a submarine &quot;Saint Petersburg&quot; |language= Russian |author= |url= http://ria.ru/defense_safety/20100508/232060077.html |agency= [[RIA Novosti]] | date= 8 May 2010 |accessdate=1 February 2012}}&lt;/ref&gt; At the same time, she continued [[sea trial]]s until late 2011.&lt;ref name=ST/&gt;
+
+Despite having been commissioned, in November 2011 the Russian Navy decided that the St. Petersburg class would not be accepted into service, as ''Sankt Peterburg'' had fallen far short of requirements during trials.&lt;ref name=Rusnavy2&gt;{{cite web |url= http://rusnavy.com/news/navy/index.php?ELEMENT_ID=13698 |title= Russian Navy May Waive Lada Class Submarines |author= |date= 24 November 2011 |work= |publisher= Rusnavy.com |accessdate=1 February 2012}}&lt;/ref&gt; According to ''[[Izvestia]]'', the main drawback was the propulsion unit's inability to produce half of the expected power, along with the inefficiency of the sonar system. With the construction of the other two St. Petersburg-class submarines being halted, the Russian Navy ordered additional Improved Kilo-class submarines.&lt;ref&gt;{{cite news |script-title=ru:ВМФ отказался от новейших подлодок проекта &quot;Лада&quot; |trans_title= Navy refused to newest submarine project &quot;Lada&quot; |author= Thalmann, Denis |language= Russian |url= http://www.izvestia.ru/news/507580 |newspaper= [[Izvestia]] |date= 23 November 2011 |accessdate=1 February 2012}}&lt;/ref&gt; The decision to reject the St. Petersburg class was confirmed in February 2012 by Russian Navy [[Commander-in-Chief]] Admiral [[Vladimir Vysotsky (Admiral)|Vladimir Vysotsky]], who stated, &quot;The Russian Navy does not need the St. Petersburg in its current form.&quot;&lt;ref&gt;{{cite news |title=Russian Navy to Drop Lada Class Subs – CinC Vysotsky |author= |url=http://en.ria.ru/russia/20120209/171225725.html |agency= [[RIA Novosti]] |date=9 February 2012 |accessdate=10 February 2012}}&lt;/ref&gt; ''Sankt Peterburg'' would remain an experimental prototype.&lt;ref name=Rusnavy2/&gt;
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.globalsecurity.org/military/world/russia/677.htm Project 677 ''Lada'' class Project 1650 ''Amur'' class Diesel-Electric Torpedo Submarine] of GlobalSecurity.org
+*[http://rusnavy.com/news/navy/index.php?ELEMENT_ID=14357 Navy Commander Denied Lada Subs Rejection]
+
+{{Lada class submarine}}
+
+{{DEFAULTSORT:B-585 Sankt Peterburg}}
+[[Category:Lada-class submarines]]
+[[Category:2004 ships]]
+[[Category:Ships built in Russia]]
+[[Category:Active submarines of Russia]]
+[[Category:Ships of the Russian Navy]]</text>
+      <sha1>o01k406631uu2ossxesyphz6liab7ij</sha1>
+    </revision>
+  </page>
+</mediawiki>

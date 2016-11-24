@@ -1,0 +1,82 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Scipuar</title>
+    <ns>0</ns>
+    <id>46944919</id>
+    <revision>
+      <id>745126280</id>
+      <parentid>725631870</parentid>
+      <timestamp>2016-10-19T11:38:13Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Sources */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2538">'''Scipuar''' ({{lang-el|Σκιποῦαρ}}, {{fl.|ca. 551–552}}) was a commander of the [[Ostrogoths]] in the final stages of the [[Gothic War (535–554)|Gothic War]] against the [[Eastern Roman Empire]].
+
+[[Procopius]] mentions Scipuar along with [[Gibal]] and [[Indulf (6th century)|Indulf]] (Gundulf) as &quot;the most notable among the [[Goths]].&quot; Together with the other two he was appointed commander by [[Totila]] and ordered to capture [[Ancona]] in [[Picenum]].{{sfn|Dewing|1962|pp=287, 289}}{{sfn|Martindale|Jones|Morris|1992|p=1118}} While Gibal and Indulf assumed command of naval forces, Scipuar led the siege of the city. After Gibal and Indulf suffered a crushing defeat at the [[Battle of Sena Gallica (551)|Battle of Sena Gallica]] in the fall of 551, Scipuar's army retreated from Ancona to [[Osimo|Auximum]], enabling the Byzantine commander Valerian to assume control of the city.{{sfn|Martindale|Jones|Morris|1992|p=1118}}{{sfn|Dewing|1962|p=291}} 
+
+Scipuar fought side by side with Totila at the disastrous [[Battle of Taginae]] in 552. Along with other four men, he accompanied Totila during his flight from the battlefield. A party of Roman soldiers pursued them and caught up with them, killing Totila. Scipuar managed to wound Totila's killer [[Asbadus]], but was wounded in turn. The Romans then gave up the pursuit and left them alone. Nothing further is known of Scipuar thereafter.{{sfn|Martindale|Jones|Morris|1992|p=1118}}{{sfn|Dewing|1962|pp=383, 385}}
+
+==References==
+{{Reflist|2}}
+
+==Sources==
+*{{cite book | editor-last = Dewing | editor-first = Henry Bronson | title=Procopius, with an English translation by H.B. Dewing, in Seven Volumes. Vol. V: History of the Wars, Books VII [continued] and VIII | year = 1962 | origyear= 1928 | series = The Loeb Classical Library | publisher = William Heinemann Ltd. (London) &amp; Harvard University Press (Cambridge, Mass.) | url = https://archive.org/details/procopiuswitheng05procuoft | ref=harv}}
+*{{cite book|editor1-last=Martindale|editor1-first=John Robert|editor2-last=Jones|editor2-first=Arnold Hugh Martin|editor3-last=Morris|editor3-first=J.|title=The Prosopography of the Later Roman Empire, Volume III: A.D. 527–641|year=1992|location=Cambridge|publisher=Cambridge University Press|isbn=978-0-521-20160-5|url=https://books.google.com/books?id=ElkwedRWCXkC|ref=harv}}
+
+[[Category:6th-century Gothic people]]
+[[Category:Year of birth unknown]]
+[[Category:People of the Gothic War (535–554)]]
+[[Category:Year of death unknown]]
+[[Category:Ostrogoths]]</text>
+      <sha1>j77f1ej15jshi5hsalx2eff15abapcs</sha1>
+    </revision>
+  </page>
+</mediawiki>

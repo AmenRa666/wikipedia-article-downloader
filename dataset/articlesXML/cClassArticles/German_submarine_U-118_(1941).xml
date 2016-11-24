@@ -1,0 +1,353 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-118 (1941)</title>
+    <ns>0</ns>
+    <id>36356911</id>
+    <revision>
+      <id>749074034</id>
+      <parentid>748798213</parentid>
+      <timestamp>2016-11-12T06:23:31Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10654">{{other ships|German submarine U-118}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=U-118 Luftangriff.jpg
+|Ship caption=''U-118'' under attack by aircraft from USS ''Bogue''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name= ''U-118''
+|Ship ordered= 31 January 1939
+|Ship builder= [[Germaniawerft]], [[Kiel]]
+|Ship yard number= 617
+|Ship laid down= 1 March 1940
+|Ship launched= 3 May 1941{{sfn|Kemp|1999|pp=124-125}}
+|Ship commissioned= 23 September 1941&lt;ref name=&quot;Kemp, pp. 124-125&quot;&gt;Kemp, pp. 124-125.&lt;/ref&gt;
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate= Sunk on 12 June 1943&lt;ref name=&quot;Kemp, pp. 124-125&quot;/&gt; by US aircraft
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption={{sfn|Gröner|1985|p=116}}
+|Ship class=[[Submarine]] [[minelayer]]
+|Ship displacement=
+*{{convert|1763|t|LT|0}} surfaced
+*{{convert|2177|t|LT|0}} submerged
+|Ship length=
+*{{convert|89.80|m|ftin|abbr=on}} [[o/a]]
+*{{convert|70.90|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam=
+*{{convert|9.20|m|ftin|abbr=on}} o/a
+*{{convert|4.75|m|ftin|abbr=on}} pressure hull
+|Ship height={{convert|10.20|m|ftin|abbr=on}}
+|Ship draught={{convert|4.71|m|ftin|abbr=on}}
+|Ship power=
+|Ship propulsion=
+*2 × [[supercharger|supercharged]] [[Germaniawerft|GW]] F 46 a 9 pu 9 cylinder, four-stroke [[diesel engine]]s, {{convert|4800|PS|bhp kW|abbr=on}}
+*2 × [[AEG]] GU 720/8-287 [[electric motor]]s, {{convert|1100|PS|shp kW|abbr=on}}
+|ship speed=
+*{{convert|16.4|-|17|kn|lk=in}} surfaced
+*{{convert|7|kn}} submerged
+|Ship range=
+*{{convert|18,450|nmi|lk=in}} at {{convert|10|kn}} surfaced
+*{{convert|93|nmi|abbr=on}} at {{convert|4|kn}} submerged
+|Ship test depth=[[Submarine depth ratings|Calculated crush depth]]: {{convert|220|m|ft|abbr=on}}
+|Ship complement= 5 officers, 47 enlisted
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*2 × {{convert|53.3|cm|in|0|abbr=on}} stern [[torpedo tube]]s
+*15 × [[torpedo]]es
+* 66 × SMA [[Naval mine|mines]]
+*1 × [[10.5 cm SK C/32 naval gun|{{convert|10.5|cm|in|abbr=on}} deck gun]] (200 rounds)
+|Ship notes=
+}}
+{{Infobox service record
+|is_ship= yes
+|label= Service record&lt;ref name=&quot;uboatnet&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/u118.htm
+ |title=The Type XB boat U-118
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=28 December 2012
+}}&lt;/ref&gt;
+&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/u118.html
+ |title=War Patrols by German U-boat U-118
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=28 December 2012
+}}&lt;/ref&gt;
+|partof=*[[2nd U-boat Flotilla]]
+*(26 July 1941 - 31 January 1942)
+*[[1st U-boat Flotilla]]
+*(1 February - 6 October 1942)
+|codes=
+|commanders=*''[[K.Kapt.]]'' Werner Czygan
+*(6 December 1941 - 12 June 1943)
+|operations=*Four
+*1st patrol:
+*19 September - 16 October 1942
+*2nd patrol:
+*12 November - 13 December 1942
+*3rd patrol:
+*25 January - 26 February 1943
+*4th patrol:
+*25 May - 12 June 1943
+|victories=*Three ships sunk ({{GRT|14,064}})
+*One warship sunk - 925 tons
+*Two ships damaged - {{GRT|11,945}} 
+|awards=
+}}
+|}
+
+'''German submarine ''U-118''''' was a [[German Type X submarine|Type XB]] [[minelayer|minelaying]] [[U-boat]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'' during [[World War II]].
+
+She was ordered	on 31 January 1939 and laid down on 1 March 1940 at the [[Friedrich Krupp Germaniawerft]] in [[Kiel]], as yard number 617. She was [[Ceremonial ship launching|launched]] on 23 September 1941 and [[Ship commissioning|commissioned]] on 6 December under the command of ''[[Korvettenkapitän]]'' Werner Czygan.
+
+After a period of training as part of the [[4th U-boat Flotilla]], ''U-118'' was assigned to the front-line as part of the [[10th U-boat Flotilla]] on 1 October 1942. She was reassigned to the [[12th U-boat Flotilla|12th flotilla]] a month later on 1 November. She was a member of three [[Wolfpack (naval tactic)|wolfpack]]s.
+
+==Operational career==
+''U-118'' sank three merchant vessels and a warship; a total of {{GRT|14,989|disp=long}} of shipping in three patrols. She also damaged two others, for a total of {{GRT|11,945}}.
+
+===1st patrol===
+''U-118''{{'}}s first patrol began on 19 September 1942 with her departure from Kiel. Her route took her across the [[North Sea]], through the 'gap' between [[Iceland]] and the [[Faroe Islands]] and into the Atlantic Ocean. The boat was attacked south of Iceland by an aircraft on 29 September which caused only slight damage. She reached her destination, which was [[Lorient]] in occupied France, on 16 October.
+
+===2nd patrol===
+Her second sortie was to an area between the [[Azores]] and [[Madeira]]. It was uneventful.
+
+She carried out a short transit voyage from Lorient to [[Brest, France|Brest]] on 12 and 13 December 1942.
+
+===3rd patrol===
+The boat's third patrol was the longest, but most successful. Departing Brest on 25 January 1943, she sailed west of [[Gibraltar]], where she sank ''Baltonia'', ''Empire Mordred'' and ''Mary Slessor'' on 7 February and damaged ''Duero'' with a [[Naval mine|mine]] on the 10th. She was also responsible for the sinking of the corvette {{HMCS|Weyburn|K173|6}} on 22 February. The Canadian ship struck a mine that ''U-118'' had laid on the 1st. Despite best efforts by the crew to remove [[depth charge]] primers, two exploded when the ship sank, killing men in the water and disabling a nearby destroyer. She returned to France, to [[Bordeaux]], on 26 February.
+
+===4th patrol and loss===
+''U-118'' had been at sea less than a month when she was attacked by two aircraft west of the [[Canary Islands]] followed by a further eight planes from the carrier {{USS|Bogue|CVE-9|6}}. Following a heavy expenditure of bombs, .50&quot; and .30&quot; ammunition; the U-boat exploded into two parts, oil and debris were flung into the air. 16 men survived to be picked up by the escort vessel {{USS|Osmond Ingram|DD-255|6}}.&lt;ref name=&quot;Kemp, pp. 124-125&quot;/&gt;&lt;ref name=uboatnet/&gt;
+
+She was sunk in position {{coord|30|49|N|33|49|W}}
+
+===Wolfpacks===
+''U-118'' took part in three [[Wolfpack (naval tactic)|wolfpack]]s, namely.
+* Wotan (5–7 October 1942)
+* Westwall (28–30 November 1942)
+* Rochen (13–14 February 1943)
+
+==Summary of raiding history==
+{| class=&quot;wikitable&quot;
+|-
+! Date
+! Name
+! Nationality
+! Tonnage&lt;ref group=Note name=tonnage&gt;Merchant ship tonnages are in [[gross register tons]]. Military vessels are listed by tons [[displacement (ship)|displacement]].&lt;/ref&gt;
+! Fate&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/successes/u118/html
+ |title=Ships hit by U-118
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+}}&lt;/ref&gt;
+|-
+|align=&quot;right&quot;|7 February 1943
+|align=&quot;left&quot; |[[List of shipwrecks in February 1943#7 February|''Baltonia'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|2,013
+|align=&quot;left&quot; |Sunk (Mine)
+|-   
+|align=&quot;right&quot;|7 February 1943
+|align=&quot;left&quot; |[[List of shipwrecks in February 1943#7 February|''Empire Mordred'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|7,024
+|align=&quot;left&quot; |Sunk (Mine)
+|- 
+|align=&quot;right&quot;|7 February 1943
+|align=&quot;left&quot; |[[List of shipwrecks in February 1943#7 February|''Mary Slessor'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|5,027
+|align=&quot;left&quot; |Sunk (Mine)
+|-
+|align=&quot;right&quot;|10 February 1943
+|align=&quot;left&quot; |[[List of shipwrecks in February 1943#10 February|''Duero'']]
+|align=&quot;left&quot; |{{flag|Spain|1938}}
+|align=&quot;right&quot;|2,008
+|align=&quot;left&quot; |Damaged (Mine)
+|-
+|align=&quot;right&quot;|22 February 1943
+|align=&quot;left&quot; |{{HMCS|Weyburn|K173|6}}
+|align=&quot;left&quot; |{{navy|Canada|1868}}
+|align=&quot;right&quot;|925
+|align=&quot;left&quot; |Sunk (Mine)
+|-
+|align=&quot;right&quot;|22 February 1943
+|align=&quot;left&quot; |[[List of shipwrecks in February 1943#22 February|''Thorsholm'']]
+|align=&quot;left&quot; |{{flag|Norway}}
+|align=&quot;right&quot;|9,937
+|align=&quot;left&quot; |Damaged (Mine)
+|}
+
+==References==
+
+===Notes===
+{{Reflist|group=Note}}
+
+===Citations===
+{{reflist|30em}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+|ref=harv
+}}
+{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+*{{cite book
+|last=Kemp
+|first=Paul
+|title=U-Boats Destroyed - German Submarine Losses in the World Wars
+|location=London
+|year=1999
+|publisher=Arms &amp; Armour
+|isbn=1-85409-515-3
+|ref=harv
+}}
+
+{{Refend}}
+
+==External links==
+*{{cite web
+| url   =http://www.u-boot-archiv.de/dieboote/u0118.html
+| title  =''U 118''
+| last   =Hofmann
+| first  =Markus
+| website =Deutsche U-Boote 1935-1945 - u-boot-archiv.de
+| language =German
+| accessdate=2014-12-06
+}}
+* {{Cite web
+ |url= http://uboat.net/boats/u118.htm
+ |title= The Type II boat U-118
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate= 6 December 2014
+}}
+* [https://web.archive.org/web/20060513203737/http://www.ubootwaffe.net/ops/boat.cgi?boat=118 ''U-118'' at ubootwaffe.net]
+
+{{coord|30|49|N|28|21|W|type:landmark_source:kolossus-dewiki|display=title}}
+{{Use dmy dates|date=December 2012}}
+{{German Type X submarines}}
+{{June 1943 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+| commons=y
+| commons-search=Category:U-118 (submarine, 1941)
+}}
+
+{{DEFAULTSORT:U0118}}
+[[Category:German Type X submarines]]
+[[Category:U-boats commissioned in 1941]]
+[[Category:U-boats sunk in 1943]]
+[[Category:U-boats sunk by US aircraft]]
+[[Category:World War II submarines of Germany]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]
+[[Category:1941 ships]]
+[[Category:Ships built in Kiel]]
+[[Category:Maritime incidents in June 1943]]</text>
+      <sha1>f2boy5v6illdduq6aog16bifhkl7k6v</sha1>
+    </revision>
+  </page>
+</mediawiki>

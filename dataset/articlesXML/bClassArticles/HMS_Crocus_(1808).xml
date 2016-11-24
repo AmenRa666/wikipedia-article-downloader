@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Crocus (1808)</title>
+    <ns>0</ns>
+    <id>41045468</id>
+    <revision>
+      <id>685221549</id>
+      <parentid>682595161</parentid>
+      <timestamp>2015-10-11T16:25:11Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9605">{{otherships|HMS Crocus}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= 
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Crocus''
+|Ship namesake=
+|Ship ordered=30 March 1807
+|Ship builder=Plymouth Dockyard (M/s Joseph Tucker)
+|Ship laid down=November 1807
+|Ship launched=10 June 1808
+|Ship acquired=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Sold 1815
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=Winfield&gt;Winfield (2008), p. 309.&lt;/ref&gt;
+|Ship class=[[Crocus-class brig-sloop|''Crocus''-class]] 
+|Ship type=[[Brig-sloop]]
+|Ship tons burthen=255 {{small|{{frac|62|94}}}} ([[Builder's Old Measurement|bm]]) 
+|Ship length=*{{convert|92|ft|1+1/2|in|m|1|abbr=on}} (gundeck)
+*{{convert|73|ft|5+1/4|in|m|1|abbr=on}} (keel)
+|Ship beam={{convert|25|ft|7|in|m|1|abbr=on}} 
+|Ship height=
+|Ship draught=
+|Ship hold depth={{convert|12|ft|8|in|m|1|abbr=on}}
+|Ship sail plan=[[Brig|Brig rigged]]
+|Ship complement=86
+|Ship armament=*2 × 6-pounder [[chase gun|bow chasers]]
+*12 × 24-pounder [[carronade]]s
+|Ship armour=
+|Ship notes=
+}}
+|}
+'''HMS ''Crocus''''' was the nameship of the ''Crocus''-class brig-sloops of the [[Royal Navy]]. She was launched in 1808 and had an almost completely uneventful career until she was sold in 1815.
+==Career==
+Commander [[Robert Merrick Fowler]] commissioned ''Crocus'' in August for the North Sea.&lt;ref name=Winfield/&gt;{{#tag:ref|In 1804 Fowler had been returning home on an [[East Indiaman]] from Australia after the loss of his ship, {{HMS|Porpoise|1799|6}}. He distinguished himself in a variety of capacities during the [[Battle of Pulo Aura]]. The Company had rewarded him for his role with 300 [[Guinea (coin)|guineas]] to purchase a piece of plate. [[Lloyd's Patriotic Fund]] awarded him a suitably inscribed sword worth 50 guineas.&lt;ref&gt;Marshall (1828), Supplement, Part 2, pp.377-8.&lt;/ref&gt;|group=Note}}
+
+On 19 February 1809, ''Crocus'', {{HMS|Trompeuse|1797|2}} and the brig-sloop {{HMS|Rolla|1808|2}} were in company when ''Rolla'' recaptured the American ship ''Factor''.&lt;ref&gt;{{London Gazette|issue=16258||startpage=720|date=20 April 1809}}&lt;/ref&gt; ''Factor'', of New York, Johnstone, master, had been sailing from [[Tenerife]] when the privateer captured her the day before between [[Beachy Head]] and [[Dungeness (headland)|Dungeness]]. The British sent her into Dover. The same privateer had also captured a brig, which the excise cutter ''Lively'' had recaptured and sent into [[the Downs]].&lt;ref&gt;''Lloyd's List'', 21 February 1809.[http://www.1812privateers.org/LLOYDS/1809/02-21-1809.jpg]] - Accessed 10 November 2013.&lt;/ref&gt;
+
+''Crocus'' participated in the ill-fated [[Walcheren Campaign]].&lt;ref&gt;Marshall (1832), Vol. 3, Part 2, pp.384-5.&lt;/ref&gt; Starting on 30 July 1809, a [[United Kingdom|British]] armed force of 39,000 men landed on [[Walcheren]]. However, the [[France|French]] fleet had left [[Flushing, Netherlands|Flushing]] (Vlissingen) and sailed to Antwerp, and the British lost over 4,000 men to &quot;Walcheren Fever&quot;, a combination of [[malaria]] and [[typhus]], and to enemy action. As the strategic reasons for the campaign dissipated and conditions worsened, the British force withdrew in December. Prize money arising from the net proceeds of the property captured
+at Walcheren and the adjacent islands in the Scheld was paid in October 1812.&lt;ref&gt;{{London Gazette|issue=16650|startpage=1971|endpage=1972|date=29 September 1812}}&lt;/ref&gt;
+
+Fowler transferred to {{HMS|Charybdis|1809|2}} on 18 September 1809. Commander the Honourable William Walpole recommissioned ''Crocus'' in October. She then cruised the Channel. Three months later Commander Richard Buck replaced him. Buck sailed her for the Mediterranean on 19 December.&lt;ref name=Winfield/&gt;
+
+On 19 January 1810, ''Crocus'' recaptured the ''Selberen''.&lt;ref&gt;{{London Gazette|issue=16418||startpage=1697|date=23 October 1810}}&lt;/ref&gt; By 11 June ''Crocus'' was back in Britain as on the 11th a midshipman from ''Crocus'' underwent court martial on board {{HMS|Salvador del Mundo|1797|2}} in the [[Hamoaze]]. The charge was that he had deserted while ''Crocus'' was off Land's End when he had been sent with a boat's crew to retrieve sand for scrubbing the deck. The court sentenced him to two years' imprisonment in the [[Marshalsea]], to be mulct of all his pay, to be declared unworthy and incapable of ever serving as an officer in his Majesty's navy and, at the expiration of his imprisonment, to serve before the mast.&lt;ref name=NC&gt;''Naval Chronicle'', Vol. 24, p.82.&lt;/ref&gt; The court ordered a seaman who had also seized the same opportunity to desert to 200 lashes. The seaman had made mutinous statements to the purser and [[First lieutenant#Royal Navy|First Lieutenant]] on ''Crocus'' when they caught him.&lt;ref name=NC/&gt;
+
+''Crocus'' captured the ''Triton'', Thompson, master, in early January 1810. ''Triton'' had been sailing from New York to Tonningen before ''Crocus'' sent her into Plymouth.''Crocus'' captured the ''Triton'', Thompson, master, in early January 1810. ''Triton'' had been sailing from New York to Tonningen before ''Crocus'' sent her into Plymouth.&lt;ref&gt;''Lloyd's List'' 9 January 1810[http://www.1812privateers.org/LLOYDS/1810/01-09-1810.jpg] - accessed 13 November 2013.&lt;/ref&gt;
+
+''Serbere'', Tamansin, master, arrived at Falmouth on 20 January 1810. She had been sailing from Alicante to London when a 10-gun French privateer had captured her on the 18th. ''Crocus'' had recaptured her.''Crocus'' captured the ''Triton'', Thompson, master, in early January 1810. ''Triton'' had been sailing from New York to Tonningen before ''Crocus'' sent her into Plymouth.&lt;ref&gt;''Lloyd's List'' 9 January 1810[http://www.1812privateers.org/LLOYDS/1810/01-23-1810.jpg] - accessed 13 November 2013.&lt;/ref&gt; 
+
+In November 1810 Commander John Bellamy recommissioned ''Crocus'' at Portsmouth, for the Mediterranean.&lt;ref name=Winfield/&gt; While ''Crocus'' was in Portsmouth, a 16-year-old Marine fell overboard on 14 November. His floating body was immediately retrieved but efforts to revive him failed.&lt;ref&gt;''Naval Chronicle'', Vol. 24, p.440.&lt;/ref&gt;
+
+Although Bellamy had recommissioned ''Crocus'', this apparently occurred while Buck was on leave. Buck remained in command until he was promoted to [[post captain]] on 3 April 1811.&lt;ref&gt;Marshall (1828), Supplement, Part 2, pp.350-1.&lt;/ref&gt; 
+
+Commander Arden Adderley assumed command in May 1811 and recommissioned her in September.&lt;ref name=Winfield/&gt; On 4 September 1812 ''Crocus'' captured the French privateer [[settee (sail)|settee]]  ''Formica'', of two guns and 25 men. She was three months out of Genoa but had not made any captures. Her crew escaped in the boats to the Barbary shore.&lt;ref&gt;{{London Gazette|issue=16668|startpage=2296|date=14 November 1812}}&lt;/ref&gt; Later prize money reports gave the privateer's name as ''Fournie'' and the head-money count as 36 men.{{#tag:ref|A first-class share of the proceeds was worth [[£sd|£]]36 18[[shilling|s]] 0¾[[pence|d]]; a sixth-class share, that of an ordinary seaman, was worth £1 3s 1¾d.&lt;ref&gt;{{London Gazette|issue=17060|startpage=1861|date=12 September 1815}}&lt;/ref&gt;|group=Note}}
+
+On 2 January 1813, ''Crocus'' and {{HMS|Minorca|1805|2}} captured the ''San Nicolo''.{{#tag:ref|A first-class share of the prize money was worth [[£sd|£]]265 18[[shilling|s]] 8[[pence|d]]; a sixth-class share was worth £7 10s 0d. Some costs were allocated equitably and were to be deducted at time of payment.&lt;ref&gt;{{London Gazette|issue=17090|startpage=2481|date=12 December 1815}}&lt;/ref&gt;|group=Note}}
+
+The ''Powhattan'', Parrott, master, arrived at Malta on 3 February 1814. She was from New York and ''Crocus'' had detained her off Cagliari.&lt;ref&gt;''Lloyd's List'' 9 January 1810[http://www.1812privateers.org/LLOYDS/1812/04-24-1812.jpg] - accessed 13 November 2013.&lt;/ref&gt; 
+
+Adderley received promotion to post captain on 19 July 1814.&lt;ref&gt;Marshall (1829), supplement, Part 3, p.309.&lt;/ref&gt; However, on 7 June 1814 [[James Hanway Plumridge]] was promoted to [[Commander (Royal Navy)|commander]] in ''Crocus'', but within a month was transferred to command of {{HMS|Philomel|1806|2}}. Commander John Stoddard then recommissioned her in July.&lt;ref name=Winfield/&gt;
+
+==Fate==
+''Crocus'' was paid off in November 1814.&lt;ref name=Winfield/&gt; The Admiralty then listed her for sale at Sheerness on 9 February 1815.&lt;ref&gt;{{London Gazette|issue=16982|startpage=217|date=7 February 1815}}&lt;/ref&gt; She finally sold on 31 August for £830.&lt;ref name=Winfield/&gt;
+
+==Notes, citations, and references==
+;Notes
+{{reflist|group=Note}}
+;Citations
+{{reflist|colwidth=30em}}
+;References
+*Marshall, John (1823–1835) ''Royal naval biography, or, Memoirs of the services of all the flag-officers, superannuated rear-admirals, retired-captains, post-captains, and commanders, whose names appeared on the Admiralty list of sea officers at the commencement of the present year 1823, or who have since been promoted ...'' (London: Longman, Hurst, Rees, Orme and Brown).
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1861762461}}
+
+{{Crocus class brig sloop}}
+
+{{DEFAULTSORT:Crocus (1808)}}
+[[Category:1808 ships]]
+[[Category:Brig-sloops of the Royal Navy]]</text>
+      <sha1>67l2u4088pbnguw80zicschemepurnk</sha1>
+    </revision>
+  </page>
+</mediawiki>

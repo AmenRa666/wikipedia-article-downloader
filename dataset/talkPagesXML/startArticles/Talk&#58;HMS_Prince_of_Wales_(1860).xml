@@ -1,0 +1,81 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:HMS Prince of Wales (1860)</title>
+    <ns>1</ns>
+    <id>6764416</id>
+    <revision>
+      <id>647334896</id>
+      <parentid>647311707</parentid>
+      <timestamp>2015-02-16T02:28:30Z</timestamp>
+      <contributor>
+        <username>SporkBot</username>
+        <id>12406635</id>
+      </contributor>
+      <minor/>
+      <comment>Repair [[:Category:Pages using duplicate arguments in template calls|duplicate template arguments]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1302">{{WikiProjectBannerShell
+|1={{WikiProject Ships|class=Start|importance=mid}}
+{{WPMILHIST|Maritime-task-force=yes|British-task-force= yes|class=Start|importance=mid}}
+{{WikiProject United Kingdom|class=Start|importance=mid|nested=yes}}
+{{archive box collapsible|large=yes|box-width=100%|
+*[[Talk:HMS Prince of Wales (1860)/Archive1|HMS Prince of Wales (1860)  - Archive 1]]
+}}
+
+}}
+
+==1915 Daily Mail article differences==
+
+The Daily mail article (p. 10) has some differences about her history:
+
+:On Feb 15 1915 it was sold to the &quot;well known breakers of battleships, Messrs, Hughes, Bolckow, and Co. (Limited), of Blyth ... from 1859 to 1905 she served continuously as a training ship for naval cadets ... Built in 1820 as a line-of-battleship the Britannia saw service in the Crimean War, when as flagship of Admiral Dundas she took part in the bombardment of Sebastopol on October 17, 1854 ... until the necessary alterations were made, in 1858, to fit for her new duties as a training ship&quot; [http://www.telegraph.co.uk/news/ww1-archive/11411711/Daily-Telegraph-February-15-1915.html Daily mail article (p. 10)]
+
+Did the Daily Mail confuse two ships the [[HMS Britannia (1820)]] and [[HMS Prince of Wales (1860)]]? -- [[User:Esemono|Esemono]] ([[User talk:Esemono|talk]]) 23:26, 15 February 2015 (UTC)</text>
+      <sha1>7qadegvfppkovc434zjhgn2kp73hfx1</sha1>
+    </revision>
+  </page>
+</mediawiki>

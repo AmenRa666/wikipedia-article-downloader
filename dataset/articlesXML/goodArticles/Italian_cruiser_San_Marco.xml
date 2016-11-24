@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian cruiser San Marco</title>
+    <ns>0</ns>
+    <id>38850105</id>
+    <revision>
+      <id>747533252</id>
+      <parentid>696761586</parentid>
+      <timestamp>2016-11-02T22:38:51Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15789">{{Good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Ta3slz.jpg|300px]]
+|Ship caption=San Marco underway, 18 August 1910}}
+{{Infobox ship career
+| Hide header              = 
+| Ship country             =[[Kingdom of Italy]]
+| Ship flag                ={{shipboxflag|Kingdom of Italy}}
+| Ship name                =''San Marco''
+| Ship namesake            =[[Saint Mark]] 
+| Ship ordered             = 18 September 1905
+| Ship builder             = [[Regio Cantieri di Castellammare di Stabia]], [[Castellammare di Stabia]]
+| Ship laid down           = 2 January 1907
+| Ship launched            = 20 December 1908
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship reclassified      = As [[target ship]], 1931
+| Ship struck              = 27 February 1947
+| Ship fate                =*Sunk, 1945;
+*[[ship breaking|Scrapped]], 1949
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+|Ship class={{sclass-|San Giorgio|cruiser|0}} [[armoured cruiser]]
+|Ship displacement={{convert|10969|t|LT|0|abbr=on}} 
+|Ship length={{convert|140.89|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|21.03|m|ftin|abbr=on}}
+|Ship draught={{convert|7.76|m|ftin|abbr=on}}
+|Ship power=*{{convert|23000|shp|lk=in|abbr=on}}
+*14 [[water-tube boiler]]s 
+|Ship propulsion=4 shafts, 4 [[steam turbine]]s
+|Ship speed={{convert|23|kn|lk=in}}
+|Ship range={{convert|4800|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=32 officers, 666–73 enlisted men
+|Ship armament=*2 twin {{convert|254|mm|abbr=on}}/45 guns
+*4 twin {{convert|190|mm|abbr=on}}/45 guns
+*18 single {{convert|76|mm|abbr=on}}/40 guns
+*2 single {{convert|47|mm|in|abbr=on}}/50 guns
+*3 × {{convert|450|mm|in|1|abbr=on}} [[torpedo tube]]s
+|Ship armour=*[[Belt armor|Belt]]: {{convert|200|mm|abbr=on|1}}
+*[[Gun turret]]s: {{convert|160|-|200|mm|abbr=on|1}}
+*[[Deck (ship)|Deck]]: {{convert|50|mm|abbr=on}}
+*[[Conning tower]]: {{convert|254|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+The '''Italian cruiser ''San Marco''''' was a {{sclass-|San Giorgio|cruiser|0}} [[armoured cruiser]] built for the Royal Italian Navy (''[[Regia Marina]]'') in the first decade of the 20th century. She was the first large Italian ship fitted with [[steam turbine]]s and the first turbine-powered ship in any navy to have four [[propeller shaft]]s.&lt;ref&gt;Gardiner &amp; Gray, p. 252&lt;/ref&gt; The ship participated in the [[Italo-Turkish War]] of 1911–12, during which time she supported the occupations of [[Benghazi]] and [[Derna, Libya|Derna]], the island of [[Rhodes]], and bombarded the fortifications defending the entrance to the [[Dardanelles]]. During [[World War I]], ''San Marco''{{'}}s activities were limited by the threat of [[Austro-Hungarian]] submarines, although the ship did participate in the [[Battle of Durazzo (1918)|bombardment of Durazzo, Albania]] in late 1918. She played a minor role in the [[Corfu incident]] in 1923 and was converted into a target ship in the first half of the 1930s. ''San Marco'' was captured by the Germans when they [[Operation Achse|occupied northern Italy]] in 1943 and was found sunk at the end of the war. The ship was [[ship breaking|broken up]] and scrapped in 1949.
+
+==Design and description==
+The ships of the ''San Giorgio'' class were designed as improved versions of the [[Pisa-class cruiser|''Pisa''-class]] design. ''San Marco''{{'}}s design featured several new innovations that differentiated her from her [[sister ship]] [[Italian cruiser San Giorgio|''San Giorgio'']]. ''San Marco'' was given the first steam turbines fitted in a large Italian ship and she was the first turbine-powered ship in any navy to have four shafts, the first with a [[gyroscopic compass]], the first with [[antiroll tanks]], and the first not to use wood in any way.&lt;ref&gt;Gardiner &amp; Gray, pp. 252, 261&lt;/ref&gt;
+
+''San Marco'' had a [[length between perpendiculars]] of {{convert|131.04|m|ftin}} and an [[length overall|overall length]] of {{convert|140.89|m|ftin}}. She had a [[beam (nautical)|beam]] of {{convert|21.03|m|ftin}} and a [[draft (hull)|draught]] of {{convert|7.76|m|ftin}}. The ship displaced {{convert|10969|t|LT}} at normal load, and {{convert|11900|t|LT}} at [[deep load]]. Her complement was 32 officers and 666 to 673 enlisted men.&lt;ref name=f8&gt;Fraccaroli 1971, p. 33&lt;/ref&gt;
+
+The ship was powered by four steam turbines, each driving one propeller shaft using steam supplied by 14 [[Babcock &amp; Wilcox boiler]]s. Designed for a maximum output of {{convert|23000|shp|lk=in}} and a speed of {{convert|23|kn|lk=in}},&lt;ref name=s8&gt;Silverstone, p. 290&lt;/ref&gt; ''San Marco'' handily exceeded this, reaching a speed of {{convert|23.75|kn}} during her [[sea trial]]s from {{convert|23030|ihp|abbr=on}}.&lt;ref name=g0/&gt; The ship was also required to be a half a knot faster than ''San Giorgio'', a requirement she easily surpassed.&lt;ref name=a7&gt;Attilio, p. 477&lt;/ref&gt; ''San Marco'' had a cruising range of {{convert|4800|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=g0&gt;Gardiner &amp; Gray, p. 261&lt;/ref&gt;
+
+The main armament of the ''San Giorgio''-class ships consisted of four [[EOC 10-inch /45 naval gun|Cannone da 254/45 A Modello 1908]] guns in twin-[[gun turret]]s fore and aft of the [[superstructure]]. The ships mounted eight [[Cannone da 190/45 A Modello 1908]] in four twin-gun turrets, two in each side [[amidships]], as their secondary armament. For defense against [[torpedo boat]]s, they carried 18 [[List of British ordnance terms#QF|quick-firing (QF)]] 40-caliber {{convert|76|mm|abbr=on}} guns. Eight of these were mounted in [[embrasure]]s in the sides of the hull and the rest in the superstructure.&lt;ref name=g0/&gt; The ships were also fitted with a pair of 40-caliber QF {{convert|47|mm|abbr=on}} guns. The ''San Giorgio''s were also equipped with three submerged {{convert|450|mm|in|abbr=on|1}} [[torpedo tube]]s. During World War I, eight of the 76&amp;nbsp;mm guns were replaced by six 76&amp;nbsp;mm [[anti-aircraft gun|anti-aircraft (AA) guns]]&lt;ref name=g0/&gt; and one torpedo tube was removed.&lt;ref name=s8/&gt;
+
+The ships were protected by an [[belt armor|armoured belt]] that was {{convert|200|mm|in|1|abbr=on}} thick amidships and reduced to {{convert|80|mm|abbr=on|1}} at the bow and stern.&lt;ref name=s8/&gt; The armoured [[deck (ship)|deck]] was {{convert|50|mm|abbr=on}} thick and the [[conning tower]] armour was 254&amp;nbsp;mm thick. The 254&amp;nbsp;mm gun turrets were protected by 200&amp;nbsp;mm of armour while the 190&amp;nbsp;mm turrets had {{convert|160|mm|abbr=on|1}}.&lt;ref name=g0/&gt;
+
+==Construction and career==
+''San Marco'' , named after [[Saint Mark]], the patron saint of Venice,&lt;ref name=s7&gt;Silverstone, p. 305&lt;/ref&gt; was ordered on 18 September 1905 and [[keel laying|laid down]] on 2 January 1907 at the [[Regio Cantieri di Castellammare di Stabia]] in [[Castellammare di Stabia]], on the [[Bay of Naples]]. The ship was [[Ship naming and launching|launched]] on 20 December 1907 and completed on 7 February 1911.&lt;ref name=g0/&gt;
+
+When the Italo-Turkish War of 1911&amp;ndash;12 began on 29 September 1911, ''San Marco'' was not initially assigned to the 2nd [[Division (naval)|Division]] of the 1st [[Squadron (naval)|Squadron]] of the Mediterranean Fleet. She was assigned to the Division on 1 October&lt;ref&gt;Beehler, p. 9&lt;/ref&gt; and later escorted several Italian transports that arrived off [[Derna, Libya]] on 15 October together with the [[battleship]] {{ship|Italian battleship|Napoli||2}} and the armoured cruisers {{ship|Italian cruiser|Pisa||2}} and {{ship|Italian cruiser|Amalfi||2}}. After negotiations for a surrender of the town fell apart, ''Pisa'' shelled the barracks and a fort. There was no return fire from Derna, so a boat with offers of a truce was sent in. When it was greeted by a volley of rifle fire, ''San Marco'' and the other armoured cruisers opened fire on the town with their 190&amp;nbsp;mm guns and, according to a contemporary account, &quot;completely destroyed&quot; the town in 30 minutes time.&lt;ref&gt;Beehler, p. 30&lt;/ref&gt; A landing party was unable to reach the shore because of rough seas and gunfire from the shore. ''San Marco'' and her consorts then shelled the beach for two hours. Weather conditions prevented a landing until the 18th, when 1,500 men took possession of Derna. The ship then supported Italian troops at [[Benghazi]] in December.&lt;ref&gt;Beehler, pp. 47, 49&lt;/ref&gt; In mid-April 1912 the Italian fleet sortied into the eastern [[Aegean Sea]] with ''Pisa'' and ''Amalfi'' leading in an attempt to lure out the Ottoman fleet. When that failed, the Italians bombarded the fortifications defending the [[Dardanelles]] to little effect before the main body departed for Italy on the 19th.&lt;ref&gt;Stephenson, pp. 262–65&lt;/ref&gt; In May ''San Marco'' provided support for the occupation of [[Rhodes]] and finally returned home on 20 September.&lt;ref name=ma&gt;Marchese&lt;/ref&gt;
+
+[[File:Sanmarco02.jpg|thumb|left|''San Marco'' at Brindisi on 13 December 1916]]
+She was used for experiments evaluating shipboard operation of [[seaplane]]s before the start of World War I.&lt;ref&gt;Layman, p. 44&lt;/ref&gt; The ship was based at [[Brindisi]] when Italy declared war on the [[Central Powers]] on 23 May 1915. That night, the [[Austro-Hungarian Navy]] bombarded the Italian coast in an attempt to disrupt the Italian mobilization. Of the many targets, [[Ancona]] was hardest hit, with disruptions to the town's gas, electric, and telephone service; the city's stockpiles of coal and oil were left in flames. All of the Austrian ships safely returned to port, putting pressure on the ''Regia Marina'' to stop the attacks. When the Austrians resumed bombardments on the Italian coast in mid-June, Admiral [[Paolo Thaon di Revel]] responded by sending ''San Marco'' and the other armoured cruisers at Brindisi—the navy's newest—to [[Venice]] to supplement the older ships already there.&lt;ref&gt;Sondhaus, pp. 274–76, 279&lt;/ref&gt; Shortly after their arrival at Venice, ''Amalfi'' was sunk by a submarine on 7 July and her loss severely restricted the activities of the other ships based at Venice.&lt;ref&gt;Halpern, pp. 148, 151; Sondhaus, p. 289&lt;/ref&gt; ''San Marco'' later participated in the bombardment of [[Durazzo]] (now known as Durrës) on 2 October 1918 which sank one merchantman and damaged two others.&lt;ref&gt;Halpern, p. 176&lt;/ref&gt;
+
+On 21 September 1923, the ship transported to Taranto the bodies of the members of the Boundary Commission killed on [[Corfu]] on 27 August (their deaths sparked the Corfu incident).&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19230922/295/0009|title=Greek Reparations: Evacuation of Corfu Begun|date=22 September 1923|work=Yorkshire Post and Leeds Intelligencer|page=9|accessdate=1 March 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt; On 1 October, ''San Marco'' ferried the last occupation troops from Corfu to Brindisi.&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000320/19231001/040/0002|title=Italy and Greece: Indemnity Paid Over|date=1 October 1923|work=Gloucestershire Echo|page=2|accessdate=1 March 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt; On 16 March 1924, she saluted King [[Victor Emmanuel III of Italy|Victor Emmanuel III]] when he arrived in [[Rijeka|Fiume]] to attend the ceremony commemorating the city's annexation by Italy.&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/19240317/155/0006|title=Italy Takes Over Fiume|date=17 March 1924|work=Edinburgh Evening News|accessdate=1 March 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt; ''San Marco'' escorted [[Crown Prince]] [[Umberto II of Italy|Umberto]], travelling aboard ''San Giorgio'', during his South American tour in July–September 1924.&lt;ref&gt;{{cite news|title=Prince Humbert Sails|date=2 July 1924|work=The New York Times|page=31|accessdate=3 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Humbert Sails Home from Brazil|date=20 September 1924|work=The New York Times|page=22|accessdate=3 March 2015}}&lt;/ref&gt;
+
+''San Marco'' was disarmed and converted into a radio-controlled (by the elderly [[destroyer]] {{ship|Italian destroyer|Audace|1916|2}}) [[target ship]] in 1931–35. Her old boilers were replaced by four oil-burning [[John I. Thornycroft &amp; Company|Thornycroft]]-type boilers which reduced her maximum speed to {{convert|18|kn}} from {{convert|13000|shp}}. During a naval review for [[Adolf Hitler]] in the Bay of Naples on 5 May 1938, the ship was used as a target by the [[heavy cruiser]]s {{ship|Italian cruiser|Fiume||2}} and {{ship|Italian cruiser|Zara||2}}.&lt;ref&gt;Fraccaroli 1972, p. 104&lt;/ref&gt; She was captured by the Germans when they occupied [[La Spezia]] on 9 September 1943; the ship was found at the end of the war sunk in the harbor there. ''San Marco'' was formally stricken from the [[Navy List]] on 27 February 1947 and broken up in 1949.&lt;ref&gt;Gardiner &amp; Gray, pp. 261–62&lt;/ref&gt;
+
+== Notes ==
+{{Reflist|2}}
+
+== Bibliography ==
+*{{cite journal|last=Attilio|first=Dagnino|title=Italy's First Turbine-Driven Cruiser, the San Marco|journal=International Marine Engineering|date=December 1911|volume=16|pages=477–480|url=https://books.google.com/books?id=n27mAAAAMAAJ&amp;pg=PA477&amp;dq=san+marco+cruiser&amp;hl=en&amp;sa=X&amp;ei=XLFMUcecGKrA4AOG2YHIDQ&amp;ved=0CFUQ6AEwBQ#v=snippet&amp;q=San%20Marco&amp;f=false|accessdate=2 March 2015}}
+* {{cite book | last = Beehler | first = William Henry | title = The History of the Italian-Turkish War, Sept. 29, 1911 to Oct. 18, 1912 | location = Annapolis, Maryland | publisher  = Advertiser-Republican | year = 1913 | oclc = 63576798 }}
+*{{cite book|last=Fraccaroli|first=Aldo |title=Italian Warships of World War I|location=London|publisher=Ian Allan|year=1970|isbn=0-7110-0105-7}}
+*{{cite book|last=Fraccaroli|first=Aldo|title=RN Zara 1929–1941|series=Warship Profile|volume=17|year=1972|publisher=Profile Publications|location=Windson, UK|isbn=0-85383-060-6}}
+*{{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+*{{cite book|last=Halpern|first=Paul S.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1994|isbn=1-55750-352-4}}
+*{{cite book|last=Layman|first=R. D.|title=Naval Aviation in the First World War: Its Impact and Influence|year=1996|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-617-5}}
+*{{cite journal|last=Marchese|first=Giuseppe|date=February 1996|title=La Posta Militare della Marina Italiana 8^ puntata|journal=La Posta Militare|issue=72|url=http://www.giuseppemarchese.it/articoli/art_56/art56_8.html|language=Italian}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book | last = Sondhaus | first = Lawrence | title = The Naval Policy of Austria-Hungary, 1867–1918: Navalism, Industrial Development, and the Politics of Dualism | location = [[West Lafayette, Indiana]] | publisher = [[Purdue University Press]] | year = 1994 | isbn = 978-1-55753-034-9 | oclc = 59919233 }}
+*{{cite book|last=Stephenson|first=Charles|title=A Box of Sand: The Italo-Ottoman War 1911–1912: The First Land, Sea and Air War|year=2014|publisher=Tattered Flag Press|location=Ticehurst, UK|isbn=978-0-9576892-7-5}}
+
+{{San Giorgio-class armored cruisers}}
+
+{{DEFAULTSORT:San Marco, Italian cruiser}}
+[[Category:San Giorgio-class cruisers]]
+[[Category:Ships built in Castellammare di Stabia]]
+[[Category:1907 ships]]
+[[Category:World War I cruisers of Italy]]
+[[Category:Naval ships of Italy captured by Germany during World War II]]</text>
+      <sha1>knq1xree6bkh2cv6svr3j0cm6bsbj5y</sha1>
+    </revision>
+  </page>
+</mediawiki>

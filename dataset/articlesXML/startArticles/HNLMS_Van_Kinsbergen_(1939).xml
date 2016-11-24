@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HNLMS Van Kinsbergen (1939)</title>
+    <ns>0</ns>
+    <id>31102346</id>
+    <revision>
+      <id>740489072</id>
+      <parentid>740422399</parentid>
+      <timestamp>2016-09-21T11:18:07Z</timestamp>
+      <contributor>
+        <username>DagosNavy</username>
+        <id>1723027</id>
+      </contributor>
+      <comment>/* Service history */ Chronological order</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5877">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HNLMS Van Kinsbergen (1939).jpg|300px]]
+|Ship caption=''Van Kinsbergen'', at sea in October 1944
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Netherlands
+|Ship flag={{shipboxflag|Netherlands}}
+|Ship name=''Van Kinsbergen''
+|Ship namesake=
+|Ship ordered=
+|Ship builder=[[Rotterdamsche Droogdok Maatschappij]]
+|Ship laid down=11 September 1937
+|Ship launched=5 January 1939
+|Ship acquired=
+|Ship commissioned=24 August 1939
+|Ship decommissioned=29 May 1959
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship honors=
+|Ship fate= sold for scrap 1974
+|Ship motto=
+|Ship nickname=
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=Unique [[Sloop-of-war|sloop]]
+|Ship displacement=*1760 tons (standard)
+*2388 tons (full load)
+|Ship length={{convert|100.2|m|ftin|abbr=on}}
+|Ship beam={{convert|11.6|m|ftin|abbr=on}}
+|Ship draft={{convert|3.4|m|ftin|abbr=on}}
+|Ship power={{convert|17000|ihp|kW|lk=in|abbr=on}}
+|Ship propulsion=*2 × triple-expansion steam engines
+*2 × screws
+|Ship speed={{convert|25.5|kn|km/h mph|lk=in|abbr=on}}
+|Ship range=
+|Ship boats=
+|Ship capacity=
+|Ship complement=183 (later 220)
+|Ship sensors=
+|Ship armament=''As built:''
+*4 × {{convert|120|mm|in|1|abbr=on}} guns
+*4 × {{convert|40|mm|in|2|abbr=on}}   guns
+*4 × {{convert|12.7|mm|in|1|abbr=on}} [[machine gun]]s
+*2 x [[Depth charge|Depth charge racks]]
+''Added in 1945:''
+*2 x [[Mousetrap (weapon)|Mousetraps]]
+''After 1951 refit:''
+*2 x {{convert|105|mm|in|1|abbr=on}} guns
+*3 x {{convert|40|mm|in|2|abbr=on}} guns
+*2 x {{convert|20|mm|in|1|abbr=on}} guns
+*2 x [[Depth charge|Depth charge racks]]
+*2 x [[Mousetrap (weapon)|Mousetraps]]
+|Ship armour=*Belt: {{convert|13|mm|abbr=on}}
+*Armour deck: {{convert|20|mm|abbr=on}}
+*Conning tower: {{convert|20|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+
+'''HNLMS'' Van Kinsbergen''''' ({{lang-nl|Hr.Ms. Van Kinsbergen}}) was a unique [[Sloop-of-war|sloop]] of the [[Royal Netherlands Navy]] build by [[Rotterdamsche Droogdok Maatschappij]]. She served in the Dutch West Indies in 1940. Later, she served as escort vessel and survived [[World War II]]. She was decommissioned on 29 May 1959 and was sold for scrap on 19 May 1974.
+
+==Construction==
+''Van Kinsbergen'' was laid down on 11 September 1937. She was launched on 5 January 1939 and commissioned on 24 August 1939.
+
+==Service history==
+On 26 August 1939, ''Van Kinsbergen'' left [[Den Helder]] port to meet with the Dutch submarine {{HNLMS|O 13||2}} in the [[English Channel]]. After meeting with ''O 13'', which returned from the West Indies, both ships returned to the Netherlands. On 2 October, ''Van Kinsbergen'' left Den Helder port with the submarines {{HNLMS|O 20||2}} and {{HNLMS|O 14||2}} accompanying her to the West Indies, where she was to relieve the sloop {{HNLMS|Johan Maurits van Nassau||2}} and to train new gunners. She arrived in [[Curacao]] on 31 October.
+
+On the evening of 1 November, ''Van Kinsbergen'' left port to intercept a [[Royal Navy|British]] [[destroyer]] that had entered territorial waters; this was forbidden because of the Netherlands′ declaration of neutrality in September 1939. A similar incident occurred when a British [[cruiser]] entered the territorial waters. Both incidents where resolved without using force.
+
+On 10 May 1940, war with [[Nazi Germany|Germany]] broke out, and boarding parties from ''Van Kinsbergen'' captured seven German merchant ships which were present at Curacao. As the war continued, she took part in several other missions to capture merchant ships and rescue survivors of torpedoed ships. She continued naval operations for the Allies in the [[Caribbean Sea|Caribbean sea]] under British supervision.
+
+On 26 May 1941, ''Van Kinsbergen'' captured the [[Vichy France|Vichy French]] liner [[SS Winnipeg|SS ''Winnipeg'']]'','' which was sent to [[Port of Spain]], [[Trinidad]], and handed over to the British [[Ministry of War Transport]].&lt;ref&gt;{{Cite web|url=http://www.uboat.net/allies/merchants/ships/2285.html|title=Winnipeg II|last=|first=|date=|website=|publisher=Uboat.net|accessdate=9 September 2015}}&lt;/ref&gt;
+
+On the 20th of August 1940 ''Van Kinsbergen'' encountered with the heavy [[cruiser]] [[USS Tuscaloosa (CA-37)|USS ''Tuscaloosa'']] somewere in the [[Atlantic Ocean]]. ''Van Kinsbergen'' gave a demonstration of the [[Bofors 40 mm gun|40mm guns]] that had been stabilized on a Hazemeyer patented mount. Together with excellent fire control, the gunners on the ''Van Kinsbergen'' achieved amazing results. The Americans were so impressed that they decided to use this system. To protect their patents, the Swedes were not eager to hand over the Bofors blueprints to the [[United States]]. The Americans could not wait for what they considered to be trivialities and obtained the blueprints through the [[Royal Netherlands Navy]]. The Dutch had them in safekeeping in the still unoccupied [[Netherlands East Indies]]. Only after the war were the Swedes compensated for this.{{Citation needed|date=September 2016}}  
+
+&lt;!-- There seems to be some info missing... the history goes straight from service during the war to the 1950s, and it speaks of a conversion that isn't mentioned earlier in the article.--&gt;On 1 November 1955, her conversion to accommodation ship was completed. She was decommissioned on 29 May 1959 and was sold for scrap to the [[Belgium|Belgian]] company ''Van Heyghen'' for 515,000 guilders on 19 May 1974.
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://www.netherlandsnavy.nl/Vkinsbergen.htm Detailed history of ''Van Kinsbergen'']
+
+{{WWIIDutchShips}}
+
+{{DEFAULTSORT:Van Kinsbergen (1939)}}
+[[Category:World War II sloops of the Netherlands]]
+[[Category:Sloops of the Royal Netherlands Navy]]
+[[Category:1939 ships]]
+[[Category:Ships built in the Netherlands]]</text>
+      <sha1>5a304p7s0je8lwy4nf87kg8c4x7g412</sha1>
+    </revision>
+  </page>
+</mediawiki>

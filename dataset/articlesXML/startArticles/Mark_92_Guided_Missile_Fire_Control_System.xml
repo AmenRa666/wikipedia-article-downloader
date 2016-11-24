@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mark 92 Guided Missile Fire Control System</title>
+    <ns>0</ns>
+    <id>20209718</id>
+    <revision>
+      <id>675093333</id>
+      <parentid>675090857</parentid>
+      <timestamp>2015-08-08T05:40:38Z</timestamp>
+      <contributor>
+        <username>Saberwyn</username>
+        <id>329948</id>
+      </contributor>
+      <comment>Don't fear the Mark. Also removing promotional brochures and other tweaks</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4546">[[File:Combat systems of the FFG-7 class.png|thumb|300px|right|The Mark 92 is part of the combat systems of the Oliver Hazard Perry class frigate]]
+The '''Mark 92 Fire Control System''' is a US-built medium-range anti-aircraft missile and gun fire control system. It was developed for the FFG-7 [[Oliver Hazard Perry class frigate|Oliver Hazard Perry class guided missile frigates]]. The system is a licensed [[USN]] version of the [[Thales Nederland]] WM-25 fire control system. The Mark 92 fire control system was approved for service use in 1975. Introduction to the fleet and follow-on test and evaluation began in 1978.&lt;ref name=GlobalSec&gt;{{cite web|url=http://www.globalsecurity.org/military/systems/ship/systems/mk-92-fcs.htm|title=MK 92 Fire Control System (FCS)|publisher=GlobalSecurity.org|accessdate=2008-12-12}}&lt;/ref&gt;
+
+==Radar Systems==
+The Mark 92 system assigns targets via the ship's air search radar, and surface search radar or from the Mark 92's own search radar capabilities.&lt;ref name=GlobalSec/&gt; The system has two or three radar sub-systems depending on the model. The first two are combined into a single system called the Combined Antenna System or CAS is used in all models.&lt;!-- #1.1 --&gt; The CAS has a track while scan radar (Search) and a tracking radar both housed in an egg shaped radome. The radars can search for, track, and illuminate targets. &lt;!-- #1.2 --&gt; There is also a third radar for target illumination referred to as the Separate Target Illumination Radar or STIR. The STIR is a radar developed from the [[Ship Gun Fire Control Systems|AN/SPG-60]] radar that is part of the Mark 86 gun fire control system. &lt;!-- #2.0 --&gt;
+
+==Versions==
+[[File:MK-92 CAS radar system.jpg|thumb|right|upright|Cross-section of a Mark 92's Combined Antenna System]]
+*Mark 92 modification 0 is an early version of the system for the USN.
+::Gun and missile control:
+::1 air engagement channel
+::2 surface-search, TWS channels
+
+*Mark 92 modification 1 is the version used by United States Coast Guard cutters as well as the [[Pegasus-class hydrofoil|PHM]]-1 Class USN hydrofoils (excluding {{USS|Pegasus|PHM-1|6}}. It does not use the STIR or control surface to air missiles.
+:Gun only:
+::1 air engagement channel
+::2 surface-search, TWS channels
+
+*Mark 92 modification 2 is the version that was originally fit to USN Oliver Hazard Perry-class guided missile frigates. It was also installed on the [[Adelaide-class frigate|''Adelaide''-class derivatives]] built for Australia.
+::Gun and missile control:
+::2 air engagement channels, including STIR with Mark 107 console
+::2 surface-search, TWS channels
+
+*Mark 92 modification 5 is used by certain Saudi Arabian [[Badr-class corvette]]s ([http://militaryedge.org/armaments/al-siddiq-pgg-1-class/ PGG] and [http://militaryedge.org/armaments/badr-class-pcg-1-class/ PCG] Class ships).
+::Gun only:
+::1 air engagement channel
+::2 surface-search, TWS channels
+
+*Mark 92 modification 6 is an upgraded version of the modification 2 as part of the CORT program. It was installed on 12 USN FFG-7-class frigates, the eight Republic of China Navy's [[Cheng Kung-class frigate]]s and two of the Spanish [[Santa Maria-class frigate]]s.
+::2 air engagement channels, including STIR with Mark 107 console and (coherent receiver/transmitter CORT) transceiver
+::2 surface-search, TWS channels
+
+{| class=&quot;wikitable&quot;
+|Modification
+|Surface Engagement Channels
+|Air Engagement Channels (gun)
+|Air Engagement Channels (missile)
+|-
+|0
+|2
+|1
+|1
+|-
+|1
+|2
+|1
+|0
+|-
+|2
+|2
+|1
+|2
+|-
+|5
+|2
+|1
+|0
+|-
+|6
+|2
+|1
+|2
+|-
+|}
+&lt;ref&gt;{{cite web|url=http://www.globalsecurity.org/military/systems/ship/systems/mk92-fcs.pdf|title=MK 92 Fire Control System Manufacturer Doc. |publisher=GlobalSecurity.org|accessdate=2009-02-26}}&lt;/ref&gt;
+
+==STIR (Separate Target Illumination Radar) Deactivated==
+
+The [[USN]] retired the [[RIM-66 Standard|RIM-66E, or Standard missile-1]], from active service in 2003. Oliver Hazard Perry frigates in [[USN]] service have had the STIR radar removed. The STIR radars are still in use on non-USN vessels. &lt;!-- globalsecurity.org reference --&gt;
+
+==References==
+
+{{reflist}}
+
+==See also==
+*[[Badr class corvette]]
+*[[Hamilton class cutter]]
+*[[RIM-66 Standard]]
+*[[Oliver Hazard Perry class frigate]]
+*[[Tartar Guided Missile Fire Control System|Mark 74 &quot;Tartar&quot; Guided Missile Fire Control System]]
+*[[USCG Medium Endurance Cutter]]
+*{{Commonscat-inline|Mark 92 Fire Control System}}
+
+[[Category:Naval weapons of the United States|Mk092]]
+[[Category:Equipment of the United States Coast Guard|Weapons]]</text>
+      <sha1>j8tipownlki9yotn5xftbhr6wnhxksb</sha1>
+    </revision>
+  </page>
+</mediawiki>

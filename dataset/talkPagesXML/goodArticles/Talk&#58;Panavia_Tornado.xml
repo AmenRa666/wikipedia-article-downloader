@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Panavia Tornado</title>
+    <ns>1</ns>
+    <id>241024</id>
+    <revision>
+      <id>738848867</id>
+      <parentid>738848814</parentid>
+      <timestamp>2016-09-11T12:11:53Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[Special:Contributions/86.31.162.140|86.31.162.140]] - &quot;/* Variants */ new section&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15292">{{Article history
+|action1=GAN
+|action1date=14:25, 25 December 2011 (UTC)
+|action1link=Talk:Panavia Tornado/GA1
+|action1result=listed
+|action1oldid=467619088
+|currentstatus=GA
+|topic=war
+}}
+{{talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Aviation|class=GA |Aircraft= yes}}
+{{WPMILHIST|class=GA |Aviation=yes |UK=yes |German=yes |Italian=yes}}
+{{WikiProject Cold War|class=GA |importance=mid}}
+{{WikiProject Europe|class=GA |importance=mid}}
+{{WikiProject United Kingdom|class=GA |importance=mid}}
+{{WikiProject Germany|class= GA |importance=mid}}
+{{WikiProject Italy|class=GA |importance=mid}}
+}}
+{{British-English}}
+
+==Performance figures inconsistent, did not agree with the ref==
+The performance section cites &quot;International warbirds: an illustrated guide to world military aircraft ...&quot;  By John C. Frédriksen, page 255. That page is available online and [http://books.google.com/books?id=8tlOHHCRxuYC&amp;pg=PR15&amp;dq=intitle:International+intitle:Warbirds+intitle:An+intitle:Illustrated+intitle:Guide+intitle:to+intitle:World+intitle:Military+intitle:Aircraft&amp;hl=en&amp;ei=or2MTYdZypO3B8O1wK0N&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDcQ6AEwAA#v=onepage&amp;q&amp;f=false says] the max speed is 921 mph, which converts to 800 knots and 1,482 km/h. The performance section previously had 800 knots, agreeing with the ref, but stated 2,418 km/h and 1,511 mph. One could quibble and state that with no armaments and no electronic warfare equipment, or with other engines, it could go super-duper multi-Mach fast, but that would not be what the stated reference says, and we can at least be expected to keep the units consistent. I will also add the Mach number, 1.21 for comparison to other warplanes. [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 16:23, 25 March 2011 (UTC)
+:From the 1993 ''Jane's'' - max speed at altitude - Mach 2.2, max level speed above 800 knots (1480 km/h, 920 mph) [[Indicated airspeed]] - this corresponds to a rather higher true airspeed at altitude.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 17:11, 25 March 2011 (UTC)
+:*Did you mean &quot;max ''sea'' level speed above 800 knots&quot;? - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 02:59, 26 March 2011 (UTC)
+::The above seems a bit garbled and confusing. Are you asserting (citing Jane's) that it  can fly the same 921 at varying altitudes, though the speed of sound varies to a much lower value, such that 921 mph becomes Mach 2.2? Doesn't sound right. Or does Jane's give some higher speed at some specific altitude? Please clarify, and if you have other info, please include a proper inline cite in the article with your find. [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 01:00, 26 March 2011 (UTC)
+
+::* The specs table has a proper inline reference (shortened footnote) already. I have a different source (ISBN 0-13925-504-4) that gives similar specs.  Mach 2.2 is the max speed at altitude and Mach 1.2 (~800 knots) at low attitude, both in a clean configuration. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 02:19, 26 March 2011 (UTC)
+
+:::The max speed for an aircraft at sea level is roughly Mach 1.3. Only the strudiest aircraft can do that, the F-4, F-105, and Tornado being among the few that can go that fast. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 02:59, 26 March 2011 (UTC)
+
+::::All good to know. Thanks. [[User:Edison|Edison]] ([[User talk:Edison|talk]]) 19:08, 26 March 2011 (UTC)
+
+The UK IDS GR4 is limited to Mach 1.3 at any altitude following removal of the air intake ramp system. &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.97.104.25|2.97.104.25]] ([[User talk:2.97.104.25|talk]]) &lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt;
+
+:Source for all of that? - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 20:25, 5 February 2016 (UTC)
+
+Sorry BilCat I can't meet wiki standards of source evidence. The RAF have chosen to make the Mach limit public source. I am expanding on the reason for that limit from personal knowledge. Happy for it to be deleted. The article will have to remain incorrect.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.97.104.25|2.97.104.25]] ([[User talk:2.97.104.25|talk]]) 20:45, 5 February 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:Not incorrect, only incomplete, as that doesn't change what was historically true. If the RAF releases the reason for the restrictions to the public, or it's published in a reliable source, then we can add that in to what's already there. - [[User:BilCat|BilCat]] ([[User talk:BilCat|talk]]) 20:51, 5 February 2016 (UTC)
+
+== Specifications ==
+The armament in the specifications include a lot of stuff that is incorrect or inappropriate for the GR4. An obvious example is that the GR4 has one cannon, not two, while the GR4 never carries Iris (Germany and Italy), Kormoran, HARM, Taurus KEPD 350, HOPE/HOSBO (which appears to have been ordered by no-one as of yet), JDAMs or MW-1 dispensers. This could probably be extended to remove Maverick - which I think was restricted to the RAFs Harriers only, possibly JP233 (which was withdrawn owing to the [[Ottawa Treaty]]) and may have gone by the time the RAF got its GR4s and the Sea Eagle - which probably wasn't carried though from the GR1B to the GR4.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 17:02, 17 December 2011 (UTC)
+:Fed these changes into the article; I hadn't considered this before. Thank you for raising it. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 23:02, 17 December 2011 (UTC)
+
+In mine opinion Specifications (Tornado GR4) should be changed to one Mauser BK-27 cannon or to Specifications (Tornado IDS) with two Mauser BK27 27 mm cannons. GR4 does not have two cannons HWClifton 19:04, 4 August 2014 (UTC)
+
+== Merge with [[List of Panavia Tornado operators]] ==
+*'''NOT Merge''' - This list was probably hived ff as the main article was getting too big. Why put it back in???[[User:Petebutt|Petebutt]] ([[User talk:Petebutt|talk]]) 09:50, 12 June 2012 (UTC)
+*'''NOT Merge''' - Agree, the split off was discussed and implemented in the 'Review' section above. The tag was added to [[List of Panavia Tornado operators]] with no rationale given on the talk page. I would remove the tag. [[User:Nimbus227|Nimbus]] [[User talk:Nimbus227|&lt;font style=&quot;color:#2F4F4F;&quot;&gt;(Cumulus &lt;font style=&quot;color:#708090;&quot;&gt;nimbus &lt;font style=&quot;color:#D3D3D3;&quot;&gt;floats by)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 10:00, 12 June 2012 (UTC)
+* '''No merge''' - The tag was added to the operator article in January with no reason given or rationle added here.  And no corresponding merge tag was added to the Tornado article.  So I suggest removing the tag and moving on. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 11:33, 12 June 2012 (UTC)
+::Tag removed. [[User:Nimbus227|Nimbus]] [[User talk:Nimbus227|&lt;font style=&quot;color:#2F4F4F;&quot;&gt;(Cumulus &lt;font style=&quot;color:#708090;&quot;&gt;nimbus &lt;font style=&quot;color:#D3D3D3;&quot;&gt;floats by)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 12:08, 12 June 2012 (UTC)
+
+
+The name &quot;Tornado&quot; was chosen because in the two main operators' languages - English and German - the name sounds or looks the same in both.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/2.31.130.124|2.31.130.124]] ([[User talk:2.31.130.124|talk]]) 16:11, 13 May 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Inserting a Picture ==
+Sorry if this is the wrong section but I have a picture of Panavia Tornado D-9591 that I'd like to place here but I don't know how to do it so if someone could tell me how to do it or I'll give you the location of it if you'd like to do it for me.
+
+Here is the image
+http://i1004.photobucket.com/albums/af169/FoxRiley/PanaviaTornadoIDSPrototype.jpg
+
+Thanks in advance  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:FoxRiley|FoxRiley]] ([[User talk:FoxRiley|talk]] • [[Special:Contributions/FoxRiley|contribs]]) 23:03, 18 June 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:If it was on Flickr with the right license others could upload it using an automated tool, not sure about Photobucket. Best thing to do is create an account on 'Commons' if you haven't already and use the [http://commons.wikimedia.org/wiki/Special:UploadWizard upload wizard], it has been improved and is quite easy to follow the steps now. At the end it will produce an image code (something like [[:File:Tornado D-9591]]) from the name you give the image. Put that in the article in the 'prototypes' section with the code 'File:Tornado D-9591|thumb|Caption here' and you're done. Give me a shout on my talk page if you get stuck. Cheers [[User:Nimbus227|Nimbus]] [[User talk:Nimbus227|&lt;font style=&quot;color:#2F4F4F;&quot;&gt;(Cumulus &lt;font style=&quot;color:#708090;&quot;&gt;nimbus &lt;font style=&quot;color:#D3D3D3;&quot;&gt;floats by)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 08:39, 19 June 2012 (UTC)
+
+== Blacklisted Links Found on the Main Page ==
+Cyberbot II has detected that page contains external links that have either been globally or locally blacklisted.
+Links tend to be blacklisted because they have a history of being spammed, or are highly innappropriate for Wikipedia.
+This, however, doesn't necessarily mean it's spam, or not a good link.
+If the link is a good link, you may wish to request whitelisting by going to the [[MediaWiki talk:Spam-whitelist|request page for whitelisting]].
+If you feel the link being caught by the blacklist is a false positive, or no longer needed on the blacklist, you may request the regex be removed or altered at the [[MediaWiki talk:Spam-blacklist|blacklist request page]].
+If the link is blacklisted globally and you feel the above applies you may request to whitelist it using the before mentioned request page, or request its removal, or alteration, at the [[meta:Talk:Spam Blacklist|request page on meta]].
+When requesting whitelisting, be sure to supply the link to be whitelisted and wrap the link in nowiki tags.
+The whitelisting process can take its time so once a request has been filled out, you may set the invisible parameter on the tag to true.
+Please be aware that the bot will replace removed tags, and will remove misplaced tags regularly.
+
+'''Below is a list of links that were found on the main page:'''
+
+*&lt;nowiki&gt;http://www.airforce-technology.com/projects/tornado/&lt;/nowiki&gt;
+*:''Triggered by &lt;code&gt;\bairforce-technology\.com\b&lt;/code&gt; on the local blacklist''
+
+If you would like me to provide more information on the talk page, contact [[User:Cyberpower678]] and ask him to program me with more info.
+
+From your friendly hard working bot.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Neuropol&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:arnprior&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-6.1ex;color:green;font-family:arnprior&quot;&gt;Online&lt;/sub&gt; 10:40, 3 April 2014 (UTC)
+
+{{done|Resolved}} This issue has been resolved, and I have therefore removed the tag, if not already done.  No further action is necessary.—[[User:Cyberbot II|&lt;span style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]] [[User talk:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Comic Sans MS&quot;&gt;Notify]]&lt;sub style=&quot;margin-left:-5.8ex;color:green;font-family:Comic Sans MS&quot;&gt;Online&lt;/sub&gt; 19:20, 9 April 2014 (UTC)
+
+== Fly by Wire/ Command Stability Augmentation System ==
+I think the following section in italics contained  in Prototypes and Testing is incorrect 
+
+&quot;The Tornado made use of relatively new electronic technologies to stabilise the aircraft's flight and augment its flight envelope, known as active control technology or fly-by-wire (FBW); ''thus several older aircraft types were extensively converted and rebuilt for testing to establish the concept's validity. In the late 1970s, British Aerospace developed a technology demonstration aircraft, a converted SEPECAT Jaguar, equipped with a full-authority digital flight control system, with progressive changes to the airframe to showcase the system's ability to compensate for aerodynamic irregularities and imbalances; MBB also flew a converted demonstrator aircraft, a Lockheed F-104G Starfighter, which similarly compensated for instability via a digital flight control system. Experience from both of these programmes would influence the Tornado...,''
+
+The implication is that the fly-by-wire Jaguar was used to develop digital  flight control systems for Tornado. It is my understanding that the Command Stability and Augmentation System has always been a purely analogue electronic system and has not been upgraded. I believe that the Fly-By-Wire Jaguar programme was used to develop digital control systems for the EAP and Eurofighter. In any case, as stated in the main article Tornado first flew in 1974 and the Jaguar programme was in the late 1970s
+
+[[User:KreyszigB|KreyszigB]] ([[User talk:KreyszigB|talk]]) 18:07, 22 July 2015 (UTC)
+
+: It was added [https://en.wikipedia.org/w/index.php?title=Panavia_Tornado&amp;diff=465309259&amp;oldid=464974950 here], December 2011, immediately before the article was given GA status. I'd agree with what you say here - this makes no sense at all. For one glaringly obvious issue, the Jaguar FBW first flew in October 1981.  &quot;FBW&quot; (broadly) is much older than this - I think one of the Avro 707s was the first to fly &quot;by wire&quot;, but the ''digital'' control that is the significant factor here comes in (for the UK) with the Jaguar.
+: I don't even think the Jaguar was used to develop much for Eurofighter (such that I'd word it as it says here). From Jaguar to EAP was a really substantial shift in the architectural approach. Jaguar had the sixfold redundancy by averaging four calculation channels whilst EAP used a very different fourfold &quot;detect and isolate&quot; approach to faults. 
+: CSAS is a whole different system and much older. [[User:Andy Dingley|Andy Dingley]] ([[User talk:Andy Dingley|talk]]) 19:23, 22 July 2015 (UTC)
+
+I removed the section under discussion. Later on in the article there is a good description of the CSAS system, so nothing of substance has been removed. It might be interesting for younger readers to expand the section on CSAS to describe how it is constructed from operational amplifiers and comparators rather than microprocessors and lines of code
+
+[[User:KreyszigB|KreyszigB]] ([[User talk:KreyszigB|talk]]) 21:04, 22 July 2015 (UTC)
+
+== Variants ==
+
+The English version of the page focuses exclusively on the RAF variants of the IDS, I had a quick look at the German version of the page and saw it had listed German and Italian variants as well, also a few more variants of the British version. It seems a bit anglocentric to only list the British variants of this multi-national plane. I don't speak German or know enough about Tornado variants to fix this myself but I hope someone else more knowledgeable can.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.31.162.140|86.31.162.140]] ([[User talk:86.31.162.140|talk]]) 12:11, 11 September 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>svankog9vmb3mycngftyvzlgbpp48zb</sha1>
+    </revision>
+  </page>
+</mediawiki>

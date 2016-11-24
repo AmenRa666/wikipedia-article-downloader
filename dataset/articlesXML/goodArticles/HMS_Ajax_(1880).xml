@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Ajax (1880)</title>
+    <ns>0</ns>
+    <id>5830821</id>
+    <revision>
+      <id>717737909</id>
+      <parentid>717499227</parentid>
+      <timestamp>2016-04-29T12:21:14Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>Adding Good Article icon</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11805">{{good article}}
+{{Otherships|HMS Ajax}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:AjaxBrasseysDrawing.jpg|300px|]]  
+|Ship caption =Right elevation and plan from [[Brassey's Naval Annual]], 1886  
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=''Ajax''  
+|Ship namesake =[[Ajax (mythology)|Ajax]]  
+|Ship ordered =  
+|Ship builder =  [[Pembroke Dockyard]]
+|Ship laid down =  21 March 1876
+|Ship launched =  10 March 1880
+|Ship commissioned =30 April 1885  
+|Ship completed =  30 March 1883
+|Ship out of service =November 1901  
+|Ship fate =Sold for [[ship breaking|scrap]], March 1904
+|Ship notes =  
+}}
+{{Infobox ship characteristics
+|Ship class ={{sclass-|Ajax|ironclad}} [[battleship]]
+|Ship displacement={{convert|8510|LT|t|lk=on}}
+|Ship length=*{{convert|280|ft|abbr=on|1}} ([[Length between perpendiculars|pp]]) 
+*{{convert|300|ft|9|in|abbr=on|1}} ([[Length overall|oa]])
+|Ship beam={{convert|66|ft|m|abbr=on|1}}
+|Ship draught={{convert|23|ft|6|in|m|abbr=on|1}}
+|Ship power=*{{convert|6000|ihp|abbr=on|lk=in}}
+*10 [[Scotch marine boiler|cylindrical boilers]]
+|Ship propulsion=2 shafts; 2 [[Marine steam engine#Compound engine|compound-expansion steam engines]]
+|Ship speed={{convert|13|kn|lk=in}}
+|Ship range={{convert|2100|nmi|abbr=on|lk=in}} @ {{convert|9|kn}}
+|Ship complement=345
+|Ship armament=*2 × twin [[RML 12.5 inch 38 ton gun|{{convert|12.5|in|mm|sing=on|sigfig=3}}]] [[Muzzle-loading rifle|rifled muzzle-loading guns]]
+*2 × single [[BL 6 inch 80 pounder gun|BL {{convert|6|in|0|abbr=on}}, 80-pdr]] [[Rifled breech loader|rifled breech-loading guns]]
+*6 × single [[QF 6 pounder Nordenfelt|QF 6-pdr ({{convert|57|mm|in|abbr=on|1|disp=flip}}) Nordenfelt gun]]s
+*2 × {{convert|14|in|abbr=on|0}} [[torpedo]] launchers
+|Ship armour=*[[Belt armor|Waterline belt]]: {{convert|15|-|18|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|3|in|mm|0|abbr=on}}
+*[[Gun turret]]s: {{convert|14|-|16|mm|in|0|abbr=on}}
+*[[Conning tower]]: {{convert|12|in|mm|0|abbr=on}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|13.5|-|16.5|in|mm|0|abbr=on}}
+}}
+|}
+'''HMS ''Ajax''''' was the [[name ship]] of [[Ajax-class ironclad|her class]] of [[ironclad]] [[battleships]] built for the [[Royal Navy]] during the 1870s. Completed in 1883, she was immediately placed in [[Reserve fleet|reserve]] until 1885 when the ship was [[Ship commissioning|commissioned]] for the first time. Later that year, ''Ajax'' was assigned as a [[Her Majesty's Coastguard|coast guard ship]] in Scotland and remained there for the next six years. She was reduced to reserve again in 1891 and was taken out of service a decade later. The ship was sold for [[ship breaking|scrap]] in 1904 and subsequently broken up.
+
+==Design and description==
+The ''Ajax'' class was designed as a shallow-[[draft (hull)|draught]] version of the preceding {{HMS|Inflexible|1876|2}} that was also smaller and cheaper; unfortunately the need, imposed by budgetary constraints, to produce a smaller ship produced a vessel with all of the shortcomings of ''Inflexible'' but with none of her virtues.&lt;ref name=p2&gt;Parkes, p. 262&lt;/ref&gt; The ships had a [[length between perpendiculars]] of {{convert|280|ft|m|1}} and were {{convert|300|ft|9|in|m|1}} [[Length overall|long overall]], some {{convert|44|ft|m|1}} shorter than ''Inflexible''. They had a beam of {{convert|66|ft|m|1}}, and a [[draft (ship)|draught]] of {{convert|23|ft|6|in|m|1}} and [[Displacement (ship)|displaced]] {{convert|8510|LT|t|lk=on}}. Their crew consisted of 345 officers and [[naval rating|ratings]], over {{convert|3000|LT|t|0}} less than ''Inflexible''. The ''Ajax''-class ships were bad [[seaboat]]s and steered very erratically, especially at high speed. More [[deadwood (shipbuilding)|deadwood]] was added to their sterns in 1886 in a partially successful attempt to rectify the problem.&lt;ref name=ck0&gt;Chesneau &amp; Kolesnik, p. 26&lt;/ref&gt; 
+
+The ''Ajax'' class was powered by a pair of inverted, vertical, [[Marine steam engine#Compound engine|compound-expansion steam engines]]. These were built by [[John Penn and Sons]] and each drove a single propeller using steam provided by 10 [[Scotch marine boiler|cylindrical boilers]]. The engines were designed to produce a total of {{convert|6000|ihp|lk=in}} for a speed of {{convert|13|kn|lk=in}}. The ships carried a maximum of {{convert|970|LT|t|0}} of coal, enough to steam {{convert|2100|nmi|lk=in}} at {{convert|9|knots}}.&lt;ref name=b5&gt;Burt, p. 25&lt;/ref&gt;
+
+They copied the main armament layout of ''Inflexible'' with their turrets arranged ''[[en echelon]]'' so that both turrets could directly ahead and to each side, although this was more theoretical than practical due to damage from [[Muzzle flash|muzzle blast]]. Each turret mounted a pair of [[rifled muzzle loader|rifled muzzle-loading]] [[RML 12.5 inch 38 ton gun|RML {{convert|12.5|in|adj=on|0}} guns]].&lt;ref&gt;Gardiner, pp. 85, 96&lt;/ref&gt; Their shells weighed {{convert|809|lb|kg|1}} while the gun itself weighed {{convert|38|LT|t|0}}. The guns had a [[muzzle velocity]] of {{convert|1575|ft/s|m/s|abbr=on}} and were credited with the ability to penetrate a nominal {{convert|18.4|in}} of [[wrought iron]] armour at the [[muzzle (firearms)|muzzle]].&lt;ref name=ck6&gt;Chesneau &amp; Kolesnik, p. 6&lt;/ref&gt; To attack the unarmoured portion of their opponents, the ''Ajax'' class was fitted with a pair of [[Rifled breech loader|rifled breech-loading]] [[BL 6 inch 80 pounder gun|BL {{convert|6|in|0|adj=on}}, 80-pounder guns]].&lt;ref name=p5&gt;Parkes, p. 265&lt;/ref&gt; For defence against [[torpedo boat]]s, they carried six [[List of British ordnance terms#QF|quick-firing]] [[QF 6 pounder Nordenfelt|QF 6-pdr ({{convert|57|mm|in|abbr=on|1|disp=flip}}) Nordenfelt gun]]s. The ships also mounted a pair of above-water {{convert|14|in|adj=on|0}} [[torpedo]] launchers&lt;ref name=b5/&gt; and could carry a {{convert|60|ft|adj=on|1}} torpedo boat.&lt;ref&gt;Branfill-Cook, p. 86&lt;/ref&gt;
+ 
+The ''Ajax'' class copied ''Inflexible''{{'}}s armour scheme of a heavily [[Armored citadel|armoured citadel]] with unamoured ends and sides. But unlike their predecessor, they lacked enough [[buoyancy]] to remain afloat if their ends were flooded. The citadel was {{convert|104|ft|m|1adj=mid|-long}} and the armour was composed of wrought iron plates {{convert|10|in|0}} and {{convert|8|in|mm|0}} thick, separated and backed by 10 inches of [[teak]] at the [[waterline]], reducing above and below the waterline to an armoured thickness of {{convert|15|in|1}} in a similar sandwich. The citadel was closed off by fore and aft transverse [[bulkhead (partition)|bulkhead]]s that were {{convert|16.5|in|0}} thick above water and {{convert|13.5|in|0}} below. The armoured [[deck (ship)|deck]] was {{convert|3|in}} thick from bow to stern. The turrets were protected by [[compound armour]] plates {{convert|16|to|14|in|0}} thick and  {{convert|12|in|0|adj=on}} plates defended the [[conning tower]].&lt;ref&gt;Chesneau &amp; Kolesnik, p. 26; Parkes, p. 265&lt;/ref&gt;
+
+==Construction and career==
+''Ajax'', the fourth ship of her name to serve in the Royal Navy,&lt;ref&gt;Colledge, p. 7&lt;/ref&gt; was named for the [[Ajax (mythology)|mythological hero]].&lt;ref&gt;Silverstone, p. 209&lt;/ref&gt; The ship was [[laid down]] on 21 March 1876 in No. 4 [[Slipway]], [[Pembroke Dockyard]], [[Wales]], and was [[ship naming and launching|launched]] on 10 March 1880 by Mrs. George Parkin, wife of the dockyard's [[Captain-Superintendent]].&lt;ref&gt;Phillips, pp. 217–18&lt;/ref&gt; She was completed on 30 March 1883 at a cost of [[pound sterling|£]]548,393.&lt;ref name=p2/&gt;
+
+''Ajax'' was not [[Ship commissioning|commissioned]] until 30 April 1885 and was assigned to the Particular Service Squadron commanded by Admiral [[Geoffrey Hornby]].&lt;ref name=p6&gt;Parkes, p. 266&lt;/ref&gt; That summer, the squadron evaluated the weapons and defences of a fortified harbour, [[Berehaven]] (now Castletownbere), Ireland, against torpedo boats and other threats.&lt;ref&gt;Brown, location 3317&lt;/ref&gt; In August 1885, when tensions with Russia had subsided, she was posted as [[guard ship]] at [[Greenock]]. ''Ajax'' accidentally collided with the [[turret ship]] {{HMS|Devastation|1871|2}} in 1887 off [[Isle of Portland|Portland]].&lt;ref name=p65/&gt; The latter had one compartment below water holed, but ''Ajax'' only received two holes in her bow.&lt;ref&gt;Hazard, p. 213&lt;/ref&gt; The ship participated in the annual manoeuvres in August 1889 and a shell exploded in one of her 12.5-inch gun barrels on 2 September, wounding one man.&lt;ref&gt;Brassey, pp. 16, 367&lt;/ref&gt; The ship was reduced to reserve at [[Chatham Dockyard]] in 1891. Her BL six-inch, 80-pounder guns were replaced by [[QF 6 inch /40 naval gun|QF six-inch guns]] in 1897. She was further reduced to Dockyard Reserve in November 1901, and was sold to Castles for scrap in March 1904&lt;ref name=p65&gt;Parkes, pp. 265–66&lt;/ref&gt; and subsequently broken up at [[Charlton, London|Charlton]].&lt;ref&gt;Winfield &amp; Lyon, p. 257&lt;/ref&gt;
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{cite book|last1=Branfill-Cook|first1=Roger|title=Torpedo: The Complete History of the World's Most Revolutionary Weapon|date=2014|publisher=Seaforth Publishing|location=Barnsley, UK|isbn=978-1-84832-215-8}}
+*{{cite book|editor1-last=Brassey|editor1-first=Thomas|title=Brassey's Naval Annual 1890|date=1890|publisher=J. Griffin|location=Portsmouth, UK|url=http://books.googleusercontent.com/books/content?req=AKW5QafeuOu6PQvpSp85sxOaA_zwTUI7XWiVBU42IE_UJB7GxF_exO-xYTnpWSLPXYDvKgOi8LycbzVYmNO58bn5m8QMgbEFCvmgfMYw6Ul6BJFL6wB0MsbXBekjNWPBObb5VIwo5aEYwv-HrcA-YnoIhEQa1V0EzxkDYwGD1zrFucLyZAP-HS49xnxd3quukRaMBocVD8PqKtrkT9NvSoFmh15JqNIyX7XdK9RG2e9Ls-8ZtW3_p58T-Ja3Gt_DXq7k1XrbCWXp}}
+*{{cite book|last=Brown|first=David K.|title=Warrior to Dreadnought: Warship Development 1860–1905|year=2010|publisher=Seaforth Publishing|location=Barnsley, UK|isbn=978-1-78383-019-0|format=mobi}}
+*{{cite book|last=Burt|first=R. A.|title=British Battleships 1889–1904|year=2013|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-065-8}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860-1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{colledge}}
+*{{cite book|editor=Gardiner, Robert|title=Steam, Steel and Shellfire: The Steam Warship 1815–1905|series=Conway's History of the Ship|year=1992|publisher=Conway Maritime Press|location=London|isbn=1-55750-774-0}}
+*{{cite book|last1=Hazard|first1=John|title=Army &amp; Navy Calendar for the Financial Year 1888–89|date=1888|publisher=W. H. Allen|location=London|url=http://books.googleusercontent.com/books/content?req=AKW5Qad7PCBa7oqUvmEDwcLChp_qj5YIRypVhevZu9C0aQbbNV-Q5bdtNuil3xXl_w33gLCEn-BCFKo_k7FZZ_dCUU-PT0BXya9MQTF3LSW9a7raVQdvtj5mrzNb7BiYCGzYftWmOCZa6adTo4kRN0QXGq_mnh3paWnGri_vTbVKTkp6OxkbCeCIxXqtYZJdl3-zpmYyhDYau0gilyt2-2zT2aqvAKSGHvWDiverDfv_ZWzrA7DhLnqOHSWR5Gg-3-wXQ_8rmndnhy3Ign5qgBexqBLY9_Rgig}}
+*{{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+*{{cite book|last1=Phillips|first1=Lawrie; Lieutenant Commander|title=Pembroke Dockyard and the Old Navy: A Bicentennial History|date=2014|publisher=The History Press|location=Stroud, Gloucestershire, UK|isbn=978-0-7509-5214-9}}
+*{{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{winfield}}
+
+{{Ajax class battleship}}
+
+{{DEFAULTSORT:Ajax (1880)}}
+[[Category:Ajax-class ironclads]]
+[[Category:Victorian-era battleships of the United Kingdom]]
+[[Category:1880 ships]]</text>
+      <sha1>5q7dmvwwberegm3kfc70s7vi32ef85z</sha1>
+    </revision>
+  </page>
+</mediawiki>

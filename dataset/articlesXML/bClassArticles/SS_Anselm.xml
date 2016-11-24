@@ -1,0 +1,385 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Anselm</title>
+    <ns>0</ns>
+    <id>41330133</id>
+    <revision>
+      <id>748221832</id>
+      <parentid>731065622</parentid>
+      <timestamp>2016-11-07T02:06:16Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Sources */clean up; http&amp;rarr;https for [[Google Books]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19682">{{EngvarB|date=December 2013}}
+{{Use dmy dates|date=December 2013}}
+{|{{Infobox ship begin}} 
+{{Infobox ship image
+|Ship image   = [[File:StateLibQld 1 133253 Anselm (ship).jpg|300px]]
+|Ship caption = SS ''Anselm'' under way
+}} 
+{{Infobox ship career
+|Hide header         =
+|Ship country        = United Kingdom
+|Ship flag           = {{shipboxflag|UK|civil}}
+|Ship name           = SS ''Anselm''
+|Ship namesake       = [[Anselm of Canterbury]]
+|Ship owner          = [[File:Booth Line logo.png|23px]] [[Alfred Booth and Company|Booth Steamship Co]]&lt;ref name=LR37&gt;{{cite book
+|url        = http://www.plimsollshipdata.org/pdffile.php?name=37b0054.pdf
+|year       = 1937
+|title      = Lloyd's Register, Steamers and Motor Ships
+|location   = London
+|publisher  = [[Lloyd's Register]]
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+|Ship operator       =
+|Ship route          = Liverpool – [[Brazil]]
+|Ship ordered        =
+|Ship builder        = [[William Denny and Brothers|Wm Denny &amp; Bros]], [[Dumbarton]]&lt;ref name=LR37/&gt;
+|Ship original cost  = £158,876&lt;ref name=BlueStar&gt;{{cite web
+|url        = http://www.bluestarline.org/booth/anselm3.html 
+|title      = Booth Line's S.S. &quot;Anselm&quot; 3
+|work       = Booth Line Limited
+|publisher  = Blue Star on the Web
+|date       = 3 February 2012
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+|Ship yard number    = 1276&lt;ref name=Clyde&gt;{{cite web
+|last       = Cameron
+|first      = Stuart
+|title      = Anselm
+|work       = [[Clyde-built Ship Database]]
+|url        = http://www.clydesite.co.uk/clydebuilt/viewship.asp?id=11576
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+|Ship laid down      = 
+|Ship launched       = 15 October 1935&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt;
+|Ship completed      = 17 December 1935&lt;ref name=BlueStar/&gt;
+|Ship acquired       = 
+|Ship in service     = 
+|Ship out of service = 
+|Ship registry       = {{flagicon|UK|civil}} [[Port of Liverpool|Liverpool]]&lt;ref name=LR37/&gt;
+|Ship identification = *UK [[official number]] 164275&lt;ref name=LR37/&gt;
+*[[code letters]] GYPF&lt;ref name=LR37/&gt;
+*{{ICS|Golf}}{{ICS|Yankee}}{{ICS|Papa}}{{ICS|Foxtrot}}
+|Ship fate           = sunk by torpedo, 5 July 1941&lt;ref name=U1030&gt;{{cite web
+|url        = http://www.uboat.net/allies/merchants/ships/1030.html
+|title      = Anselm
+|last       = Helgason
+|first      = Guðmundur
+|date       = 1995–2013
+|work       = uboat.net
+|publisher  = Guðmundur Helgason
+|accessdate = 9 December 2013
+|ref=harv
+}}&lt;/ref&gt;
+|Ship status         = 
+|Ship notes          = 
+}}
+{{Infobox ship characteristics
+|Hide header       =
+|Header caption    =
+|Ship class        = 
+|Ship type         = *[[Cargo liner|cargo]] &amp; [[Passenger ship|passenger liner]]
+*(1935–40);
+*[[Troopship|troop ship]] (1940–42)
+|Ship tonnage      = *{{GRT|5954}}&lt;ref name=LR37/&gt;
+*tonnage under deck 4,351&lt;ref name=LR37/&gt;
+*{{NRT|3,601}}&lt;ref name=LR37/&gt;
+|Ship displacement = 
+|Ship length       = {{convert|412.3|ft|abbr=on}}&lt;ref name=LR37/&gt;
+|Ship beam         = {{convert|55.7|ft|abbr=on}}&lt;ref name=LR37/&gt;
+|Ship draught      = {{convert|25|ft|6+3/4|in|abbr=on|2}}&lt;ref name=LR37/&gt;
+|Ship depth        = {{convert|25.8|ft|abbr=on}}&lt;ref name=LR37/&gt;
+|Ship decks        =
+|Ship power        = 696 [[Horsepower#Nominal horsepower|NHP]]&lt;ref name=LR37/&gt;
+|Ship propulsion   = *1&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt; or 3&lt;ref name=LR37/&gt; [[Steam turbine#Marine propulsion|steam turbines]];
+*single [[Propeller|screw]]
+|Ship speed        = {{convert|12|kn|km/h}}&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt;
+|Ship boats        = at least 6 [[Lifeboat (shipboard)|lifeboats]]
+|Ship capacity     = *Civilian service: 40 1st &amp; 106 3rd class passengers;&lt;ref name=BlueStar/&gt;
+*Wartime service: 500 troops&lt;ref name=Clyde/&gt;
+|Ship crew         = 80&lt;ref name=BlueStar/&gt;
+|Ship armament     = [[Defensively Equipped Merchant Ship]]
+|Ship sensors      = *[[direction finding]] equipment;&lt;ref name=LR37/&gt;
+*[[echo sounding]] device&lt;ref name=LR37/&gt;
+|Ship notes        = 
+}}
+|}
+
+'''SS ''Anselm''''' was a [[Merchant Navy (United Kingdom)|British]] [[Steam turbine#Marine propulsion|turbine steamship]] of the [[Alfred Booth and Company|Booth Steamship Company]]. She was built as a [[Cargo liner|cargo]] and [[Passenger ship|passenger liner]] in 1935 and requisitioned and converted into a [[Troopship|troop ship]] in 1940. A German submarine sank her in 1941, killing 254 of those aboard.
+
+==Building and civilian service==
+The [[Alfred Booth and Company|Booth Steamship Company]] ordered ''Anselm'' for its passenger and [[cargo liner]] services between [[Port of Liverpool|Liverpool]] and Brazil. [[William Denny and Brothers]] built her in their shipyard at [[Dumbarton]] on the [[Firth of Clyde]] in Scotland.
+
+By the 1930s most British shipping companies specified [[Fuel oil#Bunker fuel|oil fuel]] for new steamships because it was more economical. Booth, however, still specified coal because it was cheaper, and as the company's ships carried little cargo on outward voyages to South America and it considered it could afford larger coal bunkers. ''Anselm''{{'}}s bunkers had capacity for 980 [[long ton]]s of coal.&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt;
+
+''Anselm'' had nine corrugated furnaces with a combined grate area of {{convert|176|sqft}} heating three single-ended Howden-Johnson [[water-tube boiler]]s&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt; with a combined heating surface of {{convert|7704|sqft}} that supplied steam at 250 [[Pounds per square inch|lb&lt;sub&gt;f&lt;/sub&gt;/in&lt;sup&gt;2&lt;/sup&gt;]].&lt;ref name=LR37/&gt; Booth had proposed a [[Marine steam engine#Triple or multiple expansion|multiple-expansion steam reciprocating engine]], with steam exhausted from the low-pressure cylinder then driving a low-pressure [[Steam turbine#Marine propulsion|steam turbine]] for greater efficiency.&lt;ref name=BlueStar/&gt; However, Denny persuaded Booth that it would be more economical to use pure turbine propulsion. Sources disagree as to whether she had three turbines or one three-stage [[Parsons Marine Steam Turbine Company|Parsons]] turbine.&lt;ref name=BlueStar/&gt;&lt;ref name=Clyde/&gt; Either way, her power was rated at 696 [[Horsepower#Nominal horsepower|NHP]] and drove the shaft of her single [[propeller]] ''via'' [[Gear ratio|single-reduction gearing]].&lt;ref name=LR37/&gt;
+
+==War service==
+In November 1939 ''Anselm'' was in Liverpool and was due to sail to [[Pará River|Pará]] ''via'' for [[Lisbon]]. Because of war conditions she was to leave with Convoy OB 32G, which would then join [[Convoy OB 6]]. However, her sailing was cancelled and OB 32G left without her.&lt;ref&gt;{{cite web
+|url= http://www.convoyweb.org.uk/sl/index.html?sl037.htm~slmain
+|last       = Hague
+|first      = Arnold
+|title      = Convoy OB.32G/OA.32G/OG.6
+|work       = SOA OB OG Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; Instead ''Anselm'' was requisitioned and quickly converted to carry about 500 troops.&lt;ref name=Clyde/&gt; Her civilian passenger accommodation was assigned for officers; her [[Hold (ship)|holds]] were converted to accommodation for [[Enlisted rank|other ranks]].
+
+On 13 January 1940 she sailed from [[Freetown]], [[Sierra Leone]] in Convoy SLF 16, which joined [[Convoy SL 16]] and reached Liverpool on 27 January.&lt;ref&gt;{{cite web
+|url        = http://www.convoyweb.org.uk/sl/index.html?sl016f.htm~slmain
+|last       = Hague
+|first      = Arnold
+|title      = Convoy SLF.16
+|work       = SL/MKS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; On 25 June 1940 she left Freetown in [[Convoy SL 37]], which reached Liverpool on 12 July.&lt;ref&gt;{{cite web 
+|url        = http://www.convoyweb.org.uk/sl/index.html?sl037.htm~slmain
+|last       = Hague
+|first      = Arnold
+|title      = Convoy SL.37
+|work       = SL/MKS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; On 21 July 1940 she left Liverpool carrying 82 [[Evacuations of civilians in Britain during World War II|child evacuees]] to [[Halifax Regional Municipality|Halifax, Nova Scotia]] for the [[Children's Overseas Reception Board]].{{sfn|Fethney|1990|p=60}} In October 1940 she left Freetown in either [[Convoy SL 52]] or Convoy SLF 52; the two combined at sea and on 10 November reached Liverpool.&lt;ref&gt;{{cite web
+|url        = http://www.convoyweb.org.uk/sl/index.html?sl052.htm~slmain
+|last       = Hague
+|first      = Arnold
+|title      = Convoy SL.52 + SLF.52
+|work       = SL/MKS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+
+On 18 December 1940 ''Anselm'' left Britain with Military [[Convoy WS 5A]] bound for [[Suez]]. On Christmas Day 1940 the {{ship|German cruiser|Admiral Hipper}} attacked ''Anselm'', but [[Royal Navy]] escort cruisers drove ''Hipper'' off and the convoy dispersed.&lt;ref&gt;{{cite web
+|url        = http://www.convoyweb.org.uk/ws/index.html?ws05.php?convoy=5_1~wsmain
+|last       = Hague
+|first      = Arnold|title=Military Convoy WS.5
+|work       = WS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; The convoy reformed on 27 December 1940 at Freetown and reached Suez on 16 February 1941. On her return voyage ''Anselm'' joined [[Convoy SL 74]], which left Freetown on 10 May and reached Liverpool on 4 June.&lt;ref&gt;{{cite web
+|url        = http://www.convoyweb.org.uk/sl/index.html?sl074.htm~slmain
+|last       = Hague
+|first      = Arnold
+|title      = Convoy SL.74
+|work       = SL/MKS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; On 30 June ''Anselm'' left Liverpool again bound for Suez, sailing with [[Convoy WS 9B]], which dispersed on 18 July.&lt;ref&gt;{{cite web
+|url        = http://www.convoyweb.org.uk/ws/index.html?ws09.php?convoy=9_4~wsmain
+|last       = Hague
+|first      = Arnold
+|title      = Military Convoy WS.9
+|work       = WS Convoy Series
+|publisher  = Don Kindell, ConvoyWeb
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+
+==Final voyage and loss==
+[[File:HMS Lavender FL4525.jpg|thumb|{{HMS|Lavender|K60|6}} was one of ''Anselm''{{'}}s escorts, and with {{HMS|Petunia|K79|6}} [[depth charge]]d and damaged {{GS|U-96|1940|2}}]]
+Toward the end of June 1941 ''Anselm'' left Britain for Freetown again. She was heavily overloaded with about 1,200 [[British Army]],&lt;ref name=WMP&gt;{{cite web
+|url        = http://www.wartimememoriesproject.com/ww2/ships/anselm.php
+|title      = SS Anselm
+|work       = The Second War
+|publisher  = The Wartime Memories Project
+|year       = 1989–2012
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; [[Royal Marines]]&lt;ref name=Butler/&gt; and [[Royal Air Force]] personnel: more than twice the 500 she had been converted to carry. There were 175 RAF personnel,&lt;ref&gt;{{cite web
+|url        = http://www.stephen-stratford.co.uk/pugh_hc.htm
+|last       = Stratford
+|first      = Stephen
+|title      = Chaplain (Squadron Leader) The Reverend Herbet Cecil Pugh
+|work       = British Military &amp; Criminal History 1900 to 1999
+|accessdate = 10 December 2013
+|ref        = harv
+}}&lt;/ref&gt; posted to serve in the [[North African Campaign]].&lt;ref name=Butler&gt;{{cite web
+|url        = http://www.thememoryproject.com/stories/1866:maurice-crusoe-butler/
+|title      = Maurice &quot;Crusoe&quot; Butler
+|work       = Veteran Stories
+|publisher  = The Memory Project
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt;
+
+Some accounts say she sailed from [[Gourock]]&lt;ref name=BlueStar/&gt;&lt;ref name=WMP/&gt; on the Firth of Clyde; another that she left [[Loch Ewe]] in northwest Scotland on 26 June;&lt;ref name=Butler/&gt; another that she left Liverpool in England on 28 June.{{sfn|Darling|2009|p=97}} Sources agree that she was escorted by the [[survey vessel]] {{HMS|Challenger|1931|6}} and {{sclass-|Flower|corvette}}s {{HMS|Lavender|K60|2}}, {{HMS|Petunia|K79|2}} and {{HMS|Starwort|K20|2}}. Some suggest that her escort also included the [[Armed merchantman#Armed merchant cruisers|armed merchant cruiser]] {{SS|Cathay|1924|2}}.&lt;ref name=U1030/&gt;
+
+In the early hours of 5 July 1941 ''Anselm'' and her escorts were in mid-Atlantic, proceeding south through fog about {{convert|300|nmi|km}} north of the [[Azores]]. ''Challenger'' was leading the troop ship in line ahead; ''Starwort'' was stationed in line astern because her [[Sonar#ASDIC|ASDIC]] was out of order. ''Lavender'' and ''Petunia'' were in screening positions ahead, either side of ''Challenger''{{'}}s bow. At about 0350 hours the fog cleared, and the convoy began to zigzag as evasive action against possible attack.
+
+However, a ''[[Luftwaffe]]'' [[Focke-Wulf Fw 200]] ''Condor'' patrol had reported the convoy's position&lt;ref&gt;{{harvnb|Blair|1996|p=}} cited in {{cite web
+|url        = http://warsailors.com/forum/read.php?1,161,469
+|last       = Watt
+|first      = Bill
+|title      = Re: Troopship Anselm – from old forum
+|work       = Warsailors
+|publisher  = Siri Holm Lawson
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; and at 0426 hours the [[German Type VII submarine#Type VIIC|German Type VIIC submarine]] {{GS|U-96|1940|2}}, commanded by ''[[Captain lieutenant#Germany|Kptlt]]'' [[Heinrich Lehmann-Willenbrock]], fired a spread of four torpedoes at ''Challenger'' and ''Anselm''.&lt;ref name=U1030/&gt; None hit ''Challenger'' but one struck ''Anselm''{{'}}s [[Port and starboard|port]] side amidships, causing extensive damage and momentarily lifting the troop ship in the water. ''U-96'' dived and the corvettes counter-attacked, ''Lavender'' firing six [[depth charge]]s and ''Petunia'' firing 20. When the attack drew too close to the survivors it was broken off, but the submarine was seriously damaged and broke off her patrol to return to [[Saint-Nazaire submarine base]] in [[Military Administration in France (Nazi Germany)|occupied France]] for repairs.&lt;ref name=U1030/&gt;
+
+''Anselm'' launched all her lifeboats except no. 6, which had been damaged by the explosion.&lt;ref name=WMP/&gt; ''Challenger'' had been {{convert|1/2|nmi|m}} ahead but manoeuvred close to ''Anselm''{{'}}s port quarter and took off 60&lt;ref name=WMP/&gt; or more&lt;ref name=U1030/&gt; survivors as the troop ship's bow settled in the water.
+
+Officers from the passenger accommodation were able to reach the [[Deck (ship)#Common names for decks|boat deck]], but the impact caused extensive damage below decks, where collapsed [[Glossary of nautical terms|overheads]] and wrecked ladders injured or trapped many of the men in one of the converted holds.&lt;ref name=Echo&gt;{{cite news
+|url        = http://www.walesonline.co.uk/news/wales-news/ex-raf-man-thomas-rogers-recalls-2073047
+|last       = Wightwick
+|first      = Abbie
+|title      = Ex-RAF man Thomas Rogers recalls Rev Cecil Pugh's last moments aboard the torpedoed SS Anselm
+|newspaper  = [[South Wales Echo]]
+|location   = Cardiff
+|publisher  = [[Trinity Mirror]]
+|date       = 30 November 2009
+|accessdate = 9 December 2013
+|ref        = harv
+}}&lt;/ref&gt; One survivor states that officers got away in boats from ''Anselm''{{'}}s stern without waiting to help their men.&lt;ref name=Echo/&gt;
+
+===Cecil Pugh, GC===
+{{main|Cecil Pugh}}
+One officer who stayed aboard to the end was an Air Force [[Military chaplain|chaplain]] lately of [[RAF Bridgnorth]], [[Squadron leader#RAF usage|Squadron Leader]] [[Cecil Pugh]], who
+&lt;blockquote&gt;''&quot;seemed to be everywhere at once, doing his best to comfort the injured, helping with the boats and rafts... and visiting the different lower sections where men were quartered. When he learned that a number of injured airmen were trapped in the damaged hold, he insisted on being lowered into it with a rope. Everyone demurred because the hold was below the water line and already the decks were awash and to go down was to go to certain death. He simply explained that he must be where his men were.&quot;''&lt;ref name=Gazette&gt;{{cite news
+|url       = http://www.london-gazette.co.uk/issues/37920/supplements/1489
+|title     = Central Chancery of the Orders of Knighthood
+|newspaper = Second Supplement to [[The London Gazette]]
+|issue     = 37920
+|date      = 1 April 1947
+|ref       = harv
+}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+The ship sank 22 minutes after being hit, and four crew and about 250 troops were killed.&lt;ref name=U1030/&gt; Pugh went down with the ship, and in 1947 was posthumously awarded the [[George Cross]].&lt;ref name=Gazette/&gt;
+
+===Survivors===
+[[File:StateLibQld 1 126171 Cathay (ship).jpg|thumb|The [[Armed merchantman#Armed merchant cruisers|armed merchant cruiser]] [[SS Cathay (1924)|HMS ''Cathay'']] took survivors from ''Anselm''{{'}}s overloaded escorts and landed them at [[Freetown]]]]
+Most men aboard, including the majority of other ranks, did survive. ''Anselm''{{'}}s [[Sea captain|Master]], Andrew Elliot, 92 of her crew, three [[Defensively Equipped Merchant Ship|DEMS]] gunners and 965 troops were rescued.&lt;ref name=U1030/&gt; Many were at first in the water, but were picked up by ''Challenger'', ''Starwort'' or the ship's own lifeboats and rafts.
+
+One [[leading aircraftman]], Wilfrid Marten, recalled being in the sea for a few hours and being &quot;near death's door&quot; before he was rescued by a lifeboat. An officer in the boat then ordered him to row, but was silenced by a Naval [[Enlisted rank|rating]] or [[petty officer]] who threatened to throw the officer over the side.&lt;ref name=WMP/&gt;
+
+Most of the survivors in the boats and rafts were transferred to the escort ships, ascending the sides by [[Jason's cradle|scramble nets]]. This left ''Challenger'' and the corvettes badly overloaded, so the survivors were transferred again to HMS ''Cathay'' which landed them at Freetown.&lt;ref name=U1030/&gt; The escorts may have missed one lifeboat, as one survivor reports that after the sinking he spent 18 days in a boat with neither food nor water.&lt;ref name=WMP/&gt;
+
+==See also==
+*[[List of ships built by William Denny and Brothers]]
+
+==References==
+{{location map
+|North Atlantic
+|lat     = 44.5
+|long    = -28.5
+|caption = Approximate position of ''Anselm''{{'}}s wreck
+|relief  = yes
+}}
+{{reflist}}
+
+==Sources==
+*{{cite book
+|last      = Blair
+|first     = Clay
+|year      = 1996
+|title     = Hitler's U-Boat War
+|volume    = 1: The Hunters, 1939–1942
+|location  = New York
+|publisher = [[Random House]]
+|isbn      = 0394588398
+|ref       = harv
+}}{{page needed|date=December 2013}}
+*{{cite book
+|last      = Darling
+|first     = Ian
+|year      = 2009
+|chapter   = 8: The Corporal's Ring
+|title     = Amazing Airmen: Canadian Flyers in the Second World War
+|location  = Toronto
+|publisher = [[Dundurn Press]]
+|isbn      = 978-1-55488-424-7
+|pages     = 97–105
+|url       = https://books.google.com/books?id=GzxPd9EqFYIC
+|ref       = harv
+}}
+*{{cite book
+|last      = Fethney
+|first     = Michael
+|year      = 1990
+|title     = The Absurd and the Brave: CORB, The True Account of the British Government's World War II Evacuation of Children Overseas
+|location  = Lewes
+|publisher = The Book Guild
+|isbn      = 0863324479
+|page      = 60
+|ref       = harv
+}}
+
+{{coord|44.5|-28.5|format=dms|display=title}}
+{{July 1941 shipwrecks}}
+
+{{DEFAULTSORT:Anselm, SS}}
+[[Category:1935 ships]]
+[[Category:Cargo liners]]
+[[Category:Clyde-built ships]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Passenger ships of the United Kingdom]]
+[[Category:Ships of the Booth Steamship Company]]
+[[Category:Ships sunk by German submarines in World War II]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:World War II merchant ships of the United Kingdom]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]
+[[Category:Maritime incidents in July 1941]]</text>
+      <sha1>mg3a4tn9v5lp1gnz7jwtbna1uyz2zvg</sha1>
+    </revision>
+  </page>
+</mediawiki>

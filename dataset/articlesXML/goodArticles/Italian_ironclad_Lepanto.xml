@@ -1,0 +1,199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian ironclad Lepanto</title>
+    <ns>0</ns>
+    <id>27169892</id>
+    <revision>
+      <id>745628117</id>
+      <parentid>723007077</parentid>
+      <timestamp>2016-10-22T08:35:05Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15655">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Italian battleship Lepanto.jpg|300px|]]
+|Ship caption=''Lepanto'' in [[La Spezia]]
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Kingdom of Italy|Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy}}
+|Ship name=''Lepanto''
+|Ship namesake=The [[Battle of Lepanto (1571)]]
+|Ship operator=''[[Regia Marina]]'' (Italian Royal Navy)
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Cantiere navale fratelli Orlando]], [[Livorno]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=4 November 1876
+|Ship launched=17 March 1883
+|Ship sponsor=
+|Ship christened=
+|Ship completed=16 August 1887
+|Ship acquired=
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=26 May 1912
+|Ship reinstated=13 January 1913
+}}
+{{Infobox ship career
+|Hide header=yes
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship struck=15 January 1914
+|Ship reinstated=
+|Ship home port=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honors=
+|Ship captured=
+|Ship fate=Sold for scrapping 27 March 1915
+|Ship status=
+|Ship notes=*Served as [[training ship]] 1902–1910
+*Served as [[depot ship]] 1910–1912
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Italia|ironclad|0}} [[ironclad warship|ironclad battleship]]
+|Ship displacement=*{{convert|13336|MT|abbr=on}} normal
+*{{convert|15649|MT|abbr=on}} full load
+|Ship length{{convert|124.7|m|abbr=on|1}} [[length overall]]
+|Ship beam={{convert|22.34|m|abbr=on|1}}
+|Ship draft={{convert|9.39|m|abbr=on|1}}
+|Ship power=*{{convert|15797|ihp|0|abbr=on|lk=in}}
+*8 oval and 16 cylindrical boilers
+|Ship propulsion=4 shafts, 4 [[compound engine]]s 
+|Ship speed={{convert|18.4|kn|lk=in}}
+|Ship range=ca. {{convert|5000|nmi|km|0}} at {{convert|10|knots}}
+|Ship complement=669&amp;ndash;701
+|Ship armament=*4 × {{convert|17|in|mm|0|adj=on}}/27 guns
+*8 × {{convert|6|in|mm|0|adj=on}}/32 guns
+*4 × {{convert|4.7|in|mm|0|adj=on}}/32 guns
+*4 × {{convert|14|in|mm|0|adj=on}} [[torpedo tube]]s
+|Ship armor=*[[Deck (ship)|Deck]]: {{convert|4|in|0|abbr=on}}
+*Barbette: {{convert|19|in|mm|0|abbr=on}}
+*[[Conning tower]]: 4&amp;nbsp;in
+|Ship notes=
+}}
+|}
+'''''Lepanto''''' was an Italian [[ironclad warship|ironclad battleship]] built for the Italian ''[[Regia Marina]]'' (Royal Navy), the second and last ship of the {{sclass-|Italia|ironclad|4}}. ''Lepanto'' was laid down in November 1876, launched in March 1883, and completed in August 1887. She was armed with a main battery of four {{convert|17|in|abbr=on|0}} guns mounted in a central [[barbette]] and was capable of a top speed of {{convert|17.8|kn|lk=in}}. Unlike other [[capital ship]]s of the era, ''Lepanto'' had an armored deck rather than the more typical [[belt armor]].
+
+''Lepanto'' spent the first two decades of her career in the Active and Reserve Squadrons, where she took part in annual training maneuvers with the rest of the fleet. In 1902, she was withdrawn from service for use as a [[training ship]]. During the [[Italo-Turkish War]] of 1911&amp;ndash;12, the ship provided [[naval gunfire support|fire support]] to Italian troops defending [[Tripoli]] in Libya. ''Lepanto'' was ultimately stricken from the [[naval register]] in January 1914 and sold for [[ship breaking|scrapping]] in March 1915.
+
+==Design==
+[[File:Lepanto Brassey's.png|left|thumb|Line drawing of {{ship|Italian ironclad|Italia||2}}; ''Lepanto'' had four funnels instead of six]]
+
+{{main|Italia-class ironclad}}
+
+''Lepanto'' was {{convert|124.7|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|22.34|m|abbr=on}} and an average [[draft (hull)|draft]] of {{convert|9.39|m|abbr=on}}. She displaced {{convert|13336|MT|sp=us}} normally and up to {{convert|15649|MT|sp=us|abbr=on}} at full load. Her propulsion system consisted of four [[compound engine|compound]] [[steam engine]]s each driving a single [[screw propeller]], with steam supplied by eight coal-fired, oval [[boiler]]s and sixteen [[fire-tube boiler]]s. Her engines produced a top speed of {{convert|18.4|kn|lk=in}} at {{convert|15797|ihp|lk=in}}. She could steam for {{convert|5000|nmi|lk=in}} at a speed of {{convert|10|kn}}. She had a crew of 669&amp;ndash;701&amp;nbsp;officers and men.&lt;ref name=G341&gt;Gardiner, p. 341&lt;/ref&gt;
+
+''Lepanto'' was armed with a [[main battery]] of four {{convert|17|in|abbr=on|0}} 27-[[caliber (artillery)|caliber]] guns, mounted in two pairs ''en echelon'' in a central [[barbette]]. She carried a secondary battery of eight {{convert|6|in|abbr=on|0}} 26-caliber guns and four {{convert|4.7|in|abbr=on|0}} 32-caliber guns. As was customary for [[capital ship]]s of the period, she carried four {{convert|14|in|abbr=on|0}} [[torpedo tube]]s. Unlike other ships built at the time, ''Lepanto'' dispensed with vertical [[belt armor]]. Her designer, [[Benedetto Brin]], believed that contemporary steel alloys could not effectively defeat [[armor-piercing shot and shell|armor-piercing]] shells of the day, and so he discarded it completely. ''Lepanto'' was instead protected by an armored deck that was {{convert|4|in|abbr=on|0}} thick. Her [[conning tower]] was armored with the same thickness of steel plate. The barbette had {{convert|19|in|abbr=on|0}} of steel armor.&lt;ref name=G341/&gt;
+
+==Service history==
+[[File:Livorno - Corazzata Lepanto - Cantiere Orlando (XIX Century).JPG|thumb|left|Drawing of ''Lepanto'' under construction at Orlando]]
+
+''Lepanto'' was under construction for nearly 11 years.&lt;ref&gt;In comparison, the preceding ironclad {{ship|Italian ironclad|Caio Duilio||2}} took only seven years to build, and the subsequent ironclad {{ship|Italian ironclad|Ruggiero di Lauria||2}} took less than six and a half years. See Gardiner, pp. 340&amp;ndash;342&lt;/ref&gt; She was [[Keel laying|laid down]] at the [[Cantiere navale fratelli Orlando|''Cantiere navale fratelli'' Orlando]] shipyard at [[Livorno]] on 4 November 1876, ten months after her sister ''Italia''. She spent nearly six-and-a-half years on the [[Slipway#Ship_construction|building ways]] and was not [[Ship naming and launching|launched]] until 17 March 1883, two-and-a-half years after ''Italia''. ''Lepanto'' was not completed for another four-and-a-half years, her construction finally being finished on 16 August 1887, twenty-two months after the completion of ''Italia''.&lt;ref name=G341/&gt; After entering service, ''Lepanto'' took part in the annual 1888 fleet maneuvers, along with the ironclads {{ship|Italian ironclad|Caio Duilio||2}}, {{ship|Italian ironclad|Italia||2}}, {{ship|Italian ironclad|Enrico Dandolo||2}}, and {{ship|Italian ironclad|San Martino||2}}, a [[protected cruiser]], four [[torpedo cruiser]]s, and numerous smaller vessels. The maneuvers consisted of close-order drills and a simulated attack on and defense of La Spezia. Later that year, the ship was present during a naval review held for the German Kaiser [[Wilhelm II]] during a visit to Italy.&lt;ref&gt;Brassey 1889, p. 453&lt;/ref&gt;
+
+In 1890, ''Lepanto'' participated in the annual fleet maneuvers in the First Squadron, along with the protected cruisers {{ship|Italian cruiser|Piemonte||2}} and {{ship|Italian cruiser|Dogali||2}} and several [[torpedo boat]]s. The exercises were conducted in the [[Tyrrhenian Sea]], where the First Squadron was tasked with defending against an attacking &quot;hostile&quot; squadron.&lt;ref&gt;&quot;The Naval Maneuvers of 1890&quot;, p. 268&lt;/ref&gt; The ship served as the [[flagship]] of the 1st Division of the Active Squadron during the 1893 fleet maneuvers, along with the ironclad {{ship|Italian ironclad|Ruggiero di Lauria||2}}, the torpedo cruisers {{ship|Italian cruiser|Euridice||2}} and {{ship|Italian cruiser|Monzambano||2}}, and four torpedo boats. During the maneuvers, which lasted from 6 August to 5 September, the ships of the Active Squadron simulated a French attack on the Italian fleet.&lt;ref&gt;Clarke &amp; Thursfield, pp. 202&amp;ndash;203&lt;/ref&gt;
+
+[[File:Italian battleship Lepanto in Mediterranean.jpg|thumb|''Lepanto'' in the [[Mediterranean Sea]] in the late 1880s]]
+In 1895, ''Italia'' and ''Lepanto'' were assigned to the Reserve Squadron, along with the ironclads ''Ruggiero di Lauria'' and {{ship|Italian ironclad|Re Umberto||2}}.&lt;ref&gt;Brassey 1896, p. 65&lt;/ref&gt; That year, unrest in the [[Ottoman Empire]] that killed hundreds of foreign nationals prompted several of the European [[great power]]s to send an international fleet to pressure the Ottomans into compensating the victims.&lt;ref&gt;{{cite news|title=Sultan Continues to Defy the Menaces of the Powers|newspaper=[[Chicago Tribune]]|date=27 November 1895|url=http://archives.chicagotribune.com/1895/11/27/page/4/article/foreign-news|accessdate=31 May 2016}}&lt;/ref&gt; In November, a small Italian squadron sent to [[Smyrna]] to join the fleet in there; ''Folgore'' was mobilized as part of a larger force in Naples that consisted of the ironclads ''Francesco Morosini'' and ''Ruggiero di Lauria'', the protected cruiser {{ship|Italian cruiser|Elba||2}}, the torpedo cruisers {{ship|Italian cruiser|Calatafimi||2}} and {{ship|Italian cruiser|Folgore||2}}, and five torpedo boats. This second squadron was stocked with coal and ammunition in the event that it would need to reinforce the squadron at Smryna.&lt;ref&gt;&quot;The Fleets in the Levant&quot;, p. 16,664&lt;/ref&gt;&lt;!--yes, it is actually page 16,664.--&gt; In June 1897, ''Lepanto'' steamed to Britain to represent Italy at the [[Fleet Review]] for [[Queen Victoria]]'s [[Diamond Jubilee]], held on the 26th of the month.&lt;ref&gt;Diehl, p. 82&lt;/ref&gt; For the periodic fleet maneuvers later that year, ''Lepanto'' was assigned to the First Division of the Reserve Squadron, which also included the ironclads {{ship|Italian ironclad|Caio Duilio||2}} and ''Ruggiero di Lauria'' and the protected cruiser {{ship|Italian cruiser|Lombardia||2}}.&lt;ref&gt;Garbett 1897, p. 789&lt;/ref&gt; The following year, the Reserve Squadron consisted of ''Lepanto'', ''Ruggiero di Lauria'', {{ship|Italian ironclad|Francesco Morosini||2}}, and five cruisers.&lt;ref&gt;Garbett 1898, p. 200&lt;/ref&gt; In 1899, ''Lepanto'', ''Re Umberto'', {{ship|Italian ironclad|Sicilia||2}}, and the three {{sclass-|Ruggiero di Lauria|ironclad|1}}s served in the Active Squadron, which was kept in service for eight months of the year, with the remainder spent with reduced crews.&lt;ref&gt;Brassey 1899, p. 72&lt;/ref&gt;
+
+In the early 1890s, the Italian Navy had considered rebuilding ''Lepanto'' along the same lines as {{ship|Italian ironclad|Enrico Dandolo||2}},&lt;ref name=I46/&gt; which had received new, quick-firing {{convert|10|in|adj=on}} guns in place of her slow 17-inch guns.&lt;ref&gt;Gardiner, pp. 340&amp;ndash;341&lt;/ref&gt; ''Lepanto'' and her sister were to have their guns replaced with new {{convert|13.4|in|adj=on}} guns,&lt;ref name=I46&gt;&quot;Italy&quot;, p. 46&lt;/ref&gt; but by 1902 this plan had been abandoned as too costly.&lt;ref&gt;Garbett 1902, p. 1076&lt;/ref&gt; ''Lepanto'' was withdrawn from front-line service in that year and she became a gunnery [[training ship]]. By that time, her armament consisted of her original 17&amp;nbsp;in guns and four of her 4.7&amp;nbsp;in guns; to these, nine {{convert|57|mm|abbr=on}} 40-caliber guns, six {{convert|37|mm|abbr=on}} 25-caliber guns, and two [[machine gun]]s had been added. Her torpedo tubes had been removed by this time. In 1910 she became a [[depot ship]] at [[La Spezia]].&lt;ref name=G341/&gt;&lt;ref name=GG255/&gt; 
+
+During the annual fleet maneuvers in September&amp;ndash;October 1907, ''Lepanto'' was present to carry observers of the exercises, though she did not directly take part in the training.&lt;ref&gt;Brassey 1908, p. 78&lt;/ref&gt; At the start of the [[Italo-Turkish War]] of 1911&amp;ndash;12, ''Lepanto'' was assigned to the 5th Division of the Italian fleet, along with her sister ''Italia'' and the ironclad {{ship|Italian ironclad|Enrico Dandolo||2}}.&lt;ref&gt;Beehler, p. 10&lt;/ref&gt; In December 1911, ''Lepanto'' and ''Italia'' were sent to [[Tripoli]], replacing the three {{sclass-|Re Umberto|ironclad|1}}s, to support the Italian garrison that had captured the city. The two ''Italia''s were sent in large part because the Italian Navy had a large stockpile of 17&amp;nbsp;in shells.&lt;ref&gt;Beehler, p. 47&lt;/ref&gt; ''Lepanto'' was stricken on 26 May 1912, but was reinstated on 13 January 1913 as a first-class auxiliary ship. She was stricken a second time on 15 January 1914, sold for scrap on 27 March 1915, and subsequently [[ship breaking|broken up]].&lt;ref name=G341/&gt;&lt;ref name=GG255&gt;Gardiner &amp; Gray, p. 255&lt;/ref&gt;
+
+==Notes==
+{{Portal|Battleships}}
+{{Reflist|20em}}
+
+==References==
+*{{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false}}
+*{{cite journal|editor-last=Brassey|editor-first=Thomas A.|journal=The Naval Annual|title=Foreign Naval Manoevres|pages=450&amp;ndash;455|year=1889|location=Portsmouth|publisher=J. Griffin &amp; Co.|oclc=5973345}}
+* Brassey, Thomas A., ed. (1896). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* Brassey, Thomas A., ed. (1899). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* Brassey, Thomas A., ed. (1908). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* {{cite book|last1=Clarke|first1=George S.|last2=Thursfield|first2=James R.|title=The Navy and the Nation|year=1897|location=London|publisher=John Murray}}
+*{{cite journal|last=Diehl|first=S. W. B.|title=Great Britain's Naval Review at Spithead|journal=Notes on Naval Progress|year=1898|publisher=Office of Naval Intelligence|location=Washington, DC|pages=81&amp;ndash;94}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes|journal=Journal of the Royal United Service Institution|volume=XLI|number=232|date=1897|publisher=J. J. Keliher &amp; Co.|location=London|pages=779&amp;ndash;792|oclc=8007941}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1898|volume=XLII|pages=199&amp;ndash;204|oclc=8007941}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1902|volume=XLVI|pages=1072&amp;ndash;1076|oclc=8007941}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+* {{cite journal|title=Italy|journal=Notes on the Year's Naval Progress|year=1895|publisher=Office of Naval Intelligence|location=Washington, DC|pages=445&amp;ndash;48}}
+* {{cite journal|title=The Fleets in the Levant|journal=Scientific American Supplement|volume=XL|number=1043|location=New York|publisher=|pages=16,663&amp;ndash;16,664|oclc=809204954}}
+* {{cite journal|title=The Naval Maneuvers of 1890|journal=Information From Abroad: The Year's Naval Progress|year=1891|location=Washington, DC|publisher=Government Printing Office|oclc=12922775|pages=225&amp;ndash;278}}
+
+{{Italia class battleship}}
+
+{{DEFAULTSORT:Lepanto (1883)}}
+[[Category:Italia-class battleships]]
+[[Category:1883 ships]]
+[[Category:Ships built in Livorno]]</text>
+      <sha1>gyoubg1dtz4hiugyly8t5wi85knzt74</sha1>
+    </revision>
+  </page>
+</mediawiki>

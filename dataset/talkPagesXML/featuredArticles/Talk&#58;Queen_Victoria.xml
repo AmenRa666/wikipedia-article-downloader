@@ -1,0 +1,174 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Queen Victoria</title>
+    <ns>1</ns>
+    <id>77537</id>
+    <revision>
+      <id>750682658</id>
+      <parentid>750682027</parentid>
+      <timestamp>2016-11-21T06:47:17Z</timestamp>
+      <contributor>
+        <username>Gilliam</username>
+        <id>506179</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/121.208.139.209|121.208.139.209]] ([[User talk:121.208.139.209|talk]]) to last version by Lowercase sigmabot III</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6781">{{Talk header|noarchive=yes}}
+{{British English}} 
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 150K
+|counter = 2
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:Queen Victoria/Archive %(counter)d
+}}
+{{Article history|action1=FAC
+|action1date=00:41, 16 Oct 2004
+|action1link=Wikipedia:Featured article candidates/Victoria of the United Kingdom/archive1
+|action1result=promoted
+|action1oldid=6612950
+
+|action2=FAR
+|action2date=16:03, 6 September 2006
+|action2link=Wikipedia:Featured article review/Victoria of the United Kingdom/archive1
+|action2result=demoted
+|action2oldid=74051563
+
+|action3=GAN
+|action3date=00:48, 3 September 2008
+|action3link=Talk:Victoria of the United Kingdom/GA1
+|action3result=not listed
+|action3oldid=235725958
+
+|action4=GAN
+|action4date=18:58, 26 September 2008
+|action4link=Talk:Victoria of the United Kingdom/GA2
+|action4result=listed
+|action4oldid=241077994
+
+|action5=FAC
+|action5date=23:54, 3 April 2011
+|action5link=Wikipedia:Featured article candidates/Queen Victoria/archive1
+|action5result=promoted
+|action5oldid=422147251
+
+|topic=history
+|maindate=December 12, 2004
+|currentstatus=FA
+}}
+{{Vital article|level=4|topic=People|class=FA}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=FA|military-work-group=y|military-priority=low|peerage-work-group=yes|peerage-priority=Top|royalty-work-group=yes|royalty-priority=Top|listas=Victoria of the United Kingdom}}
+{{WikiProject British Royalty|class=FA|importance=top}}
+{{WikiProject Politics of the United Kingdom|class=FA|importance=high}}
+{{WP1.0|v0.5=pass|class=FA|importance=top|category=History|WPCD=yes}}
+{{WikiProject New Zealand|class=FA|importance=high|politics=yes|politics-importance=mid}}
+{{WikiProject Politics|class=FA|importance=mid}}
+{{WikiProject Women's History|class=FA|importance=high}}
+{{WikiProject Military history|class=FA |Biography=y |British=y}}
+{{WikiProject India|class=FA|importance=high}}
+{{WikiProject Australia|class=FA|importance=high}}
+{{WikiProject Women|class=FA|importance=high}}
+}}
+{{Press
+ | author      = Fatima Ahmed-Farouta
+ | date        = 2013-05-02
+ | url         = http://blogs.getty.edu/iris/why-have-there-been-no-great-wikipedia-articles-on-women-artists/
+ | title       = Redressing Wikipedia's Historical Gender Gap
+ | org         = [[George Mason University]]
+ | archiveurl  = http://www.webcitation.org/6GMqFsmH9
+ | archivedate = 2013-05-04
+ | accessdate  = 2013-05-04
+}}
+{{On this day|date1=2004-06-20|oldid1=5183742|date2=2005-06-20|oldid2=16335264|date3=2006-06-20|oldid3=59672713|date4=2007-06-20|oldid4=139437918|date5=2008-01-22|oldid5=186119351|date6=2008-06-20|oldid6=220569555|date7=2009-06-20|oldid7=297489590|date8=2010-06-20|oldid8=369181009|date9=2014-06-20|oldid9=613536412|date10=2016-06-20|oldid10=726126979}}
+{{Old moves
+|list=
+*Victoria of the United Kingdom → ''Queen Victoria'', '''No consensus''', 22 October 2007, [[Talk:Queen_Victoria/Article_title#Requested_move_22_October_2007|discussion]]
+*Victoria of the United Kingdom → ''Victoria, Queen of the United Kingdom'' — or ''Queen Victoria'', '''Moved to Queen Victoria''', 12 October 2010, [[Talk:Queen_Victoria/Article_title#Requested_move_2_October_2010|discussion]]
+*Queen Victoria → ''Victoria, Queen of the United Kingdom'', '''Not moved''', 31 December 2010, [[Talk:Queen_Victoria/Article_title#Move_request|discussion]]
+*Queen Victoria → ''Victoria, Queen of the United Kingdom'', '''No move''', 11 April 2011, [[Talk:Queen_Victoria/Article_title#Requested_move_11_April_2011|discussion]]
+*Queen Victoria → ''Victoria of the United Kingdom'', '''No consensus to move''', 29 July 2014, [[Talk:Edward_VIII#Requested_moves|discussion]]
+*Queen Victoria → ''Victoria'', '''Withdrawn''', 18 December 2015, [[Talk:Queen_Victoria/Article_title#Requested_move_17_December_2015|discussion]]
+|title1=Queen Victoria
+|title2=Victoria of the United Kingdom
+|title3=Queen Victoria of the United Kingdom
+}}
+{{archives|auto=no|search=yes|bot=MiszaBot I|age=100
+ |list=&lt;center&gt;[[/Archive 1|Archive 1]] * [[/Archive 2|Archive 2]] * [[/Surname|Surname]] * [[/Article title|Article title]]}}
+
+== Cause of death ==
+
+Did she die from a stroke? ([[Special:Contributions/217.35.237.72|217.35.237.72]] ([[User talk:217.35.237.72|talk]]) 10:34, 23 June 2016 (UTC))
+:There's no indication of that. [[Special:Contributions/31.54.202.183|31.54.202.183]] ([[User talk:31.54.202.183|talk]]) 01:51, 22 August 2016 (UTC)
+
+== add the languages she speaks? ==
+
+perhaps under the section of her early life, it would be good to add that she could speak Hindi, Urdu and Punjabi?  This would give the reader a better context with her relationship with her Munshi and her empire. She was taught this in preparation to become the Empress of India.  &lt;!-- Template:Unsigned IP --&gt;&lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/41.82.18.76|41.82.18.76]] ([[User talk:41.82.18.76|talk]]) 23:35, 21 August 2016 (UTC)&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;
+:We would need a source to do that.   She didn't become Empress of India until 1876, and she didn't meet the Munshi till her Golden Jubilee (1887). [[Special:Contributions/31.54.202.183|31.54.202.183]] ([[User talk:31.54.202.183|talk]]) 01:55, 22 August 2016 (UTC)
+::The Munshi's lessons in Hindi-Urdu are covered already in the Golden Jubilee section, where they belong chronologically. [[User:DrKay|DrKay]] ([[User talk:DrKay|talk]]) 06:49, 22 August 2016 (UTC)
+
+== Semi-protected edit request on 26 August 2016 ==
+
+{{edit semi-protected|Queen Victoria|answered=yes}}
+
+
+Would it be possible to add a new page on the English Heritage Osborne page to the links at the foot of the page: http://www.english-heritage.org.uk/visit/places/osborne/queen-victoria/
+
+[[Special:Contributions/31.222.211.51|31.222.211.51]] ([[User talk:31.222.211.51|talk]]) 14:09, 26 August 2016 (UTC)
+:Spam: The building is only tangential to the queen's life, and link would attract links to every place Victoria visited.[[User:IdreamofJeanie|IdreamofJeanie]] ([[User talk:IdreamofJeanie|talk]]) 15:09, 26 August 2016 (UTC)
+:: Twaddle. Osborne was one of her official residences – much more than just a &quot;place Victoria visited&quot;. --[[User:Epipelagic|Epipelagic]] ([[User talk:Epipelagic|talk]]) 19:39, 29 September 2016 (UTC)
+
+== Removal of offensive term ==
+
+Can I request that under the section 'Heir Presumptive', the potentially offensive term 'bastard' is replaced by the more neutral 'illegitimate' in the fourth line ('King William's bastard children'). (I'm waiting for a password reset as I haven't logged in for a while.)
+[[Special:Contributions/202.4.70.206|202.4.70.206]] ([[User talk:202.4.70.206|talk]]) 01:03, 4 November 2016 (UTC)</text>
+      <sha1>3k1s294hwoxmnq56jtume66nr112bon</sha1>
+    </revision>
+  </page>
+</mediawiki>

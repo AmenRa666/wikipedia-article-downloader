@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Plug and fight</title>
+    <ns>0</ns>
+    <id>37546791</id>
+    <revision>
+      <id>740928234</id>
+      <parentid>726234342</parentid>
+      <timestamp>2016-09-24T06:41:09Z</timestamp>
+      <contributor>
+        <username>I dream of horses</username>
+        <id>9676078</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, removed underlinked tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2462">'''Plug-and-fight''' is the military equivalent of [[plug and play]]&lt;ref&gt;&quot;Plug and Fight for Missile Might.&quot; Military-advanced-education.com. http://www.military-advanced-education.com/mit-archives/129-mit-2007-volume-11-issue-5/1160-plug-and-fight-for-missile-might.html. Retrieved 2012-11-27.&lt;/ref&gt; as applied to commercial and personal computer systems. Plug-and-fight refers to the capability of certain large military systems such as the [[Medium Extended Air Defense System]] (MEADS)&lt;ref&gt;“Plug-and-Fight.” http://meads-amd.com/about-meads/&lt;/ref&gt; to automatically recognize and assemble various system elements, like sensors, weapons, and control nodes, into a single integrated supersystem or system-of-systems. Plug-and-fight systems can be rapidly reconfigured without interrupting operations – adding, removing, and rearranging system elements in response to evolving threats and changing defense strategies. The architecture of such modular systems is often described as netted-distributed.
+
+Plug-and-fight system elements connect to an open wired or wireless communication network through a standardized interface, and have the ability to interact with other system elements on that network to accomplish specific combat objectives. To maximize product applicability, and to ensure the general acceptance of system developers, any plug-and-fight standardized interface should be based on [[Communications protocol|protocol]]s and standards that are widely recognized, well defined, strongly controlled, and non-proprietary. Modern examples include [[Ethernet]], IP, TCP, [[Common Object Request Broker Architecture|CORBA]], and any specific message structure that can be freely disseminated and used without licensing.
+
+In November 2011, [[Medium Extended Air Defense System|MEADS]] system elements successfully performed a simulated engagement against real-world air and representative missile threats demonstrating plug-and-fight capabilities.&lt;ref&gt;“MEADS Demonstrates Advanced Plug-and-Fight Capabilities in Integration Test.” http://www.lockheedmartin.com/us/news/press-releases/2011/november/MEADSDemonstratesAdvanced.html&lt;/ref&gt; Sensors, shooters, and [[tactical operations center]]s (TOC) simply act as nodes on the network, and a military commander can dynamically add or subtract these elements as the situation dictates without shutting the system down.
+
+==References==
+&lt;references /&gt;
+
+[[Category:Military technology]]
+
+
+{{mil-stub}}</text>
+      <sha1>in4rn21avq386c5xry3dp2yujvjpxib</sha1>
+    </revision>
+  </page>
+</mediawiki>

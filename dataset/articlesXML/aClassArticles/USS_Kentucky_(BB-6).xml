@@ -1,0 +1,494 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Kentucky (BB-6)</title>
+    <ns>0</ns>
+    <id>191740</id>
+    <revision>
+      <id>749080116</id>
+      <parentid>746378295</parentid>
+      <timestamp>2016-11-12T07:35:04Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */clean up; http&amp;rarr;https for [[Google Books]] and other Google services using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32182">{{other ships|USS Kentucky}}
+{{Good Article}}
+{{Use dmy dates|date=October 2012}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Uss kentucky bb-6.jpg|300px|alt=USS Kentucky]]
+| Ship caption = USS ''Kentucky'', circa 1905–08
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = United States
+| Ship flag = {{USN flag|1920}}
+| Ship name = ''Kentucky''
+| Ship namesake =[[State of Kentucky]]
+| Ship ordered =2 March 1885
+| Ship awared = 2 January 1896
+| Ship builder = [[Newport News Shipbuilding|Newport News SB&amp;DD]]
+| Ship original cost = $4,998,119.43
+| Ship yard number =
+| Ship way number =
+| Ship laid down = 30 June 1896
+| Ship launched = 24 March 1898
+| Ship sponsor = Christine Bradley
+| Ship completed =
+| Ship acquired =
+| Ship commissioned = 15 May 1900
+| Ship decommissioned = 28 August 1909
+| Ship renamed =
+| Ship reclassified =
+| Ship identification = [[Hull symbol]]: BB-6
+| Ship motto =
+| Ship nickname =
+| Ship honors =
+| Ship notes =
+| Ship badge =
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship recommissioned = 23 June 1915
+| Ship decommissioned = 29 May 1920
+| Ship maiden voyage =
+| Ship renamed =
+| Ship reclassified =
+| Ship refit =
+| Ship struck = 27 May 1922
+| Ship fate = Sold for [[ship breaking|scrap]], 24 March 1923
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{sclass-|Kearsarge|battleship|0}} [[pre-dreadnought]] battleship
+| Ship displacement = {{convert|11540|ST|abbr=on}}
+| Ship length = {{convert|375|ft|4|in|abbr=on}}
+| Ship beam = {{convert|72|ft|3|in|abbr=on}}
+| Ship draft = {{convert|23|ft|6|in|abbr=on}}
+| Ship power = 5 boilers, {{convert|12179|ihp|lk=in|abbr=on}}
+| Ship propulsion = 2 [[Vertical triple expansion|VTE]] engines, 2 propeller shafts
+| Ship speed = {{convert|16.9|kn|lk=in}}
+| Ship range =
+| Ship complement = 40 officers and 514 enlisted men
+| Ship crew =
+| Ship armament =*  4 × [[13&quot;/35 caliber gun|{{convert|13|in|mm|abbr=on|0}}/35 caliber guns]]
+*  4 × [[8&quot;/35 caliber gun|{{convert|8|in|mm|abbr=on|0}}/35 caliber guns]]
+* 14 × [[5&quot;/40 caliber gun|{{convert|5|in|mm|abbr=on|0}}/40 caliber guns]]
+* 20 × 6-pounders ({{convert|57|mm|in|abbr=on|disp=or}})
+*  8 × 1-pounders ({{convert|37|mm|in|abbr=on|disp=or}})
+*  4 × {{convert|.30|in|mm|abbr=on}} machine guns
+*  4 × {{convert|18|in|mm|abbr=on|0}} [[torpedo tube]]s
+  
+| Ship armor =* [[Belt armor|Belt]]: {{convert|5|-|16.5|in|abbr=on|0}}
+* [[Barbette]]s: {{convert|12.5|-|15|in|abbr=on|0}}
+* [[Gun turret#Warships|Turret]] (primary): {{convert|15|-|17|in|abbr=on|0}}
+* Turret (secondary): {{convert|6|-|11|in|abbr=on|0}}
+* [[Conning tower]]: {{convert|10|in|abbr=on|0}}
+  
+| Ship notes =
+}}
+|}
+
+'''USS ''Kentucky'' (BB-6)''' was the second and final {{sclass-|Kearsarge|battleship|0}} [[pre-dreadnought battleship]] built for the [[United States Navy]]. The Newport News Shipbuilding Company of Virginia laid down her keel on 30 June 1896. She was [[ship naming and launching|launched]] on 24 March 1898, sponsored by Miss Christine Bradley, daughter of [[Kentucky]] Governor [[William O'Connell Bradley]]. She was [[ship commissioning|commissioned]] on 15 May 1900.
+
+In her twenty years of service, ''Kentucky'' participated in no major combat. Between 1901 and 1904, she served in East Asia, and from 1904 to 1907 she cruised the Atlantic. In 1907, she joined the [[Great White Fleet]], returning in 1909. She was modernized in 1910, but did not operate again until 1915, when she sailed to the Mexican coast, where she stayed until 1916. From 1917 until her decommissioning on 29 May 1920, she served as a training ship. She was sold for scrap on 24 March 1923.
+
+== Design ==
+{{main|Kearsarge-class battleship}}
+
+The ''Kearsarge''-class battleships were designed to be used for coastal defense.{{sfn|Crawford|2008|p=12}} They had a displacement of {{convert|11540|ST}}, an [[length overall|overall length]] of {{convert|375|ft|4|in}}, a [[beam (nautical)|beam]] of {{convert|72|ft|3|in}} and a [[draft (hull)|draft]] of {{convert|23|ft|6|in}}.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} The two 3-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]] and five [[Scotch marine boiler|Scotch boilers]], connected to two propeller shafts, produced a total of {{convert|12179|ihp|lk=in}}, and gave a maximum speed of {{convert|16.897|kn|mph km/h}}.{{sfn|Reilly|Scheina|1980|p=94}} ''Kentucky'' was manned by 40 officers and 514 enlisted men, a total of 554 crew.{{sfn|Newhart|1995|p=22}}
+
+[[File:USS Kentucky LOC det.4a14322.jpg|left|thumb|alt=A smaller turret on top of a bigger turret.|''Kentucky'''s double turret, circa 1900–1901]]
+''Kentucky'', like {{USS|Kearsarge|BB-5|6}}, had two double [[Gun turret|turrets]], with two [[13&quot;/35 caliber gun|{{convert|13|in|mm|abbr=on|0}}/35 caliber guns]] and two [[8&quot;/40 caliber gun|{{convert|8|in|mm|abbr=on|0}}/40 caliber guns]] each, stacked on two levels.{{sfn|Friedman|1985|pp=30–32}} The guns and turret armor were designed by the [[Bureau of Ordnance]], while the turret itself was designed by the [[Bureau of Construction and Repair]]. The configuration caused the guns to be mounted far back in the turret, making the ports very large. Admiral [[William Sims]] claimed that as a result of the gun mounting, a shell fired into the port could reach the [[Magazine (artillery)|magazines]] below, disabling the guns.{{sfn|Friedman|1985|p=17}} In addition to these guns, ''Kentucky'' carried fourteen [[5&quot;/40 caliber gun|{{convert|5|in|mm|abbr=on|0}}/40 caliber guns]], twenty [[6-pounder gun|6-pounder]] ({{convert|57|mm|in|abbr=on|disp=or}}) guns, eight [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|abbr=on|disp=or}}) guns, four {{convert|.30|in|mm|abbr=on}} machine guns, and four {{convert|18|in|mm|adj=on}} [[torpedo tube]]s.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} ''Kentucky'' had a very low [[freeboard (nautical)|freeboard]], often making her guns unusable during bad weather.{{sfn|Reilly|Scheina|1980|p=92}}
+
+The ship's [[waterline]] [[belt armor|armor belt]] was {{convert|5|-|16.5|in}} thick. Her main gun turrets were protected by {{convert|15|-|17|in}} of armor, while the secondary turrets had {{convert|6|-|11|in}} of armor. The [[barbette]]s were {{convert|12.5|-|15|in}} thick, and the [[conning tower]] had {{convert|10|in}} of armor.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} The ship's armor was made of [[Harvey armor|harveyized steel]].{{sfn|Reilly|Scheina|1980|p=94}}
+
+== Construction ==
+''Kentucky'' was authorized on 2 March 1895.{{sfn|Reilly|Scheina|1980|p=83}} The contract for her construction was awarded on 2 January 1896,{{sfn|NVR Kentucky (BB 6)}} and her keel was laid down on 30 June 1896 by [[Newport News Shipbuilding &amp; Dry Dock Company]] in [[Virginia]].{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}}{{sfn|''Houston Daily Post'' 25 March 1898}} The total cost was $4,998,119.43.{{sfn|Reilly|Scheina|1980|p=94}} In preparation for the ''Kentucky''{{'}}s christening, the [[United States Department of the Navy|Navy]] asked [[Governor of Kentucky|Kentucky Governor]] [[William O'Connell Bradley]] to select a member of his family to perform the ceremony. Bradley chose his daughter, Christine, who was attending school in Washington, D.C.{{sfn|''Houston Daily Post'' 25 March 1898}} The Bradleys were a family of [[teetotalers]],{{sfn|Clark|Lane|2002|p=65–66}} so Governor Bradley sent a bottle of water from Lincoln Spring in [[Hodgenville, Kentucky]], for Christine to use during the ceremony.{{sfn|''Houston Daily Post'' 25 March 1898}} ''Kentucky'' was christened on 24 March 1898, the same day as her [[sister ship]], ''Kearsarge''.{{sfn|''Houston Daily Post'' 25 March 1898}} Soon after Miss Bradley broke the bottle of water over the ''Kentucky''{{'}}s bow, a delegation from the [[Women's Christian Temperance Union]], led by [[Frances Beauchamp]], presented the Governor's daughter with a gift of a silver tray, a water pitcher, and two goblets. The inscription read, &quot;Kentucky Christian Temperance Union to Miss Christine Bradley, as a tribute to her loyalty to conviction in the christening of the Battleship ''Kentucky'' with water. March 10, 1898.&quot;{{sfn|Clark|Lane|2002|p=65–66}} ''Kentucky'' was [[ship commissioning|commissioned]] on 15 May 1900, under the command of [[Captain (naval)|Captain]] [[Colby Mitchell Chester]].{{sfn|''Alexandria Gazette'' 15 May 1900}}
+
+== Early service history ==
+During the summer of 1900, ''Kentucky'' was fitted out in the [[New York Navy Yard]].{{sfn|DANFS Kentucky (BB-6)}} On 26 October, during the [[Boxer Rebellion]], she left [[Tompkinsville, Staten Island]] for China,{{sfn|''The Honolulu Republican'' 8 November 1900}} passing through [[Gibraltar]]{{sfn|''The Weekly Messenger'' 17 November 1900}} and the [[Suez Canal]].{{sfn|''The San Francisco Call'' 22 December 1900}} On 5 February 1901 she arrived at [[Manila]],{{sfn|''The Bee'' 7 February 1901}} and on 23 March she replaced the {{USS|Newark|C-1|2}} as the flagship of [[Rear Admiral]] [[Louis Kempff]].{{sfn|''Evening Star'' 23 March 1901}}
+
+Between 1901 and 1904, ''Kentucky'' visited numerous ports in China and Japan, including [[Chefoo]],{{sfn|''The Saint Paul Globe'' 15 October 1901}} [[Wusong]],{{sfn|''The Saint Paul Globe'' 15 October 1901}}{{sfn|''The San Francisco Call'' 29 October 1901}}{{sfn|''Evening Star'' 3 June 1901}} [[Nanking]],{{sfn|''The San Francisco Call'' 29 October 1901}} [[Taku Forts]],{{sfn|''The Washington Times'' 24 July 1902}} Hong Kong,{{sfn|''Evening Star'' 14 November 1901}} [[Xiamen]],{{sfn|''Evening Star'' 3 June 1901}} [[Nagasaki, Nagasaki|Nagasaki]],{{sfn|''The Washington Times'' 29 June 1902}} [[Kobe]],{{sfn|DANFS Kentucky (BB-6)}} and [[Yokohama]].{{sfn|''The Washington Times'' 13 April 1902}}
+
+In 1902, ''Kentucky'' became the flagship of Rear Admiral [[Frank Wildes]], although he moved his flag to the [[distilling ship]] {{USS|Rainbow|AS-7|2}} on 12 April 1902.{{sfn|''The Washington Times'' 13 April 1902}} In November 1902, she became the flagship of Rear Admiral [[Robley D. Evans]].{{sfn|''Evening Bulletin'' 8 November 1902}} On 13 March 1904 she sailed from Manila, passing through the Suez Canal and the [[Strait of Gibraltar]], and arriving at New York City on 21 May.{{sfn|''Daily Public Ledger'' 26 May 1904}}
+
+After receiving upgrades at the New York Navy Yard, including the addition of smoke ejectors,{{sfn|''Palestine Daily Herald'' 26 October 1904}} ''Kentucky'' joined the [[North Atlantic Squadron]].{{sfn|''The Salt Lake Tribune'' 31 October 1905}} The battleship participated in the welcome of the British North Atlantic Squadron at [[Annapolis, Maryland]], in October 1905.{{sfn|''The Salt Lake Tribune'' 31 October 1905}} During the [[History of cuba#Cuba in the early 20th century|1906 Cuban Insurrection]], she carried [[United States Marine Corps|Marines]] to Cuba, embarking them from [[Provincetown]] on 23 September, and landing them at [[Havana, Cuba]], on 1 October.{{sfn|''The Sun'' 26 September 1906}} She remained there until 9 October, and then returned to New England.{{sfn|''The Bemidji Daily Pioneer'' 9 October 1906}} ''Kentucky'' attended the [[Jamestown Exposition]] at [[Norfolk, Virginia]], on 15 April 1907,{{sfn|Newhart|1995|p=22}} and then participated in exercises off the [[New England]] coast.{{sfn|DANFS Kentucky (BB-6)}}
+
+==Great White Fleet==
+[[File:USS Kentucky bb6 in great white fleet.jpg|thumb|alt=Kentucky painted white|''Kentucky'' at [[Sydney]], as part of the [[Great White Fleet]], late August 1908. ''Kentucky'' shows the white [[hull (watercraft)|hull]] after which the fleet was named.{{sfn|Yarsinske|1999|p=107}}]]
+[[File:USS Kentucky, built in Newport News, VA, launched in 1898.jpg|thumb|The ''Kentucky'', painting of marine painter [[Alexander Kircher]], about 1908]]
+
+In 1907, the [[Great White Fleet]] was ordered by [[President of the United States|U.S. President]] [[Theodore Roosevelt]] to circle the world, as a demonstration of the might of the United States Navy.{{sfn|Albertson|2008|p=26}} ''Kentucky'' was attached to the Fourth Division of the Second Squadron,{{sfn|Albertson|2008|p=46}} and was commanded by Captain [[Walter C. Cowles]],{{sfn|Albertson|2008|p=177}} while the fleet as a whole was commanded by Rear Admiral Evans, ''Kentucky''{{'}}s former [[flag officer]].{{sfn|Yarsinske|1999|p=107}} On 16 December 1907, the fleet saluted the presidential yacht {{USS|Mayflower|PY-1|2}},{{sfn|Albertson|2007|p=39}} and left from [[Hampton Roads]].{{sfn|Albertson|2008|p=181}} The fleet then sailed south, passing [[Trinidad]] and [[Rio de Janeiro]],{{sfn|Albertson|2008|p=54}} and going through the [[Straits of Magellan]].{{sfn|Albertson|2008|p=66}} From there she passed the west coast of South America, visiting [[Punta Arenas]]{{sfn|Albertson|2008|p=64}} and [[Valparaíso]], Chile,{{sfn|Albertson|2008|p=67}} [[Callao]], Peru,{{sfn|Albertson|2008|p=69}} and [[Magdalena Bay, Mexico]].{{sfn|Albertson|2008|p=73}} The fleet arrived at San Diego on 14 April 1908{{sfn|Albertson|2008|p=184}} and continued to San Francisco on 6 May.{{sfn|Albertson|2008|p=185}} Two months later it arrived at [[Honolulu]],{{sfn|Albertson|2008|pp=90–95}} and from there sailed to [[Auckland]], New Zealand, arriving on 9 August.{{sfn|Albertson|2008|p=95}} On 20 August, the fleet reached [[Sydney]], Australia, and a week later sailed for [[Melbourne]].{{sfn|Albertson|2008|p=188}}
+
+''Kentucky'' departed [[Albany, Western Australia]], on 18 September, passing through ports in the [[Philippine Islands]], Japan, China, and [[Ceylon]] before traveling through the Suez Canal.{{sfn|Albertson|2008|p=188–190}} The fleet split at [[Port Said]] on 8 January 1909, with ''Kentucky'' visiting [[Tripoli]] and [[Algiers]]{{sfn|Albertson|2008|p=191}} before rejoining the other ships at Gibraltar.{{sfn|Yarsinske|1999|p=109}} She returned to Hampton Roads on 22 February, and was inspected by President Roosevelt.{{sfn|Albertson|2008|pp=191–192}}
+
+==Later service==
+As with most of the Great White Fleet ships, ''Kentucky'' was modernized on her return.{{sfn|Friedman|1985|p=82}} She was decommissioned at the [[Philadelphia Naval Shipyard]]{{sfn|DANFS Kentucky (BB-6)}} on 28 August 1909,{{sfn|Harris|1992|p=489}} and her modernization was completed in 1911, at a cost of $675,000.{{sfn|Friedman|1985|pp=82–83}} The ship received [[Lattice mast|cage masts]], new [[water-tube boiler]]s, and another four 5-inch guns. The 1-pounder guns were removed, as were sixteen of the 6-pounders.{{sfn|Reilly|Scheina|1980|p=92}} On 4 June 1912, she was recommissioned in the Second Reserve, and on 31 May 1913 she was transferred to the [[Atlantic Reserve Fleet]] in Philadelphia.{{sfn|DANFS Kentucky (BB-6)}}
+
+She was recommissioned again at Philadelphia on 23 June 1915.{{sfn|DANFS Kentucky (BB-6)}} On 11 September that year, following the [[United States occupation of Veracruz]], she sailed to [[Mexico]], arriving at [[Veracruz, Veracruz|Veracruz]] on 28 September. She remained there during the [[Mexican Revolution]], staying until 2 June 1916, except for a visit to [[New Orleans]] for the [[New Orleans Mardi Gras|Mardi Gras]] festival in March 1916.{{sfn|Bogart|2010}}
+
+The battleship stopped at [[Guantanamo Bay Naval Base]]{{sfn|''The Sun'' 6 June 1916}} and [[Santo Domingo]] on her way back to Philadelphia, arriving there on 18 June 1916.{{sfn|DANFS Kentucky (BB-6)}} From July until September, she trained militiamen near [[Block Island]] and [[Boston]].{{sfn|''The Ogden Standard'' 25 July 1916}}{{sfn|''The Ogden Standard'' 19 August 1916}}{{sfn|''Kentucky Irish American'' 2 September 1916}} On 2 October ''Kentucky'' returned to New York,{{sfn|DANFS Kentucky (BB-6)}} and entered the [[New York Naval Shipyard]] on 2 January 1917,{{sfn|''The Sun'' 3 January 1917}} remaining there until the United States [[American entry into World War I|entered]] [[World War I]].{{sfn|DANFS Kentucky (BB-6)}} She arrived at [[Yorktown, Virginia]] on 2 May, and trained recruits along the Atlantic coast, from [[Chesapeake Bay]] to [[Long Island Sound]].{{sfn|DANFS Kentucky (BB-6)}} During the war, she trained several thousand men, in 15 groups of recruits.{{sfn|DANFS Kentucky (BB-6)}}
+
+''Kentucky'' was overhauled at the [[Boston Navy Yard]], beginning on 20 December 1918.{{sfn|DANFS Kentucky (BB-6)}} On 18 March 1919, she left for exercises in Guantanamo Bay, Norfolk, and along the New England coast.{{sfn|DANFS Kentucky (BB-6)}} Between 29 May and 30 August 1919, ''Kentucky'' trained [[United States Naval Academy]] [[midshipman|midshipmen]].{{sfn|DANFS Kentucky (BB-6)}}
+
+==Fate==
+Following World War I, the United States agreed to the [[Washington Naval Treaty]], which was aimed at preventing a naval [[arms race]] by limiting the size of the signatories' fleets.{{sfn|Breyer|1973|p=70}} As a result, many old and obsolete ships were scrapped, including the ''Kentucky''.{{sfn|''New York Tribune'' 15 January 1922}}
+
+''Kentucky'' was decommissioned on 29 May 1920.{{sfn|''New York Tribune'' 15 January 1922}} Her name was struck from the [[Naval Vessel Register]] on 27 May 1922 and she was sold for scrap to [[Dravo Corporation]] on 24 March 1923.{{sfn|NVR Kentucky (BB 6)}}
+
+==Legacy==
+A mast from ''Kentucky'' is located near the [[General George Patton Museum of Leadership|Patton Museum]] at [[Fort Knox]], Kentucky.
+
+== Citations ==
+{{DANFS | http://www.history.navy.mil/danfs/k3/kentucky.htm }}
+
+{{reflist|30em}}
+
+== Bibliography ==
+
+{{refbegin}}
+
+'''Books'''
+
+* {{cite book
+  | last        = Albertson
+  | first       = Mark
+  | title       = U. S. S. Connecticut: Constitution State Battleship
+  | url         = https://www.google.com/books?id=nVuNO72Bz7AC
+  | year        = 2007
+  | publisher   = [[Tate Publishing &amp; Enterprises]]
+  | location    = [[Mustang, Oklahoma]]
+  | isbn        = 978-1-59886-739-8
+  | ref         = CITEREFAlbertson2007
+  }}
+* {{cite book
+  | last        = Albertson
+  | first       = Mark
+  | title       = They'll Have to Follow You!: The Triumph of the Great White Fleet
+  | url         = https://www.google.com/books?id=1_ApYoXy6kQC
+  | year        = 2008
+  | publisher   = Tate Publishing &amp; Enterprises
+  | location    = Mustang, Oklahoma
+  | isbn        = 978-1-60462-145-7
+  | ref         = CITEREFAlbertson2008
+  }}
+* {{cite book
+  | last        = Breyer
+  | first       = Siegfried
+  | title       = Battleships and Battlecruisers of the World, 1905–1970
+  | year        = 1973
+  | publisher   = Macdonald and Jane's
+  | location    = London
+  | isbn        = 0-356-04191-3
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Chesneau
+  | first1      = Roger
+  | last2       = Koleśnik
+  | first2      = Eugène M.
+  | last3       = Campbell
+  | first3      = N.J.M.
+  | year        = 1979
+  | title       = Conway's All the World's Fighting Ships, 1860–1905
+  | publisher   = Conway Maritime Press
+  | location    = London
+  | isbn        = 0-85177-133-5
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Clark
+  | first1      = Thomas D.
+  | authorlink  = Thomas D. Clark
+  | last2       = Lane
+  | first2      = Margaret A.
+  | year        = 2002
+  | title       = The People's House: Governor's Mansions of Kentucky
+  | publisher   = University Press of Kentucky
+  | location    = [[Lexington, Kentucky]]
+  | isbn        = 0-8131-2253-8
+  | url         = https://books.google.com/books?id=Kuh-_GWbVYMC
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Crawford
+  | first       = Michael J.
+  | title       = The World Cruise of the Great White Fleet: Honoring 100 Years of Global Partnerships and Security
+  | url         = https://www.google.com/books?id=OVtFbZqPskgC
+  | date        = 2008
+  | publisher   = [[United States Government Printing Office]]
+  | location    = [[Washington, D.C.]]
+  | isbn        = 978-0-945274-59-9
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Friedman
+  | first       = Norman
+  | authorlink  = Norman Friedman
+  | year        = 1985
+  | title       = U.S. Battleships, An Illustrated Design History
+  | publisher   = [[Naval Institute Press]]
+  | location    = [[Annapolis, Maryland]]
+  | isbn        = 0-87021-715-1
+  | url         = https://books.google.com/books?id=Y41Ha_3HsrYC
+  | ref         = harv
+  }}
+* {{cite encyclopedia
+  | last        = Harris
+  | first       = James Russell
+  | editor-last = Kleber
+  | editor-first = John E.
+  | encyclopedia = The Kentucky Encyclopedia
+  | title       = Kentucky, U.S.S.
+  | url         = https://books.google.com/books?id=8eFSK4o--M0C&amp;pg=PA489
+  | year        = 1992
+  | publisher   = The University Press of Kentucky
+  | location    = Lexington, Kentucky
+  | isbn        = 0-8131-1772-0
+  | page        = 489
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Newhart
+  | first       = Max R.
+  | year        = 1995
+  | title       = American Battleships: A Pictorial History of BB-1 to BB-71
+  | publisher   = Pictorial Histories Publishing Company
+  | location    = [[Missoula, Montana]]
+  | isbn        = 978-1-57510-004-3
+  | url         = https://www.google.com/books?id=bmKFbwVmD8oC
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Reilly
+  | first1      = John C.
+  | last2       = Scheina
+  | first2      = Robert L.
+  | year        = 1980
+  | title       = American Battleships 1886–1923: Predreadnought Design and Construction
+  | publisher   = Naval Institute Press
+  | location    = Annapolis, Maryland
+  | isbn        = 0-87021-524-8
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Yarsinske
+  | first       = Amy Waters
+  | title       = Jamestown Exposition, Virginia: American Imperialism on Parade
+  | url         = https://www.google.com/books?id=ers5Ce-TSZwC
+  | volume      = 2
+  | date        = 1 July 1999
+  | publisher   = [[Arcadia Publishing]]
+  | location    = [[Charleston, South Carolina]]
+  | isbn        = 0-7385-0167-0
+  | ref         = harv
+  }}
+
+'''Newspapers'''
+
+* {{cite news
+  | title = Kentucky is Launched
+  | url = http://chroniclingamerica.loc.gov/lccn/sn86071197/1898-03-25/ed-1/seq-4.pdf
+  | format = PDF
+  | newspaper = [[Houston Daily Post]]
+  | date = 25 March 1898
+  | page = 4
+  | accessdate = 1 January 2013
+  | ref = {{sfnRef|''Houston Daily Post'' 25 March 1898}}
+  }}
+* {{cite news
+  | title = The Kentucky in Commission
+  | url = http://chroniclingamerica.loc.gov/lccn/sn85025007/1900-05-15/ed-1/seq-2.pdf
+  | format = PDF
+  | newspaper = [[Alexandria Gazette]]
+  | date = 15 May 1900
+  | page = 2
+  | accessdate = 3 January 2013
+  | ref = {{sfnRef|''Alexandria Gazette'' 15 May 1900}}
+  }}
+* {{cite news |title=Condensed Telegrams |url=http://chroniclingamerica.loc.gov/lccn/sn85047165/1900-11-08/ed-1/seq-2.pdf |format=PDF |newspaper=The Honolulu Republican |date=8 November 1900 |page=2 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Honolulu Republican'' 8 November 1900}}
+  }}
+* {{cite news |title=A Slight War Cloud |url=http://chroniclingamerica.loc.gov/lccn/sn88064454/1900-11-17/ed-1/seq-2.pdf |format=PDF |newspaper=The Weekly Messenger|location=[[St. Martinville, Louisiana]] |date=17 November 1900 |page=2 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Weekly Messenger'' 17 November 1900}}
+  }}
+* {{cite news |title=Kentucky in Suez Canal |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1900-12-22/ed-1/seq-3.pdf |format=PDF |newspaper=[[The San Francisco Call]] |date=22 December 1900 |page=3 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The San Francisco Call'' 22 December 1900}}
+  }}
+* {{cite news |title=The Kentucky at Manila |url=http://chroniclingamerica.loc.gov/lccn/sn87060004/1901-02-07/ed-1/seq-6.pdf |format=PDF |newspaper=The Bee |location=[[Earlington, Kentucky]] |date=7 February 1901 |page=6 |accessdate=14 February 2013
+  | ref = {{sfnRef|''The Bee'' 7 February 1901}}
+  }}
+* {{cite news |title=Movements of Naval Vessels |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1901-03-23/ed-1/seq-2.pdf |format=PDF |newspaper=[[The Washington Star|Evening Star]] |location=Washington, D.C. |date=23 March 1901 |page=2 |accessdate=7 January 2013
+  | ref = {{sfnRef|''Evening Star'' 23 March 1901}}
+  }}
+* {{cite news |title=Washington Notes |url=http://chroniclingamerica.loc.gov/lccn/sn90059523/1901-10-15/ed-1/seq-1.pdf |format=PDF |newspaper=The Saint Paul Globe |date=15 October 1901 |page=1 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Saint Paul Globe'' 15 October 1901}}
+  }}
+* {{cite news |title=Flagship New York Sails for Cavite |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1901-10-29/ed-1/seq-3.pdf |format=PDF |newspaper=The San Francisco Call |date=29 October 1901 |page=3 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The San Francisco Call'' 29 October 1901}}
+  }}
+* {{cite news |title=Two Admirals in the East |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1901-06-03/ed-1/seq-1.pdf |format=PDF |newspaper=Evening Star |location=Washington, D.C. |date=3 June 1901 |page=1 |accessdate=2 January 2013
+  | ref = {{sfnRef|''Evening Star'' 3 June 1901}}
+  }}
+* {{cite news |title=Movements of Naval Vessels |url=http://chroniclingamerica.loc.gov/lccn/sn87062245/1902-07-24/ed-1/seq-7.pdf |format=PDF |newspaper=[[Washington Times-Herald|The Washington Times]] |date=24 July 1902 |page=7 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Washington Times'' 24 July 1902}}
+  }}
+* {{cite news |title=Admiral Kempff at Hong Kong |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1901-11-14/ed-1/seq-7.pdf |format=PDF |newspaper=Evening Star |location=Washington, D.C. |date=14 November 1901 |page=7 |accessdate=2 January 2013
+  | ref = {{sfnRef|''Evening Star'' 14 November 1901}}
+  }}
+* {{cite news |title=Movements of Naval Vessels |url=http://chroniclingamerica.loc.gov/lccn/sn87062245/1902-06-29/ed-1/seq-6.pdf |format=PDF |newspaper=The Washington Times |date=29 June 1902 |page=6 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Washington Times'' 29 June 1902}}
+  }}
+* {{cite news |title=Change in Flagships |url=http://chroniclingamerica.loc.gov/lccn/sn87062245/1902-04-13/ed-1/seq-7.pdf |format=PDF |newspaper=The Washington Times |date=13 April 1902 |page=7 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Washington Times'' 13 April 1902}}
+  }}
+* {{cite news |title=Armored Cruiser New York Arrives |url=http://chroniclingamerica.loc.gov/lccn/sn82016413/1902-11-08/ed-1/seq-1.pdf |format=PDF |newspaper=[[Honolulu Star-Bulletin|Evening Bulletin]] |location=[[Honolulu]] |date=8 November 1902 |page=1 |accessdate=2 January 2013
+  | ref = {{sfnRef|''Evening Bulletin'' 8 November 1902}}
+  }}
+* {{cite news |title=Kentucky Breaks Record of World |url=http://chroniclingamerica.loc.gov/lccn/sn86069117/1904-05-26/ed-1/seq-3.pdf |format=PDF |newspaper=Daily Public Ledger |location=[[Maysville, Kentucky]] |date=26 May 1904 |page=3 |accessdate=2 January 2013
+  | ref = {{sfnRef|''Daily Public Ledger'' 26 May 1904}}
+  }}
+* {{cite news |title=Safety Device for Naval Gunners |url=http://chroniclingamerica.loc.gov/lccn/sn86090383/1904-10-26/ed-1/seq-5.pdf |format=PDF |newspaper=[[Palestine Herald-Press|Palestine Daily Herald]] |location=[[Palestine, Texas]] |date=26 October 1904 |page=5 |accessdate=14 February 2013
+  | ref = {{sfnRef|''Palestine Daily Herald'' 26 October 1904}}
+  }}
+* {{cite news |title=Go to Meet the Prince |url=http://chroniclingamerica.loc.gov/lccn/sn83045396/1905-10-31/ed-1/seq-10.pdf |format=PDF |newspaper=[[The Salt Lake Tribune]] |date=31 October 1905 |page=10 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Salt Lake Tribune'' 31 October 1905}}
+  }}
+* {{cite news |title=Army and Navy Get Ready |url=http://chroniclingamerica.loc.gov/lccn/sn83030272/1906-09-26/ed-1/seq-5.pdf |format=PDF |newspaper=[[The Sun (New York)|The Sun]] |location=[[New York City]] |date=26 September 1906 |page=5 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Sun'' 26 September 1906}}
+  }}
+* {{cite news |title=Warships Leave Havana |url=http://chroniclingamerica.loc.gov/lccn/sn86063381/1906-10-09/ed-1/seq-4.pdf |format=PDF |newspaper=The Bemidji Daily Pioneer |date=9 October 1906 |page=4 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Bemidji Daily Pioneer'' 9 October 1906}}
+  }}
+* {{cite news |title=Movements of Naval Vessels |url=http://chroniclingamerica.loc.gov/lccn/sn83030272/1916-06-06/ed-1/seq-13.pdf |format=PDF |newspaper=The Sun |location=New York City |date=6 June 1916 |page=13 |accessdate=8 January 2013
+  | ref = {{sfnRef|''The Sun'' 6 June 1916}}
+  }}
+* {{cite news |title=Many States Send Naval Militiamen for Practise&lt;!--sic--&gt; Cruise on Battleships |url=http://chroniclingamerica.loc.gov/lccn/sn85058396/1916-07-25/ed-1/seq-9.pdf |format=PDF |newspaper=[[The Ogden Standard]] |date=25 July 1916 |page=9 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Ogden Standard'' 25 July 1916}}
+  }}
+* {{cite news |title=Civilians Off on Navy Practice Cruise |url=http://chroniclingamerica.loc.gov/lccn/sn85058396/1916-08-19/ed-1/seq-3.pdf |format=PDF |newspaper=The Ogden Standard |date=19 August 1916 |page=3 |accessdate=2 January 2013
+  | ref = {{sfnRef|''The Ogden Standard'' 19 August 1916}}
+  }}
+* {{cite news |title=Naval Training Cruise |url=http://chroniclingamerica.loc.gov/lccn/sn86069180/1916-09-02/ed-1/seq-4.pdf |format=PDF |newspaper=[[Kentucky Irish American]] |date=2 September 1916 |page=4 |accessdate=2 January 2013
+  | ref = {{sfnRef|''Kentucky Irish American'' 2 September 1916}}
+  }}
+* {{cite news |title=Movements of Naval Vessels |url=http://chroniclingamerica.loc.gov/lccn/sn83030431/1917-01-03/ed-1/seq-12.pdf |format=PDF |newspaper=The Sun |location=New York City |date=3 January 1917 |page=12 |accessdate=9 January 2013
+  | ref = {{sfnRef|''The Sun'' 3 January 1917}}
+  }}
+* {{cite news |title=Scrapped American Battleship to Sink With Honors of War |url=http://chroniclingamerica.loc.gov/lccn/sn83030214/1922-01-15/ed-1/seq-12.pdf |format=PDF |newspaper=[[New York Tribune]] |date=15 January 1922 |page=12 |accessdate=2 January 2013
+  | ref = {{sfnRef|''New York Tribune'' 15 January 1922}}
+  }}
+
+'''Journals'''
+* {{cite journal
+  | last        = Bogart
+  | first       = Charles H.
+  | date        = March 2010
+  | title       = USS Kentucky (BB 6) at Vera Cruz, Mexico 1915–1916
+  | journal     = Universal Ship Cancellation Society Log
+  | pages       = 14–16
+  | publisher   = [[Universal Ship Cancellation Society]]
+  | format      = PDF
+  | accessdate  = 1 January 2013
+  | url         = http://stamps.org/userfiles/file/articles_distinction/USCS_2010.pdf
+  | ref         = harv
+}}
+
+'''Online resources'''
+* {{cite DANFS
+  | title       = Kentucky
+  | url         = http://www.history.navy.mil/danfs/k3/kentucky.htm
+  | accessdate  = 1 October 2011
+  | ref = {{sfnRef|DANFS Kentucky (BB-6)}}
+  }}
+* {{cite web
+  | title = USS Kentucky (BB&amp;nbsp;6)
+  | url = {{NVR url|id=BB6}}
+  | work = [[Naval Vessel Register]]
+  | publisher = [[United States Navy]]
+  | accessdate = 6 January 2013
+  | ref = {{sfnRef|NVR Kentucky (BB 6)}}
+  }}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book
+  | last        = Alden
+  | first       = John D.
+  | year        = 1989
+  | title       = American Steel Navy: A Photographic History of the U.S. Navy from the Introduction of the Steel Hull in 1883 to the Cruise of the Great White Fleet
+  | location    = Annapolis, Maryland
+  | publisher   = Naval Institute Press
+  | isbn        = 0-87021-248-6
+  }}
+{{refend}}
+
+== External links ==
+
+{{Commons category|USS Kentucky (BB-6)}}
+* [http://www.maritimequest.com/warship_directory/us_navy_pages/uss_kentucky_bb6.htm Maritimequest USS Kentucky BB-6 Photo Gallery]
+* {{navsource|01/06a|Kentucky}}
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-k/bb6.htm Naval Historical Center USS Kentucky (Battleship # 6, BB-6), 1900–1924, Selected Views]
+
+{{Kearsarge class battleship}}
+
+{{DEFAULTSORT:Kentucky (BB-06)}}
+[[Category:Kearsarge-class battleships]]
+[[Category:1898 ships]]
+[[Category:World War I battleships of the United States]]
+[[Category:United States Navy Kentucky-related ships]]
+[[Category:Ships built in Newport News, Virginia]]</text>
+      <sha1>8ede3euj27ah2l155qiepbssdgwf43h</sha1>
+    </revision>
+  </page>
+</mediawiki>

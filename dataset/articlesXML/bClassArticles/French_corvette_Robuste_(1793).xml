@@ -1,0 +1,221 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French corvette Robuste (1793)</title>
+    <ns>0</ns>
+    <id>42844348</id>
+    <revision>
+      <id>746543950</id>
+      <parentid>699656251</parentid>
+      <timestamp>2016-10-28T02:06:15Z</timestamp>
+      <contributor>
+        <username>Acad Ronin</username>
+        <id>70274</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10203">{{other ships|HMS Scourge|French ship Robuste}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+| Ship country=France
+| Ship flag=[[Image:Naval Ensign of the Kingdom of France.svg|45px|border|French Navy Ensign]] [[Image:Flag of French-Navy-Revolution.svg|border|45px|French Navy Ensign]]
+| Ship name = ''Robuste''
+| Ship namesake =
+| Ship owner = Private parties
+| Ship operator = 
+| Ship acquired = 
+| Ship builder = Nantes
+| Ship original cost =
+| Ship laid down =
+| Ship launched = 1789
+| Ship registered = 
+| Ship commissioned =
+| Ship decommissioned =
+| Ship in service =
+| Ship out of service =
+| Ship renamed =
+| Ship struck =
+| Ship reinstated =
+| Ship honours =
+| Ship honors =
+| Ship captured = 
+| Ship fate = Sold 1793
+| Ship status =
+| Ship notes =
+}}
+{{Infobox ship career
+| Hide header=title
+| Ship country=France
+| Ship flag=[[File:Civil and Naval Ensign of France.svg|45px|French Navy Ensign]]
+| Ship name = ''Robuste''
+| Ship namesake =
+| Ship owner = [[French Navy]]
+| Ship operator =
+| Ship acquired = December 1793
+| Ship builder = 
+| Ship original cost =
+| Ship laid down =
+| Ship launched = 
+| Ship registered = 
+| Ship commissioned = [[Rochefort, Charente-Maritime]]
+| Ship decommissioned =
+| Ship in service =
+| Ship out of service =
+| Ship renamed =
+| Ship struck =
+| Ship reinstated =
+| Ship honours =
+| Ship honors =
+| Ship captured = 1796
+| Ship fate = 
+| Ship status =
+| Ship notes =
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Scourge''
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=1796 by capture
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Sold 1802
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=title
+|Header caption=&lt;ref name=Winfield&gt;Winfield (2008), p.265-6.&lt;/ref&gt;
+|Ship class=
+|Ship type=Sloop
+|Ship tons burthen=372 {{small|{{frac|34|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship displacement=542 tons&lt;ref name=WR/&gt; (French)
+|Ship length=*{{convert|102|ft|9|in|m|1|abbr=on}} (overall)
+*{{convert|83|ft|5|in|m|1|abbr=on}} (keel)
+|Ship beam={{convert|28|ft|11+5/8|in|m|1|abbr=on}}
+|Ship draught=
+|Ship hold depth={{convert|12|ft|10+1/2|in|m|1|abbr=on}}
+|Ship sail plan=Sloop
+|Ship complement=*Originally:106&lt;ref name=WR/&gt;
+*At capture: 145
+*British service: 125
+
+|Ship armament=*Originally: 10 guns&lt;ref name=WR/&gt;
+*At capture:22 guns
+*British service: 18 x 6-pounder guns
+*Later: 18 x 24-pounder [[carronade]]s
+
+|Ship notes=
+}}
+|}
+
+The '''French corvette ''Robuste''''' was a vessel built at Nantes as a slaver that made its first voyage in March 1789. The French navy purchased her in December 1793 and she served as a 22-gun corvette in the Channel. The British captured her in 1796 and took her into the [[Royal Navy]] as HMS ''Scourge''. She captured a number of French privateers, primarily in the West Indies, before the navy sold her in 1802.
+
+==French service and capture==
+On 30 May 1795 ''Robuste'' was under the command of ''lieutenant de vaisseau'' Gautreau. She was operating between [[Lorient]] and Mindin. She had been escorting convoys between Verdon and the mouth of the Loire, and then returning to Lorient.&lt;ref&gt;''Fonds Marine'', Series BB, Vol. 1 (1790-1804), p.160.&lt;/ref&gt; Then between 11 May 1795 and 7 July, while under the command of ''lieutenant de vaisseau'' Arnous, she was escorting a convoy from Lorient to the Raz de Sein.
+
+On 16 April 1796, while in the Bay of [[Audierne]], she encountered [[French frigate Pomone (1787)|HMS ''Pomone'']].&lt;ref&gt;''Fonds Marine'', Series BB, Vol. 1 (1790-1804), p.168.&lt;/ref&gt; ''Pomone'' captured ''Robuste'', of 22 guns and 145 men,&lt;ref name=LG13887/&gt; off [[Penmarch Point]].&lt;ref name=WR&gt;Winfield and Roberts (2015), p. 213.&lt;/ref&gt; ''Robuste'' was sailing from [[Brest, France|Brest]] to [[L'Orient]].&lt;ref name=LG13887&gt;{{London Gazette|issue=13887|startpage=389|date=26 April 1796}}&lt;/ref&gt; The Royal Navy took her into service as ''Scourge''. Prize money for ''Robuste'' was paid in December 1796.&lt;ref&gt;{{London Gazette|date=17 December 1796|issue=13962|startpage=1218}}&lt;/ref&gt;
+
+==Royal Navy career==
+The Royal Navy commissioned ''Scourge'' in August 1796 under Commander Henry Richard Glynn.&lt;ref name=Winfield/&gt;
+
+On 12 February 1797 {{HMS|Phoenix|1782|2}} was in company with {{HMS|Triton|1796|2}} and ''Scourge'' off the Irish coast. Together they captured the French privateer ''Difficile''. She was armed with 18 guns and had a crew of 206 men. She was three days out of [[Brest, France|Brest]]; ''Phoenix'' put a prize crew aboard and sent her into Portsmouth.&lt;ref&gt;{{London Gazette|issue=13981|startpage=173|date=18 February 1797}}&lt;/ref&gt; The same three ships also captured the ''Jeune Emilie'' and the ''Recovery'', though they shared the capture of the ''Recovery'' with [[French frigate Gracieuse (1787)|HMS ''Unite'']], and {{HMS|Stag|1794|6}}.&lt;ref&gt;{{London Gazette|startpage=144|issue=14091|date=13 February 1798}}&lt;/ref&gt;
+
+''Scourge{{'}}''s next capture occurred a few days later, on 21 February. ''Scourge'' chased a French privateer for three hours before catching up with her five or six [[League (unit)|leagues]] off the coast. The privateer was the ''Furet'', pierced for 14 guns. She had 10 mounted; the other four were in her hold. She also had a crew of 50 men, as well as 22 English prisoners, seven of whom were wounded. Under the command of Benoish Giron she was 20 days out of Lorient. Glynn described ''Furet'' as being coppered and a fast sailer.&lt;ref&gt;{{London Gazette|startpage=181|issue=13982|date=21 February 1797}}&lt;/ref&gt;
+
+Commander Samuel Warren replaced Glynn and sailed ''Scourge'' to the [[Leeward Islands]] on 7 June.&lt;ref name=Winfield/&gt;
+
+On 28 September ''Scourge'' captured the French privateer schooner ''Sarazine'' off [[Marie-Galante]].  ''Sarazine'', of Guadaloupe, was armed with six guns and had a crew of 58 men; Warren sent them into Port Royal, Martinique. ''Sarazine'' had been out 10 days but had not captured anything.&lt;ref&gt;{{London Gazette|startpage=1192|issue=14073|date=12 December 1797}}&lt;/ref&gt;
+
+Next, ''Scourge'' detained on 4 December the schooner ''Amazon'', of 90 tons (bm), which had been sailing with provisions from Baltimore to Surinam. The capture took place too windward of Dominique and ''Scourge'' sent ''Amazon'' into Saint Pierre, Martinique. ''Amazon'' had been a prize to the French privateer ''Hannibal''.&lt;ref name=LG15035&gt;{{London Gazette|startpage=572|endpage=573|issue=15035|date=23 June 1798}}&lt;/ref&gt;
+
+On 23 January 1798, ''Scourge'' captured the ''Neustra Segniora de la Providentia''; the vessel and cargo were condemned at Tortola.&lt;ref&gt;{{London Gazette|startpage=1037|issue=15292|date=9 September 1800}}&lt;/ref&gt; Two weeks later, on 8 February, ''Scourge'' and Roebuck captured the schooner ''Betsey'', which too was condemned at Tortola.&lt;ref&gt;{{London Gazette|startpage=1146|issue=15299|date=4 October 1800}}&lt;/ref&gt;
+
+''Scourge'' and [[French frigate Aimable (1796)|''Aimable'']] captured the French privateer ''Triomphe'' (''Triumph'') on 6 April. Two days later they captured the French privateer ''Chasseur''. Both captures took place off [[Puerto Rico|Porto Rico]]. ''Triomphe'' was a brig of 14 guns and 88 men; ''Chasseur'' was a schooner of two guns and 18 men.&lt;ref name=LG15035/&gt;
+
+On 1 May ''Scourge'' chased a French 14-gun privateer brig on shore at St. Martin's. The privateer's crew escaped after setting fire to the brig, which blew up before boats from ''Scourge'' could reach it.&lt;ref&gt;{{London Gazette|startpage=296|issue=15005|date=7 April 1798}}&lt;/ref&gt;
+
+On 20 January 1799, ''Scourge'' captured a Spanish brig from Cadiz bound to [[La Guaira|La Guira]] with a cargo of wine, brandy, and merchandise. ''Scourge'' brought the prize she brought into Trinidad.&lt;ref&gt;{{London Gazette|startpage=1084|issue=15295|date=20 September 1800}}&lt;/ref&gt;
+
+In early to mid-July July 1800 '' Scourge'', which had been out in the West Indies since 13 April 1997, returned to Great Britain as part of the escort of the about 91 sail of the West India fleet. On 20 August, she passed up the Bristol Channel with 11 vessels out of a convoy of 41 vessels that {{HMS|Invincible|1765|2}} was taking to the Thames, the rest of the vessels being destined for Liverpool and Glasgow.&lt;ref&gt;''Naval Chronicle'', Vol. 4, p.248.&lt;/ref&gt; ''Scourge'' arrived at Portsmouth two days later.&lt;ref&gt;''Naval Chronicle'', Vol. 4, p.246.&lt;/ref&gt;
+
+On 14 September ''Scourge'' was paid off, and her crew turned over to {{HMS|Ganges|1782|2}}.&lt;ref&gt;''Naval Chronicle'', Vol. 4, p.253.&lt;/ref&gt;
+
+==Fate==
+The Commissioners of the Navy offered ''Scourge'' for sale at Portsmouth on 11 August 1802.&lt;ref&gt;{{London Gazette|startpage=795|issue=15501|date=27 July 1802}}&lt;/ref&gt; She sold that month.&lt;ref name=Winfield/&gt;
+
+==Citations, and references==
+;Citations
+{{reflist|colwidth=30em}}
+;References
+* {{cite web |url=http://www.servicehistorique.sga.defense.gouv.fr/contenu/module-dc/functions/dc/attached/FRSHD_PUB_00000226_dc/FRSHD_PUB_00000226_dc_att-FRSHD_PUB_00000226_01.pdf |title=Fonds Marine. Campagnes (opérations ; divisions et stations navales ; missions diverses). Inventaire de la sous-série Marine BB4. Tome premier : BB4 1 à 482 (1790-1826) |last1= |first1= |last2= |first2= |date= |website=http://www.servicehistorique.sga.defense.gouv.fr|publisher=Service historique du Ministère de la Défense|accessdate=6 May 2013}}
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1861762461}}
+*Winfield, Rif &amp; Stephen S Roberts (2015) ''French Warships in the Age of Sail 1786 - 1861: Design Construction, Careers and Fates''. (Seaforth Publishing). ISBN 9781848322042
+
+{{DEFAULTSORT:Robuste (1793), French corvette}}
+[[Category:1789 ships]]
+[[Category:Ships built in France]]
+[[Category:Sloops of the Royal Navy]]
+[[Category:Captured ships]]
+[[Category:Slave ships]]</text>
+      <sha1>l3r10uzy920q5p34h7gz12kc4yf623o</sha1>
+    </revision>
+  </page>
+</mediawiki>

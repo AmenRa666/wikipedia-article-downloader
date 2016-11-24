@@ -1,0 +1,220 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Loran-C</title>
+    <ns>1</ns>
+    <id>1292061</id>
+    <revision>
+      <id>739111199</id>
+      <parentid>707196346</parentid>
+      <timestamp>2016-09-12T20:53:02Z</timestamp>
+      <contributor>
+        <username>InternetArchiveBot</username>
+        <id>27015025</id>
+      </contributor>
+      <comment>Notification of altered sources needing review #IABot (v1.2.2)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22161">{{WPAVIATION|class=start|Aircraft-project=yes}}
+{{WPMILHIST|class=start
+&lt;!-- B-Class 5-criteria checklist --&gt;
+&lt;!-- B-Class-1. It is suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B1=no
+&lt;!-- B-Class-2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;
+|B2=yes
+&lt;!-- B-Class-3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B3=yes
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt;
+|B4=yes
+&lt;!-- B-Class-5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B5=yes
+|Technology=yes
+}}
+==Apologies==
+
+I would like to make initial apologies to the original contributor of the article. I found the information in there arcane and at an unaccessible level for a general encyclopedia. I also found some bits that seemed inaccurate (for example, the original claimed that equal TD occurs along the BLL -- actually, it occurs along a line perpendicular to the BLL intersecting at the midpoint between stations).
+
+I'd also like to make apologies for the diagram I uploaded. It is extremely crude and inaccurate (basically, the curves are not hyperbolas as they should be), but IMO it does get the point across. 
+
+I went looking for images of a LORAN station and the used images from the first website I could find -- Malone Station.
+
+Lastly, I know that the article could have much more added to it: more info on receivers, notes about &quot;correction factors&quot;, a note about multi-tasking stations (i.e. stations which serve as secondary and/or master and/or both in more than one chain, aka &quot;dual-rated&quot;), the longevity of LORAN-C in a world gone almost completely over to GPS, current LORAN-C advocacy, eLORAN and digital LORAN, more detail on LORAN-A, history of LORAN rooted in WWII.... come to mind.
+
+-- [[User:KeithTyler|[[User:KeithTyler|Keith D. Tyler]] Apologie''&lt;small&gt;&lt;nowiki&gt;[&lt;/nowiki&gt;[[User_talk:KeithTyler|flame]]&lt;nowiki&gt;]&lt;/nowiki&gt;&lt;/small&gt;'']] 00:46, Dec 18, 2004 (UTC)
+
+== Acronym ==
+The LORAN acronym is actually LOng Range Aids to Navigation. &lt;small&gt;—This [[Wikipedia:Sign your posts on talk pages|unsigned]] comment was added by [[User:147.240.236.9|147.240.236.9]] ([[User talk:147.240.236.9|talk]] • [[Special:Contributions/147.240.236.9|contribs]]) {{{2|}}}.&lt;/small&gt;&lt;!-- [Template:Unsigned] --&gt;
+
+According to the US Coast Guard's 1992 LORAN Handbook, Chapter 1, &quot;LORAN is an acronym for long-range navigation.&quot;[http://www.navcen.uscg.gov/loran/handbook/h-book.htm]. (PD-US-GOV) I would assume, since they are the operator of LORAN in the USA, they would know what it is called. --[[User:Dual Freq|Dual Freq]] 23:57, 16 March 2006 (UTC)
+
+It seems that the Omega_Navigation_System link does not reference the correct article -- Robert Manning
+
+Apparently the name was changed by 1992, or more likely the copy editor for the 1992 edition got it wrong. I was a LORAN transmitter tech between 1974 and 1977 and it was indeed called Long Range Aid to Navigation in those days. I'll try to find a reference for that.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/24.158.57.253|24.158.57.253]] ([[User talk:24.158.57.253|talk]]) 22:17, 1 November 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+Amongst the Stornoway fishing fleet in the 1970s the LoRAN acronym was indeed &quot;Long Range Aid to Navigation&quot;. This can be referenced by the appearance of the acronym in the 1955 Chambers's Etymological English Dictionary (New Edition) where it is included as &quot;long-range aid to navigation&quot;. This early reference is most likely the correct one and later descriptions, including the Oxford English Dictionary, are the propogation of a simple error. &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:89.241.139.11|89.241.139.11]] ([[User talk:89.241.139.11|talk]] • [[Special:Contributions/89.241.139.11|contribs]]) 20:31, March 11, 2011 &lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt;
+
+== Goniometer (Transmitters and antennas section) ==
+
+The link to Goniometer seems to refer to a completely different item to anything which could be connected with a loading coil which passes high power to an antenna. &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:213.2.202.178|213.2.202.178]] ([[User talk:213.2.202.178|talk]] • [[Special:Contributions/213.2.202.178|contribs]]) 13:47, 7 September 2006&lt;/small&gt;&lt;!-- Template:Unsigned2 --&gt;
+
+== Accuracy? ==
+
+Article should mention what amount of accuracy can be depended upon.  Can you plot your location within, say, 10 meters with a modern LORAN receiver?  [[User:Tempshill|Tempshill]] 18:12, 10 October 2006 (UTC)
+:That might refer to the test in Alaska, where WAAS type corrections were transmitted via LORAN and used as a backup for WAAS, at high latitudes.[http://waas.stanford.edu/~wwu/papers/gps/PDF/LoPLANS02.pdf] It doesn't look like it will be implemented, but it offers an interesting use for the system in an area where geosynchronous satellites are low on the horizon. That would mean that regular GPS would be less accurate than GPS + WAAS corrections sent via LORAN. Beyond that, I'm not sure I can help or provide a citation. --[[User:Dual Freq|Dual Freq]] 00:05, 11 October 2006 (UTC)
+:: I will go into a story here to help explain some contrasts with GPS for accuracy. based on some use with both a GPS and LORAN receiver right beside each other circa 1992 - Just before GPS SA (Selective Availability) was order turned off by President Clinton. I arrive; and an dead on top of my secret dependable fishing hole! Say I hit save on both receivers now. The number(latitude / longitude) of the GPS are probably more accurate! However, say I come back tomorrow and following days. The LORAN receiver will be more reliable bringing me back to the EXACT same spot. Where the GPS receiver take me will vary day to day ! - not an excessive amount, but some. The GPS satellites need/require daily or more frequent updates from their ground controlling stations. Or the Satellites/GPS might be be told to position me off so far if my receiver is not Military grade and properly keyed/cleared. Now to plot the position in the receiver to a map - or share, on better days GPS is the more accurate lat/long. [[User:Wfoj2|Wfoj2]] ([[User talk:Wfoj2|talk]]) 00:04, 14 May 2012 (UTC)
+
+==Height of LORAN-C towers==
+Please find out the height of antenna towers used for [[LORAN-C]] transmission. If they are taller than 300 metres respectively 350 metres, than add them please to [[List of masts]] and [[List of world's tallest structures]]. In both tables, there are already entrances for the station of [[LORAN-C transmitter Port Clarence|Port Clarence]] at Alaska and the former LORAN-C transmitter [[Longwave radio mast Hellissandur|Hellissandur]] on Iceland. &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:89.49.85.15|89.49.85.15]] ([[User talk:89.49.85.15|talk]] • [[Special:Contributions/89.49.85.15|contribs]]) 15:45, 16 November 2006&lt;/small&gt;&lt;!-- Template:Unsigned2 --&gt;
+
+411.48&amp;nbsp;m is a spurious value to use for a mast height in this article! I mean - it's specified to the nearest centimetre, but you could expect fluctuations in the ambient temperature to change the mast height by something like tens of centimetres over that distance! Indeed, when you look hard at it, you realise that someone just converted 1350ft to metric and used the value straight out of their pocket calculator without thinking! But even the 1350ft value would have been approximate. Assuming a 0.95 velocity factor, then a 1/8&amp;lambda; vertical (which I assume is what these things were) would come out as about 396&amp;nbsp;m for 90&amp;nbsp;kHz and 324&amp;nbsp;m for 110&amp;nbsp;kHz. I would contend that the masts for LORAN-C would be anywhere in that range of heights - IF (and it's a big 'if') the 1/8 wavelength is of any importance at all. Has anyone actually ever measured one of these things?? [[User:Steve Hosgood|Steve Hosgood]] ([[User talk:Steve Hosgood|talk]]) 13:45, 2 August 2011 (UTC)
+
+==Backup antennas==
+Is it possible to use backup antennas, while doing maintenance on the main antenna, without enlarging the error of position? Is it possible to tell the receiver that a backup antenna at another location is being used? &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:89.49.218.196|89.49.218.196]] ([[User talk:89.49.218.196|talk]] • [[Special:Contributions/89.49.218.196|contribs]]) 13:16, 29 November 2006&lt;/small&gt;&lt;!-- Template:Unsigned2 --&gt;
+
+: No backup transmitting antennas were not used. Each LORAN station was allowed once a year off-air in order to perform any required maintenance. Each station and stations within the chain strived for 100% on-air time. If an issue arose with the tower, then an emergency off-air could be granted only for the time required to make repairs. Each transmitting station had a standby transmitter-amplifier group along with emergency power backup.  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Cassiniprobe|Cassiniprobe]] ([[User talk:Cassiniprobe|talk]] • [[Special:Contributions/Cassiniprobe|contribs]]) 23:01, 6 October 2010 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Dissertation &quot;New Potential of Low-Frequency Radionavigation in the 21st Century&quot;==
+
+I have recently defended my Ph.D. dissertation &quot;New Potential of Low-Frequency Radionavigation in the 21st Century&quot;. This dissertation gives an in depth discussion of the potential usage of enhanced Loran, or &quot;eLoran&quot;, as a backup for GNSS position and time. Among other thins, the dissertation contains detailed analysis of various measurement campaigns (chapter 6), thereby providing insight in the capabilities of modern low-frequency radionavigation. 
+The dissertation is available online at [http://www.pelgrum.org/radionavigation my website]
+Wouter Pelgrum [[User:130.161.82.199|130.161.82.199]] 17:29, 16 December 2006 (UTC)
+
+== Hyperbolic navigation ==
+
+[[Hyperbolic navigation]] (LORAN, OMEGA, ...)--[[User:84.137.35.212|84.137.35.212]] 14:05, 18 February 2007 (UTC)
+
+== eLoran content to incorporate ==
+
+Began improvements to the eLORAN section. There is quite a bit that could be added here:
+* I know that there is a good article somewhere showing the failure modes of LORAN and GNSS, and shows how one in strong where the other is weak.
+* The FCC was accepting comments on LORAN, and there was a huge list of comments, many well-written from major cooperations. They can be cited for PROS and CONS.
+* The eLORAN signal seems to be approaching standardization. Details of how the new signals improve or change LORAN would be good to track down.
+* US policy / implementation would be a good compliment to the UK implementation.
+Thanks! -- [[User:Davandron|Davandron]] | [[User talk:Davandron|Talk]] 15:36, 15 August 2007 (UTC)
+:It looks like dual GPS/eLORAN recievers are being developed http://www.roke.co.uk/sensing/milor.html [[Special:Contributions/86.168.232.112|86.168.232.112]] ([[User talk:86.168.232.112|talk]]) 09:14, 27 December 2010 (UTC)
+
+== Loran guided bombs? ==
+
+[[:Image:Droping Loran Bombs.jpg]] is captioned &quot;Three Fighter Squadron 161 (VF-161) F-4N Phantom II aircraft from the attack aircraft carrier USS Midway (CVA-41) and three Attack Squadron 86 (VA-86) A-7C Corsair II aircraft from the attack aircraft carrier USS America (CVA-66) drop Loran-guided bombs during a strike mission in March 1973.&quot; Maybe someone could expand on that in the article. I'll see what I can do as well. There is a note about tactical Loran-D, for bombers is this the same thing? Were the bombs actually guided by loran or were the aircraft guided to a point by loran then they released unguided bombs similar to [[Ground Directed Bombing]]? --[[User:Dual Freq|Dual Freq]] ([[User talk:Dual Freq|talk]]) 01:54, 28 November 2007 (UTC)
+
+:Good find! So, are you thinking this would be an application, or an expansion of a new LORAN-D section? - [[User:Davandron|Davandron]] | [[User talk:Davandron|Talk]] 14:50, 28 November 2007 (UTC)
+
+== WikiProject Military history/Assessment/Tag &amp; Assess 2008 ==
+Article reassessed and graded as start class.  [[Wikipedia:WikiProject Military history/Style guide#Sources|Referencing]] and [[Wikipedia:WikiProject Military history/Style guide#Citations|appropriate inline citation]] guidelines not met.   With appropriate citations and references, this article would easily qualify as B class if not higher.   --[[User:Dashiellx|dashiellx]] ([[User talk:Dashiellx|talk]]) 18:25, 12 June 2008 (UTC)
+
+==Differences, RE; GEE==
+
+I assume that the longer range of LORAN compared to [[GEE (navigation)|GEE]] was due to the use of longer wavelength signals?
+
+BTW, one of the original GEE scientists from the [[Telecommunications Research Establishment]] (TRE) was sent over to work on what became LORAN, [[R. J. Dippy]].  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/213.40.254.27|213.40.254.27]] ([[User talk:213.40.254.27|talk]]) 14:25, 2 October 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Removed SRD Labs paragraph==
+It seems to me that the paragraph which singled-out SRD Labs LORAN-A receivers was a pat-on-the-back for the manufacturer, not consistent with the dispassionate view of an encyclopedia.  Beyond this, I take exception to the factual basis for the statements in the removed paragraph.  I speak as an engineer who helped develop the Digital Marine Electronics Corp. automatic LORAN-A receiver, the Northstar 2000, which was in commerce by the very early 1970s.
+[[User:Shelnh|Shelnh]] ([[User talk:Shelnh|talk]]) 05:23, 14 January 2010 (UTC)
+: I don't think you did the right thing - you could have added some information about the Northstar 2000 and modify the style to be more neutral. [[User:Sv1xv|Sv1xv]] ([[User talk:Sv1xv|talk]]) 10:47, 14 January 2010 (UTC)
+:: Since the subject matter of the article is LORAN, I did not see that information about a receiver manufacturer was appropriate.  If SRD is included, then all receiver manufacturers should logically be included also.  I am not in a position to identify all receiver manuacturers and all their products, which is why I do not feel it appropriate to add info on the Northstar 2000.  If a new article on LORAN receivers were started, that would be a _great_ place for SRD to place its information.  [[User:Shelnh|Shelnh]] ([[User talk:Shelnh|talk]]) 13:34, 16 January 2010 (UTC)
+
+== Bias ==
+The final paragraph of the &quot;Future of LORAN&quot; section is clearly making a pro-LORAN argument. It uses inline citations, but they are to opinion articles and similar subjective sources. An encyclopedia entry should summarize controversies, not engage in them.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/76.23.157.102|76.23.157.102]] ([[User talk:76.23.157.102|talk]]) 08:40, 18 January 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== New Canadian LORAN announcement ==
+
+A new Notice to Mariners appeared on January 20th, 2010 which reads;
+&quot;The Loran-C systems in Canada and U.S. work in tandem. Once the U.S. service is discontinued, the Canadian system will not be operational. Consequently, Canada will also decommission its Loran-C system in 2010. The official date for termination in Canada has not been set at this time, although it is expected to take place on or before October 1, 2010.&quot;
+A full Government of Canada statement can be read at this link:
+http://www.notmar.gc.ca/go.php?doc=eng/services/notmar/Loran-C-eng
+[[User:Radcomtech|Radcomtech]] ([[User talk:Radcomtech|talk]]) 21:37, 28 January 2010 (UTC)
+
+== Tenses ==
+
+The start of the article has been rewritten into the past tense. I presume this was done because America has decided to discontinue use of LORAN. Later parts of the article imply that other parts of the world are still using LORAN. The 'Future of LORAN' section says that there is a contract to run eLORAN in the UK until 2022. If this is the case - that LORAN is still in full use elsewhere in the world - then the use of the past tense is entirely incorrect (Wikipedia is not an American encyclopaedia). In addition, it would be useful to have a section which shows where in the world it is actually being used; there's a list of transmitters, but many are marked as having been demolished, and so it doesn't give a particularly good view of the current state of things. --[[Special:Contributions/82.70.156.254|82.70.156.254]] ([[User talk:82.70.156.254|talk]]) 12:28, 19 October 2010 (UTC)
+:Thanks for pointing this out.  The first part (tenses in the lead section) is easily fixed.  Done.  A better view of the current state of affairs awaits work by other editors. [[User:Hertz1888|Hertz1888]] ([[User talk:Hertz1888|talk]]) 13:29, 19 October 2010 (UTC)
+:I think it still needs more work. I think it needs to directly in first paragraph emphasize that the system is discontinued in the USA. The table listing the LORAN-C transmitters needs work- for all chains / transmitter shut down based on US dis-continuation should state this. Somewhere someone should perhaps add some history- Where was first LORAN like chain established? (wild guess- Great Britain). For the chains still operating - are they wholly funded and operated by the nation where the transmitters are located? [[User:Wfoj2|Wfoj2]] ([[User talk:Wfoj2|talk]]) 23:52, 13 May 2012 (UTC)
+
+== How does the signal sound? ==
+A sound of the signal in an AM receiver capable of receiving its frequency
+{{Reqaudio}}
+
+== Which LORAN-C transmitterts are currently active? ==
+
+In the list of LORAN-C transmitters, it is not obvious which if any are still operating. The article states that the ones in the US were discontinued in 2010, for instance. -- [[User:Egil|Egil]] ([[User talk:Egil|talk]]) 16:16, 26 December 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Loran-C]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=707196337 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive http://web.archive.org/web/20090805064903/http://www.jproc.ca:80/hyperbolic/loran_a.html to http://www.jproc.ca/hyperbolic/LORAN_a.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 11:33, 27 February 2016 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just modified {{plural:8|one external link|8 external links}} on [[Loran-C]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=739111194 my edit]. If you have any questions, or need the bot to ignore the links, or the page altogether, please visit [[User:Cyberpower678/FaQs#InternetArchiveBot|this simple FaQ]] for additional information. I made the following changes:
+*Added archive https://web.archive.org/web/20091212021228/http://www.gpsworld.com:80/gnss-system/loran-letter-secretary-napolitano-9124 to http://www.gpsworld.com/gnss-system/LORAN-letter-secretary-napolitano-9124
+*Added archive https://web.archive.org/web/20091201173931/http://www.nga.mil:80/portal/site/maritime/?epi_menuItemID=c56aa099e2bff9525b2a7fbd3227a759&amp;epi_menuID=35ad5b8aabcefa1a0fc133443927a759&amp;epi_baseMenuID=e106a3b5e50edce1fec24fd73927a759 to http://www.nga.mil/portal/site/maritime/?epi_menuItemID=c56aa099e2bff9525b2a7fbd3227a759&amp;epi_menuID=35ad5b8aabcefa1a0fc133443927a759&amp;epi_baseMenuID=e106a3b5e50edce1fec24fd73927a759
+*Added archive https://web.archive.org/web/20110210111415/https://www.ports.gov.sa:80/section/full_story.cfm?aid=307 to http://www.ports.gov.sa/section/full_story.cfm?aid=307
+*Added archive https://web.archive.org/web/20110319051314/https://www.trinityhouse.co.uk:80/media_centre/press_releases/2007/enhancing_safety_protection_marine_environment_glas_award_15-year_eloran_contract_vt_communications.html to http://www.trinityhouse.co.uk/media_centre/press_releases/2007/enhancing_safety_protection_marine_environment_glas_award_15-year_eloran_contract_vt_communications.html
+*Added archive https://web.archive.org/web/20160304112222/https://www.trinityhouse.co.uk/mariner_info/notice_to_mariners/e/01122015.html to http://www.trinityhouse.co.uk/mariner_info/notice_to_mariners/e/01122015.html
+*Added {{tlx|dead link}} tag to http://www.loran-europe.eu/
+*Added archive https://web.archive.org/web/20151026043227/http://www.loran.org/Library/2004ICNS2.pdf to http://www.loran.org/library/2004ICNS2.pdf
+*Added archive https://web.archive.org/web/20120216164659/http://teconcept.de/geo/Stationen.htm to http://teconcept.de/geo/Stationen.htm
+*Added archive https://web.archive.org/web/20081218141403/http://www.cil.ie:80/sh620y.html to http://www.cil.ie/sh620y.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' or '''failed''' to let others know (documentation at {{tlx|Sourcecheck}}).
+
+{{sourcecheck|checked=false}}
+
+Cheers.—[[User:InternetArchiveBot|'''&lt;span style=&quot;color:darkgrey;font-family:monospace&quot;&gt;InternetArchiveBot&lt;/span&gt;''']] &lt;span style=&quot;color:green;font-family:Rockwell&quot;&gt;([[User talk:InternetArchiveBot|Report bug]])&lt;/span&gt; 20:53, 12 September 2016 (UTC)</text>
+      <sha1>mt152yzdejzco1ukvc2soa71omvzl7h</sha1>
+    </revision>
+  </page>
+</mediawiki>

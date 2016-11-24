@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Warren G. Harding</title>
+    <ns>1</ns>
+    <id>415116</id>
+    <revision>
+      <id>726564749</id>
+      <parentid>710655206</parentid>
+      <timestamp>2016-06-23T00:06:30Z</timestamp>
+      <contributor>
+        <username>Wehwalt</username>
+        <id>458237</id>
+      </contributor>
+      <comment>/* Mellon's tax cuts */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1975">{{Talk header|search=yes}}
+{{Article history
+|action1=PR
+|action1date=16:55, 1 August 2015 (UTC)
+|action1link=Wikipedia:Peer review/Warren G. Harding/archive1
+|action1result=reviewed
+|action1oldid=674027477
+
+|action2=FAC
+|action2date=01:33, 20 August 2015 (UTC)
+|action2link=Wikipedia:Featured article candidates/Warren G. Harding/archive1
+|action2result=promoted
+|action2oldid=676802083
+
+|currentstatus=FA
+|topic=history
+
+|otd1date=2011-08-02
+|otd1oldid=442600512
+|otd2date=2013-08-02
+|otd2oldid=566808782
+}}
+{{WikiProject banner shell|collapsed=yes|1=
+{{WikiProject Biography|living=n|class=FA|listas=Harding, Warren G.|military-work-group=y|military-priority=Low|politician-work-group=y|politician-priority=High}}
+{{WikiProject Conservatism|class=FA|importance=Low}}
+{{WikiProject Journalism|class=FA|importance=Low}}
+{{WikiProject Military history|class=FA|Biography=y|US=y|WWI=y}}
+{{WikiProject United States|class=FA|importance=High|USGov=y|USGov-importance=High|USPresidents=y|USPresidents-importance=High|USSL=y|USSL-importance=High|OH=y|OH-importance=High}}
+{{WikiProject U.S. Congress|class=FA|importance=|subject=person}}
+{{Wikipedia CD selection}}
+}}
+{{Auto archiving notice|bot=MiszaBot I|age=180|dounreplied=yes}}
+
+{{OhioSB}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav}}
+|maxarchivesize = 100K
+|counter = 3
+|minthreadsleft = 4
+|algo = old(120d)
+|archive = Talk:Warren G. Harding/Archive %(counter)d
+}}
+
+== Death date ==
+
+I really don't think we need to give his death date twice in the first sentence. Once is enough. [[User:Kendall-K1|Kendall-K1]] ([[User talk:Kendall-K1|talk]]) 18:06, 14 March 2016 (UTC)
+
+== Mellon's tax cuts ==
+
+The recent edits re the Mellon tax cuts seem to be to be rather laudatory.  I have some doubts a Keynesian would concur with the characterization of the tax cuts as jump starting the economy. I wonder if this is completely balanced?--[[User:Wehwalt|Wehwalt]] ([[User talk:Wehwalt|talk]]) 00:06, 23 June 2016 (UTC)</text>
+      <sha1>ew5q6iqzqvxp8pj6e6bw83cyuq34zks</sha1>
+    </revision>
+  </page>
+</mediawiki>

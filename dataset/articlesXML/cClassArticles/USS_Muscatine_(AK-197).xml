@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Muscatine (AK-197)</title>
+    <ns>0</ns>
+    <id>19208885</id>
+    <revision>
+      <id>750537573</id>
+      <parentid>716527735</parentid>
+      <timestamp>2016-11-20T10:38:02Z</timestamp>
+      <contributor>
+        <username>Pennsy22</username>
+        <id>5958044</id>
+      </contributor>
+      <comment>expanded ship info box, added inline cites, added refs</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8294">{{other ships|USS Muscatine}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=    
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag=   {{USN flag|1944}}
+|Ship name= ''Muscatine''
+|Ship namesake=  [[Muscatine County, Iowa]]
+|Ship owner=       
+|Ship operator=
+|Ship registry=   
+|Ship route=
+|Ship ordered=as type ([[Type C1 ship|C1-M-AV1]]) hull, [[Maritime Commission|MC]] hull 2151{{sfn|C1 Cargo Ships|2009}}
+|Ship awarded=     
+|Ship builder= Globe Shipbuilding Co., [[Superior, Wisconsin]]
+|Ship original cost=
+|Ship yard number= 118{{sfn|C1 Cargo Ships|2009}} 
+|Ship way number=
+|Ship laid down= 21 December 1943
+|Ship launched=  16 June 1944
+|Ship sponsor= Mrs. William Kennedy
+|Ship christened=                 
+|Ship completed=            
+|Ship acquired=  3 April 1945
+|Ship commissioned= 19 April 1945 
+|Ship recommissioned=              
+|Ship decommissioned= 7 March 1946
+|Ship maiden voyage=             
+|Ship in service=              
+|Ship out of service=             
+|Ship renamed=        
+|Ship reclassified=               
+|Ship refit= 
+|Ship struck= 20 March 1946
+|Ship reinstated=
+|Ship homeport=                    
+|Ship identification=*[[Hull classification symbol#Support type|Hull symbol]]: AK-197
+*[[International Code of Signals|Code letters]]: NEOM
+*{{ICS|November}}{{ICS|Echo}}{{ICS|Oscar}}{{ICS|Mike}}
+|Ship motto=
+|Ship nickname=
+|Ship honours=        
+|Ship honors=              
+|Ship captured=           
+|Ship fate= returned to the Maritime Commission, 12 March 1946  
+|Ship status= sold, 24 February 1947
+|Ship notes=           
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Norway
+|Ship flag= {{flagicon|Norway}}
+|Ship name=''Palma''
+|Ship namesake= 
+|Ship owner=       
+|Ship operator=J. Ludwig Moinckels Rederi
+|Ship acquired=24 February 1947
+|Ship in service= 
+|Ship out of service= 
+|Ship fate= 
+|Ship status= scrapped 1973
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption={{sfn|Navsource|2014}}
+|Ship class= {{sclass-|Alamosa|cargo ship}}          
+|Ship type=[[Type_C1_ship#C1-M|C1-M-AV1]] 
+|Ship tonnage=  {{DWT|5032|long|disp=long|link=}}{{sfn|C1 Cargo Ships|2009}}           
+|Ship displacement= {{Alamosa class cargo displacement}}    
+|Ship tons burthen=          
+|Ship length={{Alamosa class cargo length}} 
+|Ship beam= {{Alamosa class cargo beam}}   
+|Ship height=
+|Ship draught=      
+|Ship draft=   {{Alamosa class cargo draft}}  
+|Ship depth=
+|Ship hold depth=           
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power= {{Alamosa class cargo power}}
+|Ship propulsion= {{Alamosa class cargo propulsion}}
+|Ship sail plan=             
+|Ship speed=  {{Alamosa class cargo speed}}
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=             
+|Ship capacity= {{Alamosa class cargo capacity}}         
+|Ship troops=             
+|Ship complement=*15 Officers
+*70 Enlisted
+|Ship crew=          
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*1 × [[3″/50 caliber gun|{{cvt|3|in|0}}/50]] [[caliber (artillery)|caliber]] [[dual purpose gun]] (DP)
+*6 × [[Oerlikon 20 mm cannon|{{cvt|20|mm|1}} Oerlikon]] [[Anti-aircraft warfare|anti-aircraft]] (AA) cannons|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+'''USS ''Muscatine'' (AK-197)''' was an {{sclass-|Alamosa|cargo ship}} that was constructed for the [[US Navy]] under a [[US Maritime Commission]] contract during the closing period of World War II. She had a brief and successful career before being decommissioned a year later.
+
+==Construction==
+''Muscatine'' was laid down under US Maritime Commission contract, MC hull 2151, by Globe Shipbuilding Co., [[Superior, Wisconsin]], 21 December 1943; named ''Muscatine'' and classified '''AK-197''' on 25 February 1944; launched 16 June 1944; sponsored by Mrs. William Kennedy; floated down the [[Mississippi River]] in November 1944 for completion at Pennsylvania Shipyards, Inc., [[Beaumont, Texas]]; acquired by the Navy on loan charter from the Maritime Commission 3 April 1945; placed in service from 3 April to 4 April during transfer to [[Houston, Texas]], for fitting out at Brown Shipbuilding Co.; and commissioned at Houston 19 April 1945, [[Lieutenant (navy)|Lieutenant]] W. F. Heyer in command.{{sfn|DANFS|2015}}
+
+==Service history==
+===World War II-related service===
+After [[sea trial|shakedown]] along the [[Texas]] coast, ''Muscatine'' loaded a full cargo of &quot;[[beer]], [[Coca Cola]] syrup, and a bottling unit&quot; at [[Gulfport, Mississippi]], before sailing 17 May for the central Pacific Ocean. She touched at [[Eniwetok]], in the [[Marshall Islands]], 26 June, thence from 2 to 7 July steamed to [[Guam]] where she discharged her cargo.{{sfn|DANFS|2015}}
+
+Assigned to [[Service Squadron]] 8, she departed the Marianas 13 July and spent much of the final month of the Pacific war sailing to the [[US West Coast]] where she arrived [[San Francisco, California]], 2 August. After loading refrigerated and &quot;miscellaneous amphibious fleet issue&quot; cargo, she sailed for the western Pacific the 18th.{{sfn|DANFS|2015}}
+ 
+''Muscatine'' off loaded refrigerated stores at [[Ulithi]], in the [[Caroline Islands]], between 8 and 11 September; thence, from 15 September to 23 October she served as a stores ship in [[Leyte Gulf]], [[Philippine Islands]]. On 30 October she reached [[Sasebo, Japan]], where she began duty as a cargo issue ship to support the occupation of the defeated [[Japanese Empire]].{{sfn|DANFS|2015}}
+
+She completed her occupation service 7 December and sailed for the United States. Steaming via the Marianas and the [[Panama Canal]], she arrived [[Norfolk, Virginia]], 6 February 1946.{{sfn|DANFS|2015}}
+
+===Post-war decommissioning===
+She steamed to [[Baltimore, Maryland]], 23 to 24 February and decommissioned there 7 March 1946. She was returned to [[War Shipping Administration]] (WSA) 12 March and her name was struck from the [[Naval Vessel Register|Navy List]] 20 March.{{sfn|DANFS|2015}}
+
+==Merchant service==
+''Muscatine'' was acquired by J. Ludwig Moinckels Rederi of [[Norway]], on 25 February 1947, for $693,862 and renamed ''Palma''. She was scrapped in 1973.{{sfn|MARAD}}
+
+==Honors and awards==
+Qualified ''Muscatine'' personnel were eligible for the following:{{sfn|Navsource|2014}}
+* [[American Campaign Medal]]
+* [[Asiatic-Pacific Campaign Medal]]
+* [[World War II Victory Medal]]
+* [[Navy Occupation Medal]] (with Asia Clasp)
+
+== Notes ==
+{{notelist}}
+;Citations
+{{reflist|2}}
+
+== Bibliography ==
+{{refbegin}}
+'''Online resources'''
+* {{cite DANFS 
+  | last = 
+  | first =
+  | url = https://www.history.navy.mil/research/histories/ship-histories/danfs/m/muscatine-ii.html
+  | title = Muscatine II (AK-197)
+  | publisher = Naval History and Heritage Command 
+  | date = 
+  | accessdate = 20 November 2016
+  | link = on 
+  | ref = {{sfnRef|DANFS|2015}}
+  }}{{PD-notice}}
+* {{cite web
+  | url = http://shipbuildinghistory.com/merchantships/2c1cargoships.htm
+  | title = C1 Cargo Ships
+  | publisher =  www.ShipbuildingHistory.com
+  | date = 28 August 2009
+  | accessdate = 20 November 2016
+  | ref = {{sfnRef|C1 Cargo Ships|2009}}
+  }}
+* {{cite web 
+  | url = http://www.navsource.org/archives/09/13/130197.htm 
+  | title=USS Muscatine (AK-197)
+  | publisher=Navsource.org 
+  | date=7 March 2014
+  | accessdate=20 November 2016
+  | ref={{sfnRef|Navsource|2014}}
+  }}
+* {{cite web 
+  | url = https://www.marad.dot.gov/sh/ShipHistory/Detail/3532
+  | title = Muscatine (AK-197)
+  | publisher = United States Department of Tranportation
+  | date= 
+  | accessdate = 20 November 2016
+  | ref = {{sfnRef|MARAD}}
+  }}
+{{refend}}
+
+==External links==
+{{Commons category|USS Muscatine (AK-197)}}
+*{{navsource|9/13/130197|USS Muscatine (AK-197)}}
+
+{{portal bar|United States Navy|World War II|Norway}}
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Alamosa class cargo ships}}
+{{Type C1-M ships|state=collapsed}}
+
+{{DEFAULTSORT:Muscatine (AK-197)}}
+[[Category:Alamosa-class cargo ships]]
+[[Category:Ships built in Superior, Wisconsin]]
+[[Category:1944 ships]]
+[[Category:World War II auxiliary ships of the United States]]
+[[Category:United States Navy Iowa-related ships]]</text>
+      <sha1>3va05fd1h8v67yu1o54aoshcpljpjst</sha1>
+    </revision>
+  </page>
+</mediawiki>

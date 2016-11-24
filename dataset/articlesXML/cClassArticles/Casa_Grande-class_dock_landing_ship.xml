@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Casa Grande-class dock landing ship</title>
+    <ns>0</ns>
+    <id>23047200</id>
+    <revision>
+      <id>744282309</id>
+      <parentid>711776855</parentid>
+      <timestamp>2016-10-14T08:00:31Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6019">
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Cabildo;10121603.jpg|300px]]
+|Ship caption={{USS|Cabildo|LSD-16|6}}
+}}
+{{Infobox ship class overview
+|Name='''''Casa Grande'''''
+|Builders=*[[Northrop Grumman Shipbuilding Newport News|Newport News]]
+*[[Boston Navy Yard]]
+*[[Gulf Shipbuilding]]
+*[[Philadelphia Naval Yard]]
+|Operators=*{{navy|UK}}
+*{{navy|United States|1944}}
+*{{navy|Spain}}
+*{{navy|Greece}}
+*{{navy|France}}
+*{{navy|ROC}}
+|Class before={{sclass-|Ashland|dock landing ship}}
+|Class after={{sclass-|Thomaston|dock landing ship}}
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=
+|In commission range= 
+|Total ships building= 
+|Total ships planned=19
+|Total ships completed=17
+|Total ships cancelled=2
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=17
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship class=
+|Ship type=[[dock landing ship]]
+|Ship tonnage=
+|Ship displacement=*4,032&amp;nbsp;tons (light)
+*7,930&amp;nbsp;tons (seagoing)
+|Ship tons burthen=
+|Ship length=*{{convert|454|ft|m|abbr=on}} at waterline
+*{{convert|457|ft|9|in|m|abbr=on}} [[length overall|oa]]
+|Ship beam={{convert|72|ft|2|in|m|abbr=on}} 
+|Ship draught={{convert|15|ft|10|in|m|abbr=on}} 
+|Ship power=
+|Ship propulsion=*2-shaft turbines, 2 boilers
+*7,000 shp (LSD13-21 and 25-27)
+*9,000 shp (LSD22-24)
+|Ship sail plan=
+|Ship speed={{convert|15.6|kn|mph km/h|lk=in}}
+|Ship range={{convert|7400|nmi|km|abbr=on|lk=in}} at {{convert|15|kn|km/h|abbr=on}}
+|Ship endurance=
+|Ship boats=*One of the following arrangements:
+**3 × [[Landing craft tank|LCT]] Mark V or VI ''or''
+**2 × LCT Mark III or IV ''or''
+**14 × [[Landing Craft Mechanized|LCM]] Mark III ''or''
+**41 × [[Landing Vehicle Tracked|LVT]] ''or''
+**47 × [[DUKW]]s
+|Ship capacity=1,500&amp;nbsp;tons of cargo (if not carrying boats)
+|Ship troops=
+|Ship complement=17 officers and 237 men
+|Ship crew=
+|Ship time to activate=
+|Ship armament=*1 × 5&quot;/38 guns
+*12 × 40 mm Bofors guns (2 × 2), (2 × 4)
+*16 × 20mm guns
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+The '''''Casa Grande'' class''' was a [[ship class|class]] of [[dock landing ship]]s  used by the [[Royal Navy]] and the [[United States Navy]] during the [[Second World War]]. Nineteen ships were planned, but two, {{USS|Fort Snelling|LSD-23|6}} and {{USS|Point Defiance|LSD-24|6}} were cancelled before being completed.
+
+==Design==
+The 'Landing Ship Dock' or LSD developed from a British staff requirement for a type of self-propelled drydock to transport beaching craft over long distances, that would in turn deliver trucks and supplies onto the beach.&lt;ref name=&quot;ConwaysIII&quot;&gt;{{cite book |last=Gardiner (ed.)|title=Conway's All the World's Fighting Ships, 1922–1946|page=161}}&lt;/ref&gt;  A flooding deck aft capable of holding either two of the larger British [[Landing craft tank]]s (LCTs) or three of the new US LCTs was included in the designs.&lt;ref name=&quot;ConwaysIII&quot;/&gt; With the option of fitting extra decks, large numbers of vehicles could be transported, and loaded into landing craft via ramps. Despite an initial specification for a speed of {{convert|17|kn|mph km/h|lk=in}}, the LSDs were capable of only {{convert|15.6|kn|mph km/h|lk=in}}.&lt;ref name=&quot;ConwaysIII&quot;/&gt;
+
+==Service==
+The British initially ordered seven of the class from US dockyards, numbered LSD-9 to 15.&lt;ref name=&quot;ConwaysIII&quot;/&gt; Only four were delivered, numbers 9 to 12, while 13 to 15 were retained by the US Navy, which ordered another twelve to the design, but only built ten.&lt;ref name=&quot;ConwaysIII&quot;/&gt;&lt;ref name=&quot;Janes304&quot;&gt;{{cite book |title=Fighting Ships of World War II|page=304}}&lt;/ref&gt; In total thirteen of the ships served with the US Navy, while four ships served with the Royal Navy.&lt;ref name=&quot;ConwaysIII&quot;/&gt;
+
+==Ships==
+[[File:HMS Highway FL22905.jpg|thumb|left|HMS ''Highway'']]
+===Royal Navy===
+*{{HMS|Eastway|F140}}
+*{{HMS|Highway|F141}}
+*{{HMS|Northway|F142}}
+*{{HMS|Oceanway|F143}}
+
+===US Navy===
+*{{USS|Casa Grande|LSD-13}} (ex-HMS ''Portway'', ex-''Spear'')
+*{{USS|Rushmore|LSD-14}} (ex-HMS ''Swashway'', ex-''Sword'')
+*{{USS|Shadwell|LSD-15}} (ex-HMS ''Waterway'', ex-''Tomahawk'')
+*{{USS|Cabildo|LSD-16}}
+*{{USS|Catamount|LSD-17}}
+*{{USS|Colonial|LSD-18}}
+*{{USS|Comstock|LSD-19}}
+*{{USS|Donner|LSD-20}}
+*{{USS|Fort Mandan|LSD-21}}
+*{{USS|Fort Marion|LSD-22}}
+*{{USS|Fort Snelling|LSD-23}} (cancelled, completed as {{USNS|Taurus|T-AK-273}})
+*{{USS|Point Defiance|LSD-24}} (cancelled)
+*{{USS|San Marcos|LSD-25}}
+*{{USS|Tortuga|LSD-26}}
+*{{USS|Whetstone|LSD-27}}
+
+===Spanish Navy===
+Spanish ship [[Spanish ship Galicia (L-31)|''Galicia'' (L-31)]], ex-USS ''San Marcos'' (LSD-25)
+
+===Greek Navy===
+Greek ship ''Okeanos'' (ex-{{HMS|Oceanway|F143}})
+
+===French Navy===
+French ship ''Foudre'' (ex-{{HMS|Oceanway|F143}}, ex-Greek ship ''Okeanos'')
+
+===Republic of China Navy===
+ROCS Chung Cheng (LSD-191) (ex-[[USS Comstock (LSD-19)]])
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{Colledge}}
+*{{cite book| last = Gardiner| first = Robert|author2=Chesneau, Roger| year = 1980| title = Conway's All the world's fighting ships, 1922–1946| publisher =Conway| isbn = 0-85177-146-7}}
+*{{cite book| year = 1996|origyear=1989| title = [[Jane's Fighting Ships|Jane's Fighting Ships of World War Two]]| publisher =Crescent Books|location=New York| isbn = 0-517-67963-9}}
+{{refend}}
+
+==External links==
+{{Commons category|Casa Grande class dock landing ships}}
+*[http://www.uboat.net/allies/warships/class.html?ID=592 Casa Grande class at Uboat.net]
+* [https://books.google.com/books?id=8dwDAAAAMBAJ&amp;pg=PA97&amp;dq=1954+Popular+Mechanics+January&amp;hl=en&amp;sa=X&amp;ei=lYK0T7T1Es2dgQe5iMgH&amp;ved=0CDoQ6AEwAjgy#v=onepage&amp;q&amp;f=true &quot;Mother of Minesweepers.&quot;] ''Popular Mechanics'', February 1952, pp. 97-104.
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Casa Grande class dock landing ship}}
+
+[[Category:Casa Grande-class dock landing ships| ]]
+[[Category:Ship classes of the Royal Navy]]
+[[Category:1940s ships]]</text>
+      <sha1>pd9q2sqqy80mx51d51mt4fsrqkyjvfj</sha1>
+    </revision>
+  </page>
+</mediawiki>

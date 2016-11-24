@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alfredo Javaloyes López</title>
+    <ns>0</ns>
+    <id>34117556</id>
+    <revision>
+      <id>720987695</id>
+      <parentid>712896978</parentid>
+      <timestamp>2016-05-19T03:34:47Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Alfredo Javaloyes López|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2700">{{Orphan|date=March 2012}}
+{{Infobox musical artist
+| honorific_prefix    = 
+| name                = Alfredo Javaloyes López
+| honorific_suffix    = 
+| image               = Alfredo Javaloyes.jpg
+| image_size          = 
+| landscape           = &lt;!-- yes, if wide image, otherwise leave blank --&gt;
+| alt                 = 
+| caption             = Portrait of Alfredo Javaloyeso López
+| background          = non_performing_personnel
+| birth_name          = 
+| native_name         = 
+| native_name_lang    = 
+| alias               = 
+| birth_date          = {{birth date|1865|03|22}} --&gt;
+| birth_place         = Elche, Province of Alicante, Spain 
+| origin              = Elx (Elche) (Valencian Community, Spain)&lt;ref&gt;Elx is in the Valencian Community&lt;/ref&gt;
+| death_date          = {{death date and age|1944|02|18|1865|03|22}}
+| death_place         = Elche
+| genre               = Military march
+| occupation          = Music Director 
+| instrument          = 
+| years_active        = &lt;!-- YYYY–YYYY (or –present) --&gt;
+| label               = 
+| associated_acts     = Fabio Campano, Felip Pedrell
+| website             = &lt;!-- {{URL|example.com}} --&gt;
+| notable_instruments = 
+}}
+
+'''Alfredo Javaloyes López''' (March 22, 1865 - February 18, 1944 ) was a Spanish musician. His best known work is the [[march (music)|military march]] ''[[El Abanico]]'' (&quot;The Fan&quot;), composed in the year 1910.
+
+Javaloyes Lopez was born in 1865 in the town of [[Elche]], [[Province of Alicante]], Spain. The street where he was born now bears his name. He studied music in [[Barcelona]] in 1880 with the composers [[Fabio Campano]] and [[Felip Pedrell]]. A streetcar accident crippled his left hand, ending his performing career. With the support of Pedrell, he studied to become a military music director. In 1901, he became Music Director to the Sevilla Regiment 33 in [[Cartagena, Spain|Cartagena]]. He remained in that city until 1918, when he became director of Música del Batallón de Cazadores of [[Barbastro]]. When he retired from military life, he returned to his hometown of Elche, where he served as Director of the Municipal Band. before his death in 1944.&lt;ref name=&quot;patrimoniomusical.com&quot;&gt;{{cite web|url=http://www.patrimoniomusical.com/consulta_autor.php?id=297|title=Alfredo Javaloyes López|work=patrimoniomusical.com|publisher=Patrimonio Musical|language=Spanish|accessdate=19 December 2011}}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Javaloyes Lopez, Alfredo}}
+[[Category:1865 births]]
+[[Category:1944 deaths]]
+[[Category:March musicians]]
+[[Category:Military musicians]]
+[[Category:Musicians with physical disabilities]]
+[[Category:People from Elche]]
+[[Category:Spanish conductors (music)]]</text>
+      <sha1>kf1jn2ad40fcebgln3l3bcdnrn12t7b</sha1>
+    </revision>
+  </page>
+</mediawiki>

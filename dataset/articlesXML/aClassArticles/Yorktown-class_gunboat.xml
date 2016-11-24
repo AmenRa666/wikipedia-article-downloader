@@ -1,0 +1,188 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yorktown-class gunboat</title>
+    <ns>0</ns>
+    <id>22497380</id>
+    <revision>
+      <id>739015493</id>
+      <parentid>730751610</parentid>
+      <timestamp>2016-09-12T08:48:45Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22199">{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Yorktown (PG-1), side view 1.jpg|300px|{{USS|Yorktown|PG-1|6}}, the [[lead ship]] of the ''Yorktown''-class]]
+|Ship caption= {{USS|Yorktown|PG-1|6}}, the [[lead ship]] of the ''Yorktown''-class
+}}{{Infobox ship class overview
+|Name=
+|Builders=*[[William Cramp and Sons]] (1)
+*[[N. F. Palmer &amp; Co.]] (2)
+|Operators={{navy|United States|1912}}
+|Class after=[[USS Petrel (PG-2)|''Petrel'' class]]
+|Subclasses=
+|Cost=
+|Built range=1887–1888
+|In commission range=1889–1919
+|In service range=1889–1929
+|Total ships planned=
+|Total ships completed=3
+|Total ships lost=1
+|Total ships scrapped=2
+}}{{Infobox ship characteristics
+|Ship class=steel-hulled [[gunboat]]
+|Ship displacement=*{{convert|1710|LT|MT}}&lt;ref name=Silverstone&gt;Silverstone, p. 67.&lt;/ref&gt;
+*{{convert|1910|LT|MT}} (fully loaded)
+|Ship length=*{{convert|244|ft|5|in|m|abbr=on}} ([[Length overall|oa]])&lt;ref name=Silverstone /&gt;
+*{{convert|230|ft|m|0|abbr=on}} ([[length at the waterline|wl]])&lt;ref name=Silverstone /&gt;
+*{{convert|226|ft|m|0}} ([[length between perpendiculars|lpp]])&lt;ref name=NYT-launch&gt;{{cite news | title = The cruisers launched | url = http://query.nytimes.com/mem/archive-free/pdf?res=9A07E5DF1230E633A2575AC2A9629C94699FD7CF | format = pdf | work = The New York Times | date = 29 April 1888 | accessdate = 19 April 2009 | page = 1 }}&lt;/ref&gt;
+|Ship beam={{convert|36|ft|m|abbr=on}}&lt;ref name=Silverstone /&gt;
+|Ship height=
+|Ship draft={{convert|14|ft|m|abbr=on}}&lt;ref name=Silverstone /&gt;
+|Ship depth=
+|Ship propulsion=*2 × horizontally mounted [[triple-expansion steam engine]]s,&lt;ref name=Silverstone /&gt; {{convert|3400|ihp|abbr=on}}&lt;ref name=Roberts-155&gt;Bauer and Roberts, p. 155.&lt;/ref&gt;
+*2 × [[screw propeller]]s
+*4 × railroad boilers
+|Ship sail plan=[[schooner rig|three-masted schooner rig]] with a total sail area of {{convert|6300|sqft|m2|abbr=on}}&lt;ref name=NYT-launch /&gt;
+|Ship speed={{convert|16|knots|km/h}}&lt;ref name=Silverstone /&gt;
+|Ship endurance={{endurance|3443|nmi|km|10|knots|km/h}}&lt;ref name=Silverstone /&gt;
+|Ship troops=
+|Ship complement=191 officers and enlisted
+|Ship armament=*6 × [[6&quot;/30 caliber gun|{{convert|6|in|adj=on|0}}/30]] [[caliber (artillery)|caliber]] Mark 3 guns
+*2 × [[QF 6-pounder Hotchkiss#American service|6-pounder]] ({{convert|57|mm|in|2|abbr=on}}) guns (4 on ''Bennington'')
+*2 × [[QF 3-pounder Hotchkiss#US service|3-pounder]] ({{convert|47|mm|in|2|abbr=on}}) guns (none on ''Bennington'')
+*2 × [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|2|abbr=on}}) guns (4 on ''Bennington'')
+*2 × [[machine gun|machine]] or [[Gatling gun]]s&lt;ref name=DANFS-Yorktown&gt;{{cite DANFS | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/y/yorktown-ii.html | title = Yorktown | accessdate = 18 March 2015 }}&lt;/ref&gt;
+|Ship armor=*deck: {{convert|0.375|in|mm|1}}&lt;ref name=Silverstone /&gt;
+*[[conning tower]]: {{convert|2|in|mm}}&lt;ref name=Roberts-155 /&gt;
+|Ship notes=
+}}
+|}
+The '''''Yorktown''-class''' was a [[ship class|class]] of three steel-[[hull (ship)|hull]]ed, twin-[[screw propeller|screw]] [[gunboats]] built for the United States Navy beginning in 1887. All three ships of the class were named after cities near [[American Revolutionary War]] battles.
+
+The ships were just over {{convert|244|ft|m}} long and {{convert|36|ft|m}} [[beam (nautical)|abeam]] and [[displace (ship)|displace]]d a little more than {{convert|1700|LT|MT|sigfig=3}}. They were equipped with two [[steam engine]]s which were supplemented with three [[schooner rig|schooner-rigged]] [[mast (ship)|mast]]s. The main [[artillery battery|battery]] of each ship consisted of six {{convert|6|in|cm|1|adj=on}} guns and was augmented by an assortment of smaller caliber guns.
+
+Ships of the class were in [[commission (ship)|commission]] between 1889 and 1919. For most of their service, the ships were in the [[Pacific]], patrolling the coasts of North and South America, [[Hawaii]], and the western Pacific. ''Yorktown''-class ships saw service in many of the conflicts involving the United States from the 1890s through [[World War I]], with all three ships seeing action during the [[Philippine–American War]]. {{USS|Yorktown|PG-1|2}} was involved in the 1891 [[Baltimore Crisis|''Baltimore'' Crisis]] in [[Chile]], participated in the [[China Relief Expedition]] carried out in the wake of the [[Boxer Rebellion]], and served as a convoy escort in World War I. {{USS|Concord|PG-3|2}} was a part of Admiral [[George Dewey]]'s fleet at the [[Battle of Manila Bay (1898)|Battle of Manila Bay]] during the [[Spanish–American War]].
+
+''Yorktown'' had the longest career in commission, being decommissioned for the final time in 1919; ''Concord'' left active service ten years before that, and ''Bennington'' was taken out of service after a [[boiler explosion]] in July 1905 at [[San Diego, California]].
+
+== Design and construction ==
+The ''Yorktown''-class gunboats — unofficially considered third-class cruisers — were the product of a [[United States Navy]] design attempt to produce compact ships with good seakeeping abilities and, yet, able to carry a heavy [[artillery battery|battery]].&lt;ref name=Silverstone /&gt; Contemporary news reports indicate the class was loosely based on {{HMS|Archer|1885|6}}, the first ship of the [[Royal Navy]]'s {{sclass2|Scout|torpedo steamer|1}}s.&lt;ref&gt;{{cite news | title = To-day the gunboat ''Concord''… | url = http://query.nytimes.com/mem/archive-free/pdf?res=9E01E2DD153BE533A2575BC0A9659C94619ED7CF | format = pdf | work = The New York Times | date = 8 March 1890 | accessdate = 20 April 2009 | page = 4 }}&lt;/ref&gt; {{USS|Yorktown|PG-1|2}} was authorized in the 1886 fiscal year and {{USS|Concord|PG-3|2}} and {{USS|Bennington|PG-4|2}} were authorized in the 1888 fiscal year.&lt;ref name=Roberts-155 /&gt; The construction contract for ''Yorktown'' was awarded to the [[William Cramp and Sons]] shipyard of [[Philadelphia]] and her [[keel laying|keel was laid down]] in May 1887. The contract for the other pair was awarded to [[N. F. Palmer &amp; Co.]], who sublet the construction of the hulls to the [[Delaware River Iron Shipbuilding &amp; Engine Works]], also of Philadelphia. ''Concord'' and ''Bennington'' were laid down in May and June 1888, respectively.&lt;ref name=Roberts-155 /&gt; The hulls of the ''Yorktown'' class were designed by the Navy's [[Bureau of Construction and Repair]] while the mechanical layout was designed by the Cramp yard for ''Yorktown'' and replicated in her [[sister ship]]s.&lt;ref name=Roberts-155 /&gt;
+
+=== Layout ===
+The ''Yorktown''-class ships were {{convert|244|ft|5|in|m}} in [[length overall|length]] and {{convert|36|ft|m|0}} [[beam (nautical)|abeam]]. The steel hulls had an average [[draft (ship)|draft]] of {{convert|14|ft|m|0}},&lt;ref name=Silverstone /&gt; which was expected to give them the ability to escape from larger ships into shallow water.&lt;ref name=NYT-launch /&gt; At the waterline was a turtleback deck of 3/8-inch (9.5&amp;nbsp;mm) steel that formed a watertight seal over the lower spaces. This deck had a crown at the level of the waterline and curved downwards to {{convert|3|ft|m}} below the waterline at the sides of the ship. Below this armored deck were twelve compartments separated by watertight [[bulkhead (partition)|bulkhead]]s; the spaces above were equipped with watertight doors intended to be closed during battle.&lt;ref name=NYT-launch /&gt;
+
+Above the armored deck, each ship had [[forecastle]] and [[poop deck|poop]] decks with an open [[gun deck]] that spanned the length of the ship between them. The [[conning tower]] was located forward on the forecastle deck and was oval-shaped to deflect shot. It was outfitted with a steam-powered [[steering wheel (ship)|steering wheel]], a [[engine order telegraph|telegraph]], and speaking tubes; it was protected by {{convert|2|in|mm}} of steel armor plate.&lt;ref name=NYT-launch /&gt;
+
+=== Propulsion ===
+The ''Yorktown''-class ships were powered by two [[triple-expansion steam engine]]s which each drove one of the pair of {{convert|10.5|ft|m|adj=on}}, three-bladed [[screw propeller]]s. The cylinders of each engine were 22, 31, and 51&amp;nbsp;inches (56, 79, and 130&amp;nbsp;cm) in diameter and had a {{convert|30|in|cm|adj=on}} [[stroke (engine)|stroke]].&lt;ref name=NYT-launch /&gt; Each engine was rated at {{convert|3400|ihp}} and as a pair were designed to move the ships at {{convert|16|knots|km/h}},&lt;ref name=NYT-launch /&gt; though all three exceeded that speed in trials; ''Bennington'' reached a top speed of  {{convert|17.5|knots|km/h}}.&lt;ref name=Roberts-155 /&gt;
+
+The engines, situated in separate watertight compartments, were each fed by a pair of coal-fired boilers. Each boiler was horizontally mounted and was {{convert|9|ft|6|in|m}} in diameter and {{convert|17|ft|6|in|m}} in length with a total grate area of {{convert|220|sqin|cm2}}. The coal bunkers of each ship could carry up to {{convert|400|LT|t}} of the fuel, and were shielded from &quot;shot and shell&quot;. At a near top-speed of 16 knots, the ships could cover {{convert|2800|nmi|km}} in 6½ days; at the more economical speed of {{convert|8|knots|km/h}} they could cruise {{convert|12000|nmi|km}} over 62 days.&lt;ref name=NYT-launch /&gt;
+
+To supplement the steam power plant, the ships were built with three [[mast (ship)|mast]]s that were [[schooner rig|schooner-rigged]]. They had a total [[sail area]] of {{convert|6300|sqft|m2}}. The steam and sail combination was expected to allow the ''Yorktown''-class ships to remain at sea for months at a time during wartime.&lt;ref name=NYT-launch /&gt;
+
+=== Armament ===
+The main [[artillery battery|battery]] of the ''Yorktown''-class consisted of six [[6&quot;/30 caliber gun|{{convert|6|in|adj=on|0}}/30]] caliber Mark 3 guns,&lt;!-- number, size --&gt;&lt;ref name=DANFS-Yorktown /&gt;&lt;ref name=NavWeaps-6in&gt;{{cite web | last = DiGiulian | first = Tony | title = United States of America: 6&quot;/30, 6&quot;/35 and 6&quot;/40 (15.2 cm) Marks 1, 2, 3, 4 and 7  | url = http://www.navweaps.com/Weapons/WNUS_6-30_mk1.htm | work = Naval Weapons of the World | publisher = Navweaps.com | date = 25 December 2008 | accessdate = 16 April 2009 }}&lt;/ref&gt;&lt;!-- calibers --&gt;&lt;ref group=Note&gt;The ''30'' denotes the length of the gun barrels; in this case, the gun is 30 [[calibers#Caliber as measurement of length|calibers]], meaning that the gun is 30 times long as its bore.&lt;/ref&gt; with each gun weighing in excess of {{convert|11000|lbs|kg}}.&lt;ref name=NavWeaps-6in /&gt; Two were mounted on the forecastle deck, two on the poop deck, and the other pair amidships on the gun deck. The two guns on the gun deck were mounted {{convert|10|ft|m}} above the waterline, while the other four were {{convert|18|ft|m}} above.&lt;ref name=NYT-launch /&gt; The guns fired {{convert|105|lbs|kg|adj=on}} [[armor-piercing shot and shell|armor-piercing]] [[projectile]]s with a [[propellant]] charge weighing {{convert|18.8|lbs|kg}} at {{convert|1950|ft/s|m/s}}. At an [[elevation (ballistics)|elevation]] of 30.2°, the guns had a range of {{convert|18000|yards|m}}.&lt;ref name=NavWeaps-6in /&gt; Each gun was shielded with steel plating {{convert|3|in|mm}} thick.&lt;ref name=NYT-launch /&gt;
+
+The secondary battery for ''Yorktown'' and ''Concord'' consisted of two [[QF 6-pounder Hotchkiss#American service|6-pounder]] ({{convert|57|mm|in|2|abbr=on}}) guns, two [[QF 3-pounder Hotchkiss#US service|3-pounder]] ({{convert|47|mm|in|2|abbr=on}}) guns, and two [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|2|abbr=on}}) guns; ''Bennington'' was armed with four 6-pounders and four 1-pounders.&lt;ref name=Silverstone /&gt; All were based on designs of the French arms company [[Hotchkiss et Cie|Hotchkiss]].&lt;ref name=NYT-launch /&gt; According to a 1902 [[Bureau of Ordnance]] publication, an armor-piercing round fired from a 6-pounder gun could penetrate {{convert|2|in|mm}} of armor at a distance of {{convert|1000|yards|m|sigfig=2}}.&lt;ref name=NavWeaps-6pdr&gt;{{cite web | last = DiGiulian | first = Tony | title = United States of America: 6-pdr (2.72 kg) [2.244&quot; (57 mm)] Marks 1 through 13 | url = http://www.navweaps.com/Weapons/WNUS_6pounder_m1.htm | work = Naval Weapons of the World | publisher = Navweaps.com | date = 6 April 2008 | accessdate = 16 April 2009 }}&lt;/ref&gt;
+
+== Class members ==
+Of the three class members, ''Yorktown'' had the longest U.S. Navy career, spanning from her 1889 [[commission (ship)|commission]]ing to her final [[decommission (ship)|decommission]]ing in 1919.&lt;ref name=DANFS-Yorktown /&gt; ''Concord'' remained afloat the longest: she was decommissioned in 1910, but served as a training ship for the [[Washington National Guard|Washington Naval Militia]] until 1914, and as a quarantine ship for the [[United States Public Health Service|Public Health Service]] in [[Astoria, Oregon]], until 1929.&lt;ref name=DANFS-Concord /&gt; ''Bennington'' had the shortest Navy career: she suffered a [[boiler explosion]] in July 1905 at [[San Diego, California]], that killed over 60 crewmen. Her hulk was used as a water barge at [[Honolulu, Hawaii|Honolulu]] for the [[Matson Line]] from 1912 to 1924, when she was [[scuttling|scuttled]] off [[Oahu]].&lt;ref name=Roberts-155 /&gt;
+
+=== ''Yorktown'' ===
+[[File:Squadron of Evolution (Hart) retouched.jpg|thumb|right|After her [[commission (ship)|commission]]ing, {{USS|Yorktown|PG-1|2}} ''(second from left)'' was a member of the [[United States Navy]]'s [[Squadron of Evolution]].]]
+{{main|USS Yorktown (PG-1)}}
+''Yorktown'' was [[keel laying|laid down]] by [[William Cramp and Sons]] of [[Philadelphia]] in May 1887 and [[launch (ship)|launch]]ed in April 1888. After her April 1889 commissioning, ''Yorktown'' joined the [[Squadron of Evolution]] of &quot;[[New Navy]]&quot; steel-hulled ships. Detached from that squadron, ''Yorktown'', under the command of [[Robley D. Evans]], sailed to [[Valparaíso]], Chile, during the 1891 [[Baltimore Crisis|''Baltimore'' Crisis]] and relieved {{USS|Baltimore|C-3|2}} at that port. After that situation was resolved, ''Yorktown'' took part in the joint British–American sealing patrol in [[Alaska]]n waters and served as a station ship before returning to the United States in 1898. ''Yorktown'' was out of commission during the [[Spanish–American War]], but took part in actions in the [[Philippine–American War]] and the [[Boxer Rebellion]] in 1899 and 1900, respectively, after she had been recommissioned.&lt;ref name=DANFS-Yorktown /&gt;
+
+After three years out of commission from 1903 to 1906, ''Yorktown'' hosted [[Secretary of the Navy]] [[Victor H. Metcalf]] on board when he greeted the [[Great White Fleet]] on its arrival in [[San Francisco, California|San Francisco]] in May 1907.&lt;ref&gt;Wimmel, p. 230.&lt;/ref&gt; Over the next five years, most of ''Yorktown'''s time was spent in sealing patrols in Alaska and duty in [[Latin American]] ports. From July 1912, ''Yorktown'' was out of commission for alterations, but resumed duties off the [[Mexico|Mexican]], [[Nicaragua]]n, and [[Honduras|Honduran]] coasts beginning in April 1913. Through [[World War I]], ''Yorktown'' continued in the same role, until she departed for the [[East Coast of the United States]] in April 1918. She served an escort for one convoy headed to [[City of Halifax|Halifax]] in August, and remained in coastal escort duties in the east until January 1919. After arrival at [[San Diego, California|San Diego]] in February, she was [[decommission (ship)|decommissioned]] for the final time in June 1919; she was sold in 1921 to an [[Oakland, California|Oakland]] firm and [[ship breaking|broken up]] that same year.&lt;ref name=DANFS-Yorktown /&gt;
+
+=== ''Concord'' ===
+[[File:Concord.jpg|thumb|right|{{USS|Concord|PG-3|2}} in [[San Francisco Bay]], c. 1890s]]
+{{main|USS Concord (PG-3)}}
+The contract to build ''Concord'' was awarded to [[N. F. Palmer &amp; Co.]] of [[Chester, Pennsylvania]], in the 1888 [[fiscal year]]. Her [[hull (ship)|hull]] was subcontracted to the [[Delaware River Iron Shipbuilding &amp; Engine Works]], which laid down her keel in March 1888. ''Concord'' was launched in March 1890. After her 1891 commissioning, ''Concord'' spent the next few years sailing along the [[East Coast of the United States]], in the [[West Indies]], and in the [[Gulf of Mexico]]. In 1893, ''Concord'' cruised on the [[Asiatic Station]] and also sailed on the sealing patrol, keeping check on [[fur seal]] hunters in Alaska. After another stint in the Far East in 1894, ''Concord'' spent a year out of commission at [[San Francisco, California|San Francisco]] from May 1896 to May 1897. After spending most of the rest of 1897 in Alaskan waters, ''Concord'' returned to the Asiatic Station in January 1898. She joined Admiral [[George Dewey]]'s fleet for the 1 May 1898 [[Battle of Manila Bay (1898)|Battle of Manila Bay]], a decisive American victory over the Spanish Fleet in the [[Spanish–American War]]. After the battle, ''Concord'' supported [[United States Army]] operations in the [[Philippines]] in the [[Philippine–American War]].&lt;ref name=DANFS-Concord&gt;{{cite DANFS | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/c/concord-ii.html | title = Concord | accessdate = 18 March 2015}}&lt;/ref&gt;
+
+From 1901 to 1909, ''Concord'' alternated between Alaskan patrols, cruising the [[Mexico|Mexican]] coast, and periodic trips to China, serving for a time on the [[Yangtze Patrol]]. In November 1909, ''Concord'' was decommissioned at the [[Puget Sound Navy Yard]]. For the next five years, she served as a barracks ship for the [[Washington National Guard|Washington Naval Militia]]. In 1914, the former ''Concord'' was transferred to the [[United States Public Health Service|Public Health Service]] and served as a quarantine ship at [[Astoria, Oregon]] until 1929. After a brief return to Navy custody, the ship was sold in June 1929.&lt;ref name=DANFS-Concord /&gt;
+
+=== ''Bennington'' ===
+[[File:USS Bennington (PG-4), sunk by July 1905 boiler explosion.jpg|thumb|upright|right|{{USS|Bennington|PG-4|2}} after her [[boiler explosion]] in July 1905 at [[San Diego, California|San Diego]]]]
+{{main|USS Bennington (PG-4)}}
+''Bennington'' was awarded to N. F. Palmer &amp; Co. of Chester, Pennsylvania in November 1887, but her hull was subcontracted to the Delaware River Iron Shipbuilding &amp; Engine Works which laid down her keel in June 1888. ''Bennington'' was launched in June 1890. After her June 1891 commissioning at New York, ''Bennington'' joined the Squadron of Evolution for its cruise to South America. The gunboat made two [[Mediterranean]] tours between 1892 and 1894, after which she was assigned to duties in the Pacific. She sailed the Pacific coasts of North and Central America and spent time in the [[Hawaiian Islands]] protecting American interests there. On her way to support U.S. Army operations of the Philippine–American War, ''Bennington'' claimed [[Wake Island]] for the United States. After two years in the Philippines, she returned to the United States and was taken out of commission for 18 months for repairs and refitting. After her March 1903 re-commissioning, most of the next two years were spent patrolling the Pacific coasts of North and South America.&lt;ref name=DANFS-Bennington&gt;{{cite DANFS | last = Mann | first = Raymond A. | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/b/bennington-i.html | title = Bennington | date = 8 February 2006 | accessdate = 18 March 2015}}&lt;/ref&gt;
+
+On 21 July 1905 at [[San Diego, California]], ''Bennington'' suffered a [[boiler explosion]] that killed 66 men and injured nearly everyone else on board. Shortly after the explosion, a [[tug]] beached the ship to prevent her from sinking. Eleven men were awarded the [[Medal of Honor]] for &quot;extraordinary heroism&quot; in the aftermath of the explosion. After ''Bennington'' was refloated, the damage was deemed too extensive to repair and the ship was decommissioned in September.&lt;ref name=DANFS-Bennington /&gt; The ship was sold for [[ship breaking|scrapping]] in 1910, but instead served as a water barge for the [[Matson Line]] at [[Honolulu, Hawaii|Honolulu]] from 1912. The former ''Bennington'' was [[scuttling|scuttled]] off the coast of [[Oahu]] in 1924.&lt;ref name=&quot;Roberts-155&quot;/&gt;&lt;ref name=NHC-Benn-photos&gt;{{cite web|title=USS ''Bennington'' (Gunboat # 4), 1891-1910 |url=http://www.history.navy.mil/photos/sh-usn/usnsh-b/pg4.htm |work=Online Library of Selected Images: U.S. Navy Ships |publisher=Navy Department, Naval Historical Center |date=4 March 2005 |accessdate=21 April 2009 |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20100411105150/http%3A//www%2Ehistory%2Enavy%2Emil/photos/sh%2Dusn/usnsh%2Db/pg4%2Ehtm |archivedate= 11 April 2010 }}&lt;/ref&gt;
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist|30em}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last1 = Bauer | first1 = K. Jack | authorlink = K. Jack Bauer | last2 = Roberts | first2 = Stephen S. | authorlink2 = Stephen S. Roberts | title = Register of Ships of the U.S. Navy, 1775–1990: Major Combatants | location = New York | publisher = [[Greenwood Press]] | year = 1991 | isbn = 978-0-313-26202-9 | oclc = 24010356 }}
+* {{cite journal | last = Hardy | first = Osgood | title = The Itata Incident | journal = [[Hispanic American Historical Review|The Hispanic American Historical Review]] | volume = 5 | issue = 2 |date=May 1922 | publisher = Board of Editors of the Hispanic American Historical Review | location = [[Baltimore, Maryland|Baltimore]] | issn = 0018-2168 | oclc = 3518594 }}
+* {{cite book | last = Silverstone | first = Paul H. | title = The New Navy, 1883-1922 | location = New York | publisher = [[Routledge]] | year = 2006 | isbn = 978-0-415-97871-2 | oclc = 63171106 }}
+* {{cite book | last = Wimmel | first = Kenneth | title = Theodore Roosevelt and the Great White Fleet: American Seapower Comes of Age | location = Washington, D.C. | publisher = Brassey's | year = 1998 | edition = 1st | isbn = 978-1-57488-153-0 | oclc = 37688348 }}
+{{Refend}}
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Yorktown class gunboats}}
+
+{{good article}}
+
+{{DEFAULTSORT:Yorktown class gunboat}}
+[[Category:Yorktown-class gunboats| ]]
+[[Category:Gunboat classes]]</text>
+      <sha1>jww4xydfr8z6iaz5h7kh6alw5o70762</sha1>
+    </revision>
+  </page>
+</mediawiki>

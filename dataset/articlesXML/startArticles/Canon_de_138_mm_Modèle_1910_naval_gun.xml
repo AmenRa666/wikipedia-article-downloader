@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Canon de 138 mm Modèle 1910 naval gun</title>
+    <ns>0</ns>
+    <id>22274582</id>
+    <revision>
+      <id>697656348</id>
+      <parentid>636075501</parentid>
+      <timestamp>2015-12-31T23:19:53Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>/* Ammunition */replaced: armor piercing → armor-piercing using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4387">{{Infobox Weapon
+|name= Canon de 138 mm Modèle 1910
+|image=
+|caption=
+|origin= {{FRA}}
+|type= [[Naval gun]]
+&lt;!-- Type selection --&gt;
+|is_ranged=YES
+|is_bladed=
+|is_explosive=
+|is_artillery=YES
+|is_vehicle=
+|is_UK=
+&lt;!-- Service history --&gt;
+|service=1913—45
+|used_by={{navy|France}}
+|wars= [[World War I]], [[World War II]]
+&lt;!-- Production history --&gt;
+|designer= 
+|design_date=1910—13
+|manufacturer=
+|production_date=
+|number= 
+|variants= 
+&lt;!-- General specifications --&gt;
+|weight= {{convert|5320|kg|lb}}
+|length= 
+|part_length= about {{convert|7.623|m|ft}} 
+|width= 
+|height= 
+|crew= 
+&lt;!-- Ranged weapon specifications --&gt; 
+|cartridge=separate-loading, cased charge
+|cartridge_weight={{convert|39.5|kg|lb}}
+|caliber={{convert|138.6|mm|in}}
+|action= 
+|rate= 5-6 rpm
+|velocity={{convert|790|m/s|ft/s}}
+|range=
+|max_range= {{convert|16100|m|yd}} at 25°
+|feed= 
+|sights= 
+&lt;!-- Artillery specifications --&gt;
+|breech=interrupted screw
+|recoil=
+|carriage=
+|elevation=-7° to +25°
+|traverse= depending on mount
+}}
+The '''Canon de 138&amp;nbsp;mm Modèle 1910''' was a medium calibre [[naval gun]] of the [[French Navy]] used during [[World War I]] and [[World War II]]. It was carried by the [[dreadnoughts]] of the [[Courbet-class battleship|''Courbet'']] and [[Bretagne-class battleship|''Bretagne'']] classes as their secondary armament and planned for use in the [[Normandie-class battleship|''Normandie''-class battleship]]s. It was used as the primary armament for the ''Arras''-class sloops and planned for the light cruiser ''Lamotte Picquet'' that was canceled in 1915. It was also used in coast defense batteries during both World Wars.
+
+==Design==
+The 55 [[Caliber#Caliber_as_measurement_of_length|caliber]] ''Mle 1910'' used the typical built-up construction of its time. It had a screw breech and used separate-loading ammunition. In the battleships it was installed in armored casemates, using central pivot mounts, but no details are available. Presumably a variant of this mount was used for the sloops. Initially the casemate mount had a range of elevation from -10° to +15°, but this was later changed to -7° to +25°.&lt;ref&gt;Campbell, p. 299&lt;/ref&gt; The casemate mount could traverse a total of 160°.&lt;ref name=n&gt;{{cite web|url=http://www.navweaps.com/Weapons/WNFR_55-55_m1910.htm|title=French 138.6 mm/55 (5.46&quot;) Model 1910 |date=16 May 2006|accessdate=2009-06-25}}&lt;/ref&gt;
+
+==Ammunition==
+The {{convert|10.4|kg|lb}} propellant charge for the ''Mle 1910'' was contained in a cartridge case that would be used for all succeeding French guns of this caliber. Of course the actual amount of powder would vary with each gun, but it standardized the chamber size for all {{convert|138.6|mm|in|abbr=on}} French guns.&lt;ref name=&quot;n&quot;/&gt; 
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+! Shell type
+! Weight
+! Muzzle velocity
+! Range
+|-
+| [[Armor-piercing shot and shell|semi-armor-piercing]]
+| {{convert|39.5|kg|lb|abbr=on}}
+| {{convert|790|m/s|ft/s|abbr=on}} 
+| {{convert|16.1|km|yd|abbr=on}}
+|-
+| [[high-explosive]]
+| {{convert|31.5|kg|lb|abbr=on}}
+| {{convert|840|m/s|ft/s||abbr=on}}
+| {{convert|15.1|km|yd|abbr=on}} 
+|}
+
+==Coast defense duties==
+Twenty ''Mle 1910'' guns were used by the Germans as coast defense guns along the French Mediterranean coast, although it is unclear if these guns were simply taken over by the Germans or if they were emplaced by them.&lt;ref&gt;{{cite book|last=Rolf|first=Rudi|title=Der Atlantikwall: Bauten der deutschen Küstenbefestigungen 1940-1945|publisher=Biblio|location=Osnabrück|year=1998|page=387|isbn=3-7648-2469-7}}&lt;/ref&gt;
+
+In 1942 14 guns removed from the battleships [[French battleship Courbet (1911)|Courbet]] and [[French battleship Paris|Paris]] were installed in coast defence batteries at Dawlish, Hayle, Padstow, Par, Sidmouth, Port Talbot and Whitehaven in the UK. These guns were returned to France in September 1945.
+
+==See also==
+===Weapons of comparable role, performance and era===
+* [[BL 5.5 inch Mark I naval gun]] : British equivalent
+* [[14 cm/50 3rd Year Type naval gun]] : Japanese equivalent
+
+== Notes ==
+{{Reflist|2}}
+
+==References==
+* {{cite book|last=Campbell|first=John|title=Naval Weapons of World War Two|publisher=Conway Maritime Press|location=London|year=2002|isbn=0-87021-459-4}}
+
+{{DEFAULTSORT:Canon de 138 mm Modele 1910 naval gun}}
+[[Category:Naval guns of France]]
+[[Category:138 mm artillery]]
+[[Category:Coastal artillery]]</text>
+      <sha1>8z5o6g0kmc4hksea6jdpwx3oecrxa91</sha1>
+    </revision>
+  </page>
+</mediawiki>

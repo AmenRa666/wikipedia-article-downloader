@@ -1,0 +1,195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Supply (1872)</title>
+    <ns>0</ns>
+    <id>20706809</id>
+    <revision>
+      <id>743620084</id>
+      <parentid>702635511</parentid>
+      <timestamp>2016-10-10T12:25:27Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Philadelphia, Pennsylvania to [[:Category:Ships built in Philadelphia]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6340">{{other ships|USS Supply}}
+{{Use dmy dates|date=February 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:USS Supply 1873 in dock.jpg|300px|USS Supply (1873)]]
+|Ship caption=USS ''Supply'' (formerly the SS ''Illinois'') in dock, probably taken just after the ship's recommission in August 1902.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name='''USS ''Supply'''''
+|Ship namesake=
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[William Cramp &amp; Sons]]
+|Ship original cost=$520,000
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=15 August 1872
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage= 23 January 1874
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=1891
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=Scrapped, 1928
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=Auxiliary
+|Ship tonnage=3,104 gross
+|Ship displacement=4,325
+|Ship tons burthen=
+|Ship length=355 ft 8 in 
+|Ship beam=43 ft 4 in
+|Ship height=
+|Ship draught=19 ft 5 in
+|Ship draft=
+|Ship depth=
+|Ship hold depth=32 ft 2 in
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=Triple expansion steam engine, single screw, auxiliary sails
+|Ship sail plan=
+|Ship speed=9.5 knots
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity= 
+|Ship troops=
+|Ship complement=128
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=6 × 6-pdr. R.F., 4 × 1-pdr. E.F.&lt;ref&gt;R.F. = Rapid Fire. E.F. probably stands for Elevated Fire.&lt;/ref&gt;
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''USS ''Supply''''', ex-[[Illinois (1873)|''Illinois'']], was a [[schooner]]-rigged iron [[steamboat|steamer]] built in 1873 by [[William Cramp and Sons]] of [[Philadelphia]]. ''Illinois'' was purchased by the [[Navy Department]] from the [[International Navigation Company]] on 30 April 1898 for $325,000.00 and commissioned as ''Supply'', Lt. Comdr. R. R. Ingersoll in command.
+
+==Service history==
+
+===Spanish–American war===
+''Supply'' was used as the supply ship for the fleet in [[Cuba]]n waters during the [[Spanish–American War]]. The ship was decommissioned at the [[New York Navy Yard]] on 28 April 1899. She was refitted after the war, with better living quarters, and recommissioned on 1 August 1902.
+
+===Peacetime service===
+
+After recommissioning, ''Supply'' was ordered to duty on the Asiatic Station. She operated as the supply ship for the [[Asiatic Fleet]] and as Station Ship at [[Guam]] for many years. In 1904, she transported [[Governor of Guam]] [[William Elbridge Sewell]] back to the United States when he fell deathly ill.&lt;ref name=Guampedia&gt;{{cite web|last=Leon-Guerrero|first=Jillette|title=Guam Leaders from 1899–1904|url=http://guampedia.com/guam-leaders-from-1899-1904/#toc-jose-sisto-rodrigo-1898|work=Guampedia|publisher=[[University of Guam]]|accessdate=27 October 2010|archiveurl=http://www.webcitation.org/5tdCAGtPm|location=[[Guam]]|date=9 August 2010|archivedate=20 October 2010}}&lt;/ref&gt; The ship was overhauled at the [[Puget Sound Navy Yard]] in July 1912 and again from November 1915 to March 1916.
+
+''Supply'' put to sea on 19 March 1916 and after embarking passengers at San Francisco for passage to Guam, sailed on the 29th. She called at [[Honolulu]], T.H., in early April and arrived at [[Apra Harbor]] on 25 April. This was her home port while serving as a stores ship for the Asiatic Station. From 22 October to 7 December 1916, she cruised to the [[Philippine Islands]], China, and Japan. In January 1917 the ship was overhauled at [[Olongapo]], Philippines, and returned to Guam on 27 March.
+
+===First World War===
+
+The [[Imperial Germany|German]] [[auxiliary cruiser]] [[SMS Cormoran (1909)|SMS ''Cormoran'']] had been in Asiatic waters at the outbreak of [[World War I]] and later operated in the southern Pacific. However, lack of provisions forced ''Cormoran'' to put in at Guam on 14 December 1914. The German captain accepted internment of the ship the following day, and the cruiser remained in that status until the United States declared war on Germany in April 1917.
+
+The morning of 6 April, ''Supply'' put a prize crew of 32 men afloat to board the German ship. Her captain offered to surrender the men but not the cruiser. At 0803, ''Cormoran'' was blown up by her own crew. ''Supply'' immediately lowered all boats to aid in recovering ''Cormoran'''s crew and their personal effects from the water.
+
+''Supply'' remained on station in Apra Harbor until steaming for [[Manila]] on 21 May 1917. She departed there on 6 June en route to Japan, via Guam. After visiting various Japanese ports, the ship returned to [[Cavite, Philippines]], for [[drydock]]ing and repairs. Upon completion, she returned to Guam on 29 August and resumed her duties until 28 November when she got underway for the United States. Christmas 1917 was celebrated at [[Pearl Harbor]]; the [[Panama Canal]] was transited on 19 January 1918; and ''Supply'' arrived at the [[Charleston Navy Yard]] on the 25th.
+
+===Decommission===
+
+Upon completion of repairs, ''Supply'' was designated [[flagship]] of the Train, Atlantic Fleet, based at [[Charleston, South Carolina|Charleston]]. On 29 May 1919, she was reassigned to Guam for duty as Station Ship. However, upon her arrival on the [[West Coast of the United States|west coast]], she was ordered to [[Mare Island]] for repairs and placed out of commission there on 15 September 1919. ''Supply'' was struck from the Navy list and sold for scrap on 30 September 1921. She was scrapped in 1928.
+
+==Footnotes==
+{{reflist}}
+
+==References==
+
+{{DANFS|http://www.history.navy.mil/danfs/./s20/supply-ii.htm}}
+
+{{DEFAULTSORT:Supply}}
+[[Category:Ships built in Philadelphia]]
+[[Category:World War I auxiliary ships of the United States]]
+[[Category:1872 ships]]
+[[Category:Spanish–American War auxiliary ships of the United States]]</text>
+      <sha1>39knghbugc0fbxqh9gr25to6fwfyy1b</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,237 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SM U-37</title>
+    <ns>0</ns>
+    <id>25257915</id>
+    <revision>
+      <id>742409144</id>
+      <parentid>721230317</parentid>
+      <timestamp>2016-10-03T14:47:19Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6652">{{other ships|German submarine U-37}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= 
+|Ship caption= 
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[German Empire]]
+|Ship flag={{Shipboxflag|German Empire|naval}}
+|Ship name=''U-37''
+|Ship ordered=12 June 1912 
+|Ship yard number=197
+|Ship builder=Germaniawerft, Kiel
+|Ship laid down=2 January 1913
+|Ship launched=25 August 1914
+|Ship commissioned=9 December 1914
+|Ship fate=Struck mine on 30 April 1915 in Straits of Dover 
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[German Type U 31 submarine]]
+|Ship displacement=
+*{{convert|685|t|LT|abbr=on}} (surfaced)
+*{{convert|878|t|LT|abbr=on}} (submerged)
+|Ship length=
+*{{convert|64.70|m|ftin|abbr=on}} ([[o/a]])
+*{{convert|52.36|m|ftin|abbr=on}} ([[pressure hull]])
+|Ship beam=
+*{{convert|6.32|m|ftin|abbr=on}} (o/a)
+*{{convert|4.05|m|ftin|abbr=on}} (pressure hull)
+|Ship draught={{convert|3.56|m|ftin|abbr=on}}
+|Ship power=
+*2 × {{convert|1850|PS|kW shp|abbr=on|lk=on|0}} [[diesel engine]]s
+*2 × {{convert|1200|PS|kW shp|abbr=on|0}} [[Motor-generator|Doppelmodyn]]
+|Ship propulsion=
+*2 × shafts
+*2 × {{convert|1.60|m|ft|abbr=on}} propellers
+|Ship speed=
+*{{convert|16.4|kn|lk=in}} (surfaced)
+*{{convert|9.7|kn}} (submerged)
+|Ship range=
+*{{convert|8790|nmi|lk=in|abbr=on}} at {{convert|8|kn}} (surfaced)
+*{{convert|80|nmi|abbr=on}} at {{convert|5|kn}} (submerged)
+|Ship test depth={{convert|50|m|ftin|abbr=on}}
+|Ship boats=1 dinghy
+|Ship complement=4 officers, 31 enlisted
+|Ship armament=*four {{convert|50|cm|in|sing=on|abbr=on}} [[torpedo tube]]s (2 each bow and stern)
+*6 [[torpedo]]es
+*two {{convert|8.8|cm|abbr=on}} [[deck gun]]s
+|Ship notes=
+}}
+{{Infobox service record
+|is_ship=yes
+|is_multi=yes
+|partof=*II Flotilla
+*unknown start – 30 April 1915
+|commanders=
+*''Kptlt.'' Erich Wilcke&lt;ref&gt;{{cite Uboat.net
+|id=407
+|name=Erich Wilcke
+|type=1comm
+|accessdate=16 March 2015
+}}&lt;/ref&gt;
+*9 December 1914 – 30 April 1915
+|operations=1 patrol
+|victories=
+*2 merchant ships sunk ({{GRT|2,811}})
+*1 merchant ship damaged ({{GRT|3,459}})
+}}
+|}
+
+'''SM ''U-37'''''{{#tag:ref|&quot;SM&quot; stands for &quot;Seiner Majestät&quot; ({{lang-en|His Majesty's}}) and combined with the ''U'' for ''Unterseeboot'' would be translated as ''His Majesty's Submarine''.|group=Note}} was one of the 329 [[submarine]]s serving in the [[Imperial German Navy]] in [[World War I]]. 
+U-37 was engaged in the [[Naval warfare of World War I|naval warfare]] and took part in the [[First Battle of the Atlantic]].
+
+==Design==
+[[German Type U 31 submarine]]s were [[Double hull#Submarines|double-hulled]] ocean-going submarines similar to [[German Type U 23 submarine|Type 23]] and [[German Type U 27 submarine|Type 27]] subs in dimensions and differed only slightly in propulsion and speed. They were considered very good high sea boats with average manoeuvrability and good surface steering.{{sfn|Gröner|1991|p=6}}
+
+''U-37'' had an [[overall length]] of {{convert|64.70|m|ftin|abbr=on}}, her [[pressure hull]] was {{convert|52.36|m|ftin|abbr=on}} long. The boat's [[Beam (nautical)|beam]] was {{convert|6.32|m|ftin|abbr=on}} (o/a), while the pressure hull measured {{convert|4.05|m|ftin|abbr=on}}. Type 31s had a [[draft (hull)|draught]] of {{convert|3.56|m|ftin|abbr=on}} with a total height of {{convert|7.68|-|8.04|m|ftin|abbr=on}}. The boats [[Displacement (ship)|displaced]] a total of {{convert|971|t|LT}}; {{convert|685|t|LT|abbr=on}} when surfaced and {{convert|878|t|LT|abbr=on}} when submerged.{{sfn|Gröner|1991|p=6}}
+
+''U-37'' was fitted with two [[Germaniawerft|Germania]] 6-cylinder two-stroke [[diesel engine]]s with a total of {{convert|1850|PS|kW bhp|0|lk=on}} for use on the surface and two [[Siemens-Schuckert]] double-acting [[Motor–generator|electric motors]] with a total of {{convert|1200|PS|kW shp|0|abbr=on}} for underwater use. These engines powered two shafts each with a {{convert|1.60|m|ft|abbr=on}} [[propeller]], which gave the boat a top surface speed of {{convert|16.4|kn|lk=in}}, and {{convert|9.7|kn}} when submerged. Cruising range was {{convert|8790|nmi|lk=in}} at {{convert|8|kn}} on the surface, and {{convert|80|nmi|abbr=on}} at {{convert|5|kn}} under water. Diving depth was {{convert|50|m|ftin|abbr=on}}.{{sfn|Gröner|1991|p=6}}
+
+The U-boat was armed with four {{convert|50|cm|in|sing=on|abbr=on}} [[torpedo tube]]s, two fitted in the [[Bow (ship)|bow]] and two in the [[stern]], and carried 6 [[torpedo]]es. Additionally ''U-37'' was equipped in 1915 with two {{convert|8.8|cm|abbr=on}} [[deck gun]]s.
+The boat's [[Ship's company|complement]] was 4 officers and 31 enlisted.{{sfn|Gröner|1991|p=6}}
+
+==Summary of raiding history==
+{| class=&quot;wikitable&quot;
+|-
+! width=&quot;140px&quot;|Date
+! width=&quot;140px&quot;|Name
+! width=&quot;200px&quot;|Nationality
+! width=&quot;25px&quot; |Tonnage&lt;ref group=Note name=tonnage&gt;Tonnages are in [[gross register tons]]&lt;/ref&gt;
+! width=&quot;160px&quot;|Fate&lt;ref&gt;{{cite Uboat.net
+|id=u37
+|name=U 37
+|type=1boat
+|accessdate=16 March 2015
+}}&lt;/ref&gt;
+|-
+|align=&quot;right&quot;|25 March 1915
+|align=&quot;left&quot; |[[List of shipwrecks in March 1915#25 March|''Delmira'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|3,459
+|align=&quot;left&quot; |Damaged
+|-
+|align=&quot;right&quot;|31 March 1915
+|align=&quot;left&quot; |[[List of shipwrecks in March 1915#31 March|''Emma'']]
+|align=&quot;left&quot; |{{flag|France}}
+|align=&quot;right&quot;|1,617
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|1 April 1915
+|align=&quot;left&quot; |[[List of shipwrecks in April 1915#1 April|''Seven Seas'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|1,194
+|align=&quot;left&quot; |Sunk
+|}
+
+==References==
+
+===Notes===
+{{Reflist|group=Note}}
+
+===Citations===
+{{reflist}}
+
+==Bibliography==
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+
+==External links==
+*{{cite Uboat.net
+|id=37
+|name=U 37
+|type=1sub
+}}
+
+{{use dmy dates|date=June 2015}}
+{{German Type U 31 submarines}}
+{{April 1915 shipwrecks}}
+
+{{DEFAULTSORT:U0037}}
+[[Category:World War I submarines of Germany]]
+[[Category:1914 ships]]
+[[Category:Ships built in Kiel]]
+[[Category:U-boats commissioned in 1914]]
+[[Category:Maritime incidents in 1915]]
+[[Category:U-boats sunk in 1915]]
+[[Category:U-boats sunk by mines]]
+[[Category:German Type U 31 submarines]]
+[[Category:World War I shipwrecks in the English Channel]]</text>
+      <sha1>hpu54x6xu2aut60z6kfusjllajsd9y5</sha1>
+    </revision>
+  </page>
+</mediawiki>

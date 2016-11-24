@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese aircraft carrier Hiyō</title>
+    <ns>0</ns>
+    <id>4313479</id>
+    <revision>
+      <id>750219397</id>
+      <parentid>744812639</parentid>
+      <timestamp>2016-11-18T12:15:06Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */ cite repair;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22236">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Japanese aircraft carrier Hiyo.jpg|300px]]
+|Ship caption=''Hiyo'' at anchor
+}}
+{{Infobox ship career
+| Hide header =
+| Ship name =SS ''Izumo Maru''
+| Ship owner =Nippon Yusen Kaisha (Japan Mail Steamship Company)
+| Ship operator = 
+| Ship country =[[Empire of Japan]] 
+| Ship flag = {{shipboxflag|Empire of Japan|civil}}
+|Ship ordered=Late 1938
+|Ship builder= [[Kawasaki Heavy Industries]] Shipyard, [[Kobe]]
+|Ship laid down=30 November 1939
+|Ship launched=24 June 1941
+|Ship yard number=660
+|Ship way number=4
+| Ship fate =Sold to [[Imperial Japanese Navy]], 10 February 1942 
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Empire of Japan
+|Ship flag={{shipboxflag|Empire of Japan|naval}}
+|Ship name=''Hiyō''
+|Ship namesake=Flying Hawk
+|Ship acquired=10 February 1941
+|Ship commissioned=31 July 1942
+|Ship struck=10 November 1944
+|Ship fate=Sunk, 20 June 1944 in the [[Battle of the Philippine Sea]]
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Hiyō|aircraft carrier}}
+|Ship displacement= {{convert|24150|t|LT}} ([[Standard displacement#Standard displacement|standard]])
+|Ship length= {{convert|220|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|26.7|m|ftin|abbr=on}}
+|Ship draft={{convert|8.15|m|ftin|abbr=on}}
+|Ship power={{convert|56250|shp|kW|abbr=on|lk=in}}
+|Ship propulsion=*2 shafts
+*2 geared [[steam turbine]] sets
+*6 Kampon [[water-tube boiler]]s
+|Ship speed={{convert|25.5|kn|lk=in}}
+|Ship range={{convert|11700|nmi|lk=in|abbr=on}} at {{convert|18|kn}}
+|Ship complement=1,187–1,224
+|Ship sensors=1 × [[List of Japanese World War II radar#Shipborne Radar|Type 2, Mark 2, Model 1]] air search [[radar]] 
+|Ship armament=*6 × 2 – [[12.7 cm/40 Type 89 naval gun|12.7 cm/40 Type 89]] [[anti-aircraft gun]]s
+*8 × 3 – {{convert|25|mm|abbr=on}} [[Anti-aircraft warfare|AA]] guns
+|Ship armor=*[[Belt armor|Belt]]: {{convert|50|mm|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|25|mm|in|abbr=on}}
+|Ship aircraft=48–53
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+{{Nihongo|'''''Hiyō'''''|飛鷹|&quot;Flying Hawk&quot;}}&lt;ref&gt;Silverstone, p. 329&lt;/ref&gt; was a {{sclass-|Hiyō|aircraft carrier}} of the [[Imperial Japanese Navy]]. Begun as the [[ocean liner]] {{nihongo|'''''Izumo Maru'''''|出雲丸}} in 1939, she was purchased by the [[Ministry of the Navy of Japan|Navy Ministry]] in 1941 for conversion to an aircraft carrier. Completed shortly after the [[Battle of Midway]] in June 1942, she participated in the [[Guadalcanal Campaign]] in October and missed the [[Battle of the Santa Cruz Islands]] later that month because of an [[electrical generator]] fire. Her aircraft were disembarked several times and used from land bases in a number of battles in the [[South West Pacific theatre of World War II|South West Pacific]]. ''Hiyō'' was torpedoed in mid-1943 and spent three months under repair. She spent most of the next six months training and ferrying aircraft before returning to combat. She was sunk by a [[gasoline]] vapor explosion caused by an American [[torpedo]] hit during the [[Battle of the Philippine Sea]] in mid-1944.
+
+==Design and description==
+The ship was ordered as the fast luxury passenger liner ''Izumo Maru'' by ''Nippon Yusen Kaisha'' (Japan Mail Steamship Company) in late 1938. In exchange for a 60% subsidy of her building costs by the Navy Ministry, she was designed to be converted to an aircraft carrier.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 17, 106&lt;/ref&gt;
+
+''Hiyō'' had a length of {{convert|220|m|ftin|sp=us}} [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|26.7|m|ftin|sp=us}} and a [[draft (ship)|draft]] of {{convert|8.15|m|ftin|sp=us}}. She [[displacement (ship)|displaced]] {{convert|24150|t|LT}} at [[Standard displacement#Standard displacement|standard load]].&lt;ref&gt;Lengerer &amp; Rehm-Takahara, p. 107&lt;/ref&gt; Her crew ranged from 1,187 to 1,224 officers and enlisted men.&lt;ref&gt;Jentschura, Jung and Mickel, p. 52&lt;/ref&gt;
+
+The ship was fitted with two Mitsubishi-Curtis geared [[steam turbine]] sets with a total of {{convert|56250|shp|kW|lk=in}}, each driving a {{convert|5.5|m|sp=us|adj=on}} propeller. Steam was provided by six Kawasaki-La Mont [[water-tube boiler]]s. Her machinery, designed for merchant service, was over four times heavier than that of the aircraft carrier {{ship|Japanese aircraft carrier|Hiryū||2}}. ''Hiyō'' had a designed speed of {{convert|25.5|kn|lk=in}}, but during [[sea trial]]s she reached {{convert|25.63|kn}} from {{convert|56630|shp|kW|abbr=on}}. The ship carried {{convert|4100|t|LT}} of [[fuel oil]] which gave her a range of {{convert|11700|nmi|lk=in}} at {{convert|18|kn}}.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 189–90&lt;/ref&gt;
+
+===Flight deck arrangements===
+''Hiyō''{{'}}s [[flight deck]] was {{convert|210.3|m|ftin|sp=us}} long and had a maximum width of {{convert|27.3|m|ftin|sp=us}}. A large [[Glossary of nautical terms#I|island]] was fitted on the starboard side that was integrated with, for the first time in a Japanese carrier, the ship's [[funnel (ship)|funnel]]. This was angled 26° outwards to help keep its exhaust from interfering with flight operations. The ship was designed with two superimposed [[hangar]]s, each approximately {{convert|153|m|ftin|sp=us}} long, {{convert|15|m|ftin|sp=us}} wide and {{convert|5|m|ftin|sp=us}} high. Each hangar could be subdivided by four fire curtains and they were fitted with [[fire fighting foam]] dispensers on each side. The hangars were served by two square [[Elevator#Aircraft elevators|aircraft elevator]]s with rounded corners, {{convert|14.03|m|ft|sp=us}} on each side. The elevators had a maximum capacity of {{convert|5000|kg|sp=us}} and took 15 seconds to go from the lower hangar to the flight deck. ''Hiyō'' was fitted with electrically operated Kure type model 4 arresting gear with nine cables. She also mounted two Type 3 [[Arresting gear#Barricade|crash barricades]]. No [[aircraft catapult]] was fitted. The ship mounted a [[crane (machine)|crane]] on the port side of the flight deck, just aft of the rear elevator. When collapsed, it was flush with the flight deck.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 108–14&lt;/ref&gt;
+
+The ship's air group was originally intended to consist of 12 [[Mitsubishi A5M]] 'Claude' fighters, plus four in storage, 18 [[Aichi D3A]] 'Val' dive bombers, plus two in reserve, and 18 [[Nakajima B5N]] 'Kate' [[torpedo bomber]]s. This was revised to substitute a dozen [[Mitsubishi A6M Zero]] fighters, and three in storage for the A5Ms by the time the ship commissioned in 1942. As a result of the lessons learned from the [[Battle of Midway]] in June, the ship's fighter complement was strengthened to 21 Zeros, and the other aircraft reduced to 12 D3As and 9 B5Ns. By the end of the year, six more Zeros replaced an equal number of D3As. Although it was possible to fit all these aircraft into the hangars, eight or nine were usually stored on the flight deck to reduce cramping below decks.&lt;ref name=lr111&gt;Lengerer &amp; Rehm-Takahara, p. 111&lt;/ref&gt;
+
+===Armor, armament and sensors===
+As a conversion from an ocean liner, it was not possible to add much armor, although the ship had a double hull. Two plates of Ducol steel, each {{convert|25|mm|abbr=on}} thick, protected the sides of the ship's machinery spaces. The ship's [[aviation gasoline]] tanks and [[magazine (artillery)|magazine]]s were protected by one layer of Ducol steel. In addition, her machinery spaces were further subdivided by transverse and longitudinal [[bulkhead (partition)|bulkhead]]s to limit any flooding.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, p. 188&lt;/ref&gt;
+
+The ship's primary armament consisted of a dozen 40-[[caliber (artillery)|caliber]] [[12.7 cm/40 Type 89 naval gun|12.7&amp;nbsp;cm Type 89]] [[anti-aircraft warfare|anti-aircraft]] (AA) guns in twin mounts on sponsons along the sides of the hull. ''Hiyō'' was also initially equipped with eight triple [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96]] light AA guns, also in sponsons along the sides of the hull. In early 1943, four more triple mounts were added and another four triple mounts late in the year. Two of these last four mounts were mounted on the stern and the others were placed in front of and behind the island. A dozen single mounts were also added, some of which were portable and could be mounted on tie-down points on the flight deck.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 188, 193&lt;/ref&gt;
+
+Two Type 94 high-angle [[Fire-control system#Naval fire control|fire-control director]]s, one on each side of the ship, were fitted to control the Type 89 guns. Each director mounted a {{convert|4.5|m|ftin|adj=on|sp=us}} [[rangefinder]]. Four Type 95 directors controlled the 25&amp;nbsp;mm guns and another pair were added in early 1943. Early warning was provided by two [[List of Japanese World War II radar#Shipborne Radar|Type 2, Mark 2, Model 1]] air search [[radar]]s. The first of these was mounted on the top of the island shortly before she was completed in July 1942 and the other was added later in the year. This latter system was fitted on the port side of the hull, outboard of the rear elevator.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 188–89, 193&lt;/ref&gt; A smaller [[List of Japanese World War II radar#Land-based Radar|Type 3, Mark 1, Model 3]] air search radar was added in 1944.&lt;ref&gt;Stille, p. 23&lt;/ref&gt;
+
+==Service history==
+''Hiyō''{{'}}s [[keel]] was laid down by [[Kawasaki Heavy Industries]] Shipyard, [[Kobe]], on 30 November 1939 with the name of ''Izumo Maru''. The ship was purchased on 10 February 1941 by the Navy Ministry and she was temporarily referred to as No. 1002 Ship (''Dai 1002 bankan'') to keep her conversion secret. She was [[Ship naming and launching|launched]] on 24 June 1941 and commissioned on 31 July 1942.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, pp. 17, 106–07&lt;/ref&gt;
+
+The ship was assigned to the [[Second Carrier Division]] of the [[1st Air Fleet (Imperial Japanese Navy)|1st Air Fleet]] after commissioning and became [[Rear Admiral]] [[Kakuji Kakuta]]'s [[flagship]] on 12 August. After spending the next several months [[Glossary of nautical terms#W|working up]], ''Hiyō'' arrived at [[Chuuk State|Truk]], together with her [[sister ship|sister]] {{ship|Japanese aircraft carrier|Jun'yō||2}}, on 9 October to begin operations against American forces in the Guadalcanal area as part of the [[3rd Fleet (Imperial Japanese Navy)|3rd Fleet]].&lt;ref name=t1&gt;Tully&lt;/ref&gt; On 15 October, the two carriers reached the vicinity of [[Malaita Island]] in the [[Solomon Islands]] and their aircraft discovered a resupply convoy for [[Guadalcanal]] that was escorted by the destroyer {{USS|Meredith|DD-434|2}}. The A6M Zeros and D3As from the sisters attacked and sank the destroyer. The next day, they found the small [[seaplane tender]], {{USS|McFarland|DD-237|2}}, in [[Lunga Roads]] offloading [[avgas]] into barges. Nine D3As attacked, blowing the ship's stern off and destroying the barge. ''McFarland'' was not sunk, but required months of repairs. The two carriers were intended to play a prominent role in the Japanese effort to retake Guadalcanal Island and were assigned to the Advance Force for this operation. Their aircraft were supposed to provide air cover after the Japanese night attack that retook [[Henderson Field (Guadalcanal)|Henderson Field]] and then they were to be flown ashore.&lt;ref&gt;Brown, pp. 178–79&lt;/ref&gt; A fire in the generator room occurred on 17 October and reduced her top speed to {{convert|16|kn}} so Admiral Kakuta transferred his flag to ''Jun'yō'' while ''Hiyō'' returned to Truk for repairs. Some of her aircraft, however, were also transferred to ''Jun'yō'' before she left.&lt;ref name=t1/&gt;
+
+The remaining aircraft of her air group (16 Zeros and 17 D3As) were flown off for Rabaul on 23 October where they provided air cover for Japanese forces on Guadalcanal. A detachment from the air group was transferred to [[Buin, Papua New Guinea]] on 1 November and participated in the [[Naval Battle of Guadalcanal]] later in the month. Those aircraft that remained at Rabaul flew back to Truk by 11 November, but the Buin detachment was ferried back to Japan on 14 December.&lt;ref&gt;Hata, pp. 64–65&lt;/ref&gt;
+
+''Hiyō'' spent November in Truk, during which time she was twice slightly damaged by American air raids, before returning to Japan in early December where she was rejoined by the rest of her air group. Aside from a brief refit at Kure from 26 February to 4 March 1943, the ship was training in the [[Seto Inland Sea|Inland Sea]] until she sailed for Truk on 22 March.&lt;ref name=t1/&gt; Her air group consisted of 27 Zeros and 12 D3As at this time. They were detached from ''Hiyō'' in early April to participate in [[Operation I-Go]], a land-based aerial offensive against Allied bases in the Solomon Islands and [[New Guinea]].&lt;ref name=h5&gt;Hata, p. 65&lt;/ref&gt; The carrier was again lightly damaged from bomb splinters on 12 April from an American air attack. After her air group returned, the ship arrived back in Japan on 21 May&lt;ref name=t1/&gt; in case she was needed to relieve Japanese forces fighting on the [[Battle of Attu|Attu Island]].&lt;ref name=h5/&gt;
+
+Now the flagship of the Second Carrier Division under Rear Admiral [[Munetaka Sakamaki]], ''Hiyō'' and her sister ''Junyō'' departed [[Yokosuka]] on 7 June en route for Truk. Later that evening, the ship was torpedoed by the submarine {{USS|Trigger|SS-237|6}} off [[Miyakejima]]. Hits in the starboard bow and boiler room knocked out all power, but she managed to return to Japan the following day after restoring power.&lt;ref name=t1/&gt; ''Hiyō''{{'}}s fighters were flown to Truk by 15 July and assigned to the light carrier {{ship|Japanese aircraft carrier|Ryūhō||2}}.&lt;ref name=h5/&gt; The ship was under repair at Yokosuka until 15 September.&lt;ref name=t1/&gt; On 1 November, ''Hiyō''{{'}}s air group was reconstituted with 24 Zeros, 18 D3As and 9 B5Ns&lt;ref name=h5/&gt; and the ship departed Japan for [[Singapore]] on 24 November. She arrived on 3 December and was almost immediately assigned duties as an aircraft ferry. On 9 December, ''Hiyō'' left Singapore en route for Truk with several deliveries on the way. The ship arrived there on 22 December&lt;ref name=t1/&gt; and disembarked her own air group&lt;ref name=h6&gt;Hata, p. 66&lt;/ref&gt; before proceeding on to [[Saipan]] to deliver more aircraft.&lt;ref name=t1/&gt; The air group was transferred to [[Kavieng]] and later Rabaul to provide air cover for Japanese operations there.&lt;ref name=h6/&gt;
+ 
+''Hiyō'' returned to Japan on 1 January 1944 and her air group rejoined her on 2 March, albeit without aircraft. In the meantime, the Japanese Navy had restructured its carrier air groups so that one air group was assigned to one carrier division and [[Air Group 652]] was assigned to the 2nd Carrier Division with ''Hiyō'', ''Jun'yō'' and ''Ryūhō''. The air group was last in priority to be rebuilt and only had 30 Model 21 Zeros, 13 Model 52 Zeros and four D3As on hand on 1 April of its authorized 81 fighters, 36 dive bombers and 27 torpedo bombers. The ship conducted training for her aircraft in the Inland Sea until 11 May when she sailed for [[Tawi-Tawi]] in the [[Philippines]].&lt;ref&gt;Hata, pp. 66, 80–81&lt;/ref&gt; The new base was closer to the oil wells in [[Borneo]] on which the Navy relied and also to the [[Palau]] and western [[Caroline Islands]] where the Japanese expected the next American attack. However, the location lacked an airfield on which to train the green pilots and American submarines were very active in the vicinity which restricted the ships to the anchorage.&lt;ref&gt;Palomar &amp; Genda, pp. 380–81&lt;/ref&gt;
+
+===Battle of the Philippine Sea===
+{{main|Battle of the Philippine Sea}}
+The Japanese fleet was en route to Guimares Island in the central Philippines on 13 June, 1944 where they intended to practice carrier operations in an area better protected from submarines, when [[Vice Admiral]] [[Jisaburō Ozawa]] learned of the American attack on the [[Mariana Islands]] the previous day. Upon reaching Guimares, the fleet refuelled and sortied into the [[Philippine Sea]] where they spotted [[Task Force 58]] on 18 June. The Americans failed to locate Ozawa's ships that day and the Japanese turned south to maintain a constant distance between them and the American carriers as Ozawa had decided on launching his air strikes early the following morning. At this time, Air Group 652 consisted 81 Zeros, 27 D3As, 9 [[Yokosuka D4Y]] &quot;Judy&quot; dive bombers and 18 [[Nakajima B6N]] &quot;Jill&quot; torpedo bombers, roughly evenly divided among the three carriers under his command. The carriers began launching their first air strike of 26 bomb-carrying A6M2 Zeros, seven B6Ns and 16 A6M5 Zeros as escort around 09:30. Most of these aircraft were misdirected and failed to find any American ships, although a dozen persisted in their search and found one of the American task groups. Five bomb-carrying Zeros, a B6N and an escort Zero were shot down by the defending fighters and no damage was inflicted on any American ship.&lt;ref&gt;Brown, pp. 252, 257–61&lt;/ref&gt;
+
+A second air strike of 27 D3As, nine D4Ys, two B6Ns and 26 escorting Zeros was launched around 11:00, accompanied by at least 18 A6Ms and B6Ns from the carriers {{ship|Japanese aircraft carrier|Shōkaku||2}} and {{ship|Japanese aircraft carrier|Zuikaku||2}}. They had also been given an erroneous spot report and were unable to find any American ships. Some of the aircraft headed for airfields at [[Rota (island)|Rota]] and [[Guam]] to refuel while the remainder headed back to the carriers. Six D4Ys and two Zeros bound for Rota spotted the carriers {{USS|Wasp|CV-18|2}} and {{USS|Bunker Hill|CV-17|2}} en route and failed to inflict any damage on the American ships while losing five D4Ys to anti-aircraft fire. Radar had spotted those aircraft headed for Guam and they were intercepted by 41 [[Grumman F6F Hellcat]]s. Only one A6M5, one D4Y and seven D3As of 49 Japanese aircraft survived the encounter and landed.&lt;ref&gt;Brown, pp. 261–62&lt;/ref&gt;
+
+At dusk, the Japanese turned away to the northwest to regroup and to refuel and the Americans turned west to close the distance. They discovered the retiring Japanese fleet during the afternoon of the following day and Vice Admiral [[Marc Mitscher]] ordered an air strike launched.&lt;ref&gt;Brown, pp. 263–64&lt;/ref&gt; ''Hiyō'' was struck by two bombs, one of which detonated above the [[bridge (nautical)|bridge]] and killed or wounded virtually everyone there. More seriously, the ship was struck by one torpedo dropped by a [[Grumman TBF Avenger]] from {{USS|Belleau Wood|CVL-24|2}}. This knocked out the starboard engine room and started fires, but ''Hiyō'' was able to continue, albeit a slower speed. Two hours later, a large explosion occurred when leaking gasoline vapor ignited and it knocked out all power on the ship. The fires raged out of control and ''Hiyō'' sank stern first&lt;ref name=t1/&gt; shortly afterwards at {{coord|16|20|N|132|32|E|display=inline, title}}.&lt;ref&gt;Lengerer &amp; Rehm-Takahara, p. 193&lt;/ref&gt; Roughly 1,000 men were rescued by her escorting [[destroyer]]s, but 247 officers and enlisted men died aboard the carrier.&lt;ref name=t1/&gt;
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+* {{cite book|last=Brown|first=J. D.|title=Carrier Operations in World War II|year=2009|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-108-2}}
+*{{cite book
+ | last = Hata
+ | first = Ikuhiko
+ | authorlink = Ikuhiko Hata
+ |author2=Yasuho Izawa |translator=Don Cyril Gorham
+ |orig-year=1975 |date=1989
+ | chapter =
+ | title = Japanese Naval Aces and Fighter Units in World War II
+ | publisher=Naval Institute Press
+ | location = [[Annapolis, Maryland]]
+ | isbn = 0-87021-315-6
+}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869&amp;ndash;1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X}}
+*{{cite book|last=Lengerer|first=Hans| first2 = Tomoko|last2=Rehm-Takahara|editor=Lambert, Andrew|title=Warship IX|year=1985|publisher=Conway Maritime Press|location=London|isbn=0-85177-403-2|chapter=The Japanese Aircraft Carriers Junyo and Hiyo|pages=9–19, 105–114, 188–193}}
+*{{cite book|last1=Polmar|first1=Norman|last2=Genda |first2=Minoru |authorlink2=Minoru Genda|title=Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events|publisher=Potomac Books|location=Washington, D.C.|year=2006|volume=Volume 1, 1909-1945|isbn=1-57488-663-0}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book| last = Stille| first = Mark| series =New Vanguard|volume=109| year = 2005| title = Imperial Japanese Navy Aircraft Carriers 1921–1945| publisher = Osprey Publishing | location = Oxford, UK | isbn = 1-84176-853-7}}
+*{{cite web
+| last = Tully
+| first = Anthony P.
+| year = 2006
+| url = http://www.combinedfleet.com/hiyo.htm
+| title = IJN Hiyo: Tabular Record of Movement
+| work = Kido Butai
+| publisher = Combinedfleet.com
+| accessdate =23 October 2011
+}}
+
+==Further reading==
+* {{cite book|title=Conway's All the World's Fighting Ships 1922-1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich|year=1980|isbn=0-85177-146-7}}
+
+==External links==
+{{Commons category|Hiyo (ship, 1942)|Hiyō}}
+* [http://ww2db.com/ship_spec.php?ship_id=A21 ''Hiyo'' in the World War II Database]
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Hiyō class aircraft carrier}}
+{{June 1944 shipwrecks}}
+{{Good Article}}
+
+{{DEFAULTSORT:Hiyo}}
+[[Category:Hiyō-class aircraft carriers]]
+[[Category:Ships built in Japan]]
+[[Category:1941 ships]]
+[[Category:World War II aircraft carriers of Japan]]
+[[Category:Aircraft carriers sunk by aircraft]]
+[[Category:World War II shipwrecks in the Philippine Sea]]
+[[Category:Maritime incidents in June 1943]]
+[[Category:Maritime incidents in June 1944]]
+[[Category:Ships sunk by US aircraft]]</text>
+      <sha1>k8eu5bl5r2wtjnp9jxygymhhd20ik3r</sha1>
+    </revision>
+  </page>
+</mediawiki>

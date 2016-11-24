@@ -1,0 +1,175 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>M-class cruiser</title>
+    <ns>0</ns>
+    <id>6506917</id>
+    <revision>
+      <id>744224978</id>
+      <parentid>744224735</parentid>
+      <timestamp>2016-10-13T22:04:37Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <comment>please do not add material without a source</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11540">{|{{Infobox ship begin|sclass=2}}
+{{Infobox ship image
+|Ship image=[[File:MclassCruiser2Dmap5-eBigFlagalt.jpg|300px]]
+|Ship caption=Illustration of the M-class design
+}}
+{{Infobox ship class overview
+|Name=
+|Builders=[[Kriegsmarinewerft Wilhelmshaven]]
+|Operators={{navy|Nazi Germany}}
+|Class before= {{sclass-|Leipzig|cruiser}}
+|Class after= None
+|Subclasses=
+|Cost=
+|Built range=1938&amp;ndash;1939
+|In service range=
+|In commission range=
+|Total ships building=
+|Total ships planned=6
+|Total ships completed=
+|Total ships cancelled=6
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Light cruiser]]
+|Ship displacement=*{{convert|8500|t|LT|0}} ''(M, N, O, P)''
+*{{convert|9300|t|LT|0}} ''(Q, R)''
+|Ship length=*{{convert|183|m|ft|abbr=on}} ''(M, N, O, P)''
+*{{convert|196|m|ft|abbr=on}} ''(Q, R)''
+|Ship beam=*{{convert|17|m|ft|abbr=on}} ''(M, N, O, P)''
+*{{convert|18|m|ft|abbr=on}} ''(Q, R)''
+|Ship height=
+|Ship draft=*{{convert|5.42|m|ft|abbr=on}} ''(M, N, O, P)''
+*{{convert|5.40|m|ft|abbr=on}} ''(Q, R)''
+|Ship depth=
+|Ship propulsion=
+|Ship speed=*{{convert|35.5|kn|lk=in}} ''(M, N, O, P)''
+*{{convert|36|kn}} ''(Q, R)''
+|Ship range=*{{convert|8000|nmi|km|abbr=on|lk=in}} at {{convert|19|kn|km/h|abbr=on}} ''(M, N, O, P)''
+*{{convert|12000|nmi|km|abbr=on|lk=in}} at {{convert|19|kn}} ''(Q, R)''
+|Ship endurance=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=*28 officers
+*892 men
+|Ship sensors=
+|Ship EW=
+|Ship armament=*8 × {{convert|15|cm|in|abbr=on}} guns
+*4 × {{convert|8.8|cm|in|abbr=on}} AA
+*8 × {{convert|3.7|cm|in|abbr=on}} AA
+*4 × {{convert|2|cm|in|abbr=on}} AA
+*8 × {{convert|53|cm|in|abbr=on|0}} torpedo tubes
+*60 mines
+
+|Ship armor=*Belt: {{convert|2|in|mm|abbr=on}}
+*Deck: {{convert|1|in|mm|abbr=on}}
+*Turret: {{convert|1|in|mm|abbr=on}}
+|Ship aircraft=2 × [[Arado 196]] seaplanes
+|Ship aircraft facilities=1 × steam catapult
+|Ship notes=
+}}
+|}
+
+The '''M-class cruisers''' were a class of [[light cruiser]]s planned, but never built, by [[Nazi Germany]]'s ''[[Kriegsmarine]]'' before [[World War II]]. The ships were designed for commerce raiding in the Atlantic Ocean. The design for the first four ships suffered from a number of problems, and so the fifth and sixth ships were substantially redesigned.
+
+The name of the class is taken from the letter designating the first projected unit. As long as the ships were not named, they were referred to by letters assigned in the chronological order of their planned construction. The first planned unit would have been the thirteenth German cruiser and was therefore listed as ''cruiser M'' in the navy's documents. Had any of the ships been built, the class would have been named after the first completed unit.
+
+==Development and cancellation==
+The M class was intended for use as a scout for the commerce raiding squadrons envisioned under [[Plan Z]].&lt;ref&gt;Zabecki, p. 901&lt;/ref&gt; The ships design process started in 1936; the ships were intended for long-range commerce raiding. They were an improvement over previous designs, which suffered from insufficient range to be effective commerce raiders. However, the requirements placed on the design&amp;mdash;high maximum and cruising speeds, long range, heavy armament, and armor sufficient to withstand 15&amp;nbsp;cm shells, all on a displacement no more than 8,000&amp;nbsp;[[metric tons]]&amp;mdash;were deemed impossible by the design staff. In July 1937, the ''Oberbefehlshaber der Marine'' (commander in chief of the navy) requested proposals from both the naval design staff as well as private dockyards. None of the designs by the dockyards were practical, and so the official design, which only met some of the requirements, was chosen.&lt;ref name=&quot;Groner124&quot;&gt;Gröner, p. 124&lt;/ref&gt;
+
+During further development of the design, serious flaws became apparent, including the weakness of both the main battery and anti-aircraft armament, as well as the insufficiently thick armor protection. The stepped arrangement of the deck armor wasted space and was therefore impractical. The layout of the propulsion system was also problematic; both turbines were in the same engine room, and therefore each were vulnerable to disabling if the other was damaged. Their crew spaces were also insufficient for long-range cruises. As a result, the design was heavily modified for the last two ships of the class, ''Q'' and ''R''.&lt;ref&gt;Gröner, pp. 124&amp;ndash;125&lt;/ref&gt; The initial design borrowed on contemporary British and French ships, the {{sclass-|Southampton|cruiser|4}} and {{sclass-|La Galissonnière|cruiser|4}}, respectively. The distribution of the M-class ships' side armor was the most obvious influence of the ''Southampton''-class design.&lt;ref name=&quot;Groner124&quot;/&gt;
+
+The contract for ''M'' was assigned to ''[[Deutsche Werke]]'' in [[Kiel]] under the construction number 263. ''N'' followed at the [[Kriegsmarinewerft Wilhelmshaven|''Kriegsmarinewerft'']] in [[Wilhelmshaven]], as number 129. ''O''&amp;mdash;construction number 606&amp;mdash;was assigned to ''[[Germaniawerft]]'' in Kiel, but on 8 August 1939, the contract was transferred to the Kriegsmarinewerft. ''P'' was also assigned to ''Germaniawerft'', under number 607. ''Q'' was assigned to [[Schichau-Werke|Schichau]] in [[Danzig]], and the contract for ''R'' was awarded to the ''Deutsche Werke''. Only the keels for ''M'' and ''N'' were laid&amp;mdash;in 1938&amp;mdash;but construction was halted on 19 and 21 September 1939, respectively. Both hulls were broken up on the stocks shortly thereafter.&lt;ref name=&quot;Groner125&quot;/&gt;
+
+==Design==
+
+===General characteristics===
+The first four M-class ships&amp;mdash;''M, N, O,'' and ''P''&amp;mdash;were 178 meters long at the waterline, and 183 meters long overall. They had a beam of 17 meters and a draft of 5.42 meters standard, 7.25 meters forward, and 6.03 meters aft. The ships had a designed displacement of 8,500&amp;nbsp;[[metric ton]]s, but displaced 7,800&amp;nbsp;tons at standard load and 10,400&amp;nbsp;tons fully laden.&lt;ref name=&quot;Groner125&quot;&gt;Gröner, p. 125&lt;/ref&gt; The ships had a crew of 28 officers and 892 men. They were designed to carry one picket boat, a barge, a launch, and two cutters.&lt;ref name=&quot;Groner124&quot;/&gt;
+
+The last two ships&amp;mdash;''Q'' and ''R''&amp;mdash;were enlarged versions: 188 meters long at the waterline and 196 m overall. Their beams were 1 meter wider, at 18 meters. The ships' draft was lower at 5.4 meters. The ships were designed to displace 9,300 tons, and displaced 8,568 tons standard.&lt;ref name=&quot;Groner125&quot;/&gt; All six ships were to have steel-made, and up to 85% welded construction. The design called for fifteen [[watertight compartment]]s and a [[double bottom]] for 78% of the length of the hull.&lt;ref name=&quot;Groner124&quot;/&gt;
+
+All six ships were intended to use two sets of Brown, Boveri, &amp; Co. and Wagner turbines or Marine-type turbines built by [[Germaniawerft]] and four [[MAN SE|MAN]] double-acting 12-cylinder two-stroke diesels. ''Q'' and ''R'' however, was equipped with an additional four diesels, for a total of eight. The turbines were powered by four Wagner ultra-high pressure boilers, designed to put out 58 atmospheres of pressure. The propulsion system drove three screws, although four were considered for ''Q'' and ''R''. The ships' electrical power was supplied by four generators that produced 2,400&amp;nbsp;kW at 220&amp;nbsp;[[volt]]s.&lt;ref name=&quot;Groner124&quot;/&gt;
+
+===Armament and armor===
+All six ships were armed with the same set of weaponry. The primary armament consisted of eight 15&amp;nbsp;cm L/55 quick-firing guns mounted in four twin [[Gun turret|turrets]], in superfiring pairs fore and aft. The guns had a total of 960 shells, for 120 rounds per gun.&lt;ref name=&quot;Groner124&quot;/&gt; 
+The 15&amp;nbsp;cm twin turrets were Drh L. C/34 mounts&amp;mdash;the same type as those fitted to the {{sclass-|Bismarck|battleship|5}}- and {{sclass-|Scharnhorst|battleship|2}}s, as well as a number of other designs.&lt;ref name=conways&gt;Gardiner &amp; Chesneau, p. 232&lt;/ref&gt; The turrets allowed depression to -10&amp;nbsp;degrees and elevation to 40&amp;nbsp;degrees, which enabled a maximum range of {{convert|22000|m|yd|abbr=on}}. The 15&amp;nbsp;cm guns had a rate of fire of between 6 and 8 {{convert|45.3|kg|lb|abbr=on}} rounds per minute, at a [[muzzle velocity]] of 875&amp;nbsp;meters per second (2,871&amp;nbsp;ft/s). The guns used two propellant charges: a {{convert|14.15|kg|lb|abbr=on}} RPC/38 fore charge and a {{convert|23.5|kg|lb|abbr=on}} main charge in a brass cartridge.&lt;ref name=&quot;Navweaps15&quot;&gt;{{cite web | last = DiGiulian | first = Tony | title = German 15 cm/55 (5.9&quot;) SK C/28| url = http://www.navweaps.com/Weapons/WNGER_59-55_skc28.htm | publisher = Navweaps.com | date = 20 November 2008 | accessdate = 2 June 2009 }}&lt;/ref&gt;
+
+The ships carried four 8.8&amp;nbsp;cm L/76 [[anti-aircraft gun]]s in two twin turrets, aft of the main [[superstructure]]. The 8.8&amp;nbsp;cm guns were supplied with 1,600 shells, for 400 rounds per gun.&lt;ref name=&quot;Groner124&quot;/&gt; These guns fired {{convert|19.8|kg|lb|abbr=on}} [[high explosive]] shells at a [[rate of fire]] of 15 to 20 rounds per minute and a [[muzzle velocity]] of 950&amp;nbsp;m/s (3,117&amp;nbsp;ft/s). The guns could elevate to 80&amp;nbsp;degrees, which allowed them to hit targets flying at {{convert|12400|m|ft|abbr=on}}.&lt;ref name=&quot;Navweaps88&quot;&gt;{{cite web | last = DiGiulian | first = Tony | title = German 8.8 cm/76 (3.46&quot;) SK C/32| url = http://www.navweaps.com/Weapons/WNGER_88mm-76_skc32.htm | publisher = Navweaps.com | date = 11 February 2007 | accessdate = 2 June 2009 }}&lt;/ref&gt; The M-class ships were also equipped with eight 3.7&amp;nbsp;cm AA guns in twin mounts centered on the superstructure. They had a total of 9,600 shells. The anti-aircraft weaponry was supplemented with four 2&amp;nbsp;cm guns, each of which had 2,000 rounds. The ships were also armed with eight deck-mounted [[torpedo tube]]s and approximately 60 [[Naval mine|mines]].&lt;ref name=&quot;Groner124&quot;/&gt;
+
+The ships were to have been protected with [[Krupp armour|Krupp]] and ''Wotan, Hart'' (&quot;Wotan&quot;, Hard) armor plating. The class decks were 20&amp;nbsp;mm thick, with 35&amp;nbsp;mm thick sloped deck. The [[conning tower]] had a roof that was 50&amp;nbsp;mm thick and sides 100&amp;nbsp;mm thick. The inner layer of the [[armor belt]] was 50&amp;nbsp;mm thick in critical areas amidships, and tapered down to zero protection at the stern and bow. The outer layer was 30&amp;nbsp;mm amidships; it too tapered down to nothing at both ends of the ships. The gun turrets had the same armor protection as the preceding light cruiser {{ship|German cruiser|Nürnberg||2}}:&lt;ref name=&quot;Groner124&quot;/&gt; the sides were 35&amp;nbsp;mm thick, the faces were 80&amp;nbsp;mm thick, the roofs ranged in thickness from 20&amp;ndash;35&amp;nbsp;mm. The armor protecting the turret [[barbette]]s was 60&amp;nbsp;mm thick.&lt;ref&gt;Gröner, p. 122&lt;/ref&gt;
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+* {{cite book|author1=Gardiner, Robert |author2=Chesneau, Roger | title=Conway's All the World's Fighting Ships, 1922–1946 |publisher=Naval Institute Press |year=1980 |isbn=0-87021-913-8}}
+* {{cite book|last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-790-9}}
+* {{cite book|last=Zabecki|first=David T.|title=World War II in Europe|volume=1|year=1999|location=New York|publisher=Garland Pub|isbn=0-8240-7029-1}}
+
+{{WWIIGermanShips}}
+{{Good article}}
+
+[[Category:Plan Z]]
+[[Category:Cruiser classes]]
+[[Category:Cruisers of the Kriegsmarine]]
+[[Category:Proposed ships of Germany]]</text>
+      <sha1>pby0i68ri4rpp6nxaql712x2js6mv7r</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>U-1-class submarine (Austria-Hungary)</title>
+    <ns>0</ns>
+    <id>20205614</id>
+    <revision>
+      <id>720960932</id>
+      <parentid>704244416</parentid>
+      <timestamp>2016-05-18T23:38:50Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>/* Bibliography */ fixed deprecated parameters in sources</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13611">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SM U-1 (Austria-Hungary).jpg|300px|{{SMS|U-1|Austria-Hungary|6|sub=y}}, the [[class leader]], departs [[Pula|Pola]] in 1914.]]
+|Ship caption= {{SMS|U-1|Austria-Hungary|6|sub=y}}, the [[class leader]], departs [[Pula|Pola]] in 1914.
+}}
+{{Infobox ship class overview
+|Builders=Pola Navy Yard, [[Pula|Pola]]&lt;ref name=Con-342&gt;Gardiner, p. 342.&lt;/ref&gt;
+|Operators={{navy|Austria-Hungary}}
+|Class before=
+|Class after= [[U-3 class submarine (Austria-Hungary)|''U-3''-class submarine]]
+|Subclasses=
+|Built range=1907–09&lt;ref name=BS&gt;Baumgartner and Sieche, as excerpted [http://www.gwpda.org/naval/ahsubs.htm here] (reprinted and translated into English by Sieche). Retrieved 14 November 2008.&lt;/ref&gt;
+|In commission range= until 1918
+|Total ships planned=2
+|Total ships completed=2
+|Total ships lost=0
+|Total ships scrapped=2
+|Total ships preserved=0
+}}
+{{Infobox ship characteristics
+|Ship type=[[submarine]]
+|Ship displacement=*''As built'':
+*{{convert|229.7|MT|LT|0|abbr=on}} surfaced&lt;ref name=Sieche-17&gt;Sieche, p. 17.&lt;/ref&gt;
+*{{convert|223.0|MT|LT|0|abbr=on}} submerged&lt;ref name=Sieche-17 /&gt;
+*''After modernization'':
+*{{convert|248.9|MT|LT|0}} surfaced&lt;ref name=Sieche-17 /&gt;
+*{{convert|277.5|MT|LT|0}} submerged&lt;ref name=Sieche-17 /&gt;
+|Ship length=*''As built'':
+*{{convert|100|ft|m|abbr=on}}&lt;ref name=Con-342 /&gt;
+*''After modernization'':
+*{{convert|100|ft|11|in|m|abbr=on}}&lt;ref name=Con-342 /&gt;
+|Ship beam={{convert|15|ft|9|in|m|abbr=on}}&lt;ref name=Con-342 /&gt;
+|Ship draft={{convert|12|ft|8|in|m|abbr=on}}&lt;ref name=Con-342 /&gt;
+|Ship propulsion=*''As built'':
+*2 × shafts
+*2 × [[gasoline engine]]s, {{convert|720|bhp|abbr=on}} total&lt;ref name=Sieche-17 /&gt;
+*2 × [[electric motor]]s, {{convert|200|shp|abbr=on}} total&lt;ref name=Sieche-17 /&gt;
+*''After modernization'':
+*2 × [[diesel engine]]s (replaced the gasoline engines)&lt;ref name=Con-342 /&gt;
+|Ship test depth={{convert|40|m|ft|sp=us}}&lt;ref name=Sieche-16 /&gt;
+|Ship complement=17&lt;ref name=Con-342 /&gt;
+|Ship armament=*3 × {{convert|45|cm|in|1|abbr=on}} torpedo tubes (two front, one rear); 5 torpedoes
+*1 × {{convert|37|mm|in|abbr=on}} [[deck gun]]&lt;ref name=Con-342 /&gt;
+|Ship speed=*{{convert|10.3|knots|km/h}} surfaced&lt;ref name=Con-342 /&gt;
+*{{convert|6|knots|km/h}} submerged&lt;ref name=Con-342 /&gt;
+|Ship range=*{{convert|950|nmi|km|abbr=on}} @ {{convert|6|knots|km/h}}, surfaced&lt;ref name=Con-342 /&gt;
+*{{convert|40|nmi|km|abbr=on}} @ {{convert|2|knots|km/h}}, submerged&lt;ref name=Con-342 /&gt;
+|Ship notes=
+}}
+|}
+The '''''U-1'' class''' was a [[ship class|class]] of two [[submarine]]s or [[U-boats]] built for and operated by the [[Austro-Hungarian Navy]] ({{lang-de|Kaiserliche und Königliche Kriegsmarine ''or'' K.u.K. Kriegsmarine}}). The ''U-1''-class boats were built to an American design at the navy yard in [[Pula|Pola]]. The class was a part of the Austro-Hungarian Navy's efforts to competitively evaluate three foreign submarine designs.
+
+The two ''U-1''-class boats, both launched in 1909, were {{convert|100|ft|m}} long and as built were each powered by two [[gasoline engine]]s while surfaced, and two [[electric motor]]s when submerged. Neither boat was operational at the beginning of [[World War I]] because both were in drydock awaiting replacement [[diesel engine]]s for their problematic gasoline engines.
+
+Beginning in 1915, both boats conducted reconnaissance cruises out of either [[Trieste]] or Pola until declared obsolete in early 1918. Both remained in service as a training boats at the submarine base on [[Brioni Island|Brioni]], but each was at Pola at the end of the war. They were ceded to Italy as [[war reparations]] in 1920 and scrapped at Pola. Neither submarine sank any ships during the war.
+
+== Design and construction ==
+In 1904, after allowing the navies of other countries to pioneer submarine developments, the [[Austro-Hungarian Navy]] ordered the Austrian Naval Technical Committee (MTK) to produce a submarine design. The January 1905 design developed by the MTK and other designs submitted by the public as part of a design competition were all rejected by the Navy as impracticable. They instead opted to order two submarines each of designs by [[Simon Lake]], [[Friedrich Krupp Germaniawerft|Germaniawerft]], and [[John Philip Holland]] for a competitive evaluation. The two Lake-designed submarines comprised the ''U-1'' class.&lt;ref name=Con-340&gt;Gardiner, p. 340.&lt;/ref&gt;&lt;ref group=Note&gt;The Germaniawerft design became the [[U-3 class submarine (Austria-Hungary)|''U-3''-class]] while the Holland design became the [[U-5 class submarine (Austria-Hungary)|''U-5'' class]].&lt;/ref&gt; The Navy ordered plans for the building of two boats—designated ''U-1'' and ''U-2''—from the [[Lake Torpedo Boat Company]] of [[Bridgeport, Connecticut]], in 1906.&lt;ref name=Gib-383&gt;Gibson and Prendergast, p. 383.&lt;/ref&gt;
+
+The ''U-1''-class design had several features typical of Lake's designs, including a diving chamber under the bow and two variable pitch [[screw propeller|propellers]]. Lake's design also called for two retractable wheels that, in theory, could allow travel over the [[seabed]]. The design also placed the [[diving tank]]s above the waterline of the single, cylindrical [[submarine hull|hull]], which necessitated a heavy [[keel|ballast keel]] for vertical stability. The propulsion system for the ''U-1'' class consisted of two [[gasoline engine]]s for surface running and two [[electric motor]]s for running while submerged.&lt;ref name=Con-342 /&gt; For underwater steering and maneuverability, the design featured four pairs of [[diving plane]]s.&lt;ref name=Sieche-16&gt;Sieche, p. 16.&lt;/ref&gt;
+
+The boats were {{convert|100|ft|m|0}} long by {{convert|15|ft|9|in|m}} [[beam (ship)|abeam]] and had a [[draft (ship)|draft]] of {{convert|12|ft|8|in|m}}. As designed, each boat [[displacement (ship)|displaced]] {{convert|229.7|MT|LT}} surfaced and {{convert|248.9|MT|LT}} submerged.&lt;ref name=Con-342 /&gt; Both of the submarines had three {{convert|45|cm|in|1|sp=us|adj=on}} torpedo tubes—two in the bow, one in the stern—and could carry up to five torpedoes,&lt;ref name=Con-342 /&gt; but typically carried three.&lt;ref name=Gib-383 /&gt; Each submarine was also armed with a {{convert|37|mm|in|sp=us|adj=on}} [[deck gun]].&lt;ref name=Con-342 /&gt;
+
+''U-1'' and ''U-2'' were [[keel laying|laid down]] in July 1907 at the navy yard at [[Pula|Pola]],&lt;ref name=BS /&gt; and were [[launch (ship)|launch]]ed in February and April 1909, respectively.&lt;ref name=Con-342 /&gt;&lt;ref group=Note&gt;In their book ''The German Submarine War, 1914–1918'', R. H. Gibson and Maurice Prendergast report that ''U-1'' was launched in 1911 and ''U-2'' in 1910 (p. 383).&lt;/ref&gt;
+
+== Service career ==
+Upon completion of the two boats, the Austro-Hungarian Navy evaluated the ''U-1'' class in trials through 1910. During the trials, technical problems with the gasoline engines were revealed. Exhaust fumes and gasoline vapors frequently poisoned the air inside the boats and the engines themselves were not able reach the contracted speed.&lt;!-- source does not identify the speed--&gt;&lt;ref name=Con-342 /&gt; Because of the problems, the Austro-Hungarian Navy considered the engines to be unsuitable for wartime use and paid only for the hulls and armament of the two ''U-1'' boats. While replacement [[diesel engine]]s were ordered from the Austrian firm ''Maschinenfabrik'' Leobersdorf, they agreed to a lease of the gasoline engines at a fee of US$4,544 annually.&lt;ref name=Sieche-16 /&gt;
+
+In order to dive, the diving tanks, located above the waterline, had to be flooded by pumps, which took over 14½ minutes in early tests, but which was later reduced to 8 minutes. The maximum diving depth was set at {{convert|40|m|ft|sp=us}} when the hulls began to show signs of stress at that depth. The four pairs of diving planes gave the boats exceptional underwater handling, and, when the boats were properly trimmed and balanced, the boats could be held within {{convert|20|cm|in|sp=us}} of the desired depth. Other tests proved the underwater wheels to be useless.&lt;ref name=Sieche-16 /&gt; The ''U-1'' class boats outperformed the [[U-3 class submarine (Austria-Hungary)|''U-3'']] (Germaniawerft) and [[U-5 class submarine (Austria-Hungary)|''U-5'']] (Holland) classes in both diving and steering capabilities in the Austro-Hungarian Navy evaluations.&lt;ref name=Con-340 /&gt;
+
+Both boats were officially [[commission (ship)|commission]]ed into the Austro-Hungarian Navy in 1911—''U-1'' in April, ''U-2'' in June—and served as training boats, each making as many as ten training cruises a month.&lt;ref name=Sieche-18&gt;Sieche, p. 18.&lt;/ref&gt; At the outbreak of [[World War I]], ''U-1'' and ''U-2'' were both in drydock awaiting the installation of their new diesel engines.&lt;ref name=Con-341&gt;Gardiner, p. 341.&lt;/ref&gt; To accommodate the new engines, the boats were lengthened by about {{convert|11|in|cm}}. These changes lowered the surface displacement to {{convert|223.0|MT|LT}} but increased the submerged displacement to {{convert|277.5|MT|LT}}.&lt;ref name=Con-342 /&gt;
+
+From 1915, both boats conducted reconnaissance cruises out of either [[Trieste]] or Pola. In January 1918, the boats were declared obsolete, but remained in service as training boats at the submarine base at [[Brioni Island|Brioni]], but at the war's end both boats were in Pola,&lt;ref name=GP-388&gt;Gibson and Prendergast, p. 388.&lt;/ref&gt; After the war, both boats were ceded to Italy as [[war reparations]] and scrapped.&lt;ref name=Con-342 /&gt; Neither boat sank any ships during the war.&lt;ref name=KUK-U-1&gt;{{cite web | last = Helgason | first = Guðmundur | title = WWI U-boats: U KUK U1 | url = http://uboat.net/wwi/boats/index.html?boat=KUK+U1 | work = U-Boat War in World War I | accessdate = 14 November 2008 }}&lt;/ref&gt;&lt;ref name=KUK-U-2&gt;{{cite web | last = Helgason | first = Guðmundur | title = WWI U-boats: U KUK U2 | url = http://uboat.net/wwi/boats/index.html?boat=KUK+U2 | work = U-Boat War in World War I | accessdate = 14 November 2008 }}&lt;/ref&gt;
+
+== Class members ==
+=== SM ''U-1'' ===
+{{main|SM U-1 (Austria-Hungary)}}
+''U-1'' was [[keel laying|laid down]] at the navy yard at [[Pula|Pola]] in July 1907, launched in February 1909, and underwent trials throughout 1910. She was [[commission (ship)|commission]]ed in April 1911 and served as a training boat through 1914. Her [[periscope]] was damaged when she was accidentally rammed by an Austro-Hungarian cruiser in January 1914.&lt;ref name=Sieche-18 /&gt; At the beginning of World War I, ''U-1'' was not operational because she was in drydock awaiting new batteries and replacement [[diesel engine]]s.&lt;ref name=Con-342 /&gt; When the engine swap had been completed, ''U-1'' served as a training boat for the Austro-Hungarian Navy through October 1915. From November that same year she conducted reconnaissance cruises out of [[Trieste]] and Pola until she was declared obsolete in early 1918.&lt;ref name=Sieche-18 /&gt; ''U-1'' remained in service as a training boat at the submarine base on [[Brioni Island|Brioni]],&lt;ref name=Sieche-18 /&gt; but was at Pola at the end of the war.&lt;ref name=GP-388 /&gt; She was awarded to Italy as a [[war reparation]] in 1920 and scrapped at Pola.&lt;ref name=Con-342 /&gt; ''U-1'' did not sink any ships during the war.&lt;ref name=KUK-U-1 /&gt;
+
+=== SM ''U-2'' ===
+{{main|SM U-2 (Austria-Hungary)}}
+SM ''U-2'' was laid down at the navy yard at Pola in July 1907, launched in April 1909, and underwent trials through 1910. She was commissioned in June 1911 and served as a training boat through 1914. At the beginning of World War I, ''U-2'' was not operational because she was in drydock awaiting replacement [[diesel engine]]s. With her new engines and a new [[conning tower]] installed by June 1915, ''U-2'' conducted reconnaissance cruises out of [[Trieste]] but was declared obsolete in early 1918.&lt;ref name=Sieche-18 /&gt; ''U-2'' remained in service as a training boat at the submarine base on [[Brioni Island|Brioni]],&lt;ref name=Sieche-18 /&gt; but was at Pola at the end of the war.&lt;ref name=GP-388 /&gt; She was ceded to Italy as a [[war reparation]] in 1920 and scrapped at Pola.&lt;ref name=Con-342 /&gt; ''U-2'' sank no ships during the war.&lt;ref name=KUK-U-1 /&gt;
+
+== Notes ==
+{{Reflist|group=Note}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last = Baumgartner | first = Lothar |first2=Erwin |last2=Sieche  | title = Die Schiffe der k.(u.)k. Kriegsmarine im Bild |trans_title= Austro-Hungarian Warships in Photographs | language = German | location = [[Vienna|Wien]] | publisher = Verlagsbuchhandlung Stöhr | year = 1999 | isbn = 978-3-901208-25-6 | oclc = 43596931 }}
+* {{cite book | editor-last = Gardiner | editor-first = Robert | title = Conway's All the World's Fighting Ships, 1906–1921 | location = [[Annapolis, Maryland]] | publisher = [[Naval Institute Press]] | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 }}
+* {{cite book | last = Gibson | first = R. H. | first2 = Maurice |last2=Prendergast &lt;!-- not the American painter --&gt; | title = The German Submarine War, 1914–1918 | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2003 | origyear = 1931 | isbn = 978-1-59114-314-7 | oclc = 52924732 }}
+* {{cite book | last = Sieche | first = Erwin F. | chapter = Austro-Hungarian Submarines | title = Warship, Volume 2 | publisher = Naval Institute Press | year = 1980 | isbn = 978-0-87021-976-4 | oclc = 233144055 }}
+{{Refend}}
+
+{{U-1 class submarines}}
+{{Austro-Hungarian submarine classes}}
+
+{{Good article}}
+
+{{DEFAULTSORT:U-1 Class Submarine (Austria-Hungary)}}
+[[Category:Submarine classes]]
+[[Category:U-1-class submarines| ]]</text>
+      <sha1>js3z1pk678fnjovx59qfu1zgugag2wl</sha1>
+    </revision>
+  </page>
+</mediawiki>

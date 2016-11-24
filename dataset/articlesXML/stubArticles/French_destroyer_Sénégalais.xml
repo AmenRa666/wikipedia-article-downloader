@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French destroyer Sénégalais</title>
+    <ns>0</ns>
+    <id>48809460</id>
+    <revision>
+      <id>709190929</id>
+      <parentid>695178756</parentid>
+      <timestamp>2016-03-09T16:45:18Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */[[WP:CHECKWIKI]] error fixes/ ISSN syntax fixes using [[Project:AWB|AWB]] (11967)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3078">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:ALGERIEN.jpg|300px]]
+|Ship caption=[[Sister ship]] ''Algérien'' in 1917
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{Shipboxflag|France|naval}}
+|Ship name=''Sénéngalais''
+|Ship namesake=[[Senegalese people]]
+|Ship ordered=1916
+|Ship awarded=
+|Ship builder=[[Kawasaki Shipbuilding Corporation|Kawasaki Dockyard Co.]], [[Kobe]], Japan
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=1917
+|Ship launched=20 July 1917
+|Ship sponsor=
+|Ship christened=
+|Ship completed=1917
+|Ship commissioned=
+|Ship in service=8 November 1917
+|Ship struck=14 June 1936
+|Ship identification=
+|Ship fate=[[ship breaking|Scrapped]] after 1936
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship type=[[Destroyer]]
+|Ship displacement={{convert|685|t|LT|0|abbr=on|lk=on}}
+|Ship length=*{{convert|82.26|m|ftin|abbr=on}} ([[o/a]])
+*{{convert|79.4|m|ftin|abbr=on}} ([[p/p]])
+|Ship beam={{convert|7.33|m|ftin|abbr=on}}
+|Ship draft={{convert|2.39|m|ftin|abbr=on}}
+|Ship power=*{{convert|10000|PS|kW shp|lk=on|abbr=on}}
+*4 [[Kampon]] [[water-tube boiler]]s
+|Ship propulsion=3 shafts; 3 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]
+|Ship speed= {{convert|29|kn|lk=in}}
+|Ship range={{convert|2000|nmi|lk=in|abbr=on}} at {{convert|12|kn}}
+|Ship complement=109
+|Ship armament=*1 × single {{convert|120|mm|abbr=on}} gun
+*4 × single {{convert|76|mm|abbr=on|1}} guns
+*2 × twin {{convert|450|mm|abbr=on|1}} [[torpedo tube]]s
+|Ship notes=
+}}
+|}
+The '''French destroyer ''Sénéngalais''''' was one of a dozen {{sclass-|Arabe|destroyer}}s built for the [[French Navy]] in Japan during the [[First World War]].
+
+==Citations==
+{{reflist|30em}}
+
+==References==
+*{{cite book|last=Couhat|first=Jean Labayle|title=French Warships of World War I|year=1974|publisher=Ian Allen|location=London|isbn=0-7110-0445-5}}
+*{{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+*{{cite journal|last1=Garier|first1=Gérard|title=Les torpilleurs d'escadre français de construction japonaise: Le type 'Algérien' (1917 / 1936)|journal=Navires &amp; Historie|date=March 2001|volume=06|pages=33–51|publisher=Lela Presse|issn=1280-4290}}
+*{{cite book |first=Jean-Michel |last=Roche |year=2005 |chapter=Classement par types |title=Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 2, 1870 - 2006 |isbn=978-2-9525917-0-6 |oclc=165892922 |publisher=Roche |location=Toulon}}
+
+==External links==
+*[http://www.naval-history.net/WW1NavyFrench2.htm naval-history.net]
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Kaba class destroyers}}
+
+{{DEFAULTSORT:French destroyer Senegalais}}
+[[Category:1917 ships]]
+[[Category:Arabe-class destroyers| ]]
+[[Category:Ships built in Japan| ]]</text>
+      <sha1>rzt7b7mq8yb0cv0x2gowhfa6xncsint</sha1>
+    </revision>
+  </page>
+</mediawiki>

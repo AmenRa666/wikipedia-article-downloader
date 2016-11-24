@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Design A-150 battleship</title>
+    <ns>0</ns>
+    <id>3574763</id>
+    <revision>
+      <id>745536118</id>
+      <parentid>744183970</parentid>
+      <timestamp>2016-10-21T18:14:48Z</timestamp>
+      <contributor>
+        <ip>152.179.255.34</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11634">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Design A-150.jpg|250px|alt=A large ship sails toward the reader, while four guns in two turrets point at about a 45-degree angle at something off in the distance]]
+|Ship caption=An artist's interpretation of a A-150-class battleship by Richard Allison.
+}}
+{{Infobox ship class overview
+|Name= A-150
+|Builders=
+|Operators={{navy|Empire of Japan}}
+|Class before={{sclass-|Yamato|battleship|4}}
+|Class after=
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=
+|In commission range=
+|Total ships building=
+|Total ships planned=2
+|Total ships completed=0
+|Total ships cancelled=2
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Battleship]]
+|Ship displacement=Approximately {{convert|70000|LT|ST t|lk=in}}&lt;ref&gt;Breyer (1973), p. 330&lt;/ref&gt;
+|Ship length= {{Convert|263.0|m|ft|0|abbr=on}} (est.)
+|Ship beam= {{Convert|38.9|m|ft|0|abbr=on}} (est.)
+|Ship height=
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=Unknown
+|Ship range=
+|Ship endurance=
+|Ship boats=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*6 × {{convert|510|mm|in|1|abbr=on}}/45 [[Caliber#Caliber as measurement of length|caliber]] guns (3 × 2)&lt;ref name=510mm/&gt;
+*&quot;Many&quot;&amp;nbsp;{{convert|100|mm|in|abbr=on}}/65 caliber guns&lt;ref name=Garzke85/&gt;
+|Ship armor=Possibly a {{convert|460|mm|in|abbr=on}} [[belt armor|side belt]]; nothing more is given in sources&lt;ref name=Garzke86&gt;Garzke and Dulin (1985), p. 86&lt;/ref&gt;&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''Design A-150''', also known as the '''''Super Yamato'' class''',&lt;ref group=A&gt;Although called the &quot;Super Yamato class&quot; by some, Design A-150 was an entirely new design that derived little from the design of the {{sclass-|Yamato|battleship|2}}s. See: Garzke and Dulin, p. 85&lt;/ref&gt; was an [[Empire of Japan|Imperial Japanese]] plan for a [[ship class|class]] of [[battleship]]s. Begun in 1938–39, the design was mostly complete by 1941. However, so that a demand for other types of warships could be met, all work on Design A-150 was halted and no [[keel]]s were laid. Authors William H. Garzke and Robert O. Dulin have argued that Design A-150 would have been the &quot;most powerful battleships in history&quot; because of the massive size of their main battery of six {{convert|510|mm|in|abbr=on}} guns as well as numerous smaller caliber weapons.&lt;ref name=Garzke85/&gt;
+
+==Design==
+
+===Background===
+Initial plans for the A-150 battleships called for eight or nine {{convert|510|mm|in|1|abbr=on}} guns in double or triple turrets. The successful construction of a {{convert|480|mm|in|1|abbr=on}} gun in 1920–1921 made the Japanese confident that a {{convert|510|mm|in|1|abbr=on}} could be built. In addition, a top speed of {{convert|30|kn|lk=in}} was desired so that the class would be faster than the United States' {{convert|27|kn|mph km/h|abbr=on}} {{sclass-|North Carolina|battleship|1}}s. However, these grand specifications were curtailed when tests culminated in a ship that had a [[Displacement (ship)|displacement]] of some 90,000&amp;nbsp;tons; it was felt that ships of this size would be &quot;too large and too expensive&quot;.&lt;ref name=Garzke85&gt;Garzke and Dulin (1985), p. 85&lt;/ref&gt;
+
+===Specifications===
+Initial design studies were undertaken after the completion of plans for the {{sclass-|Yamato|battleship|4}} (1938–39); they focused on a ship with a displacement nearer to that of the ''Yamato''s.&lt;ref name=Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&gt;Garzke and Dulin (1985), pp. 85–86&lt;/ref&gt; As the Japanese expected that the Americans would be able to obtain the true characteristics of that class (namely the principal armament of {{convert|460|mm|in|1|abbr=on}}), the use of 510&amp;nbsp;mm guns was vital to keep with Japan's policy of individual ships' superiority over their American counterparts; the A-150s were meant to counter [[Montana-class battleship|the United States' reply]] to the ''Yamato''s.&lt;ref name=Garzke85/&gt;
+
+Plans were &quot;essentially completed&quot; sometime in 1941;&lt;ref name=&quot;Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&quot; /&gt; however, similar to the fate of documents relating to the ''Yamato'' class,&lt;ref&gt;Muir (1990), p. 485&lt;/ref&gt;&lt;ref&gt;Skulski (1989), p. 8&lt;/ref&gt; most papers and all plans relating to the class were destroyed at the end of the war, meaning that the full specifications of the ships are not known.&lt;ref name=Garzke85/&gt; It is known the ships would have had greater firepower than the ''Yamato'' class: a main battery of six 510&amp;nbsp;mm (20.1&amp;nbsp;inch) guns in three twin [[gun turret|turrets]] and a secondary armament of &quot;many&quot; {{convert|100|mm|in|abbr=on}}/65 caliber guns.&lt;ref name=&quot;Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&quot; /&gt; The displacement was to be similar to the ''Yamato'' class, which was around 60,000–70,000 [[metric ton|tonnes]].&lt;ref name=&quot;Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&quot; /&gt; The side armor [[Belt armor|belt]] was probably going to be {{convert|460|mm|in|abbr=on}}.&lt;ref name=&quot;Conway's&quot;&gt;Gardiner and Chesneau (1980), p. 178&lt;/ref&gt; This was so large that steel mills in Japan were incapable of manufacturing it; instead, &quot;double [[strake]]s of armor plates&quot; were going to be used, which would have been much less effective than just one single plate.&lt;ref name=&quot;Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&quot; /&gt;
+
+===Armament===
+Although details of the smaller armament planned for the ships are not given in sources, a main battery of six {{convert|510|mm|in|1|abbr=on}}/45 [[caliber#Caliber as measurement of length|caliber]] guns in dual [[gun turret|turrets]] was definitely planned. These would have been the largest ever fitted to a [[capital ship]], dwarfing the {{convert|460|mm|in|1|abbr=on}} guns mounted on the ''Yamato'' class.&lt;ref&gt;Garzke and Dulin (1985), pp. 85 and 88&lt;/ref&gt; By 1941, one—possibly two—of the 510&amp;nbsp;mm guns were being constructed at the [[Kure Naval Arsenal]] and detailed designs of the turrets that would hold the guns were drawn up. The turrets would have weighed {{convert|2780|t|LT|lk=out}} and [[:wikt:train#Verb|trained]] at {{formatnum:2}}° per second through a range of {{formatnum:120}}° to port or starboard. The guns themselves could have fired at a maximum rate of 1 to 1.5 rounds per minute and be [[Gun laying|elevated]] from {{formatnum:-5}}° to {{formatnum:45}}°, with the elevation rate being {{formatnum:10}}° per second. They would have weighed {{convert|227|t|LT|abbr=on}} and would have been {{convert|23.56|m|in|abbr=on}} long. The [[gauge (bore diameter)|bore]] length was to have been around {{convert|22.84|m|in|abbr=on}}. The [[armor-piercing shell|armor-piercing]] ammunition would have weighed between 1900 and 2000&amp;nbsp;kg (4190–4409&amp;nbsp;lbs), while the [[Shell (projectile)#High-explosive|high explosive]] rounds would have been {{convert|1858|kg|lb|abbr=on}}.&lt;ref name=510mm&gt;{{cite web | last=DiGiulian | first=Tony | title=51 cm/45 (20.1&quot;) &quot;A&quot; Type 98 (?) | url=http://navweaps.com/Weapons/WNJAP_20-45.htm | publisher=Navweaps | date=9 October 2006 | accessdate=5 November 2009}}&lt;/ref&gt;
+
+A secondary battery of &quot;many&quot; {{convert|100|mm|in|abbr=on}}/65 caliber guns was being considered, although this was not final. This design was the best [[Anti-aircraft warfare|anti-aircraft]] gun produced by Japan during the Second World War.&lt;ref name=10cm&gt;{{cite web | last=DiGiulian | first=Tony | title=10 cm/65 (3.9&quot;) Type 98 | url=http://navweaps.com/Weapons/WNJAP_39-65_t98.htm | publisher=Navweaps | date=9 October 2006 | accessdate=5 November 2009}}&lt;/ref&gt; Overall, the weapons compared very well with other contemporary weapons. The key advantages that made it so successful—the &quot;high muzzle velocity and a fast rate of fire&quot;—resulted in a short 350–400-round service life. In anti-aircraft defense, their ceiling at {{formatnum:90}}° was {{convert|13000|m|ft|abbr=on}}, although the effective range was {{convert|11000|m|ft|abbr=on}}. They were able to fire 15–21 rounds per minute.&lt;ref name=10cm/&gt;
+
+In ''Battleships: Axis and Neutral Battleships in World War II'', authors William H. Garzke and Robert O. Dulin argued that Design A-150 would have been the &quot;most powerful battleships in history&quot;&lt;ref name=Garzke85/&gt; because of the titanic main armament and the use of a dual purpose secondary battery.&lt;ref name=Garzke85/&gt;
+
+==Construction==
+With war on the horizon in early 1941, all design work was diverted from battleships—even though the A-150s' design was virtually complete—so that a demand for &quot;[[aircraft carrier]]s, [[cruiser]]s, and smaller ships&quot;&lt;ref name=Garzke85/&gt; could be met. Even though no work was being done on them, two ships of Design A-150, provisionally designated as Warships Number 798 and 799, were projected in a 1942 building program. 798 was to be built in the same dock as {{Ship|Japanese aircraft carrier|Shinano||2}}, while 799 was to be built in [[Kure]] in the same dock as {{Ship|Japanese battleship|Yamato||2}} after the fourth ship in the class, Warship Number 111, was [[ship naming and launching|launched]]. Both of the ships' [[keel]]s were supposed to be laid in late 1941 or early 1942, launched in 1944/45, and finished in 1946/47. However, the war's turn against the Japanese after the [[Battle of Midway]] meant that the need for ships other than battleships never abated.&lt;ref name=&quot;Gnmnjbbbhvgyiknjbhbvvttfghvbytvcyyvctvftarzke85-86&quot; /&gt;
+
+==See also==
+*[[H-class battleship proposals]] - A German battleship of a similar size and same fate.
+*[[Montana-class battleship]] - A U.S. battleship of a similar size and same fate.
+
+==Notes==
+{{Reflist|group=A}}
+
+==References==
+{{Reflist|2}}
+
+==Bibliography==
+{{Portal|Battleships}}
+* {{cite book
+ | last1 = Breyer
+ | first1 = Siegfried
+ | title = Battleships and battle cruisers, 1905–1970
+ | location = Garden City, New York
+ | publisher = Doubleday
+ | year = 1973
+ | oclc = 702840
+}}
+* {{cite book
+ | last1 = Garzke
+ | first1 = William H.
+ | last2 = Dulin
+ | first2 = Robert O.
+ | title = Battleships: Axis and Neutral Battleships in World War II
+ | location = Annapolis, Maryland
+ | publisher = Naval Institute Press
+ | year = 1985
+ | isbn = 0-87021-101-3
+ | oclc = 12613723
+}}
+* {{cite book
+ | editor1-first = Robert
+ | editor1-last = Gardiner
+ | editor2-first = Robert
+ | editor2-last = Chesneau
+ | title = Conway's All the World's Fighting Ships, 1922–1946
+ | location = Annapolis, Maryland
+ | publisher = Naval Institute Press
+ | year = 1980
+ | isbn = 0-87021-913-8
+ | oclc = 18121784
+}}
+* {{cite journal
+ | last = Muir
+ | first = Micheal
+ | title = Rearming in a Vacuum: United States Navy Intelligence and the Japanese Capital Ship Threat, 1936–1945
+ | journal = The Journal of Military History
+ | volume = 54
+ | issue = 4
+ |date=October 1990
+ | page = 485 |
+publisher = Society for Military History
+ | issn = 1543-7795
+ | oclc = 37032245
+ | jstor = 1986067
+ }}
+* {{cite book
+ | last = Skulski
+ | first = Janusz
+ | title = The Battleship Yamato
+ | location = Annapolis, Maryland
+ | publisher = Naval Institute Press
+ | year = 1989
+ | isbn = 0-87021-019-X
+ | url = https://books.google.com/books?id=mw0GLSCmfCQC
+ | oclc = 19299680
+}}
+
+{{Design A-150 battleship}}
+{{Late battleships}}
+
+{{good article}}
+
+{{DEFAULTSORT:Design A-150 Battleship}}
+[[Category:Battleship classes]]
+[[Category:Battleships of the Imperial Japanese Navy]]
+[[Category:Proposed ships]]</text>
+      <sha1>s0nqtyjga2cf095v75kyzroem0h7pcl</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,411 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:De Havilland Comet</title>
+    <ns>1</ns>
+    <id>1068204</id>
+    <revision>
+      <id>740183775</id>
+      <parentid>740181358</parentid>
+      <timestamp>2016-09-19T15:35:07Z</timestamp>
+      <contributor>
+        <username>Kleuske</username>
+        <id>703908</id>
+      </contributor>
+      <comment>/* Sabotage of Comets Yoke Peter and Yoke Yoke by the DVD */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="60081">{{talk header|search=yes}}
+{{ArticleHistory
+|action1=GAN
+|action1date=22:50, 5 December 2010
+|action1link=Talk:De Havilland Comet/GA1
+|action1result=listed
+|action1oldid=400745641
+
+|action2=PR
+|action2date=20:27, 12 January 2011
+|action2link=Wikipedia:Peer review/De Havilland Comet/archive1
+|action2result=reviewed
+|action2oldid=407525206
+
+|topic=Engineering and technology
+|currentstatus=GA
+
+|action3=WAR
+|action3date=12:11, 7 May 2012 (UTC)
+|action3link=Wikipedia:WikiProject Military history/Assessment/De Havilland Comet
+|action3result=approved
+|action3oldid=490716552
+}}
+{{WikiProjectBannerShell|
+{{WPAVIATION|class=GA
+|B-Class-1=yes &lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-2=yes &lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-3=yes &lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-4=yes &lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-5=yes &lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|Aircraft=yes}}
+{{WPMILHIST|class=A |A-Class=pass 
+|B-Class-1=yes &lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-2=yes &lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-3=yes &lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-4=yes &lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-5=yes &lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|Aviation= yes |British=yes}}
+{{WPUK|class=GA}}
+}}
+{{British English}}
+{{OnThisDay|date1=2007-07-27|oldid1=147395637|date2=2009-07-27|oldid2=304313675|date3=2011-05-02|oldid3=427042499|date4=2012-07-27|oldid4=504405862}}
+{{Copied |from=de Havilland Comet |from_oldid=495124257 |to=List of de Havilland Comet operators |to_diff=495159345|date=30 May 2012}}
+
+== Stress Concentration ==
+I just made an edit mentioning why square windows are bad: [[stress concentration]].  I'd like to be a little more specific about the problem: Were the engineers unfamiliar with stress concentration, or did they know of it and underestimate it?  Seems that the latter is more likely.  
+
+This is important because the square window problem is a standard example in engineering. [[User:Tac2z|Tac2z]] 13:36, 14 July 2007 (UTC)
+
+De Havilland did undertake fuselage pressurisation tests in their water tank and these revealed that there was a potential fatigue failure at the corner of the cabin window that could lead to a complete failure of the pressure cabin. Their report, issued in 1953, recommended no further remedial cation needed as the pressure applied in the water tank were far in excess if what would be encountered in normal service. 
+(De Havilland Comet p67...K Darling.. Crowood Press 2004) Didn't help that the roof mounted ADF panel was also square.. [[User:Lynx707|Lynx707]] ([[User talk:Lynx707|talk]]) 11:29, 28 July 2008 (UTC)
+
+::The Comet's pressure cabin was designed according to the best design practices of the time, and was in fact, designed to far exceed the-then [[Civil Aviation Authority (United Kingdom)|CAA]] strength requirements, something like twice that which was considered necessary. Commercial aircraft pressure cabins had never undergone comprehensive stress measurements, or at least, had been designed based on estimates of predicted loads, rather than measured loads, and worldwide all designs were based on these or similar stress calculations. After the accidents when a test Comet was flown with the cabin fitted-out with a considerable number of strain gauges, it was only then discovered how much the stress concentrations differed in certain areas (such as the corners of the cabin windows) from that which had been predicted, and which all previous pressurised cabins had been based-on. In short, the theory had been in error (or rather, incomplete), and it was only the accidents to the Comet that showed this up. The point about using a thinner-gauge of cabin skinning than on previous pressurised cabin airliners is that, by what was known about fatigue and pressure cabins at the time, it SHOULD have still been perfectly safe.
+
+::The square windows had been specified by the customers, as passengers preferred them, and if you look at contemporary pressurised piston-engined airliners, e.g., [[Boeing Stratocruiser]], [[Douglas DC-6]] [[File:C-97 stratofreighter 041116-F-9999R-002.jpg|thumb| C-97 Stratofreighter pictured as the Stratocruiser article only has images of the later round-windowed aircraft]] [[File:Douglas DC 6 , SAS , SE-BDC , Kodachrome by Chalmers Butterfield.jpg|thumb]] you can see they had square windows too. They were only changed to rounded ones ''after'' the Comet crashes. (Avro had originally designed the [[Avro Tudor|Tudor]] with circular windows but the customer (BOAC) made them change them, which was one of the reasons the Tudor was so late and over-budget, as they had to change all the ones already built. Avro then had to change them all back to circular windows after the Comet crashes).
+
+::Before the Comet they had never been a problem, as the piston-engined airliners flew at lower altitudes, and so the pressure differentials were also lower, and fatigue had never been such a factor. In effect, the Comet's cabin expanded-and-contracted when it climbed-and-descended to a much greater extent than in previous aircraft (not helped by the thinner-gauge fuselage skinning), which, unexpectedly, greatly increased the fatigue effect. The water pressure test that de Havilland had subjected the cabin-to during the designing of the aircraft had been carried out on only a section of the cabin, and unfortunately the plugs at either end (that sealed off the cabin test section to make it watertight) had been contributing more than had been allowed-for in the ultimate strength and rigidity of the test section. So the test wasn't actually representative of the complete fuselage. All this wasn't known until after the accidents, and it's hard to see how, with the state of the knowledge they then had, it could have been predicted, as the Comet was at the time the most comprehensively tested airliner then-built.
+
+::It was bad luck, that's all, and de Havilland passed-on all the conclusions about the new factors that had to be taken into account in safe pressure cabin design that now make cabin failure almost unknown in today's airliners. As someone said, if it hadn't happened to de Havilland, it would almost certainly have happened to someone else.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/213.40.254.27|213.40.254.27]] ([[User talk:213.40.254.27|talk]]) 21:40, 2 October 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+
+A missing link? The article says the windows were supposed to be rivetted and glued, but in the end, only rivetted. This seems a crucial ommission, and I would expect the report to at least mention responsibility for this failure. It might be a good idea to try and source the responsibility for that fatal decision. (It sounds like a typical management thing; it's okay just rivetted; we need to go faster; so screw the second requirement, let's just get on with it, that sort of rationalization.) Still, I for one would like to know who made that choice, and whether it was the final mistake in a chain of mistakes.[[Special:Contributions/24.81.25.127|24.81.25.127]] ([[User talk:24.81.25.127|talk]]) 17:09, 5 August 2010 (UTC)
+
+::&quot;The square windows had been specified by the customers, as passengers preferred them, and if you look at contemporary pressurised piston-engined airliners, e.g., Boeing Stratocruiser, Douglas DC-6 you can see they had square windows too. They were only changed to rounded ones after the Comet crashes.&quot; B377 customers could get their windows sort-of-rectangular or circular, but none were ever changed, were they? And all DC-6/DC-7/L1049/L1649 windows were sort-of-rectangular, from 1947 thru the end of production in 1958? Wasn't their corner radius much greater than the Comet's? [[User:Tim Zukas|Tim Zukas]] ([[User talk:Tim Zukas|talk]]) 16:43, 15 September 2010 (UTC)
+
+:::''The article says the windows were supposed to be rivetted and glued, but in the end, only rivetted.'' - it probably wouldn't have made much difference, just perhaps extended the time before the failure occurred. The Comet's pressure cabin although designed to be safe and strong enough, had almost no fatigue life, i.e., it was strong enough when new, but each pressurization/depressurization cycle weakened it far more than had ever been anticipated. This problem had never been seen before as earlier piston-engined pressurized airliners didn't fly high enough for the pressure differential to be as great as on the Comet, which was intended for flight at 40,000ft to allow the best efficiency of the jet engines to be attained.
+
+:::Fatigue had never been much of a problem before the Comet simply because few airframes had managed to rack-up the flying hours that the then-new jet airliners were capable of. Prior to World War II the world's airlines simply didn't use their aircraft as intensely as occurred during the rapid expansion of mass air travel that happened in the years after the end of the war. The only other large aircraft that might have been prone to metal fatigue, large military transports and bombers, usually didn't last long enough on operations to get to the point where fatigue problems arose - they usually got lost in accidents or were shot down - smaller, high-performance aircraft like fighter aeroplanes, are designed to much higher [[Load factor (aeronautics)|load factor]]s, so are much stronger in the first place. The other point is that for these other large military aeroplanes, the economic factor didn't really apply, so the designers didn't need to be so weight-conscious in the design, whereas for the commercial airlines, the driving force is whether the airline can make a profit - if you can save say, 250lb in airframe weight, that's another passenger and his/her luggage you can carry - and an additional fare. As a result of this, aircraft designers began to design aeroplanes that were ''just'' strong enough, any additional strengthening being unnecessary weight, reducing the actual paying load (payload) that could be carried. This affected profitability for the airline, and so it became the norm to design aircraft that (compared to the earlier ones) were much less robust compared to their weight. This can be seen in the various modern jet airliner accidents, where little remains of the aircraft involved in a crash, the aeroplane in-effect, disintegrating. Earlier piston-engined airliners usually remain recognisable as airliners after crashes, providing there is no fire.
+
+:::With hindsight, de Havilland probably carried the weight reduction too far, but that was necessitated by the relatively low-powered engines then available. At the time they probably should have gone for the [[Rolls-Royce Nene]], but that was made by a competitor, and so DH chose their own [[de Havilland Ghost|Ghost]] engine. The alternative was to have waited five or ten years for more powerful engines, but then again, the UK Government had asked for a jet airliner as early as 1944, so de Havilland went ahead and made one. Whether anyone else would have discovered how to make safe and ''light'' high-cycle pressure cabins without the Comet accidents to guide them who knows. But the Comet is one of the reasons why passenger aircraft nowadays have safe 'fatigue life' figures.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.112.58.103|86.112.58.103]] ([[User talk:86.112.58.103|talk]]) 18:22, 2 February 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::::At the time, the late 1940s, de Havilland had to use the Ghost as, with the possible exception of the [[Rolls-Royce Derwent|Derwent]], it was the only jet engine anywhere that was [[Type certificate|certificated for civilian use]]. 
+
+::::The earliest date I can find for a civil-certified [[Rolls-Royce Avon|Avon]] is May 1957 for the Avon RA.29 [http://www.flightglobal.com/pdfarchive/view/1957/1957%20-%201479.html] - more Avon RA.29 info here; [http://www.flightglobal.com/pdfarchive/view/1958/1958-1-%20-%200157.html] &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 17:26, 20 October 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+An additional hard lesson was learned regarding the testing of the prototypes.  The hulls used for the fatigue tests were the same hulls that had prior use in the over-pressure tests.  The over-pressure tests plastically deformed the metal at the points of high stress concentration.  When the pressure load was released, those plastically deformed areas contained a subsequent residual compressive strain.  Those residual compressive strains greatly enhanced the fatigue resistance in those areas, and the subsequent fatigue tests then produced misleading results.   Modern practice requires the over-pressure test and the fatigue test be conducted with two different hulls.   When the de Havilland went into production, the new hulls naturally were not subjected to an over-pressure test first.  These pristine hulls did not have any residual compressive strains in the areas of stress concentration and thus were far more sensitive to fatigue failure than the early, extensively tested prototype hulls.  If pristine hulls had been used for the early fatigue tests, the problem would have manifested itself clearly.[[User:LKaczorowski|LKaczorowski]] ([[User talk:LKaczorowski|talk]]) 22:45, 21 May 2014 (UTC)
+
+
+___________________________
+
+'''Square window myth'''
+
+A note about the whole square windows thing: This is largely a myth that has probably been perpetuated by a superficial reading of the accident report many years ago and has gained a life of its own.If you read the original accident report you will note that the failure in Yoke Peter did not originate at a window. It originated at the ADF panel in the fuselage crown behind the cockpit. A careful reading of the report shows that all of the cut-outs in the fuselage were under strength due to lack of knowledge at the time. The report never says that that the 'square' windows were primary or even secondary contributing factors. In fact the fatigue that brought down G=ALYP originated in a bolt hole near the ADF antenna cut-out and travelled in two directions effectively unzipping a section of the fuselage. A close examination of the photo of the tank test failure involving G-ALYU shows that the window frame did not fail but rather the escape hatch assembly failed due to insufficient reinforcing of the cut out. In the photo you can clearly see that the window frame is intact but that the escape hatch failed after the surrounding ribs and stringers fractured. Further, Yoke Peter contained a number of cracks that were created during manufacture and these had been 'located' or stop drilled and signed off. This highlights the lack of understanding at the time, of the rapid progression of pressurisation cycle fatigue effects on aircraft structures. The aircraft went into service with cracks already present in the structure!
+
+Lastly to drive a stake through this 'square window myth', a close look at the radius of the window corners of a Comet 1 shows them to be quite similar to modern airliner windows. 
+
+In short, the fatigue failure and crash of G-ALYP was '''absolutely not''' caused by 'square windows' nor did the fatigue failure originate at any window location. If the subsequent structural strengthening has been carried out with the identical design of window - no further failures would have occurred. To drive this point home, have a look at the window of the Caravelle. They are triangular! As someone with undergraduate and a postgraduate qualifications in aircraft accident investigation and who lectures aviation safety - these old myths drive me nuts!  Anyway I hope this helps. Enjoy! [[User:Completeaerogeek|Completeaerogeek]] ([[User talk:Completeaerogeek|talk]]) 08:40, 5 March 2016 (UTC)
+
+I do agree about myths. For example one of the Electra crashes was due to a control cable failure, not whirl mode. The Comet 1 had square windows of about 144sqin, a bit bigger than normal for the time. The post-grounding hydrostatic tests showed cracks at window corners and at the front escape hatch. The pressure loading on the hull was simulated during design, but not with aerodynamic buffeting experienced at 300+ KIAS applied at the same time. That is why the initial fatigue testing did not give correct predictions.[[Special:Contributions/220.244.73.170|220.244.73.170]] ([[User talk:220.244.73.170|talk]]) 10:18, 29 June 2016 (UTC)
+
+== &quot;South Atlantic&quot; flights ==
+Anybody know what this is referring to?
+
+&quot;Although these [Comet 2] aircraft performed well on the South Atlantic routes...&quot;
+
+It suggests that BOAC flew them to South America at some point. [[User:Tim Zukas|Tim Zukas]] ([[User talk:Tim Zukas|talk]]) 21:27, 9 October 2010 (UTC)
+
+:I have just checked Jackson's British civil aircraft and it mentions the Comet 2s were ordered for the South Atlantic route and that trails showed it had suitable range for the South Atlantic route but not the North Atlantic. It does not explain any further. It may just mean the southern routes to the states rather than via Iceland. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 21:52, 9 October 2010 (UTC)
+::I've a vague recollection of flights out of Brazil to Africa, because it's shorter...  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 22:34, 9 October 2010 (UTC)
+
+:::Yes, &quot;the South Atlantic routes&quot; would mean Dakar to Brazil; the article gives the impression the Comet 2 went into service on that route, which it didn't. [[User:Tim Zukas|Tim Zukas]] ([[User talk:Tim Zukas|talk]]) 22:23, 10 October 2010 (UTC)
+::::As part of a plan for two all-British services spanning the globe ''The southern route would have two spurs - one to Lisbon, Dakar, across the South Atlantic to Recife (Brazil) and then following the existing BOAC South American route to Rio de Janeiro, Montevideo, Buenos Aires and Santiago.'' (Times 1952) so it looks like it was planned to operate a South Atlantic route. So the comment about them being ordered for the South Atlantic route appears to be correct. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 13:10, 11 October 2010 (UTC)
+::::Also found a 1953 article about ''Comet Service to South America Planned'' which I have added as a reference. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 13:16, 11 October 2010 (UTC)
+::::In September 1953 a Comet operated a trial flight to South America ''in preparation for the introduction by BOAC next year of a jet airliner service between the United Kingdom and South American countries.''. As the Comet 2 did not enter service following the Comet 1 crashes I suspect the plan was abandoned. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 13:38, 11 October 2010 (UTC)
+
+== What's in a name? ==
+2 things, since this has clearly gotten too complicated to explain in an edit summary. One, I do know Jetliner was proprietary &amp; was generecized. It was also a neologism coined specifically for the C.102, if what little I've read is correct. (I presume that's not in question.) Also, I do know NF&amp;L is the name now, &amp; NF was a province then. I live in Canada, which is why I raise it: it wasn't NF&amp;L ''at the time''. (It got changed about, what, 10yrs ago, now? Offhand...) So is it usual to use the period-correct name, or the current one? (I default to period-correct, myself.) I'm not looking for an edit war by any means, just hoping to make it clear for the uninitiated.  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 21:40, 2 November 2010 (UTC)
+:I think the questions are now taken care of, check the latest edits. FWiW,, Newfie land was called New and Lab in 1964 but it took until 2001 to make it official. What part of the country are you from? [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 04:43, 3 November 2010 (UTC)
+::I'll say I'm not from NF or Lab (obviously), but Prairies... (AFAIK, the name may've been common, but for Gander, it was still officially NF only at that time; &quot;at that time&quot; is the issue, even if '64 is the cutoff year. Unless I've got my years very wrong.) And I'm just too tired to concentrate on finding the correct edit just now. :) If it's fixed, I'm happy. Nice work on adding all the new stuff, btw.  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 23:21 &amp; 23:28, 4 November 2010 (UTC)
+
+== Longbow hunting ==
+Some comments.
+#&quot;landmark in British aeronautical design.&quot; It seems to me it's a landmark period, no need to lim to British. I get the sense this is intended to credit Brits, &amp; I agree; make it &quot;British, &amp; worldwide&quot;? I can't think of a better way to say if offhand. :(
+#&quot;too fuel-hungry and unreliable&quot; IDK if it's on-point, but it might be good to explian why there was skepticism. Given the experience with early jet fighters, it would've seemed well-founded. 
+#&quot;submissions&quot; IMO, comparisons to existing types might be of assistance here: the 2-boom resembling a [[de Havilland Vampire|Vamp]], the 3-motor a crossed [[McDonnell Douglas DC-10|DC-10]] &amp; [[North American XB-70 Valkyrie|XB-70]], the tailless a [[Avro Vulcan|Vulcan]], the podded a [[Boeing 707|707]] (presuming that's correct).
+#&quot;engine&quot; Am I being too fussy changing that to &quot;engined&quot;?
+#&quot;de Havilland&quot; Maybe a trivial issue, again. Should it be &quot;de Havillands&quot;? I've heard that as a Brit usage for companies; the plural appears to refer to their being numerous employees.
+#&quot;carrying fewer people in greater comfort&quot; Can we mention seat pitch, here? Comparison to modern seating standards would be of interest, too, IMO: the standards at the time, as I understand it, offered much more leg room than now, even in 747s or A3xx's.
+#&quot;The cabin was quieter&quot; Is it worth explaining why? It would also help explain why jetliners attracted passenger traffic, beyond why airlines liked them (faster &amp; cheaper to run).
+#Wing root engines. Did this have maintenance benefits (or drawbacks)? Ease of maintenance was one factor in Avro Canada's decision to select underslung engines. (I don't doubt podding also sees this.) 
+#&quot;armour for the engine cells&quot; Was that an MoT requirement? If so, comparison to the DC-10 is in order.
+#&quot;other aircraft manufacturers learned from, and profited by, de Havilland's hard-learned lessons&quot; Is it OT to say the Comet's troubles enabled Boeing (in particular) to steal sales from DH while Comet was still a perceived hazard?
+#&quot;the skin sheeting was thickened slightly&quot; Worth mentioning how much? (Presuming it's known.)
+FYI, I don't expect response here. If the issues are addressed on the page, I'm happy.  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 16:27, 6 November 2010 (UTC) (P.S. For anybody wondering, the header is a ref to [[Green Arrow|GA]]. :) )
+
+Responses: 
+*1. Agree, the Comet has been named as one of the ''50 Aircraft that Changed the World'' in Ron Dick and Dick Paterson's work, 2007, and one of Michael Oakey's &quot;I00 Great British Aircraft,&quot; 2008.
+*2. Fuel consumption was an early &quot;bugaboo&quot; as characterized in ''From Props to Jets...'' (2010) p. 16. 
+*3. Not from the preliminary design drawings I have seen, the Comet was pretty well originally all &quot;blue sky&quot; engineering.
+*4. Corrected.
+*5. Nope, de Havilland is correct, &quot;de Havillands&quot; is a common misapplication or colloquialism.
+*6. Can offer some dimensions but basically the BOAC Slumberseat gave more room without encroaching on overall seat area.
+*7. The Comet cabin was not only quiet but also was sold on the premise that it was &quot;vibration free,&quot; the proverbial &quot;stand-a-pen-on-its-end test. 
+*8. Maintenance was not the primary reason for the placement of the engines, as the Comet design was intended to be as &quot;clean&quot; as possible for streamlining/drag reduction. Maintenance was a bit more tricky than podded engines as many service panels were involved but the engine was at least on a lower level so that no specialized equipment was needed.
+*9. Protection may have been required but not a MoT stipulation, but I'll check into that. 
+*10. Boeing certainly benefited from the Comet's troubles as its B707 service introduction was relatively smooth, whether it was &quot;sold&quot; on that basis is a common belief, but I'll check Gunston and Yenne on that. 
+*11. Can do. 
+FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 04:02, 7 November 2010 (UTC).
+
+:3. I don't mean to say there was copying. I mean, as a way to illustrate what they'd have looked like. (Unless there are free use diagrams extant? Which I doubt.)
+:5. Blame Brit newsies. :(
+:6. I was hoping for a sense of the difference between then &amp; now, more than anything. I recall reading the C.102 having a 24&quot; pitch, &amp; it being said modern jetliners use more like half that. (Don't recall where, but 1 of the C.102 paeans. :) ). I should also add IDK exactly what it meant, tho &quot;seat separation&quot; seemed clear.
+:7. I believe it. The test flights of the C.102 drew a lot of comment. For those who've never flown pistons, I thought it might be an interesting comparison.
+:8. If not a design requirement, then an added benefit? Still might bear mentioning. (I'll leave you to decide. :) I'd put in just about everything I could find. :p)
+:10. I was thinking less &quot;sold&quot; than &quot;took advantage&quot;, becuase, with Comets grounded, the competition was effectively gone. I doubt Boeing needed to actually ''say'' anything to poential customers, considering.
+:1. If you can think of a way to put it, more power to you. ;p  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 08:42, 7 November 2010 (UTC)
+
+*1. I think it's fair to mention that the Comet was a significant design in aviation history, it's also featured in a Jane's listing of all the &quot;impact&quot; designs of the 20th Century.
+*3.The three-engined mailplane was extremely small, with only capacity for six passengers, with a canard at the extreme end of the nose. The original tailless design has some similarity to the final Comet configuration but the wing was much larger and had a 40˚ sweep. I don't think I have ever seen the twin-boom version as a drawing. Interesting premise to see the design origins, I'll see what I can do to make up a single drawing with all the preliminary configurations.
+*6. I certainly agree; we have a contemporary Vickers Viscount in our local museum and the kids on tour are always amazed at the passenger space and the &quot;huge&quot; portal windows, quite a departure from the modern sardine-sized seating area.
+*7. I'll look up a quote perhaps.
+*8. It may or may not have been a strict requirement but de Havilland made great efforts to design a &quot;safe&quot; airliner, and then...
+*10. Boeing had pitched a faster, longer-ranging and most-of-all, a more economic fit for air carriers. The &quot;safety factor&quot; was probably more of a whispering campaign. FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 15:01, 7 November 2010 (UTC).
+::1. Agree entirely. My only stumble was how to phrase it.
+::3. I look forward to it. (I love seeing what didn't make it. Great for us [[Alternate history|alternate historians]]. ;P)
+::6. A change in window size, too? Huh. I have a vague recollection of later jetliners going to smaller (&amp; thicker-glass) windows...
+::7. Finding even a mention of the quiet &amp; smooth compared to pistons shouldn't be hard; it seems every exec on any jet demo noticed it right away. (Or at least it does from what small amount I've read.) The difference was evidently very marked.
+::8. I'm betting safety was a prime concern. (What you ''don't'' think of is what tends to bite you. :( ). I'm also betting, if it wasn't expressly desired (&amp; from what you've said, it wasn't), any ease of maintenance thanks to short gear legs was incidental. As I recall, it was deliberate in the C.102. Also, the &quot;close pod&quot; design avoided mucking with the wing structure, with a side effect of not needing the ground trolleys of high wings. It's that factor I suspect also incidentally fell in DH's lap.
+::10. I'd bet on a sort of &quot;sideways&quot; mention of safety, not directly saying Comets were deathtraps; I have no doubt every airline exec knew damn well how many DH108s had gone down &amp; how many died. This would've been before the U.S. industry started the current practise, sharing out all data, wouldn't it...? So there would have been a pointed awareness of potential liability issues. (Hmmm...that might do for adding to the 707 page. I should see if I can find out.)
+::Thx for the response, &amp; the careful attention.  [[User:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;small&gt;TREKphiler&lt;/small&gt;&lt;/font&gt;]] [[User talk:Trekphiler|&lt;font color=&quot;#1034A6&quot;&gt;&lt;sup&gt;&lt;small&gt;any time you're ready, Uhura&lt;/small&gt; &lt;/sup&gt;]]&lt;/font&gt; 20:55, 7 November 2010 (UTC)
+
+==Design studies for the DH Comet 1944-1947==
+See this image: [[File:Design Studies for the DH 106 Comet.jpg|right|400 px|thumb|Design studies for the DH 106 Comet 1944-1947 (Artist's impression)]] FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 04:03, 9 November 2010 (UTC)
+
+==Name==
+Who was responsible for naming this aircraft after a cascading ball of fire? It seems a poor decision in light of events. [[User:Drutt|Drutt]] ([[User talk:Drutt|talk]]) 02:10, 4 February 2011 (UTC)
+
+:A ''[[Comet]]'' is actually made mostly of [[ice]] - you may be thinking of a ''[[Meteor]]''.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/86.112.65.184|86.112.65.184]] ([[User talk:86.112.65.184|talk]]) 20:04, 24 March 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::BTW, there are some interesting insurance values for prototype aircraft - including the Comet - that appeared at the 1952 Farnborough air show in a 1953 issue of ''Flight'' here; [http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200070.html] The quoted insured value for the Comet Mk I prototype was £500,000 (approx $2,000,000 US) 
+
+::The author of the article is Capt. A. G. Lamplugh, who originated the ''&quot;Aviation in itself is not inherently dangerous ...&quot;'' saying. &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 20:23, 29 May 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::An interesting ''Flight'' article on the two previous Comet accidents that occurred while taking off; [http://www.flightglobal.com/pdfarchive/view/1959/1959%20-%200952.html] (&quot;A Matter of Principle&quot;)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 19:51, 18 August 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::::And an interesting April 1953 ''Flight'' article on the-then current knowledge about metal fatigue &quot;Talking About Fatigue&quot;; [http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200459.html] 
+
+:::: ... and a news item on the CPA Comet accident at Karachi in the same issue;[http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200471.html] &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 14:14, 26 August 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:::::BTW, possibly the reason Sud Aviation selected the Comet nose for the Caravelle was that de Havilland had flight tested the Comet nose profile on a full-size mock-up fitted to the nose of an [[Airspeed Horsa]] glider.  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/95.149.173.74|95.149.173.74]] ([[User talk:95.149.173.74|talk]]) 19:27, 16 May 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Comet rivets ==
+Just about every article on the web concerning the de Havilland Comet mentions the use of &quot;punch rivets&quot; in its construction. This is widely assumed to refer to the use of what are today called &quot;self piercing&quot; rivets. However this cannot be the real form of riveting used on the Comet - self piercing rivets for aluminium are made from steel. Aluminium self piercing rivets have been tried but even the strongest aluminium alloys are not hard enough to pierce aerospace grade aluminium sheet. I have studied the series of articles in Flight International (Autumn 1954) which reports on the Comet inquiry and hidden in these articles is the term &quot;skin dimpling&quot; rivets. This form of riveting has to be used when thin aluminium sheet is being fixed to a thicker structural member and the practice is to countersink the structural member such that the rivet, when inserted, forces the thin sheet to adopt the same shape as the countersink. Obviously for thin sheet aluminium countersinking the sheet would leave it too weak. The problem with this practice is it puts the hole in the thin sheet under a circumferential tensile stress which can lead to the formation of cracks. Proper practice is to drill a hole too small, dimple the sheet into the countersink, then drill or ream the hole to remove stressed or cracked metal. Hot dimpling is also practiced to anneal the sheet prior to dimpling. Could it be that the repeated reference to punched rivets should really refer to skin dimpled rivets? By the way, according to Flight International &lt;ref&gt;Dec 1954, page 810&lt;/ref&gt;, the skin dimpling method of riveting was not used in the region of the ADF window where the initial cracks were found, so all this about the method of riveting may be a red herring since the initial crack was found to start from a bolt hole I believe. [[User:Tecstrat|Tecstrat]] ([[User talk:Tecstrat|talk]]) 14:21, 29 September 2011 (UTC)
+
+== Infobox image ==
+Greetings, and great job on this article. I think it is about ready for A-class review, if editors are interested. One possible suggestion...how about updating the infobox image?  The current photo is very nice...here however is another possible choice:
+
+&lt;gallery widths=&quot;200px&quot;&gt;
+Image:DeHavilland Comet.jpg|The current image
+Image:BEA de Havilland DH-106 Comet 4B Berlin.jpg|Suggestion
+&lt;/gallery&gt;
+
+The new image is larger, higher-res (sharper, more detailed), more vivid color, faces the text, etc. The caption could read &quot;[[British European Airways|BEA]] Comet 4B arriving at [[Berlin Tempelhof Airport]] in 1969&quot;. Of course, the other photo has historical significance as well and probably should be retained in the article body, should this image be used. Interested in hearing any thoughts. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 00:15, 5 January 2012 (UTC)
+
+:There was no comment so the pic has been added, both kept. [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 21:35, 11 January 2012 (UTC)
+
+== A-class review and further improvements ==
+Thanks to everyone's efforts for making the Comet article much improved; this talk section is being added to complement the ongoing improvement efforts, as the article is at A-Class review (discussed at [[:WikiProject_Military_history#Preparing_de_Havilland_Comet_for_A-level_Review|WP:MILHIST]] and mentioned at [[:Wikipedia_talk:WikiProject_Aircraft#de_Havilland_Comet_up_for_A-class_review|WP:AIRCRAFT]]). Having just gone through and done some copy-editing and formatting, it looks promising.  Just some possible suggestions to ponder:
+
+* Check whether the testing info in &quot;Design/Fuselage and testing process&quot; might be better moved to the &quot;Development/Testing and prototypes&quot; section
+* Check whether italics should be used for quotations.
+
+Thanks for any comments! [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 22:38, 4 March 2012 (UTC)
+
+: The A-class review is at [[Wikipedia:WikiProject Military history/Assessment/De Havilland Comet|WP:MilHist/de Havilland Comet A-class]]. -[[User:Fnlayson|Fnlayson]] ([[User talk:Fnlayson|talk]]) 23:03, 4 March 2012 (UTC)
+
+::Thanks for the link, hopefully there will be more activity; I assume that MilbourneOne can continue to perform the administrative action on ACRs as previously? Regards [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 21:00, 5 March 2012 (UTC)
+
+===Review===
+See [[Wikipedia:WikiProject Military history/Assessment/De Havilland Comet]]
+
+== Recent changes to specifications ==
+
+The recent changes to the specifications, which are now vaugly refeerenced to a large list of references rather than precisely cited means that no-one can tell where the information has comne from - please change back to a format with precise citeing.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 22:13, 1 May 2012 (UTC)
+
+:The individual spec data are now cited on a per figure basis, including the previous Comet 4-only specs (which had ''Jane's All The World's Aircraft 1965–66'' as the main source). Individual cites now include ''Flight'' refs covering Comets A) 1,2,3, B) 3, and C) 4.  Some references in this article differ on pax numbers though. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 22:45, 1 May 2012 (UTC)
+
+== Related infobox ==
+
+With regards to [[:Wikipedia_talk:WikiProject_Aircraft#Comparable_aircraft_.28again.29|WP:AIRCRAFT#Comparable aircraft]] and its relevance to [[De Havilland Comet#See also]], the following infobox is possible:
+
+{{Navbox
+|name = de Haviland Comet related
+|title = de Haviland Comet related aircraft
+|listclass = hlist
+
+|group1 = Variants
+|list1 = 
+* [[Hawker Siddeley Nimrod]]
+
+|group2 = Related
+|list2 =  
+* [[Sud Aviation Caravelle]]
+
+|group3 = Competitors
+|list3 =  
+
+* [[Boeing 707]]
+* [[Douglas DC-8]]
+* [[Vickers VC10]]
+
+}}
+
+The current &quot;comparable&quot; list features &quot;early jetliners&quot;: [[Avro Canada Jetliner]], [[Baade 152]], [[Boeing 707]], [[Convair 880]], [[Douglas DC-8]], [[Tupolev Tu-104]], [[Tupolev Tu-110]].  Perhaps only two (Boeing 707 and Douglas DC-8) can be truly called &quot;competitors&quot; per references, and were mentioned in the body. The remainder are not mentioned elsewhere IIRC, so leaving them as is is fine; it's likely that {{tl|aircontent}} will be deprecated, so using standard format might be best. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 23:56, 4 May 2012 (UTC)
+
+== FA nomination ==
+
+Hi all, thanks to everyone who contributed in the just-completed successful A-class review of this article. It was great that the article went through detailed discussion, which benefits its chances at FAC. I would like to open this discussion to discuss how people feel about the article going to FAC. Perhaps some additional polishing can be done, etc. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 19:33, 7 May 2012 (UTC)
+:I'd be fine with the article being listed as a FAC in the near future; I've never been successful there however. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 10:36, 8 May 2012 (UTC)
+::As someone who's been involved with this article as a reviewer since GA (and before that as the editor who first added info and quotes from Macarthur Job and Nicholas Faith!) I've always treated it as a potential FAC. Because of that I've been quite tough on it in reviews, pushing for every scrap of data being fully cited, images being properly licensed, prose being of a high standard, and sources being used accurately but without copying or close paraphrasing. That doesn't mean I'd expect it to pass through FAC without incident, but speaking as an experienced FA editor/reviewer (and not as a FAC delegate) I think I'd nominate it sooner rather than later, without major changes, and keep the impetus going from its intensive but ultimately successful ACR. FWIW.. Cheers, [[User:Ian Rose|Ian Rose]] ([[User talk:Ian Rose|talk]]) 11:24, 8 May 2012 (UTC)
+:::I too have been editing this article with an eye towards FAC, where I've had success in the past (most recently with [[Boeing 767]]). From examining this article, I believe that it is approaching FAC status, and agree that it would be prudent to nominate it in the near future to capitalise on its peak quality state. However, there would need to be active involvement among the major contributors to the article (access to references, verifying information, etc.) to provide timely responses to the suggestions of reviewers. Using past airliner/aircraft article FACs as a guide, we can also resolve potential issues before nominating—if fellow editors have the time to contribute. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 20:18, 8 May 2012 (UTC)
+::::I've try to develop all my articles to be compliant with the standards laid down by FAC, I don't believe that article content should be sloppy simply because &quot;it isn't aiming to be a FAC&quot;; the article was developed heavily in line with the conventions and layout dicated by the WP:Aircraft project and has grown to what I believe is a flush and wholesome extent. I've made some last minute tweaks inline with later A-class review comments regarding the Legacy section; I have no more deliberate plans to impliment at this point. I am prepared to be active as a main contributor throughout this article's nomination; if it is asked of me, I am happy to nominate this article as a FAC. I shall await responses and opinions prior to proceeding however, editors should be given the chance to impliment their own visions of improvements before proceeding with the nomination. I'll be watching this discussion closely. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 14:09, 9 May 2012 (UTC)
+
+:::::It is quite commendable to have high standards on all articles regardless of FAC plans. The WP:Aircraft guidelines are very useful, but one must keep in mind that MoS compliance is a FA requirement, while project guidelines are not binding there; it is the MoS that is the standard by which the article will be judged (some instances, such as the &quot;see also&quot; debate, pit the MoS against the WP:Aircraft guidelines, and it's pretty clear which has more solid support at FAC). Moreover, at FAC it is always a gamble as to what issues may crop up, what unforeseen difficulties or challenges may occur.
+
+:::::Now, the article has benefited tremendously from the A-class review. User:Ian Rose (a FAC delegate) correctly was tough during the review, as it increases the chances of its passing FAC. In the same vein, I feel that it is best to polish the article as much as possible before nominating it (if you are willing). To this end, there are a number of small fixes and further tweaks that this article probably needs, in part due to the varied and complex nature of its sections, and its comprehensiveness. This may seem like nitpicking, but I've seen multiple issues come up at FAC, and would prefer to head them off before nominating.  It would be best if fellow collaborators work together to achieve this. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 21:07, 9 May 2012 (UTC)
+::::::Is there anything specific I could work on? I'm unsure of what form of tweaking is necessary. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 00:26, 26 May 2012 (UTC)
+
+:::::::Alright, please bear with these suggestions as they're based on what reviewers have mentioned in past FACs; I'm adding a subheading to make it easier to access. One early item (lead citations should be moved into the body), I've done for one of the two references there. The accidents and incidents section has now been converted to summary style prose; one incident was removed (16 July 1953, BOAC Comet landed at [[Juhu Aerodrome]] instead of [[Santacruz Airport]], [[Bombay]], and was flown out some eight days later.&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200970.html &quot;Civil Aviation: Right City: Wrong Airport&quot;]. ''Flight'', 24 July 1953, p. 124. Retrieved: 26 April 2012.&lt;/ref&gt;&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1953/1953%20-%200998.html &quot;Brevities&quot;]. ''Flight'', 31 July 1953, p. 152. Retrieved: 26 April 2012.&lt;/ref&gt;). The &quot;Legacy&quot; section has been moved below (after &quot;Aircraft on display&quot; and before &quot;Specifications&quot;), the reasoning being that discussion of legacies comes at the end, given that it is chronologically after the aircraft's complete history, variants, operators, etc. has been enumerated.
+
+===Completed tasks===
+{{anchor|merge tasks}}
+* Split the Operators section to [[List of de Havilland Comet operators]], similar to [[List of De Havilland Heron operators]], and leave a summary style prose section in its place. This reduces the amount of lists in the article (prose is generally preferred), and aligns the article with most other aircraft articles, where the operator list is on a separate page.
+
+* Remove common word wikilink ( &quot;[[American]] operator [[Capital Airlines]]&quot; - the first link is unnecessary).
+
+* The &quot;operational history&quot; and &quot;aircraft on display&quot; sections do not italicise registrations (e.g. G-ANLO) while the incidents section did (e.g. ''G-ALYZ''); I have now corrected this.
+
+===Preparatory tasks===
+====MoS, Formatting tasks====
+* [[MOS:ITALICS]]: need to verify correct use of italics.
+* [[WP:MOSLINK]]: wikilinks not repeated throughout the text. 
+* [[WP:CITE]]: 
+** all citations follow a consistent format (order, details)
+** all necessary information is given (page numbers, full names, dates, etc.). 
+* [[WP:ALT]]: alt text for images can benefit accessibility.
+
+====Reference tasks====
+* Need access to most reference materials, in case material is challenged, requires clarification or further detail, or reviewers request source material for verification (not usually the case beyond spotchecks, usually online, but on rare occasion passage excerpts are asked).
+* Verify that citations indeed match the written material. User: Ian Rose has the Job (1996) and Faith (1996) books and did spotchecks; the article relies heavily on Darling (2001), which is available to me, and others, which may need to be verified (at least have access to them). Do we know which references User:Bzuk has access to?
+
+User:Nikkimaria usually judges the citation formatting during FAC, and if asked may be able to do a preliminary review beforehand. The sheer volume of refs in this article is great, which is helpful but requires care.
+
+These tweaks may seem a bit painstaking, but in my experience they will help ease the FAC process. Hopefully the article will continue to improve towards that goal! Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 02:05, 29 May 2012 (UTC)
+
+====Prose and MOS====
+Oops, I offered help at [[WT:AIRCRAFT]] and didn't help! A few notes: - Dank ([[User talk:Dank|push to talk]])
+*The ''See also'' section is great.
+*The first bullet point at [[WP:MOS]] says that titles are in &quot;sentence case&quot;. The exception of &quot;eBay&quot; is mentioned, but that's not really an exception, because eBay is actually lowercased even when publishers and journalists put it at the start of a sentence (which they avoid when possible), along with iPad, [[bell hooks]], and [[k.d. lang]]. Each of these &quot;brand names&quot; is intended to look odd, to draw attention to itself, and it's been a constant fight for those few companies and individuals that have won a mention for their exceptional lowercasing in style guides. It doesn't appear to me that the same is true for this company; books I'm seeing are ''The De Havilland Dragon Rapide Family'', ''De Havilland Aircraft since 1909'', ''De Havilland: A Pictorial Tribute'', and ''The De Havilland Canada Story''. It's fine of course to lowercase the &quot;de&quot; throughout this article, since it never appears at the start of a sentence.
+*&quot;the world's first production commercial jet airliner&quot;: slightly jargony for the first sentence. &quot;the world's first commercial jet airliner in production&quot;. I guess &quot;production&quot; is fine the way you use it (adjectivally) after the first mention.
+*&quot;landmark&quot;, &quot;extremely&quot;, &quot;exceptionally&quot;, &quot;major success&quot; ... too much for the first paragraph. Tone it down.
+*&quot;... Comet airframes began suffering catastrophic metal fatigue, which in combination with cabin pressurisation cycles, caused two well-publicised accidents where the aircraft tore apart in mid-flight.&quot;: This is the one-sentence version of [[burying the lead]] ... that is, all aircraft have cabin pressurisation cycles; not all aircraft tear apart in mid-flight, and that's the part that you want to get to sooner rather than later.  I'd go with: &quot;... Comet airframes began suffering catastrophic metal fatigue; two of them tore apart in mid-flight in well-publicised accidents.&quot;
+*&quot;Several contributory factors, such as window shape and installation methodology, were ultimately identified as exacerbating the problem. The Comet was extensively redesigned to eliminate this design flaw, with changes ...&quot;: Design flaws including window shape and installation methodology were ultimately identified, and the Comet was extensively redesigned, with changes ...
+*&quot;a long and productive career of over 30 years&quot;: a productive career of over 30 years 
+*&quot;such as surveillance, VIP, medical and passenger transport&quot;: nonparallel. &quot;such as surveillance and VIP, medical and passenger transport&quot;
+*All that was in the lead, so the ride at FAC may be a little bumpy ... tighten your seatbelts and give it a once-over. It's already been through PR and A-class; I don't see a reason to hold off on FAC. - Dank ([[User talk:Dank|push to talk]]) 03:22, 29 May 2012 (UTC)
+
+::Thanks for the comments! Yes it seems that progress, and at least partial consensus, has helped the ''See also'' issue, which is now implemented both here and [[Boeing 757]], both pending articles for review. Interesting about the capitalization issue for &quot;de Havilland&quot; as well.
+
+::Regarding the lead, I've simplified the first sentence to &quot;first production commercial jetliner,&quot; which has the same meaning. The other suggestions have also been implemented. As for tone, I alluded to potential NPOV issues in my ACR comments, and have adjusted the ones in the lead. 
+
+::As a more recent contributor to this article, I have considered whether to ask for a full copy-edit at the GoCE, but noticed that there is a significant backlog there. After some final polishing here and there, it may be ready for FAC, but I still want to smooth over the above issues (and several others) first if possible. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 07:13, 29 May 2012 (UTC)
+
+::Just finished with a section-by-section formatting and integration process; in my opinion, the article could use some additional polishing, particularly with regards to ''consistency'' (everything--units to captions to references to wording to redundancy to details). This would address the comprehensiveness requirement, and go towards allaying any concerns over logical structure and the overall article quality. Some additional finessing of the prose would also better enable this article to approach the brilliant classification. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 09:35, 31 May 2012 (UTC)
+:::If someone can address the consistency problem, I'll do my usual copyediting thing. - Dank ([[User talk:Dank|push to talk]]) 11:27, 31 May 2012 (UTC)
+
+::::OK, let me update what is left to be done on that front: — [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 19:10, 31 May 2012 (UTC)
+
+*Continuing. I've got questions about [http://en.wikipedia.org/w/index.php?title=De_Havilland_Comet&amp;curid=182728&amp;diff=496236465&amp;oldid=496218547 this edit] from last night. Either the de Havilland was the only aircraft among its competitors that could fly at all above 30,000 ft, or it was more fuel efficient at that altitude ... which was it? Also, there's a spelling error. Also, a hidden note was added saying there's no reference for the quieter operation, but the quieter operation was mentioned and referenced in the last paragraph of ''Overview''. I don't see the reason for &quot;all counting as advantages of Comets over their competitors&quot;; isn't that clear? - Dank ([[User talk:Dank|push to talk]]) 12:00, 6 June 2012 (UTC)
+*Okay, I got down about two-thirds of the way, to [[De Havilland Comet#Variants]]. I think it's fine for FAC, though you may want to revert or modify the edit I mentioned just above. - Dank ([[User talk:Dank|push to talk]]) 02:39, 7 June 2012 (UTC)
+
+::Thanks so much for the detailed copy-edit! Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 20:45, 8 June 2012 (UTC)
+
+===To-do list===
+* Italics consistency
+* Wikilinks consistency
+* Reference formatting and consistency
+* Check for reliable source alternatives to Flickr and YouTube refs
+* Check geocities reference for actual author (can that be found?).
+* Quote: &quot;front 16 seats were De Luxe: £17/17/- or $50 extra fare&quot;--citation?
+* Alt text
+::Hello there; I don't know for sure who's list this is, but does any of it still need doing? I can address some of it now that my work is less overwhelmingly busy. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 08:47, 27 June 2012 (UTC)
+
+:::Greetings, I added the list and somehow it was signed above. Anyhow, the first three are general MoS requirements which will be scrutinized at FAC.  The last four though are more specific, and if someone could handle those it would be great.  Reviewers may not like using Flickr, YouTube, or Geocities as references, the &quot;De Luxe&quot; quote could be cited, and alt text would appear more comprehensive as the FAC page toolbox automatically lists it as the first item. Regards, [[User:SynergyStar|SynergyStar]] ([[User talk:SynergyStar|talk]]) 21:57, 27 June 2012 (UTC)
+
+== [[Central African Airways]] ==
+
+Is it really true that CAA had a Comet leased from BOAC? I couldn't find any reference, neither concerning a Comet in CAA's fleet, nor it being announced as equipment in any CAA timetables (presumably on the Salisbury-London route). This article gives &quot;Darling 2005, p. 119&quot; as a source. Could someone with a deeper insight please check? --[[User:FoxyOrange|FoxyOrange]] ([[User talk:FoxyOrange|talk]]) 17:53, 12 January 2013 (UTC)
+
+BOAC operated the &quot;Rhodesian Comet&quot; service on CAA's behalf, using BOAC crews and BOAC aircraft in unmodified BOAC
+colours. I suppose it is &quot;leasing&quot;, but only just: more the leasing of a service rather than an aircraft. see https://www.youtube.com/watch?v=7MVFHRLXMfA&amp;index=6&amp;list=WL [[Special:Contributions/31.51.209.242|31.51.209.242]] ([[User talk:31.51.209.242|talk]]) 10:41, 2 May 2016 (UTC)  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/31.51.209.242|31.51.209.242]] ([[User talk:31.51.209.242|talk]]) 09:34, 2 May 2016 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Add this tv programme somewhere in the article? ==
+
+The De Havilland Comet was featured in depth in the [[Channel 4]] programme, ''A Great British Air Disaster''. [http://www.channel4.com/programmes/a-great-british-air-disaster Channel 4 info and on-demand viewer] and [http://www.guardian.co.uk/tv-and-radio/2013/feb/25/a-great-british-air-disaster-tv-review ''Guardian'' review]  First shown 24 February 2013.
+
+:I don't have the ''Flight'' article link ATM but some of you may be interested in the intended replacement for the Comet. It was, guess what ..... what became [[Concorde]]. Concorde was actually designed as a Comet replacement - both BOAC and Air France had been early users of the Comet.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 17:50, 3 May 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::Archive footage of Comet maiden flight here [http://www.youtube.com/watch?v=Kd9Qy4q73-M] Whittle himself can be seen looking at his watch at 1:24.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 16:55, 20 October 2013 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Sabotage of Comets Yoke Peter and Yoke Yoke by the DVD ==
+
+The article as it currently appears contains major factual inaccuracies and recycles old myths, such as the myth that the Comet 1 had square windows.  They in fact had rounded corners to reduce stress build-up.  They were also tested by De Havillands to over 100 psi.  There is no way that they would have failed in almost brand-new aircraft, nor is there any evidence that they did fail.  RAE's report asserts that the break-up sequence commenced at the ADF panel, which was on the cabin ceiling, so why is the article talking about windows?  The wreckage of Yoke Yoke was never recovered, and the crash of the Calcutta Comet was blamed on stabiliser failure - nothing to do with windows.
+
+The article before my minor revisions (it needs major re-drafting) blamed all three losses on the windows, without any supporting evidence save that the Yoke Uncle test fuselage was eventually made to fail at the windows, having first failed at a wing.  Put shortly the Yoke Uncle test failed to replicate the alleged break-up sequence of Yoke Peter and contradicted the window theory by suggesting that the wings would fail first, as we would expect, as they suffered greater cyclical stress.
+
+The article is also out of date and fails to mention the latest research.  I cannot help the fact that I published it.  Instead of blaming me for self-promotion, blame the existing authors for failing to keep themselves up to date, with respect, on the literature on the Comet.  The RAE theory is fatally flawed.  Metal fatigue as an explanation for the losses of the Comets is a non-starter and they theory rests on skewed data.  [[User:Michael Shrimpton|Michael Shrimpton]] ([[User talk:Michael Shrimpton|talk]]) 15:14, 19 September 2016 (UTC)
+:You are giving an [[WP:RS|unreliable source]] (to wit: yourself) [[WP:UNDUE|undue weight]], as it represents a [[WP:FRINGE]]-view. If you have sources (other than your own say-so) then please feel welcome to adapt the article. Moreover your contribution positively reeks of selfpromotion. [[User:Kleuske|Kleuske]] ([[User talk:Kleuske|talk]]) 15:35, 19 September 2016 (UTC)</text>
+      <sha1>sjeamgyanb33bh6sa99hyyxdr4xclkf</sha1>
+    </revision>
+  </page>
+</mediawiki>

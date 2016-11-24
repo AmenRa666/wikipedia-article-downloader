@@ -1,0 +1,322 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Panavia Tornado ADV</title>
+    <ns>0</ns>
+    <id>246711</id>
+    <revision>
+      <id>748123371</id>
+      <parentid>724583811</parentid>
+      <timestamp>2016-11-06T13:36:09Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */clean up; http&amp;rarr;https for [[Google Books]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34494">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. --&gt;
+{|{{Infobox aircraft begin
+|name=Tornado ADV
+|image= File:Royal Air Force Panavia Tornado F3 Lofting-3.jpg
+|caption= RAF Tornado F3
+}}{{Infobox aircraft type
+|type=[[Interceptor aircraft|Interceptor]]
+|manufacturer=[[Panavia Aircraft GmbH]]
+|designer=
+|first flight=27 October 1979
+|introduced=1 May 1985
+|retired= 2011 (RAF)
+|primary user=[[Royal Air Force]]&lt;!--Limit one (1) primary user.--&gt;
+|more users=[[Royal Saudi Air Force]]&lt;br&gt;[[Italian Air Force]]
+|number built=218&lt;ref name = &quot;leek 23&quot;/&gt;
+|status= Retired
+|unit cost= £14 million (1980)&lt;ref&gt;{{cite web|last1=Pym|first1=Francis|title=Armaments (Replacement Cost)|url=http://hansard.millbanksystems.com/written_answers/1980/nov/28/armaments-replacement-cost#S5CV0994P0_19801128_CWA_41|website=millbanksystems|publisher=Hansard|accessdate=21 May 2016}}&lt;/ref&gt;
+|developed from=[[Panavia Tornado|Panavia Tornado IDS]]
+|variants with their own articles=
+}}
+|}
+
+The '''Panavia Tornado Air Defence Variant (ADV)''' was a long-range, twin-engine [[Interceptor aircraft|interceptor]] version of the [[Variable-sweep wing|swing-wing]] [[Panavia Tornado]]. The aircraft's first flight was on 27 October 1979, and it entered service with the [[Royal Air Force]] (RAF) in 1986. It was also previously operated by the [[Italian Air Force]] (AMI) and the [[Royal Saudi Air Force]] (RSAF).
+
+The Tornado ADV was originally designed to intercept [[Soviet Union|Soviet]] [[bomber]]s as they were traversing across the [[North Sea]] with the aim of preventing a successful air-launched nuclear attack against the United Kingdom. In this capacity, it was equipped with a powerful [[radar]] and [[beyond-visual-range missile]]s, however initial aircraft produced to the F2 standard lacked radars due to development issues. The follow-up F3 standard was the definitive variant used by the RAF, as well as all Tornado ADV aircraft that were leased by the AMI and procured by the RSAF.
+
+During its service life, the Tornado ADV received several upgrade programs which enhanced its aerial capabilities and enabled it to perform the [[Suppression of Enemy Air Defenses]] (SEAD) mission in addition to its interceptor duties. Ultimately, both the RAF and RSAF retired their Tornado ADV fleets; the type has been replaced in both services by the newer, multi-role [[Eurofighter Typhoon]].
+
+==Design and development==
+
+===Origins===
+The Tornado ADV had its origins in an RAF requirement (Air Staff Requirement 395 or ASR.395), which called for a long-range interceptor to replace the [[English Electric Lightning|Lightning F6]] and [[McDonnell Douglas F-4 Phantom II in UK service|Phantom FGR2]].&lt;ref name ='Laming 97'/&gt; The requirement for a modern interceptor was driven by the threat posed by the large Soviet long-range bomber fleet, in particular the supersonic [[Tupolev Tu-22M]].&lt;ref name=Eden_p370&gt;{{harvnb|Eden|2004|p=370}}&lt;/ref&gt; From the beginning of the Tornado IDS's development in 1968, the possibility of a variant dedicated to air defence had been quietly considered; several American aircraft had been evaluated, but found to be unsuitable.&lt;ref&gt;Aeroguide 21 1988, p. 3.&lt;/ref&gt; However, the concept proved unattractive to the other European partners on the Tornado project, thus the UK elected to proceed in its development alone. On 4&amp;nbsp;March&amp;nbsp;1976, the development of the Tornado ADV was formally approved; it was announced on this day that 165 of the 385 Tornados that were on order for the RAF would be of the Tornado ADV variant.&lt;ref name = &quot;leek 23&quot;&gt;Leek 2015, p. 23&lt;/ref&gt;&lt;ref name=flightintdir/&gt;
+
+[[File:RAF Tornado F2.JPEG|thumb|Formation take-off of an RAF Tornado GR.1 and a Tornado F.2 prototype]]
+In 1976, [[British Aerospace]] (BAe, now [[BAE Systems]]) was contracted to provide three prototype aircraft.&lt;ref name=flightintdir&gt;{{harvnb|Taylor|2001|pp=189–190}}&lt;/ref&gt;&lt;ref&gt;Aeroguide 21 1988, p. 1.&lt;/ref&gt; The first prototype was rolled out at [[Warton Aerodrome|Warton]] on 9&amp;nbsp;August&amp;nbsp;1979, before making its [[maiden flight]] on 27&amp;nbsp;October&amp;nbsp;1979 with [[David Eagles]].&lt;ref name=flightintdir/&gt; The second and third development aircraft made their first flights on 18&amp;nbsp;July and 18&amp;nbsp;November&amp;nbsp;1980, respectively.&lt;ref name = &quot;leek 23&quot;/&gt;&lt;ref name=Eden_p370/&gt; During the flight testing, the ADV demonstrated noticeably superior supersonic acceleration to the IDS, even while carrying a full weapons loadout.&lt;ref name = 'eagles 91'&gt;Eagles 1991, p. 91.&lt;/ref&gt; The testing of the prototypes was greatly aided by the use of [[real-time data|real-time]] [[telemetry]] being broadcast back to ground technicians from aircraft in flight.&lt;ref&gt;Eagles 1991, pp. 90–91.&lt;/ref&gt; The third prototype was primarily used in the testing of the new [[GEC-Marconi|Marconi/Ferranti]] [[AI.24 Foxhunter]] airborne interception radar.&lt;ref name = &quot;leek 23&quot;/&gt;&lt;ref&gt;Eagles 1991, p. 92.&lt;/ref&gt;
+
+The Tornado ADV's differences compared to the IDS include a greater sweep angle on the wing gloves, and the deletion of their kruger flaps, deletion of the port cannon, a longer radome for the Foxhunter radar, slightly longer airbrakes and a fuselage stretch of 1.36&amp;nbsp;m to allow the carriage of four [[Skyflash]] [[semi-active radar homing]] missiles.&lt;ref name ='Laming 97'&gt;Laming 1996, p. 97.&lt;/ref&gt;&lt;ref name = 'eagles 88'/&gt; The stretch was applied to the Tornado front fuselage being built by the UK, with a plug being added immediately behind the cockpit, which had the incidental benefit of reducing drag and making space for an additional fuel tank (Tank '0') carrying {{convert|200|impgal|L U.S.gal|0}} of fuel.&lt;ref name=&quot;evans p121&quot;&gt;Evans 1999, p.121&lt;/ref&gt; The [[Aircraft flight control system#Artificial feel devices|artificial feel]] of the flight controls was lighter on the ADV than on the IDS.&lt;ref name = 'eagles 89'&gt;Eagles 1991, p. 89.&lt;/ref&gt; Various internal avionics, pilot displays, guidance systems and software also differed; including an automatic wing sweep selector not fitted to the strike aircraft.&lt;ref&gt;Aeroguide 21 1988, pp. 6–7.&lt;/ref&gt;
+
+The Tornado F2 (sometimes written as F.2) was the initial version of the Tornado ADV in Royal Air Force service, with 18 being built. It first flew on 5&amp;nbsp;March&amp;nbsp;1984 and was powered by the same RB.199 Mk 103 engines used by the IDS Tornado, capable of four wing sweep settings, and fitted to carry only two underwing [[AIM-9 Sidewinder|Sidewinder missiles]].&lt;ref&gt;Aeroguide 21 1988, p. 7.&lt;/ref&gt; Serious problems were discovered with the Foxhunter radar, which meant that the aircraft were delivered with concrete and lead ballast installed in the nose as an interim measure until they could be fitted with the radar sets. The ballast was nicknamed ''Blue Circle'', which was a play on the [[Rainbow Codes]] nomenclature, and a British brand of cement called [[Blue Circle Industries|Blue Circle]].&lt;ref name ='Laming 97'/&gt;&lt;ref name=&quot;Evans p126&quot;/&gt;
+
+Production of the Tornado ADV was performed between 1980 and 1993, the last such aircraft being delivered that same year.&lt;ref name = &quot;leek 23&quot;/&gt; A total of 165 Tornado ADVs were ordered by Britain, the majority being the Tornado F3.&lt;ref&gt;Aeroguide 21 1988, p. 9.&lt;/ref&gt;
+
+===Further developments===
+[[File:Tornado F3 RAF armed.jpg|thumb|Tornado F.2 flying at a high climb angle while making a turn to port; note the [[air-to-air missiles]] on the underside of the fuselage, and only two missile rails under the wings]]
+
+The Tornado F3 made its maiden flight on 20&amp;nbsp;November&amp;nbsp;1985.&lt;ref name=flightintdir/&gt; Enhancements over the F2 included RB.199 Mk 104 engines, which were optimised for high-altitude use with longer afterburner nozzles, the capacity to carry four underwing [[AIM-9 Sidewinder|Sidewinder]] missiles rather than two, and automatic wing sweep control.&lt;ref name=&quot;Evans p126&quot;&gt;Evans 1999, p.&amp;nbsp;126&lt;/ref&gt; The F3's primary armament when it was introduced into service was the short-range Sidewinder and the medium-range [[Skyflash]] missiles, a British design based on the American [[AIM-7 Sparrow]].&lt;ref name=Butler_p101&gt;Butler 2001, p.&amp;nbsp;101.&lt;/ref&gt;
+
+In order to maintain the Tornado F3 as an effective platform up to its planned out-of-service date of 2010, the Ministry of Defence initiated the Capability Sustainment Programme (CSP). This project, announced on 5&amp;nbsp;March&amp;nbsp;1996, involved many elements, including the integration of [[ASRAAM]] and [[AIM-120 AMRAAM]] air-to-air missiles, and radar upgrades to improve multi-target engagement. Additionally, pilot and navigator displays would be improved, along with the replacement of several of the onboard computer systems.&lt;ref name=&quot;Sust p29-0&quot;&gt;Nicholas 2000, pp. 29–30.&lt;/ref&gt; The CSP would see the removal of a non-standard state of aircraft; various upgrades, in particular to the Foxhunter radar, had led to a situation described as &quot;fleets within fleets&quot;.&lt;ref name=&quot;Sust p29-0&quot;/&gt; The Foxhunter radar was a source of difficulties in the upgrade programme, in particular the integration of the new AMRAAM missile.&lt;ref&gt;Hall, Macer [http://www.telegraph.co.uk/news/uknews/1398105/RAF-abandons-missile-system-after-near-miss.html &quot;RAF abandons missile system after near miss.&quot;] ''The Telegraph,'' 23 January 2002.&lt;/ref&gt;
+
+The Tornado F3 was not able to exploit the full capabilities of either the AMRAAM or ASRAAM missiles. AMRAAM uses two mid-course updates after launch to refresh target information prior to its own seeker taking over; however, the CSP did not include the datalink to provide this capability, as it was considered to be too expensive. In addition, the ASRAAM was not fully integrated, which prevented the full off-boresight capability of the missile being exploited.&lt;ref name=&quot;Sust p30&quot;&gt;Nicholas 2000, p. 30.&lt;/ref&gt; On 8 June 2001, the MoD signed a contract for a further upgrade to the F3 force to allow these midcourse updates.&lt;ref name=&quot;Willisp&quot;/&gt; The upgrade to give full AMRAAM capability, together with updated [[Identification friend or foe|IFF]], known as the AMRAAM Optimisation Programme (AOP) was incorporated in the remaining F3 fleet between December 2003 and September 2006.&lt;ref name=&quot;Willisp&quot;&gt;{{Cite news |last=Willis |first=David |date = December 2007|title=Tornado F.3 – At its Peak |periodical=Air International |place=Stamford, Lincs, England |publisher=Key Publishing |volume=73 |issue=6 |pages=22–26 |issn=0306-5634}}&lt;/ref&gt;
+
+A further upgrade, disclosed in early 2003, was the integration of the [[ALARM]] anti-radiation missile to enable several Tornado ADVs to conduct [[Suppression of Enemy Air Defenses]] (SEAD) missions.&lt;ref name=EF3&gt;{{cite web |url= http://www.raf.mod.uk/equipment/tornadof3.cfm|title= Tornado F3|publisher=Royal Air Force|accessdate=26 March 2008 }}&lt;/ref&gt; The F3's existing radar warning receivers formed the basis of an Emission Location System (ELS), which can be employed to detect and locate operational radar systems in the aircraft's vicinity. These modified aircraft were re-designated ''Tornado EF3'' and operated by [[No. 11 Squadron RAF]].&lt;ref&gt;{{cite web|url=http://www.vraf.org/11sqn.php|title=Welcome to the VRAF: Number XI Squadron|publisher=VRAF.org|accessdate=13 August 2011}}&lt;/ref&gt;
+
+===Performance===
+According to aviation historian Michael Leek, from the onset of the type's development, the Tornado ADV encountered &quot;...controversy and many questions over the ADV's performance and suitability - controversy which stayed with the aircraft for much of its service life&quot;.&lt;ref name = &quot;leek 23&quot;/&gt;
+
+The Tornado ADV was designed to serve in the role of an [[interceptor aircraft|interceptor]] against the threat of [[Soviet Union|Soviet]] bombers, rather than as an [[air superiority fighter]] for engaging in prolonged [[air combat manoeuvering]] with various types of enemy fighters.&lt;ref name = 'eagles 88'&gt;Eagles 1991, p. 88.&lt;/ref&gt; In order to perform its anti-bomber primary mission, it was equipped with long range [[beyond visual range]] missiles such as the [[Skyflash]], and later the [[AMRAAM]]; the aircraft also had the ability to stay aloft for long periods and remain over the [[North Sea]] and Northern [[Atlantic]] in order to maintain its [[combat air patrol|airborne patrol]].&lt;ref&gt;Butler 2001, {{page needed|date=December 2011}}&lt;/ref&gt; The Ministry of Defence acknowledged the Tornado ADV was not as significantly superior an aircraft to the Phantoms it had replaced in the air-defence role. However, the capability of its weapon systems was a dramatic improvement; in particular the radar and onboard computer facilities.&lt;ref&gt;Smith 1980, p. 134.&lt;/ref&gt; Compared with the Phantom, the ADV had greater acceleration, twice the range and loiter time, and was more capable of operating from short 'austere' air strips.&lt;ref&gt;Aeroguide 21 1988, p. 2.&lt;/ref&gt;
+
+The Tornado's advanced avionics meant that it could be more effective than previous British interceptors, such as the Lightning. While older aircraft were reliant on a network of ground-based radar stations, the onboard Foxhunter radar was capable of performing much longer and wider scans of surrounding airspace; the Tornado could track and engage targets at far greater distances.&lt;ref name = 'eagles 88'/&gt; The Tornado also had the ability to share its radar and targeting information with other aircraft via JTIDS Link 16 and was one of the first aircraft to have a [[Bus (computing)|digital data bus]], used for the transmission of data between onboard computers.&lt;ref&gt;Moir and Seabridge 2011, pp. 447–448.&lt;/ref&gt;&lt;ref&gt;Aeroguide 21 1988, p. 6.&lt;/ref&gt;
+
+==Operational history==
+
+===Royal Air Force===
+[[File:Panavia Tornado F2, UK - Air Force AN2060169.jpg|thumb|A pair of Tornado F.2s departing from [[RAF Fairford]] in 1985]]
+
+On 5 November 1984, the first interim Tornado F2 was first delivered to the RAF, and its short career came to an end shortly following the improved Tornado F3 entered service. These aircraft were used primarily for training by [[No. 229 Operational Conversion Unit RAF]] until they were placed in storage. The F2s were intended to be updated to Tornado F2A standard (similar to the F3 but without the engine upgrade) but only one F2A, the Tornado Integrated Avionics Research Aircraft (TIARA) was converted, having been customised by [[QinetiQ]] for [[unmanned aerial vehicle]] (UAV) trials at [[MoD Boscombe Down]].&lt;ref&gt;[http://www.raf.mod.uk/newsweather/index.cfm?storyid=B7B62352-1143-EC82-2ECD8C9E71DAEB26 &quot;Pilotless Passenger Jet Flown Remotely By RAF.&quot;] ''Royal Air Force,'' 3 April 2007.&lt;/ref&gt;
+
+In November 1987, [[No. 29 Squadron RAF|29 Squadron]] became the first RAF squadron to be declared operational with the Tornado ADV.&lt;ref name = &quot;leek 23&quot;/&gt;
+
+The Tornado F3 made its combat debut in the 1991 [[Gulf War]] with 18 aircraft deployed to [[Dhahran]], [[Saudi Arabia]]. The aircraft deployed to the region were later upgraded in a crash program with improved radar and engines, better defensive countermeasures and several adaptions to the weapons systems to improve combat performance in the Iraqi theatre;&lt;ref&gt;Szejnmann 2010, pp. 214–215.&lt;/ref&gt; however, they still lacked modern [[Secondary surveillance radar|IFF]] and secure communications equipment. They therefore flew patrols further back from Iraqi airspace where encounters with enemy aircraft were less likely, and did not get the opportunity to engage any enemy aircraft.&lt;ref name=&quot;WAPJ 31 p126&quot;&gt;Lake 1997, p. 126.&lt;/ref&gt; From August 1990 to March 1991, the RAF's F3 detachment flew more than 2000 [[combat air patrol]] sorties.&lt;ref&gt;Szejnmann 2010, p. 216.&lt;/ref&gt;
+
+Following the Gulf War, the RAF maintained a small squadron of F3s in Saudi Arabia to continue routine patrols of Iraqi [[no-fly zone]]s. The Tornado F3 saw further combat service, from 1993 to 1995 as escort fighters in [[Operation Deny Flight]] over [[Bosnia]], and in 1999 flying combat air patrols during [[Operation Allied Force]] in Yugoslavia;&lt;ref&gt;McGrath, Mark. &quot;Tornado F3 Bows Out.&quot; ''Fence Check,'' Retrieved: 11 July 2012.&lt;/ref&gt; during these extended overseas deployments, the F3 proved troublesome to maintain at operational readiness when based outside the UK.&lt;ref&gt;Szejnmann 2010, pp. 221–222.&lt;/ref&gt; Following lengthy delays in the Eurofighter programme to develop a successor to the F3 interceptor, in the late 1990s the RAF initiated a major upgrade program to enhance the aircraft's capabilities, primarily by integrating several newer air-to-air missiles.&lt;ref&gt;Szejnmann 2010, p. 222.&lt;/ref&gt;
+
+[[File:tornado f3 ze887 kemble arp.jpg|thumb|RAF [[No. 43 Squadron RAF|43 Sqn]] (ZE887) Tornado F3 takes off at [[Kemble Airport|Kemble Air Day]] 2008]]
+In 2003, the Tornado F3 was one of the assets used in [[Operation Telic]], Britain's contribution to the [[Iraq War]]. An expeditionary force composed of [[No. 43 Squadron RAF|43]] and 111 Squadrons (known as Leuchars Fighter Wing) was deployed to the region to carry out offensive counter-air operations. The Tornado F3's of Leuchars Fighter Wing operated all over Iraq, including missions over and around Baghdad, throughout Operation Telic. Due to a lack of airborne threats materialising in the theatre, the F3s were withdrawn and returned to European bases that same year.&lt;ref&gt;[http://archive.newsmax.com/archives/articles/2003/4/11/214517.shtml &quot;U.K. Begins Moving Some Forces Home.&quot;] ''newsmax.com'', 12 April 2003. {{dead link|date=November 2015}}&lt;/ref&gt;
+
+As part of ''[[Delivering Security in a Changing World]]'', the British Government's 2003 Defence White Paper, on 21 July 2004, Defence Secretary [[Geoff Hoon]] detailed plans to reduce the number of Tornado F3 squadrons by one to three squadrons.&lt;ref&gt;[http://www.scotsman.com/news/hoon_announces_broad_military_cuts_1_464715 &quot;Hoon announces broad military cuts.&quot;] ''The Scotsman,'' 21 July 2004.&lt;/ref&gt; This represented 16 aircraft and was the first stage in the transition to the F3's replacement, the [[Eurofighter Typhoon]], which entered operational service with the RAF in 2005. In April 2009, it was announced that the Tornado F3 force would be reduced to one squadron of 12 aircraft in September 2009.&lt;ref name=&quot;scotsman2009&quot;&gt;{{cite web|url=http://news.scotsman.com/britisharmedforces/Historic-squadron-is-disbanded-.5179515.jp|title=Historic squadron is disbanded – but Fighting Cocks may fly again|last=Urquhart|first=Frank|date=17 April 2009|work=The Scotsman|accessdate=13 May 2009}}&lt;/ref&gt; The last operational Tornado F3s in RAF service were retired when [[No. 111 Squadron RAF]], located at [[RAF Leuchars]], was disbanded on 22 March 2011.&lt;ref name = &quot;leek 23&quot;/&gt;&lt;ref name ='flight 2011'&gt;Hoyle, Craig. [http://www.flightglobal.com/articles/2011/03/22/354597/video.html &quot;UK retires last Tornado F3 fighters.&quot;] ''Flight International,'' 22 March 2011.&lt;/ref&gt;&lt;ref&gt;[http://www.rafmuseum.org.uk/research/collections/panavia-tornado-f3/ &quot;Panavia Tornado F3.&quot;] ''RAF Museum'', Retrieved: 25 May 2016.&lt;/ref&gt;
+
+In addition to the RAF's Tornado F3s, in 2007, QinetiQ leased four Tornado F3s from the MOD for the purpose of conducting weapons testing activities.&lt;ref&gt;[http://www.qinetiq.com/news/pressreleases/Pages/tornado-f3-bvraam-trials-contract.aspx &quot;QinetiQ wins contract to use Tornado F3 for BVRAAM trials.&quot;] ''QinetiQ,'' 16 May 2007.&lt;/ref&gt; QinetiQ's force of four F3s remained flying beyond the RAF's retirement of the type, in their latter service they were being used for aerial testing of the new [[MBDA Meteor]] air-to-air missile, and thus were the only flying examples in the UK for a time. Their final mission was flown on 20 June 2012, and the last three flown to [[RAF Leeming]] for scrapping on 9 July 2012.&lt;ref name = &quot;leek 23&quot;/&gt;&lt;ref&gt;Lake, Jon. &quot;Meteor Development Complete&quot;. ''Air International'', Vol 83 No 2, August 2012, p. 8.&lt;/ref&gt;
+
+===Italian Air Force===
+[[File:Panavia Tornado F.3, Italy - Air Force JP6705530.jpg|thumb|Italian Air Force Tornado ADV at [[Gioia del Colle Air Base]], Italy]]
+In the early 1990s, the [[Italian Air Force]] (''Aeronautica Militare Italiana'', or AMI) identified a requirement for a fighter to boost its air defence capabilities pending introduction of the [[Eurofighter Typhoon]]. These fighters were to operate alongside the service's obsolescent [[Aeritalia F-104S|F-104ASA Starfighters]]. The Tornado ADV was selected from, amongst others, the F-16. On 17&amp;nbsp;November&amp;nbsp;1993, Italy signed an agreement with the RAF to lease 24 Tornado F3s from the RAF for a period of ten years.&lt;ref name=AFM&gt;{{cite news |last= Sacchetti |first= Renzo |title= Italy's British Tornados |work=[[AirForces Monthly]] |page= 50 |publisher=Key Publishing |date = October 2003|accessdate=2 October 2006}}&lt;/ref&gt; At this time the Eurofighter Typhoon was expected to begin entry into service around 2000.&lt;ref&gt;Bevins, Anthony and Chris Godsmark. [http://www.independent.co.uk/news/pounds-15bn-goahead-for-eurofighter-1361526.html &quot;£15bn go-ahead for Eurofighter.&quot;] ''The Independent,'' 3 September 1996.&lt;/ref&gt;
+
+First training of AMI pilots began in March&amp;nbsp;1995 at [[RAF Coningsby]] while technicians gained experience at [[RAF Cottesmore]] and Coningsby. The first aircraft was accepted on 5&amp;nbsp;July&amp;nbsp;1995 and flown to its Italian base the same day. Delivery of the first batch was completed by 1996; these aircraft were deployed at [[Gioia del Colle]] in Southern Italy.&lt;ref&gt;[http://www.flightglobal.com/news/articles/italian-air-force-faces-tough-12-months-as-cash-cuts-bite-28061 &quot;Italian air force faces tough 12 months as cash cuts bite.&quot;] ''Flight International,'' 11 January 1995.&lt;/ref&gt; The second batch was delivered between February and July&amp;nbsp;1997, these aircraft were of a slightly higher specification.&lt;ref name=AFM/&gt; In early 1997, the AMI cancelled a series of scheduled upgrades to its Tornado fleet, stating that it was placing priority for funding on the developing Eurofighter instead.&lt;ref&gt;&quot;Italy cuts projects to protect EF2000 interest&quot;. ''Flight International,'' 12 March 1997.&lt;/ref&gt;
+
+In 2000, with major delays hampering the Eurofighter, the AMI began a search for another interim fighter. While the Tornado itself was considered, any long term extension to the lease would have involved upgrade to RAF CSP standard and thus was not considered cost effective. In February 2001, Italy announced its arrangement to lease 35 F-16s from the United States.&lt;ref&gt;&quot;Italy to lease 35 F-16 jets from USA until Eurofighter operational&quot;. ''ANSA News Agency,'' 1 February 2001.&lt;/ref&gt; The AMI returned its Tornados to the RAF, with the final aircraft arriving at RAF Saint Athan on 7 December 2004. One aircraft was retained by the Italian Air Force for static display purposes.&lt;ref&gt;{{cite news |title= Final AMI Tornados F3s Returned |work=AirForces Monthly |page=9 |publisher=Key Publishing |date = February 2005|accessdate=20 October 2006}}&lt;/ref&gt;
+
+===Royal Saudi Air Force===
+[[File:Parking RSAF Tornado in 1991.jpg|thumb|A Tornado F3 aircraft of the Royal Saudi Air Force sits on the flight line during Operation Desert Shield]]
+
+On 26 September 1985, Saudi Arabia and Britain signed a memorandum of understanding towards what would be widely known as the [[Al-Yamamah arms deal]], for the provision of various military equipment and services.&lt;ref&gt;[http://image.guardian.co.uk/sys-files/Politics/documents/2006/10/27/PJ5_39BriefforThatcherSept85.pdf &quot;Briefing for the Prime Minister's Meeting with Prince Sultan.&quot;] ''Ministry Of Defence,'' 26 September 1985.&lt;/ref&gt; The September 1985 deal involved the purchase of a large number of Tornado aircraft; including the Tornado ADV variant, along with armaments, radar equipment, spare parts and a pilot-training programme for the inbound fleet, in exchange for providing 600,000 barrels of oil per day over the course of several years.&lt;ref name=&quot;Cordesman 2003, pp. 217-218&quot;&gt;Cordesman 2003, pp. 217–218.&lt;/ref&gt; The first Al-Yamamah agreement ordered 24 Tornado ADVs and 48 Tornado IDSs.&lt;ref name=&quot;Cordesman 2003, pp. 217-218&quot;/&gt; The RSAF received its first ADV on 9 February 1989.&lt;ref name=flightintdir/&gt;
+
+Historian Anthony Cordesman commented that &quot;the Tornado ADV did not prove to be a successful air defence fighter... The RSAF's experience with the first eight Tornado ADVs was negative&quot;.&lt;ref&gt;Cordesman 2003, pp. 218–219.&lt;/ref&gt; In 1990, the RSAF signed several agreements with the US to later receive deliveries of the [[McDonnell Douglas F-15E Strike Eagle]], and thus had a reduced need for the Tornado ADV;&lt;ref&gt;[http://www.highbeam.com/doc/1G1-8972292.html &quot;BAE official denies reports of Tornado sale cancellation.&quot;] Defense Daily, 5 October 1990.&lt;/ref&gt; Saudi Arabia chose to convert further orders for up to 60 Tornado ADVs to the IDS strike variant instead.&lt;ref&gt;Cordesman 2003, pp. 219.&lt;/ref&gt;
+
+In 1991, during [[Operation Desert Storm]] over neighbouring Iraq, RSAF Tornado ADVs flew 451 air-defence sorties, operating in conjunction with RSAF F-15s.&lt;ref&gt;Al Saud, Turki K. [http://www.dtic.mil/dtic/tr/fulltext/u2/a403658.pdf &quot;The Royal Saudi Air Force and Long-term Saudi National Defence: A Strategic Vision.&quot;] ''United States Marines Corps Command and Staff College,'' 6 May 2002.&lt;/ref&gt; In 2006, it was announced that, in addition to Saudi Arabia's contract to purchase the Eurofighter Typhoon, both the Tornado IDS and ADV fleets would undergo a £2.5 billion program of upgrades, allowing them to remain in service to at least 2020.&lt;ref&gt;[http://www.defenseindustrydaily.com/the-2006-saudi-shopping-spree-bae-wins-tornado-fleet-upgrade-contract-02605/ &quot;The 2006 Saudi Shopping Spree: BAE Wins Tornado Fleet Upgrade Contract.&quot;] ''Defense Industry Daily'', 12 September 2006.&lt;/ref&gt; The Eurofighter has now replaced the Tornado ADV in the air-defence role.&lt;ref name ='flight 2011'/&gt;
+
+==Variants==
+[[File:Panavia Tornado F3, UK - Air Force AN1253319.jpg|thumb|RAF Tornado F3 at [[Bratislava]], [[Slovakia]], June 1999]]
+;Tornado F2 : Two-seat all-weather interceptor fighter aircraft, powered by two Turbo-Union RB.199-34R Mk 103 turbofan engines. Initial production version, 18 built.
+;Tornado F2A : F2 upgrade to F3 standard, but retaining F2 engines, one built.
+;Tornado F3 : Improved version, powered by two Turbo-Union RB.199-34R Mk 104 engines, with automatic wing sweep control, increased AIM-9 carriage and avionics upgrades.&lt;ref name=&quot;Evans p126&quot;/&gt;
+;Tornado EF3 : Unofficial designation for F3 aircraft modified with ALARM missile capability.&lt;ref name=EF3/&gt;
+
+==Operators==
+[[File:Exercise Red Flag. MOD 45143909.jpg|thumb|A pair of Tornado F3 aircraft in formation flight, 2005]]
+{{main article|Panavia Tornado operators}}
+
+;{{ITA}}
+:[[Italian Air Force]] (1995–2004)
+;{{SAU}}
+:[[Royal Saudi Air Force]] (1989–2006)
+;{{UK}}
+:[[Royal Air Force]] (1979–2011)
+
+==Specifications (Tornado F3)==
+[[File:Tornado ADV 3-view.png|right|450px|Orthographically projected diagram of the Tornado ADV]]
+[[File:Panavia Tornado ADV hardpoints.jpg|thumb|Hardpoint locations of the Tornado ADV.|alt=Underside view of jet fighter with colourful lines superimposed on the aircraft, showing under-wing and under-fuselage hardpoints]]
+[[File:Looks like a Tornado F.3 (4567070907).jpg|thumb|Tornado ADV with detached nosecone and wings]]
+{{External media
+|topic=Tornado ADV F2 cutaway illustration
+|width=
+|align=right
+|image1=[http://www.flightglobal.com/airspace/media/militaryaviation1946-2006cutaways/images/14175/panavia-tornado-f2-cutaway.jpg Hi-res cutaway of Tornado ADV F2 by [[Flight Global]], 2006.]
+}}
+
+{{Aircraft specifications
+|plane or copter?=plane
+|jet or prop?=jet
+|ref=Jane's All The World's Aircraft 1993–94,&lt;ref name=&quot;Janes 93 p173-5&quot;&gt;Lambert 1993, pp. 173–175.&lt;/ref&gt;
+|crew=2
+|capacity=
+|payload main=
+|payload alt=
+|length main=18.68 m
+|length alt=61 ft 3½ in
+|span main=([[Variable-sweep wing|Variable geometry wing]])
+**At 25° wing position : 13.91 m (45 ft 7½ in)
+**At 67° wing position: 8.60 m
+|span alt=28 ft 2½ in
+|height main=5.95 m
+|height alt=19 ft 6½ in
+|area main= 26.60 m²
+|area alt= 286.3&amp;nbsp;sq&amp;nbsp;ft
+|airfoil=
+|empty weight main= 14,500 kg
+|empty weight alt= 31,970 lb
+|loaded weight main=
+|loaded weight alt=
+|useful load main=
+|useful load alt=
+|max takeoff weight main= 27,986 kg
+|max takeoff weight alt= 61,700 lb
+|more general=
+|engine (jet)=[[Turbo-Union RB199-34R]]
+|type of jet=Augmented [[Turbofan]]
+|number of jets=2
+|thrust main= 40.5 kN
+|thrust alt= 9,100 lbf
+|thrust original=
+|afterburning thrust main=73.5 kN
+|afterburning thrust alt= 16,520 lbf
+|max speed main= Mach 2.2
+|max speed alt= 2,400 km/h, 1,490 mph
+|max speed more= at 9,000 m / 30,000 ft altitude; 800&amp;nbsp;knots, 1,482&amp;nbsp;km/h, 921 mph [[indicated airspeed]] near sea level
+|cruise speed main=
+|cruise speed alt=
+|stall speed main=
+|stall speed alt=
+|never exceed speed main=
+|never exceed speed alt=
+|combat radius main=more than 1,853 km
+|combat radius alt=1000 nmi, 1,151 mi
+|combat radius more= (subsonic), more than 556 km (300 nmi, 345 mi) supersonic
+|endurance=2 hr combat air patrol at 560–740 km (300–400 nmi, 345–460 mi) from base
+|ferry range main= 4,265 km&lt;ref name=&quot;Mason Fighter p424&quot;&gt;Mason 1992, p. 424.&lt;/ref&gt;
+|ferry range alt= 2,300 nmi, 2,650 mi
+|ferry range more= with four external tanks
+|ceiling main= 15,240 m&lt;ref name=&quot;RAF specs&quot;&gt;[http://www.raf.mod.uk/equipment/tornadof3.cfm RAF: Equipment – Tornado F3 Specifications]. ''Royal Air Force''. Retrieved 1 July 2010.&lt;/ref&gt;
+|ceiling alt= 50,000 ft
+|climb rate main=
+|climb rate alt=
+|loading main=
+|loading alt=
+|thrust/weight=
+|power/mass main=
+|power/mass alt=
+|more performance=
+|armament=
+*'''Guns'''
+**1 × {{convert|27|mm|abbr=on|3}} [[Mauser BK-27]] [[revolver cannon]] with 180 rounds (internally mounted under starboard side of fuselage, versus 2× BK-27 mounted on Panavia Tornado IDS)
+*'''[[Hardpoint]]s:''' 10 total (4× semi-recessed under-fuselage, 2× under-fuselage, 4× swivelling under-wing) holding up to 9000&amp;nbsp;kg (19,800 lb) of payload, the two inner wing pylons have shoulder launch rails for 2× Short-Range AAM (SRAAM) each
+**4× [[AIM-9 Sidewinder]] ''or'' [[AIM-132 ASRAAM]]
+**4× [[British Aerospace Skyflash]] ''or'' [[AIM-120 AMRAAM]] (mounted on 4 semi-recessed under-fuselage hardpoints)
+*'''Others''':
+**Up to 2× [[drop tank]]s for extended range/loitering time. Up to 4 drop tanks for ferry role (at the expense of 4 Skyflash/AMRAAM).
+|avionics=
+*[[Marconi Electronic Systems|GEC-Marconi]]/[[Ferranti]] [[AI.24 Foxhunter]] radar
+}}
+{{clear}}
+
+==See also==
+{{Portal|Royal Air Force|Aviation}}
+{{External media|topic= |width=18% |align=right |video1=[https://www.youtube.com/watch?v=Lyva01gt8tM Documentary on the Panavia Tornado ADV] |video2=[https://www.youtube.com/watch?v=yLQM6hSC99o A Tornado F3 performing an aerobatic display in Sussex, 2005] |video3=[https://www.youtube.com/watch?v=P0ce0dA5DxI Footage of Tornado F3 squadron operations]}}
+{{aircontent
+|see also=
+|related=
+*[[Panavia Tornado#Tornado IDS|Panavia Tornado IDS]]
+*[[Panavia Tornado#Tornado ECR|Panavia Tornado ECR]]
+|similar aircraft=
+*[[Grumman F-14 Tomcat]]
+*[[McDonnell Douglas F-15 Eagle]]
+*[[Mikoyan-Gurevich MiG-23]]
+*[[Mikoyan MiG-31]]
+}}
+
+==References==
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+{{refbegin}}
+*''Aeroguide 21: Panavia Tornado F Mk 2/Mk 3.'' Ongar, UK: Linewrights Ltd. 1988. ISBN 0-946958-26-2.
+*Butler, Tony. ''British Secret Projects: Jet Fighters Since 1950''. Hinckley, UK: Midland Publishing, 2001. ISBN 1-85780-095-8.
+*Cordesman, Anthony. ''Saudi Arabia Enters the Twenty-first Century: The military and international security dimensions''. Greenwood Publishing, 2003. ISBN 0-275-97997-0.
+*{{Cite book|editor-last=Eden|editor-first=Paul|title=The Encyclopedia of Modern Military Aircraft|location=London|publisher=Amber Books, 2004|isbn=1-904687-84-9|ref={{harvid|Eden|2004}}}}
+*Eagles, J.D. [https://books.google.com/books?id=IOGCd7QreKgC&amp;pg=PA88&amp;dq=panavia+tornado&amp;hl=en&amp;ei=rdn3S-vqLMOlONXH1ZUM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCYQ6AEwADgK#v=onepage&amp;q=panavia%20tornado&amp;f=false &quot;Preparing a Bomber Destroyer: The Panavia Tornado ADV.&quot;] ''Putnam Aeronautical Review'' (Naval Institute Press), Volume 2, 1991, pp.&amp;nbsp;88–93.
+*Evans, Andy. ''Panavia Tornado''. Wiltshire UK: Crowood Press, 1999. ISBN 1861262019.
+*Jackson, Robert. ''Air War At Night''. Charlottesville, Virginia: Howell Press Inc. 2000. ISBN 1-57427-116-4 (see p.&amp;nbsp;139–144).
+*Lake, Jon. &quot;Panavia Tornado Variant Briefing:Part Two&quot;. ''World Air Power Journal'', Volume 31, Winter 1997. London: Aerospace Publishing. pp.&amp;nbsp;114–131. ISBN 1-86184-006-3. ISSN 0959-7050.
+*Lambert, Mark. ''Jane's All The World's Aircraft 1993–94''. Coulsdon, UK: Jane's Data Division, 1993. ISBN 0-7106-1066-1.
+*Laming, Tim. ''Fight's On: Airborne with the Aggressors.'' Minneapolis, Minnesota: Zenith Imprint, 1996. ISBN 0-7603-0260-X.
+*Leek, Michael. ''The Panavia Tornado: A Photographic Tribute''. Pen and Sword, 2015. ISBN 1-4738-6914-5.
+*Nicholas, Jack C. &quot;Sustaining the F.3&quot;. ''[[Air International]]'', July 2000, Vol 59 No 1. pp.&amp;nbsp;28–31. ISSN 0306-5634.
+*Mason, Francis K. ''The British Fighter since 1912''. Annapolis, Maryland: Naval Institute Press, 1992. ISBN 1-55750-082-7.
+*Moir, Ian and Allan Seabridge. ''Aircraft Systems: Mechanical, Electrical and Avionics Subsystems Integration.'' New York: John Wiley and Sons, 2011. ISBN 1-119-96520-9.
+*Smith, Dan. ''The defence of the realm in the 1980s''. Taylor &amp; Francis, 1980. ISBN 0-85664-873-6.
+*Szejnmann, Claus-Christian W. ''Rethinking History, Dictatorship and War: New Approaches and Interpretations''. Continuum International, 2010. ISBN 0-82644-323-0.
+*{{cite book |last=Taylor |first=Michael J.H|title=Flight International World Aircraft &amp; Systems Directory |edition=3rd|year=2001|publisher=Reed Business Information |location=United Kingdom |isbn=0-617-01289-X|ref=harv}}
+{{refend}}
+
+==External links==
+{{Commons category|Panavia Tornado}}
+*[http://www.panavia.de/ Panavia website]
+*[http://www.fas.org/man/dod-101/sys/ac/row/tornado.htm BAe Tornado] at FAS.org
+*[http://www.aerospaceweb.org/aircraft/fighter/tornado_adv/ Tornado ADV] at Aerospaceweb.org
+*[http://www.tornado-data.com/ Unofficial Panavia Tornado site]
+
+{{BAE aircraft}}
+{{Use dmy dates|date=July 2011}}
+
+{{DEFAULTSORT:Panavia Tornado Adv}}
+[[Category:British fighter aircraft 1970–1979]]
+[[Category:International fighter aircraft 1970–1979]]
+[[Category:Variable-sweep-wing aircraft]]
+[[Category:1985 introductions]]
+[[Category:Twinjets]]</text>
+      <sha1>641a64l9pxalg6dnn5ak0706q5wbbyx</sha1>
+    </revision>
+  </page>
+</mediawiki>

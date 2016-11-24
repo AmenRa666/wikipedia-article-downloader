@@ -1,0 +1,234 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>De Bothezat helicopter</title>
+    <ns>0</ns>
+    <id>27296301</id>
+    <revision>
+      <id>750056295</id>
+      <parentid>746436818</parentid>
+      <timestamp>2016-11-17T16:22:34Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8970">{{lowercase title}}
+{{Use dmy dates|date=May 2011}}
+{|{{Infobox Aircraft Begin
+  |name = &quot;Flying Octopus&quot;
+  |image = De Bothezat Quadrotor.jpg
+  |caption = 
+}}{{Infobox Aircraft Type
+  |type = [[Experimental aircraft|Experimental rotorcraft]]
+  |manufacturer = [[George de Bothezat]]
+  |designer = George de Bothezat&lt;br/&gt;Ivan Jerome
+  |first flight = 18 December 1922
+  |introduced = 
+  |retired = 1924
+  |status = 
+  |primary user = [[U.S. Army Air Service]]
+  |more users = 
+  |produced = 
+  |number built = 1
+  |unit cost = 
+  |program cost = $200,000 USD&lt;ref name=&quot;Time2&quot;/&gt;
+  |developed from = 
+  |variants with their own articles = 
+}}
+|}
+
+The '''de Bothezat helicopter''', also known as the '''Jerome-de Bothezat Flying Octopus''',&lt;ref name=&quot;Leishman&quot;/&gt; was an experimental [[quadcopter|quadrotor helicopter]] built for the [[United States Army Air Service]] by [[George de Bothezat]] in the early 1920s, and was said at the time to be the first successful [[helicopter]]. Although its four massive six-bladed rotors allowed the craft to successfully fly, it suffered from complexity, control difficulties, and high pilot workload, and was reportedly only capable of forwards flight in a favorable wind. The Army canceled the program in 1924, and the aircraft was scrapped.
+
+==Development and Testing==
+Self-described as &quot;the world's greatest scientist and outstanding mathematician&quot;,&lt;ref name=&quot;Time1&quot;&gt;Young 1982, p. 36.&lt;/ref&gt; and having written one of the first [[scientific paper]]s on the [[aerodynamics]] of rotary-wing flight,&lt;ref name=&quot;Leishman&quot;/&gt;{{#tag:ref|de Bothezat, George. ''[http://naca.central.cranfield.ac.uk/reports/1920/naca-report-29.pdf The General Theory of Blade Screws]''. [[NACA]] Report 29, 1920.|group=N}} George de Bothezat was a Russian refugee who had fled to the United States in the wake of the [[Russian Revolution (1917)|Russian Revolution]]. Having written and [[lecture]]d extensively on rotorcraft theory, de Bothezat received a contract from the United States Army in 1921 for the construction of an experimental helicopter&lt;ref name=&quot;Time2&quot;&gt;Young 1982, p. 42.&lt;/ref&gt; based on his own principles and those of his assistant [[Ivan Jerome]].&lt;ref name=&quot;Leishman&quot;&gt;Leishman 2006, p. 25.&lt;/ref&gt;
+
+Establishing a workshop at [[Wright Field|McCook Field]] in [[Dayton, Ohio|Dayton]], Ohio and working almost entirely without models or wind tunnels for testing,&lt;ref name=&quot;Time2&quot;/&gt; de Bothezat's helicopter was completed in December 1922. Featuring four six-bladed rotors at the end of massive, bridge-like girders braced with piano wire, the craft had two vertical propellers – &quot;steering airscrews&quot; –  for lateral control, and two additional three-bladed propellers mounted horizontally above the [[Le Rhône]] engine to provide airflow for cooling.&lt;ref name=&quot;Lambermont&quot;/&gt; The girders were angled such that the rotors tilted in towards the craft's center at an angle of five degrees, enhancing stability.&lt;ref name=&quot;PS&quot;&gt;''[https://books.google.com/books?id=VycDAAAAMBAJ Why Don't We Fly Straight Up?]''. Popular Science, February 1928 (Vol. 112, No. 2) p. 126.&lt;/ref&gt; The aircraft had two control wheels, a control stick, and foot pedals for control,&lt;ref name=&quot;Time1&quot;/&gt; with each rotor featuring variable-pitch blades for individual [[collective pitch|collective]] control.&lt;ref name=&quot;Lambermont&quot;/&gt;
+
+After initial ground testing, the de Bothezat machine made its first flight on 18 December 1922, piloted by Major T.H. Bane of the [[Engineering Division]],&lt;ref&gt;[http://www.flightglobal.com/pdfarchive/view/1923/1923%20-%200125.html &quot;The de Bothezat Helicopter&quot;]. ''Flight'' No. 740, March 1, 1923. p. 125.&lt;/ref&gt; and hovering to a height of {{convert|6|ft|m}}.&lt;ref name=&quot;Lambermont&quot;&gt;Lambermont 1958&lt;/ref&gt; The propellers for lateral control were soon found useless, and removed,&lt;ref name=&quot;Time3&quot;&gt;Young 1982, p. 46.&lt;/ref&gt; while its original Le Rhône engine proved underpowered and was replaced by a [[W. O. Bentley#Aero engines|Bentley]] [[rotary engine|rotary]] type.&lt;ref name=&quot;Lambermont&quot;/&gt; Over the next year, over one hundred flights were made, carrying up to four passengers in addition to its pilot, and setting records for duration (2 minutes 45 seconds) and altitude ({{convert|30|ft|m}}) for helicopter flight.&lt;ref name=&quot;Time2&quot;/&gt;
+
+==Cancellation==
+Although de Bothezat's invention was hailed by [[Thomas Edison]] as &quot;the first successful helicopter&quot;,&lt;ref name=&quot;Time2&quot;/&gt; full control of the aircraft in flight remained elusive;&lt;ref name=&quot;Time2&quot;/&gt; in addition, the aircraft required a favorable wind to achieve forwards flight.&lt;ref name=&quot;Leishman&quot;/&gt; However, despite its faults, the de Bothezat helicopter did prove to be remarkably stable.&lt;ref name=&quot;Lambermont&quot;/&gt; De Bothezat wanted to build an improved version of the craft,&lt;ref name=&quot;PS&quot;/&gt; but in 1924, the [[Army Air Service]] decided to terminate further work on the project, canceling the contract and ordering the helicopter to be scrapped.&lt;ref name=&quot;Time2&quot;/&gt; However, the aircraft's [[control column]] has survived, and is on display in the [[Smithsonian Institution]]'s [[Steven F. Udvar-Hazy Center]].&lt;ref name=&quot;DeBothCS&quot;&gt;{{cite web|title=Control Stick, 1922 De Bothezat Helicopter|url=http://www.nasm.si.edu/collections/artifact.cfm?id=A19530080000|accessdate=19 July 2010|location=Inventory number: A19530080000 |publisher=Smithsonian National Air and Space Museum }}&lt;/ref&gt;
+
+Although considered a failure by the Army on account of its complexity and unreliability, de Bothezat's difficult personality not helping his cause,&lt;ref&gt;[http://www.centennialofflight.net/essay/Rotary/early_20th_century/HE2.htm &quot;Helicopter Development in the Early Twentieth Century&quot;]. ''centennialofflight.net''. Accessed 10 May 2010. {{webarchive |url=https://web.archive.org/web/20140220014341/http://www.centennialofflight.net/essay/Rotary/early_20th_century/HE2.htm |date=20 February 2014 }}&lt;/ref&gt; the &quot;Flying Octopus&quot; had still reached a significant level of achievement, and it would be over twenty years before an American helicopter would better the machine's performance.&lt;ref name=&quot;Leishman&quot;/&gt;
+
+==Specifications==
+{{Aircraft specs
+|ref=&lt;ref name=&quot;PS&quot;/&gt;&lt;ref&gt;Young 1982&lt;/ref&gt;&lt;ref&gt;[http://siris-archives.si.edu/ipac20/ipac.jsp?uri=full=3100001~!239857!0#focus &quot;de Bothezat Helicopter Album&quot;]. Smithsonian Institution Research Information System. Accessed 10 May 2010.&lt;/ref&gt;
+
+|prime units?=imp
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=1 (pilot)
+|capacity=up to four &quot;passengers&quot;, holding to the frame
+|length m=
+|length ft=65
+|length in=
+|length note=
+|width m=
+|width ft=65
+|width in=
+|width note=
+|height m=
+|height ft=10
+|height in=
+|height note=
+|empty weight kg=
+|empty weight lb=
+|empty weight note=
+|gross weight kg=
+|gross weight lb=3600
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Le Rhône]]
+|eng1 type=[[radial piston engine]]
+|eng1 kw=
+|eng1 hp=180
+|eng1 note=(a 220 hp [[W. O. Bentley|Bentley]] [[rotary engine]] replaced Le Rhône after early testing).
+|power original=
+
+|eng2 number=
+|eng2 name=
+|eng2 type= 
+|eng2 kw=
+|eng2 hp=
+|eng2 note=
+
+|rot number=4
+|rot dia m=8.1
+|rot dia ft=
+|rot dia in=
+|rot area sqm=
+|rot area sqft=900
+|rot area note=
+
+|perfhide=
+
+|max speed kmh=
+|max speed mph=30
+|max speed kts=
+|max speed note=claimed
+|max speed mach=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|endurance=2 minutes 45 seconds
+|ceiling m=5
+|ceiling ft=
+|ceiling note=
+|g limits=
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|disk loading kg/m2=
+|disk loading lb/sqft=
+|disk loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=
+
+|more performance=*'''Absolute ceiling:''' {{convert|30|ft|m|abbr=on}}
+
+|avionics=
+}}
+
+==See also==
+{{Portal|Aviation|United States Army}}
+{{aircontent
+|see also=
+|related=
+|similar aircraft=
+* [[Breguet-Richet Gyroplane]]
+* [[Cornu helicopter]]
+* [[Gyroplane Laboratoire]]
+|lists=
+}}
+
+==References==
+;Notes
+{{reflist|group=N}}
+;Citations
+{{reflist|2}}
+;Bibliography
+{{refbegin}}
+* Lambermont, Paul Marcel. ''Helicopters and autogyros of the world''. London: Cassell, 1958. {{ASIN|B0000CJYOA}}
+* Leishman, J. Gordon. ''Principles of Helicopter Aerodynamics''. Cambridge University Press, 2006. ISBN 0-521-85860-7.
+* Young, Warren R. ''The Helicopters''. &quot;The Epic of Flight&quot;. Chicago: Time-Life Books, 1982. ISBN 0-8094-3350-8.
+{{refend}}
+
+==External links==
+* [http://www.vectorsite.net/avheli_1.html &quot;European helicopter pioneers&quot;], ''VectorSite''.{{dead link|date=June 2013}}
+
+[[Category:De Bothezat aircraft|Helicopter]]
+[[Category:Quadrotors]]
+[[Category:United States experimental aircraft 1920–1929]]
+[[Category:United States helicopters 1920–1929]]
+[[Category:Single-engined piston helicopters]]
+[[Category:Rotary-engined aircraft]]</text>
+      <sha1>hba18phfuscmg7umn34edlc061iid5q</sha1>
+    </revision>
+  </page>
+</mediawiki>

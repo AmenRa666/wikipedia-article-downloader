@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Boston campaign</title>
+    <ns>1</ns>
+    <id>4307896</id>
+    <revision>
+      <id>599699883</id>
+      <parentid>599699553</parentid>
+      <timestamp>2014-03-15T09:31:54Z</timestamp>
+      <contributor>
+        <username>Rjensen</username>
+        <id>313197</id>
+      </contributor>
+      <comment>how false rumors make for bad history</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4212">{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=GA|ARW=yes|US-task-force=yes|British-task-force=yes}}
+{{WikiProject United States|class=GA|importance=Mid|MA=yes|MA-importance=High|Boston=yes|Boston-importance=Top}}
+}}
+{{ArticleHistory
+|action1=GAN
+|action1date=22 October 2008
+|action1link=Talk:Boston campaign/GA1
+|action1result=failed
+|action1oldid=246962111
+|action2=GAN
+|action2date=15:46, 7 November 2008
+|action2link=Talk:Boston campaign/GA2
+|action2result=listed
+|action2oldid=250245818
+
+|action3=GTC
+|action3date=00:22, 12 May 2009
+|action3link=Wikipedia:Featured topic candidates/Boston campaign
+|action3result=promoted
+|ftname=Boston campaign
+|ftmain=yes
+|topic=war
+|currentstatus=GA
+}}
+{{Talk:Boston_campaign/GA2}}
+
+== smallpox myth ==
+
+That smallpox myth certainly gets mileage.  Before I deleted it the text read ''&quot;The war also had incidents of [[biological warfare]] used by the British. In late 1775 and early 1776, the British Army deliberately infected '''thousands''' of American civilians and black slaves - men, women, and children - with smallpox then sent them in order to spread disease behind Continental Army lines and the inhabitants of Continental-held towns in Massachusetts. The ensuing devastation of the Continental Army and the inhabitants.&quot;''  all false. In the event 500 people left Boston, of whom 3 ('''three''') later came down with smallpox.  They did not cause any losses to the American Army.  Boston had suffered a major smallpox epidemic for the previous two years and it was kept well under control. 3 cases out of 500 people was average, not biological warfare.  (a total of 40 people died from smallpox and 28 from inoculations). click here for actual facts: {{cite book|author=Ballard C. Campbell|title=Disasters, Accidents, and Crises in American History: A Reference Guide to the Nation's Most Catastrophic Events|url=http://books.google.com/books?id=VitlO1mWxzAC&amp;pg=PA1777|year=2008|publisher=Infobase Publishing|page=1777}} [[User:Rjensen|Rjensen]] ([[User talk:Rjensen|talk]]) 01:21, 12 March 2014 (UTC)
+
+:Even if the business about smallpox is worth mentioning, placing a whole paragraph devoted to it in the lead is questionable (which, per [[WP:LEAD]], is supposed to a summary of the rest of the article).  If it is to be retained, it should be properly integrated into the chronology of the article body. ''[[User:Magicpiano|&lt;span style=&quot;background-color:khaki;color:firebrick;&quot;&gt;Magic&lt;/span&gt;]]''[[User_talk:Magicpiano|♪piano]] 19:02, 12 March 2014 (UTC)
+::the sources cited are not reliable secondary sources.   Geoffrey Zubay is a biochemist with no experience with the historiography; he does not cite ANY primary or secondary historical sources. (see his resume at [http://www.columbia.edu/cu/biology/faculty/zubay/GLZubay-CV.pdf resume online] that shows 160+ articles, with zero on history.  Given the huge scholarly literature on 1776, that does not pass muster when wikipedia demands &quot;reliable secondary sources.&quot;  Furthermore the text added to this article does not even follow its poor sources--it adds all sorts of exaggerations (three people with smallpox left Boston; the supposed text says &quot;thousands&quot;; the refugees were all kept in isolation far from the American troops and that worked,  As stated in Peters, ''Smallpox in the New World'' (2005) Page 42  &quot;His[Washington's] measures seem to have worked, for smallpox did not break out among the American forces near Boston.&quot;  The rumors were rife: Washington in Dec 1775 warned a a FUTURE plot: &quot;By recent information...General Howe '''is going to send out''' a number of the inhabitants...A sailor says that a number of these coming out have been inoculated with the design of spreading the smallpox through this...camp.&quot;  Washington said he did NOT believe the sailor's rumor but he did take precautions like isolating the refugees. see {{cite book|last=sparks|first=jared|title=the writings of george washington|url=http://books.google.com/books?id=bbMTAAAAYAAJ&amp;pg=PA188|year=1834|page=188}}  What historians have done (see Ballard Campbell) is sift out the false rumors that were not true. [[User:Rjensen|Rjensen]] ([[User talk:Rjensen|talk]]) 09:31, 15 March 2014 (UTC)</text>
+      <sha1>an5jfvj9pcv8vl6xz9pm03ak9i1bthk</sha1>
+    </revision>
+  </page>
+</mediawiki>

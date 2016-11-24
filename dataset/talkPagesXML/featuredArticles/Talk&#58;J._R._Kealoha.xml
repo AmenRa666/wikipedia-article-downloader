@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:J. R. Kealoha</title>
+    <ns>1</ns>
+    <id>47441359</id>
+    <revision>
+      <id>739313463</id>
+      <parentid>730391529</parentid>
+      <timestamp>2016-09-14T00:09:06Z</timestamp>
+      <contributor>
+        <username>FACBot</username>
+        <id>22689343</id>
+      </contributor>
+      <comment>Promoting 'J. R. Kealoha' to Featured Article status</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1254">
+{{Old peer review|archive=1}}
+{{talkheader}}
+{{ArticleHistory
+| action1       = GAN
+| action1date   = 07:35, 17 October 2015 (UTC)
+| action1link   = Talk:J. R. Kealoha/GA1
+| action1result = listed
+| action1oldid  = 686184684
+| dykdate       = 27 August 2015
+| dykentry      = ... that during the [[American Civil War]], Union general [[Samuel C. Armstrong]], a native of [[Maui]], met fellow [[Kingdom of Hawaii|Hawaiian]]s '''[[J. R. Kealoha]]''' and Kaiwi, who served in the [[United States Colored Troops|U.S. colored regiments]]?
+| currentstatus=FA
+| topic         = Warfare
+|action2=WAR
+|action2date=21:06, 14 June 2016 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/J. R. Kealoha
+|action2result=approved
+|action2oldid=724567088
+
+|action3=FAC
+|action3date=2016-09-13
+|action3link=Wikipedia:Featured article candidates/J. R. Kealoha/archive1
+|action3result=promoted
+|action3oldid=737898321
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=FA|listas=Kealoha, J. R.|military-work-group=y|military-priority=Low}}
+{{WikiProject Military history|class=FA|A-Class=pass|Biography=y|US=y|ACW=y}}
+{{WikiProject Hawaii|class=FA|importance=Low}}
+{{WikiProject United States|class=FA|importance=Low|USMIL=y|ACW=y}}
+}}</text>
+      <sha1>keg68f9txrxp4gsgh1ysoocg7mbvf1j</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:17th Armored Engineer Battalion</title>
+    <ns>1</ns>
+    <id>43373829</id>
+    <revision>
+      <id>653553800</id>
+      <parentid>653553448</parentid>
+      <timestamp>2015-03-26T02:59:13Z</timestamp>
+      <contributor>
+        <ip>2601:7:1700:8C1B:9593:20EE:1A9C:2FE0</ip>
+      </contributor>
+      <comment>/* River crossing tanks */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="870">{{talkheader}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class=C
+&lt;!-- B-Class 5-criteria checklist --&gt;
+|B1 &lt;!-- Referencing and citations --&gt; =n
+|B2 &lt;!-- Coverage and accuracy --&gt; =y
+|B3 &lt;!-- Structure --&gt; =y
+|B4 &lt;!-- Grammar and style --&gt; =y
+|B5 &lt;!-- Supporting materials --&gt; =y
+|US=y|WWI=y|WWII=y|Cold-War=y}}
+{{WikiProject United States|class=C|importance=Low|USMIL=y}}
+}}
+
+== River crossing tanks ==
+
+Changed the description of the tanks crossing the pontoon bridge; those are post-war model M47 Patton II tanks, not M-26 Pershings. Turret has a pinched nose; Pershing tank turrets were &quot;slab sided&quot; and had a flat mantlet. Also note the &quot;blister&quot; for the optical rangefinder at left; the M-26 did not have such a feature. Also note that the main armament is that of a 90mm M36 cannon, common to the M47, not the 90mm M1,2 or 3 used by the Pershing.</text>
+      <sha1>qfrtbvbyb1rf780a9cpxutyv792ryfi</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Russian submarine Sankt Peterburg (B-585)</title>
+    <ns>1</ns>
+    <id>34562752</id>
+    <revision>
+      <id>583179836</id>
+      <parentid>547324740</parentid>
+      <timestamp>2013-11-25T02:41:00Z</timestamp>
+      <contributor>
+        <username>Sp33dyphil</username>
+        <id>11667930</id>
+      </contributor>
+      <minor/>
+      <comment>Sp33dyphil moved page [[Talk:Russian submarine B-585 Sankt Peterburg]] to [[Talk:Russian submarine Sankt Peterburg (B-585)]]: Name comes before hull or pennant number or disambiguation. As per [[Wikipedia:Naming conventions (ships)#Naming articles abou...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1451">{{ArticleHistory
+|action1=GAN
+|action1date=14:45, 22 February 2012
+|action1link=Talk:Russian submarine B-585 Saint Petersburg/GA1
+|action1result=listed
+|action1oldid=478033055
+|dykdate=11 February 2012
+|dykentry=... that [[Russian submarine B-585 Saint Petersburg|'''Russian submarine B-585 ''Saint Petersburg''']] was launched on the 300th anniversary of the Russian city of [[Saint Petersburg]]?
+|currentstatus=GA
+|topic=war
+}}
+{{WikiProjectBannerShell|collapsed=no|1=
+{{WikiProject Ships|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y}}
+{{WikiProject Russia|class=GA|importance=Mid|hist=yes|mil=yes|tech=yes}}
+{{WPMILHIST|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=y|Russian=y}}
+}}
+== Title ==
+
+Should it be &quot;Russian submarine ''Saint Petersburg'' (B-585)&quot;, or is B-585 actually part of the name instead of a pennant number? - [[User:The Bushranger|The Bushranger]] &lt;sub&gt;&lt;font color=&quot;maroon&quot;&gt;[[User talk:The Bushranger|One ping only]]&lt;/font&gt;&lt;/sub&gt; 00:11, 2 February 2012 (UTC)
+:I think that's how Soviet and Russian ships are named. --[[User:Sp33dyphil|Sp33dyphil]] ©&lt;sup&gt;[[User talk:Sp33dyphil|hat]]&lt;/sup&gt;&lt;sub style='position: relative; left: -1.5em;'&gt;[[Special:Contributions/Sp33dyphil|ontributions]]&lt;/sub&gt; 00:15, 2 February 2012 (UTC)
+::Ahhh, gotcha. - [[User:The Bushranger|The Bushranger]] &lt;sub&gt;&lt;font color=&quot;maroon&quot;&gt;[[User talk:The Bushranger|One ping only]]&lt;/font&gt;&lt;/sub&gt; 03:57, 2 February 2012 (UTC)
+
+{{Talk:Russian submarine B-585 Saint Petersburg/GA1}}</text>
+      <sha1>3ulq460leneod1je311at2urt1rk1x2</sha1>
+    </revision>
+  </page>
+</mediawiki>

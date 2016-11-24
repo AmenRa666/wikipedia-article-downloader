@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USCGC Catenary (WYTL-65606)</title>
+    <ns>0</ns>
+    <id>27776657</id>
+    <revision>
+      <id>688720320</id>
+      <parentid>643982856</parentid>
+      <timestamp>2015-11-02T17:31:58Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>|Ship country= fixes; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5226">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag}}
+|Ship name=''Catenary''
+|Ship namesake=[[Catenary#Anchoring of marine objects|Catenary]] is the slack in an anchor line when a ship is at anchor.
+|Ship awarded=
+|Ship builder=Gibbs Gas Engine Company, [[Jacksonville, Florida]]&lt;ref name=SH01&gt;{{cite web|title=Gibbs Gas Engine Company|url=http://shipbuildinghistory.com/history/shipyards/5small/inactive/gibbs.htm|work=Small Shipbuilders and Boatbuilders List|publisher=Shipbuilding History.com|accessdate=16 June 2012}}&lt;/ref&gt;
+|Ship laid down=
+|Ship launched=
+|Ship acquired=
+|Ship commissioned=April 1962
+|Ship decommissioned=1 May 1995
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship honors=
+|Ship fate=Sold to the [[United States Merchant Marine Academy]].
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship power=
+|Ship displacement=74 tons
+|Ship length={{convert|64|ft|11|in|abbr=on}} &lt;ref name=USCG01&gt;{{cite web|title=Data Sheet for 65' WYTL tug|url=http://www.uscg.mil/history/webcutters/Catenary1962.asp|work=USCGC Catenary (WYTL-65606)|publisher=U.S. Coast Guard|accessdate=16 June 2012|format=asp}}&lt;/ref&gt;
+|Ship beam={{convert|19|ft|1|in|abbr=on}}
+|Ship draft={{convert|9|ft|abbr=on}}
+|Ship propulsion=1 Caterpillar D375 V-8 diesel; 400 shaft horsepower&lt;ref name=USMMA01&gt;{{cite web|title=MV ''Growler''|url=http://www.usmma.edu/waterfront/PowerSquadron/growler.htm|work=Merchant Marine Academy Power Squadron|publisher=United States Merchant Marine Academy|accessdate=16 June 2012}}&lt;/ref&gt;
+|Ship speed=(cruising) {{convert|7.0|kn|km/h mph|abbr=on}}
+|Ship complement=5
+|Ship range=(cruising) {{convert|3690|nmi|km|abbr=on}}
+|Ship boats=
+|Ship armament=None
+|Ship notes=
+}}
+|}
+
+'''USCGC ''Catenary'' (WYTL-65606)''' was a [[Cutter (ship)|cutter]] in the [[United States Coast Guard]] (USCG). Constructed by the Gibbs Gas Engine Company and commissioned in early 1962, the vessel served as part of the USCG for over 30 years before being decommissioned in mid-1995 and sold to the [[United States Merchant Marine Academy]]. During her service ''Catenary'' was based primarily on the east coast of the United States where she was utilized mainly in a law enforcement role.
+
+==Construction and design==
+Crewed by five personnel, ''Catenary'' was a small vessel displacing 74 tons. She was {{convert|64|ft|11|in|abbr=on}} long,&lt;ref name=USCG01/&gt; with a beam of {{convert|19|ft|1|in|abbr=on}} and a {{convert|9|ft|abbr=on}} draft. The vessel's powerplant consisted of one Caterpillar D375 V-8 diesel engine which produced 400 shaft horsepower and drove a single propeller,&lt;ref name=USMMA01/&gt; giving a cruising speed of {{convert|7.0|kn|km/h mph|abbr=on}} and a cruising range of  {{convert|3690|nmi|km|abbr=on}}. Her maximum speed was {{convert|10.6|kn|km/h mph|abbr=on}}, at which she could patrol {{convert|1130|nmi|km|abbr=on}}.&lt;ref name=USMMA01/&gt; She carried no armament, but was fitted with a SPN-11 detection radar.  Upon completion she cost a total of $US 158,366 to construct.&lt;ref name=USMMA01/&gt;
+
+==History==
+''Catenary'' was one of fifteen steel-hulled icebreaking small harbor tugs that were put into service in the 1960s to replace {{convert|64|foot|m|abbr=on}} wooden-hulled harbor tugs that the Coast Guard had used since the 1940s.&lt;ref name=&quot;USCG01&quot; /&gt; ''Catenary'' was one of six in her class constructed by the Gibbs Gas Engine Company (later acquired by [[Aerojet|Aerojet General Corp.]]) in [[Jacksonville, Florida]].&lt;ref name=&quot;SH01&quot; /&gt; After being commissioned in April 1962, she was initially homeported at [[Gloucester City, New Jersey]], and served there until June 1988 when she was reassigned to [[Philadelphia, Pennsylvania]].  Her duties included law enforcement and search and rescue as well as ice operations.&lt;ref name=&quot;USCG01&quot; /&gt;
+ 
+On 1 May 1995, ''Catenary'' was decommissioned and sold to the [[United States Merchant Marine Academy]]. She is currently serving as a training vessel under the name MV ''Growler''. She performs training missions involving shiphandling, maneuvering, navigation, and towing, as well as participating in Merchant Marine Academy public relations trips throughout [[Long Island Sound]], the [[East River]], and [[New York Harbor]].&lt;ref name=USMMA01 /&gt; The vessel is operated by crews of [[midshipman#United States Navy and Marine Corps|midshipmen]] participating in the Academy's Power Squadron, a fleet of power-driven vessels used for everything from fishing to long-range trips.&lt;ref name=USMMA01 /&gt;
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book|last=Scheina|first=Robert L.|year=1990|title=U.S. Coast Guard Cutters &amp; Craft, 1946–1990|publisher=Naval Institute Press, Annapolis|isbn=978-0-87021-719-7}}
+
+==External links==
+* [http://www.uscg.mil/history/webcutters/Catenary1962.asp USCG Historians Office page on USCGC ''Catenary'']
+
+{{USCG 65' Small harbor tug}}
+{{Surviving ocean going ships}}
+
+{{DEFAULTSORT:Catenary (Wytl-65606)}}
+[[Category:1962 ships]]
+[[Category:Ships of the United States Coast Guard]]
+[[Category:United States Merchant Marine Academy]]</text>
+      <sha1>e7xcbnyuxyd8i43afe5a6fq9lemsxmx</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Lieutenant field marshal</title>
+    <ns>1</ns>
+    <id>48128935</id>
+    <revision>
+      <id>751139766</id>
+      <parentid>751134605</parentid>
+      <timestamp>2016-11-23T16:48:06Z</timestamp>
+      <contributor>
+        <username>Bermicourt</username>
+        <id>7254364</id>
+      </contributor>
+      <minor/>
+      <comment>Bermicourt moved page [[Talk:Feldmarschall-Leutnant]] to [[Talk:Lieutenant field marshal]] over redirect: See the talk page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2139">{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=start
+&lt;!-- B-Class 5-criteria checklist --&gt; 
+| B1 &lt;!-- Referencing and citations --&gt; = n 
+| B2 &lt;!-- Coverage and accuracy --&gt; = n 
+| B3 &lt;!-- Structure --&gt; = y
+| B4 &lt;!-- Grammar and style --&gt; = n 
+| B5 &lt;!-- Supporting materials --&gt; = n 
+|Early-Modern=yes|Napoleonic=yes|German=yes}}
+{{WikiProject Austria|class=start|importance=low}}
+{{WikiProject Hungary|class=start|importance=low}}
+}}
+
+== Recent move ==
+
+I don't think the recent move is actually supported by the majority of sources in English. Could you provide some evidence that supports this as the common name? Thanks, [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 22:34, 17 September 2016 (UTC)
+
+:Of course. In addition to the 2 references cited in the article, Google Books records the following statistics in English sources:
+* Lieutenant field marshall - 4,530 / 3,110
+* Field marshal lieutenant - 3,630 / 2,190
+* Feldmarschalleutnant - 456
+* Feldmarschall-Leutnant - 306
+* Feldmarschallleutnant - 154
+* Feldmarschall-Lieutenant - 2
+
+:I apologise for missing the second most common English name and will now add that to the lede. --[[User:Bermicourt|Bermicourt]] ([[User talk:Bermicourt|talk]]) 15:56, 18 September 2016 (UTC)
+::Thanks for clarifying. Would you mind linking to those results, because mine were at significant variance from them? Cheers, [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 23:26, 18 September 2016 (UTC)
+
+:::That may be because I had to add the word &quot;army&quot; to the German versions to eliminate German language sources, but even if you add &quot;army&quot; to the English versions as well, it's still overwhelmingly in favour of the English terms (see the figures after the slash above), and 3:2 in favour of &quot;lieutenant field marshal&quot;. I've also just run all the terms through Google Ngram Viewer, which plots usage in English sources over the decades, and the only one that registered at all was &quot;lieutenant field marshall&quot;. Hope that helps. --[[User:Bermicourt|Bermicourt]] ([[User talk:Bermicourt|talk]]) 20:26, 27 September 2016 (UTC)</text>
+      <sha1>6lygenc2bfcu6bmycigj9ds9ratoxyg</sha1>
+    </revision>
+  </page>
+</mediawiki>

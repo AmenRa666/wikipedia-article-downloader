@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Operation Jackal</title>
+    <ns>1</ns>
+    <id>38690523</id>
+    <revision>
+      <id>648074549</id>
+      <parentid>647608785</parentid>
+      <timestamp>2015-02-20T18:50:31Z</timestamp>
+      <contributor>
+        <username>AnulBanul</username>
+        <id>22608452</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3121">{{WikiProjectBannerShell|1=
+{{WikiProject Croatia|class=GA
+  |b1 &lt;!--Referencing &amp; citations--&gt; =y
+  |b2 &lt;!--Coverage &amp; accuracy    --&gt; =y
+  |b3 &lt;!--Structure              --&gt; =y
+  |b4 &lt;!--Grammar &amp; style        --&gt; =y
+  |b5 &lt;!--Supporting materials   --&gt; =y
+  |b6 &lt;!--Accessibility          --&gt; =y
+ |importance=Mid}}
+{{WikiProject Republika Srpska|class=GA|importance=Mid}}
+{{WikiProject Bosnia and Herzegovina|class=GA|importance=Mid}}
+{{WikiProject Military history|class=A|A-Class=pass|B1=y|B2=y|B3=y|B4=y|B5=y|Balkan=yes}}
+{{WikiProject Yugoslavia|class=GA|importance=low}}
+}}
+{{ArticleHistory
+|action1=GAN
+|action1date=05:47, 14 May 2013
+|action1link=/GA1
+|action1result=listed
+|action1oldid= 555008995
+|currentstatus=GA
+|topic=warfare
+
+|action2=WAR
+|action2date=20:59, 18 July 2013 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/Operation Jackal
+|action2result=approved
+|action2oldid=563654299
+}}
+
+{{British English}}
+
+==More informative infobox?==
+
+Perhaps this article would benefit from a more informative infobox that summarized the forces (armour, artillery, etc) available on both sides, and indeed listed the outcome of the operation as one might expect for such a box. Overall the article could similarly benefit from additional overview to assist the reader who may be unfamiliar with the acronyms and historic details. [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 19:16, 10 April 2013 (UTC)
+:Yes that would be nice, but there are simply no WP:RS on that type of detail. All acronyms are already provided with spelled out versions of particular names at the first instance.--[[User:Tomobe03|Tomobe03]] ([[User talk:Tomobe03|talk]]) 01:17, 11 April 2013 (UTC)
+:: At least the infobox can spell out who won, it's usual for mil op infoboxes. And anything else that can be done to make the article more comprehensible will be an improvement. [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 06:32, 11 April 2013 (UTC)
+
+==Readability==
+
+Here's an example:
+
+{{quote|The HV concluded that the JNA offensive operations of April and May 1992 capturing Kupres and much of the Neretva River valley south of Mostar were aimed at capturing or threatening Croatian Port of Ploče and possibly Split, leading the Croatian leadership to deploy the HV to the area and assign General Janko Bobetko as the commanding officer of the &quot;Southern Front&quot; theatre of operations encompassing the area of Operation Jackal.}}
+
+The quoted sentence has 71 words and at least 7 verbs. Its Flesch-Kincaid Grade Level is 33.0 (i.e. extremely few people can understand it), and its Flesch Reading Ease is 0% (i.e. extremely unreadable). I don't recall ever seeing a 0% on this measure before. I tried splitting it into 5 short sentences, giving an F-K Grade Level of 10.5 (i.e. a grade 10 school pupil can read it) and reading ease of 46.6%.
+
+Perhaps it would be a good idea to scan the article for other sentences with complex structure. [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 06:43, 11 April 2013 (UTC)
+
+{{Talk:Operation Jackal/GA1}}</text>
+      <sha1>t44mp335g939q6lp5bpoedmzfwqov1r</sha1>
+    </revision>
+  </page>
+</mediawiki>

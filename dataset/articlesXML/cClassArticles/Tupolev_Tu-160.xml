@@ -1,0 +1,286 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tupolev Tu-160</title>
+    <ns>0</ns>
+    <id>662636</id>
+    <revision>
+      <id>749130608</id>
+      <parentid>748312391</parentid>
+      <timestamp>2016-11-12T16:29:16Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http&amp;rarr;https for [[Google Books]] and other Google services using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40759">{{Use dmy dates|date=January 2013}}
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. --&gt;
+{|{{Infobox aircraft begin
+ |name= Tu-160 ''Beliy Lebed''
+ |image= File:Tupolev Tu-160 RF-94109.jpg
+ |caption= Tupolev Tu-160 in flight over Russia (May 2014)
+}}{{Infobox aircraft type
+ |type= [[Supersonic]] [[strategic bomber]]
+ |national origin=[[Soviet Union]]/[[Russia]]
+ |manufacturer=
+ |design group= [[Tupolev]]
+ |builder= [[Kazan Aircraft Production Association]]
+ |first flight= 19 December 1981
+ |introduced= 30 December 2005 ([[Initial operating capability|IOC]] in 1987)
+ |retired=
+ |produced= 1984–1992, 2000, 2008
+ |number built= 27 serial &amp; 8 prototype
+ |status= In service
+ |unit cost=
+ |primary user= [[Russian Air Force]] 
+ |more users=
+ |developed from=
+ |variants with their own articles =
+}}
+|}
+
+The '''Tupolev Tu-160 ''Beliy Lebed''''' (or [[Swan|White Swan]],&lt;ref&gt;{{cite web|url=http://www.ruaviation.com/news/2014/11/27/2767/|title=The upgraded Tu-160 performed its first flight|work=Russian Aviation|date=27 November 2014|accessdate=20 November 2015}}&lt;/ref&gt; {{lang-ru|Туполев Ту-160}}, [[NATO reporting name]]: '''Blackjack''') is a [[supersonic]], [[variable-sweep wing]] [[Heavy bomber|heavy]] [[strategic bomber]] designed by the [[Tupolev|Tupolev Design Bureau]] in the [[Soviet Union]]. It is the largest and heaviest combat aircraft with the highest engine thrust built; it is also the fastest bomber with the largest military payload, and the largest variable-sweep wing airplane.
+
+Entering service in 1987, the Tu-160 was the last [[strategic bomber]] designed for the Soviet Union.  As of 2016, the [[Russian Air Force]], [[Long Range Aviation]] branch has 16 aircraft remaining, with fewer being airworthy and in service.  The Tu-160 active fleet has been undergoing upgrades to electronics systems since the early 2000s.  The Tu-160M modernisation programme has begun with the first updated aircraft delivered in December 2014.
+
+==Development==
+
+===Origins===
+The first competition for a [[supersonic]] strategic heavy bomber was launched in the [[Soviet Union]] in 1967. In 1972, the Soviet Union launched a new multi-mission bomber competition to create a new supersonic, [[swing-wing|variable-geometry]] (&quot;swing-wing&quot;) heavy bomber with a maximum speed of Mach 2.3, in response to the [[United States Air Force|US Air Force]] [[Rockwell B-1 Lancer|B-1]] bomber project. The Tupolev design, named ''Aircraft 160M'', with a lengthened [[blended wing]] layout and incorporating some elements of the [[Tupolev Tu-144|Tu-144]], competed against the [[Myasishchev M-18]] and the [[Sukhoi T-4]] designs.&lt;ref&gt;{{cite web|last=Sergeyev|first=Pavel|url=http://pda.lenta.ru/articles/2008/04/30/tu/|title=Белый лебедь|language=Russian|trans-title=White Swan|work=[[Lenta.ru]]|date=30 April 2008|accessdate=5 August 2009 |deadurl=no |archiveurl=https://web.archive.org/web/20110717041514/http://pda.lenta.ru/articles/2008/04/30/tu/|archivedate=17 July 2011}}&lt;/ref&gt;
+
+[[File:Kremlin Tupolev Tu-160.jpg|thumb|left|Tu-160 in flight]]
+Work on the new Soviet bomber continued despite an end to the B-1A and in the same year, the design was accepted by the government committee. The prototype was photographed by an airline passenger at a [[Zhukovsky Airfield]] in November 1981, about a month before the aircraft's first flight on 18 December 1981. Production was authorized in 1984, beginning at [[Kazan Aircraft Production Association]].&lt;ref&gt;{{cite web |last1=Goebel |first1=Greg |title=The Sukhoi T-4 &amp; Tupolev Tu-160 |url=http://www.airvectors.net/avtu160.html |website=AirVectors.net |publisher=v1.0.4 - 01 mar 15 - greg goebel - public domain |accessdate=3 March 2015}}&lt;/ref&gt;
+
+===Modernization===
+The modernised aircraft were accepted into Russian service after testing in late 2005.&lt;ref name=Flight20121015&gt;{{cite news |url=http://www.flightglobal.com/news/articles/in-focus-russians-next-generation-bomber-takes-shape-377251/ |title=IN FOCUS: Russian's next-generation bomber takes shape |first=Vladimir |last=Karnozov |date=15 Oct 2012 |work=Flight International |accessdate=21 November 2013}}&lt;/ref&gt;&lt;ref name=Fomin&gt;{{cite news |url=http://www.take-off.ru/asp/tu160_v13 |first=Andrey |last=Fomin |title=Ту-160 принят на вооружение |language=Russian|trans-title=Tu-160 adopted |work=Take-Off |archiveurl=https://web.archive.org/web/20080315132753/http://www.take-off.ru/asp/tu160_v13 |archivedate=15 March 2008}}&lt;/ref&gt; The upgrade also integrated the ability to launch two new conventional versions of the long-range [[Kh-55]] nuclear cruise missile—the Kh-101 and Kh-555.&lt;ref&gt;{{cite web |last1=Jennings |first1=Gareth |title=Russia flies first radar- and avionics-upgraded Tu-160 bomber |url=http://www.janes.com/article/46087/russia-flies-first-radar-and-avionics-upgraded-tu-160-bomber |work=IHS Jane's Defence Weekly |date=20 November 2014 |accessdate=2 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Burger |first1=Marcel |title=Russian TU-160 Bombers will fly new cruise missile |url=http://airheadsfly.com/2014/01/25/russian-tu-160-bombers-will-fly-new-cruise-missile/ |date=25 January 2014|publisher=AIRheadsFly.com |accessdate=2 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=Tu-160 BLACKJACK (TUPOLEV) |url=http://www.globalsecurity.org/wmd/world/russia/tu-160.htm |author=John Pike |publisher=GlobalSecurity.org}}&lt;/ref&gt; This resulted in the delivery of a new-built aircraft but the &quot;first modernised Tu-160&quot; in July 2006 did not receive new avionics, although they were planned for the new airframe.&lt;ref name=Fomin /&gt;&lt;ref&gt;{{Cite news|url=http://en.rian.ru/russia/20060705/50944049.html |title=Russia can hope for new Blackjack bomber in 2006 – Ivanov|agency=RIA Novosti|date=5 July 2006 |accessdate=3 August 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://russianforces.org/blog/2006/07/tu160_returns_from_overhaul.shtml |title=Tu-160 returns from overhaul |publisher=Russian strategic nuclear forces |date=5 July 2006}}&lt;/ref&gt;
+
+The modernisation appears to be split into two phases, concentrating on life extension with some initial communication–navigation updates, followed by 10 aircraft receiving new engines and capability upgrades after 2016.&lt;ref name=Flight20121015 /&gt; The first refitted aircraft was delivered to the [[Russian Air Force|VVS]] in May 2008; a follow-up contract to overhaul three aircraft in 2013 cost RUR3.4 billion (US$103M).&lt;ref name=JDW20130728&gt;{{cite news |url=http://www.janes.com/article/25136/russia-continues-tu-160-blackjack-bomber-modernisation-work |title=Russia continues Tu-160 'Blackjack' bomber modernisation work |first=Gareth |last=Jennings |work=IHS Jane's Defence Weekly |date=28 July 2013 |accessdate=21 November 2013}}&lt;/ref&gt; The first updated M-model Tu-160 was delivered in December 2014.&lt;ref&gt;{{cite web|last1=Perry|first1=Dominic|title=Russian air force takes first modernised Tupolev bombers|url=http://www.flightglobal.com/news/articles/russian-air-force-takes-first-modernised-tupolev-bombers-407325/|work=Flightglobal|publisher=Reed Business Information, RELX Group|accessdate=2 May 2015|date=19 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=The upgraded Tu-160 performed its first flight|url=http://www.ruaviation.com/news/2014/11/27/2767/|website=RUaviation.com|publisher=Russian Aviation|accessdate=3 May 2015|date=27 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Rogulin|first1=Dmitry|title=Russian long range aviation to get 6 more modernized Tupolev Tu-160 bombers in 2015|url=http://tass.ru/en/russia/768781|accessdate=3 May 2015|agency=[[Russian News Agency TASS|TASS]]|date=23 December 2014}}&lt;/ref&gt; The phase I update was due to be completed by 2016, but industrial limitations may delay it to 2019 or beyond.&lt;ref name=JDW20131111 /&gt; Although Kuznetsov designed an NK-32M engine with improved reliability over the troublesome NK-32 engines, its successor company has struggled to deliver working units. Metallist-Samara JSC had not produced new engines for a decade when it was given a contract in 2011 to overhaul 26 of the existing engines, by two years later, only four were finished.&lt;ref name=JDW20131111 /&gt; Ownership and financial concerns hinder the prospects of a new production line; the firm insists it needs a minimum of 20 engines ordered per year but the government is only prepared to pay for 4–6 engines per year.&lt;ref name=JDW20131111 /&gt;&lt;ref&gt;{{cite news |title=Бомбардировщики Ту-160 могут остаться без двигателей |url=http://izvestia.ru/news/500938 |language=Russian|trans-title=Tu-160 bombers may be left without engines |date=16 September 2011 |first=Ilya |last=Kramnik |newspaper=Izvestia|accessdate=20 November 2015}}&lt;/ref&gt; A further improved engine has been bench tested and may enter production in 2016 or later.&lt;ref name=Flight20121015 /&gt;
+
+On 29 April 2015, Defense Minister Sergei Shoigu stated that Russia was resuming production of the Tu-160.&lt;ref&gt;{{cite news|url=http://rt.com/news/254313-russia-blackjack-bomber-tu160/|title=‘Blackjack’ comeback: Russia to renew production of its most powerful strategic bomber|work=RT|date=29 April 2015|accessdate=20 November 2015|archiveurl=https://web.archive.org/web/20150501151301/http://rt.com/news/254313-russia-blackjack-bomber-tu160/|archivedate=1 May 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.flightglobal.com/news/articles/russia-to-reestablish-tu-160-supersonic-bomber-production-411778/|title=Russia to reestablish Tu-160 supersonic bomber production line|first=Beth|last=Stevenson|work=Flightglobal|date=30 April 2015|accessdate=20 November 2015}}&lt;/ref&gt;  On 28 May 2015, the [[Russian News Agency TASS]] reported that the Russian Air Force will purchase at least 50 new-build Tu-160s and that production of the aircraft will restart at the Kazan aviation plant.&lt;ref name=Revival&gt;{{cite news|url=http://tass.ru/en/russia/797164|title=Putin made decision to revive production of Tu-160M strategic bomber — Air Force commander|agency=TASS|date=28 May 2015|accessdate=20 November 2015|archiveurl=https://web.archive.org/web/20150623210821/http://tass.ru/en/russia/797164|archivedate=23 June 2015|deadurl=no}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://m.sputniknews.com/military/20160806/1044005165/tu160m2-strategic-bomber-new-plane.html|title=Tu-160M2 Supersonic Strategic Bomber: 'Practically a New Plane Under the Hood'|publisher=}}&lt;/ref&gt; General Viktor Bondarev has said that development of the [[PAK DA]] will continue alongside resumption of production of the older model bomber.&lt;ref name=Revival/&gt;
+
+==Design==
+[[File:Tupolev Tu-160 cockpit Beltyukov-1.jpg|thumb|Cockpit view of a Tu-160]]
+
+The Tu-160 is a variable-geometry wing aircraft. The aircraft employs a [[fly-by-wire]] control system with a [[blended wing]] profile, and full-span [[Leading edge slats|slats]] are used on the leading edges, with double-slotted [[Flap (aircraft)|flap]]s on the trailing edges.&lt;ref&gt;{{cite web |last1=Bergmans |first1=Werner |title=Tupolev Tu-160 Blackjack |url=http://www.fighter-planes.com/info/tu160.htm |website=Fighter-Planes.com |publisher=1996-2011 Werner Bergmans, Eindhoven, the Netherlands |accessdate=2 March 2015}}&lt;/ref&gt; The Tu-160 has a crew of four (pilot, co-pilot, [[bombardier (aircrew)|bombardier]], and defensive systems operator) in [[NPP Zvezda K-36|K-36LM]] [[ejection seat]]s.&lt;ref&gt;{{cite book |last1=Duffy |first1=Paul |last2=Kandalov |first2=Andrei I. |title=Tupolev: The Man and His Aircraft |date=1996 |publisher=SAE International, 1996 |location=Warrendale, PA |isbn=1560918993 |page=170 |edition=illustrated |url=https://books.google.com/books?id=fOC7Ii5SgZUC&amp;pg=PA170#v=onepage&amp;q&amp;f=false |accessdate=2 March 2015}}&lt;/ref&gt;
+
+The Tu-160 is powered by four [[Kuznetsov NK-32]] [[afterburner|afterburning]] [[turbofan]] engines, the most powerful ever fitted to a combat aircraft. Unlike the American [[Rockwell B-1 Lancer|B-1B Lancer]], which reduced the original Mach 2+ requirement for the B-1A to achieve a smaller [[radar cross-section]], the Tu-160 retains variable [[intake ramp]]s, and is capable of reaching Mach 2.05 speed at altitude.&lt;ref&gt;{{cite web |url=http://en.ria.ru/infographics/20100615/159430934.html |title=Russian Tu-160 Blackjack strategic bomber |publisher=RIA Novosti |date=2013}}&lt;/ref&gt; The Tu-160 is equipped with a [[Probe and drogue|probe-and-drogue]] [[in-flight refueling]] system for extended-range missions, although it is rarely used. The Tu-160's internal fuel capacity of 130 tons gives the aircraft a roughly 15-hour flight endurance at a cruise speed of around 850&amp;nbsp;km/h (Mach 0.77, 530&amp;nbsp;mph) at 9,145 m (30,003&amp;nbsp;ft).&lt;ref&gt;[http://www.aerospaceweb.org/aircraft/bomber/tu160/ &quot;Aircraft Museum – Tu-160 'Blackjack'.&quot;] Aerospaceweb.org, 16 August 2008. Retrieved 19 July 2009.&lt;/ref&gt; In February 2008, Tu-160 bombers and [[Ilyushin Il-78|Il-78]] refueling tankers practiced air refueling during air combat exercise, as well as [[Mikoyan MiG-31|MiG-31]], [[Beriev A-50|A-50]] and other Russian combat aircraft.&lt;ref&gt;[http://www.airforceworld.com/bomber/eng/tu160-blackjack-bomber-russia-1.htm &quot;Tu-160 bombers practice air refueling in Feb 2008 exercises&quot;] AirForceWorld.com. Retrieved 3 September 2011.&lt;/ref&gt;
+
+The aircraft carries an [[Leninets]] Obzor-K (Survey, NATO: Clam Pipe)&lt;ref&gt;{{cite web|url=http://aerospace.boopidoo.com/philez/Su-15TM%20PICTURES%20&amp;%20DOCS/Overscan's%20guide%20to%20Russian%20Military%20Avionics.htm|title=Overscan's guide to Russian Military Avionics|publisher=}}&lt;/ref&gt; [[radar]] for tracking ground and air targets, and a separate Sopka (Hill) [[Terrain-following radar]].&lt;ref&gt;{{cite web |url=http://www.milavia.net/aircraft/tu-160/tu-160.htm |title=Tupolev Tu-160 'Blackjack' |author=&lt;!--Staff writer(s); no by-line.--&gt; |date= |website=MILAVIA |publisher= |accessdate=22 January 2015}}&lt;/ref&gt; Although the Tu-160 was designed for reduced detectability to both [[radar cross-section|radar]] ([[dielectric]] nose [[radome]]) and [[infrared]] signature,&lt;ref&gt;{{cite book |last1=Lake |first1=Jon |title=The Great Book of Bombers: The World's Most Important Bombers from World War I to the Present Day |date=2002 |publisher=MBI Publishing Company |location=St, Paul. MN |isbn=978-0760313473 |page=481 |url=https://books.google.com/books?id=OGTGKbnQgFEC&amp;pg=PA481#v=onepage&amp;q&amp;f=false |accessdate=2 March 2015}}&lt;/ref&gt; it is not a [[stealth aircraft]]. Nevertheless, [[37th Air Army#Commanders|Lt. Gen. Igor Khvorov]] claimed that Tu-160s managed to penetrate the US sector of the Arctic undetected on 25 April 2006, leading to a [[USAF]] investigation according to a Russian source.&lt;ref&gt;[http://en.rian.ru/russia/20060422/46792049.html &quot;Russian bombers flew undetected across Arctic – AF commander.&quot;] [[RIA Novosti]], 22 April 2006. Retrieved 22 April 2008&lt;/ref&gt;&lt;!-- ref is provided, regardless of whether it happened, it is a &quot;claim&quot;.  He was later quoted as saying it was Canada ---&gt;
+
+[[File:2013 Moscow Victory Day Parade (57).jpg|thumb|left|Tupolev Tu-160 at the [[2013 Moscow Victory Day Parade]]]]
+Weapons are carried in two internal bays, each capable of holding 20,000&amp;nbsp;kg (44,400&amp;nbsp;lb) of free-fall weapons or a [[bomb bay#Rotary Launcher|rotary launcher]] for [[thermonuclear weapon|nuclear]] missiles; additional missiles may also be carried externally. The aircraft's total weapons load capacity is 40,000&amp;nbsp;kg (88,185&amp;nbsp;lb).&lt;ref name=&quot;JAWA03 p425-6&quot;/&gt; No defensive weapons are provided; the Tu-160 is the first post-[[World War II]] Soviet bomber to lack such defenses.
+
+A demilitarized, commercial version of the Tu-160, named ''Tu-160SK'', was displayed at [[Asian Aerospace]] in [[Singapore]] in 1994 with a model of a small space vehicle named Burlak&lt;ref&gt;[http://www.aerospaceguide.net/burlak.html Burlak]&lt;/ref&gt; attached underneath the fuselage.
+
+While similar in appearance to the American B-1 Lancer, the Tu-160 is a different class of combat aircraft; its primary role being a [[standoff missile]] platform (strategic missile carrier). The Tu-160 is also larger and faster than the B-1B and has a slightly greater combat range, though the B-1B has a larger combined payload.&lt;ref&gt;''The Directory of the World's Weapons'' 1996, p. 140.&lt;/ref&gt; Another significant difference is that the colour scheme on the B-1B Lancer is usually subdued dark gray to reduce visibility; the Tu-160 is painted with [[anti-flash white]], giving it the nickname among Russian airmen &quot;White Swan&quot;.&lt;ref&gt;{{cite web|url=http://www.moscowtopnews.com/?area=postView&amp;id=903|title='White swan’ – Russian supersonic aircraft|work=Moscow Top News|year=2009|accessdate=19 July 2009|archiveurl=https://web.archive.org/web/20090602035032/http://www.moscowtopnews.com/?area=postView&amp;id=903|archivedate=2 June 2009}}&lt;/ref&gt;
+
+==Operational history==
+[[File:DD-ST-89-11765.JPEG|thumb|A Tupolev Tu-160 with Soviet officers in front, September 1989]]
+
+In April 1987, the Tu-160 entered operational service,&lt;ref&gt;{{cite book |last1=Miller |first1=David |title=The Cold War: A Military History |date=1998 |publisher=John Murray 1998, Random House |location=London |isbn=1448137934 |page=162 |edition=Pimlico 2001 |url=https://books.google.com/books?id=6L_moj5Fo74C&amp;pg=PT162#v=onepage&amp;q&amp;f=false |accessdate=2 March 2015}}&lt;/ref&gt; with the [[184th Guards Heavy Bomber Regiment]] (GvTBAP) in [[Pryluky (air base)|Pryluky]] in the [[Ukrainian SSR|Ukrainian Soviet Socialist Republic]] were the first to receive the new bomber, replacing their [[Tupolev Tu-16|Tu-16]] and [[Tupolev Tu-22M|Tu-22M3]] aircraft. Squadron deployments to Long Range Aviation began that month, prior to the Tu-160 being first publicly presented in a parade in 1989. In 1989 and 1990, a total of 44 world speed flight records in its weight class were set. In 1992, Russia unilaterally suspended its flights of strategic aviation in remote regions.
+
+A total of 19 Tu-160s were stationed inside the newly-independent [[Ukraine]] during the [[fall of the Soviet Union]]. On 25 August 1991, the Ukrainian parliament decreed that the new nation would take control of all military units on its territory; a Defence Ministry was created that same day. By the mid-1990s, the Pryluky Regiment had lost its value as a combat unit; 19 Tu-160s were effectively grounded due to a lack of technical support and spare parts. Ukraine considered the Tu-160s to be a bargaining chip in economic negotiations with Russia and of limited value from a military standpoint. Discussions over the Tu-160s were lengthy due to price disagreements. While Russian experts, who examined the aircraft at the Pryluky Air Base in 1993 and 1996, assessed their technical condition as good, the $3 billion price proposed by Ukraine was unacceptable. Due to the stalled negotiations; in April 1998, Ukraine decided to commence scrapping the aircraft under the [[Nunn-Lugar Cooperative Threat Reduction]] Agreement. In November, the first Tu-160 was chopped up at [[Pryluky]].&lt;ref name=&quot;Russia's_Strategic_Bomber_Force&quot;&gt;{{cite journal |last=Butowski |first=Piotr |title=Russia's Strategic Bomber Force |journal=Combat Aircraft |volume=4 |issue=6 |pages=552–565}}&lt;/ref&gt;
+
+In April 1999, immediately after [[NATO]] began its air attacks against [[Serbia]], [[Russia]] resumed talks with [[Ukraine]] about the strategic bombers, proposing to purchase eight Tu-160s and three [[Tu-95]]MS models manufactured in 1991 (those in the best technical condition), as well as 575 [[Kh-55]]MS missiles. An agreement was reached and a $285 million contract was signed, the value of which was deducted from Ukraine's debt for natural gas. A group of Russian military experts went to Ukraine on 20 October 1999 to prepare the aircraft for the flight to [[Engels-2]] air base. The first two aircraft (a Tu-160 and a Tu-95MS) departed Pryluky on 5 November. During the months that followed, the seven other &quot;Blackjacks&quot; flew to Engels, with the last two arriving on 21 February 2001.&lt;ref name=&quot;Russia's_Strategic_Bomber_Force&quot; /&gt;
+
+[[File:Vladimir Putin Cockpit TU-160 Bomber.jpg|thumb|left|Russian President [[Vladimir Putin]] inside the cabin of a Tu-160 in August 2005]]
+Along with the re-purchase of Ukrainian aircraft, Russia's Defence Ministry sought other ways of rebuilding the fleet at Engels. In June 1999, the Ministry placed a contract with the [[Kazan Aircraft Production Association]] for a delivery of a single, almost complete, bomber. The aircraft was the second aircraft in the eighth production batch and it arrived at Engels on 10 September. It was commissioned into service as &quot;07&quot; on 5 May 2000.&lt;ref name=&quot;Russia's_Strategic_Bomber_Force&quot; /&gt; The unit that was operating the fleet from Engels was the 121st Guards Heavy Bomber Regiment. It formed up in early 1992 and by 1994 it had received 6 aircraft. By the end of February 2001, the fleet stood at 15 with the addition of the eight aircraft from Ukraine and the new-build.&lt;ref name=&quot;Russia's_Strategic_Bomber_Force&quot; /&gt; As of 2001, six additional Tu-160 have served as experimental aircraft at Zhukovski, four remaining airworthy.
+
+The Air Force fleet was reduced to 14 by the crash of the ''Mikhail Gromov'' during flight trials of a replacement engine on 18 September 2003.&lt;ref&gt;{{cite news |url=http://www.ananova.com/news/story/sm_820476.html |archiveurl=https://web.archive.org/web/20030920062314/http://www.ananova.com/news/story/sm_820476.html |archivedate=2003-09-20 |date=18 September 2003 |title=Russian supersonic bomber crashes |author=Associated Press |publisher=Ananova}}&lt;/ref&gt; It would be brought up to 16 aircraft by the completion of a part-built aircraft in June 2006 and the delivery of the ''Vitaly Kopylov'' on 29 April 2008.&lt;ref&gt;{{cite book |title=Jane's All the World's Aircraft |publisher= McGraw-Hill |date=2009 |page=42}}&lt;/ref&gt; Following acceptance of the testing of the prototype of the long-awaited avionics upgrades the Tu-160 formally entered service with the Russian Air Force by a presidential decree of 30 December 2005.&lt;ref name=Fomin /&gt;&lt;ref&gt;{{cite book |title=Jane's All the World's Aircraft |publisher= McGraw-Hill |date=2009 |page=522}}&lt;/ref&gt;
+
+On 17 August 2007, Russian President Vladimir Putin announced that Russia was resuming the strategic aviation flights stopped in 1991, sending its bombers on long-range patrols.&lt;ref&gt;[http://www.usatoday.com/news/world/2007-08-17-russia-bombers_N.htm &quot;Russia orders long-range bomber patrols.&quot;] ''USA Today'', 17 August 2007. Retrieved 19 July 2009.&lt;/ref&gt; On 14 September 2007, British and Norwegian fighters intercepted two Tu-160s in international airspace near the UK and Finland.&lt;ref&gt;Satter, Raphael G. [http://www.usatoday.com/news/world/2007-09-14-1452283135_x.htm &quot;NATO jets intercept Russian warplanes.&quot;] ''USA Today'', 14 September 2007. Retrieved 19 July 2009.&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Bugajski |first1=Janusz |title=Expanding Eurasia : Russia's European ambitions |date=2008 |publisher=CSIS Press |location=Washington, D.C. |isbn=0892065451 |page=143 |edition=illustrated |url=https://books.google.com/books?id=IyVU2-Q5ONkC&amp;pg=PA143#v=onepage&amp;q&amp;f=false |accessdate=3 March 2015}}&lt;/ref&gt; On 25 December 2007, two Blackjacks came close to Danish airspace, and two Danish Air Force [[General Dynamics F-16 Fighting Falcon|F-16 Fighting Falcon]]s scrambled to intercept and identify them.&lt;ref&gt;[http://www.russiatoday.ru/Top_News/2007-12-26/Danish_fighter_jets_v_Russian_bombers_18-minute_chase_.html?fullstory &quot;Danish fighter jets v. Russian bombers: 18-minute chase.&quot;] russiatoday.ru, 26 December 2007. Retrieved 19 July 2009.&lt;/ref&gt;
+
+[[File:QRA Scramble to Intercept Russian Blackjack Aircraft MOD 45151233.jpg|thumb|A Tu-160 is intercepted by an [[Royal Air Force|RAF]] [[Panavia Tornado ADV|Tornado F3]] in March 2010]]
+According to Russian government sources, on 11 September 2007, a Tu-160 deployed a massive fuel-air explosive device, the [[Father of All Bombs]], for its first [[live fire exercise|field test]].&lt;ref&gt;[http://news.bbc.co.uk/2/hi/europe/6990815.stm &quot;Russia tests giant fuel-air bomb.&quot;] BBC News, 12 September 2007. Retrieved 3 August 2009.&lt;/ref&gt; Some military analysts expressed skepticism that the weapon was actually delivered by a Blackjack.&lt;ref&gt;Axe, David and Daria Solovieva. [http://www.wired.com/2007/10/russian-father &quot;Did Russia Stage the Father of All Bombs Hoax?&quot;] ''Wired'', 4 October 2007. Retrieved 15 November 2014.&lt;/ref&gt;
+
+On 28 December 2007, the first flight of a new Tu-160 was reported to have taken place following completion of the aircraft at the Kazan Aviation Plant.&lt;ref&gt;{{Cite news|url=http://en.rian.ru/russia/20080110/96102740.html|title=New serial Tu-160 Blackjack bomber undergoes flight test|agency=RIA Novosti|date=12 December 2008|accessdate=3 August 2009}}&lt;/ref&gt; After flight testing, the bomber joined the Russian Air Force on 29 April 2008, bringing the total number of aircraft in service to 16. One new Tu-160 is expected to be built every one to two years until the active inventory reaches 30 or more aircraft by 2025–2030.&lt;ref&gt;[http://en.rian.ru/russia/20080429/106194482.html &quot;Russian Air Force receives new Tu-160 strategic bomber'&quot;] RIA Novosti, 10 January 2008. Retrieved 3 August 2009.&lt;/ref&gt;&lt;ref&gt;[http://www.tatar-inform.ru/news/2008/01/06/90895/ &quot;На КАПО им.Горбунова испытали новый серийный Ту-160&quot; {{ru icon}}.] ''Tatar-Inform Information Agency, [[Kazan]]'', 6 January 2008. Retrieved 5 August 2009&lt;/ref&gt;
+
+[[File:Энгельс Ту-160 02 фото 3.jpg|thumb|Tu-160, No. 02 &quot;[[Vasily Reshetnikov]]&quot; at the [[Engels-2|Engels air base]]]]
+On 10 September 2008, two Russian Tu-160 landed in [[Venezuela]] as part of military manoeuvres, announcing an unprecedented deployment to Russia's ally at a time of increasingly tense relations between Russia and the United States. The [[Russian Ministry of Defence]] said ''Vasily Senko'' and ''Aleksandr Molodchiy'' were on a training mission. It said in a statement carried by Russian news agencies, that the aircraft would conduct training flights over neutral waters before returning to Russia.  Its spokesman added that the aircraft were escorted by NATO fighters as they flew across the [[Atlantic Ocean]].&lt;ref&gt;[http://news.bbc.co.uk/2/hi/americas/7609577.stm &quot;Russian bombers land in Venezuela.&quot;] BBC News, 11 September 2008. Retrieved 3 August 2009.&lt;/ref&gt;
+
+On 12 October 2008, Tu-160 bombers were involved in the largest Russian strategic bomber exercise since 1984. A total of 12 bombers including Tu-160 Blackjack and [[Tu-95 Bear]] conducted a series of launches of their cruise missiles. Some bombers launched a full complement of their missiles. It was the first time that a Tu-160 had ever fired a full complement of missiles.&lt;ref&gt;[http://www.telegraph.co.uk/news/worldnews/europe/russia/3148912/Russia-plans-biggest-missile-test-for-24-years.html &quot;Russia plans biggest missile test for 24 years.&quot;] ''The Daily Telegraph'', 7 October 2008. Retrieved 3 August 2009.&lt;/ref&gt;
+
+On 10 June 2010, two Tu-160 bombers carried out a record-breaking 23-hour patrol with a planned flight range of {{convert|18000|km|nmi|abbr=on}}. The bombers flew along the Russian borders and over neutral waters in the Arctic and Pacific Oceans.&lt;ref&gt;[http://en.rian.ru/mlitary_news/20100610/159370764.html &quot;Russian strategic bombers complete record duration flight.&quot;] ''The Moscow News'' via mn.ru, 10 June 2010. Retrieved 30 June 2010.&lt;/ref&gt;
+
+[[File:SU-30SM escortant un Tu-160 qui lance un missile de croisière.png|thumb|right|Tu-160 launching Kh-101 [[Russian military intervention in the Syrian Civil War|against targets in Syria]], November 2015]]
+Russian media reports in August 2011 claimed that only four of the [[Russian Air Force|VVS]]' sixteen Tu-160 were flight worthy.&lt;ref name=JDW20131111&gt;{{cite news |url=http://www.janes.com/article/29846/further-delays-for-modernisation-of-russian-air-force-tu-160-bombers |title=Further delays for modernisation of Russian Air Force Tu-160 bombers |first=Reuben F |last=Johnson |work=IHS Jane's Defence Weekly |date= 11 November 2013 |accessdate=21 November 2013}}&lt;/ref&gt; By mid-2012 ''Flight'' reported eleven were combat-ready&lt;ref name=Flight20121015 /&gt; and between 2011 and 2013 eleven were photographed in flight.&lt;ref&gt;{{cite web |last=Axe |first=David |title=We Just Hunted Down All of Russia’s Long-Range Bombers |url=https://medium.com/war-is-boring/f9bc593f6846 |date= 13 November 2013 |work= War is Boring |accessdate=14 November 2013}}&lt;/ref&gt;
+
+On 1 November 2013, ''Aleksandr Golovanov'' and ''Aleksandr Novikov'' went into Colombian airspace in two different occasions without receiving previous clearance from the Colombian Government. The aircraft was going from Venezuela to Nicaragua and headed for [[Managua International Airport|Managua]].  The Colombian Government issued a letter of protest to the Russian Government following the first violation. Two [[Colombian Air Force]] [[IAI Kfir]]s stationed at [[Barranquilla]] intercepted and escorted the two Blackjacks out of Colombian airspace after the second violation.&lt;ref&gt;{{cite news|url=http://www.elespectador.com/noticias/politica/colombia-enviara-nota-de-protesta-rusia-violacion-del-e-articulo-456719|title=Colombia enviará nota de protesta a Rusia por violación del espacio aéreo |language=Spanish|trans-title=Colombia will send a note of protest to Russia for violation of airspace|work=El Espectador|date=5 November 2013|accessdate=20 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.reuters.com/article/2013/11/06/us-colombia-russia-airspace-idUSBRE9A504020131106|title=Colombia says Russian bombers violated its airspace|work=Reuters|date=5 November 2013|accessdate=20 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.themoscowtimes.com/news/article/colombia-protests-violation-of-airspace-by-russian-bombers/489062.html|title=Colombia Protests Violation of Airspace by Russian Bombers|work=The Moscow Times|date=7 November 2013|accessdate=20 November 2015}}&lt;/ref&gt;
+
+On 17 November 2015, Russia started using Tu-160, [[Tu-95]] and [[Tu-22M]] strategic long-range bombers against [[Russian military intervention in the Syrian Civil War|targets in Syria]], along with [[Kalibr cruise missile]]s fired from the Mediterranean. This marked the combat debut of the Tu-160 and Tu-95.&lt;ref&gt;{{cite news|url=http://sputniknews.com/middleeast/20151117/1030173378/russian-syria-operations-isil-tergets.html|title=Russian Warplanes Destroy 140 Terrorist Targets in Syria|work=Sputnik|date=17 November 2015|accessdate=20 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://theaviationist.com/2015/11/17/russian-tu-22s-joined-the-syria-air-war/|title=25 Russian long-range strategic bombers in action over Syria for the very first time|first=David|last=Cenciotti|work=The Aviationist|date=17 November 2015|accessdate=20 November 2015}}&lt;/ref&gt;&lt;ref name=DT&gt;{{cite news |last1=Oliphant |first1=Roland |last2=Akkoc |first2=Raziye |last3=Steafel |first3=Eleanor |date=17 November 2015 |title=Paris attacks: Cameron to make case for Syria military action as EU troops could be sent to France - latest news |url=http://www.telegraph.co.uk/news/worldnews/europe/france/11999927/Paris-France-terror-attacks-isil-Belgium-Molenbeek-suspects-Syria-Raqqa-bombing-live.html |newspaper=The Daily Telegraph |location=Online |access-date=17 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://sputniknews.com/middleeast/20151118/1030302801/russia-syria-isis-tu160-tu95-strategic-bomber.html|title=Russia's Bombers Tu-160, Tu-95MS Go Through Baptism of Fire in Syria|work=Sputnik|date=18 November 2015|accessdate=20 November 2015}}&lt;/ref&gt;
+
+==Variants==
+* '''Tu-160''': Production version.
+* '''Tu-160S''': designation used for ''serial'' Tu-160s when needed to separate them from all the pre-production and experimental aircraft.&lt;ref name=&quot;A&amp;C&quot;&gt;''Aviation and Cosmonautics'' magazine, 5.2006, pp. 10–11. {{OCLC|24440468}}.&lt;/ref&gt;
+* '''Tu-160V''': proposed [[liquid hydrogen]] fueled version (see also [[Tupolev Tu-155|Tu-155]]).&lt;ref name=&quot;A&amp;C&quot; /&gt;
+* '''Tu-160 NK-74''': proposed upgraded (extended range) version with NK-74 engines.&lt;ref name=&quot;A&amp;C&quot; /&gt;
+* '''Tu-160M''': upgraded version that features new weaponry, improved electronics and avionics, which double its combat effectiveness.&lt;ref&gt;{{cite news|url=http://sputniknews.com/military/20120207/171200584.html|title=Russia to Upgrade Over 10 Tu-160 Bombers by 2020|work=Sputnik|date=7 February 2012|accessdate=20 November 2015}}&lt;/ref&gt; Will carry the [[hypersonic]] [[Kh-90]] (3M25 Meteorit-A) missiles.
+* '''Tu-160P''' (Tu-161): proposed very long-range escort fighter/interceptor version.
+* '''Tu-160PP''': proposed [[electronic warfare]] version carrying stand-off jamming and [[Electronic countermeasures|ECM]] gear ({{lang-ru|ПП – '''п'''остановщик '''п'''омех}}).
+* '''Tu-160R''': proposed strategic [[reconnaissance]] version.
+* '''Tu-160SK''': proposed commercial version, designed to launch satellites within the &quot;Burlak&quot; ({{lang-ru|Бурлак}}, &quot;hauler&quot;) system.&lt;ref name=&quot;A&amp;C&quot; /&gt;
+
+==Operators==
+;{{RUS}}
+* [[Russian Air Force]] – 16 were in service (12 combat and four in training) as of April 2008,&lt;ref&gt;{{cite news|url=http://www.kommersant.ru/doc/1014592|title=Ъ-Власть – Куда летит российская авиация|language=Russian|trans-title=Where are flying Russian aircraft|work=kommersant.ru|date=25 August 2008|accessdate=17 November 2012}}&lt;/ref&gt; with the 121st Guards Heavy Bomber Regiment at Engels/Saratov.&lt;ref&gt;[http://en.rian.ru/russia/20080429/106194482.html &quot;Russian Air Force receives new Tu-160 strategic bomber.&quot;] [[RIA Novosti]]. 29 April 2008. Retrieved 3 August 2009.&lt;/ref&gt; As of 2015, 11 Tu-160s are combat-ready.&lt;ref&gt;{{cite web |title=Strategic aviation – Russian strategic nuclear forces |url=http://russianforces.org/aviation/ |website=RussianForces.org |publisher=Russian Nuclear Forces Project |date=8 January 2015 |accessdate=3 March 2015}}&lt;/ref&gt;&lt;ref&gt;Karnozov, Vladimir. [http://www.flightglobal.com/news/articles/in-focus-russians-next-generation-bomber-takes-shape-377251/ &quot;In focus: Russian's next-generation bomber takes shape.&quot;] ''[[Flight International]]'', 15 October 2012.&lt;/ref&gt;
+
+===Former===
+;{{UKR}}
+* [[Ukrainian Air Force]] inherited 19 Tu-160s from the former Soviet Union, and subsequently handed over eight Tu-160s to Russia as exchange for debt relief in 1999; the remainder were scrapped under the [[Nunn–Lugar Cooperative Threat Reduction]] agreement led by the US.&lt;ref&gt;{{cite web |title=Ukraine Bomber Decommissioning and Transfer Chronology |url=http://www.nti.org/media/pdfs/ukraine_bomber.pdf?_=1317244859 |publisher=Nuclear Threat Initiative |date=April 2005 |accessdate=3 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=iyyD6On0IJo|title=How Americans destroyed Ukraines best Military devices, the Tu 160 Bomber |work=Youtube|date=24 April 2014|accessdate=20 November 2015}}&lt;/ref&gt;
+* 1 in the [[Poltava Air Base#Poltava Museum of Long-Range Aviation|Museum of Long Range Aviation]] in [[Poltava]].&lt;ref&gt;{{cite web |title=Long Range Aviation Museum |url=http://www.tourism.poltava.ua/eng/museums/Long_Range_Aviation_Museum/ |website=Tourism.Poltava.ua |publisher=Cooperative project of Fox Web Workshop and city executive committee Dept. of Culture and Tourism}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.doroga.ua/poi/Poltavskaya/Poltava/Muzej_daljnej_aviacii/1304|title=Музей дальней авиации, Полтава|language=Russian|trans-title=Museum of long-range aviation, Poltava|accessdate=17 November 2012}}&lt;/ref&gt;
+;{{USSR}}
+* [[Soviet Air Force]] (transferred to Russian and Ukrainian Air Forces in 1991)
+:184th Guards Heavy Bomber Regiment (TBAP), Pryluky, Ukrainian SSR
+
+==Specifications (Tu-160)==
+[[File:Ту-160 3-view graphic.svg|350px|right|Orthographic projection of the Tupolev Tu-160]]
+
+{{aircraft specifications
+&lt;!-- If you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]].
+     Please answer the following questions. --&gt;
+|plane or copter?=plane
+|jet or prop?=jet
+&lt;!-- Now, fill out the specs. Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply, like capacity, leave it blank. For additional lines, end your alt units with )&lt;/li&gt; and start a new, fully formatted line with &lt;li&gt;
+--&gt;
+|ref=''Jane's All The World's Aircraft 2003–2004'',&lt;ref name=&quot;JAWA03 p425-6&quot;&gt;Jackson 2003, pp. 425–426.&lt;/ref&gt;
+|crew=4 (pilot, co-pilot, bombardier, defensive systems officer)
+|length main=54.10 m
+|length alt=177 ft 6 in
+|span main=&lt;br/&gt;
+** '''Spread (20° sweep):''' 55.70 m
+|span alt=189 ft 9 in)
+** '''Swept (65° sweep):''' 35.60 m (116 ft 9¾ in
+|height main=13.10 m
+|height alt=43 ft 0 in
+|area main=&lt;br/&gt;
+** '''Spread:''' 400 m²
+|area alt=4,306 ft²)
+** '''Swept:''' {{convert|360|m2|ft2}}
+|empty weight main=110,000 kg
+|empty weight alt=242,505 [[pound (mass)|lb]]; [[operating empty weight]]
+|loaded weight main=267,600 kg
+|loaded weight alt=589,950 lb
+|max takeoff weight main=275,000 kg
+|max takeoff weight alt=606,260 lb
+|engine (jet)=[[Kuznetsov NK-32|Samara NK-321]]
+| type of jet=[[turbofan]]s
+|number of jets=4
+|thrust main=137.3 kN
+|thrust alt=30,865 [[pound-force|lbf]]
+|afterburning thrust main=245 kN
+|afterburning thrust alt=55,115 lbf
+|max speed main=Mach 2.05
+|max speed alt= 2,220 km/h, 1,200 knots, 1,380 mph
+|max speed more=at 12,200 m (40,000 ft)
+|cruise speed main=Mach 0.9
+|cruise speed alt= 960 km/h, 518 knots, 596 mph
+|combat radius main=7,300 km&lt;ref name=spec&gt;[http://www.globalsecurity.org/wmd/world/russia/tu-160.htm &quot;Tu-160 Blackjack (Tupolev).&quot;] globalsecurity.org. Retrieved 3 August 2009.&lt;/ref&gt;
+|combat radius alt=3,994 [[nautical mile|nmi]], 4,536 mi,
+|combat radius more= 2,000 km (1,080 nmi, 1,240 mi) at Mach 1.5&lt;ref name=&quot;JAWA03 p425-6&quot;/&gt;
+|range main= 12,300 km
+|range alt=7,643 mi
+|range more=practical range without in-flight refuelling, Mach 0.77 and carrying 6 × Kh-55SM dropped at mid range and 5% fuel reserves&lt;ref name=&quot;Brassey&quot;&gt;Taylor 1996, p. 103.&lt;/ref&gt;
+|ceiling main=15,600 m
+|ceiling alt=51,181 ft
+|climb rate main= 70 m/s
+|climb rate alt= 13,860 ft/min
+|loading main=742 kg/m² with wings fully swept
+|loading alt=152 lb/ft²
+|thrust/weight=0.37
+|lift to drag= 18.5–19, while supersonic it is above 6&lt;ref name=russ_spec&gt;{{cite web|url=http://www.airforce.ru/aircraft/tupolev/tu-160/book/page_2_6.htm|title=ХАРАКТЕРИСТИКИ БОМБАРДИРОВЩИКА Ту-160|language=russian|trans-title=Tu-160 bomber specifications|work=airforce.ru|accessdate=3 August 2009}}&lt;/ref&gt;
+|armament=
+* Two internal bays for 40,000 kg (88,185 lb) of ordnance including
+** Two internal rotary launchers each holding 6× [[Kh-55|Raduga Kh-55SM/101/102/555]] [[cruise missile]]s (primary armament) or 12× [[AS-16 Kickback]] short-range nuclear missiles.
+}}
+
+==See also==
+{{Portal|Aviation}}
+{{aircontent
+|see also= &lt;!-- first, the related articles that do not fit the specific entries: --&gt;
+* [[PAK DA]]
+* [[Tupolev Tu-134#Variants|Tupolev Tu-134UBL]], used for Tu-160 pilot training
+|related= &lt;!-- designs which were developed into or from this aircraft: --&gt;
+|similar aircraft= &lt;!-- aircraft that are of similar Role, Era, and Capability as this design: --&gt;
+* [[Sukhoi T-4]]
+* [[Rockwell B-1 Lancer]]
+* [[Tupolev Tu-22M]]
+|lists=&lt;!-- relevant lists that this aircraft appears in: --&gt;
+* [[List of military aircraft of the Soviet Union and the CIS]]
+* [[List of bomber aircraft]]
+&lt;!-- See [[WP:Air/PC]] for more explanation of these fields. --&gt;
+}}
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* ''The Directory of the World's Weapons.'' Leicester, UK: Blitz Editions, 1996. ISBN 978-1-85605-348-8.
+* {{Cite book |editor-last=Eden |editor-first=Paul |title=The Encyclopedia of Modern Military Aircraft |location=London |publisher=Amber Books, 2004 |year= |isbn=1-904687-84-9 |ref=}}
+* Jackson, Paul. ''Jane's All The World's Aircraft 2003–2004''. Coulsdon, UK: Jane's Information Group, 2003. ISBN 0-7106-2537-5.
+* Taylor, Michael J. H. ''Brassey's World Aircraft &amp; Systems Directory''. London: Brassey's, 1996. ISBN 1-85753-198-1.
+{{Refend}}
+
+==External links==
+{{Commons category|Tupolev Tu-160}}
+* [http://www.globalsecurity.org/wmd/world/russia/tu-160.htm Tu-160 page at GlobalSecurity.org]
+* [https://maps.google.com/maps?t=h&amp;q=51.484917,46.241525&amp;ie=UTF8&amp;ll=51.484871,46.241165&amp;spn=0.002439,0.004989&amp;z=18 External link to Tu-160 airbase]
+
+{{Tupolev aircraft}}
+
+[[Category:Tupolev aircraft|Tu-0160]]
+[[Category:Soviet bomber aircraft 1980–1989]]
+[[Category:Quadjets]]
+[[Category:Low-wing aircraft]]
+[[Category:Variable-sweep-wing aircraft]]</text>
+      <sha1>7j2zonpsp5q59wiit7yms9j0e7aunsy</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:George II of Great Britain</title>
+    <ns>1</ns>
+    <id>83418</id>
+    <revision>
+      <id>745732416</id>
+      <parentid>604273790</parentid>
+      <timestamp>2016-10-23T00:02:55Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <comment>Adding/updating {{OnThisDay}} for 2016-10-22.  Errors? [[User:AnomieBOT/shutoff/OnThisDayTagger]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5698">{{ArticleHistory
+|action1=FAC
+|action1date=20:30, 22 Sep 2004
+|action1link=Wikipedia:Featured article candidates/George II of Great Britain/archive1
+|action1result=promoted
+|action1oldid=6078795
+
+|action2=FAR
+|action2date=13:33, 25 July 2006
+|action2link=Wikipedia:Featured article review/George II of Great Britain/archive1
+|action2result=demoted
+|action2oldid=64704823
+
+|action3=FAC
+|action3date=14:14, 1 October 2011
+|action3link=Wikipedia:Featured article candidates/George II of Great Britain/archive2
+|action3result=promoted
+|action3oldid=453226708
+
+|currentstatus=FA
+|maindate=October 25, 2012
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=FA
+|peerage-work-group=yes
+|royalty-work-group=yes
+|listas=George 02 Of Great Britain
+|peerage-priority=high
+|royalty-priority=high
+|military-work-group=low
+|military-priority=low
+}}
+{{WikiProject British Royalty|class=FA|importance=mid}}
+{{WikiProject England|class=FA|importance=high}}
+{{WP Lower Saxony|importance=mid|class=FA}}
+{{WPMILHIST|class=FA|B-Class-1=yes|B-Class-2=yes|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes|Biography=y|British-task-force=yes}}
+{{WikiProject Germany|class=FA|importance=low
+|b1 &lt;!--Referencing &amp; citations--&gt; = yes
+|b2 &lt;!--Coverage and accuracy  --&gt; = yes
+|b3 &lt;!--Structure              --&gt; = yes
+|b4 &lt;!--Grammar and style      --&gt; = yes
+|b5 &lt;!--Supporting materials   --&gt; = yes
+}}
+{{WikiProject United Kingdom|class=FA|importance=high}}
+{{WP1.0|v0.5=pass|class=FA|category=History}}
+}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav|noredlinks=y}}
+|maxarchivesize = 125K
+|counter = 1
+|minthreadsleft = 4
+|algo = old(100d)
+|archive = Talk:George II of Great Britain/Archive %(counter)d
+}}
+{{OnThisDay|date1=2016-10-22|oldid1=745438406}}
+
+{{archive box|bot=MiszaBot I|age=100|search=yes|auto=long}}
+
+== Links ==
+
+Why is Archtreasurer linked to a page but king and duke are not?  [[User:Talax|Talax]] ([[User talk:Talax|talk]]) 00:50, 25 October 2012 (UTC)
+:Per [[Wikipedia:Manual of Style/Linking#Overlinking and underlinking]], everyday words like duke and king should not be linked, but links that aid in understanding such as [[Prince-elector#High offices]] are appropriate. [[User:DrKiernan|DrKiernan]] ([[User talk:DrKiernan|talk]]) 02:20, 25 October 2012 (UTC)
+
+== And who would they be, then ? ==
+
+&quot; In 1701, his grandmother, Sophia of Hanover, became second-in-line to the British throne after about fifty Catholics higher in line were excluded by the Act of Settlement,&quot;
+
+So who would these 50 Catholics be ?
+
+So Sophia was a grand-daughter of James I and VI.   James was not exactly chock-ful of grandchildren.    Only two of his children ( Charles I and Elizabeth ) had offspring.  Charles' sons Charles, James and Henry managed to have no sons and two barren daughters between them.  Charles' daughter Mary had only one child.    Did the Duchess of Orleans really manage 50 descendants by 1701 ?[[User:Eregli bob|Eregli bob]] ([[User talk:Eregli bob|talk]]) 06:14, 25 October 2012 (UTC)
+:[[Elizabeth Stuart, Queen of Bohemia]] had nine kids, and Sophia was the youngest of those.  '''[[User talk:Hot Stop|&lt;span style=&quot;font-family: symbol;&quot;&gt;&lt;span style=&quot;color:#0d254c&quot;&gt;Hot Stop&lt;/span&gt;&lt;/span&gt;]] [[Special:Contributions/Hot_Stop|&lt;span style=&quot;font-family: symbol;&quot;&gt;&lt;span style=&quot;color:#0d254c&quot;&gt;(Edits)&lt;/span&gt;&lt;/span&gt;]]''' 06:27, 25 October 2012 (UTC)
+:There's a list at [[Jacobite line of succession to the English and Scottish thrones in 1714]]. [[User:DrKiernan|DrKiernan]] ([[User talk:DrKiernan|talk]]) 06:41, 25 October 2012 (UTC)
+
+== Johann Ludwig von Wallmoden ==
+
+[http://en.wikipedia.org/w/index.php?title=George_II_of_Great_Britain&amp;diff=525764790&amp;oldid=525764489 That] does make sense, but the article asserts that Johann Ludwig von Wallmoden was doubtlessly George's son. If his paternity is not disputed by anyone, should he still be excluded both from the infobox and from the ''[[George II of Great Britain#Issue|Issue]]'' section? [[User:Surtsicna|Surtsicna]] ([[User talk:Surtsicna|talk]]) 22:05, 30 November 2012 (UTC)
+:While there are sources saying he was, others say [http://www.oxforddnb.com/view/article/28579 &quot;widely believed&quot;] or [http://anthonyjcamp.com/page6.htm &quot;probably&quot;]. [[User:DrKiernan|DrKiernan]] ([[User talk:DrKiernan|talk]]) 23:10, 30 November 2012 (UTC)
+
+== King of France ==
+
+[[:File:Belcherfast.gif|This]] primary source document includes France in the royal style; why would George II be considered King of France by the American colonials?  It's not mentioned by the style in [[House of Hanover]] either. -- [[User:Beland|Beland]] ([[User talk:Beland|talk]]) 18:40, 20 January 2013 (UTC)
+:Because that title's a relic from the [[Hundred Years War]] when the Plantagenet Kings of England claimed for themselves the French Crown after the direct Capetians had died out. Their successor Kings of England and Great Britain from the Tudor, Stuart and Hannoverian dynasties didn't relinquish this (titular) claim to the crown of France untill 1801, when the &quot;United Kingdom of Great Britain and Ireland&quot; was formally created. See &quot;[[British claims to the French throne]]&quot; -- [[user:fdewaele|fdewaele]], 20 January 2013.
+
+== religion? ==
+
+I noticed that for the first 2 Georges it lists Lutheran as religion, and for the George II (and William IV) is lists Anglican, though all of the Hanoverian monarchs were both head of the Church of England and the Lutheran Church of Hanover simultaneously. And, as far as I am aware, there was never any formal &quot;conversion,&quot; the relevant court theologians proclaiming that the 2 confessions were in agreement in all things essential. George I through William IV should probably all read Anglican/Lutheran.</text>
+      <sha1>cjcz6lg5iafkbvevz507i3fjawy5sue</sha1>
+    </revision>
+  </page>
+</mediawiki>

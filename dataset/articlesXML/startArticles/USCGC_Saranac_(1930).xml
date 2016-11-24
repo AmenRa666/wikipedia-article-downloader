@@ -1,0 +1,157 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USCGC Saranac (1930)</title>
+    <ns>0</ns>
+    <id>47327624</id>
+    <revision>
+      <id>739720678</id>
+      <parentid>710610736</parentid>
+      <timestamp>2016-09-16T14:50:13Z</timestamp>
+      <contributor>
+        <username>Life of Tau</username>
+        <id>28845456</id>
+      </contributor>
+      <minor/>
+      <comment>/* Royal Navy - Banff */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3988">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=File:USCGC Saranac.png
+|Ship caption=USCGC ''Saranac'' underway
+}}
+{{Infobox ship career
+|Ship country={{nowrap|United States}}
+|Ship flag={{shipboxflag|United States|coast guard}}
+|Ship name=USCGC ''Saranac''
+|Ship namesake=[[Saranac Lake, New York|Saranac]]
+|Ship ordered=
+|Ship builder=[[General Engineering and Drydock Company]]
+|Ship laid down=
+|Ship launched=12 Apr 1930 
+|Ship commissioned=2 October 1930
+|Ship decommissioned=
+|Ship fate=
+}}
+{{Infobox ship career
+|Ship country={{nowrap|United Kingdom}}
+|Ship flag={{shipboxflag|United Kingdom|royal navy}}
+|Ship name=HMS ''Banff'' (Y 43)
+|Ship launched=12 Apr 1930 
+|Ship commissioned=  30 April 1941
+|Ship decommissioned=
+|Ship fate=*Transferred back to the [[USCG]]
+*27 Feb 1946 
+}}
+{{Infobox ship career
+|Ship country={{nowrap|United States}}
+|Ship flag={{shipboxflag|United States|coast guard}}
+|Ship name=USCGC ''Sebec '' (WPG 164)
+|Ship renamed=USCGC ''Tampa''
+|Ship recommissioned= 27 May 1947
+|Ship decommissioned=10 August 1954
+|Ship fate=Sold on 16 February 1959
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+* {{sclass-|Lake|cutter||United States Coast Guard Cutter}} ([[USCG]])
+* {{sclass-|Banff|sloop}} ([[Royal Navy|RN]])
+|Ship displacement={{convert|2075|LT|abbr=on}}
+|Ship length={{convert|250|ft|abbr=on}}
+|Ship beam={{convert|42|ft|abbr=on}}
+|Ship draft={{convert|12|ft|11|in|abbr=on}}
+|Ship propulsion=1 × [[General Electric]] turbine-driven {{convert|3350|shp|abbr=on|lk=in}} [[electric motor]], 2 [[boilers]]
+|Ship speed=*{{convert|14.8|kn|abbr=on|lk=in}} cruising
+*{{convert|17.5|kn|abbr=on}} maximum
+|Ship range=
+|Ship complement=97
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*1 × [[5&quot;/51 caliber gun|5 inch gun]]
+*1 × [[3&quot;/50 caliber gun|3 inch gun]]
+*2 × [[Ordnance QF 6-pounder|6-pounder]]
+|Ship armor=
+|Ship cost = $900,000
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+The '''USCGC ''Saranac'' (1930)''' was a {{sclass-|Lake|cutter||USCG}} belonging to the [[United States Coast Guard]] launched on 12 April 1930 and commissioned on 2 October 1930.&lt;ref name=USCG-Saranac&gt;{{cite web|title=USCG Saranac|url=http://www.uscg.mil/history/webcutters/saranac_1930.pdf|website=USCG|publisher=US Coast Guard|accessdate=24 July 2015|date=17 November 2014}}&lt;/ref&gt; After 11 years of service to the Coast Guard, she was transferred to the [[Royal Navy|British Royal Navy]] as part of the [[Lend-Lease Act]].
+
+== Career ==
+===Coast Guard - Saranac ===
+After being commissioned 2 October 1930, ''Saranac'' was [[homeport|homeported]] in [[Galveston, Texas]] and participated in regular patrols.&lt;ref name=USCG-Saranac/&gt;
+
+===Royal Navy - Banff ===
+After being transferred to the British [[Royal Navy]] the newly named HMS ''Banff'' (Y 43) was commissioned on 30 Apr 1941 .&lt;ref name=uboat-HMS&gt;{{cite web|title=HMS Banff (Y 43)|url=http://www.uboat.net/allies/warships/ship/41.html|website=uboat.net|accessdate=24 July 2015}}&lt;/ref&gt; On 8 Aug 1942, she rescued 18 people from the Norwegian tanker ''Mirlo'' which was torpedoed by [[German submarine U-130 (1941)|U-130]].&lt;ref name=uboat-HMS/&gt; On 27 February 1946 she was returned to the [[USCG]].
+
+===Coast Guard - Sebec/Tampa ===
+
+After the end of the [[World War II]], she was transferred back to the [[USCG]] on 27 February 1946. Initially given the name ''Sebec'' (WPG 164), she was renamed the ''Tampa'' before being commissioned 27 May 1947.&lt;ref name=uboat-USCGC&gt;{{cite web|title=USCGC Saranac|url=http://www.uboat.net/allies/warships/ship/11118.html|website=uboat.net|accessdate=24 July 2015}}&lt;/ref&gt; 
+
+==See also==
+* [[List of United States Coast Guard cutters]]
+
+==References==
+{{reflist}}
+
+{{Lake class cutters}}
+
+{{DISPLAYTITLE:USCGC ''Saranac'' (1930)}}
+{{DEFAULTSORT:Saranac (1930)}}
+
+[[Category:Lake-class cutters]]
+[[Category:Ships of the United States Coast Guard]]
+[[Category:World War II patrol vessels of the United States]]
+[[Category:1930 ships]]</text>
+      <sha1>9znfv98ojbzrdknu6qxleol94oph6d9</sha1>
+    </revision>
+  </page>
+</mediawiki>

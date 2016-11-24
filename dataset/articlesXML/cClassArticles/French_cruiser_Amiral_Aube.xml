@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French cruiser Amiral Aube</title>
+    <ns>0</ns>
+    <id>30041855</id>
+    <revision>
+      <id>685193391</id>
+      <parentid>682694643</parentid>
+      <timestamp>2015-10-11T12:33:31Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7638">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Amiral Aube at the Quebec Tercentenary 1908 LAC 3361859.jpeg|300px]]
+|Ship caption=''Amiral Aube'' at the Quebec Tercentenary, 1908
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Amiral Aube''
+|Ship namesake=[[Théophile Aube]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Chantiers de Penhoët]], [[Saint-Nazaire]]
+|Ship original cost=
+|Ship laid down=9 August 1899
+|Ship launched=9 May 1902
+|Ship sponsor=
+|Ship christened=
+|Ship completed=17 April 1904
+|Ship commissioned=
+|Ship decommissioned=
+|Ship struck=4 April 1922
+|Ship reinstated=
+|Ship fate=Sold for [[ship breaking|scrap]], 15 September 1922
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Gloire|cruiser|0}} [[armored cruiser]]
+|Ship displacement={{convert|9534|t|LT|sp=us}}
+|Ship length={{convert|139.8|m|ftin|abbr=on}}
+|Ship beam={{convert|20.2|m|ftin|abbr=on}}
+|Ship draft={{convert|7.7|m|ft|abbr=on}}
+|Ship power=*{{convert|20500|ihp|lk=in|abbr=on}}
+*24 [[water-tube boiler]]s
+|Ship propulsion=3 shafts, 3 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range={{convert|12000|nmi|lk=in}} at {{convert|10|kn}}
+|Ship complement=612
+|Ship armament=*2 × single {{convert|194|mm|in|abbr=on|1}}/45 guns
+*8 × single [[Canon de 164 mm Modèle 1893]]/45 guns
+*6 × single {{convert|100|mm|in|abbr=on|1}}/55 guns
+*18 × single {{convert|47|mm|in|abbr=on|1}}/55 [[Hotchkiss gun]]s
+*5 × {{convert|450|mm|in|abbr=on|1}} [[torpedo tube]]s
+|Ship armor=*[[Harvey armor]]
+*[[Belt armor|Belt]]: {{convert|106|-|170|mm|in|abbr=on|1}}
+*[[Gun turret]]s: {{convert|173|mm|in|abbr=on|1}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|102|-|127|mm|in|abbr=on|1}}
+*[[Deck (ship)|Deck]]: {{convert|45|-|63|mm|in|abbr=on|1}}
+*[[Conning tower]]: {{convert|6|in|mm|0|abbr=on}}
+}}
+|}
+The '''French cruiser ''Amiral Aube''''' was a {{sclass-|Gloire|cruiser|0}} [[armored cruiser]] built for the [[French Navy]] in the early 1900s. She served in the [[English Channel]] and the [[Mediterranean]] during World War I. In early 1918, the ship was sent to Murmansk to support [[Allies of World War I|Allied forces]] during the [[Allied intervention in the Russian Civil War|when they intervened in the Russian Civil War]]. ''Amiral Aube'' was placed in [[Reserve fleet|reserve]] in 1919 and sold for [[ship breaking|scrap]] in 1922.
+
+==Design and description==
+[[File:Gloire class cruiser diagrams Brasseys 1912.jpg|left|thumb|300px|Right elevation and plan of the ''Gloire''-class armored cruisers]]
+The ''Gloire''-class ships were designed as enlarged and improved versions of the {{sclass-|Gueydon|cruiser|0}} armored cruisers by [[Emile Bertin]]. Her crew numbered 612 officers and men.&lt;ref name=g1&gt;French Armored Cruiser Sully, pp. 324, 326&lt;/ref&gt; The ship measured {{convert|139.8|m|ftin|sp=us}} [[Length overall|overall]], with a [[beam (nautical)|beam]] of {{convert|20.2|m|ftin|sp=us}}. ''Amiral Aube'' had a [[draft (ship)|draft]] of {{convert|7.7|m|ftin|sp=us}}&lt;ref name=s2&gt;Silverstone, p. 80&lt;/ref&gt; and displaced {{convert|10014|t|LT|sp=us}}.&lt;ref name=g1/&gt;
+
+The ship had three [[propeller shaft]]s, each powered by one [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engine]], which were rated at a total of {{convert|20500|ihp|lk=in}}. Twenty-four [[Belleville boiler|Belleville water-tube boilers]] provided steam for her engines. She had a designed speed of {{convert|21.5|kn|lk=in}}.&lt;ref name=s2/&gt; She carried up to {{convert|1590|LT|t}} of coal&lt;ref name=g1/&gt; and could steam for {{convert|12000|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=s2/&gt;
+
+''Amiral Aube''{{'}}s main armament consisted of two {{convert|194|mm|adj=on|1|sp=us}} guns were mounted in single [[gun turret]]s fore and aft. Her intermediate armament was eight [[Canon de 164 mm Modèle 1893]] guns. Four of these were in single gun turrets on the sides of the ship and the other four were in [[casemate]]s. For anti-[[torpedo boat]] defence she carried six {{convert|100|mm|adj=on|1|sp=us}} guns in casemates and eighteen {{convert|47|mm|in|adj=on|sp=us}} [[Hotchkiss gun]]s. She was also armed with five {{convert|450|mm|in|adj=on|1|sp=us}} [[torpedo tube]]s; two of these were submerged and the others were above water.&lt;ref name=g1/&gt;
+
+The waterline [[armored belt]] of the ''Gloire''-class ships was {{convert|170|mm|in|1|sp=us}} thick amidships and tapered to {{convert|106|mm|in|1|sp=us}} towards the bow and stern. Above the main belt was a thinner [[strake]] of armor, {{convert|127|mm|in|0|sp=us}} thick that also tapered to 106&amp;nbsp;mm at the ends of the ship.&lt;ref name=f6/&gt; The [[conning tower]] had armored sides {{convert|150|mm|in|sp=us|1}} thick. The main gun turrets were protected by {{convert|173|mm|in|1|sp=us}}&lt;ref name=s2/&gt; of armor and the intermediate turrets by {{convert|120|mm|in|1|sp=us}}. The flat part of the lower armored deck was {{convert|45|mm|in|1|sp=us}}, but increased to {{convert|64|mm|in|1|sp=us}} as it sloped down to the sides of the ship.&lt;ref name=f6&gt;French Armored Cruiser Sully, p. 326&lt;/ref&gt;
+
+==Service history==
+''Amiral Aube'' was laid down at the [[Chantiers de Penhoët]] shipyard in [[Saint-Nazaire]] on 24 May 1899&lt;ref name=s7&gt;Silverstone, p. 87&lt;/ref&gt; and was launched on 9 May 1902.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Thursday |date=20 March 1902 |page_number=10 |issue=36720| }}&lt;/ref&gt; The ship was completed on 17 April 1904. When World War I began, the cruiser was assigned to the Training Squadron which reinforced the 2nd Light Squadron at [[Brest, France|Brest]].&lt;ref&gt;Moulin&lt;/ref&gt; She patrolled the English Channel for the rest of 1914, before going to the Eastern Mediterranean the following year. In March 1918, ''Amiral Aube'' was sent to North Russia to support the Allied intervention there.&lt;ref&gt;Kennan, p. 50&lt;/ref&gt; She was placed in reserve in 1918, stricken on 4 April 1922 and sold for scrap on 15 September.&lt;ref name=s7/&gt;
+
+== Notes ==
+{{Reflist|2}}
+
+==References==
+*{{cite journal|year=1968|title=French Armored Cruiser Sully|journal=Warship International|publisher=Naval Records Club|location=Toledo, Ohio|volume=V|issue=4|pages=324–26|issn=0043-0374}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor=Gardiner, Robert |publisher=Conway Maritime Press|location=Greenwich, UK|date=1979|isbn=0-8317-0302-4}}
+*{{cite book|last=Kennan|first=George F.|authorlink=George F. Kennan|title=The Decision to Intervene: The Prelude to Allied Intervention in the Bolshevik Revolution|year=1958|publisher=Princeton University Press|location=Princeton, New Jersey}}
+*{{cite book|last=Moulin|first=Jean|editor=O'Hara, Vincent|title=To Crown the Waves: The Great Navies of the First World War|year=2013|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-61251-269-3|chapter=France: La Marine Nationale}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+==External links==
+{{Commons category|French cruiser Amiral Aube}}
+* [http://www.cityofart.net/bship/french_armor.html#gloire Later French Armored Cruisers, 1902-1911]
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Gloire class cruiser}}
+
+{{DEFAULTSORT:Amiral Aube}}
+[[Category:1902 ships]]
+[[Category:Gloire-class cruisers]]</text>
+      <sha1>pjm603gp076yx1qerh3ks6mbo2oz2ot</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,210 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German destroyer Z5 Paul Jacobi</title>
+    <ns>0</ns>
+    <id>31356965</id>
+    <revision>
+      <id>734303279</id>
+      <parentid>734287877</parentid>
+      <timestamp>2016-08-13T11:52:52Z</timestamp>
+      <contributor>
+        <username>Sturmvogel 66</username>
+        <id>5808430</id>
+      </contributor>
+      <comment>Reverted to revision 697784750 by [[Special:Contributions/Sturmvogel 66|Sturmvogel 66]] ([[User talk:Sturmvogel 66|talk]]): Incorrect changes. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22303">{{Good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Paul Jakobi.jpg|300px]]
+|Ship caption=Z5 ''Paul Jacobi'', c. 1938
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''Z5 Paul Jacobi''
+|Ship namesake=[[Paul Jacobi]]
+|Ship ordered=9 January 1935
+|Ship awarded=
+|Ship builder=[[Deutsche Schiff- und Maschinenbau AG|DeSchiMAG]], [[Bremen]]
+|Ship original cost=
+|Ship yard number=W899
+|Ship way number=
+|Ship laid down=15 July 1935
+|Ship launched=24 March 1936
+|Ship sponsor=
+|Ship christened=
+|Ship completed=29 June 1937
+|Ship commissioned=
+|Ship decommissioned=7 May 1945
+|Ship motto=
+|Ship nickname=
+|Ship captured=7 May 1945
+|Ship fate=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[France]]
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Desaix'', 4 February 1946
+|Ship namesake=[[Louis Desaix]]
+|Ship acquired=4 February 1946
+|Ship in service=September 1946
+|Ship out of service=January 1949
+|Ship renamed=''Q02'', 17 February 1954
+|Ship reclassified=
+|Ship struck=17 February 1954
+|Ship nickname=
+|Ship fate=Sold for [[ship breaking|scrap]], June 1954
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass2-|Type 1934A|destroyer}}
+|Ship displacement=*{{convert|2171|LT|t}} ([[Displacement (ship)#Standard displacement|standard]])
+*{{convert|3110|LT|t}} ([[deep load]])
+|Ship length=*{{convert|119|m|ftin|abbr=on}} [[o/a]]
+*{{convert|114|m|ftin|abbr=on}} [[Length at the waterline|w/l]]
+|Ship beam= {{convert|11.30|m|ftin|abbr=on}}
+|Ship draft= {{convert|4.23|m|ftin|abbr=on}}
+|Ship propulsion=2 shafts, 2 × geared [[steam turbine]]s
+|Ship speed= {{convert|36|kn|lk=in}}
+|Ship range= {{convert|1530|nmi|abbr=on|lk=in}} at {{convert|19|kn}}
+|Ship power=*{{convert|70000|PS|kW shp|lk=on|abbr=on}}
+*6 × [[water-tube boiler]]s
+|Ship complement=325
+|Ship armament=*5 × single [[12.7 cm SK C/34 naval gun|{{convert|12.7|cm|in|0|abbr=on}}]] guns
+*2 × twin [[3.7 cm SK C/30|{{convert|3.7|cm|in|abbr=on|1}}]] [[AA gun]]s
+*6 × single [[3.7 cm SK C/30|{{convert|2|cm|in|abbr=on|1}} AA guns]]
+*2 × quadruple {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s
+*60 [[naval mine|mines]]
+*32–64 [[depth charge]]s, 4 throwers and 6 individual racks
+}}
+|}
+'''Z5 ''Paul Jacobi''''' was a {{sclass2-|Type 1934A|destroyer}} built for the ''[[Kriegsmarine]]'' in the mid-1930s. The ship was being refitted when World War II began on 1 September 1939 and was tasked to inspect neutral shipping for contraband goods in the [[Kattegat]] until early 1940. She participated in the early stages of the [[Norwegian Campaign]] by transporting troops to the [[Trondheim]] area in early April 1940 and was transferred to France later that year where she made several attacks on British shipping. ''Paul Jacobi'' spent most of 1941 under repair and returned to France in early 1942 to successfully escort two German [[battleship]]s and a [[heavy cruiser]] home through the [[English Channel]] (the [[Channel Dash]]). The following month, the ship helped to escort another German battleship to northern Norway and returned in May to begin another lengthy refit.
+
+''Paul Jacobi'' spent most of 1943 inactive in the Arctic before returning to Germany in September for another refit. She was badly damaged by [[Allies of World War 2|Allied]] air attacks on Kiel and was not operational again until late 1944. She spent most of the rest of the war escorting ships as the Germans [[Evacuation of East Prussia|evacuated East Prussia]] and bombarding Soviet forces. The ship was captured by the Allies in May 1945 and spent the rest of the year under British control as the Allies decided how to dispose of the captured German ships.
+
+''Paul Jacobi'' was ultimately allotted to France in early 1946 and renamed ''Desaix''. She became operational later that year, but her service with the French Navy was fairly brief, with only cruises to French colonies in Africa during 1947 of note before she was [[Ship decommissioning|paid off]] in late 1948 and placed in [[Reserve fleet|reserve]] in early 1949. The ship was used as a source of spare parts of the other ex-German ships in French service until she was condemned and sold for [[ship breaking|scrap]] in 1954.
+
+==Design and description==
+''Z5 Paul Jacobi'' had an [[length overall|overall length]] of {{convert|119|m|ftin|sp=us}} and was {{convert|114|m|ftin|sp=us}} [[Length at the waterline|long at the waterline]]. At some point before September 1939, her [[stem (ship)|stem]] was lengthened, which increased her overall length to {{convert|120|m|ftin|sp=us}}. The ship had a [[beam (nautical)|beam]] of {{convert|11.30|m|ftin|sp=us}}, and a maximum [[draft (hull)|draft]] of {{convert|4.23|m|ftin|sp=us}}. She displaced {{convert|2171|LT|t}} at [[Displacement (ship)#Standard displacement|standard load]] and {{convert|3110|LT|t}} at [[deep load]]. The two Wagner geared [[steam turbine]] sets, each driving one [[propeller shaft]], were designed to produce {{convert|70000|PS|kW shp|lk=on}} using steam provided by six high-pressure Wagner [[boiler]]s. The ship had a designed speed of {{convert|36|kn|link=on}}, but her maximum speed was {{convert|38.7|kn}}.&lt;ref name=g9&gt;Gröner, p. 199&lt;/ref&gt; ''Paul Jacobi'' carried a maximum of {{convert|752|t|LT|0|sp=us}} of [[fuel oil]] which was intended to give a range of {{convert|4400|nmi|lk=in}} at a speed of {{convert|19|kn}}, but the ship proved top-heavy in service and 30% of the fuel had to be retained as [[Sailing ballast|ballast]] low in the ship.&lt;ref&gt;Whitley, p. 18&lt;/ref&gt; The effective range proved to be only {{convert|1530|nmi|abbr=on}} at 19 knots.&lt;ref&gt;Koop &amp; Schmolke, p. 26&lt;/ref&gt; The crew numbered 10 officers and 315 enlisted men, plus an additional four officers and 19 enlisted men if serving as a [[flotilla]] [[flagship]].&lt;ref name=g9/&gt;
+
+The ship carried five [[12.7 cm SK C/34 naval gun|{{convert|12.7|cm|in|0|adj=on|sp=us}} SK C/34 guns]] in single mounts with [[gun shield]]s, two each [[superfire|superimposed]], fore and aft. The fifth gun was carried on top of the aft [[superstructure]]. Her [[Anti-aircraft warfare|anti-aircraft]] armament consisted of four [[3.7 cm SK C/30|{{convert|3.7|cm|in|adj=on|1|sp=us}} SK C/30]] guns in two twin mounts abreast the rear [[funnel (ship)|funnel]] and six [[2 cm FlaK 30/38/Flakvierling|{{convert|2|cm|in|adj=on|1|sp=us}} C/30]] guns in single mounts. ''Paul Jacobi'' carried eight above-water {{convert|53.3|cm|in|adj=on|sp=us|0}} [[torpedo tube]]s in two power-operated mounts. A pair of reload torpedoes were provided for each mount.&lt;ref name=g9/&gt;&lt;ref&gt;Whitley, p. 68&lt;/ref&gt; Four [[depth charge]] throwers were mounted on the sides of the rear deckhouse and they were supplemented by six racks for individual depth charges on the sides of the stern. Enough depth charges were carried for either two or four patterns of 16 charges each.&lt;ref&gt;Whitley, p. 215&lt;/ref&gt; Mine rails could be fitted on the rear deck that had a maximum capacity of 60 [[naval mine|mine]]s.&lt;ref name=g9/&gt; A system of passive [[hydrophone]]s designated as 'GHG' (''[[Gruppenhorchgerät]]'') was fitted to detect [[submarine]]s.&lt;ref&gt;Whitley, pp. 71–72&lt;/ref&gt;
+
+An active [[sonar]] system was probably installed by the end of 1940, but it is uncertain when it was actually done. During the war, the ship's light anti-aircraft armament was augmented several times. Improved 2&amp;nbsp;cm C/38 guns replaced the original C/30 guns and three additional guns were added sometime in 1941. The two guns on the aft shelter deck were replaced by a single 2&amp;nbsp;cm quadruple ''Flakvierling'' mount, probably during her mid-1942 refit. During 1944–45, ''Paul Jacobi'' was one of the few destroyers to receive the full &quot;Barbara&quot; anti-aircraft refit in which all of her existing 3.7&amp;nbsp;cm and most of her 2&amp;nbsp;cm guns were replaced with improved models in greater numbers. The fifth 12.7&amp;nbsp;cm gun was removed to compensate for the weight of the additional weapons. She retained her ''Flakvierling'' mount and, by the end of the war, the rest of her anti-aircraft armament consisted of four twin and two single [[3.7 cm Flak 18/36/37/43#Flak 43|3.7&amp;nbsp;cm SK M/42]] mounts, four twin and one single 2&amp;nbsp;cm mounts on the forecastle and sides of the [[bridge (nautical)|bridge]].&lt;ref&gt;Whitley, pp. 73–74&lt;/ref&gt;
+
+==Construction and career==
+''Paul Jacobi'', named after [[Paul Jacobi]], was ordered on 9 January 1935 and [[Keel|laid down]] at [[Deutsche Schiff- und Maschinenbau AG|DeSchiMAG]], [[Bremen]] on 15 July 1935 as [[yard number]] W899. She was [[Ship naming and launching|launched]] on 24 March 1936 and completed on 29 June 1937.&lt;ref&gt;Whitley, p. 204&lt;/ref&gt; The ship participated in the late 1937 naval maneuvers as part of the Second Destroyer Division (''2. Zerstörerdivision'').&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, p. 216&lt;/ref&gt; ''Paul Jacobi'' and her [[sister ship]] {{ship|German destroyer|Z8 Bruno Heinemann||2}} sailed to Norway in April 1938 to test the new [[15 cm TbtsK C/36 naval gun|{{convert|15|cm|sp=us|adj=on}} TbtsK C/36 gun]] planned for later classes of destroyers. ''Bruno Heinemann'' had been fitted with four of the new weapons and they were removed after gunnery trials off [[Ålesund]] were completed. ''Paul Jacobi'' participated in the August 1938 [[Fleet Review]] as part of the 2nd Destroyer Division and the following fleet exercise. The division accompanied the [[heavy cruiser]] {{ship|German cruiser|Admiral Graf Spee||2}} on her voyage to the Mediterranean in October where they visited [[Vigo]], [[Tangiers]], and [[Ceuta]] before returning home.&lt;ref&gt;Whitley, pp. 79–80&lt;/ref&gt; The destroyer had a lengthy refit at [[Wilhelmshaven]] from February 1939 to 29 September.&lt;ref name=ks1&gt;Koop &amp; Schmolke, p. 82&lt;/ref&gt;
+
+After she finished [[Glossary of nautical terms#W|working up]] on 11 October, ''Paul Jacobi'' was tasked to inspect neutral shipping for contraband goods in the [[Skaggerak]] until February 1940 between visits to the shipyard.&lt;ref name=ks1/&gt; The ship was allocated to Group 2 for the Norwegian portion of [[Operation Weserübung]]. The group's task was to transport the 138th Mountain Infantry Regiment (''Gebirgsjäger-Regiment'' 138) of the [[3rd Mountain Division (Wehrmacht)|3rd Mountain Division]] to seize [[Trondheim]] together with the [[heavy cruiser]] {{ship|German cruiser|Admiral Hipper||2}}. The ships began loading troops on 6 April and set sail the next day.&lt;ref&gt;Whitley, p. 96&lt;/ref&gt; ''Paul Jacobi'' and her sisters [[German destroyer Z8 Bruno Heinemann|''Bruno Heinemann'']] and [[German destroyer Z6 Theodor Riedel|''Theodor Riedel'']] each carried a company of mountain troops tasked to seize the forts defending the entrance to the [[Trondheimsfjord]]. En route the weather was so bad that ''Paul Jacobi'' [[Ship motions|rolled]] so far to port that water flooded the port boiler intakes, temporarily shutting down the port engine, and washing five men overboard. After passing the surprised forts the ships were able to land their troops and capture the forts with little difficulty. All of the destroyers had suffered storm damage en route and were low on fuel because none of the [[oil tanker]]s had arrived yet. ''Admiral Hipper'' was ordered home on 10 April. Fuel was transferred from ''Paul Jacobi'' and ''Bruno Heinemann'' to [[German destroyer Z16 Friedrich Eckoldt|''Friedrich Eckoldt'']], enough to allow her to escort the cruiser home. ''Paul Jacobi'' remained in Trondheim until early May with engine troubles. Her aft torpedo tubes were removed and remounted on a pair of impounded small boats to improve the local defenses.&lt;ref&gt;Haarr, pp. 91, 296–97, 300, 303&lt;/ref&gt; Sometime in 1940–41 the ship was fitted with a FuMO 21 or FuMO 24 [[radar]] set above the [[bridge (nautical)|bridge]].&lt;ref name=g0&gt;Groener, p. 200&lt;/ref&gt;&lt;ref group=&quot;Note&quot;&gt;FuMO—'''''Fu'''nk'''m'''ess'''o'''rtungsgerät''; radio locating device&lt;/ref&gt;
+
+She arrived at Wilhelmshaven on 10 May and spent the next month under repair. ''Paul Jacobi'' returned to Trondheim on 30 June and helped to screen the crippled battleship {{ship|German battleship|Gneisenau||2}} as she returned to [[Kiel]] on 25 July. The ship laid a minefield in the North Sea before she was transferred to the Atlantic Coast of France in mid-September. Now based at [[Brest, France|Brest]] the ship helped to lay a [[minefield]] in [[Falmouth Bay]] during the night of 28/29 September. Five ships totalling only 2,026 GRT were sunk by this minefield.&lt;ref&gt;Whitley, pp. 106–07&lt;/ref&gt; ''Paul Jacobi'' arrived back at Wilhelmshaven to begin a lengthy refit that lasted until October 1941. While departing [[Aarhus]], Denmark for Norway, she fouled a buoy that damaged her port propeller and had to return to Kiel for repairs that took until 24 November. After loading [[naval mine|mines]] at Aarhus, she had a boiler breakdown and had to return to Germany. While docked at Wilhelmshaven on 29 December, ''Paul Jacobi'' was slightly damaged by bomb splinters that also killed three crewmen.&lt;ref name=ks3&gt;Koop &amp; Schmolke, p. 83&lt;/ref&gt;
+
+She escorted the battleship {{ship|German battleship|Tirpitz||2}} for several days in mid-January 1942 as the battleship sailed from the Baltic to Trondheim.&lt;ref&gt;Rohwer, p. 135&lt;/ref&gt; ''Paul Jacobi'', together with the rest of the 5th Destroyer Flotilla, sailed from Kiel on 24 January for France as part of the preparations for the [[Channel Dash]].&lt;ref&gt;Whitley, p. 117&lt;/ref&gt; On the evening of 25 January, ''Z8 Bruno Heinemann'' struck two mines laid by {{HMS|Plover|M26|6}}&lt;ref&gt;Rohwer, pp. 138–39&lt;/ref&gt; off the Belgian coast and sank. ''Paul Jacobi'' rescued 34 of the survivors and proceeded to Le Havre to put them ashore before reaching Brest on the 26th. The German ships departed Brest on 11 February, totally surprising the British. ''Paul Jacobi'' helped to repel an attack by five British destroyers and evaded a series of aerial attacks without damage.&lt;ref&gt;Whitley, pp. 117–20&lt;/ref&gt; Shortly afterwards, the ship joined four other destroyers in escorting ''Prinz Eugen'' and the heavy cruiser {{ship|German cruiser|Admiral Scheer||2}} to Trondheim. Heavy weather forced ''Paul Jacobi'' and two other destroyers to return to port before reaching Trondheim and ''Prinz Eugen'' was badly damaged by a British submarine after their separation.&lt;ref name=ks3/&gt; On 6 March, the battleship {{ship|German battleship|Tirpitz||2}}, escorted by ''Paul Jacobi'' and three other destroyers, [[sortie]]d to attack the returning convoy [[Convoy QP 8|QP&amp;nbsp;8]] and the Russia-bound [[Convoy PQ 12|PQ&amp;nbsp;12]] as part of [[Operation Sportpalast]] (Sports Palace), but the ship was ordered back to port that evening.&lt;ref&gt;Whitley, pp. 133–34&lt;/ref&gt; Two months later, in Operation Zauberflote (Magic Flute), ''Paul Jacobi'', the destroyer {{ship|German destroyer|Z25||2}}, and two [[torpedo boat]]s escorted the badly damaged [[heavy cruiser]] {{ship|German cruiser|Prinz Eugen||2}} from Trondheim to Kiel from 16–18 May. Two days after her arrival, the destroyer began a lengthy refit that lasted until December.&lt;ref name=ks3/&gt;
+
+On 9 January 1943, together with two other destroyers, she escorted ''Scharnhorst'' and ''Prinz Eugen'' as they attempted to return to Norway from Gotenhafen. The ships were spotted en route two days later by an aircraft from the [[Royal Air Force]] and the attempt was abandoned as the element of surprise was lost. The following month, ''Paul Jacobi'' made her way independently to [[Bogen, Evenes|Bogen Bay]], Norway. She screened the battleships {{ship|German battleship|Tirpitz||2}} and ''Scharnhorst'', as well as ''Lützow'' to the [[Altafjord]], closer to the Allied convoy routes to Russia, in mid-March. Two weeks later, the ship, her sister {{ship|German destroyer|Z6 Theodor Riedel||2}}, and the destroyer {{ship|German destroyer|Z20 Karl Galster||2}} sailed for [[Jan Mayen]] island on 31 March to rendezvous with the blockade runner, {{MV|Regensburg|1928|6}}. They searched for several days before increasingly heavy weather forced them to return to port with storm damage. Unbeknownst to the Germans, ''Regensburg'' had been intercepted and sunk by a British cruiser on 30 March. ''Paul Jacobi'' escorted ''Lützow'' back to Kiel in September and then began yet another lengthy refit on 30 September.&lt;ref&gt;Koop &amp; Schmolke, p. 84; Whitley, pp. 164–65&lt;/ref&gt;
+
+The ship was badly damaged during an air raid on Kiel on 13 December. One bomb struck the forecastle and started a severe fire while four others landed inside the dry dock itself, riddling her with splinters and sinking the ship. ''Paul Jacobi'' was not [[Marine salvage|refloated]] until April and the refit itself was not completed until November.&lt;ref&gt;Whitley, p. 169&lt;/ref&gt; The ship had to be fitted with a new bow section, new radars, and a new goalpost-shaped [[foremast]] to allow the radar antenna to rotate a full 360°.&lt;ref name=ks4&gt;Koop &amp; Schmolke, p. 84&lt;/ref&gt; After being damaged again by bomb splinters during an air raid on 18 July,&lt;ref&gt;Rohwer, p. 343&lt;/ref&gt; she was towed to [[Swinemünde]] to be completed. ''Paul Jacobi'' was declared operational on 13 November and she escorted the [[hospital ship]] {{SS|General von Steuben}} from [[Gotenhafen]] to Swinemünde. The destroyer's new 3.7&amp;nbsp;cm guns were installed on 20 December. While conducting torpedo training off the Swedish island of Gotland on 14 January 1945, one of her torpedoes circled back around and hit ''Paul Jacobi'', inflicting only minor damage. She was back in action by the 19th, escorting ships in the eastern Baltic Sea. During one of these missions, the ship was accidentally [[naval ram|rammed]] in the stern by the [[Cargo ship|freighter]] {{SS|Helga Schröder}}. Repairs took until 27 February to complete, and the Kriegsmarine took advantage of the opportunity to add more AA guns.&lt;ref name=ks4/&gt;
+
+''Paul Jacobi'' bombarded Soviet forces on 6–9 March and alternated between bombardment and escort tasks for the rest of the war as the Germans [[Evacuation of East Prussia|evacuated East Prussia]] in the face of advancing Soviet armies. On 2 May, her gyrocompass was sabotaged by some of her crew to prevent the ship from screening the last few refugee convoys.&lt;ref name=ks4/&gt; Three men were convicted by a [[drumhead court-martial]] and sentenced to death by [[Rear Admiral]] (''Konteradmiral'') [[Bernhard Rogge]].&lt;ref&gt;{{Cite news|journal=Der Spiegel |volume=43|year=1965 |title=So etwas unterschreibt man nicht einfach|url=http://www.spiegel.de/spiegel/print/d-46274654.html |language=German|accessdate=3 November 2015}}&lt;/ref&gt; ''Paul Jacobi'' was [[Ship decommissioning|decommissioned]] five days later at [[Flensburg]] and sailed to Wilhelmshaven under British control on 21 May to have her fate determined.&lt;ref name=ks4/&gt; France was initially denied any of the captured ships, but eventually received ''Paul Jacobi'' and three other destroyers. She arrived in Cherbourg on 15 January 1946 and was turned over to the French on 4 February.&lt;ref&gt;Gröner, p. 200; Whitley, p. 196&lt;/ref&gt;
+
+Renamed ''Desaix'' that same day, after General [[Louis Desaix]], the ship was assigned to the 1st Division of Large Destroyers (''contre-torpilleurs'') and conducted trials in September. In March–June 1947, she formed part of the escort for the battleship {{ship|French battleship|Richelieu||2}} as the [[President of France]], [[Vincent Auriol]], visited [[French West Africa|West]] and [[French North Africa|North Africa]]. ''Desaix'' visited North Africa by herself later that year. She took part in the spring naval maneuvers in 1948 and in a naval review for Auriol off [[Brest, France|Brest]] on 30 May. The ship was present in [[Saint-Malo]] during the commemoration of the centenary of the death of [[François-René de Chateaubriand]] and she visited [[Bordeaux]] before returning to Cherbourg on 4 November. ''Desaix'' was decommissioned before the end of the year and reduced to reserve in January 1949. She was used as a source of spare parts until she was condemned on 17 February 1954. Her [[hulk (ship)|hulk]] was redesignated as Q02 and she was sold for scrap in June. She was towed to [[Rouen]] for demolition.&lt;ref&gt;Whitley, pp. 196, 198&lt;/ref&gt;
+
+==Footnotes==
+{{reflist|group=&quot;Note&quot;}}
+
+==Notes==
+{{Reflist|20em}}
+
+==References==
+*{{Cite book |last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|location=Annapolis, Maryland|volume=Volume 1: Major Surface Warships|publisher=Naval Institute Press|isbn=0-87021-790-9}}
+* {{cite book|last=Haarr|first=Geirr H.|title=The German Invasion of Norway, April 1940|year=2009|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-310-9}}
+*{{Cite book
+  |last1=Hildebrand
+  |first1=Hans H.
+  |last2=Röhr
+  |first2=Albert
+  |last3=Steinmetz
+  |first3=Hans-Otto
+  |title=Die Deutschen Kriegsschiffe. Biographien - ein Spiegel der Marinegeschichte von 1815 bis zur Gegenwart. (10 Bände)
+  |language=German
+  |location=Herford, Germany
+  |publisher=Mundus Verlag
+  |year=1990
+  |oclc=613706047
+  |volume=6|lastauthoramp=y
+}}
+* {{cite book |last1=Koop |first1=Gerhard|last2=Schmolke |first2=Klaus-Peter|title=German Destroyers of World War II |year=2003 |publisher=Naval Institute Press |location=Annapolis, Maryland |isbn=1-59114-307-1|last-author-amp=yes}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939–1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite book|last=Whitley|first=M. J.|title=German Destroyers of World War Two|publisher=Naval Institute Press|date=1991|isbn=1-55750-302-8|location=Annapolis, Maryland}}
+
+==External links==
+* [http://www.german-navy.de/kriegsmarine/ships/destroyer/index.html Kriegsmarine destroyers]
+
+{{Type 1934 destroyers}}
+{{Subject bar
+| portal1=Military history of France
+| portal2=Military of Germany
+| portal3=Nautical
+| portal4=World War II
+| commons=y
+| commons-search=Category:Zerstörer 1934
+}}
+
+{{DEFAULTSORT:Z05 Paul Jacobi}}
+[[Category:1936 ships]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:Type 1934 destroyers]]
+[[Category:Destroyers of the French Navy]]</text>
+      <sha1>9h0olzxzhm6rwzk0ibfon5fnao0zrd5</sha1>
+    </revision>
+  </page>
+</mediawiki>

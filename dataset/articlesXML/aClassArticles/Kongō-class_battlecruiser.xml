@@ -1,0 +1,342 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kongō-class battlecruiser</title>
+    <ns>0</ns>
+    <id>3636947</id>
+    <revision>
+      <id>740820950</id>
+      <parentid>733696013</parentid>
+      <timestamp>2016-09-23T14:12:53Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: WWIIJapaneseShips → WWII Japanese Ships using [[Project:AWB|AWB]] (12084)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43708">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Haruna at Yokosuka 1916.jpg|300px]]
+|Ship caption=''Haruna'' at [[Yokosuka]], 11 September 1916
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators={{navy|Empire of Japan}}
+|Class before=
+|Class after={{sclass-|Amagi|battlecruiser|4}}
+|Built range=1911–15
+|In commission range=1913–45
+|Total ships planned=4
+|Total ships completed=4
+|Total ships lost=3
+|Total ships scrapped=1
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(''Haruna'' as built)
+|Ship type=[[Battlecruiser]]
+|Ship displacement={{convert|27384|t|LT}}
+|Ship length={{convert|214.58|m|ftin|abbr=on}}
+|Ship beam={{convert|28.04|m|ftin|abbr=on}}
+|Ship draft= {{convert|8.22|m|ftin|abbr=on}}
+|Ship power=*{{convert|64000|shp|lk=in|abbr=on}}
+*36 × [[Yarrow boiler]]s
+|Ship propulsion=*4 shafts
+*2 × [[steam turbine]] sets 
+|Ship speed={{convert|27.5|kn|lk=in}}
+|Ship range={{convert|8000|nmi|lk=in|abbr=on}} at {{convert|14|kn}}
+|Ship complement=1,193
+|Ship armament=*4 × twin [[Vickers 14 inch/45 naval gun|356 mm guns]] (Vickers 14 inch/45 naval gun)
+*16 × single [[15 cm/50 41st Year Type|152 mm guns]]
+*4 × single [[8&amp;nbsp;cm/40 3rd Year Type naval gun|76 mm]] [[AA gun]]s 
+*8 × {{convert|533|mm|in|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|203|-|76|mm|in|abbr=on|0}}
+*[[Deck (ship)|Deck]]: {{convert|25|mm|in|abbr=on|0}}
+*[[Gun turret]]s: {{convert|229|-|254|mm|in|abbr=on|1}}
+*[[Barbette]]s: {{convert|254|-|76|mm|in|abbr=on|0}}
+*[[Conning tower]]: {{convert|229|mm|in|abbr=on|1}}?
+
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(''Haruna'', 1945)
+|Ship type=[[Fast battleship]]
+|Ship displacement={{convert|32156|t|LT}} ([[Standard displacement#Standard displacement|standard]])
+|Ship length={{convert|219.61|m|ftin|abbr=on}} 
+|Ship beam={{convert|33.1|m|ftin|abbr=on}}
+|Ship power=*{{convert|136000|shp|abbr=on}}
+*11 × water-tube boilers
+|Ship propulsion=4 × steam turbines 
+|Ship speed={{convert|29|kn}}
+|Ship range={{convert|10000|nmi|abbr=on}} at {{convert|18|kn}}
+|Ship complement=1,500+
+|Ship sensors=*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]]
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 13]] [[early warning radar]]
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 22]] surface search radar 
+|Ship armament=*4 × twin 356 mm guns
+*8 × single 152 mm guns
+*6 × twin {{convert|127|mm|in|0|abbr=on}} [[dual-purpose gun]]s
+*118 × {{convert|25|mm|in|0|abbr=on}} AA guns 
+*30 × [[depth charge]]s
+|Ship armor=*Deck: {{convert|120|-|80|mm|in|abbr=on|1}}
+*Barbettes: {{convert|343|mm|in|abbr=on|1}} 
+|Ship aircraft=3 × [[floatplane]]s
+|Ship aircraft facilities=1 × [[aircraft catapult|catapult]]
+|Ship notes=
+}}
+|}
+The {{nihongo|'''''Kongō''-class''' battlecruiser|金剛型巡洋戦艦|Kongō-gata jun'yōsenkan}} was a [[Ship class|class]] of four [[battlecruiser]]s built for the [[Imperial Japanese Navy]] (IJN) immediately before [[World War I]]. Designed by British [[Naval architecture|naval architect]] [[George Thurston]], the [[Japanese battleship Kongō|lead ship of the class]] was the last Japanese [[capital ship]] constructed outside Japan, by [[Vickers]].&lt;ref name=kongoclass/&gt;
+
+During the late 1920s, all but ''Hiei'' were reconstructed and reclassified as battleships. After the signing of the [[London Naval Treaty]] in 1930, ''Hiei'' was reconfigured as a [[training ship]] to avoid being [[ship breaking|scrapped]]. Following Japan's withdrawal from the [[London Naval Treaty]], all four underwent a massive second reconstruction in the late 1930s. Following the completion of these modifications, which increased top speeds to over {{convert|30|kn|lk=in}}, all four were reclassified as [[fast battleship]]s.
+
+The ''Kongō''-class battleships were the most active capital ships of the Japanese Navy during [[World War II]], participating in most major engagements of the war. ''Hiei'' and ''Kirishima'' acted as escorts during the [[attack on Pearl Harbor]], while ''Kongō'' and ''Haruna'' supported the [[Battle of Singapore|invasion of Singapore]]. All four participated in the battles of [[Battle of Midway|Midway]] and [[Guadalcanal Campaign|Guadalcanal]]. ''Hiei'' and ''Kirishima'' were both lost during the [[Naval Battle of Guadalcanal]] in November 1942, while ''Haruna'' and ''Kongō'' jointly bombarded [[Honiara International Airport|Henderson Field]] on Guadalcanal. The two remaining Kongō-class battleships spent most of 1943 shuttling between Japanese naval bases before participating in the major naval campaigns of 1944. ''Haruna'' and ''Kongō'' engaged American surface vessels during the [[Battle of Leyte Gulf]]. ''Kongō'' was torpedoed by [[USS Sealion (SS-315)|USS ''Sealion'']] in November 1944, while ''Haruna'' was sunk at her [[Mooring (watercraft)|moorings]] by air attack in [[Kure Naval Base]] in late July 1945 and subsequently scrapped.
+
+==Design==
+The design of the ''Kongō''-class battlecruisers came about as a result of the IJN's modernization programs, as well as the perceived need to compete with the British [[Royal Navy]].&lt;ref name=cfrecordkongo/&gt;
+
+In March 1908, the Royal Navy launched {{HMS|Invincible|1907|6}} at [[Newcastle upon Tyne]]. Armed with eight {{convert|12|in|cm|adj=on|0}} main guns, ''Invincible'' rendered all current&amp;mdash;and designed&amp;mdash;Japanese capital ships obsolete by comparison.&lt;ref name=kongoclass/&gt; In 1911, the [[Diet of Japan|Japanese Diet]] passed the Emergency Naval Expansion Bill, authorizing the construction of one battleship ({{ship|Japanese battleship|Fusō||2}}) and four armoured cruisers, to be designed by British [[Naval architecture|naval architect]] [[George Thurston]]&lt;!--did the bill call for Thurston?  if not, how he came to be selected might be included--&gt;.&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Conway's&quot;&gt;Gardiner and Gray (1980), p. 234&lt;/ref&gt; In his design of the class, Thurston relied on many techniques that would eventually be used by the British on the {{sclass-|Tiger|battlecruiser|4}}.&lt;ref name=kongoclass/&gt;
+
+Under the terms of the contract signed with [[Vickers]] in November 1910, one member of the ''Kongō'' class&amp;mdash;the [[lead ship]] ''Kongō''&amp;mdash;was to be built in Britain and Vickers were to maximize technology transfer to Japan. The design of the ships was from Vickers Design 472C (corresponding to the Japanese design designation B-46). The original design featured eight or ten 12-inch (304.8&amp;nbsp;mm) 50-caliber guns, sixteen {{convert|6|in|mm|adj=on|0}} guns, and eight {{convert|21|in|mm|adj=on|0}} [[torpedo tube]]s. 
+Cdr Katô Hirohasu pushed for the adoption of a new [[Vickers 14 inch/45 naval gun|{{convert|14|in|mm|adj=on}}/45]] [[caliber (artillery)|calibre]] gun that was currently under development. After trials of the new gun, which were witnessed by both the Japanese Navy and Royal Navy, the Japanese made the decision on 29 Nov 1911 to use the new gun despite the keel having already been laid down on the 17 January 1911, and the resulting need to quickly make a large number of alternations to the design, so as to not prolong the construction.&lt;ref&gt;Lengerer, p. 142&lt;/ref&gt;
+
+The final design of the battlecruisers resulted in an improved version of the {{sclass-|Lion|battlecruiser|4}}, displacing an estimated 27,940&amp;nbsp;tonnes (27,500&amp;nbsp;long tons).&lt;ref name=jackson-03-48&gt;Jackson (2000), p. 48&lt;/ref&gt; It also called for eight 14-inch guns mounted in four twin [[gun turret]]s (two forward and two aft) with a top speed of {{convert|27.5|kn}}.&lt;ref name=&quot;jackson-08-27&quot;&gt;Jackson (2008), p. 27&lt;/ref&gt;
+
+To ensure transfer of the latest design knowledge to Japan more than 100 technical specialists were sent on 18 months secondments from Japan to Vickers during the construction phase of ''Kongō''. If superintendents, supervisors and trial witnesses are also included then approximately 200 Japanese spent time in Britain.&lt;ref&gt;Lengerer, p. 144&lt;/ref&gt;
+
+==Description==
+The ships had a length of {{convert|214.58|m|ftin|sp=us}} [[length overall|overall]] and a [[beam (nautical)|beam]] of {{convert|28.04|m|ftin|sp=us}}. They had a [[draft (ship)|draft]] of {{convert|8.22|m|ftin|sp=us}} and [[displacement (ship)|displaced]] {{convert|27384|t|LT|sp=us}} at normal load.&lt;ref name=l5/&gt;
+
+===Propulsion===
+The ''Kongō''-class ships had two sets of [[Parsons Marine Steam Turbine Company|Parsons]] direct-drive [[steam turbine]]s, except for ''Haruna''{{'}}s [[John Brown and Company|Brown-Curtis]] turbines, each of which drove two propeller shafts. The high-pressure turbines drove the wing shafts while the low-pressure turbines drove the inner shafts. The turbines were arranged in two compartments, separated by a centerline longitudinal [[Bulkhead (partition)|Bulkhead]]; both compartments were situated between turrets No. 3 and 4. They were designed to produce a total of {{convert|65000|shp|lk=in}}, using steam provided by 36 [[Yarrow boiler|Yarrow]] or Kampon [[water-tube boiler]]s, with working pressures ranging from {{convert|17.1|to|19.2|atm|kPa psi|0|abbr=on|lk=on}}.&lt;ref&gt;Lengerer, pp. 156&lt;/ref&gt; The boilers, arranged in eight compartments, were mixed-firing with [[fuel oil]] sprayed onto the coal for extra power. The ships had a stowage capacity of {{convert|4200|LT|t|abbr=on}} of coal and {{convert|1000|LT|t|abbr=on}} of oil, giving them a range of {{convert|8000|nmi|lk=in}} at a speed of {{convert|14|kn}}.&lt;ref&gt;Whitley, pp. 178, 180&lt;/ref&gt; The battlecruisers were designed to reach a speed of {{convert|27.5|kn}} and all of them exceeded that speed on their [[sea trial]]s. ''Kongō'' and ''Hiei'' attained {{convert|27.54|kn}} and {{convert|27.72|kn}} with {{convert|78275|shp|abbr=on}} and {{convert|76127|shp|abbr=on}}, respectively.&lt;ref&gt;Lengerer, p. 152&lt;/ref&gt;
+
+In their first reconstruction during the late 1920s, the ships were reboilered with 10, 11 (''Hiei'') or 16 (''Haruna'') Kampon boilers and their fuel stowage was rearranged to accommodate {{convert|2661|LT|t|abbr=on}} of coal and {{convert|3292|LT|t|abbr=on}} of oil. This increased their range to {{convert|8930|nmi|lk=in}} at 14 knots and allowed the fore [[funnel (ship)|funnel]] to be removed, which greatly decreased smoke interference with the [[bridge (nautical)|bridge]] and [[fire-control system]]s. Coupled with the addition of external torpedo bulges, this reduced their speed to {{convert|26|kn}} and caused the IJN to reclassify them as battleships.&lt;ref&gt;Wiper, p. 71&lt;/ref&gt;&lt;ref name=j5/&gt; During their 1930s reconstructions into fast battleships, the existing boilers were removed and replaced with eleven oil-fired Kampon boilers.&lt;ref name=cfrecordharuna/&gt; These upgraded boilers gave the ''Kongō'' and her [[sister ship]]s much greater power, with the class capable of speeds exceeding {{convert|30.5|kn}}. This made them the only Japanese battleships fully suited to operations alongside fast carriers.&lt;ref name=&quot;jackson-08-27&quot;/&gt;
+
+===Armament===
+[[File:Haruna 14 inch gun installation 1914.jpg|thumb|right|A 14-inch gun being installed aboard ''Haruna'', October 1914]]
+The primary armament of the ''Kongō'' class consisted of eight 45-[[caliber (artillery)|calibre]] [[Vickers 14 inch/45 naval gun|14-inch]] guns, mounted in four [[superfire|superfiring]] twin-gun turrets.&lt;ref name=kongoclass/&gt; The turrets had an elevation capability of &amp;minus;5/+20 degrees except in ''Kongō'' whose turrets had a maximum elevation capability of +25 degrees. The shells could be loaded at any angle&lt;ref name=l7&gt;Lengerer, p. 157&lt;/ref&gt; and the guns had a firing cycle of 30–40 seconds.&lt;ref name=c3&gt;Campbell, p. 183&lt;/ref&gt; These guns and their turrets underwent multiple modernizations throughout the ships' careers. During the first reconstruction of the class during the 1920s, the elevation of the main guns was increased to a maximum of +33 degrees. The recoil mechanism of the guns was also changed from a hydraulic to pneumatic system, which allowed for a faster firing cycle of the main guns.&lt;ref&gt;Campbell, p. 184&lt;/ref&gt;
+
+By World War II, the guns used Type 91 [[Armour-piercing capped#Armor-piercing|armor-piercing, capped shells]]. Each of these shells weighed {{convert|673.5|kg|lb|sp=us}} and had a [[muzzle velocity]] of {{convert|775|m/s|ft/s|sp=us}}. They had a maximum range of {{convert|25000|m|yd|sp=us}} at +20 degrees of elevation&lt;ref name=c3/&gt; and {{convert|35450|m|yd|sp=us}} at +43 degrees after modernisation.&lt;ref name=skulski19&gt;Skulski, p. 19&lt;/ref&gt; Also available was a {{convert|625|kg|lb|sp=us|adj=on}} [[Armour-piercing capped#High-explosive|high-explosive shell]] that had a muzzle velocity of {{convert|805|m/s|ft/s|sp=us}}. A special Type 3 ''Sanshikidan'' incendiary [[shrapnel shell]] was developed in the 1930s for anti-aircraft use.&lt;ref name=c3/&gt;
+
+As built, the ''Kongō'' class was fitted with a secondary armament of sixteen 50-caliber [[15 cm/50 41st Year Type|six-inch guns]] mounted in single [[casemate]]s along the sides of the hull at the level of the upper deck. Eight guns were mounted per side, and each had an arc of fire of 130 degrees and a maximum elevation of +15 degrees. Each gun could fire a {{convert|45.36|kg|lb|adj=on|0}} [[Explosive material#High explosives|high explosive]] projectile a maximum distance of {{convert|22970|yd|m}} at a rate of between four and six shots per minute. During their reconstruction in the 1930s, the maximum elevation of the guns was increased to +30 degrees, which increased their maximum range by approximately {{convert|900|m|yd}}.&lt;ref name=skulski20&gt;Skulski, p. 20&lt;/ref&gt; During their second reconstruction, two of these guns were removed from each ship, bringing the total to fourteen six-inch guns.
+
+The ships also mounted four 40-caliber [[8&amp;nbsp;cm/40 3rd Year Type naval gun|76 mm]] [[Anti-aircraft warfare|anti-aircraft (AA)]] guns. The {{convert|76|mm|0|adj=on}} high-angle guns were in single mounts. Each of these guns had a maximum elevation of +75 degrees, and could fire a {{convert|6|kg|lb|abbr=on}} projectile with a muzzle velocity of {{convert|680|m/s|ft/s|abbr=on}} to a maximum height of {{convert|7500|m|ft}}.&lt;ref name=skulski20/&gt; Both ships were equipped with eight submerged {{convert|533|mm|in|adj=on}} [[torpedo tube]]s, four on each [[broadside]].&lt;ref name=stille15&gt;Stille, p. 15&lt;/ref&gt;
+
+The ''Kongō'' class's secondary armament changed significantly over time. During the modernizations of the 1930s, all of the 76&amp;nbsp;mm guns were replaced with eight 40-caliber {{convert|127|mm|in|abbr=on}} [[dual-purpose gun]]s. These guns were fitted on both sides of the fore and aft superstructures in four twin-gun mounts.&lt;ref name=&quot;skulski19&quot; /&gt; When firing at surface targets, the guns had a range of {{convert|14700|m|yd}}; they had a maximum ceiling of {{convert|9440|m|ft}} at their maximum elevation of +90 degrees. Their maximum rate of fire was 14 rounds a minute, but their sustained rate of fire was around eight rounds per minute.&lt;ref&gt;Campbell, pp. 192–93&lt;/ref&gt; During reconstruction, the two foremost 152&amp;nbsp;mm guns were also removed.&lt;ref name=skulski30&gt;Skulski, p. 30&lt;/ref&gt;
+
+The light AA armament of the ''Kongō'' class changed dramatically from 1933 to 1944. During the second reconstruction, the ships were fitted with four to eight twin {{convert|13.2|mm|in|abbr=on|sp=us}} machine-guns, later replaced by {{convert|25|mm|in|adj=on|sp=us}} gun mounts. Both weapons were license-built French [[Hotchkiss et Cie|Hotchkiss]] designs.&lt;ref&gt;Campbell, pp. 200, 202&lt;/ref&gt; The 25&amp;nbsp;mm guns were mounted on the ''Kongō'' class in single, double and triple mounts. This model was the standard Japanese light anti-aircraft gun during World War II, but it suffered from severe design shortcomings that rendered it a largely ineffective weapon. The twin and triple mounts &quot;lacked sufficient speed in train or elevation; the gun sights were unable to handle fast targets; the gun exhibited excessive vibration; the magazine was too small, and, finally, the gun produced excessive muzzle blast&quot;.&lt;ref name=stille11&gt;Stille, p. 11&lt;/ref&gt; ''Haruna'' ultimately carried 118 guns in 30 triple, two twin and 24 single mounts.
+
+===Armour===
+The ''Kongō''-class battlecruisers were designed with the intention of maximizing speed and maneuverability, and as such were not as heavily armoured as later Japanese capital ships.&lt;ref name=kongoclass/&gt; Nevertheless, the ''Kongō'' class possessed significant quantities of armour, and were heavily upgraded during their modernizations. In their initial configuration, the ''Kongō'' class possessed an upper belt that was {{convert|6|in|mm|0}} thick, and a lower belt with a thickness of {{convert|8|in|mm|0}}.&lt;ref name=jane-19-165&gt;Moore, p. 165&lt;/ref&gt; Vickers Cemented was used in the construction of the ''Kongō'', while the original armour of the other three was constructed of a variation of [[Krupp armour|Krupp Cemented Armour]], designed by the German [[Krupp Arms Works]].&lt;ref name=jane-19-165/&gt; Subsequent developments of Japanese armour technology relied upon a hybrid design of the two variations until drastic changes were made during the design of the ''Yamato'' class in 1938. The armoured belt near the bow and stern of the vessels was strengthened with an additional {{convert|3|in|mm}} of cemented armour.&lt;ref name=jane-19-165/&gt; The conning tower of the ''Kongō'' class was very heavily armoured, with variations of Krupp Cemented Armour up to {{convert|14|in|mm}} thick.&lt;ref name=jane-19-165/&gt; The turrets were lightly armoured compared to later designs, with a maximum plate thickness of {{convert|9|in|mm|0}}.&lt;ref name=kongoclass/&gt; The deck armour ranged from {{convert|1.5|to|2.75|in|mm|0}}.&lt;ref name=kongoclass&gt;{{cite web |url= http://combinedfleet.com/ships/kongo|work= Combined Fleet - ''Kongo'' class|author1=Parshall, Jon |author2=Bob Hackett, Sander Kingsepp, |author3=Allyn Nevitt |title=Kongo-class Battleship|accessdate=12 April 2014}}&lt;/ref&gt;
+
+During the reconstructions that each ship underwent during the interwar period, most of the armour of the ''Kongō'' class was heavily upgraded. The main lower belt was strengthened to be a uniform thickness of 8&amp;nbsp;inches, while diagonal bulkheads of a depth ranging from {{convert|5|to|8|in|mm|0}} reinforced the main armoured belt.&lt;ref name=mccurtie185&gt;McCurtie, p. 185&lt;/ref&gt; The upper belt remained unchanged, but was closed by 9-inch bulkheads at the bow and stern of the ships.&lt;ref name=mccurtie185/&gt; The turret armour was strengthened to {{convert|10|in|mm|0}}, while {{convert|4|in|mm|0}} were added to portions of the deck armour.&lt;ref name=mccurtie185/&gt; The armour upgrades increased the displacement by close to 4,000 tons on each ship, violating the terms of the Washington Treaty.&lt;ref name=&quot;jackson-08-27&quot;/&gt; Even after these modifications, the armour capacity of the ''Kongō'' class remained much less than that of newer capital ships, a factor which played a major role in the sinking of ''Hiei'' and ''Kirishima'' at the hands of U.S. Navy cruisers and battleships in 1942.&lt;ref&gt;Stille, p. 14&lt;/ref&gt;
+
+==Ships==
+{|class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+!Ship
+!Builder&lt;ref name=l5&gt;Lengerer, p. 145&lt;/ref&gt;
+!Laid down&lt;ref name=l5/&gt;
+!Launched&lt;ref name=l5/&gt;
+!Completed&lt;ref name=l5/&gt;
+!Fate&lt;ref name=j5&gt;Jentschura, Jung &amp; Mickel, p. 35&lt;/ref&gt;
+|-
+|{{ship|Japanese battleship|Kongō||2}}
+|[[Vickers]], [[Barrow-in-Furness]]
+|17 January 1911
+|18 May 1912
+|16 August 1913
+|Torpedoed and sunk by the submarine [[USS Sealion (SS-315)|USS ''Sealion'']], 21 November 1944
+|-
+|{{ship|Japanese battleship|Hiei||2}}
+|[[Yokosuka Naval Arsenal]], [[Yokosuka, Kanagawa|Yokosuka]]
+|4 November 1911
+|21 November 1912
+|4 August 1914
+|Sunk during the [[Naval Battle of Guadalcanal]], 13 November 1942
+|-
+|{{ship|Japanese battleship|Kirishima||2}}
+|[[Mitsubishi Heavy Industries|Mitsubishi Shipyard Co.]], [[Nagasaki]]
+|17 March 1912
+|1 December 1913
+|rowspan=2|19 April 1915
+|Sunk during the [[Naval Battle of Guadalcanal]], 15 November 1942
+|-
+|{{ship|Japanese battleship|Haruna||2}}
+|[[Kawasaki Shipbuilding Corporation|Kawasaki Dockyard Co.]], [[Kobe]]
+|16 March 1912
+|14 December 1913
+|Sunk by US aircraft, 28 July 1945; broken up from 1946
+|}
+
+Due to a lack of available [[slipway]]s, the latter two were the first Japanese warships to be built by Japanese private shipyards.&lt;ref name=&quot;Conway's&quot;/&gt; Completed by 1915, they were considered the first modern battlecruisers of the Imperial Japanese Navy.&lt;ref name=kongoclass/&gt; According to naval historian Robert Jackson, they &quot;outclassed all other contemporary [capital] ships&quot;.&lt;ref name=jackson-03-48/&gt; The design was so successful that the construction of the fourth battlecruiser of the ''Lion''-class&amp;mdash;{{HMS|Tiger|1913|6}}&amp;mdash;was halted so that design features of the ''Kongō'' class could be added.&lt;ref name=jackson-03-48/&gt;
+
+===''Kongō''===
+[[File:Kongo after reconstruction.jpg|thumb|right|''Kongō'' following her first reconstruction]]
+{{Main article|Japanese battleship Kongō}}
+&lt;!--in light of the ref. to the main article on this subject, this section may be too detailed--&gt;
+''Kongō'' was [[keel|laid down]] 17 January 1911 at [[Barrow-in-Furness]], [[Ship naming and launching|launched]] 18 May 1912, and [[Ship commissioning|commissioned]] 16 August 1913. She arrived in Yokosuka via [[Singapore]] in November 1913 to undergo armaments sighting checks in [[Kure Naval Arsenal]], being placed in reserve upon her arrival.&lt;ref name=cfrecordkongo&gt;{{cite web | last1 = Hackett | first1 = Robert | last2 = Kingsepp | first2 = Sander | title = IJN KONGO: Tabular Record of Movement | url = http://combinedfleet.com/kongo.htm | work = Combined Fleet | publisher = CombinedFleet.com | date = 6 June 2006 | accessdate = 8 October 2009}}&lt;/ref&gt; On 23 August 1914, Japan formally declared war on the [[German Empire]] as part of her contribution to the [[Anglo-Japanese Alliance]], and ''Kongō'' was deployed near [[Midway Island]] to patrol the communications lines of the [[Pacific Ocean]], attached to the Third Battleship Division of the [[IJN 1st Fleet|First Fleet]].&lt;ref name=cfrecordkongo/&gt; Following the 1922 [[Washington Naval Treaty]], ''Kongō'' and her contemporaries (including the ships in the {{sclass-|Nagato|battleship|5}}, {{sclass-|Ise|battleship|5}} and {{sclass-|Fusō|battleship|4}}es) were the only Japanese capital ships to avoid the scrapyard.&lt;ref&gt;Jackson (2000), p. 69&lt;/ref&gt; On 1 November 1924, ''Kongō'' docked at Yokosuka for modifications which improved fire control and main-gun elevation, and increased her antiaircraft armament.&lt;ref name=cfrecordkongo/&gt; In September 1929, she began her first major reconstruction. Her horizontal armour, boilers, and machinery space were all improved, and she was equipped to carry Type 90 Model 0 [[floatplane]]s.&lt;ref name=cfrecordkongo/&gt;{{#tag:ref|Sources disagree on the reconstruction's beginning and ending dates. Whitley gives 20 October 1928 to 20 September 1931,&lt;ref name=&quot;Whitley182&quot;/&gt; but ''Kongo''{{'}}s ''Combined Fleet'' Tabular Record of Movement gives dates of September 1929 to 31 March 1931,&lt;ref name=cfrecordkongo/&gt; and Breyer agrees with a range of September 1929 to March 1931.&lt;ref name=&quot;Breyer333&quot;&gt;Breyer (1973), p. 333&lt;/ref&gt;|group=N}} When her reconstruction was completed on 31 March 1931, she was reclassified as a battleship. From October 1933 to November 1934, ''Kongō'' was the [[flagship]] of the [[Japanese Combined Fleet]], before being placed in reserve when the flag was transferred to {{ship|Japanese battleship|Yamashiro||2}}.&lt;ref name=cfrecordkongo/&gt;
+
+On 1 June 1935, ''Kongō''{{'}}s second reconstruction began.&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Whitley182&quot;&gt;Whitley (1998), 182&lt;/ref&gt;{{#tag:ref|As with the first, sources disagree as to the exact dates of the second reconstruction. While Whitley and Combined Fleet agree on a starting date of 1 June 1935, Breyer uses January 1936; all sources agree that it ended in January 1937, but Breyer uses a more general &quot;January 1937&quot;, rather than the exact date given by Whitley and Combined Fleet.|group=N}} Japan's withdrawal from the [[London Naval Treaty]]&lt;ref&gt;Willmott, p. 35&lt;/ref&gt; led to reconstruction of her forward tower to fit the Pagoda-Style of design, improvements to the boilers and turbines, and reconfiguration of the aircraft catapults aft of Turret 3. Her new top speed of {{convert|30|kn|mph km/h}} qualified her as a  [[fast battleship]].&lt;ref name=cfrecordkongo/&gt; The modifications were completed on 8 January 1937.&lt;!--why say this after discussing the disagreement among the sources?--&gt;&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Whitley182&quot;/&gt; In either August&lt;ref name=&quot;Willmott56&quot;&gt;Willmott, p. 56&lt;/ref&gt; or November 1941,&lt;ref name=&quot;Whitley182&quot;/&gt; she was assigned to the Third Battleship Division with her three sister ships, and sailed on 29 November as part of the main body&amp;mdash;four fast battleships, three [[heavy cruiser]]s, eight [[destroyer]]s&amp;mdash;for the Japanese invasion of [[Malay Peninsula|Malaya]] and [[Singapore]].&lt;ref name=&quot;Whitley182&quot;/&gt;&lt;ref name=&quot;Willmott56&quot;/&gt; Following the [[Sinking of Prince of Wales and Repulse|destruction of the British Force Z]], the Main Body departed for [[French Indochina]], before escorting a fast carrier task force in February during the invasion of the Dutch East Indies.&lt;ref name=cfrecordkongo/&gt; ''Kongō'' provided cover for Japanese carriers during attacks on the [[Dutch East Indies]] in February and [[Ceylon]] in March and April.&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Whitley182&quot;/&gt; ''Kongō'' and ''Hiei'' were part of the Second Fleet Main Body during the [[Battle of Midway]], but were diverted north on 9 June to assist in the invasion of the [[Aleutian Islands]].&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Whitley183&quot;&gt;Whitley (1998), p. 183&lt;/ref&gt; ''Kongō'' and her sisters engaged American naval forces in the Battle of Guadalcanal. During this engagement ''Kongō'' and ''Haruna'' bombarded Henderson Field with 430 14-inch and 33 6-inch shells on 13 October 1942.&lt;ref name=&quot;Whitley183&quot;/&gt;&lt;ref&gt;Swanston, p. 220&lt;/ref&gt; Following armament and armour upgrades in late 1943 and early 1944,&lt;ref name=cfrecordkongo/&gt; ''Kongō'' sailed as part of Admiral [[Jisaburō Ozawa]]'s Mobile Fleet during the [[Battle of the Philippine Sea]].&lt;ref&gt;Willmott, p. 141&lt;/ref&gt; During the [[Battle of Leyte Gulf]], ''Kongō'' sortied as part of Admiral Kurita's Center Force, scoring hits on an American escort carrier and sinking or damaging two destroyers during the [[Battle off Samar]].&lt;ref name=cfrecordkongo/&gt;&lt;ref name=&quot;Whitley184&quot;&gt;Whitley (1998), p. 184&lt;/ref&gt; ''Kongō'' and an escort, {{ship|Japanese destroyer|Urakaze||2}}, were sunk northwest of [[Taiwan]] on 21 November 1944 by the submarine {{USS|Sealion|SS-315|6}}, after being hit on the port bow by two or three torpedoes.&lt;ref name=&quot;Breyer333&quot;/&gt;&lt;ref name=&quot;Whitley184&quot;/&gt;&lt;ref name=wheeler183&gt;Wheeler, p. 183&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Tully, Anthony P.|date=July 2001|title=The Loss of Battleship KONGO|work=Mysteries/Untold Sagas of the Imperial Japanese Navy|publisher=Combined Fleet|url=http://www.combinedfleet.com/eclipkong.html|accessdate=13 January 2010}}&lt;/ref&gt; Approximately 1,200 of her crew&amp;mdash;including her Captain and the commander of the Third Battleship Division, Vice Admiral [[Yoshio Suzuki]]&amp;mdash;were lost.&lt;ref name=wheeler183/&gt; She was removed from the Navy List on 20 January 1945.&lt;ref name=cfrecordkongo/&gt;
+
+===''Hiei''===
+[[File:Japanese training ship Hiei.jpg|thumb|right|''Hiei'' in 1933, as a training ship]]
+{{Main article|Japanese battleship Hiei}}
+&lt;!--in light of the ref. to the main article on this subject, this section may be too detailed, although it's not as much so as the Kongo section.--&gt;
+''Hiei'' was laid down at Yokosuka Naval Arsenal on 4 November 1911, launched 21 November 1912, and commissioned at Sasebo 4 August 1914, attached to the Third Battleship Division of the First Fleet.&lt;ref name=&quot;Breyer333&quot;/&gt;&lt;ref name=cfrecordhiei&gt;{{cite web | last1 = Hackett | first1 = Robert | last2 = Kingsepp | first2 = Sander | title = IJN HIEI: Tabular Record of Movement | url = http://combinedfleet.com/hiei2.htm | work = Combined Fleet | publisher = CombinedFleet.com | date = 6 June 2006 | accessdate = 8 October 2009}}&lt;/ref&gt; After conducting patrols off China and in the [[East China Sea]] during World War I, ''Hiei'' was placed in reserve in 1920.&lt;ref name=cfrecordhiei/&gt; After undergoing minor reconstructions in 1924 and 1927, ''Hiei'' was demilitarized in 1929 to avoid being scrapped under the terms of the Washington Treaty; she was converted to a [[training ship]] in Kure from 1929 to 1932.&lt;ref name=Breyer333/&gt;&lt;ref name=&quot;Whitley184&quot; /&gt;&lt;ref name=cfrecordhiei/&gt; All of her armour and most of her armament were removed under the restrictions of the treaty and carefully preserved.&lt;ref name=cfrecordhiei/&gt; In 1933, she was refitted as an Imperial Service Ship and&amp;mdash;following further reconstruction in 1934&amp;mdash;became the Emperor's ship in late 1935.&lt;ref name=cfrecordhiei/&gt;&lt;ref&gt;Imperial Service Ships were used by Japanese royalty for naval transport&lt;/ref&gt; In 1937, following Japan's withdrawal from the London Treaty, ''Hiei'' underwent a massive reconstruction along lines similar to those of her sister ships.{{#tag:ref|Sources all disagree on the exact date. Whitley says 26 November 1936, Breyer says November 1936, and Combined Fleet gives 1 April 1937.&lt;ref name=&quot;Breyer333&quot;/&gt;&lt;ref name=&quot;Whitley184&quot;/&gt;&lt;ref name=cfrecordhiei/&gt;|group=N}} When the reconstruction was completed on 31 January 1940, ''Hiei'' was reclassified as a battleship.&lt;ref name=&quot;Whitley184&quot;/&gt;&lt;ref name=cfrecordhiei/&gt; ''Hiei'' sailed in November 1941 as an escort of Vice-Admiral [[Chuichi Nagumo]]'s carrier force which [[Attack on Pearl Harbor|attacked Pearl Harbor]].&lt;ref name=&quot;Breyer333&quot;/&gt;&lt;ref name=cfrecordhiei/&gt; ''Hiei'' provided escort cover during carrier raids on Darwin in February 1942, before a joint engagement with ''Kirishima'' that sank an American destroyer in March.&lt;ref name=&quot;Whitley184&quot;/&gt;&lt;ref name=cfrecordhiei/&gt;&lt;ref&gt;Breyer (1973), pp. 333&amp;ndash;334&lt;/ref&gt; She participated in carrier actions against [[Ceylon]] and [[Battle of Midway|Midway Island]], and was subsequently drydocked in July.&lt;ref name=cfrecordhiei/&gt;&lt;ref name=&quot;Breyer334&quot;&gt;Breyer (1973), p. 334&lt;/ref&gt; Following carrier escort duty during the Battles of the Eastern Solomons and Santa-Cruz, ''Hiei'' departed as the flagship of Rear Admiral [[Hiroaki Abe]]'s Combat Division 11 to bombard Henderson Field on the night of 12&amp;ndash;13 November 1942.&lt;ref&gt;Swanston, p. 222&lt;/ref&gt;&lt;ref name=&quot;Whitley185&quot;&gt;Whitley (1998), p. 185&lt;/ref&gt; When the fleet encountered Rear Admiral [[Daniel J. Callaghan|Daniel Callaghan]]'s Task Group in [[Ironbottom Sound]], the First [[Naval Battle of Guadalcanal]] ensued.&lt;ref name=jackson-00-121&gt;Jackson (2000), p. 121&lt;/ref&gt; In an extremely confusing melee, ''Hiei'' disabled two American heavy cruisers&amp;mdash;killing two rear admirals in the process&amp;mdash;but was hit by about 85 shells from the guns of cruisers and destroyers, rendering her virtually unmaneuverable.&lt;ref name=cfrecordhiei/&gt;&lt;ref name=&quot;Whitley185&quot;/&gt; Abe transferred his flag to ''Kirishima'', and the battleship was taken under tow by the same ship, but one of her rudders froze in the full starboard position.&lt;ref name=jackson-00-121/&gt; Over the next day, ''Hiei'' was attacked by American aircraft many different times.&lt;ref name=cfrecordhiei/&gt;&lt;ref name=&quot;Whitley185&quot;/&gt; While trying to evade an attack at 14:00, ''Hiei'' lost her emergency rudder and began to show a list to stern and starboard.&lt;ref name=cfrecordhiei/&gt; ''Hiei'' was scuttled northwest of [[Savo Island]] on the evening of 13 November by Japanese destroyers.&lt;ref name=&quot;Whitley185&quot;/&gt;&lt;ref name=jackson-00-121/&gt;
+
+===''Kirishima''===
+[[File:Japanese battleship Kirishima.jpg|thumb|right|''Kirishima'' off Amoy, China, in 1938]]
+{{Main article|Japanese battleship Kirishima}}
+&lt;!--in light of the ref. to the main article on this subject, this section seems close to being the right length and degree of detail--&gt;
+''Kirishima''{{'}}s [[keel]] was laid in Mitsubishi's Nagasaki yard on 17 March 1912. She was launched about a year and a half later (1 December 1913) and transferred to [[Sasebo Naval Arsenal]] for [[fitting out]]. After her completion on 19 April 1915, she served off Japan, China and Korea's coasts during the First World War. After the war, she alternated between being based in Japan and patrolling off Japanese ports. On 14 September 1922, she collided with the destroyer ({{ship|Japanese destroyer|Fuji||2}}), causing minor damage to both ships.&lt;ref name=cfrecordkirishima/&gt; ''Kirishima'' also assisted rescue efforts in the aftermath of the devastating [[1923 Great Kantō earthquake]], which destroyed most of Tokyo. After being sent to the reserve fleet in December 1923, she received a refit during 1924. Returning to the main fleet, the battlecruiser operated off China for periods of time in 1925&amp;ndash;1926, until she returned to reserve from 1927 to 1931 in preparation for a major reconstruction.{{#tag:ref|Sources disagree on the exact dates. While ''Conway's All the World's Fighting Ships'' says March 1927 to 31 March 1930, ''Kirishima''{{'}}s ''Combined Fleet'' Tabular Record of Movement states that it was from May 1927 to 16 April 1930.&lt;ref name=&quot;Conway's&quot;/&gt;&lt;ref name=cfrecordkirishima&gt;{{cite web | last1 = Hackett | first1 = Robert | last2 = Kingsepp | first2 = Sander | title = IJN KIRISHIMA: Tabular Record of Movement | url = http://combinedfleet.com/Kirishima.htm | work = Combined Fleet | publisher = CombinedFleet.com | date = 2001–2009 | accessdate = 14 October 2009}}&lt;/ref&gt;|group=N}} Her superstructure was rebuilt, and she received extensive upgrades to armour, propulsion, and waterline bulges. After a period of fleet duty in the early 1930s, she underwent a two-year reconstruction (1934&amp;ndash;1936) to rebuild her as a Fast Battleship.&lt;ref name=cfrecordkirishima/&gt; This upgrade improved her engine plant, redesigned the superstructure, lengthened the stern, and enabled her to equip floatplanes. After serving as a transport and support-ship during the [[Second Sino-Japanese War]], ''Kirishima'' escorted the aircraft carrier strikeforce bound for the [[attack on Pearl Harbor]] in December 1941. Following the start of World War II, ''Kirishima'' served as an escort during carrier [[Bombing of Darwin|attacks on Port Darwin]] and the Dutch East Indies.&lt;ref name=&quot;jackson-08-27&quot; /&gt; ''Kirishima'' joined her sister ships in escorting naval sorties against Ceylon.&lt;ref&gt;Boyle, p. 370&lt;/ref&gt; She once again served escort duty during the disastrous Battle of Midway, before transferring to Truk Lagoon in preparation for operations against American landings on Guadalcanal. After participating in the Battles of the Eastern Solomons and Santa Cruz, ''Kirishima'' joined ''Hiei'' in a night attack on 13 November 1942. Following the loss of the latter on the evening of 13 November, ''Kirishima'' subsequently engaged American battleships on the night of 14/15 November. She managed to inflict superficial damage on {{USS|South Dakota|BB-57|6}},  but she was in turn caught off guard while attacking South Dakota and was crippled by {{USS|Washington|BB-56|6}}.&lt;ref name=jackson-00-121/&gt; With her engines largely disabled and listing heavily to starboard, ''Kirishima'' was abandoned in the early morning of 15 November 1942. She capsized and sank at 03:25 with the loss of 212 of her crew.&lt;ref name=cfrecordkirishima/&gt;
+
+===''Haruna''===
+{{Main article|Japanese battleship Haruna}}
+[[File:Haruna 1934.jpg|thumb|right|''Haruna'' in 1934, following her second reconstruction]]
+&lt;!--this section seems about right re detail--&gt;
+''Haruna'' was laid down at [[Kobe]] by [[Kawasaki Shipbuilding Corporation|Kawasaki]] on 16 March 1912, launched 14 December 1913, and formally commissioned 19 April 1915.&lt;ref name=cfrecordharuna&gt;{{Cite web |url= http://combinedfleet.com/haruna.htm|title= Combined Fleet - tabular history of ''Haruna''|accessdate=11 February 2009 |work= |publisher=Parshall, Jon; Bob Hackett, Sander Kingsepp, &amp; Allyn Nevitt |date=}}&lt;/ref&gt; After a short patrolling duty off Sasebo, ''Haruna'' suffered a breech explosion during gunnery drills on 12 September 1920; seven crewmen were killed and the No.&amp;nbsp;1 turret badly damaged.&lt;ref name=cfrecordharuna/&gt; After a long period of time in reserve, ''Haruna'' underwent her first modernization from 1926 to 1928. The process upgraded her propulsion capabilities, enabled her to carry and launch floatplanes, increasing her armour capacity by over 4,000 tons,&lt;ref name=&quot;jackson-08-27&quot;/&gt; and was shortly thereafter reclassified as a Battleship.&lt;ref name=cfrecordharuna/&gt; She was overhauled a second time from 1933 to 1935, which additionally strengthened her armour and reclassified her as a fast battleship. During the Second Sino-Japanese War, ''Haruna'' primarily served as a large-scale troop transport for Japanese troops to the Chinese mainland.&lt;ref name=cfrecordharuna/&gt; On the eve of the commencement of World War II, ''Haruna'' sailed as part of Vice-Admiral [[Nobutake Kondō]]'s Southern Force. On 8 December 1941, ''Haruna'' provided heavy support for the invasion of Malaya and Singapore.&lt;ref&gt;Willmott (2002), p. 56&lt;/ref&gt; She participated in the major Japanese offensives in the southern and southwestern Pacific in early 1942, before sailing as part of the carrier-strike force during the Battle of Midway.&lt;ref name=cfrecordharuna/&gt; ''Haruna'' bombarded American positions at Henderson Field at Guadalcanal, and provided escort to carriers during the Solomon Islands campaign. In 1943, she deployed as part of a larger force on multiple occasions to counter the threat of American carrier strikes, but did not actively participate in a single battle.&lt;ref name=cfrecordharuna/&gt; In 1944, ''Haruna'' was an escort during the Battle of the Philippine Sea and fought American surface vessels off Samar during the Battle of Leyte Gulf.&lt;ref&gt;Boyle, p. 508&lt;/ref&gt; She was the only one of the four battleships in her class to survive 1944.&lt;ref&gt;Jackson (2000), p. 127&lt;/ref&gt; ''Haruna'' remained at Kure throughout 1945, where [[Bombing of Kure (July 1945)|she was sunk]] by aircraft of [[Task Force 38]] on 28 July 1945, after taking nine bomb hits at her moorings.&lt;ref&gt;Jackson (2000), p. 129&lt;/ref&gt; She was subsequently raised and broken up for scrap in 1946.&lt;ref name=cfrecordharuna/&gt;
+
+==Notes==
+
+===Footnotes===
+{{Reflist|group=N}}
+
+===Citations===
+{{Reflist|2}}
+
+==References==
+* Boyle, David (1998). ''World War II in Photographs''. London. Rebo Productions. ISBN 1-84053-089-8
+* {{cite book
+ | last1 = Breyer
+ | first1 = Siegfried
+ | title = Battleships and battle cruisers, 1905–1970
+ | location = Garden City, New York
+ | publisher = Doubleday
+ | year = 1973
+ | oclc = 702840
+}}
+* {{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+* {{cite book|last1=Chihaya|first1=Masataka|last2=Abe|first2=Yasuo|title=IJN Kongo Battleship 1912–1944|series=Warship Profile|volume=12|year=1971|publisher=Profile Publications|location=Windsor, Berkshire, UK}}
+* {{cite book
+  | last = Evans
+  | first = David C.
+  | last2 = Peattie
+  | first2 = Mark R.
+  | title = Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941
+  | location = Annapolis, Maryland
+  | publisher = Naval Institute Press
+  | year = 1997
+  | isbn = 0-87021-192-7
+  | authorlink2 = Mark Peattie
+}}
+* {{cite book |editor1-last=Gardiner |editor1-first=Robert |editor2-last=Gray |editor2-first=Randal |title=Conway's All the World's Fighting Ships: 1906–1921 |year=1984 |location=Annapolis, Maryland|publisher=Naval Institute Press |isbn=0-87021-907-3 }}
+* Jackson, Robert (editor) (2008). ''101 Great Warships''. London. Amber Books. ISBN 978-1-905704-72-9
+* Jackson, Robert (2000).  ''The World's Great Battleships''.  Brown Books.  ISBN 1-897884-60-5
+* {{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869&amp;ndash;1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X}}
+* {{cite book|editor=Jordan, John|last=Lengerer|first=Hans|chapter=The Battlecruisers of the Kongô Class|publisher=Conway|location=London|year=2012|title=Warship 2012|isbn=978-1-84486-156-9}}
+* McCurtie, Francis (1989) [1945]. ''Jane's Fighting Ships of World War II''. London: Bracken Books. ISBN 1-85170-194-X
+* Moore, John (1990) [1919]. ''Jane's Fighting Ships of World War I''. London: Studio Editions. ISBN 1-85170-378-0
+* {{cite book |author1=Parshall, Jonathan |author2=Tully, Anthony |title=Shattered Sword: The Untold Story of the Battle of Midway |publisher=Potomac Books |location=Washington |year=2007 |pages= |isbn=1-57488-924-9 }}
+* {{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+* {{cite book |author=Rohwer, Jurgen |title=Chronology of the War at Sea, 1939–1945: The Naval History of World War Two |publisher=Naval Institute Press |location=Annapolis, Maryland |year=2005 |isbn=1-59114-119-2 }}
+* {{cite book|last=Sandler|first=Stanley|title=Battleships: An Illustrated History of their Impact|series=Weapons and Warfare|year=2004|publisher=ABC Clio|location=Santa Barbara, California|isbn=1-85109-410-5}}
+* Schom, Alan (2004). ''The Eagle and the Rising Sun; The Japanese-American War, 1941-1943''. Norton &amp; Company. ISBN  9780393049244
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book
+  | last = Skulski
+  | first = Janusz
+  | title = The Battleship Fusō: Anatomy of a Ship
+  | publisher = Conway Maritime Press
+  | year = 1998
+  | location = London
+  | pages = 
+  | url = 
+  | doi = 
+  | id = 
+  | isbn = 0-85177-665-5}}
+* Steinberg, Rafael (1980) ''Return to the Philippines''.  Time-Life Books Inc. ISBN 0-8094-2516-5
+* {{cite book
+  | last=Stille
+  | first=Mark
+  | title=Imperial Japanese Navy Battleships 1941&amp;ndash;1945
+  | publisher=Osprey Publishing
+  | year=2008
+  | location=Oxford, UK
+  | isbn=978-1-84603-280-6}}
+* Swanston, Alexander &amp; Swanston, Malcolm (2007). ''The Historical Atlas of World War II''. London: Cartographica Press Ltd. ISBN 0-7858-2200-3
+* {{cite book
+  | last        = Whitley
+  | first       = M. J.
+  | title       = Battleships of World War Two: An International Encyclopedia
+  | location    = Annapolis, Maryland
+  | publisher   = Naval Institute Press
+  | year        = 1998
+  | isbn        = 1-55750-184-X}}
+* Willmott, H.P. &amp; [[John Keegan|Keegan, John]] [1999] (2002). ''The Second World War in the Far East''. Smithsonian Books. ISBN  978-1588341921.
+* {{cite book|last=Wiper|first=Steve|title=Imperial Japanese Navy Kongo Class Battleships|series=Warship Pictorial|volume=13|year=2001|publisher=Classic Warships Publishing|location=Tucson, Arizona|isbn=0-9710687-1-2}}
+
+==External links==
+:{{Portal|Battleships}}
+:{{Commons category|Kongō class battlecruiser|''Kongō''-class battlecruiser}}
+
+{{Kongō class battlecruiser}}
+{{WWIJapaneseShips}}
+{{WWII Japanese Ships}}
+{{Good article}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kongo Class Battlecruiser}}
+[[Category:Battleship classes]]
+[[Category:Battlecruiser classes]]
+[[Category:Kongō-class battlecruisers| ]]
+[[Category:World War II battleships of Japan| Kongo class battleship]]</text>
+      <sha1>kb9bwn0tvpdt0semc69b8f5hh3cm7p3</sha1>
+    </revision>
+  </page>
+</mediawiki>

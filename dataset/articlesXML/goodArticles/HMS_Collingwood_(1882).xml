@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Collingwood (1882)</title>
+    <ns>0</ns>
+    <id>6017926</id>
+    <revision>
+      <id>714958742</id>
+      <parentid>714958085</parentid>
+      <timestamp>2016-04-12T21:09:39Z</timestamp>
+      <contributor>
+        <username>Jaguar</username>
+        <id>9913007</id>
+      </contributor>
+      <comment>GA</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16682">{{good article}}
+{{Other ships|HMS Collingwood}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:CollingwoodNH61397.jpg|300px]]
+|Ship caption=HMS ''Collingwood'' at anchor
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Collingwood''
+|Ship namesake=[[Cuthbert Collingwood, 1st Baron Collingwood|Admiral Cuthbert Collingwood]]
+|Ship ordered=
+|Ship builder=[[Pembroke Dockyard]]
+|Ship laid down=12 July 1880
+|Ship launched=22 November 1882
+|Ship completed=July 1887
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship fate=Sold for [[ship breaking|scrap]], 11 May 1909
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Admiral class battleship|Admiral-class]] [[ironclad]] [[battleship]]
+|Ship displacement={{convert|9500|LT|t|lk=on}}
+|Ship length={{convert|325|ft|m|abbr=on|1}} ([[Length between perpendiculars|p.p.]])
+|Ship beam={{convert|68|ft|m|abbr=on|1}}
+|Ship draught={{convert|26|ft|11|in|m|abbr=on|1}}
+|Ship power=*{{convert|7000|ihp|kW|lk=in|abbr=on}} (normal)
+*{{convert|9600|ihp|kW|abbr=on}} ([[forced draught]])
+|Ship propulsion=*2 × [[Humphrys, Tennant and Dykes|Humphreys]] [[Marine steam engine#Compound engine|compound-expansion steam engines]]
+*2 × screws
+|Ship speed={{convert|16.8|kn|lk=in|abbr=on}} (forced draught)
+|Ship range={{convert|8500|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=498
+|Ship armament=*2 × twin [[BL 12 inch naval gun Mk I – VII|BL {{convert|12|in|mm|abbr=on|0}} Mk II gun]]s
+*6 × single [[BL 6 inch gun Mk II – VI|BL {{convert|6|in|mm|abbr=on|0}} Mk IV guns]]
+*12 × single [[QF 6-pounder Hotchkiss|QF 6-pdr ({{convert|57|mm|in|abbr=on|1|disp=flip}})]] [[Hotchkiss gun]]s
+*8 × single [[QF 3-pounder Hotchkiss|QF 3-pdr ({{convert|47|mm|in|abbr=on|1|disp=flip}})]] Hotchkiss guns
+*4 × {{convert|14|in|mm|abbr=on|0}} [[torpedo tube]]s
+| Ship armour =* [[Belt armor|Waterline belt]]: {{convert|18|-|8|in|mm|abbr=on|0}}
+* [[Bulkhead (partition)|Bulkheads]]: {{convert|16|-|7|in|mm|abbr=on|0}}
+* [[Barbette]]s: {{convert|11.5|–|10|in|mm|abbr=on|0}}
+* [[Conning tower]]: {{convert|12|-|2|in|mm|abbr=on|0}}
+* [[Deck (ship)|Deck]]: {{convert|3|–|2|in|mm|abbr=on|0}}
+|Ship notes=
+}}
+|}
+
+'''HMS ''Collingwood''''' was the [[lead ship]] of [[Admiral-class battleship|her class]] of [[ironclad]] [[battleship]]s built for the [[Royal Navy]] during the 1880s. The ship's essential design became the standard for most of the following British battleships. Completed in 1887, she spent the next two years in [[Reserve fleet|reserve]] before she was assigned to the [[Mediterranean Fleet]] for the next eight years. After returning home in 1897, the ship spent the next six years as a [[guardship]] in [[Ireland]]. ''Collingwood'' was not significantly damaged during an accidental collision in 1899 and was [[Ship decommissioning|paid off]] four years later. The ship was sold for [[ship breaking|scrap]] in 1909 and subsequently broken up.
+
+==Background and design==
+[[File:HMS Collingwood Diagram Brasseys 1888.jpg|thumb|left|Right elevation, deck plan and cross-section from ''[[Brassey's Naval Annual]]'', 1888]]
+At the time of her design, she was not considered as being the forerunner of any [[ship class|class]]; she was designed by the [[Director of Naval Construction]], Sir [[Nathaniel Barnaby]], as a one-off as an answer to the French {{sclass-|Amiral Baudin|ironclad|2}}s, which carried three heavy guns on the centreline and a number of smaller pieces on the [[broadside]]. He made several proposals to the [[Board of Admiralty]], but they were all rejected.&lt;ref&gt;Brown, p. 91&lt;/ref&gt; Barnaby's final submission was inspired by the four French {{sclass-|Terrible|ironclad}}s [[laid down]] in 1877–78 and was a return to the configuration of {{HMS|Devastation|1871|2}} with the primary armament positioned fore and aft of the central [[superstructure]], but with the [[Breech-loading weapon|breech-loading]] main armament mounted in [[barbette]]s, as per the French ships,&lt;ref&gt;Beeler, pp. 161–62&lt;/ref&gt;&lt;ref name=ck9&gt;Chesneau &amp; Kolesnik, p. 29&lt;/ref&gt; which allowed them to be sited {{convert|10|ft|m}} further above the [[waterline]] than ''Devastation''{{'}}s guns.&lt;ref name=p2&gt;Parkes, p. 302&lt;/ref&gt; The Board modified Barnaby's design by adding {{convert|25|ft|m|1}} of length and  {{convert|2000|ihp|lk=in}} to guarantee a speed of {{convert|15|kn|lk=in}} at [[deep load]]. It also substituted four smaller {{convert|42|LT|adj=on}} guns for Barnaby's two {{convert|80|LT|adj=on}} guns. The additional length and the Board's acceptance of the hull lines from {{HMS|Colossus|1882|2}} increased the size of the ship by {{convert|2500|LT|t|0}}.&lt;ref&gt;Beeler, pp. 164–66&lt;/ref&gt;
+
+[[File:CollingwoodBuryingHerBow.jpg|thumb|''Collingwood'' buries her bow in a calm sea]]
+Barnaby was severely criticised, particularly by Sir [[Edward James Reed|Edward Reed]], himself a former Chief Constructor of the Royal Navy, because ''Collingwood''{{'}}s waterline [[Belt armor|armour belt]] was concentrated [[amidships]] and did not extend to the ends of the ship. Reed believed that this weakness meant that the ship could be sunk from the consequent uninhibited flooding if her unarmoured ends were riddled by shellfire and open to the sea. Barnaby deliberately selected a hull shape with narrow, fine ends to limit the volume of the hull that could be flooded and situated the armoured deck below the waterline to prevent it from being pierced by enemy shells and flooding the lower part of the ironclad. Furthermore, he heavily subdivided the hull to limit the amount of water that could enter through any one hit and placed coal bunkers above the armoured deck to absorb the fragments from exploding shells. Unbeknownst to his critics, ''Collingwood'' was tested in 1884 with her ends and the large spaces in her [[hold (ship)|hold]] [[ballast (ship)|ballast]]ed with water and her [[Draft (hull)|draught]] only increased by {{convert|17.5|in|mm}} and she lost a minor amount of speed. The price was that the ship lacked buoyancy at her ends and tended to bury her [[bow (ship)|bow]] in oncoming waves rather than be lifted over them. Her speed was greatly reduced in a [[head sea]] and the resulting spray made working the guns very difficult. ''Collingwood'' tended to [[Ship motions|roll]] heavily and was not regarded as a good [[seaboat]]. Despite these issues, her basic configuration was followed by most subsequent British ironclads and [[predreadnought battleship]]s until the revolutionary {{HMS|Dreadnought|1906|2}} of 1905.&lt;ref&gt;Brown, pp. 92–93; Parkes, pp. 300, 303, 305–306&lt;/ref&gt;
+
+The ship had a [[length between perpendiculars]] of {{convert|325|ft|m|1}}, a [[Beam (nautical)|beam]] of {{convert|68|ft|m|1}}, and a draught of {{convert|27|ft|10|in|m|1}} at deep load. She [[Displacement (ship)|displaced]] {{convert|9500|LT|t|lk=on}} at normal load&lt;ref name=ck9/&gt; and had a complement of 498 officers and [[naval rating|ratings]].&lt;ref name=p7&gt;Parkes, p. 301&lt;/ref&gt;
+
+The ship was powered by a pair of 2-cylinder inverted [[Marine steam engine#Compound engine|compound-expansion steam engine]]s, each driving one [[propeller]]. The [[Humphrys, Tennant and Dykes|Humphreys]] engines produced a total of {{convert|7000|ihp}} at normal [[Chimney draught|draught]] and {{convert|9600|ihp|abbr=on}} with [[forced draught]], using steam provided by a dozen [[Scotch marine boiler|cylindrical boilers]] with a working pressure of {{convert|100|psi|kPa kg/cm2|0|abbr=on|lk=on}}.&lt;ref name=p7/&gt; She was designed to reach a speed of {{convert|15.5|kn}} at normal draught and ''Collingwood'' reached {{convert|16.6|kn}} from {{convert|8369|ihp|abbr=on}} on her [[sea trials]], using natural draught. She was the first British ironclad to be equipped with [[Mechanical draft#Controlling draft|forced draught]] and the ship only reached a speed of {{convert|16.84|kn}} from {{convert|9573|ihp|abbr=on}} while using it during her sea trials because her engines were incapable of handling the additional steam.&lt;ref&gt;Brown, p. 94&lt;/ref&gt; ''Collingwood'' carried a maximum of {{convert|1200|LT|t|0}} of [[coal]] that gave her a range of {{convert|8500|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=w0&gt;Winfield &amp; Lyon, p. 258&lt;/ref&gt;
+
+===Armament and armour===
+The ship had a main armament of 25-[[caliber (artillery)|calibre]] [[Rifled breech loader|rifled breech-loading (BL)]] [[BL 12 inch naval gun Mk I – VII|{{convert|12|in|mm|adj=on|0}} Mk II guns]]. The four guns were mounted in two twin-gun barbettes, one forward and one aft of the superstructure. The barbettes were open, without hoods or [[gun shield]]s, and the guns, mounted on a turntable, were fully exposed. They could only be loaded when pointed fore and aft with an elevation of 13°. The {{convert|714|lb|kg|adj=on}} shells fired by these guns were credited with the ability to penetrate {{convert|20.6|in|mm|0}} of [[wrought iron]] at {{convert|1000|yd|m}},&lt;ref name=p6&gt;Parkes, p. 316&lt;/ref&gt; using a charge of {{convert|295|lb|kg}} of prismatic [[brown powder]]. At maximum elevation, the guns had a range of around {{convert|9400|yd|m}}.&lt;ref name=c2&gt;Campbell 1981, p. 202&lt;/ref&gt;
+
+The [[Battleship secondary armament|secondary armament]] of ''Collingwood'' consisted of six 26-calibre [[BL 6 inch Mk VII naval gun|BL {{convert|6|in|mm|0|adj=on}} Mk IV guns]] on single mounts positioned on the [[Deck (ship)#Upper deck|upper deck]] amidships, three on each broadside. They fired {{convert|100|lb|kg|adj=on}} shells that were credited with the ability to penetrate {{convert|10.5|in|mm|0}} of wrought iron at 1000 yards.&lt;ref name=p6/&gt; They had a range of {{convert|8830|yd|m}} at an elevation of +15° using [[gunpowder|prismatic black powder]]. Beginning around 1895 all of these guns were converted into [[quick-firing gun|quick-firing guns (QF)]] with a much faster rate of fire. Using cordite extended their range to {{convert|9275|yd|m}}.&lt;ref&gt;Campbell 1983, pp. 171–72&lt;/ref&gt; For defence against [[torpedo boat]]s the ships carried a dozen [[QF 6-pounder Hotchkiss|QF 6-pounder ({{convert|57|mm|in|1|adj=on|disp=flip}})]] [[Hotchkiss gun]]s and eight [[QF 3-pounder Hotchkiss|QF 3-pdr ({{convert|47|mm|in|adj=on|1|disp=flip}})]] Hotchkiss guns. They also mounted four {{convert|14|in|adj=on|0}} above-water [[torpedo tube]]s, one pair on each broadside.&lt;ref name=ck9/&gt;
+
+''Collingwood''{{'}}s waterline belt of [[compound armour]] extended across the middle of the ship between the rear of each barbette for a
+the length of {{convert|140|ft|m|1}}. It had a total height of {{convert|7|ft|6|in|m|1}} deep of which {{convert|5|ft|m|1}} was below water and {{convert|2|ft|6|in|m|1}} above at normal load; at deep load, the ship's draught increased by another 6 inches. The upper {{convert|4|ft|m|1}} of the belt armour was {{convert|18|in|mm|0}} thick and the plates tapered to {{convert|8|in|mm|0}} at the bottom edge. Lateral [[bulkhead (partition)|bulkheads]] at the ends of the belt connected it to the barbettes; they were {{convert|16|in|mm|0}} thick at main deck level and {{convert|7|in|mm|0}} below.&lt;ref name=p3&gt;Parkes, p. 303&lt;/ref&gt;
+
+Each barbette was a roughly pear-shaped, 11-sided [[polygon]], {{convert|60|×|45|ft|m|1}} in size with sloping walls {{convert|11.5|in|0}} thick and a {{convert|10|in|0|adj=on}} rear. The main ammunition hoists were protected by armoured tubes with walls 10–12 inches thick.&lt;ref name=p2/&gt; The [[conning tower]] also had 12-inch thick walls as well as roofs {{convert|2|in|0}} thick. The deck of the central armoured citadel had a thickness of {{convert|3|in}} and the lower deck was {{convert|2|-|2.5|in|0}} thick from the ends of the belt to the bow and stern.&lt;ref name=p2/&gt;&lt;ref name=w0/&gt;
+
+==Construction and career==
+''Collingwood'', named after [[Cuthbert Collingwood, 1st Baron Collingwood|Admiral Cuthbert Collingwood]], [[Horatio Nelson]]'s [[second-in-command]] in the British victory at the [[Battle of Trafalgar]],&lt;ref name=s7&gt;Silverstone, p. 223&lt;/ref&gt; was the second ship of her name to serve in the Royal Navy.&lt;ref&gt;Colledge, p. 74&lt;/ref&gt; The ship was laid down at [[Pembroke Dockyard]] on 12 July 1880&lt;ref name=w0/&gt; and [[Ship naming and launching|launched]] by Mrs. Louise Chatfield, wife of the dockyard's [[Captain-Superintendent]], [[Captain (Royal Navy)|Captain]] [[Alfred Chatfield (Royal Navy officer)|Alfred Chatfield]],&lt;ref&gt;Phillips, pp. 225, 326&lt;/ref&gt; on 22 November 1882.&lt;ref name=w0/&gt; While conducting gunnery trials on 4 May 1886, ''Collingwood''{{'}}s rear left gun partially shattered and all of the Mk II guns were withdrawn from service. They were replaced by heavier Mk Vw models with approximately the same performance.&lt;ref name=c2/&gt; Excluding her armament, she cost [[Pound sterling|£]]636,996. The ship was [[Ship commissioning|commissioned]] at [[HMNB Portsmouth|Portsmouth]] on 1 July 1887 for [[Golden Jubilee of Queen Victoria|Queen Victoria's Golden Jubilee]] [[Fleet review (Commonwealth realms)|Fleet review]] and was [[Ship decommissioning|paid off]] into reserve in August.&lt;ref name=p4&gt;Parkes, p. 304&lt;/ref&gt; 
+
+''Collingwood'' was recommissioned for the annual summer manoeuvres for the next two years, before she was assigned to the Mediterranean Fleet, where she served from November 1889 until March 1897, with a refit in [[Malta]] in 1896.&lt;ref name=p4/&gt; Captain [[Charles Cooper Penrose-Fitzgerald|Charles Penrose-Fitzgerald]] commanded the ironclad when she joined the Mediterranean Fleet in 1889.&lt;ref&gt;Phillips, p. 225&lt;/ref&gt; The ship became the [[Her Majesty's Coastguard|coastguard ship]] at [[Bantry]], Ireland, upon her return.&lt;ref name=p4/&gt; ''Collingwood'' accidentally collided with the [[cruiser]] {{HMS|Curacoa|1878|6}} in [[Plymouth]] harbour on 23 January 1899, badly damaging the latter ship, but was not significantly damaged herself.&lt;ref&gt;{{cite book|title=The Annual Register: A Review of Public Events at Home and Abroad for the Year 1899|date=1900|publisher=Longmans, Green &amp; Co.|location=London|page=5|url=https://books.google.com/books?id=sZA9AQAAMAAJ&amp;pg=RA1-PA5&amp;dq=curacoa+collingwood+collision&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjzzdCEp4fMAhXkmoMKHSnvAVMQ6AEIKDAA#v=onepage&amp;q=curacoa%20collingwood%20collision&amp;f=false|accessdate=11 April 2016}}&lt;/ref&gt; The ship was paid off into the reserve in June 1903 and was transferred to [[Kyles of Bute|East Kyle]] in January 1905. ''Collingwood'' remained there until she was sold for scrap&lt;ref name=p4/&gt; to [[Hughes Bolckow]] at [[Dunston, Tyne and Wear]]&lt;ref name=w0/&gt; for £19,000&lt;ref name=p4/&gt; on 11 May 1909.&lt;ref name=s7/&gt;
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{cite book|last=Beeler|first=John|title=Birth of the Battleship: British Capital Ship Design 1870-1881|year=2001|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-213-7}}
+* {{cite book|last=Brown|first=D.K.|title=Warrior to Dreadnought|place=London|publisher=Caxton Editions|date=2003|isbn=1-84067-529-2}}
+*{{cite book|editor=Roberts, John|title=Warship V|year=1981|publisher=Conway Maritime Press|location=London|isbn=0-85177-244-7|last=Campbell|first=N.J.M.|chapter=British Naval Guns 1880–1945 No. 3|pages=200–02}}
+*{{cite book|year=1983|title=Warship VII|publisher=Conway Maritime Press|editor=Roberts, John|location=London|isbn=0-85177-630-2|last=Campbell|first=N.J.M.|chapter=British Naval Guns 1880–1945 No. 10|pages=170–72}}
+*{{colledge}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4|last-author-amp=yes}}
+* {{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+*{{cite book|last1=Phillips|first1=Lawrie; Lieutenant Commander|title=Pembroke Dockyard and the Old Navy: A Bicentennial History|date=2014|publisher=The History Press|location=Stroud, Gloucestershire, UK|isbn=978-0-7509-5214-9}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{winfield}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|HMS Collingwood (ship, 1882)|HMS Collingwood}}
+
+{{Admiral class battleship}}
+
+{{DEFAULTSORT:Collingwood (1882)}}
+[[Category:Admiral-class battleships]]
+[[Category:Victorian-era battleships of the United Kingdom]]
+[[Category:Pembroke-built ships]]
+[[Category:1882 ships]]</text>
+      <sha1>nu8hmk3lz39f60d7h8nazqkbidv4m9p</sha1>
+    </revision>
+  </page>
+</mediawiki>

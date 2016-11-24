@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Whitehead Mark 5 torpedo</title>
+    <ns>0</ns>
+    <id>39630733</id>
+    <revision>
+      <id>561498756</id>
+      <parentid>559184325</parentid>
+      <timestamp>2013-06-25T11:04:23Z</timestamp>
+      <contributor>
+        <username>Kguirnela</username>
+        <id>2319988</id>
+      </contributor>
+      <comment>expand</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4005">{{Infobox weapon
+| name           = Whitehead Mark 5 torpedo
+| image          = 
+| caption        = 
+| origin         = {{flag|Austria-Hungary}}
+| type           = [[Anti-surface warfare|Anti-surface ship]] [[torpedo]]&lt;ref name=&quot;navyhist&quot;&gt;{{cite web | title = Torpedo History: Whitehead Torpedo Mk1 | url= http://www.history.navy.mil/museums/keyport/html/part2.htm | accessdate = 10 June 2013}}&lt;/ref&gt;
+&lt;!-- Type selection --&gt;
+| is_ranged      = yes
+| is_explosive   = yes
+| is_missile     = yes
+&lt;!-- Service history --&gt;
+| service        = 1910–1922&lt;ref name=&quot;navyhist&quot;/&gt;
+| used_by        = {{navy|United States}}&lt;ref name=naval&gt;{{cite web|url=http://navalunderseamuseum.org/media/6c06204b6731dd48ffff8336ffffe906.pdf|title=Artifact Spotlight: Whitehead torpedo|accessdate=8 June 2013}}&lt;/ref&gt; 
+| wars           = 
+&lt;!-- Production history --&gt;
+| designer       = [[Robert Whitehead]]
+| manufacturer   = Torpedofabrik Whitehead &amp; Co.&lt;ref name=&quot;rijeka&quot;&gt;{{cite web | title = Chronology: Torpedo in Word and Picture | url= http://www.muzej-rijeka.hr/torpedo/en/chronology.html | accessdate = 2013-06-08}}&lt;/ref&gt;&lt;br&gt;[[Naval Torpedo Station]]&lt;ref name=&quot;navyhist&quot;/&gt;&lt;br&gt;[[Vickers Limited]]
+| design_date    = 1901&lt;ref name=&quot;navyhist&quot;/&gt;
+&lt;!-- General specifications --&gt;
+| weight         = 1452 pounds&lt;ref name=&quot;navyhist&quot;/&gt;
+| length         = 204 inches (5.18 meters)&lt;ref name=&quot;navyhist&quot;/&gt;
+| diameter       = 17.7 inches (45 centimeters)&lt;ref name=&quot;navyhist&quot;/&gt; 
+&lt;!-- Ranged weapon specifications --&gt;
+| range          = 1000-4000 yards&lt;ref name=&quot;navyhist&quot;/&gt; 
+&lt;!-- Explosive specifications --&gt;
+| filling        = wet [[guncotton]]&lt;ref name=&quot;navyhist&quot;/&gt; 
+| filling_weight = 200 pounds&lt;ref name=&quot;navyhist&quot;/&gt; 
+| detonation     = War Nose Mk 5 contact exploder&lt;ref name=&quot;navyhist&quot;/&gt;
+&lt;!-- Vehicle/missile specifications --&gt;
+| engine         = 4-cylinder [[Reciprocating engine|reciprocating]]&lt;ref name=&quot;navyhist&quot;/&gt; 
+| speed          = 27-40 knots&lt;ref name=&quot;navyhist&quot;/&gt; 
+| guidance       = [[gyroscope]]&lt;ref name=&quot;navyhist&quot;/&gt;
+| launch_platform = [[battleship]]s, [[torpedo boat]]s and [[submarine]]s&lt;ref name=&quot;navyhist&quot;/&gt;
+}}
+
+The '''Whitehead Mark 5 torpedo''' was a [[Whitehead torpedo]] adopted by the [[United States Navy]] for use in an [[Anti-surface warfare|anti-surface ship]] role in 1910. The Mark 5 was the first torpedo to be manufactured by a foreign company, the Whitehead facility in the [[United Kingdom]],&lt;ref&gt;{{cite web | title = United States of America, Torpedoes Pre-World War II  | url=http://www.navweaps.com/Weapons/WTUS_PreWWII.htm  | accessdate = 25 June 2013}}&lt;/ref&gt; and in 1908, by the [[Naval Torpedo Station]] in [[Newport, Rhode Island]]. It was also the first torpedo to allow the firing ship to vary its speed and range.&lt;ref name=naval/&gt;
+
+==Characteristics==
+The Mark 5 was a &quot;hot-running&quot; (powered by heated air) torpedo, as opposed to previous Whitehead designs, which were &quot;cold-running&quot;. It was similar in performance to the  [[Bliss-Leavitt torpedo]]es of that era. Around 500 units were produced by the Naval Torpedo Station and [[Vickers Limited]]. The Mark 5 had variable speed; at a high speed of 40 knots, it had a range of 1000 yards. A low speed of 27 knots allowed the weapon a range of 4000 yards; at medium speed of 36 knots, its range was 2000 yards. This variable speed was set before loading the torpedo in its [[torpedo tube|tube]] by adjusting the reducing valve.&lt;ref name=naval/&gt; 
+
+The Mark 5 was, however, overshadowed by the increasing efficiency and range of [[Bliss-Leavitt torpedo]]es. In 1922, all torpedoes prior to the [[Bliss-Leavitt Mark 7 torpedo]] in the US Navy's inventory were condemned in favor of more modern versions.&lt;ref name=naval/&gt; 
+
+The Mark 5 was launched from [[battleship]]s, [[torpedo boat]]s and [[submarine]]s.
+
+==References==
+{{Reflist}}
+{{Mark-series torpedoes}}
+{{DEFAULTSORT:Whitehead Mark 5 torpedo}}
+[[Category:Torpedoes]]
+[[Category:Torpedoes of the United States]]
+[[Category:Unmanned underwater vehicles]]
+[[Category:Whitehead torpedoes]]</text>
+      <sha1>4w2hb7ly3mvts3z84la89i40s9h2jr3</sha1>
+    </revision>
+  </page>
+</mediawiki>

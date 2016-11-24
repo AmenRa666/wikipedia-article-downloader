@@ -1,0 +1,118 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>PGM-1-class motor gunboat</title>
+    <ns>0</ns>
+    <id>20912217</id>
+    <revision>
+      <id>718427872</id>
+      <parentid>706493087</parentid>
+      <timestamp>2016-05-03T13:12:11Z</timestamp>
+      <contributor>
+        <username>Fmadd</username>
+        <id>28072462</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1821">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:USS PGM-2.jpg|300px]]
+|Ship caption=''PGM-2'' after her conversion
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before=
+|Class after=''PGM-9'' class motor gunboat
+|Subclasses=
+|Built range=1942-1943
+|In commission range=
+|Total ships building=
+|Total ships planned=8
+|Total ships completed=8
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=1
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=Patrol gunboat, motor (PGM)
+|Ship displacement=95 tons
+|Ship length=110 feet 10 inches
+|Ship beam=23 feet
+|Ship draft=10 feet 10 inches
+|Ship propulsion=*2 × 1,540bhp Electro-Motive Corp. 16-184A diesel engines
+*2 × shafts
+|Ship speed=21 knots
+|Ship range=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=Varies
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The '''''PGM-1'' class motor gunboats''' were a class of eight gunboats converted for the [[United States Navy]] from 1943-1944 and were succeeded by the ''PGM-9'' class motor gunboat.  All eight ''PGM-1''s were converted from [[SC-497 class submarine chaser]]s.  The ''PGM-1''s were created to support [[PT boats]] in the Pacific, but were too slow to keep up.  The ''PGM-1'' was discontinued and the ''PGM-9'', also too slow, was shifted to support [[minesweeping ships]] instead.
+
+''PGM-7'' was the only ''PGM-1'' lost in World War II.  The others were sent to the Foreign Liquidation Commission in 1947.  Their exact fate is unknown.
+
+==Sources==
+*[http://www.ww2pcsa.org/subchaser.html INFORMATION ON WWII SCs]
+
+{{PGM-1 class motor gunboat}}
+[[Category:Gunboats of the United States Navy]]
+[[Category:PGM-1-class motor gunboats| ]]</text>
+      <sha1>pkoys9hc3rkupnvr4ugbluqcnbz6348</sha1>
+    </revision>
+  </page>
+</mediawiki>

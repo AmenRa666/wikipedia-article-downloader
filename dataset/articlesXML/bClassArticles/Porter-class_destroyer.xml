@@ -1,0 +1,262 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Porter-class destroyer</title>
+    <ns>0</ns>
+    <id>2554936</id>
+    <revision>
+      <id>737363863</id>
+      <parentid>720874287</parentid>
+      <timestamp>2016-09-02T08:09:33Z</timestamp>
+      <contributor>
+        <username>Micraboy</username>
+        <id>10180733</id>
+      </contributor>
+      <minor/>
+      <comment>Wikilink &lt;with template sclass-&gt; to the first occurrence.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15253">
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Porter DD-356.jpg|300px]]
+|Ship caption={{USS|Porter|DD-356|6}} in 1939
+}}
+{{Infobox ship class overview
+|Name= ''Porter'' class
+|Builders=*[[New York Shipbuilding]], [[Camden, New Jersey]]
+*[[Bethlehem Shipbuilding Corporation]] ([[Fore River Shipyard]])
+|Operators=[[File:US flag 48 stars.svg|23px]] [[United States Navy]]
+|Class before={{sclass-|Farragut|destroyer (1934)|4}}
+|Class after={{sclass-|Mahan|destroyer|4}}
+|Subclasses=
+|Built range=1933–37
+|In commission range=1936–50
+|Total ships building=
+|Total ships planned=
+|Total ships completed=8
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=1
+|Total ships retired=7
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Destroyer]]
+|Ship displacement=*1,850&amp;nbsp;tons standard,
+*2,663&amp;nbsp;tons full load
+|Ship length={{convert|381|ft|m|abbr=on}} 
+|Ship beam={{convert|36|ft|2|in|m|abbr=on}} 
+|Ship draft={{convert|10|ft|5|in|m|abbr=on}}
+|Ship power=*4 [[Babcock &amp; Wilcox boiler]]s,
+*2 [[gear|geared]] [[steam turbine]]s,
+*{{convert|50,000|shp|kW}}
+|Ship propulsion=2 shafts
+|Ship speed={{convert|37|kn|abbr=on}}
+|Ship range={{convert|6380|nmi}} at {{convert|12|kn|abbr=on}}
+|Ship complement=*13 officers, 193 enlisted (peacetime)
+*290 (wartime)
+|Ship sensors=
+|Ship EW=
+|Ship armament=*'''As Built:'''
+* 8 × [[5&quot;/38 caliber gun|5-inch/38 caliber guns]] (127 mm) (4 × 2)
+* 8 × [[1.1&quot;/75 caliber gun|1.1-inch/75 caliber guns]] (28 mm) (2 × 4)
+* 2 × [[M2 Browning|.50 caliber machine guns]] (12.7 mm)
+* 8 × {{convert|21|in|mm|adj=on|0}} [[torpedo tube]]s (2 × 4), 16 [[torpedo]]es
+* 2 × [[depth charge]] stern racks
+*'''c. 1942:'''
+* 8 × [[5&quot;/38 caliber gun|5-inch/38 caliber guns]] (4 × 2)
+* 2 × [[Bofors 40 mm gun]]s (1 × 2)
+* 6 × [[Oerlikon 20 mm cannon|20 mm Oerlikon cannons]]
+* 8 × 21 inch [[torpedo tube]]s (2 × 4), 16 [[torpedo]]es
+* 2 × [[depth charge]] stern racks
+|Ship armor=
+|Ship aircraft=
+|Ship notes='''Armament varied greatly from ship to ship during World War II.'''
+}}
+|}
+
+The '''''Porter''-class destroyers''' were a class of eight 1,850-ton large [[destroyer]]s in the [[United States Navy]]. Like the preceding {{sclass-|Farragut|destroyer|0}}, their construction was authorized by Congress on 26 April 1916, but funding was delayed considerably. They were designed based on a 1,850-ton [[standard displacement]] limit imposed by the [[London Naval Treaty]]; the treaty's tonnage limit allowed 13 ships of this size, and the similar {{sclass-|Somers|destroyer|4}} was built later to meet the limit. The first four ''Porter''s were laid down in 1933 by [[New York Shipbuilding]] in [[Camden, New Jersey]] and the next four in 1934 at [[Bethlehem Steel Corporation]] in [[Quincy, Massachusetts]]. All were commissioned in 1936 except ''Winslow'', which was commissioned in 1937. They were built in response to the [[Fubuki-class destroyer|large destroyers]] that the [[Imperial Japanese Navy]] was building at the time, and were initially leaders of destroyer flotillas. They served extensively in [[World War II]], in the [[Pacific War]], the [[Battle of the Atlantic|Atlantic]], and in the [[Americas]]. {{USS|Porter|DD-356|2}} was the class's only loss, in the [[Battle of the Santa Cruz Islands]] on 26 October 1942.
+
+==Design==
+The larger [[destroyer leader]] type had been under active consideration since 1921. Indeed the [[General Board of the United States Navy|General Board]] recommended the construction of five of the type in that year.  One factor in favor of leaders was the Navy's total lack of modern [[light cruiser]]s, only partly alleviated by the ten {{sclass-|Omaha|cruiser|0}} ships built in the 1920s. Naval historian Norman Friedman believed that the great number of {{sclass-|Wickes|destroyer|5}} and {{sclass-|Clemson|destroyer|2}}s hindered the U.S. Congress from purchasing new leaders. The General Board was very interested in equipping such a type with the new higher pressure and higher temperature steam propulsion equipment also proposed for the ''Farragut''-class destroyers; this would extend the ships' range.&lt;ref&gt;Friedman, p.77&lt;/ref&gt; The [[London Naval Treaty]] and [[Le Fantasque-class destroyer|large French destroyers]] (France did not sign the treaty and built ships well in excess of its limits) seem to have become the tipping points, with the 1930 recommendations beginning the cycle to actually build ships.&lt;ref name=&quot;Friedman, p.79&quot;&gt;Friedman, p.79&lt;/ref&gt; The [[World Disarmament Conference|Geneva proposals]] for destroyers also seem to have influence the design, as the Destroyer Leader proposals limited themselves to 1,850 tons per the proposals; these tonnage limits were eventually included in the London treaty.&lt;ref name=&quot;Friedman, p.79&quot;/&gt;
+
+===Engineering===
+The ''Porter''s had the same propulsion technology as the immediately preceding ''Farragut''s, with {{convert|400|psi|abbr=on}} steam [[superheated steam|superheated]] to {{convert|645|°F|abbr=on}}. The plant was somewhat larger than in the ''Farragut''s, with designed horsepower increased from {{convert|42,800|shp|kW|lk=in}} to {{convert|50,000|shp|kW}}, resulting in a speed of {{convert|37|kn|abbr=on|lk=in}}.&lt;ref&gt;Friedman, pp. 84, 464&lt;/ref&gt; Along with the improved fuel efficiency resulting from superheated steam, the four boilers included [[economizer]]s to further extend the ships' range by preheating incoming [[feedwater]]. The main [[steam turbines]] were manufactured by [[New York Shipbuilding]] in the case of the ships built by that yard. However, as in the ''Farragut''s, the main turbines had single reduction [[gear|gearing]] and no cruising turbines, limiting their efficiency.&lt;ref&gt;[http://destroyerhistory.org/assets/pdf/generalinformationbooks/356porter_GIBook.pdf USS ''Porter'', USS ''Selfridge'', USS ''McDougal'', and USS ''Winslow'' General Information Book with as-built data] at [http://destroyerhistory.org/ Destroyer History Foundation]&lt;/ref&gt;
+
+===Armament===
+[[File:USSPhelpsDD360.jpg|thumb|300px|left|{{USS|Phelps|DD-360|6}} in November 1944, with five dual-purpose 5-inch guns]]
+There were extensive discussions about the armament, the [[5&quot;/25 caliber gun|{{convert|5|in|mm|adj=on|0}}/25 caliber]] [[anti-air warfare|anti-aircraft (AA) gun]] being favored as being easy to work and train in a fast moving and lively type of ship. The other candidate was the [[5&quot;/51 caliber gun|5-inch/51 caliber]] surface type, being very powerful but all but useless against aircraft.  It was a discussion made more interesting as the [[5&quot;/38 caliber  gun|5-inch/38 caliber dual purpose gun]] became available in the early 1930s and the Ordnance Department favored it rather strongly. The 5-inch/38 gun was simply a 5-inch/25 gun with the same projectiles and a longer barrel, but that significantly increased its range against both air and surface targets.&lt;ref name=&quot;NavWeaps5in38mounts&quot;/&gt;&lt;ref name=&quot;Friedman, p.79&quot;/&gt; The class was originally built with eight [[5&quot;/38 caliber gun|Mk 12 5-inch/38 caliber guns]] in four Mark 22 single purpose (surface action only) twin [[gunhouse|enclosed mounts]]; the single purpose weapons were adopted to save weight.&lt;ref name=&quot;NavWeaps5in38mounts&quot;&gt;{{cite web |url=http://www.navweaps.com/Weapons/WNUS_5-38_mk12.htm|title=DiGiulian, Tony, 5&quot;/38 (12.7 cm) Mark 12 at Navweaps.com |accessdate=2007-08-29}}&lt;/ref&gt; Anti-aircraft protection was provided by two quadruple [[1.1&quot;/75 caliber gun|1.1-inch (28 mm)]] mounts; in the 1930s this was considered sufficient. Although the ''Porter''s had the same eight {{convert|21|in|mm|adj=on|0}} [[torpedo tube]]s as the ''Farragut''s, a full set of reloads was carried. The class was initially equipped with the [[Mark 11 torpedo]] or [[Mark 12 torpedo]], which were replaced by the [[Mark 15 torpedo]] beginning in 1938.&lt;ref&gt;{{cite web | title = Torpedo History: Torpedo Mk 11, Mk 12 and Torpedo Mk 15 | url= http://www.history.navy.mil/museums/keyport/html/part2.htm | accessdate = 2015-07-07}}&lt;/ref&gt; The heavy armament proved to be top-heavy, and aircraft were becoming a greater threat, so during World War II on most of the class, mounts 51 and 54 were replaced with dual purpose (surface action and air action) twin mounts,&lt;ref name=&quot;NavWeaps5in38mounts&quot;/&gt; and the original 1.1-inch guns were replaced with [[40 mm Bofors]] and [[20 mm Oerlikon]] weapons.  In some ships, mount 52 was replaced by a quad [[Bofors 40 mm gun|40&amp;nbsp;mm]] mount, and mount 53 became a single 5&amp;nbsp;in/38 cal dual purpose mount for a total of five 5-inch dual purpose guns.  Additional 40&amp;nbsp;mm guns were added amidships along with 20&amp;nbsp;mm weapons. On most ships four [[K-gun]] [[depth charge]] throwers were added to augment the as-built pair of depth charge racks. In some cases late in the war, (DD-357, DD-359, DD-360) the torpedo tubes, two K-guns, and one depth charge rack were removed to accommodate additional light AA armament, for a total of sixteen 40 mm cannons in three quad and two twin mounts and four 20 mm in two twin mounts.&lt;ref&gt;Bauer and Roberts, pp. 183-184&lt;/ref&gt;&lt;ref&gt;Gardiner and Chesneau, p. 125&lt;/ref&gt;&lt;ref&gt;Friedman, p. 219&lt;/ref&gt;
+
+==Service==
+{{USS|McDougal|DD-358|2}}, {{USS|Winslow|DD-359|2}}, and {{USS|Moffett|DD-362|2}} were among the ships that supported the [[Franklin D. Roosevelt|Roosevelt]]-[[Winston S. Churchill|Churchill]] conference at [[Placentia Bay]] near [[Argentia]], [[Newfoundland]] that resulted in the [[Atlantic Charter]] in August 1941. {{USS|Selfridge|DD-357|2}} and {{USS|Phelps|DD-360|2}} were in port during the [[attack on Pearl Harbor]] on 7 December 1941 and engaged enemy aircraft. The class served in the [[Battle of the Atlantic]], in the [[Pacific War]], and escorted convoys in the [[Americas]]. ''Phelps'' was at the [[Battle of the Coral Sea]] and the [[Battle of Midway]], scuttling the disabled [[aircraft carrier]] {{USS|Lexington|CV-2|2}} with torpedoes at the former battle. ''Balch'' rescued survivors of the aircraft carrier {{USS|Yorktown|CV-5|2}} at Midway. While operating out of [[Trinidad]] in the [[Caribbean]], ''Moffett'' assisted in sinking two [[U-boat]]s, {{GS|U-128|1941|2}} and {{GS|U-604||2}}. Notable engagements for other ships of the class included the [[Battle of Guadalcanal|invasion of Guadalcanal]] and the [[Marianas campaign]]. By September 1944 the class was concentrated in the Atlantic. {{USS|Porter|DD-356|2}} was the class's only loss, in the [[Battle of the Santa Cruz Islands]] on 26 October 1942. {{USS|Selfridge|DD-357|2}} lost her bow to a torpedo in the [[Naval Battle of Vella Lavella]] on 6 October 1943, but was repaired. ''McDougal'' and ''Winslow'' were reclassified as AG-126 and AG-127 in September 1945 and modified for anti-''[[kamikaze]]'' research in a similar configuration to {{sclass-|Gearing|destroyer|0}} [[radar picket]] destroyers. All except ''Winslow'' were scrapped shortly after the war; ''Winslow'' remained in service as a training ship until 1950 and was scrapped in 1959.&lt;ref&gt;Bauer and Roberts, pp. 183-184&lt;/ref&gt;
+
+==Ships in class==
+The eight ships of the ''Porter'' class were:&lt;ref&gt;Bauer and Roberts, pp. 183-184&lt;/ref&gt;
+
+{| class=&quot;sortable wikitable&quot;
+! Name 
+! Hull no.
+! Builder
+! Laid down
+! Launched 
+! Commissioned
+! Fate
+|-
+|{{USS|Porter|DD-356|2}}
+|DD-356
+|[[New York Shipbuilding]], [[Camden, New Jersey]]
+|18 December 1933
+|12 December 1935
+|27 August 1936
+|Lost in the [[Battle of the Santa Cruz Islands]] 26 October 1942 to a torpedo, either from the {{ship|Japanese submarine|I-21|1940|2|up=yes}}&lt;ref&gt;{{cite book|last=Hammel|first=Eric|title=Guadalcanal: The Carrier Battles|year=1987|publisher=Crown Publishers, Inc.|location=New York|pages=411-413}}&lt;/ref&gt; or &quot;friendly fire&quot; from a ditching [[Grumman TBF Avenger]]&lt;ref&gt;{{cite book
+ | last = Frank
+ | first = Richard B.
+ | authorlink = Richard B. Frank
+ | year = 1990
+ | title = Guadalcanal : The Definitive Account of the Landmark Battle
+ | publisher = [[Penguin Group]]
+ | location = New York
+ | pages = 388-389
+ | isbn = 0-14-016561-4
+}}&lt;/ref&gt;
+|-
+|{{USS|Selfridge|DD-357|2}}
+|DD-357
+|New York Shipbuilding
+|18 December 1933
+|18 April 1936
+|25 November 1936
+|Scrapped 1946
+|-
+|{{USS|McDougal|DD-358|2}}
+|DD-358
+|New York Shipbuilding
+|18 December 1933
+|17 July 1936
+|23 December 1936
+|Reclassified AG-126 17 September 1945, scrapped 1949
+|-
+|{{USS|Winslow|DD-359|2}}
+|DD-359
+|New York Shipbuilding
+|18 December 1933
+|21 September 1936
+|17 February 1937
+|Reclassified AG-127 17 September 1945, decommissioned 28 June 1950, scrapped 1959
+|-
+|{{USS|Phelps|DD-360|2}}
+|DD-360
+|[[Fore River Shipbuilding]], [[Quincy, Massachusetts]]
+|2 January 1934
+|18 July 1935
+|26 February 1936
+|Scrapped 1947
+|-
+|{{USS|Clark|DD-361|2}}
+|DD-361
+|Fore River Shipbuilding
+|2 January 1934
+|15 October 1935
+|20 May 1936
+|Scrapped 1946
+|-
+|{{USS|Moffett|DD-362|2}}
+|DD-362
+|Fore River Shipbuilding
+|2 January 1934
+|11 December 1935
+|28 August 1936
+|Scrapped 1947
+|-
+|{{USS|Balch|DD-363|2}}
+|DD-363
+|Fore River Shipbuilding
+|16 May 1934
+|24 March 1936
+|20 October 1936
+|Scrapped 1946
+|-
+|}
+
+==See also==
+{{commons category|Porter class destroyers}}
+* {{sclass-|Somers|destroyer|1}}
+
+==References==
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+* {{cite book | last = Bauer | first = K. Jack | authorlink = K. Jack Bauer | author2=Roberts, Stephen S. | title = Register of Ships of the U.S. Navy, 1775-1990: Major Combatants | publisher = Greenwood Press | year = 1991 | location = [[Westport, Connecticut]] | url = | doi = | isbn = 0-313-26202-0 }}
+* {{cite book | last = Friedman | first = Norman | authorlink = Norman Friedman | title = US Destroyers: An Illustrated Design History (Revised Edition) | publisher = Naval Institute Press | year = 2004 | location = Annapolis | url = | doi = | isbn = 1-55750-442-3 }}
+* Gardiner, Robert and Chesneau, Roger, ''Conway's All the World's Fighting Ships 1922-1946'', London: Conway Maritime Press, 1980. ISBN 0-83170-303-2.
+* {{cite book| title=U.S. Warships of World War II |author=Silverstone, Paul H. |publisher = Ian Allan Ltd |location = London |year=1965}}
+* {{DANFS}}
+
+==External links==
+*[http://destroyerhistory.org/goldplater/porterclass/ ''Porter''-class destroyers] at [http://destroyerhistory.org/ Destroyer History Foundation]
+*[http://destroyerhistory.org/assets/pdf/generalinformationbooks/356porter_GIBook.pdf USS ''Porter'', USS ''Selfridge'', USS ''McDougal'', and USS ''Winslow'' General Information Book with as-built data] at [http://destroyerhistory.org/ Destroyer History Foundation]
+* [http://destroyerhistory.org/goldplater/ &quot;Goldplater&quot; destroyers] at [http://destroyerhistory.org/ Destroyer History Foundation]
+* [http://destroyerhistory.org/goldplater/1850ton/ 1850-ton leader classes]] at [http://destroyerhistory.org/ Destroyer History Foundation]
+* [http://www.destroyers.org/Class/c-Porter.htm Tin Can Sailors @ Destroyers.org - ''Porter'' class destroyer]
+* [http://www.navsource.org/archives/05idx.htm NavSource Destroyer Photo Index Page]
+*{{DANFS}}
+
+{{Porter class destroyer}}
+{{WWIIUSShips}}
+
+[[Category:Destroyer classes]]
+[[Category:Porter-class destroyers| ]]
+[[Category:World War II destroyers of the United States| ]]
+[[Category:1930s ships]]</text>
+      <sha1>rdjzumx61y65vpcmtfl07qcaf1w9eja</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,101 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:1964 South Vietnamese coup</title>
+    <ns>1</ns>
+    <id>10723791</id>
+    <revision>
+      <id>694887696</id>
+      <parentid>694762189</parentid>
+      <timestamp>2015-12-12T08:08:50Z</timestamp>
+      <contributor>
+        <username>Graham Beards</username>
+        <id>4064894</id>
+      </contributor>
+      <comment>out of process</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2406">{{talkheader}}
+{{ArticleHistory
+| action1       =WAR 
+| action1date   =07:02, 26 September 2010 (UTC) 
+| action1link   =Wikipedia:WikiProject Military history/Assessment/1964 South Vietnamese coup 
+| action1result =Approved 
+| action1oldid  =386445424
+
+|dykdate=21 April 2007
+|dykentry=...that the '''[[1964 South Vietnamese coup]]''' by General [[Nguyen Khanh]] succeeded even though his accomplice General [[Tran Thien Khiem]] overslept?
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Vietnam|class=A|importance=}}
+{{WPMILHIST|class=A|A-Class=pass|Southeast-Asian=y}}
+}}
+{{OnThisDay|date1=2010-01-30|oldid1=340832226|date2=2014-01-30|oldid2=593146995}}
+
+== Nitpick on Lucien Conein that I'm not sure about... ==
+The article refers to Conein as a CIA agent, but I'm wondering if he was a CIA field officer.  His biography muddles the distinction further, and I can't tell in what capacity he worked for the CIA (field officer vs. agent being run by a CIA officer). [[User:TJSwoboda|TJSwoboda]] 18:07, 20 April 2007 (UTC)
+
+== Sudanese? ==
+The article says, &quot;He never rose to become the deputy chief of staff in the Vietnamese or Sudanese army...&quot;
+
+I'm no expert, but the Sudanese reference seems odd. --[[User:Quadrastreet|Quadrastreet]] 21:32, 20 April 2007 (UTC)
+:I agree.  The edit that added this strikes me as very subtle vandalism, even if its statement is technically true.  I think it should be reverted. [[User:TJSwoboda|TJSwoboda]] 22:56, 20 April 2007 (UTC)
+
+== File:Lbj tho.jpg Nominated for Deletion ==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Lbj tho.jpg|File:Lbj tho.jpg]], has been nominated for deletion at [[Wikimedia Commons]] in the following category: ''Deletion requests September 2011'' 
+;What should I do?
+''Don't panic''; a discussion will now take place over on Commons about whether to remove the file. This gives you an opportunity to contest the deletion, although please review Commons guidelines before doing so.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 21:58, 1 September 2011 (UTC)
+|}</text>
+      <sha1>cvs57qvqe58y01fpa33s9cd17tve58z</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Jean de Carrouges</title>
+    <ns>1</ns>
+    <id>12470957</id>
+    <revision>
+      <id>567758017</id>
+      <parentid>490437088</parentid>
+      <timestamp>2013-08-09T01:21:41Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:AWB/GF#Talk page general fixes|Talk page general fixes]] &amp; other cleanup using [[Project:AWB|AWB]] (9387)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1970">{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class= A|old-peer-review=yes|A-Class= pass|French-task-force=yes|Medieval-task-force=yes}}
+{{WikiProject Biography|living=no
+|class=GA
+|military-work-group=yes
+|listas=Carrouges, Jean De
+|military-priority=mid
+}}
+{{WikiProject France|class=GA|importance=mid}}
+}}
+
+{{ArticleHistory
+| action1=WPR
+| action1date=1 August 2007
+| action1link=Wikipedia:WikiProject Military history/Peer review/Jean de Carrouges
+| action1oldid=147964701
+|
+| action2       = GAN
+| action2date   = 26 August 2007
+| action2link   = 
+| action2result = listed
+| action2oldid  = 151741214
+|
+| action3       = WAR
+| action3date   = 2 September 2007
+| action3link   = Wikipedia:WikiProject Military history/Assessment/Jean de Carrouges
+| action3result = approved
+| action3oldid  = 154535710
+| 
+| action4       = GAR
+| action4date   = 15 October 2007
+| action4link   = Talk:Jean de Carrouges#GA Sweeps (Pass)
+| action4result = kept
+| action4oldid  = 163659844
+|
+| currentstatus = GA
+|
+| maindate      = 
+| dykdate       = 
+| aciddate      = 
+| ftname        = 
+| ftmain        = 
+| topic         =War
+| small         = 
+}}
+
+==Assessment==
+Wow, I'm putting this up for GA now, it should pass no problem, at first glance anyway. [[User:Wizardman|&lt;span style=&quot;color:#060&quot;&gt;'''''Wizardman'''''&lt;/span&gt;]] 02:14, 17 August 2007 (UTC)
+
+==GA Sweeps (Pass)==
+This article has been reviewed as part of [[Wikipedia:WikiProject Good articles/Project quality task force]]. I realise it was listed quite recently, and has been assessed by MilHist as A-class, but for thoroughness I have reassessed it anyway ;) I believe the article still meets the criteria and should remain listed as a [[WP:GA|Good article]]. The article history has been updated to reflect this review. Regards, [[User:EyeSerene|&lt;font color=&quot;RoyalBlue&quot;&gt;EyeSerene&lt;/font&gt;]]''&lt;sup&gt;&lt;small&gt;[[User talk:EyeSerene|&lt;font color=&quot;OliveDrab&quot;&gt;TALK&lt;/font&gt;]]&lt;/small&gt;&lt;/sup&gt;'' 17:56, 15 October 2007 (UTC)</text>
+      <sha1>2h6aobyr6wzdh7o3zmexqhfgsl5u2l3</sha1>
+    </revision>
+  </page>
+</mediawiki>

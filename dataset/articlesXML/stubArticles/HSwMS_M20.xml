@@ -1,0 +1,127 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HSwMS M20</title>
+    <ns>0</ns>
+    <id>23609845</id>
+    <revision>
+      <id>617158099</id>
+      <parentid>617157630</parentid>
+      <timestamp>2014-07-16T09:00:57Z</timestamp>
+      <contributor>
+        <username>Gbawden</username>
+        <id>3957791</id>
+      </contributor>
+      <comment>no longer an orphan</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1776">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS M 20.JPG|300px|M 20]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag= {{shipboxflag|Sweden|naval}}
+|Ship name= ''M 20''
+|Ship namesake=
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched= 1941
+|Ship acquired=
+|Ship commissioned=18 December 1941
+|Ship decommissioned=2005
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=
+|Ship status=Museum ship
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type= [[Minesweeper (ship)|Minesweeper]]
+|Ship displacement= {{convert|70|LT|t|0|abbr=on}}
+|Ship length= {{convert|27|m|ftin|abbr=on}}
+|Ship beam= {{convert|5|m|ftin|abbr=on}}
+|Ship draught= {{convert|1.5|m|ftin|abbr=on}}
+|Ship propulsion=
+|Ship speed= {{convert|13|kn|lk=in}}
+|Ship range=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=• 1× [[Oerlikon 20 mm cannon|20 mm cannon]]
+|Ship armour=
+|Ship notes=
+}}
+|}
+'''HSwMS ''M 20''''' was a [[Minesweeper (ship)|minesweeper]] that served in the [[Swedish Navy]]. Built in 1941 of [[mahogany]] on a steel frame, ''M 20'' represents legendary shipbuilding and was in service from 1941 until 2005.
+
+Decommissioned in 2005 she is now owned by SMM (Swedish Maritime Museums) and operated and maintained by the association &quot;Föreningen M 20&quot;.
+
+==External links==
+* [http://www.minsveparen.se Föreningen M 20] {{sv icon}}
+{{Use dmy dates|date=February 2011}}
+
+{{DEFAULTSORT:M 20}}
+[[Category:Mine warfare vessels of the Swedish Navy]]
+[[Category:World War II minesweepers]]
+[[Category:1941 ships]]
+[[Category:Museum ships in Sweden]]
+[[Category:Ships built in Sweden]]</text>
+      <sha1>80i1epnjdprsok2d494ihk6paaxmrq7</sha1>
+    </revision>
+  </page>
+</mediawiki>

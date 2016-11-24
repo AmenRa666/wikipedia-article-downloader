@@ -1,0 +1,266 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese battleship Musashi</title>
+    <ns>0</ns>
+    <id>208417</id>
+    <revision>
+      <id>750687511</id>
+      <parentid>750446082</parentid>
+      <timestamp>2016-11-21T07:23:03Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36780">{{Other ships|Musashi (ship)}}
+{{featured article}}
+{{use British English|date=June 2013}}
+
+{|{{Infobox ship begin|infobox caption=''Musashi''}}
+{{Infobox ship image
+| Ship image = [[File:Japanese battleship Musashi cropped.jpg|border|300px|alt=Musashi]]
+| Ship caption = ''Musashi'' leaving [[Brunei]] in October 1944 for the [[Battle of Leyte Gulf]]
+}}
+{{Infobox ship career
+|Hide header =
+| Ship country =[[Empire of Japan]]
+| Ship flag={{Shipboxflag|Japan|naval}}
+| Ship name =''Musashi''
+| Ship namesake =[[Musashi Province|Province of Musashi]]
+| Ship ordered = June 1937
+| Ship builder = [[Mitsubishi Heavy Industries|Mitsubishi Shipyard]], [[Nagasaki]]
+| Ship laid down = 29 March 1938
+| Ship launched = 1 November 1940
+| Ship commissioned = 5 August 1942
+| Ship fate = Sunk during the [[Battle of Leyte Gulf]], 24 October 1944
+| Ship struck = 31 August 1945
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{Sclass-|Yamato|battleship}}
+| Ship displacement =*{{convert|68200|LT|t}} (normal) 
+*{{convert|72800|LT|t}} ([[Full-load displacement|full load]])
+| Ship length =*{{convert|244|m|ftin|abbr=on}} ([[Length between perpendiculars|p/p]]) 
+*{{convert|263|m|ftin|abbr=on}} ([[Length overall|o/a]])
+| Ship beam = {{convert|36.9|m|ftin|abbr=on}}
+| Ship draft = {{convert|10.86|m|ftin|abbr=on}} (full load)
+| Ship power =*{{convert|150000|shp|kW|lk=in|abbr=on}}
+*12 × Kanpon [[water-tube boiler]]s
+| Ship propulsion =*4 × [[propeller]]s 
+*4 × [[steam turbine]]s
+| Ship speed = {{convert|27.46|kn|lk=in}}
+| Ship range = {{convert|7200|nmi|lk=in|abbr=on}} at {{convert|16|kn}}
+| Ship complement = 2,500
+| Ship sensors =*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]]
+*1 × Type 0 [[hydrophone]] system
+| Ship EW =
+| Ship armament =* (September 1942)
+* 3 triple [[40 cm/45 Type 94|46&amp;nbsp;cm Type 94 guns]]
+* 4 triple [[15.5 cm/60 3rd Year Type naval gun|15.5&amp;nbsp;cm 3rd Year Type guns]]
+* 6 twin [[12.7 cm/40 Type 89 naval gun|12.7&amp;nbsp;cm Type 89]]
+* 12 triple [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96]] [[AA gun]]s
+* 2 twin [[13.2 mm Hotchkiss machine gun|13.2&amp;nbsp;mm Type 93]] [[Anti-aircraft machinegun|AA machine guns]]
+* (October 1944)
+* 3 triple [[40 cm/45 Type 94|46&amp;nbsp;cm Type 94 guns]]
+* 2 triple [[15.5 cm/60 3rd Year Type naval gun|15.5&amp;nbsp;cm 3rd Year Type guns]]
+* 6 double [[12.7 cm/40 Type 89 naval gun|12.7&amp;nbsp;cm Type 89]]
+* 35 triple, 25 single [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96]] [[AA gun]]s
+* 2 twin [[13.2 mm Hotchkiss machine gun|13.2&amp;nbsp;mm Type 93]] AA MGs
+|Ship armour=* [[Belt armor|Waterline belt]]: {{convert|400|mm|in|abbr=on|1}}
+* [[Deck (ship)|Deck]]: {{convert|200|-|230|mm|in|abbr=on|1}}
+* [[Gun turret]]s: {{convert|250|-|650|mm|in|abbr=on|1}}
+* [[Barbette]]s: {{convert|380|-|560|mm|in|abbr=on|1}}
+* [[Conning tower]]: {{convert|500|mm|in|abbr=on|1}}
+* [[Bulkhead (partition)|Bulkheads]]: {{convert|300|-|340|mm|in|1|abbr=on}}
+
+| Ship aircraft =* 6–7 [[floatplane]]s
+*[[Nakajima E8N]] or [[Nakajima E4N]]
+| Ship aircraft facilities = 2 × [[aircraft catapult|catapults]]
+| Ship notes =
+}}
+|}
+
+[[File:1938 Japan Navy battleship.jpg|thumb|''Musashi'', August 1942, taken from the bow]]
+
+{{nihongo|'''''Musashi'''''|武蔵}} was the second ship of the [[Yamato-class battleship|''Yamato'' class]] of  [[Imperial Japanese Navy]] [[World War II]] [[battleship]]s.
+
+She and her sister ship, {{ship|Japanese battleship|Yamato||2}}, were the heaviest battleships ever constructed, displacing 72,800&amp;nbsp;tonnes at full load and armed with nine 46&amp;nbsp;cm (18.1&amp;nbsp;inch) [[40 cm/45 Type 94|45 Caliber Type 94]] main guns, which were the largest guns ever mounted on a warship. Neither ship survived the war.
+
+Named after Japan's ancient [[Musashi Province]],&lt;ref&gt;Silverstone, p. 334&lt;/ref&gt; the ''Musashi'' was commissioned in mid-1942, modified to serve as the [[flagship]] of the [[Combined Fleet]], and spent the rest of the year [[Glossary of nautical terms#W|working up]]. The ship was transferred to [[Chuuk Lagoon|Truk]] in early 1943 and sortied several times that year with the fleet in unsuccessful searches for American forces. She was used to transfer forces and equipment between Japan and various occupied islands several times in 1944. Torpedoed in early 1944 by an American [[submarine]], ''Musashi'' was forced to return to Japan for repairs, where the navy greatly augmented her [[anti-aircraft warfare|anti-aircraft armament]]. She was present during the [[Battle of the Philippine Sea]] in June, but did not come in contact with American surface forces. ''Musashi'' was sunk by an estimated 19 torpedo and 17 bomb hits from American [[carrier-based aircraft]] on 24 October 1944 during the [[Battle of Leyte Gulf]]. Over half of her crew was rescued.
+
+Her wreck was located in March 2015 by [[Microsoft]] co-founder [[Paul Allen]] and his team of researchers.
+
+==Design and description==
+{{Main article|Yamato-class battleship}}
+During the 1930s the Japanese government adopted an [[ultranationalist]] militancy with a view to greatly expanding the [[Japanese Empire]].&lt;ref&gt;Willmott (2000), p. 32.&lt;/ref&gt; Japan withdrew from the [[League of Nations]] in 1934, renouncing its treaty obligations.&lt;ref&gt;Garzke and Dulin (1985), p. 44.&lt;/ref&gt; After withdrawing from the [[Washington Naval Treaty]], which limited the size and power of capital ships, the Imperial Japanese Navy began their design of the new [[Yamato-class battleship|''Yamato'' class]] of heavy battleships. Their planners recognized Japan would be unable to compete with the output of U.S. naval shipyards should war break out, so the 70,000&amp;nbsp;ton&lt;ref name=jackson74&gt;Jackson (2000), p. 74; Jentshura, Jung and Mickel (1977), p. 38.&lt;/ref&gt; vessels of the ''Yamato'' class were designed to be capable of engaging multiple enemy battleships at the same time.&lt;ref name=johnston122&gt;Johnston and McAuley (2000), p. 122.&lt;/ref&gt;&lt;ref&gt;Willmott (2000), p. 35. The Japanese Empire produced 3.5% of the world's industrial output, while the United States produced 35%.&lt;/ref&gt;&lt;ref&gt;Garzke &amp; Dulin, p. 45&lt;/ref&gt;
+
+''Musashi'' had a length of {{convert|244|m|ftin|sp=uk|sigfig=3}} [[Length between perpendiculars|between perpendiculars]] and {{convert|263|m|ftin|sp=uk}} [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|36.9|m|ftin|sp=uk}}&lt;ref name=c8&gt;Chesneau, p. 178&lt;/ref&gt; and a [[draft (ship)|draft]] of {{convert|10.86|m|sp=uk}} at [[Full-load displacement|deep load]].&lt;ref name=s10&gt;Skulski, p. 10&lt;/ref&gt; she [[displacement (ship)|displaced]] {{convert|64000|LT|t}} at [[Standard displacement#Standard displacement|standard load]] and {{convert|71659|LT|t}} at deep load. Her crew consisted of 2,500 officers and enlisted men in 1942, and about 2,800 in 1944.&lt;ref name=j8&gt;Jentschura, Jung &amp; Mickel, p. 38&lt;/ref&gt;
+
+The battleship had four sets of Kampon geared [[steam turbine]]s, each of which drove one propeller shaft. The turbines were designed to produce a total of {{convert|150000|shp|lk=in}}, using steam provided by 12 Kampon [[water-tube boiler]]s, to give her a maximum speed of {{convert|27|kn|lk=in}}. She had a stowage capacity of {{convert|6300|LT|t|abbr=on}} of [[fuel oil]], giving a range of {{convert|7200|nmi|lk=in}} at a speed of {{convert|16|kn}}.&lt;ref name=j8/&gt;
+
+===Armament===
+''Musashi''{{'}}s [[main battery]] consisted of nine 45-[[caliber (artillery)|calibre]] [[40 cm/45 Type 94|{{convert|46|cm|in|1|abbr=on}} Type 94]] guns mounted in three triple [[gun turret]]s, numbered from front to rear, each with an elevation range of −5 to +45 degrees. They fired a {{convert|1460|kg|adj=on}} [[Shell (projectile)#Armour-piercing|armour-piercing (AP) shell]] to a range of {{convert|42000|m|yd|sp=uk}}.&lt;ref&gt;Skulski, pp. 18–19&lt;/ref&gt; These were the largest-calibre guns ever fitted to a ship.&lt;ref&gt;Bawal, p. 177&lt;/ref&gt; The guns had a rate of fire of 1.5 to 2 rounds per minute.&lt;ref name=c8/&gt;
+
+The ship's [[battleship secondary armament|secondary battery]] consisted of twelve 60-calibre [[15.5 cm/60 3rd Year Type naval gun|{{convert|15.5|cm|in|1|abbr=on}} 3rd Year Type guns]] mounted in four triple turrets, one each fore and aft of the superstructure and one on each side [[amidships]]. These had become available once the ''Mogami''-class cruisers were rearmed with [[20 cm/50 3rd Year Type naval gun|{{convert|20.3|cm|adj=on}}]] guns.&lt;ref&gt;Garzke &amp; Dulin, pp. 91–92&lt;/ref&gt; With a {{convert|55.87|kg|sp=uk|adj=on}} AP shell, the guns had a maximum range of {{convert|27400|m|yd|sp=uk}} at an elevation of 45 degrees. Their rate of fire was five rounds per minute.&lt;ref&gt;Campbell, pp. 187–88&lt;/ref&gt; Heavy [[anti-aircraft warfare|anti-aircraft defence]] was provided by a dozen 40-calibre [[12.7 cm/40 Type 89 naval gun|127-millimetre Type 89]] [[dual-purpose gun]]s in six twin turrets, three on each side of the superstructure.&lt;ref name=c8/&gt; When firing at surface targets, the guns had a range of {{convert|14700|m|yd|sp=uk}}; they had a maximum ceiling of {{convert|9440|m|ft}} at their maximum elevation of 90 degrees. Their maximum rate of fire was 14 rounds a minute; their sustained rate of fire was around eight rounds per minute.&lt;ref&gt;Campbell, pp. 192–93&lt;/ref&gt;
+
+''Musashi'' also carried thirty-six [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96]] light [[Anti-aircraft gun|anti-aircraft (AA) guns]] in triple-gun mounts, all mounted on the superstructure.&lt;ref name=s20&gt;Skulski, p. 20&lt;/ref&gt; These {{convert|25|mm|in|adj=on}} guns had an effective range of {{convert|1500|-|3000|m|yd|sp=uk}}, and an effective ceiling of {{convert|5500|m|ft}} at an elevation of +85 degrees. The maximum effective rate of fire was only between 110 and 120 rounds per minute because of the frequent need to change the fifteen-round magazines.&lt;ref&gt;Campbell, p. 200&lt;/ref&gt; This was the standard Japanese light AA gun during World War II; it suffered from severe design shortcomings that rendered it a largely ineffective weapon. According to historian Mark Stille, the twin and triple mounts &quot;lacked sufficient speed in train or elevation; the gun sights were unable to handle fast targets; the gun exhibited excessive vibration; the magazine was too small, and&amp;nbsp;... the gun produced excessive muzzle blast&quot;.&lt;ref name=stille11&gt;Stille, p. 11&lt;/ref&gt; The ship was also provided with two twin mounts for the licence-built [[13.2 mm Hotchkiss machine gun|13.2&amp;nbsp;mm Type 93]] anti-aircraft [[machine gun]]s, one on each side of the [[bridge (nautical)|bridge]]. The maximum range of these guns was {{convert|6500|m|yd}}, but the effective range against aircraft was only {{convert|1000|m|yd}}. The cyclic rate was adjustable between 425 and 475 rounds per minute; the need to change 30-round [[magazine (firearms)|magazines]] reduced the effective rate to 250 rounds per minute.&lt;ref&gt;Campbell, p. 202&lt;/ref&gt;
+
+While the ship was under repair in April 1944, the two 15.5 centimetre [[wing turret]]s were removed and replaced with three triple {{convert|25|mm|in|adj=on|sp=uk}} gun mounts each. Twenty-one triple 25&amp;nbsp;mm mounts and 25 single mounts were added, for a total light AA armament of one hundred and thirty 25&amp;nbsp;mm guns.&lt;ref name=cfrecord/&gt;
+
+===Armour===
+The ship's [[waterline]] [[belt armor|armour belt]] was negligibly thinner than the Yamato's at {{convert|400|mm|in|1|sp=uk}} thick and angled outwards 20 degrees at the top.&lt;ref name=USNTMJ&gt;http://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200H-0745-0786%20Report%20S-06-2.pdf&lt;/ref&gt; Below it was a [[strake]] of armour that ranged in thickness from {{convert|270|to|200|mm|in|1|sp=uk}} over the [[magazine (artillery)|magazines]] and machinery spaces respectively; it tapered to a thickness of {{convert|75|mm|in|1|sp=uk}} at its bottom edge. The [[deck (ship)|deck]] armour ranged in thickness from {{convert|230|to|200|mm|in|1|sp=uk}}. The turrets were protected with an armour {{convert|650|mm|in|1|sp=uk}} thick on the face, {{convert|250|mm|in|1|sp=uk}} on the sides, and 270 millimetres on the roof. The [[barbette]]s of the turrets were protected by armour {{convert|560|to|280|mm|in|1|sp=uk}} thick, and the turrets of the 155&amp;nbsp;mm guns were protected by {{convert|50|mm|in|1|sp=uk|adj=on}} armour plates. The sides of the [[conning tower]] were {{convert|500|mm|in|sp=uk|1}} thick and it had a 200-millimetre thick roof. Underneath the magazines were {{convert|50|to|80|mm|in|1|sp=uk|adj=on}} armour plates to protect the ship from [[naval mine|mine]] damage. ''Musashi'' contained 1147 watertight compartments (1065 underneath the armour deck, 82 above) to preserve buoyancy in the event of battle damage.&lt;ref&gt;Garzke &amp; Dulin, pp. 100, 104, 122&lt;/ref&gt;
+
+===Aircraft===
+''Musashi'' was fitted with two [[aircraft catapult|catapults]] on her [[quarterdeck]] and could stow up to seven [[floatplane]]s in her below-decks [[hangar]]. The ship operated [[Mitsubishi F1M]] [[biplane]]s and [[Aichi E13A]]1 monoplanes and used a {{convert|6|t|LT|adj=on|sp=uk}}, stern-mounted [[crane (machine)|crane]] for recovery.&lt;ref&gt;Skulski, pp. 25–26&lt;/ref&gt;
+
+===Fire control and sensors===
+The ship was equipped with four {{convert|15|m|ftin|adj=on|sp=uk}} [[rangefinder]]s, one atop her forward superstructure and one each in her main gun turrets, and another {{convert|10|m|ftin|adj=on|sp=uk}} unit atop her rear superstructure. Each {{convert|15.5|cm|adj=on|sp=uk}} gun turret was equipped with an {{convert|8|m|ftin|adj=on|sp=uk}} rangefinder. Low-angle fire was controlled by two Type 98 [[fire-control director]]s mounted above the rangefinders on the superstructure. Type 94 high-angle directors controlled the 12.7&amp;nbsp;mm AA guns, with Type 95 short-range directors for the 25&amp;nbsp;mm AA guns.&lt;ref&gt;Skulski, pp. 20–21&lt;/ref&gt;
+
+''Musashi'' was built with a Type 0 [[hydrophone]] system in her bow. It was only usable while stationary or at low speed.&lt;ref&gt;Skulski, p. 21&lt;/ref&gt; In September 1942 a [[List of Japanese World War II radar#Shipborne radar|Type 21 air-search radar]] was installed on the roof of the 15-metre rangefinder at the top of the forward superstructure. Two Type 22 surface-search radars were installed on the forward superstructure in July 1943. During repairs in April 1944, the Type 21 radar was replaced by a more modern version and a Type 13 [[early warning radar]] was fitted.&lt;ref name=cfrecord&gt;Hackett &amp; Kingsepp&lt;/ref&gt;
+
+==Construction==
+To cope with ''Musashi''{{'}}s great size and weight, the construction [[slipway]] was reinforced, nearby workshops were expanded, and two [[Crane (machine)#Floating crane|floating cranes]] were built. The ship's [[keel]] was laid down on 29 March 1938 at [[Mitsubishi]]'s [[Nagasaki]] shipyard, and was designated &quot;Battleship No. 2&quot;. Throughout construction, a large curtain made of hemp rope weighing {{convert|408|t|ST|abbr=on}} prevented outsiders from viewing construction.&lt;ref&gt;Garzke &amp; Dulin, pp. 51, 53, 66&lt;/ref&gt;&lt;ref name=Y29&gt;Yoshimura, p. 29&lt;/ref&gt;{{refn|The amount of [[sisal]] rope necessary to complete the curtain was so great that it caused a shortage in the fishing industry.&lt;ref&gt;Garzke &amp; Dulin, p. 51&lt;/ref&gt;|group=N}}
+
+[[Launch (ship)|Launching]] the ''Musashi'' presented its own problems. The ship's {{convert|4|m|ftin|adj=on|sp=uk}} thick launch platform, made of nine {{convert|44|cm|in|abbr=on}} [[Douglas fir]] planks bolted together, took two years to assemble (from keel-laying in March 1938) because of the difficulty in drilling perfectly straight bolt holes through four metres of fresh timber. The problem of slowing and stopping the massive hull once inside the narrow Nagasaki Harbour was addressed by attaching {{convert|570|t|LT|sp=uk}} of heavy chains divided evenly between the two sides of the hull to create dragging resistance in the water. The launch, like the ship itself, had to be concealed from prying eyes; the most important means of accomplishing this was a citywide [[Civil defense|air-raid drill]] staged on the launch day to keep everyone inside their homes. ''Musashi'' was successfully launched on 1 November 1940, coming to a stop only {{convert|1|m|ft|sp=uk}} in excess of the hull's calculated {{convert|220|m|ft|sp=uk}} travel distance across the harbour. The entry of such a large mass into the water caused a {{convert|120|cm|ftin|abbr=on}} [[tsunami]], which propagated throughout the harbour and up the local rivers, flooding homes and capsizing small fishing boats.&lt;ref&gt;Yoshimura, pp. 83–85, 97, 109, 115–17&lt;/ref&gt; ''Musashi'' was [[Fitting-out|fitted out]] at nearby [[Sasebo, Nagasaki|Sasebo]], with [[Captain (naval)|Captain]] [[Kaoru Arima]] assigned as her commanding officer.&lt;ref name=cfrecord/&gt;
+
+Towards the end of fitting out, the ship's flagship facilities, including those on the [[Ship's bridge|bridge]] and in the admiral's [[Cabin (ship)|cabins]], were modified to satisfy Combined Fleet's desire to have the ship equipped as the primary flagship of the commander-in-chief, as her sister ''Yamato'' was too far along for such changes. These alterations, along with improvements in the secondary battery armour, pushed back completion and pre-handover testing of ''Musashi'' by two months, to August 1942.&lt;ref&gt;Yoshimura, pp. 123–25&lt;/ref&gt;
+{{multiple image|align=center|width=500|image1=Musashi1942.png|image2=Musashi1944.png|footer=''Musashi'' as she appeared in 1942 and mid-1944, respectively.}}
+
+==Service==
+[[File:Yamamoto's ashes on Musashi.jpg|thumb|right|Yamamoto's ashes return to Japan aboard ''Musashi'', 23 May 1943.]]
+''Musashi'' was commissioned at Nagasaki on 5 August 1942, and assigned to the 1st Battleship Division together with ''Yamato'', {{ship|Japanese battleship|Nagato||2}}, and {{ship|Japanese battleship|Mutsu||2}}.&lt;ref&gt;Garzke &amp; Dulin, p. 66&lt;/ref&gt; Beginning five days later, the ship conducted machinery and aircraft-handling trials near [[Hashirajima]]. Her secondary armament of twelve 127&amp;nbsp;mm guns, 12 triple 25&amp;nbsp;mm gun mounts, and four {{convert|13.2|mm|in|2|abbr=on}} anti-aircraft machine guns was fitted from 3–28 September 1942 at Kure, as well as a Type 21 radar. The ship was [[Glossary of nautical terms#W|working up]] for the rest of the year. Captain Arima was promoted to [[rear admiral]] on 1 November.&lt;ref name=cfrecord/&gt;
+
+''Musashi'' was assigned to the [[Japanese Combined Fleet|Combined Fleet]], commanded by Admiral [[Isoroku Yamamoto]], on 15 January 1943&lt;ref name=w6&gt;Whitley, p. 216&lt;/ref&gt; and sailed for Truk three days later, arriving on 22 January. On 11 February, she replaced her sister ship ''Yamato'' as the fleet's flagship. On 3 April, Yamamoto left ''Musashi'' and flew to [[Rabaul]], [[New Britain]] to personally direct [[Operation I-Go|&quot;Operation ''I-Go''&quot;]], a Japanese aerial offensive in the [[Solomon Islands]]. His orders were intercepted and deciphered by [[Magic (cryptography)|Magic]], and American [[Lockheed P-38 Lightning]] fighters shot down his aircraft and killed him in [[Operation Vengeance]] while he was en route from New Britain to Ballale, [[Bougainville Island|Bougainville]]. On 23 April, his cremated remains were flown back to Truk and placed in his cabin on board ''Musashi''.&lt;ref name=cfrecord/&gt;
+
+[[File:YamatoClassBattleships.jpg|thumb|left|''Musashi'' and ''Yamato'' in [[Chuuk Lagoon|Truk Lagoon]] in early 1943.]]
+On 17 May, in response to American [[Battle of Attu|attacks on Attu Island]], ''Musashi''—together with the carrier {{ship|Japanese aircraft carrier|Hiyō||2}}, two [[heavy cruiser]]s, and nine [[destroyer]]s—[[sortie]]d to the northern Pacific. When no contact was made with American forces, the ships sailed to Kure on 23 May, where Yamamoto's ashes were taken from the vessel in preparation for a formal [[state funeral]]. Immediately afterwards, ''Musashi''{{'}}s task force was significantly reinforced to counterattack American naval forces off Attu, but the island was captured before the force could intervene. On 9 June Arima was relieved by captain [[Keizō Komura]]. On 24 June, while being overhauled at [[Yokosuka Naval Arsenal]], ''Musashi'' was visited by [[Emperor Hirohito]] and high-ranking naval officers. From 1 to 8 July, the ship was fitted with a pair of Type 22 radars at Kure.&lt;ref name=cfrecord/&gt; She sailed for Truk on 30 July and arrived there six days later, where she resumed her position as fleet flagship for Admiral [[Mineichi Koga]].&lt;ref name=w6/&gt;
+
+In mid-October, in response to suspicions of planned American raids on [[Wake Island]], ''Musashi'' led a large fleet—three carriers, six battleships, and 11 cruisers—to intercept American forces, but failed to make contact and returned to Truk on 26 October. She spent the remainder of 1943 in Truk Lagoon. Captain Komura was promoted to rear admiral on 1 November and transferred to the [[3rd Fleet (Imperial Japanese Navy)|3rd Fleet]] on 7 December as [[Chief of Staff]], Captain [[Bunji Asakura]] assuming command of ''Musashi''.&lt;ref name=cfrecord/&gt;
+
+[[File:島村信政5.jpg|thumb|right|[[Emperor Hirohito]] and his staff on board ''Musashi'', 24 June 1943]]
+The ship remained in Truk Lagoon until 10 February 1944, when she returned to Yokosuka. On 24 February, ''Musashi'' sailed for [[Palau]], carrying one [[Imperial Japanese Army]] [[battalion]] and another of [[Special Naval Landing Force]]s and their equipment. After losing most of her deck cargo during a [[typhoon]], she arrived at Palau on 29 February and remained there for the next month. On 29 March, ''Musashi'' departed Palau under cover of darkness to avoid an expected air raid, and encountered the submarine {{USS|Tunny|SS-282|6}}, which fired six torpedoes at the battleship; five of them missed, but the sixth blew a hole {{convert|5.8|m}} in diameter near the bow, flooding her with 3000 tonnes of water.&lt;ref name=stille42&gt;Stille, p. 42&lt;/ref&gt; The torpedo hit killed seven crewmen and wounded another eleven. After temporary repairs, ''Musashi'' sailed for Japan later that night and arrived at [[Kure Naval Arsenal]] on 3 April. From 10 to 22 April, she was repaired and her anti-aircraft armament was substantially increased. When she undocked on 22 April, the ship's secondary battery comprised six 15.5&amp;nbsp;cm guns, twenty-four 12.7&amp;nbsp;cm guns, one hundred and thirty 25&amp;nbsp;mm guns, and four 13.2&amp;nbsp;mm machine guns. She also received new radars (which were still primitive compared to American equipment),&lt;ref&gt;Padfield, p. 285&lt;/ref&gt; and [[depth charge|depth-charge]] rails were installed on her [[Poop deck|fantail]].&lt;ref name=cfrecord/&gt;
+
+In May 1944, captain Asakura was promoted to rear admiral and ''Musashi'' departed Kure for [[Okinawa]] on 10 May, then for [[Tawitawi]] on 12 May. She was assigned to the [[1st Mobile Fleet (Imperial Japanese Navy)|1st Mobile Fleet]], under the command of [[Vice Admiral]] [[Jisaburō Ozawa]], with her sister. On 10 June, the battleships departed Tawitawi for [[Batjan]] under the command of Vice Admiral [[Matome Ugaki]], in preparation for [[Operation Kon]], a planned counterattack against the American [[Battle of Biak|invasion of Biak]]. Two days later, when word reached Ugaki of American attacks on [[Saipan]], his force was diverted to the [[Mariana Islands]]. After they rendezvoused with Ozawa's main force on 16 June, the battleships were assigned to Vice Admiral [[Takeo Kurita]]'s [[2nd Fleet (Imperial Japanese Navy)|2nd Fleet]]. During the [[Battle of the Philippine Sea]], ''Musashi'' was not attacked.&lt;ref name=cfrecord/&gt;&lt;ref name=stille42/&gt; Following Japan's disastrous defeat in the battle (also known as the &quot;Great Marianas Turkey Shoot&quot;), the Second Fleet returned to Japan. On 8 July, ''Musashi'' and her sister embarked 3,522 men and equipment of the Army's [[106th Infantry Regiment (Japan)|106th Infantry Regiment]] of the [[49th Infantry Division (Imperial Japanese Army)|49th Infantry Division]] and sailed for [[Lingga Island]], where they arrived on 17 July.&lt;ref name=cfrecord/&gt;
+
+===Battle of Leyte Gulf===
+{{Main article|Battle of Leyte Gulf}}
+[[File:Musashi under fire.jpg|thumb|left|''Musashi'' under attack by American carrier aircraft during the [[Battle of Leyte Gulf]].]]
+Captain [[Toshihira Inoguchi]] relieved Asakura in command of ''Musashi'' on 12 August and was promoted to rear admiral on 15 October.&lt;ref name=cfrecord/&gt; Three days later, she sailed for [[Brunei Bay]], Borneo, to join the main Japanese fleet in preparation for &quot;Operation ''Sho''-1&quot;, the counterattack planned against the American landings at Leyte. The Japanese plan called for Ozawa's carrier forces to lure the American carrier fleets north of Leyte so that Kurita's 1st Diversion Force (also known as the Central Force) could enter [[Leyte Gulf]] and destroy American forces landing on the island. ''Musashi'', together with the rest of Kurita's force, departed Brunei for the Philippines on 22 October.&lt;ref&gt;Polmar &amp; Genda, pp. 420–22&lt;/ref&gt;
+
+The following day, the submarine {{USS|Dace|SS-247|6}} torpedoed and sank the heavy cruiser {{ship|Japanese cruiser|Maya||2}} near [[Palawan (island)|Palawan]]. The destroyer {{ship|Japanese destroyer|Akishimo||2}} rescued 769 survivors and transferred them to ''Musashi'' later in the day.&lt;ref&gt;Lacroix &amp; Wells, pp. 346–47&lt;/ref&gt; On 24 October, while transiting the [[Sibuyan Sea]], Kurita's ships were spotted by a reconnaissance aircraft from the [[fleet carrier]] {{USS|Intrepid|CV-11|6}}. Just over two hours later, the battleship was attacked by eight [[Curtiss SB2C Helldiver]] [[dive bomber]]s from ''Intrepid'' at 10:27. One {{convert|500|lb|adj=on}} bomb struck the roof of Turret No. 1, failing to penetrate. Two minutes later, ''Musashi'' was struck starboard amidships by a torpedo from a [[Grumman TBF Avenger]], also from ''Intrepid''. The ship took on {{convert|3000|LT}} of water and a 5.5 degree [[list (watercraft)|list]] to starboard that was later reduced to 1 degree by counterflooding compartments on the opposite side. During this attack two Avengers were shot down.&lt;ref name=cfrecord/&gt;
+
+An hour and a half later, another eight Helldivers from ''Intrepid'' attacked ''Musashi'' again. One bomb hit the upper deck and failed to detonate; another hit the port side of the deck and penetrated two decks before exploding above one of the engine rooms. Fragments broke a steam pipe in the engine room and forced its abandonment as well as that of the adjacent boiler room. Power was lost to the port inboard propeller shaft and the ship's speed dropped to {{convert|22|kn}}. Anti-aircraft fire shot down two Helldivers during this attack. Three minutes later, nine Avengers attacked from both sides of the ship, scoring three torpedo hits on the port side. One hit abreast Turret No. 1, the second flooded a hydraulic machinery room forcing the main turrets to switch over to auxiliary hydraulic pumps, and the third flooded another engine room. More counterflooding reduced the list to one degree to port, but the degree of flooding reduced the ship's forward [[freeboard (nautical)|freeboard]] by {{convert|6|ft|m|1}}. During this attack, ''Musashi'' fired ''[[Beehive (anti-aircraft shell)|sanshikidan]]'' anti-aircraft shells from her main armament; one shell detonated in the middle gun of Turret No. 1, possibly because of a bomb fragment in the barrel, and wrecked the turret's elevating machinery.&lt;ref name=cfrecord/&gt;
+
+[[File:Musashi 24 Oct 1944.jpg|thumb|''Musashi'' down by the bow after the air attacks, shortly before her sinking.]]
+At 13:31, the ship was attacked by 29 aircraft from the fleet carriers {{USS|Essex|CV-9|2}} and {{USS|Lexington|CV-16|2}}. Two [[Grumman F6F Hellcat]] fighters [[strafe]]d the ship's deck and Helldivers scored four more bomb hits near her forward turrets. ''Musashi'' was hit by four more torpedoes, three of which were forward of Turret No. 1, causing extensive flooding. The ship was now listing one degree to starboard, and had taken on so much water that her bow was now down {{convert|13|ft|m|1}} and her speed had been reduced to {{convert|20|kn}}. Two hours later nine Helldivers from {{USS|Enterprise|CV-6|2}} attacked with {{convert|1000|lb|adj=on}} [[Armor-piercing shot and shell|armour-piercing bombs]], scoring four hits. The ship was hit by three more torpedoes, opening up her starboard bow&lt;ref&gt;Padfield, pp. 286–287&lt;/ref&gt; and reducing her speed to {{convert|13|kn}}. At 15:25, ''Musashi'' was attacked by 37 aircraft from ''Intrepid'', the fleet carrier {{USS|Franklin|CV-13|2}} and the [[light carrier]] {{USS|Cabot|CVL-28|2}}. The ship was hit by 13 bombs and 11 more torpedoes during this attack for the loss of three Avengers and three Helldivers. Her speed was reduced to {{convert|6|kn}}, her main [[steering engine]] was temporarily knocked out and her [[rudder]] was briefly jammed 15 degrees to port. Counterflooding reduced her list to six degrees to port from its previous maximum of ten degrees. ''Musashi'' had been struck by a total of 19 torpedoes and 17 bombs.&lt;ref name=cfrecord/&gt;{{refn|The exact tally of hits is not precisely known; most Japanese sources claim 11 torpedo and 10 bomb hits,&lt;ref name=cfrecord/&gt; Garzke &amp; Dulin claim 20 torpedo and 17 bomb hits,&lt;ref&gt;Garzke &amp; Dulin, p. 18&lt;/ref&gt; and analysis by the US Naval Technical Mission to Japan acknowledges 10 torpedo and 16 bomb hits.&lt;ref&gt;Holtzworth, p. 22&lt;/ref&gt;|group=N}}
+
+Kurita left ''Musashi'' to fend for herself at 15:30, and encountered her again at 16:21 after reversing course. The ship was headed north, with a list of 10 degrees to port, down {{convert|26|ft|m|1}} at the bow with her [[forecastle]] awash. He detailed a heavy cruiser and two destroyers to escort her while frantic efforts were made to correct her list, including flooding another engine room and some boiler rooms. Her engines stopped before she could be [[Beaching (nautical)|beached]]. At 19:15 her list reached 12 degrees and her crew was ordered to prepare to abandon ship, which they did fifteen minutes later when the list reached 30 degrees. ''Musashi'' capsized at 19:36 and sank in {{convert|4430|ft|m|-1}} at {{Coord|13|07|N|122|32|E|display=inline,title}}.{{refn|Jentschura, Jung &amp; Michel give a different location of {{Coord|12|50|N|122|35|E|display=inline}}.&lt;ref name=j9&gt;Jentschura, Jung &amp; Mickel, p. 39&lt;/ref&gt;|group=N}} Inoguchi chose to go down with his ship; 1,376 of her 2,399-man crew were rescued. About half of her survivors were evacuated to Japan, and the rest took part in the defence of the [[Philippines]].&lt;ref name=cfrecord/&gt; The destroyer {{ship|Japanese destroyer|Shimakaze|1942|2}} rescued 635 of ''Maya''{{'}}s survivors from ''Musashi''.&lt;ref&gt;Lacroix &amp; Wells, p. 347&lt;/ref&gt;
+
+==Discovery==
+{{Main article|Wreck of the Japanese battleship Musashi}}
+In March 2015, the American philanthropist and [[Microsoft]] co-founder, [[Paul Allen]], and his team of researchers located the wreck of ''Musashi'' in the [[Sibuyan Sea]] using a [[remotely operated underwater vehicle]] deployed from the yacht [[Octopus (yacht)|''Octopus'']].&lt;ref name=&quot;Allen discovers wreck of Japan's biggest warship Musashi&quot;&gt;{{cite news|last1=Agence France-Presse|title=US Billionaire Paul Allen Discovers Wreck of Japan's Biggest Warship Musashi|url=http://www.theguardian.com/world/2015/mar/04/us-billionaire-paul-allen-discovers-wreck-of-japans-biggest-warship-musashi|accessdate=4 March 2015|work=The Guardian|date=4 March 2015}}&lt;/ref&gt; The ship lies at a depth of around {{convert|1000|m|ft}}.&lt;ref&gt;{{cite news|title=Microsoft’s Allen Says WWII Battleship Musashi Found|url=http://www.japantimes.co.jp/news/2015/03/04/national/history/microsofts-allen-says-wwii-battleship-musashi-found/#.VPaxv_mUf_E|accessdate=4 March 2015|work=The Japan Times|date=4 March 2015}}&lt;/ref&gt; The wreck was revealed to be in several pieces with most of the hull amidships appearing to have been blown apart after leaving the surface.&lt;ref&gt;{{cite news|url=http://www.startribune.com/world/296172551.html|title=Japanese WWII battleship Musashi Exploded Under Water, New Footage Suggests|last=Yamaguchi|first=Mari|date=13 March 2015|work=StarTribune|accessdate=13 March 2015}}&lt;/ref&gt; The bow section from the number one barbette forward is upright on the sea floor while the stern is upside down. The forward superstructure and funnel is detached from the rest of the ship and lies on its port side.&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=qNMmqagTt90|title=Musashi (武蔵) Expedition|last=Allen|first=Paul G.|date=12 March 2015|work=Musashi (武蔵) Expedition|accessdate=13 March 2015}}&lt;/ref&gt;
+
+==Footnotes==
+{{reflist|group=N}}
+
+==References==
+{{reflist|20em}}
+
+==Sources==
+* {{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+* {{cite book
+  | last1 = Garzke
+  | first1 = William H.
+  | last2 = Dulin
+  | first2 = Robert O.
+  | year = 1985
+  | title = Battleships: Axis and Neutral Battleships in World War II
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-101-0 }}
+* {{cite web|url=http://www.combinedfleet.com/musashi.htm|title=IJN Battleship Musashi: Tabular Record of Movement|last1=Hackett|first1=Bob|last2=Kingsepp|first2=Sander|year=2012|publisher=Combinedfleet.com|accessdate=17 April 2013}}
+* {{cite web | url = http://www.fischer-tropsch.org/primary_documents/gvt_reports/USNAVY/USNTMJ%20Reports/USNTMJ-200H-0745-0786%20Report%20S-06-2.pdf|last1=Holtzworth|first1=E.C., Commander | title = Reports of the US Naval Technical Mission to Japan: Ship and Related Targets - Article 2: Yamato(BB), Musashi(BB), Taiho(CV), Shinano(CV) | accessdate =28 April 2013 | publisher = United States Navy | date = January 1946 }}
+* {{cite book|last=Bawal|first=Raymond A. |title=Titans of the Rising Sun: The Rise and Fall of Japan's Yamato Class Battleships|year=2010|publisher=Inland Expressions|isbn=0-9818157-3-1}}
+* {{cite book | last = Jentschura | first = Hansgeorg | last2 = Jung | first2 = Dieter | last3 = Mickel | first3 = Peter | year = 1977 | title = Warships of the Imperial Japanese Navy, 1869–1945 | publisher = United States Naval Institute | location = Annapolis, Maryland | isbn = 0-87021-893-X}}
+* {{cite book|last1=Lacroix|first1=Eric|last2=Wells|first2=Linton|title=Japanese Cruisers of the Pacific War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1997|isbn=0-87021-311-3}}
+* {{cite book|last=Padfield|first=Peter|authorlink= Peter Padfield|title=Battleship|year=2000|publisher=Birlinn|location=Edinburgh|isbn=1-84158-080-5}}
+* {{cite book|last1=Polmar|first1=Norman|last2=Genda |first2=Minoru |authorlink2=Minoru Genda|title=Aircraft Carriers: A History of Carrier Aviation and Its Influence on World Events|publisher=Potomac Books|location=Washington, D.C.|year=2006|volume=Volume 1, 1909–1945|isbn=1-57488-663-0}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book|last=Skulski|first=Janusz|title=The Battleship Yamato|edition=reprint of the 1988|series=Anatomy of the Ship|year=1995|publisher=Conway Maritime Press|location=London|isbn=0-85177-490-3}}
+* {{cite book |last=Stille |first=Mark |title=Imperial Japanese Navy Battleships 1941–45| series =New Vanguard|volume=146 |publisher=Osprey Publishing |location=Botley, Oxford, UK |year=2008 |isbn=1-84603-280-6 }}
+* {{cite book |last=Whitley|first=M. J. |title=Battleships of World War Two: An International Encyclopedia |publisher=Naval Institute Press |location=Annapolis, Maryland |year=1999 |isbn=1-55750-184-X}}
+* {{cite book|last=Yoshimura|first=Akira|title=Battleship Musashi: The Making and Sinking of the World's Greatest Battleship|year=1999|publisher=Kodansha International|location=Tokyo|isbn=4-7700-2400-2}}
+
+==External links==
+{{Portal|Battleships}}
+*{{Commons-inline|HIJMS Musashi|Japanese battleship Musashi}}
+* [http://www.maritimequest.com/warship_directory/japan/battleships/musashi_page_1.htm Maritimequest.com: ''Musashi'' photo gallery]
+* [http://ww2db.com/ship_spec.php?ship_id=3 WW2DB: Musashi]
+
+{{Yamato class battleship}}
+{{October 1944 shipwrecks}}
+
+{{Use dmy dates|date=May 2011}}
+
+{{DEFAULTSORT:Musashi}}
+[[Category:1940 ships]]
+[[Category:Battleships sunk by aircraft]]
+[[Category:Battle of Leyte Gulf]]
+[[Category:Ships built in Japan]]
+[[Category:Yamato-class battleships]]
+[[Category:World War II battleships of Japan]]
+[[Category:World War II shipwrecks in the Sibuyan Sea]]
+[[Category:Maritime incidents in October 1944]]
+[[Category:Ships sunk by US aircraft]]</text>
+      <sha1>c4uzcqru1w1izurfttt9w9j8wd0dufe</sha1>
+    </revision>
+  </page>
+</mediawiki>

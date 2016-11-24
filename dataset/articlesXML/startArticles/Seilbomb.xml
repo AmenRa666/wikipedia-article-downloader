@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Seilbomb</title>
+    <ns>0</ns>
+    <id>42987185</id>
+    <revision>
+      <id>747230695</id>
+      <parentid>723636729</parentid>
+      <timestamp>2016-11-01T05:50:33Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3002">{{refimprove|date=July 2014}}
+
+A '''''Seilbombe''''' ({{IPA-de|saɪlbɔmbə}}, plural '''''Seilbomben''''', {{IPA-de|saɪlbɔmbən|}}), literally &quot;rope bomb&quot;, was a secret German weapon developed during the Second World War designed to disable the electrical power grid of an invaded territory. Equipped with it, a German [[Messerschmitt Bf 110]] fighter plane or an [[Arado 196]] float  plane would fly low at night over areas near enemy power plants or urban centers where power lines were located and would use it to cause local blackouts.&lt;ref name=&quot;Lepage2009&quot;&gt;{{cite book|author=Jean-Denis G.G. Lepage|title=Aircraft of the Luftwaffe, 1935-1945: An Illustrated Guide|url=https://books.google.com/books?id=hdQBTcscxyQC&amp;pg=PA319|date=5 February 2009|publisher=McFarland|isbn=978-0-7864-5280-4|pages=319–320}}&lt;/ref&gt;  This would, it was hoped, lead to civilian panic and the inability of local opposing forces to coordinate a defense. The piloting of planes so equipped was extremely dangerous, as it required the pilot to fly his plane almost directly at enemy power lines in the dark when visibility was already severely limited and within easy range of anti-aircraft fire.
+
+==Operation==
+The ''Seilbombe'' device was a box-like frame attached to the belly of plane with a roll of strong, detachable 70- to 80-foot long cables connected in series and attached to a set of pulleys, each cable having a small weight attached to one end. The fighter pilot would fly his craft low over sections of the electrical grid while trailing the cable beneath and behind it. When one cable wrapped around an electricity cable, it broke off, short-circuiting that cable. The ''Bordfunker'' (&quot;radio operator&quot;) of the plane would then use a control box to reel out the next length of cable, and the Bf 110 would continue to the next section of the grid.
+
+==Implementation==
+''Seilbomben'' saw little actual use by German forces. They were considered for the attack on Moscow, [[Operation Barbarossa]], where assaulting the city's power plants appeared to some German commanders to be a more useful tool for subjugating the city than outright terror (the Russian populace was considered too obstinate for the latter to be effective).&lt;ref name=&quot;BoogKrebs2006&quot;&gt;{{cite book|author1=Horst Boog|author2=Gerhard Krebs|author3=Detlef Vogel|title=Germany and the Second World War: Volume VII: The Strategic Air War in Europe and the War in the West and East Asia, 1943-1944/5|url=https://books.google.com/books?id=rmgTAQAAMAAJ|date=29 June 2006|publisher=Clarendon|isbn=978-0-19-822889-9|page=401}}&lt;/ref&gt;  They were also considered but never implemented for the planned invasion of England, [[Operation Sea Lion]].&lt;ref name=&quot;Macksey1980&quot;&gt;{{cite book|author=Kenneth Macksey|title=Invasion: The Alternate History of the German Invasion of England, July 1940|url=https://books.google.com/books?id=7Yt3ngEACAAJ|year=1980|publisher=Greenhill|isbn=978-1-85367-361-0}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+[[Category:World War II]]</text>
+      <sha1>dwahipwpx6dqw8odkfwviokmungcl23</sha1>
+    </revision>
+  </page>
+</mediawiki>

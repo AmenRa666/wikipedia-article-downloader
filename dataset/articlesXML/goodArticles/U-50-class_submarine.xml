@@ -1,0 +1,140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>U-50-class submarine</title>
+    <ns>0</ns>
+    <id>20542530</id>
+    <revision>
+      <id>685360344</id>
+      <parentid>618359341</parentid>
+      <timestamp>2015-10-12T11:58:54Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6162">{|{{Infobox ship begin}}
+{{Infobox ship class overview
+|Builders=[[Ganz Danubius]], [[Fiume]]&lt;ref name=Con-344&gt;Gardiner, p. 344.&lt;/ref&gt;
+|Operators={{navy|Austria-Hungary}}
+|Class before={{sclass|U-48|submarine|1}}
+|Class after={{sclass|U-52|submarine|1}}
+|Built range=1916–1918
+|In commission range=
+|Total ships building=
+|Total ships planned=4
+|Total ships completed=0
+|Total ships cancelled=2
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=2
+|Total ships preserved=0
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[submarine]]
+|Ship displacement=*{{convert|840|t|ST|abbr=on}} surfaced
+*{{convert|1100|t|ST|abbr=on}} submerged&lt;ref name=Con-344 /&gt;
+|Ship length={{convert|241|ft|m|abbr=on}}&lt;ref name=Con-344 /&gt;
+|Ship beam={{convert|20|ft|8|in|m|abbr=on}}&lt;ref name=Con-344 /&gt;
+|Ship draft={{convert|12|ft|11|in|m|abbr=on}}&lt;ref name=Con-344 /&gt;
+|Ship propulsion=*2 × shaft
+*2 × [[diesel engine]]s, {{convert|2300|bhp|abbr=on}} total
+*2 × [[electric motor]]s, {{convert|1200|shp|abbr=on}} total&lt;ref name=Con-344 /&gt;
+|Ship speed=*{{convert|16.5|knots|km/h}} surfaced
+*{{convert|9|knots|km/h|0}} submerged&lt;ref name=Con-344 /&gt;
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship complement=33&lt;ref name=Con-344 /&gt;
+|Ship armament=*6 × {{convert|45|cm|in|1|abbr=on}} torpedo tubes (4 bow, 2 stern); 9 torpedoes
+*2 × 10 cm/35 (3.9 in) or 120 mm/35 (4.7 in) [[deck gun]]s&lt;ref name=Con-344 /&gt;
+|Ship notes=
+}}
+|}
+The '''''U-50'' class''' was a [[ship class|class]] of four ocean-going [[submarine]]s or [[U-boats]] planned for the [[Austro-Hungarian Navy]] ({{lang-de|Kaiserliche und Königliche Kriegsmarine ''or'' K.u.K. Kriegsmarine}}) during [[World War I]]. The design of the boats was based on the Project 835 design purchased from the German firm of [[Friedrich Krupp Germaniawerft|Germaniawerft]] in July 1915. The Navy authorized [[Ganz Danubius]] to begin construction of the submarines in [[Fiume]] in February 1916. Only two of the planned four boats were [[keel laying|laid down]], but neither were ever [[launch (ship)|launch]]ed or completed. The two incomplete submarines were [[ship breaking|scrapped]] after the war ended.
+
+== Design ==
+[[Austria-Hungary]]'s U-boat fleet was largely obsolete at the outbreak of [[World War I]], and, over the first two years of the war, the [[Austro-Hungarian Navy]] focused its efforts on building a U-boat fleet for local defense within the [[Adriatic]]. With boats to fill that need either under construction or purchased from Germany, efforts were focused on building ocean-going submarines for operation in the wider [[Mediterranean]], outside the Adriatic.&lt;ref name=Con-341&gt;Gardiner, p. 341.&lt;/ref&gt;
+
+To that end, the Austro-Hungarian Navy purchased plans for the [[Friedrich Krupp Germaniawerft|Germaniawerft]] Project 835 design on 11 July 1915  in order to build under license in Austria-Hungary. The plans called for a submarine that [[displacement (ship)|displaced]] {{convert|840|t|ST|abbr=on}} surfaced and {{convert|1100|t|ST|abbr=on}} submerged. The boats were to be about {{convert|241|ft|m}} long with a [[beam (nautical)|beam]] of {{convert|20|ft|8|in|m}} and a [[draft (hull)|draft]] of {{convert|12|ft|11|in|m}}. For propulsion, the design featured two shafts, with twin [[diesel engine]]s of {{convert|2300|bhp|abbr=on}} (total) for surface running at up to {{convert|16.5|knots|km/h}}, and twin [[electric motor]]s of {{convert|1200|shp|abbr=on}} (total) for submerged travel at up to {{convert|9|knots|km/h|1}}. The ''U-50'' class boats were designed for a crew of 33 men.&lt;ref name=Con-344 /&gt;
+
+The ''U-50'' design called for six {{convert|45|cm|in|1|abbr=on}} torpedo tubes—four bow tubes and two stern tubes—and carried a complement of nine torpedoes. The original design specified two 10&amp;nbsp;cm/35 (3.9&amp;nbsp;in) [[deck gun]]s, which were superseded by two 120&amp;nbsp;mm/35 (4.7&amp;nbsp;in) deck guns in plans for the third and fourth boats.&lt;ref name=Con-344 /&gt;
+
+== Construction ==
+On 7 February 1916, [[Ganz Danubius]] of [[Fiume]] received authorization to build two boats of the class, ''U-50'' and ''U-51''.&lt;ref name=BS&gt;Baumgartner and Sieche, as excerpted [http://www.gwpda.org/naval/ahsubs.htm here] (reprinted and translated into English by Sieche). Retrieved 2 December 2008.&lt;/ref&gt; These first two boats, which comprised one-third of the six ocean-going submarines under construction in 1916,&lt;ref name=Con-341 /&gt;&lt;ref group=Note&gt;The other four boats were ''U-48'' and ''U-49'' of the {{sclass|U-48|submarine|4}} and ''U-52'' and ''U-53'' of the {{sclass|U-52|submarine|4}}. See: Gardiner, p. 341.&lt;/ref&gt; were followed by orders for ''U-56'' and ''U-57'' in September 1918.&lt;ref name=Con-344 /&gt;
+
+Shortages of skilled shipyard workers and materials slowed construction of the boats,&lt;ref name=BS /&gt; and as a result, neither of the first two boats was ever [[launch (ship)|launch]]ed, much less completed.&lt;ref name=Con-344 /&gt; The second pair was cancelled before either was [[keel laying|laid down]]. ''U-50'' was 90% complete at war's end, while ''U-51'' was only 60% complete. Both boats had been scrapped in place in 1920.&lt;ref name=Con-344 /&gt;
+
+== Notes ==
+{{Reflist|group=Note}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last = Baumgartner | first = Lothar |author2=Erwin Sieche  | title = Die Schiffe der k.(u.)k. Kriegsmarine im Bild = Austro-Hungarian warships in photographs | language = German | location = [[Vienna|Wien]] | publisher = Verlagsbuchhandlung Stöhr | year = 1999 | isbn = 978-3-901208-25-6 | oclc = 43596931 }}
+* {{cite book | last = Gardiner | first = Robert, ed. | title = Conway's All the World's Fighting Ships, 1906–1921 | location = [[Annapolis, Maryland]] | publisher = [[Naval Institute Press]] | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 }}
+{{Refend}}
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Austro-Hungarian submarine classes}}
+
+{{DEFAULTSORT:U0050 class submarine}}
+[[Category:Submarine classes]]
+[[Category:Submarines of the Austro-Hungarian Navy]]
+{{good article}}</text>
+      <sha1>qnttv8xmc3qq2hdmu11h33os1a7t9za</sha1>
+    </revision>
+  </page>
+</mediawiki>

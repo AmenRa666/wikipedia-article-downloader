@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Lion (1709 hoy)</title>
+    <ns>0</ns>
+    <id>44446690</id>
+    <revision>
+      <id>721157411</id>
+      <parentid>685233297</parentid>
+      <timestamp>2016-05-20T02:51:39Z</timestamp>
+      <contributor>
+        <username>Andy M. Wang</username>
+        <id>516856</id>
+      </contributor>
+      <comment>rm unneeded displaytitle</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2225">{{Other ships|HMS Lion}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Hoy Lyon - plan.jpg|right|250px]]
+|Ship caption=Admiralty plan of the hoy ''Lyon'', 1709, |[[National Maritime Museum]], [[Greenwich]]
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[File:British-White-Ensign-1707.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Lion'' (or ''Lyon'')
+|Ship ordered=
+|Ship builder=Deptford Dockyard (M/Shipwright Joseph Allin)
+|Ship laid down=
+|Ship launched=April 1709
+|Ship acquired=
+|Ship commissioned=
+|Ship registered=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Wrecked 1752
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=Winfield/&gt;
+|Ship class=
+|Ship type=[[Hoy (boat)|Hoy]]
+|Ship tonnage=107 {{small|{{frac|92|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship length=*{{convert|63|ft|11|in|m|abbr=on}} (overall)
+*{{convert|50|ft|9|in|m|1|abbr=on}} (keel)
+|Ship beam={{convert|20|ft|0|in|m|abbr=on}} 
+|Ship draught=
+|Ship hold depth={{convert|9|ft|0|in|m|abbr=on}}
+|Ship sail plan=sloop
+|Ship propulsion=[[Sails]]
+|Ship complement=
+|Ship armament=4 x 4-pounder guns + 4 x [[swivel gun]]s  
+|Ship notes=
+}}
+|}
+
+'''HMS ''Lion''''' (or ''Lyon'') was a stores [[Hoy (boat)|hoy]] launched in 1709. She was wrecked at [[Port Isaac]] on 26 August 1752.&lt;ref name=Winfield&gt;Winfield (2008), pp.367.&lt;/ref&gt;
+
+''Lion'' was under the command of Samuel Wakerel, master. All of her crew was saved, as was some of her cargo of lumber.&lt;ref&gt;Hepper (1994), p. 39.&lt;/ref&gt;
+
+==Notes==
+{{reflist|colwidth=30em}}
+
+==References==
+*{{cite book|last=Hepper|first=David J.|authorlink=|year=1994|title=British Warship Losses in the Age of Sail, 1650–1859|publisher=Jean Boudriot|location=Rotherfield|isbn=0-948864-30-3}}
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1714&amp;ndash;1792: Design, Construction, Careers and Fates|publisher=Seaforth|year=2007|isbn=978-1844157006}}
+
+{{DEFAULTSORT:Lion (1709)}}
+[[Category:Sloops of the Royal Navy]]
+[[Category:1700s ships]]
+
+
+{{UK-mil-ship-stub}}</text>
+      <sha1>0xlrupue2yhu4zf50n0ztbye6rfzb9y</sha1>
+    </revision>
+  </page>
+</mediawiki>

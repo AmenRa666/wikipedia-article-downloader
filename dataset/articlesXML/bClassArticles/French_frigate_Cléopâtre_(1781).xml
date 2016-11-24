@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French frigate Cléopâtre (1781)</title>
+    <ns>0</ns>
+    <id>19809793</id>
+    <revision>
+      <id>686963538</id>
+      <parentid>686018079</parentid>
+      <timestamp>2015-10-22T13:39:41Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>hide redundant infobox ship career headers; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10322">{{other ships|French ship Cléopâtre|HMS Oiseau}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag=[[File:Naval Ensign of the Kingdom of France.svg|45px|border|French Navy Ensign]] [[File:Flag of French-Navy-Revolution.svg|border|45px|French Navy Ensign]] [[File:Civil and Naval Ensign of France.svg|border|45px|French Navy Ensign]]
+|Ship name=''Cléopâtre''
+|Ship namesake=[[Cleopatra]]
+|Ship ordered=
+|Ship builder=Saint Malo
+|Ship laid down=1780
+|Ship launched=19 August 1781
+|Ship acquired=
+|Ship commissioned=December 1781
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship captured=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Captured by the Royal Navy
+|Ship status=
+|Ship honours=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United Kingdom
+|Ship flag= [[File:Naval Ensign of the United Kingdom.svg|50px]]
+|Ship name=''Oiseau''
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=19 June 1793 by capture
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship captured=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Broken up 1816
+|Ship status=
+|Ship honours=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Vénus class frigate|''Vénus''-class frigate]]
+|Ship tons burthen=913 {{small|{{frac|16|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship displacement=1,082 tons (French)
+|Ship length={{convert|145|ft|7+3/4|in|m|abbr=on}} (overall);{{convert|120|ft|8+7/8|in|m|abbr=on}} (keel)
+|Ship beam={{convert|37|ft|8+1/2|in|m|abbr=on}}
+|Ship draught=
+|Ship hold depth={{convert|11|ft|11+3/4|in|m|abbr=on}}
+|Ship propulsion=
+|Ship speed=
+|Ship boats=
+|Ship capacity=
+|Ship complement=254 (British service)
+|Ship armament=*'''French service''':
+*Originally: 18 × 12-pounder + 14 × 6-pounder [[naval long gun|long gun]]s
+*May 1783-1793:18 x 18-pounder guns vice 12-pounders (Loaded at Trincomalee)
+*1793:26 x12-pounder guns + 10 x 6-pounder guns
+*'''British service''':
+*Upper deck:26 × 12-pounder guns
+*[[Quarterdeck|QD]]:8 × 24-pounder [[carronade]]s
+*[[Forecastle|Fc]]:2 × 6-pounder guns + 2 × 24-pounder carronades
+|Ship armour=Timber
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship notes=
+|Ship badge=
+}}
+|}
+
+The '''''Cléopâtre''''' was a 32-gun [[Vénus class frigate|''Vénus'' class frigate]] of the [[French Navy]]. She was designed by [[Jacques-Noël Sané]], and had a [[Copper sheathing|coppered hull]]. She was launched in 1781, but the British captured her in 1793. She then served the [[Royal Navy]] as HMS ''Oiseau'' until she was broken up in 1816.
+
+==French career and capture==
+
+She took part in the taking of [[Cuddalore]] in 1782.
+
+On 19 June 1793, as she sailed off [[Guernsey]] under ''Lieutenant de vaisseau'' [[Jean Mullon|Mullon]], she encountered  {{HMS|Nymphe|1780|6}}, under Captain [[Edward Pellew, 1st Viscount Exmouth|Edward Pellew]]. During the [[Action of 18 June 1793|short but sharp action]], ''Cléopâtre'' lost her mizenmast and wheel, and the ship, being unmanageable, fell foul of the ''Nymphe''. The British then boarded and captured her in a fierce rush. Mullon, mortally wounded, died while trying to swallow his commission, which, in his dying agony, he had mistaken for the vessel's secret signals. Pellew then sent the signals to the [[Admiralty]].
+
+In the battle ''Nymphe'' had 23 men killed and 27 wounded. Pellew estimated the number of French casualties at about 60.&lt;ref&gt;{{London Gazette|issue=13539|startpage=517|endpage=518|date=18 June 1793}}&lt;/ref&gt;
+
+''Cléopâtre'' was the first frigate taken in the war. In 1847 the Admiralty awarded the [[Naval General Service Medal (1847)|Naval General Service Medal]] with clasp &quot;Nymphe 18 June 1793&quot; to the four surviving claimants from the action.&lt;ref&gt;{{London Gazette|issue=20939|startpage=238|date=26 January 1849}}&lt;/ref&gt;
+
+==British career==
+The Royal Navy commissioned her as HMS ''Oiseau'' in September 1793 under Captain [[Robert Murray (Royal Navy officer)|Robert Murray]].&lt;ref name=Win/&gt; On 18 May 1794 he sailed her from Plymouth to [[City of Halifax|Halifax]] in a squadron commanded by Rear-Admiral [[George Murray (MP)|George Murray]]. Between 1793 and 1795, the Russian naval officer [[Yuri Lisyanski]] sailed aboard ''Oiseaux'' as a volunteer. Between 1803 and 1806 he would captain the [[Russian-American Company]]'s sloop [[Neva (1802 Russian ship)|''Neva'']] on the [[first Russian circumnavigation]] of the world.
+
+In June 1794 ''Oiseau'' and {{HMS|Argonaut|1782|2}} seized fourteen French vessels of a convoy of 25, all loaded with flour, naval stores, beef, and pork. The vessels were American-owned and sailed from [[Hampton Roads]] with two sets of papers, one set showing the cargo going to England and the other giving their destination as France. The British sent the vessels into Halifax.&lt;ref&gt;Gwyn (2003), pp.90-1.&lt;/ref&gt;
+
+In July, ''Argonaut'', ''Oiseau'', {{HMS|Thetis|1782|2}}, and {{HMS|Resolution|1770|2}} captured the ''Potowmac'' and the 
+''True Republican''.&lt;ref&gt;{{London Gazette|issue=15513|startpage=961|date=7 September 1802}}&lt;/ref&gt;
+ 
+On 8 January 1795, ''Argonaut'' captured the French Republican warship [[HMS Esperance (1795)|''Esperance'']] on the North America Station.&lt;ref name=LG13799/&gt; ''Esperance'' was armed with 22 guns (4 and 6-pounders), and had a crew of 130 men. She was under the command of ''Lieutenant de Vaisseau'' De St. Laurent and had been out 56 days from [[Rochefort, Charente-Maritime|Rochfort]], bound for the Chesapeake. ''Argonaut'' shared the prize money with ''Oiseaux''.&lt;ref&gt;{{London Gazette|issue=15086 |startpage= 1173|date=4 December 1798}}&lt;/ref&gt; Because she was captured in good order and sailed well, Rear Admiral Murray put a British crew aboard and sent ''Esperance'' out on patrol with [[HMS Lynx (1794)|''Lynx'']] on 31 January.&lt;ref name=LG13799&gt;{{London Gazette|issue=13799 |startpage=780|date=25 July 1795}}&lt;/ref&gt;
+
+In 1798, ''Oiseau'' served in the Indian Ocean, where she captured the French ''Réunion'' on 1 September. On 21 April 1799 her boats went into [[Saint-Denis, Réunion|Saint Denis]] on the [[Réunion|Íle de Bourbon]] and cut out two merchant vessels, the ''Denree'', which had a cargo of bale goods and coffee, and the ''Augustine'', which had a cargo of rum and [[arrack]]. ''Augustine'' was lost in [[Onilahy River|St. Augustine's Bay]].
+
+On Monday, 26 January 1801, at 8.00 a.m., at {{Coord|45|N|12|W|dim:1000000|display=inline}}, ''Oiseux'', under Captain [[Samuel Hood Linzee]] fell in with and chased [[French frigate Dédaigneuse (1797)|''Dédaigneuse'']], which was bound from [[Cayenne]] to [[Rochefort, Charente-Maritime|Rochefort]] with despatches. By noon the following day, with [[Cape Finisterre]] in sight, Captain Linzee signaled to {{HMS|Sirius|1797|2}} and {{HMS|Amethyst|1799|2}}, which were in sight, to join the pursuit. ''Dédaigneuse'' maintained her lead until 2.00 a.m. on the 28th when came within small arms range. ''Dédaigneuse'' opened fire from her stern-chasers, and the two British ships returned fire. After a running fight of 45 minutes, two miles off shore near Cape Bellem, fire primarily from ''Sirius'' had cut ''Dédaigneuse''{{'}}s running rigging and sails ). She had also suffered casualties with several men having been killed,and 17 wounded,  including her Captain and fifth Lieutenant. She then [[Striking the colours|struck her colours]]. Unfavourable winds kept ''Amethyst'', from getting up before ''Dédaigneuse'' had struck. ''Sirius'' was the only British ship to sustain any damage (rigging, sails, main-yard and bowsprit) in the encounter and there were no fatalities on the English side. Captain Linzee declared the encounter a long and anxious chase of 42 hours and acknowledged a gallant resistance on the part of ''Dédaigneuse''. At the time of the encounter she was armed with twenty-eight 12-pounder guns. Linzee described her as &quot;a perfect new Frigate, Copper fastened and sails well...&quot;. He sent her into Plymouth with a prize crew under the command of his [[First lieutenant#Royal Navy|first lieutenant]], H. Lloyd.&lt;ref&gt;{{London Gazette|issue=15335|startpage=162|endpage=163|date=7 February 1801}}&lt;/ref&gt; The Admiralty took ''Dédaigneuse'' into the Royal Navy under the same name HMS ''Dedaigneuse''.
+
+On 28 January, along with [[HMS Sirius (1797)|HMS ''Sirius'']], she captured 3 French frigates off [[Ferrol, Spain|Ferrol]].
+
+On 16 September 1800, ''Oiseau'', {{HMS|Wolverine|1798|2}} and the cutter [[Hired armed cutter Fly|''Fly'']] captured the ''Neptunus'' when she was going into Havre de Grace. The next day ''Wolverine'' brought ''Neptunus'' into Portsmouth, together with her cargo of naval stores that Wight had captured &lt;ref&gt;''Naval Chronicle'', Vol. 4, p.252.&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=16692|startpage=113|date=12 January 1813}}&lt;/ref&gt;
+
+==Fate==
+In June 1806 ''Oiseau'' was commissioned under Lieutenant Walter Kennedy as a prison hulk at Portsmouth. In 1812 Lieutenant William Needham succeeded Kennedy. She was laid up in December, but then lent to the [[Transport Board (Royal Navy)|Transport Board]].&lt;ref name=Win/&gt;
+
+In 1814 she was under the command of Lieutenant John Bayby Harrison. She was then put in [[Reserve fleet|ordinary]] in 1815.&lt;ref name=Win/&gt; ''Oiseau'' was advertised for sale on 2 September 1816,&lt;ref&gt;{{London Gazette|issue=17169|startpage=1707|endpage=1798|date=3 September 1816}}&lt;/ref&gt; and sold for breaking up to a Mr. Rundle for £1500 on 18 September.&lt;ref name=Win&gt;Winfield (2008), p.204.&lt;/ref&gt;
+
+==Footnotes==
+{{reflist|colwidth=30em}}
+
+==References==
+*Gwyn, Julian (2003) ''Frigates and foremasts: the North American Squadron in Nova Scotia waters, 1745-1815''. (UBC Press). ISBN 978-0-7748-0910-8
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1-86176-246-1}}
+
+== External links ==
+* [http://www.pbenyon.plus.com/18-1900/N/03304.html HMS ''Oiseau''] Naval Database
+
+{{DEFAULTSORT:Cleopatre (1781)}}
+[[Category:Age of Sail frigates of France]]
+[[Category:1781 ships]]
+[[Category:Frigates of the French Navy]]
+[[Category:Captured ships]]</text>
+      <sha1>tqbx9dkkpui0hcyyrut02quklzoa9k1</sha1>
+    </revision>
+  </page>
+</mediawiki>

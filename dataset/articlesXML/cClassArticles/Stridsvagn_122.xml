@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Stridsvagn 122</title>
+    <ns>0</ns>
+    <id>6429539</id>
+    <revision>
+      <id>736384643</id>
+      <parentid>731064961</parentid>
+      <timestamp>2016-08-27T03:33:34Z</timestamp>
+      <contributor>
+        <ip>176.199.239.165</ip>
+      </contributor>
+      <comment>/* Comparison with other main battle tanks */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12496">{{Infobox weapon
+|name= Stridsvagn 122
+|image=Strv122 3 cropped.jpg
+|image_size= 300px
+|origin=Germany&lt;br /&gt;Sweden
+|type=[[Main battle tank]]
+|is_vehicle=yes
+|is_UK=no
+|service=1997–present &lt;ref name=&quot;sv-pansar&quot;&gt;Lindström, Rickard O. and Svantesson, Carl-Gustaf (2009). ''Svenskt Pansar 90 år av svensk stridsfordonsutveckling'', p. 112. Bookwell, Finland. ISBN 978 91 85789 375.&lt;/ref&gt;
+|used_by=[[Swedish Army]]
+|wars=
+|designer=
+|design_date=
+|manufacturer=[[BAE Systems AB]]
+|unit_cost= [[US$]]5.74 million
+|production_date=1994-present
+|number=120 (91 license-produced in Sweden)
+|variants= ''Strv 122''&lt;br /&gt;''Strv 122B''
+|weight= {{convert|62.5|t}}&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot;&gt;[http://fmv.se/sv/Projekt/Stridsvagn-121-och-122-Leopard-2-/Fakta/ Swedish Defence Materiel Administration: Leopard 2 – Stridsvagn 122 Facts (Swedish)]&lt;/ref&gt;
+|length= {{convert|9.97|m|ftin|abbr=on}} (gun forward)
+|width= {{convert|3.75|m|ftin|abbr=on}}
+|height= {{convert|3.0|m|ftin|abbr=on}}
+|crew= 4
+|armour= 3rd generation composite; including high-hardness steel, tungsten and plastic filler with ceramic component.
+|primary_armament=1 x [[Rheinmetall 120&amp;nbsp;mm Gun|120&amp;nbsp;mm Rheinmetall L44]] smoothbore gun&lt;br /&gt; 42 rounds
+|secondary_armament=2 x [[7.62×51mm NATO]] [[Rheinmetall MG 3|Ksp m/94]] machine gun&lt;br /&gt; 4,750 rounds&lt;br /&gt; 4 x 2 GALIX [[Grenade launcher#Description|smoke grenade launchers]]&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+|engine=[[MTU Friedrichshafen|MTU]] MB 873 Ka-501 [[Radiator (engine cooling)|liquid-cooled]] [[V12 engine|V-12]] [[Twin-turbo]] [[diesel engine]]
+|engine_power= 1,500 PS (1,479&amp;nbsp;hp, 1,103&amp;nbsp;kW) at 2,600&amp;nbsp;rpm
+|transmission=Renk HSWL 354
+|fuel_capacity= 1,200 [[liters]] (317 US [[gallon]]s; 264 imp. gal)
+|pw_ratio={{convert|24.19|PS/t|abbr=on}}
+|suspension=[[Torsion-bar suspension]]
+|clearance=540 mm
+|vehicle_range={{convert|550|km|mi|abbr=on}} (internal fuel)&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+|speed={{convert|68|km/h|mph|abbr=on}}&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+}}
+[[File:Swedish Leopard 2 Tank.jpg|thumb|Stridsvagn 122 during an urban warfare exercise, 2006]]
+'''Stridsvagn 122''' '''(Strv 122)''' (&quot;Tank 122&quot;) is a Swedish [[main battle tank]] based on the German [[Leopard 2]]. As with the Leopard 2A5 it is based on the German [[Leopard 2#Variants|Leopard 2 Improved variant]], utilizing newer technology such as command, control, and fire control systems, as well as reinforced armour and long-term combat capacity. Externally, the vehicle can be distinguished from the Leopard 2A5 by the French GALIX smoke dispensers, different storage bins, and the thicker crew hatches.&lt;ref name=&quot;strv122-fmv&quot;&gt;[http://www.fmv.se/WmTemplates/Page.aspx?id=1106 Swedish Defence Materiel Administration: Leopard 2 – Stridsvagn 122 (Swedish)]&lt;/ref&gt; The ''Strv 122B'', has been equipped with modular AMAP composite armour from IBD Deisenroth to give &quot;360° protection&quot; against threats such as EFPs, [[rocket propelled grenade]]s and [[improvised explosive device]]s.
+
+== Features ==
+The Leopard 2A5's width of {{convert|3.75|m}}&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt; has been kept, while the weight increased by only {{convert|350|kg}}.&lt;ref name=&quot;MBT122B&quot;&gt;{{cite web |url=http://www.ibd-deisenroth-engineering.de/news/items/MBT122B_with_new_Protection.html?file=tl_files/resources/content-pdfs/2010-12%20New%20MBT122B%20Evolution%20with%20Unprecedented%20Protection.pdf |title= New MBT122B Evolution with Unprecedented Protection |accessdate=28 December 2010 |publisher=IBD Deisenroth Engineering |format=PDF}}&lt;/ref&gt;
+
+The Stridsvagn 122 was designed to fight in Swedish conditions including heavily forested areas as well as urban terrain. The designation derives from the 12&amp;nbsp;cm gun, on the second tank in Swedish service featuring this calibre (the first being Strv 121, Leopard 2A4s fitted with Swedish lights and radios and painted in Swedish camouflage). Strv 122 also had to overcome the perceived flaws of the original German tank, and features the following abilities:&lt;ref name=&quot;strv122-f&quot;&gt;[http://www.forsvarsmakten.se/sv/materiel-och-teknik/fordon/stridsvagn-122/ Sidan Kunde Inte Hittas] (in Swedish)&lt;/ref&gt;
+* Heavily reinforced armour to protect against man-portable anti-tank weapons.
+* An advanced [[CBRN]] defence system for protection against chemical, biological and radioactive weapons.
+* Wading capability to pass through water up to 1.4 m deep.
+* Quick ability to discover, identify and lock on a target with the assistance of a [[laser rangefinder]], [[thermographic camera]], and a speed/distance/accuracy calculator for maximum accuracy.
+* Ability to lock onto numerous targets at once, enabling the tank to fight numerous enemy vehicles without having to manually re-aim the gun after every shot.
+* Active communication for improved cooperation between units.
+* Tank Command &amp; Control System TCCS by Celsius Tech Systems AB.&lt;ref name=&quot;fmv-strv122-fakta&quot;/&gt;
+
+== Production and service ==
+As of 2013, 42 of these tanks remain in active service. Most of the 160 Leopard 2 A4s (local designation Strv 121) that were originally leased are being returned to Germany.&lt;ref name=&quot;sydsvenskan&quot;&gt;{{cite web |url=http://www.sydsvenskan.se/skane/stridsvagnar-kor-sista-varvet/ |title=Sydsvenskan: Stridsvagnar kör sista varvet |language=Swedish |archive-url=https://web.archive.org/web/20140718231258/http://www.sydsvenskan.se/skane/stridsvagnar-kor-sista-varvet/ |archive-date=2014-07-18 |access-date=2014-09-22 }}&lt;/ref&gt; The active tanks are divided between three companies, two at [[Skaraborgs regemente (armoured)|P4, Skövde]] and one at [[Norrbottens regemente|I 19, Boden]].&lt;ref&gt;{{cite web | url=http://www.militaryfactory.com/armor/detail.asp?armor_id=457 | title=Stridsvagn 122 (Strv 122) Main Battle Tank (1998) | work=Militaryfactory.com | date=2011 | accessdate=23 May 2015}}&lt;/ref&gt;
+
+== Comparison with other main battle tanks ==
+{| class=&quot;wikitable&quot; 
+|-
+|+ Comparison of some modern main battle tanks
+|- valign=top
+!
+! style=&quot;text-align:center;&quot; | Strv 122&lt;br&gt; {{flagicon|Sweden}} 
+! style=&quot;text-align:center;&quot; | [[M1A2]]&lt;br&gt; {{flagicon|United States}} 
+! style=&quot;text-align:center;&quot; | [[T-90]]&lt;br&gt; {{flagicon|Russia}} 
+! style=&quot;text-align:center;&quot; | [[Leopard 2]]A5 &lt;br&gt;{{flagicon|Germany}} 
+! style=&quot;text-align:center;&quot; | [[Challenger 2]]&lt;br&gt; {{flagicon|United Kingdom}} 
+|- valign=top
+! style=&quot;text-align:right;&quot; | Unit cost
+| US$5.74 million&lt;ref&gt;Foss, p. 116.&lt;/ref&gt;
+| US$6.21 million&lt;ref&gt;Foss, pp. 149–153&lt;/ref&gt;
+| US$4.25 million&lt;ref&gt;{{cite web |url=http://arms-tass.su/?page=article&amp;aid=93690&amp;cid=25 |title=Denial of Defense Procurement MBT T-90 is not connected with the qualitative characteristics of this sample of military equipment – Ministry of Industry of the Russian Federation |publisher=Arms-Tass |date=March 17, 2011 |accessdate=March 19, 2011}}&lt;/ref&gt;
+| US$6.86 million&lt;ref&gt;Foss, p. 114.&lt;/ref&gt;
+| US$6.53 million&lt;ref&gt;Foss, pp. 130–135&lt;/ref&gt;
+|- valign=top
+! style=&quot;text-align:right;&quot; | Weight
+| {{convert|68.9|ST|t|disp=out}}&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+| {{convert|69.5 |ST|t|disp=out}}&lt;ref name=&quot;GSO&quot;&gt;{{cite web | url=http://www.globalsecurity.org/military/systems/ground/m1-specs.htm | title=M1 Abrams Main Battle Tank | publisher=Global security.org | date=2013 | accessdate=23 May 2015 | author=Pike, John}}&lt;/ref&gt;
+| {{convert|51 |ST|t|disp=out}}&lt;ref name=&quot;MF&quot;&gt;{{cite web | url=http://www.militaryfactory.com/armor/detail.asp?armor_id=161 | title=T-90 Main Battle Tank (MBT) (1995) | publisher=MilitaryFactory.com | date=2 February 2015 | accessdate=23 May 2015}}&lt;/ref&gt;
+| {{convert|68.7|ST|t|disp=out}}&lt;ref name=&quot;M-T&quot;&gt;{{cite web | url=http://www.military-today.com/tanks/leopard_2a5.htm | title=Leopard 2A5 Main Battle Tank | publisher=Military-today.com | date=2014 | accessdate=24 May 2015 | author=Genys, Andrius}}&lt;/ref&gt;
+| {{convert|68.9 |ST|t|disp=out}}&lt;ref name=&quot;MF2&quot;&gt;{{cite web | url=http://www.militaryfactory.com/armor/detail.asp?armor_id=11 | title=Challenger 2 Main Battle Tank (1998) | publisher=Militaryfactory.com | date=1 August 2014 | accessdate=24 May 2015}}&lt;/ref&gt;
+|- valign=top
+! style=&quot;text-align:right;&quot; | Length
+| 9.97&amp;nbsp;meters&lt;ref name=&quot;F11&quot;&gt;Foss, p. 117.&lt;/ref&gt;
+| 9.77&amp;nbsp;meters&lt;ref name=&quot;GSO&quot; /&gt;
+| 9.63&amp;nbsp;meters&lt;ref name=&quot;MF&quot; /&gt;
+| 9.97&amp;nbsp;meters&lt;ref name=&quot;M-T&quot; /&gt;
+| 11.50&amp;nbsp;meters&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Width
+| 3.75&amp;nbsp;meters&lt;ref name=&quot;F11&quot; /&gt;
+| 3.7&amp;nbsp;meters&lt;ref name=&quot;GSO&quot; /&gt;
+| 3.78&amp;nbsp;meters&lt;ref name=&quot;MF&quot; /&gt;
+| 3.75&amp;nbsp;meters&lt;ref name=&quot;M-T&quot; /&gt;
+| 3.5&amp;nbsp;meters&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Height
+| 3&amp;nbsp;meters&lt;ref name=&quot;F11&quot; /&gt;
+| 2.4&amp;nbsp;meters&lt;ref name=&quot;GSO&quot; /&gt;
+| 2.22&amp;nbsp;meters&lt;ref name=&quot;MF&quot; /&gt;
+| 3&amp;nbsp;meters&lt;ref name=&quot;M-T&quot; /&gt;
+| 2.49&amp;nbsp;meters&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Crew
+| 4&lt;ref name=&quot;F11&quot; /&gt;
+| 4&lt;ref name=&quot;GSO&quot; /&gt;
+| 3&lt;ref name=&quot;MF&quot; /&gt;
+| 4&lt;ref name=&quot;M-T&quot; /&gt;
+| 4&lt;ref name=&quot;MF2&quot; /&gt;
+|-valign=top
+! style=&quot;text-align:right;&quot; | Armour
+| 3rd generation [[Composite armour|composite]]&lt;ref name=&quot;F11&quot; /&gt;
+| [[Depleted Uranium]] [[Chobham armour|composite]]&lt;ref name=&quot;GSO&quot; /&gt;
+| Composite/[[Reactive armour|reactive]]&lt;ref name=&quot;MF&quot; /&gt;
+| 3rd generation composite&lt;ref name=&quot;M-T&quot; /&gt;
+| Dorchester Level 2 (classified)&lt;ref name=&quot;MF2&quot; /&gt;
+|-valign=top
+! style=&quot;text-align:right;&quot; | Main armament
+| 1x [[Rheinmetall 120 mm gun|120&amp;nbsp;mm Rheinmetall]] L/44 smoothbore gun&lt;ref name=&quot;F11&quot; /&gt;
+| 1x [[Rheinmetall 120 mm gun|M256 120&amp;nbsp;mm]] L/44 smoothbore gun&lt;ref name=&quot;GSO&quot; /&gt;
+| 1x [[2A46 125&amp;nbsp;mm gun|125&amp;nbsp;mm L/48]] smoothbore gun&lt;ref name=&quot;MF&quot; /&gt;
+| 1x [[Rheinmetall 120 mm gun|120&amp;nbsp;mm Rheinmetall]] L/44 smoothbore gun&lt;ref name=&quot;M-T&quot; /&gt;
+| 1x [[L30|120&amp;nbsp;mm L30]] L/55 rifled gun&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Main ammunition
+| 42 rounds&lt;ref name=&quot;F11&quot; /&gt;
+| 42 rounds&lt;ref name=&quot;GSO&quot; /&gt;
+| 42 rounds&lt;ref name=&quot;MF&quot; /&gt;
+| 42 rounds&lt;ref name=&quot;M-T&quot; /&gt;
+| 52 rounds&lt;ref name=&quot;MF2&quot; /&gt;
+|-valign=top
+! style=&quot;text-align:right;&quot; | Secondary armament
+| 2x 7.62mm machine guns&lt;ref name=&quot;F11&quot; /&gt;
+| 1x 12.7mm heavy machine gun &lt;br /&gt; 2x 7.62mm machine guns&lt;ref name=&quot;GSO&quot; /&gt;
+| 1x 12.7mm heavy machine gun &lt;br /&gt; 1x 7.62mm machine gun&lt;ref name=&quot;MF&quot; /&gt;
+| 2x 7.62mm machine guns&lt;ref name=&quot;M-T&quot; /&gt;
+| Coaxial 7.62×51mm L94A1 EX-34 (chain gun), &lt;br /&gt; 7.62×51mm L37A2 Commander's cupola machine gun&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Secondary ammunition
+| 4,750 rounds&lt;ref name=&quot;F11&quot; /&gt;
+| 900 rounds &lt;br /&gt; 10,000 rounds&lt;ref name=&quot;GSO&quot; /&gt;
+| 7,000 rounds&lt;ref name=&quot;MF&quot; /&gt;
+| 4,750 rounds&lt;ref name=&quot;M-T&quot; /&gt;
+| 4,000&lt;ref&gt;[http://www.army.mod.uk/equipment/23236.aspx Challenger 2 main battle tank]&lt;/ref&gt;
+|-
+! style=&quot;text-align:right;&quot; | Engine power
+| 1,500&amp;nbsp;hp&lt;ref name=&quot;F11&quot; /&gt;
+| 1,500&amp;nbsp;hp&lt;ref name=&quot;GSO&quot; /&gt;
+| 1,000&amp;nbsp;hp&lt;ref name=&quot;MF&quot; /&gt;
+| 1,500&amp;nbsp;hp&lt;ref name=&quot;M-T&quot; /&gt;
+| 1,200&amp;nbsp;bhp
+|-
+! style=&quot;text-align:right;&quot; | Power/weight
+| 24.00&amp;nbsp;hp/t&lt;ref name=&quot;F11&quot; /&gt;
+| 24.15&amp;nbsp;hp/t&lt;ref name=&quot;GSO&quot; /&gt;
+| 26.31&amp;nbsp;hp/t&lt;ref name=&quot;MF&quot; /&gt;
+| 25.06&amp;nbsp;hp/t&lt;ref name=&quot;M-T&quot; /&gt;
+| 19.2&amp;nbsp;hp/t&lt;ref name=&quot;MF2&quot; /&gt;
+|-valign=top
+! style=&quot;text-align:right;&quot; |Suspension
+| [[Torsion-bar suspension]]&lt;ref name=&quot;F11&quot; /&gt;
+| Torsion-bar suspension&lt;ref name=&quot;GSO&quot; /&gt;
+| Torsion-bar suspension&lt;ref name=&quot;MF&quot; /&gt;
+| Torsion-bar suspension&lt;ref name=&quot;M-T&quot; /&gt;
+| Hydropneumatic&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Fuel capacity
+| 1,200&amp;nbsp;liters&lt;ref name=&quot;F11&quot; /&gt;
+| 1,900&amp;nbsp;liters&lt;ref name=&quot;GSO&quot; /&gt;
+|
+| 1,200&amp;nbsp;liters&lt;ref name=&quot;M-T&quot; /&gt;
+| 1,592&amp;nbsp;liters&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+! style=&quot;text-align:right;&quot; | Operational range
+| 550&amp;nbsp;km&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+| 425&amp;nbsp;km&lt;ref name=&quot;GSO&quot; /&gt;
+| 500&amp;nbsp;km&lt;ref name=&quot;MF&quot; /&gt;
+| 550&amp;nbsp;km&lt;ref name=&quot;M-T&quot; /&gt;
+| 550&amp;nbsp;km{{citation needed|date=September 2015}}
+|-
+! style=&quot;text-align:right;&quot; | Speed
+| 68&amp;nbsp;km/h&lt;ref name=&quot;sv-pansar&quot; /&gt;&lt;ref name=&quot;fmv-strv122-fakta&quot; /&gt;
+| 68&amp;nbsp;km/h&lt;ref name=&quot;GSO&quot; /&gt;
+| 65&amp;nbsp;km/h&lt;ref name=&quot;MF&quot; /&gt;
+| 72&amp;nbsp;km/h&lt;ref name=&quot;M-T&quot; /&gt;
+| 59&amp;nbsp;km/h&lt;ref name=&quot;MF2&quot; /&gt;
+|-
+|}
+
+==Notes==
+{{reflist|30em}}
+
+== Sources ==
+* {{cite book | title=Jane's Armour and Artillery | publisher=Jane's Publishing Company | author=Foss, Christopher F. | year=2002 | isbn=978-0-7106-0964-9}}
+
+== External links ==
+{{commons category|Stridsvagn 122}}
+* [http://www.soldf.com/strv122.html Stridsvagn 122 – Strv122]
+
+[[Category:Main battle tanks of Sweden]]</text>
+      <sha1>01t33oapf3deutbzfyr7hobzk46cuh5</sha1>
+    </revision>
+  </page>
+</mediawiki>

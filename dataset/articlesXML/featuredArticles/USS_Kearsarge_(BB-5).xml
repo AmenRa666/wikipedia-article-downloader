@@ -1,0 +1,491 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Kearsarge (BB-5)</title>
+    <ns>0</ns>
+    <id>190291</id>
+    <revision>
+      <id>750293088</id>
+      <parentid>750292613</parentid>
+      <timestamp>2016-11-18T22:11:17Z</timestamp>
+      <contributor>
+        <username>Mliu92</username>
+        <id>7126005</id>
+      </contributor>
+      <minor/>
+      <comment>Revised reference format.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35419">{{other ships|USS Kearsarge}}
+{{featured article}}
+
+{{Use dmy dates|date=October 2012}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Kearsarge (BB5), converted to craneship in 1920. Port bow, at wharf, 09-18-1899 - NARA - 535431.jpg|300px|USS Kearsarge]]
+| Ship caption = ''Kearsarge'' in 1899
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = United States
+| Ship flag = {{USN flag|1920}}
+| Ship name =USS ''Kearsarge''
+| Ship namesake ={{USS|Kearsarge|1861}}
+| Ship ordered =
+| Ship awarded = 2 January 1896
+| Ship builder =[[Newport News Shipbuilding|Newport News SB&amp;DD]]
+| Ship original cost = US$5,043,591.68
+| Ship yard number =
+| Ship way number =
+| Ship laid down = 30 June 1896
+| Ship launched = 24 March 1898
+| Ship sponsor = Wife of Rear Admiral [[Herbert Winslow]]
+| Ship christened =
+| Ship completed =
+| Ship commissioned = 20 February 1900
+| Ship decommissioned = 4 September 1909
+| Ship refit =
+| Ship renamed =
+| Ship reclassified =
+| Ship identification =[[Hull symbol]]: BB-5
+| Ship motto =
+| Ship nickname =
+| Ship honors =
+| Ship notes =
+| Ship badge =
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship recommissioned = 23 June 1915
+| Ship decommissioned = 10 May 1920
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship recommissioned =
+| Ship decommissioned = 
+| Ship renamed = ''Crane Ship No.'' 1, 6 November 1941{{efn|name=classification}}
+| Ship reclassified = IX-16, 17 July 1920; AB-1, 5 August 1920{{efn|name=classification}}
+| Ship refit =
+| Ship struck =22 June 1955
+| Ship homeport =
+| Ship identification =
+| Ship motto =
+| Ship nickname =
+| Ship honors =
+| Ship fate = [[Ship breaking|Sold for scrap]], 9 August 1955
+| Ship notes = Only US Battleship not named after a State
+| Ship badge =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{sclass-|Kearsarge|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement = {{convert|11540|ST|abbr=on}}
+| Ship length = {{convert|375|ft|4|in|abbr=on}}
+| Ship beam = {{convert|72|ft|3|in|abbr=on}}
+| Ship draft = {{convert|23|ft|6|in|abbr=on}}
+| Ship depth =
+| Ship power = 5 boilers, {{convert|11674|ihp|abbr=on}}
+| Ship propulsion = 2 [[Vertical triple expansion|VTE]] engines, 2 propeller shafts
+| Ship speed = {{convert|17|kn|mph km/h|abbr=on}}
+| Ship range =
+| Ship boats = 6 [[Cutter (boat)|cutters]], 2 [[Launch (boat)|launches]], 1 [[barge]], 2 [[whaleboat]]s, 1 [[Captain's gig|gig]], 2 [[Dinghy|dinghies]], 2 [[catamaran]]s
+| Ship complement = 40 officers and 514 enlisted men
+| Ship crew =
+| Ship armament =*  4 × [[13&quot;/35 caliber gun|{{convert|13|in|mm|abbr=on|0}}/35 caliber guns]]
+*  4 × [[8&quot;/35 caliber gun|{{convert|8|in|mm|abbr=on|0}}/35 caliber guns]]
+* 14 × [[5&quot;/40 caliber gun|{{convert|5|in|mm|abbr=on|0}}/40 caliber guns]]
+* 20 × 6-pounders ({{convert|57|mm|in|abbr=on|disp=or}})
+*  8 × 1-pounders ({{convert|37|mm|in|abbr=on|disp=or}})
+*  4 × {{convert|.30|in|mm|abbr=on}} machine guns
+*  4 × {{convert|18|in|mm|abbr=on|0}} [[torpedo tube]]s
+| Ship armor =* [[Belt armor|Belt]]: {{convert|5|-|16.5|in|abbr=on|0}}
+* [[Barbette]]s: {{convert|12.5|-|15|in|abbr=on|0}}
+* [[Gun turret#Warships|Turret]]s (primary): {{convert|15|-|17|in|abbr=on|0}}
+* Turrets (secondary): {{convert|6|-|11|in|abbr=on|0}}
+* [[Conning tower]]: {{convert|10|in|abbr=on|0}}
+| Ship notes =
+}}
+|}
+
+'''USS ''Kearsarge'' (BB-5)''', the [[lead ship]] of [[Kearsarge-class battleship|her class]] of [[pre-dreadnought battleship]]s, was a [[United States Navy]] ship, named after the [[sloop-of-war]] {{USS|Kearsarge|1861|2}}. Her keel was laid down by the [[Newport News Shipbuilding|Newport News Shipbuilding Company]] of [[Virginia]], on 30 June 1896. She was [[ship naming and launching|launched]] on 24 March 1898, sponsored by the wife of Rear Admiral [[Herbert Winslow]], and [[ship commissioning|commissioned]] on 20 February 1900.
+
+Between 1903 and 1907 ''Kearsarge'' served in the [[North Atlantic Fleet]], and from 1907 to 1909 she sailed as part of the [[Great White Fleet]]. In 1909 she was decommissioned for modernization, which was finished in 1911. In 1915 she served in the Atlantic, and between 1916 and 1919 she served as a training ship. She was converted into a [[crane ship]] in 1920, renamed ''Crane Ship No. 1'' in 1941, and sold for [[scrap]] in 1955.
+
+== Design ==
+{{main article|Kearsarge-class battleship}}
+
+The ''Kearsarge''-class battleships were designed to be used for coastal defense.{{sfn|Crawford|2008|p=12}} They had a displacement of {{convert|11540|ST}}, an [[length overall|overall length]] of {{convert|375|ft|4|in}}, a [[beam (nautical)|beam]] of {{convert|72|ft|3|in}} and a [[draft (hull)|draft]] of {{convert|23|ft|6|in}}.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} The two 3-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]] and five [[Scotch marine boiler|Scotch boilers]], connected to two propeller shafts, produced a total of {{convert|11674|ihp|lk=in}}, and gave a maximum speed of {{convert|16.816|kn|mph km/h}}.{{sfn|Reilly|Scheina|1980|p=94}} ''Kearsarge'' was manned by 40 officers and 514 enlisted men, a total of 554 crew.{{sfn|Newhart|1995|p=21}}
+
+[[File:Kearsarge - det1994013792 (crop).jpg|left|thumb|alt=A smaller turret on top of a bigger turret.|''Kearsarge'''s double turret on 8 April 1900]]
+''Kearsarge'' had two double [[Gun turret|turrets]], with two [[13&quot;/35 caliber gun|{{convert|13|in|mm|abbr=on|0}}/35 caliber guns]] and two [[8&quot;/40 caliber gun|{{convert|8|in|mm|abbr=on|0}}/40 caliber guns]] each, stacked in two levels.{{sfn|Friedman|1985|pp=30–32}} The guns and turret armor were designed by the [[Bureau of Ordnance]], while the turret itself was designed by the [[Bureau of Construction and Repair]]. This caused the guns to be mounted far back in the turret, making the ports very large. Admiral [[William Sims]] claimed that as a result, a shell fired into the port could reach the [[Magazine (artillery)|magazines]] below, disabling the guns.{{sfn|Friedman|1985|p=17}} In addition to these guns, ''Kearsarge'' carried fourteen [[5&quot;/40 caliber gun|{{convert|5|in|mm|abbr=on|0}}/40 caliber guns]], twenty [[6-pounder gun|6-pounder]] ({{convert|57|mm|in|abbr=on|disp=or}}) guns, eight [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|abbr=on|disp=or}}) guns, four {{convert|.30|in|mm|abbr=on}} machine guns, and four {{convert|18|in|mm|adj=on}} [[torpedo tube]]s.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} ''Kearsarge'' had a very low [[freeboard (nautical)|freeboard]], which resulted in her guns becoming unusable in bad weather.{{sfn|Reilly|Scheina|1980|p=92}}
+
+The ship's [[waterline]] [[belt armor|armor belt]] was {{convert|5|-|16.5|in}} thick and the main gun turrets were protected by {{convert|15|-|17|in}} of armor, while the secondary turrets had {{convert|6|-|11|in}} of armor. The [[barbette]]s were {{convert|12.5|-|15|in}} thick, while the [[conning tower]] had {{convert|10|in}} of armor.{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}} The armor was made of [[Harvey armor|harveyized steel]].{{sfn|Reilly|Scheina|1980|p=94}}
+
+''Kearsarge'' carried 16 smaller boats. A {{convert|40|ft|adj=on}} steam [[Cutter (boat)|cutter]], with a capacity of 60 men, together with a {{convert|33|ft|adj=on}} steam cutter, were used for general carrying from and to port, and could tow the  other boats if needed. Two 33-foot [[Launch (boat)|launches]], each capable of carrying 64 men, were the &quot;working boats&quot;. There were ten {{convert|30|ft|adj=on}} boats: four cutters, each with a capacity of 45 men, the Admiral's [[barge]], two [[whaleboat]]s (which served as [[Lifeboat (rescue)|lifeboats]]), and the [[Captain's gig]]. Four smaller boats completed ''Kearsarge''{{'}}s small fleet: two {{convert|20|ft|adj=on}} [[Dinghy|dinghies]] and two {{convert|18|ft|adj=on}} [[catamaran]]s.{{sfn|''New-York Tribune'' 6 May 1900}}
+
+== Construction ==
+[[File:BB05 Kearsarge BB06 Kentucky USN photo www.navsource.org.jpg|thumb|left|alt=Photograph of Kearsarge. Kentucky is on her right, and crowds surround both.|''Kearsarge'' on the day of her launching, 24 March 1898. The masts of ''Kentucky'' are visible in the background.]]
+
+''Kearsarge'' was authorized on 2 March 1895,{{sfn|Reilly|Scheina|1980|p=83}} the contract for her construction was awarded on 2 January 1896,{{sfn|NVR Crane Ship No. 1 (AB 1)}} and the keel of the vessel was laid down on 30 June 1896 by [[Newport News Shipbuilding &amp; Dry Dock Company]] in [[Virginia]].{{sfn|Chesneau|Koleśnik|Campbell|1979|p=141}}{{sfn|''Houston Daily Post'' 25 March 1898}} The total cost was US$5,043,591.68.{{sfn|Reilly|Scheina|1980|p=94}} She was named soon after the [[American Civil War]] sloop-of-war {{USS|Kearsarge|1861|2}} sank, and was the first ship of the United States Navy to be named, by act of [[United States Congress|Congress]], in its honor. She was the only US battleship not named after a state.{{sfn|Friedman|1985|p=30}} She was christened on 24 March 1898 (the same day as her sister ship, [[USS Kentucky (BB-6)|''Kentucky'']]) by the wife of Captain [[Herbert Winslow]],{{sfn|''Houston Daily Post'' 25 March 1898}} daughter-in-law of Captain [[John Ancrum Winslow]], the commander of the original ''Kearsarge''.{{sfn|''New York Times'' 26 September 1914}} She was [[ship commissioning|commissioned]] on 20 February 1900, under the command of [[Captain (naval)|Captain]] [[William M. Folger]].{{sfn|''Times'' 20 February 1900}}
+
+== Service history ==
+
+=== Early career ===
+As [[flagship]] of the [[North Atlantic Squadron]],{{sfn|Albertson|2007|p=178}} ''Kearsarge'' sailed along the [[Atlantic seaboard]] and the [[Caribbean Sea]].{{sfn|DANFS Kearsarge (BB-5)}} In May 1901 Captain [[Bowman H. McCalla]] assumed command of ''Kearsarge'',{{sfn|''Times'' 17 March 1901}} although by May 1902 the ship was being commanded by Captain [[Joseph Newton Hemphill]].{{sfn|''New-York Tribune'' 29 May 1902}} Reassigned as flagship of the [[European Squadron]], she sailed from [[Sandy Hook]] on 3 June 1903, on her way to [[Kiel]], Germany.{{sfn|''New-York Tribune'' 4 June 1903}} She was visited by Emperor [[Wilhelm II, German Emperor|Wilhelm II of Germany]] on 25 June,{{sfn|''St. Louis Republic'' 26 June 1903}} and by the [[Prince of Wales]]&amp;nbsp;– who would later become King [[George V|George V of the United Kingdom]]&amp;nbsp;– on 13 July.{{sfn|''San Francisco Call'' 14 July 1903}}
+
+''Kearsarge'' returned to [[Bar Harbor, Maine]] on 26 July,{{sfn|''San Francisco Call'' 27 July 1903}} and resumed her position as flagship.{{sfn|''Washington Times'' 3 August 1903}} On 1 December the ship sailed from New York for [[Guantánamo Bay]], Cuba, where she was present as the United States took formal possession of the [[Guantanamo Naval Reservation]] on 10 December.{{sfn|''San Francisco Call'' 2 December 1903}}{{sfn|''San Francisco Call'' 11 December 1903}} On 26 March 1904 Captain [[Raymond P. Rodgers]] assumed command of the ship.{{sfn|''Evening Bulletin'' 26 March 1904}} Following maneuvers in the Caribbean Sea,{{sfn|DANFS Kearsarge (BB-5)}} ''Kearsarge'' left with the North Atlantic Squadron for [[Lisbon]], [[Portugal]], where she met King [[Carlos I of Portugal]] on 11 June 1904.{{sfn|''St. Louis Republic'' 12 June 1904}} [[Independence Day (United States)|Independence Day]] was celebrated in [[Phaleron Bay]], Greece, with King [[George I of Greece]] and his son and daughter-in-law, [[Prince Andrew of Greece and Denmark]] and [[Princess Alice of Battenberg]].{{sfn|DANFS Kearsarge (BB-5)}} The squadron visited [[Corfu]],{{sfn|''Evening Star'' 8 July 1904}} [[Trieste]],{{sfn|''Evening Star'' 8 July 1904}} and [[Fiume]]{{sfn|''Edgefield Advertiser'' 3 August 1904}} before returning to [[Newport, Rhode Island]], on 29 August 1904.{{sfn|DANFS Kearsarge (BB-5)}}
+
+On 31 March 1905, {{USS|Maine|BB-10|2}} replaced ''Kearsarge'' as flagship of the North Atlantic Fleet,{{sfn|''Evening Star'' 24 March 1905}} although she remained with the fleet.{{sfn|DANFS Kearsarge (BB-5)}} Captain Herbert Winslow took command of the ship during December.{{sfn|''Evening Star'' 13 December 1905}} On 13 April 1906, while participating in an exercise off [[Cape Cruz]], Cuba, the [[gunpowder]] in a 13-inch gun ignited accidentally, killing two officers and eight men.{{sfn|''Pensacola Journal'' 21 April 1905}}{{sfn|''New-York Tribune'' 24 April 1905}}
+
+=== Great White Fleet ===
+[[File:USS Kearsarge in great white fleet 1908.jpg|thumb|alt=Photograph of Kearsarge|''Kearsarge'' during the cruise of the [[Great White Fleet]]]]
+
+Attached to the Fourth Division of the Second Squadron,{{sfn|Albertson|2007|p=46}} and under command of Captain Hamilton Hutchins,{{sfn|Albertson|2007|p=177}} she sailed on 16 December 1907 with the [[Great White Fleet]].{{sfn|Albertson|2007|p=181}} The fleet left from [[Hampton Roads]],{{sfn|Albertson|2007|p=181}} passed by [[Trinidad]] and [[Rio de Janeiro]],{{sfn|Albertson|2007|p=54}} and then passed through the [[Straits of Magellan]].{{sfn|Albertson|2007|p=66}} From there she passed by the west coast of South America, visiting [[Punta Arenas]]{{sfn|Albertson|2007|p=64}} and [[Valparaíso]], Chile,{{sfn|Albertson|2007|p=67}} [[Callao]], Peru,{{sfn|Albertson|2007|p=69}} and [[Magdalena Bay, Mexico]].{{sfn|Albertson|2007|p=73}} The fleet reached San Diego on 14 April 1908{{sfn|Albertson|2007|p=184}} and moved on to San Francisco on 6 May.{{sfn|Albertson|2007|p=185}} Two months later the warships sailed for [[Honolulu, Hawaii]],{{sfn|Albertson|2007|pp=90–95}} and from there to [[Auckland]], New Zealand, arriving 9 August.{{sfn|Albertson|2007|p=95}} The fleet made [[Sydney, Australia]], on 20 August, and after a week sailed for Melbourne.{{sfn|Albertson|2007|p=188}}
+
+''Kearsarge'' departed [[Albany, Western Australia]], on 18 September for ports in the [[Philippine Islands]], Japan, China, and [[Ceylon]] before transiting the [[Suez Canal]].{{sfn|Albertson|2007|pp=188–190}} The fleet split at [[Port Said]], with ''Kearsarge'' leaving on 10 January 1909 for [[Malta]], and arriving in [[Algiers]] on 24 January, before reforming with the fleet at [[Gibraltar]] on 1 February. She returned to Hampton Roads on 22 February, and was inspected by [[President of the United States|U.S. President]] [[Theodore Roosevelt]].{{sfn|Albertson|2007|pp=191–192}}
+
+=== World War I ===
+[[File:USS Kearsarge after WWI refit 1916.jpg|thumb|alt=Photograph of Kearsarge|''Kearsarge'' off Boston in October 1916, following her modernization]]
+
+As with most of the Great White Fleet ships, ''Kearsarge'' was modernized on her return.{{sfn|Friedman|1985|p=82}} She was decommissioned at the [[Philadelphia Naval Shipyard]] on 4 September 1909,{{sfn|Newhart|1995|p=21}} and the modernization was completed in 1911, at a cost of US$675,000.{{sfn|Friedman|1985|pp=82–83}} The ship received [[Lattice mast|cage masts]], new [[water-tube boiler]]s, and another four 5-inch guns. The 1-pounder guns were removed, as were sixteen of the 6-pounders.{{sfn|Reilly|Scheina|1980|p=92}} She was recommissioned on 23 June 1915,{{sfn|Newhart|1995|p=21}} and operated along the Atlantic coast. On 17 September she left Philadelphia to land a detachment of [[United States Marine Corps|US Marines]] at [[Veracruz, Veracruz|Veracruz, Mexico]], remaining there from 28 September 1915 to 5 January 1916.{{sfn|DANFS Kearsarge (BB-5)}} She then carried the Marines to [[New Orleans]], [[Louisiana]],{{sfn|DANFS Kearsarge (BB-5)}} before joining the [[Atlantic Reserve Fleet]] at Philadelphia on 4 February.{{sfn|Newhart|1995|p=21}} Until the United States joined [[World War I]], she trained [[naval militia]] from Massachusetts and Maine. During the war she was used to train Armed Guard crews and [[naval engineer]]s during cruises along the Atlantic seaboard.{{sfn|DANFS Kearsarge (BB-5)}} On 18 August 1918 ''Kearsarge'' rescued 26 survivors of the Norwegian [[barque]] ''Nordhav'' which had been sunk by {{SMU|U-117||2}}, bringing them to Boston.{{sfn|Daniels|1920|p=95}}
+
+=== Inter-war period ===
+[[File:USS Kearsarge as crane ship AB-1.jpg|thumb|alt=Kearsarge with a large crane on her deck|''Kearsarge'' as ''Crane Ship No. 1'']]
+
+Between 29 May and 29 August 1919, ''Kearsarge'' trained [[United States Naval Academy]] [[Midshipman|midshipmen]] in the [[Caribbean]]. ''Kearsarge'' sailed from [[Annapolis, Maryland]] to the Philadelphia Navy Yard, where she decommissioned on either 10 May{{sfn|DANFS Kearsarge (BB-5)}}{{sfn|Friedman|1985|p=419}}{{sfn|Albertson|2007|p=179}} or 18 May 1920.{{sfn|NVR Crane Ship No. 1 (AB 1)}}{{sfn|Reilly|Scheina|1980|p=83}}
+
+''Kearsarge'' was converted into a [[crane vessel|crane ship]], and was given [[hull classification symbol]] '''IX-16''' on 17 July 1920,{{sfn|Bauer|Roberts|1991|p=103}} but it was changed to '''AB-1''' on 5 August.{{sfn|Friedman|1985|p=419}}{{efn|name=classification}} Her turrets, superstructure, and armor were removed, and were replaced by a large revolving crane with a lifting capacity of 250&amp;nbsp;tons (230&amp;nbsp;tonnes), as well as {{convert|10|ft|adj=on}} blisters, which improved her stability.{{sfn|Graff|2010|p=54}} The crane ship was utilized often over the next 20 years, including the raising of {{USS|Squalus|SS-192|6}} in 1939.{{sfn|Albertson|2007|p=179}}
+
+=== World War II ===
+On 6 November 1941, ''Kearsarge'' was renamed ''Crane Ship No. 1'', allowing her name to be given to {{USS|Hornet|CV-12|3}}, and later to {{USS|Kearsarge|CV-33|3}}.{{sfn|Albertson|2007|p=179}} She continued her service, however, handling guns, turrets, armor, and other heavy lifts for vessels such as {{USS|Indiana|BB-58|2}},{{sfn|Garzke|Dulin|1995|p=72}} {{USS|Alabama|BB-60|2}}, {{USS|Savannah|CL-42|2}}, {{USS|Chicago|CA-29|2}}, and {{USS|Pennsylvania|BB-38|2}}.{{sfn|Newhart|1995|p=21}}
+
+She was transferred to the [[San Francisco Naval Shipyard]] in 1945, where she participated in the construction of ''Hornet'' and {{USS|Boxer|CV-21|2}} and the re-construction of {{USS|Saratoga|CV-3|2}}.{{sfn|DANFS Kearsarge (BB-5)}} One of her last projects was performing heavy lifts during the reassembly of another crane vessel, [[Herman the German (crane vessel)|YD-171]] (ex-''Schwimmkran nr. 1'') on [[Terminal Island]].{{sfn|''Popular Mechanics'' September 1948}} In 1948 she left the West Coast for the [[Boston Naval Shipyard]].{{sfn|Morris|Kearns|2011|p=206}} On 22 June 1955 her name was struck from the [[Naval Vessel Register]], and she was sold for scrap on 9 August.{{sfn|Albertson|2007|p=177}}
+
+==Awards==
+*[[World War I Victory Medal (United States)|World War I Victory Medal]]
+*[[American Defense Service Medal]]
+*[[American Campaign Medal]]
+*[[World War II Victory Medal]]
+*[[National Defense Service Medal]]
+
+== Footnotes ==
+===Notes===
+{{Notelist|
+refs=
+{{efn|name=classification|From the time of its conversion to a crane ship, the classification and naming of ''Kearsarge'' is highly problematic. The [[Dictionary of American Naval Fighting Ships]] mentions that ''Kearsarge'' was reclassified as AB-1 on 5 August 1920, and that it was renamed to ''Crane Ship No.&amp;nbsp;1'' on 6 November 1941.{{sfn|DANFS Kearsarge (BB-5)}} This is repeated by a number of other sources.{{sfn|Friedman|1985|p=419}}{{sfn|Newhart|1995|p=21}}{{sfn|Albertson|2007|p=179}} However, the symbol AB was not used in 1920: Roberts claims the symbol was created in 1931,{{sfn|Roberts|2010}} while Reilly and Scheina claim it was established even later, in 1939.{{sfn|Reilly|Scheina|1980|p=93}} According to Reilly and Scheina, on 5 August 1920 ''Kearsarge'' (BB-5) became ''Kearsarge'' (Crane Ship No. 1), with the &quot;Crane Ship&quot; serving instead of a different designation, and on 15 April 1939,{{sfn|Reilly|Scheina|1980|p=83}} when the AB designation was adopted, she became ''Kearsarge'' (AB-1). In 1941, when the name ''Kearsarge'' was wanted for other ships, she was renamed, and she became ''Crane Ship No.&amp;nbsp;1'' (AB-1).{{sfn|Reilly|Scheina|1980|p=93}}
+
+The IX-16 classification is also uncertain. Bauer and Roberts report that ''Kearsarge'' was reclassified as IX-16 on 17 July 1920, before being classified AB-1 on 15 April 1939,{{sfn|Bauer|Roberts|1991|p=103}} although Roberts also claims that the designation IX-16 may have been used for {{USS|Tallahassee|BM-9}} between 1921 and 1922, and that this was before it was used for ''Kearsarge''.{{sfn|Roberts|2010}} However, a number of other sources also mention ''Kearsarge'' being designated IX-16.{{sfn|Fitzsimons|1978|p=1581}}{{sfn|Polmar|2005|p=242}}
+}}
+}}
+
+===Citations===
+{{reflist|30em}}
+
+== Bibliography ==
+{{refbegin}}
+
+'''Books'''
+
+* {{cite book
+  | last        = Albertson
+  | first       = Mark
+  | title       = They'll Have to Follow You!: The Triumph of the Great White Fleet
+  | url         = https://www.google.com/books?id=1_ApYoXy6kQC
+  | year        = 2007
+  | publisher   = [[Tate Publishing &amp; Enterprises]]
+  | location    = [[Mustang, Oklahoma]]
+  | isbn        = 978-1-60462-145-7
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Bauer
+  | first1      = Karl Jack
+  | authorlink1 = K. Jack Bauer
+  | last2       = Roberts
+  | first2      = Stephen S.
+  | date        = 30 November 1991
+  | url         = https://www.google.com/books?id=nLgA6pC_-uwC&amp;pg=PA103
+  | title       = Register of Ships of the U.S. Navy, 1775–1990: Major Combatants
+  | location    = [[Westport, Connecticut]]
+  | publisher   = [[Greenwood Publishing Group]]
+  | isbn        = 0-313-26202-0
+  | page        = 103
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Chesneau
+  | first1      = Roger
+  | last2       = Koleśnik
+  | first2      = Eugène M.
+  | last3       = Campbell
+  | first3      = N.J.M.
+  | year        = 1979
+  | title       = Conway's All the World's Fighting Ships, 1860–1905
+  | publisher   = Conway Maritime Press
+  | location    = London
+  | isbn        = 0-85177-133-5
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Crawford
+  | first       = Michael J.
+  | title       = The World Cruise of the Great White Fleet: Honoring 100 Years of Global Partnerships and Security
+  | url         = https://www.google.com/books?id=OVtFbZqPskgC
+  | date        = 12 May 2008
+  | publisher   = [[United States Government Printing Office]]
+  | location    = [[Washington, D.C.]]
+  | isbn        = 978-0-945274-59-9
+  | ref         = harv
+  }}
+* {{cite book
+  | editor-last  = Daniels
+  | editor-first = Josephus
+  | editor-link  = Josephus Daniels
+  | title        = German Submarine Activities on the Atlantic Coast of the United States and Canada
+  | url          = https://www.fas.org/man/eprint/german-subs.pdf
+  | format       = PDF
+  | accessdate   = 13 January 2013
+  | year         = 1920
+  | publisher    = [[United States Government Printing Office]]
+  | location     = Washington, D.C.
+  | isbn         = 1-78039-135-8
+  | page         = 95
+  | ref          = harv
+}}
+* {{cite book
+  | last         = Fitzsimons
+  | first        = Bernard
+  | title        = The Illustrated Encyclopedia of 20th Century Weapons and Warfare
+  | url          = https://www.google.com/books?id=X5g8AAAAIAAJ
+  | volume       = 15
+  | year         = 1978
+  | publisher    = Purnell Reference Books
+  | location     = [[Milwaukee]]
+  | isbn         = 978-0-8393-6175-6
+  | page         = 1581
+  | ref          = harv
+  }}
+* {{cite book
+  | last        = Friedman
+  | first       = Norman
+  | authorlink  = Norman Friedman
+  | year        = 1985
+  | title       = U.S. Battleships, An Illustrated Design History
+  | publisher   = [[Naval Institute Press]]
+  | location    = [[Annapolis, Maryland]]
+  | isbn        = 0-87021-715-1
+  | url         = https://books.google.com/books?id=Y41Ha_3HsrYC
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Garzke
+  | first1      = William H., Jr.
+  | last2       = Dulin
+  | first2      = Robert O., Jr.
+  | year        = 1995
+  | title       = Battleships: United States Battleships, 1935–1992
+  | publisher   = Naval Institute Press
+  | edition     = 2nd revised and illustrated
+  | location    = Annapolis, Maryland
+  | isbn        = 1-55750-174-2
+  | url         = https://books.google.com/books?id=oFv4gqBwF1UC&amp;pg=PA72
+  | page        = 72
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Graff
+  | first1      = Cory
+  | author2     = Puget Sound Navy Museum
+  | authorlink2 = Puget Sound Navy Museum
+  | date        = 16 June 2010
+  | title       = The Navy in Puget Sound
+  | publisher   = [[Arcadia Publishing]]
+  | location    = [[Charleston, South Carolina]]
+  | isbn        = 978-0-7385-8081-4
+  | url         = https://www.google.com/books?id=0wkh-fi9JHcC&amp;pg=PA54
+  | page        = 54
+  | ref         = {{sfnRef|Graff|2010}}
+  }}
+* {{cite encyclopedia
+  | last1       = Morris
+  | first1      = James Matthew
+  | last2       = Kearns
+  | first2      = Patricia M.
+  | encyclopedia= Historical Dictionary of the United States Navy
+  | title       = Kearsarge, USS (BB5), battleship
+  | url         = https://books.google.com/books?id=B7OtjJmqI1oC&amp;pg=PA206
+  | edition     = 2nd
+  | date        = 30 March 2011
+  | publisher   = [[Scarecrow Press]]
+  | location    = [[Lanham, Maryland]]
+  | isbn        = 0-8108-7229-3
+  | page        = 206
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Newhart
+  | first       = Max R.
+  | year        = 1995
+  | title       = American Battleships: A Pictorial History of BB-1 to BB-71
+  | publisher   = Pictorial Histories Publishing Company
+  | location    = [[Missoula, Montana]]
+  | isbn        = 978-1-57510-004-3
+  | url         = https://www.google.com/books?id=bmKFbwVmD8oC
+  | ref         = harv
+  }}
+* {{cite book
+  | last        = Polmar
+  | first       = Norman
+  | date        = 15 January 2005
+  | title       = The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet
+  | publisher   = Naval Institute Press
+  | location    = Annapolis, Maryland
+  | isbn        = 978-1-59114-685-8
+  | url         = https://www.google.com/books?id=8MwyTX-iA2wC&amp;pg=PA242
+  | page        = 242
+  | edition     = 18th
+  | ref         = harv
+  }}
+* {{cite book
+  | last1       = Reilly
+  | first1      = John C.
+  | last2       = Scheina
+  | first2      = Robert L.
+  | year        = 1980
+  | title       = American Battleships 1886–1923: Predreadnought Design and Construction
+  | publisher   = Naval Institute Press
+  | location    = Annapolis, Maryland
+  | isbn        = 0-87021-524-8
+  | ref         = harv
+  }}
+
+'''Newspapers'''
+
+* {{cite news |title=Kentucky is Launched |url=http://chroniclingamerica.loc.gov/lccn/sn86071197/1898-03-25/ed-1/seq-4.pdf |format=PDF |newspaper=[[Houston Daily Post]] |date=25 March 1898 |page=4 |accessdate=1 January 2013 |ref={{sfnRef|''Houston Daily Post'' 25 March 1898}} }}
+* {{cite news |title=The New Kearsarge |url=http://chroniclingamerica.loc.gov/lccn/sn85054468/1900-02-20/ed-1/seq-5.pdf |format=PDF |newspaper=Times |location=Washington, D.C. |date=20 February 1900 |page=5 |accessdate=11 January 2013 |ref={{sfnRef|''Times'' 20 February 1900}} }}
+* {{cite news |title=A Battleship's Boats |url=http://chroniclingamerica.loc.gov/lccn/sn83030214/1900-05-06/ed-1/seq-21.pdf |format=PDF |newspaper=[[New-York Tribune]] |date=6 May 1900 |page=21 |accessdate=21 April 2013 |ref={{sfnRef|''New-York Tribune'' 6 May 1900}} }}
+* {{cite news |title=M'Calla Ordered Home |url=http://chroniclingamerica.loc.gov/lccn/sn85054468/1901-03-17/ed-1/seq-13.pdf |format=PDF |newspaper=Times |location=Washington, D.C. |date=17 March 1901 |page=13 |accessdate=15 April 2013 |ref={{sfnRef|''Times'' 17 March 1901}} }}
+* {{cite news |title=A Dinner in Their Honor |url=http://chroniclingamerica.loc.gov/lccn/sn83030214/1902-05-29/ed-1/seq-3.pdf |format=PDF |newspaper=New-York Tribune |date=29 May 1902 |page=3 |accessdate=15 April 2013 |ref={{sfnRef|''New-York Tribune'' 29 May 1902}} }}
+* {{cite news |title=The Kearsarge Off for Kiel |url=http://chroniclingamerica.loc.gov/lccn/sn83030214/1903-06-04/ed-1/seq-3.pdf |format=PDF |newspaper=New-York Tribune |date=4 June 1903 |page=3 |accessdate=14 January 2013 |ref={{sfnRef|''New-York Tribune'' 4 June 1903}} }}
+* {{cite news |title=Kaiser Warmly Praises Visiting American Fleet |url=http://chroniclingamerica.loc.gov/lccn/sn84020274/1903-06-26/ed-1/seq-1.pdf |format=PDF |newspaper=St. Louis Republic |date=26 June 1903 |page=1 |accessdate=11 January 2013 |ref={{sfnRef|''St. Louis Republic'' 26 June 1903}} }}
+* {{cite news |title=Prince of Wales a Guest Aboard the Kearsarge |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1903-07-14/ed-1/seq-3.pdf |format=PDF |newspaper=[[San Francisco Call]] |date=14 July 1903 |page=3 |accessdate=11 January 2013 |ref={{sfnRef|''San Francisco Call'' 14 July 1903}} }}
+* {{cite news |title=Kearsarge Ends Her Ocean Race |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1903-07-27/ed-1/seq-3.pdf |format=PDF |newspaper=San Francisco Call |date=27 July 1903 |page=3 |accessdate=11 January 2013 |ref={{sfnRef|''San Francisco Call'' 27 July 1903}} }}
+* {{cite news |title=&quot;Enemy's&quot; Fleet Leaves Bar Harbor for the Mimic War |url=http://chroniclingamerica.loc.gov/lccn/sn84026749/1903-08-03/ed-1/seq-1.pdf |format=PDF |newspaper=[[The Washington Times|Washington Times]] |date=3 August 1903 |page=1 |accessdate=11 January 2013 |ref={{sfnRef|''Washington Times'' 3 August 1903}} }}
+* {{cite news |title=Battleships Begin Winter Cruise |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1903-12-02/ed-1/seq-3.pdf |format=PDF |newspaper=San Francisco Call |date=2 December 1903 |page=3 |accessdate=11 January 2013 |ref={{sfnRef|''San Francisco Call'' 2 December 1903}} }}
+* {{cite news |title=Formal Occupancy of Guantanamo |url=http://chroniclingamerica.loc.gov/lccn/sn85066387/1903-12-11/ed-1/seq-11.pdf |format=PDF |newspaper=San Francisco Call |date=11 December 1903 |page=11 |accessdate=11 January 2013 |ref={{sfnRef|''San Francisco Call'' 11 December 1903}} }}
+* {{cite news |title=To Command the Kearsarge |url=http://chroniclingamerica.loc.gov/lccn/sn87060190/1904-03-26/ed-1/seq-1.pdf |format=PDF |newspaper=Evening Bulletin |location=[[Maysville, Kentucky]] |date=26 March 1904 |page=1 |accessdate=15 April 2013 |ref={{sfnRef|''Evening Bulletin'' 26 March 1904}} }}
+* {{cite news |title=Extraordinary Honors for American Squadron |url=http://chroniclingamerica.loc.gov/lccn/sn84020274/1904-06-12/ed-1/seq-11.pdf |format=PDF |newspaper=St. Louis Republic |date=12 June 1904 |page=11 |accessdate=14 January 2013 |ref={{sfnRef|''St. Louis Republic'' 12 June 1904}} }}
+* {{cite news |title=Warships in the Adriatic |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1904-07-08/ed-1/seq-1.pdf |format=PDF |newspaper=[[The Washington Star|Evening Star]] |location=Washington, D.C. |date=8 July 1904 |page=1 |accessdate=16 January 2013 |ref={{sfnRef|''Evening Star'' 8 July 1904}} }}
+* {{cite news |title=Foreign Affairs |url=http://chroniclingamerica.loc.gov/lccn/sn84026897/1904-08-03/ed-1/seq-1.pdf |format=PDF |newspaper=[[Edgefield Advertiser]] |date=3 August 1904 |page=1 |accessdate=16 January 2013 |ref={{sfnRef|''Edgefield Advertiser'' 3 August 1904}} }}
+* {{cite news |title=To Engage in Target Practice |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-03-24/ed-1/seq-5.pdf |format=PDF |newspaper=Evening Star |location=Washington, D.C. |date=24 March 1905 |page=5 |accessdate=15 April 2013 |ref={{sfnRef|''Evening Star'' 24 March 1905}} }}
+* {{cite news |title=To Command the Kearsarge |url=http://chroniclingamerica.loc.gov/lccn/sn83045462/1905-12-13/ed-1/seq-17.pdf |format=PDF |newspaper=Evening Star |location=Washington, D.C. |date=13 December 1905 |page=17 |accessdate=15 April 2013 |ref={{sfnRef|''Evening Star'' 13 December 1905}} }}
+* {{cite news |title=Admiral Evans on the Kearsarge Explosion |url=http://chroniclingamerica.loc.gov/lccn/sn87062268/1906-04-21/ed-1/seq-1.pdf |format=PDF |newspaper=[[Pensacola News Journal|Pensacola Journal]] |date=21 April 1905 |page=1 |accessdate=11 January 2013 |ref={{sfnRef|''Pensacola Journal'' 21 April 1905}} }}
+* {{cite news |title=Naval Funeral for Lieut. Graeme |url=http://chroniclingamerica.loc.gov/lccn/sn83030214/1906-04-24/ed-1/seq-7.pdf |format=PDF |newspaper=New-York Tribune |date=24 April 1905 |page=7 |accessdate=11 January 2013 |ref={{sfnRef|''New-York Tribune'' 24 April 1905}}  }}
+* {{cite news |title=Admiral H. Winslow Dead |url=http://query.nytimes.com/mem/archive-free/pdf?res=9C05E6D91430E733A25755C2A96F9C946596D6CF |format=PDF |newspaper=[[The New York Times|New York Times]] |date=26 September 1914 |accessdate=10 January 2013 |ref={{sfnRef|''New York Times'' 26 September 1914}} }}
+
+'''Online resources'''
+* {{cite DANFS
+  | title       = Kearsarge
+  | url         = http://www.history.navy.mil/danfs/k2/kearsarge-ii.htm
+  | accessdate  = 10 January 2013
+  | ref = {{sfnRef|DANFS Kearsarge (BB-5)}}
+  }}
+* {{cite web
+  | title = Crane Ship No. 1 (AB 1)
+  | url = {{NVR url|id=AB1}}
+  | work = [[Naval Vessel Register]]
+  | publisher = [[United States Navy]]
+  | accessdate = 11 January 2013
+  | ref = {{sfnRef|NVR Crane Ship No. 1 (AB 1)}}
+  }}
+* {{cite web
+  | url          = http://www.shipscribe.com/usnaux/IX3/IX3type.html
+  | title        = Unclassified (IX), Special Types
+  | last         = Roberts
+  | first        = Stephen S.
+  |date=December 2010
+  | work         = Register of Ships of the U.S. Navy: Auxiliary Vessels 1884–1945
+  | accessdate   = 31 January 2013
+  | ref          = harv
+  }}
+* {{cite magazine |url=https://books.google.com/books?id=CtkDAAAAMBAJ&amp;pg=PA96#v=onepage&amp;q&amp;f=false |title=One Crane Builds Another |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=September 1948 |magazine=Popular Mechanics |pages=96–97 |volume=90 |number=3 |publisher=Popular Mechanics Company |accessdate=18 November 2016}}
+{{refend}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite book
+  | last        = Alden
+  | first       = John D.
+  | year        = 1989
+  | title       = American Steel Navy: A Photographic History of the U.S. Navy from the Introduction of the Steel Hull in 1883 to the Cruise of the Great White Fleet
+  | location    = Annapolis, Maryland
+  | publisher   = Naval Institute Press
+  | isbn        = 0-87021-248-6
+  }}
+{{refend}}
+
+== External links ==
+{{Portal|Battleships|United States Navy}}
+{{Commons category|USS Kearsarge (BB-5)}}
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-k/bb5.htm Naval Historical Center USS Kearsarge (Battleship # 5), 1900–1955. Later Crane Ship # 1 (AB-1).]
+* [http://www.maritimequest.com/warship_directory/us_navy_pages/uss_kearsarge_bb5_craneship_1_ab1.htm MaritimeQuest USS Kearsarge BB-5 Photo Gallery]
+* {{navsource|01/05a|Kearsarge}}
+*[http://cdm16099.contentdm.oclc.org/cdm/compoundobject/collection/p16099coll5/id/4954 Rough Log Book of the U.S.S. Kearsarge, 1901 MS 314] held by [http://www.usna.edu/Library/sca/ Special Collection &amp; Archives], [http://www.usna.edu/Library/ Nimitz Library] at the [http://www.usna.edu United States Naval Academy]
+
+{{Kearsarge class battleship}}
+
+{{DEFAULTSORT:Kearsarge (BB-05)}}
+[[Category:Kearsarge-class battleships]]
+[[Category:1898 ships]]
+[[Category:Banana Wars ships of the United States]]
+[[Category:World War I battleships of the United States]]
+[[Category:Crane ships of the United States Navy]]
+[[Category:World War II auxiliary ships of the United States]]
+[[Category:Ships built in Newport News, Virginia]]</text>
+      <sha1>9sw8cyx1pia58p4qnd43x4cdpqu9b5l</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,174 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French battleship Mirabeau</title>
+    <ns>0</ns>
+    <id>13212985</id>
+    <revision>
+      <id>685192893</id>
+      <parentid>684005814</parentid>
+      <timestamp>2015-10-11T12:29:16Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break, plain list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11012">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Cuirasse Mirabeau en reparation a Sebastopol en 1919.jpg|300px]]
+|Ship caption=''Mirabeau'' replacing one gun in 1919
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Mirabeau''
+|Ship namesake=[[Honoré Gabriel Riqueti, comte de Mirabeau|Honoré Riqueti, comte de Mirabeau]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Arsenal de Lorient]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=4 May 1908
+|Ship launched=28 October 1909
+|Ship sponsor=
+|Ship christened=
+|Ship completed=1 August 1911
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=As [[accommodation ship|accommodation]] [[hulk (ship)|hulk]], April 1919
+|Ship refit=
+|Ship struck=27 October 1921
+|Ship reinstated=
+|Ship nickname=
+|Ship fate=[[ship breaking|Scrapped]], 1928
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+| Ship class = {{sclass-|Danton|battleship|4}} [[semi-dreadnought]] [[battleship]]
+| Ship displacement =* {{convert|18318|t|LT|abbr=on}} (normal)
+* {{convert|19763|t|LT||abbr=on}} ([[deep load]])
+  
+| Ship length = {{convert|144.9|m|ftin|abbr=on}}
+| Ship beam = {{convert|25.8|m|ftin|abbr=on}}
+| Ship draft = {{convert|9.2|m|ftin|abbr=on}}
+|Ship power=*26 [[Belleville boiler]]s
+*{{convert|22500|shp|MW|abbr=on|lk=in}}
+| Ship propulsion =*4 shafts
+*4 Parsons [[steam turbine]]s  
+| Ship speed = {{convert|19|knot|lk=in}}
+| Ship complement = 681
+| Ship armament =* 2 × 2 - [[305mm/45 Modèle 1906 gun]]s
+* 6 × 2 - [[240mm/50 Modèle 1902 gun]]s
+* 16 × 1 - [[75mm/65 Modèle 1906 gun]]s
+* 10 × 1 - 47 mm [[Hotchkiss gun]]s
+* 2 × {{convert|450|mm|abbr=on|1}} [[torpedo tubes]]
+  
+| Ship armor =* [[Belt armor|Belt]]: {{convert|270|mm|in|1|abbr=on}}
+* [[Gun turret|Turrets]]: {{convert|300|mm|in|1|abbr=on}} main turrets
+* [[Conning tower]]: 300&amp;nbsp;mm
+  
+|Ship notes=
+}}
+|}
+'''''Mirabeau''''' was one of the six {{sclass-|Danton|battleship|4}} [[semi-dreadnought]] [[battleship]]s built for the [[French Navy]] (''armée navale'') in the first decade of the twentieth century. The ship spent most of [[World War I]] [[blockade|blockading]] the [[Straits of Otranto]] and the [[Dardanelles]] to prevent [[German Empire|German]], [[Austro-Hungarian]] and [[Ottoman Empire|Turkish]] warships from breaking out into the Mediterranean. She did, however, participate in the [[Noemvriana|attempt to ensure Greek acquiescence]] to [[Macedonian front (World War I)|Allied operations in Macedonia]] in late 1916. ''Mirabeau'' briefly participated in the [[occupation of Constantinople]] after the end of the war and was deployed in the [[Black Sea]] in early 1919 during the [[Allied intervention in the Russian Civil War]]. She ran aground in February 1919 off the coast of the [[Crimea]] and could not be [[marine salvage|refloated]] until some of her guns and armor were removed. After returning to France, the ship was used as an [[accommodation ship|accommodation]] [[hulk (ship)|hulk]] until she was condemned in 1921. ''Mirabeau'' was later sold for scrap and [[ship breaking|broken up]] in 1928.
+
+==Design and description==
+Although the {{sclass|Danton|battleship|6}}s were a significant improvement from the preceding {{Sclass|Liberté|battleship|4}}, they were outclassed by the advent of the [[dreadnought]] well before they were completed. They were not well liked by the French Navy, although their numerous rapid-firing guns were of some use in the Mediterranean.&lt;ref name=gg6&gt;Gardiner &amp; Gray, p. 196&lt;/ref&gt;
+
+''Mirabeau'' was {{convert|146.6|m|sp=us|ftin}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|25.8|m|sp=us|ftin}} and a full-load [[draft (hull)|draft]] of {{convert|9.2|m|sp=us|ftin}}. She displaced {{convert|19736|MT|LT|sp=us}} at [[deep load]] and had a crew of 681 officers and enlisted men. The ship was powered by four [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s that used steam generated by twenty-six [[Belleville boiler]]s. The turbines were rated at {{convert|22500|shp|lk=in}} and provided a top speed of around {{convert|19|kn|lk=in}}.&lt;ref name=gg6/&gt; ''Mirabeau'', however, reached a top speed of {{convert|19.7|kn}} on her [[sea trial]]s.&lt;ref name=g0/&gt; She carried a maximum of {{convert|2027|t|LT|sp=us}} of coal which allowed her to steam for {{convert|3370|lk=in|nmi}} at a speed of {{convert|10|kn}}.&lt;ref name=gg6/&gt;
+
+''Mirabeau''{{'}}s main battery consisted of four [[305mm/45 Modèle 1906 gun]]s mounted in two twin [[gun turret]]s, one forward and one aft. The secondary battery consisted of twelve [[240mm/50 Modèle 1902 gun]]s in twin turrets, three on each side of the ship. A number of smaller guns were carried for defense against [[torpedo boat]]s. These included sixteen 65-[[caliber (artillery)|caliber]] {{convert|75|mm|adj=on|sp=us}} guns and ten {{convert|47|mm|adj=on|sp=us}} [[Hotchkiss gun]]s. She was also armed with two submerged {{convert|450|mm|adj=on|1|sp=us}} [[torpedo tube]]s. The ship's [[waterline]] [[belt armor|armor belt]] was {{convert|270|mm|1|sp=us}} thick and the main battery was protected by up to {{convert|300|mm|1|sp=us}} of armor. The [[conning tower]] also had 300-millimeter thick sides.&lt;ref name=gg6/&gt;
+
+===Wartime modifications===
+During the war, 75-millimeter anti-aircraft guns were installed on the roofs of the ship's two forward {{convert|240|mm|adj=on|1|sp=us}} gun turrets.&lt;ref name=m5&gt;Meirat, p. 5&lt;/ref&gt; During 1918, the elevation of her 240-millimeter guns was increased which extended their range to {{convert|18000|m|yd|sp=us}}.&lt;ref name=gg6/&gt;
+
+==Career and construction==
+The ship was named after [[Honoré Gabriel Riqueti, comte de Mirabeau|Honoré Riqueti, comte de Mirabeau]], an early leader of the [[French Revolution]].&lt;ref name=s5/&gt; Construction of ''Mirabeau'' began on 8 May 1906&lt;ref name=g0&gt;Gille, p. 120&lt;/ref&gt; by the [[Arsenal de Lorient]] and the ship was [[Keel|laid down]] on 4 May 1908. She was [[Ship naming and launching|launched]] on 28 October 1909 and was completed on 1 August 1911.&lt;ref name=s5&gt;Silverstone, p. 105&lt;/ref&gt; ''Mirabeau'', together with four of her [[sister ship|sisters]], participated in a large [[Review (disambiguation)|naval review]] by the [[President of France]], [[Armand Fallières]], off [[Cap Brun]] on 4 September 1911.&lt;ref&gt;Caresse, p. 125&lt;/ref&gt; The ship was assigned to the Second Division of the First Squadron (''escadre'') of the [[Commander-in-Chief, Mediterranean (France)|Mediterranean Fleet]] when she was commissioned. The ship participated in combined fleet maneuvers between [[Provence]] and [[Tunisia]] in May–June 1913&lt;ref name=g8&gt;Gille, p. 117&lt;/ref&gt; and the subsequent naval review conducted by the [[Prime Minister of France|President of the Council]], [[Raymond Poincaré]], on 7 June 1913.&lt;ref name=m5/&gt; Afterwards, ''Mirabeau'' joined her squadron in its tour of the Eastern Mediterranean in October–December 1913, making port visits in Egypt, Syria, and Greece, and participated in the grand fleet exercise in the Western Mediterranean in May 1914.&lt;ref name=g8/&gt;
+
+===World War I===
+[[File:162 9 le Mirabeau bombarde Ahènes.jpg|''Mirabeau'' bombarding Athens the {{OldStyleDate|1 December|1916|18 November}}|left|thumb]]
+In August 1914, the ship was being refitted at Toulon. During 1915–16, the ship participated in the distant blockade of the Straits of Otranto while based in [[Corfu]], [[Malta]], and [[Bizerte]]. In November 1916, she transported landing parties from the other ships of her division to [[Athens]]. In the [[Noemvriana]], on 1 December 1916, those landing parties, formed into a provisional battalion, participated in the Allied attempt to ensure Greek acquiescence to Allied operations in Macedonia. Greek resistance to the Allied action ended after ''Mirabeau'' fired four rounds from her main armament into the city, one of which landed near the Royal Palace.&lt;ref&gt;Gille, pp. 117–18&lt;/ref&gt; Afterwards, she spent 1917 based at Corfu or at [[Mudros]] to prevent the German [[battlecruiser]] {{SMS|Goeben}} from breaking out into the Mediterranean. In April 1918, ''Mirabeau'' accompanied her sisters {{ship|French battleship|Diderot||2}} and {{ship|French battleship|Vergniaud||2}} to Mudros where they remained for the rest of the war.&lt;ref name=g1&gt;Gille, p. 118&lt;/ref&gt;
+
+===Postwar===
+After the [[Armistice of Mudros]] was signed on 30 October between the [[Allies of World War I|Allies]] and the [[Ottoman Empire]], the ship participated in the early stage of the [[occupation of Constantinople]] from 12 November to 18 December. At the very end of the year, she was deployed to the Black Sea to support [[White movement|White Russian]] forces in [[Sevastopol]] and deter [[USSR|Soviet]] forces who were advancing on the city during the [[Russian Civil War]]. ''Mirabeau'' ran aground during a snowstorm on 18 February 1919 off the Crimean coast.&lt;ref name=g1/&gt; She could not be refloated until her forward {{convert|305|mm|adj=on|0|sp=us}} gun turret, its [[barbette]] and her forward belt armor was removed.&lt;ref&gt;Gardiner &amp; Gray, pp. 196–97&lt;/ref&gt; The ship was towed to Toulon by the battleship {{ship|French battleship|Justice||2}} in April.&lt;ref name=s5/&gt; ''Mirabeau'' was subsequently used as an accommodation hulk&lt;ref name=g1/&gt; until she was condemned on 27 October 1921. She was later scrapped in 1928.&lt;ref name=s5/&gt;
+
+==Notes==
+{{reflist|2}}
+
+==Bibliography==
+* {{cite book|last=Dumas|first=Robert|last2=Prévoteaux|first2=Gérard|title=Les Cuirassés de 18 000t|year=2011|location=Outreau|publisher= Lela Presse|isbn=978-2-914017-62-6|lastauthoramp=y}}
+*{{cite book|editor=Jordan, John|publisher=Conway|location=London|year=2012|chapter=The Battleship Gaulois|last=Caresse|first= Phillippe|title=Warship 2012|isbn=978-1-84486-156-9}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5}}
+*{{cite book|last=Gille|first=Eric|title=Cent ans de cuirassés français|publisher=Marines|location=Nantes|year=1999|isbn=2-909675-50-5}}
+*{{cite journal|last=Meirat|first=Jean|year=1978|title=French Battleships Vergniaud and Condorcet|journal=F. P. D. S. Newsletter|publisher=F. P. D. S.|location=Akron, Ohio|volume=VI|issue=1|pages=5–6}}
+*{{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+== External links ==
+{{Portal|Battleships}}
+* {{fr icon}} [http://le.fantasque.free.fr/php3/ship.php3?page_code=danton CUIRASSE Danton]
+
+{{Danton class battleships}}
+{{Good article}}
+
+{{DEFAULTSORT:Mirabeau}}
+[[Category:Danton-class battleships]]
+[[Category:Ships built in France]]
+[[Category:1909 ships]]</text>
+      <sha1>te7993jnbargwki8cu9h7tt4oxzg99n</sha1>
+    </revision>
+  </page>
+</mediawiki>

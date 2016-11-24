@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Operation Texas Star</title>
+    <ns>0</ns>
+    <id>21017847</id>
+    <revision>
+      <id>647380169</id>
+      <parentid>630472525</parentid>
+      <timestamp>2015-02-16T10:53:36Z</timestamp>
+      <contributor>
+        <username>Mztourist</username>
+        <id>11292517</id>
+      </contributor>
+      <comment>simplified wording</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2014">{{no footnotes|date=January 2012}}
+{{Infobox Military Conflict
+|conflict=Operation Texas Star
+|partof=the [[Vietnam War]]
+|date=1 April – 5 September 1970
+|place=[[A Shau Valley]], [[Republic of Vietnam]]
+|result=Indecisive
+|combatant1=[[Image:Flag of the United States.svg|22px]] [[United States]]&lt;br&gt;[[File:Flag of South Vietnam.svg|22px]] [[Republic of Vietnam]]
+|combatant2={{flagicon|North Vietnam}} [[North Vietnam]]
+|casualties1={{flagicon|United States}} 36 killed&lt;br&gt;117 wounded&lt;br&gt;[[File:Flag of South Vietnam.svg|22px]] 370 killed, wounded unknown
+|casualties2=US claim: 589 killed&lt;br&gt;1,139 wounded&lt;br&gt;5 captured
+|campaignbox={{Campaignbox Vietnam War}}
+}}
+
+'''Operation Texas Star''' was a military operation of the [[Vietnam War]] in the [[A Shau Valley]] and the mountains east of the valley from 1 April to 5 September 1970.
+
+It aimed at regaining the initiative in the area. The operation culminated in the [[Battle of Fire Support Base Ripcord]], which ended with the evacuation of the base on July 23, 1970. 
+
+Both the 101st Airborne Division and the ARVN 1st Infantry Division were involved in the operation.
+
+==References==
+*  {{cite web|url=http://www.ripcordassociation.com/operation_texas_star.htm|title= Operation Texas Star
+|work=www.b2501airborne.com |accessdate=2009-01-09}}
+*  {{cite web|url=http://www.b2501airborne.com/TEXAS_STAR.htm|title= Operation Texas Star |work=www.b2501airborne.com |accessdate=2009-01-09}}
+* {{cite web |url= http://www.vietnamproject.ttu.edu/banshee/History/TexStar70.html |title=Divisional Operation Texas Star |publisher=B Troop 2nd of the 17th Cavalry Association }}
+ 
+{{coord missing|Vietnam}}
+
+[[Category:Conflicts in 1970]]
+[[Category:1970 in Vietnam]]
+[[Category:Battles involving Vietnam|Texas Star]]
+[[Category:Battles and operations of the Vietnam War|Texas Star]]
+[[Category:Military operations of the Vietnam War|Texas Star]]
+[[Category:Battles involving the United States|Texas Star]]
+[[Category:Thua Thien-Hue Province]]
+
+{{Vietnam-war-stub}}</text>
+      <sha1>479k4o4nhmjhvume48sz8r25uxa92w7</sha1>
+    </revision>
+  </page>
+</mediawiki>

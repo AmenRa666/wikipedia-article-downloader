@@ -1,0 +1,214 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ibuki-class armored cruiser</title>
+    <ns>0</ns>
+    <id>24614355</id>
+    <revision>
+      <id>685254311</id>
+      <parentid>682470080</parentid>
+      <timestamp>2015-10-11T20:03:55Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break, plain list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19898">
+{{for|the later ''Ibuki'' class|Ibuki-class cruiser}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Japanese cruiser Kurama old postcard.jpg|300px]]
+|Ship caption=A postcard of ''Kurama'' at anchor, 1913
+}}
+{{Infobox ship class overview
+|Name=''Ibuki''-class armored cruiser
+|Builders=*[[Kure Naval Arsenal]]
+*[[Yokosuka Naval Arsenal]]
+|Operators={{navy|Empire of Japan}}
+|Class before={{sclass-|Tsukuba|cruiser|4}}
+|Class after={{sclass-|Kongō|battlecruiser|4}}
+|Subclasses={{ship|Japanese cruiser|Ibuki|1907|2}}
+|Cost=
+|Built range=1905–1911
+|In service range=1909–1921
+|Total ships completed=2
+|Total ships scrapped=2
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(''Kurama'')
+|Ship type=[[Armored cruiser]] (later reclassified as [[battlecruiser]])
+|Ship displacement=*{{convert|14636|LT|t}} (normal)
+*{{convert|15595|LT|t}} ([[Full-load displacement|full load]])
+|Ship length=*{{convert|450|ft|m|1}} ([[Length between perpendiculars|p.p.]])
+*{{convert|485|ft|m|1}} ([[Length overall|o.a.]])
+|Ship beam={{convert|75|ft|6|in|m|1}}
+|Ship draft={{convert|26|ft|1|in|m|1}}
+|Ship power=*{{convert|22500|shp|lk=in|abbr=on}}
+*28 × Miyahara [[water-tube boiler]]s
+|Ship propulsion=*2 × shafts
+*2 × [[Marine steam engine#Triple or multiple expansion|Vertical triple-expansion steam engines]]
+|Ship speed={{convert|21.25|kn|lk=in}}
+|Ship range=
+|Ship complement=817
+|Ship armament=*2 × twin [[EOC 12 inch/45 naval gun|12-inch 41st Year Type guns]]
+*4 × twin {{convert|8|in|adj=on}} 41st Year Type guns
+*14 × single {{convert|4.7|in|adj=on}} 41st Year Type guns
+*4 × single {{convert|3|in|adj=on}} guns
+*4 × single {{convert|3|in|adj=on}} [[AA gun]]s
+*3 × submerged {{convert|17.7|in|mm|abbr=on}} [[torpedo tube]]s 
+|Ship armor=*[[Belt armor|Belt]]: {{convert|102|-|178|mm|in|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|51|mm|in|abbr=on}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|25|mm|in|1|abbr=on}}
+*[[Barbette]]s: {{convert|51|-|178|mm|in|1|abbr=on}}
+*[[Gun turret|Turret]]s: {{convert|229|mm|in|1|abbr=on}}
+*[[Conning tower|Conning Tower]]: {{convert|203|mm|in|1|abbr=on}} 
+|Ship notes=
+}}
+|}
+The {{nihongo|'''''Ibuki'' class'''|伊吹型|Ibuki-gata}}, also called the {{nihongo|'''''Kurama'' class'''|鞍馬型|Kurama-gata}}, was a [[ship class]] of two large [[armoured cruisers]] built for the [[Imperial Japanese Navy]] after the [[Russo-Japanese War]] of 1904–1905. These ships reflected Japanese experiences during that war as they were designed to fight side-by-side with [[battleship]]s and were given an armament equal to, or superior to existing Japanese battleships. The development of the [[battlecruiser]] the year before {{ship|Japanese cruiser|Ibuki||2}} was completed made her and her [[sister ship]] {{ship|Japanese cruiser|Kurama||2}} obsolete before they were completed because the foreign battlecruisers were much more heavily armed and faster.
+
+Both ships played a small role in [[World War I]] as they unsuccessfully hunted for the [[German East Asia Squadron]] and the [[commerce raiding|commerce-raider]] {{SMS|Emden|1906|6}} and protected troop convoys in the [[Pacific Ocean]] shortly after the war began. The ships were sold for [[ship breaking|scrap]] in 1923 in accordance with the terms of the [[Washington Naval Treaty]].
+
+==Design and description==
+[[File:Ibuki Brassey's1915.png|thumb|left|Right elevation and plan of the ''Ibuki''-class cruisers from [[Brassey's Naval Annual]] 1915; the shaded areas represent armor.|alt=side and top view diagrams of the ship]]
+The ''Ibuki''-class ships were originally ordered during the Russo-Japanese War, on 31 January 1905, as {{sclass-|Tsukuba|cruiser|0}} armored cruisers. Before construction began, however, they were redesigned to incorporate {{convert|8|in|adj=on|0}} guns in four twin turrets rather than the dozen {{convert|6|in|adj=on|0}} guns in single mounts of the earlier ships. This required a larger hull to fit the turrets and thus more power from additional [[boiler (steam generator)|boiler]]s to keep the same speed as the ''Tsukuba''-class ships.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, p. 60&lt;/ref&gt;
+
+These ships were given battleship-grade armament to overpower existing armored cruisers and were intended to fight in the battleline with battleships, much as had the two {{sclass-|Kasuga|cruiser|0}} armored cruisers had done in the [[Battle of the Yellow Sea|Battles of the Yellow Sea]] and [[Battle of Tsushima|Tsushima]] during the Russo-Japanese War. While more powerful than existing armored cruisers, the appearance of the British {{sclass-|Invincible|battlecruiser|4}} in 1908 with their armament of eight {{convert|12|in|adj=on|0}} guns and speed of {{convert|25|kn|lk=in}} rendered these ships obsolete before they were commissioned.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 55, 60&lt;/ref&gt; They were reclassified as battlecruisers in 1912.&lt;ref name=p4&gt;Preston, p. 194&lt;/ref&gt;
+
+The ships had an [[length overall|overall length]] of {{convert|485|ft|m|1}} and a [[length between perpendiculars]] of {{convert|450|ft|m|1}}, a [[Beam (nautical)|beam]] of {{convert|75|ft|6|in|m|1}}, and a normal [[Draft (hull)|draught]] of {{convert|26|ft|1|in|m|1}}. They [[displacement (ship)|displaced]] {{convert|14636|LT|t}} at normal load and {{convert|15595|LT|t}} at [[Full-load displacement|full load]], roughly {{convert|900|LT|t}} more than the earlier ships.&lt;ref name=i4&gt;Itani, Lengerer &amp; Rehm-Takahara, p. 54&lt;/ref&gt; The crew numbered about 845 officers and enlisted men.&lt;ref name=j8&gt;Jentschura, Jung &amp; Mickel, p. 78&lt;/ref&gt; They had a [[metacentric height]] of {{convert|0.902|m|ftin|disp=flip}}.&lt;ref name=i7&gt;Itani, Lengerer &amp; Rehm-Takahara, p. 57&lt;/ref&gt;
+
+===Propulsion===
+Both ships were intended to be powered by vertical [[triple-expansion steam engine]]s, but the long construction delays suffered by ''Ibuki'' made it possible for her to serve as a test-bed for the [[steam turbine]]. Four sets of Curtis turbines were ordered from the [[Fore River Shipyard|Fore River Shipbuilding Co.]], two each for ''Ibuki'' and the battleship {{ship|Japanese battleship|Aki||2}}. A month later, the Japanese paid $100,000 for a manufacturing license for the turbines.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 73–75&lt;/ref&gt;
+
+''Ibuki'' was equipped with two turbine sets, each driving one shaft, which developed a total of {{convert|24000|shp|lk=in}}, intended to give a maximum speed of {{convert|22.5|kn}}. They used steam provided by 18 mixed-firing, [[superheater]]-equipped Miyabara [[water-tube boiler]]s, with a working pressure of {{convert|17|kg/cm2|kPa psi|0|abbr=on|lk=on}}, that sprayed [[fuel oil]] on the coal to increase its burn rate. Performance during ''Ibuki''{{'}}s initial sea trials on 12 August 1909 was unsatisfactory as she only reached {{convert|20.87|kn}} despite the turbines exceeding their power rating with {{convert|27353|shp|abbr=on}}. The turbines were subsequently modified and the [[propeller]]s were changed in an attempt to rectify the problem, but with only limited success. The ship ran her full-power trials again on 23 June 1910 and reached a speed of {{convert|21.16|kn}} from {{convert|28977|shp|abbr=on}}.&lt;ref name=i4&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 73, 76, 78&lt;/ref&gt;
+
+''Kurama'' used the traditional pair of four-cylinder reciprocating steam engines with a power rating of {{convert|22500|ihp|lk=in}}, {{convert|2000|ihp|lk=in}} more than the older ships. She used the same type of boiler as ''Ibuki'' and derived the additional power from the addition of four boilers, for a total of 28, which required an additional [[funnel (ship)|funnel]].&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 59, 73, 76&lt;/ref&gt; The ships carried a maximum of {{convert|2000|LT|t}} of coal and an additional {{convert|215|LT|t}} of fuel oil although their range is unknown.&lt;ref name=j8/&gt;
+
+===Armament===
+The ''Ibuki''-class armored cruisers were armed with four 45-[[caliber (artillery)|caliber]] [[EOC 12 inch/45 naval gun|12-inch 41st Year Type guns]], mounted in twin-gun hydraulically powered centreline turrets. The guns had an elevation range of −3°/+23° and normally loaded their rounds at an angle of +5°, although loading at any angle up to +13° was theoretically possible.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 64, 67, 79&lt;/ref&gt; They fired {{convert|850|lb|kg|adj=on|0}} projectiles at a [[muzzle velocity]] of {{convert|2800|ft/s|m/s|abbr=on}};&lt;ref&gt;Friedman, p. 272&lt;/ref&gt; this provided a maximum range of {{convert|22000|m|yd|abbr=on|disp=flip}} with [[Armor-piercing shot and shell|armour-piercing]] (AP) shells. The intermediate armament was much heavier than the older ships, with four twin-gun turrets equipped with 45-calibre [[8-inch/45 41st Year Type naval gun|8-inch 41st Year Type guns]] mounted on each side. The guns could be elevated to +30° which gave them a maximum range of around {{convert|21000|m|yd|disp=flip}}.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 67–68&lt;/ref&gt; Their {{convert|254|lb|kg|adj=on|0}} projectiles were fired at a muzzle velocity of {{convert|2495|ft/s|m/s|abbr=on}}.&lt;ref&gt;Friedman, p. 275&lt;/ref&gt;
+
+Defense against [[torpedo boat]]s was mainly provided by fourteen 40-caliber [[QF 4.7 inch Gun Mk I–IV|4.7-inch 41st Year Type]] [[quick-firing gun|quick-firing (QF) guns]], all but two of which were mounted in [[casemate]]s in the sides of the hull.&lt;ref name=i64&gt;Itani, Lengerer &amp; Rehm-Takahara, p. 64&lt;/ref&gt; The gun fired a {{convert|45|lb|adj=on}} shell at a muzzle velocity of {{convert|2150|ft/s|m/s|abbr=on}}.&lt;ref&gt;Friedman, p. 278&lt;/ref&gt; The ships were also equipped with four 40-caliber [[QF 12 pounder 12-cwt naval gun|12-pounder 12 cwt QF guns]]&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 12 cwt referring to the weight of the gun.&lt;/ref&gt; and four 23-caliber [[8-centimeter/40 41st Year Type naval gun|12-pounder QF guns]] on high-angle mounts.&lt;ref name=i64/&gt; Both of these guns fired {{convert|5.67|kg|lb|adj=on|disp=flip}} shells with muzzle velocities of {{convert|2300|ft/s|m/s|abbr=on}} and {{convert|450|m/s|ft/s|disp=flip}} respectively.&lt;ref&gt;Friedman, p. 279&lt;/ref&gt; In addition, the cruisers were fitted with three submerged {{convert|18|in|adj=on|0}} [[torpedo tube]]s, one on each [[broadside]] and one in the stern. Each tube was provided with one training [[torpedo]] and two normal torpedoes.&lt;ref name=i64/&gt;
+
+===Armor===
+Armor in the ''Ibuki'' class was improved compared to the earlier ships. The waterline armor [[Belt armor|belt]] of [[Krupp cemented armour]] was {{convert|7|in|0}} thick between the 12-inch gun turrets although it was only {{convert|4|in|0}} thick fore and aft of the turrets. Above it was a strake of {{convert|5|in|0|adj=on}} armor that extended between the eight-inch gun turrets and protected the two central 4.7-inch casemates. In front of those turrets, the armor was {{convert|6|in|mm|0}} thick. The ends of the main armor belt were connected to the main gun [[barbette]]s by {{convert|1|in|mm|adj=on}} transverse [[bulkhead (partition)|bulkhead]]s.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 72–73&lt;/ref&gt;
+
+The primary gun turrets were protected by armor plates {{convert|9|in|0}} thick and they had a {{convert|1.5|in|0|adj=on}} roof. The armour for the eight-inch turrets was six inches thick. The main barbettes were protected by seven inches of armour and the secondary barbettes by five inches, although the armor for those thinned to {{convert|2|in|0}} behind the upper armor belt. The thickness of the armored [[Deck (ship)|decks]] was two inches throughout the ship. The sides of the forward [[conning tower]] were eight inches thick and its communications tube to the main deck was seven inches in thickness.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 67–68, 72–73&lt;/ref&gt;
+
+==Ships==
+{| class=&quot;wikitable&quot; align=center style=&quot;font-size:100%;&quot;
+|-
+!Ship
+!Namesake
+!Builder&lt;ref name=ck2/&gt;
+!Laid down&lt;ref name=ck2/&gt;
+!Launched&lt;ref name=ck2&gt;Gardiner &amp; Gray, p. 233&lt;/ref&gt;
+!Completed&lt;ref name=ck2/&gt;
+!Fate
+|-
+| {{ship|Japanese cruiser|Ibuki|1907|2}}
+|[[Mount Ibuki]]&lt;ref&gt;Silverstone, p. 330&lt;/ref&gt;
+|[[Kure Naval Arsenal]]
+| 22 May 1907
+| 21 November 1907
+| 1 November 1909
+| Scrapped, 1923
+|-
+| {{ship|Japanese cruiser|Kurama||2}}
+|[[Mount Kurama]]&lt;ref&gt;Silverstone, p. 333&lt;/ref&gt;
+|[[Yokosuka Naval Arsenal]]
+| 23 August 1905
+| 21 October 1907
+| 28 February 1911
+| Scrapped, 1923
+|-
+|}
+
+==Construction and service==
+Construction of both ships was delayed by a lack of facilities at their shipyards, a shortage of appropriately trained workers and their low priority for building. ''Kurama''{{'}}s lengthy building time at Yokosuka Naval Arsenal was due to priority given to the building of the battleships {{ship|Japanese battleship|Kawachi||2}} and {{ship|Japanese battleship|Settsu||2}} and the repair and reconstruction of the ex-Russian ships captured after the [[Battle of Tsushima]]. ''Ibuki'' had to wait to have her [[keel]] laid until the [[slipway]] used by the battleship {{ship|Japanese battleship|Aki||2}} became available after ''Aki'' was launched. Kure Naval Arsenal took advantage of the delay with ''Ibuki'' to stockpile material and components and set a record between keel-laying and launching of five months, a figure only bettered by [[Portsmouth Naval Dockyard]] when they built the battleship {{HMS|Dreadnought|1906|2}} in only four months. The decision to switch from reciprocating engines to turbines in ''Ibuki'' and ''Aki'' was not made until five days after ''Ibuki''{{'}}s launching and thereafter she received priority over the battleship so that she was completed less than two years later, the first ship in the Imperial Japanese Navy to use steam turbines. In fact, construction on ''Aki'' was completely halted for about five months in favor of ''Ibuki'' because the former's turbines were late and the cruiser was better suited to serve as the testbed for the new technology.&lt;ref&gt;Itani, Lengerer &amp; Rehm-Takahara, pp. 59–60, 79&lt;/ref&gt;
+
+''Ibuki'' sailed to [[Thailand]] in 1911 to represent Japan during the [[coronation]] ceremony of King [[Vajiravudh|Rama VI Vajiravudh]].&lt;ref&gt;{{cite journal|last=Bullard|first=Steven|year=2008|title=The Heavy Cruiser Ibuki|journal=Wartime|publisher=Australian War Memorial|issue=41|page=31|url=http://ajrp.awm.gov.au/ajrp/ajrp2.nsf/WebI/Articles/$file/Bullard_WT41.pdf?OpenElement}}&lt;/ref&gt;
+When World War I began in August 1914, she was commanded by [[Captain (naval)|Captain]] [[Kanji Katō]].&lt;ref&gt;Schencking, p. 132&lt;/ref&gt; The ship was ordered to [[Singapore]] and cooperated with the British to hunt down the [[light cruiser]] ''Emden'' in the [[East Indies]] and [[Indian Ocean]].&lt;ref name=p4/&gt; ''Ibuki'' was ordered to New Zealand to escort a large troop convoy of [[ANZAC]] troops to the Middle East in late September.&lt;ref&gt;Corbett, p. 299&lt;/ref&gt; She was ordered to guard the convoy, over Katō's protests, when the presence of the ''Emden'' was discovered in the [[Cocos Islands]] on 9 November. The Australian light cruiser [[HMAS Sydney (1912)|HMAS ''Sydney'']] was detached from the convoy to sink the ''Emden'' instead.&lt;ref&gt;Hirama, p. 142&lt;/ref&gt; With the ending of the threat to the convoy, ''Ibuki'' was transferred to the Second South Seas Squadron at [[Chuuk Lagoon|Truk]] in the [[Caroline Islands]].&lt;ref name=c9&gt;Corbett, p. 409&lt;/ref&gt; She was refitted at [[Kure, Hiroshima|Kure]] in 1918, disarmed in 1922, and stricken from the [[Navy List]] the following year and scrapped in accordance with the Washington Naval Treaty.&lt;ref name=p4/&gt;&lt;ref&gt;{{cite web|url=http://www.ibiblio.org/pha/pre-war/1922/jn_tabl.html|title=Japan Replacement Table|date=6 February 1922|work=Papers Relating to the Foreign Relations of the United States: 1922, Vol. 1|publisher=United States Department of State|pages=247–66|accessdate=31 March 2013}}&lt;/ref&gt;
+
+''Kurama'' attended the [[Coronation Fleet Review]] of King [[George V of the United Kingdom|George V]] in [[Spithead]] on 24 June 1911.&lt;ref&gt;{{cite news|url=http://chroniclingamerica.loc.gov/lccn/sn83045433/1911-06-25/ed-1/seq-8/#date1=1910&amp;index=6&amp;rows=20&amp;words=Kurama&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1922&amp;proxtext=kurama&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1|title=Great War Ships Pass in Review|date=25 June 1911|work=The Washington Herald|page=6|accessdate=30 March 2013}}&lt;/ref&gt; She was at Yokosuka in August 1914 and was assigned to the 1st South Seas Squadron to search for the East Asia Squadron.&lt;ref name=p4/&gt; They departed there on 14 September and reached Truk on 11 October as troops carried by the squadron occupied the Carolines.&lt;ref&gt;Corbett, p. 290&lt;/ref&gt;&lt;ref&gt;Halpern, p. 89&lt;/ref&gt;&lt;ref&gt;Sondhaus, p. 110&lt;/ref&gt; The squadron was based in [[Suva]], [[Fiji]] in November in case the East Asia Squadron decided to double back into the Central Pacific.&lt;ref name=c9/&gt; ''Kurama'' was flagship of the 2nd Squadron in 1917 and was transferred to the 5th Squadron the following year. Like her sister, she was disarmed in 1922, stricken in 1923 and subsequently scrapped.&lt;ref name=p4/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+* {{cite book|last=Corbett|first=Julian|authorlink=Julian Corbett|title=Naval Operations to the Battle of the Falklands|edition=2nd, reprint of the 1938|series=History of the Great War: Based on Official Documents|volume=I|publisher=Imperial War Museum and Battery Press|location=London and Nashville, Tennessee|isbn=0-89839-256-X}}
+*{{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}}
+*{{cite book |editor1-last=Gardiner |editor1-first=Robert |editor2-last=Gray |editor2-first=Randal |title=Conway's All the World's Fighting Ships: 1906–1921 |year=1984 |location=Annapolis, Maryland|publisher=Naval Institute Press |isbn=0-87021-907-3 }}
+*{{cite book|last=Hirama|first=Yoichi|editor=Phillips Payson O'Brien|title=The Anglo-Japanese Alliance, 1902–1922|year=2004|publisher=RoutledgeCurzon|location=London and New York|isbn=0-415-32611-7|chapter=Japanese Naval Assistance and its Effect on Australian-Japanese Relations|pages=140–58}}
+*{{cite book|title=Warship 1992|editor=Gardiner, Robert|publisher=Conway Maritime Press|location=London|year=1992|isbn=0-85177-603-5|last1=Itani|first1=Jiro|last2=Lengerer|first2=Hans|last3=Rehm-Takahara|first3=Tomoko|chapter=Japan's Proto-Battlecruisers: The Tsukuba and Kurama Classes}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869–1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X}}
+*{{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+*{{cite book|last=Schencking|first=J. Charles|editor=Phillips Payson O'Brien|title=The Anglo-Japanese Alliance, 1902–1922|year=2004|publisher=RoutledgeCurzon|location=London and New York|isbn=0-415-32611-7|chapter=Navalism, Naval Expansion and War: The Anglo-Japanese Alliance and the Japanese Navy|pages=122–39}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+==External links==
+*{{Commonscat-inline|Ibuki class cruiser}}
+* [http://www.hazegray.org/navhist/battleships/ijn_dr.htm Japanese battleships, battlecruisers, and large cruisers] at hazegray.org
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Ibuki class cruiser}}
+{{WWIJapaneseShips}}
+{{Good article}}
+
+[[Category:Cruiser classes]]
+[[Category:Battlecruiser classes]]
+[[Category:Ibuki-class battlecruisers| ]]
+[[Category:World War I battlecruisers of Japan| ]]</text>
+      <sha1>g165duo654lv0vx4a7dtiyk35l1y64r</sha1>
+    </revision>
+  </page>
+</mediawiki>

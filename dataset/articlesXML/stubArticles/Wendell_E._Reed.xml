@@ -1,0 +1,76 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Wendell E. Reed</title>
+    <ns>0</ns>
+    <id>37108044</id>
+    <revision>
+      <id>717286178</id>
+      <parentid>712870548</parentid>
+      <timestamp>2016-04-26T20:16:42Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1831">'''Wendell E. Reed''' was an aircraft engineer noted primarily for inventing the engine microjet controller (EMC), for which he was awarded the [[Wright Brothers Medal]] in 1955.&lt;ref name=reed_1&gt;{{cite journal|title=Inventor Award|year=1956|page=206|volume=90|journal=The Aeroplane|url=https://books.google.com/books?id=ZgYnAAAAMAAJ&amp;q=%22wright+brothers+medal%22+-langley&amp;dq=%22wright+brothers+medal%22+-langley&amp;hl=en&amp;ei=-GQGTeiXOaW2nAeotJXlDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CEgQ6AEwCTg8}}&lt;/ref&gt;&lt;ref name=reed_2&gt;{{cite journal|title=Announcement|year=1956|page=175|volume=19|journal=American Aviation|url=https://books.google.com/books?id=wUSmHaXIzX4C&amp;q=%22wright+brothers+medal%22+-langley&amp;dq=%22wright+brothers+medal%22+-langley&amp;hl=en&amp;ei=-GQGTeiXOaW2nAeotJXlDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CCwQ6AEwAjg8}}&lt;/ref&gt;&lt;ref name=flight_1955&gt;[http://www.flightglobal.com/pdfarchive/view/1955/1955%20-%201727.html Pneumatic Control for Turbojets and Ramjets: A New System by Solar] (1955) ''Flight'' '''68'''(2445), 847.&lt;/ref&gt;
+Reed's experiences in the [[United States Army Air Forces|USAAF]] piloting the [[North American B-25 Mitchell|B-25]] kindled a lifelong interest in flight and he later completed his degree at [[University of Wisconsin–Madison|University of Wisconsin]] in Mechanical Engineering.&lt;ref name=ut_2005&gt;Williams, J. (2005) [http://www.utsandiego.com/uniontrib/20050402/news_1m2reed.html Wendell E. Reed; prestigious award winner at Solar] ''[[U-T San Diego|San Diego Union-Tribune]]'', April 2, 2005.&lt;/ref&gt; He subsequently joined [[Solar Turbines|Solar Aircraft Co]], where he developed the EMC.
+
+== References ==
+&lt;references/&gt;
+
+{{DEFAULTSORT:Reed, Wendell, E.}}
+[[Category:University of Wisconsin&amp;ndash;Madison alumni]]
+[[Category:Wright Brothers Medal recipients]]
+
+
+{{US-engineer-stub}}</text>
+      <sha1>bd5v1pv24ph7tmxkr6bfa9mhqokxa0d</sha1>
+    </revision>
+  </page>
+</mediawiki>

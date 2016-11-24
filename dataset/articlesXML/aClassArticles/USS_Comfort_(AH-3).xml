@@ -1,0 +1,297 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Comfort (AH-3)</title>
+    <ns>0</ns>
+    <id>1693407</id>
+    <revision>
+      <id>743619265</id>
+      <parentid>733185959</parentid>
+      <timestamp>2016-10-10T12:20:25Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Philadelphia, Pennsylvania to [[:Category:Ships built in Philadelphia]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25232">{{Other ships|USS Comfort}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Comfort (AH-3).jpg|250px|USS Comfort at anchor, c. 1919]]
+|Ship caption=USS ''Comfort'' at anchor, c. 1919.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Ward Line
+|Ship flag=[[File:Ward Line flag.svg|60px|Ward Line house flag]]
+|Ship name=SS ''Havana''
+|Ship namesake=[[Havana]], [[Cuba]]
+|Ship owner=[[Ward Line]]
+|Ship operator=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=*[[William Cramp and Sons]]
+*[[Philadelphia]]
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=October 1906
+|Ship in service=1907
+|Ship out of service=23 May 1917&lt;ref name=WP-req&gt;{{cite news | title = U.S. to requisition ships | work = [[The Washington Post]] | date = 24 May 1917 | page = 1 }}&lt;/ref&gt;
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United States 
+|Ship flag={{USN flag|1921}}
+|Ship name=USS ''Comfort''
+|Ship namesake=
+|Ship acquired=17 December 1917
+|Ship commissioned=18 March 1918
+|Ship recommissioned=
+|Ship decommissioned=5 August 1921
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship refit=
+|Ship struck=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship honors=
+|Ship fate=Laid up; Sold to [[AGWI Line]] 1925
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Ward Line
+|Ship flag=[[File:Ward Line flag.svg|60px|Ward Line house flag]]
+|Ship name=SS ''Havana''
+|Ship owner=[[Ward Line]]
+|Ship acquired=1927
+|Ship in service=1928
+|Ship renamed=SS ''Yucatan'', 1935
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship renamed=SS ''Agwileon'', 1940
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship out of service=1941
+}}
+{{Infobox ship career
+|Ship country=United States 
+|Ship flag={{USN flag|1946}}
+|Ship name=USAT ''Agwileon''
+|Ship acquired=April 1942
+|Ship in service=April 1942
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship refit=[[Atlantic Basin Iron Works]], November 1942–April 1943
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship refit=Atlantic Basin Iron Works, June–August 1943
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship reclassified=[[hospital ship]] USAHS ''Shamrock'', August 1943
+|Ship refit=[[Charleston Navy Yard]], April–September 1945
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship out of service=4 February 1946, [[National Defense Reserve Fleet|NDRF]], [[Suisun Bay]]
+|Ship fate=Sold for scrapping, February 1948
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship displacement={{convert|10102|LT|t|abbr=on}}
+|Ship length={{convert|429|ft|10|in|m|abbr=on}}
+|Ship beam={{convert|50|ft|2|in|m|abbr=on}}
+|Ship draft={{convert|26|ft|m|abbr=on}}
+|Ship power=
+|Ship propulsion=
+|Ship speed={{convert|18|kn|mph km/h|lk=in|abbr=on}}
+|Ship range=
+|Ship boats=
+|Ship capacity=
+|Ship complement=318
+|Ship armament=
+|Ship notes=
+}}
+|-
+|colspan=2 | '''Differences as USAT ''Agwileon'':'''
+{{Infobox ship characteristics
+|Hide header=yes
+|Ship tonnage=6,678
+|Ship draft={{convert|23|ft|11|in|m|abbr=on}}
+|Ship power=
+|Ship propulsion=2 × reciprocating steam engines
+|Ship speed={{convert|14|kn|mph km/h|abbr=on}}
+|Ship range={{convert|4900|nmi|mi km|lk=in|abbr=on}}
+|Ship boats=
+|Ship capacity=Cargo: {{convert|146360|cuft|abbr=on}}
+|Ship complement=
+|Ship troops=1,350
+|Ship sensors=
+|Ship armament=
+}}
+|-
+| colspan=2 | '''Differences as USAHS ''Shamrock'':'''
+{{Infobox ship characteristics
+|Hide header=yes
+|Ship range={{convert|5800|nmi|mi km|abbr=on}}
+|Ship capacity=*Patients: 602 patients
+*Cargo: None
+|Ship complement=
+|Ship armament=None
+}}
+|}
+
+'''USS ''Comfort'' (AH-3)''' was a [[hospital ship]] for the [[United States Navy]] in World War I. She was the sister ship of {{USS|Mercy|AH-4}} but the two ships were not of a ship class. ''Comfort'' was known as '''SS ''Havana''''' in passenger service for the [[Ward Line]], and as '''USAT ''Havana''''' in [[United States Army]] service before her Navy service. Her name was restored to ''Havana'' in 1927, and she was renamed '''SS ''Yucatán''''' in 1935, and '''SS ''Agwileon''''' in 1941. In World War II, she was known as '''USAT ''Agwileon''''' and '''USAHS ''Shamrock''''' in service for the United States Army.
+
+Launched in 1906, SS ''Havana'' was a passenger steamer for the Ward Line on the New York–[[Havana]] route from 1907-1917. Before being purchased by the Navy, the ship briefly served as United States Army transport ship '''USAT ''Havana''''' and was in the first U.S. [[convoy]] of ships to sail for France during World War I. In her Navy career, ''Comfort'' made three transatlantic voyages, bringing home over 1,100 men from European ports. ''Comfort'' was placed in reserve in September 1919, decommissioned in 1921, and sold in April 1925.
+
+The former hospital ship was repurchased by the Ward Line in 1927, who refitted her and placed her back in service on the Havana route under her original name of ''Havana''. In January 1935, ''Havana'' grounded on a reef north of [[The Bahamas]] and remained there for three months. After being refloated and repaired, she was placed back in service as '''SS ''Yucatán''''' in June. In 1940 the ship was removed from passenger service to be converted into a freighter. After capsizing in port in 1941, the ship was again refloated and renamed '''SS ''Agwileon'''''.
+
+Under a [[bareboat charter]] by the [[United States Maritime Commission]], ''Agwileon'' carried civilian technicians and advisors to [[Sierra Leone]] for the U.S. Army. In November 1942, the ship was taken over by the Army as '''USAT ''Agwileon''''' and converted to a troopship, making one trip in that capacity. In June 1943, the ship was selected for conversion to an Army hospital ship, and was renamed '''USAHS ''Shamrock'''''. Operating locally in the Mediterranean for most of her career, the ship had transported almost 18,000 patients by September 1944. The ship was converted for use in the [[Pacific War|Pacific Theatre]], but not before the war ended. The ship was placed in reserve in February 1946, and was scrapped in February 1948.
+
+==Ward Line, 1907–1917==
+''Havana'' was launched in 1906 by [[William Cramp and Sons]] of [[Philadelphia]] for the New York &amp; Cuba Mail Steam Ship Co. — commonly referred to as the [[Ward Line]] — as a passenger steamer on the New York to Havana route.
+
+In 1909, on the way to the Quarantine Station in New York, ''Havana'' rammed the anchored [[Munson Line]] freighter ''Cubana'' which was hidden from sight behind {{SS|Kronprinz Wilhelm}}, also at anchor. ''Cubana'' had no damage below the waterline and ''Havana'', laden with inbound New York passengers, suffered only superficial damage.&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=950DE3D91131E733A2575BC0A9629C946897D6CF | format = pdf | title = Liners collide in Narrows | work = [[The New York Times]] | date = 8 April 1909 | accessdate = 28 January 2008 | page = 18 }}&lt;/ref&gt;
+
+Striking [[fireman (steam engine)|firemen]] delayed ''Havana''{{'}}s departure in July 1911. The firemen were looking for an additional $0.15 per day for meals while the ship was in port. A. G. Smith, General Manager of the Ward Line, agreed to that concession, allowing the ''Havana'' to get underway after a two-hour delay.&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9802EFD71431E233A2575AC0A9619C946096D6CF | format = pdf | title = Strike delays coasters | work = The New York Times | date = 9 July 1911 | accessdate = 28 January 2008 | page = 12 }}&lt;/ref&gt;
+[[File:SSHavana.jpg|thumb|left|Ward liner SS ''Havana'' before World War I]]
+
+Several times in 1912, amidst an outbreak of [[bubonic plague]] in the Caribbean, ''Havana'' operated in violation of Cuban and U.S. quarantine rules. In July 1912, the liner prepared to depart Cuba without an inspection and fumigation, but faced the prospect of seven days quarantine in Havana before the ship would be allowed to depart.&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9507E7DD123CE633A25757C1A9619C946396D6CF | format = pdf | title = Liner held back by plague order | work = The New York Times | date = 14 July 1912 | accessdate = 28 January 2008 | page = 5 }}&lt;/ref&gt; However, a compromise was worked out by the United States Marine Hospital Service which allowed ''Havana'' to depart after a one-day delay.&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?_r=1&amp;res=9C05EEDD123CE633A25756C1A9619C946396D6CF | format = pdf | title = Complains of Americans | work = The New York Times | date = 15 July 1912 | accessdate = 6 April 2008 | page = 9 }}&lt;/ref&gt; In September of the same year, another inspection gaffe resulted in government prosecution of the Ward Line.&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9E03E6D9113AE633A25752C1A96F9C946396D6CF | format = pdf | title = To prosecute Ward Line | work = The New York Times | date = 11 September 1912 | accessdate = 28 January 2008 | page = 4 }}&lt;/ref&gt;
+
+On 23 May 1917 ''Havana'' and sister ship {{SS|Saratoga||2}}, another Ward Line steamer, were requisitioned by the [[United States Department of War|War Department]] for U.S. Army use during World War I.&lt;ref name=WP-req/&gt;
+
+==World War I==
+After her requisition by the U.S. government, ''Havana'' was turned over to the United States Army on 24 May 1917 for service as a transport ship.&lt;ref name=CW-316&gt;Crowell and Wilson, p. 316.&lt;/ref&gt; She was hastily outfitted for trooping duties, and at daybreak on 14 June, USAT ''Havana'', with fellow Army transport ships ''Saratoga'', {{USAT|Tenadores||2}}, and {{USAT|Pastores||2}}, accompanied by [[cruiser]]s {{USS|Seattle|ACR-11|2}}, {{USS|DeKalb|ID-3010|2}}, destroyers {{USS|Wilkes|DD-67|2}}, {{USS|Terry|DD-25|2}}, {{USS|Roe|DD-24|2}}, and converted yacht {{USS|Corsair|SP-159|2}}, set out from [[Ambrose Light]] for [[Brest, France]]. They were in the lead group of the first American troop convoy to France during World War I.&lt;ref name=CW-316 /&gt;&lt;!--date of handover, outfitting--&gt;&lt;ref&gt;Gleaves, pp. 38&lt;!-- list of groups--&gt;, 41.&lt;!--departure time--&gt;&lt;/ref&gt; ''Corsair'' was unable to maintain the {{convert|15|kn|mph km/h|abbr=on}} pace and fell back, being replaced by destroyer {{USS|Fanning|DD-37|2}} from the second group.&lt;ref&gt;Gleaves, p. 41–2.&lt;/ref&gt;
+{{Multiple image|direction=vertical|align=right|image1=Wounded U.S. soldiers aboard USS Comfort.jpg|image2=Unloading wounded from USS Comfort.jpg|width=200|caption1=Wounded U.S. soldiers aboard ''Comfort'', 1 December 1918|caption2=Wounded soldiers being unloaded from ''Comfort'', December 1918}}
+
+At 22:15 on 22 June, some {{convert|850|nmi|mi km|abbr=on}} from its intended destination of Brest, ''Havana''’s group of the convoy was attacked by submarines. Two torpedoes passed near ''Havana'' and two torpedoes straddled ''DeKalb''. No submarine was definitively sighted and the convoy, scattered by the alarm, reformed the next morning.&lt;ref&gt;Gleaves, pp. 42–3.&lt;/ref&gt; The group, alerted by reports of submarine activity near Brest, diverted to [[Saint-Nazaire]] and arrived on 25 June.&lt;ref&gt;Gleaves, p. 45.&lt;/ref&gt;
+
+''Havana'' made only the one transatlantic crossing as an Army transport and was transferred to the U.S. Navy on 17 July.&lt;ref name=CW-319&gt;Crowell and Wilson, p. 319.&lt;!--one crossing--&gt;&lt;/ref&gt; The ship was outfitted at the [[New York Navy Yard]] by the [[John N. Robins Co.]] of [[Brooklyn, New York]]; renamed ''Comfort'' on 14 March 1918; and commissioned 18 March 1918 with Medical Inspector C. M. Oman, [[United States Navy|USN]], commanding. ''Comfort'' and {{USS|Mercy|AH-4|2}} (former Ward Line mate, ''Saratoga'') were the first Navy hospital ships to have female nurses aboard, with a capacity of seven, including a chief nurse.&lt;ref name=ArmyNavy&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9A0DE7DA163AE532A25750C1A9679C946996D6CF | format = pdf | title = Army and Navy notes | work = The New York Times | date = 13 January 1918 | accessdate = 24 January 2008 | page = }}&lt;/ref&gt;&lt;ref name=USNavy-835&gt;U.S. Navy, ''Annual Reports'', p. 835.&lt;/ref&gt; Both ships were outfitted with state-of-the-art operating rooms, [[X-ray]] labs, rest rooms, and could accommodate 500 patients each.&lt;ref name=ArmyNavy/&gt;
+
+After serving from 24 July-5 October 1918 as a floating hospital at New York, ''Comfort'' joined the [[Cruiser and Transport Force]] of the [[United States Fleet Forces Command|Atlantic Fleet]] to return wounded men from Europe. In three voyages between 21 October 1918 and 13 March 1919, she brought home 1,183 men from France, Britain, and the [[Azores]]. She sailed from [[Charleston, South Carolina|Charleston]] on 9 June for repairs at [[Mare Island Navy Yard]] where she went [[in ordinary]] 11 September 1919.&lt;ref name=DANFS-comfort&gt;{{cite DANFS | title = Comfort | url = http://www.history.navy.mil/danfs/c11/comfort-i.htm | short = on }}&lt;/ref&gt;
+
+At Mare Island, ''Comfort'' had her boilers replaced and the electrical system was revamped, which entailed replacing all temporary wiring with permanent wiring and watertight fixtures. The crew quarters of the ship had also become infested with bedbugs from older German-style hospital bedding and remedies and eradication were performed.&lt;ref name=USNavy-834&gt;U.S. Navy, ''Annual Reports'', p. 834.&lt;/ref&gt; But ''Comfort'' had seen the end of her Navy service; she was decommissioned 5 August 1921, and was sold at Mare Island 1 April 1925.&lt;ref name=DANFS-comfort/&gt;
+
+Author and poet William Nelson Morell, in his book of poems related to Navy service during the war, was inspired to write these lines about ''Comfort'':
+{{quote|They never billeted a better crew&lt;br&gt;
+That sailed out of any port&lt;br&gt;
+Than that which carried the wounded through&lt;br&gt;
+The war zone,—on the new “Comfort”|&quot;The U.S.S. Comfort (Hospital Ship)&quot;&lt;ref&gt;Morell, p. 4.&lt;/ref&gt;}}
+
+==Interwar civilian service==
+The former liner was reacquired by the Ward Line in 1927 and underwent a major refit — removal of one of its stacks and modernization of its interiors — at [[Todd Pacific Shipyards|Todd Shipyard]] in [[Seattle]], returning to passenger service in the following year.&lt;ref&gt;{{cite web | url = https://pmars.marad.dot.gov/NewCards/4532_8357AB.jpg | format = scan of record | title = Custody Card 1 (back) | publisher = [[United States Maritime Administration]] | work = Property Management &amp; Archive Record System (PMARS) | date = | accessdate = 28 January 2008}}&lt;/ref&gt;&lt;ref name=Kalafus&gt;Kalafus.&lt;/ref&gt; ''Havana'' was placed on the New York–Cuba service, where business thrived, in part because of [[Prohibition in the United States]]. Ward Line cruises to Havana were one of the quickest and least expensive ways to what one author called &quot;alcohol-enriched vacations&quot;. The success of the Cuba routes attracted the attention of [[Cunard Line]] who added service from New York to Cuba with select cruises of {{RMS|Mauretania|1906|2}} in 1928, a full season of cruises on {{RMS|Caronia||2}} in 1929, and the addition of [[RMS Carmania (1905)|RMS Carmania]] the following season.&lt;ref name=Flayhart&gt;Flayhart, p. 292.&lt;/ref&gt; This perceived threat to American shipping interests was met by the Ward Line by the acquisition of two new ships. The new ships, {{SS|Oriente||2}} and {{SS|Morro Castle|1930|2}}, became the top of the line, and ''Havana'' was demoted to a third tier ship in terms of luxury and spaciousness, behind {{SS|Siboney||2}} and {{SS|Orizaba||2}}.&lt;ref name=Kalafus/&gt;
+
+On 6 January 1935, ''Havana'' ran aground on [[Mantanilla Reef]] ({{coord|27|22|N|78|41|W|display=inline}}&lt;ref&gt;{{cite web | url = http://water.worldcitydb.com/matanilla_reef_2198331.html | title = Matanilla Reef | publisher = WorldCityDB.com | work = World Water Features Database | accessdate = 28 January 2008}}&lt;/ref&gt;) north of [[The Bahamas]]. Although one passenger died of &quot;[[apoplexy]]&quot; during the evacuation of the ship, all the passengers were evacuated on the steamers ''El Oceano'' and ''Peten''. These two steamers along with [[United States Coast Guard Cutter]]s {{USCGC|Vigilant|WSC-154|2}} and {{USCGC|Pandora|WPC-113|2}} had come to the stricken ship's rescue.&lt;ref name=Kalafus /&gt;&lt;ref&gt;{{cite news | agency = Associated Press | url = http://pqasb.pqarchiver.com/latimes/access/392555411.html?dids=392555411:392555411&amp;FMT=ABS&amp;FMTS=ABS:AI | format = fee | title = Passengers Saved as Liner Crashes on Bahamas Reef | work = [[Los Angeles Times]] | date = 7 January 1935 | page = 1 }}&lt;/ref&gt; The ship had run aground in a well-known shoal area and near a visible marker buoy.&lt;ref name=Kalafus/&gt; The captain, Alfred W. Peterson, was found guilty of an &quot;error in judgement in navigation&quot; by using [[dead reckoning]] instead of more precise methods of setting course.&lt;ref&gt;{{cite news | url = http://select.nytimes.com/gst/abstract.html?res=FA0817FE3F5B177A93CAA9178DD85F418385F9 | format = fee | title = Peterson admonished in Ward ship crash | work = The New York Times | date = 8 June 1935 | page = 33 }}&lt;/ref&gt; The grounding of ''Havana'' was second of three [[public relations]] disasters that befell the Ward Line in a four-month span; the fire and sinking of {{SS|Morro Castle|1930|2}} in September 1934, and the sinking of {{SS|Mohawk||2}} ([[ship chartering|chartered]] to replace the grounded ''Havana'') on her maiden Ward Line voyage in January 1935, were the other two.&lt;ref name=Kalafus/&gt; After these three incidents, the &quot;Ward Line&quot; name was dropped in favor of the less familiar &quot;Cuba Mail Line&quot; moniker by July 1935.&lt;ref&gt;{{cite news | url = http://select.nytimes.com/gst/abstract.html?res=F10915F9385A10718EDDA80A94DF405B858FF1D3 | format = fee | title = Notes of interest in the shipping world | work = The New York Times | date = 21 July 1935 | page = 25 }}&lt;/ref&gt;
+
+''Havana'' remained on the reef for three months before being refloated, repaired, and renamed SS ''Yucatán''.&lt;ref name=Kalafus/&gt; ''Yucatán'' remained in passenger service for the Cuba Mail Line until 1940, when she was converted to a freighter.&lt;ref name=Kalafus/&gt; On 29 November 1940, ''Yucatán'' sank at her pier in New York.&lt;ref&gt;{{cite news | url = http://select.nytimes.com/gst/abstract.html?res=F00713FC3F5C10728DDDA80894DA415B8088F1D3 | format = fee | title = Divers start task of raising vessel | work = The New York Times | date = 1 December 1940 | page = S10 }}&lt;/ref&gt; After again being refloated and repaired, the ship was renamed ''Agwileon'' and assigned to the Cuba Mail Lines parent organization, the [[Atlantic, Gulf, &amp; West Indies Steamship Lines]] (the &quot;AGWI Lines&quot;), and remained in service as a freighter.&lt;ref name=Kalafus/&gt;
+
+==World War II military service==
+{{Multiple image|direction=vertical|align=left|image1=USAT Agwileon.jpg|image2=USAHS Shamrock.jpg|width=200|caption1=USAT ''Agwileon'' in mid 1943|caption2=USAHS ''Shamrock'' in port, c. 1943–46}}
+
+In April 1942, the [[United States Maritime Commission|Maritime Commission]] took control of SS ''Agwileon'' under a [[bareboat charter]] and used her to transport civilian technicians and advisors to [[Freetown]], [[Sierra Leone]], for the U.S. Army. After having boiler difficulties there, the ship then proceeded back to New York via [[Cape Town]], [[Brazil]], [[Trinidad]], and Cuba. The voyage was completed in October.&lt;ref name=TSWWII-5&gt;Charles, p. 5.&lt;/ref&gt;
+
+The following month, the ship became '''USAT ''Agwileon''''' when it was chartered by the Army, and underwent conversion to a troopship at the [[Atlantic Basin Iron Works]] in [[Brooklyn]]. With the conversion complete, the troopship left in April 1943 for [[Oran]] and [[Gibraltar]], returning to New York in June. After this one voyage she was selected for conversion to a hospital ship.&lt;ref name=TSWWII-5/&gt;
+
+Putting in at the Atlantic Basin Iron Works again in June, the ship was renamed '''USAHS ''Shamrock''''' in August 1943. With the conversion complete, the new hospital ship left New York in September for Gibraltar and the [[Mediterranean theatre of World War II|Mediterranean]] where she operated locally, calling often at Oran, [[Palermo]], the southern beaches of France, [[Bizerte]], and [[Naples]]. By mid-February 1944, ''Shamrock'' had transported 11,989 patients before departing Gibraltar for [[Charleston, South Carolina|Charleston]] (via [[Bermuda]]), where she arrived in early March. After undergoing some repairs and alterations at Charleston, ''Shamrock'' sailed again for Gibraltar for another tour of duty in the Mediterranean area from May to September. After transporting over 6,000 patients during this mission, she returned via [[Horta (Azores)|Horta]], [[Azores]], to Charleston in late September.&lt;ref name=TSWWII-349&gt;Charles, p. 349.&lt;/ref&gt;
+
+In October, the hospital ship put in at [[Jacksonville, Florida|Jacksonville]] for major repairs, before embarking on a final Mediterranean tour, arriving back in Charleston in April 1945. With the [[European Theatre of World War II|war in Europe]] winding down by this time, ''Shamrock'' underwent ventilation improvements at the [[Charleston Navy Yard]] intended for service in the [[Pacific War|Pacific]]. The repairs complete in September 1945, the hospital ship sailed for [[Los Angeles]], arriving in October.&lt;ref name=TSWWII-349/&gt;
+
+With no further need for hospital ships by that time, ''Shamrock'' was taken out of service. After the possibility of refitting the ship to carry home [[war bride]]s was rejected, ''Shamrock'' was turned over to the [[War Shipping Administration]] at [[San Francisco]] on 4 February 1946, and placed in the [[National Defense Reserve Fleet]] (NDRF) at [[Suisun Bay]], California.&lt;ref name=TSWWII-5/&gt;&lt;ref name=TSWWII-349/&gt; On 30 December 1947, ''Shamrock'' was sold to the Walter W. Johnson Co., and on 4 February 1948 was withdrawn from the NDRF for scrapping.&lt;ref&gt;{{cite web | url = https://pmars.marad.dot.gov/NewCards/4532_8357AF.jpg | format = scan of record | title = Custody Card 1 (front) | publisher = [[United States Maritime Administration]] | work = Property Management &amp; Archive Record System (PMARS) | date =  | accessdate = 26 January 2008}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{Refbegin}}
+*{{cite book | last = Charles | first = Roland W. | title = Troopships of World War II | location = Washington, D.C. | publisher = Army Transportation Association |date=April 1947 | oclc = 1871625 }}
+*{{cite book | last = Crowell | first = Benedict | authorlink = Benedict Crowell | author2 = Robert Forrest Wilson | title = The Road to France: The Transportation of Troops and Military Supplies, 1917–1918 | series = How America Went to War: An Account From Official Sources of the Nation's War Activities, 1917–1920 | location = New Haven, Connecticut | publisher = Yale University Press | year = 1921 | oclc = 18696066 }}
+*{{cite book | last = Flayhart | first = William H. | title = Disaster At Sea: Shipwrecks, Storms, and Collisions on the Atlantic | location = New York | publisher = W. W. Norton &amp; Co. | year = 2005 | isbn = 978-0-393-32651-2 | oclc = 56913373 }}
+*{{Gleaves}}
+*{{cite book | last = Kalafus | first = Jim | url = http://www.garemaritime.com/features/morro-castle/index.php | chapterurl = http://www.garemaritime.com/features/morro-castle/18.php | chapter = Interlude | title = Morro Castle, the Mohawk and the End of the Ward Line | publisher = Gare Maritime | date = c. 2006 | accessdate = 2008-01-28 }}
+*{{cite book | last = Morell | first =  William Nelson | title = Rhymes of the fleet, and other poems | location = Boston | publisher = The Stratford Co. | year = 1918 | oclc = 18475925 }}
+*{{cite DANFS | author = [[Naval Historical Center]] | title = Comfort | url = http://www.history.navy.mil/danfs/c11/comfort-i.htm | accessdate = 28 January 2008}}
+*{{cite book | author = United States Navy Department | title = Annual Reports of the Navy Department for the Fiscal Year | location = Washington, D.C. | publisher = [[United States Government Printing Office]] | year = 1921 | oclc = 5164555 | authorlink = United States Department of the Navy }}
+*{{DANFS}} &lt;!-- link not included because it is cited above. --&gt;
+{{Refend}}
+
+==External links==
+*{{navsource|09/12/1203|Comfort}}
+*[http://www.history.navy.mil/photos/sh-civil/civsh-h/havana.htm Initially constructed as S.S. Havana (American Passenger Ship, 1906)]
+*[http://www.history.navy.mil/photos/sh-usn/usnsh-c/ah3.htm Converted to USS Comfort (1918-1925, later AH-3)]
+*[http://www.history.navy.mil/photos/sh-us-cs/army-sh/usash-ag/agwileon.htm Later became USAT Agwileon (Transport, 1942-1943) then later the Army Hospital Ship Shamrock (1943-1946)]
+*[http://www.flickr.com/photos/24300962@N02/4153395851/?addedcomment=1#comment72157622962126000  the Caldwell Kvaran archives]
+
+{{Use dmy dates|date=June 2011}}
+{{1935 shipwrecks}}
+
+{{DEFAULTSORT:Comfort (AH-3)}}
+[[Category:1906 ships]]
+[[Category:Ships built in Philadelphia]]
+[[Category:Ships of the Ward Line]]
+[[Category:Hospital ships of the United States Navy]]
+[[Category:Transport ships of the United States Army]]
+[[Category:Hospital ships of the United States Army]]
+[[Category:World War I auxiliary ships of the United States]]
+[[Category:World War II auxiliary ships of the United States]]
+[[Category:Maritime incidents in 1935]]</text>
+      <sha1>flnws4p6yqhnrv6pr06exywoqhdvv0p</sha1>
+    </revision>
+  </page>
+</mediawiki>

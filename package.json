@@ -1,0 +1,26 @@
+{
+  "name": "wikipedia-article-downloader",
+  "version": "1.0.0",
+  "description": "(Under Development) A simple tool to download random articles from Wikipedia.",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmenRa666/wikipedia-article-downloader.git"
+  },
+  "author": "Elias Bassani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmenRa666/wikipedia-article-downloader/issues"
+  },
+  "homepage": "https://github.com/AmenRa666/wikipedia-article-downloader#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "mkdirp": "^0.5.1",
+    "node-tictoc": "^1.3.0",
+    "request": "^2.79.0",
+    "sanitize-filename": "^1.6.1"
+  }
+}

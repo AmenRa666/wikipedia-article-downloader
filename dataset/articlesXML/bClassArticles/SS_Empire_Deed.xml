@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Empire Deed</title>
+    <ns>0</ns>
+    <id>32017433</id>
+    <revision>
+      <id>685349348</id>
+      <parentid>622516733</parentid>
+      <timestamp>2015-10-12T10:10:39Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21029">{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = 
+| Ship caption             = 
+}}
+{{Infobox ship career
+| Hide header              = 
+| Ship name                =*''Empire Deed'' (1943-46)
+*''Deed'' (1946-51)
+*''Doro'' (1951-56)
+*''Leonidas Cambanis'' (1956-64)
+*''Ever Fortune'' (1964)
+*''Ever Happiness'' (1964-67)
+| Ship owner               =*Ministry of War Transport (1943-45)
+*Ministry of Transport (1945-46)
+*Sussex Steamship Co Ltd (1946-51)
+*Compagnia Navigazione Doro (1951-56)
+*Z L Cambanis &amp; others (1956-64)
+*Reliance Marine Corporation (1964)
+*First Steamship Co Ltd (1964-67)
+| Ship operator            =*Mungo Campbell &amp; Co Ltd (1943-46)
+*S G Embiricos Ltd (1946-51)
+*Compagnia Navigazione Doro (1951-56)
+*Z L Cambanis &amp; others (1956-64)
+*First Steamship Co Ltd (1964-66)
+| Ship registry            =*{{flagicon|United Kingdom|civil}} Sunderland (1943-46)
+*{{flagicon|United Kingdom|civil}} London, United Kingdom (1946-51)
+*{{flagicon|Panama}} Panama City, Panama (1951-56)
+*{{flagicon|Greece}} Piraeus, Greece (1956-64)
+*{{flagicon|Liberia}} Monrovia, Liberia (1964)
+*{{flagicon|Taiwan}} Taipeh, Taiwan (1964-67)
+| Ship route               = 
+| Ship ordered             = 
+| Ship builder             = Bartram &amp; Sons Ltd
+| Ship original cost       = 
+| Ship yard number         = 295
+| Ship way number          = 
+| Ship laid down           = 
+| Ship launched            = 6 February 1943
+| Ship completed           = May 1943
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship christened          = 
+| Ship acquired            = 
+| Ship maiden voyage       = 
+| Ship in service          = 
+| Ship out of service      = 
+| Ship identification      =*United Kingdom Official Number 169113 (1943-46)
+*Code Letters GDNS (1943-46)
+*{{ICS|Golf}}{{ICS|Delta}}{{ICS|November}}{{ICS|Sierra}}
+| Ship fate                = Scrapped
+| Ship status              = 
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+| Ship class               = Cargo ship
+| Ship tonnage             =*{{GRT|6,766}}
+*{{NRT|4,639}}&lt;!--
+*x,xxx [[deadweight tonnage|DWT]]--&gt;
+| Ship displacement        = 
+| Ship length              = {{convert|416|ft|8|in|m|2|abbr=on}}
+| Ship beam                = {{convert|56|ft|6|in|m|2|abbr=on}}
+| Ship height              = 
+| Ship draught             = {{convert|26|ft|6+1/2|in|m}}
+| Ship depth               = {{convert|34|ft|0|in|m|2|abbr=on}}
+| Ship decks               = 
+| Ship deck clearance      = 
+| Ship ramps               = 
+| Ship ice class           = 
+| Ship range               = 
+| Ship power               = 
+| Ship propulsion          = 
+| Ship speed               = &lt;!--{{convert|xx|kn|km/h}}--&gt;
+| Ship capacity            = 
+| Ship crew                = 
+| Ship notes               = 
+| Ship complement          = 
+| Ship armament            = Anti-torpedo nets (1943-45)
+}}
+|}
+
+'''''Empire Deed''''' was a {{GRT|6766|link=off}} [[cargo ship]] that was built in 1943 by [[Bartram &amp; Sons Ltd]], [[Sunderland, Co Durham]], [[United Kingdom]] the [[Ministry of War Transport]] (MoWT). In 1946, she was sold into merchant service and renamed '''''Deed'''''. In 1951, she was sold to [[Panama]] and renamed '''''Doro'''''. A sale to [[Greece]] in 1956 saw her renamed '''''Leonidas Cambanis'''''. In 1964, she was sold to [[Liberia]] and renamed '''''Ever Fortune''''' followed by a sale to [[Taiwan]] later that year and renaming to '''''Ever Happiness'''''. She served until 1967, when she was scrapped at [[Kaohsiung]], Taiwan.
+
+==Description==
+The ship was built in 1943 by [[Bartram &amp; Sons Ltd]], [[Sunderland, Co Durham]].&lt;ref name=Ships&gt;{{cite book |last1= Mitchell |first1=W.H. |last2=Sawyer |first2=L.A. |year=1995 |title=The Empire Ships |page=not cited |publisher= Lloyd's of London Press Ltd |location= London, New York, Hamburg, Hong Kong |isbn=1-85044-275-4}}&lt;/ref&gt; She was yard number 295.&lt;ref name=Searle&gt;{{cite web |url=http://www.searlecanada.org/sunderland/sunderland025.html |title=THE SUNDERLAND SITE - PAGE 025, SHIPBUILDERS - PAGE 4 |publisher=Searle |accessdate=7 June 2011}}&lt;/ref&gt;
+
+The ship was {{convert|416|ft|8|in|m|2}} long, with a beam of {{convert|56|ft|6|in|m|2}}. She had a depth of {{convert|34|ft|0|in|m|2}} and a draught of {{convert|26|ft|6+1/2|in|m}}. She was assessed at {{GRT|6,766}}, {{NRT|4,639}}.&lt;ref name=Deed43&gt;{{cite web|url=http://www.plimsollshipdata.org/pdffile.php?name=43b0301.pdf |title=LLOYD'S REGISTER, STEAMERS &amp; MOTORSHIPS |publisher=Plimsoll Ship Data |accessdate=15 July 2011}}&lt;/ref&gt;&lt;!-- Her [[deadweight tonnage|DWT]] was xx,xxx.--&gt;
+
+The ship was propelled by a [[triple expansion steam engine]], which had cylinders of {{convert|24+1/2|in|cm}}, {{convert|39|in|cm}} and {{convert|70|in|cm}} diameter by {{convert|48|in|cm}} stroke. The engine was built by North East Marine Engine (1938) Ltd, Sunderlane.&lt;ref name=Deed43/&gt;&lt;!-- It drove a screw propeller and could propel the ship at {{convert|xx|kn|km/h}}.&lt;ref name=xxxx/&gt;--&gt;
+
+==History==
+===World War II===
+====1943====
+''Empire Deed'' was built for the MoWT. She was launched on 6 February 1943 and completed in May.&lt;ref name=Ships/&gt; She was placed under the management of Mungo, Campbell &amp; Co Ltd. Her port of registry was Sunderland. The United Kingdom Official Number 169113 and [[Code Letters]] BFJS were allocated.&lt;ref name=ID&gt;{{cite web |url=http://convoyweb.org.uk/signal/index.html?search_all.php~signalmain |title=Signal Letters Database |publisher=Convoyweb |accessdate=8 June 2011}} (Enter BFJS or Empire Deed in relevant search box)&lt;/ref&gt; On 25 May, she was damaged by enemy bombing at Sunderland.&lt;ref name=Ships/&gt; She was quickly repaired,&lt;ref name=Searle/&gt; and departed from Sunderland on 10 June 1943 for [[Middlesbrough]], [[North Riding of Yorkshire|Yorkshire]]. She departed from Middlesbrough on 30 June for the [[River Tyne|Tyne]]. On 4 August, she departed from the Tyne to join Convoy FN 1090,&lt;ref name=Port&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?search.php?vessel=EMPIRE%20DEED~armain |title=EMPIRE DEED |publisher=Convoyweb |accessdate=7 June 2011}}&lt;/ref&gt; which had departed from [[Southend-on-Sea|Southend]], [[Essex]] on 3 August and arrived at [[Methil]], [[Fife]] on 5 August.&lt;ref name=FN1090&gt;{{cite web |url=http://www.convoyweb.org.uk/fn/index.html?fn.php?convoy=1090!~fnmain |title=Convoy FN.1090 = Convoy FN.90 / Phase 11 |publisher=Convoyweb | accessdate=8 June 2011}}&lt;/ref&gt; She then joined Convoy EN 265, which departed from Methil on 6 August and arrived at [[Loch Ewe]] on 8 August.&lt;ref name=EN265&gt;{{cite web |url=http://www.convoyweb.org.uk/en/index.html?en.php?convoy=265!~enmain |title=Convoy EN.265 (Series 2) |publisher=Convoyweb | accessdate=8 June 2011}}&lt;/ref&gt; ''Empire Deed'' left the convoy at [[Oban]], [[Argyllshire]]. She departed from Oban on 9 August to join Convoy OS 53KM,&lt;ref name=Port/&gt; which departed from [[Liverpool]], [[Lancashire]] on 8 August and split at sea on 17 August. She was carrying a cargo described as &quot;stores&quot; and bound for [[Bône]], [[Algeria]]. ''Empire Deed'' was equipped with [[anti-torpedo net]]s.&lt;ref name=OS53KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=53KM!~osmain |title=Convoy OS.53/ KMS.23 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She was in the part of the convoy which formed Convoy KMS 23G, and arrived at [[Gibraltar]] on 18 August.&lt;ref name=KMS23G&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=23G!~kmsmain |title=ConvoyKMS.23G |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She departed from Gibraltar that day as a member of Convoy KMS 23, which arrived at [[Port Said]], [[Egypt]] on 30 August.&lt;ref name=KMS23&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=23!~kmsmain |title=ConvoyKMS.23 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy at Bône on 22 August.
+
+''Empire Deed'' departed from Bône on 3 October to join Convoy KMS 27,&lt;ref name=Port/&gt; which had departed from Gibraltar on 29 September and arrived at Port Said on 11 October.&lt;ref name=KMS27&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=27!~kmsmain |title=Convoy KMS.27 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy at [[Malta]] on October 6, departing two days later for [[Bari]], [[Italy]], where she arrived on 12 October. ''Empire Deed'' departed from Bari on 22 October as a member of Convoy HA 5, which arrived at [[Augusta, Sicily]] on 24 October. She departed Augusta two days later for Malta, where she arrived on 27 October. Two days later, she departed from Malta as a member of convoy VT 7, which arrived at [[Tripoli]], [[Libya]] on 31 October. She departed from Tripoli on 19 November for Augusta, from where she departed on 26 November as a member of Convoy AH 10, which arrived at [[Brindisi]], Italy on 28 November. She departed from Brindisi on 8 December to join Convoy HA 11,&lt;ref name=Port/&gt; which had departed from Bari that day and arrived at Brindisi on 10 December.&lt;ref name=HA11&gt;{{cite web |url=http://www.convoyweb.org.uk/ha/index.html?ha.php?convoy=11!~hamain |title=Convoy HA.11 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; On 11 December, ''Empire Deed'' departed from Brindisi to join Convoy GUS 24,&lt;ref name=Port/&gt; which had departed from Port Said on 6 December and arrived at the [[Hampton Roads]], [[Virginia]], [[United States]] on 3 January 1944. She left the convoy at [[Algiers]], Algeria,&lt;ref name=GUS24&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=24!~gusmain |title=Convoy GUS.24 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; where she arrived on 15 December.&lt;ref name=Port/&gt;
+
+====1944====
+''Empire Deed'' departed from Algiers on 4 January 1944 to join Convoy UGS 27,&lt;ref name=Port/&gt; which had departed from the Hampton Roads on 15 December 1943 and arrived at Port Said on 11 January. She returned to Algiers,&lt;ref name=UGS27&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=27!~ugsmain |title=Convoy UGS.27 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; where she arrived the next day. She then joined Convoy KMS 36,&lt;ref name=Port/&gt; which had departed from Gibraltar on 3 January and arrived at Port Said on 13 January. She left the convoy at Augusta,&lt;ref name=KMS36&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=36!~kmsmain |title=Convoy KMS.36 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; where she arrived on 9 January. She departed the next day as a member of Convoy VN 15, which arrived at [[Naples]], Italy on 11 January. ''Empire Deed'' departed from Naples on 1 February as a member of Convoy NV 18, which arrived at Augusta on 2 February. Two days later, she joined Convoy MKS 39,&lt;ref name=Port/&gt; which had departed from Port Said on 30 January and arrived at Gibraltar on 11 February. She left the convoy at Algiers,&lt;ref name=MKS39&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=39!~mksmain |title=Convoy MKS.39 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; arriving on 9 February. She departed from Algiers on 19 February to join Convoy MKS 40,&lt;ref name=Port/&gt; which had departed from Port Said on 9 February and arrived at Gibraltar on 21 February.&lt;ref name=MKS40&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=40!~mksmain |title=Convoy MKS.40 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; ''Empire Deed''  departed from Gibraltar that day as a member of Convoy MKS40G, which rendezvoused with Convoy SL 149 at sea on 22 February. She was carrying three passengers and a cargo of [[iron ore]].&lt;ref name=MKS40G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=40G!~mksmain |title=Convoy MKS.40G |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; The combined convoy arrived at Liverpool on 7 March.&lt;ref name=SL149MKS&gt;{{cite web |url=http://www.convoyweb.org.uk/sl2/index.html?sl.php?convoy=149MK!~slmain |title=Convoy SL.149/MKS.40 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy at the [[Belfast Lough]] on 6 March, departing two days later for [[Workington]], [[Cumberland]], where she arrived on 9 March.&lt;ref name=Port/&gt;
+
+''Empire Deed'' departed from Workington on 14 March for the [[River Clyde|Clyde]], arriving the next day. She departed from the Clyde on 12 April for Loch Ewe, where she arrived on 13 April and joined Convoy WN 570, which arrived at Methil on 14 April. Her voyages for the next three weeks are not recorded, but she sailed from Southend on 9 June as a member of Convoy ETM 4, which arrived at the [[Seine Bay]], [[France]] the next day. She spent June and July 1944 sailing between Southend and the Seine Bay, with one call at [[Portsmouth]], [[Hampshire]] on 18 July. She made her final voyage in this series as a member of Convoy FTM 44, which departed from the Seine Bay on 21 July and arrived at Southend the next day. ''Empire Deed'' departed from Southend on 23 July as a member of Convoy FN 1427,&lt;ref name=Port/&gt; which arrived at Methil on 25 July.&lt;ref name=FN1427&gt;{{cite web |url=http://www.convoyweb.org.uk/fn/index.html?fn.php?convoy=1427!~fnmain |title=Convoy FN.1427 = Convoy FN.27 / Phase 15 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy at [[Blyth, Northumberland]] on 24 July.&lt;ref name=Port/&gt;
+
+''Empire Deed'' departed from Blyth on 17 August for the Tyne, from where she joined Convoy FN 1453,&lt;ref name=Port/&gt; which had departed from Southend on 18 August and arrived at Methil on 20 August.&lt;ref name=FN1453&gt;{{cite web |url=http://www.convoyweb.org.uk/fn/index.html?fn.php?convoy=1453!~fnmain |title=Convoy FN.1453 = Convoy FN.53 / Phase 15 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; Two days later, she departed with Convoy EN 425, which arrived at Loch Ewe on 24 August. She then joined Convoy ON 250, which had departed from Liverpool that day and arrived at [[New York City|New York]], United States on 7 September. She left the convoy at [[Sydney, Nova Scotia|Sydney]], [[Cape Breton Island|Cape Breton]], [[Canada]],&lt;ref name=ON250&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=250!~onzmain |title=Convoy ON.250 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; where she arrived on 4 September. She joined Convoy SQ 91, which departed on 5 September and arrived at [[Father Point]], [[Quebec]] on 7 September. On 19 September, ''Empire Deed'' departed from the Red Islet as a member of Convoy QS 92, which arrived at Sydney on 22 September.&lt;ref name=Port/&gt; She then joined Convoy HX 310, which had departed from New York on 21 September and arrived at Liverpool on 5 October. She was carrying a cargo of [[flour]].&lt;ref name=HX310&gt;{{cite web |url=http://www.convoyweb.org.uk/hx/index.html?hx.php?convoy=310!~hxmain |title=Convoy HX.310 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy at the Clyde, arriving on 5 October.&lt;ref name=Port/&gt;
+
+''Empire Deed'' departed from the Clyde on 2 November to join Convoy OS94KM,&lt;ref name=Port/&gt; which departed from Liverpool on 3 November and split at sea on 7 November. Her cargo consisted ammunition, toxic stores and vehicles.&lt;ref name=OS94KM&gt;{{cite web |url=http://www.convoyweb.org.uk/os/index.html?os.php?convoy=94KM!~osmain |title=Convoy OS.94 / KMS.68 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She was in the part of the convoy that became Convoy KMS 68G, which arrived at Gibraltar on 12 November.&lt;ref name=Port/&gt; She then joined Convoy KMS 68, which departed on 13 November and arrived at Port Said on 24 November. She left the convoy at Augusta,&lt;ref name=KMS68&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=68!~kmsmain |title=Convoy KMS.68 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; where she arrived on 18 November. She departed the next day as a member of Convoy AH 80, which arrived at Bari on 22 November. ''Empire Deed'' departed from Bari on 2 December for Gibraltar, arriving on 7 December. She departed on 13 December for [[Freetown]], [[Sierra Leone]], where she arrived on 22 December, departing six days later for [[Takoradi]], [[Gold Coast (British colony)|Gold Coast]], where she arrived on 31 December.&lt;ref name=Port/&gt;
+
+====1945====
+''Empire Deed'' departed form Takoradi on 5 January 1945 for [[Casablanca]], [[Morocco]], arriving on 17 January. She departed from Casablanca three days later to join Convoy MKS 78G,&lt;ref name=Port/&gt; which departed from Gibraltar on 21 January and arrived at Liverpool on 29 January. She was carrying a cargo of [[manganese ore]].&lt;ref name=MKS78G&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=78G!~mksmain |title=Convoy |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; Her destination was Southend, where she arrived on 29 January, departing that day as a member of Convoy FN1617,&lt;ref name=Port/&gt; which arrived at Methil on 31 January.&lt;ref name=FN1617&gt;{{cite web |url=http://www.convoyweb.org.uk/fn/index.html?fn.php?convoy=1617!~fnmain |title=Convoy FN.1617 = Convoy FN.17 / Phase 17 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; Her destination was [[Middlesbrough]], [[North Riding of Yorkshire|Yorkshire]], where she arrived on 30 January.&lt;ref name=Port/&gt;
+
+''Empire Deed'' departed from Middlesbrough on 14 February for the Tyne, arriving that day and departing three days later to join Convoy FS 1730,&lt;ref name=Port/&gt; which had departed from Methil on 16 February and arrived at Southend on 18 February.&lt;ref name=FS1730&gt;{{cite web |url=http://www.convoyweb.org.uk/fs/index.html?fs.php?convoy=1730!~fsmain |title=Convoy FS.1730 = Convoy FS.30 / Phase 18 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She the sailed to [[The Downs]], off the coast of [[Kent]] from where she sailed on 21 February to join Convoy ON 286,&lt;ref name=Port/&gt; which departed from Liverpool that day and arrived at New York on 9 March.&lt;ref name=ON286&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=286!~onzmain |title=Convoy ON.286 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; She left the convoy and sailed to [[Halifax Regional Municipality|Halifax]], [[Nova Scotia]], Canada, arriving on 7 March. She departed three days later as a member of Convoy HF 169, which arrived at [[Saint John, New Brunswick]], Canada on 16 April. She departed from Saint Jon a fortnight later for New York, arriving on 2 May and departing the next day for the Hampton Roads, where she arrived on 5 May.&lt;ref name=Port/&gt;
+
+===Post war===
+''Empire Deed'' departed from the Hampton Roads on 8 May 1945 as a member of Convoy UGS 91, which dispersed at sea on 23 May.&lt;ref name=UGS91&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=91!~ugsmain |title=Convoy UGS.91 |publisher=Convoyweb |accessdate=8 June 2011}}&lt;/ref&gt; Her destination was [[Haifa]], [[British Mandate for Palestine|Palestine]], where she arrived on 31 May. She departed from Haifa on 12 June for Port Said and [[Suez]], Egypt, from where she departed on 22 June for [[Aden]], arriving on 28 June and departing that day for [[Calcutta]], [[British India|India]], where she arrived on 21 July. ''Empire Deed'' departed from Calcutta on 19 August for [[Durban]], [[South Africa]], where she arrived on 29 September.&lt;ref name=Port/&gt;
+
+In 1946, ''Empire Deed'' was sold to the Sussex Steamship Co Ltd and was renamed ''Deed''. She was operated under the management of S G Embiricos Ltd, London. In 1951, ''Deed'' was sold to Compagnia Navigazione Doro, [[Panama]] and was renamed ''Doro''. In 1956, ''Doro'' was sold to Z L Cambanis &amp; others, [[Piraeus]], [[Greece]] and was renamed ''Leonidas Cambanis''.&lt;ref name=Ships/&gt;
+
+In 1964, ''Leonidas Cambanis'' was sold to the Reliance Marine Corporation, [[Liberia]] and was renamed ''Ever Fortune''. She was sold later that year to the First Steamship Co Ltd, [[Taipeh]], [[Taiwan]] and was renamed ''Ever Happiness''. She served until 1966,&lt;ref name=Mariners&gt;{{cite web |url=http://www.mariners-l.co.uk/EmpireD.html |title=EMPIRE - D - E |publisher=Mariners |accessdate=7 June 2011}}&lt;/ref&gt; and was scrapped in April 1967 at [[Kaohsiung]], Taiwan.&lt;ref name=Ships/&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.photoship.co.uk/JAlbum%20Ships/Old%20Ships%20D/slides/Deed-01.html Photo of ''Deed'']
+
+{{Empire D ships}}
+
+{{DEFAULTSORT:Empire Deed}}
+[[Category:1943 ships]]
+[[Category:Wear-built ships]]
+[[Category:Empire ships]]
+[[Category:Ministry of War Transport ships]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Steamships of Panama]]
+[[Category:Merchant ships of Panama]]
+[[Category:Steamships of Greece]]
+[[Category:Merchant ships of Greece]]
+[[Category:Steamships of Liberia]]
+[[Category:Merchant ships of Liberia]]
+[[Category:Steamships of Taiwan]]
+[[Category:Merchant ships of Taiwan]]</text>
+      <sha1>c6ptztatasuww3rkp07i4na3raurz8h</sha1>
+    </revision>
+  </page>
+</mediawiki>

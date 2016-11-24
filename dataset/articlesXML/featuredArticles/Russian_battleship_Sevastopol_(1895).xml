@@ -1,0 +1,357 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian battleship Sevastopol (1895)</title>
+    <ns>0</ns>
+    <id>25823619</id>
+    <revision>
+      <id>746206727</id>
+      <parentid>746144286</parentid>
+      <timestamp>2016-10-25T22:49:28Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21894">{{for|the later ship of the same name|Russian battleship Sevastopol (1911)}}
+{{other ships|Sevastopol (ship)}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Sevastopol1904Port-Artur.jpg|300px|alt=A black and white picture of a ship at anchor with uniformed men to the ship's left side.]]
+| Ship caption = ''Sevastopol'' at [[Lüshunkou|Port Arthur]] in 1904
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = Russian Empire
+| Ship flag = {{shipboxflag|Russian Empire|naval}}
+| Ship name = ''Sevastopol''
+| Ship namesake = [[Siege of Sevastopol (1854–1855)|Siege of Sevastopol]]
+| Ship ordered =
+| Ship builder = New [[Admiralty Shipyard]], [[Saint Petersburg]], [[Russian Empire]]
+| Ship laid down =19 May 1892&lt;ref name=&quot;date-style&quot; group=&quot;lower-alpha&quot; /&gt;
+| Ship launched = 1 June 1895
+| Ship completed = 1899
+| Ship commissioned =
+| Ship decommissioned =
+| Ship in service = 1900
+| Ship out of service =
+| Ship struck =
+| Ship fate = [[Scuttled]] off [[Lüshunkou|Port Arthur]], 2 January 1905
+| Ship status =
+| Ship notes =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{sclass-|Petropavlovsk|battleship|0}} [[pre-dreadnought battleship]]
+| Ship displacement = {{convert|11842|LT|t|0|abbr=on}}
+| Ship length = {{convert|376|ft|m|abbr=on}}
+| Ship beam = {{convert|70|ft|m|abbr=on}}
+| Ship draft = {{convert|28|ft|3|in|m|abbr=on}}
+|Ship power=*{{convert|10600|shp|abbr=on|lk=in}}
+*16 cylindrical coal-fired [[boiler (steam generator)|boilers]]
+| Ship propulsion =* 2 shafts
+* 2 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]
+  
+| Ship speed = {{convert|16|kn|lk=in}}
+| Ship range = {{convert|3750|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+| Ship complement = 662
+| Ship armament =*  2 × twin {{convert|12|in|mm|0|abbr=on}} guns
+* 4 × twin, 4 × single {{convert|6|in|mm|0|abbr=on}} guns
+* 10 × single {{convert|47|mm|in|abbr=on}} guns
+* 28 × single {{convert|37|mm|in|abbr=on}} guns
+* 4 × {{convert|15|in|adj=on|0}} above-water [[torpedo tube]]s
+* 2 × {{convert|18|in|adj=on|0}} submerged [[torpedo tube]]s
+  
+| Ship armor =* [[Harvey armor]]
+* Belt: {{convert|8|-|12|in|mm|abbr=on|0}}
+* Turrets: {{convert|10|in|mm|abbr=on|0}}
+* Secondary turrets: {{convert|5|in|mm|abbr=on|0}}
+* Conning tower: {{convert|9|in|mm|abbr=on|0}}
+* Deck: {{convert|3|in|mm|abbr=on}}
+  
+| Ship notes =
+}}
+|}
+
+'''''Sevastopol''''' ({{lang-ru|Севастополь}}) was the last of three ships in the {{sclass-|Petropavlovsk|battleship|4}} of [[pre-dreadnought battleship]]s built for the [[Imperial Russian Navy]] in the 1890s.
+
+Named for the [[Siege of Sevastopol (1854–1855)|siege of Sevastopol]] during the [[Crimean War]], the ship was commissioned into the First Pacific Squadron of the [[Russian Pacific Fleet]] and was stationed at [[Port Arthur naval base|Port Arthur]] (today [[Lüshunkou District]], [[Dalian]], [[Liaoning]], China), a Russian naval base acquired from China in 1898 as part of the [[Kwantung Leased Territory]]. One of the first ships to use Harvey nickel-steel armor and Popov radios, she displaced {{convert|11854|LT|t|0}} at [[Full-load displacement|full load]] and was {{convert|369|ft|m|1}} long [[Length overall|overall]], and mounted a main battery of four {{convert|12|in|0|adj=on}} guns in two twin turrets. She was laid down in May 1892, launched on 1 June 1895 and completed in 1899. Her sea trials lasted until 1900.
+
+''Sevastopol'' saw service in the [[Russo-Japanese War]] of 1904–05. Slightly damaged during a surprise attack on Port Arthur in early February, the ship later participated in several attempts to break out from the besieged port. The most notable of these was the [[Battle of the Yellow Sea]], where she was damaged by several shells but managed to make it back to port with the remnants of the Russian Fleet, leaving one crewman dead and 62 wounded. Immediately after the [[Siege of Port Arthur|surrender of Port Arthur]], ''Sevastopol'' was [[scuttling|scuttled]] to prevent her capture by the [[Imperial Japanese Navy]]. The Japanese never raised her. The remains of the ship still lie outside the entrance to the port.
+
+== Design ==
+The first design for ''Sevastopol'' and her [[sister ship]]s of the {{sclass-|Petropavlovsk|battleship|4}} was approved in January 1891. She was to be an improved version of the battleship {{ship|Russian battleship|Imperator Nikolai I||2}}, but with most of her armament in [[barbettes]], including four {{convert|12|in|0|adj=on}} guns. The class was designed with a displacement of {{convert|10960|LT|t|0|abbr=on}} at full load.{{sfn|McLaughlin|p=85}} She had a full waterline [[Belt armor|belt]], and the upper hull featured a [[tumblehome]]. ''Imperator Nikolai I'' was chosen as a starting point for the design because of her good [[seakeeping]] and seaworthiness. Some characteristics were also copied from the {{ship|French battleship|Brennus||2|up=yes}} and the American {{sclass-|Indiana|battleship|2}}s, such as the [[flush deck|flush-deck]] hull and ''Brennus''{{'}} high [[Freeboard (nautical)|freeboard]].{{sfn|Forczyk|pp=15–16}}
+
+Following a redesign of the class, ''Sevastopol'' ceased to resemble ''Imperator Nikolai I''. The armor plating was changed before construction, and plans for the armament were modified while the ship was being built. The barbettes were replaced with [[gun turrets|turrets]], including [[wing turret]]s for some of the secondary {{convert|6|in|adj=on|0}} guns modeled after those on ''Brennus'', with electric hoists.{{sfn|Watts|p=43}} The propulsion was based on the machinery on {{ship|Russian battleship|Georgii Pobedonosets||2}}.{{sfn|McLaughlin|p=85}} ''Sevastopol'' had [[Harvey armor|Harvey nickel-steel]] armor imported from the United States.{{sfn|Forczyk|p=16}}
+
+== Characteristics ==
+''Sevastopol'' displaced {{convert|11842|LT|t|0}} and was {{convert|376|ft|m|1}} long [[Length overall|overall]]. She had a [[Beam (nautical)|beam]] of {{convert|70|ft|m|1}} and a maximum [[Draft (hull)|draft]] of {{convert|28|ft|3|in|m|1}}. She was powered by 16 cylindrical coal-burning [[boiler]]s, and could carry {{convert|1050|LT|t}} of coal. This gave her a range of {{convert|3750|nmi}} at a cruising speed of {{convert|10|kn|lk=in}}.{{sfn|McLaughlin|pp=84–85}} She had a crew of 662.{{sfn|Watts|p=44}}
+
+The ship's main armament consisted of a [[artillery battery|battery]] of four {{convert|12|in|0|adj=on|0}} guns in two twin turrets. This was supplemented by a secondary battery of twelve {{convert|6|in|0|adj=on|0}} guns. ''Sevastopol''{{'}}s armament was rounded out with ten {{convert|47|mm|in|1|sp=us|adj=on}} guns, twenty-eight {{convert|37|mm|in|1|sp=us|adj=on}} anti-[[torpedo boat]] guns, and six {{convert|14|in|adj=on|0}} [[torpedo tube]]s, four of which were submerged.{{sfn|Hore|p=116}}
+
+== Construction ==
+[[File:Sevastopol1900Kronshtadt.jpg|thumb|left|''Sevastopol'' at [[Kronshtadt|Kronstadt]] in 1900|alt=A black and white picture of a large ship with a small, lifeboat-sized ship in front of it.]]
+
+''Sevastopol'', named for the [[Siege of Sevastopol (1854–1855)|siege of Sevastopol]] during the [[Crimean War]], was laid down at the [[Admiralty Shipyard|Galernii Island shipyard]] in [[Saint Petersburg]] on 7 March 1892.{{sfn|Taras|p=25}} Construction was led by two engineers, E. P. Andruschenko and N. I. Afanasyev,{{sfn|Taras|p=25}} and began on 7 May 1892,{{sfn|Forczyk|p=15}} about the same time as the battleship {{ship|Russian battleship|Sissoi Veliky||2}} was laid down.{{sfn|Forczyk|p=15}} The ceremony was attended by [[Alexander III of Russia]] and then-[[Tsesarevich]] [[Nicholas II]].{{sfn|Taras|p=25}} ''Sevastopol'' was launched on 1 June 1895{{sfn|Gardiner, Chesneau &amp; Kolesnik|p=181}} and, after the completion of her hull and decks in 1898, was transferred to [[Kronstadt]] where her armor and guns were installed.{{sfn|Taras|p=25}} ''Sevastopol'' was finished in 1899{{sfn|Gardiner, Chesneau &amp; Kolesnik|p=181}} and Nikolai Chernishev became her captain, a post which he would retain until 17 March 1904, when [[Nikolai Essen]] assumed command.{{sfn|Forczyk|p=25}}
+
+== Service history ==
+''Sevastopol'' began her sea trials on 16 October 1899, and was commissioned after their conclusion into the Imperial Russian Navy. She and her sister ships were transferred to [[Lüshunkou District|Port Arthur]], which was then the port of the First Squadron of the [[Russian Pacific Fleet]].{{sfn|Balakin|p=17}} In September 1900, Popov radios were installed on ''Sevastopol'' and her sister [[Russian battleship Poltava (1894)|''Poltava'']], the first Russian battleships to have them.{{sfn|McLaughlin|p=90}}{{sfn|Forczyk|p=33}} They were also painted white, the same color as the other ships in the First Pacific Squadron.{{sfn|Balakin|p=10}} She then left for Port Arthur and arrived at on 13 April 1901. As Russia was not at war with any [[Far East]] countries at that time, ''Sevastopol'' stayed in port, inactive.{{sfn|McLaughlin|p=91}}
+
+=== Wartime service ===
+[[File:Battleships Petropavlosk, Sevastopol and Poltava.jpg|thumb|right|''Sevastopol'' (rear center) and her sisters|alt=A black and white shot of three large ships near a hill-like background, with several small skiffs in the foreground.]]
+
+In early February 1904, the Japanese Navy launched a surprise [[Battle of Port Arthur|attack on the Russian fleet at Port Arthur]]. ''Sevastopol'' was hit by one shell, either {{convert|6|in|0}} or {{convert|8|in|0}} in diameter, that wounded two men on her bridge. She soon turned in pursuit along with other ships of the Russian fleet, all firing their forward guns, but she failed to score any hits.{{sfn|Balakin|p=30}} On 26 March 1904, ''Sevastopol'' was accidentally rammed by {{ship|Russian battleship|Peresvet||2}}, damaging a propeller.{{sfn|McLaughlin|p=91}} After the attack on Port Arthur, the First Pacific Squadron tried to break out several times. During one attempt on 23 June, Admiral [[Wilgelm Vitgeft]], commanding the Pacific Fleet, retreated after encountering the Japanese fleet. Approaching the harbor, ''Sevastopol'' moved slightly out of formation and hit a mine that killed 11 and caused severe flooding, but managed to get inside the harbor and drop anchor.{{sfn|Balakin|p=52}}{{sfn|Spector|p=4}}{{sfn|Forczyk|p=47}} She was under repair for six weeks,{{sfn|Balakin|p=52}}{{sfn|Preston|p=39}} during which time a fire broke out on deck, killing two and wounding 28.{{sfn|McLaughlin|p=92}} The Russian battleships were too big to fit into the dry dock at Port Arthur, so large [[Caisson (engineering)|caissons]] were built to provide access to the ships' hulls.{{sfn|Balakin|p=44}} On 9 August, with the [[Third Army (Japan)|Japanese Third Army]] assaulting the outer defenses of Port Arthur, the First Pacific Squadron sortied from its base.{{sfn|Watts|p=21}} Even though ''Sevastopol'' was not fully repaired, she sailed with the rest of the fleet with one gun in her aft turret remaining inoperable.{{sfn|Forczyk|p=48}} They later engaged the Japanese fleet in what would become the [[Battle of the Yellow Sea]].{{sfn|Watts|p=21}}
+
+Although in the center of the Russian line during the battle, ''Sevastopol'' was only slightly damaged during the day. In the evening, the Russians massed their fire on the Japanese flagship {{ship|Japanese battleship|Mikasa||2}}, at that time {{convert|11|km|mi|sp=us}} away. The Japanese battleships returned fire{{sfn|Forczyk|p=50}} and ''Sevastopol'' suffered several shell hits to her superstructure, which killed one man and wounded 62 others.{{sfn|Forczyk|p=52}} A few minutes later, ''Mikasa'' was hit by two {{convert|12|in|0|adj=on}} shells and one {{convert|6|in|0|adj=on}} shell from {{ship|Russian battleship|Retvizan||2}} and ''Sevastopol'', which caused 40 casualties. Soon after that, when it seemed that the Russians would be able to escape to Vladivostok, two 12-inch shells from {{ship|Japanese battleship|Asahi||2}} penetrated the [[conning tower]] of the Russian flagship {{ship|Russian battleship|Tsesarevich||2}}, killing Vitgeft and the helmsman, severely wounding the captain, and causing the ship to come to a dead stop after executing a sharp turn. Thinking that this was a maneuver planned by Vitgeft, the Russian line started to execute the same turn, causing all of the ships directly behind ''Tsesarevich'', including ''Sevastopol'', to maneuver wildly to avoid hitting the stationary flagship. Prince Pavel Ukhtomski, second in command of the squadron, who was on the ''Peresvet'', proceeded to signal the other Russian ships via [[Flag semaphore|semaphore]] to steam back to Port Arthur, although the signals were only gradually recognized by ''Pobeda'', ''Poltava'', {{ship|Russian cruiser|Pallada|1899|2}} and ''Sevastopol''.{{sfn|Forczyk|pp=52–53}} ''Sevastopol'' had one {{convert|6|in|0|adj=on}} and two {{convert|47|mm|in|1|sp=us|adj=on}} guns knocked out during the battle.{{sfn|Sorokin}}
+
+Returning to Port Arthur on 10 August, the squadron found that the city was already under siege by the Japanese Third Army led by [[Baron]] [[Nogi Maresuke]]. On 23 August, ''Sevastopol'' bombarded a Japanese battery in an effort to escape along with nine smaller ships, but after she neutralized the battery, she returned to port after a Japanese lookout spotted the approaching ships. As she was maneuvering back into Port Arthur, she struck another mine and required repairs.{{sfn|Hore|p=116}} On 5 December the Third Army captured [[203 Hill|203 Meter Hill]], a crucial position that overlooked the harbor. From there, the Japanese were able to fire on ''Sevastopol'' and other ships of the First Pacific Squadron that had survived the Yellow Sea battle. The ships at that time were about {{convert|5.7|km|mi|sp=us}} away from the hill, placing them within range of Japanese shore artillery.{{sfn|Forczyk|p=54}} By 9 December four battleships and two cruisers had been sunk by the Japanese.  ''Sevastopol'', although hit five times by {{convert|11|in|0|adj=on}} shells, managed to move away from the western harbor and out of range of the guns to the minor harbor of White Wolf, where she could be defended by torpedo nets and booms.{{sfn|Forczyk|p=54}}{{sfn|Balakin|p=63}} Within the defensive surroundings of White Wolf, Essen started to plan a sortie through the blockade to Vladivostok or a rendezvous with the Second Pacific Squadron, at that time coaling at Madagascar.{{sfn|Balakin|p=63}}{{sfn|Spector|p=6}} At the same time, the commanding [[Gensui (Imperial Japanese Navy)|admiral]] of the [[Imperial Japanese Navy]], [[Togo Heihachiro]], as instructed by [[Emperor Meiji]] in Tokyo, ordered the destruction of the battleship by six waves of [[destroyer]]s, along with some torpedo boats that were launched from the {{ship|Japanese battleship|Fuji||2}} and ''Mikasa''.{{sfn|Balakin|p=52}}
+
+[[File:Port Arthur from Gold Hill.jpg|thumb|left|A view of the scuttled Russian ships at Port Arthur; ''Sevastopol'' is not visible.|alt=A black and white shot of several ships lying submerged underwater in various states of capsizing, a white building is shown in the right corner of the foreground.]]
+
+The torpedo boat and destroyer attacks lasted three weeks, during which 80 torpedoes were launched at ''Sevastopol''. Of these, four hit. The four successful torpedoes were launched on 18 December.{{sfn|Wood|p=187}} Three of them hit the torpedo nets that had been placed around the ship, while the other hit one of the ship's propellers. Although severely damaged, ''Sevastopol'' remained afloat and sank two destroyers and damaged six others, killing 35 sailors and five officers. A Japanese cruiser attempting to attack ''Sevastopol'' was sunk by a mine in the harbor.{{sfn|Hore|p=116}}{{sfn|Balakin|p=63}} When he received news of the surrender of the land fortifications on 2 January 1905, Essen decided to surrender, but scuttled the ship in {{convert|55|m|sp=us}} of water by opening the [[seacock]]s on one side so that the ship could not be salvaged by the Japanese.{{sfn|Hore|p=116}} His other option, a run to Vladivostok, had already been eliminated due to the damage to his propellers by the torpedo.{{sfn|Balakin|p=63}} For the act of scuttling ''Sevastopol'', Essen was awarded the [[Order of St. George]].{{sfn|Halpern|p=180}} Nevertheless, a dispatch from [[Tokyo]] reported that it sank as a result of a Japanese torpedo attack.{{sfn|''The Independent'' 1904}}
+
+Due to the depth of water in which she had sunk, and her position, ''Sevastopol'' was the only battleship that was not salvaged by the Japanese at Port Arthur. What remains of her is still outside the entrance to Port Arthur.{{sfn|Forczyk|p=54}} ''Poltava'', one of her sister ships, was also scuttled at Port Arthur and re-floated as the Japanese {{ship|Japanese battleship|Tango||2}}.{{sfn|Jung|p=19}}
+
+== Notes ==
+'''Footnotes'''
+{{reflist
+| group = lower-alpha
+| refs =
+&lt;ref name=&quot;date-style&quot;&gt;
+All dates used in this article are [[Old Style and New Style dates|New Style]].
+&lt;/ref&gt;
+
+}}
+
+'''Citations'''
+{{reflist|17em}}
+
+== References ==
+{{refbegin|30em}}
+
+'''Print sources'''
+* {{cite book
+  | last = Balakin
+  | first = Sergey
+  | year = 2004
+  | title = Морские сражения. Русско-японская война 1904–1905.
+  | trans_title = Naval Battles of the Russo-Japanese War
+  | location = Moscow
+  | publisher = Maritime Collection
+  | language = Russian
+  | lccn = 2005429592
+  | ref = {{sfnRef|Balakin}}
+  }}
+* {{cite book
+  | last = Forczyk
+  | first = Robert
+  | year = 2009
+  | title = Russian Battleship vs Japanese Battleship, Yellow Sea 1904–05
+  | publisher = Osprey
+  | location = London, UK
+  | isbn = 978-1-84603-330-8
+  | ref = {{sfnRef|Forczyk}}
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Chesneau
+  | editor2-first = Roger
+  | editor3-last = Kolesnik
+  | editor3-first = Eugene M.
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships: 1860–1905
+  | location = London, UK
+  | publisher = Conway Maritime Press
+  | isbn = 978-0-85177-133-5
+  | ref = {{sfnRef|Gardiner, Chesneau &amp; Kolesnik}}
+  }}
+* {{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1994
+  | title = A Naval History of World War I
+  | publisher = UCL Press
+  | location = London, UK
+  | isbn = 978-1-85728-295-5
+  | ref = {{sfnRef|Halpern}}
+  }}
+* {{cite book
+  | last = Hore
+  | first = Peter
+  | year = 2006
+  | title = Battleships
+  | location = London, UK
+  | publisher = Lorena Books
+  | isbn = 978-0-7548-1407-8
+  | ref = {{sfnRef|Hore}}
+  }}
+* {{cite book
+  | last = Jung
+  | first = Dieter
+  | year = 1977
+  | title = Warships of the Imperial Japanese Navy 1869–1945
+  | publisher = Arms &amp; Armour Press
+  | location = London, UK
+  | isbn = 978-0-85368-151-9
+  | ref = {{sfnRef|Jung}}
+  }}
+* {{cite book
+  | last = McLaughlin
+  | first = Stephen
+  | year = 2003
+  | title = Russian &amp; Soviet Battleships
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-55750-481-4
+  | ref = {{sfnRef|McLaughlin}}
+  }}
+* {{cite book
+  | last = Preston
+  | first = Anthony
+  | year = 1978
+  | title = Warship
+  | url =
+  | volume = 2
+  | publisher = Conway Maritime Press
+  | location = London, UK
+  | isbn = 978-0-87021-976-4
+  | ref = {{sfnRef|Preston}}
+  }}
+* {{cite book
+  | last= Spector
+  | first = Ronald
+  | authorlink = Ronald H. Spector
+  | year = 2001
+  | title = At War at Sea: Sailors and Naval Combat in the Twentieth Century
+  | publisher = Penguin
+  | location = New York, New York
+  | isbn = 978-0-7567-5770-0
+  | ref = {{sfnRef|Spector}}
+  }}
+* {{cite book
+  | last = Taras
+  | first = Alexander
+  | year = 2000
+  | title = Корабли Российского императорского флота 1892–1917 гг.
+  | trans_title = Ships of the Imperial Russian Navy 1892–1917
+  | location = Minsk
+  | publisher = Kharvest
+  | series = Library of Military History
+  | language = Russian
+  | isbn = 978-985-433-888-0
+  | ref = {{sfnRef|Taras}}
+  }}
+* {{cite book
+  | last = Watts
+  | first = Anthony
+  | year = 1990
+  | title = The Imperial Russian Navy
+  | publisher = Arms and Armour Press
+  | location = London, UK
+  | isbn = 978-0-85368-912-6
+  | ref = {{sfnRef|Watts}}
+  }}
+* {{cite book
+  | last = Wood
+  | first = Oliver
+  | year = 1905
+  | title = From the Yalu to Port Arthur: An Epitome of the First Period of the Russo-Japanese War
+  | url = https://archive.org/details/cu31924023037520
+  | publisher = Kegan Paul, Trench, Trubner &amp; Co
+  | location = London, UK
+  | oclc = 225820117
+  | ref = {{sfnRef|Wood}}
+  }}
+
+'''Online sources'''
+* {{cite journal
+  | title = The War
+  | work = The Independent
+  | year = 1904
+  | volume = 57
+  | page = 1409
+  | publisher = Benedict, S.W.
+  | location = New York, New York
+  | url = https://books.google.com/books?id=RicPAQAAIAAJ&amp;pg=PA1409
+  | accessdate = 26 September 2010
+  | ref = {{sfnRef|''The Independent'' 1904}}
+  }}
+* {{cite web
+  | last = Sorokin
+  | first = Alexander
+  | title = Russo-Japanese War 1904–1905, Battle of the Yellow Sea
+  | publisher = Russian Navy
+  | language = Russian
+  | url = http://www.flot.com/history/si31.htm
+  | accessdate = 4 October 2011
+  | ref = {{sfnRef|Sorokin}}
+  }}
+{{refend}}
+
+{{Petropavlovsk class battleship}}
+{{Russo-JapaneseWarRussianShips}}
+{{1905 shipwrecks}}
+{{Use dmy dates|date=February 2011}}
+{{coord|38.8125|121.241667|display=title}}
+{{featured article}}
+
+{{DEFAULTSORT:Sevastopol}}
+[[Category:1895 ships]]
+[[Category:Ships built at Admiralty Shipyard]]
+[[Category:Articles created via the Article Wizard]]
+[[Category:Petropavlovsk-class battleships]]
+[[Category:Maritime incidents in 1905]]
+[[Category:Shipwrecks in the Yellow Sea]]
+[[Category:Shipwrecks of the Russo-Japanese War]]
+[[Category:Victorian-era battleships of Russia]]
+[[Category:Scuttled vessels]]</text>
+      <sha1>pd6rjxntyznbpxt47j6iujvjyn7q9xz</sha1>
+    </revision>
+  </page>
+</mediawiki>

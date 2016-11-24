@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>NAAS Chincoteague</title>
+    <ns>0</ns>
+    <id>41895170</id>
+    <revision>
+      <id>704872819</id>
+      <parentid>659527886</parentid>
+      <timestamp>2016-02-14T03:00:54Z</timestamp>
+      <contributor>
+        <username>Petebutt</username>
+        <id>3299145</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3801">{{Infobox airport
+| name         =NAAS Chincoteague
+| ensign       = 
+| ensign_size  =
+| ensign_alt   =
+| nativename   =
+| nativename-a =
+| nativename-r =
+| image        =NAAS Chincoteague VA NAN9-48.jpg
+| image-width  = &lt;!-- if less than 200 --&gt;
+| image_alt    =
+| caption      =Aerial view of NAAS Chincoteague in the mid-1940s
+| image2       =
+| image2-width = &lt;!-- if less than 200 --&gt;
+| image2_alt   =
+| caption2     =
+| IATA         =
+| ICAO         =
+| FAA          =
+| TC           =
+| LID          =
+| GPS          =
+| WMO          =
+| type         =
+| owner-oper   =
+| owner        =
+| operator     =[[United States Navy]] (transferred to NASA)
+| city-served  =
+| location     =
+| opened       = &lt;!-- {{start date|YYYY|MM|DD}} --&gt;
+| closed       = &lt;!-- {{end date|YYYY|MM|DD}} --&gt;
+| passenger_services_ceased = &lt;!-- {{end date|YYYY|MM|DD}} --&gt;
+| hub          =
+| focus_city   =
+| built        = 1943
+| used         = 1943 - 1959
+| commander    = &lt;!-- military airports --&gt;
+| occupants    = &lt;!-- military airports --&gt;
+| timezone     =
+| utc          =
+| summer       =
+| utcs         =
+| elevation-f  =
+| elevation-m  =
+| metric-elev  =
+| coordinates  =
+| latd  = 37 | latm  =56  | lats  = 26.66 | latNS  = N
+| longd = 75 | longm = 27 | longs = 44.98 | longEW = W
+| coordinates_type       =
+| coordinates_region     =
+| coordinates_notitle    =
+| website                = &lt;!-- {{URL|example.com}} --&gt;
+| image_map              =
+| image_mapsize          =
+| image_map_alt          =
+| image_map_caption      =
+| pushpin_map            =
+| pushpin_mapsize        =
+| pushpin_map_alt        =
+| pushpin_map_caption    =
+| pushpin_relief         =
+| pushpin_image          =
+| pushpin_label          =
+| pushpin_label_position =
+| pushpin_mark           =
+| pushpin_marksize       =
+| r1-number    =22/04
+| r1-length-f  =8,750
+| r1-length-m  =2,670
+| r1-surface   =  asphalt
+| r2-number    =28/10
+| r2-length-f  =8,000
+| r2-length-m  =2,440
+| r2-surface   =  asphalt
+| r3-number    =35/17
+| r3-length-f  =4,800
+| r3-length-m  =1,465
+| r3-surface   = asphalt
+| metric-rwy   =
+| h1-number    =
+| h1-length-f  =
+| h1-length-m  =
+| h1-surface   = &lt;!-- up to h12 --&gt;
+| stat1-header =
+| stat1-data   = &lt;!-- up to stat4 --&gt;
+| stat-year    =
+| footnotes    =
+}}
+'''NAAS Chincoteague''' was a [[U.S. Navy]] Auxiliary Air Station near [[Chincoteague Island]], Virginia. In 1941, the United States entered [[World War II]]; early the following year, the Germans torpedoed two merchant ships off the [[Assateague]] coast.  To guard the coast, the United States Army established two small posts on Virginia's Eastern Shore, one each at [[Accomac, Virginia|Accomac]] and Chincoteague. The Navy established the Chincoteague Naval Auxiliary Air Station in 1943, across from Chincoteague on the mainland.  One young pilot being trained there, future president [[George Herbert Walker Bush]], got in trouble for &quot;buzzing&quot; the house of a young woman he had met at a dance.&lt;ref name=Mariner&gt;* {{cite book
+  | last = Mariner
+  | first = Kirk
+  | origyear = 1996
+  | year = 2010
+  | edition = 3rd
+  | title = Once Upon an Island: The History of Chincoteague
+  | publisher = Miona Publications
+  | location = Onancock, VA
+  | isbn = 0-9648393-3-4
+  | ref = 
+  }}
+&lt;/ref&gt;
+
+In 1959, NASA acquired the former Naval Auxiliary Air Station Chincoteague, and engineering and administrative activities were moved to this location. In 1974, the Wallops Station was named [[Wallops Flight Center]]. The name was changed to [[Wallops Flight Facility]] in 1981, when it became part of [[Goddard Space Flight Center]].
+
+==References==
+{{reflist}}
+
+[[Category:Chincoteague, Virginia]]
+[[Category:Military facilities in Virginia]]
+[[Category:Former Air Force Stations of the United States]]
+[[Category:1941 establishments in Virginia]]</text>
+      <sha1>m1cyny0ogh6sj8fzb43t8o6j0bilt87</sha1>
+    </revision>
+  </page>
+</mediawiki>

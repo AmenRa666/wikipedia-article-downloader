@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>6.5×53mmR</title>
+    <ns>0</ns>
+    <id>41227051</id>
+    <revision>
+      <id>745836017</id>
+      <parentid>715964332</parentid>
+      <timestamp>2016-10-23T16:39:51Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3728">{{merge|6.5×54mm_Mannlicher–Schönauer|discuss=Talk:6.5×53mmR#Merger proposal|date=April 2016}}
+{{Infobox Firearm Cartridge
+|name= 6.5×53mmR
+|image= [[File:6.5x53 Mannlicher.jpg|300px]]
+|caption= Military cartridge
+|origin= {{flagicon|Austria-Hungary}} [[Austria-Hungary]]&lt;ref name=mca/&gt;
+|type= [[Rifle|Military rifle cartridge]]&lt;ref name=mca/&gt;
+&lt;!-- Service history --&gt;
+|service= 1893-1945
+|used_by=[[Netherlands]]&lt;ref name=rir/&gt;&lt;br&gt;[[Romania]]&lt;ref name=cfc/&gt;&lt;br&gt;[[Kingdom of Portugal]]&lt;ref name=&quot;Peterson2011&quot;&gt;{{cite book|author=Philip Peterson|title=Standard Catalog of Military Firearms: The Collector's Price and Reference Guide|url=https://books.google.com/books?id=Pno1p5I7FEUC&amp;pg=PA283|date=20 July 2011|publisher=Gun Digest Books|isbn=1-4402-1451-4|page=283}}&lt;/ref&gt;
+|wars= [[Aceh War]] &lt;br&gt; [[World War I]]&lt;ref name=cfc/&gt;&lt;br&gt;[[World War II]]&lt;ref name=rir/&gt;
+&lt;!-- Production history --&gt;
+|designer= 
+|design_date= 1892&lt;ref name=cfc/&gt;
+|manufacturer=
+|production_date=
+|number= 
+|variants= 
+&lt;!-- Specifications --&gt;
+|is_SI_specs=yes
+|parent=
+|case_type=[[Rim (firearms)|Rimmed]], bottleneck&lt;ref name=mmj&gt;{{cite book |last=Johnson |first=Melvin M., Jr. |authorlink =Melvin Johnson |title =Rifles and Machine Guns |publisher =William Morrow &amp; Company |volume = |edition = |date =1944 |location =New York |pages =384 |isbn =}}&lt;/ref&gt;
+|bullet=6.65
+|neck=7.55
+|shoulder=10.75
+|base=11.48
+|rim_dia=13.4
+|rim_thick=1.25
+|case_length=53
+|length=
+|case_capacity=
+|rifling=
+|primer=
+|max_pressure=
+|max_cup=
+|filling=
+|filling_weight=
+|detonation=
+|yield=
+&lt;!-- Ballistic performance --&gt;
+|is_SI_ballistics=
+|bwunit=grain
+|bw1=159
+|btype1=RN
+|vel1=2433
+|en1=2050
+|bw2=
+|btype2=
+|vel2=
+|en2=
+|bw3=
+|btype3=
+|vel3=
+|en3=
+|bw4=
+|btype4=
+|vel4=
+|en4=
+|bw5=
+|btype5=
+|vel5=
+|en5=
+|test_barrel_length=
+|balsrc= ''Rifles and Machine Guns''&lt;ref name=mmj/&gt;&lt;br&gt; ''.256 Mannlicher / 6.5x53R Reloading Data''&lt;ref&gt;{{cite web |url=http://www.loaddata.com/members/search_detail.cfm?MetallicID=1078 |title=.256 Mannlicher / 6.5x53R Reloading Data  |last= |first= |website=Load Data |publisher= |accessdate=29 November 2013 }}&lt;/ref&gt;
+}}
+
+The '''6.5×53mmR''' or '''.256 Mannlicher''' is a late 19th-century rimmed [[centerfire]] military rifle [[Cartridge (firearms)|cartridge]] similar to other early [[smokeless powder]] designs. It was the first of a series of {{convert|6.5|mm|in|sing=on}} [[Steyr Mannlicher|Mannlicher]] cartridges&lt;ref name=mca&gt;{{cite web |url=http://www.mannlicher.org/aboutmannlichers |title=A Mannlicher Introduction |last= |first= |website=Mannlicher Collectors Association |publisher= |accessdate=29 November 2013 }}&lt;/ref&gt; and became the standard [[Romania]]n [[service rifle]] cartridge from 1893 to 1938,&lt;ref name=cfc&gt;{{cite web |url=http://www.carbinesforcollectors.com/romania1.html |title=The Rifles of Romania 1878-1948  |last=Reynolds |first=Dan |website=Carbines for Collectors |publisher= |accessdate=29 November 2013 }}&lt;/ref&gt; and the standard [[Netherlands|Dutch]] [[Dutch Mannlicher|service rifle]] cartridge from 1895 to 1945.&lt;ref name=rir&gt;{{cite web |url=http://milpas.cc/rifles/ZFiles/Rifles%20of/Rifles%20of%20The%20East%20Asia%20Co.htm |title=Reissued Rifles of &quot;The East Asia Co-Prosperity Sphere&quot;  |last=Reynolds |first=Dan |website= |publisher= |accessdate=29 November 2013 }}&lt;/ref&gt;
+
+==Gallery==
+
+&lt;gallery widths=300px heights=300px&gt;
+File:Dutch Mannlicher en-bloc clip.jpg|Empty [[Dutch Mannlicher]] [[en-bloc clip]]
+File:1911 Britannica - Cartridges.png|Comparison of [[.303 British]] with .256 Mannlicher
+&lt;/gallery&gt;
+
+==See also==
+* [[Table of handgun and rifle cartridges]]
+
+==References==
+&lt;references/&gt;
+
+{{DEFAULTSORT:6.5x53mmR}}
+[[Category:Pistol and rifle cartridges]]
+[[Category:Military cartridges]]</text>
+      <sha1>n309u42jcd6peo86uflp1ukoeh1228n</sha1>
+    </revision>
+  </page>
+</mediawiki>

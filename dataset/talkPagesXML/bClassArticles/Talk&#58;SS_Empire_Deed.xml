@@ -1,0 +1,70 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:SS Empire Deed</title>
+    <ns>1</ns>
+    <id>32017514</id>
+    <revision>
+      <id>434920718</id>
+      <parentid>433537829</parentid>
+      <timestamp>2011-06-18T12:02:03Z</timestamp>
+      <contributor>
+        <username>DYKUpdateBot</username>
+        <id>11745509</id>
+      </contributor>
+      <comment>Article appeared on [[WP:Did you know|DYK]] on 18 June 2011, adding {{[[Template:Dyktalk|dyktalk]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="907">{{WPSHIPS|class=b|B1=y|B2=y|B3=y|B4=y|B5=y}}
+{{WPMILHIST|class=b|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=y|British=y|WWII=y}}
+{{dyktalk|18 June|2011|entry=... that the [[SS Empire Deed|'''SS ''Empire Deed''''']], a [[United Kingdom|British]] [[Second World War]] cargo ship, ended up being sold in turn to shipping companies in [[Panama]], [[Greece]], [[Liberia]] and [[Taiwan]]?}}
+
+==Ref error==
+OK, I'm stumped. Refs #4 and #5 should both work. They both have the same name and are both from the same source. I've tried but can't seem to get them to work at all. Anyone know what the problem is? [[User:Mjroots|Mjroots]] ([[User talk:Mjroots|talk]]) 08:40, 8 June 2011 (UTC)
+:{{User|Korrawit}} [http://en.wikipedia.org/w/index.php?title=SS_Empire_Deed&amp;action=historysubmit&amp;diff=433197457&amp;oldid=433173390 fixed it]! Barnstar awarded. [[User:Mjroots|Mjroots]] ([[User talk:Mjroots|talk]]) 15:49, 8 June 2011 (UTC)</text>
+      <sha1>en9ttl4ufifqj38l24cipsjk7x8zw8h</sha1>
+    </revision>
+  </page>
+</mediawiki>

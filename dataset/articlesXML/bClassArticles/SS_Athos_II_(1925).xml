@@ -1,0 +1,178 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Athos II (1925)</title>
+    <ns>0</ns>
+    <id>46256352</id>
+    <revision>
+      <id>725150542</id>
+      <parentid>714691530</parentid>
+      <timestamp>2016-06-13T21:47:58Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[:Category:Pages using citations with accessdate and no URL]] when perm identifier present (doi|bibcode|arxiv|pmid|jstor|isbn|issn|lccn|oclc|ismn|hdl): [[User talk:Tom.Reding#Access-date/no url maint|rem access-date]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11764">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[France]]
+|Ship flag=[[Image:Civil and Naval Ensign of France.svg|60px|Civil and naval ensign of France]]
+|Ship name=''Athos II''
+|Ship owner=Compagnie des Messageries Maritimes{{sfn|Lloyd's Register 1945—46}}
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship builder=[[AG Weser|Aktien-Gesellschaft „Weser&quot;]], Bremen{{sfn|Lloyd's Register 1945—46}}
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=12 November 1925{{sfn|''New York Evening Post'' (November 17, 1925)}}{{sfn|Swiggum &amp; Kohli 2012}}
+|Ship completed=January 1927{{sfn|Swiggum &amp; Kohli 2012}}
+|Ship christened=
+|Ship acquired=
+|Ship maiden voyage=25 March 1927{{sfn|Swiggum &amp; Kohli 2012}}
+|Ship in service=25 March 1927{{sfn|Swiggum &amp; Kohli 2012}}
+|Ship out of service=July 1959{{sfn|Swiggum &amp; Kohli 2012}}
+|Ship identification=
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage={{GRT|15276}}{{sfn|Lloyd's Register 1945—46}} {{DWT|10222}}{{sfn|MARAD Vessel Status Card: ''Athos II''}}
+
+|Ship displacement=
+|Ship length=*{{convert|543|ft|9|in|m|1|abbr=on}}{{sfn|Lloyd's Register 1945—46}}
+*{{convert|566|ft|m|1|abbr=on}} length between perpendiculars (as modified){{sfn|Smith|1947|p=240}}
+|Ship beam={{convert|66|ft|2|in|m|1|abbr=on}}{{sfn|Lloyd's Register 1945—46}}
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth={{convert|41|ft|4|in|m|1|abbr=on}}{{sfn|Lloyd's Register 1945—46}}
+|Ship decks=4{{sfn|Lloyd's Register 1945—46}}
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=2 DR geared steam turbines{{sfn|Lloyd's Register 1945—46}}4
+|Ship speed=*{{convert|17|knots|mph km/h|1}}{{sfn|Swiggum &amp; Kohli 2012}}
+*{{convert|19|knots|mph km/h|1}} after 1937 boiler refit{{sfn|Association French Lines}}
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+|}
+
+'''''Athos II''''' was a passenger and cargo liner for [[Compagnie des Messageries Maritimes]] making her maiden voyage from Marseilles 25 March 1927 starting on the line's Far East service serving Marseilles, Malaya, Indo-China, Hong Kong, Shanghai, Kobe and Yokohama. The ship, laid down in 1923 and launched 12 November 1925, had been completed by [[AG Weser|Aktien-Gesellschaft „Weser&quot;]], Bremen and delivered to the French as part of [[World War I reparations]].{{sfn|''New York Evening Post'' (November 17, 1925)}}{{sfn|Swiggum &amp; Kohli 2012}} After a 1937 refit, including boilers increasing speed to {{convert|19|knots|mph km/h|1}}, ''Athos II'' resumed Far East service.
+
+The ship started [[World War II]] in French national service until captured by the Allies in North Africa and then being turned over to the United States [[War Shipping Administration]] by [[Free French]] authorities at [[Casablanca]] for operation as a troop transport allocated to the United States Army until returned to the French government in March 1946.
+
+''Athos II'' transported French troops to [[French Indochina]], Korea, during the [[Suez Crisis|Suez intervention]] and lastly Algeria in the postwar years as well as a period carrying North African pilgrims to [[Jeddah]].{{sfn|Swiggum &amp; Kohli 2012}} 
+
+==World War II==
+===French national service===
+At the outbreak of World War II ''Athos II'' was still on the Far Eastern route but on 1 February 1940 at [[Colombo]], [[Sri Lanka|Celyon]] joined the Australian/New Zealand convoy, designated US1 for secrecy and transporting about 13,500 troops to North Africa, under an escort then led by {{HMS|Ramillies|07|6}}.{{sfn|Gill|1957|pp=84, 93—94}} After passage through the [[Suez Canal]] and return to France ''Athos II'' began Marseilles, Egypt and Syria service until the 22 June 1940 [[Armistice of 22 June 1940|German-French armistice]] when the ship was laid up at [[Alexandria, Egypt]] along with other French ships seized in the Suez Canal and Egyptian waters. In addition to the merchant ships was a French naval force, Force X, under Admiral [[Rene-Emile Godfroy]] that had been operating with the British fleet out of Alexandria.{{sfn|Titterton|Brown|2002|p=33}} After the [[Battle of France|fall of France]] with German controlled [[Vichy France]] controlling French ports the French were faced with the options of continuing with the Allies under [[Charles de Gaulle|General  de Gaulle]], demilitarizing or being sunk by the British.{{sfn|Titterton|Brown|2002|p=34}} The British action against the French fleet at [[Attack on Mers-el-Kébir|Oran]] stalled demilitarization but that resumed after further negotiations with the result reduction of French fleet's manpower, some 4,000 men, to one-third was required.{{sfn|Titterton|Brown|2002|p=34}} Two thousand French sailors had already left Alexandria when ''Athos II'' was allowed to sail on 13 July 1940 with the 1,000 remaining personnel of Force X and some merchant crew members to France.{{sfn|Titterton|Brown|2002|p=34}} In September 1940 repatriated French troops from [[Syria]] and then became the guard ship at [[Algiers]] until captured by the Allies in November 1942 during [[Operation Torch]].{{sfn|Swiggum &amp; Kohli 2012}}{{sfn|Association French Lines}}
+
+===Allied service with United States War Shipping Administration===
+On 8 March 1943 ''Athos II'' was turned over to United States War Shipping Administration (WSA) control by French Authorities at Casablanca and on 1 April 1943 began operation as a WSA transport allocated to the United States Army and operated by French Lines, Inc. as agent.{{sfn|MARAD Vessel Status Card: ''Athos II''}}&lt;ref group=note&gt;Though never bareboat chartered to or operated by the Army the association was such that the ship is sometimes seen as USAT ''Athos II''.&lt;/ref&gt;
+
+''Athos II'' underwent conversion May—November of 1943 for WSA troop service by Turbine Engineering Corporation of New York.{{sfn|Charles|1947|p=284}} In December the ship made a voyage to the United Kingdom, returning in January, 1944.{{sfn|Charles|1947|p=284}} On 21 January 1944 the ship left New York for the [[Southwest Pacific Theater|Southwest Pacific]] but engine trouble forced a return to Panama from the [[Galápagos Islands]] before again getting underway on 8 March.{{sfn|Charles|1947|p=284}} In continuing the round-the-world trip ''Athos II'' then called at [[Bora Bora]], [[Fremantle]], [[Bombay]], [[Cape Town]], departing 8 May but again having to undergo repairs until 9 June, crossing  the Atlantic to [[Recife]] to arrive 1 July 1944 in New York.{{sfn|Charles|1947|p=284}} Subsequent operations were between New York and [[Naples]], [[Le Havre]], [[Southampton]] and [[Plymouth]].{{sfn|Charles|1947|p=284}} After two round trips to Naples the ship underwent extensive repairs in New York before resuming operations in February 1945.{{sfn|Charles|1947|p=284}} On a return from a Le Havre and Southampton voyage the ship again suffered engine problems and had to put in to [[Horta, Azores]] in December 1945 where troops were transferred to {{USS|Enterprise|CV-6|6}}.{{sfn|Charles|1947|p=284}} ''Athos II'' returned to New York after repairs and was released from troop transport service January 1946 to be returned to French authorities by WSA.{{sfn|Charles|1947|p=284}}
+
+==Return to French service==
+On 23 March 1946 ''Athos II'' was turned over to the French Shipping Mission at New York.{{sfn|MARAD Vessel Status Card: ''Athos II''}} 
+
+== Footnotes ==
+{{reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+{{refbegin}}
+*{{cite web |url=http://www.frenchlines.com/ship_en_1031.php |title=Liner ''Athos II'' |last=Association French Lines |first= |date= |work= |publisher=Association French Lines |accessdate=28 March 2015  |ref={{sfnref|Association French Lines}}}}
+*{{cite book |last1=Charles |first1=Roland W. |title=Troopships of World War II |year=1947 |location=Washington  |publisher=The Army Transportation Association  |isbn= |lccn=47004779  |page=284 |url=http://www.history.army.mil/documents/WWII/wwii_Troopships.pdf |accessdate= |ref=harv}}
+*{{cite book |last=Gill |first=G. Hermon |authorlink= |coauthors= |title=Royal Australian Navy 1939-1942 |series=Australia in the War of 1939–1945. Series 2 – Navy |volume =1 |year=1957 |publisher=Australian War Memorial |location=Canberra |isbn= |lccn=58037940 |page= |pages= |url=http://www.awm.gov.au/histories/second_world_war/volume.asp?levelID=67910 |accessdate= |ref=harv}}
+*{{cite web |url=http://www.plimsollshipdata.org/pdffile.php?name=45a0120.pdf |title=Lloyd's Register 1945—46 |author=Lloyds |publisher=Lloyd's Register (through PlimsollShipData) |accessdate=28 March 2015  |ref={{sfnref|Lloyd's Register 1945—46}}}}
+*{{cite web |url=http://www.marad.dot.gov/sh/ShipHistory/Detail/6811 |title=''Athos II'' |author=Maritime Administration |date= |work=Ship History Database Vessel Status Card |publisher= U.S. Department of Transportation, Maritime Administration |accessdate= |ref={{sfnref|MARAD Vessel Status Card: ''Athos II''}}}}
+*{{cite news |title=Reparations Ship Launched |url=http://fultonhistory.com/newspaper%2011/New%20York%20Evening%20Post/New%20York%20NY%20Evening%20Post%201925%20Grayscale/New%20York%20NY%20Evening%20Post%201925%20Grayscale%20-%206262.pdf |format=pdf |newspaper=''The New York Evening Post'' |date=November 17, 1925 |accessdate=29 March 2015 |ref={{sfnref|''New York Evening Post'' (November 17, 1925)}}}}
+*{{cite book |last=Smith |first=Eugene W. |year=1947 |title=Trans-Atlantic Passenger Ships Past and Present |location=Boston |publisher=George H. Dean Company |isbn= |lccn=89894866 |page= |url= |ref=harv}}
+*{{cite web |url=http://www.theshipslist.com/ships/descriptions/ShipsAA.shtml |title=SHIP DESCRIPTIONS - A |last1=Swiggum  |first1=S. |last2=Kohli  |first2=M. |date=July 1, 2012 |work=The Ships List |publisher= |accessdate=28 March 2015  |ref={{sfnref|Swiggum &amp; Kohli 2012}}}}
+*{{cite book |last1=Titterton |first1=G. A. |last2=Brown |first2=David |year=2002 |title=The Royal Navy and the Mediterranean: September 1939 - October 1940 |series=The Royal Navy and the Mediterranean (Republication of Naval Staff History of the Second World War) |volume=1 |location=London |publisher=Whitehall History Pub. |isbn=0-7146-5179-6 |lccn=2001047640 |page= |url=https://books.google.com/books?id=nfIuyays74AC&amp;lpg=PA33&amp;pg=PA33#v=onepage&amp;q&amp;f=false |accessdate=29 March 2015 |ref=harv}}
+{{refend}}
+
+==External links==
+* [http://www.messageries-maritimes.org/athos2.htm L'ATHOS II] (extensive photographic collection)
+* [http://www.messageries-maritimes.org/athosII2.html Le retour de l'ATHOS II à la France début 1946]
+* [https://www.youtube.com/watch?v=qfysI5Y4g5k British Pathé silent film: French Volunteers For Korea (1950)] (close shots of ship and troops boarding)
+* [http://www.britishpathe.com/video/new-troops-in-algeria/query/01075100 British Pathé  silent film: New Troops In Algeria 1956] (Troops debarking ''Athos II'' in Algeria)
+* [http://digitalassets.ushmm.org/photoarchives/detail.aspx?id=1121109&amp;search=&amp;index=2 List of children on board the SS Athos II who came to the United States from Marseilles, France. All of them had been cared for by [[Œuvre de secours aux enfants|OSE]]] (United States Holocaust Memorial Museum)
+* [http://www.digipeer.de/index.php?media=DSM_VIII_1_IX_063&amp;size=3 Builder's hull drawings]
+* [http://www.digipeer.de/index.php?id=612794005 Builder's deck plan]
+
+{{DEFAULTSORT:Athos II}}
+[[Category:1925 ships]]
+[[Category:Passenger ships of France]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:Troop ships of the War Shipping Administration]]
+[[Category:Troop ships of France]]</text>
+      <sha1>bqg1s9ko53nye66epsym0fuwu6odkqr</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,166 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Washingtonian (1913)</title>
+    <ns>0</ns>
+    <id>18884607</id>
+    <revision>
+      <id>746947097</id>
+      <parentid>742725406</parentid>
+      <timestamp>2016-10-30T14:37:26Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>/* Service */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17730">{{Other ships|SS Washingtonian}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SS Washingtonian.jpg|300px|SS ''Washingtonian'' in port, c. 1914]]
+|Ship caption= SS ''Washingtonian'' in port, c. 1914
+}}
+{{Infobox ship career
+|Ship flag={{USN flag|1919}}
+|Ship name=''Washingtonian''
+|Ship owner=[[American-Hawaiian Steamship Company]]
+|Ship route=
+|Ship ordered=September 1911&lt;ref name=Cochran-358&gt;Cochran and Ginger, p. 358.&lt;/ref&gt;
+|Ship awarded=
+|Ship builder=*[[Maryland Steel]]
+*[[Sparrows Point, Maryland]]
+|Ship original cost$733000&lt;ref name=Cochran-365 /&gt;
+|Ship yard number=131&lt;ref name=Colton&gt;{{cite web|last=Colton |first=Tim |url=http://www.shipbuildinghistory.com/history/shipyards/1major/inactive/bethsparrowspoint.htm |title=Bethlehem Steel Company, Sparrows Point MD |work=Shipbuildinghistory.com |publisher=The Colton Company |accessdate=12 August 2008 |deadurl=unfit |archiveurl=https://web.archive.org/web/20081008154823/http://www.shipbuildinghistory.com/history/shipyards/1major/inactive/bethsparrowspoint.htm |archivedate=October 8, 2008 }}&lt;/ref&gt;
+|Ship way number=
+|Ship laid down=
+|Ship launched=11 October 1913&lt;ref name=Miramar&gt;{{cite web | url =http://www.miramarshipindex.org.nz/ship/list?IDNo=2211887&amp;search_op=OR| title = ''Washingtonian''| work = Miramar Ship Index | publisher = R. B. Haworth | accessdate = 12 August 2008 }}{{Subscription required}}&lt;/ref&gt;
+|Ship sponsor=
+|Ship christened=
+|Ship completed=16 January 1914&lt;ref name=Colton /&gt;
+|Ship maiden voyage=
+|Ship identification=U.S. official number: 211297&lt;ref name=Miramar /&gt;
+|Ship fate=sunk in collision, 26 January 1915
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Ship type=[[cargo ship]]
+|Ship tonnage={{GRT|6,649}}&lt;ref name=Cochran-365 /&gt;
+{{DWT|10,250|long}}&lt;ref name=Cochran-365 /&gt;
+|Ship length={{convert|360|ft|11|in|m|abbr=on}} ([[length between perpendiculars|LPP]])&lt;ref name=Miramar /&gt;
+|Ship beam={{convert|50|ft|2|in|m|abbr=on}}&lt;ref name=Miramar /&gt;
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship propulsion=*oil-fired boilers&lt;ref name=Cochran-357&gt;Cochran and Ginger, p. 357.&lt;/ref&gt;
+*1 × [[quadruple expansion steam engine|quadruple-expansion]] [[steam engine]]&lt;ref name=Miramar /&gt;
+*1 × [[screw propeller]]&lt;ref name=Cochran-357 /&gt;
+|Ship speed={{convert|12.5|knots|km/h}}&lt;ref name=Miramar /&gt;
+|Ship capacity={{convert|490858|cuft}}&lt;ref name=Cochran-365 /&gt;
+|Ship crew=40&lt;ref name=WP-big_ship&gt;{{cite news | title = Big ship sinks in crash | work = [[The Washington Post]] | date = 27 January 1915 | page = 3 }}&lt;/ref&gt;
+|Ship notes=Sister ships: {{SS|Minnesotan||2}}, {{SS|Dakotan||2}}, {{SS|Montanan||2}}, {{SS|Pennsylvanian||2}}, {{SS|Panaman||2}}, {{SS|Iowan||2}}, {{SS|Ohioan|1914|2}}&lt;ref name=Colton /&gt;
+}}
+|}
+'''SS ''Washingtonian''''' was a [[cargo ship]] [[ceremonial ship launching|launched]] in 1913 by the [[Maryland Steel Company]] of [[Sparrows Point, Maryland]], near [[Baltimore]],  as one of eight [[sister ship]]s for the [[American-Hawaiian Steamship Company]]. At the time of her launch, she was the largest cargo ship under American registry. During the [[United States occupation of Veracruz]] in April 1914, ''Washingtonian'' was [[chartering (shipping)|chartered]] by the [[United States Department of the Navy]] for service as a non-commissioned refrigerated supply ship for the U.S. fleet stationed off the Mexican coast.
+
+In January 1915, after a little more than one year of service, ''Washingtonian'' collided with the [[schooner]] ''Elizabeth Palmer'' off the [[Delaware]] coast and sank in ten minutes with the loss of her $1,000,000 cargo of {{convert|10000|LT|t|-2}} of raw [[Hawaii]]an [[sugar]]. In the days after ''Washingtonian''{{'}}s sinking, the price of sugar in the United States increased almost nine percent, partly attributed to the loss of ''Washingtonian''{{'}}s cargo.  Lying under approximately {{convert|100|ft|m}} of water, ''Washingtonian''{{'}}s wreck is one of the most popular recreational dive sites on the [[East Coast of the United States|eastern seaboard]].
+
+== Design and construction ==
+In November 1911, the [[American-Hawaiian Steamship Company]] placed an order with the [[Maryland Steel Company]] of [[Sparrows Point, Maryland]], for two new [[cargo ships]]—{{SS|Panaman||2}} and ''Washingtonian''.&lt;ref group=Note&gt;[[Maryland Steel Company|Maryland Steel]] had built three ships—{{SS|Kentuckian||2}}, ''Georgian'', and ''Honolulan''—for American-Hawaiian in 1909 in what proved to be a satisfactory arrangement for both companies, and in September 1911, American-Hawaiian placed an order for ''Washingtonian''{{'}}s four older sister ships—{{SS|Minnesotan||2}}, {{SS|Dakotan||2}}, {{SS|Montanan||2}}, and {{SS|Pennsylvanian||2}}.&lt;/ref&gt; The contract cost of the ships was set at the construction cost plus an eight percent profit for Maryland Steel, but capped at a maximum cost of $640,000 each. The construction was financed by Maryland Steel with a credit plan that called for a five percent down payment in cash and nine monthly installments for the balance. The deal had provisions that allowed some of the nine installments to be converted into longer-term notes or mortgages. The final cost of ''Washingtonian'', including financing costs, was $71.49 per [[deadweight tonnage|deadweight ton]], which totaled just under $733,000.&lt;ref name=Cochran-358 /&gt;
+
+''Washingtonian'' (Maryland Steel yard no. 131)&lt;ref name=Colton /&gt; was the second ship built under the contract. The ship was {{GRT|6,649|disp=long}},&lt;ref name=Cochran-365&gt;Cochran and Ginger, p. 365.&lt;/ref&gt; and was {{convert|360|ft|11|in|m}} in length ([[length between perpendiculars|between perpendiculars]]) and {{convert|50|ft|2|in|m}} [[beam (nautical)|abeam]].&lt;ref name=Miramar /&gt; She had a [[deadweight tonnage]] of {{DWT|10,250|long}},&lt;ref name=Cochran-365 /&gt; and, at the time of her launch, was the largest American-flagged cargo ship.&lt;ref name=NYT-two_ships&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9506E7DA1538E633A25754C2A9679C946496D6CF | format = PDF | title = Two big ships sink in collision at sea | work = [[The New York Times]] | date = 27 January 1915 | accessdate = 2008-08-15 | page = 1 }}&lt;/ref&gt; ''Washingtonian'' had a speed of {{convert|12.5|knots|km/h}},&lt;!-- speed --&gt;&lt;ref name=Miramar /&gt;&lt;ref name=&quot;Cochran-357&quot;/&gt; and was powered by a single [[steam engine]] with oil-fired [[boiler]]s which drove a single [[screw propeller]].&lt;!--oil-fired, single screw --&gt; ''Washingtonian''{{'}}s cargo holds, providing a storage capacity of {{convert|490858|cuft}},&lt;ref name=Cochran-365 /&gt; were outfitted with a complete refrigeration plant so she could carry perishable products from the West Coast to the East Coast, such as [[Pacific Northwest]] salmon or fresh produce from [[Southern California]] farms.&lt;!-- refrigeration details, salmon from Pac NW--&gt;&lt;ref name=NYT-two_ships /&gt;&lt;ref name=LAT-california_cargo&gt;{{cite news | title = California cargo of produce shipped to East | work = [[Los Angeles Times]] | date = 3 October 1914 | page = II–8 }}&lt;/ref&gt;&lt;!-- fruits from SoCal --&gt;
+
+== Service ==
+When ''Washingtonian'' began sailing for American-Hawaiian, the company shipped cargo from East Coast ports via the Tehuantepec Route to West Coast ports and [[Hawaii]], and vice versa. Shipments on the Tehuantepec Route arrived at Mexican ports—[[Salina Cruz]], Oaxaca, for eastbound cargo, and [[Coatzacoalcos]], [[Veracruz]], for westbound cargo—and traversed the [[Isthmus of Tehuantepec]] on the [[Tehuantepec National Railway]].&lt;ref&gt;Hovey, p. 78.&lt;/ref&gt; Eastbound shipments were primarily sugar and pineapple from [[Hawaii]], while westbound cargoes were more general in nature.&lt;ref name=Cochran-355-56&gt;Cochran and Ginger, p. 355–56.&lt;/ref&gt; ''Washingtonian'' sailed in this service, but it is not known whether she sailed on the east or west side of [[North America]].&lt;ref&gt;{{cite news | title = American-Hawaiian Steamship Co | work = Los Angeles Times | date = 13 April 1914 | page = I–4 }}&lt;/ref&gt;
+&lt;!--
+[[File:Ocupación estadounidense de Veracruz.jpg|thumb|left|The United States fleet is seen anchored at [[Veracruz (city)|Veracruz]]. SS ''Washingtonian'' served as a [[Chartering (shipping)|chartered]] refrigerator and supply ship for the fleet during the [[United States occupation of Veracruz|United States occupation]] in April 1914.]] --&gt;
+After the [[United States occupation of Veracruz]] on 21 April 1914 (which took place while six American-Hawaiian line ships were being held in various Mexican ports), the [[Victoriano Huerta|Huerta]]-led Mexican government closed the Tehuantepec National Railway to American shipping. This loss of access (the [[Panama Canal]] was not yet open until later that year) caused American-Hawaiian to return to its historic route of sailing around [[South America]] via the [[Strait of Magellan]] in late April.&lt;ref name=Cochran-360&gt;Cochran and Ginger, p. 360.&lt;/ref&gt; During the U.S. occupation, the ''Washingtonian'' was chartered by the [[United States Department of the Navy|U.S. Navy Department]] to serve as a non-commissioned refrigerator and supply ship for the U.S. naval fleet off Mexico. She was outfitted for her first voyage at the [[New York Navy Yard]] and sailed with {{convert|500000|lb|kg}} of fresh meat for the [[United States Navy]] and the [[United States Army|U.S. Army]].&lt;!-- New York Navy Yard--&gt;&lt;ref&gt;{{cite news | url = http://query.nytimes.com/mem/archive-free/pdf?res=9D00E7DE173AE633A2575BC2A9629C946596D6CF | format = PDF | title = New Washingtonian for supply ship | work = The New York Times | date = 28 April 1914 | accessdate = 2008-08-15 | page = 3 }}&lt;/ref&gt;&lt;ref name=WP_army_navy&gt;{{cite news | title = Army and Navy Gossip | work = The Washington Post | date = 3 May 1914 | page = E2 }}&lt;/ref&gt;&lt;!--US Navy, beef, other ships --&gt; ''Washingtonian'' sailed in a rotation with the commissioned Navy [[stores ship]]s {{USS|Culgoa|AF-3|6}} and {{USS|Celtic|AF-2|6}}.&lt;ref name=WP_army_navy /&gt;
+
+With the official opening of the [[Panama Canal]] on 15 August 1914, American-Hawaiian line ships switched to taking the isthmus canal route.&lt;ref name=Cochran-360 /&gt; In late August, American-Hawaiian announced that the ''Washingtonian''—her Navy charter ended by this time—would sail on a [[San Francisco]] – Panama Canal – [[Boston]] route, sailing opposite vessels {{SS|Mexican||2}}, ''Honolulan'', and sister ship ''Pennsylvanian''.&lt;ref&gt;{{cite news | title = Pacific-Boston sailings begun | work = [[The Christian Science Monitor]] | date = 29 August 1914 | page = 19 }}&lt;/ref&gt;
+
+''Washingtonian'' sailed from [[Los Angeles]] in early October with a load of [[California]] products—including canned and dried fruits, beans, and wine—for [[New York City]] and [[Boston]].&lt;ref name=LAT-california_cargo /&gt; After delivering that load, ''Washingtonian'' then headed for [[Honolulu, Hawaii]], to take on a {{convert|10000|LT|t|adj=on}} load of raw sugar valued at about $1,000,000. Departing Honolulu on 20 December, ''Washingtonian'' arrived at [[Balboa, Panama|Balboa]] on 17 January 1915 and transited the Panama Canal. Sailing from [[Cristóbal, Colón|Cristóbal]] on the eastern end two days later, she headed for the [[Delaware Breakwater]] en route to [[Philadelphia]].&lt;ref name=WP-big_ship /&gt;
+
+== Collision ==
+At 3:30 a.m. on 26 January, some {{convert|20|nmi|km}} from [[Fenwick Island, Delaware]], the American [[schooner]] ''Elizabeth Palmer''&lt;ref group=Note&gt;''Elizabeth Palmer'' was a five-masted, {{convert|300|ft|4|in|m|adj=on}} wooden schooner built in [[Bath, Maine]], in 1903, and considered one of the largest U.S. sailing ships at the time. See: Shomette, p. 207.&lt;/ref&gt; was under full sail at {{convert|8|knots|km/h}} on a [[southwest by south]] course. ''Elizabeth Palmer''{{'}}s captain saw a large steam vessel, ''Washingtonian'', on an apparent collision course ahead, but did not change course since navigational rules require steam-powered vessels to yield to vessels under sail power. The captain of ''Washingtonian'', two quartermasters, and a seaman were all on watch and saw ''Elizabeth Palmer'', but misjudged the schooner's rapid pace. When ''Washingtonian'', underway at {{convert|12|knots|km/h}}, did not change course or speed, ''Elizabeth Palmer'' collided with the starboard side of the steamer, leaving a large hole that sank ''Washingtonian'' ten minutes later. Less than a mile (2&amp;nbsp;km) away, ''Elizabeth Palmer'', with her [[jib|jib boom]] and the top of her [[foremast]] stripped away by the impact, began taking on water through her split seams. When it became apparent that the big schooner would sink, her captain ordered her abandonment, and she slowly settled and went down about an hour after the collision.&lt;ref&gt;Shomette, pp. 209–10.&lt;/ref&gt; After ''Washingtonian''{{'}}s crew abandoned ship, one crewman, a water tender, was found to be missing and was presumed drowned.&lt;ref name=WP-big_ship /&gt; ''Washingtonian''{{'}}s 39 survivors and all 13 crew members from ''Elizabeth Palmer'' were picked up  about an hour after the collision by the passenger liner ''Hamilton'' of the Old Dominion Line, which arrived at New York the next day.&lt;ref name=NYT-two_ships /&gt;
+
+The collision had repercussions for American-Hawaiian and the world sugar market. The financial impact of the collision on American-Hawaiian, estimated at $2,000,000, was devastating.&lt;ref&gt;Shomette, p. 211.&lt;/ref&gt;&lt;ref group=Note&gt;''Washingtonian''{{'}}s captain and the company were at fault because navigation rules required that steam-powered vessels yield to sail-powered vessels. See: Shomette, p. 209.&lt;/ref&gt; Contemporary news reports in ''[[The New York Times]]'' and ''[[The Wall Street Journal]]'' both told of the collision's impact on the sugar market. Claus A. Spreckels, president of Federal Sugar Refining, noted that the loss of even such a large cargo would not normally have much effect on the sugar market. However, weather in [[Cuba]], then the largest supplier of sugar for the United States, had reduced that island nation's crop by more than 200,000 tons&lt;!-- no indication if short tons or long tons--&gt;. Further affecting the situation was World War I, then ongoing in Europe,&lt;ref group=Note&gt;The still-neutral United States did not enter World War I until April 1917.&lt;/ref&gt; which had reduced the tonnage of shipping available to transport commodities like sugar.&lt;ref name=NYT-two_ships /&gt;&lt;ref&gt;{{cite news | title = Hawaiian liner carrying $1,000,000 raw sugar, sunk | work = [[The Wall Street Journal]] | date = 27 January 1915 | page = 3 }}&lt;/ref&gt; With all of these factors, the asking price for sugar [[futures contract]]s for February 1915 delivery was 2.90 cents per pound (6.39 cents per kg) a week before ''Washingtonian''{{'}}s sinking,&lt;ref&gt;{{cite news | title = Sugar | work = The Wall Street Journal | date = 21 January 1915 | page = 3 }}&lt;/ref&gt; but had risen to 3.16 cents per pound (6.96 cents per kg) the day after the sinking.&lt;ref&gt;{{cite news | title = Sugar | work = The Wall Street Journal | date = 28 January 1915 | page = 3 }}&lt;/ref&gt; 
+
+''Washingtonian''{{'}}s wreck, a skeletal framework of [[hull (watercraft)|hull]] plates and [[bulkhead (partition)|bulkhead]]s, lies upside down in about {{convert|100|ft|m}} of water,&lt;ref&gt;Shomette, p. 206.&lt;/ref&gt; and is one of the most-visited wreck sites along the eastern seaboard.&lt;ref&gt;Shomette, p. 212.&lt;/ref&gt;&lt;ref group=Note&gt;Lying about a mile away from that of ''Washingtonian'', the wreck of ''Elizabeth Palmer''—&quot;worm-eaten and disintegrating&quot;—is, in contrast, little visited. See: Shomette, p. 212.&lt;/ref&gt; A popular night dive, ''Washingtonian''{{'}}s wreck is also a favorite with sport divers catching [[lobster]].&lt;ref&gt;{{cite web | url = http://www.aquaventuresonline.com/wrecks.html#washingtonian | title = Popular wreck dives along our Delaware and Maryland coast: Washingtonian | publisher = Aqua Ventures | accessdate = 28 August 2008 }}&lt;/ref&gt;
+
+== Notes ==
+{{Reflist|group=Note}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite journal | last = Cochran | first = Thomas C. | authorlink = Thomas C. Cochran (historian) |author2=[[Ray Ginger]]  | title = The American-Hawaiian Steamship Company, 1899–1919 | journal = The Business History Review | volume = 28 | issue = 4 |date=December 1954 | pages = 343–365 | location = Boston | publisher = The President and Fellows of Harvard College | issn = 0007-6805 | oclc = 216113867 | doi = 10.2307/3111801 | jstor = 3111801 }}
+* {{cite journal | last = Hovey | first = Edmund Otis | title = The Isthmus of Tehuantepec and the Tehuantepec National Railway | journal = Bulletin of the American Geographical Society | volume = 39 | issue = 2 | year = 1907 | pages = 78–91 | location = New York | publisher = [[American Geographical Society]] | issn = 0190-5929 | oclc = 2097765 | doi = 10.2307/198380 | jstor = 198380 }}
+* {{cite book | last = Shomette | first = Donald | title = Shipwrecks, Sea Raiders, and Maritime Disasters Along the Delmarva Coast, 1632-2004 | location = Baltimore | publisher = Johns Hopkins University Press | year = 2007 | isbn = 978-0-8018-8670-6  | oclc = 77573873 }}
+{{Refend}}
+
+{{coord|38|27|28|N|74|40|34|W|display=title}}
+
+{{Featured article}}
+{{January 1915 shipwrecks}}
+{{Recreational dive sites}}
+
+{{DEFAULTSORT:Washingtonian}}
+[[Category:Ships built in Sparrows Point, Maryland]]
+[[Category:Merchant ships of the United States]]
+[[Category:Maritime incidents in 1915]]
+[[Category:Shipwrecks in the Atlantic Ocean]]
+[[Category:Shipwrecks of the Delaware coast]]
+[[Category:Wreck diving sites]]
+[[Category:Underwater diving sites in the United States]]
+[[Category:1913 ships]]
+[[Category:Cargo ships of the United States Navy]]
+[[Category:Ships sunk in collisions]]</text>
+      <sha1>m0ejv72skgam3i3ck0yh1zhs9tc7bdn</sha1>
+    </revision>
+  </page>
+</mediawiki>

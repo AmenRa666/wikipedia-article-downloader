@@ -1,0 +1,159 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Sandfly (1794)</title>
+    <ns>0</ns>
+    <id>27230363</id>
+    <revision>
+      <id>685241692</id>
+      <parentid>682938395</parentid>
+      <timestamp>2015-10-11T18:30:52Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8750">{{Other ships|HMS Sandfly}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = 
+| Ship caption             = 
+}}
+{{Infobox ship career
+| Hide header              = 
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[File:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+| Ship name                = HMS ''Sandfly''
+| Ship owner               =  
+| Ship ordered             = 3 February 1794
+| Ship builder             = Wells &amp; Co, [[Deptford]]
+| Ship original cost       = 
+| Ship laid down           = 1794
+| Ship launched            = 1794
+| Ship completed           = By 28 March 1795
+| Ship acquired            = 
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship in service          = 
+| Ship out of service      = 
+| Ship renamed             = 
+| Ship struck              = 
+| Ship reinstated          = 
+| Ship honours             = [[Naval General Service Medal (1847)|Naval General Service Medal]] with clasp &quot;Isle St. Marcou&quot;&lt;ref&gt;{{London Gazette|issue=20939|startpage=238|date=26 January 1849}}&lt;/ref&gt;
+| Ship captured            = 
+| Ship fate                = Broken up in 1803
+| Ship status              = 
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = &lt;ref name=Winfield&gt;Winfield (2008), p.374.&lt;/ref&gt;
+| Ship class               = [[Musquito class floating battery|''Musquito''-class]] [[floating battery]]
+| Ship tons burthen        = 306&lt;small&gt;{{fraction|3|94}}&lt;/small&gt; ([[Builder's Old Measurement|bm]])
+| Ship length              =*{{convert|80|ft|2|in|m|1|abbr=on}} (overall)
+*{{convert|56|ft|2+1/4|in|m|1|abbr=on}} (keel)
+| Ship beam                = {{convert|32|ft|1+1/4|in|m|1|abbr=on}}
+| Ship draught             = 
+| Ship hold depth          = {{convert|7|ft|11/2|in|m|1|abbr=on}} 
+| Ship propulsion          = Sails
+| Ship sail plan           = [[Topsail schooner]]
+| Ship complement          = 50
+| Ship armament            =*Upper deck: 2 x 24-pounder guns
+*[[Quarter deck|QD]]: 2 x 68-pounder [[carronade]]s
+| Ship notes               = 
+}}
+|}
+
+'''HMS ''Sandfly''''' was a [[Musquito class floating battery|''Musquito''-class]] [[floating battery]] of the [[Royal Navy]].  The two-vessel class was intended to defend the [[Îles Saint-Marcouf]] (Marcou) situated off the Normandy coast. During her brief career ''Sandfly'' shared in the capture of one [[privateer]] and participated in a battle that would earn her crew the Naval General Service Medal. The [[Peace of Amiens]] returned the islets to France in May 1802; ''Sandfly'' was paid off in June 1802 and broken up in 1803.
+
+==Design and role==
+
+'''HMS ''Sandfly''''' was one of two ships designed by [[Sidney Smith (Royal Navy officer)|Sir William Sidney Smith]], the other being [[Musquito class floating battery#Musquito|HMS ''Musquito'']], for deployment with his coastal squadron especially for the defence of the Îles Saint-Marcouf.&lt;ref name=Winfield/&gt;
+
+During her time in service, ''Sandfly'' was designated a sloop of 18 guns in order to increase her establishment. HMS ''Sandfly'' acted as the &quot;vessel of convenience&quot; for mustering the [[Royal Marines|marines]] and other troops on the East Island of St. Marcouf; HMS ''Badger'' acted in the same capacity for the West Island.&lt;ref name=Winfield/&gt;&lt;ref name=&quot;Colledge&quot;&gt;{{cite book |last=Colledge |title=Ships of the Royal Navy|page=309}}&lt;/ref&gt; 
+
+==Service==
+
+''Sandfly'' was commissioned in February 1795 under Lieutenant John Chilcott; the British occupied the islands in July 1795. On 7 September the French mounted an attack with 17 large boats filled with men. They retreated in confusion after coming under fire from the redoubts the British had erected on East Island and from the gunvessels,&lt;ref&gt;Barrow (1848),Vol. 1, p.175.&lt;/ref&gt; among them the [[Hoy (boat)|hoys]] {{HMS|Badger|1794|2}}, {{HMS|Serpent|1794|2}}, {{HMS|Shark|1794|2}}, and {{HMS|Hawke|1794|2}}. Lieutenant Richard Bourne replaced Chilcott on 12 February 1796. A year or so earlier he had served on both ''Musquito'' and ''Sandfly'' as a midshipman.&lt;ref name=USM67/&gt; 
+
+On 21 February 1797, ''Badger'', ''Sandfly'', and the [[hired armed vessels|hired armed]] [[cutter (ship)|cutters]] [[Hired armed cutter Champion|''Champion'']] and [[Hired armed cutter Fly|''Fly'']] captured the 16-gun [[chasse maree]] ''Souris''.&lt;ref&gt;''United service magazine'', No. 10, 1829, p.520.&lt;/ref&gt;&lt;ref&gt;{{London Gazette|startpage=999 |issue=14057|date=17 October 1797}}&lt;/ref&gt; Unlike her sister-ship [[French gun-vessel Eclair (1793)|''Eclair'']], which the British had captured in 1795, the Royal Navy did not take ''Souris'' into service.{{#tag:ref|''Souris'', was a chasse maree built in 1785 in southern Brittany for use as service craft in harbour construction at Cherbourg. Between October 1793 and January 1794, the French Navy converted her into a gun-vessel, originally of three 18 or 24-pounder guns, and commissioned her in February.&lt;ref&gt;Winfield and Roberts (2015), p. 276.&lt;/ref&gt;|group=Note}}  
+
+In August Bourne was confirmed in his rank of Lieutenant.&lt;ref name=USM67&gt;''United service magazine'', (November 1851), Vol. 67, p.431.&lt;/ref&gt; 
+
+{{main|Battle of the Îles Saint-Marcouf}}
+
+On 7 May 1798 the French made an attempt to capture the Marcou Islands. They sent a large flotilla of boats, including of 52 gun-brigs and flat-bottomed ones with troops), to mount the attack shortly before dawn. Lieutenant Charles Papp Price of ''Badger'' and Lieutenant Bourne of ''Sandfly'' mounted a successful defence during which the British destroyed a number of the attacking boats and captured and sent back one flat (landing craft).{{#tag:ref|Although a number of records report that the British captured the gunvessel ''Flibustier'', the letters from the action make no mention of this.&lt;ref name=LG15014/&gt; Laws's history of the battle, the most thorough account, also makes no mention of this.|group=Note}} Price was in command of a battery of 17 guns - four 4, two 6, and six 24-pounder long guns, and three 24, and two 32-pounder carronades - on the West Island,&lt;ref name=James&gt;James (1837), pp.115-6.&lt;/ref&gt; while Bourne was in command of a battery on East Island that consisted of ''Sandfly{{'}}''s 68-pounder carronades. Bourne fired shells in support of Price's battery, which entailed firing over West Island.&lt;ref&gt;Laws.&lt;/ref&gt; The French fired some 80 bow guns of 18 to 36 pounders for over two hours, but Price lost only one man killed and four wounded. The French lost some nine boats and sustained a large number of casualties from an attacking force that numbered an estimated 6-7,000 men.&lt;ref name=LG15014&gt;{{London Gazette|startpage=389|endpage=391|issue=15014|date=8 May 1798}}&lt;/ref&gt;
+
+{{HMS|Adamant|1780|2}} (50 guns), {{HMS|Eurydice|1781|2}} (24 guns), and {{HMS|Orestes|1781|2}} (18 guns) were on the station, but were not in a position to render assistance.&lt;ref name=LG15014/&gt; For their exertions both Price and Bourne received promotions to Commander.&lt;ref name=James/&gt; In 1847 the Admiralty awarded the Naval General Service Medal with clasp &quot;Iles St. Marcou&quot; to the three surviving claimants from ''Badger'' and ''Sandfly''.
+
+Lieutenant Thomas Marco took over command in February 1799. Lieutenant Samuel Thomas replaced Marco in December that year.&lt;ref name=Winfield/&gt;
+
+==Fate==
+When the British returned the islets to France in mid-May 1802, after the [[Peace of Amiens]], ''Sandfly'' was paid off in June. She was broken up in 1803.&lt;ref name=Winfield/&gt; 
+
+==Footnotes==
+;Notes
+{{reflist|group=Note}}
+;Citations
+{{Reflist|colwidth=30em}}
+==References==
+*Barrow, John (1848) ''The life and correspondence of Admiral Sir William Sidney Smith''. (Bentley). 
+*{{Colledge}}
+*{{cite book| last = James| first = William| authorlink = William James (naval historian)| year = 1837| title = The Naval History of Great Britain, from the Declaration of War by France in 1793, to the Accession of George IV.| publisher = R. Bentley}}
+*Laws, Lt. Col. M.E.S. &quot;The Defence of St. Marcouf&quot;, ''Journal of the Royal Artillery'', Vol. 75, No. 4, pp.298-307.([http://napoleonic-literature.com/RA_Journal/Def_of_St.Marcouf.pdf The Defence of St. Marcouf])
+*{{cite book |first=Rif|last=Winfield|title=[[British Warships in the Age of Sail|British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates]]|publisher=Seaforth Publishing|year=2007|isbn=1-86176-246-1}}
+*Winfield, Rif &amp; Stephen S Roberts (2015) ''French Warships in the Age of Sail 1786 - 1861: Design Construction, Careers and Fates''. (Seaforth Publishing). ISBN 9781848322042
+
+{{DEFAULTSORT:Sandfly (1795)}}
+[[Category:Sloops of the Royal Navy]]
+[[Category:1794 ships]]
+[[Category:Deptford-built ships]]</text>
+      <sha1>3b8vxwsg8mhxqiagti1srnyrw90kxfl</sha1>
+    </revision>
+  </page>
+</mediawiki>

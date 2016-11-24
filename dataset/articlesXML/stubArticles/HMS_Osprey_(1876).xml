@@ -1,0 +1,135 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Osprey (1876)</title>
+    <ns>0</ns>
+    <id>35295365</id>
+    <revision>
+      <id>742721879</id>
+      <parentid>685237086</parentid>
+      <timestamp>2016-10-05T11:04:35Z</timestamp>
+      <contributor>
+        <username>Nev1</username>
+        <id>2378092</id>
+      </contributor>
+      <comment>/* Bibliography */ DOI</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2619">{{otherships|HMS Osprey}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=HMS ''Osprey''
+|Ship namesake=[[Osprey]]
+|Ship builder=[[Sheerness Dockyard|Sheerness Royal Dockyard]]
+|Ship original cost=Hull £39,664, machinery £11,674
+|Ship laid down=1875
+|Ship launched=5 August 1876
+|Ship completed=19 April 1877
+|Ship commissioned=
+|Ship decommissioned=1889
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sold for [[ship breaking|scrap]], 29 April 1890
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Osprey class sloop|''Osprey''-class]] screw composite [[sloop-of-war|sloop]]
+|Ship displacement={{convert|1130|LT|t}}
+|Ship length={{convert|170|ft|m|abbr=on|1}} ([[Length between perpendiculars|p/p]])
+|Ship beam={{convert|36|ft|m|abbr=on|1}}
+|Ship draught={{convert|15|ft|9|in|m|abbr=on|1}}
+|Ship depth={{convert|19|ft|6|in|m|abbr=on|1}}
+|Ship power={{convert|946|ihp|lk=in|abbr=on}}
+|Ship propulsion=*1 shaft
+*1 × 2-cylinder horizontal [[Marine_steam_engine#Compound engine|compound expansion steam engine]]
+*3 × cylindrical [[boiler (steam generator)|boiler]]s
+|Ship speed={{convert|11|kn|lk=in}}
+|Ship range={{convert|1480|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=140
+|Ship sail plan=[[Barque]] rig
+|Ship armament=*2 × [[RML 7 inch gun|7-inch]] [[Muzzle-loading rifle|rifled muzzle-loading guns]]
+*4 × [[RML 64 pounder 64 cwt gun|6.3-inch 64-pounder]] rifled muzzle-loading guns
+|Ship notes=
+}}
+|}
+
+'''HMS ''Osprey''''' was an [[Osprey class sloop|''Osprey''-class]] [[sloop]] built for the [[Royal Navy]] in the mid-1870s.
+
+
+==References==
+{{reflist|2}}
+
+==Bibliography==
+*{{cite journal|last=Ballard|first=G. A.|date=1939|title=British Sloops of 1875: The Larger Ram-Bowed Type|journal=The Mariner's Mirror|publisher=Society for Nautical Research|location=Cambridge, UK|volume=25|pages=35–49|issue=January|doi=10.1080/00253359.1939.10657318}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|date=1979|isbn=0-8317-0302-4}}
+* {{winfield}}
+
+{{Osprey class sloop}}
+
+{{DEFAULTSORT:Osprey (1876)}}
+[[Category:Osprey-class sloops]]
+[[Category:Sheerness-built ships]]
+[[Category:1876 ships]]
+[[Category:Victorian-era sloops of the United Kingdom]]
+
+
+{{UK-mil-ship-stub}}</text>
+      <sha1>rf0dy18b7srdmckqn8u2algf0mnta8p</sha1>
+    </revision>
+  </page>
+</mediawiki>

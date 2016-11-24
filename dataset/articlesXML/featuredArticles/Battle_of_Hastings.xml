@@ -1,0 +1,353 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Hastings</title>
+    <ns>0</ns>
+    <id>44667</id>
+    <revision>
+      <id>750998544</id>
+      <parentid>750998495</parentid>
+      <timestamp>2016-11-22T19:21:26Z</timestamp>
+      <contributor>
+        <username>Julietdeltalima</username>
+        <id>22604547</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/95.145.160.135|95.145.160.135]] ([[User talk:95.145.160.135|talk]]) to last revision by Favonian. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="63531">{{pp-pc1}}
+{{featured article}}
+
+{{Other uses}}
+
+{{Use British English|date=June 2011}}{{Use dmy dates|date=June 2011}}
+{{Coord|50|54|43|N|0|29|15|E|region:GB_type:event|display=title}}
+{{Infobox military conflict
+| image      = [[File:Harold dead bayeux tapestry.png|300px]]
+| partof     = the [[Norman conquest of England]]
+| caption    = ''Harold Rex Interfectus Est'': &quot;King [[Harold Godwinson|Harold]] was killed&quot;. Scene from the [[Bayeux Tapestry]] depicting the Battle of Hastings and the death of Harold.
+| conflict   = Battle of Hastings
+| date       = 14&amp;nbsp;October 1066
+| place      = [[Battle, East Sussex|Battle]] near [[Hastings]], [[East Sussex]], England
+| result     = Decisive Norman victory
+| combatant1 = [[Duchy of Normandy|Normans]]
+| combatant2 = [[Anglo-Saxons|English]]
+| commander1 = [[William the Conqueror|William of Normandy]]&lt;br /&gt;[[Alan Rufus|Alan the Red]]&lt;br /&gt;[[William FitzOsbern, 1st Earl of Hereford|William fitzOsbern]]&lt;br /&gt;[[Eustace II, Count of Boulogne]]
+| commander2 = [[Harold Godwinson]]{{KIA}}&lt;br /&gt;[[Gyrth Godwinson]]{{KIA}}&lt;br /&gt;[[Leofwine Godwinson]]{{KIA}}
+| strength1  = Unknown, estimates range from 7,000 to 12,000
+| strength2  = Unknown, estimates range from 5,000 to 13,000
+| campaignbox = {{Campaignbox Norman Conquest}}
+{{Location map many | United Kingdom East Sussex
+| width = 308
+| float = right
+| caption = Site of Battle of Hastings in East Sussex
+| label1 = Battle
+| label1_size = 100
+| mark1 = Battle icon active (crossed swords).svg
+| mark1size = 20
+| lat1_deg = 50.914507
+| lon1_deg = 0.487790
+&lt;!-- Hastings --&gt;
+| label2 = Hastings
+| label2_size = 75
+| position2 = right
+| lat2_deg = 50.8563015
+| lon2_deg = 0.5728745 
+&lt;!-- Eastbourne --&gt;
+| label3 = Eastbourne
+| label3_size = 75
+| position3 = bottom
+| mark3 = Black pog.svg
+| lat3_deg = 50.77
+| lon3_deg = 0.28
+&lt;!-- Rye --&gt;
+| label4 = Rye
+| label4_size = 75
+| position4 = right
+| mark4 = Black pog.svg
+| lat4_deg = 50.95
+| lon4_deg = 0.73
+&lt;!-- Newhaven --&gt;
+| label5 = Newhaven
+| label5_size = 75
+| position5 = top
+| mark5 = Black pog.svg
+| lat5_deg = 50.80
+| lon5_deg = 0.06
+&lt;!-- Lewes --&gt;
+| label6 = Lewes
+| label6_size = 75
+| position6 = left
+| mark6 = Black pog.svg
+| lat6_deg = 50.875627
+| lon6_deg = 0.017855
+&lt;!-- Crowborough --&gt;
+| label7 = Crowborough
+| label7_size = 75
+| position7 = right
+| mark7 = Black pog.svg
+| lat7_deg = 51.06
+| lon7_deg = 0.16
+&lt;!-- Hailsham --&gt;
+| label8 = Hailsham
+| label8_size = 75
+| position8 = bottom
+| mark8 = Black pog.svg
+| lat8_deg = 50.86
+| lon8_deg = 0.26
+&lt;!-- Bexhill-on-Sea --&gt;
+| label9 = Bexhill-on-Sea
+| label9_size = 75
+| position9 = bottom
+| mark9 = Black pog.svg
+| lat9_deg = 50.85
+| lon9_deg = 0.47
+&lt;!-- Heathfield --&gt;
+| label10 = Heathfield
+| label10_size = 75
+| position10 = bottom
+| mark10 = Black pog.svg
+| lat10_deg = 50.97
+| lon10_deg = 0.26
+&lt;!-- Uckfield --&gt;
+| label11 = Uckfield
+| label11_size = 75
+| position11 = left
+| mark11 = Black pog.svg
+| lat11_deg = 50.97
+| lon11_deg = 0.
+&lt;!-- Seaford --&gt;
+| label12 = Seaford
+| label12_size = 75
+| position12 = bottom
+| mark12 = Black pog.svg
+| lat12_deg = 50.77
+| lon12_deg = 0.10
+&lt;!-- Peacehaven --&gt;
+| label13 = Peacehaven
+| label13_size = 75
+| position13 = left
+| mark13 = Black pog.svg
+| lat13_deg = 50.80
+| lon13_deg = 0.00
+}}}}
+The '''Battle of Hastings''' was fought on 14 October 1066 between the Norman-French army of [[William the Conqueror|William, the Duke of Normandy]], and an English army under the [[Anglo-Saxons|Anglo-Saxon]] King [[Harold Godwinson]], beginning the [[Norman conquest of England]]. It took place approximately {{convert|7|mi|km|abbr=off}} northwest of [[Hastings]], close to the present-day town of [[Battle, East Sussex]], and was a decisive [[Normans|Norman]] victory.
+
+The background to the battle was the death of the childless King [[Edward the Confessor]] in January 1066, which set up a succession struggle between several claimants to his throne. Harold was crowned king shortly after Edward's death, but faced invasions by William, his own brother [[Tostig Godwinson|Tostig]] and the Norwegian King [[Harald Hardrada]] (Harold III of Norway). Hardrada and Tostig defeated a hastily gathered army of Englishmen at the [[Battle of Fulford]] on 20 September 1066, and were in turn defeated by Harold at the [[Battle of Stamford Bridge]] five days later. The deaths of Tostig and Hardrada at Stamford Bridge left William as Harold's only serious opponent. While Harold and his forces were recovering, William landed his invasion forces in the south of England at [[Pevensey]] on 28 September 1066 and established a beachhead for his conquest of the kingdom. Harold was forced to march south swiftly, gathering forces as he went.
+
+The exact numbers present at the battle are unknown; modern estimates are around 10,000 for William and about 7,000 for Harold. The composition of the forces is clearer; the English army was composed almost entirely of [[infantry]] and had few [[Archery|archer]]s, whereas only about half of the invading force was infantry, the rest split equally between [[cavalry]] and archers. Harold appears to have tried to surprise William, but scouts found his army and reported its arrival to William, who marched from Hastings to the battlefield to confront Harold. The battle lasted from about 9&amp;nbsp;am to dusk. Early efforts of the invaders to break the English battle lines had little effect; therefore, the Normans adopted the tactic of pretending to flee in panic and then turning on their pursuers. Harold's death, probably near the end of the battle, led to the retreat and defeat of most of his army. After further marching and some skirmishes, William was crowned as king on Christmas Day 1066.
+
+There continued to be rebellions and resistance to William's rule, but Hastings effectively marked the culmination of William's conquest of England. Casualty figures are hard to come by, but some historians estimate that 2,000 invaders died along with about twice that number of Englishmen. William founded a monastery at the site of the battle, the high altar of the abbey church supposedly placed at the spot where Harold died.
+
+==Background==
+In 911, French [[Carolingian]] ruler [[Charles the Simple]] allowed a group of Vikings to settle in [[Normandy]] under their leader [[Rollo of Normandy|Rollo]].&lt;ref name=Bates8&gt;Bates ''Normandy Before 1066'' pp. 8–10&lt;/ref&gt; Their settlement proved successful,&lt;ref name=Normans15/&gt;{{efn|The Vikings in the region became known as the &quot;Northmen,&quot; from which &quot;Normandy&quot; and &quot;Normans&quot; are derived.&lt;ref name=Normans15&gt;Crouch ''Normans'' pp. 15–16&lt;/ref&gt;}} and they quickly adapted to the indigenous culture, renouncing [[paganism]], converting to [[Christianity]],&lt;ref name=Bates12&gt;Bates ''Normandy Before 1066'' p. 12&lt;/ref&gt; and intermarrying with the local population.&lt;ref name=Bates20&gt;Bates ''Normandy Before 1066'' pp. 20–21&lt;/ref&gt; Over time, the frontiers of the duchy expanded to the west.&lt;ref name=Capet53&gt;Hallam and Everard ''Capetian France'' p. 53&lt;/ref&gt; In 1002, King [[Æthelred the Unready|Æthelred II of England]] married [[Emma of Normandy|Emma]], the sister of  [[Richard II, Duke of Normandy]].&lt;ref name=Unready54&gt;Williams ''Æthelred the Unready'' p. 54&lt;/ref&gt; Their son [[Edward the Confessor]] spent many years in exile in Normandy, and succeeded to the English throne in 1042.&lt;ref name=Ruling3&gt;Huscroft ''Ruling England'' p. 3&lt;/ref&gt; This led to the establishment of a powerful Norman interest in English politics, as Edward drew heavily on his former hosts for support, bringing in Norman courtiers, soldiers, and clerics and appointing them to positions of power, particularly in the Church. Edward was childless and embroiled in conflict with the formidable [[Godwin, Earl of Wessex]] and his sons, and he may also have encouraged Duke William of Normandy's ambitions for the English throne.&lt;ref name=Unification86&gt;Stafford ''Unification and Conquest'' pp. 86–99&lt;/ref&gt;
+
+===Succession crisis in England===
+Following King Edward's death on 5 January 1066,&lt;ref name=Handbook29&gt;Fryde, et al. ''Handbook of British Chronology'' p. 29&lt;/ref&gt;{{efn|There is some slight confusion in the original sources about the exact date; it was most likely 5 January, but a few contemporaneous sources give 4 January.&lt;ref name=Edward250&gt;Barlow ''Edward the Confessor'' p. 250 and footnote 1&lt;/ref&gt;}} the lack of a clear heir led to a disputed succession in which several contenders laid claim to the throne of England.&lt;ref name=Death167&gt;Higham ''Death of Anglo-Saxon England'' pp. 167–181&lt;/ref&gt; Edward's immediate successor was the [[Earl of Wessex]], Harold Godwinson, the richest and most powerful of the English aristocrats and son of Godwin, Edward's earlier opponent. Harold was elected king by the [[Witenagemot]] of England and crowned by [[Archbishop of York]] [[Ealdred (archbishop of York)|Ealdred]], although Norman propaganda claimed that the ceremony was performed by [[Stigand]], the uncanonically elected [[Archbishop of Canterbury]].&lt;ref name=Death167/&gt;&lt;ref name=Walker136&gt;Walker ''Harold'' pp. 136–138&lt;/ref&gt; Harold was at once challenged by two powerful neighbouring rulers. Duke William claimed that he had been promised the throne by King Edward and that Harold had sworn agreement to this.&lt;ref name=BatesWilliam73&gt;Bates ''William the Conqueror'' pp. 73–77&lt;/ref&gt;  Harald III of Norway, commonly known as [[Harald Hardrada]], also contested the succession. His claim to the throne was based on an agreement between his predecessor [[Magnus I of Norway]] and the earlier King of England [[Harthacanute]], whereby, if either died without heir, the other would inherit both England and Norway.&lt;ref name=Death188&gt;Higham ''Death of Anglo-Saxon England'' pp. 188–190&lt;/ref&gt; William and Harald Hardrada immediately set about assembling troops and ships for separate invasions.&lt;ref name=Ruling12&gt;Huscroft ''Ruling England'' pp. 12–14&lt;/ref&gt;{{efn|Other contenders later came to the fore. The first was [[Edgar Ætheling]], Edward the Confessor's great nephew who was a patrilineal descendant of King [[Edmund II of England|Edmund Ironside]]. He was the son of Edward the Exile, son of Edmund Ironside, and was born in Hungary where his father had fled after the conquest of England by [[Canute the Great|Cnut]]. After his family's eventual return to England and his father's death in 1057,&lt;ref name=Huscroft96&gt;Huscroft ''Norman Conquest'' pp. 96–97&lt;/ref&gt; Edgar had by far the strongest hereditary claim to the throne, but he was only about thirteen or fourteen at the time of Edward the Confessor's death, and with little family to support him, his claim was passed over by the [[Witan]].&lt;ref name=Huscroft132&gt;Huscroft ''Norman Conquest'' pp. 132–133&lt;/ref&gt; Another contender was [[Sweyn II of Denmark]], who had a claim to the throne as the grandson of [[Sweyn I of Denmark|Sweyn Forkbeard]] and nephew of [[Canute the Great|Cnut]],&lt;ref name=Stafford86&gt;Stafford ''Unification and Conquest'' pp. 86–87&lt;/ref&gt; but he did not make his bid for the throne until 1069.&lt;ref name=Bates103&gt;Bates ''William the Conqueror'' pp. 103–104&lt;/ref&gt; [[Tostig Godwinson]]'s attacks in early 1066 may have been the beginning of a bid for the throne, but threw in his lot with Harald Hardrada after defeat at the hands of [[Edwin, Earl of Mercia|Edwin]] and [[Morcar of Northumbria|Morcar]] and the desertion of most of his followers he.&lt;ref name=Thomas33&gt;Thomas ''Norman Conquest'' pp. 33–34&lt;/ref&gt;}}
+
+===Tostig and Hardrada's invasions===
+{{Main|Battle of Fulford}}
+In early 1066, Harold's exiled brother [[Tostig Godwinson]] raided south-eastern England with a fleet he had recruited in [[Flanders]], later joined by other ships from [[Orkney]]. Threatened by Harold's fleet, Tostig moved north and raided in [[East Anglia]] and [[Lincolnshire]]. He was driven back to his ships by the brothers [[Edwin, Earl of Mercia]], and [[Morcar of Northumbria|Morcar, Earl of Northumbria]]. Deserted by most of his followers, he withdrew to Scotland, where he spent the middle of the year recruiting fresh forces.&lt;ref name=Harold144&gt;Walker ''Harold'' pp. 144–145&lt;/ref&gt; Hardrada invaded northern England in early September, leading a fleet of more than 300 ships carrying perhaps 15,000 men. Hardrada's army was further augmented by the forces of Tostig, who supported the Norwegian king's bid for the throne. Advancing on York, the Norwegians occupied the city after defeating a northern English army under Edwin and Morcar on 20 September at the [[Battle of Fulford]].&lt;ref name=Harold154&gt;Walker ''Harold'' pp. 154–158&lt;/ref&gt;
+
+==English army and Harold's preparations==
+{{Main|Battle of Stamford Bridge}}
+[[File:Battle Flat - geograph.org.uk - 285158.jpg|thumb|The location of the [[Battle of Stamford Bridge]]]]
+The [[Anglo-Saxon military organization|English army]] was organised along regional lines, with the ''[[fyrd]]'', or local levy, serving under a local magnate&amp;nbsp;– whether an [[earl]], bishop, or [[sheriff]].&lt;ref name=Source69/&gt; The ''fyrd'' was composed of men who owned their own land, and were equipped by their community to fulfil the king's demands for military forces.  For every five [[hide (unit)|hides]],&lt;ref name=Marren55/&gt; or units of land nominally capable of supporting one household,&lt;ref name=Dict154&gt;Coredon ''Dictionary of Medieval Terms and Phrases'' p. 154&lt;/ref&gt; one man was supposed to serve.&lt;ref name=Marren55&gt;Marren ''1066'' pp. 55–57&lt;/ref&gt; It appears that the [[Hundred (country subdivision)|hundred]] was the main organising unit for the ''fyrd''.&lt;ref name=Gravett28/&gt; As a whole, England could furnish about 14,000 men for the ''fyrd'', when it was called out. The ''fyrd'' usually served for two months, except in emergencies. It was rare for the whole national ''fyrd'' to be called out; between 1046 and 1065 it was only done three times, in 1051, 1052, and 1065.&lt;ref name=Marren55/&gt; The king also had a group of personal armsmen, known as [[housecarl]]s, who formed the backbone of the royal forces. Some earls also had their own forces of housecarls. [[Thegn]]s, the local landowning elites, either fought with the royal housecarls or attached themselves to the forces of an earl or other magnate.&lt;ref name=Source69&gt;Nicolle ''Medieval Warfare Sourcebook'' pp. 69–71&lt;/ref&gt; The ''fyrd'' and the housecarls both fought on foot, with the major difference between them being the housecarl's superior armour. The English army does not appear to have had a significant number of archers.&lt;ref name=Gravett28&gt;Gravett ''Hastings'' pp. 28–34&lt;/ref&gt;
+
+Harold had spent mid-1066 on the south coast with a large army and fleet waiting for William to invade. The bulk of his forces were militia who needed to harvest their crops, so on 8 September Harold dismissed the militia and the fleet.&lt;ref name=Harold145&gt;Walker ''Harold'' pp. 144–150&lt;/ref&gt; Learning of the Norwegian invasion he rushed north, gathering forces as he went, and took the Norwegians by surprise, defeating them at the [[Battle of Stamford Bridge]] on 25 September. Harald Hardrada and Tostig were killed, and the Norwegians suffered such great losses that only 24 of the original 300 ships were required to carry away the survivors. The English victory came at great cost, as Harold's army was left in a battered and weakened state.&lt;ref name=Harold158&gt;Walker ''Harold'' pp. 158–165&lt;/ref&gt;
+
+==William's preparations and landing==
+[[File:Pevensey castle.jpg|Interior ruins at [[Pevensey Castle]], some of which date to shortly after the Battle of Hastings&lt;ref name=Castles252&gt;Pettifer ''English Castles'' pp. 252–253&lt;/ref&gt;|thumb|left]]
+William assembled a large invasion fleet and an army gathered from Normandy and the rest of France, including large contingents from [[Brittany]] and Flanders.&lt;ref name=Bates79/&gt; He spent almost nine months on his preparations, as he had to construct a fleet from nothing.{{efn|The surviving ship list gives 776 ships, contributed by 14 different Norman nobles.&lt;ref name=Gravett20/&gt; This list does not include William's flagship, the ''Mora'', given to him by his wife, [[Matilda of Flanders]]. The ''Mora'' is depicted on the [[Bayeux Tapestry]] with a lion figurehead.&lt;ref name=Marren91/&gt;}} According to some Norman chronicles, he also secured diplomatic support, although the accuracy of the reports has been a matter of historical debate. The most famous claim is that Pope [[Pope Alexander II|Alexander II]] gave a papal banner as a token of support, which only appears in William of Poitiers's account, and not in more contemporary narratives.&lt;ref name=Huscroft120&gt;Huscroft ''Norman Conquest'' pp. 120–122&lt;/ref&gt; In April 1066 [[Halley's Comet]] appeared in the sky, and was widely reported throughout Europe. Contemporary accounts connected the comet's appearance with the succession crisis in England.&lt;ref name=Douglas181&gt;Douglas ''William the Conqueror'' p. 181 and footnote 1&lt;/ref&gt;{{efn|The comet's appearance was depicted on the [[Bayeux Tapestry]], where it is connected with Harold's coronation, although the appearance of the comet was later, from 24 April to 1 May 1066. The image on the tapestry is the earliest pictorial depiction of Halley's Comet to survive.&lt;ref name=Tapestry176&gt;Musset ''Bayeux Tapestry'' p. 176&lt;/ref&gt;}}
+
+William mustered his forces at [[Saint-Valery-sur-Somme]], and was ready to cross the English Channel by about 12 August.&lt;ref name=Douglas192&gt;Douglas ''William the Conqueror'' p. 192&lt;/ref&gt; But the crossing was delayed, either because of unfavourable weather or to avoid being intercepted by the powerful English fleet. The Normans crossed to England a few days after Harold's victory over the Norwegians, following the dispersal of Harold's naval force, and landed at [[Pevensey]] in Sussex on 28 September.&lt;ref name=Bates79/&gt;{{efn|Most modern historians agree on this date,&lt;ref name=Gravett50&gt;Gravett ''Hastings'' p. 50&lt;/ref&gt;&lt;ref name=Huscroft123&gt;Huscroft ''Norman Conquest'' p. 123&lt;/ref&gt;&lt;ref name=Feudal81&gt;Barlow ''Feudal Kingdom'' p. 81&lt;/ref&gt;&lt;ref name=Stenton591&gt;Stenton ''Anglo-Saxon England'' p. 591&lt;/ref&gt;&lt;ref name=Thomas35&gt;Thomas ''Norman Conquest'' p. 35&lt;/ref&gt;&lt;ref name=Douglas195&gt;Douglas ''William the Conqueror'' p. 195&lt;/ref&gt; although a few contemporary sources have William landing on 29 September.&lt;ref name=Lawson176&gt;Lawson ''Battle of Hastings'' p. 176&lt;/ref&gt;}}{{efn|Most contemporary accounts have William landing at Pevensey, with only the [[Peterborough Chronicle|E version]] of the ''[[Anglo-Saxon Chronicle]]'' giving the landing as taking place at Hastings.&lt;ref name=Lawson176/&gt; Most modern accounts also state that William's forces landed at Pevensey.&lt;ref name=Marren91&gt;Marren ''1066'' pp. 91–92&lt;/ref&gt;&lt;ref name=Huscroft123/&gt;&lt;ref name=Feudal81/&gt;&lt;ref name=Stenton591/&gt;&lt;ref name=Thomas35/&gt;&lt;ref name=Bennett37&gt;Bennett ''Campaigns of the Norman Conquest'' p. 37&lt;/ref&gt;&lt;ref name=Gravett47&gt;Gravett ''Hastings'' pp. 47–49&lt;/ref&gt;&lt;ref name=Ruling15&gt;Huscroft ''Ruling England'' p. 15&lt;/ref&gt;&lt;ref name=Stafford100&gt;Stafford ''Unification and Conquest'' p. 100&lt;/ref&gt;&lt;ref name=Bates86&gt;Bates ''William the Conqueror'' p. 86&lt;/ref&gt;&lt;ref name=Walker166&gt;Walker ''Harold'' p. 166&lt;/ref&gt;&lt;ref name=Rex221&gt;Rex ''Harold II'' p. 221&lt;/ref&gt;}} A few ships were blown off course and landed at [[Romney_Marsh|Romney]], where the Normans fought the local ''fyrd''.&lt;ref name=Marren91/&gt; After landing, William's forces built a wooden castle at Hastings, from which they raided the surrounding area.&lt;ref name=Bates79&gt;Bates ''William the Conqueror'' pp. 79–89&lt;/ref&gt; More fortifications were erected at Pevensey.&lt;ref name=Lawson179&gt;Lawson ''Battle of Hastings'' p. 179&lt;/ref&gt;
+
+===Norman forces at Hastings===
+[[File:Bayeux Tapestry scene51 Battle of Hastings Norman knights and archers.jpg|300px|thumb|Norman knights and archers at the Battle of Hastings depicted in the [[Bayeux Tapestry]].]]
+
+The exact numbers and composition of William's force are unknown.&lt;ref name=Gravett20&gt;Gravett ''Hastings'' pp. 20–21&lt;/ref&gt; A contemporary document claims that William had 776 ships, but this may be an inflated figure.&lt;ref name=Bennett25&gt;Bennett ''Campaigns of the Norman Conquest'' p. 25&lt;/ref&gt; Figures given by contemporary writers are highly exaggerated, varying from 14,000 to 150,000.&lt;ref name=Lawson163&gt;Lawson ''Hastings'' pp. 163–164&lt;/ref&gt; Modern historians have offered a range of estimates for the size of William's forces: 7,000–8,000 men, 1,000–2,000 of them cavalry;&lt;ref name=Bennet26&gt;Bennett ''Campaigns of the Norman Conquest'' p. 26&lt;/ref&gt; 10,000–12,000 men;&lt;ref name=Lawson163/&gt; 10,000 men, 3,000 of them cavalry;&lt;ref name=Marren89&gt;Marren ''1066'' pp. 89–90&lt;/ref&gt; or 7500 men.&lt;ref name=&quot;Gravett20&quot;/&gt; The army consisted of cavalry, infantry, and archers or crossbowmen, with about equal numbers of cavalry and archers and the foot soldiers equal in number to the other two types combined.&lt;ref name=Gravett27&gt;Gravett ''Hastings'' p. 27&lt;/ref&gt; Later lists of [[companions of William the Conqueror]] are extant, but most are padded with extra names; only about 35 named individuals can be reliably identified as having been with William at Hastings.&lt;ref name=&quot;Gravett20&quot;/&gt;&lt;ref name=Marren108&gt;Marren ''1066'' pp. 108–109&lt;/ref&gt;{{efn|Of those 35, 5 are known to have died in the battle: Robert of Vitot, Engenulf of Laigle, Robert fitzErneis, Roger son of Turold, and Taillefer.&lt;ref name=Marren107&gt;Marren ''1066'' pp. 107–108&lt;/ref&gt;}}
+
+The main armour used was [[chainmail]] hauberks, usually knee-length, with slits to allow riding, some with sleeves to the elbows. Some hauberks may have been made of scales attached to a tunic, with the scales made of metal, horn or hardened leather. Headgear was usually a conical metal helmet with a band of metal extending down to protect the nose.&lt;ref name=Gravett15&gt;Gravett ''Hastings'' pp. 15–19&lt;/ref&gt; Horsemen and infantry carried shields. The infantryman's shield was usually round and made of wood, with reinforcement of metal. Horsemen had changed to a kite-shaped shield and were usually armed with a lance. The couched lance, carried tucked against the body under the right arm, was a relatively new refinement and was probably not used at Hastings; the terrain was unfavourable for long cavalry charges. Both the infantry and cavalry usually fought with a straight sword, long and double-edged. The infantry could also use javelins and long spears.&lt;ref name=Gravett22&gt;Gravett ''Hastings'' p. 22&lt;/ref&gt; Some of the cavalry may have used a mace instead of a sword. Archers would have used a [[self bow]] or a crossbow, and most would not have had armour.&lt;ref name=Gravett24&gt;Gravett ''Hastings'' pp. 24–25&lt;/ref&gt;
+
+==Harold moves south==
+After defeating his brother Tostig and Harald Hardrada in the north, Harold left much of his forces in the north, including Morcar and Edwin, and marched the rest of his army south to deal with the threatened Norman invasion.&lt;ref name=Carpenter72&gt;Carpenter ''Struggle for Mastery'' p. 72&lt;/ref&gt; It is unclear when Harold learned of William's landing, but it was probably while he was travelling south. Harold stopped in London, and was there for about a week before Hastings, so it is likely that he spent about a week on his march south, averaging about {{convert|27|mi|km|abbr=off}} per day,&lt;ref name=Marren93&gt;Marren ''1066'' p. 93&lt;/ref&gt; for the approximately {{convert|200|mi|km|abbr=off}}.&lt;ref name=Huscroft124&gt;Huscroft ''Norman Conquest'' p. 124&lt;/ref&gt; Harold camped at Caldbec Hill on the night of 13 October, near what was described as a &quot;hoar-apple tree&quot;. This location was about {{convert|8|mi|km|abbr=off}} from William's castle at Hastings.&lt;ref name=Marren94&gt;Marren ''1066'' pp. 94–95&lt;/ref&gt;{{efn|&quot;Hoar&quot; means grey, and probably refers to a crab-apple tree covered with lichen that was likely a local landmark.&lt;ref name=Marren94/&gt;}} Some of the early contemporary French accounts mention an emissary or emissaries sent by Harold to William, which is likely. Nothing came of these efforts.&lt;ref name=Lawson180/&gt;
+
+Although Harold attempted to surprise the Normans, William's scouts reported the English arrival to the duke. The exact events preceding the battle are obscure, with contradictory accounts in the sources, but all agree that William led his army from his castle and advanced towards the enemy.&lt;ref name=Lawson180&gt;Lawson ''Battle of Hastings'' pp. 180–182&lt;/ref&gt; Harold had taken a defensive position at the top of [[Senlac Hill]] (present-day Battle, East Sussex), about {{convert|6|mi|km|abbr=off}} from William's castle at Hastings.&lt;ref name=Marren99&gt;Marren ''1066'' pp. 99–100&lt;/ref&gt;
+
+===English forces at Hastings===
+The exact number of soldiers in Harold's army is unknown. The contemporary records do not give reliable figures; some Norman sources give 400,000 to 1,200,000 men on Harold's side.{{efn|The 400,000 figure is given in [[Wace]]'s ''Romance de Rou'' and the 1,200,000 figure coming from the ''[[Carmen de Hastingae Proelio]]''.&lt;ref name=Lawson128fn&gt;Lawson ''Battle of Hastings'' p. 128 footnote 32&lt;/ref&gt;}} The English sources generally give very low figures for Harold's army, perhaps to make the English defeat seem less devastating.&lt;ref name=Lawson128&gt;Lawson ''Battle of Hastings'' p. 128 and footnote 32&lt;/ref&gt; Recent historians have suggested figures of between 5,000 and 13,000 for Harold's army at Hastings,&lt;ref name=Lawson130&gt;Lawson ''Battle of Hastings'' pp. 130–133&lt;/ref&gt; and most modern historians argue for a figure of 7,000–8,000 English troops.&lt;ref name=&quot;Gravett28&quot; /&gt;&lt;ref name=Marren105&gt;Marren ''1066'' p. 105&lt;/ref&gt; These men would have been a mix of the ''fyrd'' and housecarls. Few individual Englishmen are known to have been at Hastings;&lt;ref name=&quot;Gravett20&quot; /&gt; about 20 named individuals can reasonably be assumed to have fought with Harold at Hastings, including Harold's brothers [[Gyrth]] and [[Leofwine Godwinson|Leofwine]] and two other relatives.&lt;ref name=&quot;Marren107&quot; /&gt;{{efn|Of these named persons, eight died in the battle&amp;nbsp;– Harold, Gyrth, Leofwine, Godric the sheriff, Thurkill of Berkshire, Breme, and someone known only as &quot;son of Helloc&quot;.&lt;ref name=&quot;Marren107&quot;/&gt;}}
+
+[[File:Bayeuxtapestryscene52.jpg|left|thumb|Scene from the Bayeux Tapestry depicting mounted Norman soldiers attacking Anglo-Saxons who are fighting on foot in a shield wall]]
+
+The English army consisted entirely of infantry. It is possible that some of the higher class members of the army rode to battle, but when battle was joined they dismounted to fight on foot.{{efn|Some historians have argued, based on comments by [[Snorri Sturlson]] made in the 13th century, that the English army did occasionally fight as [[cavalry]]. Contemporary accounts, such as in the ''[[Anglo-Saxon Chronicle]]'' record that when English soldiers were forced to fight on horseback, they were usually routed, as in 1055 near Hereford.&lt;ref name=Gravett29/&gt;}} The core of the army was made up of housecarls, full-time professional soldiers. Their armour consisted of a conical helmet, a [[Mail (armour)|mail]] [[hauberk]], and a shield, which might be either kite-shaped or round.&lt;ref name=Gravett29&gt;Gravett ''Hastings'' pp. 29–31&lt;/ref&gt; Most housecarls fought with the two-handed [[Dane Axe|Danish battleaxe]], but they could also carry a sword.&lt;ref name=Marren52&gt;Marren ''1066'' p. 52&lt;/ref&gt; The rest of the army was made up of levies from the ''fyrd'', also infantry but more lightly armoured and not professionals. Most of the infantry would have formed part of the [[shield wall]], in which all the men in the front ranks locked their shields together. Behind them would have been axemen and men with javelins as well as archers.&lt;ref name=Fighting21&gt;Bennett, ''et al.'' ''Fighting Techniques'' pp. 21–22&lt;/ref&gt;
+
+==Battle==
+===Background and location=== 
+[[File:Schlachtfeld Schlacht bei Hastings juni09.JPG|thumb|The battlefield from the north side]]
+Because many of the primary accounts contradict each other at times, it is impossible to provide a description of the battle that is beyond dispute.&lt;ref name=Lawson183&gt;Lawson ''Battle of Hastings'' pp. 183–184&lt;/ref&gt; The only undisputed facts are that the fighting began at 9&amp;nbsp;am on Saturday 14 October 1066 and that the battle lasted until dusk.&lt;ref name=Marren114&gt;Marren ''1066'' p. 114&lt;/ref&gt; Sunset on the day of the battle was at 4:54&amp;nbsp;pm, with the battlefield mostly dark by 5:54&amp;nbsp;pm and in full darkness by 6:24&amp;nbsp;pm. Moonrise that night was not until 11:12&amp;nbsp;pm, so once the sun set, there was little light on the battlefield.&lt;ref name=Lawson212&gt;Lawson ''Battle of Hastings'' pp. 212–213&lt;/ref&gt; William of Jumieges reports that Duke William kept his army armed and ready against a surprise night attack for the entire night before.&lt;ref name=Lawson183/&gt; The battle took place {{convert|7|mi|km}} north of Hastings at the present-day town of [[Battle, East Sussex|Battle]],&lt;ref name=Gravett91&gt;Gravett ''Hastings'' p. 91&lt;/ref&gt; between two hills&amp;nbsp;– Caldbec Hill to the north and Telham Hill to the south. The area was heavily wooded, with a marsh nearby.&lt;ref name=Marren101&gt;Marren ''1066'' p. 101&lt;/ref&gt; The name traditionally given to the battle is unusual&amp;nbsp;– there were several settlements much closer to the battlefield than Hastings. The ''[[Anglo-Saxon Chronicle]]'' called it the battle &quot;at the hoary apple tree&quot;. Within 40 years, the battle was described by the Anglo-Norman chronicler [[Orderic Vitalis]] as &quot;Senlac&quot;,{{efn|This was the name popularised by [[Edward Augustus Freeman|Edward Freeman]],&lt;ref name=Lawson57/&gt; a Victorian historian who wrote one of the definitive accounts of the battle.&lt;ref name=Lawson129&gt;Lawson ''Battle of Hastings'' p. 129&lt;/ref&gt;}} a Norman-French adaptation of the Old English word &quot;Sandlacu&quot;, which means &quot;sandy water&quot;.{{efn|&quot;Sandlacu&quot; can be rendered into Modern English as &quot;sandlake&quot;.&lt;ref name=Lawson57&gt;Lawson ''Battle of Hastings'' p. 57&lt;/ref&gt;}} This may have been the name of the stream that crosses the battlefield.{{efn|Freeman suggested that &quot;Senlac&quot; meant &quot;sand lake&quot; in [[Old English]] with  the Norman conquerors  calling it (in [[French language|French]]) &quot;sanguelac&quot;. Freeman regarded this use as a pun because  the English translation of &quot;sanguelac&quot; is &quot;blood lake&quot;.&lt;ref name=freeman745&gt;Freeman ''History of the Norman Conquest'' pp. 743-751&lt;/ref&gt;}} The battle was already being referred to as &quot;bellum Hasestingas&quot; or &quot;Battle of Hastings&quot; by 1087, in the ''[[Domesday Book]]''.&lt;ref name=Marren157&gt;Marren ''1066'' p. 157&lt;/ref&gt;
+
+Sunrise was at 6:48&amp;nbsp;am that morning, and reports of the day record that it was unusually bright.&lt;ref name=Gravett59&gt;Gravett ''Hastings'' p. 59&lt;/ref&gt; The weather conditions are not recorded.&lt;ref name=Marren116/&gt; The route that the English army took to the battlefield is not known precisely. Several roads are possible: one, an old Roman road that ran from Rochester to Hastings has long been favoured because of a large coin hoard found nearby in 1876. Another possibility is a Roman road between London and Lewes and then over local tracks to the battlefield.&lt;ref name=Lawson183/&gt; Some accounts of the battle indicate that the Normans advanced from Hastings to the battlefield, but the contemporary account of William of Jumieges places the Normans at the site of the battle the night before.&lt;ref name=Lawson186&gt;Lawson ''Battle of Hastings'' pp. 186–187&lt;/ref&gt; Most historians incline towards the former view,&lt;ref name=Marren99/&gt;&lt;ref name=Gravett59/&gt;&lt;ref name=Huscroft125&gt;Huscroft ''Norman Conquest'' pp. 125–126&lt;/ref&gt;&lt;ref name=Bennett40&gt;Bennett ''Campaigns of the Norman Conquest'' p. 40&lt;/ref&gt; but M. K. Lawson argues that William of Jumieges's account is correct.&lt;ref name=Lawson186/&gt;
+
+===Dispositions of forces and tactics===
+[[File:Battle of Hastings, 1066.gif|thumb|left|Battle dispositions]]
+Harold's forces deployed in a small, dense formation at the top of steep slope,&lt;ref name=Gravett59&gt;Gravett ''Hastings'' p. 59&lt;/ref&gt; with their flanks protected by woods and marshy ground in front of them.&lt;ref name=Bennett40/&gt; The line may have extended far enough to be anchored on a nearby stream.&lt;ref name=Lawson190&gt;Lawson ''Battle of Hastings'' pp. 190–191&lt;/ref&gt; The English formed a shield wall, with the front ranks holding their shields close together or even overlapping to provide protection from attack.&lt;ref name=Gravett64/&gt; Sources differ on the exact site that the English fought on: some sources state the site of the abbey,&lt;ref name=Hare84&gt;Hare ''Battle Abbey'' p.11&lt;/ref&gt;&lt;ref name=EngHer05Oct2016&gt;English Heritage ''Research on Battle Abbey and Battlefield''&lt;/ref&gt;&lt;ref name=BattlefieldsTrust05Oct2016&gt;Battlefields Trust ''Battle of Hastings''&lt;/ref&gt; but some newer sources suggest it was Caldbec Hill.&lt;ref name=Lawson190/&gt;&lt;ref name=Gravett59/&gt;
+
+More is known about the Norman deployment.&lt;ref name=Lawson192&gt;Lawson ''Battle of Hastings'' p. 192&lt;/ref&gt; Duke William appears to have arranged his forces in three groups, or &quot;battles&quot;, which roughly corresponded to their origins. The left units were the [[Breton people|Bretons]],&lt;ref name=Bennett41/&gt; along with those from [[Anjou]], [[Poitou]] and [[Maine (province)|Maine]]. This division was led by [[Alan Rufus|Alan the Red]], a relative of the Breton count.&lt;ref name=Gravett64&gt;Gravett ''Hastings'' p. 64&lt;/ref&gt; The centre was held by the Normans,&lt;ref name=Bennett41/&gt; under the direct command of the duke and with many of his relatives and kinsmen grouped around the ducal party.&lt;ref name=Gravett64/&gt; The final division on the right consisted of the Frenchmen,&lt;ref name=Bennett41/&gt; along with some men from [[Picardy]], [[Boulogne-sur-Mer|Boulogne]], and [[County of Flanders|Flanders]]. The right was commanded by [[William fitzOsbern]] and Count [[Eustace II, Count of Boulogne|Eustace II of Boulogne]].&lt;ref name=Gravett64/&gt; The front lines were archers with a line of foot soldiers armed with spears behind.&lt;ref name=Bennett41/&gt; There were probably a few crossbowmen and slingers in with the archers.&lt;ref name=Gravett64/&gt; The cavalry was held in reserve,&lt;ref name=Bennett41&gt;Bennett ''Campaigns of the Norman Conquest'' p. 41&lt;/ref&gt; and a small group of clergymen and servants situated at the base of Telham Hill was not expected to take part in the fighting.&lt;ref name=Gravett64/&gt;
+
+William's disposition of his forces implies that he planned to open the battle with archers in the front rank weakening the enemy with arrows, followed by infantry who would engage in close combat. The infantry would create openings in the English lines that could be exploited by a cavalry charge to break through the English forces and pursue the fleeing soldiers.&lt;ref name=Gravett64/&gt;
+
+===Beginning of the battle===
+[[File:Hastingsbattlefieldandbattleabbeyruinsbeta.jpg|thumb|View of the battlefield looking towards Senlac Hill]]
+
+The battle opened with the Norman archers shooting uphill at the English shield wall, to little effect. The uphill angle meant that the arrows either bounced off the shields of the English or overshot their targets and flew over the top of the hill.&lt;ref name=Bennett41/&gt;{{efn|There is a story that the first fighting at Hastings was between a [[jongleur]] named Taillefer and some of the English fighters which comes from three sources: the ''[[Carmen de Hastingae Proelio]]'', Wace's ''Romance de Rou'', and the 12th-century account of [[Henry of Huntingdon]].&lt;ref name=Gravett64/&gt; The story has two versions, in one of which Taillefer entertained the Norman army prior to the battle by juggling a sword but then killed an English soldier sent to kill him. Another version has the jongleur charging the English and killing two before dying himself.&lt;ref name=Marren116&gt;Marren ''1066'' p. 116&lt;/ref&gt;}}  The lack of English archers hampered the Norman archers, as there were few English arrows to be gathered up and reused.&lt;ref name=Gravett65&gt;Gravett ''Hastings'' pp. 65–67&lt;/ref&gt; After the attack from the archers, William sent the spearmen forward to attack the English. They were met with a barrage of missiles, not arrows but spears, axes and stones.&lt;ref name=Bennett41/&gt; The infantry was unable to force openings in the shield wall, and the cavalry advanced in support.&lt;ref name=Gravett65/&gt; The cavalry also failed to make headway, and a general retreat began, blamed on the Breton division on William's left.&lt;ref name=Bennett42&gt;Bennett ''Campaigns of the Norman Conquest'' p. 42&lt;/ref&gt; A rumour started that the duke had been killed, which added to the confusion. The English forces began to pursue the fleeing invaders, but William rode through his forces, showing his face and yelling that he was still alive.&lt;ref name=Gravett68&gt;Gravett ''Hastings'' p. 68&lt;/ref&gt; The duke then led a counter-attack against the pursuing English forces; some of the English rallied on a hillock before being overwhelmed.&lt;ref name=Bennett42/&gt;
+
+It is not known whether the English pursuit was ordered by Harold or if it was spontaneous. Wace relates that Harold ordered his men to stay in their formations but no other account gives this detail. The Bayeux Tapestry depicts the death of Harold's brothers Gyrth and Leofwine occurring just before the fight around the hillock. This may mean that the two brothers led the pursuit.&lt;ref name=Gravett72&gt;Gravett ''Hastings'' pp. 72–73&lt;/ref&gt; The ''[[Carmen de Hastingae Proelio]]'' relates a different story for the death of Gyrth, stating that the duke slew Harold's brother in combat, perhaps thinking that Gyrth was Harold. William of Poitiers states that the bodies of Gyrth and Leofwine were found near Harold's, implying that they died late in the battle. It is possible that if the two brothers died early in the fighting their bodies were taken to Harold, thus accounting for their being found near his body after the battle. The military historian Peter Marren speculates that if Gyrth and Leofwine died early in the battle, that may have influenced Harold to stand and fight to the end.&lt;ref name=Marren127&gt;Marren ''1066'' pp. 127–128&lt;/ref&gt;
+
+===Feigned flights===
+[[File:Bayeuxtapestryscene53.jpg|thumb|left|Scene from the Bayeux Tapestry showing mounted Norman cavalrymen fighting Anglo-Saxon infantry]]
+A lull probably occurred early in the afternoon, and a break for rest and food would probably have been needed.&lt;ref name=Gravett72/&gt; William may have also needed time to implement a new strategy, which may have been inspired by the English pursuit and subsequent rout by the Normans. If the Normans could send their cavalry against the shield wall and then draw the English into more pursuits, breaks in the English line might form.&lt;ref name=Bennett43&gt;Bennett ''Campaigns of the Norman Conquest'' p. 43&lt;/ref&gt; William of Poitiers says the tactic was used twice. Although arguments have been made that the chroniclers' accounts of this tactic were meant to excuse the flight of the Norman troops from battle, this is unlikely as the earlier flight was not glossed over. It was a tactic used by other Norman armies during the period.&lt;ref name=Gravett72/&gt;{{efn|Examples of the use of feigned flight include the [[Battle of Arques (1052)|Battle of Arques]] around 1052, the [[Battle of Messina (1060)|Battle of Messina]] in 1060, and the [[Battle of Cassel (1071)|Battle of Cassel]] in 1071.&lt;ref name=Gravett72/&gt;}} Some historians have argued that the story of the use of feigned flight as a deliberate tactic was invented after the battle; most historians agree that it was used by the Normans at Hastings.&lt;ref name=Marren130&gt;Marren ''1066'' p. 130&lt;/ref&gt;
+
+Although the feigned flights did not break the lines, they probably thinned out the housecarls in the English shield wall. The housecarls were replaced with members of the ''fyrd'', and the shield wall held.&lt;ref name=Gravett72/&gt; Archers appear to have been used again before and during an assault by the cavalry and infantry led by the duke. Although 12th-century sources state that the archers were ordered to shoot at a high angle to shoot over the front of the shield wall, there is no trace of such an action in the more contemporary accounts.&lt;ref name=Gravett76&gt;Gravett ''Hastings'' pp. 76–78&lt;/ref&gt; It is not known how many assaults were launched against the English lines, but some sources record various actions by both Normans and Englishmen that took place during the afternoon's fighting.&lt;ref name=Marren131&gt;Marren ''1066'' pp. 131–133&lt;/ref&gt; The ''Carmen'' claims that Duke William had two horses killed under him during the fighting, but William of Poitiers's account states that it was three.&lt;ref name=Marren135&gt;Marren ''1066'' p. 135&lt;/ref&gt;
+
+===Death of Harold===
+[[File:Harold stone.JPG|thumb|left|Stone marking the spot of the high altar at Battle Abbey, where Harold died&lt;ref name=Gravett79&gt;Gravett ''Hastings'' p. 79&lt;/ref&gt;]]
+
+Harold appears to have died late in the battle, although accounts in the various sources are contradictory. William of Poitiers only mentions his death, without giving any details on how it occurred. The Tapestry is not helpful, as it shows a figure holding an arrow sticking out of his eye next to a falling fighter being hit with a sword. Over both figures is a statement &quot;Here King Harold has been killed&quot;.&lt;ref name=Gravett76/&gt; It is not clear which figure is meant to be Harold, or if both are meant.&lt;ref name=Lawson207&gt;Lawson ''Battle of Hastings'' pp. 207–210&lt;/ref&gt;{{efn|The issue is furthered confused by the fact that there is evidence that the 19th century restoration of the Tapestry changed the scene by inserting or changing the placement of the arrow through the eye.&lt;ref name=Lawson207/&gt;}} The earliest written mention of the traditional account of Harold dying from an arrow to the eye dates to the 1080s from a history of the Normans written by an Italian monk, [[Amatus of Montecassino]].&lt;ref name=Marren138&gt;Marren ''1066'' p. 138&lt;/ref&gt;{{efn|Amatus' account is less than trustworthy because it also states that Duke William commanded 100,000 soldiers at Hastings.&lt;ref name=Rex256/&gt;}} William of Malmesbury stated that Harold died from an arrow to the eye that went into the brain, and that a knight wounded Harold at the same time. Wace repeats the arrow-to-the-eye account. The ''Carmen'' states that Duke William killed Harold, but this is unlikely, as such a feat would have been recorded elsewhere.&lt;ref name=Gravett76/&gt; The account of [[William of Jumièges]] is even more unlikely, as it has Harold dying in the morning, during the first fighting. The ''[[Chronicle of Battle Abbey]]'' states that no one knew who killed Harold, as it happened in the press of battle.&lt;ref name=Marren137&gt;Marren ''1066'' p. 137&lt;/ref&gt; A modern biographer of Harold, Ian Walker, states that Harold probably died from an arrow in the eye, although he also says it is possible that Harold was struck down by a Norman knight while mortally wounded in the eye.&lt;ref name=Walker179&gt;Walker ''Harold'' pp. 179–180&lt;/ref&gt; Another biographer of Harold, Peter Rex, after discussing the various accounts, concludes that it is not possible to declare how Harold died.&lt;ref name=Rex256&gt;Rex ''Harold II'' pp. 256–263&lt;/ref&gt;
+
+Harold's death left the English forces leaderless, and they began to collapse.&lt;ref name=Bennett43/&gt; Many of them fled, but the soldiers of the royal household gathered around Harold's body and fought to the end.&lt;ref name=Gravett76/&gt; The Normans began to pursue the fleeing troops, and except for a rearguard action at a site known as the &quot;Malfosse&quot;, the battle was over.&lt;ref name=Bennett43/&gt; Exactly what happened at the Malfosse, or &quot;Evil Ditch&quot;, and where it took place, is unclear. It occurred at a small fortification or set of trenches where some Englishmen rallied and seriously wounded Eustace of Boulogne before being defeated by the Normans.&lt;ref name=Gravett80&gt;Gravett ''Hastings'' p. 80&lt;/ref&gt;
+
+===Reasons for the outcome===
+
+Harold's defeat was probably due to several circumstances. One was the need to defend against two almost simultaneous invasions. The fact that Harold had dismissed his forces in southern England on 8 September also contributed to the defeat. Many historians fault Harold for hurrying south and not gathering more forces before confronting William at Hastings, although it is not clear that the English forces were insufficient to deal with William's forces.&lt;ref name=Lawson217/&gt; Against these arguments for an exhausted English army, the length of the battle, which lasted an entire day, show that the English forces were not tired by their long march.&lt;ref name=Huscroft130&gt;Huscroft ''Norman Conquest'' p. 130&lt;/ref&gt; Tied in with the speed of Harold's advance to Hastings is the possibility Harold may not have trusted Earls Edwin of Mercia and Morcar of Northumbria once their enemy Tostig had been defeated, and declined to bring them and their forces south.&lt;ref name=Lawson217/&gt; Modern historians have pointed out that one reason for Harold's rush to battle was to contain William's depredations and keep him from breaking free of his beachhead.&lt;ref name=Marren152&gt;Marren ''1066'' p. 152&lt;/ref&gt;
+
+Most of the blame for the defeat probably lies in the events of the battle.&lt;ref name=Lawson217&gt;Lawson ''Battle of Hastings'' pp. 217–218&lt;/ref&gt; William was the more experienced military leader,&lt;ref name=Lawson219/&gt; and in addition the lack of cavalry on the English side allowed Harold fewer tactical options.&lt;ref name=Huscroft130/&gt; Some writers have criticised Harold for not exploiting the opportunity offered by the rumoured death of William early in the battle.&lt;ref name=Walker180&gt;Walker ''Harold'' pp. 180–181&lt;/ref&gt;  The English appear to have erred in not staying strictly on the defensive, for when they pursued the retreating Normans they exposed their flanks to attack. Whether this was due to the inexperience of the English commanders or the indiscipline of the English soldiers is unclear.&lt;ref name=Lawson219&gt;Lawson ''Battle of Hastings'' pp. 219–220&lt;/ref&gt;{{efn|Modern [[wargaming]] has demonstrated the correctness of not pursuing the fleeing Normans,&lt;ref name=Marren152/&gt; with the historian [[Christopher Gravett]] stating that if in a wargame he allowed Harold to pursue the Normans, his opponent &quot;promptly, and rightly, punished such rashness with a brisk counter-attack with proved to be the turning point of the battle&amp;nbsp;— just as in 1066&quot;.&lt;ref name=QMarren152&gt;Quoted in Marren ''1066'' p. 152&lt;/ref&gt;}} In the end, Harold's death appears to have been decisive, as it signalled the break-up of the English forces in disarray.&lt;ref name=Huscroft130/&gt; The historian [[David Nicolle]] said of the battle that William's army &quot;demonstrated&amp;nbsp;– not without difficulty&amp;nbsp;– the superiority of Norman-French mixed cavalry and infantry tactics over the Germanic-Scandinavian infantry traditions of the Anglo-Saxons.&quot;&lt;ref name=Normans20&gt;Nicolle ''Normans'' p. 20&lt;/ref&gt;
+
+==Aftermath==
+{{See also|Norman conquest of England#Consequences}}
+The day after the battle, Harold's body was identified, either by his armour or marks on his body.{{efn|A 12th-century tradition stated that Harold's face could not be recognised and [[Edith the Fair]], Harold's [[Common-law marriage|common-law wife]], was brought to the battlefield to identify his body from marks that only she knew.&lt;ref name=&quot;Gravett80&quot; /&gt;}}  His personal standard was presented to William,&lt;ref name=Rex253&gt;Rex ''Harold II'' p. 253&lt;/ref&gt; and later sent to the papacy.&lt;ref name=Gravett76/&gt; The bodies of the English dead, including some of Harold's brothers and housecarls, were left on the battlefield,&lt;ref name=Huscroft131/&gt; although some were removed by relatives later.&lt;ref name=Gravett81&gt;Gravett ''Hastings'' p. 81&lt;/ref&gt; The Norman dead were buried in a large communal grave, which has not been found.&lt;ref name=Marren146/&gt;{{efn|It is possible the grave site was located where the abbey now stands.&lt;ref name=Marren146/&gt;}} Exact casualty figures are unknown. Of the Englishmen known to be at the battle, the number of dead implies that the death rate was about 50 per cent of those engaged, although this may be too high. Of the named Normans who fought at Hastings, one in seven is stated to have died, but these were all noblemen, and it is probable that the death rate among the common soldiers was higher. Although Orderic Vitalis's figures are highly exaggerated,{{efn|He states that there were 15,000 casualties out of 60,000 who fought on William's side at the battle.&lt;ref name=Marren147/&gt;}} his ratio of one in four casualties may be accurate. Marren speculates that perhaps 2,000 Normans and 4,000 Englishmen were killed at Hastings.&lt;ref name=Marren147&gt;Marren ''1066'' pp. 147–149&lt;/ref&gt; The Normans buried their dead in mass graves. Reports stated that some of the English dead were still being found on the hillside years later. Although scholars thought for a long time that remains would not be recoverable, due to the acidic soil, recent finds have changed this view.&lt;ref name=past6&gt;Livesay &quot;Skeleton 180 Shock Dating Result&quot; ''Sussex Past and Present'' p. 6&lt;/ref&gt; One skeleton that was found in a medieval cemetery, and originally was thought to be associated with the 13th century [[Battle of Lewes]] now is thought to be associated with Hastings instead.&lt;ref name=sac148&gt;Barber &quot;Medieval Hospital of St Nicholas&quot; ''Sussex Archaeological Collections'' pp. 79-109&lt;/ref&gt;{{efn|This skeleton, numbered 180, sustained six fatal sword cuts to the back of the skull and was one of five skeletons that had suffered violent trauma. Analysis continues on the other remains to try and build up a more accurate picture of who the individuals are.&lt;ref name=past6/&gt;}}
+
+[[File:Battleabbey-wyrdlight-0190.jpg|thumb|left|Ruins of the monks' dormitory at Battle Abbey]]
+
+One story relates that [[Gytha Thorkelsdóttir|Gytha]], Harold's mother, offered the victorious duke the weight of her son's body in gold for its custody, but was refused. William ordered that Harold's body be thrown into the sea, but whether that took place is unclear.&lt;ref name=Huscroft131/&gt; Another story relates that Harold was buried at the top of a cliff.&lt;ref name=Marren146&gt;Marren ''1066'' p. 146&lt;/ref&gt; [[Waltham Abbey (abbey)|Waltham Abbey]], which had been founded by Harold, later claimed that his body had been secretly buried there.&lt;ref name=Huscroft131&gt;Huscroft ''Norman Conquest'' p. 131&lt;/ref&gt; Other legends claimed that Harold did not die at Hastings, but escaped and became a hermit at Chester.&lt;ref name=Gravett81/&gt;
+
+William expected to receive the submission of the surviving English leaders after his victory, but instead [[Edgar the Ætheling]]{{efn|Ætheling is the Anglo-Saxon term for a royal prince with some claim to the throne.&lt;ref name=Bennett91&gt;Bennett ''Campaigns of the Norman Conquest'' p. 91&lt;/ref&gt;}} was proclaimed king by the Witenagemot, with the support of Earls Edwin and Morcar, Stigand, the Archbishop of Canterbury, and [[Ealdred (bishop)|Ealdred]], the Archbishop of York.&lt;ref name=Douglas204&gt;Douglas ''William the Conqueror'' pp. 204–205&lt;/ref&gt; William therefore advanced on London, marching around the coast of [[Kent]]. He defeated an English force that attacked him at [[Southwark]] but was unable to storm [[London Bridge]], forcing him to reach the capital by a more circuitous route.&lt;ref name=Douglas205&gt;Douglas ''William the Conqueror'' pp. 205–206&lt;/ref&gt;
+
+William moved up the [[Thames]] valley to cross the river at [[Wallingford, Oxfordshire|Wallingford]], where he received the submission of Stigand. He then travelled north-east along the [[Chilterns]], before advancing towards London from the north-west,{{efn|William appears to have taken this route to meet up with reinforcements that had landed by Portsmouth and met him between London and Winchester. By swinging around to the north, William cut off London from reinforcements.&lt;ref name=Bennett45&gt;Bennett ''Campaigns of the Norman Conquest'' p. 45&lt;/ref&gt;}} fighting further engagements against forces from the city. The English leaders surrendered to William at [[Berkhamsted]], Hertfordshire. William was acclaimed King of England and crowned by Ealdred on 25 December 1066, in [[Westminster Abbey]].&lt;ref name=Douglas205/&gt;
+[[File:BattleNormannen.JPG|thumb|right|[[Battle of Hastings reenactment|Reenactment]] in front of [[Battle Abbey]]]]
+
+Despite the submission of the English nobles, resistance continued to erupt for several years.&lt;ref name=Douglas212&gt;Douglas ''William the Conqueror'' p. 212&lt;/ref&gt; There were rebellions in Exeter in late 1067, an invasion by Harold's sons in mid-1068, and an uprising in Northumbria in 1068.&lt;ref name=Bennett49&gt;Bennett ''Campaigns of the Norman Conquest'' pp. 49–50&lt;/ref&gt; In 1069 William faced more troubles from Northumbrian rebels, an invading Danish fleet, and rebellions in the south and west of England. He ruthlessly put down the various risings, culminating in the [[Harrying of the North]] in late 1069 and early 1070 that devastated parts of northern England.&lt;ref name=Bennett51&gt;Bennett ''Campaigns of the Norman Conquest'' pp. 51–53&lt;/ref&gt; A further rebellion in 1070 by [[Hereward the Wake]] was also defeated by the king, at Ely.&lt;ref name=Bennett57&gt;Bennett ''Campaigns of the Norman Conquest'' pp. 57–60&lt;/ref&gt;
+
+[[Battle Abbey]] was founded by William at the site of the battle. According to 12th-century sources, William made a vow to found the abbey, and the high altar of the church was placed at the site where Harold had died.&lt;ref name=Bennett43/&gt; More likely, the foundation was imposed on William by [[papal legate]]s in 1070.&lt;ref name=Coad32&gt;Coad ''Battle Abbey and Battlefield'' p. 32&lt;/ref&gt; The topography of the battlefield has been altered by subsequent construction work for the abbey, and the slope defended by the English is now much less steep than it was at the time of the battle; the top of the ridge has also been built up and levelled.&lt;ref name=Gravett91/&gt; After the [[Dissolution of the Monasteries]], the abbey's lands passed to secular landowners, who used it as a residence or country house.&lt;ref name=Coad42&gt;Coad ''Battle Abbey and Battlefield'' pp. 42–46&lt;/ref&gt; In 1976 the estate was put up for sale and purchased by the government with the aid of some American donors who wished to honour the 200th anniversary of American independence.&lt;ref name=Coad48&gt;Coad ''Battle Abbey and Battlefield'' p. 48&lt;/ref&gt; The battlefield and abbey grounds are currently owned and administered by [[English Heritage]] and are open to the public.&lt;ref name=Marren165&gt;Marren ''1066'' p. 165&lt;/ref&gt; The [[Bayeux Tapestry]] is an embroidered narrative of the events leading up to Hastings probably commissioned by Odo of Bayeux soon after the battle, perhaps to hang at the bishop's palace at Bayeux.&lt;ref name=Coad31&gt;Coad ''Battle Abbey and Battlefield'' p. 31&lt;/ref&gt;{{efn|The first recorded mention of the tapestry is from 1476, but it is similar in style to late Anglo-Saxon manuscript illustrations and may have been composed and executed in England.&lt;ref name=Coad31/&gt; The Tapestry now is displayed at the former Bishop's Palace at [[Bayeux]] in France.&lt;ref name=Gravett99&gt;Gravett ''Hastings'' p. 99&lt;/ref&gt;}} In modern times annual [[Battle of Hastings reenactment|reenactments]] of the Battle of Hastings have drawn thousands of participants and spectators to the site of the original battle.&lt;ref&gt;{{cite web|title=Normans fight Saxons... and the rain|url=http://news.bbc.co.uk/1/hi/uk/970522.stm|publisher=BBC News|accessdate=22 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=King Harold and William square up|url=http://news.bbc.co.uk/2/hi/uk_news/england/southern_counties/6050986.stm|publisher=BBC News|accessdate=22 August 2013}}&lt;/ref&gt;
+
+==Notes==
+{{notelist|69em}}
+
+==Citations==
+{{reflist|30em}}
+
+==References==
+{{refbegin|60em}}
+* {{cite journal|editor=Barber, Luke|title=The Medieval Hospital of St Nicholas, East Sussex: Excavations 1994 |year= 2010|journal= Sussex Archaeological Collections |volume=148|pages=79–110}}
+* {{cite book |author=Barlow, Frank |authorlink=Frank Barlow (historian) |title=Edward the Confessor |publisher=University of California Press |location=Berkeley, CA |year=1970 |isbn=0-520-01671-8 }}
+* {{cite book |author=Barlow, Frank |authorlink=Frank Barlow (historian) |title=The Feudal Kingdom of England 1042–1216 |edition=Fourth |publisher=Longman |location=New York |year=1988 |isbn=0-582-49504-0 }}
+* {{cite book|author=Bates, David |authorlink=David Bates (historian) |title=Normandy Before 1066 |publisher=Longman |location=London |year=1982 |isbn=0-582-48492-8 }}
+* {{cite book|author=Bates, David |authorlink=David Bates (historian) |title=William the Conqueror |publisher=Tempus  |location=Stroud, UK |year=2001 |isbn=0-7524-1980-3 }}
+* {{cite web | url=http://www.battlefieldstrust.com/resource-centre/viking/battleview.asp?BattleFieldId=17 | title=Battle of Hastings: 14 October 1066 | website=UK Battlefields Resource Centre | author=Battlefields Trust | access-date=5 October 2016}}
+* {{cite book |author=Bennett, Matthew |authorlink= Matthew Bennett (historian) |title= Campaigns of the Norman Conquest |series = Essential Histories |publisher=Osprey |location=Oxford, UK |year=2001 |isbn=978-1-84176-228-9}}
+* {{cite book |author1=Bennett, Matthew |author2=Bradbury, Jim |author3=DeVries, Kelly |author4=Dickie, Iain |author5=Jestice, Phyllis |title=Fighting Techniques of the Medieval World AD 500–AD 1500: Equipment, Combat Skills and Tactics |publisher=St Martin's Press |location=New York |year=2006 |isbn=978-0-312-34820-5 |author-link= Matthew Bennett (historian) |author2-link= Jim Bradbury |author3-link= Kelly DeVries}}
+* {{cite book|author=Carpenter, David |authorlink= David Carpenter (historian) |title=The Struggle for Mastery: The Penguin History of Britain 1066–1284 |publisher=Penguin |location= New York|year=2004 |isbn=0-14-014824-8 }}
+* {{cite book |author=Coad, Jonathan |title=Battle Abbey and Battlefield |publisher=English Heritage |series=English Heritage Guidebooks |year=2007 |location=London |isbn=978-1-905624-20-1}}
+* {{cite book |author=Coredon, Christopher |title= A Dictionary of Medieval Terms &amp; Phrases  |year= 2007 |edition= Reprint |publisher=D. S. Brewer |location=Woodbridge, UK |isbn= 978-1-84384-138-8  }}
+* {{cite book|author=Crouch, David |authorlink= David Crouch (historian) |title=The Normans: The History of a Dynasty |publisher=Hambledon &amp; London |location=London |year=2007 |isbn=1-85285-595-9 }}
+* {{cite book |author= Douglas, David C. |authorlink= David C. Douglas |title= William the Conqueror: The Norman Impact Upon England|year=1964 |publisher= University of California Press |location= Berkeley, CA |oclc= 399137 }}
+* {{cite web | url=http://www.english-heritage.org.uk/visit/places/1066-battle-of-hastings-abbey-and-battlefield/history/research/ | title=Research on Battle Abbey and Battlefield | author=English Heritage | access-date=5 October 2016}}
+* {{Cite book |author=Freeman, Edward A. |authorlink= Edward Augustus Freeman |title=The History of the Norman Conquest of England: Its Causes and Results |volume= III |publisher=Clarendon Press | location=Oxford, UK |year=1869 |oclc= 186846557 }}
+* {{cite book |author1=Fryde, E. B. |author2=Greenway, D. E. |author3=Porter, S. |author4=Roy, I. |title=Handbook of British Chronology|edition=Third revised |publisher=Cambridge University Press |location=Cambridge, UK |year=1996 |isbn=0-521-56350-X }}
+* {{cite book |author=Gravett, Christopher |authorlink=Christopher Gravett |title=Hastings 1066: The Fall of Saxon England |series= Campaign |volume=13 |publisher = Osprey |year=1992 |location=Oxford, UK |isbn=1-84176-133-8}}
+* {{cite book|author1=Hallam, Elizabeth M. |author2=Everard, Judith |title=Capetian France 987–1328 |edition=Second|publisher=Longman |location=New York |year=2001 |isbn=0-582-40428-2}}
+* {{cite book|url=http://archaeologydataservice.ac.uk/archives/view/eh_monographs_2014/contents.cfm?mono=1089016 |author-last=Hare |author-first=J. N. |title=Battle Abbey: The Eastern Range and the Excavations of 1978-80 |publisher=English Heritage|location=London|date=1984 | access-date=1 October 2016 | isbn=9781848021341 |via=Archaeology Data Service | pages=11}}
+* {{cite book|author=Higham, Nick |title=The Death of Anglo-Saxon England |publisher=Sutton |location=Stroud, UK |year=2000 |isbn=0-7509-2469-1}}
+* {{cite book |author=Huscroft, Richard |title=The Norman Conquest: A New Introduction |publisher=Longman |location=New York |year=2009 |isbn=1-4058-1155-2 }}
+* {{cite book|author=Huscroft, Richard |title=Ruling England 1042–1217 |publisher=Pearson/Longman |location=London |year=2005  |isbn=0-582-84882-2 }}
+* {{cite book |author=Lawson, M. K. |title=The Battle of Hastings: 1066 |publisher=Tempus |location=Stroud, UK |year=2002 |isbn=0-7524-1998-6 }}
+* {{cite book |author=Marren, Peter |title=1066: The Battles of York, Stamford Bridge &amp; Hastings |publisher=Leo Cooper |location=Barnsley, UK |series = Battleground Britain |year=2004 |isbn=0-85052-953-0}}
+* {{cite journal|author=Livesay, Edwina |journal=Sussex Past and Present |volume=133 |year=2014 |title= Skeleton 180 Shock Dating Result |page=6}}
+* {{cite book |author1=Musset, Lucien |title=The Bayeux Tapestry |author2=Rex, Richard (translator) |publisher= Boydell Press |year=2005 |location=Woodbridge, UK |isbn=1-84383-163-5|edition=New}}
+* {{cite book |author=Nicolle, David |authorlink=David Nicolle |title=Medieval Warfare Source Book: Warfare in Western Christendom |publisher=Brockhampton Press |location=Dubai |year=1999 |isbn=1-86019-889-9 }}
+* {{cite book |author=Nicolle, David |authorlink=David Nicolle |title=The Normans |publisher=Osprey |location=Oxford, UK |year=1987 |isbn=1-85532-944-1 }}
+* {{cite book |author=Rex, Peter |title=Harold II: The Doomed Saxon King |publisher=Tempus |location=Stroud, UK |year=2005 |isbn=978-0-7394-7185-2 }}
+* {{cite book|author=Stafford, Pauline|authorlink=Pauline Stafford |title= Unification and Conquest: A Political and Social History of England in the Tenth and Eleventh Centuries |publisher=Edward Arnold |location=London |year=1989  |isbn=0-7131-6532-4 }}
+* {{cite book |author=Stenton, F. M. |authorlink= Frank Stenton |title= Anglo-Saxon England  |year= 1971|publisher= Oxford University Press |location=Oxford, UK |edition=Third |isbn=978-0-19-280139-5  }}
+* {{cite book |author=Thomas, Hugh |title=The Norman Conquest: England after William the Conqueror |series=Critical Issues in History |publisher=Rowman &amp; Littlefield Publishers, Inc |location=Lanham, MD |year=2007 |isbn=0-7425-3840-0 }}
+* {{cite book|author=Walker, Ian |title=Harold the Last Anglo-Saxon King |publisher=Wrens Park |location=Gloucestershire, UK |year=2000|isbn=0-905778-46-4 }}
+* {{cite book|author=Williams, Ann |authorlink= Ann Williams (historian) |title= Æthelred the Unready: The Ill-Counselled King |publisher=Hambledon &amp; London |location=London |year=2003 |isbn=1-85285-382-4 }}
+{{refend}}
+
+==External links==
+* [http://www.english-heritage.org.uk/daysout/properties/1066-battle-of-hastings-abbey-and-battlefield/  Official English Heritage site]
+* [http://www.bbc.co.uk/history/british/normans/ Origins of the conflict, the battle itself and its aftermath] BBC History website
+
+{{Norman conquest of England}}
+
+{{Subject bar | portal1=Normandy |portal2=England |portal3=Anglo-Saxon England |portal4=Brittany |commons=y}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hastings 1066}}
+[[Category:1066 in England]]
+[[Category:Battles involving England]]
+[[Category:Conflicts in 1066]]
+[[Category:Hastings]]
+[[Category:History of East Sussex]]
+[[Category:Norman conquest of England]]
+[[Category:Registered historic battlefields in England]]
+[[Category:William the Conqueror]]
+[[Category:History of Sussex]]
+[[Category:Battles involving the Anglo-Saxons]]</text>
+      <sha1>rmqo6paxromw9wqdjvio7091wjym75f</sha1>
+    </revision>
+  </page>
+</mediawiki>

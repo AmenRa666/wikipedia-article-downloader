@@ -1,0 +1,325 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Colorado (BB-45)</title>
+    <ns>0</ns>
+    <id>196775</id>
+    <revision>
+      <id>751050595</id>
+      <parentid>746741947</parentid>
+      <timestamp>2016-11-23T02:13:56Z</timestamp>
+      <contributor>
+        <ip>134.223.230.155</ip>
+      </contributor>
+      <comment>Changed &quot;island of Gibraltar&quot; to &quot;peninsula of Gibraltar&quot;.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20134">{{Other ships|USS Colorado}}
+{{Use dmy dates|date=October 2012}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:USS Colorado (BB-45) New York 1932.jpg|300px]]
+| Ship caption = USS ''Colorado'' visiting New York City in 1932.
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country =United States
+| Ship flag = {{USN flag|1947}}
+| Ship name = ''Colorado''
+| Ship namesake = [[State of Colorado]]
+| Ship owner =
+| Ship operator =
+| Ship registry =
+| Ship route =
+| Ship ordered = 29 August 1916
+| Ship awarded =
+| Ship builder = [[New York Shipbuilding Corporation]]
+| Ship original cost =
+| Ship yard number =
+| Ship way number =
+| Ship laid down = 29 May 1919
+| Ship launched = 22 March 1921
+| Ship sponsor =Mrs. Max Melville
+| Ship christened =
+| Ship completed =
+| Ship acquired =
+| Ship commissioned = 30 August 1923
+| Ship recommissioned =
+| Ship decommissioned = 7 January 1947
+| Ship maiden voyage =
+| Ship in service =
+| Ship out of service =
+| Ship renamed =
+| Ship reclassified =
+| Ship refit =
+| Ship struck = 1 March 1959
+| Ship homeport =
+| Ship identification =
+| Ship motto =
+| Ship nickname =Buckin Bronco
+| Ship honors =7 [[battle stars]]
+| Ship fate = Sold for scrap, 23 July 1959
+| Ship status =
+| Ship notes =
+| Ship badge =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption = 
+| Ship class = {{sclass-|Colorado|battleship}}
+| Ship type =
+| Ship displacement = {{convert|32600|t|LT|order=flip}} (unloaded)
+| Ship length = {{convert|624|ft|3|in|abbr=on}}
+| Ship beam = {{convert|97.5|ft|m|abbr=on}}
+| Ship height =
+| Ship draft = {{convert|38|ft|m|abbr=on}}
+| Ship depth =
+| Ship decks =
+| Ship ramps =
+| Ship power =
+| Ship propulsion =
+| Ship speed = {{convert|21|kn|mph km/h|abbr=on}}
+| Ship range =
+| Ship endurance =
+| Ship boats =
+| Ship capacity =
+| Ship troops =
+| Ship complement =
+| Ship crew =
+| Ship time to activate =
+| Ship sensors =
+| Ship EW =
+| Ship armament =*  8 × [[16&quot;/45 caliber gun|{{cvt|16|in|0}}/45]] [[Caliber#Caliber as measurement of length|cal]] Mark 1 guns
+* 14 × [[5&quot;/51 caliber gun|{{cvt|5|in|0}}/51 caliber guns]]
+*  4 × [[3&quot;/23 caliber gun|{{cvt|3|in|0}}/23 caliber guns]]
+*  2 × {{cvt|21|in|0}} [[torpedo tube]]s
+  
+| Ship armor =* [[Belt armor|Belt]]: {{convert|8|-|13.5|in|abbr=on|0}}
+* [[Barbette]]s: {{convert|13|in|abbr=on|0}}
+* [[Gun turret#Warships|Turret]] face: {{convert|18|in|abbr=on|0}}
+* Turret sides: {{convert|9|-|10|in|abbr=on|0}}
+* Turret top: {{convert|5|in|abbr=on|0}}
+* Turret rear {{convert|9|in|abbr=on|0}}
+* [[Conning tower]]: {{convert|11.5|in|abbr=on|0}}
+* [[Deck (ship)|Decks]]: {{convert|3.5|in|abbr=on|0}}
+  
+| Ship aircraft =
+| Ship notes =
+}}
+|}
+
+The '''USS ''Colorado'' (BB-45)''' was a battleship of the [[United States Navy]] that was in service from 1923 to 1947. She was the [[lead ship]] of the {{sclass-|Colorado|battleship|4}} of [[battleship]]s and the third naval ship named for [[Colorado|the 38th state]]. Her keel was laid down on 29 May 1919 by the [[New York Shipbuilding Corporation]]. She was [[Ceremonial ship launching|launched]] on 22 March 1921 and [[ship commissioning|commissioned]] on 30 August 1923. She was armed with eight {{convert|16|in|mm|adj=on|0}} guns and fourteen 5-inch (127&amp;nbsp;mm) deck guns; two 5-inch guns were removed in an overhaul.
+
+''Colorado'' took her maiden voyage in 1923 to Europe. She later operated with the [[Battle Fleet]] and sailed through the Pacific during the interwar years. She also underwent a further refit, during which her four {{convert|3|in|adj=on|0}} anti-aircraft guns were replaced with an equal number of [[5&quot;/25 caliber gun|{{convert|5|in|mm|abbr=on|0}}/25 cal gun]]s.{{efn|/25 refers to the length of the gun in terms of [[Caliber (artillery)|calibers]]. A /25 gun is 25 times long as it is in bore diameter.}}
+
+During the early part of World War II, ''Colorado'' undertook a defensive patrol near the [[Golden Gate Bridge]] in May 1942 to stop a possible Japanese invasion. She then sailed to [[Fiji]] to stop any further Japanese advance into the Pacific. Next, she supported the landings on [[Tarawa]], the [[Marshall Islands]], [[Saipan]], [[Guam]], and [[Tinian]]. On 24 July 1944, during the shelling of Tinian, ''Colorado'' received 22 shell hits from shore batteries, but continued to support the invading troops until 3 August. She later arrived in [[Leyte Gulf]] on 20 November 1944 to support American troops fighting ashore. On 27 November, she was hit by two ''[[Kamikaze]]s'' which caused moderate damage.
+
+After that, ''Colorado'' sailed to [[Luzon]] on 1 January 1945, where she participated in the preinvasion bombardments in [[Lingayen Gulf]]. She returned to [[Okinawa]] on 6 August and sailed from there to [[Japan]] for the occupation of the country, arriving in [[Tokyo]] on 27 August. Departing Tokyo Bay on 20 September, she arrived at San Francisco on 15 October. She was placed out of commission in reserve in Pearl Harbor on 7 January 1947, and sold for scrapping on 23 July 1959. She won seven [[battle star]]s during her service. Many of ''Colorado''{{'}}s anti-aircraft guns are in museums across the state of Colorado (her bell and teak decking are also in museums) or mounted on the [[museum ship]] {{USS|Olympia|C-6|2}}.
+
+== Description ==
+{{Main|Colorado-class battleship}}
+
+''Colorado'' was {{convert|624|ft|3|in}} [[length overall|long overall]], had a [[beam (nautical)|beam]] of {{convert|97.5|ft|abbr=on}} and a [[draft (hull)|draft]] of {{convert|38|ft|abbr=on}}. She [[Displacement (ship)|displaced]] {{convert|32600|t|LT|order=flip}} as designed and up to {{convert|33590|t|LT|order=flip}} at full load. The ship was powered by a four-shaft turbo-electric drive, rated at {{convert|28900|shp|lk=in}} and eight [[Babcock &amp; Wilcox boiler]]s, generating a top speed of {{convert|21|kn|lk=in}}. She had a range of {{convert|8000|nmi|lk=in}} at a speed of {{convert|10|kn|lk=in}}. She had a crew of 1,080&amp;nbsp;officers and enlisted men.{{sfn|Gardiner|Gray|1985|p=[https://books.google.com/books?id=V2r_TBjR2TYC&amp;pg=PA118 118]}}{{sfn|DANFS Colorado (BB-45)}}
+
+She was armed with a [[main battery]] of eight [[16&quot;/45 caliber gun|{{convert|16|in|adj=on|0}}/45 caliber Mark 1 guns]] in four twin [[gun turret]]s on the centerline, two forward and aft. The secondary battery consisted of fourteen [[5&quot;/51 caliber gun|{{convert|5|in|adj=on|0}}/51 caliber guns]], two of which were removed in an overhaul. The anti-aircraft defense consisted of four [[3&quot;/23 caliber gun|{{convert|3|in|adj=on|0}}/23 caliber guns]], which were soon replaced, first by {{convert|5|in|adj=on|0}}/25 caliber guns, and then by [[5&quot;/38 caliber gun|{{convert|5|in|adj=on|0}}/38 caliber guns]]. As was standard for [[capital ship]]s of the period, ''Colorado'' carried two {{convert|21|in|abbr=on|0}} [[torpedo tube]]s in deck-mounted launchers.{{sfn|Gardiner|Gray|1985|p=[https://books.google.com/books?id=V2r_TBjR2TYC&amp;pg=PA118 118]}}{{sfn|DANFS Colorado (BB-45)}}
+
+''Colorado''{{'}}s main [[armored belt]] was {{convert|13.5|in|abbr=on|0}} thick over the magazines and the machinery spaces and {{convert|8|in|abbr=on|0}} elsewhere. The main battery gun turrets had {{convert|18|in|adj=on}} thick faces, and the supporting [[barbette]]s had {{convert|13|in|abbr=on}} of armor plating on their exposed sides. Armor that was {{convert|3.5|in|abbr=on|0}} thick protected the decks. The [[conning tower]] had {{convert|11|in|abbr=on}} thick sides.{{sfn|Gardiner|Gray|1985|p=[https://books.google.com/books?id=V2r_TBjR2TYC&amp;pg=PA118 118]}}{{sfn|DANFS Colorado (BB-45)}}
+
+== Construction and commission ==
+Her [[keel]] was laid down on 29 May 1919 by the [[New York Shipbuilding Corporation]] of [[Camden, New Jersey]]. She was [[Ceremonial ship launching|launched]] on 22 March 1921 sponsored by Mrs. Max Melville, Denverite, daughter of [[United States Senate|United States Senator]] from [[Colorado]] [[Samuel D. Nicholson]]; and [[ship commissioning|commissioned]] on 30 August 1923. The ship's first commanding officer was [[Captain (naval)|Captain]] [[Reginald R. Belknap]].{{sfn|DANFS Colorado (BB-45)}}{{sfn|Kearns|Morris|2011|p=47}}
+
+==Operational history==
+
+=== Inter-war period ===
+
+''Colorado'' departed New York Harbor on 29 December 1923 to start a maiden voyage to Europe. The voyage took her to Britain, France, Italy and the peninsula of [[Gibraltar]], with port calls to [[Portsmouth]], [[Cherbourg]], [[Villefranche-sur-Mer|Villefranche]], [[Naples]], and the British base at Gibraltar. She returned to New York Harbor on 15 February 1924 and upon her return completed some final tests and undertook some repairs before sailing to the U.S. West Coast for force assignment. She steamed from New York Harbor on 11 July and arrived at [[San Francisco]] on 15 September.{{sfn|DANFS Colorado (BB-45)}}
+
+Over the next twelve years, ''Colorado'' was assigned to the [[Pacific Battle Fleet]], during which time she participated in numerous exercises and ceremonies along with the rest of the fleet. She returned to the East Coast on several occasions to help with fleet problems in the [[Caribbean Sea|Caribbean]] and also took a cruise to [[Samoa]], Australia, and New Zealand from 8 June to 26 September 1925 to show the U.S. flag in the southwestern Pacific. She ran aground on the Diamond Shoals off [[Cape Hatteras]], [[North Carolina]], on 1 May 1927,&lt;ref&gt;{{Cite newspaper The Times |articlename=U.S. battleship aground |day_of_week=Monday |date=2 May 1927 |page_number=13 |issue=44570 |column=D }}&lt;/ref&gt; but was refloated on 2 May 1927.&lt;ref&gt;{{Cite newspaper The Times |articlename=U.S.S. Colorado refloated |day_of_week=Tuesday |date=3 May 1927 |page_number=15 |issue=44571 |column=E }}&lt;/ref&gt; She was overhauled in 1928&amp;ndash;1929, during which her four {{convert|3|in|adj=on}} anti-aircraft guns were replaced by eight [[5&quot;/25 caliber gun|{{convert|5|in|adj=on}}/25 caliber guns]].{{sfn|Breyer|1973|p=230}} In 1932, went to [[Long Beach, California|Long Beach]] to help with the damage caused by the earthquake there.{{sfn|DANFS Colorado (BB-45)}}
+
+In the summer of 1937 ''Colorado'' was the training ship for [[NROTC]] students from the [[University of Washington]] and [[University of California, Berkeley]]. She embarked the University of Washington students in [[Puget Sound]] on 15 June, and the University of California students four days later in [[San Francisco Bay]]. The ship arrived in [[Hilo, Hawaii]], on 26 June and sailed two days later for [[Lahaina Roads]], where the students practiced firing the 5&quot;/51 caliber guns in whose casemates they were berthed in [[hammock]]s.{{sfn|Dye|1997|pp=42–45}} [[Shore leave|Liberty]] in [[Honolulu]] began on 1 July, but was interrupted the following day so ''Colorado'' could join the search for [[Amelia Earhart]].{{sfn|Goldstein|Dillon|1997|p=251}} She rendezvoused with the [[Coast Guard cutter]] [[USCGC Itasca (1929)|''Itasca'']] on 7 July; and launched seaplanes to search the [[Phoenix Islands]]. After holding a [[line-crossing ceremony]] on 9 July, she returned the NROTC students to their schools on the west coast.{{sfn|Dye|1997|pp=42–45}}
+
+=== World War II ===
+[[File:US warships entering Lingayen Gulf 1945.jpg|thumb|{{USS|Pennsylvania|BB-38|2}} leading ''Colorado'', {{USS|Louisville|CA-28|2}}, {{USS|Portland|CA-33|2}}, and {{USS|Columbia|CL-56|2}} into [[Lingayen Gulf]] in October 1944.]]
+[[File:USS Colorado 3.jpg|thumb|USS ''Colorado'' off Tinian, on 24 July 1944, with hull damage, the result of 22 hits from shore batteries]]
+
+From 27 January 1941, ''Colorado'' was based in Pearl Harbor undergoing intensive training exercises and taking part in several war games until 25 June, when she departed Hawaii for the West Coast. Undergoing overhaul at the [[Puget Sound Navy Yard]], she was not present for the attack on Pearl Harbor on 7 December. During the refit, two of the 12 original 5 in/51 caliber guns were removed, and were replaced by an equal number of 5 in/38 caliber guns.{{sfn|Breyer|1973|p=230}} On 31 May, she and {{USS|Maryland|BB-46|2}} patrolled near [[Golden Gate Bridge]] to protect [[San Francisco]] from any Japanese attack.{{sfn|Turner Publishing|2002|p=15}}
+
+After refit work was completed on 31 March 1942, ''Colorado'' carried out extensive training maneuvers along the West Coast, before returning to Pearl Harbor to complete her final preparations for action. She operated in the vicinity of the [[Fiji|Fiji Islands]] and [[New Hebrides]] from 8 November 1942 to 17 September 1943 to prevent any further Japanese expansion in the Pacific. She sailed from Pearl Harbor on 21 October 1943 to provide pre-invasion shelling and fire support for the invasion of [[Tarawa]], returning to port on 7 December 1943. After another overhaul on the West Coast, ''Colorado'' returned to [[Lahaina Roads]], in the [[Hawaiian Islands]], on 21 January 1944 and sortied the next day for the [[Marshall Islands]]. She provided the pre-invasion bombardment and fire support for the invasions of [[Kwajalein]] and [[Eniwetok]] until 23 February, when she headed for the Puget Sound Navy Yard for another overhaul.{{sfn|Turner Publishing|2002|p=16}}
+
+She joined other units going for the [[Mariana Islands]] at the harbor at San Francisco. She departed on 5 May passing Pearl Harbor and Kwajalein to the pre-invasion shelling at [[Saipan]], [[Guam]], and [[Tinian]] after 14 June. During the shelling of Tinian on 24 July she was damaged, 43 men were killed, and 198 wounded by 22 shell hits from Japanese shore batteries; she continued shelling the island and providing fire support for the invasion troops. After undergoing extensive repairs along the West Coast, she arrived in [[Leyte Gulf]] to begin the invasion of Leyte. A week after her arrival she was struck by two ''[[kamikaze]]'' suicide bombers, which killed 19 crewmembers, injured 72, and moderately damaged the ship. Despite the damage, she bombarded [[Mindoro]] on schedule from 12 to 17 January 1945. She then proceeded to [[Manus Island]] for urgent repairs.{{sfn|DANFS Colorado (BB-45)}}{{sfn|Turner Publishing|2002|p=16}}
+
+She returned to [[Luzon]] on New Year's Day 1945 to participate in the pre-invasion shelling of the [[Lingayen Gulf]]. She was hit by accidental gunfire eight days later. The gunfire hit her superstructure, and caused 69 casualties (18 killed, 51 wounded). After a few repairs at the island of [[Ulithi]], she joined in the pre-invasion shelling group for the invasion of Okinawa at [[Kerama Retto]]. She stayed at Okinawa until 22 May, providing anti-aircraft cover and fire support for the invasion troops.{{sfn|DANFS Colorado (BB-45)}}{{sfn|Turner Publishing|2002|p=18}}{{sfn|Martin|1997|p=33}} On 6 August, she returned to the occupied [[Okinawa]] to sail to Japan for its occupation. On 27 August, she covered the airborne occupation of [[Atsugi Airfield]]. 
+
+''Colorado'' was awarded seven battle stars for her World War II service.{{sfn|DANFS Colorado (BB-45)}}
+
+===Post war===
+''Colorado'' departed [[Tokyo Bay]] on 20 September 1945 for San Francisco. She arrived there on 15 October, and then sailed for [[Seattle]] for [[Navy Day (United States)|Navy Day]] (27 October). She was part of the [[Operation Magic Carpet]] force, making three runs to Pearl Harbor to transport 6357 soldiers home, before returning to [[Bremerton Navy Yard]] for her deactivation. She was placed out of reserve commission on 7 January 1947 and was sold for scrap on 23 July 1959.{{sfn|Turner Publishing|2002|p=19}}
+
+== Artifacts on display ==
+
+The ship's bell is currently on display in the University Memorial Center (UMC) at the [[University of Colorado Boulder|University of Colorado]]. A {{convert|5|in|mm|abbr=on}}/51 cal deck gun from ''Colorado'' was donated to the Puget Sound Maritime Historical Society in 1959, and is displayed at the [[Museum of History and Industry]] in Seattle. It was one of eight such guns on ''Colorado''.{{sfn|Artifacts|2015}}
+
+Six of ''Colorado''{{'}}s 5/51 cal guns were put aboard the protected cruiser {{USS|Olympia|C-6|6}}, after she became a museum in Philadelphia in 1957. Boards from her deck were re-purposed to form a wall in the main lounge of [[Haggett Hall]] at the [[University of Washington]]. A plaque commemorates the source.{{sfn|Artifacts|2015}}
+
+On 7 February 2014, [[Boeing]] donated the teak decking of ''Colorado'' to the USO Northwest SeaTac Center to serve as the new center’s entry flooring.{{sfn|Ceremony|2014}} Her helm is in the collection of the Colorado Springs Museum. It was donated to the museum in 1961 by Rear Admiral G. R. Luker and other naval officers. Admiral Luker served on ''Colorado''. The donation also included a bronze plaque and other historical materials.{{sfn|Artifacts|2015}}
+
+== Notes ==
+{{notelist}}
+{{reflist|30em}}
+== References ==
+
+''' Book sources '''
+
+* {{cite book
+  | last = Breyer
+  | first = Siegfried
+  | year = 1973
+  | title = Battleships and Battle Cruisers 1905–1970
+  | location = [[New York City]]
+  | publisher = [[Doubleday and Company]]
+  | isbn = 0-385-07247-3
+  | ref = harv
+  }}
+
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships, 1906–1921
+  | location = [[Annapolis, Maryland]]
+  | publisher = [[Naval Institute Press]]
+  | isbn = 0-87021-907-3
+  | ref = harv
+  }}
+* {{cite book
+  |last1=Kearns
+  |last2=Morris
+  |first1=Patricia M.
+  |first2=James M.
+  |date=2011
+  |title=Historical Dictionary of the United States Navy
+  |edition=Second
+  |location=[[Lanham, Maryland]]
+  |publisher=[[Scarecrow Press]]
+  |isbn=0-8108-7229-3
+  |ref=harv
+  }}
+* {{cite book
+  |last=Martin
+  |first=Robert J.
+  |date=1997
+  |title=USS West Virginia (BB-48)
+  |location=[[Nashville, Tennessee]]
+  |publisher=[[Turner Publishing Company]]
+  |isbn=978-1-56311-341-3
+  |ref=harv
+  }}
+* {{cite book
+  | title=USS New York 
+  | publisher=Turner Publishing Company 
+  | author=Turner Publishing 
+  | year=2002 
+  | location=Nashville, Tennessee 
+  | isbn=1-56311-809-2 
+  |ref=harv
+  }}
+* {{cite book
+  |last = Goldstein  
+  |first = Donald M.
+  |last2 = Dillon
+  |first2 = Katherine V. 
+  |title = Amelia: The Centennial Biography of an Aviation Pioneer
+  |location = [[Washington, D.C.]]
+  |publisher = [[Brassey's Publishing]]
+  |date = 1997
+  |isbn = 1-57488-134-5
+  |ref = harv
+  }}
+* {{cite journal
+  |last=Dye 
+  |first=Ira 
+  |year=1997 
+  |title=Liberty Lost Pursuing a Legend 
+  |journal=Naval History 
+  |volume=11 
+  |issue=3 
+  |pages=42-45 
+  |publisher=[[United States Naval Institute]]
+  |ref=harv
+   }}
+''' News sources '''
+* {{cite web |first=Scott |last=Schaefer | date=7 February 2014 | url=http://seatacblog.com/2014/02/07/ceremony-held-for-transfer-of-uss-colorado-teak-decking-to-uso-center/ | title=Ceremony held for transfer of the USS Colorado's teak decking |work=The SeaTac Blog | publisher= South King Media | location=SeaTac, Washington | accessdate=22 July 2015 |ref={{sfnRef|Ceremony|2014}}}}
+
+''' Web sources '''
+* {{cite DANFS
+  | title = Colorado
+  | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/c/colorado-iii.html
+  | accessdate = 15 September 2011
+  | ref = {{sfnRef|DANFS Colorado (BB-45)}}
+  }}{{PD-notice}}
+* {{cite web|url=http://usscolorado.org/wordpress/?page_id=36 |title=USS Colorado (BB-45) – Memorials |author=USS Colorado Alumni Association |accessdate=29 June 2015 |publisher=USS Colorado Alumni Association |ref={{sfnRef|Artifacts|2015}}}}
+
+== External links ==
+{{Commons category|USS Colorado (BB-45)}}
+* [http://www.maritimequest.com/warship_directory/us_navy_pages/uss_colorado_bb45.htm MaritimeQuest USS Colorado BB-45 photo gallery]
+* {{navsource|01/45a|Colorado}}
+
+{{Colorado class battleship}}
+{{1927 shipwrecks}}
+{{Good Article}}
+
+{{DEFAULTSORT:Colorado (BB-45)}}
+[[Category:1921 ships]]
+[[Category:Colorado-class battleships]]
+[[Category:Ships built in Camden, New Jersey]]
+[[Category:United States Navy Colorado-related ships]]
+[[Category:World War II battleships of the United States]]
+[[Category:Maritime incidents in 1927]]</text>
+      <sha1>og7vrprpqp65il4qd74827infctcf4l</sha1>
+    </revision>
+  </page>
+</mediawiki>

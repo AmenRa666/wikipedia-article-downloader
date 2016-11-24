@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese battleship Yamashiro</title>
+    <ns>0</ns>
+    <id>976909</id>
+    <revision>
+      <id>723119276</id>
+      <parentid>721140610</parentid>
+      <timestamp>2016-06-01T03:53:57Z</timestamp>
+      <contributor>
+        <username>Dcirovic</username>
+        <id>11795905</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32323">{{featured article}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+ | Ship image=  [[File:Japanese battleships Yamashiro, Fuso and Haruna.jpg|300px]]
+ | Ship caption =  ''Yamashiro'' with [[Japanese battleship Fusō|''Fusō'']] and [[Japanese battleship Haruna|''Haruna'']] (in the distance), [[Tokyo Bay]], 1930s
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country =[[Empire of Japan]]
+| Ship flag =  {{shipboxflag|Empire of Japan|naval}}
+| Ship name =''Yamashiro''
+| Ship namesake =[[Yamashiro Province]]
+| Ship ordered =
+| Ship builder =[[Yokosuka Naval Arsenal]]
+|Ship laid down=20 November 1913
+|Ship launched=3 November 1915
+|Ship commissioned=31 March 1917
+|Ship struck=31 August 1945
+|Ship fate=Sunk during the [[Battle of Surigao Strait]], 25 October 1944
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Fusō|battleship}}
+|Ship displacement=*{{convert|29326|LT|t}} ([[Displacement (ship)#Standard displacement|standard]])
+*{{convert|35900|LT|t}} ([[Full-load displacement|full load]]) 
+|Ship length=*{{convert|192.024|m|ftin|sp=us}} ([[Length between perpendiculars|p.p.]])
+*{{convert|202.7|m|ft|sp=us}} ([[Length overall|o.a.]])
+|Ship beam={{convert|28.7|m|ftin|sp=us}}
+|Ship draft={{convert|8.7|m|ftin|sp=us}}
+|Ship power=*{{convert|40000|shp|lk=in|abbr=on}}
+*24 × Miyahara [[water-tube boiler]]s
+|Ship propulsion=*4 × shafts
+*2 × Brown-Curtis [[steam turbine]] sets    
+|Ship speed={{convert|22.5|kn|lk=in}}
+|Ship range={{convert|8000|nmi|lk=in|abbr=on}} at {{convert|14|kn}}
+|Ship complement=1,193
+|Ship sensors=
+|Ship armament=*6 × 2 - [[Vickers 14 inch/45 naval gun|{{convert|356|mm|in|0|abbr=on}} gun]]s
+*16 × 1 - {{convert|152|mm|in|0|abbr=on}} guns
+*6 × submerged {{convert|533|mm|in|0|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|305|mm|in|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|32|-|51|mm|in|abbr=on}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|102|-|305|mm|in|1|abbr=on}}
+*[[Barbette]]s: {{convert|203|-|305|mm|in|1|abbr=on}}
+*[[Gun turret|Turret]]s: {{convert|228.6|to|279|mm|in|1|abbr=on}}
+*[[Conning tower|Conning Tower]]: {{convert|351|mm|in|1|abbr=on}} 
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Header caption=(1944)
+|Ship displacement={{convert|34700|LT|t}}
+|Ship length={{convert|212.75|m|ft|abbr=on}} (o.a.)
+|Ship beam={{convert|33.1|m|ftin|abbr=on}}
+|Ship draft={{convert|9.69|m|ftin|sp=us}}
+|Ship power=*{{convert|75000|shp|abbr=on}}
+*6 × water-tube boilers
+|Ship propulsion=4 × steam turbines 
+|Ship speed={{convert|24.5|kn}}
+|Ship range={{convert|11800|nmi|abbr=on}} at {{convert|16|kn}}
+|Ship complement=approximately 1,900
+|Ship sensors=*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]]
+*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 13]] [[early warning radar]]
+*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 22]] surface search radar 
+|Ship armament=*6 × 2 - 356 mm guns
+*14 × 1 - 152 mm guns
+*4 × 2 - {{convert|127|mm|in|0|abbr=on}} [[dual-purpose gun]]s
+*92 × {{convert|25|mm|in|0|abbr=on}} AA guns 
+|Ship armor=Deck: {{convert|152|-|51|mm|in|abbr=on|0}}
+|Ship aircraft=3 × [[floatplane]]s
+|Ship aircraft facilities=1 × [[aircraft catapult|catapult]]
+}}
+|}
+
+{{nihongo|'''''Yamashiro'''''|山城, &quot;Mountain castle&quot;, named for [[Yamashiro Province]]}} was the second of two {{sclass-|Fusō|battleship|0}} [[dreadnought battleship]]s built for the [[Imperial Japanese Navy]]. Launched in 1915 and commissioned in 1917, she initially patrolled off the coast of China, playing no part in [[World War I]]. In 1923, she assisted survivors of the [[1923 Great Kantō earthquake|Great Kantō earthquake]].
+
+''Yamashiro'' was modernized between 1930 and 1935, with improvements to her armor and machinery and a rebuilt superstructure in the [[pagoda mast]] style. Nevertheless, with only [[Vickers 14 inch/45 naval gun|14-inch guns]], she was outclassed by other Japanese battleships at the beginning of [[World War II]], and played auxiliary roles for most of the war.
+
+By 1944, though, she was forced into front-line duty, serving as the flagship of [[Vice-Admiral]] [[Shōji Nishimura]]'s Southern Force at the [[Battle of Surigao Strait]], the southernmost action of the [[Battle of Leyte Gulf]]. During fierce night fighting in the early hours of 25 October against a superior American force, ''Yamashiro'' was sunk by [[torpedo]]es and naval gunfire.  Nishimura went down with his ship, and only 10 crewmembers survived.
+
+== Description ==
+The ship had a length of {{convert|192.024|m|sp=us}} [[Length between perpendiculars|between perpendiculars]] and {{convert|202.7|m|ft|sp=us}} [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|28.7|m|ftin|sp=us}} and a [[draft (ship)|draft]] of {{convert|8.7|m|sp=us}}.&lt;ref name=conways229&gt;Gardiner &amp; Gray, p. 229&lt;/ref&gt; ''Yamashiro'' [[displacement (ship)|displaced]] {{convert|29326|LT|t}} at [[Standard displacement#Standard displacement|standard load]] and {{convert|35900|LT|t}} at [[Full-load displacement|full load]]. Her crew consisted of 1,198 officers and enlisted men in 1915 and about 1,400 in 1935.&lt;ref name=j5&gt;Jentschura, Jung and Mickel, p. 25&lt;/ref&gt;
+
+During the ship's modernization during 1930–35, her forward superstructure was enlarged with multiple platforms added to her tripod foremast. Her rear superstructure was rebuilt to accommodate mounts for {{convert|127|mm|adj=on|sp=us}} [[anti-aircraft]] (AA) guns and additional [[Fire-control system#Naval fire control|fire-control directors]]. ''Yamashiro'' was also given [[torpedo bulge]]s to improve her underwater protection and to compensate for the weight of the additional armor. In addition, her stern was lengthened by {{convert|7.62|m|ft|sp=us}}. These changes increased her overall length to {{convert|212.75|m|ft|abbr=on}}, her beam to {{convert|33.1|m|ftin|abbr=on}} and her draft to {{convert|9.69|m|ftin|sp=us}}. Her displacement increased nearly {{convert|4000|LT|t}} to {{convert|39154|LT|t}} at deep load.&lt;ref name=j5/&gt;
+
+===Propulsion===
+The ship had two sets of [[John Brown and Company|Brown-Curtis]] direct-drive [[steam turbine]]s, each of which drove two propeller shafts. The turbines were designed to produce a total of {{convert|40000|shp|lk=in}}, using steam provided by 24 Miyahara-type [[water-tube boiler]]s, each of which consumed a mixture of coal and oil. ''Yamashiro'' had a stowage capacity of {{convert|4000|LT|t|abbr=on}} of coal and {{convert|1000|LT|t|abbr=on}} of [[fuel oil]],&lt;ref name=skulski17&gt;Skulski, p. 17&lt;/ref&gt; giving her a range of {{convert|8000|nmi|lk=in}} at a speed of {{convert|14|kn|lk=in}}. The ship exceeded her designed speed of {{convert|22.5|knots}} during her [[sea trial]]s, reaching {{convert|23.3|kn}} at {{convert|47730|shp|abbr=on}}.&lt;ref&gt;Jentschura, Jung and Mickel, pp. 25–26&lt;/ref&gt;
+
+During her modernization, the Miyahara boilers were replaced by six new Kanpon oil-fired boilers fitted in the former aft boiler room, and the forward [[funnel (ship)|funnel]] was removed. The Brown-Curtis turbines were replaced by four geared Kanpon turbines with a designed output of {{convert|75000|shp|abbr=on}}. On her trials, ''Yamashiro''{{'}}s [[sister ship]] ''Fusō'' reached a top speed of {{convert|24.7|kn}} from {{convert|76889|shp|abbr=on}}.&lt;ref name=conways229/&gt; The fuel storage of the ship was increased to a total of {{convert|5100|LT|t}} of fuel oil that gave her a range of {{convert|11800|nmi}} at a speed of {{convert|16|kn}}.&lt;ref name=skulski17/&gt;
+
+===Armament===
+The twelve 45-[[caliber (artillery)|calibre]] [[Vickers 14 inch/45 naval gun|14-inch]] guns of ''Yamashiro'' were mounted in six twin-gun turrets, numbered one through six from front to rear, each with an elevation range of &amp;minus;5 to +30 degrees.&lt;ref name=skulski18&gt;Skulski, p. 18&lt;/ref&gt; The turrets were arranged in an unorthodox 2-1-1-2 style with [[superfire|superfiring]] pairs of turrets fore and aft; the middle turrets were not superfiring, and had a funnel between them. The main guns and their turrets were modernized during the ship's 1930 reconstruction; the maximum elevation of the main guns was increased to +43 degrees, increasing their maximum range from {{convert|27800|to|35450|yd|m|disp=flip}}. Initially, the guns could fire at a rate of 1.5 [[Cartridge (firearms)|rounds]] per minute, and this was also improved during her first modernization.&lt;ref name=skulski18&gt;Skulski, p. 18&lt;/ref&gt;
+
+Originally, ''Yamashiro'' was fitted with a secondary armament of sixteen 50-caliber [[15 cm/50 41st Year Type|6-inch guns]] mounted in [[casemate]]s on the upper sides of the hull. Each gun could fire a [[Shell (projectile)#High-explosive|high-explosive projectile]] to a maximum range of {{convert|22970|yd|m}}&lt;ref name=skulski20&gt;Skulski, p. 20&lt;/ref&gt; at up to six shots per minute.&lt;ref&gt;Campbell, p. 189&lt;/ref&gt; She was later fitted with six high-angle 40-caliber [[8&amp;nbsp;cm/40 3rd Year Type naval gun|three-inch]] AA guns, in single mounts on both sides of the forward superstructure and both sides of the second funnel, as well as on both sides of the aft superstructure.&lt;ref name=conways229/&gt; These guns had a maximum elevation of +75 degrees, and could fire a {{convert|5.99|kg|lb|adj=on|1}} shell at a rate of 13 to 20 rounds per minute to a maximum height of {{convert|7200|m|ft|sp=us}}.&lt;ref&gt;Campbell, p. 198&lt;/ref&gt; The ship was also fitted with six submerged {{convert|533|mm|in|adj=on|sp=us}} [[torpedo tube]]s, three on each [[broadside]].&lt;ref name=skulski30&gt;Skulski, p. 30&lt;/ref&gt;
+[[File:Yamashiro and Kaga.jpg|thumb|right|''Yamashiro'' and the aircraft carrier {{ship|Japanese aircraft carrier|Kaga||2}} in Kobe Bay, October 1930]]
+
+During ''Yamashiro''{{'}}s modernization in the early 1930s, all six three-inch guns were removed and replaced with eight 40-caliber [[12.7 cm/40 Type 89 naval gun|127-millimeter]] [[dual-purpose gun]]s, fitted on both sides of the fore and aft superstructures in four twin-gun mounts.&lt;ref name=skulski21&gt;Skulski, p. 21&lt;/ref&gt; When firing at surface targets, the guns had a range of {{convert|14700|m|yd|sp=us}}; they had a maximum ceiling of {{convert|9440|m|ft|sp=us}} at their maximum elevation of +90 degrees. Their maximum rate of fire was 14 rounds a minute, but their sustained rate of fire was around eight rounds per minute.&lt;ref&gt;Campbell, pp. 192–93&lt;/ref&gt;
+
+The improvements made during the reconstruction increased ''Yamashiro''{{'}}s draft by {{convert|1|m|ftin|sp=us}}; the two foremost six-inch guns were removed, as the same guns on her sister ship {{ship|Japanese battleship|Fusō||2}} had gotten soaked in high seas after that ship's  reconstruction. The ship's light-AA armament was augmented by eight [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96]] light AA guns in twin-gun mounts. Four of these mounts were fitted on the forward superstructure, one on each side of the funnel and two on the rear superstructure.&lt;ref name=skulski30/&gt; This was the standard Japanese light-AA gun during World War II, but it suffered from severe design shortcomings that rendered it a largely ineffective weapon. According to historian Mark Stille, the twin and triple mounts &quot;lacked sufficient speed in train or elevation; the gun sights were unable to handle fast targets; the gun exhibited excessive vibration; the magazine was too small, and, finally, the gun produced excessive muzzle blast&quot;.&lt;ref name=stille11&gt;Stille, p. 11&lt;/ref&gt; The configuration of the AA guns varied significantly over time; in 1943, 17 single and two twin-mounts were added for a total of 37.&lt;ref name=stille23&gt;Stille, p. 23&lt;/ref&gt; In July 1944, the ship was fitted with another 24 single, nine twin and eight triple-mounts, for a total of 92 anti-aircraft guns in her final configuration.&lt;ref name=ha/&gt; The {{convert|25|mm|in|adj=on|sp=us}} gun had an effective range of {{convert|1500|-|3000|m|yd|sp=us}}, and an effective ceiling of {{convert|5500|m|ft|sp=us}} at an elevation of 85 degrees. The maximum effective rate of fire was only between 110 and 120 rounds per minute because of the frequent need to change the fifteen-round magazines.&lt;ref&gt;Campbell, p. 200&lt;/ref&gt;
+
+Also in July 1944, the ship was provided with three twin-gun and 10 single mounts for the license-built [[13.2 mm Hotchkiss machine gun]].&lt;ref name=ha/&gt; The maximum range of these guns was {{convert|6500|m|yd|sp=us}}, but the effective range against aircraft was only {{convert|1000|m|yd|sp=us}}. The cyclic rate was adjustable between 425 and 475 rounds per minute, but the need to change 30-round [[magazine (firearms)|magazines]] reduced the effective rate to 250 rounds per minute.&lt;ref&gt;Skulski, pp. 21–22&lt;/ref&gt;
+
+===Armor===
+The ship's [[waterline]] [[belt armor|armor belt]] was {{convert|229|to|305|mm|in|0|sp=us}} thick; below it was a [[strake]] of {{convert|102|mm|in|abbr=on|0}} armor. The [[deck (ship)|deck]] armor ranged in thickness from {{convert|32|to|51|mm|in|abbr=on|1}}. The turrets were protected with an armor thickness of {{convert|279.4|mm|in|abbr=on|1}} on the face, {{convert|228.6|mm|in|abbr=on|1}} on the sides, and {{convert|114.5|mm|in|abbr=on}} on the roof. The [[barbette]]s of the turrets were protected by armor 305&amp;nbsp;mm thick, while the casemates of the 152&amp;nbsp;mm guns were protected by 152&amp;nbsp;mm armor plates. The sides of the [[conning tower]] were {{convert|351|mm|in|sp=us}} thick. Additionally, the vessel contained 737 watertight compartments (574 underneath the armor deck, 163 above) to preserve buoyancy in the event of battle damage.&lt;ref&gt;Skulski, pp. 16, 101, 163&lt;/ref&gt;
+
+During her first reconstruction ''Yamashiro''{{'}}s armor was substantially upgraded. The deck armor was increased to a maximum thickness of {{convert|114|mm|in|abbr=on|1}}. A longitudinal [[bulkhead (partition)|bulkhead]] of {{convert|76|mm|in|abbr=on}} of high-tensile steel was added to improve the underwater protection.&lt;ref&gt;Skulski, pp. 16, 101&lt;/ref&gt;
+
+===Aircraft===
+[[File:Yamashiro Sparrow Hawk.jpg|thumb|left|A Sparrowhawk taking off in 1922]]
+''Yamashiro'' was briefly fitted with an aircraft [[flight deck|flying-off platform]] on Turret No. 2 in 1922. She successfully launched [[Gloster Sparrowhawk]] and [[Sopwith Camel]] [[fighter (aircraft)|fighters]] from it, the first Japanese ship to do so. During her modernization in the 1930s, a [[aircraft catapult|catapult]] and a collapsible [[crane (machine)|crane]] were fitted on the stern, and the ship was equipped to operate three [[floatplane]]s, although no [[hangar]] was provided. The initial [[Nakajima E4N|Nakajima E4N2]] biplanes were replaced by [[Nakajima E8N|Nakajima E8N2]] biplanes in 1938 and then by [[Mitsubishi F1M]] biplanes, from 1942 on.&lt;ref&gt;Skulski, pp. 25–26&lt;/ref&gt;
+
+===Fire control and sensors===
+The ship was originally fitted with two {{convert|3.5|m|ftin|adj=on|sp=us}} and two {{convert|1.5|m|ftin|adj=on|sp=us}} [[rangefinder]]s in her forward superstructure, a {{convert|4.5|m|ftin|adj=on|sp=us}} rangefinder on the roof of Turret No. 2, and 4.5-meter rangefinders in Turrets 3, 4, and 5.&lt;ref&gt;Skulski, pp. 28–29&lt;/ref&gt;
+
+While in [[drydock]] in July 1943, a [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]] was installed on the roof of the 10-meter rangefinder at the top of the pagoda mast. In August 1944, two Type 22 surface search radar units were installed on the pagoda mast and two Type 13 [[early warning radar]] units were fitted on her mainmast.&lt;ref name=ha&gt;Hackett&lt;/ref&gt;
+
+==Construction and service==
+[[File:Yamashiro torpedo net.jpg|thumb|left|''Yamashiro'' testing her [[torpedo net]]s at [[Yokosuka Naval Arsenal|Yokosuka]] in 1917]]
+''Yamashiro'', named for [[Yamashiro Province]], the former province of [[Kyoto]],&lt;ref&gt;Silverstone, p. 339&lt;/ref&gt; was [[Keel|laid down]] at the [[Yokosuka Naval Arsenal]] on 20 November 1913 and [[Ship naming and launching|launched]] on 3 November 1915. She was completed on 31 March 1917 with [[Captain (naval)|Captain]] [[Suketomo Nakajima]] in command,&lt;ref name=ha/&gt; and was assigned to the 1st Division of the [[1st Fleet (Imperial Japanese Navy)|1st Fleet]] in 1917–18. She did not take part in any combat during World War I, as there were no longer any forces of the [[Central Powers]] in East Asia by the time she was completed,&lt;ref&gt;Preston, p. 199&lt;/ref&gt; but she did patrol off the coast of China briefly during the war. On 29 March 1922, a Gloster Sparrowhawk fighter successfully took off from the ship. She aided survivors of the 1923 Great Kantō earthquake, in September 1923. Little detailed information is available about ''Yamashiro''{{'}}s activities during the 1920s, although she did make a port visit to [[Ryojun Guard District]], in [[Manchuria]], on 5 April 1925 and also conducted training off the coast of China.&lt;ref name=ha/&gt;
+
+The ship's reconstruction began on 18 December 1930 at the Yokosuka Naval Arsenal where her machinery was replaced, her armor was reinforced, and torpedo bulges were fitted. ''Yamashiro''{{'}}s armament was also upgraded and her torpedo tubes were removed. Captain [[Chuichi Nagumo]] assumed command of the ship on 15 November 1934, her modernization was completed on 30 March 1935, and she became flagship of the Combined Fleet. Captain [[Masakichi Okuma]] relieved Nagumo on 15 November and he, in turn, was replaced by Captain [[Masami Kobayashi]] on 1 December 1936. ''Yamashiro'' began a lengthy refit on 27 June 1937 and Captain [[Kasuke Abe]] assumed command on 20 October. Her refit was completed on 31 March 1938 and Captain [[Kakuji Kakuta]] relieved Abe on 15 November. In early 1941, the ship experimentally launched radio-controlled [[Kawanishi E7K|Kawanishi E7K2]] floatplanes. Captain [[Chozaemon Obata]] assumed command on 24 May 1941 and ''Yamashiro'' was assigned to the 1st Fleet's 2nd Division,&lt;ref group=Note&gt;Skulski and Preston use Squadron while Hackett uses BatDiv, presumably Battleship Division.&lt;/ref&gt; consisting of the two ''Fusō''-class and the two {{sclass-|Ise|battleship}}s.&lt;ref name=ha/&gt;
+
+===World War II===
+''Yamashiro'' and her sister ship ''Fusō'' spent most of the war around Japan, mostly at the anchorage at Hashirajima in Hiroshima Bay.&lt;ref name=stille23/&gt; When the war started for Japan on 8 December,&lt;ref group=Note&gt;[[Japan Standard Time]] is 19 hours ahead of [[Hawaiian Standard Time]], so in Japan, the [[attack on Pearl Harbor]] happened on 8 December.&lt;/ref&gt; the division, reinforced by the battleships {{ship|Japanese battleship|Nagato||2}} and {{ship|Japanese battleship|Mutsu||2}} and the light carrier {{ship|Japanese aircraft carrier|Hōshō||2}}, [[sortie]]d from [[Hashirajima]] to the Bonin Islands as distant support for the [[1st Air Fleet (Imperial Japanese Navy)|1st Air Fleet]] attacking [[Pearl Harbor]], and returned six days later.&lt;ref name=ha/&gt; On 18 April 1942, ''Yamashiro'' chased the [[Doolittle Raid]]er force that had just launched an air raid on Tokyo, but returned four days later without having made contact.&lt;ref name=whitley&gt;Whitley, p. 193&lt;/ref&gt; On 28 May, she set sail, commanded by Captain [[Gunji Kogure]], with the rest of the 2nd Battleship Division and the Aleutian Support Group at the same time that most of the Imperial Fleet began an attack on [[Midway Island]] ([[Operation MI]]).&lt;ref&gt;Rohwer, pp. 168–69&lt;/ref&gt;&lt;ref&gt;Parshall &amp; Tully, p. 454&lt;/ref&gt; Commanded by Vice-Admiral [[Shirō Takasu]], the division was composed of Japan's four oldest battleships, including ''Yamashiro'', accompanied by two [[light cruiser]]s, 12 [[destroyer]]s, and two [[oiler (ship)|oiler]]s. Official records do not show the squadron as part of the larger Midway operation, known as [[Operation AL]]; they were to accompany the fleet under Admiral [[Isoroku Yamamoto]], but were only to provide support to the Aleutian task force if needed.&lt;ref&gt;Parshall &amp; Tully, p. 46&lt;/ref&gt; They were not needed, and ''Yamashiro'' returned to home waters where she was employed mostly for training duties, in the Inland Sea till 1 February 1943 and at Yokosuka until September, when she became a training ship for midshipmen.&lt;ref name=stille23/&gt;&lt;ref name=whitley/&gt;
+
+In an effort to replace the aircraft carriers lost at the Battle of Midway, the Navy made plans to convert the two ''Fusō''-class ships to hybrid battleship/carriers, but the two ''Ise''-class battleships were chosen instead. In July 1943,  ''Yamashiro'' was at the Yokosuka drydock for fitting of a radar and additional 25&amp;nbsp;mm AA guns. The ship was briefly assigned as a training ship on 15 September before loading troops on 13 October bound for [[Chuuk Lagoon|Truk]] Naval Base, arriving with the battleship {{ship|Japanese battleship|Ise||2}} on the 20th. The two battleships sailed for Japan, accompanied by the carriers {{ship|Japanese aircraft carrier|Jun'yō||2}} and {{ship|Japanese aircraft carrier|Unyō||2}}, on 31 October.&lt;ref name=ha/&gt; On 8 November, the submarine {{USS|Halibut|SS-232|6}} fired torpedoes at ''Jun'yo'' that missed, but hit ''Yamashiro'' with a torpedo that failed to detonate.&lt;ref&gt;Tully, p. 30&lt;/ref&gt; ''Yamashiro'' resumed her training duties in Japan, and Captain [[Yoshioki Tawara]] assumed command. He was promoted to Rear Admiral on 1 May, but died of natural causes four days later,&lt;ref name=ha/&gt; and Captain [[Katsukiyo Shinoda]] was appointed to replace him.&lt;ref&gt;Tully, p. 37&lt;/ref&gt;
+
+During the [[invasion of Saipan|US invasion of Saipan]] in June 1944, Japanese troop ships attempting to reinforce the defenses were sunk by submarines. [[Shigenori Kami]], chief of operations of the Navy Staff, volunteered to command ''Yamashiro'' to carry troops and equipment to Saipan. If the ship actually reached the island, he intended to deliberately beach the ship before it could be sunk and to use its artillery to defend the island. After [[Ryūnosuke Kusaka]], [[Chief of staff (military)|Chief of Staff]] of the [[Combined Fleet]], also volunteered to go, [[Prime Minister of Japan|Prime Minister]] [[Hideki Tōjō]] approved the plan, known as Operation ''Y-GO'', but the operation was cancelled after the decisive defeat in the [[Battle of the Philippine Sea]] on 19 and 20 June.&lt;ref&gt;Tully, pp. 34–35&lt;/ref&gt;
+
+The ship was refitted in July at Yokosuka, where additional radar systems and light AA guns were fitted. ''Yamashiro'' and her sister ship were transferred to Battleship Division 2 of the [[2nd Fleet (Imperial Japanese Navy)|2nd Fleet]] on 10 September. The ship briefly became the division's [[flagship]] under Vice Admiral Shōji Nishimura until 23 September when he transferred his flag to ''Fusō''. They departed Kure on 23 September for [[Lingga Island]], carrying the Army's [[25th Independent Mixed Regiment]], and escaped an attack by the submarine {{USS|Plaice|SS-390|2}} the next day. They arrived on 4 October, where Nishimura transferred his flag back to ''Yamashiro''. The ships then transferred to Brunei to offload their toops and refuel in preparation for Operation ''Shō-Gō'', the attempt to destroy the American fleet conducting the [[invasion of Luzon]].&lt;ref name=ha/&gt;
+
+====Battle of Surigao Strait====
+[[File:Surigao straight.jpg|right|thumbnail|250px|The Battle of Surigao Strait]]
+
+As flagship of Nishimura's Southern Force, ''Yamashiro'' left [[Brunei]] at 15:30 on 22 October 1944, heading east into the [[Sulu Sea]] and then to the northeast into the [[Mindanao Sea]]. Intending to join Vice-Admiral [[Takeo Kurita]]'s force in [[Leyte Gulf]], they passed west of [[Mindanao Island]] into Surigao Strait, where they met a large force of battleships and cruisers lying in wait. The [[Battle of Surigao Strait]] would become the southernmost action in the Battle of Leyte Gulf.&lt;ref&gt;Tully, pp. xi, 43, 56&lt;/ref&gt;
+
+At 09:08 on 24 October, ''Yamashiro'', ''Fusō'' and the [[heavy cruiser]] [[Japanese cruiser Mogami (1934)|''Mogami'']] spotted a group of  27 planes, including [[Grumman TBF Avenger]] [[torpedo bomber]]s and [[Curtiss SB2C Helldiver]] [[dive bomber]]s escorted by [[Grumman F6F Hellcat]] fighters, coming from the carrier {{USS|Enterprise|CV-6|2}}.&lt;ref&gt;Tully, p. 66&lt;/ref&gt; Around 20 sailors on ''Yamashiro'' were killed by strafing and rocket attacks, and the ship [[list (watercraft)|listed]] by almost 15 degrees after a bomb's near miss damaged the hull and flooded the starboard [[bilge]], until counter-flooding in the port bilge righted the ship.&lt;ref&gt;Tully, pp. 68, 73&lt;/ref&gt;
+
+Nishimura issued a telegram to Admiral [[Soemu Toyoda]] at 20:13: &quot;It is my plan to charge into Leyte Gulf to [reach] a point off Dulag at 04:00 hours on the 25th.&quot;&lt;ref&gt;Tully, p. 100&lt;/ref&gt; At 22:52, his force opened fire, damaging {{USS|PT 130||2}} and {{USS|PT 152||2}} and forcing them to retreat before they could launch their torpedoes.&lt;ref&gt;Tully, pp. 110–12&lt;/ref&gt; Three American destroyers launched torpedoes at 03:00 that morning, hitting ''Fusō'' at 03:08 and forcing her to fall out of formation. ''Yamashiro'' opened fire with her secondary battery seven minutes later.&lt;ref&gt;Tully, pp. 149, 152–53&lt;/ref&gt; Around 03:11, the destroyers [[USS Monssen (DD-798)|''Monssen'']] and [[USS Killen (DD-593)|''Killen'']] fired their torpedoes, one or two of which hit ''Yamashiro'' [[amidships]]. The resulting damage temporarily slowed the ship down, gave her a list to port and forced the flooding of the [[magazine (artillery)|magazine]]s for the two aft turrets. ''Yamashiro'' may have been hit a third time near the bow at 03:40.&lt;ref&gt;Tully, pp. 160, 171–72&lt;/ref&gt;
+
+At 03:52, the battleship was attacked by a large formation to the north commanded by Rear Admiral [[Jesse Oldendorf]]. First came 6- and {{convert|8|in|adj=on}} shells from three heavy cruisers, {{USS|Louisville|CA-28|2}}, {{USS|Portland|CA-33|2}}, and {{USS|Minneapolis|CA-36|2}}, and four light cruisers, {{USS|Denver|CL-58|2}}, {{USS|Columbia|CL-56|2}}, {{USS|Phoenix|CL-46|2}} and {{USS|Boise|CL-47|2}}.&lt;ref&gt;Tully, pp. 184, 190&lt;/ref&gt; Six battleships formed a battle line; the Pearl Harbor veteran {{USS|West Virginia|BB-48|2}} was the first to open fire a minute later, scoring at least one hit with {{convert|16|in|adj=on}} shells in the first {{convert|20800|m|yd|adj=on|sp=us}} salvo,&lt;ref&gt;Tully, p. 191&lt;/ref&gt; followed by {{USS|Tennessee|BB-43|2}} and {{USS|California|BB-44|2}}. Hampered by older radar equipment, {{USS|Maryland|BB-46|2}} joined the fight late, {{USS|Pennsylvania|BB-38|2}} never fired,&lt;ref&gt;Tully, pp. 195, 196, 206&lt;/ref&gt; and {{USS|Mississippi|BB-41|2}} managed to fire exactly one salvo—the last of the engagement. The Australian heavy cruiser [[HMS Shropshire (83)|HMAS ''Shropshire'']] also had radar problems and did not begin firing until 03:56.&lt;ref&gt;Tully, pp. 195, 215&lt;/ref&gt;
+
+The main bombardment lasted 18 minutes, and ''Yamashiro'' was the only target for seven of them.&lt;ref&gt;Tully, p. 197&lt;/ref&gt; The first rounds hit the [[forecastle]] and pagoda mast, and soon the entire battleship appeared to be ablaze. ''Yamashiro''{{'s}} two forward turrets targeted her assailants, and the secondary armament targeted the American destroyers plaguing ''Mogami'' and the destroyer [[Japanese destroyer Asagumo (1938)|''Asagumo'']].&lt;ref&gt;Tully, pp. 198, 199&lt;/ref&gt; The ship continued firing in all directions, but was not able to target the battleships with the other four operable 14-inch guns of her amidships turrets until almost 04:00, after turning west.&lt;ref&gt;Tully, p. 206&lt;/ref&gt; There was a big explosion at 04:04, possibly from one of the middle turrets. ''Yamashiro'' increased her firing rate between 04:03 and 04:09, despite the widespread fires and damage, and was hit during this time near the starboard engine room by a torpedo. By 04:09, her speed was back up to 12 knots, and Nishimura wired to Kurita: &quot;We proceed till totally annihilated. I have definitely accomplished my mission as pre-arranged. Please rest assured.&quot;&lt;ref&gt;Tully, p. 212&lt;/ref&gt; At the same time, Oldendorf issued a brief cease-fire order to the entire formation after hearing that the destroyer [[USS Albert W. Grant (DD-649)|''Albert W. Grant'']] was taking [[friendly fire]], and the Japanese ships also ceased fire.&lt;ref name=&quot;Tully 214 15&quot;&gt;Tully, pp. 214–15&lt;/ref&gt;
+
+''Yamashiro'' increased speed to 15 knots in an attempt to escape the trap,&lt;ref name=&quot;Tully 214 15&quot;/&gt; but she had already been hit by two to four torpedoes, and after two more torpedo hits near the starboard engine room, she was listing 45&amp;nbsp;degrees to port. Shinoda gave the command to abandon ship, but neither he nor Nishimura made any attempt to leave the conning tower as the ship capsized within five minutes and quickly sank, stern first, vanishing from radar between 04:19 and 04:21.&lt;ref&gt;Tully, pp. 216–17&lt;/ref&gt; Only 10 crewmembers of the estimated 1,636 officers and crew on board survived.&lt;ref&gt;Tully, p. 218&lt;/ref&gt;
+
+[[John Bennett (diver)|John Bennett]] claimed to have discovered ''Yamashiro''{{'}}s wreck in April 2001, but confirmation of the wreck's identity has not been made as of 2013.&lt;ref&gt;{{cite web|url=http://www.combinedfleet.com/Surigao.htm|title=Important Announcement: Dives at Surigao Strait|last=Tully|first=Anthony P.|date=9 May 2001|work=A.P. Tully Message Board|publisher=Combinedfleet.com|accessdate=5 May 2013}}&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|colwidth=20em}}
+
+==References==
+*{{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+*{{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5}}
+*{{cite web|url=http://www.combinedfleet.com/Yamashiro.html|title=IJN Yamashiro: Tabular Record of Movement|last=Hackett|first=Bob|year=2010|publisher=Combinedfleet.com|accessdate=18 February 2013}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869&amp;ndash;1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn=0-87021-893-X}}
+*{{cite book |author1=Parshall, Jonathan |author2=Tully, Anthony |title=Shattered Sword: The Untold Story of the Battle of Midway |publisher=Potomac Books |location=Washington, DC |year=2007 |pages= |isbn=1-57488-924-9 }}
+*{{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+*{{cite book |author=Rohwer, Jurgen |title=Chronology of the War at Sea, 1939–1945: The Naval History of World War Two |publisher=Naval Institute Press |location=Annapolis, Maryland |year=2005 |isbn=1-59114-119-2 }}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Skulski|first=Janusz|title=The Battleship Fuso|year=1998|series=Anatomy of the Ship|publisher=Conway Maritime Press|location=London|isbn=0-85177-665-5}}
+*{{cite book |last=Stille |first=Mark |title=Imperial Japanese Navy Battleships 1941–45| series =New Vanguard|volume=146 |publisher=Osprey Publishing |location=Botley, Oxford, UK |year=2008 |isbn=1-84603-280-6 }}
+*{{cite book|title=Battle of Surigao Strait |last=Tully|first=Anthony P. |publisher=Indiana University Press|location=Bloomington, Indiana |year=2009 |isbn=978-0-253-35242-2}}
+*{{cite book |last=Whitley|first=M. J. |title=Battleships of World War Two: An International Encyclopedia |publisher=Naval Institute Press |location=Annapolis, Maryland |year=1999 |isbn=1-55750-184-X}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commonscat-inline|Yamashiro (ship, 1917)|Yamashiro}}
+
+{{Fusō class battleship}}
+{{October 1944 shipwrecks}}
+
+{{DEFAULTSORT:Yamashiro}}
+[[Category:Fusō-class battleships]]
+[[Category:Ships built in Japan]]
+[[Category:1915 ships]]
+[[Category:World War I battleships of Japan]]
+[[Category:World War II battleships of Japan]]
+[[Category:Shipwrecks in the Surigao Strait]]
+[[Category:World War II shipwrecks in the Pacific Ocean]]
+[[Category:Maritime incidents in October 1944]]</text>
+      <sha1>czmtmeliw3t9adp2p6urfh7qiswuriy</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,100 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:George Ingram</title>
+    <ns>1</ns>
+    <id>5608999</id>
+    <revision>
+      <id>698423070</id>
+      <parentid>660743416</parentid>
+      <timestamp>2016-01-06T00:56:44Z</timestamp>
+      <contributor>
+        <username>Steel1943</username>
+        <id>2952402</id>
+      </contributor>
+      <comment>/* Correct school ? */ Bypass template redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2130">{{talkheader}}
+{{ArticleHistory
+| action1       = GAN
+| action1date   = 22:12, 16 November 2008 (UTC)
+| action1link   = Talk:George Ingram/GA1
+| action1result = listed
+| action1oldid  = 252233716
+
+|action2=WAR
+|action2date=21:01, 10 December 2008 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/George Ingram
+|action2result=approved
+|action2oldid=252905661
+
+| currentstatus = GA
+| itndate       = 
+| dykdate       = 
+| maindate      = 
+| topic         = War and military
+}}
+{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=A|A-Class=pass|ANZSP=y|Biography=y|WWI=y|WWII=y}}
+{{WikiProject Biography|living=n|class=GA|listas=Ingram, George Morby|military-work-group=y|military-priority=Mid}}
+{{WikiProject Australia|class=A|importance=Mid|military=y|military-importance=Mid}}
+}}
+{{Wikiproject VC migration}}
+{{Talk:George Ingram/GA1}}
+
+== Correct school ? ==
+
+{{OTRS talk|issue=|otrs=2015042710011054}}
+I've had an OTRS contact that brings into doubt his school. There is a plaque on the side of the Seville State School that states he attended that school along with his two brothers. Yet the  Australian Dictionary of Biography states he went to Lilydale. Perhaps he attended both ? - [[User:Peripitus |Peripitus]] [[User talk:Peripitus|(Talk)]] 10:50, 3 May 2015 (UTC)
+:It is, of course, possible that he attended both. However, I don't believe I have seen mention elsewhere that he attended the Seville State School. Cheers, [[User:Abraham, B.S.|Abraham, B.S.]] ([[User talk:Abraham, B.S.|talk]]) 01:25, 4 May 2015 (UTC)
+There appear to be some references for the Seville School
+*{{cite news|url=http://mountainviews.starcommunity.com.au/mail/2015-02-17/honour-for-vc-recipient/|title=Honour for VC recipient|last=Douglas|first=Peter|date=17 February 2015|accessdate=4 May 2015|publisher=Star News Group|work=Mountain Views Mail}}
+*{{cite web|url=https://www.aif.adfa.edu.au/showPerson?key=INGRAM/GM/5919|title=George Morby INGRAM|publisher= UNSW Canberra|accessdate=4 May 2015}}
+Whether this is relevant or not I don't know - [[User:Peripitus |Peripitus]] [[User talk:Peripitus|(Talk)]] 10:32, 4 May 2015 (UTC)</text>
+      <sha1>4wd0jc48zzaqxpg3ouirmedk2xo1v26</sha1>
+    </revision>
+  </page>
+</mediawiki>

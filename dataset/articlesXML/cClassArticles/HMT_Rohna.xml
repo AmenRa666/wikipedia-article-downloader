@@ -1,0 +1,244 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMT Rohna</title>
+    <ns>0</ns>
+    <id>239688</id>
+    <revision>
+      <id>743783199</id>
+      <parentid>723769205</parentid>
+      <timestamp>2016-10-11T07:12:14Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23553">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Troopship, the HMT Rohna.jpeg|300px]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= [[United Kingdom|UK]]
+|Ship flag= {{shipboxflag|UK|civil}}
+|Ship class=
+|Ship name= ''Rohna''
+|Ship namesake= Rohna, [[Punjab region|Punjab]]
+|Ship owner= [[British India Steam Navigation Company|British India SN Co]]
+|Ship operator= British India SN Co
+|Ship registry= {{flagicon|UK|civil}} [[Port of London|London]]
+|Ship ordered= 
+|Ship awarded=
+|Ship builder=[[Hawthorn Leslie]], [[Hebburn]], England
+|Ship yard number= 542
+|Ship laid down=
+|Ship launched= 24 August 1926
+|Ship completed= 5 November 1926
+|Ship acquired=
+|Ship commissioned= 15 March 1941
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship identification=*UK [[official number]] 149745
+*[[code letters]] KVLS (until 1933)
+*{{ICS|Kilo}}{{ICS|Victor}}{{ICS|Lima}}{{ICS|Victor}}
+*[[Call sign#Ships and boats|call sign]] GMSF (from 1934)
+*{{ICS|Golf}}{{ICS|Mike}}{{ICS|Sierra}}{{ICS|Foxtrot}}
+|Ship renamed=
+|Ship reclassified=
+|Ship fate= Sunk by air attack 26 November 1943
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship tonnage=*{{GRT|8602}}
+*tonnage under deck 6,681
+*{{NRT|4759}}
+*{{DWT|9400|long|disp=}}
+|Ship displacement=
+|Ship length= {{convert|461.4|ft|abbr=on}}
+|Ship beam= {{convert|61.8|ft|abbr=on}}
+|Ship draught= {{convert|33|ft|0|in|abbr=on}}
+|Ship depth= {{convert|29.9|ft|abbr=on}}
+|Ship decks= 3
+|Ship power=*984 [[Horsepower#Nominal horsepower|NHP]]
+*5,000 [[Horsepower#Indicated horsepower|ihp]]
+|Ship propulsion=*2 × [[Marine steam engine#Triple or multiple expansion|quadruple expansion steam engines]];
+*twin [[Propeller|screws]]
+|Ship speed=*{{convert|14.3|kn|km/h|lk=in}} top speed
+*{{convert|12.5|kn|km/h}} cruising speed
+|Ship range=
+|Ship crew=*195 (peacetime)
+*200 crew + 12 [[Defensively equipped merchant ship|DEMS]] gunners (as troop ship)
+|Ship capacity=*281 First Class
+*33 Second Class
+*100 Third Class
+*5,064 deck passengers,
+*reduced in 1931 to 3,851
+|Ship troops=
+|Ship sensors= [[direction finding]] equipment
+|Ship armament= *(1943):
+*1 × {{convert|4|in|0|abbr=on}} [[BL 4 inch naval gun Mk VII|naval gun]]
+*1 × {{convert|3|in|0|abbr=on}} [[QF 12-pounder 12 cwt naval gun|12-pounder HA/LA gun]]
+*6 × {{convert|20|mm|abbr=on}} [[Oerlikon 20 mm cannon|Oerlikon anti-aircraft guns]]
+*2 × [[Hotchkiss M1914 machine gun|Hotchkiss guns]]
+*2 × 2 {{convert|0.5|in|1|abbr=on}} [[Lewis gun]]s
+*1 × {{convert|2|in|abbr=on}} Rocket Mounting Mk II (&quot;pillar box&quot;)
+*4 × FAMS
+*2 × [[Unrotated Projectile]] launchers
+|Ship armour=
+|Ship notes= [[sister ship]]: {{SS|Rajula||2}}
+}}
+|}
+
+'''HMT ''Rohna''''' was a [[British India Steam Navigation Company]] [[Passenger ship|passenger]] and [[cargo liner]] that was built on [[River Tyne|Tyneside]] in 1926 as '''SS ''Rhona''''' and requisitioned as a [[Troopship|troop ship]] in 1940. (&quot;HMT&quot; stands for His Majesty's Transport.) ''Rohna'' was sunk in the Mediterranean in November 1943 by a [[Henschel Hs 293]] guided glide bomb launched by a ''[[Luftwaffe]]'' aircraft. More than 1,100 people were killed, most of whom were [[United States Army|US troops]].
+
+==Building==
+In 1925 British India Line ordered two new ships for its [[Chennai Port|Madras]] – [[Nagapattinam|Nagapatam]] – [[Port of Singapore|Singapore]] service. They were [[sister ship]]s but were built by different shipyards and had different engines. [[Hawthorn Leslie and Company]] built ''Rohna'' at its shipyard at [[Hebburn]] on [[River Tyne|Tyneside]]. [[Barclay Curle|Barclay, Curle and Company]] built {{SS|Rajula||2}} in [[Glasgow]] on [[River Clyde|Clydeside]]. Both ships were launched and completed in 1926.
+
+''Rohna'' was launched on 24 August 1926 and completed on 5 November. She was named after a village in [[Sonipat district|Sonipat]], [[Punjab region|Punjab]], [[British Raj|India]].&lt;ref name=Troopships&gt;{{cite web |last=Milligan |first=David |title=The Troopships 1923 to End |work=merchantnavyofficers.com |publisher= |url= http://www.merchantnavyofficers.com/Troopships2.html |accessdate=6 August 2014}}&lt;/ref&gt; She had 15 corrugated furnaces that heated five single-ended boilers with a combined heating surface of {{convert|14080|sqft|0}}. These fed steam at 215 [[Pounds per square inch|lb&lt;sub&gt;f&lt;/sub&gt;/in&lt;sup&gt;2&lt;/sup&gt;]] to two four-cylinder [[Marine steam engine#Triple or multiple expansion|quadruple expansion steam engines]], developing a total of 984 [[Horsepower#Nominal horsepower|NHP]].&lt;ref&gt;{{cite book |url= http://www.plimsollshipdata.org/pdffile.php?name=33b0751.pdf |year=1933 |title=Lloyd's Register, Steamers &amp; Motorships |location=London |publisher=[[Lloyd's Register]] |accessdate=5 August 2014}}&lt;/ref&gt; Each engine drove one of the ship's twin [[Propeller|screws]], giving ''Rohna'' 984 [[Horsepower#Nominal horsepower|NHP]] or 5,000 [[Horsepower#Indicated horsepower|ihp]].&lt;ref name=Troopships/&gt; She achieved {{convert|14.3|kn|km/h|lk=in}} on her [[sea trial]]s and had a cruising speed of {{convert|12.5|kn|km/h}}.&lt;ref name=RohnaMNO&gt;{{cite web |last1=Wills |first1=J.E. |last2=Frolich |first2=Alexander |title=Rohna, (British India Steam Navigation Co Ltd), 1926–1943 |work=merchantnavyofficers.com |publisher= |url= http://www.merchantnavyofficers.com/rohna2.html |accessdate=8 December 2010}}&lt;/ref&gt;
+
+By 1934 ''Rohna'' carried wireless [[direction finding]] equipment.&lt;ref&gt;{{cite book |url= http://www.plimsollshipdata.org/pdffile.php?name=34b0713.pdf |year=1934 |title=Lloyd's Register, Steamers &amp; Motorships |location=London |publisher=[[Lloyd's Register]] |accessdate=5 August 2014}}&lt;/ref&gt;
+
+==Civilian service==
+Instead of taking up her Madras – Nagapatam – Singapore route immediately, ''Rohna'' spent her first six months of service taking military reinforcements to Shanghai. As a result, she did not start her intended service until June 1927.&lt;ref name=Troopships/&gt;
+
+===Cyclone in Madras===
+On 31 October 1927 ''Rohna'' was moored to a [[buoy]] in [[Chennai Port|Madras Harbour]] in India when a weather signal and falling air pressure warned of the approach of a [[tropical cyclone]]. Her [[Sea captain|Master]], EG Carré, had her [[Port and starboard|starboard]] anchor laid out with {{convert|90|fathom|m}} of cable, and got the engineers to raise steam so that her main engines could be started if needed.{{sfn|Carré|1936|p=58}}
+
+By 0700 hrs on 1 November a heavy swell was running within the harbour, at times lifting the four-ton mooring buoy completely out of the water. By 1100 hrs there was also heavy rain and ''Rohna''{{'}}s [[bridge (nautical)|bridge]] ordered the engines to &quot;stand by&quot;.{{sfn|Carré|1936|p=58}} Ten minutes later the anchor cable parted, shaking the ship. She was now dragging her [[Port and starboard|port]] anchor, which Captain Carré therefore decided to have hauled in.{{sfn|Carré|1936|p=61}}
+
+Weighing anchor would take about 20 minutes, so in the meantime Carré had ''Rohna'' got underway to avoid being run onto the harbour breakwater. Other ships were moored in the harbour, and Carré's helmsman had to steer through a narrow space between two of them in a very heavy sea.{{sfn|Carré|1936|p=61}} Eventually ''Rohna'' was able to make for the harbour mouth and put to sea and head 20 miles south to where the storm was less severe. Next day the cyclone had passed and ''Rohna'' returned to port.{{sfn|Carré|1936|p=62}}
+
+===Deck passengers===
+When new, ''Rohna'' was certified to carry 5,064 deck passengers. In 1931 new regulations called the Simla Rules (superseded in 1948 by the [[SOLAS Convention]]) reduced this to 3,851, but this was still more than any other UK-registered ship.&lt;ref name=Troopships/&gt;
+
+==War service==
+When the UK entered the [[World War II|Second World War]] in September 1939 ''Rohna'' was in the [[Indian Ocean]]. Apart from a voyage from Karachi to Suez with [[List of Allied convoy codes during World War II#K|Convoy K]] 4, ''Rohna'' operated unescorted between Rangoon and Madras until late November. On 10 December she left Bombay for the Mediterranean, passing through the [[Suez Canal]] on 20–21 December and reaching [[Marseille-Fos Port|Marseille]] on 26 December. From 3 January 1941 until 10 March she operated unescorted between Marseille and [[Port of Haifa]] in [[Mandatory Palestine]], at first in convoys but after 29 January independently.&lt;ref name=Hague&gt;{{cite web |url= http://www.convoyweb.org.uk/ports/index.html?search.php?vessel=ROHNA~armain |last=Hague |first=Arnold |title=Rohna |work=Ship Movements |publisher=Don Kindell, ConvoyWeb |accessdate=7 August 2014}}&lt;/ref&gt;
+
+On 15 March 1940 ''Rohna'' returned through the Suez Canal to the Indian Ocean, where she operated unescorted between [[Mumbai Harbour|Bombay]], [[Rangoon]] and [[Colombo Harbour|Colombo]] until June. In may she was requisitioned as a troop ship&lt;ref name=Troopships/&gt; and on 6 June she left Bombay for [[Port of Durban|Durban]]. She then ran between Durban, [[Kilindini Harbour|Mombasa]] and [[Port of Dar es Salaam|Dar es Salaam]] until 28 July, when she left Mombasa for Bombay.&lt;ref name=Hague/&gt;
+
+''Rohna'' took troops from Bombay to Suez in August 1940 in [[List of Allied convoy codes during World War II#B|Convoy BN]] 3 and from Bombay to [[Port Sudan]] in September/October 1940 in Convoy BN 6. She made further trips from Bombay to Suez in November 1940 in Convoy BN 8A, from Colombo to Suez in February 1941 in [[List of Allied convoy codes during World War II#U|Convoy US]] 8/1 and from Bombay to Singapore in March 1941 in [[List of Allied convoy codes during World War II#B|Convoy BM]] 4. The day after the [[1941 Iraqi coup d'état|Iraqi ''coup d'état'']] in April 1941 ''Rohna'' was ordered to [[Port of Karachi|Karachi]], whence she took some of the first elements of [[Iraqforce]] to [[Port of Basra|Basra]] in [[List of Allied convoy codes during World War II#B|Convoy BP]] 2. During the [[Anglo-Iraqi War]] in May the ship made a second trip from Karachi to Basra in Convoy BP 5. After the Allied victory in Iraq at the end of May she spent the rest of the year running between Basra and Bombay, each time going to Basra in a BP-series convoys and returning independently.&lt;ref name=Hague/&gt;
+
+On 8 December 1941 [[Malayan Campaign|Japan invaded Malaya]]. A month later ''Rohna'' left Bombay for Singapore in Convoy BM 10, arriving on 25 January 1942. She left on 28 January in [[List of Allied convoy codes during World War II#N|Convoy NB]] 1, a fortnight before [[Battle of Singapore#Fall of Singapore|Singapore was surrendered to Japan]]. From March 1942 ''Rohna'' spent a year criss-crossing the Indian Ocean between Bombay, Karachi, Colombo, Basra, [[Colony of Aden|Aden]], [[Suez]], [[Khorramshahr]], [[Bandar Abbas]], [[Bahrain]] and [[Abadan, Iran|Âbâdân]]; sometimes in convoys but much of the time unescorted. In March 1943 she sailed from Bombay in Convoy BA 40 to Aden and then independently to Suez, where she passed through the canal on 6–7 April.&lt;ref name=Hague/&gt;
+
+For the remainder of her career ''Rohna'' supported the [[North African Campaign]], the [[Allied invasion of Sicily]] and the [[Allied invasion of Italy]]. Until the beginning of July she ran independently between [[Alexandria Port|Alexandria]], [[Port of Tripoli|Tripoli]] and [[Sfax]]. From then on she sailed mostly in convoys, working between Alexandria, [[Malta]], Tripoli, [[Augusta, Sicily|Augusta]], [[Port Said]], [[Bizerte|Bizerta]] and [[Oran]].&lt;ref name=Hague/&gt;
+
+==Loss==
+{{location map |Mediterranean |lat_deg=37 |lat_min=1 |lon_deg=5 |lon_min=12 |caption=Approximate position of ''Rohna''{{'}}s wreck off the coast of Algeria |relief=yes}}
+At 1230 hrs on 25 November 1943 ''Rohna'' and four other troop ships left Oran in [[French Algeria]].&lt;ref name=Troopships/&gt; At sea three hours later they joined [[List of Allied convoy codes during World War II#K|Convoy KMF]] 26 which was passing on its way from Britain to Alexandria.&lt;ref name=RohnaMNO/&gt;&lt;ref&gt;{{cite web |url= http://www.convoyweb.org.uk/kmf/index.html?kmf.php?convoy=26!~kmfmain |last=Hague |first=Arnold |title=Convoy KMF.26 |work=KMF Convoy Series |publisher=Don Kindell, ConvoyWeb |accessdate=7 August 2014}}&lt;/ref&gt;
+
+About 1630 hrs the next day off [[Béjaïa|Bougie]] the convoy was attacked by about 30 ''[[Luftwaffe]]'' [[Heinkel 177]] bombers escorted by [[Junkers Ju 88]] aircraft, followed by between six and nine torpedo bombers. At the time the convoy had a limited air escort of four land-based [[Free French Air Force]] [[Supermarine Spitfire|Spitfires]]. Later in the course of the attack they were relieved by [[Royal Air Force|RAF]] Spitfires.&lt;ref name=RohnaMNO/&gt;
+
+[[File:Henschel HS 293.jpg|thumb|[[Henschel Hs 293]] radio-guided [[glide bomb]]]]
+The He-177s carried [[Henschel Hs 293]] radio-guided [[glide bomb]]s, an estimated 60 of which they launched at the convoy. The convoy's combined anti-aircraft fire seems to have impeded most of the attackers' attempts to guide their glide bombs onto their targets. ''Rohna''{{'}}s [[Defensively equipped merchant ship|DEMS]] gunners contributed with her machine guns, [[Oerlikon 20 mm cannon|Oerlikon autocannons]] and about 20 rounds from her [[QF 12-pounder 12 cwt naval gun|12-pounder gun]]. The convoy shot down at least two aircraft and damaged several others.&lt;ref name=RohnaMNO/&gt;
+
+''Rohna'' was the only casualty. About 1715 or 1725 hrs a He-177 piloted by Hans Dochtermann released a glide bomb that hit ''Rohna'' on her port side, at the after end of her engine room and Number Six troop deck. Men poured on deck, many of them badly wounded.&lt;ref name=RohnaMNO/&gt;
+
+The impact was about {{convert|15|ft|0}} above the water line but it flooded the engine room, knocked out all electrical equipment including her pumps, and set the ship ablaze. The impact demolished the Number Four bulkhead. It also destroyed six of her 22 [[Lifeboat (shipboard)|lifeboats]] and forced out the plates of her hull so that none of her surviving port boats could be lowered past them. Troops cut the falls of some of the boats, causing them to fall in the sea and be swamped. Only eight boats were launched; they became overloaded with troops and most became waterlogged or capsized. The Number One Deck Serang, Bhowan Meetha, acted professionally to help the Chief Officer to launch the boats. Other members of the [[lascar]] crew, however, launched the two aft lifeboats and abandoned ship without remaining to help to launch the other boats.&lt;ref name=Troopships/&gt; However, with Number Four Hold afire and all communications severed, the crewmen aft had lost contact with the bridge and had no way to reach the boat deck to help with the other boats. They disobeyed orders, but were acting on their own.&lt;ref name=RohnaMNO/&gt;
+
+[[File:USS Pioneer (AM 105).jpg|thumb|The minesweeper {{USS|Pioneer|AM-105|6}} rescued 602 survivors]]
+[[File:HMS Atherstone 1942 IWM H 23637.jpg|thumb|The destroyer {{HMS|Atherstone|L05|6}} provided anti-aircraft cover and then rescued about 70 survivors]]
+As ''Rohna'' listed 12 degrees to starboard, her crew launched most of her 101 [[Lifeboat (shipboard)#Liferaft versus lifeboat|liferafts]]. By 1750 hrs only a few rafts remained so they took the hatch boards from Number Three Hold and threw them overboard too. By now Number Four Hold, just aft of the engine room, was on fire. The {{sclass-|Auk|minesweeper}} {{USS|Pioneer|AM-105|6}} and cargo ship {{SS|Clan Campbell|1943|2}} fell behind the convoy to rescue survivors, protected by the {{sclass-|Hunt|destroyer}} {{HMS|Atherstone|L05|6}} which made a smokescreen and gave anti-aircraft cover. ''Clan Campbell'' had a high freeboard so she lowered a cargo net for survivors to use as a scramble net. However, the climb was about {{convert|30|ft|0}} from the sea to the deck, which was very difficult for many of the exhausted survivors. The wind was only [[Beaufort scale#Modern scale|Force 4]], but there was a {{convert|15|to|20|ft|0|sing=on}} swell that prevented the rescue ships from launching their own boats.&lt;ref name=RohnaMNO/&gt;
+
+The [[Sea captain|Master]], Captain TJ Murphy, was among the last personnel left aboard, along with his [[Chief Mate|Chief]], [[Second mate|Second]] and [[Third mate|Third Officers]], Senior Medical Officer and four US soldiers. This group remained on the [[Forecastle|foredeck]] for about half an hour after all the other surviving soldiers and crew had abandoned ship. About 90 minutes after the missile hit the ship there was a rending noise, probably from the collapse of a bulkhead aft. Clouds of smoke came from Number Three Hold and the ship settled by the stern. The group threw the last four rafts overboard and abandoned ship.&lt;ref name=RohnaMNO/&gt;
+
+After night fell, ''Atherstone'' switched from anti-aircraft cover to rescuing survivors and the [[Tugboat|tug]] ''Mindful'' arrived from Bougie and joined the operation. The rescue continued until 0215 hrs on 27 November. 819 survivors were taken to [[Skikda|Philippeville]]: 602 on ''Pioneer'', about 110 on ''Clan Campbell'' and about 70 on ''Atherstone''.&lt;ref name=RohnaMNO/&gt;
+
+1,138 men were killed, including 1,015 US personnel. The attack is the largest loss of US troops at sea due to enemy action in a single incident. A further 35 US troops of the 2,000 originally embarked later died of wounds. As well as the troops, five of ''Rohna''{{'}}s officers and 117 of her 195 crew were killed, along with one of her 12 DEMS gunners and one hospital [[orderly]]. USS ''Pioneer'' rescued 606 survivors.&lt;ref&gt;{{harvnb|Wise|Baron|2003|pp=25, 31, 101}}&lt;/ref&gt;
+
+Details of the loss were revealed slowly over time. By February 1944 the US Government had acknowledged that more than 1,000 soldiers had been lost in the sinking of an unnamed troopship in European waters, but it hinted that a submarine was responsible. By June 1945 the US Government had released accurate casualty figures, the ship had been identified as ''Rohna'', and the cause of the sinking had been identified as German bombers, but did not mention the fact that a guided bomb was used. In 1948 a history of British India Line in the Second World War was published, stating ''&quot;the missile was one of the new glider bombs guided by wireless&quot;''.&lt;ref&gt;{{harvnb|Saunders|1948|p=}}{{page needed|date=August 2014}}&lt;/ref&gt; The US Government released the full story only in 1967 after the passing of the [[Freedom of Information Act (United States)|Freedom of Information Act]].
+
+==Monuments==
+Members of ''Rohna''{{'}}s crew who were killed are commemorated in the Second World War section of the [[Tower Hill Memorial|Merchant Navy War Memorial at Tower Hill]] in London. Her lascar seamen are commemorated in the [[Commonwealth War Graves Commission]] monuments at [[Chittagong]] and [[Mumbai]]. A monument to the US troops who were killed was unveiled at [[Fort Mitchell National Cemetery]] in [[Seale, Alabama]] in 1996.&lt;ref&gt;[http://rohnasurvivors.org/the-memorial/ Rohna The Memorial] rohnasurvivors.org accessed 2015-08-14&lt;/ref&gt; In 1962, the traffic median of the Esplanade&lt;ref&gt;{{cite web|url=http://forgotten-ny.com/2012/04/new-york-westchester-boston-railroad-part-1/|title=New York, Westchester and Boston Railroad Part 1|work=Forgotten New York|accessdate=9 January 2016}}&lt;/ref&gt; in [[Bronx, New York]], at the corner of Astor Avenue, was named in memory of Private Sidney Weissman, a local resident killed in the sinking of the Rohna.&lt;ref&gt;{{cite web|url=http://www.laguardiawagnerarchive.lagcc.cuny.edu/FILES_DOC/Microfilms/05/022/0000/00001/052024/05.022.0000.00001.052024.10671962.PDF|title=New York City Council Local Law 67 of 1962}}&lt;/ref&gt;
+
+==Controversy==
+In 1998 Dr James G. Bennett, who lost a brother in the sinking, published a book, ''The Rohna Disaster'', through the [[self-publishing]] service [[Xlibris]]. In it he alleges that the heavy loss of life was due to the incompetence and cowardice of the ''Rohna''{{'}}s lascar crew and faulty safety procedures and equipment aboard.&lt;ref name=RohnaMNO/&gt;
+
+In 2002 the [[History (U.S. TV channel)|History Channel]] released an episode of its ''History Undercover'' series, ''The Rohna Disaster: WWII's Secret Tragedy'', that was based on Bennett's book and repeated his allegations. Wartime reports by the [[Lieutenant colonel (United States)|Lieutenant-Colonel]] in command of the US troops aboard, and by ''Rohna''{{'}}s Second Officer and other survivors, contradict many aspects of Bennett's allegations.&lt;ref name=RohnaMNO/&gt;
+
+==References==
+{{reflist}}
+
+==Sources==
+*{{cite book |last=Carré |first=Captain E.G. |year=1936 |title=Through Stormy Seas: Some of the Spiritual Crises in My Life Afloat |place=Glasgow |publisher=[[Marshall Pickering|Pickering &amp; Inglis]] |pages=57–63 |url= http://www.merchantnavyofficers.com/rohna.html |ref=harv}}
+*{{cite book |last=Saunders |first=Hilary St George |authorlink=Hilary Saint George Saunders |year=1948 |title= Valiant Voyaging: A Short History of the British India Steam Navigation Company in the Second World War 1939–1945 |place=London |publisher=[[Faber and Faber]] |pages= |ref=harv}}
+*{{cite book |last1=Wise |first1=James E |last2=Baron |first2=Scott |year=2003 |title=Soldiers lost at sea: a chronicle of troopship disasters |place=Annapolis, MD |publisher=Naval Institute Press |pages=146–147 |url= https://books.google.com/books?id=KmtozaIf5QAC&amp;lpg=PA147&amp;dq=hmt%20rhona&amp;pg=PA147#v=onepage&amp;q=hmt%20rhona&amp;f=false |isbn=978-1-59114-966-8 |ref=harv}}
+
+==Further reading==
+*{{cite book |last=Bennett |first=James G |year=1998 |title=The Rohna Disaster |place= |publisher=[[Xlibris]] Corporation |isbn=0738801836}}
+*{{cite book |last=Bollinger |first=Martin J |year=2010 |title=Warriors and Wizards: the deployment and defeat of radio-controlled glide bombs of the Third Reich |place=Annapolis, MD |publisher=[[United States Naval Institute|Naval Institute Press]] |isbn=978-1-59114-067-2 |pages=}}
+*{{cite book |last=Dochtermann |first=Hans |date=14 July 1992 |title=Attack on US Convoy KMF-26 off the Bay of Bourgie |place=Bowling Green, KY |publisher=Manuscripts and Folklife Archives Coordinator, Kentucky Library and Museum, [[Western Kentucky University]]}}
+*{{cite book |last=Jackson |first=Carlton |year=1997 |title=Forgotten tragedy: the sinking of HMT Rohna |place=Annapolis, MD |publisher=Naval Institute Press |isbn=978-1-55750-402-9 |page= |url= https://books.google.com/books?id=6_JmAAAAMAAJ&amp;q=USS+Pioneer#search_anchor}}
+
+==External links==
+*[http://www.rohna.org The Rohna Survivors Memorial Association]
+*{{cite web |url= http://www.uh.edu/engines/epi1583.htm |last=Lienhard |first=John H |title=No. 1583: Glide Bombs |work=Engines of Our Ingenuity |publisher=John H Lienhard |year=1988–2000}} (transcript of radio documentary)
+*{{cite web |url= http://archiver.rootsweb.com/th/read/INDIA/1998-11/0910429868 |last=Taylor |first=Rosemary F |title=Troopship ROHNA |work=INDIA-L Archives |publisher=[[Ancestry.com#Other sites|Rootsweb]] |date=7 November 1998}}
+
+{{coord|37|1|12|N|5|12|6|E|display=title}}
+{{November 1943 shipwrecks}}
+
+{{DEFAULTSORT:Rohna, 1926}}
+[[Category:1926 ships]]
+[[Category:Maritime incidents in November 1943]]
+[[Category:Ships of the British India Steam Navigation Company]]
+[[Category:Ships sunk by German aircraft]]
+[[Category:Shipwrecks of Algeria]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Troop ships of the Royal Navy]]
+[[Category:Tyne-built ships]]
+[[Category:World War II shipwrecks in the Mediterranean]]</text>
+      <sha1>50nm7uszsrzvm2rmsic8j5db2zkilrp</sha1>
+    </revision>
+  </page>
+</mediawiki>

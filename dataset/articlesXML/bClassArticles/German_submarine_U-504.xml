@@ -1,0 +1,599 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-504</title>
+    <ns>0</ns>
+    <id>6480263</id>
+    <revision>
+      <id>749081391</id>
+      <parentid>748830240</parentid>
+      <timestamp>2016-11-12T07:49:30Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23927">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:U-505chicago.jpg|300px|Type IXC boat U-505]]
+|Ship caption=''U-505'', a typical Type IXC boat
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''U-504''
+|Ship ordered=25 September 1939
+|Ship builder=[[Deutsche Werft]], [[Hamburg]]
+|Ship yard number=294
+|Ship laid down=29 April 1940
+|Ship launched=24 April 1941
+|Ship commissioned=30 July 1941
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sunk, 30 July 1943
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[German Type IX submarine#Type IXC|Type IXC]] [[submarine]]
+|Ship displacement=
+*{{convert|1120|t|LT|abbr=on}} surfaced
+*{{convert|1232|t|LT|abbr=on}} submerged
+|Ship length=
+*{{convert|76.76|m|ftin|abbr=on}} [[o/a]]
+*{{convert|58.75|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam=
+*{{convert|6.76|m|ftin|abbr=on}} o/a
+*{{convert|4.40|m|ftin|abbr=on}} pressure hull
+|Ship height={{convert|9.60|m|ftin|abbr=on}}
+|Ship draught={{convert|4.70|m|ftin|abbr=on}}
+|Ship power=
+*{{convert|4400|PS|kW bhp|abbr=on}} (diesels)
+*{{convert|1000|PS|kW shp|-1|abbr=on}} (electric)
+|Ship propulsion=
+*2 shafts
+*2 × [[diesel engine]]s
+*2 × [[Motor-generator|electric motors]]
+|Ship speed=
+*{{convert|18.2|kn}} surfaced
+*{{convert|7.7|kn}} submerged
+|Ship range=
+*{{convert|13,450|nmi|lk=in|abbr=on}} at {{convert|10|kn}} surfaced
+*{{convert|64|nmi|abbr=on}} at {{convert|4|kn}} submerged
+|Ship test depth=
+*{{convert|230|m|ft|abbr=on}}
+|Ship complement=4 officers, 44 enlisted
+|Ship armament=
+*6 × [[torpedo tube]]s (4 bow, 2 stern)
+*22 × {{convert|53.3|cm|in|0|abbr=on}} [[torpedo]]es
+*1 × {{convert|10.5|cm|in|abbr=on}} [[deck gun]] (180 rounds)
+*1 × {{convert|3.7|cm|in|abbr=on}} AA gun
+*1 × twin [[2 cm FlaK 30]] AA guns
+|Ship notes=
+}}
+{{Infobox service record
+|is_ship=yes
+|label=Service record&lt;ref name=&quot;uboatnet&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/u504.htm
+ |title=The Type IXC boat U-504
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;&lt;ref name=&quot;patrols&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/u504.html
+ |title=War Patrols by German U-boat U-504
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+|partof=
+*[[4th U-boat Flotilla]]
+*30 July – 31 December 1941
+*[[2nd U-boat Flotilla]]
+*1 January 1942 – 30 July 1943
+|codes=
+|commanders=
+*''[[K.Kapt.]]'' [[Fritz Poske|Hans-Georg Friedrich Poske]]
+*30 July 1941 – 5 January 1943
+*''K.Kapt.'' Wilhelm Luis
+*6 January – 30 July 1943
+|operations=
+*1st patrol: 6–20 January 1942
+*2nd patrol: 25 January – 1 April 1942
+*3rd patrol: 2 May – 7 July 1942
+*4th patrol: 19 August – 11 December 1942
+*5th patrol: 19 January – 24 March 1943
+*6th patrol: 21 April – 29 May 1943
+*7th patrol: 27–30 July 1943
+|victories=
+*15 commercial ships sunk ({{GRT|78,123}})
+*one commercial ship a total loss ({{GRT|7,176}})
+}}
+|}
+
+'''German submarine ''U-504''''' was a [[German Type IX submarine#Type IXC|Type IXC]] [[U-boat]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'' during [[World War II]]. The submarine was [[Keel laying|laid down]] on 29 April 1940 at the [[Deutsche Werft]] yard in [[Hamburg]] as yard number 294, [[Ceremonial ship launching|launched]] on 24 April 1941 and [[Ship commissioning|commissioned]] on 30 July 1941 under the command of ''[[Korvettenkapitän]]'' [[Fritz Poske|Hans-Georg Friedrich &quot;Fritz&quot; Poske]]. Initially attached to the [[4th U-boat Flotilla]] for training, the U-boat was transferred to the [[2nd U-boat Flotilla|2nd flotilla]] on 1 January 1942 for front-line service.&lt;ref name=&quot;uboatnet&quot;/&gt; She was a member of six [[wolfpack (naval tactic)|wolfpack]]s.
+
+==Design==
+[[German Type IX submarine#Type IXC|German Type IXC submarines]] were slightly larger than the original [[German Type IXB submarine|Type IXB]]s. ''U-504'' had a displacement of {{convert|1120|t|LT}} when at the surface and {{convert|1232|t|LT}} while submerged.{{sfn|Gröner|1991|p=68}} The U-boat had a total length of {{convert|76.76|m|ftin|abbr=on}}, a [[pressure hull]] length of {{convert|58.75|m|ftin|abbr=on}}, a [[beam (nautical)|beam]] of {{convert|6.76|m|ftin|abbr=on}}, a height of {{convert|9.60|m|ftin|abbr=on}}, and a [[draught (ship)|draught]] of {{convert|4.70|m|ftin|abbr=on}}. The submarine was powered by two [[MAN SE|MAN]] M 9 V 40/46 [[supercharged]] four-stroke, nine-cylinder [[diesel engine]]s producing a total of {{convert|4400|PS|kW shp|-1}} for use while surfaced, two [[Siemens-Schuckert]] 2 GU 345/34 [[Motor–generator|double-acting electric motors]] producing a total of {{convert|1000|shp|PS kW|-1}} for use while submerged. She had two shafts and two {{convert|1.92|m|ft|abbr=on|0}} [[propeller]]s. The boat was capable of operating at depths of up to {{convert|230|m}}.{{sfn|Gröner|1991|p=68}}
+
+The submarine had a maximum surface speed of {{convert|18.3|kn}} and a maximum submerged speed of {{convert|7.3|kn}}.{{sfn|Gröner|1991|p=68}} When submerged, the boat could operate for {{convert|63|nmi}} at {{convert|4|kn}}; when surfaced, she could travel {{convert|13450|nmi}} at {{convert|10|kn}}. ''U-504'' was fitted with six {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s (four fitted at the bow and two at the stern), 22 [[torpedo]]es, one [[10.5 cm SK C/32 naval gun|{{convert|10.5|cm|in|2|abbr=on}} SK C/32 naval gun]], 180 rounds, and a {{convert|3.7|cm|in|abbr=on}} as well as a {{convert|2|cm|in|abbr=on}} anti-aircraft gun. The boat had a [[Ship's company|complement]] of forty-eight.{{sfn|Gröner|1991|p=68}}
+
+==Service history==
+
+===1st patrol===
+''U-504''{{'}}s first war patrol took her from [[Kiel]] in Germany, to her [[home port]] of [[Lorient]], in occupied France, between 6 and 20 January 1942 without incident.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1071.html
+ |title=Patrol of U-boat U-504 from 6 Jan 1942 to 20 Jan 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+===2nd patrol===
+On 25 January 1942 ''U-504'' sailed from Lorient, and headed across the Atlantic to the Florida coast.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1072.html
+ |title=Patrol of U-boat U-504 from 25 Jan 1942 to 1 Apr 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; There, at 04:55 on 22 February, she attacked the unescorted and unarmed American 5,287 ton [[Tank ship|tanker]] ''Republic'' about {{Convert|3.5|nmi}} north-east of [[Jupiter Inlet Light]], [[Florida]]. Struck by two torpedoes, the ship settled by the stern, and the crew abandoned ship and rowed to shore. The badly damaged ship eventually drifted onto reefs about five miles (8 km) due east of [[Hobe Sound, Florida]] and finally sank on the afternoon of 23 February.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1361.html
+ |title=Republic (Steam tanker)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; Meanwhile, the U-boat sank another ship, torpedoing the unescorted and unarmed American 10,227 ton tanker ''W.D. Anderson'' at 01:32 on 23 February, about {{convert|12|nmi}} north-east of Jupiter Inlet Light. Loaded with {{convert|133360|oilbbl|m3}} of [[crude oil]], the ship burst into flames, killing all but one of the crew of 36, and later sank.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1371.html
+ |title=W.D. Anderson (Steam tanker)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net 
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+''U-504'' struck again on 26 February sinking the unescorted Dutch 8,245 ton tanker ''Mamura'' about {{convert|230|nmi}} off the coast of Florida. The ship, loaded with [[gasoline]], was hit by two torpedoes, setting it on fire and breaking it in two. The ship sank within eight minutes, killing all 49 of the crew.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1382.html
+ |title=Mamura (Motor tanker)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+''U-504''{{'}}s final victim was the unescorted British 5,966 ton merchant ship ''Stangarth'', sunk on 16 March, by a single torpedo, north-east of [[San Juan, Puerto Rico]]. There were no survivors from her crew of 46.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1442.html
+ |title=Stangarth (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; ''U-504'' arrived back at Lorient on 1 April after 67 days at sea.
+
+===3rd patrol===
+The U-boat then sailed for a patrol in the [[Caribbean Sea]], departing Lorient on 2 May 1942.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1073.html
+ |title=Patrol of U-boat U-504 from 2 May 1942 to 7 Jul 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; Her first success came on 29 May when she sank the unescorted British 1,597 ton cargo ship ''Allister'', en route from [[Kingston, Jamaica]], to [[Tampa, Florida]], with a cargo of 500 tons of bananas. The ship was torpedoed {{convert|54|nmi}} south of [[Grand Cayman]] Island, losing 15 of her crew of 23.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1719.html
+ |title=Allister (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+On 8 June ''U-504'' struck twice, east of the [[Yucatán Peninsula]]. At 06:59 she sank the unescorted 3,901 ton [[Honduras|Honduran]] merchant ship ''Tela'' with two torpedoes, sinking her within five minutes.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1760.html
+ |title=Tela (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; At 18:06 the U-boat opened fire with her [[deck gun]] on the unescorted British 1,512 ton merchant ship ''Rosenborg'', after missing the ship with two torpedoes. She fired 60 shells, of which about 30 hit. Four of the crew were killed, the remaining 23 were later picked up and landed in [[Panama]].&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1757.html
+ |title=Rosenborg (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+The U-boat struck again twice in a single day, 11 June, off [[Honduras]]. She sank the unescorted Dutch 4,282 ton passenger ship ''Crijnssen'' at 02:10 with three torpedoes,&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1782.html
+ |title=Crijnssen (Steam passenger ship)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; then the unescorted and unarmed American 4,846 ton merchant ship ''American'' at 18:01. The ship, carrying 6,500 tons of [[manganese]] [[ore]], coffee, [[gunny sack]]s, [[jute]] and oil, from [[Port of Santos|Santos, Brazil]], to [[New Orleans]], was hit by two torpedoes, and then a third eleven minutes later. The ship sank in 25 minutes. The crew of eight officers and 30 men abandoned ship.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1785.html
+ |title=American (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; Finally, on 14 June, she torpedoed and sank the [[Latvia]]n 3,280 ton cargo ship ''Regent''.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1798.html
+ |title=Regent (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; ''U-504'' arrived back at Lorient on 7 July after 67 days at sea.
+
+===4th patrol===
+''U-504'' left Lorient again on 19 August 1942 and sailed south to the waters off [[Union of South Africa|South Africa]] as part of [[Wolfpack Eisbär]].&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1074.html
+ |title=Patrol of U-boat U-504 from 19 Aug 1942 to 11 Dec 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; There, on 17 October, about {{convert|450|nmi}} south of [[Cape Town]], she torpedoed and sank the unescorted British 5,970 ton ''[[Empire Chaucer]]''.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/2281.html
+ |title=Empire Chaucer (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; On the 23rd she sank the British 5,669 ton {{SS|City of Johannesburg}},&lt;ref name=&quot;uboat.net&quot;&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/2530.html
+ |title=City of Johannesburg (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; and on the 26th she attacked the unescorted American 7,176 ton [[Liberty ship]] ''Anne Hutchinson''. The crew abandoned their vessel after she was hit by two torpedoes and fatally damaged. However the ship remained afloat, and on the 29th was taken in tow by the South African [[armed trawler]] HMSAS ''David Haigh'' (T13) and a harbour tug. Lacking sufficient power to tow the ship to port explosive charges were set, cutting the ship in two. The aft section sank, and the fore section was towed into [[Port Elizabeth]]. Part of the crew were picked up at sea, while the rest made it to land in their lifeboats.&lt;ref name=&quot;uboat.net&quot;/&gt;
+
+''U-504'' sank two more British merchant ships on 31 October, about {{convert|200|nmi}} east of [[Durban]]. First the unescorted 7,041 ton ''[[List of Empire ships (G)#Empire Guidon|Empire Guidon]]'',&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/2337.html
+ |title=Empire Guidon (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; then the unescorted 5,113 ton ''Reynolds'', which, hit amidships and in the stern, capsized and sank within seconds.&lt;ref&gt;other sources credit the [[German auxiliary cruiser Michel|raider ''Michel'']] with sinking ''Reynolds''&lt;/ref&gt;
+
+Finally on 3 November she sank the unescorted and unarmed [[Brazil]]ian 5,187 ton cargo ship ''Porto Alegre'' en route from [[Rio de Janeiro]] to [[Durban]], off Port Elizabeth. Hit by a single torpedo, the crew abandoned ship before the U-boat delivered the [[coup de grâce]]. Only one crew member was lost. The survivors were questioned by the Germans, and later made landfall about {{convert|50|nmi}} from Port Elizabeth on 7 November.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/2360.html
+ |title=Porto Alegre (Steam merchant)
+ |last=Helgason
+ |first=Guðmundur
+ |website=Ships hit by U-boats - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; ''U-504'' arrived back at Lorient on 11 December 1942 after a patrol lasting 115 days.
+
+===5th and 6th patrol===
+''U-504'' left Lorient on 19 January 1943, now under the command of ''Kapitänleutnant'' Wilhelm Luis, and headed out into the Atlantic waters south of the [[Azores]]. She was subjected to attacks by unidentified Allied aircraft outbound on 21 January and inbound on 12 March, but was not damaged by either.&lt;ref&gt;{{cite web
+ |url=http://ubootwaffe.net/ops/boat.cgi?boat=504
+ |title=U-Boat Operations ''U-504''
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; She returned to Lorient on 24 March after 65 days at sea, without making any successful attacks.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1075.html
+ |title=Patrol of U-boat U-504 from 19 Jan 1943 to 24 Mar 1943
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+Her next patrol took her to the waters south of [[Greenland]] between 21 April and 29 May 1943, again without result.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1076.html
+ |title=Patrol of U-boat U-504 from 21 Apr 1943 to 29 May 1943
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt;
+
+===7th patrol===
+''U-504''{{'}}s final patrol began on 27 July 1943 under the newly promoted ''Korvettenkapitän'' Wilhelm Luis.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_1077.html
+ |title=Patrol of U-boat U-504 from 27 Jul 1943 to 30 Jul 1943
+ |last=Helgason
+ |first=Guðmundur
+ |website=U-boat patrols - uboat.net
+ |accessdate=2010-01-25
+}}&lt;/ref&gt; On 30 July the U-boat was sunk with all 53 hands, north-west of [[Cape Ortegal]], Spain, at position {{coord|45|33|N|10|56|W|dim:400000|display=inline,title}}, by [[depth charge]]s from the British {{sclass|Black Swan|sloop|1}}s {{HMS|Kite|U87|6}}, {{HMS|Woodpecker|U08|2}}, {{HMS|Wren|D88|2}} and {{HMS|Wild Goose|U45|2}}.&lt;ref name=&quot;uboatnet&quot;/&gt;
+
+===Wolfpacks===
+''U-504'' took part in six wolfpacks, namely
+* [[Wolfpack Eisbär|Eisbär]] (25 August – 1 September 1942)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/79.html
+ |title=Wolfpack Eisbär
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+* Rochen (16 February – 1 March 1943)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/75.html
+ |title=Wolfpack Rochen
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+* [[Wolfpack Tümmler|Tümmler]] (1–22 March 1943)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/88.html
+ |title=Wolfpack Tümmler
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+* Amsel 1 (3–6 May 1943)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/108.html
+ |title=Wolfpack Amsel 1
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+* Elbe (7–10 May 1943)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/123.html
+ |title=Wolfpack Elbe
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+* Elbe 2 (10–14 May 1943)&lt;ref&gt;{{cite web
+ |url=http://uboat.net/ops/wolfpacks/125.html
+ |title=Wolfpack Elbe 2
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=10 June 2015
+}}&lt;/ref&gt;
+
+==Summary of raiding history==
+{| class=&quot;wikitable sortable&quot; style=&quot;margin: 1em auto 1em auto;&quot;
+|-
+! Date
+! Name
+! Nationality
+! Tonnage
+! Fate
+|-
+|align=&quot;right&quot;|22 February 1942
+|align=&quot;left&quot; |[[List of shipwrecks in February 1942#22 February|''Republic'']]
+|align=&quot;left&quot; |{{flag|United States|1912}}
+|align=&quot;right&quot;|5,287
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|23 February 1942
+|align=&quot;left&quot; |[[List of shipwrecks in February 1942#23 February|''W.D. Anderson'']]
+|align=&quot;left&quot; |{{flag|United States|1912}}
+|align=&quot;right&quot;|10,227
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|26 February 1942
+|align=&quot;left&quot; |[[List of shipwrecks in February 1942#26 February|''Mamura'']]
+|align=&quot;left&quot; |{{flag|Netherlands}}
+|align=&quot;right&quot;|8,245
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|16 March 1942
+|align=&quot;left&quot; |[[List of shipwrecks in March 1942#16 March|''Stangarth'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|5,966
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|29 May 1942
+|align=&quot;left&quot; |[[List of shipwrecks in May 1942#29 May|''Allister'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|1,597
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|8 June 1942
+|align=&quot;left&quot; |[[List of shipwrecks in June 1942#8 June|''Rosenborg'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|1,512
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|8 June 1942
+|align=&quot;left&quot; |[[List of shipwrecks in June 1942#8 June|''Tela'']]
+|align=&quot;left&quot; |{{flag|Honduras}}
+|align=&quot;right&quot;|3,901
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|11 June 1942
+|align=&quot;left&quot; |[[List of shipwrecks in June 1942#11 June|''American'']]
+|align=&quot;left&quot; |{{flag|United States|1912}}
+|align=&quot;right&quot;|4,846
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|11 June 1942
+|align=&quot;left&quot; |[[List of shipwrecks in June 1942#11 June|''Crijnssen'']]
+|align=&quot;left&quot; |{{flag|Netherlands}}
+|align=&quot;right&quot;|4,282
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|14 June 1942
+|align=&quot;left&quot; |[[List of shipwrecks in June 1942#14 June|''Regent'']]
+|align=&quot;left&quot; |{{flag|Latvia}}
+|align=&quot;right&quot;|3,280
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|17 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#17 October|''Empire Chaucer'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|5,970
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|23 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#23 October|''City of Johannesburg'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|5,669
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|26 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#26 October|''Anne Hutchinson'']]
+|align=&quot;left&quot; |{{flag|United States|1912}}
+|align=&quot;right&quot;|7,176
+|align=&quot;left&quot; |Total loss
+|-
+|align=&quot;right&quot;|31 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#31 October|''Empire Guidon'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|7,041
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|31 October 1942
+|align=&quot;left&quot; |[[List of shipwrecks in October 1942#31 October|''Reynolds'']]
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|align=&quot;right&quot;|5,113
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|3 November 1942
+|align=&quot;left&quot; |[[List of shipwrecks in November 1942#3 November|''Porto Alegre'']]
+|align=&quot;left&quot; |{{flag|Brazil|1889}}
+|align=&quot;right&quot;|5,187
+|align=&quot;left&quot; |Sunk
+|}
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+|ref=harv
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+
+{{Refend}}
+
+==External links==
+*{{Cite web
+ |url=http://uboat.net/boats/u504.htm
+ |title=The Type IXC boat U-504
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=7 December 2014
+}}
+
+{{German Type IXC submarines}}
+{{July 1943 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+}}
+{{Use dmy dates|date=February 2011}}
+
+{{DEFAULTSORT:U0504}}
+[[Category:German Type IX submarines]]
+[[Category:U-boats commissioned in 1941]]
+[[Category:U-boats sunk in 1943]]
+[[Category:U-boats sunk by British warships]]
+[[Category:U-boats sunk by depth charges]]
+[[Category:World War II submarines of Germany]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]
+[[Category:1941 ships]]
+[[Category:Ships built in Hamburg]]
+[[Category:Ships lost with all hands]]
+[[Category:Maritime incidents in July 1943]]</text>
+      <sha1>pr7qab0prwt7pu3e947ix6jx6jmqmla</sha1>
+    </revision>
+  </page>
+</mediawiki>

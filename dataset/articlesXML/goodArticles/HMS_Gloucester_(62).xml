@@ -1,0 +1,199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Gloucester (62)</title>
+    <ns>0</ns>
+    <id>7005772</id>
+    <revision>
+      <id>736789882</id>
+      <parentid>736761931</parentid>
+      <timestamp>2016-08-29T21:19:59Z</timestamp>
+      <contributor>
+        <username>Manxruler</username>
+        <id>299164</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */ [[Category:Cruisers sunk by aircraft]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18750">{{good article}}
+{{other ships|HMS Gloucester}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Gloucester.jpg|300px]]
+|Ship caption=''Gloucester'' at anchor, 1939
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=''Gloucester''
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[HMNB Devonport|Devonport Dockyard]]
+|Ship laid down=22 September 1936
+|Ship launched=19 October 1937
+|Ship christened=
+|Ship namesake=[[Gloucester]] 
+|Ship completed=31 January 1939
+|Ship fate=Sunk by German aircraft, 22 May 1941
+|Ship status=
+|Ship nickname=&quot;The Fighting G&quot;&lt;ref name=bbc/&gt;
+|Ship identification=[[Pennant number]]: 62
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass2-|Town|cruiser (1936)|0}} [[light cruiser]]
+|Ship displacement=*{{convert|9400|LT|t|abbr=on}} (standard)
+*{{convert|11650|LT|t|abbr=on}} (full load)
+|Ship length={{convert|588|ft|m|abbr=on|1}}
+|Ship beam={{convert|62|ft|4|in|m|abbr=on}}
+|Ship draught={{convert|20|ft|7|in|m|abbr=on}}
+|Ship power=*4 × [[Admiralty 3-drum boiler]]s
+*{{convert|82500|shp|kW|lk=in|abbr=on}}
+|Ship propulsion=4 × shafts; 4 × geared [[steam turbine]]s
+|Ship speed={{convert|32|kn|lk=in|1}}
+|Ship range={{convert|6000|nmi|lk=in|abbr=on}} at {{convert|14|kn}}
+|Ship complement=800–15
+|Ship sensors=
+|Ship armament=
+*4 × triple [[BL 6 inch Mk XXIII naval gun|{{convert|6|in|mm|sing=on|0}} gun]]s
+*4 × twin [[QF 4 inch Mk XVI naval gun|{{convert|4|in|mm|sing=on|0}}]] [[dual-purpose gun]]s
+*2 × quadruple [[QF 2 pounder naval gun|2-pdr (40 mm) &quot;pom-pom&quot; AA]] mounts
+*2 × quadruple [[Vickers .50 machine gun|{{convert|0.5|in|mm|sing=on|1}} Vickers AA machine gun]] mounts
+*2 × triple [[British 21 inch torpedo|{{convert|21|in|mm|sing=on|0}}]] [[torpedo tube]]s
+|Ship armour=
+*[[Belt armor|Waterline belt]]: {{convert|4.5|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|2|in|mm|abbr=on}}
+*[[Gun turret]]s: {{convert|1|-|2|in|mm|abbr=on}}
+|Ship aircraft=2 × [[Supermarine Walrus]] [[flying boat]]s
+|Ship aircraft facilities=1 × [[aircraft catapult|catapult]]
+|Ship motto=
+|Ship honours=
+|Ship notes=
+}}
+|}
+
+'''HMS ''Gloucester''''' was one of the last batch of three {{sclass2-|Town|cruiser (1936)|0}} [[light cruiser]]s built for the Royal Navy during the late 1930s. [[Ship commissioning|Commissioned]] shortly before the start of [[World War II]] in August 1939, the ship was initially assigned to the [[China Station]] and was transferred to the [[Indian Ocean]] and later to [[South Africa]] to search for German [[commerce raider]]s. She was transferred to the [[Mediterranean Fleet]] in mid-1940 and spent much of her time escorting [[Malta Convoys]]. ''Gloucester'' played minor roles in the [[Battle of Calabria]] in 1940 and the [[Battle of Cape Matapan]] in 1941. She was sunk by German [[dive bomber]]s on 22 May 1941 during the [[Battle of Crete]] with the loss of 722 men out of a crew of 807.
+
+==Design and description==
+The Town-class light cruisers were designed as counters to the Japanese {{sclass-|Mogami|cruiser}}s built during the early 1930s and the last batch of three ships was enlarged to accommodate more [[Ship gun fire-control system|fire-control equipment]] and thicker armour.&lt;ref&gt;Raven &amp; Roberts, pp. 172–75&lt;/ref&gt; ''Gloucester'' displaced {{convert|9400|LT|t}} at [[Displacement (ship)|standard load]] and {{convert|11650|LT|t}} at [[deep load]]. The ship had an [[overall length]] of {{convert|591|ft|6|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|62|ft|4|in|m|1}} and a [[draft (hull)|draught]] of {{convert|20|ft|7|in|m|1}}.&lt;ref name=w4&gt;Whitley, p. 104&lt;/ref&gt; She was powered by four [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]] sets, each driving one shaft, which developed a total of {{convert|82500|shp|lk=in}} and gave a maximum speed of {{convert|32|kn|lk=in}}. Steam for the turbines was provided by four [[Admiralty 3-drum boiler]]s. The ship carried a maximum of {{convert|2075|LT|t|0}} of [[fuel oil]] which gave her a range of {{convert|6000|nmi|lk=in|-1}} at {{convert|14|kn}}. The ship's complement was 800–815 officers and [[naval rating|ratings]].&lt;ref&gt;Lenton, p. 63&lt;/ref&gt;
+
+The Town-class ships mounted eight [[BL 6 inch Mk XXIII naval gun|BL six-inch (152&amp;nbsp;mm) Mk XXIII guns]] in four twin-[[gun turret]]s. The turrets were designated 'A', 'B', 'X' and 'Y' from front to rear. Their secondary armament consisted of eight [[QF 4 inch Mk XVI naval gun|QF {{convert|4|in|adj=on|0|spell=in}} Mk XVI]] [[dual-purpose gun]]s in twin mounts. Their light anti-aircraft armament consisted of a pair of quadruple mounts for the [[QF 2 pounder naval gun|two-pounder (40&amp;nbsp;mm)]] [[AA gun]] (&quot;pom-pom&quot;) and two quadruple mounts for [[Vickers .50 machine gun|{{convert|0.5|in|mm|sing=on|1}} Vickers AA machine gun]]s. The ships carried two above-water, triple mounts for [[British 21 inch torpedo|{{convert|21|in|adj=on|0}} torpedoes]].&lt;ref name=r12&gt;Raven &amp; Roberts, p. 418&lt;/ref&gt;
+
+The Towns lacked a full-length [[waterline]] [[Belt armor|armour belt]]. The sides of ''Gloucester''{{'}}s [[Engine room|boiler and engine room]]s and the sides of the [[magazine (artillery)|magazine]]s were protected by {{convert|4.5|in}} of armour. The top of the magazines and the machinery spaces were protected by {{convert|2|in|mm}} of armour.&lt;ref name=r12/&gt; The armour protecting the main gun turrets had a thickness of {{convert|1|-|2|in|mm}}.&lt;ref name=w4/&gt;
+
+==Construction and career==
+''Gloucester'', the ninth ship of her name to serve in the Royal Navy,&lt;ref&gt;Colledge, p. 143&lt;/ref&gt; was [[laid down]] on 22 September 1936, [[Ceremonial ship launching|launched]] on 19 October 1937 and completed on 31 January 1939. The ship was then assigned as the [[flagship]] of the [[4th Cruiser Squadron (United Kingdom)|4th Cruiser Squadron]] (CS) on the China Station, where she served until the beginning of World War II in September.&lt;ref&gt;Whitley, pp. 104, 109&lt;/ref&gt; In mid-November, ''Gloucester'' and the {{ship|French aviso|Rigault de Genouilly}} were assigned to patrol the Indian Ocean between [[Madagascar]] and [[the Seychelles]] in an unsuccessful search for the German commerce raider {{ship|German cruiser|Admiral Graf Spee||2}}.&lt;ref&gt;Rohwer, p. 8&lt;/ref&gt; In December, she was transferred to Force I at [[Simonstown]], South Africa, where she fruitlessly patrolled the [[South Atlantic]] against other commerce raiders.&lt;ref name=w9&gt;Whitley, p. 109&lt;/ref&gt;
+
+===In the Mediterranean===
+The ship was transferred to the [[7th Cruiser Squadron (United Kingdom)|7th Cruiser Squadron]] of the Mediterranean Fleet at [[Alexandria]], [[Egypt]], in May 1940.&lt;ref name=w9/&gt; A few days after Italy joined the war on 10 May, ''Gloucester'' and her sister ship, {{HMS|Liverpool|C11|2}}, bombarded [[Tobruk]], [[Libya]], sinking a small auxiliary [[minesweeper]] on the 12th. Several weeks later, the 7th CS was covering several convoys to and from Malta when British [[Short Sunderland]] [[flying boat]]s spotted an Italian convoy on the 28th. The [[squadron (naval)|squadron]] was ordered to intercept and sank the [[destroyer]] {{ship|Italian destroyer|Espero||2}} with a prodigious expenditure of ammunition.&lt;ref&gt;Greene &amp; Massagnani, pp. 63–64; Rohwer, pp. 28, 30&lt;/ref&gt;
+
+On 7 July, the Mediterranean Fleet sortied to cover more [[Malta convoys]], but they were spotted by the Italians that evening. The next day, a bomb dropped by [[Savoia-Marchetti SM.79]] bombers struck the ship's [[bridge (nautical)|bridge]], killing 18 crew members instantly, including the [[captain (nautical)|captain]].&lt;ref&gt;Greene &amp; Massagnani, pp. 68–69&lt;/ref&gt; As a result of the attack, the ship could not be steered from the bridge and was uncontrolled for a time before the aft steering position could take over. Despite an inoperable bridge, the ship remained with the fleet and participated in the Battle of Calabria on the 9th, although she was ordered away from the [[battleline]] to escort the [[aircraft carrier]] {{HMS|Eagle|1918|2}}.&lt;ref&gt;O'Hara, p. 31; Otter, pp. 31–36&lt;/ref&gt; Repairs were completed by the end of August when ''Gloucester'', now assigned to the [[3rd Cruiser Squadron (United Kingdom)|3rd Cruiser Squadron]], participated in [[Operation Hats]]. At the end of September, the ship ferried 1,200 troops to Malta, together with ''Liverpool''. ''Gloucester'' spent most of the rest of the year escorting convoys to and from Greece and Malta, although she escorted the aircraft carrier {{HMS|Illustrious|87|2}} during the [[Battle of Taranto]] on 11 November and ferried troops to [[Piraeus]], Greece, on the 17th.&lt;ref&gt;Rohwer, pp. 38, 42–44, 47, 49–50, 52&lt;/ref&gt;
+
+On 11 January 1941, while supporting [[Operation Excess]] (several coordinated convoys), ''Gloucester'' and sister ship {{HMS|Southampton|83|2}} came under attack from [[Junkers Ju 87|Junkers Ju 87 &quot;Stuka&quot;]] dive bombers from [[StG 2]] while leaving Malta. ''Gloucester'' was hit by a {{convert|250|kg|adj=on}} bomb which failed to explode after penetrating through five decks. ''Southampton'' was hit by at least two bombs and caught fire; heavily damaged and without power, the ship was [[scuttling|scuttled]] by torpedoes from the light cruiser {{HMS|Orion|85|2}}.&lt;ref&gt;Rohwer, p. 55; Shores, Cull &amp; Malizia 1987b, p. 117&lt;/ref&gt; 
+
+====Battle of Cape Matapan====
+{{main article|Battle of Cape Matapan}}
+On 27 March, ''Gloucester'', now reassigned to the 7th CS, departed Piraeus bound for [[Souda Bay]], Crete as part of [[Vice-Admiral (Royal Navy)|Vice-Admiral]] [[Andrew Cunningham, 1st Viscount Cunningham of Hyndhope|Andrew Cunningham]]'s plan to trap and destroy a large portion of the Italian Fleet which was at sea in an attempt to intercept British convoys operating between Greece and Egypt. British [[signals intelligence]] had revealed the Italian plan and Cunningham attempted to consolidate his ships, but was delayed and missed his rendezvous with the 7th CS scheduled for the following morning. The Italians located the squadron first and the 3rd Cruiser Division with three heavy cruisers, escorted by three destroyers, opened fire at 08:12 at very long range. Only ''Gloucester'' returned fire as the British attempted to disengage, but the Italians followed, against orders, when Admiral [[Angelo Iachino]] recalled them at 08:55. The 7th CS turned around to observe the Italian manoeuvre and Iachino attempted to pincer the British cruisers between his 3rd Cruiser Division and his flagship, the [[battleship]] {{ship|Italian battleship|Vittorio Veneto||2}}. Although Vice-Admiral [[Henry Pridham-Wippell]] knew that the Italians had a battleship at sea, he was still caught by surprise when ''Vittorio Veneto'' opened fire at 10:55 at ''Orion''. The 3rd Cruiser Division joined in shortly afterwards, but gunnery problems plagued the Italians and they scored no hits against their primary targets, ''Gloucester'' and ''Orion''. The British ships laid [[smoke screen]]s and turned south towards the main body of the Mediterranean Fleet. An unsuccessful attack by torpedo bombers from the aircraft carrier {{HMS|Formidable|67|2}} persuaded Iachino to turn back at 11:40. The 7th CS was able to keep up the pursuit that afternoon after another torpedo bomber attack damaged the ''Vittorio Veneto'' at 15:20 and reduced her speed. A subsequent attack crippled the heavy cruiser {{ship|Italian cruiser|Pola||2}} and ''Orion''{{'}}s radar picked up ''Pola'', and the two other heavy cruisers that had been sent to her assistance, at 20:15. Cunningham's three battleships quickly sank all three heavy cruisers at [[point-blank range]] later that night.&lt;ref&gt;Greene &amp; Massagnani, pp. 148–56&lt;/ref&gt;
+
+===Sinking===
+[[File:HMS Gloucester sinking.jpg|thumb|left|Photograph taken by a German airman recording the sinking of ''Gloucester'' off the coast of [[Crete]], 22 May 1941]]
+''Gloucester'' repeatedly bombarded targets in Libya during April. After covering another convoy to Malta, the ship, together with the battleships {{HMS|Warspite|03|2}}, {{HMS|Valiant|1914|2}}, and {{HMS|Barham|04|2}}, and various destroyers, attacked [[Tripoli]] harbour on the night of 20/21 April with some success. At the end of the month, the ship was briefly transferred to [[Force H]] at [[Gibraltar]] before escorting a convoy eastward to Malta and rejoining the Mediterranean Fleet in [[Operation Tiger (1941)|Operation Tiger]] in early May.&lt;ref&gt;Rohwer, pp. 68–69, 71–72&lt;/ref&gt; 
+
+After German [[paratrooper]]s landed on Crete on 20 May, ''Gloucester'' was assigned to Force C that was tasked with interdicting any efforts to reinforce the German forces on the island. On 22 May, while in the [[Kythira Strait]], about {{convert|14|mi|nmi km}} north of Crete, she was attacked by &quot;Stuka&quot;s of StG 2 shortly before 14:00, together with the light cruiser {{HMS|Fiji|58|2}} and the destroyer {{HMS|Greyhound|H05|2}}. The latter was sunk and the two cruisers were each hit by 250-kilogramme bombs, but not seriously damaged. Two other destroyers were ordered to recover the survivors while the two cruisers covered the rescue efforts. ''Gloucester'' was attacked almost immediately&lt;ref&gt;Shores 1987a, pp. 357–58&lt;/ref&gt; and sustained three more hits and three near-misses and sank. Of the 807 men aboard at the time of her sinking, only 85 survived.&lt;ref&gt;Otter, p. 1&lt;/ref&gt;
+
+The circumstances of the sinking were featured by a [[BBC]] programme. According to this, the despatch of ''Gloucester'', alone and low on fuel and anti-aircraft ammunition (less than 20% remaining), into danger was a &quot;grievous error&quot;. Furthermore, the failure to attempt to rescue survivors after dark was &quot;contrary to usual Navy practice&quot;. A survivor commented &quot;''The tradition in the Navy is that when a ship has sunk, a vessel is sent back to pick up survivors under cover of darkness. That did not happen and we do not know why. We were picked up by Germans.''&quot;&lt;ref name=bbc&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/uk/281741.stm|work=BBC News|title=WWII battleship 'sunk by blunder'|date=18 February 1999|accessdate=27 August 2016}}&lt;/ref&gt; On 30 May 1941, in a letter to the [[First Sea Lord]], [[Dudley Pound|Sir Dudley Pound]], Cunningham wrote, &quot;The sending back of ''Gloucester'' and ''Fiji'' to the ''Greyhound'' was another grave error and cost us those two ships. They were practically out of ammunition but even had they been full up I think they would have gone. The Commanding Officer of ''Fiji'' told me that the air over ''Gloucester'' was black with planes.&quot;&lt;ref&gt;Otter, p. 136&lt;/ref&gt;
+
+The ship's wreck is a controlled site under the [[Protection of Military Remains Act 1986]].&lt;ref&gt;{{cite web|url=http://www.opsi.gov.uk/si/si2006/20062616.htm|title=Statutory Instrument 2006 No. 2616  The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2006|publisher=Queen's Printer of Acts of Parliament|accessdate=20 November 2009}}&lt;/ref&gt; Amongst the crewmen lost was the former [[Southampton F.C.|Southampton]] footballer [[Norman Catlin]].&lt;ref&gt;Holley &amp; Chalk, p. 65&lt;/ref&gt;&lt;ref&gt;{{cite web|title=CATLIN, NORMAN JOHN|url=http://www.cwgc.org/find-war-dead/casualty/2476777/CATLIN,%20NORMAN%20JOHN|website=Casualty Details|publisher=Commonwealth War Graves Commission|accessdate=29 August 2016}}&lt;/ref&gt;
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+*{{Colledge}}
+*{{cite book|last1=Greene|first1=Jack|last2=Massignani|first2=Alessandro|title=The Naval War in the Mediterranean 1940–1943|date=2011|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-561-5|lastauthoramp=y}}
+*{{cite book|title=The Alphabet of the Saints|last1=Holley|first1=Duncan|last2=Chalk|first2=Gary| 
+publisher=ACL &amp; Polar Publishing|year=1992|isbn=0-9514862-3-3|lastauthoramp=y}}
+* {{cite book|last=Lenton|first=H. T.|authorlink=Henry Trevor Lenton|title=British &amp; Empire Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1998|isbn=1-55750-048-7}}
+* {{cite book|last=O'Hara|first=Vincent P.|chapter=The Action off Calabria and the Myth of Moral Ascendancy|pages=26–39|editor=Jordan, John|publisher=Conway|location=London|year=2008|title=Warship 2008|isbn=978-1-84486-062-3}}
+*{{cite book|last=Otter|first=Ken|title=HMS ''Gloucester'': The Untold Story|origyear=1999|edition=2nd|year=2001|publisher=G.A.M. Books| location=Durham, UK |isbn=0-9522194-2-5|oclc=59524624}}
+* {{cite book|last=Raven|first=Alan|last2=Roberts|first2=John|title=British Cruisers of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1980|isbn=0-87021-922-7|lastauthoramp=y}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite book|last=Shores|first=Christopher |author2=Cull, Brian |author3=Malizia, Nicola|title=Air War for Yugoslavia, Greece, and Crete |publisher=Grub Street|location=London|year=1987a|isbn=0-948817-07-0|lastauthoramp=y}}
+*{{cite book|last1=Shores|first1=Christopher|last2=Cull|first2=Brian|last3=Malizia|first3=Nicola|title=Malta: The Hurricane Years 1940–41|date=1987b|publisher=Grub Street|location=London|isbn=0-948817-06-2|lastauthoramp=y}}
+* {{cite book|last=Whitley|first=M. J.|title=Cruisers of World War Two: An International Encyclopedia|publisher=Cassell|location=London|date=1995|isbn=1-86019-874-0}}
+
+==External links==
+{{Commons category|HMS Gloucester (C62)}}
+*[http://uboat.net/allies/warships/ship/1233.html HMS Gloucester at Uboat.net]
+*[http://www.world-war.co.uk/index.php3 HMS Gloucester – WWII cruisers]
+*[http://www.royal-navy.mod.uk/server/show/nav.4728 Royal Navy history]
+*[http://news.bbc.co.uk/1/hi/uk/281741.stm BBC article on HMS ''Gloucester'']
+*[http://www.iwm.org.uk/collections/item/object/80010762 IWM Interview with survivor Arthur Stevens]
+*[http://www.iwm.org.uk/collections/item/object/80011235 IWM Interview with survivor Peter Raymond]
+*[http://www.iwm.org.uk/collections/item/object/80030621 IWM Interview with survivor Melvin Baker]
+
+{{coord|35|50|N|23|0|E|display=title}}
+{{Town class cruiser 1936}}
+{{May 1941 shipwrecks}}
+
+{{DEFAULTSORT:Gloucester}}
+[[Category:Town-class cruisers (1936)]]
+[[Category:Plymouth-built ships]]
+[[Category:1937 ships]]
+[[Category:World War II shipwrecks in the Mediterranean]]
+[[Category:Protected Wrecks of the United Kingdom]]
+[[Category:Maritime incidents in May 1941]]
+[[Category:Ships sunk by aircraft during the Battle of Crete]]
+[[Category:Ships sunk by German aircraft]]
+[[Category:Cruisers sunk by aircraft]]</text>
+      <sha1>enlbzwmfy46zg71fmf6ts152jhjuna3</sha1>
+    </revision>
+  </page>
+</mediawiki>

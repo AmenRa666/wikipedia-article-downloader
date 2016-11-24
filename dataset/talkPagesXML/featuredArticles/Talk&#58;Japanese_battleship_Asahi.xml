@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Japanese battleship Asahi</title>
+    <ns>1</ns>
+    <id>6079991</id>
+    <revision>
+      <id>709861390</id>
+      <parentid>706669928</parentid>
+      <timestamp>2016-03-13T15:07:42Z</timestamp>
+      <contributor>
+        <username>Boneyard90</username>
+        <id>5420522</id>
+      </contributor>
+      <comment>Added a task force.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3858">{{Talk header}}
+{{ArticleHistory
+|action1=GAN
+|action1date=23:36, 11 October 2012
+|action1link=Talk:Japanese battleship Asahi/GA1
+|action1result=listed
+|action1oldid=517253787
+|maindate= 13 March 2016
+
+|action3=FAC
+|action3date=10:02, 15 December 2013
+|action3link=Wikipedia:Featured article candidates/Japanese battleship Asahi/archive1
+|action3result=promoted
+|action3oldid=586168280
+|currentstatus=FA
+|topic=war
+
+|action2=WAR
+|action2date=19:40, 13 November 2013 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/Japanese battleship Asahi
+|action2result=approved
+|action2oldid=581245448
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Ships|class = FA}}
+{{WPMILHIST|A-Class=pass
+|class=FA|Japanese=yes
+|Maritime=yes
+|WWII=yes
+|OMT=1}}
+{{WikiProject Shipwrecks|importance=low|class=FA}}
+{{WikiProject Japan|class=FA|importance=mid|milhist=y }}
+{{WikiProject Scotland|class=FA|importance=Low}}
+}}
+
+==Date format==
+Hello -- Your recent edit to [[Japanese battleship Asahi]] resulted in a massive number of red date links. The date format &quot;1912-05-28&quot; in double brackets ([[1912-05-28]] (for example) yields the exact same result as &quot;May 28, 1912&quot; in double brackets ([[May 28]], [[1912]]),  so there was no need for most of the changes as they were made. As I am sure you are aware, the Wikipedia format does not recognize the whole date in double brackets, [[May 28, 1912]], which is why the dates are now all disrupted in the artcle. --[[User:MChew|MChew]] ([[User talk:MChew|talk]]) 15:11, 21 March 2008 (UTC)
+
+:I think you are forgetting that most English people write dates 15 May 1912, not 1912-05-28.   As for the concept of dates being 'disrupted', I do not understand what you mean.--[[User:Toddy1|Toddy1]] ([[User talk:Toddy1#top|talk]]) 19:55, 21 March 2008 (UTC)
+
+Some English people prefer 15 May 1912; others prefer May 15, 1912; and even others prefer 1912 May 15.  You can use the normal Wikimedia date formatting hooks (see [[WP:MOSDATE]]), and it will display the dates correctly.  What you did by adding the pipe links like '''&lt;nowiki&gt;[[1897-08-01|01 Aug 1897]]&lt;/nowiki&gt;''' forces a single format on everyone, and is not any better than the original.  The MOS says that in a list context, dates like 1912-05-15 is acceptable, but in prose, a readable format needs to be used.  When the reader is logged into an account, there is no difference; but, for unregistered users, they'll see whatever is in the brackets.  Anyway, I've brought one of your redirects to the attention of [[WP:RFD]] to see if they are still necessary, now that the date formatting issues are fixed. [[User:Neier|Neier]] ([[User talk:Neier|talk]]) 11:33, 23 March 2008 (UTC)
+
+:Wikipedia exists for the benefit of normal people.  Normal people when they look at a wikipedia page that says &lt;nowiki&gt;1900-02-05&lt;/nowiki&gt; see &lt;nowiki&gt;1900-02-05&lt;/nowiki&gt;.  They do '''not''' see 5 February 1900.  Wikipedia should be written for the benefit of people who speak '''English'''.--[[User:Toddy1|Toddy1]] ([[User talk:Toddy1#top|talk]]) 11:48, 23 March 2008 (UTC)
+
+If &lt;nowiki&gt;1900-02-05&lt;/nowiki&gt; is bracketed, &quot;normal&quot; people see 5 February 1900 or February 5 1900, whichever their preference setting is set on. Bracketing the date format in this manner gives everyone the preference they want. This includes those of use who speak '''English''' as our native language --[[User:MChew|MChew]] ([[User talk:MChew|talk]]) 16:21, 23 March 2008 (UTC)
+
+:What you are saying is only true of people who are logged in '''and''' have their computers set up in the way you are talking about.--[[User:Toddy1|Toddy1]] ([[User talk:Toddy1|talk]]) 19:09, 23 March 2008 (UTC)
+
+::I strongly recommend reading and understanding [[WP:MOSDATE]] before changing the date links to an non-standard format again. [[User:Neier|Neier]] ([[User talk:Neier|talk]]) 23:11, 23 March 2008 (UTC)</text>
+      <sha1>gujh9ozj30r558xey4d47wvj72zv8gz</sha1>
+    </revision>
+  </page>
+</mediawiki>

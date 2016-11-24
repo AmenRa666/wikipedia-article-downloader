@@ -1,0 +1,236 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Marlborough (1912)</title>
+    <ns>0</ns>
+    <id>488445</id>
+    <revision>
+      <id>746305680</id>
+      <parentid>717093666</parentid>
+      <timestamp>2016-10-26T15:54:59Z</timestamp>
+      <contributor>
+        <username>Aciram</username>
+        <id>3048957</id>
+      </contributor>
+      <comment>/* Postwar career */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36322">{{Use dmy dates|date=July 2015}}
+{{Use British English|date=July 2015}}
+{{good article}}
+{{Other ships|HMS Marlborough}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:HMS Marlborough.png|300px|HMS Marlborough]]
+|Ship caption=HMS ''Marlborough''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Marlborough''
+|Ship namesake=[[John Churchill, 1st Duke of Marlborough]]
+|Ship ordered=1911
+|Ship builder=Devonport Dockyard
+|Ship laid down=25 January 1912
+|Ship launched= 24 October 1912
+|Ship acquired=
+|Ship commissioned=June 1914
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=1932
+|Ship reinstated=
+|Ship honours=
+|Ship fate= Sold for scrap, 27 June 1932
+|Ship motto=
+|Ship nickname=
+|Ship captured=
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type={{sclass-|Iron Duke|battleship}}
+|Ship displacement=*Normal: {{convert|25000|LT|t|abbr=on|-1}} (normal)
+*Full load: {{convert|29560|LT|t|abbr=on|-1}}
+|Ship length={{convert|622|ft|9|in|m|abbr=on|0}} [[Length overall|o/a]]
+|Ship beam={{convert|90|ft|m|abbr=on|1}}
+|Ship draught={{convert|29|ft|6|in|m|abbr=on}}
+|Ship power=*{{convert|29000|shp|kW|abbr=on|lk=in}}
+*18 × [[Babcock &amp; Wilcox]] boilers
+|Ship propulsion=4 × [[Parsons Marine Steam Turbine Company|Parsons]] [[Steam turbine|turbine]]s
+|Ship speed={{convert|21.25|kn|abbr=on|1|lk=in}}
+|Ship range={{convert|7800|nmi|mi km|abbr=on|0|lk=in}} at {{convert|10|kn|mph km/h|abbr=on|1}}
+|Ship complement=995–1,022
+|Ship armament=* 10 × [[BL 13.5 inch Mk V naval gun|BL {{convert|13.5|in|mm|abbr=on|0}}/45 cal Mk V gun]]s
+* 12 × [[BL 6 inch Mk VII naval gun|{{convert|6|in|mm|abbr=on|0}}/45 cal Mk VII gun]]s
+* 2 × [[QF 3 inch 20 cwt|QF {{convert|3|in|mm|abbr=on|0}} 20 cwt]] [[Anti-aircraft warfare|AA]] guns
+* 4 × {{convert|21|in|mm|abbr=on|0}} [[torpedo tube]]s
+
+|Ship armour=*[[Belt armor|Belt]]: {{convert|12|in|mm|abbr=on|0}}
+*[[Deck (ship)|Deck]]: {{convert|2.5|in|mm|abbr=on|0}}
+*[[Barbette]]s: {{convert|10|in|mm|abbr=on|0}}
+*[[Gun turret|Turret]]s: {{convert|11|in|mm|abbr=on|0}}
+
+|Ship notes=
+}}
+|}
+'''HMS ''Marlborough''''' was an {{sclass-|Iron Duke|battleship|2}} of the British [[Royal Navy]], named in honour of [[John Churchill, 1st Duke of Marlborough]]. She was built at [[HMNB Devonport|Devonport Royal Dockyard]] between January 1912 and June 1914, entering service just before the outbreak of the [[First World War]]. She was armed with a [[main battery]] of ten {{convert|13.5|in|adj=on}} guns and was capable of a top speed of {{convert|21.25|kn|lk=in}}.
+
+''Marlborough'' served with the [[Grand Fleet]] for the duration of the war, primarily patrolling the northern end of the [[North Sea]] to enforce the [[blockade]] of Germany. She saw action at the [[Battle of Jutland]] (31 May&amp;nbsp;– 1 June 1916), where she administered the ''[[coup de grâce]]'' to the badly damaged German cruiser {{SMS|Wiesbaden}}. During the engagement, ''Wiesbaden'' hit ''Marlborough'' with a [[torpedo]] that eventually forced her to withdraw. The damage to ''Marlborough'' was repaired by early August, though the last two years of the war were uneventful, as the British and German fleets adopted more cautious strategies due to the threat of underwater weapons.
+
+After the war, ''Marlborough'' was assigned to the [[Mediterranean Fleet]], where she took part in the [[Allied intervention in the Russian Civil War]] in the [[Black Sea]] in 1919–20. She was also involved in the [[Greco-Turkish War (1919–22)|Greco-Turkish War]]. In 1930, the [[London Naval Treaty]] mandated that the four ''Iron Duke''-class battleships be discarded; ''Marlborough'' was used for a variety of weapons tests in 1931–32, the results of which were incorporated into the reconstruction programme for the {{sclass-|Queen Elizabeth|battleship|1}}s.
+
+==Design==
+[[File:Iron Duke class battleship - Jane's Fighting Ships, 1919 - Project Gutenberg etext 24797.png|thumb|left|Plan of the ''Iron Duke'' class]]
+{{main|Iron Duke-class battleship}}
+
+''Marlborough'' was {{convert|622|ft|9|in|0}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|90|ft|abbr=on}} and an average [[draft (hull)|draught]] of {{convert|29|ft|6|in|abbr=on|0}}. She displaced {{convert|25000|LT|0}} as designed and up to {{convert|29560|LT|0}} at combat loading. Her propulsion system consisted of four [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s, with steam provided by eighteen [[Babcock &amp; Wilcox boiler]]s. The engines were rated at {{convert|29000|shp|lk=in|0}} and produced a top speed of {{convert|21.25|kn|abbr=on|0}}. ''Marlborough''{{'}}s cruising radius was {{convert|7800|nmi|lk=in|0}} at a more economical {{convert|10|kn|abbr=on|0}}. She had a crew of 995&amp;nbsp;officers and enlisted men; during wartime this increased to up to 1,022.&lt;ref name=GG31&gt;Gardiner &amp; Gray, p. 31&lt;/ref&gt;
+
+The ship was armed with a main battery of ten [[BL 13.5-inch Mk V naval gun]]s mounted in five twin [[gun turret]]s. They were arranged in two [[superfire|superfiring]] pairs, one forward and one aft; the fifth turret was located [[amidships]], between the funnels and the rear [[superstructure]]. Close-range defence against [[torpedo boat]]s was provided by a [[Battleship secondary armament|secondary armament]] of twelve [[BL 6 inch Mk VII naval gun|BL 6-inch Mk VII guns]]. ''Marlborough'' was also fitted with a pair of [[QF 3-inch 20 cwt]] anti-aircraft guns and four {{convert|47|mm|abbr=on|1}} 3-pounder guns.&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 20 cwt referring to the weight of the gun.&lt;/ref&gt; As was typical for capital ships of the period, she was equipped with four {{convert|21|in|abbr=on|0}} [[torpedo tube]]s submerged on the [[broadside]]. She was protected by a main [[armoured belt]] that was {{convert|12|in|abbr=on|0}} thick over the ship's vitals. Her deck was {{convert|2.5|in|abbr=on|0}} thick. The main battery turret faces were {{convert|11|in|abbr=on|0}} thick, and the turrets were supported by [[barbette]]s {{convert|10|in|abbr=on|0}} thick.&lt;ref name=GG31/&gt;
+
+==Service history==
+''Marlborough'' was [[Keel laying|laid down]] at [[HMNB Devonport|Devonport Royal Dockyard]] on 25 January 1912. She was [[Ceremonial ship launching|launched]] nearly ten months later, on 24 October, and was commissioned on 2 June 1914. The ship was completed on 16 June 1914, a month before the [[First World War]] broke out on [[Continental Europe|the Continent]].&lt;ref name=GG31/&gt;&lt;ref&gt;Willmott, p. 154&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Naval and Military Intelligence|newspaper=[[The Times]]|date=5 June 1914|page=14}}&lt;/ref&gt; ''Marlborough'' initially joined the [[Home Fleet]]s, where she served as the [[flagship]] for [[Lewis Bayly (Royal Navy officer)|Sir Lewis Bayly]].&lt;ref&gt;Jellicoe, p. 7&lt;/ref&gt; Following the British entry into the war in August, the Home Fleets was reorganised as the [[Grand Fleet]], commanded by Admiral [[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]]. ''Marlborough'' was assigned as the flagship of the [[1st Battle Squadron (United Kingdom)|1st Battle Squadron]], where she served for the duration of the conflict.&lt;ref name=GG32&gt;Gardiner &amp; Gray, p. 32&lt;/ref&gt;
+
+===First World War===
+[[File:North Sea map-en.png|thumb|upright|Map of the [[North Sea]]]]
+
+On the evening of 22 November 1914, the Grand Fleet conducted a fruitless sweep in the southern half of the [[North Sea]] to support Vice Admiral [[David Beatty, 1st Earl Beatty|David Beatty]]'s [[1st Battlecruiser Squadron]]. The fleet was back in port in [[Scapa Flow]] by 27 November.&lt;ref&gt;Jellicoe, pp. 163–165&lt;/ref&gt; ''Marlborough'' and most of the fleet initially remained in port during the German [[raid on Scarborough, Hartlepool and Whitby]] on 16 December 1914, though the [[3rd Battle Squadron (United Kingdom)|3rd Battle Squadron]] was sent to reinforce the British forces in the area. After receiving further information about the possibility of the rest of the German fleet being at sea, Jellicoe gave the order for the fleet to sortie to try to intercept the Germans, though by that time they had already retreated.&lt;ref&gt;Jellicoe, pp. 177–179&lt;/ref&gt; [[Vice Admiral]] [[Cecil Burney]] replaced Bayley aboard ''Marlborough'' in December;&lt;ref&gt;Heathcote, p. 37&lt;/ref&gt; at that time, ''Marlborough'' became the second-in-command flagship for the Grand Fleet.&lt;ref name=B228/&gt; On 25 December, the fleet sortied for a sweep in the North Sea, which concluded on 27 December without event.&lt;ref&gt;Jellicoe, pp. 183–184&lt;/ref&gt; ''Marlborough'' and the rest of the fleet conducted gunnery drills during 10–13 January 1915 west of the [[Orkneys]] and [[Shetlands]].&lt;ref&gt;Jellicoe, p. 190&lt;/ref&gt; On the evening of 23 January, the bulk of the Grand Fleet sailed in support of Beatty's Battlecruiser Fleet but the rest of the fleet did not become engaged in the ensuing [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]] the following day.&lt;ref&gt;Jellicoe, pp. 194–196&lt;/ref&gt;
+
+On 7–10 March 1915, the Grand Fleet conducted a sweep in the northern North Sea, during which it undertook training manoeuvres. Another such cruise took place during 16–19 March.&lt;ref&gt;Jellicoe, p. 206&lt;/ref&gt; On 11 April, the Grand Fleet conducted a patrol in the central North Sea and returned to port on 14 April; another patrol in the area took place during 17–19 April, followed by gunnery drills off the Shetlands on 20–21 April.&lt;ref&gt;Jellicoe, pp. 211–212&lt;/ref&gt; The Grand Fleet conducted a sweep into the central North Sea during 17–19 May without encountering German vessels.&lt;ref&gt;Jellicoe, p. 217&lt;/ref&gt; Another patrol followed during 29–31 May; it too was uneventful.&lt;ref&gt;Jellicoe, pp. 218–219&lt;/ref&gt; The fleet conducted gunnery training in mid-June.&lt;ref&gt;Jellicoe, p. 221&lt;/ref&gt; During 2–5 September, the fleet went on another cruise in the northern end of the North Sea and conducted gunnery drills.&lt;ref&gt;Jellicoe, p. 243&lt;/ref&gt; Throughout the rest of the month, the Grand Fleet conducted numerous training exercises.&lt;ref&gt;Jellicoe, p. 246&lt;/ref&gt;
+
+On 13 October, the majority of the fleet conducted a sweep into the North Sea, returning to port on 15 October.&lt;ref&gt;Jellicoe, p. 250&lt;/ref&gt; During 2–5 November, ''Marlborough'' participated in a fleet training operation west of the Orkneys.&lt;ref&gt;Jellicoe, p. 253&lt;/ref&gt; Another such cruise took place during 1–4 December.&lt;ref&gt;Jellicoe, pp. 257–258&lt;/ref&gt; The typical routine of gunnery drills and squadron exercises occurred in January 1916.&lt;ref&gt;Jellicoe, pp. 267–269&lt;/ref&gt; The fleet departed for a cruise in the North Sea on 26 February; Jellicoe had intended to use the [[Harwich Force]] to sweep the [[Heligoland Bight]], but bad weather prevented operations in the southern North Sea. As a result, the operation was confined to the northern end of the sea.&lt;ref&gt;Jellicoe, p. 271&lt;/ref&gt; On the night of 25 March, ''Iron Duke'' and the rest of the fleet sailed from Scapa Flow, to support the Battlecruiser Fleet and other light forces that raided the German [[zeppelin]] base at [[Tondern]].&lt;ref&gt;Jellicoe, pp. 279–280&lt;/ref&gt;
+
+On 21 April, the Grand Fleet conducted a demonstration off [[Horns Reef]] to distract the Germans, while the Russian Navy relaid its defensive minefields in the [[Baltic Sea]].&lt;ref&gt;Jellicoe, p. 284&lt;/ref&gt; The fleet returned to Scapa Flow on 24 April and refuelled, before proceeding south in response to intelligence reports that the Germans were about to launch a [[Bombardment of Yarmouth and Lowestoft|raid on Lowestoft]]. The Grand Fleet did not arrive in the area until after the Germans had withdrawn.&lt;ref&gt;Jellicoe, pp. 286–287&lt;/ref&gt;&lt;ref&gt;Marder, p. 424&lt;/ref&gt; During 2–4 May, the fleet conducted another demonstration off Horns Reef to keep German attention focused on the North Sea.&lt;ref&gt;Jellicoe, pp. 288–290&lt;/ref&gt;
+
+====Battle of Jutland====
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|350px|Maps showing the manoeuvres of the British (blue) and German (red) fleets on 31 May&amp;nbsp;– 1 June 1916|alt=The British fleet sailed from northern Britain to the east while the Germans sailed from Germany in the south; the opposing fleets met off the Danish coast]]
+{{main|Battle of Jutland}}
+
+In an attempt to lure out and destroy a portion of the Grand Fleet, the German [[High Seas Fleet]] with 16 dreadnoughts, six pre-dreadnoughts, six light cruisers and 31 torpedo boats commanded by Vice Admiral [[Reinhard Scheer]], departed [[the Jade]] early on the morning of 31 May. The fleet sailed in concert with [[Rear Admiral]] [[Franz von Hipper]]'s five battlecruisers and supporting cruisers and torpedo boats.&lt;ref&gt;Tarrant, p. 62&lt;/ref&gt; The Royal Navy's [[Room 40]] had intercepted and decrypted German radio traffic containing plans of the operation. The Admiralty ordered the Grand Fleet of 28 dreadnoughts and 9 battlecruisers, to sortie the night before to cut off and destroy the High Seas Fleet.&lt;ref&gt;Tarrant, pp. 63–64&lt;/ref&gt; On the day of the battle, ''Marlborough'' was stationed toward the rear of the British [[line of battle|line]] in the 6th Division of the 1st Battle Squadron.&lt;ref&gt;Campbell, p. 16&lt;/ref&gt;
+
+The initial action was fought primarily by the British and German [[battlecruiser]] formations in the afternoon,&lt;ref&gt;Campbell, p. 37&lt;/ref&gt; but by 18:00,&lt;ref group=Note&gt;The times used in this section are in [[Universal Time|UT]], which is one hour behind [[Central European Time|CET]], which is often used in German works.&lt;/ref&gt; the Grand Fleet approached the scene.&lt;ref&gt;Campbell, p. 116&lt;/ref&gt; Fifteen minutes later, Jellicoe gave the order to turn and deploy the fleet for action. The transition from their cruising formation caused congestion with the rear divisions, forcing ''Marlborough'' and many of the other ships to reduce speed to {{convert|8|kn}} to avoid colliding with each other.&lt;ref&gt;Campbell, p. 146&lt;/ref&gt; The British ships initially had poor visibility and ''Marlborough'' could only faintly make out a group of German {{sclass-|Kaiser|battleship|1}}s at 18:17. In the span of four minutes, she fired seven salvos, first at {{convert|10000|yd|m}} and then at {{convert|13000|yd|m}}. ''Marlborough''{{'}}s gunners claimed to have made hits with the 5th and 7th salvos but these claims are unlikely. Her guns were then masked by a burning cruiser, probably the armoured cruiser {{HMS|Warrior|1905|6}}.&lt;ref&gt;Campbell, p. 155&lt;/ref&gt;
+
+''Marlborough'' joined the group of battleships battering the German [[light cruiser]] {{SMS|Wiesbaden}} at 18:25. She fired five salvos, before a premature detonation in the right barrel of &quot;A&quot; turret disabled the gun.&lt;ref group=Note&gt;The Royal Navy used letters to refer to the locations of the gun turrets aboard warships; &quot;A&quot; and &quot;B&quot; turrets were located forward, the centre turret was &quot;Q&quot;, and the rear pair were &quot;X&quot; and &quot;Y&quot;.&lt;/ref&gt; She also engaged the ship with her secondary battery. At 18:39, ''Marlborough'' again engaged what appeared to be a ''Kaiser''-class ship, firing a salvo before the German vessel disappeared into the haze.&lt;ref&gt;Campbell, pp. 156–157&lt;/ref&gt; During the engagement with ''Wiesbaden'', the German cruiser launched one or two torpedoes at around 18:45, one of which struck ''Marlborough'' around the [[starboard]] diesel generator room. The detonation tore a {{convert|28|ft|adj=on}} hole in the hull and causing significant flooding, that forced the forward boilers on that side of the ship to be extinguished and reduced the ship's speed to {{convert|16|kn}}. Burney initially reported to Jellicoe that his ship had struck a mine or had been hit by a torpedo at 18:57. Several more torpedoes, this time from the torpedo boat {{SMS|V48}}, forced ''Marlborough'' and the rest of the ships in her division to take evasive action.&lt;ref&gt;Campbell, pp. 164, 167, 179–180&lt;/ref&gt;
+
+[[File:SMS Konig.jpg|thumb|left|Recognition drawing of a ''König''-class battleship; ''Marlborough'' scored three hits on {{SMS|Grosser Kurfürst|1913|6}} during the battle]]
+At 19:03, ''Marlborough'' engaged ''Wiesbaden'' again, firing four salvos at ranges of {{convert|9500|to|9800|yd}}. She hit the German cruiser with probably three shells from the last two salvos and these finally neutralised the ship, although it took several more hours before ''Wiesbaden'' sank.&lt;ref&gt;Campbell, pp. 205, 246&lt;/ref&gt; ''Marlborough'' then shifted fire to the {{sclass-|König|battleship|1}}s leading the German line at 19:12. She fired thirteen salvos in the span of six minutes at {{SMS|Grosser Kurfürst|1913|6}} at ranges of {{convert|10200|to|10750|yd}}, scoring three hits, though she incorrectly claimed a fourth hit.&lt;ref&gt;Campbell, p. 206&lt;/ref&gt; During this phase of the battle, ''Marlborough'' fired two torpedoes, both of which missed their targets: the first at ''Wiesbaden'' at 19:10 and the second at {{SMS|Kaiser|1911|6}} at 19:25.&lt;ref&gt;Campbell, p. 209&lt;/ref&gt;
+
+By about 19:30, ''Marlborough''{{'}}s pumps had contained the flooding in the boiler rooms but she took on a [[Angle of list|list]] of around 7–8&amp;nbsp;degrees. Instead of using counter-flooding to minimise the list, her crew attempted to correct the list by using coal and oil from the starboard bunkers first. The list caused the generators supplying power to the main battery turrets to flood, hampering the gun crews, particularly as shells were transferred from the magazines to the turrets. The blast from the torpedo was so powerful that forty [[watertight compartment]]s were damaged, though the [[torpedo bulkhead]] localised most of the damage and the more badly damaged compartments were sufficiently shored up.&lt;ref&gt;Campbell, pp. 180–181&lt;/ref&gt; Three more torpedoes approached ''Marlborough'' at 19:33. She evaded the first two and the third harmlessly passed under the ship.&lt;ref&gt;Campbell, p. 214&lt;/ref&gt;
+
+After the opposing fleets disengaged late in the day, the Grand Fleet steamed south in an attempt to cut off the retreating Germans and destroy them the following morning. The 6th Division was slowed down by ''Marlborough'', which could make no more than {{convert|15.75|kn|abbr=on}} by this point.&lt;ref&gt;Campbell, p. 256&lt;/ref&gt; By around 02:00 on 1 June, the 6th Division was about {{convert|12|nmi|abbr=on}} behind the rest of the fleet. At that time, the bulkheads in the starboard forward boiler room started to give way under the strain, forcing ''Marlborough'' to reduce speed to {{convert|12|kn}}. The damage control teams believed that if the main battery were to fire, the shoring supporting the damaged bulkheads would give way, greatly increasing the risk to the ship. Jellicoe detached the ship to proceed independently to [[Rosyth]] or the [[River Tyne|Tyne]]; Burney had ordered the [[scout cruiser]] {{HMS|Fearless|1912|2}} to come alongside to transfer him to the battleship {{HMS|Revenge|06|2}}. ''Marlborough'' thereafter proceeded northward at a speed of {{convert|11|kn}}.&lt;ref&gt;Campbell, pp. 296, 306&lt;/ref&gt;
+
+''Fearless'' rejoined ''Marlborough'' around 04:00 and both ships briefly fired at the German zeppelin [[Zeppelin LZ 41|''L11'']]. [[Commodore (rank)|Commodore]] [[Reginald Tyrwhitt]]'s Harwich Force had been ordered to reinforce the Grand Fleet, particularly to relieve ships low on fuel; they departed at 03:50 but this was too late for them to reach the fleet by morning, so Jellicoe ordered Tyrwhitt to detach [[destroyer]]s to escort ''Marlborough'' back to port.&lt;ref&gt;Campbell, pp. 310–311&lt;/ref&gt; On the way, ''Marlborough'' and ''Fearless'' encountered the British submarines {{HMS|G3||2}} and {{HMS|G5||2}}; the two submarines prepared to attack the ships but fortunately recognised them before they launched torpedoes.&lt;ref&gt;Campbell, pp. 317–318&lt;/ref&gt; By 15:00, eight destroyers from the Harwich Force had joined ''Marlborough'' and another pump had been lowered into the flooded boiler room. At around 23:30, the pump was being moved to clean it when the roll of the ship threw the pump into the damaged bulkhead, knocking the shores loose. Water flooded into the ship and ''Marlborough''{{'}}s captain ordered ''Fearless'' and the destroyers to prepare to come alongside, to rescue the crew if the flooding worsened at 00:47 on 2 June. A diver was sent into the boiler room at that time, and he was able to keep the pump clean, which slowly reduced the water level in the ship.&lt;ref&gt;Campbell, pp. 325–326&lt;/ref&gt;
+
+Jellicoe ordered ''Marlborough'' to proceed to [[the Humber]] for temporary repairs. While there, her forward main battery and 6-inch magazines were emptied to lighten the ship, more pumps were brought aboard and the shoring supporting the damaged bulkhead was reinforced. On the morning of 6 June, the ship left the Humber for the Tyne, where she would receive permanent repairs, escorted by four destroyers from the Harwich Force.&lt;ref&gt;Campbell, pp. 326–327&lt;/ref&gt; In the course of the battle, ''Marlborough'' had fired 162 shells from her main battery, 60 rounds from her secondary guns and five torpedoes.&lt;ref&gt;Campbell, pp. 346, 358, 401&lt;/ref&gt; The torpedo hit had killed two men and wounded another two.&lt;ref&gt;Campbell, p. 340&lt;/ref&gt; She was repaired by the [[Armstrong Whitworth]] shipyard at [[Jarrow]], with the work lasting until 2 August, after which she departed for [[Cromarty]], arriving on 5 August.&lt;ref&gt;Campbell, p. 335&lt;/ref&gt; During the repair work, an extra {{convert|100|MT|abbr=on}} of armour plating was added to the ship, primarily over the magazines.&lt;ref&gt;Burt 1986, p. 215&lt;/ref&gt; These alterations were the result of the British experience at Jutland, where three battlecruisers had been destroyed by magazine explosions.&lt;ref&gt;Tarrant, pp. 94, 100, 147–149&lt;/ref&gt;
+
+====Later operations====
+On 18 August, the Germans again sortied, this time to bombard [[Sunderland, Tyne and Wear|Sunderland]]; Scheer hoped to draw out Beatty's battlecruisers and destroy them. British signals intelligence decrypted German wireless transmissions, allowing Jellicoe enough time to deploy the Grand Fleet in an attempt to engage in a decisive battle. Both sides withdrew the following day, after their opponents' [[submarine]]s inflicted losses in the [[Action of 19 August 1916|Action of 19 August]]: the British cruisers {{HMS|Nottingham|1913|2}} and {{HMS|Falmouth|1910|2}} were both torpedoed and sunk by German [[U-boat]]s and the German battleship {{SMS|Westfalen}} was damaged by the British submarine {{HMS|E23||2}}. After returning to port, Jellicoe issued an order that prohibited risking the fleet in the southern half of the North Sea due to the overwhelming risk from mines and U-boats.&lt;ref&gt;Massie, pp. 682–684&lt;/ref&gt;
+
+In February 1917, ''Revenge'' replaced ''Marlborough'' as the 1st Battle Squadron flagship; she thereafter served as the second command flagship. She was briefly replaced in this role by {{HMS|Emperor of India||2}} in May and she temporarily became a [[private ship]].&lt;ref&gt;Burg 1986, p. 227&lt;/ref&gt; Toward the end of the year, the Germans began using destroyers and light cruisers to raid the British convoys to Norway; this forced the British to deploy capital ships to protect the convoys. On 23 April 1918, the German fleet sortied in an attempt to catch one of the isolated British squadrons, though the convoy had already passed safely. The Grand Fleet sortied too late the following day to catch the retreating Germans, though the battlecruiser {{SMS|Moltke}} was torpedoed and badly damaged by the submarine {{HMS|E42}}.&lt;ref&gt;Halpern 1995, pp. 418–420&lt;/ref&gt; In 1918, ''Marlborough'' and her sisters received flying-off platforms on their &quot;B&quot; and &quot;Q&quot; turrets to handle reconnaissance aircraft.&lt;ref&gt;Burt 1986, p. 218&lt;/ref&gt;
+
+Following the capitulation of Germany in November 1918, the Allies interned most of the High Seas Fleet in Scapa Flow. The fleet rendezvoused with the British light cruiser {{HMS|Cardiff|D58|2}}, which led the ships to the Allied fleet that was to escort the Germans to Scapa Flow. The massive fleet consisted of some 370 British, American, and French warships. The fleet remained in captivity during the negotiations that ultimately produced the [[Treaty of Versailles]]. Reuter believed that the British intended to seize the German ships on 21 June 1919, which was the deadline for Germany to have signed the peace treaty. That morning, the Grand Fleet left Scapa Flow to conduct training manoeuvres and while they were away Reuter issued the order to [[Scuttling of the German fleet in Scapa Flow|scuttle the High Seas Fleet]].&lt;ref&gt;Herwig, pp. 254–256&lt;/ref&gt;
+
+===Postwar career===
+[[File:ApproxPositionsWWI-1919.png|thumb|upright|Map of the approximate positions of the Bolshevik and White forces in Russia in 1919]]
+On 12 March 1919, ''Marlborough'' was recommissioned at Devonport and assigned to the [[Mediterranean Fleet]], as part of the [[4th Battle Squadron (United Kingdom)|4th Battle Squadron]],&lt;ref name=B228&gt;Burt 1986, p. 228&lt;/ref&gt; along with her three sisters and two {{sclass-|Centurion|battleship|1}}s. During this period, she served in the [[Black Sea]] during the [[Allied intervention in the Russian Civil War]] to support the [[White movement|Whites]] against the Red [[Bolshevik]]s.&lt;ref&gt;Halpern 2011, p. 7&lt;/ref&gt; On 5 April 1919, ''Marlborough'' arrived in [[Sevastopol]] before proceeding to [[Yalta]] the following day. The ship took [[Maria Feodorovna (Dagmar of Denmark)|Dowager Empress Maria Feodorovna]] and other members of the former, deposed [[Russian Imperial Family]] including [[Grand Duke Nicholas Nikolaevich of Russia (1856-1929)|Grand Duke Nicholas]] and [[Felix Yusupov|Prince Felix Yusupov]] aboard in Yalta on the evening of the 7th. The Empress refused to leave unless the British also evacuated wounded and sick soldiers, along with any civilians that also wanted to escape the advancing Bolsheviks. The Russian entourage aboard ''Marlborough'' numbered some 80 people,&lt;ref&gt;Halpern 2011, pp. 32–33&lt;/ref&gt;&lt;ref&gt;Perry &amp; Pleshakov, pp. 217–218&lt;/ref&gt; including 44 members of the Royal Family and nobility, with a number of governesses, nurses, maids and manservants, plus several hundred cases of luggage.&lt;ref name=consulate&gt;{{cite web |title= Russian Refugees in Malta in 1919 |url=http://ozmalta.com/wp-content/uploads/NEWS42.pdf |publisher= Consulate of Malta in South Australia |date=May 2014 |accessdate=25 April 2016}}&lt;/ref&gt;
+ 
+About 35 officer’s cabins were vacated and additional bunks were installed, with the Empress taking over the Captain's cabin. On the morning of 12 April the ship anchored off [[Heybeliada|Halki Island]], about {{convert|12|mi|km}} from [[Constantinople]], due to some uncertainty over the final destination for the former Russian Royal family. On 16 April Grand Duke [[Grand Duke Nicholas Nikolaevich of Russia (1856–1929)|Nicholas Nikolaevich]] and his wife the Grand Duchess [[Princess Anastasia of Montenegro|Anastasia]], the Grand Duke [[Grand Duke Peter Nikolaevich of Russia|Peter Nicholaievitch]] and his wife Grand Duchess [[Princess Milica of Montenegro|Milica]], [[Princess Marina Petrovna of Russia|Princess Marina]], [[Prince Roman Petrovich of Russia|Prince Roman]], Count and Countess Tyszkiewich, Baron and Baroness Staal, Mr Boldyreff and Dr Malama with their respective servants left the ship and boarded [[HMS Lord Nelson (1906)|HMS Lord Nelson]] destined for [[Genoa]]. They were replaced by Count Dimitri and Countess Sophia Mengden, Count George and Countess Irina Mengden, Countess Vera Mengden, Count Nicholas Mengden, Madame Helena Erchoff and two maids. On the morning of 18 April, Good Friday, the ship sailed for Malta.&lt;ref name=consulate/&gt; The ship departed on 18 April, bound for [[Malta]] to deposit the Russians, before returning to Constantinople.&lt;ref&gt;Halpern 2011, pp. 33–34&lt;/ref&gt;
+
+In May 1919, ''Marlborough'' conducted tests with new high-explosive 6-inch shells off the [[Kerch Peninsula]], though these proved to be unreliable. During this period, she operated a [[kite balloon]] to aid in spotting the fall of shot.&lt;ref&gt;Halpern 2011, p. 74&lt;/ref&gt; Later that month, a shell broke up in the left barrel of &quot;A&quot; turret and caused minor damage.&lt;ref&gt;Halpern 2011, p. 80&lt;/ref&gt; While stationed off the Kerch Peninsula, the ship provided artillery support to White troops, including bombardments of Bolshevik positions in the villages of [[Koi-Asan]] and [[Dal Kamici]].&lt;ref&gt;Halpern, p. 94&lt;/ref&gt; By 1920, British attention had turned to the [[Greco-Turkish War (1919–22)|Greco-Turkish War]]. On 20 June 1920, ''Marlborough'' arrived in Constantinople, where the Mediterranean Fleet was being concentrated to support the [[Occupation of Constantinople|occupation of the city]].&lt;ref&gt;Halpern 2011, p. 251&lt;/ref&gt; On 6 July, British forces landed at [[Gemlik]], while ''Marlborough'' provided artillery support.&lt;ref&gt;Halpern 2011, p. 130&lt;/ref&gt;
+
+In October 1920, the battleship {{HMS|King George V|1911|2}} arrived to replace ''Marlborough'' in the Mediterranean Fleet. ''Marlborough'' then returned to Devonport, where she was [[paid off]] for a major refit that took place between February 1921 and January 1922.&lt;ref name=B228/&gt; During the refit, [[range dial]]s were installed, along with another [[range-finder]] on the rear superstructure. The aircraft platform was removed from &quot;B&quot; turret. Long-base range-finders were installed on &quot;X&quot; turret.&lt;ref name=B219&gt;Burt 1986, p. 219&lt;/ref&gt;&lt;ref group=Note&gt;Generally, the longer the base tube of a [[coincidence rangefinder]], the greater the level of accuracy that can be achieved at long distances. British battleships were initially fitted with 9-foot rangefinders, though starting with the {{sclass-|Queen Elizabeth|battleship|4}}, 15-foot rangefinders were adopted, with older vessels being retrofitted starting in 1916. See: Friedman, pp. 24–25&lt;/ref&gt; After completing the refit in January 1922, ''Marlborough'' was recommissioned and assigned to the Mediterranean, where she replaced ''Emperor of India''. She served as the second command flagship until October.&lt;ref name=B228/&gt; Following the [[Treaty of Lausanne]] in 1923, the Allied countries withdrew their occupation forces from Turkey; ''Marlborough'' was involved in escorting the troop convoys out of Constantinople.&lt;ref&gt;Halpern 2011, p. 301&lt;/ref&gt;
+
+''Marlborough'' briefly served as the flagship for the deputy commander of the 4th Battle Squadron after ''King George V'' was damaged from striking a rock off [[Mytilene]].&lt;ref&gt;Halpern 2011, p. 345&lt;/ref&gt; In November 1924, the 4th Battle Squadron was renamed the 3rd Battle Squadron. In March 1926, the 3rd  Battle Squadron, including ''Marlborough'', was transferred to the [[Atlantic Fleet (United Kingdom)|Atlantic Fleet]]. There, the battleships served as [[training ship]]s.&lt;ref name=B228/&gt; In 1929, the ship's 3-inch anti-aircraft guns were replaced with more powerful 4-inch guns.&lt;ref name=B219/&gt; In January 1931, ''Marlborough'' served as the squadron flagship, relieving ''Emperor of India''. She remained in the position for only five months, being decommissioned on 5 June.&lt;ref name=B228/&gt; According to the terms of the [[London Naval Treaty]] of 1930, the four ships of the ''Iron Duke'' class were to be scrapped or demilitarised; ''Marlborough'' was scheduled to be removed from service in 1931 and broken up for scrap.&lt;ref&gt;Burt 2012, p. 63&lt;/ref&gt;
+
+The ship was used as a target to test the effect of various weapons on capital ships, along with ''Emperor of India''. The tests included firing destroyer armament at the upper works at close range to test their effectiveness in a simulated night engagement, direct hits from 13.5-inch shells, bomb tests, and experiments with flash tightness in the magazines.&lt;ref&gt;Burt 2012, pp. 63–65&lt;/ref&gt; The first two tests were conducted in July 1931, and were simulations of magazine explosions. The venting system worked as designed, and while the explosions caused serious internal damage, ''Marlborough'' was not destroyed, as the three battlecruisers had been at Jutland.&lt;ref&gt;Burt 2012, p. 68&lt;/ref&gt; In 1932, further tests were conducted with dummy {{convert|250|lb|adj=on}} and {{convert|500|lb|adj=on}} bombs to test deck strength; {{convert|450|lb|adj=on}} [[armor-piercing shot and shell|armour-piercing]] (AP) bombs and {{convert|1080|lb|adj=on}} [[high explosive]] (HE) bombs were then detonated inside the ship to test their effectiveness. The Royal Navy determined that the HE bombs were useless, but that thick deck armour would be required to defeat AP bombs.&lt;ref&gt;Brown, p. 22&lt;/ref&gt; This led to the decision to reinforce the deck armour of existing battleships throughout the 1930s.&lt;ref&gt;Brown, p. 150&lt;/ref&gt;
+
+''Marlborough'' was placed on the disposal list in May 1932 and was quickly sold to the Alloa Shipbreaking Co. On 25 June, she arrived in Rosyth, where she was [[ship breaking|broken up for scrap]].&lt;ref&gt;Burt 1986, p. 229&lt;/ref&gt;
+
+==Footnotes==
+{{Research help|Mil}}
+;Notes
+{{reflist|group=Note}}
+
+;Citations
+{{reflist|20em}}
+
+==References==
+* {{cite book|last = Brown|first = David Keith|year = 2006|origyear = 2000|title = Nelson to Vanguard: Warship Design and Development, 1923–1945|publisher = Naval Institute Press|location = Annapolis|isbn = 978-1-59114-602-5}}
+*  {{cite book|last=Burt|first=R. A.|title=British Battleships 1919–1945|publisher=Naval Institute Press|location=Annapolis|year=2012|isbn=9781591140528}}
+*  {{cite book|last=Burt|first=R. A.|title=British Battleships of World War One|publisher=Naval Institute Press|location=Annapolis|year=1986|isbn=0-87021-863-8}}
+* {{cite book |last=Campbell|first=John|title=Jutland: An Analysis of the Fighting|year=1998|location=London|publisher=Conway Maritime Press|isbn=1558217592}}
+* {{Cite book| title=Naval Firepower: Battleship Guns and Gunnery in the Dreadnought Era |author=Friedman, Norman |publisher=Seaforth|location=Barnsley|year=2008 |isbn=978-1-84415-701-3}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+*{{cite book|last=Halpern|first=Paul G.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis|date=1995|isbn=1-55750-352-4}}
+*{{cite book|editor-last=Halpern|editor-first=Paul|title=The Mediterranean Fleet, 1919–1929|year=2011|publisher=Ashgate for the Navy Records Society|series=Publications of the Navy Records Society|volume=158|location=Farnham|isbn=978-1-4094-2756-8}}
+* {{cite book|last=Heathcote |first=Tony |title=The British Admirals of the Fleet 1734–1995|location=Havertown|publisher=Pen &amp; Sword Ltd |year=2002 |isbn=0-85052-835-6}}
+* {{cite book |last=Jellicoe|first=John|authorlink=John Jellicoe, 1st Earl Jellicoe|title=The Grand Fleet, 1914–1916: Its Creation, Development, and Work|year=1919|location=New York|publisher=George H. Doran Company |oclc=13614571 }}
+* {{cite book |last=Massie|first=Robert K.|authorlink=Robert K. Massie|title=[[Castles of Steel]]|year=2003|location=New York|publisher=Ballantine Books|isbn=0345408780}}
+* {{cite book|last1=Perry|first1=John Curtis|last2=Pleshakov|first2=Constantine V.|title=Flight of the Romanovs: A Family Saga|year=2008|publisher=Basic Books|location=New York|isbn=9780786724864|lastauthoramp=y}}
+* {{cite book |last=Tarrant|first=V. E.|title=Jutland: The German Perspective|year=1995|publisher=Cassell Military Paperbacks|isbn=0-304-35848-7|location=London}}
+*{{Cite book|last=Willmott|first=H. P.|title=The Last Century of Sea Power (Volume 1, From Port Arthur to Chanak, 1894–1922)|year=2009|location=Bloomington|publisher=Indiana University Press|isbn=9780253352149}}
+
+==Further reading==
+*{{cite book|title=Battle of Jutland, 30th May to 1st July: Official Despatches with Appendices|year= 1920|publisher=His Majesty's Stationery Office|location=London|url=https://archive.org/details/battleofjutland300grearich}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|HMS Marlborough (1912)}}
+* [http://www.maritimequest.com/warship_directory/great_britain/battleships/marlborough/hms_marlborough.htm Maritimequest HMS Marlborough Photo Gallery]
+
+{{Iron Duke class battleship}}
+
+{{DEFAULTSORT:Marlborough (1912)}}
+[[Category:Iron Duke-class battleships]]
+[[Category:World War I battleships of the United Kingdom]]
+[[Category:1912 ships]]</text>
+      <sha1>54c1t2din2ujdm3d35sfm3844tagjdc</sha1>
+    </revision>
+  </page>
+</mediawiki>

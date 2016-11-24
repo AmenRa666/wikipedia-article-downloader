@@ -1,0 +1,437 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Florida-class battleship</title>
+    <ns>0</ns>
+    <id>485072</id>
+    <revision>
+      <id>744824458</id>
+      <parentid>740838792</parentid>
+      <timestamp>2016-10-17T17:40:24Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <minor/>
+      <comment>fixed bolding</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27559">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:USS Florida (BB-30) - NH 60568.jpg|300px|USS ''Florida'', the lead ship of the class|alt=A large light gray battleship sits in harbor, dark black smoke billows lazily from the central smoke stacks]]
+| Ship caption = USS ''Florida'' (BB-30)
+}}
+{{Infobox ship class overview
+| Name = ''Florida''-class battleship
+| Builders =* [[New York Naval Shipyard]]
+* [[New York Shipbuilding Corporation]]
+| Operators = [[File:US flag 46 stars.svg|20px]] United States Navy
+| Class before = {{sclass-|Delaware|battleship|4}}
+| Class after = {{sclass-|Wyoming|battleship|4}}
+| Subclasses = 
+| Cost = 
+| Built range = 
+| In service range = 
+| In commission range = 1911–1941
+| Total ships building = 
+| Total ships planned = 2
+| Total ships completed = 2
+| Total ships cancelled = 
+| Total ships active = 
+| Total ships laid up = 
+| Total ships lost = 1
+| Total ships retired = 1
+| Total ships preserved = 0
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = {{sfn|Gardiner|Gray|1985|p=114}}
+| Ship class = 
+| Ship type = [[Battleship]]
+| Ship tonnage = 
+| Ship displacement =
+* {{cvt|21825|LT|t|lk=on}} (standard)
+* {{cvt|23033|LT|t}} (full load)
+| Ship tons burthen = 
+| Ship length =
+* {{cvt|521|ft|6|in|lk=on|1}} ([[overall length|overall]])
+* {{cvt|510|ft|1}} ([[Waterline length|waterline]])
+| Ship beam = {{cvt|88|ft|3|in|1}}
+| Ship height = 
+| Ship draft =
+* {{cvt|28|ft|6|in|1}} (mean)
+* {{cvt|30|ft|1|in|1}} (max)
+| Ship depth = 
+| Ship hold depth = 
+| Ship decks = 
+| Ship deck clearance = 
+| Ship ramps = 
+| Ship power =
+* 14 × coal-fired [[superheater|superheating]] [[Babcock &amp; Wilcox]] [[water-tube boiler]]s
+* {{cvt|28000|shp|lk=on|0}}
+| Ship propulsion =
+* 4 × [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s
+* 4 × [[Propeller|screws]]
+| Ship speed = {{cvt|21|kn|lk=on|0}}
+| Ship range =
+*{{cvt|5776|nmi|mi km|0|lk=on}} at {{cvt|10|kn|0}} 
+*{{cvt|2760|nmi|mi km|0}} at {{cvt|20|kn|0}}
+| Ship endurance = 
+| Ship boats = 
+| Ship capacity =
+*Coal: {{cvt|1667|LT|t|0}} (standard)
+*Coal: {{cvt|2520|LT|t|0}} (max)
+*Oil: {{cvt|400|LT|t|0|lk=in}}
+| Ship complement = 1,001 officers and men
+| Ship crew = 
+| Ship time to activate = 
+| Ship sensors = 
+| Ship EW = 
+| Ship armament =
+* 10 × [[12&quot;/45 caliber Mark 5 naval gun|{{cvt|12|in|0}}/45 caliber Mark 5 guns]]
+* 16 × [[5&quot;/51 caliber gun|{{cvt|5|in|0}}/51 cal guns]]
+* 4 × [[QF 6 pounder Hotchkiss#American service|6-pounder {{cvt|57|mm|1}}]] guns
+* 2 × [[QF 1-pounder pom-pom#United States|1-pounder {{cvt|37|mm|1}}]] guns
+* 2 × [[Mark 15 torpedo|{{cvt|21|in|0}}]] [[torpedo tubes]]
+| Ship armor =
+* [[Belt armor|Belt]]: {{cvt|9|-|11|in|0|lk=on}}
+* Lower [[casemate#Naval|casemate]]: {{cvt|8|-|10|in|0}}
+* Upper casemate: {{cvt|5|in|0}}
+* [[Barbette]]s: {{cvt|4|-|10|in|0}}
+* [[Gun turret#Warships|Turret]] face: {{cvt|12|in|0}}
+* [[Conning tower]]: {{cvt|11.5|in|0}}
+* [[Deck (ship)|Deck]]s: {{cvt|1.5|in|0}}   
+| Ship aircraft = 
+| Ship aircraft facilities = 
+| Ship notes = 
+}}
+|}
+
+The '''''Florida''-class''' [[battleship]]s of the [[United States Navy]] comprised two ships: {{USS|Florida|BB-30|2}} and {{USS|Utah|BB-31|2}}. Launched in 1910 and 1909 respectively and commissioned in 1911, they were slightly larger than the preceding ''Delaware''-class design but were otherwise very similar. This was the first US battleship class in which all ships received [[steam turbine]] engines. In the previous {{sclass-|Delaware|battleship|4}}, {{USS|North Dakota|BB-29|2}} received steam turbine propulsion as an experiment while {{USS|Delaware|BB-28|2}} retained [[Marine steam engine#Vertical|triple-expansion engines]].
+
+Both ships were involved in the 1914 [[United States occupation of Veracruz|Second Battle of Vera Cruz]], deploying their [[USMC|Marine]] contingents as part of the operation. Following the entrance of the United States into [[World War I]] in 1917, both ships were deployed to Europe. ''Florida'' was assigned to the British [[Grand Fleet]] and based in [[Scapa Flow]]; in December 1918 she escorted [[POTUS|President]] [[Woodrow Wilson]] to France for the peace negotiations. ''Utah'' was assigned to convoy escort duty; she was based in Ireland and was tasked with protecting convoys as they approached the European continent.
+
+Retained under the [[Washington Naval Treaty]] of 1922, both ships were modernized significantly, with [[torpedo bulge]]s and oil-fired boilers installed and other improvements made, but were demilitarized under terms of the 1930 [[London Naval Treaty]]. ''Florida'' was scrapped, ''Utah'' converted into first a radio-controlled target ship, then an [[anti-aircraft]] gunnery trainer. She served in the latter role until sunk by the Japanese during the [[attack on Pearl Harbor]] on 7 December 1941. Her hull, never raised, remains on the bottom of the harbor as a [[war memorial]].
+
+== Design ==
+
+The ''Florida''s were the third of 10 separate classes built between 1906 and 1919, a total of 22 battleships being commissioned. The new [[dreadnoughts]] of the American battle line were being designed from [[pre-dreadnought]] experience and observation of foreign designs, as no US dreadnought had yet been commissioned at the time that the ''Florida''s were designed; all were either at some stage of building or in design.{{sfn|Friedman|1985|p=96}} American capital ship design was also heavily influenced by war games conducted at the US Navy's [[Naval War College]]. Captain [[William Sims]] led a reform movement that assigned warship design to the [[General Board of the United States Navy|General Board]].{{sfn|Gardiner|Gray|1985|p=105}}
+
+These ships were an improvement over the preceding {{sclass-|Delaware|battleship|4}}. Their engine rooms were larger to hold four [[Charles Gordon Curtis|Curtis]] or [[Charles Algernon Parsons|Parsons]] [[steam turbine]]s. Their larger beam gave them greater [[metacentric height]], in which the ''Delaware''s were notably deficient, which improved buoyancy and reduced hull stress.{{sfn|Friedman|1985|p=71}} The ships mounted new [[5&quot;/51 caliber gun|{{convert|5|in|adj=on|0}}/51]] [[caliber (artillery)|caliber]] guns as secondary batteries in casemates that boasted increased armor protection.{{sfn|Gardiner|Gray|1985|p=114}} The class retained the large and fully enclosed [[conning tower]]s that were adopted for the preceding ''Delaware''s, as a result of American studies of the [[Battle of Tsushima]] in 1905. The design reduced the vulnerability of the command staff.{{sfn|Hore|2006|p=57}} Overall, these ships were much better protected than their British counterparts, although they were modified extensively during the interwar period.{{sfn|Breyer|1973|p=199}}
+
+=== General characteristics ===
+
+The ''Florida''-class ships were {{cvt|510|ft|lk=on}} [[Waterline length|long at the waterline]] and {{cvt|521|ft|6|in}} [[overall length|overall]]. They had a beam of {{cvt|88|ft|3|in}} and a draft of {{cvt|28|ft|6|in}}. They displaced {{cvt|21825|LT|t|lk=on}} at standard displacement and {{cvt|23033|LT|t}} at full load.{{sfn|Gardiner|Gray|1985|p=114}} This was an increase of approximately {{cvt|2500|LT|t}} over the previous {{sclass-|Delaware|battleship|0}}.{{sfn|Hore|2006|p=57}} The ships also had some of their [[superstructure]] rearranged, including the [[lattice mast]]s and the funnels.&lt;ref name=&quot;USN Florida class&quot; /&gt; The ''Florida''-class ships had a crew of 1,001 officers and men.{{sfn|Hore|2006|p=57}}
+
+The engine rooms on these ships were lengthened to accommodate the larger Parsons steam turbines, which meant the after boiler room had to be eliminated. The remaining boiler rooms were widened by {{cvt|4|ft}}; to do this and maintain adequate underwater and coal bunker protection, the ships were made {{cvt|3|ft}} beamier than the ''Delaware''s. Funnel spacing was therefore closer than in the ''Delaware''s. Also, the wider beam increased the vessels' [[metacentric height]], a quality in which the ''Delaware''s were notably deficient. This improvement allowed the ''Florida''s to accommodate their larger medium-caliber guns without any real penalty in topweight.{{sfn|Friedman|1985|p=74}}
+
+''Florida'' was fitted experimentally with a larger bridge than was then standard, to house both ship and fire control personnel under armor, while ''Utah'' received an heavily armored fire-control tower atop a standard-sized bridge. The former proved especially successful, to the point that when a larger armored fire-control tower and standard bridge was proposed for the ''Nevada'' class, it was rejected in favor of a roomier bridge like that of ''Florida''.{{sfn|Friedman|1985|pp=72–73}}
+
+The two ships were modernized in 1925–27; among the improvements were the addition of [[torpedo bulge]]s, which were designed to increase resistance to underwater damage—this widened the ships to {{cvt|106|ft}}.&lt;ref name=&quot;USN Florida class&quot; /&gt; The ships also had their rear [[lattice mast]]s removed and replaced with a pole mast. A [[Aircraft catapult|catapult]] for launching aircraft was mounted on the number 3 gun turret.{{sfn|Hore|2006|p=57}}
+
+=== Propulsion ===
+
+The ships were propelled by four-shaft [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s; steam was provided by 12 [[Babcock &amp; Wilcox]] coal-fired boilers. The engines were rated at {{cvt|28000|shp|lk=on|0}} to give a top speed of {{cvt|21|kn|km/h|lk=on}}. On [[Sea trial|trials]], ''Florida'' made {{cvt|22.08|kn}} on {{cvt|40511|shp}}; ''Utah's'' turbines produced only {{cvt|27028|shp}} but still propelled the ship at {{cvt|21.04|kn}}.{{sfn|Breyer|1973|p=201}} However, the engine and boiler room arrangements remained the same as in the ''Delaware''s, with the engine room situated between the rear main turrets and steam lines running beneath the [[superfire|superfiring]] rear turret.{{sfn|Friedman|1985|p=72}} The ships had a range of {{cvt|5776|nmi|mi km|-1|lk=on}} at a cruising speed of {{cvt|10|kn}}.{{sfn|Gardiner|Gray|1985|p=114}}{{sfn|Friedman|1985|p=74}}
+
+During ''Florida'' and ''Utah''{{'}}s reconstruction in 1925–1927, their coal-fired boilers were replaced with four [[White-Forster boiler|White-Forster]] oil-fired boilers.{{sfn|Breyer|1973|p=201}} The reduction in the number of boilers allowed their twin funnels to be trunked into one single larger funnel.{{sfn|Hore|2006|p=57}}
+
+=== Armament ===
+
+[[File:Florida class battleship 1912 LOC hec 01148.jpg|thumb|Port side view of ''Florida''-class battleship, with main guns arranged exactly the same on the ''Delaware''-class ships|alt=left side view of a large ship steaming through the water, with two boxy gun turrets in front and three in back, each with two guns.]]
+
+==== Main guns ====
+
+It was intended originally to arm these ships with eight [[14&quot;/45 caliber gun|{{convert|14|in|adj=on|0}}/45]] [[caliber (artillery)|caliber]] guns then in development in [[superfire|superfiring]] fore-and-aft mountings.{{sfn|Breyer|1973|p=199}} As this gun did not go into service until 1914, the arrangement of ten [[12&quot;/45 caliber Mark 5 gun|{{convert|12|in||adj=on|0}}/45 caliber Mark 5 guns]] in five twin [[gun turret]]s was retained from the ''Delaware'' class.&lt;ref name=&quot;DiGiulian Mk1,2,3&amp;5&quot; /&gt;  The gun housings were the Mark 8 type, and they allowed for depression to −5&amp;nbsp;degrees and elevation to 15&amp;nbsp;degrees. The guns had a [[rate of fire]] of 2 to 3 rounds per minute. They fired {{cvt|870|lb|lk=on|0}} shells, of either [[armor-piercing shot and shell|armor-piercing]] (AP) or Common types, though the Common type was obsolete by 1915 and put out of production. The [[propellant charge]] was {{cvt|310|lb|0}} in silk bags, and provided a [[muzzle velocity]] of {{cvt|2700|ft/s|lk=on|0}}. The guns were expected to fire 175 rounds before the barrels would require replacement. The two ships carried 100 shells per gun, or 1,000 rounds in total. At 15&amp;nbsp;degrees elevation, the guns could hit targets out to approximately {{cvt|20000|yd|lk=on|0}}&lt;ref name=&quot;Navweaps12&quot; /&gt;
+
+Unfortunately, the turret layout of the ''Delawares'' was also retained, with its respective challenges. Two turrets, Numbers 1 and 2, were mounted fore in a superfiring pair, while the other three were mounted aft of the main superstructure, all on the centerline. The rearmost turret, number 5, was placed on the main deck, facing rearward, the next turret, Number 4, was placed on the main deck facing forward, but could only have fired on either broadside, it could not have fired straight forward or aft. The center turret, Number 3, placed in a superfiring position facing rearward, could not fire astern when the turret directly under it had its guns trained forward. This left only the rearmost turret, with its pair of 12-inch guns, to cover the rear quarter of the ship.{{sfn|Hore|2006|p=57}} Also, since the engine room was situated between the superfiring rear turret and the ones behind it, steam lines ran from the boiler rooms amidships around the ammunition magazine for Number 3 turret to the engine room. These lines, it was later found, had the potential to heat the powder in the magazine and degrade its ballistics. This design flaw was also prevalent in several British dreadnoughts but was considered inescapable by naval designers on structural grounds.{{sfn|Friedman|1985|p=65}}
+
+[[File:Starboard forward 5 inch gun battery USS Utah (BB-31) LOC ggbain 10757.jpg|thumb|left|Starboard forward battery of 5&quot;/51 caliber guns on ''Utah'']]
+
+==== Secondary guns ====
+
+C&amp;R proposed {{convert|6|in|adj=on|0}} secondary guns for these ships, protected by {{cvt|6.5|in|0}} [[casemate]] armor. This would have been the only change from the protective scheme carried over from the ''Delaware'' class. However, a new 5-inch/51 caliber gun was adopted instead after concerns about inadequate splinter protection for secondary gun casemates and smoke uptakes led to an increase in armor.{{sfn|Friedman|1985|pp=71–72}} Sixteen of these weapons were fitted in individual casemates.&lt;ref name=&quot;USN Florida class&quot; /&gt; These guns fired a {{cvt|50|lb|0}} armor-piercing (AP) shell at a muzzle velocity of {{cvt|3150|ft/s|0}} and a rate of 8 to 9 rounds per minute. The guns could depress to −10&amp;nbsp;degrees and elevate to 15&amp;nbsp;degrees. The guns were manually operated, and had a range of train of about 150&amp;nbsp;degrees in either direction.&lt;ref name=&quot;Navweaps5&quot; /&gt;
+
+==== Anti-aircraft guns ====
+
+''Florida'' and ''Utah'' received two [[3&quot;/23 caliber gun|{{convert|3|in|adj=on|0}}/23 caliber guns]] in 1917 for anti-aircraft (AA) defense. This was increased to eight guns between 1926 and 1928. These guns fired a {{cvt|16.5|lb|0}} shell at a muzzle velocity of {{cvt|1650|ft/s|0}} to a maximum range of {{cvt|8800|yd|0}} and ceiling of {{cvt|18000|ft|0}} at an elevation of 75 degrees and a rate of between eight and nine rounds per minute.{{sfn|Breyer|1973|p=201}}&lt;ref name=&quot;NavWeaps AA&quot;/&gt;
+
+==== Torpedo tubes ====
+
+The ships were also armed with two {{convert|21|in|adj=on|0}} submerged torpedo tubes. The tubes were mounted one on each [[broadside]]. The torpedoes were {{cvt|197|in|m|0}} long and carried a {{cvt|200|lb|0}} warhead. They had a range of {{cvt|4000|yd|0}} and traveled at a speed of {{cvt|26|kn|0}}.&lt;ref name=&quot;NavweapsTorp&quot; /&gt;
+
+=== Armor ===
+
+The armor layout was largely the same as in the preceding ''Delaware''-class battleships.{{sfn|Gardiner|Gray|1985|p=114}} The [[belt armor|armored belt]] ranged in thickness from {{cvt|9|to|11|in|0}} in the more important areas of the ship. Casemated guns mounted in the hull had between {{cvt|8|and|10|in|0}} of armor plate.{{sfn|Gardiner|Gray|1985|p=113}} After modernization, some of the casemated guns were moved to the superstructure;&lt;ref name=&quot;USN Florida class&quot; /&gt; these guns were protected with only {{cvt|5|in|0}} of armor. The [[barbette]]s that housed the main gun turrets were armored with between {{cvt|4|and|10|in|0}} of armor; the side portions more vulnerable to shell fire were thicker, while the front and rear sections of the barbette, which were less likely to be hit, received thinner armor to save weight. The gun turrets themselves were armored with {{cvt|12|in|0}} of armor. The [[conning tower]] was {{cvt|11.5|in|0}} thick.{{sfn|Gardiner|Gray|1985|p=113}} The armored deck was slightly reduced in thickness, from {{cvt|2|to|1.5|in|0}}.{{sfn|Gardiner|Gray|1985|pp=113–114}}
+
+== Construction ==
+
+[[File:USS Florida (BB-30) Under Construction.JPG|thumb|''Florida'' under construction; the ship is undergoing her final fitting out|alt=A large battleship in dock; the ship is covered with scaffolding, ladders, and other construction equipment.]]
+
+''Florida'', ordered under hull number &quot;Battleship #30&quot;, was laid down at the [[Brooklyn Navy Yard|New York Navy Yard]] on 9 March 1909. She was launched on 12 May 1910, after which fitting out work commenced. Work was finished on 15 September 1911, at which point she was commissioned into the [[United States Navy]]. ''Utah'' was ordered under hull number &quot;Battleship #31&quot;. She was laid down in Camden, New Jersey, at the [[New York Shipbuilding Corporation]], 6 days later on 15 March. Work proceeded faster on ''Utah'' than on her [[sister ship]], and she was launched about four and a half months earlier, on 23 December 1909. After launching, she underwent fitting out work, which lasted until 31 August 1911, when she was commissioned into the American fleet.{{sfn|Gardiner|Gray|1985|p=114}}
+
+== Service history ==
+
+=== USS ''Florida'' ===
+{{main article|USS Florida (BB-30)}}
+[[File:USS Florida (BB-30) - NH 61261.jpg|thumb|left|''Florida'' during the Naval Review in 1911|alt=A large gray battleship sits in harbor]]
+
+''Florida'' took part in the [[United States occupation of Veracruz|Second battle of Vera Cruz]] in 1914. She and her sister ''Utah'' were the first two ships on the scene; the two ships landed some 1,000 sailors and Marines under the command of ''Florida''{{'}}s captain on 21 April. Fighting lasted for 3 days; the contingent from ''Florida'' and ''Utah'' suffered a total of 94 casualties.{{sfn|Gardiner|Gray|1985|p=114}}
+
+After the United States entered World War I in April 1917, ''Florida'' was dispatched to Europe; she departed the United States in December 1917. After arriving in the North Sea, she was assigned to the [[Grand Fleet]], where she served with her British counterparts.&lt;ref name=&quot;Florida&quot; /&gt; The ship, part of the US Navy's [[United States Battleship Division Nine (World War I)|Battleship Division Nine]], under the command of Rear Admiral [[Hugh Rodman]], arrived on 7 December and was assigned to the 6th Battle Squadron of the Grand Fleet.{{sfn|Halpern|1995|p=404}} Following training exercises with the British fleet, 6th Battle Squadron was tasked with convoy protection duty on the route to Scandinavia.{{sfn|Halpern|1995|p=405}} Following the end of the war, in December 1918, the ship escorted President [[Woodrow Wilson]] on his trip to Europe to participate in the peace negotiations at Versailles. Later in December, ''Florida'' returned to the United States to participate in the Victory Fleet Review in New York harbor.&lt;ref name=&quot;Florida&quot; /&gt;
+
+Post-war, ''Florida'' returned the US Navy's [[United States Fleet Forces Command#Expansion and contraction|Atlantic Fleet]]; she operated along the east coast of the United States and into Central America. In July 1920, she was assigned the [[Hull number#United States military|hull numbers]] &quot;BB-30&quot;. In December 1920, she carried the [[US Secretary of State]], [[Bainbridge Colby]], on a diplomatic trip around the Caribbean and South America.&lt;ref name=&quot;Florida&quot; /&gt; ''Florida'' was the oldest American battleship that was retained under the terms of the [[Washington Naval Treaty]] of 1922. She underwent extensive reconstruction and modernization during the mid-1920s. After emerging from the shipyard, she was assigned as the [[flagship]] of the Control Force, US Fleet. The ship conducted a series of training cruises for the remainder of the decade.&lt;ref name=&quot;Florida&quot; /&gt; Under the [[London Naval Treaty]] of 1930, the ship was to be discarded.{{sfn|Gardiner|Gray|1985|p=114}} She was decommissioned in February 1931 and towed to the [[Philadelphia Naval Shipyard]], where she was broken up for scrap.&lt;ref name=&quot;Florida&quot; /&gt;
+
+=== USS ''Utah'' ===
+
+{{main article|USS Utah (BB-31)}}
+[[File:Uss utah bb capsizing.jpg|thumb|''Utah'' capsizing during the [[attack on Pearl Harbor]]|alt=A large warship rolls over on its side]]
+
+''Utah''{{'}}s first assignment was with the US Navy's Atlantic Fleet. During 1913, she took a goodwill voyage to the Mediterranean.&lt;ref name=&quot;Utah&quot; /&gt; ''Utah'' was also involved in the Second Battle of Vera Cruz, alongside her sister ''Florida''. The ship also saw front-line duty in the First World War, although she was not attached to the British Grand Fleet. Starting in September 1918, ''Utah'' was based in [[Bantry Bay]], Ireland.{{sfn|Gardiner|Gray|1985|p=114}} Here she conducted convoy escort duties on the approach to Europe.{{sfn|Hore|2006|p=57}}
+
+Post-war service saw ''Utah'' again in the Atlantic Fleet; during 1921–22, she was stationed in Europe.&lt;ref name=&quot;Utah&quot; /&gt; ''Utah'' was also retained under the Washington Naval Treaty.{{sfn|Hore|2006|p=57}} In 1924–1925, the ship sailed on a goodwill cruise to South America. Following her return to the United States, she was taken into dry dock for significant reconstruction. After she rejoined the active fleet, she was assigned to the [[Scouting Fleet|US Scouting Fleet]]. Late in 1928, she steamed to the South Atlantic, where she picked up [[President-Elect]] [[Herbert Hoover]], who was returning from an ambassadorial visit to several South American countries.&lt;ref name=&quot;Utah&quot; /&gt;
+
+According to the London Naval Treaty, the ship was to be removed from front-line service. To this end, she had her main battery guns removed and she was converted into a radio-controlled [[target ship]]. She was redesignated ''AG-16'', and served in this capacity after 1931. In the mid-1930s, she was rebuilt again, as an anti-aircraft gunnery training ship. In 1941, additional anti-aircraft guns were installed to increase her training capacity. Later in 1941, she was transferred to the [[US Pacific Fleet]] and based in [[Pearl Harbor]].&lt;ref name=&quot;Utah&quot; /&gt; She was present in Pearl Harbor on 7 December 1941; after having been hit by two torpedoes, she [[capsize]]d and sank.{{sfn|Hore|2006|p=57}} A few years later, the hull was partially righted and towed closer to [[Ford Island]], where the wreck remains today.&lt;ref name=&quot;Utah&quot; /&gt;
+
+== See also ==
+
+{{portal|Battleships}}
+{{commons category|Florida class battleships}}
+
+* [[List of battleships of the United States Navy]]
+{{clear}}
+
+== Footnotes ==
+{{Research help|Mil}}
+
+{{reflist
+| colwidth = 30em
+| refs =
+
+&lt;ref name=&quot;USN Florida class&quot;&gt;
+{{cite web
+| title = Florida Class (BB-30 and BB-31), 1909 Building Program
+| publisher = Hyperwar – Mirror Version of the Naval History and Heritage Command's
+| date = 26 March 2001
+| url = http://www.ibiblio.org/hyperwar/OnlineLibrary/photos/usnshtp/bb/bb30cl.htm
+| accessdate = 29 June 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;DiGiulian Mk1,2,3&amp;5&quot;&gt;
+{{cite web
+| last = DiGiulian
+| first = Tony
+| title = 14&quot;/45 (35.6 cm) Marks 1, 2, 3 and 5
+| publisher = Navweaps.com
+| date = 27 March 2008
+| url = http://www.navweaps.com/Weapons/WNUS_14-45_mk1.htm
+| accessdate = 15 May 2012
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Navweaps12&quot;&gt;
+{{cite web
+| last = DiGiulian
+| first = Tony
+| title = United States of America 12&quot;/45 (30.5 cm) Mark 5 and Mark 6
+| publisher = Navweaps.com
+| date = 18 September 2008
+| url = http://www.navweaps.com/Weapons/WNUS_12-45_mk5.htm
+| accessdate = 10 August 2009
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Navweaps5&quot;&gt;
+{{cite web
+| last = DiGiulian
+| first = Tony
+| title = United States of America 5&quot;/51 (12.7 cm) Marks 7, 8, 9, 14 and 15
+| publisher = Navweaps.com
+| date = 25 January 2009
+| url = http://www.navweaps.com/Weapons/WNUS_5-51_mk7.htm
+| accessdate = 10 August 2009
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;NavWeaps AA&quot;&gt;
+{{cite web
+| title = United States of America 3&quot;/23.5 (7.62&amp;nbsp;cm) Marks 4 and 14, 3&quot;/23 (7.62&amp;nbsp;cm) Marks 7, 9, 11 and 13
+| date = 14 January 2011
+| publisher = NavWeaps.com
+| url = http://www.navweaps.com/Weapons/WNUS_3-23_mk13.htm
+| accessdate = 8 May 2012
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;NavweapsTorp&quot;&gt;
+{{cite web
+| last = DiGiulian
+| first = Tony
+| title = United States of America Torpedoes Pre-World War II
+| url = http://www.navweaps.com/Weapons/WTUS_PreWWII.htm
+| publisher = Navweaps.com
+| date = 12 January 2009
+| accessdate = 10 August 2009
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Florida&quot;&gt;
+{{cite web
+| title = Florida V(Battleship No. 30) 1911–1931
+| publisher = Hyperwar – Mirror Version of the Naval History and Heritage Command's
+| date = 4 February 2008 
+| url = http://www.ibiblio.org/hyperwar/OnlineLibrary/photos/sh-usn/usnsh-f/bb30.htm
+| accessdate = 29 June 2016
+}}
+&lt;/ref&gt;
+
+&lt;ref name=&quot;Utah&quot;&gt;
+{{cite web
+| title = Utah I(Battleship # 31) 1911–1944
+| publisher = Hyperwar – Mirror Version of the Naval History and Heritage Command's
+| date = 18 April 2007
+| url = http://www.ibiblio.org/hyperwar/OnlineLibrary/photos/sh-usn/usnsh-u/bb31.htm
+| accessdate = 29 June 2016
+}}
+&lt;/ref&gt;
+
+}}
+
+== References ==
+
+* {{cite book
+  | last = Breyer
+  | first = Siegfried
+  | year = 1973
+  | title = Battleships and Battle Cruisers 1905–1970
+  | publisher = Doubleday and Company
+  | isbn = 978-0-385-07247-2
+  | ref = harv
+  }}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | authorlink = Norman Friedman
+  | year = 1985
+  | title = U.S. Battleships: An Illustrated Design History
+  | publisher = [[Naval Institute Press]]
+  | location = [[Annapolis]], Maryland
+  | oclc = 12214729
+  | isbn = 978-0-87021-715-9
+  | ref = harv
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | title = Conway's All the World's Fighting Ships, 1906–1921
+  | year = 1985
+  | location = [[Annapolis]], Mayland
+  | publisher = [[Naval Institute Press]]
+  | isbn = 978-0-87021-907-8
+  | oclc = 12119866
+  | ref = harv
+  }}
+* {{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1995
+  | title = A Naval History of World War I
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-352-7
+  | ref = harv
+  }}
+* {{cite book
+  | last = Hore
+  | first = Peter
+  | year = 2006
+  | title = Battleships of World War I
+  | publisher = Southwater Books
+  | location = [[London]]
+  | isbn = 978-1-84476-377-1
+  | ref = harv
+  }}
+
+'''Online sources'''
+
+* {{cite web
+  | author = US Navy, Naval History and Heritage Command
+  | title = USN Ship Types-Battleships
+  | publisher = Ibiblio.org
+  | date = 11 May 2009
+  | url = http://www.ibiblio.org/hyperwar/OnlineLibrary/photos/usnshtp/bb/bb.htm
+  | accessdate = 29 June 2016
+  }}
+*{{DANFS|https://www.history.navy.mil/research/histories/ship-histories/danfs/f/florida-v.html}}
+*{{DANFS|https://www.history.navy.mil/research/histories/ship-histories/danfs/u/utah.html}}
+
+'''Further reading'''
+
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 2011
+  | title = Naval Weapons of World War One
+  | publisher = Seaforth Publishing
+  | location = 
+  | oclc = 751804655
+  | isbn = 978 1 84832 100 7
+  }}
+
+{{Florida class battleship}}
+{{WWI US ships}}
+
+{{Good article}}
+
+{{DEFAULTSORT:Florida class battleship}}
+[[Category:Battleship classes]]
+[[Category:Florida-class battleships| ]]
+[[Category:World War I battleships of the United States]]</text>
+      <sha1>6kxmobbo3cofmez44ambv0ezaq06l8x</sha1>
+    </revision>
+  </page>
+</mediawiki>

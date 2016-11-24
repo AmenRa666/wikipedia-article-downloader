@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:23rd Waffen Mountain Division of the SS Kama (2nd Croatian)</title>
+    <ns>1</ns>
+    <id>16673196</id>
+    <revision>
+      <id>673430507</id>
+      <parentid>673430376</parentid>
+      <timestamp>2015-07-28T07:10:47Z</timestamp>
+      <contributor>
+        <username>Peacemaker67</username>
+        <id>15690513</id>
+      </contributor>
+      <comment>deleting GA templates, incl in article history</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4290">{{talkheader}}
+{{Australian-English}}
+{{ArticleHistory
+|action1=GAN
+|action1date=09:32, 17 February 2013
+|action1link=Talk:23rd Waffen Mountain Division of the SS Kama (2nd Croatian)/GA1
+|action1result=failed
+|action1oldid= 538527821
+
+|action2=GAN
+|action2date=02:11, 27 February 2013
+|action2link=Talk:23rd Waffen Mountain Division of the SS Kama (2nd Croatian)/GA2
+|action2result=listed
+|action2oldid=540832402
+
+|action3=WAR
+|action3date=11:07, 27 March 2013 (UTC)
+|action3link=Wikipedia:WikiProject Military history/Assessment/23rd Waffen Mountain Division of the SS Kama (2nd Croatian)
+|action3result=approved
+|action3oldid=545403531
+
+|action4=FAC
+|action4date=10:01, 25 May 2013
+|action4link=Wikipedia:Featured article candidates/23rd Waffen Mountain Division of the SS Kama (2nd Croatian)/archive1
+|action4result=promoted
+|action4oldid=556708311
+|currentstatus=FA
+|maindate=June 19, 2014
+|topic=warfare
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class=FA|A-Class=pass|Balkan=y|German=y|WWII=y}}
+{{WikiProject Hungary|class=FA|importance=Low}}
+{{Wikiproject Serbia|class=FA|importance=Low}}
+{{WikiProject Yugoslavia|class=FA|importance=low}}
+{{WikiProject Germany|class=FA|importance=low|B-Class-1=y|B-Class-2=y|B-Class-3=y|B-Class-4=y|B-Class-5=y}}
+{{WikiProject Croatia|class=FA|importance=low
+|b1 &lt;!--Referencing &amp; citations--&gt; =y
+|b2 &lt;!--Coverage &amp; accuracy    --&gt; =y
+|b3 &lt;!--Structure              --&gt; =y
+|b4 &lt;!--Grammar &amp; style        --&gt; =y
+|b5 &lt;!--Supporting materials   --&gt; =y
+|b6 &lt;!--Accessibility          --&gt; =y}}
+{{WikiProject Bosnia and Herzegovina|class=FA|importance=low}}
+}}
+
+== Names ==
+I notice this article uses names such as [[Srijem]] instead of [[Syrmia]] and Zombor (the Hungarian name for Sombor). Is there any particular reason for this? If not, they should be reverted (i.e. Srijem→Syrmia, Zombor→Sombor) per [[Wikipedia:COMMONNAME]]. [[User:23 editor|23 editor]] ([[User talk:23 editor|talk]]) 23:15, 10 July 2013 (UTC)
+::Hi 23. A couple of good points, the article isn't consistent. The Syrmia one I've resolved by reference to the NDH Posavina County (which was the historically correct political unit at the time) rather than using a vaguely defined regional term with multiple versions. The other issue of naming is that at the time, the Hungarians had re-named quite a few geographical places to the Hungarian version. I think the approach suggested by [[WP:PLACE]] is probably appropriate here, inter alia &quot;...former names (Constantinople, Ragusa, Stalingrad or Leningrad) are also used when referring to appropriate historical periods (if any), including such article names as Battle of Stalingrad and Sieges of Constantinople; not to mention separate articles on Constantinople and Byzantium on the historic cities on the site of modern Istanbul - or part of it. It is sometimes common practice in English to use name forms from different languages to indicate cultural or political dominance. For example, Szczecin is often written as Stettin (the German name) for the period before 1945, likewise Gdańsk is called Danzig.&quot; As the area was under Hungarian political dominance at the time this article refers to, I suggest the appropriate approach is probably to use the Hungarian name, with the Serbo-Croat name in parentheses on first mention (or a permutation of that format). Thoughts? [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67#top|send... over]]) 07:46, 11 July 2013 (UTC)
+I don't see any problems as long as place names in the article are consistent. The Serbian or Croatian names should probably be mentioned in brackets for clarity. [[User:23 editor|23 editor]] ([[User talk:23 editor|talk]]) 15:30, 11 July 2013 (UTC)
+
+== &quot;never formally part of the Wehrmacht&quot; ==
+Isn't that a tautology?  As I understand it, Waffen SS units were never part of the Wehrmacht.  Am I mistaken? [[User:Terry Thorgaard|Terry Thorgaard]] ([[User talk:Terry Thorgaard|talk]]) 14:31, 19 June 2014 (UTC)
+::But nevertheless always under the command of the Wehrmacht, as the Waffen-SS never had a command above Army, and all Army Groups were commanded by the Wehrmacht. It is an important distinction, IMO. Regards, [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67#top|send... over]]) 14:43, 19 June 2014 (UTC)</text>
+      <sha1>3rhalq91iulxeop9hwq05tltva7xg8m</sha1>
+    </revision>
+  </page>
+</mediawiki>

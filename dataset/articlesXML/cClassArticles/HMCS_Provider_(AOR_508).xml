@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Provider (AOR 508)</title>
+    <ns>0</ns>
+    <id>3599145</id>
+    <revision>
+      <id>743783041</id>
+      <parentid>741150846</parentid>
+      <timestamp>2016-10-11T07:10:20Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15477">{{other ships|HMCS Provider}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMCS Provider (AOR 508) at Pearl Harbor 1986.jpg|300px]]
+|Ship caption=HMCS ''Provider'' at Pearl Harbor for [[Exercise RIMPAC|RIMPAC]]&amp;nbsp;86
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval-1911}} {{shipboxflag|Canada|naval}}
+|Ship name=''Provider''
+|Ship ordered=15 April 1958
+|Ship awarded=
+|Ship builder=[[Davie Shipbuilding|Davie Shipbuilding and Repairing Company Limited]], [[Lauzon, Quebec]]&lt;ref name=&quot;Gimblett2009&quot; /&gt;
+|Ship laid down=21 June 1961
+|Ship launched=5 July 1962
+|Ship christened=
+|Ship commissioned=28 September 1963&lt;ref name=&quot;Gimblett2009&quot;&gt;Gimblett, pp. 152–61&lt;/ref&gt;
+|Ship decommissioned=24 June 1998&lt;ref name=&quot;decom&quot; /&gt;
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Scrapped in Turkey in 2003
+|Ship homeport=*[[CFB Halifax]] (1963–1969)
+*[[CFB Esquimalt]] (1969–1996)
+*CFB Halifax (1996–1998)
+|Ship motto=''Ready to Serve''
+|Ship nickname=
+|Ship honours=
+|Ship badge=Azure, an ancient Greek amphora garnished around the base of the neck with maple leaves, and on the main body of the vessel, a foul anchor erect all of gold.&lt;ref&gt;Arbuckle, p. 95&lt;/ref&gt;
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Replenishment oiler]]
+|Ship displacement=*{{convert|7300|LT|t}} light
+*{{convert|22000|LT|t}} full
+|Ship length={{convert|168|m|ft}}&lt;ref name=&quot;Gimblett2009&quot; /&gt;
+|Ship beam={{convert|23.2|m|ft|}}&lt;ref name=&quot;Gimblett2009&quot; /&gt;
+|Ship draught={{convert|9.1|m|ft}}&lt;ref name=&quot;Gimblett2009&quot; /&gt;
+|Ship propulsion=*Double reduction geared turbines
+*2 water boilers
+*single shaft
+*{{convert|21000|shp|MW|abbr=on}}
+|Ship speed={{convert|20|kn|lk=in}}
+|Ship range=
+|Ship complement=142 (11 officers, 131 enlisted) - 166
+|Ship sensors=
+|Ship EW=
+|Ship armament=Helicopter-launched [[Mark 46 torpedo|Mark 46 Mod 5 torpedoes]]
+|Ship armour=
+|Ship aircraft=2 × [[Sikorsky Aircraft|Sikorsky]] [[CH-124 Sea King|CH-124A Sea King]] helicopters&lt;ref name=&quot;2seakings&quot;&gt;{{cite news|url=http://search.proquest.com/docview/239094807?accountid=3357|title=She's 15 years old but HMCS Huron beefs up West Coast fleet|date=26 November 1987|work=[[The Ottawa Citizen]]|publisher=[[Postmedia Network]]|page=D1|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt;
+|Ship aircraft facilities=Aft deck hangar
+|Ship notes=
+}}
+|}
+
+'''HMCS ''Provider''''' was a [[replenishment oiler]] and sole ship of her [[Ship class|class]] of first the [[Royal Canadian Navy]] and later the [[Canadian Forces]]. She was the first dedicated auxiliary oiler replenishment ship [[Ship commissioning|commissioned]] for the Royal Canadian Navy in 1963, and the largest ship built in Canada to that date.&lt;ref name=mac&gt;Macpherson and Barrie, p. 280&lt;/ref&gt; Originally assigned to the East coast, her open deck made her vulnerable and she was reassigned to the West coast. The ship was [[Ship decommissioning|paid off]] in 1998, sold for scrap and [[Ship breaking|broken up]] in Turkey in 2003.
+
+==Design and description==
+Designed as an adaption of the [[United States Maritime Administration]]'s Mariner class,&lt;ref name=boutiller&gt;Boutiller, p. 325&lt;/ref&gt; ''Provider'' was {{convert|551|ft|m|order=flip}} long with a [[Beam (nautical)|beam]] of {{convert|76|ft|m|order=flip}}, a [[Draft (ship)|draught]] of {{convert|30|ft|m|order=flip}} and [[Displacement (ship)|displaced]] {{convert|22700|LT|t}} fully loaded.&lt;ref name=mac1&gt;Macpherson and Barrie, p. 282&lt;/ref&gt; The ship had a {{GRT|20000}} and a {{DWT|14700}}.&lt;ref name=janes66&gt;Blackman, p. 39&lt;/ref&gt; The design used standard commercial shipbuilding practices according to [[Lloyd's Register|Lloyd's rules]]. However, the design was widened aft to accommodate possible future use of [[nuclear propulsion]]. This alteration led to vibration issues, which required further structural changes.&lt;ref name=boutiller/&gt;
+
+''Provider'' was powered by a [[Westinghouse Electric Company|Westinghouse]] double reduction geared turbine engine creating {{convert|21000|shp|lk=in|order=flip}}. The two water-tube boilers could be controlled automatically during a nuclear attack. The ship was also provided with an emergency {{convert|40|kW|abbr=on|lk=on}} Rover gas turbine engine, the first gas turbine engine installed in a Canadian naval vessel.&lt;ref name=boutiller/&gt; This gave the ship a maximum speed of {{convert|20|kn|lk=in}}.&lt;ref name=mac1/&gt; The ship had a complement of 11 officers and 131 ratings.&lt;ref name=janes66/&gt;
+
+As a replenishment ship, ''Provider'' had stowage space for {{convert|12000|t}} of [[fuel oil]], [[diesel oil]] and [[aviation gas]] along with naval supplies.&lt;ref name=mac/&gt; The hoses and wire system that the Canadians had designed for ''Provider''{{'}}s [[replenishment at sea]] operations became standard for all [[NATO]] replenishment oilers.&lt;ref name=&quot;Gimblett2009&quot; /&gt; ''Provider'' was considered a prototype for the {{sclass-|Protecteur|replenishment oiler}}.&lt;ref&gt;{{cite book|title=Marine News|url=https://books.google.com/books?id=kmBUAAAAMAAJ|volume=Vol. 37|year=1983|publisher=[[World Ship Society]]|page=422}}&lt;/ref&gt;
+
+The ship had special accommodation for [[Flagship|flag officers]] and an eight-berth hospital. ''Provider'' had a flight deck installed aft along with a [[hangar]] located below the funnel on the same deck as the flight deck. The vessel could carry up to six [[CH-124 Sea Kings]].&lt;ref name=janes66/&gt;
+
+==Construction and career==
+First authorized on 15 April 1958,&lt;ref name=janes66/&gt;&lt;ref&gt;Milner, p. 224&lt;/ref&gt; ''Provider'' was [[Keel laying|laid down]] by [[Davie Shipbuilding|Davie Shipbuilding and Repairing Company Limited]] of [[Lauzon, Quebec]] on 21 June 1961. She was [[Ship naming and launching|launched]] on 5 July 1962 and was commissioned by the Royal Canadian Navy on 28 September 1963 at [[Saint John, New Brunswick]].&lt;ref name=mac1/&gt; The vessel cost $15,700,000.&lt;ref name=janes66/&gt;&lt;ref group=note&gt;Adjusted for inflation to 20{{CURRENTYEARYY}} dollars, ${{formatnum:{{Inflation|CA|15,700,000|1963}}}}.&lt;/ref&gt; The vessel was homeported at [[CFB Halifax]].&lt;ref name=mac1/&gt;&lt;ref name=&quot;decom&quot; /&gt;
+
+''Provider'' was stationed in the Mediterranean Sea, along with two destroyers, in May 1967 to help support Canadian troops who were part of the [[United Nations Emergency Force#UNEF I|United Nations Emergency Force]] in Gaza.&lt;ref name=&quot;Tracy2012&quot;&gt;Tracy, p. 147&lt;/ref&gt; The vessel's homeport was transferred to [[CFB Esquimalt]] on the west coast in 1969 following the arrival of the ''Protecteur''-class ships.&lt;ref name=&quot;decom&quot; /&gt;&lt;ref name=mac1/&gt; Along with {{HMCS|Mackenzie|DDE 261|2}} and {{HMCS|Yukon|DDE 263|2}}, ''Provider'' attended Canada Week at [[Expo '70]] in [[Osaka]], Japan.&lt;ref&gt;{{cite book|title=Canadian Shipping and Marine Engineering News|url=https://books.google.com/books?id=oaMfAAAAMAAJ|volume=Vol. 41|year=1969|publisher=Maclean Pub.|page=348}}&lt;/ref&gt;
+
+''Provider'' helped in the rescue of a USNR S3 [[Sikorsky SH-3 Sea King|Sea King]] helicopter which then landed on the New Zealand [[frigate]] {{HMNZS|Waikato}} during the naval exercise [[Exercise RIMPAC|Rimpac '78]] when the aircraft was lost and low on fuel. ''Waikato''{{'}}s Captain decided to take the aircraft on the frigate's small flight deck rather than ditch the aircraft at sea. This was not widely reported due to the [[United States Navy]] being rather embarrassed.{{citation needed|date=September 2015}}
+
+A refit was completed on ''Provider'' at [[Burrard Dry Dock]] in 1982.&lt;ref name=&quot;refit82&quot;&gt;{{cite news|url=http://search.proquest.com/docview/386701929?accountid=3357|title=Lack of new shipbuilding orders worries executives|last=Stewart-Patterson|first=David|date=17 May 1982|work=The Globe and Mail|page=R5|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt; Another refit was scheduled for ''Provider'' in 1987 to accommodate the [[Sex segregation#Mandatory sex segregation|desegregation]] of the Navy.&lt;ref name=&quot;womenrefit&quot;&gt;{{cite news|url=http://search.proquest.com/docview/243779092?accountid=3357|title=Storm signals flying over women at sea|date=29 April 1987|work=[[The Vancouver Sun]]|publisher=Postmedia Network|page=A1|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt; Nineteen women joined a crew of then 210 on board ''Provider'' in 1987 after her refit.&lt;ref name=&quot;19women&quot;&gt;{{cite news|url=http://search.proquest.com/docview/243734705?accountid=3357|title=19 women join crew of navy ship|date=26 September 1987|work=The Vancouver Sun|publisher=Postmedia Network|page=A1|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt;
+
+[[File:HMCS Provider (AOR 508) refueling HMAS Darwin (FFG 04) and USS Berkeley (DDG-15) 1986.jpg|thumb|left|''Provider'' refueling {{HMAS|Darwin|FFG 04|6}} (left) and {{USS|Berkeley|DDG-15|6}} (right) in 1986]]
+
+''Provider'', along with {{HMCS|Huron|DDG 281|2}}, {{HMCS|Annapolis|DDH 265|2}}, and {{HMCS|Kootenay|DDE 258|2}}, were the first western warships to visit the former [[Soviet Union|Soviet]] base of [[Vladivostok]] since 1937. Over a four-day period in June 1990, over 30,000 Russians toured the four ships, and their crews were welcomed into the town with open arms. Over 50,000 lapel pins, stickers, and flags were given by the crews of the Canadian ships, as well as showing the locals what a [[screwdriver (cocktail)|screwdriver]] was.&lt;ref name=&quot;sovietbase&quot;&gt;{{cite news|url=http://search.proquest.com/docview/436209406?accountid=3357|title=Canadian sailors become celebrities in Siberian port|last=Goodspeed|first=Peter|date=18 June 1990|work=[[Toronto Star]]|publisher=[[Star Media Group]]|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt; After leaving Vladivostok, ''Provider'' rescued 88 Vietnamese who were adrift in the [[South China Sea]] before making a port call in [[Manila]].&lt;ref name=&quot;viet&quot;&gt;{{cite news|url=http://search.proquest.com/docview/239489520?accountid=3357|title=Philippine government lets refugees leave Canadian ship|date=24 June 1990|work=The Ottawa Citizen|publisher=Postmedia Network|page=A12|accessdate=1 December 2013|agency=Citizen News Services|subscription=yes|via=ProQuest}}&lt;/ref&gt;
+
+''Provider'' escorted ''Huron'' to the [[Panama Canal]] in January 1991. ''Huron'' was on her way to CFB Halifax for refitting before heading into the [[Gulf War]].&lt;ref name=&quot;topanama&quot;&gt;{{cite news|url=http://search.proquest.com/docview/243485923?accountid=3357|title=Victoria unfurls flags as its sailors leave for war zone|last=Farrow|first=Moira|date=4 January 1991|work=The Vancouver Sun|publisher=Postmedia Network|page=A2|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt; Had the Gulf War continued, ''Provider'' and {{HMCS|Restigouche|DDE 257|2}} would have either joined or relieved other Canadian ships in the war zone.&lt;ref name=&quot;notjoininggulf&quot;&gt;{{cite news|url=http://search.proquest.com/docview/243520072?accountid=3357|title=Restigouche and Provider won't be going to gulf|date=1 March 1991|work=The Vancouver Sun|publisher=Postmedia Network|page=A3|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt;
+
+Relieving ships from CFB Halifax, ''Provider'' joined the United Nations [[United Nations Security Council Resolution 875|embargo against Haiti]] in late 1993.&lt;ref&gt;{{cite news|url=http://pqasb.pqarchiver.com/thestar/doc/275450455.html?FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Nov%206,%201993&amp;author=&amp;pub=Waterloo%20Region%20Record&amp;edition=&amp;startpage=&amp;desc=Canadian%20ship%20to%20police%20embargo|title=Canadian ship to police embargo|date=6 November 1993|work=[[Waterloo Region Record|Kitchener - Waterloo Record]]|publisher=[[Metroland Media Group]]|page=A3|accessdate=1 December 2013|subscription=yes}}&lt;/ref&gt; In 1996, the home port of ''Provider'' was once again changed back to CFB Halifax.&lt;ref name=&quot;decom&quot; /&gt;
+
+The ship was [[Ship decommissioning|paid off]] on 24 June 1998,&lt;ref name=&quot;decom&quot;&gt;{{cite news|url=http://search.proquest.com/docview/384549111?accountid=3357|title=Navy ship has last sail|date=25 June 1998|work=[[The Globe and Mail]]|page=A11|accessdate=1 December 2013|agency=[[The Canadian Press]]|subscription=yes|via=[[ProQuest]]}}&lt;/ref&gt; two years later than originally planned,&lt;ref name=&quot;Sokolsky1995&quot;&gt;{{cite book|last=Sokolsky|first=Joel J.|title=Canada, Getting it Right This Time: The 1994 Defence White Paper|url=https://books.google.com/books?id=Cni9JhsnF4QC&amp;pg=PA12|accessdate=3 December 2013|year=1995|publisher=DIANE Publishing|isbn=9781428914247|page=12}}&lt;/ref&gt; and remained in Halifax Harbour until 2002 while she awaited auction.&lt;ref name=&quot;2002auction&quot;&gt;{{cite news|url=http://search.proquest.com/docview/329976655?accountid=3357|title=Canadian warship on the auction block: HMCS Provider made headlines with rescue of refugees on South China Sea|last=Brean|first=Joseph|date=26 April 2002|work=[[National Post]]|publisher=Postmedia Network|accessdate=1 December 2013|subscription=yes|via=ProQuest}}&lt;/ref&gt; ''Provider'' was sold for scrap and arrived in [[Aliağa]], Turkey to be broken up on 28 August 2002.&lt;ref&gt;{{cite journal|date=17 October 2009|title=SeaWaves Today in History|publisher=Shirlaw News Group|oclc=77076813|issn=1710-6966|url=http://www.seawaves.com/newsletters/TDIH/august/28Aug.txt|accessdate=12 January 2014}}&lt;/ref&gt;
+
+==References==
+===Notes===
+{{reflist|group=note|30em}}
+
+===Citations===
+{{reflist|30em}}
+
+===References===
+{{refbegin}}
+* {{cite book |last=Arbuckle |first=J. Graeme |date=1987 |title=Badges of the Canadian Navy |publisher=Nimbus Publishing |location=Halifax, Nova Scotia |isbn=0-920852-49-1}}
+* {{cite book |editor-last=Blackman |editor-first=Raymond V. B. |date=1966 |title=Jane's Fighting Ships 1966-67 |publisher=McGraw-Hill Book Company |location=Scarborough, Ontario |isbn=}}
+* {{cite book |editor-last=Boutiller |editor-first=James A. |date=1982 |title=RCN in Retrospect, 1910-1968 |publisher=University of British Columbia Press |location=Vancouver |isbn=0-7748-0196-4}}
+* {{cite book|last=Gimblett|first=Richard H.|title=The Naval Service of Canada, 1910-2010: The Centennial Story|url=https://books.google.com/books?id=49PJdKG6yZUC&amp;pg=PA229|accessdate=2 December 2013|date=13 October 2009|publisher=[[Dundurn Press]]|isbn=9781459713222}}
+* {{cite book |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |date=2002 |title=The Ships of Canada's Naval Forces 1910-2002  |edition=Third |publisher=Vanwell Publishing |location=St. Catharines, Ontario |isbn=1-55125-072-1}}
+* {{cite book |last=Milner |first=Marc |date=2010 |title=Canada's Navy: The First Century |edition=Second |publisher=University of Toronto Press |location=Toronto |isbn=978-0-8020-9604-3}}
+* {{cite book|last=Tracy|first=Nicholas|title=Two-Edged Sword: The Navy as an Instrument of Canadian Foreign Policy|url=https://books.google.com/books?id=eLQKvMpsc9gC&amp;pg=PA147|accessdate=2 December 2013|date=1 October 2012|publisher=[[McGill-Queen's University Press]]|isbn=9780773587816}}
+{{refend}}
+
+==External links==
+{{commons category|HMCS Provider (AOR 508) (ship, 1962)|HMCS Provider (AOR 508)}}
+*[http://www.readyayeready.com/ships/shipview.php?id=1337 HMCS ''Provider'']
+
+{{HMCS Provider}}
+
+{{DEFAULTSORT:Provider (AOR 508)}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:Auxiliary ships of the Royal Canadian Navy]]
+[[Category:Provider-class replenishment oilers|Provider, HMCS]]
+[[Category:1962 ships]]
+[[Category:Ships built in Quebec]]</text>
+      <sha1>kqdr8o2rn4kqegxiew8pc6j9sp5lfew</sha1>
+    </revision>
+  </page>
+</mediawiki>

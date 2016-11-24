@@ -1,0 +1,352 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>IWI Tavor</title>
+    <ns>0</ns>
+    <id>418418</id>
+    <revision>
+      <id>750145567</id>
+      <parentid>747474574</parentid>
+      <timestamp>2016-11-18T01:58:10Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43464">{{redirect|Tavor}}
+{{Infobox Weapon
+|name=Tavor
+|image=[[File:IWI-Tavor-TAR-21w1.jpg|300px]]
+|caption = TAR-21 in [[Israel]]'s [[Israel Defense Forces History Museum]]
+|origin= [[Israel]]
+|type=[[Bullpup]] [[assault rifle]]
+&lt;!-- Type selection --&gt;
+|is_ranged=Yes
+&lt;!-- Service history --&gt;
+|service=2001-&lt;ref name=&quot;Future Weapons 2007&quot;/&gt; present
+|used_by=See ''[[#Users|Users]]''
+|wars=See ''[[#Conflicts|Conflicts]]''
+|designer=[[Israel Military Industries]]
+|design_date=1995–2003
+|manufacturer=[[Israel Weapon Industries]] (IWI)&lt;br /&gt;''Also produced under IWI license by:''
+*[[Ordnance Factories Board]] (of [[India]])
+*[[RPC Fort]] (of [[Ukraine]])
+*[[Taurus (manufacturer)|Taurus]] (of [[Brazil]])
+|production_date=
+|number=
+|variants=See ''[[#Variants|Variants]]'' and [[IWI X95]]
+&lt;!-- General specifications --&gt;
+|weight={{convert|3.27|kg|lb|2|abbr=on}}&lt;small&gt;(TAR-21)&lt;ref name=&quot;popenker&quot;&gt;[http://world.guns.ru/assault/as30-e.htm Modern Firearms – Tavor TAR-21 assault rifle]. World.guns.ru. Retrieved on 2010-08-31.&lt;/ref&gt;&lt;/small&gt;&lt;br&gt;{{convert|3.18|kg|abbr=on}}&lt;small&gt;(CTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|3.67|kg|abbr=on}}&lt;small&gt;(STAR-21)&lt;/small&gt;&lt;br&gt;{{convert|2.95|kg|abbr=on}}&lt;small&gt;(MTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|3.19|kg|abbr=on}}&lt;small&gt;(TC-21)&lt;/small&gt;
+|length={{convert|720|mm|in|1|abbr=on}}&lt;small&gt;(TAR-21, STAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|640|mm|abbr=on|1}}&lt;small&gt;(CTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|590|mm|abbr=on|1}}&lt;small&gt;(X95/MTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|670|mm|abbr=on|1}}&lt;small&gt;(TC-21)&lt;/small&gt;
+|part_length={{convert|460|mm|abbr=on|1}}&lt;small&gt;(TAR-21, STAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|380|mm|abbr=on|1}}&lt;small&gt;(CTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|330|mm|abbr=on|1}}&lt;small&gt;(X95/MTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;&lt;br&gt;{{convert|419|mm|abbr=on|1}} &lt;small&gt;(X95-L)&lt;/small&gt;&lt;br&gt;{{convert|410|mm|abbr=on|1}}&lt;small&gt;(TC-21)&lt;/small&gt;
+|width=
+|height=
+|diameter=
+&lt;!-- Ranged weapon specifications --&gt;
+|cartridge=
+* [[5.56×45mm NATO]]&lt;ref name=&quot;popenker&quot;/&gt;
+* [[9×19mm Parabellum]]&lt;small&gt; (Optional on MTAR-21)&lt;ref name=&quot;popenker&quot;/&gt;&lt;/small&gt;
+* [[5.56×30mm MINSAS]]&lt;small&gt; (Optional on Zittara)&lt;ref&gt;[http://www.aviationweek.com/aw/blogs/defense/index.jsp?plckController=Blog&amp;plckScript=blogScript&amp;plckElementId=blogDest&amp;plckBlogPage=BlogViewPost&amp;plckPostId=Blog:27ec4a53-dcc8-42d0-bd3a-01329aef79a7Post:4621a197-0ebf-4271-bf60-41e647ef975f IDF Adopts New Special Forces Weapon], David Eshel, Dec 05, 2008, aviationweek.com&lt;/ref&gt;&lt;/small&gt;
+* [[5.45×39mm]]&lt;small&gt; (Optional on RPC Fort-made Tavors)&lt;/small&gt;
+* [[300 AAC Blackout (7.62×35mm)]](Announced, production not confirmed&lt;ref&gt;{{cite web |url=http://www.thefirearmblog.com/blog/2016/01/14/official-300-blk-for-tavor/ |title=Official: .300 BLK for Tavor |last1=Vining |first1=Miles |date=2016-01-14 |website=TheFirearmBlog.com |access-date=2016-01-15 |archive-url=https://web.archive.org/web/20160115015158/http://www.thefirearmblog.com/blog/2016/01/14/official-300-blk-for-tavor/ |archive-date=2016-01-15 |dead-url=no}}&lt;/ref&gt;
+|action=[[Gas-operated reloading|Gas-operated]], [[rotating bolt]]&lt;ref name=&quot;popenker&quot;/&gt;
+|rate=750–900 rounds/min&lt;ref name=&quot;popenker&quot;/&gt;
+|velocity={{convert|910|m/s|0|abbr=on}}&lt;small&gt;(TAR-21, STAR-21)&lt;/small&gt;&lt;br&gt;{{convert|890|m/s|abbr=on|1}}&lt;small&gt;(CTAR-21)&lt;/small&gt;&lt;br&gt;{{convert|870|m/s|abbr=on|1}}&lt;small&gt;(MTAR-21)&lt;/small&gt;&lt;br&gt;{{convert|885|m/s|abbr=on|1}} &lt;small&gt;(TC-21)&lt;/small&gt;
+|range=550 m{{clarify|which model?|date=December 2013}}
+|max_range=
+|feed=Standard 30-round detachable box [[Magazine (firearms)|Magazine]]&lt;br /&gt;Various [[STANAG magazine]]s
+|sights=[[Meprolight]] MP 21, [[ITL MARS]]  with integrated [[laser]] and [[Infrared|IR]] pointer, [[Trijicon]] [[Advanced Combat Optical Gunsight|ACOG]] (STAR-21), [[EOTech]] holographic sight, others available
+}}
+
+The '''Tavor''' is an [[Israel]]i [[bullpup]] [[assault rifle]] chambered for [[5.56×45mm NATO]] ammunition with a [[selective fire]] system, selecting between [[Semi-automatic firearm|semi-automatic mode]] and [[Automatic firearm|full automatic fire mode]].
+
+It is produced by [[Israel Weapon Industries|Israel Weapon Industries (IWI)]]. It is produced in three main variants: the TAR-21; the CTAR-21; and the [[IWI X95|MTAR-21]].
+
+Built around a long-stroke piston system (as found in the [[M1 Garand]] and [[AK-47]]), the Tavor is designed to maximize reliability, durability, and ease of maintenance, particularly under adverse or battlefield conditions.&lt;ref name=&quot;Decidedly Different: The IWI Tavor&quot;&gt;{{cite web|url=http://www.americanrifleman.org/articles/decidedly-different-the-iwi-tavor|title=American Rifleman - Decidedly Different: The IWI Tavor|publisher=|accessdate=10 July 2015}}&lt;/ref&gt;
+
+In 2009, the TAR-21 was selected by the IDF to gradually replace the [[M16 rifle]] variants as the standard issued weapon of the Israeli infantry by the end of 2018. The first Tavor (MTAR-21 variant) rifles were issued to infantry units in 2013, replacing the M-16 rifles.&lt;ref name=&quot;inn.co.il&quot;&gt;[http://www.inn.co.il/News/News.aspx/251955 The first time the IDF recruits were issued the &quot;Micro-Tavor&quot;] Israel National News, 22/02/13 13:01&lt;/ref&gt;
+
+==History and design objectives==
+[[Israel Military Industries]] (now [[Israel Weapon Industries]]) initiated the Tavor development team in 1995, under the direction of gun designer Zalmen Shebs.&lt;ref name=&quot;TAVOR History&quot;&gt;{{cite web|url=http://www.israel-weapon.com/?catid=%7B9490BE81-EAFC-456A-ADC5-D042220A1625%7D|title=TAVOR History|publisher=|accessdate=10 July 2015}}&lt;/ref&gt;
+
+The objective of the project was to create an assault rifle that was more reliable, durable and easier to maintain than the [[M4A1 Carbine]], while also being better suited to close-quarters combat and  mechanized infantry roles. As a result, they hoped that the weapon would be officially adopted by the [[Israel Defense Forces]].
+
+Due to the military's close-quarters and mechanized infantry requirements, the project team selected a bullpup design, that would allow the weapon to be compact while keeping a long barrel able to achieve ballistically favorable high muzzle velocities.&lt;ref name=&quot;TAVOR History&quot;/&gt; A long-stroke piston system, similar to that found in the AK-47 and M1 Garand, was selected to ensure the weapon's reliability under adverse conditions.&lt;ref name=&quot;Future Weapons 2007&quot;/&gt;
+
+===Design features and engineering===
+
+====Long-stroke piston system====
+[[File:Gas OPR.gif|thumb|left|250px|The Tavor uses a long-stroke piston system, as found in the M1 Garand and the AK 47.]]
+
+The Tavor rifle uses a non-lubricated [[Gas-operated reloading#Long-stroke piston|long-stroke piston]] system, as found in the [[M1 Garand]], [[IMI Galil]] and the [[AK 47]].&lt;ref name=&quot;Future Weapons 2007&quot;&gt;''Future Weapons'', by Kevin Dockery, (Penguin 2007)&lt;/ref&gt; Like in the AK-47, the long-stroke piston mechanism contributes to the extreme forcefulness of the Tavor's extraction and chambering.&lt;ref name=&quot;sadj&quot;/&gt;
+
+A long-stroke piston system may increase a weapon's reliability in extreme conditions (in comparison to the less reliable short-stroke piston systems), as has been found to be the case in both the M1 Garand and the AK 47.&lt;ref&gt;''The Battle Rifle: Development and Use Since World War II'', By Russell C. Tilstra, (McFarland 2014) page 25-28&lt;/ref&gt;
+
+The Tavor's attachment of the piston to a heavy bolt carrier, and the extension of the mainspring into the hollow stem of the bolt carrier, bears a family resemblance to the internal mechanism of the AK 47.&lt;ref name=&quot;Future Weapons 2007&quot;/&gt;
+
+====Ambidexterity and modularity====
+The TAR-21 has ejection ports on both sides of the rifle so it can easily be reconfigured for right or left-handed shooters. However, this process requires partial disassembly, so it cannot be quickly reconfigured while the rifle is in use.&lt;ref name=&quot;youtubevideo&quot;&gt;{{cite web|url=http://www.youtube.com/watch?v=fS3vHnEQXBg#t=25s|title=Bullpup Forum SHOT Show Interview| publisher=Bullpup Forum|date= |accessdate=2012-05-17}}&lt;/ref&gt; An issue related to this is the original plastic cover on the unused ejection can allow gas to escape during the course of fire. Due to the bullpup design this vents right under the shooters face causing issues, such as inhaling ejection gases and the fouling of glasses and face with ejection debris. The issue is exacerbated when the weapon is suppressed.  The characteristic black smudge from this has been nicknamed &quot;Tavor face&quot; by some shooters. This has been addressed by various non-factory solutions which increase sealing of the unused port.
+
+Its ambidextrous [[selective fire|fire mode]] selector above the pistol grip has a [[Semi-automatic firearm|semi-automatic mode]] and a [[Automatic firearm|fully automatic mode]].&lt;ref name=&quot;weapon&quot;&gt;{{cite web|url=http://www.israel-weapon.com/default.asp?catid={BE33B6E6-080B-45B8-AD85-C4E1E40D0422}|title=Israel Weapon Industries (I.W.I.): TAVOR TAR-21 5.56&amp;nbsp;mm|publisher=Israel-weapon.com|date= |accessdate=2010-08-31}}&lt;/ref&gt;
+
+The Tavor features a self-contained, drop-in [[trigger group]], so that the trigger group can be changed or replaced without the use of additional tools.
+
+====Barrel====
+The Tavor barrels are made from CrMoV steel and cold hammer-forged (CHF) on the premises of the IWI factory in [[Ramat HaSharon]]. The barrel is chrome-lined for durability and corrosion resistance. The barrel features 6 grooves in a 178&amp;nbsp;mm (1 in 7 inch) twist, or 32 calibers right hand [[Rifling|twist rate]].
+
+The barrel is fitted with a  'birdcage' style [[flash suppressor]], which can be fully disassembled without the need of additional tools.&lt;ref name=&quot;sadj&quot;/&gt;
+
+====Chambering, ammunition and magazines====
+[[File:Nightshot3332214.JPG|thumb|The X95 (foreground) during IDF Warrant Officers' training]]
+
+The Tavor is primarily chambered for [[5.56×45mm NATO]], although [[9×19mm Parabellum]] and [[5.45×39mm]] Russian models are also available.
+
+The IDF uses both 55-grain M193 and 62-grain M855 5.56×45mm rounds.  M193 rounds are used by regular infantrymen for better terminal effects at shorter distances, while the heavier M855 is used by sharpshooters.&lt;ref name=&quot;sadj&quot;/&gt;
+
+The TAR-21 accepts standard [[STANAG magazine]]s. It can also be mounted with the [[M203 grenade launcher]].
+
+====Bullpup configuration====
+The Tavor uses a [[bullpup]]  configuration, in which the [[Receiver (firearms)|receiver]], bolt carrier group and [[Magazine (firearms)#Function and types|magazine]] are placed behind the pistol grip. This shortens the firearm's overall length without sacrificing barrel length. As a result, the TAR-21 provides [[carbine]] overall length, yet can achieve [[rifle]] muzzle velocities if equipped with a rifle-length barrel. The Tavor can also be configured as a compact [[close quarters combat]] (CQC) weapon with a shorter 38&amp;nbsp;cm (15.0&amp;nbsp;in) length barrel, and in that form is called the CTAR-21.
+
+====Last round bolt-open catch====
+The Tavor features a last round bolt catch, whereby the bolt holds open after the last round discharges.&lt;ref&gt;{{cite web|url=http://www.iwi.us/TAVOR|title=Tavor - IWI US|publisher=|accessdate=23 December 2014}}&lt;/ref&gt; This is a request of modern armies, as it helps to allow soldiers to know when their magazine empties and to reduce reloading times during combat.&lt;ref&gt;''The Battle Rifle: Development and Use Since World War II
+'', By Russell C. Tilstra, Russell C. Tilstra, (McFarland  2014), page 98&lt;/ref&gt;
+
+====Reliability, ease-of-maintenance and waterproofing====
+The design objectives of the Tavor aimed for reliability and ease-of-maintenance, particularly under adverse or battlefield conditions.&lt;ref name=&quot;Decidedly Different: The IWI Tavor&quot;/&gt; According to Russell C. Tilstra, the Tavor is &quot;easily considered  more reliable&quot; than the M16 and M4 series rifles.&lt;ref&gt;''The Battle Rifle: Development and Use Since World War II'', By Russell C. Tilstra, (McFarland 2014) page 97&lt;/ref&gt;
+
+The Tavor is designed to be easily field-stripped, without the need for any additional tools.&lt;ref&gt;[http://www.iwi.us/iwi/media/Manuals/TAVOR-SAR-Manual-V08-011-01-09-53RevA.pdf Tavor Sar] page 14&lt;/ref&gt;
+
+The rifle is waterproofed and its internal mechanism is sealed from outside elements, so that it can pass over-the-beach requirements.&lt;ref&gt;''The Gun Digest Book of Assault Weapons'' (Gun Digest Books, 26 Sep 2007), By Jack Lewis, Robert K. Campbell, David Steele, page 246&lt;/ref&gt;
+
+===Trials in Israel===
+[[File:Flickr_-_Israel_Defense_Forces_-_The_Strongest_Trees_in_the_Golan_Heights_(7).jpg|thumb|In use with Israel's Golani Brigade]]
+The Tavor prevailed over the [[M4A1 Carbine]] in a series of trials of conducted during 2001 and 2002. Qualities tested included Mean Rounds Between Failures (MRBF), reliability, ergonomics during long marches, and ease-of-maintenance.&lt;ref name=&quot;Decidedly Different: The IWI Tavor&quot;/&gt;
+
+Following these trials, the IDF adopted the Tavor as its future standard arm for all branches of the infantry, with a gradual changeover beginning in 2006 and expected completion among front line troops by end of year 2018.&lt;ref name=&quot;TAVOR History&quot;/&gt;&lt;ref name=&quot;sadj&quot;&gt;[http://sadefensejournal.com/wp/?p=1125 IWI X95: A Bullpup For IDF Special Forces] - SAdefensejournal.com, 21 March 2012&lt;/ref&gt;
+
+==Tavor variants==
+The Tavor assault rifle comes in different variations:&lt;ref name=&quot;weapon&quot;/&gt;
+* '''TAR-21''' – standard version intended for multirole infantry.
+** '''GTAR-21''' – standard version with notched barrel, to accept an [[M203]] 40&amp;nbsp;mm under-barrel [[grenade launcher]].
+* '''CTAR-21''' – compact short barrel version intended for [[commandos]] and [[special forces]].
+* '''STAR-21''' – [[designated marksman]] version with folding under-barrel [[bipod]] and [[Trijicon]] [[Advanced Combat Optical Gunsight|ACOG 4×]] magnification sight.
+* '''MTAR-21 (X95)''' – the [[IWI X95]] Micro Tavor, see below.
+** '''Zittara''' – Indian locally produced version of the MTAR-21 Micro Tavor modified to use the local [[5.56×30mm MINSAS]] cartridge manufactured by the [[Ordnance Factories Board]] (of India).
+*'''Fort-221''', '''Fort-222''', '''Fort-223''', '''Fort-224''' - Ukrainian made Tavors, manufactured by [[RPC Fort]] (of Ukraine) 
+* '''TC-21''' - the semi-automatic Tavor Carbine, see below.
+
+===Micro-Tavor (MTAR-21) ===
+{{Main|IWI X95}}
+{{Split section |IWI X95 |discuss=[[Wikipedia:Articles_for_deletion/IWI_X95|IWI X95]]|date=April 2016}}
+&lt;!-- Micro Tavor is a redirect to this section. Please change the link on that page if you rename this section --&gt;
+[[image:Flickr - Israel Defense Forces - Golani Brigade Conducts Exercise in Mount Hermon Snow (7).jpg|thumb|200px|The IDF with the X95 on [[Mount Hermon]]]]
+[[File:Flickr - Israel Defense Forces - Becoming A Soldier of the Caracal Battalion (59).jpg|thumb|200px|An [[Israel Defense Forces]] soldier of the unisex [[Caracal Battalion]] armed with CTAR-21 with [[Meprolight|Meprolight 21 reflex sight.]]]]
+[[File:Flickr - Israel Defense Forces - Pose for the Camera.jpg|thumb|200px|Female IDF soldier (with black camo beard) armed with Tavor GTAR-21 with grenade launcher]]
+[[File:Brother's Keeper Operation in Judea &amp; Samaria (14248086727).jpg|thumb|200px|IDF soldiers with the X95]]
+[[File:Nightshot23445.JPG|thumb|200px|IDF warrant officers, with the X95]]
+The '''Micro-Tavor''' ('''MTAR-21''') is the version of the Tavor that was selected as the future standard infantry weapon of the IDF.&lt;ref name=&quot;dover.idf.il&quot;&gt;[http://dover.idf.il/IDF/News_Channels/bamahana/09/043/01.htm מיקרו–תבור לכל לוחם חי&quot;ר]. Dover.idf.il. Retrieved on 2010-08-31.&lt;/ref&gt; In 2013, the Micro-Tavor was issued for the first time as the standard infantry weapon to recruits of the Givati Brigade.&lt;ref&gt;[http://www.inn.co.il/News/News.aspx/251955 The first time the IDF recruits were issued the &quot;Micro-Tavor&quot; ] Israel National News, 22/02/13 13:01&lt;/ref&gt;
+
+With the use of a relatively simple conversion kit, the MTAR-21 can be converted from a 5.56&amp;nbsp;mm assault rifle to a 9&amp;nbsp;mm [[submachine gun]] loaded with 20, 25, and 32-round magazines. A [[suppressor]] can also be added to the weapon, as part of the 9&amp;nbsp;mm conversion kit. An integrated grenade launcher is currently being developed for the Micro Tavor.
+
+When configured to fire 9&amp;nbsp;mm rounds, the gun uses a [[Blowback (firearms)|blowback]] operation to eject and reload rounds, but in the same body as the gas-operated rifle reloading system.  It is fed from [[Uzi]] magazines.  A suppressor can be mounted that allows for the use of standard velocity 9&amp;nbsp;mm ammunition, not specialized subsonic ammo.  The barrel is the same length as the rifle version, but has a 1:10&amp;nbsp;in rifling twist to stabilize heavy 9&amp;nbsp;mm bullets.&lt;ref name=&quot;sadj&quot;/&gt;
+
+Compared to the {{convert|35|in|mm|abbr=on}} long M4 with its stock extended with a {{convert|14.5|in|mm|abbr=on}} barrel, the X95 is {{convert|23|in|mm|abbr=on}} long with a {{convert|13|in|mm|abbr=on}} barrel.&lt;ref name=&quot;sadj&quot;/&gt;
+
+It comes in a number of variants (including):&lt;ref&gt;[http://www.israel-weapon.com/files/brochure_2012/IWI_X95_Family.pdf] IWI X95 brochure&lt;/ref&gt;
+* X95 (5.56mm, compact assault rifle/carbine with 330mm/13&quot; barrel)
+* X95L (5.56mm, compact assault rifle/carbine with 419mm/16.5&quot; barrel)
+* X95 SMG (9mm, SMG with 330mm/13&quot; barrel)
+* X95R (5.45×39mm,compact assault rifle/carbine with 330mm/13&quot; barrel)&lt;ref&gt;[http://www.israel-weapon.com/default.asp?catid=%7BC0019E41-FA8C-47E3-A10B-6225A11CC8BD%7D IWI page about X95-R]. Retrieved 10 April 2013.&lt;/ref&gt;
+* X95S (9mm, integrated suppressor with 275mm/10.8&quot; barrel, and a rate of fire of ~1200 rds/min)
+
+;7.62 NATO X95
+In March 2013, it was reported that IWI would be making an X95 Tavor chambered in [[7.62 NATO]].&lt;ref&gt;[http://www.thefirearmblog.com/blog/2013/03/05/iwi-developing-a-7-62x51mm-tavor-x95-rifle/ IWI Developing A 7.62mm Tavor X95 Rifle] - Thefirearmblog.com, March 5, 2013&lt;/ref&gt;
+
+;5.45 Russian X95
+In April 2013, IWI introduced a conversion kit for the X95, chambered for the [[5.45×39mm]] Russian.  The kit was designed for export customers to allow for the rifle to fire 5.45&amp;nbsp;mm ammunition already used in their inventories&lt;ref&gt;[http://jewishbusinessnews.com/2013/04/28/israel-weapon-industries-extends-capabilities-of-x95-assault-rifle-for-defense-agencies/ Israel Weapon Industries Extends Capabilities Of X95 Assault Rifle For Defense Agencies], [[Jewish Business News]], Apr 28th, 2013&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.shephardmedia.com/news/landwarfareintl/iwi-unveils-conversion-kit-x95-assault-rifle/|title=IWI unveils conversion kit for X95 assault rifle  - News - Shephard|publisher=|accessdate=23 December 2014}}&lt;/ref&gt;
+
+===Semi-automatic TC-21===
+The semi-automatic Tavor Carbine (TC-21) was first made available for civilian customers to purchase in [[Canada]] from 2008.&lt;ref&gt;{{cite web|url=http://www.canadaammo.com/product.php?productid=12&amp;cat=0&amp;page=1|title=IWI Tavor civilian semi-automatic carbine|publisher=Canadaammo.com|date= |accessdate=2010-08-31}}&lt;/ref&gt; The Canadian civilian version initially shipped with the Mepro reflex sight and a slightly longer barrel to meet the Canadian requirement for non-restricted semi-automatic centerfire rifles to have a barrel length of at least 470&amp;nbsp;mm.  Current version are shipped with a full length Picatinny rail, without optics.
+
+IWI started a new US subsidiary, which is manufacturing the semi-automatic Tavor for US sales, with a market date of April 2013. Versions are for sale, with two barrel lengths (16.5&quot; and 18&quot;). The longer barrel is likely to meet [[National Firearms Act|NFA]] requirements for overall length with the muzzle device removed.&lt;ref name=&quot;iwi.us&quot;&gt;[http://www.iwi.us/] IWI-US.&lt;/ref&gt;
+
+As of 2013, the Tavor is available to civilian customers in the United States through IWI's US subsidiary,&lt;ref name=&quot;iwi.us&quot;/&gt; The weapon is manufactured with a combination of Israeli and US parts.  It is available in black, OD green, or flat dark earth colors and with either a 16.5&quot; or 18&quot; barrel. Also available on the 16.5&quot; variant is an integrated Mepro reflex sight. The standard versions come with a full length picatinny rail along the top in addition to the 45-degree offset rail on the ejection side of the foregrip. These variants have an integrated backup sight system that collapses into the rail, with a tritium equipped front post. All variants are compliant with the National Firearms Act. Also available from IWI-US are 9mm conversion kits which accept [[Colt 9mm SMG|Colt SMG]] style magazines, as well as left-to-right-hand, or vice versa, conversion bolts.
+
+The designations for the US rifles are the Tavor SAR-B16, -B18, -B16L, and -B18L.
+
+IWI US had shipped 50,000 Tavors to US civilian customers by early 2016.&lt;ref&gt;[https://www.facebook.com/IWIUS/photos/a.240365686093959.59088.238732556257272/788866087910580/?type=3&amp;theater Another great milestone reached today! 50,000 Tavor SAR's out the door!] IWI US, Facebook&lt;/ref&gt;
+
+In Europe, the Czech company Zeleny Sport recently (December 2015) imported semi-automatic Israeli-made TAR-21 Flattop rifles, equipped with Mepro M5 or M21 reflex sight, which are now available for both civilian and law enforcement customers.
+
+In 2016, it was announced that IWI would begin selling a civilian legal version of the X95, equipped with the lighter trigger-pack (that has also been issued to the IDF in recent years), on the American market later that year.
+
+====Aftermarket parts====
+A significant aftermarket of spare and replacement parts has developed around the Tavor, including the development of [[match grade]] [[accurizing]]  triggers for the rifle that are produced by manufacturers such as Geissele Automatics and double stage trigger pack TAV-D from Shooting Sight.&lt;ref name=&quot;israeldefense.com&quot;&gt;[http://www.israeldefense.com/?CategoryID=485&amp;ArticleID=2800 The success of the 'Tavor' has taken us by surprise&quot;] Amir Rapaport  10/3/2014&lt;/ref&gt;
+ 
+Shlomi Sabag, Deputy CEO of IWI, says that one of the indicators of the success of the rifle in the shooting sports or civilian market, is the fact that &quot;an aftermarket of products associated with the Tavor rifle, like triggers, has evolved very quickly.&quot; &lt;ref name=&quot;israeldefense.com&quot;/&gt;
+
+==Awards==
+The [[National Rifle Association]]'s ''[[American Rifleman]]'' awarded the Tavor the 2014 Golden Bullseye Award as its rifle of the year. The NRA's prestigious award, now in its twelfth year, aims to award the best products available to civilian shooters.&lt;ref&gt;{{cite web|title=The IWI US TAVOR SAR is the 2014 American Rifleman Rifle of the Year|url=http://www.ammoland.com/2013/12/the-iwi-us-tavor-sar-is-the-2014-american-rifleman-rifle-of-the-year/#axzz3NzrDjYOY|website=AmmoLand.com|date=20 December 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.iwi.us/Golden-Bullseye-Award.aspx|website=IWI US, Inc.|title=IWI US TAVOR® SAR 2014 Golden Bullseye Award Rifle of the Year|date=18 March 2015}}&lt;/ref&gt;
+
+[[The Truth About Guns]] website awarded the Tavor with TTAG Reader’s Choice Award for Best Rifle of 2013.&lt;ref&gt;{{cite web|title=IWI Accepts the TTAG Reader’s Choice Award for Best Rifle of 2013|url=http://www.thetruthaboutguns.com/2014/01/foghorn/iwi-accepts-ttag-readers-choice-award-best-rifle-2013/|website=The Truth About Guns|date=16 January 2014}}&lt;/ref&gt;
+
+==Users==
+
+===Local users===
+* {{flag|Israel}}: As part of initial testing by [[Israel Defense Forces]]' infantry units, the TAR-21 was distributed to members of the training company of the Tzabar Battalion from the [[Givati Brigade]] who were drafted in August 2001. They received their rifles in November 2001 during basic training. Initial testing results were favorable – the TAR-21 was found to be significantly more accurate and reliable (as well as more comfortable) than the [[M4 carbine]] during extensive field testing.&lt;ref&gt;[http://www.youtube.com/watch?feature=player_embedded&amp;v=cqWbxp-65u4 Future Weapons - Tavor assault rifle]. Youtube.com.&lt;/ref&gt; As a trial, the first Tavors were introduced in limited numbers into the army in 2003.&lt;ref name=&quot;Future Weapons 2007&quot;/&gt;
+ 
+:Issues with fine sand entering the Tavor's chamber, which were identified over the two years of testing, were rectified by numerous small adjustments. A number of other improvements and changes to the design were also made between 2001–2009. Tavor CTAR-21 rifles saw combat service in [[Operation Cast Lead]], used by [[Givati Brigade]] and [[Golani Brigade]], and the soldiers reported the Tavor rifles functioned flawlessly.&lt;ref&gt;[http://dover.idf.il/IDF/News_Channels/bamahana/09/13/1304.htm לאור תפקודו במבצע: אין עוד צורך בשיפור התבור], [[IDF Spokesperson]], in [[Hebrew]] (In [[English language|English]] the title reads: &quot;Due to its performance during the operation: there are no further improvements required in the Tavor&quot;)&lt;/ref&gt;
+[[File:Range253232.JPG|thumb|The Tavor X95 during a Warrant Officer course in the Israel Defense Forces.]]
+:In November 2009, the IDF announced that the MTAR-21 (X95) would become the standard infantry weapon of the IDF, with the addition of an integrated grenade-launcher.&lt;ref name=&quot;dover.idf.il&quot;/&gt;
+:In December 2012, the IDF announced that they would begin equipping and training their new reserve forces with the TAR-21, starting in 2013, with the switch-over by the end of 2018.&lt;ref&gt;[http://www.armyrecognition.com/december_2012_new_army_military_defence_industry/israeli_army_reserve_forces_soldiers_to_be_equipped_soon_with_new_tavor_tar-21_assault_rifle_1512122.html Israeli Army reserve soldiers to be equipped with Tavor TAR-21] - Armyrecognition.com, December 15, 2012&lt;/ref&gt;
+
+:The first Tavor (MTAR-21 variants) rifles were issued to new recruits of a main IDF infantry brigade in 2013, replacing the M-16 rifles.&lt;ref name=&quot;inn.co.il&quot;/&gt;
+
+:In 2014 the IDF announced that in the future (from as early as the end of 2014) some infantry units could start to be issued some numbers of an improved X95 (MTAR-21), which will have a longer {{convert|38|cm|in|abbr=on}} barrel (instead of the original 33 cm barrel of the X95) and a lighter trigger pull.&lt;ref&gt;[http://www.israeldefense.co.il/?CategoryID=514&amp;ArticleID=5587 ישראל דיפנס], הכתבה הופיעה במלואה במקור במגזין &quot;[[במחנה]]&quot; גיליון 47, 12 דצמבר 2013.&lt;/ref&gt;
+
+===Foreign users===
+
+*{{flag|Angola}}: Angolan Army purchase for Special Forces.&lt;ref&gt;{{cite web|url=http://www.operacional.pt/37-o-aniversario-das-forcas-especiais-angolanas/|title=37.º ANIVERSÁRIO DAS FORÇAS ESPECIAIS ANGOLANAS - Operacional|publisher=|accessdate=10 July 2015}}&lt;/ref&gt;
+
+[[File:Special forces azerbaijan.png|thumb|Members of the Azerbaijani Special Forces march with Tavor T-21 rifles during a military parade in Baku]]
+* {{flag|Azerbaijan}}: Azerbaijan purchased a number of TAR-21 for the special operations forces of the [[Azerbaijani Army]] in August 2008.&lt;ref&gt;{{cite web|url=http://www.eurasianet.org/departments/insightb/articles/eav081709a.shtml|title=Azerbaijan Mum about Israeli Spy Plane, Satellite Projects|date=2009-08-16|accessdate=2010-08-26|author=Shahin Abbasov|publisher=EurasiaNet.org}}&lt;/ref&gt;
+
+* {{flag|Brazil}}: [[Taurus (manufacturer)|Taurus]], the local firearms manufacturer, produces the Tavor under license for the military.&lt;ref&gt;[http://www.defesabrasil.com/laad2009/index.php?option=com_content&amp;view=article&amp;id=71:a-taurus-e-o-tavor&amp;catid=39:noticias&amp;Itemid=78 A Taurus e o Tavor]. Defesabrasil.com. Retrieved on 2010-08-31.&lt;/ref&gt; Small numbers are issued to soldiers in the Frontier Brigade.&lt;ref&gt;{{cite web|url=http://sadefensejournal.com/wp/?p=836|title=Elites of the Exército Brasileiro, Page 1|author=Julio Montes|accessdate=2012-05-13|publisher=Small Arms Defense Journal}}&lt;/ref&gt;
+
+* {{flag|Cameroon}}: Issued to the Special Forces of Cameroon Army.&lt;ref&gt;{{cite web|url=http://www.youtube.com/watch?v=MejdX0z-v0Q|title=On The Ground With Cameroon's Army Trying To Stop Boko Haram|work=YouTube|accessdate=23 December 2014}}&lt;/ref&gt;
+
+* {{flag|Chad}}: Issued to [[Military of Chad|Chadian Ground Forces]] since 2006.&lt;ref&gt;[http://www.nonproliferation.eu/documents/other/siemontwezeman4e9eb5e5806bd.pdf Israeli arms transfers to sub-Saharan Africa]&lt;/ref&gt;
+
+* {{flag|Chile}}:&lt;ref name=&quot;elheraldo.hn&quot;&gt;[http://www.elheraldo.hn/content/view/full/37537 Equiparán más unidades con potentes fusiles israelíes] 30 de Marzo de 2012, El Heraldo&lt;/ref&gt; [[Investigations Police of Chile]]
+
+[[File:Gomez-Bustamante extradited from Colombia to the United States 2007.jpg|thumb|The [[National Police of Colombia]], with the CTAR-21, while arresting drug lord [[Luis Hernando Gómez|Luis Hernando Gomez-Bustamante]]]]
+[[File:Capturada alias ‘Mayerly’ (9414145307).jpg|thumb|Colombian forces armed with the CTAR-21]]
+* {{flag|Colombia}}: The [[Colombian Army]] operates the TAR-21 for their special forces, in the army, marines and in the Colombian national police.&lt;ref&gt;[http://unffmm.com/Galerias_AR/Galerias/v/GN/album_011/album/ IMI Tavor]. Unffmm.com. Retrieved on 2010-08-31.  {{webarchive |url=https://web.archive.org/web/20110717154347/http://unffmm.com/Galerias_AR/Galerias/v/GN/album_011/album/ |date=July 17, 2011 }}&lt;/ref&gt;
+
+* {{flag|Ethiopia}}: Bodyguards of the Ethiopian Prime Minister were seen with the TAR-21.&lt;ref&gt;[http://ethiopiaforums.com/what-kind-of-gun-meles-zenawi-bodyguards-carry What kind of gun Meles Zenawi bodyguards carry?], May 23, 2010, Posted by ocean, http://ethiopiaforums.com&lt;/ref&gt;&lt;ref&gt;[http://www.ethiomedia.com/absolute/3247.html Meles urges recognition of poll win], Barry Malone and David Clarke, May 25, 2010, ethiomedia.com&lt;/ref&gt;
+
+* {{flag|Georgia}}: Different variants of the weapon have been acquired and issued to special commando units of the Georgian [[Ministry of Internal Affairs of Georgia|MIA]], state security and [[Special State Protection Service of Georgia|protection]] agencies since 2001. The weapon was initialy considered to serve as standart issue rifle of the [[Georgian Armed Forces|GAF]], however due to lack of funding and low purchase quantity that idea was abandoned.  
+
+[[File:US Navy 090911-N-4267W-095 GM1 Sean Sammons assigned with Expeditionary Training Command (ETC) observes a member of the Guatemalan Navy Special Forces.jpg|thumb|right|Guatemalan Navy special forces with STAR-21 designated marksman variant.]]
+* {{flag|Guatemala}}: Guatemala's police force or PNC (''Policia Nacional Civil'') operates the TAR-21.&lt;ref&gt;{{cite web|url=http://www.elperiodico.com.gt/es/20071113/actualidad/45643/ |title=Agentes todavía no saben utilizar fusiles comprados por el Gobierno |publisher=Elperiodico.com.gt |date= |accessdate=2010-08-31}}&lt;/ref&gt;
+
+* {{flag|Honduras}}: Honduran army special forces use the MTAR-21.&lt;ref&gt;{{cite web|url=http://www.elheraldo.hn/Secciones-Principales/Pais/Equiparan-mas-unidades-con-potentes-fusiles-israelies/ |title=Equiparán más unidades con MTAR 21  |publisher=elheraldo.hn |date= |accessdate=2012-04-17}}&lt;/ref&gt;
+
+[[File:A Senior CoBRA Force Officer.jpg|thumb|An Indian [[Central Reserve Police Force]] officer with X95]]
+[[File:India Para.jpg|thumb|right|Tavor used by [[Para Commandos (India)|Para commandos]] of the [[Indian Army]]]]
+
+* {{flag|India}}: In late 2002, India signed an [[Indian rupee|INR]] 880 million (about USD 17.7 million) deal with [[Israel Military Industries]] for 3,070 manufactured Tavor assault rifles to be issued to India's special forces personnel,&lt;ref&gt;{{cite web|url=http://www.indianexpress.com/news/one-fir-govt-blacklists-7-firms-hits-artillery-upgrade/472107/2|title=One FIR, Govt blacklists 7 firms, hits artillery upgrade|accessdate=2009-06-09|publisher=[[The Indian Express]]|date=2009-06-05|page=2}}&lt;/ref&gt; where its ergonomics, reliability in heat and sand might give them an edge at close-quarters and employment from inside vehicles. By 2005, IMI had supplied 350–400 Tavors to India's northern [[Special Frontier Force]] (SFF). These were subsequently declared to be &quot;operationally unsatisfactory&quot;. The required changes have since been made, and tests in Israel during 2006 went well, clearing the contracted consignment for delivery. The Tavor has now entered operational service – even as India gears up for a larger competition that could feature a 9&amp;nbsp;mm MTAR-21 version.&lt;ref name=DefenseDaily&gt;[http://www.defenseindustrydaily.com/tavor21-rifle-headed-into-service-with-indian-special-forces-03080/ Tavor-21 Rifle Headed Into Service With Indian Special Forces]. Defenseindustrydaily.com (2007-02-28). Retrieved on 2010-08-31.&lt;/ref&gt; Known as the '''Zittara''', the rifle is manufactured in India by the [[Ordnance Factories Board]] for Indian service,&lt;ref&gt;[http://ofbindia.gov.in/products/data/weapons/wsc/25.htm Ordnance Factory Board]. Ofbindia.gov.in. Retrieved on 2010-08-31.&lt;/ref&gt; the new Tavors have a modified single-piece stock and new sights, as well as Turkish-made MKEK T-40 40&amp;nbsp;mm under-barrel grenade launchers.&lt;ref name=DefenseDaily /&gt; 5,500 have been recently inducted and more rifles are being ordered.&lt;ref&gt;{{cite news| url=http://articles.timesofindia.indiatimes.com/2011-01-13/india/28358604_1_para-sf-special-forces-command-assault-rifles | work=The Times Of India | title=To give 'irregulars' punch, forces go shopping for hi-tech weapons | date=2011-01-13}}&lt;/ref&gt; A consignment of over 500 TAR-21 Tavor assault rifles and another 30 Galil sniper rifles worth over INR 150 million (USD 3.3 million) and INR 20 million respectively was delivered to the [[MARCOS]] (Marine Commandos) in December 2010.&lt;ref&gt;[http://www.bharat-rakshak.com/NEWS/newsrf.php?newsid=14166 Israeli TAR-21 Tavor Assault Rifles for Indian Navy Commandos], 2011-01-12, IANS, bharat-rakshak.com&lt;/ref&gt;
+
+:India's paramilitary and counter-insurgency [[Central Reserve Police Force]] CRPF ordered 12000 Micro Tavor (X95) rifles (designation X95), with the rifles entering service in early 2011. Following the use of the weapon by Indian forces fighting the insurgency in Kashmir, CRPF commanders have stated that the X95 is a more effective assault rifle than the AKM, due to its small size, power, longer range and lighter weight.&lt;ref&gt;{{cite web|url=http://news.oneindia.in/2011/02/03/israelimade-rifle-tavor-better-than-ak-47official-aid0126.html|title=Israeli-made rifle TAVOR better than AK-47: official|work=www.oneindia.com|accessdate=10 July 2015}}&lt;/ref&gt;
+[[File:Tiger Claw 1 (01).jpg|thumb|Polish Special Forces train with the Tavor during Tiger Claw]]
+
+:In 2016, IWI announced that it was establishing a 49:51 joint venture with Punj Lloyd in India, in order manufacture rifle components in India.&lt;ref&gt;[http://www.israeldefense.co.il/en/content/iwi-establishes-activity-india IWI Establishes Activity in India] Ami Rojkes Dombe | 7/02/2016&lt;/ref&gt;
+
+*{{flag|Macedonia}}: Police special forces [Unit for Fast Deployment].&lt;ref&gt;{{cite web|url=http://www.militaryphotos.net/forums/showthread.php?135826-ARM-photo-and-video-thread&amp;p=4140581&amp;viewfull=1#post4140581|title=Macedonian Armed Forces - photo and video thread - Page 3|publisher=|accessdate=23 December 2014}}&lt;/ref&gt;
+
+*{{flag|Mexico}}: In service with the [[Ministry of Public Security (Mexico City)|Ministry of Public Security]] since 2011.&lt;ref&gt;[http://www.excelsior.com.mx/2011/08/22/comunidad/762744 Compra la policía capitalina armas israelíes] Excelsior,  22/08/2011 05:00 Gerardo Jiménez&lt;/ref&gt;
+
+* {{flag|Nepal}}: Used in small quantities by Nepali [[Gurkhas]] and Army Rangers.
+
+*{{flag|Nigeria}} The [[State Security Service (Nigeria)|State Security Service]] employ it as the primary assault rifle for their close protection and tactical units replacing the [[Uzi]].&lt;ref&gt;http://www.vanguardngr.com/epaper/2011/december/13122011/index.html&lt;/ref&gt;
+
+* {{flag|Peru}}&lt;ref name=&quot;elheraldo.hn&quot;/&gt;
+
+* {{flag|Philippines}} Small quantities in use by special units of the [[Philippine Marines]]&lt;ref&gt;Ben-David, Alon (September 23, 2009). &quot;In the Line of Fire: Infantry Weapons&quot;. Jane's Defence Weekly ({{ISSN|0265-3818}}).&lt;/ref&gt; and [[Philippine Drug Enforcement Agency]]&lt;ref&gt;Philstar Online [http://www.philstar.com/Article.aspx?articleId=639184&amp;publicationSubCategoryId=200 PDEA acquires 120 new assault rifles]&lt;/ref&gt; and one PNP SWAT team in Pasig City.&lt;ref&gt;The Guardian [https://www.theguardian.com/world/2016/oct/04/philippines-secret-death-squads-police-officer-teams-behind-killings Philippines secret death squads: officer claims police teams behind wave of killings]&lt;/ref&gt;
+
+*{{flag|Portugal}}: Small quantities of the TAR-21 are in use by field and intervention units of the ''[[Polícia Judiciária]]'', like hostage negotiation teams and investigators who usually work alongside other dedicated law enforcement intervention units—the [[Grupo de Operações Especiais (Portugal)|Special Operations Group]] (GOE) and the [[National Republican Guard (Portugal)|National Republican Guard's]] Special Operations Company (COE); these weapons were initially intended to equip a new unit under the command of the ''Polícia Judiciária'' resembling the GOE. The TAR-21 also participated in the competition for the new [[service rifle]] for the three branches of the [[Portuguese Armed Forces]] and the Police Special Operations Group (GOE)—a bid that also included the local production of the TAR-21 in Portugal. However, the TAR-21 was excluded from the shortlist. The competition has meanwhile been annulled, after the other contenders and both political and defense critics accused the competition of favoring the [[Heckler &amp; Koch G36]].&lt;ref&gt;[http://diariodigital.sapo.pt/news.asp?section_id=12&amp;id_news=246129 Substituição da G-3: Governo recorreu para o Supremo], ''Diário Digital''&lt;/ref&gt;&lt;ref&gt;[http://dn.sapo.pt/2007/04/10/nacional/militares_continuar_a_utilizar_velha.html Militares vão continuar a utilizar as velhas 'G3'], ''Diário de Notícias'' {{pt icon}}&lt;/ref&gt;
+
+*{{flag|Rwanda}}: &lt;ref&gt;http://www.gunsandammo.com/reviews/jazz-singer-iwi-tavor-review/&lt;/ref&gt;
+
+* {{flag|Thailand}}: To replace&lt;ref&gt;{{cite web|url=http://ninetenthai.igetweb.com/index.php?mo=3&amp;art=485660|title=ข่าวการจัดหาอาวุธของกองทัพบก | publisher=นายสิบไทยดอทคอม|accessdate=5 May 2011}}&lt;/ref&gt; some of its current inventory of M16A1 rifles, The [[Royal Thai Army]] purchased three batches of TAR-21 rifles for USD27.77 million (THB 946.99 million&lt;ref&gt;[http://www.defensenews.com/story.php?i=3722292&amp;c=ASI&amp;s=LAN DefenseNews.com] Thailand Plans $191.3M Arms Purchase&lt;/ref&gt;) and approved delivery of a fourth batch on 15 September 2009, bringing the total to more than 76,000 TAR-21 rifles. Total 106,203 tavor rifle&lt;ref&gt;[http://www.bangkokposTCom/breakingnews/154451/cabinet-nod-for-buying-israeli-rifles Cabinet nod for Israeli rifles]&lt;/ref&gt;
+
+* {{flag|Turkey}}: Used by the Special Forces Command [[Bordo Bereliler]].&lt;ref&gt;http://www.dha.com.tr/fotogaleri/orj/27057_1885_03102012_4.jpg http://www.dha.com.tr/fotogaleri/orj/27057_1885_03102012_3.jpg&lt;/ref&gt;&lt;ref&gt;http://www.mako.co.il/pzm-magazine/Article-ce2b6aa2f81a551006.htm&lt;/ref&gt;
+
+[[File:Interpolitex 2011 (405-23).jpg|thumb|Ukrainian CTAR-21 produced under license by RPC Fort as Fort-221]]
+* {{flag|Ukraine}}: [[Yuriy Lutsenko]], then head of [[Ministry of Internal Affairs of Ukraine]], announced on October 1, 2008 that Israel Weapon Industries and the Ukrainian research and production company [[RPC Fort]] would jointly manufacture the Tavor TAR-21 assault rifle to enter service with special Ukrainian military and police units.&lt;ref&gt;[http://www.altair.com.pl/start-1862 Tavory dla Ukrainy]. Altair. Retrieved on 2010-08-31.&lt;/ref&gt;&lt;ref&gt;[http://videonews.com.ua/videos/comments/655&gt; Луценко продемонстрировал новое украинское стрелковое оружие], 02.10.2008, videonews.com.ua&lt;/ref&gt; RPC Fort had displayed working samples of Tavors chambered to take [[5.45×39mm]] ammo with [[Milkor 40mm UBGL grenade launcher]]s to showcase to Ukrainian security forces officers as a means of convincing them to buy Ukrainian-made Tavors for special forces units.&lt;ref&gt;{{cite web|url=http://www.altair.com.pl/news/view?news_id=8715|title=Ukraińskie Tavory w kalibrze 5,45 mm - Altair Agencja Lotnicza|publisher=|accessdate=23 December 2014}}&lt;/ref&gt;
+
+*{{flag|United States}}: In August 2013, IWI US announced that the [[Pennsylvania Capitol Police]] had adopted the Tavor SAR, a variant specifically designed for the U.S. market.&lt;ref&gt;[http://www.thefirearmblog.com/blog/2013/08/28/pennsylvania-state-capitol-police-adopt-iwi-tavor-sar-rifle/ Pennsylvania State Capitol Police Adopt IWI US TAVOR SAR Rifle] - Thefirearmblog.com, 28 August 2013&lt;/ref&gt; In July 2014, it was announced that the Lakewood, New Jersey Police Department would begin to adopt the Tavor SAR, after the weapon &quot;met the demands and requirements of the Lakewood PD for reliability, ease-of-maintenance, durability and accuracy.&quot;&lt;ref&gt;{{cite web|url=http://www.officer.com/press_release/11567693/iwi-us-inc-receives-contract-from-township-of-lakewood-new-jersey-police-department|title=IWI US, Inc. Receives Contract from Township of Lakewood, New Jersey Police Department|work=Officer.com|accessdate=10 July 2015}}&lt;/ref&gt;
+
+*{{flag|Vietnam}}: From 2012, the Tavor entered service in special units of the [[Vietnam People's Army|Vietnamese army]], equipping special forces, marines and naval units.&lt;ref&gt;[http://news.zing.vn/quan-su/sung-truong-uy-luc-cua-hai-quan-danh-bo-viet-nam/a318507.html Súng trường uy lực của hải quân đánh bộ Việt Nam] Thế giớiQuân sự | Cập nhật thứ ba, ngày 07/05/13&lt;/ref&gt;
+:IWI has been awarded a $100 million contract to establish a factory in Vietnam to produce an unspecified number of [[Galil ACE]] assault rifles, as well as others such as the Tavor, for the People's Army of Vietnam.&lt;ref&gt;[http://www.globes.co.il/en/article-1000766816 Israel's defense industry targets Vietnam] 18/07/2012, 12:27, Yuval Azulai&lt;/ref&gt;
+
+==See also==
+* [[Military equipment of Israel]]
+* [[List of bullpup firearms]]
+* [[List of assault rifles]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|IWI Tavor}}
+{{Commons category|IWI X95}}
+* [http://www.israel-weapon.com/default.asp?catid={BE33B6E6-080B-45B8-AD85-C4E1E40D0422} Israel Weapon Industries (I.W.I.): TAVOR TAR-21 5.56&amp;nbsp;mm]
+* [http://www.israel-weapon.com/default.asp?catid={184BBB3C-DBA5-445D-A83A-C73E6A6D53B4} Israel Weapon Industries (I.W.I.): Micro TAVOR MTAR-21 5.56&amp;nbsp;mm / 9×19&amp;nbsp;mm]
+*{{YouTube|vn_LymlQAnc|IWI Tavor Bullpup Rifle}} YouTube Video: Overview of the civilian semi-automatic version of the Tavor 
+*{{YouTube|9Ft5oFsmw-M|Water tests of the Micro Tavor}} YouTube Video: Water Tests of the Micro Tavor (X95)
+* [http://www.israeli-weapons.com/weapons/small_arms/tavor/Tavor.html Tavor] Israeli Weapons: The TAR-21 Tavor assault rifle
+* [http://world.guns.ru/assault/as30-e.htm Modern Firearms]
+* [http://www.americanrifleman.org/article.php?id=13077&amp;cat=3&amp;sub=6 Decidedly Different: The IWI TAVOR], [[American Rifleman]], [[National Rifle Association]], USA
+
+{{IMI IWI smallarms}}
+{{Bullpup Firearms}}
+
+{{DEFAULTSORT:Imi Tavor Tar-21}}
+[[Category:5.56&amp;nbsp;mm firearms]]
+[[Category:Assault rifles]]
+[[Category:Rifles of Israel]]
+[[Category:Bullpup rifles]]
+[[Category:Weapons of Israel]]
+[[Category:Israeli inventions]]
+[[Category:Designated marksman rifles]]</text>
+      <sha1>l3b1nn7o28r8qiztstm41tiwy5zuujd</sha1>
+    </revision>
+  </page>
+</mediawiki>

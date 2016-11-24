@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:The West Tennessee Raids</title>
+    <ns>1</ns>
+    <id>44488365</id>
+    <revision>
+      <id>635222782</id>
+      <parentid>635184453</parentid>
+      <timestamp>2014-11-24T10:54:03Z</timestamp>
+      <contributor>
+        <username>Red Harvest</username>
+        <id>2543364</id>
+      </contributor>
+      <comment>/* Is the title/subject the correct one? */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3420">{{WikiProject Military history|class=Start|US-task-force=yes|ACW-task-force=yes}}
+{{WikiProject Tennessee|class=start|importance=low}}
+
+== Is the title/subject the correct one? ==
+
+Obviously this piece is long and very rough, I'm not even sure where to begin editing it.  A lot of color commentary will have to be removed.  It has what looks like cut and paste tour guide info interspersed that needs attention.  In its present form, I'm hesitant to link it to other articles or templates.   But backing up to a higher level view:  is the title/subject even the correct one?  It looks like its subject is the campaign given as &quot;Forrest's Expedition into West Tennessee&quot; on the NPS battle summaries, and is a singular raid rather than &quot;Raids&quot;. [[User:Red Harvest|Red Harvest]] ([[User talk:Red Harvest|talk]]) 22:25, 23 November 2014 (UTC)
+
+The title may indeed need to be retitled to reflect Gen Forrest Raids into West Tennessee, However this was the title to Chapter Seven of the book as noted below
+
+this article is as stated a summation from Chapter seven from a book published in 1868. The book was written as a contemporary of General Forrest. General Jordan was a West Point Graduate and served as the Adjutant to General Sidney Johnston and later to General Bragg. JP Pryor was a Captain in the CSA and a journalist in the post war.  I feel since they interviewed not only Gen Forrest but used National archives as well as news sources from the era the information is far better than that of historians looking back 150 years. I stumbled upon this book by happen-chance. It is written from a first person account and very reliable. [[User:Manonthecross|Manonthecross]] ([[User talk:Manonthecross|talk]]) 02:38, 24 November 2014 (UTC)Michael aka Manonthecross
+
+:Please examine some other ACW battle/campaign articles to see how the formatting/syntax work.  The tags that have been added at the top of your new article should be useful in determining how to improve the it.  The key is to make this more encyclopedic.  That means stripping away much of the more effusive praise for one side or the other that do nothing to describe the action (e.g. &quot;The greatness of Gen Forrest marched on&quot;), dispensing with all CAPS, dividing into sections, writing a lede, etc.  Create a notes section (typically a {reflist} entry, then start doing citations for each paragraph.  List your references in another section titled &quot;references&quot;--I see you've started on this part, good!  Including some tour/where-it-is-today type info is good, but should also have a more modern source included from the citations, and might be reserved for the end of the article.  Writing detailed and cited articles isn't easy, and the bar has gotten higher over the years as the Wikipedia framework of historical articles has been filling out. 
+
+:It is not a good idea to focus on one individual too much in writing a campaign article.  The views of adversaries must also be considered where available.  An 1868 primary source is problematic as the major one, since there has typically been a great deal of analysis since then, and much of it will have far less personal bias than a primary source.  Historical consensus is a better guide.  So check what later historians had to say about the particulars of the account, especially when they differ. [[User:Red Harvest|Red Harvest]] ([[User talk:Red Harvest|talk]]) 10:53, 24 November 2014 (UTC)</text>
+      <sha1>s8ye6fvuiths0waxb5pk6apybsklkpw</sha1>
+    </revision>
+  </page>
+</mediawiki>

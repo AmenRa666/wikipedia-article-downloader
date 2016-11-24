@@ -1,0 +1,126 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Public Affairs Branch (Canadian Forces)</title>
+    <ns>0</ns>
+    <id>4190962</id>
+    <revision>
+      <id>747040861</id>
+      <parentid>710818028</parentid>
+      <timestamp>2016-10-31T02:53:40Z</timestamp>
+      <contributor>
+        <username>Darker Dreams</username>
+        <id>313893</id>
+      </contributor>
+      <minor/>
+      <comment>Darker Dreams moved page [[Public Affairs Branch]] to [[Public Affairs Branch (Canadian Forces)]] over redirect: There are Public Affairs Branches in other military forces.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2365">{{Infobox military unit
+|unit_name=Public Affairs Branch 
+|image=[[File:Public affairs branch badge n11201.gif|200px]]
+|caption=Badge of the Public Affairs Branch
+|dates=
+|country=[[Canada]]
+|allegiance=
+|branch=[[Canadian Forces]] [[personnel branch]]
+|type=
+|role=To inform Canadians of the policies, programs, services, activities, operations and initiatives of the Canadian Forces
+|size= 
+|command_structure=
+|current_commander= 
+|garrison=
+|ceremonial_chief=
+|colonel_of_the_regiment=
+|nickname=
+|patron=
+|motto={{lang-la|Veritas}} &quot;Truth&quot;
+|colors=
+|march=&quot;[[The Liberty Bell (march)|The Liberty Bell]]&quot;
+|mascot=
+|battles=
+|notable_commanders= 
+|anniversaries=
+}}
+
+The '''Public Affairs Branch''' ({{lang-fr|Branche des affaires publiques}}) is a [[personnel branch]] of the [[Canadian Forces]] (CF).
+
+==Mission==
+The mission of the Public Affairs Branch is to inform Canadians of the policies, programs, services, activities, operations and initiatives of the Canadian Forces in a manner that is accurate, complete, objective, timely, relevant, understandable and open and transparent within the law.  Public Affairs Officers are assigned to Commands, Formations, and Bases across Canada and are often deployed overseas.
+
+Public Affairs Officers are both line and staff officers who provide advice and professional services to commanders and staffs at the tactical, operational and strategic levels in the areas of:
+
+* Public Affairs planning as part of the operational planning process
+* Media operations including media relations services to local, national and international journalists and media outlets, the management of media embedding programs, the conduct of media escorts and the provision of still and video imagery
+* Internal communications using a variety of platforms
+* Community relations
+
+==Order of precedence==
+{{s-start}}
+{{order of precedence |
+  before= [[Training Development Branch]] |
+  title=  Public Affairs Branch|
+  after= [[Intelligence Branch (Canadian Forces)|Intelligence Branch]]
+}}
+{{s-end}}
+
+==External links==
+*[http://www.recruiting.forces.gc.ca Canadian Forces Recruiting]
+*[http://www.forces.gc.ca Canadian Forces and Department of National Defence]
+
+==References==
+{{reflist}}
+
+{{Canadian Forces Personnel Branches}}
+{{Canadian Armed Forces}}
+
+[[Category:Canadian Armed Forces personnel branches]]
+
+
+{{canada-mil-stub}}</text>
+      <sha1>lelmaljcaijrqysd9k003y69s8a6cee</sha1>
+    </revision>
+  </page>
+</mediawiki>

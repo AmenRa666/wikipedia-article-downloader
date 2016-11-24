@@ -1,0 +1,74 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:33rd Battalion (Australia)</title>
+    <ns>1</ns>
+    <id>19209939</id>
+    <revision>
+      <id>697817050</id>
+      <parentid>697799031</parentid>
+      <timestamp>2016-01-02T03:26:06Z</timestamp>
+      <contributor>
+        <username>AustralianRupert</username>
+        <id>8731061</id>
+      </contributor>
+      <comment>/* Motto &quot;Strenue Percute&quot; */ + response</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1272">{{talkheader}}
+{{WikiProject Australia|class=B|importance=Low|military=y|military-importance=Low}}
+{{MILHIST|class=B|b1=y|b2=y|b3=y|b4=y|b5=y|ANZSP=y|WWI=y}}
+
+== Commanding Officers ==
+In the lead it states &quot;The Battalion’s first, and only, commanding officer was Lieutenant Colonel Leslie Morshead&quot; but in the Commanding Officers subsection it list both Morshead and Harold Fletcher White. This contradiction needs to be fixed. [[User:Abraham, B.S.|Abraham, B.S.]] ([[User talk:Abraham, B.S.|talk]]) 00:05, 8 September 2008 (UTC)
+
+== Motto &quot;Strenue Percute&quot; ==
+
+Currently this article says that the motto was adopted in 1927. However, the [[Lt Thomas Armstrong Memorial]] (built 1918) includes the crest and the motto &quot;Strenue Percute&quot;, suggesting that the motto was at least in unofficial use prior to 1918. I also found this [http://nla.gov.au/nla.news-article191983283 1917 letter from Colonel Morshead] in which he says 'The motto of this battalion is &quot;strenue percute&quot;. [[User:Kerry Raymond|Kerry]] ([[User talk:Kerry Raymond|talk]]) 00:23, 2 January 2016 (UTC)
+:G'day, Kerry, I've added a short bit about this, with the newspaper letter as a ref. Cheers, [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 03:26, 2 January 2016 (UTC)</text>
+      <sha1>4o53b964mnqisalqgmosa4n1d3ea943</sha1>
+    </revision>
+  </page>
+</mediawiki>

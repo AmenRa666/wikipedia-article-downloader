@@ -1,0 +1,272 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS New Zealand (1911)</title>
+    <ns>0</ns>
+    <id>554587</id>
+    <revision>
+      <id>729571509</id>
+      <parentid>726139655</parentid>
+      <timestamp>2016-07-13T03:43:14Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; http-&gt;https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="48392">{{Other ships|HMS New Zealand}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:HMS New Zealand at Adelaide.jpg|300px]]
+|Ship caption=''New Zealand'' in Australia, May 1919
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=[[Her Majesty's Ship|HMS]] ''New Zealand''
+|Ship namesake= Dominion of [[New Zealand]]
+|Ship ordered=
+|Ship builder= [[Fairfield Shipbuilding and Engineering]], [[Govan]]
+|Ship laid down= 20 June 1910
+|Ship launched=1 July 1911
+|Ship acquired=
+|Ship commissioned=19 November 1912
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=19 December 1922
+|Ship honours=
+|Ship fate=Sold for [[ship breaking|scrap]], 19 December 1922
+|Ship motto=
+|Ship nickname=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Indefatigable|battlecruiser}}
+|Ship displacement=*{{convert|18500|LT|t}} at normal load
+*{{convert|22130|LT|t}} at [[deep load]]
+|Ship length={{convert|590|ft|3.5|in|m|1|abbr=on}}
+|Ship beam={{convert|80|ft|m|1|abbr=on}}
+|Ship draught={{convert|27|ft|m|1|abbr=on}}
+|Ship power={{convert|44000|shp|lk=in|abbr=on}}
+|Ship propulsion=*Four-shaft [[Parsons Marine Steam Turbine Company|Parsons]] direct-drive [[steam turbine]]s&lt;ref name=b1/&gt;
+*31 [[Babcock &amp; Wilcox]] [[water-tube boiler]]s&lt;ref name=b1/&gt;
+|Ship speed={{convert|25|kn|lk=in}}
+|Ship range={{convert|6690|nmi|lk=in}} at {{convert|10|kn}}
+|Ship complement=800&lt;ref name=b1&gt;Burt, p. 91.&lt;/ref&gt;
+|Ship armament=*4 × 2 - [[BL 12 inch Mk X naval gun|BL 12-inch Mk X guns]]
+*16 × 1 - [[BL 4 inch naval gun Mk VII|BL 4-inch Mk VII guns]]
+*2 × 1 - submerged [[British 18 inch torpedo|18-inch torpedo]] tubes
+|Ship armour=*[[Belt armor|Belt]]: {{convert|4|-|6|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+*[[Deck (ship)|Deck]]s: {{convert|1|-|2.5|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+*[[Barbette]]s: {{convert|7|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+*[[Turret]]s: {{convert|7|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+*[[Conning tower]]: {{convert|4|-|10|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+*[[Torpedo bulkhead]]s: {{convert|2.5|in|mm|0|abbr=on}}&lt;ref name=b1/&gt;
+|Ship notes=
+}}
+|}
+'''HMS ''New Zealand''''' was one of three {{sclass-|Indefatigable|battlecruiser}}s built for the defence of the [[British Empire]]. Launched in 1911, the ship was funded by the government of [[New Zealand]] as a [[Early naval vessels of New Zealand#Gift of battlecruiser|gift to Britain]],&lt;ref name=gift/&gt; and she was commissioned into the [[Royal Navy]] in 1912. She had been intended for the [[China Station]], but was released by the New Zealand government at the request of the [[Admiralty]] for service in British waters.
+
+During 1913, ''New Zealand'' was sent on a ten-month tour of the [[British Dominions]], with an emphasis on a visit to her namesake nation. She was back in British waters at the start of [[World War I]], and operated as part of the Royal Navy's [[Grand Fleet]], in opposition to the German [[High Seas Fleet]]. During the war, the battlecruiser participated in all three of the major [[Naval warfare of World War I#North Sea|North Sea]] battles—[[Battle of Heligoland (1914)|Heligoland Bight]], [[Battle of Dogger Bank (1915)|Dogger Bank]], and [[Battle of Jutland|Jutland]]—and was involved in the response to the inconclusive [[Raid on Scarborough, Hartlepool and Whitby|Raid on Scarborough]], and the [[Second Battle of Heligoland Bight]]. ''New Zealand'' contributed to the destruction of two [[cruiser]]s during her wartime service and was hit by enemy fire only once, sustaining no casualties; her status as a &quot;lucky ship&quot; was attributed by the crew to a [[Māori people|Māori]] [[Māori traditional textiles#Piupiu|piupiu]] (warrior's skirt) and [[hei-tiki]] (pendant) worn by the captain during battle.
+
+After the war, ''New Zealand'' was sent on a second world tour, this time to allow Admiral [[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]] to review the naval defences of the Dominions. In 1920, the battlecruiser was placed in reserve. She was [[ship breaking|broken up for scrap]] in 1922 in order to meet Britain's tonnage limit in the [[disarmament]] provisions of the [[Washington Naval Treaty]].
+
+==Design==
+The ''Indefatigable'' class was not a significant improvement on the preceding {{sclass-|Invincible|battlecruiser|4}}; the main difference was the enlargement of the dimensions to give the ships' two wing turrets a wider arc of fire. The ships were smaller and not as well protected as the contemporary German battlecruiser {{SMS|Von der Tann}} and subsequent German designs. While ''Von der Tann''{{'}}s characteristics were not known when the [[lead ship]] of the class, {{HMS|Indefatigable|1909|6}}, was laid down in February 1909, the Royal Navy obtained accurate information on the German ship before work began on ''New Zealand'' and her [[sister ship]] {{HMAS|Australia|1911|6}}.&lt;ref&gt;Roberts, pp. 28–29&lt;/ref&gt;
+
+[[File:Brassey's Invicible-Indefatigable Plan (1915).jpg|thumb|left|250px|&lt;center&gt;Starboard elevation and deck plan as depicted in ''Brassey{{'}}s Naval Annual'' 1915&lt;/center&gt;]]
+
+''New Zealand'' had an [[length overall|overall]] length of {{convert|590|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|80|ft|m|1}}, and a [[draft (hull)|draught]] of {{convert|29|ft|9|in|m|1}} at deep load. She displaced {{convert|18500|LT|t}} at load and {{convert|22130|LT|t}} at [[deep load]].&lt;ref&gt;Roberts, pp. 43–44&lt;/ref&gt; The battlecruiser's [[Parsons Marine Steam Turbine Company|Parsons]] direct-drive [[steam turbine]]s were designed to produce {{convert|44000|shp|lk=in}}, propelling the ship at {{convert|25|kn}}. However, during [[sea trial|trials]] in 1912, the turbines produced over {{convert|49000|shp|abbr=on}}, which allowed ''New Zealand'' to reach {{convert|26.39|kn}}. The ship carried approximately {{convert|3200|LT|t}} of coal, and an additional {{convert|850|LT|t}} of [[fuel oil]]; this was sprayed on the coal to increase its burn rate.&lt;ref&gt;Roberts, pp. 76, 80&lt;/ref&gt; This gave her a range of {{convert|6690|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=b1/&gt;
+
+[[File:Pelorus Jack Mascot of HMS New Zealand (HS85-10-29327).jpg|thumb|right|&quot;Pelorus Jack&quot;, the ship's mascot - presumably named after the [[Pelorus Jack|famous dolphin]] - in the muzzle of a twelve-inch gun (1914).]]
+The ship carried eight [[BL 12 inch Mk X naval gun|BL 12-inch Mk X guns]] in four twin [[gun turret]]s. Two turrets were mounted fore and aft on the centreline, identified as 'A' and 'X' respectively. The other two were [[wing turret]]s mounted amidships and staggered diagonally: 'P' was forward and to port of the centre [[funnel (ship)|funnel]], while 'Q' was situated starboard and aft. Each wing turret had a limited ability to fire to the opposite side, but if the ship was full broadside to her target she could bring all eight main guns to bear. Her secondary armament consisted of sixteen [[BL 4 inch naval gun Mk VII|4-inch BL Mk VII guns]] positioned in the superstructure.&lt;ref&gt;Roberts, pp. 81–84&lt;/ref&gt; She mounted two [[British 18 inch torpedo|18-inch]] submerged [[torpedo tube]]s, one on each side aft of 'X' [[barbette]], and twelve torpedoes were carried.&lt;ref name=c4&gt;Campbell (1978), p. 14&lt;/ref&gt;
+
+''New Zealand''{{'}}s 'A' turret was fitted with a {{convert|9|ft|adj=on}} [[rangefinder]] at the rear of the turret roof. It was also equipped to control the entire main armament in the event that the normal fire control positions were knocked out or communication between the primary positions and the gun layers was disabled.&lt;ref&gt;Roberts, pp. 90–91&lt;/ref&gt;
+
+===Wartime modifications===
+The ship was fitted with a single [[QF 6 pounder Hotchkiss]] [[Anti-aircraft warfare|anti-aircraft]] (AA) gun from October 1914 to the end of 1915.&lt;ref&gt;Roberts, p. 83&lt;/ref&gt; In March 1915, a single [[QF 3 inch 20 cwt]]&lt;ref group=Note&gt;&quot;cwt&quot; is the abbreviation for [[hundredweight]], 20 cwt referring to the weight of the gun.&lt;/ref&gt; AA gun was added. It was provided with 500 rounds. The battlecruiser's 4-inch guns were enclosed in [[casemate]]s and given blast shields during a refit in November to better protect the gun crews from weather and enemy action. Two aft guns were removed at the same time.&lt;ref name=c3&gt;Campbell (1978), p. 13&lt;/ref&gt;
+
+''New Zealand'' received a [[Fire-control system#Naval fire control|fire-control director]] sometime between mid-1915 and May 1916; this centralised fire control under the director officer, who now fired the guns. The turret crewmen merely had to follow pointers transmitted from the director to align their guns on the target. This greatly increased accuracy, as it was easier to spot the fall of shells and eliminated the problem of the ship's roll dispersing the shells when each turret fired independently.&lt;ref&gt;Roberts, pp. 92–93&lt;/ref&gt; An additional inch of armour was added to the top of the magazines and turret roofs after the Battle of Jutland.&lt;ref&gt;Roberts, p. 113&lt;/ref&gt;
+
+By 1918, ''New Zealand'' carried two aircraft, a [[Sopwith Pup]] and a [[Sopwith 1½ Strutter]], on [[Flight deck#Early flight decks|flying-off ramps]] fitted on top of 'P' and 'Q' turrets.&lt;ref name=c4/&gt; The Pup was intended to shoot down [[Zeppelin]]s while the 1½ Strutter was used for spotting and reconnaissance.&lt;ref&gt;Layman, pp. 114–15&lt;/ref&gt; Each platform had a canvas [[hangar]] to protect the aircraft during inclement weather.&lt;ref&gt;Roberts, p. 92&lt;/ref&gt;
+
+==Acquisition and construction==
+[[File:Ships bell from HMS New Zealand in June 2012.JPG|thumb|''New Zealand''{{'}}s bell; this bell had previously been used on the battleship of the same name]]
+At the start of the 20th century, the British [[Admiralty]] maintained that naval defence of the [[British Empire]], including the [[British Dominions|Dominions]], should be unified under the Royal Navy.&lt;ref&gt;Frame, p. 71&lt;/ref&gt; Attitudes on this matter softened during the first decade, and at the 1909 Imperial Conference, the Admiralty proposed the creation of Fleet Units: forces consisting of a battlecruiser, three light cruisers, six destroyers, and three submarines.&lt;ref name=Lambert64&gt;Lambert, p. 64&lt;/ref&gt; While Australia and Canada were encouraged to purchase fleet units to serve as the core of new national navies, other fleet units would be operated by the Royal Navy at distant bases, particularly in the [[Far East]]; New Zealand was asked to partially subsidise a fleet unit for the China Station.&lt;ref&gt;Lambert, pp. 64–5&lt;/ref&gt;
+
+To this end, the [[Prime Minister of New Zealand]], Sir [[Joseph Ward]], announced on 22 March 1909 that his country would fund a battleship (later changed to an {{sclass-|Indefatigable|battlecruiser|2}}) as an example to other countries.&lt;ref&gt;Lambert, pp. 64–67&lt;/ref&gt; It is unclear why this design was selected, given that it was known to be inferior to the battlecruisers entering service with the [[Imperial German Navy]] ({{lang-de|Kaiserliche Marine}}). Historian John Roberts has suggested that the request may have been attributable to the Royal Navy's practice of using small battleships and large cruisers as flagships of stations far from Britain, or it might have reflected the preferences of the [[First Sea Lord]] and Admiral of the Fleet [[John Fisher, 1st Baron Fisher|John Fisher]], preferences not widely shared.&lt;ref&gt;Roberts, pp. 29–31&lt;/ref&gt; The [[Government of New Zealand|New Zealand Government]] took out a loan to fund the cost of the ship.&lt;ref name=Te_Papa /&gt;
+
+''New Zealand''{{'}}s [[keel]] was laid at [[Fairfield Shipbuilding and Engineering]]'s yard on the [[River Clyde|Clyde]] on 20 June 1910. Launched on 1 July 1911, the battlecruiser was commissioned into the Royal Navy four days before she was completed on 23 November 1912.&lt;ref name=mus&gt;{{cite web|url=http://www.navymuseum.mil.nz/history/time/interwar/nz.htm|title=RNZN Museum - HMS New Zealand|publisher=[[Royal New Zealand Navy]]|accessdate=21 May 2010|archiveurl=https://web.archive.org/web/20100523010940/http://www.navymuseum.mil.nz/history/time/interwar/nz.htm &lt;!--Added by H3llBot--&gt;|archivedate=23 May 2010}}&lt;/ref&gt;&lt;ref name=b3&gt;Burt, p. 103&lt;/ref&gt;
+
+==Service==
+''New Zealand'' was sent on a ten-month [[wiktionary:show the flag|flag-waving]] tour of New Zealand via South Africa in 1913.&lt;ref name=mus/&gt;&lt;ref name=b3/&gt; During this tour, the ship was seen by an estimated half-million New Zealanders—almost half the population&lt;ref&gt;{{cite web|url=http://www.statoids.com/unz.html|title=Regions of New Zealand|date=31 October 2009|publisher=statoids.com|accessdate=21 May 2010}}&lt;/ref&gt;—and her captain was presented with a [[Māori people|Māori]] [[Māori traditional textiles#Piupiu|piupiu]]&lt;ref&gt;[http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;d=EP19130418.2.90&amp;dliv=&amp;e=-------10-PubMetaEP-141----1LEVY-- &quot;Maori Chiefs Visit Warship&quot;], 18 April 1913, Evening Post&lt;/ref&gt;&lt;ref&gt;[http://www.teara.govt.nz/en/photograph/6960/an-historic-piupiu &quot;An historic piupiu&quot;], TeAra&lt;/ref&gt; (a warrior's skirt made from rolled [[Phormium|flax]]) and a [[Pounamu|greenstone]] [[hei-tiki]] (pendant), which were intended to ward off evil.&lt;ref&gt;{{cite web|url=http://www.nzhistory.net.nz/media/photo/hms-new-zealand-in-wellington|title=HMS New Zealand in Wellington|date=7 April 2008|publisher=Ministry for Culture and Heritage|accessdate=21 May 2010}}&lt;/ref&gt;
+
+The Admiralty requested that ''New Zealand'' return to the United Kingdom when the tour concluded, rather than remain in the Pacific region as originally planned. The New Zealand Government acceded to the request and, upon her arrival on 8 December 1913, ''New Zealand'' joined the [[1st Battlecruiser Squadron (United Kingdom)|1st Battlecruiser Squadron]] (1st BCS) of the [[Grand Fleet]]. The squadron visited [[Brest, France|Brest]] in February 1914, and [[Riga]], [[Reval]] and [[Kronstadt]] in the [[Russian Empire]] the following June. On 19 August 1914, shortly after World War I began, ''New Zealand'' was transferred to the [[2nd Battlecruiser Squadron (United Kingdom)|2nd Battlecruiser Squadron]] (2nd BCS).&lt;ref name=b3/&gt;
+
+===Battle of Heligoland Bight===
+{{Main article|Battle of Heligoland (1914)}}
+[[File:HMS New Zealand.jpg|thumb|right|''New Zealand'' steaming during the Battle of Heligoland Bight|alt=]]
+
+''New Zealand''{{'}}s first wartime action was the Battle of Heligoland Bight on 28 August 1914, as part of the battlecruiser force under the command of Admiral [[David Beatty, 1st Earl Beatty|David Beatty]]. Beatty's ships were originally intended to provide distant support for the British [[cruiser]]s and [[destroyer]]s closer to the German coast, in case large units of the [[High Seas Fleet]] [[sortie]]d in response to the British attacks once the tide rose. When the British light forces failed to disengage on schedule at 11:35&amp;nbsp;a.m.,&lt;ref group=Note&gt;The times used in this section are in [[Universal Time|UT]], which is one hour behind [[Central European Time|CET]], which is often used in German works.&lt;/ref&gt; the battlecruisers, led by Beatty aboard his flagship, {{HMS|Lion|1910|6}}, began to head south at full speed to reinforce the smaller British ships; the rising tide meant that German capital ships would be able to clear the [[sandbar]] at the mouth of the [[Jade estuary]].&lt;ref&gt;Tarrant, p. 24&lt;/ref&gt;
+
+The brand-new light cruiser {{HMS|Arethusa|1913|6}} had been crippled earlier in the battle and was under fire from the German light cruisers {{SMS|Strassburg}} and {{SMS|Cöln|1909|6}} when Beatty's battlecruisers loomed out of the mist at 12:37&amp;nbsp;p.m. By this time, ''New Zealand'' had fallen behind the three newer and faster battlecruisers and was not in position to significantly participate in the battle. ''Strassburg'' was able to evade fire by hiding in the mists, but ''Cöln'' remained visible and was quickly crippled by the British squadron. Before the German ship could be sunk, Beatty was distracted by the sudden appearance of the elderly light cruiser {{SMS|Ariadne||6}} off his starboard bow. He turned to pursue, but ''Ariadne'' was set afire after only three [[salvo]]s fired from under {{convert|6000|yd|m}}. At 1:10, Beatty turned north and made a general signal to retire. Shortly after turning north, the battlecruisers encountered the crippled ''Cöln'', which was sunk by two salvos from ''Lion''.&lt;ref&gt;Massie, pp. 109–13&lt;/ref&gt; During the battle, ''New Zealand''{{'}}s [[captain (nautical)|captain]], [[Lionel Halsey]], wore the Māori piupiu over his uniform, setting a tradition followed for the duration of the war.&lt;ref name=nhsa&gt;{{cite web|url=http://www.navyhistory.org.au/admiral-sir-lionel-halsey-gcmg-gcvo-kcie-cb-dljp-1872-1949/|title=Admiral Sir Lionel Halsey, GCMG, GCVO, KCIE, CB, DLJP 1872–1949|publisher=Naval Historical Society of Australia|accessdate=26 December 2009}}&lt;/ref&gt; Two days after the battle, ''New Zealand'' was transferred back to the 1st BCS, when the battlecruiser {{HMS|Inflexible|1907|2}} arrived from the Mediterranean.&lt;ref name=b3/&gt;
+
+===Raid on Scarborough===
+{{Main article|Raid on Scarborough, Hartlepool and Whitby}}
+The German Navy had decided on a strategy of bombarding British towns on the North Sea coast in an attempt to draw out the Royal Navy and destroy elements of it [[defeat in detail|in detail]]. An earlier [[raid on Yarmouth]] on 3 November 1914 had been partially successful, but a larger-scale operation was later devised by Admiral [[Franz von Hipper]]. The fast battlecruisers would conduct the bombardment, while the rest of the High Seas Fleet stationed itself east of [[Dogger Bank]], so they could cover the battlecruisers' return and destroy any pursuing British vessels. Having broken the German naval codes, the British were planning to catch the raiding force on its return journey, although they were not aware of the High Seas Fleet's presence. Admiral Beatty's 1st BCS (now reduced to four ships, including ''New Zealand'') and the 2nd Battle Squadron (consisting of six [[dreadnought]]s) were detached from the Grand Fleet in an attempt to intercept the Germans near Dogger Bank.&lt;ref&gt;Massie, pp. 333–34&lt;/ref&gt;
+
+Admiral Hipper's raiders set sail on 15 December 1914, and successfully bombarded several English towns; British destroyers escorting the 1st BCS had already encountered German destroyers of the High Seas Fleet at 5:15&amp;nbsp;a.m. and fought an inconclusive action with them. Vice Admiral [[George Warrender, 7th Baronet|Sir George Warrender]], commanding the 2nd Battle Squadron, had received a signal at 5:40 that the destroyer {{HMS|Lynx|1913|6}} was engaging enemy destroyers, although Beatty had not. The destroyer {{HMS|Shark|1912|6}} spotted the German armoured cruiser {{SMS|Roon||6}} and her escorts at about 7:00, but could not transmit the message until 7:25. Admiral Warrender received the signal, as did ''New Zealand'', but Beatty, aboard ''Lion'', did not, even though ''New Zealand'' had been specifically tasked to relay messages between the destroyers and the flagship. Warrender attempted to pass on Shark's message to Beatty at 7:36, but did not manage to make contact until 7:55. On receiving the message, Beatty reversed course, and dispatched ''New Zealand'' to search for ''Roon''. She was being [[wikt:overhaul|overhauled]] by ''New Zealand'' when Beatty received messages that [[Scarborough, North Yorkshire|Scarborough]] was being shelled at 9:00. Beatty ordered ''New Zealand'' to rejoin the squadron and turned west for Scarborough.&lt;ref&gt;Massie, pp. 342–43&lt;/ref&gt;
+
+[[Image:Scheer's illustration of I SG disposition 16 Dec. 1916 en.SVG|thumb|300px||right|Relative positions of the British and German forces at about 12:00 hours]]
+The British forces, heading west to cover the main route through the minefields protecting the coast of England, split up while passing the shallow Southwest Patch of Dogger Bank; Beatty's ships headed to the north, while Warrender passed to the south. This left a {{convert|15|nmi|adj=on}} gap between them, through which the German light forces began to move. At 12:25&amp;nbsp;p.m., the light cruisers of the II&amp;nbsp;Scouting Group began to pass the British forces searching for Hipper. The light cruiser {{HMS|Southampton|1912|6}} spotted the light cruiser {{SMS|Stralsund||6}} and signalled a report to Beatty. At 12:30, Beatty turned his battlecruisers towards the German ships, which he presumed were the advance screen for Hipper's ships. However, those were some {{convert|50|km|mi|0}} behind. The 2nd Light Cruiser Squadron, which had been screening for Beatty's ships, detached to pursue the German cruisers, but a misinterpreted signal from the British battlecruisers sent them back to their screening positions.{{refn|Beatty had intended on retaining only the two rearmost light cruisers from [[William Goodenough|Goodenough's]] squadron; however, {{HMS|Nottingham|1913|6}}{{'}}s signalman misinterpreted the signal, thinking that it was intended for the whole squadron, and thus transmitted it to Goodenough, who ordered his ships back into their screening positions ahead of Beatty's battlecruisers.&lt;ref name=t1/&gt;|group=Note}} This confusion allowed the German light cruisers to escape, and alerted Hipper to the location of the British battlecruisers. The German battlecruisers wheeled to the north-east of the British forces and also made good their escape.&lt;ref name=t1&gt;Tarrant, p. 31&lt;/ref&gt;
+
+''New Zealand'' became flagship of the [[2nd Battlecruiser Squadron (United Kingdom)|2nd Battlecruiser Squadron]] (2nd BCS) of the Grand Fleet on 15 January 1915, and saw action the following week in the Battle of Dogger Bank.&lt;ref name=b3/&gt;
+
+===Battle of Dogger Bank===
+{{Main article|Battle of Dogger Bank (1915)}}
+On 23 January 1915, a force of German battlecruisers under the command of Admiral Hipper sortied to clear Dogger Bank of any British fishing boats or small craft that might be there to collect intelligence on German movements. Alerted by decoded German transmissions, a larger force of British battlecruisers, including ''New Zealand'', sailed under the command of Admiral Beatty to intercept. Contact was initiated at 7:20&amp;nbsp;a.m. on the 24th, when ''Arethusa'' spotted the German light cruiser {{SMS|Kolberg}}. By 7:35, the Germans had spotted Beatty's force and Hipper ordered a turn south at {{convert|20|kn}}, believing that this speed would outdistance any British battleships to the north-west; he planned to increase speed to the armoured cruiser {{SMS|Blücher}}{{'}}s maximum of {{convert|23|kn}} if necessary to outrun any battlecruisers.&lt;ref&gt;Massie, pp. 376–84&lt;/ref&gt;
+
+Beatty ordered his battlecruisers to make all practical speed to catch the Germans before they could escape. ''New Zealand'' and ''Indomitable'' were the slowest of Beatty's ships, and gradually fell behind the newer battlecruisers. Despite this, ''New Zealand'' was able to open fire on ''Blücher'' by 9:35, and continued to engage the armoured cruiser after the other British battlecruisers had switched targets to the German battlecruisers. After about an hour, ''New Zealand'' had knocked out ''Blücher''{{'}}s forward turret, and ''Indomitable'' began to fire on her as well at 10:31. Two 12-inch shells pierced the German ship's armoured deck and exploded in an ammunition room four minutes later. This started a fire amidships that destroyed her two port {{convert|21|cm|abbr=on}} turrets, while the concussion damaged her engines so that her speed dropped to {{convert|17|kn}}, and jammed her steering gear. At 10:48, Beatty ordered ''Indomitable'' to attack her, but the combination of a signalling error by Beatty's flag lieutenant and heavy damage to Beatty's flagship ''Lion'', which had knocked out her radio and caused enough smoke to obscure her signal [[halyard]]s, caused the rest of the British battlecruisers, temporarily under the command of Rear Admiral Sir [[Gordon Moore (Royal Navy officer)|Gordon Moore]] in ''New Zealand'', to think that that signal applied to them. In response, they turned away from Hipper's main body and engaged ''Blücher''.&lt;ref&gt;Massie, pp. 385–406&lt;/ref&gt; ''New Zealand'' fired 147 shells at ''Blücher'' before the German ship capsized and sank at 12:07 after being torpedoed by ''Arethusa''.&lt;ref name=c27&gt;Gardiner and Gray, p. 27&lt;/ref&gt; Captain Halsey had again worn the piupiu over his uniform during the battle, and the lack of damage to ''New Zealand'' was once more attributed to its good luck properties.&lt;ref name=nhsa/&gt;
+
+''New Zealand'' was relieved by ''Australia'' as flagship of the 2nd BCS on 22 February 1915.&lt;ref name=r3/&gt; The squadron joined the Grand Fleet in a sortie on 29 March, in response to intelligence that the German fleet was leaving port as the precursor to a major operation. By the next night, the German ships had withdrawn, and the squadron returned to Rosyth. On 11 April, the British fleet was again deployed on the intelligence that a German force was planning an operation. The Germans intended to lay [[Sea mine|mines]] at the [[Swarte Bank]], but after a scouting Zeppelin located a British light cruiser squadron, they began to prepare for what they thought was a British attack. Heavy fog and the need to refuel caused ''Australia'' and the British vessels to return to port on 17 April, and although they were redeployed that night, they were unable to stop two German light cruisers from laying the minefield. From 26 to 28 January 1916, the 2nd BCS was positioned off the [[Skagerrak]] while the [[1st Light Cruiser Squadron]] swept the strait in an unsuccessful search for a possible [[minelayer]].&lt;ref&gt;Jose, pp. 269–71&lt;/ref&gt;
+
+On the morning of 21 April 1916, the 2nd BCS sailed again for the Skagerrak, this time to support efforts to disrupt the transport of Swedish ore to Germany. The planned destroyer sweep of the [[Kattegat]] was cancelled when word came that the High Seas Fleet was mobilising for an operation of their own (later learned to be timed to coincide with the Irish [[Easter Rising]]), and the British ships were ordered to a rendezvous point in the middle of the North Sea, while the rest of the Grand Fleet made for the south-eastern end of the [[Long Forties]]. On the afternoon of 22 April, the Battlecruiser Fleet was patrolling to the north-west of [[Horn Reefs]] when heavy fog came down. The ships were zigzagging to avoid submarine attack when ''Australia'' collided with sister ship ''New Zealand'' twice in three minutes.&lt;ref&gt;Jose, pp. 272–74&lt;/ref&gt; ''Australia'' was damaged badly enough to be put out of action for several months, but ''New Zealand'' returned to the fleet on 30 May, a day before the start of the Battle of Jutland, relieving ''Indefatigable'' as flagship.&lt;ref name=r3&gt;Roberts, p. 123&lt;/ref&gt;
+
+===Battle of Jutland===
+{{Main article|Battle of Jutland}}
+[[File:HMSNewZealand Officers Churchill king.jpg|thumb|right|Assembled officers of HMS ''New Zealand'' together with [[Winston Churchill]] and [[George V of the United Kingdom|King George V]]]]
+
+On 31 May 1916, the 2nd BCS consisted of ''New Zealand'' (flagship of Rear Admiral [[William Christopher Pakenham]]) and ''Indefatigable''; ''Australia'' was still under repair following her collision with ''New Zealand''.&lt;ref&gt;Burt, p. 104&lt;/ref&gt; The squadron was assigned to Admiral Beatty's Battlecruiser Fleet, which had put to sea to intercept a sortie by the High Seas Fleet into the North Sea. The British were able to decode the German radio messages and left their bases before the Germans put to sea. Hipper's battlecruisers spotted the Battlecruiser Fleet to their west at 3:20&amp;nbsp;p.m., but Beatty's ships didn't spot the Germans to their east until 3:30. Two minutes later, he ordered a course change to east-south-east to position himself astride the German's line of retreat and called his ships' crews to action stations. He also ordered the 2nd BCS, which had been leading, to fall in astern of the 1st BCS. Hipper ordered his ships to turn to starboard, away from the British, to assume a south-easterly course, and reduced speed to {{convert|18|kn}} to allow three light cruisers of the 2nd Scouting Group to catch up. With this turn, Hipper was falling back on the High Seas Fleet, then about {{convert|60|mi}} behind him. Around this time, Beatty altered course to the east as it was quickly apparent that he was still too far north to cut off Hipper.&lt;ref&gt;Tarrant, pp. 69, 71, 75&lt;/ref&gt;
+
+Thus began the so-called &quot;Run to the South&quot; as Beatty changed course to steer east-south-east at 3:45, paralleling Hipper's course, now that the range closed to under {{convert|18000|yd}}. The Germans opened fire first at 3:48, followed by the British. The British ships were still in the process of making their turn, and only the two leading ships, ''Lion'' and {{HMS|Princess Royal|1911|6}}, had steadied on their course when the Germans opened fire. The British formation was echeloned to the right with ''Indefatigable'' in the rear and the furthest to the west, and ''New Zealand'' ahead of her and slightly further east. The German fire was accurate from the beginning, but the British overestimated the range as the German ships blended into the haze. ''Indefatigable'' aimed at {{SMS|Von der Tann}}, while ''New Zealand'', unengaged herself, targeted {{SMS|Moltke||6}}. By 3:54, the range was down to {{convert|12900|yd}} and Beatty ordered a course change two [[Boxing the compass|points]] to starboard to open up the range at 3:57. ''Indefatigable'' was destroyed at about 4:03, when her magazines exploded.&lt;ref&gt;Tarrant, pp. 80–85&lt;/ref&gt;
+
+After ''Indefatigable''{{'}}s loss, ''New Zealand'' shifted her fire to ''Von der Tann'' in accordance with Beatty's standing instructions. The range had grown too far for accurate shooting, so Beatty altered course four points to port to close the range again between 4:12 and 4:15. By this time, the 5th Battle Squadron, consisting of four {{sclass-|Queen Elizabeth|battleship|2}}s, had closed up and was engaging ''Von der Tann'' and ''Moltke''. At 4:23, a {{convert|13.5|in|adj=on}} shell from {{HMS|Tiger|1913|6}} struck near ''Von der Tann''{{'}}s rear turret, starting a fire among the practice targets stowed there that completely obscured the ship and caused ''New Zealand'' to shift fire to ''Moltke''.&lt;ref&gt;Tarrant, pp. 89–90&lt;/ref&gt; At 4:26, the ship was hit by a {{convert|28|cm|0|adj=on}} shell, fired by ''Von der Tann'', on 'X' barbette that detonated on contact and knocked loose a piece of armour that briefly jammed 'X' turret and blew a hole in the upper deck.&lt;ref&gt;Campbell (1998), pp. 48, 76&lt;/ref&gt; Four minutes later, ''Southampton'', scouting in front of Beatty's ships, spotted the lead elements of the High Seas Fleet charging north at top speed. Three minutes later, she sighted the topmasts of [[Vice-Admiral]] [[Reinhard Scheer]]'s battleships, but did not transmit a message to Beatty for another five minutes. Beatty continued south for another two minutes to confirm the sighting himself before ordering a sixteen-point turn to starboard in succession. ''New Zealand'', the last ship in the line, turned prematurely to stay outside the range of the oncoming battleships.&lt;ref&gt;Massie, pp. 595–600&lt;/ref&gt;
+[[File:Armour plating from HMS New Zealand.JPG|thumb|left|A chunk of armour knocked from ''New Zealand''{{'}}s 'X' turret during the Battle of Jutland on display at the [[Torpedo Bay Navy Museum]] in Auckland]]
+
+''New Zealand'' was [[wikt:straddle|straddled]] several times by the battleship {{SMS|Prinzregent Luitpold}} but was not hit.&lt;ref&gt;Tarrant, p. 100&lt;/ref&gt; Beatty's ships maintained full speed in an attempt to increase the distance between them and the High Seas Fleet, and gradually moved out of range. They turned north and then north-east to try to rendezvous with the main body of the [[Grand Fleet]]. At 5:40, they opened fire again on the German battlecruisers. The setting sun blinded the German gunners, and as they could not make out the British ships, they turned away to the north-east at 5:47.&lt;ref&gt;Tarrant, p. 109&lt;/ref&gt; Beatty gradually turned more towards the east to allow him to cover the deployment of the Grand Fleet in battle formation and to move ahead of it, but he mistimed his manoeuvre and forced the leading division to fall off towards the east, further away from the Germans. By 6:35, Beatty was following ''Indomitable'' and {{HMS|Inflexible|1907|6}} of the 3rd BCS as they were steering east-south-east, leading the Grand Fleet, and continuing to engage Hipper's battlecruisers to their south-west. A few minutes earlier, Scheer had ordered a simultaneous 180° starboard turn and Beatty lost sight of the High Seas Fleet in the haze.&lt;ref&gt;Tarrant, pp. 130–38&lt;/ref&gt; Twenty minutes later, Scheer ordered another 180° turn which put them on a converging course again with the Grand Fleet, which had altered course to the south. This allowed the Grand Fleet to [[Crossing the T|cross Scheer's T]], forming a battle line that cut across his battle line and badly damaging his leading ships. Scheer ordered yet another 180° turn at 7:13 in an attempt to extricate the High Seas Fleet from the trap into which he had sent them.&lt;ref&gt;Tarrant, pp. 149, 157&lt;/ref&gt;
+
+This was successful, and the British lost sight of the Germans until 8:05, when {{HMS|Castor|1915|6}} spotted smoke bearing west-north-west. Ten minutes later, she had closed the range enough to identify German torpedo boats, and engaged them. Beatty turned west upon hearing gunfire and spotted the German battlecruisers only {{convert|8500|yd}} away. ''Inflexible'' opened fire at 8:20, followed by the rest of Beatty's battlecruisers.&lt;ref&gt;Tarrant, p. 175&lt;/ref&gt; ''New Zealand'' and ''Indomitable'' concentrated their fire on {{SMS|Seydlitz}}, and hit her five times before she turned west to disengage.&lt;ref&gt;Campbell (1998), p. 272&lt;/ref&gt; Shortly after 8:30, the [[pre-dreadnought battleship]]s of Rear Admiral Mauve's II Battle Squadron were spotted and fire switched to them. The Germans had poor visibility and were able to fire only a few rounds at them before turning away to the west. The British battlecruisers hit the German ships several times before they blended into the haze around 8:40.&lt;ref&gt;Tarrant, pp. 177–78&lt;/ref&gt; After this, Beatty changed course to south-south-east and maintained that course, ahead of both the Grand Fleet and the High Seas Fleet, until 2:55 the next morning, when the order was given to reverse course and head home.&lt;ref&gt;Tarrant, pp. 178, 224&lt;/ref&gt;
+
+''New Zealand'' fired 420 twelve-inch shells during the battle, more than any other ship on either side. Despite this, only four successful hits were credited to the battlecruiser: three on ''Seydlitz'' and one on the pre-dreadnought {{SMS|Schleswig-Holstein}}.&lt;ref name=c8&gt;Campbell (1978), p. 18&lt;/ref&gt; She was hit only once during the battle, confirming for the crew the piupiu and tiki worn by her new captain, [[John Green (Royal Navy officer)|J.F.E. (Jimmy) Green]], brought good luck.&lt;ref name=nhsa/&gt;
+
+===Post-Jutland career===
+''New Zealand'' was relieved by ''Australia'' as flagship on 9 June and temporarily attached to the 1st Battlecruiser Squadron, until {{HMS|Renown|1916|6}} relieved her in September.&lt;ref&gt;Parkes, p. 517&lt;/ref&gt; On the evening of 18 August, the Grand Fleet put to sea in response to a message deciphered by [[Room 40]] that indicated that the High Seas Fleet, minus II Squadron, would be leaving harbour that night. The German objective was to bombard [[Sunderland, Tyne and Wear|Sunderland]] on 19 August, based on extensive reconnaissance provided by airships and submarines. The Grand Fleet sailed with 29 dreadnought battleships and six battlecruisers. Throughout the next day, Jellicoe and Scheer received conflicting intelligence; after reaching the location in the North Sea where the British expected to encounter the High Seas Fleet, they turned north in the erroneous belief that they had entered a minefield. Scheer turned south again, then steered south-eastward to pursue a lone British battle squadron sighted by an airship, which was in fact the [[Harwich Force]] of cruisers and destroyers under Commodore [[Reginald Tyrwhitt|Tyrwhitt]]. Realising their mistake, the Germans changed course for home. The only contact came in the evening when Tyrwhitt sighted the High Seas Fleet but was unable to achieve an advantageous attack position before dark, and broke off contact. The British and the German fleets returned home; the British lost two cruisers to submarine attacks, and one German dreadnought had been torpedoed.&lt;ref&gt;Marder, pp. 287–96&lt;/ref&gt; ''New Zealand'' underwent a refit at [[Rosyth]] in November 1916. She temporarily replaced ''Australia'' as squadron flagship between 29 November and 7 January 1917.&lt;ref name=r3/&gt;
+
+{{Quote box
+ |quote = The ship's company were firm believers both in the old chief's prophecy and in the ability of the piu piu and tiki to ward off trouble. More than a year after the Battle of Jutland, on the last occasion that ''New Zealand'' sighted enemy ships and went to [[action stations]], a seaman was seen to climb a ladder to the bridge and take a quick look around. &quot;It's all right,&quot; he called to his mates below, &quot;he's got them on&quot; – a shout that assured them that the captain was wearing the piu piu and tiki.
+ |source = Grant Howard, ''The Navy in New Zealand''&lt;ref name=Howard/&gt;
+ |align = right
+ |width = 25%
+}}
+
+German minesweepers and escorting light cruisers were attempting to clear British-laid minefields in the [[Heligoland Bight]] in late 1917. The Admiralty planned a large operation for 17 November to destroy the ships, and allocated two light cruiser squadrons and the [[1st Cruiser Squadron]] covered by the reinforced 1st Battlecruiser Squadron and, more distantly, the [[1st Battle Squadron]] of battleships. ''New Zealand'' was attached to the 1st BCS for this operation, which became known as the [[Second Battle of Heligoland Bight]]. ''New Zealand'' did not fire her guns during the battle.&lt;ref&gt;Newbolt, pp. 164–65&lt;/ref&gt; As in previous engagements, Captain Green wore the piupiu and tiki for luck.&lt;ref name=Howard&gt;{{cite book|last=Howard|first=Grant|title=The Navy in New Zealand: An Illustrated History|year=1981|publisher=A. H. and A. W. Reed|location=Wellington and Sydney|isbn=0-589-01355-6|pages=30–31}}&lt;/ref&gt;
+
+During 1918, ''New Zealand'' and the Grand Fleet's other capital ships were used on occasion to escort convoys between Britain and Norway. The 2nd BCS spent the period from 8 to 21 February covering these convoys in company with battleships and destroyers, and put to sea on 6 March in company with the 1st BCS to support minelayers. The 2nd BCS again supported minelayers in the North Sea from 25 June or 26 June to the end of July. During September and October, ''New Zealand'' and the 2nd BCS supervised and protected minelaying operations north of [[Orkney]].&lt;ref&gt;Jose, pp. 279, 282, 303&lt;/ref&gt; The battlecruiser was present at the surrender of the High Seas Fleet as part of the 2nd BCS.&lt;ref&gt;{{cite web|url=http://www.gwpda.org/naval/opzz.htm|title=Operation ZZ|publisher=World War One: The Great War at Sea|accessdate=13 May 2010}}&lt;/ref&gt;
+
+====Dominion tour====
+Following the war, Admiral [[John Jellicoe, 1st Earl Jellicoe|Jellicoe]] was tasked with helping to plan and coordinate the naval policies and defences of the British Dominions. ''New Zealand'' was made available for his transportation, and was refitted between December 1918 and February 1919 for the tour; the main changes were the removal of her flying-off platforms and the lower forward four-inch guns.&lt;ref&gt;Gordon, pp. 11–12&lt;/ref&gt;&lt;ref&gt;Burt, p. 102&lt;/ref&gt; The first stop was India, with ''New Zealand'' arriving in [[Mumbai|Bombay]] on 14 March 1919 and departing six weeks later. The battlecruiser arrived at [[Albany, Western Australia]], on 15 May, where Jellicoe and his staff disembarked to take an overland route across the country. ''New Zealand'' sailed via [[Melbourne]] and [[Hobart]] to depart from [[Sydney]] for New Zealand on 16 August.&lt;ref&gt;Gordon, pp. 14, 18, 21&lt;/ref&gt;
+
+[[File:Admiral of the Fleet Viscount Jellicoe’s flagship HMS NEW ZEALAND in the Sutherland Dock at Cockatoo Island (7036727489).jpg|thumb|left|''New Zealand'' dry-docked at [[Cockatoo Island Dockyard]] in Sydney during Admiral Jellicoe's tour of the Dominions]]
+The ship called upon  [[Christmas Island]], southeast of [[Fanning Island]], on 19 November 1920, thinking it uninhabited. Instead, they were greeted by Joe English, of Medford, Massachusetts, who had been manager of a copra plantation on the island, but had become marooned with two others, when the war had broken out. The men were rescued.&lt;ref&gt;Bailey, p48&lt;/ref&gt;
+
+[[File:4-inch gun from HMS New Zealand in front of the Auckland Museum in June 2012 2.jpg|thumb|right|One of ''New Zealand''{{'}}s 4-inch guns, outside the Auckland Museum]]
+The ship was particularly popular in New Zealand, where crowds flocked to visit her as they had done in 1913. Jellicoe, too, was popular and he later returned to New Zealand to serve as [[Governor-General of New Zealand|Governor-General]] from 1920 to 1924.&lt;ref name=Gordon21&gt;Gordon, p. 21&lt;/ref&gt; The ship stopped off at [[Fiji]] and [[Hawaii]] before arriving on 8 November in Canada, the final country to be assessed.&lt;ref name=Gordon21/&gt; After returning to the United Kingdom, the battlecruiser was [[paid off]] into reserve on 15 March 1920. ''New Zealand'' was regarded as obsolete by the Royal Navy, because her 12-inch guns were inferior to the {{convert|15|in|adj=on|0}} guns deployed on the latest generation of battlecruisers. She was sold for scrap on 19 December 1922 to meet the tonnage restrictions set on the British Empire by the [[Washington Naval Treaty]].&lt;ref name=r3/&gt; The New Zealand Government completed paying off the loan used to fund the ship in the 1944/45 financial year.&lt;ref name=Te_Papa /&gt;
+
+Many items from the battlecruiser were sent to New Zealand after she was scrapped. Equipment including several 4-inch guns, a range finder and laundry equipment, were used by military units while other artifacts were placed on display in museums.&lt;ref name=Te_Papa /&gt; During [[World War II]], the 4-inch guns were the main armament of the [[Land battery|land batteries]] which protected the entrances to the harbours at Auckland, Wellington and [[Lyttelton, New Zealand|Lyttelton]].&lt;ref&gt;Henderson et al., pp. 312–13&lt;/ref&gt; The captain's piupiu was returned to New Zealand in 2005, and is on display at the [[Torpedo Bay Navy Museum]] in Auckland alongside the ship's bell and other artifacts.&lt;ref name=gift&gt;{{cite web|last=New Zealand Defence Force|title=A Nation's Gift - The HMS New Zealand Story|url=http://www.scoop.co.nz/stories/PO0612/S00017/a-nations-gift-the-hms-new-zealand-story.htm|work=Press release|publisher=Scoop Independent News|accessdate=11 June 2012}}&lt;/ref&gt;&lt;ref name=&quot;Te_Papa&quot;&gt;{{cite web|title=HMS New Zealand: 'A Grim and Formidable Fighting Machine'|url=http://collections.tepapa.govt.nz/theme.aspx?irn=1049|work=Collections|publisher=Te Papa|accessdate=11 June 2012}}&lt;/ref&gt; The [[Museum of New Zealand Te Papa Tongarewa]] in Wellington also holds several items from the ship in its collection.&lt;ref name=Te_Papa /&gt;
+
+==Footnotes==
+{{Reflist|group=Note}}
+
+==Citations==
+{{Reflist|30em}}
+
+==References==
+{{Portal|Battleships}}
+* {{cite book|last=Bailey|title=The Christmas Island Story,1977|publisher=The Gilbert Islands Government|isbn=0-905743-08-3}}
+* {{cite book|last=Burt|first=R. A.|title=British Battleships of World War One|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1986|isbn=0-87021-863-8}}
+* {{cite book|last=Campbell|first=John|title=Jutland: An Analysis of the Fighting|publisher=Lyons Press|location=New York|year=1998|isbn=1-55821-759-2}}
+* {{cite book|last=Campbell|first=N. J. M.|title=Battle Cruisers|publisher=Conway Maritime Press|location=Greenwich, UK|year=1978|series=Warship special|volume=1|isbn=0-85177-130-0}}
+* {{cite book |last=Frame |first=Tom |authorlink=Tom Frame (bishop) |title=No Pleasure Cruise: The Story of the Royal Australian Navy |year=2004 |publisher=Allen &amp; Unwin |location=Crows Nest, Australia |isbn=1-74114-233-4 |oclc=55980812}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5}}
+* {{cite book|last=Gordon|first=Andrew, Dr.|editor=Forbes, Andrew |editor2=Lovi, Michelle|title=Australian Maritime Issues 2006: SPC-A Annual|url=http://117.55.225.121/w/images/PIAMA19.pdf|format=PDF|series=Papers in Australian Maritime Affairs; No. 19|year=2006|publisher=Sea Power Centre – Australia|location=Canberra, Australia|isbn=0-642-29644-8|pages=11–23|chapter=The Best Laid Staff Work: An Insider's View of Jellicoe's 1919 Naval Mission to the Dominions}}&lt;!-- If this link goes dead, the paper is archived at http://web.archive.org/web/20110613185344/http://www.navy.gov.au/w/images/PIAMA19.pdf --&gt;
+* {{cite book|last=Henderson|first=Alan|title=The Gunners : A History of New Zealand Artillery|publisher=Penguin Group (New Zealand)|location=Auckland|isbn=978-0-7900-1141-7|year=2008|display-authors=etal}}
+* {{cite book|last=Jose |first=Arthur W. |title=The Royal Australian Navy 1914–1918 |publisher=Angus and Robertson |location=Sydney, Australia |origyear=1928 |year=1941 |edition=9th |series=The Official History of Australia in the War of 1914–1918 |volume=IX |oclc=215763279 |url=http://www.awm.gov.au/histories/first_world_war/volume.asp?levelID=67895 |accessdate=22 March 2010}}
+* {{cite book|last=Lambert|first=Nicholas| authorlink =|title = Far-Flung Lines: Essays on Imperial Defense in Honour of Donald Mackenzie Schurman|year=1996| publisher = Frank Cass|location=London|chapter=Economy or Empire?: The Fleet Unit Concept and the Quest for Collective Security in the Pacific, 1909–14| isbn= 0-7146-4216-9}}
+* {{cite book|last=Layman|first=R. D.|title=Naval Aviation in the First World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1996|isbn=1-55750-617-5}}
+* {{cite book |title=From the Dreadnought to Scapa Flow, The Royal Navy in the Fisher Era, 1904–1919 |edition=Second |volume=III: Jutland and After, May 1916 – December 1916 |last=Marder |first=Arthur J. |year=1978 | publisher=Oxford University Press |location=London |isbn=0-19-215841-4 |oclc=3516460}}
+* {{cite book|title=[[Castles of Steel: Britain, Germany and the Winning of the Great War]] |last=Massie |first=Robert |authorlink=Robert K. Massie|publisher=Random House|location=London |isbn=0-224-04092-8|year=2004}}
+* {{cite book|last=Newbolt|first=Henry|title=Naval Operations|edition=reprint of the 1931|series=History of the Great War Based on Official Documents|volume=V|year=1996|publisher=Battery Press|location=Nashville, Tennessee|isbn=0-89839-255-1}}
+* {{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+* {{cite book|last=Roberts|first=John|title=Battlecruisers|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1997|isbn=1-55750-068-1}}
+* {{cite book|last=Tarrant|first=V. E.|title=Jutland: The German Perspective: A New View of the Great Battle, 31 May 1916|publisher=Brockhampton Press|location=London|year=1999|edition=reprint of the 1995|isbn=1-86019-917-8}}
+
+==External links==
+{{Commons category|HMS New Zealand (ship, 1911)}}
+* [http://www.nzetc.org/tm/scholarly/tei-WH2Navy-a7.html Record of HMS New Zealand from RNZN History]
+* [http://collections.tepapa.govt.nz/party.aspx?irn=34861 Objects related to HMS New Zealand from the collection of the Museum of New Zealand Te Papa Tongarewa]
+* {{cite web|title=The Bulldog and the Battlecruiser : The 1913 Voyage of HMS New Zealand|url=http://www.hmsnewzealand.com/|publisher=Auckland War Memorial Museum Te Paenga Hira and Torpedo Bay Navy Museum Te Waka Huia O Te Taua Moana O Aotearoa}}
+
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Indefatigable class battlecruiser}}
+
+{{featured article}}
+
+{{DEFAULTSORT:New Zealand (1911)}}
+[[Category:1911 ships]]
+[[Category:Govan-built ships]]
+[[Category:Indefatigable-class battlecruisers]]
+[[Category:World War I battlecruisers of the United Kingdom]]</text>
+      <sha1>8twthqic999k41t823wv7nn4o0w2lbh</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,238 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Liverpool (C11)</title>
+    <ns>0</ns>
+    <id>447401</id>
+    <revision>
+      <id>751016520</id>
+      <parentid>730788631</parentid>
+      <timestamp>2016-11-22T21:22:37Z</timestamp>
+      <contributor>
+        <username>JustSomePics</username>
+        <id>14673771</id>
+      </contributor>
+      <comment>/* First torpedoing (1940–1941) */ add image</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="40183">{{other ships|HMS Liverpool}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Liverpool FL 004984.jpg|300px]]
+|Ship caption=''Liverpool'' underway on 28 February 1942
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom]]
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Liverpool''
+|Ship ordered=1935
+|Ship builder=[[Fairfield Shipbuilding and Engineering Company]], [[Govan]]
+|Ship laid down=17 February 1936
+|Ship launched=24 March 1937
+|Ship commissioned=2 November 1938
+|Ship decommissioned=1952
+|Ship refit=
+|Ship struck=
+|Ship identification=[[Pennant number]]: C11
+|Ship motto=
+|Ship nickname=
+|Ship honours=[[Mediterranean theatre of World War II|Mediterranean 1940]], [[Battle of Calabria|Calabria 1940]], [[Arctic convoys of World War II|Arctic 1942]], [[Malta Convoys|Malta Convoys 1942]]&lt;ref name=&quot;Morris&quot;&gt;Morris (1987), p. 208&lt;/ref&gt;
+|Ship fate=Sold for scrap July 1958
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(original configuration)
+|Ship class={{sclass2-|Town|cruiser (1936)|0}} [[light cruiser]]
+|Ship displacement=*9,400 tons (standard)&lt;ref name=&quot;Colledge&quot;&gt;Colledge; Warlow (2010), p. 231&lt;/ref&gt;
+*11,650 tons '''full load'''&lt;ref name=&quot;Spec&quot;&gt;Whitley (2000), pp. 104–5&lt;/ref&gt;
+|Ship tons burthen=
+|Ship length= {{convert|591.6|ft|m|abbr=on}}&lt;ref name=&quot;Conway&quot;&gt;Gardiner; Chesneau; Budzbon (1980), pp. 31–2&lt;/ref&gt;
+|Ship beam={{convert|62.4|ft|m|abbr=on}}&lt;ref name=&quot;Conway&quot;/&gt;
+|Ship draught={{convert|20.7|ft|m|abbr=on}}&lt;ref name=&quot;Conway&quot;/&gt;
+|Ship propulsion=*Four-shaft [[Parsons Marine Steam Turbine Company|Parsons]] geared turbines
+*Four Admiralty 3-drum boilers
+*{{convert|82500|shp|MW|abbr=on}}&lt;ref name=&quot;Spec&quot;/&gt;
+|Ship speed={{convert|32.3|kn|km/h|abbr=on}}&lt;ref name=&quot;Spec&quot;/&gt;
+|Ship range=
+|Ship endurance=
+|Ship boats=
+|Ship capacity=
+|Ship complement=800&lt;ref name=&quot;Conway&quot;/&gt;–850&lt;ref name=&quot;Spec&quot;/&gt;
+|Ship armament=
+*12 × [[BL 6 inch Mk XXIII naval gun|{{convert|6|in|mm|sing=on|0}} Mk XXIII guns]] in triple turrets&lt;ref name=&quot;Spec&quot;/&gt;&lt;ref&gt;DiGiulian, Tony (2008), [http://www.navweaps.com/Weapons/WNBR_6-50_mk23.htm British 6&quot;/50 (15.2 cm) BL Mark XXIII], navweaps.com. Retrieved 10 April 2008.&lt;/ref&gt;
+*8 × [[QF 4 inch Mk XVI naval gun|QF {{convert|4|in|mm|sing=on|0}} Mk XVI guns]] in twin turrets&lt;ref name=&quot;Spec&quot;/&gt;&lt;ref&gt;DiGiulian, Tony (2008), [http://www.navweaps.com/Weapons/WNBR_4-45_mk16.htm British 4&quot;/45 (10.2 cm) QF HA Marks XVI, XVII, XVIII and XXI], navweaps.com. Retrieved 10 April 2008.&lt;/ref&gt;
+*8 × [[QF 2 pounder naval gun|QF 2-pounder (40 mm) Mk VIII guns]] in quad mountings&lt;ref name=&quot;Spec&quot;/&gt;&lt;ref&gt;DiGiulian, Tony (2008), [http://www.navweaps.com/Weapons/WNBR_2pounder_m8.htm Britain 2-pdr 4 cm/39 (1.575&quot;) Mark VIII], navweaps.com. Retrieved 10 April 2008.&lt;/ref&gt;
+*8 × [[Vickers .50 machine gun|{{convert|0.5|in|mm|sing=on|1}} AA machine guns]]&lt;ref name=&quot;Spec&quot;/&gt;
+*6 × [[British 21 inch torpedo|{{convert|21|in|mm|sing=on|0}} torpedo]] tubes&lt;ref name=&quot;Spec&quot;/&gt;
+|Ship armour=*Box protection: {{convert|4|in|mm}}–{{convert|1|in|mm}}
+*Belt: {{convert|4|in|mm}}
+*Bulkheads: {{convert|2|in|mm}}
+*Turrets: {{convert|4|in|mm}}–{{convert|2|in|mm}}&lt;ref name=&quot;Conway&quot;/&gt;
+|Ship aircraft=Three [[Supermarine Walrus]]; one catapult&lt;ref name=&quot;Spec&quot;/&gt;
+|Ship notes=
+}}
+|}
+
+'''HMS ''Liverpool''''', named after the port city of [[Liverpool]] in north-west England, was a [[Town class cruiser (1936)|Town-class]] [[light cruiser]] of the [[Royal Navy]] in service from 1938 to 1952.
+
+During the [[Second World War]], ''Liverpool'' gained four [[battle honour]]s and was seriously damaged in two attacks by Italian [[torpedo bomber]]s. The cruiser operated variously with the naval stations in the [[East Indies Station|East Indies]] and [[China Station|China]] and with the Mediterranean and [[Home Fleet|Home]] fleets. While assigned to the China Station in January 1940, the cruiser instigated a diplomatic incident with Japan when she intercepted the liner ''[[Asama Maru]]'' off the coast of Japan. ''Liverpool'' fought in the battles of the [[Battle of the Espero Convoy|Espero Convoy]] and [[Battle of Calabria|Calabria]], the [[Arctic Convoys]], and [[Operation Harpoon (1942)|Operation Harpoon]] during the [[Malta Convoys]]. An aerial attack on 14 June 1942, during Operation Harpoon, proved to be the ship's final combat of the war. For the remainder of the conflict, ''Liverpool'' underwent repairs and refitting at [[Rosyth Dockyard|Rosyth]], [[Scotland]].
+
+''Liverpool'' returned to service in 1945 for assignment to the Mediterranean Fleet. In the early 1950s, the cruiser harboured in [[Port Said]] to support the British Administration of the [[Suez Canal Zone]], when Egyptian [[guerrillas]] campaigned against it. The cruiser was decommissioned in 1952 at a time when the Royal Navy was rapidly contracting in strength. ''Liverpool'' was broken up in 1958, at Rosyth.
+
+==History==
+
+===Design and commission (1935–1939)===
+{{See also|Town-class cruiser (1936)}}
+Procured in response to the American {{sclass-|Brooklyn|cruiser|5}} and Japanese {{sclass-|Mogami|cruiser|5}} classes of light cruiser, the Town class consisted of three variants for a total of 10 ships.&lt;ref name=&quot;class&quot;&gt;Bishop (2002), pp. 493–4&lt;/ref&gt; These ships were intended for fleet duties rather than [[Sea lines of communication|trade protection]], which their predecessors had been designed for.&lt;ref name=&quot;class&quot; /&gt; The class represented a significant improvement in armament and armour, which provided reasonable protection against {{convert|8|in|mm|adj=on}} shells. Their primary armament of twelve {{convert|6|in|mm|adj=on}} guns in triple turrets, compared to the eight and six guns possessed by the preceding {{sclass-|Leander|cruiser (1931)|5}} and {{sclass-|Arethusa|cruiser (1934)|5}} classes, still adhered to the constraints of the [[London Naval Treaty]].&lt;ref&gt;Brown (2009), p. 142&lt;/ref&gt;  ''Liverpool'' became one of the three Town-class cruisers—with {{HMS|Gloucester |62|2}} and {{HMS|Manchester|15|2}}—ordered to a slightly revised design referred to as the ''Gloucester'',&lt;ref name=&quot;Conway&quot; /&gt; ''Liverpool'', or Type II sub-class.&lt;ref name=&quot;class&quot; /&gt; The second group retained an almost identical configuration, differentiated only by a beam enlarged to {{convert|62.4|ft|m}} (compared to ''Southampton'''s beam of {{convert|61.8|ft|m}}),&lt;ref name=&quot;Conway&quot; /&gt; a redesigned bridge, and improved [[Fire-control system|fire control]] equipment.&lt;ref name=&quot;Town&quot;&gt;Fitzsimons (1969), pp. 2367–8&lt;/ref&gt; When first ordered in the mid-1930s, the original Town-class cruisers {{HMS|Newcastle|C76|2}} and {{HMS|Southampton|83|2}} were to have been called {{HMS|Minotaur||2}} and {{HMS|Polyphemus||2}} on commissioning.&lt;ref name=&quot;Name&quot;&gt;Bassett (1988), p. 7&lt;/ref&gt;&lt;ref&gt;In Bassett's book, it was speculated that the entire class would have conformed to a theme representative of Greek history and mythos had the Admiralty decided against renaming the two vessels&lt;/ref&gt;
+
+Ordered under the 1935 [[estimates]],&lt;ref name=&quot;Town&quot; /&gt; the [[keel]] of ''Liverpool'' was laid down at [[Govan]] on 17 February 1936 and launched on 24 March 1937 by [[Priscilla Reyntiens|Priscilla Norman]], wife of the [[Governor of the Bank of England]] [[Montagu Norman, 1st Baron Norman|Montagu Norman]].&lt;ref name=&quot;Spec&quot; /&gt;&lt;ref name=&quot;Hera&quot;&gt;&quot;Latest Cruiser Launched&quot;, ''The Glasgow Herald'': p. 12. 25 March 1937.&lt;/ref&gt; ''Liverpool'' became the first cruiser launched at the [[Fairfield Shipbuilding and Engineering Company|Fairfield]] shipyard since the {{sclass2-|County|cruiser|4}} {{HMS|Norfolk|78|2}}.&lt;ref name=&quot;Hera&quot; /&gt; After being commissioned into the navy on 2 November 1938,&lt;ref name=&quot;Spec&quot; /&gt; ''Liverpool'' was assigned to the [[East Indies Station]] under the command of Captain A.D. Read.&lt;ref name=&quot;Times&quot;&gt;&quot;A City’s Gift to Warship. H.M.S. Liverpool in the Mersey&quot;. ''The Times'' (48198): Col F, p. 15. 9 January 1939.&lt;/ref&gt; Before the deployment, the cruiser visited her namesake port in January 1939. The Liverpool Woman’s Service Bureau presented the cruiser with a [[Union flag]] and [[White Ensign]], while the city's [[Liverpool Corporation|Corporation]] gave the crew &quot;three pairs of candlesticks, a silver cup, and two bugles&quot;. ''Liverpool''{{'}}s crew had already received a silver bell and plate originally in the possession of [[HMS Liverpool (1909)|her predecessor]].&lt;ref name=&quot;Times&quot; /&gt;
+
+===East Indies and China stations (1939–1940)===
+Before arriving in the East Indies, ''Liverpool'' prepared for the deployment in the Mediterranean for two months and had engine defects corrected.&lt;ref&gt;&quot;H.M.S. Liverpool&quot;. ''The Times'' (48256): Col E, p. 10. 17 March 1939.&lt;/ref&gt; At the beginning of the [[Second World War]], ''Liverpool'' formed part of the 4th Cruiser Squadron, which she left in November to transfer to the 5th Cruiser Squadron, [[China Station]].&lt;ref&gt;Smith; Dominy (1981), p. 70&lt;/ref&gt;  While part of the station, the cruiser became involved in a diplomatic incident when she intercepted the [[Japan]]ese [[passenger liner]] ''[[Asama Maru]]'' on 21 January 1940.&lt;ref name=&quot;Haggie&quot;&gt;Haggie (1981), p. 169&lt;/ref&gt; Alerted to reports that German sailors in the [[United States]] had arranged transport to Germany, the British Government authorised the station's [[commander-in-chief]] to direct a warship to board ''Asama Maru'' and detain suspected passengers, provided the procedure did not occur within sight of the coast of Japan.&lt;ref&gt;Best (1995), p. 98&lt;/ref&gt; Just {{convert|35|mi|km}} east of [[Niijima]], off [[Honshū]], ''Liverpool'' located the liner and removed 21 of the ship's passengers, believed by the British to be survivors of the scuttled German liner {{SS|Columbus|1924|2}}.&lt;ref name=&quot;Asama&quot;&gt;Marder (1981). p. 106&lt;/ref&gt; ''Asama Maru'' had been late and had deviated from her expected course, necessitating an operation much closer to Japan's coast.&lt;ref name=&quot;Haggie&quot; /&gt;
+[[File:Asama-maru 1931.jpg|thumb|left|The Japanese liner ''Asama Maru'', c. 1931]]
+''Liverpool'' discharged a warning shot across ''Asama Maru''{{'}}s bows to compel the liner to halt, afterwards deploying 12 men to conduct the search.&lt;ref&gt;[http://www.time.com/time/magazine/article/0,9171,849178,00.html &quot;Homeseekers&quot;]. ''Time''. 29 January 1940. Retrieved 25 August 2010.&lt;/ref&gt; Four days after the incident, the [[Nippon Yusen Kaisha|NYK Line]] dismissed Captain Watanabe, under the pretense of retirement, accusing him of &quot;misconduct&quot;.&lt;ref&gt;AAP (1940), &quot;Asama Maru Incident: Captain Dismissed – &quot;misconduct&quot; Charge&quot;: p. 6. ''Sydney Morning Herald''. 25 January 1940.&lt;/ref&gt; The Government of Japan condemned the operation as an abuse of belligerent rights and formally protested the action, which further escalated tensions between the two countries.&lt;ref name=&quot;Asama&quot; /&gt; The Japanese and British governments sought to defuse the dispute through negotiation, and on 5 February, the two countries accepted a proposal which entailed the release of nine Germans in exchange for Japan pledging to deny military-age German citizens access to their vessels.&lt;ref name=&quot;Asama&quot; /&gt; In Australia's [[Australia in the War of 1939–1945|official history of the war]], it was said that the most senior of the nine Germans, Captain Groth, remarked during his passage to Japan aboard the [[armed merchant cruiser]] {{HMAS|Kanimbla|1936|2}} that the operation had been &quot;an excellent piece of work, and an action which would deter the remainder of the German crews still in the United States, approximately 1000 men, from making the passage&quot;.&lt;ref&gt;Gill (1957), p. 140&lt;/ref&gt;
+
+In April, ''Liverpool'' became the flagship of [[Rear-Admiral]] Arthur Murray's [[Red Sea Force]], which was formed with the Australian cruiser {{HMAS|Hobart|D63|6}}.&lt;ref name=&quot;NZ&quot;&gt;Waters (1956), p. 85&lt;/ref&gt; The Red Sea Force was intended to help execute naval strategy in the area by performing a variety of duties, such as patrols and blockade enforcement in the event of war with Italy.&lt;ref&gt;Gill (1957), pp. 133–4&lt;/ref&gt; While in the area, ''Liverpool'' escorted a convoy transporting contingents from the Australian military to [[Suez]].&lt;ref&gt;Rohwer; Hümmelchen (1992), p. 17&lt;/ref&gt; When ordered to the Mediterranean in June, ''Liverpool'' relinquished her status as flagship with the transfer of Admiral Murray to the New Zealand cruiser {{HMNZS|Leander}} at [[Port Sudan]]. To accommodate the admiral and his staff, ''Leander'' transferred three officers and seven [[Naval rating|ratings]] to ''Liverpool''.&lt;ref name=&quot;NZ&quot; /&gt;
+
+===First torpedoing (1940–1941)===
+[[File:HMS Liverpool NH 60379.jpg|thumb|HMS Liverpool in dry dock at [[Mare Island Naval Shipyard]], 26 June 1941.  The ship is fitted with a provisional false bow.]]
+''Liverpool'' formed part of the 7th Cruiser Squadron, becoming one of nine cruisers that could be fielded by the Mediterranean Fleet shortly after Fascist Italy entered the war.&lt;ref&gt;Gill (1957), p. 149&lt;/ref&gt; She first encountered Italian vessels off the coast of [[Libya]] on 12 June while shelling positions near [[Tobruk]] with ''Gloucester'' and four destroyers. The cruisers attacked five vessels, including the obsolete armoured cruiser {{ship|Italian cruiser|San Giorgio||2}}, and sank the minesweeper {{ship|Italian minesweeper|Giovanni Berta||2}}.&lt;ref&gt;Rohwer; Hümmelchen (1992), p. 24&lt;/ref&gt; On 28 June, a British [[Short Sunderland]] patrol aircraft detected three Italian [[destroyer]]s west of [[Zante]].&lt;ref name=&quot;Espero&quot;&gt;Titterton (2002), pp. 22–4&lt;/ref&gt; The 7th Cruiser Squadron was at sea in support of convoy Operation MA.3 when it altered course to engage the destroyers. ''Liverpool'' sighted them {{convert|60|mi|km}} south-west of [[Cape Matapan]] at 18:30 and opened fire three minutes later.&lt;ref name=&quot;Espero&quot; /&gt; The ensuing action, carried out at a minimum range of about {{convert|14000|yd|mi}}, resulted in the [[Battle of the Espero Convoy|destruction of the Italian ''Espero'']]&lt;ref name=&quot;Espero&quot; /&gt; The two surviving destroyers reached [[Benghazi]] with their supplies.&lt;ref&gt;Rohwer; Hümmelchen (1992), p. 26&lt;/ref&gt; ''Liverpool'' took light damage in the engagement. Ammunition had been rapidly depleted by the cruiser squadron. By the close of the action, ''Liverpool''{{'}}s crew had almost expended the contents of her shellrooms, reporting that each gun had 40 shells remaining.&lt;ref name=&quot;Espero&quot; /&gt;&lt;ref name=&quot;Stevens&quot;&gt;Stevens (2005), p. 68&lt;/ref&gt; The [[Admiralty]] criticised the squadron's expenditure of some 5,000 {{convert|6|in|mm|adj=on}} rounds, which Admiral [[Andrew Cunningham, 1st Viscount Cunningham of Hyndhope|Andrew Cunningham]], commander-in-chief of the Mediterranean Fleet, attributed to its inexperience and his insistence on confronting the Italian warships before nightfall.&lt;ref name=&quot;Espero&quot; /&gt;&lt;ref name=&quot;Stevens&quot; /&gt; Nevertheless, the use of such a large volume of shells caused the cancellation of MA.3, which had encompassed two convoys from the [[Siege of Malta (World War II)|besieged island]] of [[Malta]].&lt;ref name=&quot;Espero&quot; /&gt;
+
+The Mediterranean Fleet followed MA.3 with Operation MA.5 in early July. During the course of the deployment, Admiral Cunningham received reports of a large formation of Italian warships and changed course towards [[Taranto]] to intercept.&lt;ref&gt;Gill (1957), pp. 172–4&lt;/ref&gt; On 9 July, the fleets encountered each other off [[Calabria]], in the [[Battle of Calabria|first major battle]] between the Allied and Italian navies in the Mediterranean theatre.&lt;ref&gt;Clark (2001), p. 172&lt;/ref&gt; ''Liverpool'' and fellow cruiser {{HMS|Neptune|20|2}} commenced firing at 15:22, eight minutes after Italian cruisers started their barrage at a range of {{convert|23600|yd|mi}}. After a continuous exchange of fire, the [[battleship]] {{HMS|Warspite|03|2}} struck the {{ship|Italian battleship|Giulio Cesare||6}} at 16:00, inducing the Italian fleet to disengage from the battle.&lt;ref&gt;Titterton (2002), pp. 42–3&lt;/ref&gt; Italian aircraft attacked ''Liverpool'' with bombs on 12 July while she was returning to [[Alexandria, Egypt]], causing fatalities and wounding three, including the cruiser's commander.&lt;ref&gt;Coulter (1954), p. 331&lt;/ref&gt; Later in July, ''Liverpool'' escorted convoy AN.2 from Egypt on its way to Greek ports in the [[Aegean Sea|Aegean]] and the southward-convoy AS.2 from the Aegean. The latter convoy came under substantial attack by Italian aircraft on the 29th; ''Liverpool'' was the only vessel hit when an unexploded bomb penetrated two decks,&lt;ref&gt;Gill (1957), pp. 197–8&lt;/ref&gt; killing a rating.&lt;ref&gt;Titterton (2002), p. 51&lt;/ref&gt;  The casualty was Stoker First Class Patrick Leslie Harney, aged 32, from Stalybridge, Cheshire.&lt;ref&gt;{{Cite web|url = http://yard.ccta.gov.uk/cwgc/register.nsf/|title = Commonwealth War Graves Commission|date = 4 Sep 2000|accessdate = |website = |publisher = |last = |first = }}&lt;/ref&gt;
+
+When the Mediterranean Light Forces restructured in August, ''Liverpool'' was switched to the 3rd Cruiser Squadron, grouped with ''Gloucester'' and {{HMS|Kent|54|2}} under the command of Rear-Admiral Edward de Faye Renouf.&lt;ref&gt;Titterton (2002), p. 62&lt;/ref&gt; On 28 September, as part of Operation MB.5, ''Liverpool'' and ''Gloucester'' proceeded to Malta, transporting reinforcements, airmen, and [[Royal Air Force|RAF]] provisions.&lt;ref name=&quot;Malta&quot;&gt;Titterton (2002), p. 70&lt;/ref&gt; The cruisers—briefly protected by a force consisting of the battleships {{HMS|Valiant|1914|2}} and ''Warspite'', [[aircraft carrier]] {{HMS|Illustrious|R87|2}} with her aircraft, cruisers {{HMS|Orion|85|2}}, {{HMS|York|90|2}} and the Australian {{HMAS|Sydney|D48|6}}, and 11 destroyers—came under repeated aerial attack.&lt;ref name=&quot;Malta&quot; /&gt;  Both cruisers later detached from the naval force and reached the island on the 30th.&lt;ref&gt;Rohwer; Hümmelchen (1992), p. 37&lt;/ref&gt;
+[[File:SM 79 attacking Malta convoy MIWM FLM 003795.jpg|thumb|right|A [[Savoia-Marchetti SM.79]] attacking an unidentified Malta convoy. ''Liverpool'' was torpedoed twice by this type of plane.]]
+The fleet again put to sea on 8 October with the intention of supporting Malta convoy MF.3 and the Alexandria-bound convoy MF.4, while seeking to engineer an encounter with the main assets of the Italian Navy. Although Admiral Cunningham did not realise his latter objective, which was limited to an engagement with Italian destroyers, the convoys reached their respective destinations.&lt;ref name=&quot;Leros&quot;&gt;Titterton (2002), pp. 74–6&lt;/ref&gt; ''Illustrious'' then conducted aerial operations against Italian installations on the island of [[Leros]]. While ''Liverpool'' and other escorts were returning from the sortie on 14 October,&lt;ref name=&quot;Leros&quot; /&gt; Italian torpedo-bombers attacked the cruiser, inflicting considerable damage to the forward section and causing fuel to be released from the aviation tank.&lt;ref name=&quot;Town&quot; /&gt; According to Captain Read, despite the petrol being surrounded with 70 tons of water in accordance with regulation, the fuel reached the mess decks and became exposed to an electrical short circuit.&lt;ref name=&quot;Read&quot;&gt;Read (1949), p. 100&lt;/ref&gt; The subsequent explosion, at 19:20,&lt;ref name=&quot;MidHayes&quot;&gt;{{cite web |url=http://www.noac-national.ca/article/hayes/returntoalexandria_bywphayes.html|title=The Journal of Midshipman W. P. Hayes, RCN |first=W.P. |last=Hayes|author= |authorlink= |coauthors= |date= |month= |year= |work=Naval Officers' Association of Canada |archiveurl=https://web.archive.org/web/20120224025032/http://www.noac-national.ca/article/hayes/returntoalexandria_bywphayes.html|archivedate=24 February 2012|accessdate=10 September 2015}}&lt;/ref&gt; seriously compromised ''Liverpool''{{'}}s bow structure,&lt;ref name=&quot;Town&quot; /&gt; enveloped the [[forecastle]] in flames, and blew up the vacated &quot;A&quot; turret.&lt;ref name=&quot;Read&quot; /&gt;&lt;ref name=&quot;MidHayes&quot; /&gt;
+
+''Liverpool''{{'}}s crew prepared the cruiser's [[Carley float]]s and other small craft while warships, including ''Gloucester'', began to arrive at the scene.&lt;ref name=&quot;MidHayes&quot; /&gt; ''Orion'', screened by the anti-aircraft cruisers {{HMS|Calcutta|D82|2}} and {{HMS|Coventry|D43|2}}, took her in tow at the [[stern]].&lt;ref&gt;Smith; Dominy (1981), p. 188&lt;/ref&gt; While being towed on 15 October, ''Liverpool''{{'}}s bow separated from the hull. Later in the day, 12 of the cruiser's sailors (including one unidentifiable at the time) were [[buried at sea]]. Three more died in the night and were buried before the two cruisers reached the port of Alexandria on 16 October.&lt;ref name=&quot;MidHayes&quot; /&gt; ''Liverpool''{{'}}s losses in the attack had amounted to 3 officers and 27 crewmen killed and 35 crewmen wounded.&lt;ref&gt;&quot;Naval Casualties&quot;. ''Canberra Times'': p. 1. 5 November 1940.&lt;/ref&gt; Her captain transferred in late October to the battleship {{HMS|Ramillies|07|2}};&lt;ref name=&quot;Read&quot; /&gt; his successor being Commander Welby.&lt;ref name=&quot;MidHayes&quot; /&gt; According to the journal of Midshipman [[William Prine Hayes|William Hayes]], ''Liverpool'', like nearby warships, had been forewarned of an imminent attack via [[Radar|radio direction finder]] (RDF), but the inexperienced rating on watch at his post did not report this to his superiors because of apparent confusion.&lt;ref name=&quot;MidHayes&quot; /&gt;
+
+As part of the ship's interim repairs, ''Liverpool'' had a provisional false [[Bow (ship)|bow]] constructed and fitted. Once able to embark on a prolonged voyage, ''Liverpool'' steamed to the United States to have her bow reconstructed at [[Mare Island Naval Shipyard]] in [[Vallejo, California]].&lt;ref&gt;&quot;Biographical Sketches: No. 312 - Vice-Admiral Arthur Duncan Read, C.B., R.N. (Retd.)&quot;. ''The Shipbuilder and Marine Engine-Builder'': p. 503. October 1946.&lt;/ref&gt;  The ship's presence would not be disclosed until September when the US [[United States Department of the Navy|Navy Department]] released a list identifying 12 ships situated in various ports.&lt;ref&gt;&quot;H.M. Ships In U.S. Ports&quot;. ''The Times'' (49036): Col F, p. 4. 20 September 1941.&lt;/ref&gt; At the shipyard, ''Liverpool'' had her anti-aircraft armament increased with the addition of nine single [[Oerlikon 20 mm cannon|20 mm Oerlikon]] cannons. She departed in November for Britain, principally to have upgraded radar systems installed.&lt;ref name=&quot;Spec&quot; /&gt;
+
+===Second torpedoing (1942–1945)===
+After returning to active service, ''Liverpool'' became subordinate to the 18th Cruiser Squadron at [[Scapa Flow]] and deployed in support of the [[Arctic convoys of World War II|Arctic convoys]].&lt;ref name=&quot;Arctic&quot;&gt;Whitley (2000), p. 109&lt;/ref&gt; The conditions that Allied ships endured during the convoys proved extreme, with freezing weather, snowstorms, and frequent attacks by the [[Luftwaffe]] and Germany Navy.&lt;ref&gt;Hill; Ranft (2002), p. 365&lt;/ref&gt; ''Liverpool'' arrived in the Arctic as a replacement for the damaged cruiser {{HMS|Trinidad|46|2}}. She joined [[Convoy QP 10]], comprising 16 merchant vessels and five destroyers, on 12 April as an escort on its journey from the Russian [[Kola Peninsula]] to [[Iceland]].&lt;ref&gt;Edwards (2002), p. 82&lt;/ref&gt; The convoy came under repeated attack from [[U-boat]]s and aircraft for three days.&lt;ref name=&quot;PQ&quot;&gt;Tovey (1950), pp. 5142–4&lt;/ref&gt; Four vessels were sunk (two of which sank on 11 April)&lt;ref&gt;Hague (2000), p. 190&lt;/ref&gt; and one was damaged;&lt;ref name=&quot;PQ&quot; /&gt; QP 10 arrived at [[Reykjavík]] on the 21st.&lt;ref&gt;Edwards (2002), p. 94&lt;/ref&gt;
+[[File:Arctic Convoy, May 1942 A 009172.jpg|thumb|left|A convoy of vessels at the Allied naval base of [[Hvalfjörður]], Iceland, viewed from the aircraft carrier {{HMS|Victorious|R38|2}}, May 1942]]
+In mid-May, ''Liverpool'' joined a group of warships that was to have escorted ''Trinidad'' on her return journey to Britain. After temporary repairs in Russia, ''Trinidad'' got underway on 13 May.&lt;ref name=&quot;Arcticb&quot;&gt;Rohwer; Hümmelchen (1992), pp. 140–1&lt;/ref&gt; The group that included ''Liverpool'' positioned itself west of [[Bear Island (Norway)|Bear Island]], in the [[Barents Sea]], to rendezvous with the cruiser. On 14 May, ''Trinidad'' came under repeated attack and was set ablaze by [[Gravity bomb|bombs]]. The British had to evacuate and sink her the following day when the fire became uncontrollable.&lt;ref name=&quot;Arcticb&quot; /&gt; ''Liverpool'' and the rest of Rear-Admiral Burrough's group came under attack themselves on the return journey.&lt;ref name=&quot;PQ&quot; /&gt; On 25 May, ''Liverpool'' began escorting [[Convoy PQ 16|PQ 16]],&lt;ref name=&quot;Arcticb&quot; /&gt; a convoy of 35 merchant vessels bound for [[Murmansk]], the largest convoy yet undertaken in support of the [[Soviet Union]].&lt;ref name=&quot;PQ&quot; /&gt; PQ 16 had considerable protection, including the light and heavy cruisers {{HMS|Nigeria|60|2}}, ''Kent'', and ''Norfolk'', and numerous destroyers and submarines, with distant cover provided by the [[Home Fleet]].&lt;ref name=&quot;Arcticb&quot; /&gt; Inevitably, the convoy came under attack, beginning with a sortie on 25 May that damaged the freighter SS ''Carlton''.&lt;ref name=&quot;PQ&quot; /&gt; Sustained attacks from U-boats and at least 242 German aircraft yielded a total of seven vessels sunk on the 26–27 May.&lt;ref name=&quot;PQ&quot; /&gt; The cruiser escort switched to the returning convoy QP 12 on 26 May.&lt;ref&gt;Kemp (2004), p. 57&lt;/ref&gt;
+
+''Liverpool'' returned to the Mediterranean in June to participate in [[Operation Harpoon (1942)|Operation Harpoon]], part of the [[Malta Convoys]].&lt;ref name=&quot;Arctic&quot; /&gt; While assigned to Force W covering convoy WS.19 on 14 June,&lt;ref&gt;Rohwer; Hümmelchen (1992), p. 145&lt;/ref&gt; ''Liverpool'' and the convoy came under attack by at least 38 Axis aircraft. They crippled ''Liverpool'' and sunk the Dutch freighter ''Tanimbar'',&lt;ref&gt;Bunker (2006), p. 205&lt;/ref&gt; ultimately depriving the convoy of a close cruiser escort as {{HMS|Kenya|14|2}} and {{HMS|Charybdis|88|2}} were covering Force W's aircraft carriers when Italian ships attacked the surviving merchantmen and destroyers.&lt;ref&gt;Roskill (1954), pp. 65–6&lt;/ref&gt; The torpedo that impacted ''Liverpool''{{'}}s starboard side hit the engine room, partially flooding the cruiser and disabling her machinery and steering gear.&lt;ref name=&quot;Town&quot; /&gt; Reduced to a speed of {{convert|4|kn|km/h}},&lt;ref&gt;Connell (1979), p. 241&lt;/ref&gt; ''Liverpool'' had to be taken under tow by the destroyer {{HMS|Antelope|H36|2}}. For the rest of the day, Italian aircraft focused on ''Liverpool''  rather than the convoy.&lt;ref&gt;Smith (2002), p. 28&lt;/ref&gt; Before arriving at [[Gibraltar]] on 17 June, the group came under further air attack and ''Liverpool'' incurred additional damage due to near misses.&lt;ref name=&quot;Town&quot; /&gt; For ''Liverpool'', casualties from the original attack were recorded in the ship's log as 15 killed and 22 wounded.&lt;ref name=&quot;Log&quot;&gt;[http://www.lancs.ac.uk/people/ecagrs/shiplog.htm Notes taken from Liverpool’s Log], lancs.ac.uk. Retrieved 12 April 2008.&lt;/ref&gt; The fatalities from the torpedoing had remained in the engine room and been affected by heat exposure, requiring the distribution of an additional [[grog|tot]] of rum to the volunteer retrieval party.&lt;ref&gt;Moses (2006), p. 70&lt;/ref&gt;
+[[File:HMS Liverpool A 020161.jpg|thumb|right|''Liverpool'' (background) in [[drydock]] at Rosyth in 1943 alongside {{HMS|Berwick|65|2}} (foreground)]]
+[[File:HMS-Liverpool-45.jpg|alt=HMS Liverpool at Valletta harbour in 1945.|thumb|HMS Liverpool at Valletta harbour in 1945.]]
+''Liverpool'' received temporary repairs at Gibraltar and returned to Britain in August.&lt;ref name=&quot;Arctic&quot; /&gt; Although repairs at [[Rosyth]] were completed by July 1943, sufficient personnel would not be assigned to ''Liverpool'' until late 1945.&lt;ref name=&quot;Town&quot; /&gt; At Rosyth, ''Liverpool'' underwent an extended period of refitting and maintenance.&lt;ref name=&quot;Arctic&quot; /&gt; The refit upgraded ''Liverpool''{{'}}s radar equipment,&lt;ref name=&quot;Spec&quot; /&gt; removed &quot;X&quot; turret and the aircraft catapult, and enlarged the cruiser's defensive armament (which included an increase to 28 [[QF 2 pounder naval gun|pom-poms]], in six quadruple and four single mounts, seven [[Bofors 40 mm]] guns in single mounts, and the addition of five 20&amp;nbsp;mm Oerlikon cannons).&lt;ref name=&quot;Conway&quot; /&gt;
+
+===Post-Second World War (1945–1958)===
+''Liverpool'' returned to service in October 1945 to join the 15th Cruiser Squadron of the Mediterranean Fleet, in which she served mostly as a flagship.&lt;ref name=&quot;Arctic&quot; /&gt; In October 1946, ''Liverpool''{{'}}s visit to Greece was interrupted by the [[Corfu Channel Incident|Corfu Channel mining]] of the destroyers {{HMS|Saumarez|G12|2}} and {{HMS|Volage|R41|2}}. With Admiral [[Algernon Willis]] embarked, ''Liverpool'' steamed to [[Corfu]] in response,&lt;ref&gt;Leggett (1974), p. 67&lt;/ref&gt; and briefly received the wounded captain of ''Saumarez'' at Corfu Bay.&lt;ref&gt;Leggett (1974), p. 98&lt;/ref&gt; In April 1948, the cruiser transported [[Olympic flame|Olympic torches]] and related items in preparation for the ceremonial prelude to the [[1948 Summer Olympics|Summer Olympic Games]] in London.&lt;ref&gt;[http://olympic-museum.de/torches/torch1948.htm Olympic Games Torch-Relay], olympic-museum.de. Retrieved 7 April 2008.&lt;/ref&gt;
+
+[[File:HMS Liverpool 1952 A 32079.jpg|thumb|left|Admiral [[Rhoderick McGrigor]], [[First Sea Lord]], being piped on board ''Liverpool'' at [[Valleta]], [[Malta]] in 1952. The cruiser was serving as the [[flagship]] of the Mediterranean Fleet.]]
+While docked in the harbour of Alexandria on 22 January 1950, ''Liverpool'' entertained [[Farouk of Egypt|King Farouk]]. Given a [[21-gun salute]] by the cruiser, Farouk met Vice-Admiral [[Louis Mountbatten, 1st Earl Mountbatten of Burma|Louis Mountbatten]] and the Ambassador to Egypt and later expressed his &quot;pleasure at the visit and at renewing my acquaintance with the Royal Navy.&quot;&lt;ref&gt;&quot;Royal Navy entertains King Farouk&quot;. ''The Times'' (51596): Col D, p. 3. 23 January 1950.&lt;/ref&gt; In September 1951, ''Liverpool'', as flagship of Admiral [[John Edelsten]], became the first British warship to visit [[Socialist Federal Republic of Yugoslavia|Yugoslavia]] post-war and was inspected by the country's leader [[Josip Broz Tito|Marshal Tito]] in the city of [[Split (city)|Split]].&lt;ref&gt;&quot;Marshal Tito Visits British Ship&quot;. ''The Times'' (52104): Col E, p. 4. 12 September 1951&lt;/ref&gt; It had been the Royal Navy's first official visit to the country in 12 years.&lt;ref&gt;&quot;Mediterranean C.-in-C. To Visit Yugoslavia&quot;. ''The Times'' (52097): Col D, P. 4. 4 September 1951.&lt;/ref&gt;
+
+Following the abrogation of the [[Anglo-Egyptian Treaty of 1936|Anglo-Egyptian Treaty]] in October 1951, the Royal Navy dispatched vessels to [[Port Said]] after dock workers declared a strike protesting the British administration of the [[Suez Canal Zone]]. The cruisers {{HMS|Gambia|48|2}} and ''Liverpool'' consecutively assumed responsibility for dock operations, supplying men to replace unavailable workers and guard against guerrilla attacks on facilities.&lt;ref&gt;Wettern (1982), p. 59&lt;/ref&gt; In January, Egyptian media accused ''Liverpool'' of firing her guns into the port during an engagement with guerrillas, which the British military vehemently denied and attributed to misidentification.&lt;ref&gt;Staff Correspondent &amp; AAP (1952). &quot;British Troops in Clash With Terrorists at Port&quot;. ''Sydney Morning Herald'': p. 2. 20 January 1952&lt;/ref&gt;
+
+Upon decommission in 1952, ''Liverpool'' entered the reserve at [[Portsmouth Naval Dockyard]].&lt;ref name=&quot;Morris&quot; /&gt; ''Liverpool'' became an [[accommodation ship]] at Portmouth and was used by  the &quot;Senior Officer, [[Reserve Fleet (United Kingdom)|Reserve Fleet]]&quot; and his staff.&lt;ref&gt;&quot;Reserve Fleet Changes&quot;. ''The Times'' (53697): Col F, p. 8. 24 November 1956.&lt;/ref&gt; Comprehensive plans were drawn up for the modernisation of HMS Liverpool. The Town class cruisers were assessed as suitable for mounting three of the new twin Mk 26 twin 6 inch guns,&lt;ref&gt;Hall. Tiger class. Ships Monthly.July 2015&lt;/ref&gt; while the smaller Fiji and Minotaur class cruisers could accommodate only two.  HMS Belfast and HMS Liverpool as the two largest Town class cruisers were considered priorities for modernisation in the early 1950s &lt;ref&gt;N.Freidman. British Cruisers WW2 &amp; After. Seaforth.(2012)Barnsley&lt;/ref&gt; and with the  Minotaur class class cruisers, HMS Superb and HMS Swiftsure were the only wartime legacy cruisers for which a full ships cover was drawn, for modernisation with post war weapons systems. However the gradual rationalisation of the Royal Navy began in earnest in the 1950s under [[Duncan Sandys]]' [[1957 Defence White Paper]] and the reserve of at least 551 ships was abolished.&lt;ref&gt;Preston (1987), p. 221&lt;/ref&gt; With the complete withdrawal from service of wartime cruisers by the 1960s, the roles of ''Liverpool'' and her contemporaries effectively became superseded by the {{sclass2-|County|destroyer|0}} [[guided missile destroyer]]s and the three missile cruisers of the {{sclass-|Tiger|cruiser|4}}.&lt;ref&gt;O'Brien (2001), p. 189&lt;/ref&gt; ''Liverpool'' was sold in 1958 for [[Ship breaking|breaking up]] at [[Bo'Ness]], Scotland;&lt;ref name=&quot;Colledge&quot; /&gt; more than 12 months elapsed before the vessel had been completely dismantled.&lt;ref&gt;Crowdy, M. (1965). &quot;Marine News&quot;. World Ship Society: p. 288&lt;/ref&gt;
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*Basset, Ronald (1988). ''HMS Sheffield: The Life and Times of &quot;Old Shiny&quot;''. Annapolis, MD: Naval Institute Press. ISBN 0-87021-434-9.
+*Best, Anthony (1995). ''Britain, Japan and Pearl Harbor: Avoiding War in East Asia, 1936–41''. London: Routledge. ISBN 0-415-11171-4.
+*Bishop, Chris (2002). ''The Encyclopedia of Weapons of World War II''. New York: Sterling Publishing. ISBN 1-58663-762-2.
+*Brown, Paul (2009). ''Britain's Historic Ships: The Ships That Shaped a Nation''. London: Anova Books. ISBN 1-84486-093-0.
+*Bunker, John (2006), ''Heroes in Dungarees: The Story of the American Merchant Marine in World War II''. Annapolis, MD: Naval Institute Press. ISBN 1-59114-099-4.
+*Clark, Chris (2001). ''The Encyclopaedia of Australia's Battles''. St Leonards, NSW: Allen &amp; Unwin. ISBN 1-86508-634-7.
+*Colledge, J.J.; Warlow, Ben [1970] (2010). ''Ships of the Royal Navy: The Complete Record of All Fighting Ships of the Royal Navy''. London: Casemate. ISBN 1-935149-07-5.
+*Connell, G.G. (1979). ''Valiant Quartet: His Majesty's Anti-Aircraft Cruisers Curlew, Cairo, Calcutta, and Coventry''. London: William Kimber. ISBN 0-7183-0426-8.
+*Coulter, J.L.S. (1954). ''The Royal Naval Medical Service'', Volume II: Operations, History of the Second World War. London: HMSO. [http://www.worldcat.org OCLC 59027794].
+*Edwards, Bernard (2002). ''The Road to Russia: Arctic Convoys 1942''. Annapolis, MD. Naval Institute Press. ISBN 1-59114-732-8
+*Fitzsimons, Bernard (1969), ''The Illustrated Encyclopaedia of 20th Century Weapons and Warfare'', Volume 22. New York: Columbia House. [http://www.worldcat.org OCLC 177305886].
+*Gardiner, Robert; Chesneau, Roger; Budzbon, Przemysław (1980). ''Conway's All the World's Fighting Ships, 1922–1946''. London: Conway Maritime Press. ISBN 0-85177-146-7.
+*George, James L. (1998). ''History of Warships: From Ancient Times to the Twenty-First Century'', Annapolis, MD: Naval Institute Press. ISBN 1-55750-312-5.
+*Gill, G. Hermon (1957). [http://www.awm.gov.au/histories/second_world_war/volume.asp?levelID=67910 ''Royal Australian Navy, 1939–1942'', Volume I]. Australia in the War of 1939–1945. Canberra: Australian War Memorial; reprinted electronically by the Australian War Memorial, awm.gov.au. Retrieved 14 September 2010. [http://www.worldcat.org OCLC 848228].
+*Haggie, Paul (1981). ''Britannia at Bay: The Defence of the British Empire Against Japan, 1931–1941''. Oxford: Clarendon Press. ISBN 0-19-822641-1.
+*Hague, Arnold (2000). ''The Allied Convoy System 1939–1945: its Organization, Defence and Operation''. Ontario: Vanwell Publishing. ISBN 1-55125-033-0.
+*Hill, J. R.; Ranft, Bryan (2002). ''The Oxford Illustrated History of the Royal Navy''. London: Oxford University Press. ISBN 0-19-860527-7.
+*Kemp, Paul (2004). ''Convoy: Drama in Arctic Waters''. Edison, NJ: Castle Books. ISBN 0-7858-1603-8.
+*Leggett, Eric (1974). ''The Corfu Incident''. London: Seeley. ISBN 0-85422-075-5.
+*Marder, Arthur Jacob. (1981). ''Old Friends, New Enemies: The Royal Navy and the Imperial Japanese Navy''. London: Oxford University Press. ISBN 0-19-822604-7.
+*Morris, Douglas (1987). ''Cruisers of the Royal and Commonwealth Navies''. Cornwall: Maritime Books. ISBN 0-907771-35-1.
+*Moses, Sam (2006). ''At All Costs: How a Crippled Ship and Two American Merchant Mariners Turned the Tide of World War II''. New York: Random House Trade. ISBN 0-345-47674-3.
+*O'Brien, Phillips Payson (2001). ''Technology and Naval Combat in the 20th Century and Beyond''. London: Routledge. ISBN 0-7146-5125-7.
+*Preston, Antony (1987). ''History of the Royal Navy in the 20th Century''. Novato, CA: Presidio Press. ISBN 0-86124-364-1.
+*Read, A.D. (1949). ''Transactions of the Royal Institution of Naval Architects''. London: Royal Institution of Naval Architects.
+*Rohwer, Jürgen; Hümmelchen, Gerhard (1992). ''Chronology of the War at Sea 1939–1945: The Naval History of World War Two''. Annapolis: Naval Institute Press. ISBN 1-55750-105-X.
+*Roskill, Stephen Wentworth (1954). [http://www.ibiblio.org/hyperwar/UN/UK/UK-RN-II/UK-RN-II-2.html ''The War at Sea, 1939–1945], Volume II: The Period of Balance, History of the Second World War. London: HMSO; reprinted electronically by ibiblio, ibiblio.org. Retrieved 20 September 2010. [http://www.worldcat.org OCLC 603469054].
+*Smith, Peter C. (2002). ''Pedestal''. Manchester: Crécy Publishing. ISBN 0-907579-19-1.
+*Smith, Peter Charles; Dominy, John (1981). ''Cruisers in Action, 1939–1945''. London: William Kimber. ISBN 0-7183-0218-4.
+*Stevens, David (2005). ''The Royal Australian Navy in World War II''. St. Leonards, NSW: Allen &amp; Unwin. ISBN 1-74114-184-2.
+*Titterton, G.A. [1952] (2002), ''The Royal Navy and the Mediterranean'', Volume I. Naval Staff Histories. London: Routledge. ISBN 0-7146-5179-6.
+*Tovey, John C. (1950). [http://www.london-gazette.co.uk/issues/39041/supplements/5139. ''Convoys to North Russia, 1942''], Supplement to the London Gazette (39041). London: Her Majesty's Stationery Office. Retrieved 14 September 2010.
+*Waters, Sydney David [1956] (2004), ''[http://www.nzetc.org/tm/scholarly/tei-WH2Navy-c6.html The Royal New Zealand Navy]'', Official History of New Zealand in the Second World War 1939–45. Wellington, New Zealand: War History Branch, Department of Internal Affairs; reprinted electronically Official War History project, Wellington, New Zealand: New Zealand Electronic Text Centre, nzetc.org. Retrieved 8 September 2010. [http://www.worldcat.org OCLC 11085179].
+*Wettern, Desmond (1982). ''The Decline of British Seapower''. London: Jane's. ISBN 0-7106-0043-7.
+*Whitley, M. J. (2000). ''Cruisers of World War Two: An International Encyclopedia''. London: Caxton Editions ISBN 1-86019-874-0.
+
+==External links==
+*Mason, Geoffrey B. (2004), [http://www.naval-history.net/xGM-Chrono-06CL-Liverpool.htm Service History of Royal Navy warships in World War 2: HMS Liverpool – Town-type Light Cruiser], naval-history.net. Retrieved 31 March 2008.
+*[http://www.royal-navy.mod.uk/server/show/nav.1677 HMS Liverpool: History], royal-navy.mod.uk. Retrieved 3 April 2008.
+*[http://www.britishpathe.com/record.php?id=10601 Newsreel of HMS Liverpool docked at Mare Island, California], Pathe, britishpathe.com. Retrieved 24 August 2010.
+*[http://www.britishpathe.com/record.php?id=22789 Newsreel of HMS Liverpool in Liverpool], Pathe, britishpathe.com. Retrieved 24 August 2010.
+*[http://www.britishpathe.com/record.php?id=33537 Newsreel of HMS Liverpool participating in British-French naval exercise], Pathe, britishpathe.com. Retrieved 24 August 2010.
+*[http://www.britishpathe.com/record.php?id=22541 Newsreel of Operation Harpoon and Operation Vigorous], Pathe, britishpathe.com. Retrieved 25 August 2010.
+
+{{Commons category|HMS Liverpool (C11)}}
+{{Town class cruiser 1936}}
+{{October 1941 shipwrecks}}
+{{June 1942 shipwrecks}}
+
+{{DEFAULTSORT:Liverpool (C11)}}
+[[Category:Town-class cruisers (1936)]]
+[[Category:Govan-built ships]]
+[[Category:1937 ships]]
+[[Category:World War II cruisers of the United Kingdom]]
+[[Category:Cold War cruisers of the United Kingdom]]
+[[Category:Maritime incidents in October 1941]]
+[[Category:Maritime incidents in June 1942]]</text>
+      <sha1>bpquu1d7lsiaf2klcyq6koozlaej1fz</sha1>
+    </revision>
+  </page>
+</mediawiki>

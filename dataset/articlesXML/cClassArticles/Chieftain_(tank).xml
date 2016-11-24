@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Chieftain (tank)</title>
+    <ns>0</ns>
+    <id>1109862</id>
+    <revision>
+      <id>749446526</id>
+      <parentid>749446448</parentid>
+      <timestamp>2016-11-14T11:11:03Z</timestamp>
+      <contributor>
+        <ip>81.104.163.66</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29093">{{Use dmy dates|date=July 2013}}
+{{Infobox Weapon
+|is_vehicle=yes
+|is_UK=yes
+|name=Chieftain (FV4201)
+|type=[[Main battle tank]]
+|origin=United Kingdom
+|image=[[File:Chieftain Tank (9628802829).jpg|300px]]
+|caption=A Chieftain Mark 11 at the [[Bovington Tank Museum]] (2013)&lt;!-- Service history --&gt;
+|service=1966–present
+|used_by=UK, [[Iran]], [[Iraq]], [[Jordan]], [[Kuwait]], [[Oman]]
+|wars=[[Iran–Iraq War]], [[Gulf War]]
+&lt;!-- Production history --&gt;
+|designer=
+|design_date=
+|manufacturer=[[Leyland Motors]]
+|unit_cost= £90,000-£100,000 (March 1967)&lt;ref&gt;{{cite web|last1=Reynolds|first1=Gerald|title=Defence (Army) Estimates 1967-68|url=http://hansard.millbanksystems.com/commons/1967/mar/06/defence-army-estimates-1967-68-vote-a#S5CV0742P0_19670306_HOC_566|website=millbanksystems|publisher=millbanksystems|accessdate=21 May 2016}}&lt;/ref&gt;
+|production_date=
+|number=
+|variants=
+|length={{convert|35|ft|4|in|m|abbr=on}} – gun forward&lt;ref name=Norman19 /&gt;&lt;br /&gt;{{convert|7.5|m|ftin|abbr=on}} – hull
+|width={{convert|12|ft|0|in|m|abbr=on}}&lt;ref name=Norman19 /&gt;
+|height={{convert|2.9|m|ftin|abbr=on}}
+|weight={{convert|55|LT|ST t|lk=on}}
+|suspension=[[Horstmann suspension|Horstmann: Horizontal Coil Spring Suspension Bogies]]
+|transmission=TN 12&lt;ref name=Norman19 /&gt;
+|speed=Road: {{convert|48|km/h|mph|abbr=on}} &lt;br /&gt;Off road: {{convert|30|km/h|mph|abbr=on}}
+|vehicle_range={{convert|500|km|mi|abbr=in}} on roads
+|primary_armament=[[Royal Ordnance L11A5|L11A5 120&amp;nbsp;mm rifled gun]]
+|secondary_armament=2 × [[FN MAG|L7 Machine Gun]]
+|armour=[[Glacis#Armored vehicles|Glacis]]: {{convert|120|mm|in|abbr=on}} (72°)&lt;ref name=ogork128-129 /&gt;&lt;br /&gt;Hull sides: {{convert|38|mm|in|abbr=on}} (10°) &lt;br /&gt;Turret: {{convert|195|mm|in|abbr=on}} (60°)&lt;ref name=ogork128-129 /&gt;
+|engine=[[Leyland L60]] (multifuel [[Two-stroke engine|2-stroke]] [[Opposed-piston engine|opposed-piston]] [[Diesel engine|compression-ignition]])
+|engine_power={{convert|750|hp|abbr=on}} 6 Cyl, 19 litres.
+|fuel_capacity={{convert|195|impgal|l|USgal|abbr=on}}&lt;ref name=Norman19 /&gt;
+|pw_ratio={{convert|11.1|hp|abbr=on}}/ton (at sprocket)&lt;ref name=Norman19&gt;For Mark 2 according to Norman, ''AFV Profile No. 19''&lt;/ref&gt;
+|crew=4
+|clearance={{convert|1|ft|10|in|m|abbr=on}})&lt;ref name=Norman19 /&gt;
+}}
+The [[List of FV series military vehicles|FV]]4201 '''Chieftain''' was the [[main battle tank]] of the United Kingdom during the 1960s, 1970s and 1980s. It was the &quot;most formidable main battle tank in the world&quot; at the time of its introduction in 1966 with the most powerful main gun and most effective armour of any tank yet made.&lt;ref&gt;Richard M. Ogorkiewicz, ''Jane's – The Technology of Tanks'', Jane's Information Group, p.69&lt;/ref&gt;{{Failed verification|date=September 2015}}. This was further improved while in service with [[Chobham armour]] upgrades.
+
+A development of the [[Centurion tank|Centurion]], the Chieftain introduced the supine (reclining backwards) driver position to British design enabling a heavily sloped hull with reduced height. A new powerpack and improved transmission gave it higher speed than the Centurion despite being heavier due to major upgrades to armour protection and the armament. It remained in service until replaced by the [[Challenger 1]] which shared a large number of the Chieftain's features.
+
+==Development==
+The Chieftain was an evolutionary development of the successful [[cruiser tank|cruiser]] line of tanks that had emerged at the end of the [[World War II|Second World War]]. Its predecessor the [[centurion tank|Centurion]] main battle tank is widely considered to be one of the most successful of post-war MBT designs.&lt;ref&gt;Robert Jackson, [https://books.google.ca/books?id=JbmJcTyFLgkC&amp;pg=PA65 &quot;101 Great Tanks&quot;], Rosen Publishing Group, 2010&lt;/ref&gt;&lt;ref&gt;Anthony Tucker-Jones, [https://books.google.ca/books?id=4z2n-dnYCDQC&amp;pg=PT71 &quot;Armoured Warfare in the Korean War&quot;], Casemate Publishers, 2013, p. 61.&lt;/ref&gt;&lt;ref&gt;Simon Dunstan, [https://books.google.ca/books?id=qRWxjB961TUC &quot;Centurion Universal Tank 1943-2003&quot;], Osprey Publishing, 2003, p. 3.&lt;/ref&gt;&lt;ref&gt;J. H. Joiner, [https://books.google.ca/books?id=hJLgAwAAQBAJ&amp;pg=PT439 &quot;One More River To Cross&quot;], Pen and Sword, 1990&lt;/ref&gt;&lt;ref&gt;Chris Bishop, [https://books.google.ca/books?id=IE9T6BWvwi4C &quot;The encyclopedia of modern military weapons&quot;], Barnes &amp; Noble Books, 1999, p. 30.&lt;/ref&gt;&lt;ref&gt;Carter Malkasian, [https://books.google.ca/books?id=ZGoA65bSFpQC&amp;pg=PA52 &quot;The Korean War 1950-1953&quot;], Taylor &amp; Francis, 2001, p. 52.&lt;/ref&gt;  However, the introduction of the Soviet [[Iosif Stalin tank#IS-3|IS-3]] [[heavy tank]] along with Soviet [[T-54/55|T-54/T-55]] forced the introduction of their own [[Conqueror tank|Conqueror]] heavy tank armed with a {{convert|120|mm|in|abbr=on}} gun. A single design combining the firepower of the Conqueror's 120&amp;nbsp;mm gun with the mobility and general usefulness of the Centurion was seen as the ideal combination.
+
+[[Leyland Motors|Leyland]], who had been involved in the Centurion tank had built their own prototypes of a new tank design in 1956 and these led to a [[War Office]] specification for a new tank. The General Staff specification drew on the experience of Centurion tanks in the [[Korean War]] as well as that of the Conqueror tank. The tank was expected to be able to engage the enemy at long range, from defensive positions, and be proof against medium artillery. To this end the gun was to have a greater angle of depression than the 8 degrees of Conqueror and would be equipped with better frontal armour. The tank was expected to achieve a firing rate of 10 rounds per minute in the first minute and six per minute for the following four.
+
+The first few prototypes were provided for troop trials from 1959 which identified a number of changes. Improvements to address engine vibration and cooling resulted in redesign of the rear hull. This increased the design weight to nearly 50 tons and accordingly the suspension (which had been designed for 45 tons) was strengthened. Track pads had to be fitted to protect roads from damage and the ground clearance increased. The design was accepted in the early 1960s.
+
+Britain and Israel had collaborated on the development in its latter stages&lt;ref&gt;{{cite web|url=http://www.salem-news.com/articles/may132010/depleted-uranium-dp.php |title=Israel and Depleted Uranium |publisher=Salem-News.Com |date=13 May 2010 |accessdate=2013-11-26}}&lt;/ref&gt; with a view to Israel purchasing and domestically producing the vehicle. Two prototypes were delivered as part of a four-year trial.&lt;ref name=&quot;military-quotes1&quot;&gt;{{cite web|url=http://www.military-quotes.com/forum/israeli-armor-magazin-chieftain-dirty-t443.html |title= The Knight That Gave Birth To The Chariot |work=Armored Corps Magazine |date= |accessdate=2013-11-26}}&lt;/ref&gt; However, it was eventually decided not to sell the marque to the Israelis (since, at that period of time in the late 1960s, the UK was more friendly towards the Arab states and Jordan than to Israel),&lt;ref&gt;{{cite web|url=http://www.jta.org/1969/06/17/archive/house-of-commons-will-hold-debate-on-issue-of-sale-of-chieftain-tanks-to-libya |title=House of Commons Will Hold Debate on Issue of Sale of Chieftain Tanks to Libya |publisher=Jewish Telegraphic Agency |date=1969-06-17 |accessdate=2013-11-26}}&lt;/ref&gt; which prompted them to follow their own development programme.&lt;ref&gt;{{cite web|url=http://science.howstuffworks.com/chieftain-main-battle-tank.htm |title=HowStuffWorks &quot;Chieftain Main Battle Tank&quot; |publisher=Science.howstuffworks.com |date=2007-11-20 |accessdate=2013-11-26}}&lt;/ref&gt;
+
+In 1957, NATO had specified that its forces should use multi-fuel engines. The early BL Engine delivered around {{convert|450|bhp|abbr=on}} to the sprocket, which meant a top road speed of around {{convert|25|mph|km/h|abbr=on}} and cross country performance was limited. This was further hampered by the [[Horstmann suspension|Horstmann coil spring suspension]], which made it a challenge to drive cross country and provide the crew with a comfortable ride. Due to the cylinder linings being pressure fitted, coolant leaks within the cylinder block were common, resulting in white smoke billowing from the exhaust.
+
+In the late 1970s, engine design changed with the introduction of [[Belzona]] which was used to improve the lining seals. Engine output also increased, with later engines delivering some {{convert|850|bhp|abbr=on}} to the sprocket. This meant better performance and an increased speed. However, cross-country performance remained limited.
+
+Several aspects of Chieftain design were trialled by the production of the FV4202 &quot;40-ton Centurion&quot; with a reclined driver position and mantletless gun mounting.&lt;ref&gt;Norman &lt;/ref&gt;
+
+==Design==
+[[File:Chieftain Bovington 2006.jpg|thumb|upright|Chieftain display at the [[Bovington tank museum]], 2006]]
+The design of the Chieftain included a heavily sloped hull and turret which greatly increased the effective thickness of the frontal armour – {{convert|388|mm|abbr=on}} on the glacis (from an actual thickness of {{convert|120|mm|abbr=on}}) and {{convert|390|mm|1|abbr=on}} on the turret (from {{convert|195|mm|abbr=on}}).&lt;ref name=ogork128-129&gt;Richard Ogorkiewicz, ''Cold War, Hot Science: Applied Research in Britain's Defence Laboratories 1945–1990'' (2002), p.128-129, edited by Robert Bud &amp; Philip Gummett, NMSI Trading Ltd, ISBN 1-900747-47-2&lt;/ref&gt; It had a [[Gun mantlet|mantletless]] turret in order to take full advantage of reclining the vehicle up to ten degrees in a hull-down position.
+
+For security reasons early prototypes had a canvas screen covering the mantlet and a sheet metal box mounted over the sloping glacis plate to disguise the configuration of the vehicle.&lt;ref&gt;{{cite web|url=http://www.scribd.com/doc/139037875/Dunstan-S-1989-The-Chieftain-Tank-Arms-Armour-Press-Ltd |title=Dunstan S, 1989. The Chieftain Tank, Arms &amp; Armour Press Ltd |publisher=Scribd.com |date=1963-05-01 |accessdate=2013-11-26}}&lt;/ref&gt;
+
+The driver lay semi-recumbent in the hull when his hatch was closed down which helped to reduce the profile of the forward glacis plate. The commander, gunner and loader were situated in the turret. To the left side of the turret was a large searchlight with infra-red capability in an armoured housing.&lt;ref name=&quot;tanks-encyclopedia.com&quot;&gt;http://www.tanks-encyclopedia.com/coldwar/UK/FV-4201_Chieftain.php&lt;/ref&gt;
+
+The Leyland L60 engine is a [[two-stroke]] [[Opposed-piston engine|opposed piston]] design intended for [[multi-fuel]] use so that it could run on whatever fuel was available. In practice the engine did not deliver the expected power and was unreliable, estimated to have a 90% breakdown rate but improvements were introduced to address this. Primary problems included cylinder liner failure, fan drive problems and perpetual leaks due to vibration and badly routed pipework. However, as the engine power improved the tank itself became heavier.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+The tank was steered by conventional tillers hydraulically actuating onto external brake discs. The discs worked via the [[epicyclic gearbox]] providing &quot;regenerative&quot; steering. The gearbox was operated motorcycle-style with a kick up/kick down &quot;peg&quot; on the left, which actuated electro-hydraulic units in the gearbox, the accelerator cable was operated by the right foot. In the turret, the loader was on the left and the gunner on the right of the gun with the commander situated behind the gunner. The suspension was of the [[Horstmann suspension|Horstmann]] bogie type with large side plates to protect the tracks and provide stand-off protection from hollow charge attack.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+[[File:Chieftain Gun Barrel (7528078876).jpg|thumb|Detail of the [[Royal Ordnance L11A5|120 mm L11A5 rifled gun]]]]
+
+The main armament was the [[Royal Ordnance L11A5|120 mm L11A5 rifled gun]]. This differed from most contemporary main tank armament as it used projectiles and charges that were loaded separately, as opposed to a single fixed round. The charges were encased in combustible bags. Other tank guns such as the 120mm L1 gun on the Conqueror, needed to store the spent shell cartridges or eject them outside. The combustible charges were stored in 36 recesses surrounded by a pressurised&lt;ref name=Norman19 /&gt; water/glycol mixture – so-called &quot;wet-stowage&quot;. In the event of a hit penetrating the fighting compartment, the jacket would rupture soaking the charges and preventing a catastrophic propellant explosion.&lt;ref&gt;Simon Dunstan, ''Chieftain Main Battle Tank 1965–2003'', Osprey Publishing, p.6&lt;/ref&gt; As there was no shell case, the firing of the charge was by vent tubes automatically loaded from a ten-round magazine on the breech.&lt;ref name=Norman19 /&gt; Due to the length of the gun which required balancing and the need for storage space, the turret has a large overhang to the rear. This contains radios, ammunition and fire control equipment and has further stowage externally.&lt;ref name=Norman19 /&gt;
+
+The gun could fire a wide range of ammunition but the most commonly loaded types were [[high explosive squash head]] (HESH), [[armour-piercing discarding sabot]] (APDS), or practice round equivalents for both types. The Chieftain could store up to 64 projectiles (though a maximum of 36 APDS, limited by the propellant stowage). The gun was fully stabilised with a fully computerized integrated control system. The secondary armament consisted of a coaxial [[FN MAG|L8A1 7.62 mm]] machine gun and another 7.62&amp;nbsp;mm machine gun mounted on the commander's cupola.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt; An advantage of using two-part ammunition was that in the case of inert rounds like APDS the loader could reach for the next round and hold it in his lap, ready to load while the gunner was acquiring the target and firing. This practice increases the rate of fire but would be hazardous with one-piece ammunition.&lt;ref&gt;{{cite AV media | people = Nicholas Moran | date = Aug 26, 2014  | title = Inside the Chieftain's Hatch: Snapshots - Chieftain  | url =https://www.youtube.com/watch?v=Prfuk-Z1-Y4  | access-date = Nov 10, 2015  | archive-url = | archive-date =  | time = 4min 10sec | publisher = World of Tanks }}&lt;/ref&gt;
+
+Chieftain had an [[Chemical, biological, radiological, and nuclear|NBC]] protection system which Centurion lacked.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+The initial [[Fire-control system]] (FCS) was the Marconi FV/GCE Mk 4. A .50-inch (12.7&amp;nbsp;mm) [[ranging gun]] was mounted above the main gun (with 300 rounds available). This fired ranging shots out to a maximum of {{convert|2600|yd|m}}, at which point the tracer in the ranging rounds burned out although the high explosive tip still created a visible &quot;splash&quot; on impact. The tank commander had a rotating cupola with nine vision blocks -giving all round view, plus the 7.62&amp;nbsp;mm machine-gun and an infrared (IR) capable projector coaxial with the weapon. The aiming systems were provided for both the gunner and the tank commander; they had 1x or 10x selectable magnification power, increasing to x15 in the Mk5 and beyond, and they were replaceable with IR vision systems for night operations (3x magnification power). The commander could rotate his cupola to bring his sight onto a target and then engage the mechanism that brought the turret round on to the correct bearing so that the gunner could complete the aiming.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+The commander's controls had over-ride capability on those of the gunner.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+The left side of the turret had a large searchlight with an electrically controlled infra-red filter inside an armoured box, with a relatively long range – up to {{convert|1|-|1.5|km}}.&lt;ref name=&quot;JP-4 dossier, p. 35-36&quot;&gt;JP-4 dossier, ''Main Battle Tanks'' (1990), pp.35–36, edited by Ed.Ai. 1990, Florence&lt;/ref&gt;
+
+From the beginning of the 1970s, the Mk 3/3 version replaced the ranging gun with a [[Barr and Stroud]] LF-2 [[laser rangefinder]] with a {{convert|10|km|adj=on|abbr=on}} range. This allowed engagements at much longer ranges, and also could be linked to the fire control system, allowing more rapid engagements and changes of target.&lt;ref name=&quot;tanks-encyclopedia.com&quot;/&gt;
+
+On later models, fire control was provided by the Marconi IFCS (Improved Fire Control System), using a digital ballistic computer. The upgrade was not finished until the end of 1980, when some examples (but not the majority) had the IR searchlight replaced with TOGS. Many later examples had Stillbrew armour, intended to defeat Soviet 125&amp;nbsp;mm tank guns and heavy anti-tank missiles. These became the Mark 13 version.&lt;ref name=&quot;JP-4 dossier, p. 35-36&quot; /&gt;
+
+==Service==
+[[File:British Chieftain tanks.JPEG|thumb|left|Chieftain tanks of [[14th/20th King's Hussars]] on parade with urban camouflage, [[Straße des 17. Juni]], [[West Berlin]], 18 June 1989.]]
+
+Like its [[Europe]]an competitors, Chieftain found a large export market in the [[Middle East]], but unlike Centurion, it was not adopted by any other [[NATO]] or Commonwealth country.
+
+Chieftain proved itself capable in combat and able to be upgraded with enhancements, both for overall improvement and to meet local requirements. The marque was continuously upgraded until the early 1990s, when it was replaced by [[Challenger 1 tank|Challenger 1]]. The final Chieftain version, which was used by the British Army until 1995, incorporated &quot;Stillbrew&quot; armour named after Colonel Still and John Brewer from the [[Military Vehicles and Engineering Establishment]] (MVEE), the Improved Fire Control System (IFCS) and the [[Thermography|Thermal Observation Gunnery Sight]] (TOGS). The last British Regiment equipped with Chieftain was the 1st Royal Tank Regiment, which was based at Aliwal Barracks, Tidworth.
+
+[[File:Tank Museum, KubinkaDSC02369.JPG|thumb|upright|A former Iranian Army Chieftain Mk.5 main battle tank on display at the [[Kubinka Tank Museum]]]]
+[[File:Well used tanks^ - geograph.org.uk - 1521684.jpg|thumb|upright|Chieftain target hulks at [[Lulworth Ranges]] 2008]]
+The first model was introduced in 1967. Chieftain was supplied to at least six countries, including [[Iran]], [[Kuwait]], [[Oman]] and [[Jordan]]. An agreement for sales to [[Israel]] and local production was cancelled by the British Government in 1969,&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/world/middle_east/2623545.stm |title=Middle East &amp;#124; Files reveal British-Israel tank secrets |publisher=BBC News |date=2003-01-02 |accessdate=2013-11-26}}&lt;/ref&gt; despite considerable Israeli technical and tactical input into the development of the tank, especially the capacity to operate successfully in desert environments, and the provision for the tank to make good use of [[hull-down]] positioning. Two examples were delivered to and extensively trialled by the Israeli Armoured Corps. This experience spurred the creation of the indigenous Israeli [[Merkava]], the development programme of which was led by General [[Israel Tal]], who had worked closely with the British in the Anglo-Israeli Chieftain project.&lt;ref name=&quot;military-quotes1&quot; /&gt; The largest foreign sale was to Iran, which, at the recommendation of General Tal,&lt;ref name=&quot;military-quotes1&quot; /&gt; took delivery of 707 Mk-3P and Mk-5P, 125–189 FV-4030-1, 41 ARV and 14 AVLB before the [[Iranian revolution|1979 revolution]].&lt;ref&gt;{{citation |title=Trade Register |url=http://armstrade.sipri.org/armstrade/page/trade_register.php |work=[[SIPRI]]}}, (Search UK to Iran, 1950–2008)&lt;/ref&gt; Further planned deliveries of the more capable 4030 series were cancelled at that point.
+
+It was in the Middle East that the Chieftain was to see all of its operational experience. First, it was used extensively by Iran during the [[Iran–Iraq War]] of 1980–88, including the [[Battle of Dezful|largest tank battle of the war]], with mixed results as many suffered from chronic engine problems.&lt;ref&gt;[https://books.google.com/books?id=JrD_w0YAOwQC&amp;pg=PT30&amp;source=gbs_selected_pages&amp;cad=2#v=onepage&amp;q&amp;f=false Chieftain Main Battle Tank 1965–2003, Osprey Publishing]&lt;/ref&gt; The Chieftain remains in service in Iran, the [[Mobarez tank]] being a locally upgraded version.
+
+===Kuwait and the Battle of the Bridges===
+Kuwait had 143 Chieftains on the eve of the 1990 Iraqi [[Invasion of Kuwait]]. Thirty-seven Chieftains of the Kuwaiti 35th Armored Brigade fought at the [[Battle of the Bridges]] against elements of the Iraqi Hammurabi and Medina divisions before withdrawing over the Saudi border.&lt;ref&gt;{{citation |first=Major Robert A. |last=Nelson |url=http://www.benning.army.mil/armor/armormagazine/content/Issues/1995/ArmorSeptemberOctober1995web.pdf |title=The Battle of the Bridges |work=[[Armor (magazine)|Armor]] |publisher=|date=September–October 1995 |pages=26–32}}&lt;/ref&gt; None of the brigade's tanks were lost in the battle, and the 35th Armored Brigade (known as Al-Fatah) became part of ''[[Order of battle of the Gulf War ground campaign|Joint Command Forces East]]'' during the 1991 [[Gulf War]] and was able to return into Kuwait undefeated.
+
+The rest of the Kuwaiti Chieftains were either lost or captured. After the liberation of Kuwait, the ageing Chieftains were replaced by the Yugoslav [[M-84]]. &lt;ref name=armbri&gt;{{citation |url=http://www.benning.army.mil/armor/armormagazine/content/Issues/1995/ArmorSeptemberOctober1995web.pdf |title=The Battle of the Bridges |work=[[Armor (magazine)|Armor]] |date=September–October 1995 |pages=26–32 |publisher=U.S. Army Armor Center}}&lt;/ref&gt;&lt;ref&gt;[http://www.globalsecurity.org/military/world/gulf/kuwait-army-equip.htm Kuwait – Army Equipment]&lt;/ref&gt;
+
+==Specifications==
+* Crew: 4
+* Combat weight: 55 tons
+* Overall length: {{convert|10.8|m|ftin|1|abbr=on}} gun forward
+* Hull length: {{convert|7.5|m|ftin|1|abbr=on}}
+* Height: {{convert|2.9|m|ftin|1|abbr=on}}
+* Width: {{convert|3.5|m|ftin|1|abbr=on}}
+* Powerplant: [[Opposed-piston engine|Leyland L60]] (diesel, multi-fuel compression ignition) {{convert|695|bhp|abbr=on}}
+* Range: {{convert|500|km|mi|abbr=on}}
+* Maximum road speed: {{convert|48|km/h|mph|abbr=on}}
+* Cross-country speed: {{convert|30|km/h|mph|abbr=on}}
+* Armour: turret front, {{Convert|195|mm|in|1|abbr=on}} [[Rolled homogeneous armour|RHA]] (60°)
+
+;Armament
+* [[Royal Ordnance L11A5|120 mm L11A5 rifled]] [[tank gun]]
+** Rate of fire: 10 rounds per minute for the first minute and 6 thereafter.
+** Elevation: -10 to +20 degree
+** Laser rangefinder
+* Coaxial L8A1 7.62&amp;nbsp;mm [[machine gun]]
+* Cupola-mounted [[L7 (machine gun)|L37A1 7.62mm]] machine gun
+Mark 1 and Mark 2 models had a coaxial Browning .50-inch (12.7&amp;nbsp;mm) [[spotting rifle|ranging machine guns]] prior to the introduction of the [[laser rangefinder]].
+
+;Equipment
+* Twin [[Clansman]] VRC 353 VHF Radio sets
+* 1 C42 1 B47 [[Larkspur radio system|Larkspur]] [[Very high frequency|VHF]] radios
+* 2 X 6-barrel smoke dischargers on turret
+* Bulldozer blade (optional – fitted to one tank per squadron)
+
+==Variants==
+; Chieftain Mk 1
+: 40 training vehicles for 1965–1966. Issued to 1 RTR and 5 RTR for troop trials.
+; Chieftain Mk 2: First service model with 650&amp;nbsp;hp engine.
+; Chieftain Mk 3
+: Extra equipment fitted giving rise to several sub-marks. New cupola.
+; Chieftain Mk.5: Final production variant, with upgrades to the engine and [[NBC weapon|NBC]] protection system.
+; Chieftain Mk.6-9: Incremental upgrades to earlier Marks of tanks, including addition of Clansman radios.
+; Chieftain Mk.10: Mark 9 upgrade, addition of [[Stillbrew]] Crew Protection Package to the turret front and turret ring.
+; Chieftain Mk.11: Mark 10 upgrade, searchlight replaced with the Thermal Observation and Gunnery System (TOGS), manufactured by Barr and Stroud.
+; Chieftain Mk.12/13: Proposed further upgrades, cancelled when the [[Challenger 1]] was introduced.
+; Chieftain 800: Chieftain with [[Chobham armour]] and new power train
+; Chieftain 900: Chieftain with [[Chobham armour]], new power train, and Centaur fire control system
+; FV4205 AVLB: Bridge-laying vehicle
+[[File:Chieftain ARRV (6064578679).jpg|thumb|ARRV]]
+; FV4204 ARV/ARRV: Armoured Recovery Vehicle, Armoured Recovery and Repair Vehicle.
+[[File:AVRE Carrying Fascine MOD 45149255.jpg|thumb|An AVRE carrying [[fascine]] on [[Salisbury Plain]].]]
+; Chieftain AVRE: [[Armoured Vehicle Royal Engineers]], a British Army combat engineering variant used by the [[Royal Engineers]].
+; Chieftain Marksman: [[Self-propelled anti-aircraft weapon|self-propelled anti-aircraft gun]] version, equipped with the [[Marksman anti-aircraft system|Marksman twin gun turret]].
+; Chieftain Mineclearer: Mine-clearing development.
+; Chieftain Sabre: Twin 30&amp;nbsp;mm AA turret.
+[[File:Chieftain lesany.jpg|thumb|Khalid variant]]
+; Khalid (also designated 4030P2J – P = Phase &amp; J = Jordan)/Shir (Lion) 1: Jordanian with the running gear of the Challenger 1. In essence, this was a transition vehicle from the Chieftain to the Shir 2, which had been intended for Iran but was subsequently cancelled. The Shir 2 tanks became Challenger 1 tanks after reworking at ROF Leeds. The vehicle chassis comprised the front half of a Chieftain hull, Chieftain running gear and the rear of a 4030/2 Chassis (Sloping Hull). This allowed the fitment in the engine bay of a Rolls-Royce CV12 engine producing 1200&amp;nbsp;bhp at 2,300 rpm.
+; Weapon Carriers: The Chieftain chassis was adapted to mount air defence weapons (&quot;Marksman&quot; 2 x 35&amp;nbsp;mm cannon) and a 155&amp;nbsp;mm howitzer in a number of variants.
+; Shir 2: Iranian variant. Visible external differences from Chieftain Mk.5 included a sloping rear hull, the removal of the searchlight from the left turret area and the refitting of storage baskets, the removal of the water channel from around the driver's hatch on the glacis plate, modification of the light clusters also on the glacis plate and the enlargement of the sight housing on the commander's cupola.
+; [[Mobarez Tank]]: Iranian upgraded version of Chieftain.
+
+==Operators==
+[[File:Chieftain operators.png|thumb|300px|A map of Chieftain operators in blue with former operators in red]]
+
+===Current operators===
+* {{flag|Iran}}: 707 Mk-3P and Mk-5P, 125–189 FV-4030-1, 41 ARV and 14 AVLB obtained before the 1979 revolution. Further planned deliveries of the more capable 4030 series were cancelled at that point. 100 in service {{as of|2005|lc=on}}. (100 in 1990, 250 in 1995, 140 in 2000).&lt;ref&gt;{{cite web|author=John Pike |url=http://www.globalsecurity.org/military/world/iran/ground-equipment.htm |title=Iranian Ground Forces Equipment |publisher=Globalsecurity.org |date=2013-03-21 |accessdate=2013-11-26}}&lt;/ref&gt;
+* {{flag|Jordan}}: 274 Khalid delivered between 1981–1985 + 90 MK3/5 (captured Iranian tanks) from Iraq.&lt;ref&gt;{{citation |title=Trade Register |url=http://armstrade.sipri.org/armstrade/page/trade_register.php |publisher=[[SIPRI]]}}, (Search UK to Jordan, 1950–2008)&lt;/ref&gt; 350 in service{{When|date=January 2010}}{{Citation needed|date=January 2010}}
+* {{flag|Oman}}: 27 delivered 1981–85.&lt;ref&gt;{{citation |title=Trade Register |url=http://armstrade.sipri.org/armstrade/page/trade_register.php |publisher=[[SIPRI]]}}, (Search UK to Oman, 1950–2008)&lt;/ref&gt;
+
+===Former operators===
+* {{flag|United Kingdom}}: Used from 1965 to 1995.
+* {{flag|Kuwait}}: 175 in 1976, 143 in 1989, 20 in 1995, 17 in storage in 2000.&lt;ref&gt;{{cite web|author=John Pike |url=http://www.globalsecurity.org/military/world/gulf/kuwait-army-equip.htm |title=Kuwait – Army Equipment |publisher=Globalsecurity.org |date=2013-04-22 |accessdate=2013-11-26}}&lt;/ref&gt;
+* {{flag|Iraq}}: 50-75 tanks, captured from Iran, in service with Iraqi Army in 1990. Most upgraded to Khalid-level, with air-conditioning for the crew and reinforced armour and night vision.&lt;ref&gt;Stephen Hughes, The Iraqi Threat and Saddam Hussein's Weapons of Mass Destruction, page 304&lt;/ref&gt;
+* {{flag|Israel}}: 2 delivered for the joint Anglo-Israeli developmental project. In [[Israeli Armored Corps]] service for trials 1965–69.&lt;ref name=&quot;military-quotes1&quot; /&gt;
+
+==See also==
+{{Portal|Tank}}
+
+===Tanks of comparable role, performance and era===
+* [[Leopard 1]] German main battle tank
+* [[Merkava tank]] (Early marques) Israeli main battle tank
+* [[M60 tank]] US main battle tank
+* [[T-62]]
+* [[T-72]]
+* [[T-64]] : Approximate Soviet equivalent main battle tank
+
+==References==
+;Notes
+{{Reflist|colwidth=30em}}
+;Bibliography
+* {{citation |last=Norman |first=Michael |title=AFV Profile No. 18 Chieftain and Leopard (Development) |publisher=Profile Publishing}}
+
+==External links==
+{{Commons category|Chieftain tanks}}
+* [http://www.fas.org/man/dod-101/sys/land/row/chieftain.htm FAS.org]
+* [http://www.chieftaintank.net/ Chieftain Tank]
+* [http://www.militaryfactory.com/armor/detail.asp?armor_id=83 Military Factory article]
+
+{{ModernUKAFVsNav|style=wide}}
+{{Cold War tanks|style=wide}}
+
+[[Category:Main battle tanks of the United Kingdom]]
+[[Category:Cold War tanks of the United Kingdom]]
+[[Category:Military vehicles 1960–1969]]
+[[Category:Main battle tanks of the Cold War]]</text>
+      <sha1>bicxcbxvcktlx7zyo3d921fq1p6aevl</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Lachine</title>
+    <ns>0</ns>
+    <id>49110275</id>
+    <revision>
+      <id>747470798</id>
+      <parentid>746803676</parentid>
+      <timestamp>2016-11-02T15:31:45Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>/* Service history */ fixed link to avoid redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7937">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval-1911}}
+|Ship name= ''Lachine''
+|Ship namesake=[[Lachine, Quebec]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Davie Shipbuilding]], [[Lauzon, Quebec|Lauzon]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=27 December 1940
+|Ship launched=14 June 1941
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship commissioned=20 June 1942
+|Ship decommissioned=31 July 1945
+|Ship maiden voyage= 
+|Ship homeport=
+|Ship identification=[[pennant number]]: J266
+|Ship fate=Sold for conversion to a [[salvage tug]], 1945
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Bangor|minesweeper|1|ship}}
+|Ship displacement={{convert|592|LT|t|abbr=on}}
+|Ship length={{convert|162|ft|m|1|abbr=on}}
+|Ship beam={{convert|28|ft|m|1|abbr=on}}
+|Ship draught={{convert|8.25|ft|m|2|abbr=on}}
+|Ship propulsion=2 shafts, 9-cylinder diesel, {{convert|2000|bhp|kW|-2|abbr=on}}
+|Ship speed={{convert|16|kn|km/h|0}}
+|Ship complement=83
+|Ship armament=*1 × [[QF 12-pounder 12 cwt naval gun]]
+*1 × [[QF 2 pounder naval gun|QF 2-pounder Mark VIII]]
+*2 × [[Oerlikon 20 mm cannon|QF 20 mm Oerlikon]] guns
+*40 [[depth charge]]s as escort
+}}
+|}
+
+'''HMCS ''Lachine''''' was a {{sclass-|Bangor|minesweeper}} of the [[Royal Canadian Navy]] that served during the [[World War II|Second World War]]. Following the war a proposed transfer to the [[Royal Canadian Mounted Police]] as '''''Starnes''''' was cancelled, and the ship was instead sold for conversion to a [[salvage tug]] in 1945. The ship was [[Ship breaking|broken up]] in the United Kingdom in 1955.
+
+==Design and description==
+The ''Bangor'' class was initially to be a scaled down minesweeper design of the {{sclass-|Halcyon|minesweeper|4}} in [[Royal Navy]] service.&lt;ref name=Brown&gt;Brown, p. 124&lt;/ref&gt;&lt;ref name=Chesneau&gt;Chesneau (1980), p. 61&lt;/ref&gt; However, due to the difficulty procuring diesel engines led to the small number of the diesel version being completed.&lt;ref name=Chesneau/&gt; The ships [[Displacement (ship)|displaced]] {{convert|592|LT|t}} standard and {{convert|690|LT|t}} fully loaded. They were {{convert|162|ft|m|1}} [[Length overall|long]] with a [[Beam (nautical)|beam]] of {{convert|28|ft|m|1}} and a [[Draft (ship)|draught]] of {{convert|8|ft|3|in|m|2}}.&lt;ref name=Chesneau/&gt;&lt;ref name=m1&gt;Macpherson and Barrie (2002), p. 185&lt;/ref&gt; However, the size of the ship led to criticisms of their being too cramped for magnetic or acoustic minesweeping gear.&lt;ref name=Chesneau/&gt; This may have been due to all the additions made during the war with the installation of [[ASDIC]], radar and [[depth charge]]s.&lt;ref name=Brown/&gt;
+
+The ''Bangor'' class came in two versions. ''Lachine'' was of the diesel-powered version, being equipped with a 9-cylinder diesel engine driving two shafts that produced {{convert|2000|bhp|kW|-2|lk=in}}. This gave the ship a maximum speed of {{convert|16.5|kn|km/h|lk=in}}. The vessels carried {{convert|65|LT|t}} of oil.&lt;ref name=Chesneau/&gt;  The vessels had a complement of 6 officers and 77 ratings.&lt;ref name=m1/&gt;
+
+The Canadian diesel-powered ''Bangor''s were armed with a single [[Quick-firing gun|quick-firing]] (QF) [[QF 12-pounder 12 cwt naval gun|12-pounder 12 cwt gun]] mounted forward.&lt;ref name=Chesneau/&gt;&lt;ref name=m1/&gt;{{efn|name=gun nomenclature}} Initially the design called for a {{convert|4|in|mm|adj=on|0}} gun, however these were replaced with 12-pounder guns. The ships were also fitted with a [[QF 2 pounder naval gun|QF 2-pounder Mark VIII]] gun aft and were eventually fitted with single-mounted [[Oerlikon 20 mm cannon|QF 20 mm Oerlikon]] guns on the [[Bridge (nautical)|bridge]] wings.&lt;ref name=mac&gt;Macpherson (1997), p. 58&lt;/ref&gt; For those ships assigned to convoy duty, they were armed with two [[depth charge]] launchers and two chutes to deploy the 40 depth charges they carried.&lt;ref name=Chesneau/&gt;&lt;ref name=mac/&gt;
+
+==Service history==
+The minesweeper was ordered as part of the 1940-41 building programme. Her [[keel]] was laid down by [[Davie Shipbuilding]] at [[Lauzon, Quebec]] on 27 December 1940, and [[Ship naming and launching|launched]] on 20 June 1942. ''Lachine'' was [[Ship commissioning|commissioned]] into the Royal Canadian Navy at [[Quebec City]] on 20 June 1942 with the [[pennant number]] J266.&lt;ref name=mac187&gt;Macpherson and Barrie (2002), p. 187&lt;/ref&gt;
+
+Following workups, the ship was assigned to Sydney Force, a local escort force operating out of [[Sydney, Nova Scotia]] in September 1942. In October, the ship was transferred to the [[Western Local Escort Force]].&lt;ref name=mac187/&gt; In January 1943 the Western Local Escort Force organized its escorts into groups. ''Lachine'' joined 24.18.3 alongside the [[corvette]]s {{HMCS|Moncton|K139|2}} and {{HMCS|Nanaimo|K101|2}}.&lt;ref&gt;Rohwer, p. 222&lt;/ref&gt; In June, when the force was restructured, the minesweeper joined the escort group W-6. The ship transferred to Halifax Force, a local escort force operating out of [[Halifax, Nova Scotia]], from June 1944 until the end of the war in Europe.&lt;ref name=mac187/&gt;
+
+On 31 July 1945, ''Lachine'' was [[Ship decommissioning|paid off]] at [[Shelburne, Nova Scotia]] and laid up for disposal. Following the war the ship was intended to be transferred to the marine section of the Royal Canadian Mounted Police as ''Starnes'', however, the transfer was cancelled. Sources disagree on what happened to the ship after that. According to Macpherson &amp; Barrie and Miramar state the ship was instead sold for conversion to a salvage tug in 1945.&lt;ref name=mac187/&gt; The conversion was completed in 1946, the ship retaining her name and remained in service until 1955 when ''Lachine'' was broken up for scrap in 1955.&lt;ref name=miramar&gt;{{csr|register=MSI|id=6113209|shipname=Lachine |accessdate=27 February 2016}}&lt;/ref&gt; However, Colledge claims the ship was converted to the tug ''Jacks Bay'' in 1952.&lt;ref&gt;Colledge, p. 351&lt;/ref&gt; According to Macpherson &amp; Barrie and Miramar, this was the name that {{HMCS|Grandmère}} took after her conversion.&lt;ref&gt;Macpherson and Barrie (2002), p. 182&lt;/ref&gt;&lt;ref&gt;{{csr|register=MSI|id=5286099|shipname=Grandmere |accessdate=27 February 2016}}&lt;/ref&gt;
+
+==References==
+
+===Notes===
+{{notes
+| notes =
+
+{{efn
+| name = gun nomenclature
+|  &quot;Cwt&quot; is the abbreviation for [[hundredweight]], 20 cwt referring to the weight of the gun.
+}}
+}}
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+* {{cite book|last=Brown |first=D.K. |title=Nelson to Vanguard: Warship Design and Development 1923-1945 |publisher=Chatham Publishing |date=2000 |location= |isbn=1861761368}}
+* {{cite book |editor-last=Chesneau |editor-first=Roger |date=1980 |title=Conway's All the World's Fighting Ships 1922—1946 |publisher=Conway Maritime Press |location=Greenwich, UK |isbn=0-85177-146-7}}
+* {{colledge}}
+* {{cite book |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |date=2002 |title=The Ships of Canada's Naval Forces 1910—2002  |edition=Third |publisher=Vanwell Publishing |location=St. Catharines, Ontario |isbn=1-55125-072-1}}
+* {{cite book|title=Minesweepers of the Royal Canadian Navy 1938-1945 |last=Macpherson |first=Ken |publisher=Vanwell Publishing |date=1997 |location=St. Catharines, Ontario |isbn=0-920277-55-1}}
+* {{cite book |last=Rohwer |first=Jürgen |date=2005 |title=Chronology of the War at Sea 1939—1945: The Naval History of World War Two |edition=Revised &amp; Expanded |publisher=Naval Institute Press |location=Annapolis, Maryland |isbn=1-59114-119-2}}
+
+{{Bangor class minesweeper}}
+
+{{DEFAULTSORT:Lachine}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:Minesweepers of the Royal Canadian Navy]]
+[[Category:Bangor-class minesweepers of the Royal Canadian Navy]]
+[[Category:Ships built in Quebec]]
+[[Category:1941 ships]]
+[[Category:World War II minesweepers of Canada]]</text>
+      <sha1>jnljta1o7c5b41gd64pu4ngnd7vxime</sha1>
+    </revision>
+  </page>
+</mediawiki>

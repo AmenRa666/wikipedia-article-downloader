@@ -1,0 +1,266 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Courageous (50)</title>
+    <ns>0</ns>
+    <id>485396</id>
+    <revision>
+      <id>748309871</id>
+      <parentid>748309394</parentid>
+      <timestamp>2016-11-07T15:03:21Z</timestamp>
+      <contributor>
+        <username>Sturmvogel 66</username>
+        <id>5808430</id>
+      </contributor>
+      <comment>Reverted to revision 732833984 by [[Special:Contributions/Mdnavman|Mdnavman]] ([[User talk:Mdnavman|talk]]): Linked in the previous paragraph. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27793">{{other ships|HMS Courageous}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Courageous WWI.jpg|300px]]
+|Ship caption=''Courageous'' shortly after completion in 1916
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=''Courageous''
+|Ship ordered=14 March 1915
+|Ship awarded=
+|Ship builder=[[Armstrong Whitworth]]
+|Ship laid down=26 March 1915
+|Ship launched=5 February 1916
+|Ship christened=
+|Ship completed=4 November 1916
+|Ship original cost=£2,038,225
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship nickname=''Outrageous''&lt;ref name=b03/&gt;
+|Ship reclassified=Converted to aircraft carrier, June 1924 – February 1928
+|Ship identification=[[Pennant number]]: 50
+|Ship fate=Sunk by {{Ship|German submarine|U-29|1936|2}}, 17 September 1939
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=as light battlecruiser
+|Ship class={{sclass-|Courageous|battlecruiser}}
+|Ship displacement=*{{convert|19180|LT|t|abbr=on}} (normal)
+* {{convert|22560|LT|t|abbr=on}} ([[deep load]])
+|Ship length={{convert|786|ft|9|in|m|1|abbr=on}}
+|Ship beam={{convert|81|ft|m|1|abbr=on}}
+|Ship draught={{convert|25|ft|10|in|m|1|abbr=on}}
+|Ship power={{convert|90000|shp|lk=in|abbr=on}}
+|Ship propulsion=*4 shafts, 4 geared [[steam turbine]]s,
+* 18 [[Yarrow Shipbuilders|Yarrow]] small-tube [[water-tube boiler|boilers]]
+|Ship speed={{convert|32|kn|lk=in}}
+|Ship range={{convert|6000|nmi|abbr=on|lk=in}} at {{convert|20|kn}}
+|Ship complement=842 officers and men
+|Ship armament=*2 × 2 – {{convert|15|inch|0|adj=on}} guns
+* 6 × 3 – {{convert|4|inch|0|adj=on}} guns
+* 2 × 1 – {{convert|3|inch|0|adj=on}} [[Anti-aircraft warfare|AA]] guns
+* 2 × 1 – [[British 21 inch torpedo|{{convert|21|in|mm|0|abbr=on}}]] [[torpedo tube]]s
+|Ship armour=*[[Belt armor|Belt]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+* [[Deck (ship)|Decks]]: {{convert|.75|-|3|in|mm|0|abbr=on}}
+* [[Barbette]]s: {{convert|3|-|7|in|mm|0|abbr=on}}
+* [[Gun turret]]s: {{convert|7|-|9|in|mm|0|abbr=on}}
+* [[Conning tower]]: {{convert|10|in|mm|0|abbr=on}}
+* [[Torpedo bulkhead]]s: {{convert|1|-|1.5|in|mm|0|abbr=on}}
+}}
+{{Infobox ship image
+|Ship image=[[File:HMS Courageous (50).jpg|300px]]
+|Ship caption=''Courageous'' as an aircraft carrier in 1935
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=as aircraft carrier
+|Ship class={{sclass-|Courageous|aircraft carrier}}
+|Ship displacement=*{{convert|24210|LT|t|abbr=on}} (normal)
+* {{convert|26990|LT|t|abbr=on}} (deep load)
+|Ship length=*{{convert|735|ft|1.5|in|m|1|abbr=on}} ([[Length between perpendiculars|p/p]])
+* {{convert|786|ft|9|in|m|1|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|90|ft|6|in|m|1|abbr=on}} (at waterline)
+|Ship draught={{convert|27.75|ft|m|1|abbr=on}}
+|Ship power={{convert|90000|shp|kW|abbr=on}}
+|Ship propulsion=*4 shafts, 4 [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbines]]
+* 18 [[Yarrow Shipbuilders|Yarrow]] [[boiler (steam generator)|boilers]]
+|Ship speed={{convert|30|kn}}
+|Ship range={{convert|5860|nmi}} at {{convert|16|kn}}
+|Ship complement=814 + 403 air group (1938)
+|Ship armament=16 × 1 — {{convert|4.7|inch|adj=on}} AA guns
+|Ship armour=*[[Belt armor|Belt]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+* [[Deck (ship)|Decks]]: {{convert|.75|-|1|in|mm|0|abbr=on}}
+* [[Bulkhead (partition)|Bulkhead]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+* [[Torpedo bulkhead]]s: {{convert|1|-|1.5|in|mm|0|abbr=on}}
+|Ship aircraft=48
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''HMS ''Courageous''''' was the [[lead ship]] of the {{sclass-|Courageous|battlecruiser|0}} [[cruiser]]s built for the [[Royal Navy]] during the First World War. Designed to support the [[Baltic Project]] championed by [[First Sea Lord]] [[John Fisher, 1st Baron Fisher|John Fisher]], the ship was very lightly armoured and armed with only a few heavy guns. ''Courageous'' was completed in late 1916 and spent the war patrolling the [[North Sea]]. She participated in the [[Second Battle of Heligoland Bight]] in November 1917 and was present when the German [[High Seas Fleet]] surrendered a year later.
+
+''Courageous'' was [[decommission (ship)|decommissioned]] after the war, then rebuilt as an [[aircraft carrier]] during the mid-1920s. She could carry 48 aircraft compared to the 36 carried by her [[sister ship|half-sister]] {{HMS|Furious|47|2}} on approximately the same displacement. After recommissioning she spent most of her career operating off Great Britain and Ireland. She briefly became a training carrier, but reverted to her normal role a few months before the start of the Second World War in September 1939. ''Courageous'' was torpedoed and sunk in the opening weeks of the war, going down with more than 500 of her crew.
+
+==Origin and construction==
+During the First World War, [[Admiral]] Fisher was prevented from ordering an improved version of the preceding {{sclass-|Renown|battlecruiser}}s by a wartime restriction that banned construction of ships larger than [[light cruiser]]s in 1915. To obtain ships suitable for the doctrinal roles of battlecruisers, such as scouting for fleets and hunting enemy raiders, he settled on ships with the minimal armour of a light cruiser and the armament of a battlecruiser. He justified their existence by claiming he needed fast, shallow-draught ships for his [[Baltic Project]], a plan to invade Germany via its Baltic coast.&lt;ref name=b03&gt;Burt 1986, p. 303&lt;/ref&gt;&lt;ref&gt;Roberts, pp. 50–51&lt;/ref&gt;
+
+''Courageous'' had an [[length overall|overall length]] of {{convert|786|ft|9|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|81|ft|m|1}}, and a [[draft (ship)|draught]] of {{convert|25|ft|10|in|m|1}} at [[deep load]]. She displaced {{convert|19180|LT|t}} at load and {{convert|22560|LT|t|0}} at deep load.&lt;ref name=r65&gt;Roberts, pp. 64–65&lt;/ref&gt; ''Courageous'' and her sisters were the first large warships in the Royal Navy to have geared [[steam turbine]]s. To save design time, the installation used in the light cruiser {{HMS|Champion|1915|2}}, the first cruiser in the navy with geared turbines, was simply replicated for four turbine sets. The [[Parsons Marine Steam Turbine Company|Parsons]] turbines were powered by eighteen [[Yarrow Shipbuilders|Yarrow]] small-tube [[water-tube boiler|boilers]]. They were designed to produce a total of {{convert|90000|shp|MW|lk=in|0}} at a working pressure of {{convert|235|psi|kPa kg/cm2|0|abbr=on|lk=on}}. The ship reached an estimated {{convert|30.8|kn|lk=in}} during [[sea trial]]s.&lt;ref&gt;Roberts, pp. 71, 76, 79&lt;/ref&gt;
+
+The ship's normal design load was {{convert|750|LT|t|0}} of [[fuel oil]], but she could carry a maximum of {{convert|3160|LT|t|0}}. At full capacity, she could steam for an estimated {{convert|6000|nmi|-1}} at a speed of {{convert|20|kn}}.&lt;ref name=b06&gt;Burt 1986, p. 306&lt;/ref&gt;
+
+''Courageous'' carried four [[BL 15 inch Mk I naval gun|BL 15-inch Mk I]] guns in two hydraulically powered twin [[gun turret]]s, designated 'A' and 'Y' from front to rear. Her secondary armament consisted of eighteen [[BL 4 inch Mk IX naval gun|BL 4-inch Mk IX guns]] mounted in six manually powered mounts.&lt;ref name=b06/&gt; The mount placed three [[Breech-loading weapon|breeches]] too close together, causing the 23 loaders to get in one another's way, and preventing the intended high rate of fire.&lt;ref&gt;Burt 1986, p. 294&lt;/ref&gt; A pair of [[QF 3-inch 20 cwt]]&lt;ref group=Note&gt;&quot;cwt&quot; is the abbreviation for [[hundredweight]], 30 cwt referring to the weight of the gun.&lt;/ref&gt;  [[Anti-aircraft warfare|anti-aircraft]] guns were fitted abreast the [[mainmast]] on ''Courageous''. She mounted two submerged [[torpedo tube|tubes]] for [[British 21 inch torpedo|21-inch torpedoes]] and carried 10 torpedoes for them.&lt;ref name=b06/&gt;
+
+==First World War==
+''Courageous'' was [[laid down]] on 26 March 1915, launched on 5 February 1916 and completed on 4 November. During her [[sea trial]]s later that month, she sustained structural damage while running at full speed in a rough [[head sea]]; the exact cause is uncertain.&lt;ref name=r54&gt;Roberts, p. 54&lt;/ref&gt; The forecastle deck was deeply buckled in three places between the [[Glossary of nautical terms#B|breakwater]] and the forward turret.&lt;ref&gt;Burt 1986, p. 309&lt;/ref&gt; The side plating was visibly buckled between the forecastle and upper decks. Water had entered the submerged torpedo room and rivets had sheared in the [[angle iron]]s securing the deck armour in place.&lt;ref&gt;Burt 1986, pp. 309, 313&lt;/ref&gt; The ship was stiffened with {{convert|130|LT|t|-1}} of steel in response.&lt;ref name=r54/&gt; As of 23 November 1916, she cost £2,038,225 to build.&lt;ref&gt;Burt 1986, p. 307&lt;/ref&gt;
+
+Upon commissioning, ''Courageous'' was assigned to the 3rd Light Cruiser Squadron of the [[Grand Fleet]]. She became [[flagship]] of the [[1st Cruiser Squadron]] near the end of 1916 when that unit was re-formed after most of its ships had been sunk at the [[Battle of Jutland]] in May.&lt;ref name=p21&gt;Parkes, p. 621&lt;/ref&gt; The ship was temporarily fitted as a [[minelayer]] in April 1917 by the addition of mine rails on her quarterdeck that could hold over 200 [[Naval mine|mines]], but never laid any mines. In mid-1917, she received half a dozen torpedo mounts, each with two tubes: one mount on each side of the [[mainmast]] on the upper deck and two mounts on each side of the rear turret on the [[quarterdeck]].&lt;ref&gt;McBride, p. 109&lt;/ref&gt;&lt;ref name=b14&gt;Burt 1986, p. 314&lt;/ref&gt; On 30 July 1917, Rear-Admiral [[Trevylyan Napier]] assumed command of the 1st Cruiser Squadron and was appointed Acting Vice-Admiral Commanding the Light Cruiser Force until he was relieved on 26 October 1918.&lt;ref name=&quot;iwm&quot;&gt;{{cite web|url=http://www.iwm.org.uk/collections/item/object/1030021223|title=Private papers of Sir Trevylyan Napier|publisher=Imperial War Museum|accessdate=22 November 2011}}&lt;/ref&gt;
+
+On 16 October 1917, the Admiralty received word of German ship movements, possibly indicating a raid. Admiral [[David Beatty, 1st Earl Beatty|Beatty]], the commander of the Grand Fleet, ordered most of his light cruisers and [[destroyer]]s to sea in an effort to locate the enemy ships. ''Courageous'' and ''Glorious'' were not initially included amongst them, but were sent to reinforce the [[2nd Light Cruiser Squadron (United Kingdom)|2nd Light Cruiser Squadron]] patrolling the central part of the [[North Sea]] later that day.&lt;ref&gt;Newbolt, pp. 150–51&lt;/ref&gt; Two German {{sclass-|Brummer|cruiser|0}} [[light cruiser]]s managed to slip through the gaps between the British patrols and destroy a convoy bound for Norway during the morning of 17 October, but no word was received of the engagement until that afternoon. The 1st Cruiser Squadron was ordered to intercept, but was unsuccessful as the German cruisers were faster than expected.&lt;ref&gt;Newbolt, pp. 156–57&lt;/ref&gt;
+
+===Second Battle of Heligoland Bight===
+{{Main|Second Battle of Heligoland Bight}}
+Throughout 1917 the Admiralty was becoming more concerned about German efforts to sweep paths through the British-laid [[minefield]]s intended to restrict the actions of the High Seas Fleet and German [[submarine]]s. A preliminary raid on German minesweeping forces on 31 October by light forces destroyed ten small ships. Based on intelligence reports, the Admiralty allocated the 1st Cruiser Squadron on 17 November 1917, with cover provided by the reinforced [[1st Battlecruiser Squadron]] and distant cover by the [[battleship]]s of the [[1st Battle Squadron (United Kingdom)|1st Battle Squadron]], to destroy the [[minesweeper]]s and their light cruiser escorts.&lt;ref&gt;Newbolt, pp. 164–65&lt;/ref&gt;
+
+The German ships—four light cruisers of II Scouting Force, eight destroyers, three divisions of minesweepers, eight ''[[Sperrbrecher]]''s (cork-filled trawlers) and two other trawlers to mark the swept route—were spotted at 7:30&amp;nbsp;am.&lt;ref group=Note&gt;The times used in this article are in [[Coordinated Universal Time|UTC]], which is one hour behind [[Central European Time|CET]], which is often used in German works.&lt;/ref&gt; ''Courageous'' and the light cruiser {{HMS|Cardiff|D58|2}} opened fire with their forward guns seven minutes later. The Germans responded by laying an effective [[smoke screen]]. The British continued in pursuit, but lost track of most of the smaller ships in the smoke and concentrated fire on the light cruisers. ''Courageous'' fired 92 fifteen-inch shells and 180 four-inch shells during the battle,&lt;ref&gt;Campbell, p. 67&lt;/ref&gt; and the only damage she received was from her own [[muzzle blast]].&lt;ref&gt;McBride, p. 115&lt;/ref&gt;  One fifteen-inch shell hit a gun shield of the light cruiser {{SMS|Pillau}} but did not affect her speed. At 9:30 the 1st Cruiser Squadron broke off their pursuit so that they would not enter a minefield marked on their maps; the ships turned south, playing no further role in the battle.&lt;ref&gt;McBride, pp. 110–12&lt;/ref&gt;
+
+After the battle, the mine fittings on ''Courageous'' were removed, and she spent the rest of the war intermittently patrolling the North Sea. In 1918, short take-off platforms were fitted for a [[Sopwith Camel]] and a [[Sopwith 1½ Strutter]] on both {{convert|15|in|mm|adj=on}} turrets.&lt;ref&gt;Campbell, p. 66&lt;/ref&gt; The ship was present at the surrender of the German High Seas fleet on 21 November 1918.&lt;ref name=b14/&gt; ''Courageous'' was placed in reserve at [[Rosyth]] on 1 February 1919 and she again became Napier's flagship as he was appointed Vice-Admiral Commanding the Rosyth Reserve until 1 May,&lt;ref name=iwm/&gt; The ship was assigned to the Gunnery School at [[HMNB Portsmouth|Portsmouth]] the following year as a turret drill ship. She became flagship of the Rear-Admiral Commanding the Reserve at Portsmouth in March 1920.&lt;ref&gt;Burt 1986, p. 315&lt;/ref&gt; Captain [[Sidney Meyrick]] became her [[Flag Captain]] in 1920.&lt;ref&gt;{{cite web|url=http://www.kcl.ac.uk/lhcma/locreg/MEYRICK.shtml|title=MEYRICK, Sir Sidney Julius (1879–1973), Admiral|publisher=Liddell Hart Centre for Military Archives|accessdate=22 November 2011}}&lt;/ref&gt; He was relieved by Capt John Casement in August 1921.&lt;ref&gt;Navy List 1921&lt;/ref&gt;
+
+==Between the wars==
+
+===Conversion===
+The [[Washington Naval Treaty]] of 1922 severely limited capital ship tonnage, and the Royal Navy was forced to scrap many of its older battleships and battlecruisers. The treaty allowed the conversion of existing ships totalling up to {{convert|66000|LT|t|0}} into aircraft carriers, and the ''Courageous'' class's combination of a large hull and high speed made these ships ideal candidates. The conversion of ''Courageous'' began on 29 June 1924 at Devonport.&lt;ref&gt;Burt 1993, pp. 273, 285&lt;/ref&gt; Her fifteen-inch turrets were placed into storage and reused during the Second World War for {{HMS|Vanguard|23|6}}, the Royal Navy's last battleship.&lt;ref&gt;Parkes, p. 647&lt;/ref&gt; The conversion into an aircraft carrier cost £2,025,800.&lt;ref name=&quot;Times48414&quot; /&gt;
+
+The ship's new design improved on her half-sister HMS ''Furious'', which lacked an [[Glossary of nautical terms#I|island]] and a conventional [[funnel]].  All superstructure, guns, torpedo tubes, and fittings down to the main deck were removed. A two-storey hangar was built on top of the remaining hull; each level was {{convert|16|ft|1}} high and {{convert|550|ft|m|1}} long.  The upper hangar level opened onto a short [[Flight deck#Early flight decks|flying-off deck]], below and forward of the main flight deck. The flying-off deck improved [[launch and recovery cycle]] flexibility until new fighters requiring longer takeoff rolls made the lower deck obsolete in the 1930s.&lt;ref&gt;Brown, D., p.2&lt;/ref&gt; Two {{convert|46|x|48|ft|m|adj=on|1}} lifts were installed fore and aft in the flight deck. An island with the [[bridge (nautical)|bridge]], flying control station and funnel was added on the starboard side, since islands had been found not to contribute significantly to turbulence. By 1939 the ship could carry {{convert|34500|impgal|l USgal}} of petrol for her aircraft.&lt;ref&gt;Friedman, pp. 103, 105–06&lt;/ref&gt;
+
+''Courageous'' received a [[Dual purpose gun|dual-purpose]] armament of sixteen [[QF 4.7 inch Mk VIII naval gun|QF 4.7-inch Mk VIII]] guns in single HA Mark XII mounts. Each side of the lower flight deck had a mount, and two were on the quarterdeck. The remaining twelve mounts were distributed along the sides of the ship.&lt;ref&gt;Burt 1993, pp. 274–78&lt;/ref&gt; During refits in the mid-1930s, ''Courageous'' received three quadruple Mk VII mounts for {{convert|40|mm|in|1|adj=on}} [[QF 2-pounder naval gun|2-pounder &quot;pom-pom&quot;]] [[anti-aircraft gun]]s, two of which were transferred from the battleship {{HMS|Royal Sovereign|05|2}}.  Each side of the flying-off deck had a mount, forward of the 4.7-inch guns, and one was behind the island on the flight deck.  She also received four water-cooled [[Vickers .50 machine gun|.50-calibre Mk III]] anti-aircraft [[machine gun]]s in a single quadruple mounting. This was placed in a [[sponson]] on the port side aft.&lt;ref&gt;Burt 1993, pp. 165, 278, 281&lt;/ref&gt;
+
+The reconstruction was completed on 21 February 1928, and the ship spent the next several months on trials and training before she was assigned to the [[Mediterranean Fleet]] to be based at Malta, in which she served from May 1928 to June 1930.&lt;ref name=b15&gt;Burt 1993, pp. 281, 285&lt;/ref&gt; In August 1929, the [[1929 Palestine riots]] broke out, and ''Courageous'' was ordered to respond. When she arrived off Palestine, her air wing was disembarked to carry out operations to help to suppress the disorder.&lt;ref name=&quot;AE31 p13&quot;&gt;Sturtivant ''Air Enthusiast''September–December 1988, p. 13.&lt;/ref&gt; The ship was relieved from the Mediterranean by ''Glorious'' and refitted from June to August 1930. She was assigned to the [[Atlantic Fleet (United Kingdom)|Atlantic]] and [[Home Fleet]]s from 12 August 1930 to December 1938, aside from a temporary attachment to the Mediterranean Fleet in 1936. In the early 1930s, traverse arresting gear was installed and she received two hydraulic [[aircraft catapult]]s on the upper flight deck before March 1934. ''Courageous'' was refitted again between October 1935 and June 1936 with her pom-pom mounts. She was present at the Coronation [[Fleet Review]] at [[Spithead]] on 20 May 1937 for King [[George VI]]. The ship became a training carrier in December 1938 when {{HMS|Ark Royal|91|2}} joined the Home Fleet. She was relieved of that duty by her half-sister ''Furious'' in May 1939. ''Courageous'' participated in the [[Isle of Portland|Portland]] Fleet Review on 9 August 1939.&lt;ref name=b15&gt;Burt 1993, pp. 281, 285&lt;/ref&gt;
+
+===Air group===
+[[File:Flycatcher-.jpg|thumb|Fairey Flycatcher]]
+[[File:15 Blackburn Skua, Bristol Perseus (15812107966).jpg|thumb|Blackburn Skua]]
+''Courageous'' could carry up to 48 aircraft; following completion of her trials and embarking stores and personnel, she sailed for [[Spithead]] on 14 May 1928. The following day, a [[Blackburn Dart]] of 463 Flight made the ship's first deck landing. The Dart was followed by the [[Fairey Flycatcher]]s of 404 and 407 Flights, the [[Fairey IIIF]]s of 445 and 446 Flights and the Darts of 463 and 464 Flight. The ship sailed for Malta on 2 June to join the Mediterranean Fleet.&lt;ref name=&quot;ab&quot; /&gt;
+
+From 1933 to the end of 1938 ''Courageous'' carried [[800 Naval Air Squadron|No. 800 Squadron]], which flew a mixture of nine [[Hawker Nimrod]] and three [[Hawker Osprey]] fighters.&lt;ref&gt;Sturtivant, pp. 155, 157–58&lt;/ref&gt; [[810 Naval Air Squadron|810]], [[820 Naval Air Squadron|820]] and [[821 Naval Air Squadron|821 Squadrons]] were embarked for reconnaissance and anti-ship attack missions during the same period. They flew the [[Blackburn Baffin]], the [[Blackburn Shark]], the [[Blackburn Ripon]] and the [[Fairey Swordfish]] [[torpedo bomber]]s as well as [[Fairey Seal]] reconnaissance aircraft.&lt;ref&gt;Sturtivant, pp. 197, 200, 243, 247, 250, 252&lt;/ref&gt; As a deck landing training carrier, in early 1939 ''Courageous'' embarked the [[Blackburn Skua]] and [[Gloster Sea Gladiator]] fighters of [[801 Naval Air Squadron|801 Squadron]] and the Swordfish torpedo bombers of [[811 Naval Air Squadron|811 Squadron]], although both of these squadrons were disembarked when the ship was relieved of her training duties in May.&lt;ref&gt;Sturtivant, pp. 161, 164–65, 203–04&lt;/ref&gt;
+
+==Second World War and sinking==
+[[File:HMS Courageous sinking.jpg|thumb|right|''Courageous'' sinking after being torpedoed by ''U-29'']]
+''Courageous'' served with the Home Fleet at the start of World War II with 811 and [[822 Naval Air Squadron|822 Squadrons]] aboard, each squadron equipped with a dozen Fairey Swordfish.&lt;ref&gt;Brown, J.D., p. 12&lt;/ref&gt; In the early days of the war, [[Hunter-killer Group|hunter-killer groups]] were formed around the fleet's aircraft carriers to find and destroy U-boats. On 31 August 1939 she went to her war station at Portland and embarked the two squadrons of Swordfish. ''Courageous'' departed Plymouth on the evening of 3 September 1939 for an [[Anti-submarine warfare|anti-submarine]] patrol in the [[Western Approaches]], escorted by four destroyers.&lt;ref name=&quot;ab&quot; /&gt; On the evening of 17 September 1939, she was on one such patrol off the coast of Ireland. Two of her four escorting destroyers had been sent to help a [[merchant ship]] under attack and all her aircraft had returned from patrols. During this time, ''Courageous'' was stalked for over two hours by {{Ship|German submarine|U-29|1936|2}}, commanded by [[Captain Lieutenant#Germany and NATO|Captain-Lieutenant]] [[Otto Schuhart]]. The carrier then turned into the wind to launch her aircraft. This put the ship right across the [[Bow (ship)|bow]] of the submarine, which fired three torpedoes. Two of the torpedoes struck the ship on her [[Port (nautical)|port side]] before any aircraft took off, knocking out all electrical power, and she [[Capsizing|capsized]] and sank in 20 minutes with the loss of 519 of her crew, including her captain.&lt;ref&gt;Burt 1993, pp. 286–88&lt;/ref&gt; The survivors were rescued by the Dutch [[ocean liner]] ''Veendam'' and the British freighter ''Collingworth''. The two escorting destroyers counterattacked ''U-29'' for four hours, but the submarine escaped.&lt;ref&gt;Blair, pp. 90–91&lt;/ref&gt;
+
+An earlier unsuccessful attack on ''Ark Royal'' by {{ship|German submarine|U-39|1938|2}} on 14 September, followed by the sinking of ''Courageous'' three days later, prompted the Royal Navy to withdraw its carriers from anti-submarine patrols. ''Courageous'' was the first British warship to be sunk by German forces. (The submarine {{HMS|Oxley||2}} [[Friendly fire|had been sunk]] a week earlier by  the  British submarine {{HMS|Triton|N15|2}}.)&lt;ref name=r&gt;Rohwer, pp. 1–3&lt;/ref&gt; The commander of the German submarine force, Commodore [[Karl Dönitz]], regarded the sinking of ''Courageous'' as &quot;a wonderful success&quot; and it led to widespread jubilation in the ''[[Kriegsmarine]]'' (German navy). Grand Admiral [[Erich Raeder]], commander of the ''Kriegsmarine'', directed that Schuhart be awarded the [[Iron Cross|Iron Cross First Class]] and that all other members of the crew receive the Iron Cross Second Class.&lt;ref&gt;Blair, p. 91&lt;/ref&gt;
+
+==Notes==
+{{Portal|Battleships}}
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|2|refs=
+&lt;ref name=&quot;ab&quot;&gt;
+{{cite journal
+|year=1980 |issn=0262-8791
+|title=HMS Courageous
+|journal=Air-Britain Aeromiltaria
+|publisher= [[Air-Britain]]
+|issue=3|location=Shepperton, Middlesex
+|pages= 59–64}}&lt;/ref&gt;
+&lt;ref name=&quot;Times48414&quot;&gt;
+{{Cite newspaper The Times
+|articlename=An Over-Age Ship More Vulnerable Than Latest Designs
+|author=
+|section=News
+|day_of_week=
+|date=19 September 1939
+|page_number=8
+|issue=48414
+|column=C
+}}&lt;/ref&gt;
+}}
+
+==References==
+* {{cite book | first=Clay | last=Blair | authorlink=Clay Blair | title=Hitler's U-Boat War: The Hunters 1939–1942 | publisher=[[Random House]] | location=New York | year=1996 | isbn=0-394-58839-8}}
+* {{cite book |last=Brown |first=David |authorlink =David K. Brown |title =Aircraft Carriers |publisher =Arco Publishing Company |volume = |edition = |year =1977 |location =New York |isbn =0-668-04164-1}}
+* {{cite book|last=Brown|first=J. D.|title=Carrier Operations in World War II|year=2009|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-108-2}}
+* {{cite book|last=Burt|first=R. A.|title=British Battleships of World War One|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1986|isbn=0-87021-863-8}}
+* {{cite book|last=Burt|first=R. A.|title=British Battleships, 1919–1939|year=1993|publisher=Arms and Armour Press|location=London|isbn=1-85409-068-2}}
+* {{cite book |last=Campbell |first=N. J. M. |title=Battle Cruisers: The Design and Development of British and German Battlecruisers of the First World War Era |publisher=Conway Maritime Press |location=Greenwich, UK |year=1978 |series=Warship Special |volume=1 |isbn=0-85177-130-0}}
+* {{cite book|last=Friedman|first=Norman|title=British Carrier Aviation: The Evolution of the Ships and Their Aircraft|year=1988|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-054-8}}
+* {{cite book|last=McBride|first=Keith|title=Warship 1990|editor=Gardiner, Robert|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|volume=1990|pages=93–101|chapter=The Weird Sisters|isbn=1-55750-903-4}}
+* {{cite book|last=Newbolt|first=Henry|title=Naval Operations|edition=reprint of the 1931|series=History of the Great War Based on Official Documents|volume=V|year=1996|publisher=Battery Press|location=Nashville, Tennessee|isbn=0-89839-255-1}}
+* {{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+* {{cite book |last=Roberts |first=John |title=Battlecruisers |publisher=Naval Institute Press |location=Annapolis, Maryland|year=1997 |isbn=1-55750-068-1}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939–1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite magazine|last=Sturtivant|first=Ray|title=Fairey's First Fleet Fighter|magazine=[[Air Enthusiast]]|date=September–December 1988|issue=Thirty-seven|pages=1–14|issn=0143-5450}}
+* {{cite book|last=Sturtivant|first=Ray|title=The Squadrons of the Fleet Air Arm|year=1984|publisher=Air-Britain (Historians)|location=Tonbridge, Kent, UK|isbn=0-85130-120-7}}
+
+==External links==
+{{Commons category|Glorious class cruiser/aircraft carrier}}
+* [http://www.battleships-cruisers.co.uk/courageous_class.htm Photo gallery of ''Courageous'' and ''Glorious'']
+* [http://dreadnoughtproject.org/tfs/index.php/Courageous_Class_Battlecruiser_(1916) Data on as-fitted design and equipment]
+* [http://www.iwm.org.uk/collections/item/object/80009193 IWM Interview with survivor Walter Young]
+* [http://www.iwm.org.uk/collections/item/object/80016952 IWM Interview with survivor Gordon Smerdon]
+* [http://www.iwm.org.uk/collections/item/object/80012543 IWM Interview with survivor Patrick Cannon]
+
+{{Courageous class aircraft carrier}}
+{{September 1939 shipwrecks}}
+{{Featured article}}
+
+{{coord|50|10|N|14|45|W|display=title}}
+
+{{DEFAULTSORT:Courageous (50)}}
+[[Category:1916 ships]]
+[[Category:Armstrong Whitworth ships]]
+[[Category:Courageous-class aircraft carriers]]
+[[Category:Maritime incidents in September 1939]]
+[[Category:Ships sunk by German submarines in World War II]]
+[[Category:Tyne-built ships]]
+[[Category:World War I battlecruisers of the United Kingdom]]
+[[Category:World War II aircraft carriers of the United Kingdom]]
+[[Category:World War II shipwrecks in the Atlantic Ocean]]</text>
+      <sha1>kdgp1hw40iwlhe0ww1oqt0fcyz9j94l</sha1>
+    </revision>
+  </page>
+</mediawiki>

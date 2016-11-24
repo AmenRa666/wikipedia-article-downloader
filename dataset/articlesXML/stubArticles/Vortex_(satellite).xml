@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vortex (satellite)</title>
+    <ns>0</ns>
+    <id>30860609</id>
+    <revision>
+      <id>736924993</id>
+      <parentid>628253185</parentid>
+      <timestamp>2016-08-30T18:31:24Z</timestamp>
+      <contributor>
+        <username>Bender235</username>
+        <id>88026</id>
+      </contributor>
+      <minor/>
+      <comment>restructured according to [[MOS:APPENDIX]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4729">[[Image:SIGINT Vortex.jpg|thumb|right|alt=Vortex satellite footprints|Vortex satellite footprints]]
+'''Vortex''', previously known as '''Chalet''', was a class of [[spy satellite]] operated by the [[United States]] during the 1980s and 1990s to collect [[SIGINT|signals intelligence]] (SIGINT) from high Earth orbit.  The Vortex satellites were operated by the [[National Reconnaissance Office]] for the [[United States Air Force]] and listened to radio transmissions originating from Earth or space.  The intercepted data is believed to have been fed into and analyzed by the [[National Security Agency]] [[ECHELON]] system.
+
+The satellites each had a mass of approximately 1,800 [[kilogram]]s and are operated from non-stationary [[geosynchronous orbit]]s.  Each reportedly carried a 38-meter-diameter umbrella-like [[parabolic reflector|reflecting dish]] to collect radio signals from Earth.  At least six launch attempts were made of Chalet/Vortex satellites between 1978 and 1989. The Chalet/Vortex satellites replaced the older generation of [[Canyon (satellite)|Canyon satellites]], and were superseded by the larger, more capable [[Mercury (satellite)|Mercury]] satellites.
+
+==Launches==
+{| class=&quot;wikitable&quot; style=&quot;width:100%;&quot;
+|-
+! Name
+! [[International Designator|COSPAR ID]]&lt;br/&gt;&lt;small&gt;[[Satellite Catalog Number|SATCAT №]]&lt;/small&gt;
+! Launch date&lt;br/&gt;(UTC)
+! Launch vehicle
+! Launch site
+! Orbit
+! Remarks
+|-
+|| [[OPS 9454]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1978-058A 1978-058A]&lt;br/&gt;&lt;small&gt;10941&lt;/small&gt; || 10 June 1978&lt;br/&gt;19:08 || [[Titan III|Titan III(23)C]] || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|| [[OPS 1948]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1979-086A 1979-086A]&lt;br/&gt;&lt;small&gt;11558&lt;/small&gt; || 1 October 1979&lt;br/&gt;11:22:00 || [[Titan III|Titan III(23)C]] || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|| [[OPS 4029]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1981-107A 1981-107A]&lt;br/&gt;&lt;small&gt;12930&lt;/small&gt; || 31 October 1981&lt;br/&gt;09:22:00 || [[Titan III|Titan III(23)C]] || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|| [[OPS 0441]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1984-009A 1984-009A]&lt;br/&gt;&lt;small&gt;14675&lt;/small&gt; || 31 January 1984&lt;br/&gt;03:08:01 || {{nowrap|[[Titan 34D|Titan III(34)D]]/[[Transtage]]*}} || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|| [[USA-31]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1988-077A 1988-077A]&lt;br/&gt;&lt;small&gt;19458&lt;/small&gt; || 2 September 1988&lt;br/&gt;12:05:02 || {{nowrap|[[Titan 34D|Titan III(34)D]]/[[Transtage]]}} || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|| [[USA-37]] || [http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1989-035A 1989-035A]&lt;br/&gt;&lt;small&gt;19976&lt;/small&gt; || 10 May 1989&lt;br/&gt;19:47:01 || {{nowrap|[[Titan 34D|Titan III(34)D]]/[[Transtage]]}} || [[Cape Canaveral Air Force Station|CCAFS]] [[Cape Canaveral Air Force Station Space Launch Complex 40|LC-40]] ||  ||
+|-
+|}
+:''&lt;nowiki&gt; * – &lt;/nowiki&gt;The rockets used for the first three launches also included Transtages, however it was considered an integral component of the {{nowrap|Titan III(23)C}} rocket, and an additional upper stage for {{nowrap|Titan III(34)D}} launches.''
+
+==See also==
+*[[Magnum (satellite)|Magnum SIGINT satellites]] – a similar, contemporary program run for the [[Central Intelligence Agency]]
+*[[Mercury (satellite)|Mercury]] or &quot;Advanced Vortex&quot; SIGINT satellites – replacements for Vortex
+
+==References==
+*Richelson, Jeffrey T. ed. ''U.S. Military Uses of Space, 1945-1991 Vol 1, Guide.'' National Security Archive. 1991.
+
+==External links==
+*[http://www.daviddarling.info/encyclopedia/C/Chalet_Vortex.html Vortex satellite drawing]
+*[https://fas.org/spp/military/program/sigint/overview.htm SIGINT satellite overeview]  from [[Federation of American Scientists]]
+*[https://fas.org/spp/military/program/sigint/androart.htm List of SIGINT satellites] from FAS
+*[http://www.planet4589.org/space/jsr/back/news.369 Jonathan's space report No 369] (1998-08-22)
+*[http://www.astronautix.com/craft/chalet.htm Vortex/Chalet history] from [[Encyclopedia Astronautica]]
+*[http://planet4589.org/space/log/ Launch log] from [[Jonathan's Space Report]]
+
+{{NRO satellites}}
+{{US Reconnaissance Satellites}}
+
+[[Category:National Reconnaissance Office satellites]]
+[[Category:SIGINT satellites]]</text>
+      <sha1>2wd50ijoprvynct8uegfrm6f6z33z9q</sha1>
+    </revision>
+  </page>
+</mediawiki>

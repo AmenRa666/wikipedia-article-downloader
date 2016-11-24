@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian cruiser Marco Polo</title>
+    <ns>0</ns>
+    <id>44950518</id>
+    <revision>
+      <id>745627959</id>
+      <parentid>708761270</parentid>
+      <timestamp>2016-10-22T08:33:30Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14012">{{Good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:PostcardMarco Polo.jpg|300px]]
+|Ship caption=An Italian postcard of ''Marco Polo''
+}}
+{{Infobox ship class overview
+|Name=
+|Operators={{navy|Kingdom of Italy}}
+|Class before=None
+|Class after={{sclass-|Vettor Pisani|cruiser|4}}
+}}
+{{Infobox ship career
+|Hide header=
+|Ship name=''Marco Polo''
+|Ship namesake=[[Marco Polo]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Regio Cantieri di Castellammare di Stabia]], [[Castellammare di Stabia]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=7 January 1890
+|Ship launched=27 October 1892
+|Ship sponsor=
+|Ship christened=
+|Ship completed=21 July 1894
+|Ship commissioned=
+|Ship renamed=''Cortellazo'', 4 April 1918
+|Ship reclassified=As [[troop transport]], 4 April 1918
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship name=''Cortellazzo''
+|Ship out of service=
+|Ship renamed=''Europa'', 1 October 1920
+|Ship struck=16 January 1921
+|Ship reinstated=16 January 1921
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship name=''Europa''
+|Ship renamed=''Volta'', 16 January 1921
+|Ship struck=5 January 1922
+|Ship fate=Sold for [[Ship breaking|scrap]], 1922
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Armored cruiser]]
+|Ship displacement={{convert|4583|t|LT|0|abbr=on}} 
+|Ship length={{convert|106.05|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|14.67|m|ftin|abbr=on}}
+|Ship draft={{convert|5.88|m|ftin|abbr=on}}
+|Ship power=*{{convert|10000|ihp|lk=in|abbr=on}}
+*4 [[Scotch marine boiler]]s
+|Ship propulsion=2 shafts, 2 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]  
+|Ship speed={{convert|17|kn|lk=in}}
+|Ship range={{convert|5800|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=394
+|Ship crew=
+|Ship armament=*6 single {{convert|152|mm|abbr=on}} guns
+*10 single {{convert|120|mm|abbr=on}} guns
+*9 single {{convert|57|mm|abbr=on}} [[Hotchkiss gun]]s
+*2 single {{convert|37|mm|abbr=on}} Hotchkiss guns
+*5 × {{convert|450|mm|abbr=on|1}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|102|mm|abbr=on|0}}
+*[[Gun shield]]s: {{convert|2|in|mm|disp=flip|abbr=on|0}}
+*[[Deck (ship)|Deck]]: {{convert|1|in|mm|disp=flip|abbr=on}}
+*[[Conning tower]]: {{convert|2|in|mm|0|abbr=on}}
+|Ship notes=
+}}
+|}
+'''''Marco Polo''''' was an [[armored cruiser]] built for the Royal Italian Navy (''[[Regia Marina]]'') in the 1890s, the first of her type in Italian service. The ship spent the bulk of her career deployed in the [[Far East]]. Between deployments she participated in the [[Italo-Turkish War]] of 1911–12 during which she caused a diplomatic incident with the [[Austro-Hungarian Empire]]. After that affair ''Marco Polo'' was sent to [[Libya]] where she bombarded the towns of [[Khoms, Libya|Homs]], and [[Zuara]] and the defenses of the [[Dardanelles]]. In between these operations, the ship provided [[naval gunfire support]] to the [[Royal Italian Army]] in Libya. Due to her age, ''Marco Polo'' did not play a significant role in World War I, serving as an [[accommodation ship]] in Venice until she began conversion into a [[troopship]] in 1917. After a series of renamings in 1920–21, the ship was stricken from the [[naval register]] in 1922 and subsequently sold for [[ship breaking|scrap]].
+
+==Design and description==
+[[File:BrasseysMarcoPolo.jpg|thumb|left|Right elevation and deck plan drawing from [[Brassey's Naval Annual]] 1902]]
+''Marco Polo'' was begun as an improved {{sclass-|Etna|cruiser|0}} [[protected cruiser]], but she was modified while under construction into an armored cruiser, the first such ship in Italian service. The ship had a [[length between perpendiculars]] of {{convert|99.65|m|ftin|sp=us}} and an [[length overall|overall length]] of {{convert|106.05|m|ftin|sp=us}}. She had a [[beam (nautical)|beam]] of {{convert|14.67|m|ftin|sp=us}} and a [[draft (hull)|draft]] of {{convert|5.88|m|ftin|sp=us}}. ''Marco Polo'' [[displacement (ship)|displaced]] {{convert|4583|t|LT|sp=us}} at normal load, and about {{convert|4900|t|LT|sp=us}} at [[deep load]]. The ship had a complement of 22 officers and 372 enlisted men.&lt;ref name=f7&gt;Fraccaroli, p. 27&lt;/ref&gt;
+
+She was powered by two [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]], each driving one propeller shaft. Steam for the engines was supplied by four [[Scotch marine boiler]]s and their exhausts were trunked into a pair of [[funnel (ship)|funnels]] [[amidships]]. Rated at {{convert|10000|ihp|lk=in}}, her engines were designed to give ''Marco Polo'' a speed of {{convert|19|kn|lk=in}}, but the ship only reached a speed of {{convert|17.8|kn}}  during her [[sea trial]]s even though the engines produced {{convert|10663|ihp|abbr=on}}.&lt;ref name=g0&gt;Chesneau &amp; Kolesnik, p. 350&lt;/ref&gt; She had a cruising radius of about {{convert|5800|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=s8&gt;Silverstone, p. 285&lt;/ref&gt;
+
+''Marco Polo''{{'}}s main armament consisted of six 40-[[Caliber (artillery)|caliber]] {{convert|152|mm|in|abbr=on|0}} guns in single mounts. One of these guns was each mounted at the bow and stern and the remaining four at the corners of the central citadel in armored [[casemate]]s. Ten 40-caliber {{convert|120|mm|in|abbr=on|1}} guns served as the ship's secondary armament. They were all mounted on the [[broadside]], four in unprotected [[embrasure]]s in the hull sides and the other six on the upper [[deck (ship)|deck]] protected by [[gun shield]]s. For defense against [[torpedo boat]]s, the ship carried nine [[List of British ordnance terms#QF|quick-firing (QF)]] [[QF 6 pounder Hotchkiss|{{convert|57|mm|abbr=on|1}} Hotchkiss]] guns and two QF {{convert|37|mm|in|abbr=on}} [[Hotchkiss gun]]s. The ship was also equipped with five {{convert|450|mm|in|abbr=on|1}} [[torpedo tube]]s.&lt;ref name=g0/&gt;
+
+The ship was protected by a {{convert|100|mm|in|1|adj=on|sp=us}} [[belt armor|armored belt]] that only protected the middle of her hull. The upper [[strake]] of armor was also 100&amp;nbsp;mm thick and protected just the middle of the ship, up to the height of the upper deck. The armored deck was {{convert|25|mm|abbr=on}} thick. The armor of the [[conning tower]] and the gun shields were both {{convert|50|mm|abbr=on}} thick.&lt;ref name=f7/&gt;
+
+==Construction and career==
+''Marco Polo'', named after the [[Marco Polo|eponymous explorer]],&lt;ref name=s7&gt;Silverstone, p. 301&lt;/ref&gt; was [[keel laying|laid down]] on 1 July 1890 at the [[Regio Cantieri di Castellammare di Stabia|Royal Shipyard]] in [[Castellammare di Stabia]].&lt;ref name=f7/&gt; The ship was [[Ship naming and launching|launched]] on 27 October 1892 and completed on 21 July 1894.&lt;ref name=g0/&gt; She visited [[Heraklion]], [[Crete]] and [[Piraeus]], Greece in May 1897 before departing for the Far East on 26 January 1898. In May, ''Marco Polo'' sailed up the [[Yangtze River]] to make port visits at [[Nanking]] and [[Hankow]] before returning to [[Shanghai]] in July. She visited Japan from August to November and then sailed to Shanghai where she remained until August 1899. The ship departed Shanghai on 27 August and arrived in [[Naples]] on 20 October 1899. ''Marco Polo'' departed for China in October 1901 and remained there until February 1903. A year later, she began her third tour there in March 1904 and did not leave China until 14 January 1907. En route home the ship visited [[Zanzibar]], [[Mogadishu]], [[Italian Somaliland]], and [[Massawa]], [[Eritrea]] before arriving at [[Taranto]] on 26 April.&lt;ref name=ma&gt;Marchese&lt;/ref&gt; ''Marco Polo'' was rearmed in 1911 and her armament was reduced to six 152&amp;nbsp;mm, four 120&amp;nbsp;mm, six 57&amp;nbsp;mm, and two 37&amp;nbsp;mm guns. One torpedo tube was also removed during this refit.&lt;ref name=g0/&gt;
+
+When the Italo-Turkish War of 1911&amp;ndash;12 began on 29 September 1911, ''Marco Polo'' was assigned to the 2nd [[Division (naval)|Division]] of the 1st [[Squadron (naval)|Squadron]] of the Mediterranean Fleet. She was quickly transferred, however, to the command of [[Rear-Admiral]] [[Prince Luigi Amedeo, Duke of the Abruzzi]], Inspector of Torpedo Boats.&lt;ref&gt;Beehler, p. 9&lt;/ref&gt; His command was deployed in the [[Adriatic Sea]] and was patrolling the area for Ottoman ships. ''Marco Polo'' and two destroyers stopped an Austro-Hungarian ship on 5 October in the bay at [[San Giovanni di Medua]], Albania, and when they sent a boat to board the merchant ship, Ottoman [[coastal artillery]] began firing at the boat. The Italian ships returned fire for 45 minutes and silenced the guns after nearly exhausting their ammunition. The incident prompted a diplomatic protest by [[Austria-Hungary]] and Italy ceased its operations against the Ottomans in Albania. ''Marco Polo'' was then transferred to the 4th Division of the 2nd Squadron, operating off the Libyan coast.&lt;ref&gt;Stephenson, pp. 98–101, 109&lt;/ref&gt;
+
+On 17 October, she arrived at Homs to support Italian forces attempting to occupy the town and bombarded it after the Ottoman commander refused to surrender. Bad weather prevented any landings until 21 October and the ship continued to provide fire support for the Italian troops. ''Marco Polo'' was tasked to provide fire support for the Royal Italian Army and remained at Homs after the bulk of the fleet returned to Italy to refit in December. In early April 1912, the ship, together with the armored cruiser {{ship|Italian cruiser|Carlo Alberto||2}} bombarded Zuara as a distraction while the army made an unopposed landing {{convert|40|km|sp=us}} away.&lt;ref&gt;Beehler, pp. 30–31, 37, 47, 50, 53, 65&lt;/ref&gt; About a week later, she rejoined the 4th Division as it, and the bulk of the Italian fleet, sailed east in a futile search for the [[Ottoman Navy|Ottoman fleet]] in the [[Aegean Sea]]. ''Marco Polo'' joined the rest of the fleet in desultorily bombarding the defenses of the entrance to the Dardanelles on 18 April.&lt;ref&gt;Stephenson, pp. 262–65&lt;/ref&gt; The ship then returned to Libya where she resumed her previous task of providing fire support for the army. In June she supported the operation to capture [[Misrata]]&lt;ref&gt;Beehler, p. 81&lt;/ref&gt; and finally returned home on 16 July.&lt;ref name=ma/&gt;
+
+''Marco Polo'' departed Taranto on 25 February 1913 for her fourth deployment to the Far East.&lt;ref name=ma/&gt; When World War I began in August 1914, she was in [[Kobe]], Japan and the Italian declaration of neutrality on 2 August simplified the problems faced by the [[Allies of World War I|Allies]] in the Far East.&lt;ref&gt;Halpern, p. 73&lt;/ref&gt; The ship departed Shanghai on 7 December and was diverted to [[Hodeidah]], [[Yemen]], en route and finally reached Naples on 4 March 1915.&lt;ref name=ma/&gt; Thoroughly obsolete by the time Italy declared war on the [[Central Powers]] in May 1915, ''Marco Polo'' was used as an accommodation ship at Venice, among who were the crews of the British submarines operating there from October 1915 through May 1917.&lt;ref&gt;Kemp &amp; Jung, pp. 14, 18, 23&lt;/ref&gt; The ship began conversion into a troop transport at the [[Venetian Arsenal]] in 1917. This required the removal of her armor, the replacement of her armament with some {{convert|76|mm|abbr=on}} guns and internal modifications to suit her new role. She was recommissioned with the new name of ''Cortellazo'' on 4 April 1918. The ship was rechristened ''Europa'' on 1 October 1920, discarded on 16 January 1921, but simultaneously rechristened ''Volta'', then discarded on 5 January 1922. She was sold for scrap.&lt;ref name=f7/&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+*{{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis, Maryland|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false}}
+*{{cite book|last=Fraccaroli|first=Aldo |title=Italian Warships of World War I|location=London|publisher=Ian Allan|year=1970|isbn=0-7110-0105-7}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{cite book|last=Halpern|first=Paul S.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1994|isbn=1-55750-352-4}}
+*{{cite journal|last1=Kemp|first1=Paul|last2=Jung|first2=Peter|year=1989|title=Five Broken Down B Boats: British Submarine Operations in the Northern Adriatic 1915–1917|journal=Warship International|publisher=International Naval Research Organization|location=Toledo, Ohio|volume=XXVI|issue=1|pages=10–29|issn=0043-0374|lastauthoramp=y}}
+*{{cite journal|last=Marchese|first=Giuseppe|date=October 1995|title=La Posta Militare della Marina Italiana 7^ puntata|journal=La Posta Militare|issue=71|url=http://www.giuseppemarchese.it/articoli/art_56/art56_7.html|language=Italian}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Stephenson|first=Charles|title=A Box of Sand: The Italo-Ottoman War 1911–1912: The First Land, Sea and Air War|year=2014|publisher=Tattered Flag Press|location=Ticehurst, UK|isbn=978-0-9576892-7-5}}
+
+==External links==
+*[http://www.marina.difesa.it/storiacultura/storia/almanacco/Pagine/PQRS/marco_polo.aspx Marco Polo on the website of the Italian Navy]
+*{{cite web |url=http://www.navypedia.org/ships/italy/it_cr_marco_polo.htm |title=Regia Marina (Italy) |work=Navypedia  |first1=Ivan |last1=Gogin  |year=2009–2014 |accessdate=March 3, 2015}}
+
+{{WWIItalianShips}}
+
+[[Category:Cruisers of Italy]]
+[[Category:Cruiser classes]]
+[[Category:1892 ships]]
+[[Category:Cruisers of the Regia Marina]]
+[[Category:Ships built in Castellammare di Stabia]]</text>
+      <sha1>2o3i8mo5hrjo6hlyzoifo8amjz4vnoh</sha1>
+    </revision>
+  </page>
+</mediawiki>

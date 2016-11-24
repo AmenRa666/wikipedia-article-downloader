@@ -1,0 +1,217 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Regioni-class cruiser</title>
+    <ns>0</ns>
+    <id>44118093</id>
+    <revision>
+      <id>745786960</id>
+      <parentid>740839400</parentid>
+      <timestamp>2016-10-23T08:43:29Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18999">{{good article}}
+{|{{Infobox ship begin |infobox caption= |sclass=2}} 
+{{Infobox ship image
+|Ship image=[[File:Italian cruiser Etruria Hudson 1909 LOC 4a16123v.jpg|300px]]
+|Ship caption={{ship|Italian cruiser|Etruria||2}} in 1909
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before={{ship|Italian cruiser|Piemonte||2}}
+|Class after={{ship|Italian cruiser|Calabria||2}}
+|Built range=1888&amp;ndash;1901
+|In commission range=1893&amp;ndash;1923
+|Total ships completed=6
+|Total ships lost=1
+|Total ships retired=
+|Total ships scrapped=4
+|Total ships preserved=1
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass2-|Regioni|cruiser}}
+|Ship displacement=Full load: {{convert|3110|MT|abbr=on}}
+|Ship length={{convert|84.8|to|88.25|m|abbr=on}}
+|Ship beam={{convert|12.03|to|12.73|m|abbr=on}}
+|Ship draft={{convert|4.67|to|5.45|m|abbr=on}}
+|Ship propulsion=2 shaft [[triple-expansion engine]]s
+|Ship power=4 [[water-tube boiler]]s, {{convert|5536|to|7471|ihp|abbr=on}}
+|Ship speed={{convert|17.9|to|20|kn|abbr=on}}
+|Ship range={{convert|2100|nmi|abbr=on|lk=in}} at {{convert|10|kn|abbr=on}}
+|Ship complement=213&amp;ndash;278
+|Ship armament=*4 × {{convert|15|cm|abbr=on}} guns
+*6 × {{convert|12|cm|abbr=on}} guns
+*1 × {{convert|75|mm|abbr=on}} gun
+*8 × {{convert|57|mm|abbr=on}} guns
+*2 × {{convert|37|mm|abbr=on}} guns
+*2 × {{convert|45|cm|abbr=on}} [[torpedo tube]]s
+|Ship armor=*Deck: {{convert|25|to|50|mm|abbr=on|0}}
+*[[Conning tower]]: 50&amp;nbsp;mm
+}}
+|}
+
+The '''Regioni class''' was a group of six [[protected cruiser]]s built for the Italian ''[[Regia Marina]]'' (Royal Navy) in the late 1880s through the early 1900s. The class comprised {{ship|Italian cruiser|Umbria||2}}, {{ship|Italian cruiser|Lombardia||2}}, {{ship|Italian cruiser|Etruria||2}}, {{ship|Italian cruiser|Liguria||2}}, {{ship|Italian cruiser|Elba||2}}, and {{ship|Italian cruiser|Puglia||2}}, all of which were named for regions of Italy with the exception of ''Elba'', which was named for [[Elba|the island]].&lt;ref&gt;&quot;Lombardia&quot;&lt;/ref&gt; The class is sometimes referred as the ''Umbria'' class, for the first ship to be laid down. The ships, built by four different shipyards, varied slightly in their size, speed, and armament, but all could steam at about {{convert|18|kn|abbr=on}} and their main armament consisted of four {{convert|15|cm|adj=on|sp=us}} guns and six {{convert|12|cm|abbr=on}} guns.
+
+The ships served in a variety of roles throughout their careers, including scouts for the main fleet, colonial cruisers, and representatives of Italy at major foreign events. ''Elba'' observed the [[Russo-Japanese War]], including the [[Battle of Chemulpo Bay]] in 1904, where she picked up Russian survivors. ''Lombardia'' was converted into a depot ship for submarines in 1906. ''Elba'' and ''Liguria'' were equipped with observation balloons in 1907&amp;ndash;1908. In 1910, ''Umbria'' was sold to Haiti and renamed ''Consul Gostrück'', though she quickly sank under the care of her inexperienced crew. The remaining ships, except for ''Lombardia'', took part in the [[Italo-Turkish War]] in 1911&amp;ndash;12, where they provided gunfire support to Italian troops, bombarded Ottoman ports, and instituted a blockade in the [[Red Sea]].
+
+By [[World War I]], most of the ships had been withdrawn to secondary roles, with ''Elba'' having been converted into a [[seaplane tender]]. ''Puglia'' was the only member of the class to take an active role, based out of [[Durazzo]]. ''Etruria'' was deliberately blown up by the ''Regia Marina'' as a deception operation against Austria-Hungary. The remaining ships were broken up for scrap in the early 1920s, though the bow section of ''Puglia'' was preserved at the [[Vittoriale degli italiani]] museum.
+
+==Design==
+The design for the Regioni class, sometimes referred to as the ''Umbria'' class after the [[lead ship]], was prepared by the [[naval architect]] [[Edoardo Masdea]], and it was the first protected cruiser designed in Italy. All previous ships of the type had been designed in Britain, or in the case of the {{sclass-|Etna|protected cruiser|4}}, enlarged copies of the British-designed {{ship|Italian cruiser|Giovanni Bausan||2}}. As a first attempt, the ships of the Regioni class proved to be a disappointment, owing to their slow speed and insufficient armor protection.&lt;ref&gt;Gardiner, pp. 348&amp;ndash;9&lt;/ref&gt;
+
+===General characteristics===
+All six ships varied slightly in their dimensions. The ships were {{convert|80|to|83.2|m|sp=us}} [[length at the waterline|long at the waterline]] and {{convert|88.25|m|abbr=on}} [[length overall|long overall]]. They had a [[beam (nautical)|beam]] of {{convert|12.03|to|12.72|m|abbr=on}} and a [[draft (hull)|draft]] of {{convert|4.67|to|5.35|m|abbr=on}}. The ships displaced {{convert|2245|to|2689|MT|sp=us}} normally and {{convert|2411|to|3110|MT|abbr=on|sp=us}} at full load. The ships were originally designed with a fore and aft sailing rig, though this was quickly removed. Instead, they were fitted with two pole masts equipped with [[spotting top]]s. They had a crew of between 213-78.&lt;ref name=G349&gt;Gardiner, p. 349&lt;/ref&gt;
+
+===Machinery===
+The ships' propulsion system consisted of a pair of horizontal [[triple-expansion engine]]s, with steam supplied by four cylindrical [[water-tube boiler]]s. The boilers were trunked into a pair of [[funnel (ship)|funnels]] on the centerline.&lt;ref name=G349&gt;Gardiner, p. 349&lt;/ref&gt; On her speed trials, ''Umbria'' reached a maximum of {{convert|19|kn|lk=in}} at {{convert|7400|ihp|lk=in}}. ''Lombardia'' made {{convert|18.4|kn|abbr=on}} at {{convert|6010|ihp|abbr=on}}, while ''Etruria'' reached  {{convert|18.3|kn|abbr=on}} at {{convert|7018|ihp|abbr=on}}. ''Liguria'' made {{convert|18.1|kn|abbr=on}} at {{convert|5536|ihp|abbr=on}} and ''Elba'', the slowest member of the class, made {{convert|17.9|kn|abbr=on}} at {{convert|7471|ihp|abbr=on}}&lt;ref&gt;&quot;Notes on Ships and Torpedo Boats&quot;, pp. 67&amp;ndash;68&lt;/ref&gt; ''Puglia'' was by far the fastest, capable of steaming at a speed of {{convert|20|kn|abbr=on}}.&lt;ref&gt;Brassey, p. 280&lt;/ref&gt; The ships had a cruising radius of about {{convert|2100|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=G349/&gt;
+
+===Armament and armor===
+[[File:Puglia (Vittoriale degli italiani) - DSC02062.JPG|thumb|One of ''Puglia''{{'}}s light guns]]
+All six ships were armed with a main battery of four {{convert|15|cm|abbr=on}} L/40 guns mounted singly, with two side by side forward and two side by side aft. Six {{convert|12|cm|abbr=on}} L/40 guns were placed between them, with three on each [[broadside]]. The ships' light armament varied. All of the ships save ''Lombardia'' were equipped with eight {{convert|57|mm|abbr=on}} guns, which had an additional two of these guns. ''Umbria'' was also equipped with one {{convert|75|mm|abbr=on}} gun and nine {{convert|37|mm|abbr=on}} guns, while ''Puglia'' had eight of the 37&amp;nbsp;mm guns and ''Elba'' had six of them. ''Liguria'' and ''Etruria'' only had two 37&amp;nbsp;mm guns, and ''Lombardia'' had none. All six ships had a pair of [[machine gun]]s and two {{convert|45|cm|abbr=on}} [[torpedo tube]]s.&lt;ref name=G349/&gt;
+
+The ships all had their armament repeatedly revised throughout their careers. By 1905, each ship had had two of the 15&amp;nbsp;cm guns replaced with two additional 12&amp;nbsp;cm guns, and their secondary battery was standardized at eight 57&amp;nbsp;mm guns and eight 37&amp;nbsp;mm guns, with the exception of ''Puglia'', which had six and two guns, respectively. ''Puglia'' had also had her two torpedo tubes removed by this point. In 1914, ''Liguria'' had all of her 15&amp;nbsp;cm guns removed, along with six of the 37&amp;nbsp;mm guns.  Her armament was reduced further in 1917 when she was refitted as a [[minelayer]]; at this point, she mounted only six 12&amp;nbsp;cm guns and two 37&amp;nbsp;mm guns. Starting in 1915, ''Etruria'' and ''Lombardia'' were equipped with only six 12&amp;nbsp;cm guns, six 57&amp;nbsp;mm guns for ''Etruria'' and eight for ''Lombardia'', two 37&amp;nbsp;mm guns, and their torpedo tubes. At the same time, ''Elba'' was rearmed with six 12&amp;nbsp;cm guns, two 37&amp;nbsp;cm guns, and one machine gun; she retained her torpedo tubes.&lt;ref name=G349/&gt;
+
+The first five ships were protected by a {{convert|50|mm|abbr=on}} thick deck, and their [[conning tower]] had 50&amp;nbsp;mm thick sides. ''Puglia'' had a deck that was only {{convert|25|mm|abbr=on}} thick, though she had the same thickness of armor on her conning tower.&lt;ref name=G349/&gt;
+
+==Ships==
+{| class=&quot;wikitable&quot;
+!Name!!Builder&lt;ref name=G349/&gt;!!Laid down&lt;ref name=G349/&gt;!!Launched&lt;ref name=G349/&gt;!!Commissioned&lt;ref name=G349/&gt;
+|-
+|{{ship|Italian cruiser|Umbria||2}}
+| [[Odero-Terni-Orlando shipyard|Odero-Terni-Orlando]]
+| 1 August 1888
+| 23 April 1891
+| 16 February 1894
+|-
+|{{ship|Italian cruiser|Lombardia||2}}
+| [[Regio Cantieri di Castellammare di Stabia]]
+| 19 November 1889
+| 12 July 1890
+| 16 February 1893
+|-
+|{{ship|Italian cruiser|Etruria||2}}
+| Odero-Terni-Orlando
+| 1 April 1889
+| 23 April 1891
+| 11 July 1894
+|-
+|{{ship|Italian cruiser|Liguria||2}}
+| [[Gio. Ansaldo &amp; C.|Ansaldo]]
+| 1 July 1889
+| 8 June 1893
+| 1 December 1894
+|-
+|{{ship|Italian cruiser|Elba||2}}
+| Regio Cantieri di Castellammare di Stabia
+| 22 September 1890
+| 12 August 1893
+| 27 February 1896
+|-
+|{{ship|Italian cruiser|Puglia||2}}
+| Taranto
+| October 1893
+| 22 September 1898
+| 26 May 1901
+|}
+
+==Service history==
+[[File:Puglia (Vittoriale degli italiani) - DSC02086.JPG|thumb|The bow of ''Puglia'', preserved at the [[Vittoriale degli italiani]] museum]]
+The ships of the Regioni class served in a variety of roles throughout their careers. Their first decade in service was marked by frequent deployments abroad, interspersed between stints in the main Italian fleet, where they served as scouts for the [[battleship]]s. In 1895, ''Etruria'' and much of the main fleet visited Germany for the opening ceremonies for the [[Kaiser Wilhelm Canal]].&lt;ref&gt;&quot;Naval and Military Notes&quot;, pp. 518–519&lt;/ref&gt; ''Lombardia'' was stationed in South America in 1896, when an outbreak of [[yellow fever]] killed half of her crew while she was in [[Rio de Janeiro]].&lt;ref&gt;''Public Health Reports'', p. 1999&lt;/ref&gt; In 1897, ''Umbria'' and ''Liguria'' were assigned to the Cruiser Squadron of the main fleet.&lt;ref&gt;Robinson, p. 186&lt;/ref&gt; ''Lombardia'' was deployed to China in 1901, where she replaced ''Elba'',&lt;ref&gt;Garbett, p. 1136&lt;/ref&gt; and to [[Italian Somaliland]] in 1903. There, she briefly skirmished with Somali rebels.&lt;ref&gt;Reeve, pp. 103–105&lt;/ref&gt;
+
+''Elba'' was present in Korea during the [[Russo-Japanese War]], which took place primarily in neighboring Manchuria. She witnessed the [[Battle of Chemulpo Bay]] in February 1904 and rescued Russian survivors along with British and French cruisers.&lt;ref&gt;May, pp. 142–146&lt;/ref&gt; In 1905, Umbria represented Italy at the Lewis and Clark Centennial Exposition in Portland, Oregon.&lt;ref&gt;Southard, p. 1&lt;/ref&gt; ''Lombardia'' was converted into a depot ship for [[submarine]]s in 1906&amp;ndash;08.&lt;ref name=G350&gt;Gardiner, p. 350&lt;/ref&gt; ''Etruria'' visited the United States twice for major events, the [[Jamestown Exposition]] in 1907 and the [[Hudson-Fulton Celebration]] in 1909.&lt;ref&gt;''The Final Report'', p. 59&lt;/ref&gt;&lt;ref&gt;Kunz, pp. 317–318&lt;/ref&gt; ''Elba'' and ''Liguria'' were modified to operate an observation balloon to assist in spotting [[naval mine]]s, which could be more easily seen from the air.&lt;ref&gt;Cernuschi &amp; O'Hara, p. 61&lt;/ref&gt; In December 1910, ''Umbria'' was sold to the [[Haitian Navy]] and renamed ''Consul Gostrück'', though she sank shortly after the transfer due to her new crew's inexperience.&lt;ref&gt;&quot;The Search for Castro&quot;, p. 1342&lt;/ref&gt;&lt;ref&gt;Gardiner &amp; Gray, p. 416&lt;/ref&gt;
+
+All of the remaining ships participated in the [[Italo-Turkish War]] of 1911&amp;ndash;1912, with the exception of ''Lombardia'' which was stationed in the Adriatic.&lt;ref&gt;Beehler, pp. 9&amp;ndash;10&lt;/ref&gt; ''Etruria'' and ''Liguria'' took part in the assault on [[Benghazi]] and thereafter provided gunfire support to Italian forces in North Africa.&lt;ref&gt;Beehler, pp. 27–29, 81, 84&lt;/ref&gt; ''Puglia'' was stationed in East Africa for the duration of the war, and frequently bombarded Ottoman ports. These included a diversionary attack that helped the cruiser {{ship|Italian cruiser|Piemonte||2}} and two [[destroyer]]s sink or force aground a flotilla of seven Ottoman [[gunboat]]s in the [[Battle of Kunfuda Bay]].&lt;ref&gt;Beehler, p. 51&lt;/ref&gt; In January 1912 ''Liguria'' and ''Elba'' joined the fleet in the Red Sea, where they imposed a blockade on Ottoman ports in the region, coupled with frequent bombardments of Ottoman positions.&lt;ref&gt;Beehler, pp. 52, 60, 70&lt;/ref&gt;
+
+In 1914 ''Elba'' was converted into the first dedicated [[seaplane tender]] in the Italian fleet. She was nevertheless too small to be of real use, and she remained in service for only two years.&lt;ref&gt;Cernuschi &amp; O'Hara, pp. 62–63&lt;/ref&gt; ''Puglia'' was the only ship of the class to take an active role in the [[First World War]]; in 1915, while patrolling off [[Durazzo]] she briefly encountered the Austro-Hungarian cruiser {{SMS|Novara|1912|6}}, which retreated before either ship could open fire.&lt;ref&gt;Halpern, p. 158&lt;/ref&gt; She covered the withdrawal of elements of the [[Serbian Army]] from Durazzo and shelled the pursuing [[Austro-Hungarian Army]].&lt;ref&gt;Klein, p. 389&lt;/ref&gt; ''Etruria'' was deliberately blown up in Livorno on 13 August 1918 to fool Austria-Hungary into believing its espionage network, which had been thoroughly compromised, was still operational.&lt;ref&gt;O'Hara, Dickson, &amp; Worth, p. 187&lt;/ref&gt; ''Elba'' was sold for scrapping in January 1920, followed by her sister ''Lombardia'' in July.&lt;ref name=G349/&gt; That month, ''Puglia'' became involved in the [[1918–20 unrest in Split|civil unrest in Split]], and the ship's captain and another sailor were murdered by a group of Croat nationalists.&lt;ref&gt;''The Contemporary Review'', p. 514&lt;/ref&gt; ''Liguria'' was sold in May 1921 and broken up. The Navy sold ''Puglia'' in March 1923,&lt;ref name=G349/&gt; but while she was being dismantled [[Benito Mussolini]] donated her bow section to the [[Vittoriale degli italiani]] museum.&lt;ref&gt;Domenico, p. 54&lt;/ref&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+{{refbegin}}
+* {{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false}}
+* {{cite journal|editor-last=Brassey|editor-first=Thomas A.|editor-link=Thomas Brassey, 1st Earl Brassey|journal=The Naval Annual|year=1896|location=Portsmouth|publisher=J. Griffin &amp; Co.}}
+* {{cite journal|last1=Cernuschi|first1=Enrico|last2=O'Hara|first2=Vincent|title=Search For A Flattop: The Italian Navy and the Aircraft Carrier, 1907&amp;ndash;2007|journal=Warship 2007|pages=61&amp;ndash;80|editor-last=Jordan|editor-first=John|location=London|publisher=Conway Maritime Press|isbn=978-1-84486-041-8|lastauthoramp=y}}
+* {{cite book|last=Domenico|first=Roy Palmer|title=Remaking Italy in the Twentieth Century|year=2002|location=Lanham|publisher=Rowman &amp; Littlefield|isbn=0-8476-9637-5}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes|journal=Journal of the Royal United Service Institution|volume=XLV|year=1901|publisher=J. J. Keliher &amp; Co.|location=London|pages=1124&amp;ndash;1139|doi=10.1080/03071840109418900}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+* {{cite book |last=Halpern|first=Paul G.|title=A Naval History of World War I|year=1995|location=Annapolis|publisher=Naval Institute Press|isbn=1-55750-352-4}}
+* {{cite book|last=Klein|first=Henri P.|chapter=War, European &amp;ndash; Italian Campaign|title=The Encyclopedia Americana|year=1920|volume=XXVIII|publisher=The Encyclopedia Americana Corporation|location=New York}}
+*{{cite journal|last=Kunz|first=George Frederick, Dr.|year=1909|title=The Hudson-Fulton Celebration of 1909|journal=The Popular Science Monthly|publisher=The Science Press|location=New York|volume=LXXV|issue=October 1909|pages=314&amp;ndash;337}}
+* {{cite web|title=Lombardia|url=http://www.marina.difesa.it/storiacultura/storia/almanacco/Pagine/LMNO/lombardia.aspx|website=[[Regia Marina]]|accessdate=6 January 2015|language=Italian}}
+* {{cite book|last=May|first=W. A.|title=The Commission of H.M.S. Talbot 1901&amp;ndash;1904|location=London|publisher=The Westminster Press|year=1904|oclc=563709792}}
+* {{cite journal|title=Naval and Military Notes|journal=Journal of the Royal United Service Institution|year=1895|volume=XXXIX|number=207|pages=511&amp;ndash;538|oclc=8007941|doi=10.1080/03071849509416154}}
+* {{cite journal|title=Notes on Ships and Torpedo Boats|journal=Notes on the Year's Naval Progress|year=1896|location=Washington, DC|publisher=Government Printing Office|pages=11&amp;ndash;94}}
+* {{cite book|last1=O'Hara|first1=Vincent|last2=Dickson|first2=W. David|last3=Worth|first3=Richard|title=To Crown the Waves: The Great Navies of the First World War|year=2013|publisher=Naval Institute Press|location=Annapolis|isbn=9781612510828|lastauthoramp=y}}
+* {{cite journal|journal=Public Health Reports|year=1905|oclc=1799423|volume=XIX|publisher=Government Printing Office|location=Washington DC}}
+* {{cite book|last=Reeve|first=A.|title=The Commission of H.M.S. Perseus: East Indies. Including Persian Gulf and Somaliland, 1901&amp;ndash;1904|year=1904|publisher=The Westminster Press|location=London|oclc=38470445}}
+* {{cite journal|editor-last=Robinson|editor-first=Charles N.|title=The Fleets of the Powers in the Mediterranean|journal=Navy and Army  Illustrated|year=1897|pages=186&amp;ndash;187|volume=III|location=London|publisher=Hudson &amp; Kearnes}}
+* {{cite journal|editor-last=Southard|editor-first=Clare O.|journal=The Pacific Ensign|volume=XV|number=21|location=San Francisco|publisher=Woman's Christian Temperance Union of California|oclc=49454705}}
+* {{cite journal|journal=The Contemporary Review|volume=118|year=1920|publisher=A. Strahan|location=London|oclc=1564974}}
+* {{cite book|title=The Final Report of the Jamestown Ter-Centennial Commission|year=1909|location=Washington DC|publisher=Government Printing Office}}
+* {{cite journal|journal=[[The Independent (New York)|The Independent]]|title=The Search for Castro|year=1911|page=1342|volume=LXX|location=New York|publisher=S. W. Benedict|oclc=4927591}}
+{{refend}}
+
+{{Regioni class cruiser}}
+{{Italian protected cruisers}}
+{{WWI Italian ships}}
+
+[[Category:Regioni-class cruisers| ]]
+[[Category:Cruiser classes]]
+[[Category:World War I cruisers of Italy]]</text>
+      <sha1>9ib96klzc9sr4wo3dlznd9qfd954lbz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Juneau-class cruiser</title>
+    <ns>0</ns>
+    <id>31351942</id>
+    <revision>
+      <id>741298173</id>
+      <parentid>740563055</parentid>
+      <timestamp>2016-09-26T16:28:28Z</timestamp>
+      <contributor>
+        <username>Mrniceguy101</username>
+        <id>4535326</id>
+      </contributor>
+      <comment>/* Ships in class */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7432">
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image = [[File:USS Juneau (CL-119) in 1952.jpg|300px]]
+|Ship caption = '''USS ''Juneau'' (CL-119)'''
+}}
+{{Infobox ship class overview
+|Name=''Juneau''-class cruiser
+|Builders=
+|Operators=[[File:US flag 48 stars.svg|20px]] United States Navy
+|Class before={{sclass-|Fargo|cruiser|4}}
+|Class after={{sclass-|Worcester|cruiser|4}}
+|Subclasses=
+|Built range=
+|In commission range=1946–55
+|Total ships building=
+|Total ships planned=
+|Total ships completed=3
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=3
+|Total ships preserved=0
+}}
+{{Infobox ship characteristics
+|Hide header =  
+|Header caption =  
+|Ship class =[[Light cruiser]]
+|Ship displacement = 6,500 tons (standard); 8,450 tons (loaded)
+|Ship length = {{convert|541|ft|0|in|abbr=on}}
+|Ship beam = {{convert|52|ft|10|in|abbr=on}}
+|Ship draft = {{convert|20|ft|6|in|abbr=on}}
+|Ship propulsion =*4 × 665 psi boilers
+*2 geared steam turbines
+*{{convert|78749|hp|MW|abbr=on}}
+|Ship speed =  {{convert|32.7|kn|km/h|0}} (37.9 mph)
+|Ship range = {{convert|6440|nmi|km}} at {{convert|20|kn|km/h|0}}
+|Ship complement =*Officer: 47
+*Enlisted: 695
+|Ship sensors =  
+|Ship EW =  
+|Ship armament =*12 × 5 in (127 mm)/38 cal guns
+*32 × 40 mm/56 cal anti-aircraft guns (6 x 4, 4 x 2)
+*16 × 20 mm/70 cal anti-aircraft cannons (8 x 2)
+|Ship armor =*Belt: 1.1-3.5 in (27-88.9 mm)
+*Deck: 1.25 in (31.75 mm)
+*Turrets: 1.25 in (31.75 mm)
+|Ship notes =  
+}}
+|}
+
+The '''''Juneau''-class cruisers''' were [[United States Navy]] [[light cruiser]]s which were modified version of the {{sclass|Atlanta|cruiser}} design. The ships had the same dual-purpose main armament as {{USS|Oakland|CL-95}} with a much heavier secondary antiaircraft battery, while the anti-submarine [[depth charge]] tracks and torpedo tubes were removed along with a redesigned superstructure to reduce weight and increase stability. Three ships were ordered and built, all completed shortly after World War II, but only {{USS|Juneau|CL-119|3}} remained active long enough to see action during the [[Korean War]].
+
+==Redesign==
+The ''Atlanta''-class cruisers increased wartime complement and armament and loss of ''Atlanta'' and ''Juneau'' revealed weaknesses in their stability and hull integrity of the ships which was addressed in a 1942 redesign at the same time as the modified {{sclass|Cleveland|cruiser}}, the {{sclass|Fargo|cruiser}}. The ships had the same main armament as {{USS|Oakland|CL-95}}, but the bridge and superstructure were redesigned to remove weight and increase visibility, and the reduction in weight allowed increased antiaircraft guns to be added with increased stability. Watertight integrity was improved by removing doors on the lowest decks of the ship between bulkheads. In addition, all the [[Anti-submarine warfare|anti-submarine]] armament was removed, along with the torpedo battery.&lt;ref name=Friedman240241&gt;{{Harvnb|Friedman|1984|pp=240–241}}&lt;/ref&gt;
+
+==Specifications==
+The main gun battery of the ''Juneau''-class was composed of six dual [[5&quot;/38 caliber gun|5 inch/38 caliber]] (127&amp;nbsp;mm) gun mounts (12 5-inch guns).&lt;ref name=friedman231233&gt;{{Harvnb|Friedman|1984|pp=231–233}}&lt;/ref&gt; The class was designed with a secondary anti-aircraft armament of thirty-two [[Bofors 40 mm|Bofors 40 mm anti-aircraft guns]], and sixteen [[Oerlikon 20 mm cannon|20 mm rapid-fire anti-aircraft cannons]] with high-explosive shells.&lt;ref name=friedman236&gt;{{Harvnb|Friedman|1984|pp=236, 238–239}}&lt;/ref&gt; After the war, the ships were planned to convert to a [[3&quot;/50 caliber gun|3 inch/50 caliber]] ({{convert|3|in|mm|disp=output only}}) secondary armament to replace the 40mm guns, but only the ''Juneau'' was converted.&lt;ref name=Friedman242&gt;{{Harvnb|Friedman|1984|p=242}}&lt;/ref&gt;
+
+The class was powered by the same equipment as the ''Atlanta''-class: four 665 psi boilers, connected to 2 geared steam turbines producing {{convert|75000|hp|MW|abbr=on}}, and the ships could maintain a top speed of {{convert|33.6|kn|km/h|0}}. On trial the ''Juneau'' made {{convert|32.48|kn|km/h|0}} at 78,985 SHP. The ships of the ''Juneau''-class had the same armor as the ''Atlanta''-class: a maximum of 3.5&amp;nbsp;in (88.9&amp;nbsp;mm) on their sides, with the captain's bridge and the 5-inch gun mounts being protected by a mere 1.25&amp;nbsp;in (31.75&amp;nbsp;mm).&lt;ref name=friedman236/&gt; The ships were originally designed for 47 officers and 695 men.&lt;ref name=friedman238&gt;{{Harvnb|Friedman|1984|p=238}}&lt;/ref&gt;
+
+==Service history==
+Three ships were built and none of the ships served during World War II; the lead ship of this class,  {{USS|Juneau|CL-119|3}} which was named after the war loss {{USS|Juneau|CL-52|3}}, was launched on 15 July 1945 and commissioned on 15 February 1946. {{USS|Spokane|CL-120|3}} was launched on 22 September 1945, and commissioned on 17 May 1946. {{USS|Fresno|CL-121|3}} was launched on 5 March 1946 and commissioned on 27 November 1946.&lt;ref name=Friedman452&gt;{{Harvnb|Friedman|1984|p=452}}&lt;/ref&gt;
+
+''Spokane'' and ''Fresno'' were decommissioned in 1949 and 1950 prior to the start of the [[Korean War]], but ''Juneau'', at this point redesignated as an anti-aircraft cruiser CLAA-119, participated in the conflict. On 2 July 1950, ''Juneau'', along with {{HMS|Jamaica|44|6}}, and {{HMS|Black Swan|L57|6}} were attacked by 4 torpedo boats and 2 motor gunboats of the North Korean navy, and the combined firepower of the Anglo-American ships sank three enemy torpedo boats and both gunboats near [[Battle of Chumonchin Chan|Chumonchin Chan]].&lt;ref name=KoreaNavBat&gt;{{cite web|url=http://www.history.navy.mil/wars/korea/navalbattles.htm|title=Naval Battles of the Korean War|publisher=United States Navy|accessdate=2011-07-15}}&lt;/ref&gt; She was decommissioned in 1955, shortly after the war ended. All three ships were considered for refitting as guided missile cruisers or ASW ships but ultimately were sold for scrap in the 1960s.&lt;ref name=DANFS&gt;{{cite web|title=Juneau CL-119|url=http://www.history.navy.mil/danfs/j5/juneau-ii.htm|publisher=Department of the Navy|accessdate=1 April 2011}}&lt;/ref&gt;
+
+==Ships in class==
+{| class=&quot;sortable wikitable&quot;
+|-
+!Ship Name
+!Hull No.
+!Builder
+!Laid down
+!Launched
+!Commissioned
+!Decommissioned
+!Fate
+|-
+|[[USS Juneau (CL-119)|''Juneau'']]
+|CL-119
+|rowspan=3|[[Federal Shipbuilding and Drydock Company]], [[Kearny, New Jersey]]
+|15 September 1944
+|15 July 1945
+|15 February 1946
+|23 July 1955
+|Struck 1 November 1959; Sold for scrap on 29 April 1960 to Union Metals &amp; Alloys Corp., New York, NY
+|-
+|[[USS Spokane (CL-120)|''Spokane'']]
+|CL-120
+|15 November 1944
+|22 September 1945
+|17 May 1946
+|27 February 1950
+|Struck 15 April 1972; Sold for scrap on 17 May 1973
+|-
+|[[USS Fresno (CL-121)|''Fresno'']]
+|CL-121
+|12 February 1945
+|5 March 1946
+|27 November 1946
+|17 May 1949
+|Struck April 1965; Sold for scrap on 17 June 1966
+|}
+
+==Footnotes==
+{{reflist|2}}
+
+==References==
+* {{citation|last=Friedman|first=Norman|title=U.S. Cruisers: an illustrated design history|publisher=Naval Institute Press|location=Annapolis, MD|year=1984|isbn=0-87021-718-6|oclc=10949320}}
+* {{DANFS|http://www.history.navy.mil/danfs/j5/juneau-ii.htm}}
+
+==External links==
+{{Commonscat|Juneau class cruiser}}
+
+{{Juneau class cruiser}}
+{{WWIIUSShips}}
+
+[[Category:Cruiser classes]]
+[[Category:Juneau-class cruisers| ]]
+[[Category:World War II cruisers of the United States| ]]</text>
+      <sha1>22rn75h1mbv7glodpnumnenxeinoitf</sha1>
+    </revision>
+  </page>
+</mediawiki>

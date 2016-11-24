@@ -1,0 +1,201 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ernest Emerson</title>
+    <ns>1</ns>
+    <id>3195218</id>
+    <revision>
+      <id>734549959</id>
+      <parentid>734537364</parentid>
+      <timestamp>2016-08-15T02:26:47Z</timestamp>
+      <contributor>
+        <username>Nikkimaria</username>
+        <id>372290</id>
+      </contributor>
+      <comment>/* 2016 */ re</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="20885">{{Talk header}}
+{{ArticleHistory|action1=WPR
+|action1date=09:44, 31 December 2006 
+|action1link=Wikipedia:WikiProject Biography/Peer review/Ernest Emerson
+|action1oldid=97512191
+
+|action2=GAN
+|action2date=10:26, 22 January 2007 
+|action2link=Talk:Ernest Emerson/Archive 1#Good Article Nomination
+|action2result=listed
+|action2oldid=102406858
+
+|action3=FAC
+|action3date=07:46, 15 March 2007
+|action3link=Wikipedia:Featured article candidates/Ernest Emerson
+|action3result=promoted
+|action3oldid=114112881
+
+|action4=AFD
+|action4date=05:04, 5 October 2007 
+|action4link=Wikipedia:Articles for deletion/Ernest Emerson
+|action4result=kept
+|action4oldid=162393048
+
+|action5=FAR
+|action5date=13:16, 20 November 2007
+|action5link=Wikipedia:Featured article review/Ernest Emerson/archive1
+|action5result=kept
+|action5oldid=170077616
+
+|action6=AFD
+|action6date=05:04, 1 September 2011
+|action6link=Wikipedia:Articles for deletion/Ernest Emerson (2nd nomination)
+|action6result=kept
+|action6oldid=449228256
+
+|maindate=September 30, 2007
+|currentstatus=FA
+}}
+{{WikiProjectBannerShell|blp=yes|1=
+{{WikiProject Biography|living=Yes|class=FA|old-peer-review=yes|listas=Emerson, Ernest}}
+{{WikiProject Blades|class=FA|importance=mid}}
+{{WikiProject Martial arts|class=FA}}
+{{WikiProject Military history|class=FA|US-task-force=yes|Weaponry-task-force=yes}}
+{{WikiProject Business|class=FA|importance=low}}
+}}
+
+{{Archive box|
+* [[/Archive 1|Until 17 February, 2007]]
+* [[/Archive 2|Until 15 March, 2008]]}}
+
+== Proposal to remove date-autoformatting ==
+
+Dear fellow contributors
+
+[[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Date_autoformatting|MOSNUM]] no longer encourages date autoformatting, having evolved over the past year or so from the mandatory to the optional after much discussion there and elsewhere of the disadvantages of the system. Related to this, MOSNUM prescribes [[Wikipedia:Manual_of_Style_%28dates_and_numbers%29#Full_date_formatting|rules for the raw formatting]], irrespective of whether a date is autoformatted or not). [[Wikipedia:Manual_of_Style_%28links%29#Overlinking_and_underlinking|MOSLINK]] and [[Wikipedia:Context#What_generally_should_not_be_linked|CONTEXT]] are consistent with this. 
+
+There are at least six disadvantages in using date-autoformatting, which I've capped here:
+{{hidden|contentstyle=border:1px solid #C0C0C0; |headerstyle=color:black; background: #C0C0C0; |header= Disadvantages of date-autoformatting|content=&lt;/br&gt;
+
+*'''(1) In-house only'''
+:*(a) It works only for the WP &quot;elite&quot;. 
+:*(b) To our readers out there, it displays all-too-common inconsistencies in raw formatting in bright-blue underlined text, yet conceals them from WPians who are logged in and have chosen preferences.  
+:*(c) It causes visitors to query why dates are bright-blue and underlined.
+
+*'''(2) Avoids what are merely trivial differences'''
+:*(a) It is trivial whether the order is day–month or month–day. It is more trivial than color/colour and realise/realize, yet our consistency-within-article policy on spelling ([[WP:ENGVAR]]) has worked very well. English-speakers readily recognise both date formats; all dates after our signatures are international, and no one objects.
+
+*'''(3) Colour-clutter: the bright-blue underlining of all dates'''
+:*(a) It dilutes the impact of high-value links.
+:*(b) It makes the text slightly harder to read.
+:*(c) It doesn't improve the appearance of the page.
+
+*'''(4) Typos and misunderstood coding'''
+:*(a) There's a disappointing error-rate in keying in the auto-function; not bracketing the year, and enclosing the whole date in one set of brackets, are examples.
+:*(b) Once autoformatting is removed, mixtures of US and international formats are revealed in display mode, where they are  much easier for WPians to pick up  than in edit mode; so is the use of the wrong format in country-related articles.
+:*(c) Many WPians don't understand date-autoformatting—in particular, how if differs from ordinary linking; often it's applied simply because it's part of the furniture.
+
+*'''(5) Edit-mode clutter'''
+:*(a) It's more work to enter an autoformatted date, and it doesn't make the edit-mode text any easier to read for subsequent editors.
+
+*'''(6) Limited application'''
+:*(a) It's incompatible with date ranges (&quot;January 3–9, 1998&quot;, or &quot;3–9 January 1998&quot;, and &quot;February–April 2006&quot;) and slashed dates (&quot;the night of May 21/22&quot;, or &quot;... 21/22 May&quot;).
+:*(b) By policy, we avoid date autoformatting in such places as quotations; the removal of autoformatting avoids this inconsistency.}}
+
+Removal has generally been met with positive responses by editors. Does anyone object if I remove it from the main text (using a script) in a few days’ time on a trial basis? The original input formatting would be seen by all WPians, not just the huge number of visitors; it would be plain, unobtrusive text, which would give greater prominence to the high-value links. [[User:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;'''Tony'''&lt;/font &gt;]] [[User talk:Tony1|&lt;font color=&quot;darkgreen&quot;&gt;(talk)&lt;/font &gt;]] 12:59, 23 July 2008 (UTC)
+
+
+== Difficulty in obtaining Emerson Karambits in Europe?==
+
+Has the Emerson company stopped mass producing their fixed blade Karambit?  It seems that you cant get these type of knife anymore in Europe. Are these types of knife considered custom jobs by Ernest himself? --[[User:Ickesshadow|Ickesshadow]] ([[User talk:Ickesshadow|talk]]) 17:39, 16 February 2011 (UTC)
+:They are still listed in the print and online catalogs.  They are not a custom item.  You may want to contact the Company directly, I know a local shop in Nevada received a few of these in the past few months.  They do make their knives in batches, so they may be making something else right now, but I'm sure they have them in stock.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 17:55, 16 February 2011 (UTC)
+
+Thank you for your reply. I suppose good workmanship takes time and patience! :) --[[User:Ickesshadow|Ickesshadow]] ([[User talk:Ickesshadow|talk]]) 21:20, 16 February 2011 (UTC)
+
+== Featured article concerns ==
+
+This article has deteriorated a bit since its last [[WP:FAR|FAR]]. I'm noticing a lot of uncited trivia type entries in the &quot;in the media&quot; section. Also, sources will need individual page numbers for each cite rather than citing only a range of pages; Coombs is a good example. If these issues can be resolved in a timely manner a FAR can be avoided. Thanks. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 15:48, 6 October 2011 (UTC)
+
+''below is copied from my talk page [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 23:00, 6 October 2011 (UTC)''
+:Hi, thanks for the note.  Can you define a timely manner?  Do you mean 2 hours? 2 days? 2 months?  I'm working on the film stuff first as that's an easy fix.  The actual page numbers will take a little more time, but it can be done.  Thanks again for raising this on the talk page so we can work on it.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 16:57, 6 October 2011 (UTC)
+::I understand that page numbers will take longer. I'll check back on the article in a couple of weeks unless you ping me sooner. [[User:Brad101|Brad]] ([[User talk:Brad101#top|talk]]) 17:54, 6 October 2011 (UTC)
+:::Thanks.  Could you take a quick look at the media section and let me know if I am ok with the sourcing on the films, etc?  If this passes muster I'll use the TV episode cite template for ''Burn Notice''.  I happened to have the Combs article (magazine actually) on my desk so I could fix that one quickly, the others, I have at home, and I can probably get to those (and have them completed) by end of day Friday.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 17:59, 6 October 2011 (UTC)
+::::I'm noticing other issues now. What I listed above was from a quick look at things. I'll have to come back in a day or two and give a full review. The article might actually benefit from going through a FAR as it would gain a larger pool of comments other than my own. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 23:00, 6 October 2011 (UTC)
+:::::Let me know.  I'm pretty reasonable to work with, I've gone through everything with this piece: personal attacks on me, a FAR after it was on the mainpage in 2007, 3 attempts at AFD, harrassing phonecalls, email viruses, falsely accused of sockpuppetry, online stalking, etc.  I swear, half the time I think it would be easier to just have a fistfight or a duel over it.:)--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 23:29, 6 October 2011 (UTC)
+::::::Now that I've stirred up the hornets nest I should probably tell you that the entire reason I started this &lt;u&gt;informal&lt;/u&gt; review is exactly because of all the controversy that has surrounded the article. If the article is kept in tip-top shape and to current expectations for an FA then there is less ammunition available for attempts to shoot it down. 
+::::::Most of the time when I leave a talk page notice there is never a response so I don't bother to do a detailed review at first unless someone shows interest in repairing problems. There is no time limit here as long as things are being addressed. When the page number issues are done I'll revisit. If you have questions just ask here; it's on my watchlist. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 15:57, 8 October 2011 (UTC)
+:::::::Yeah, I saw how you drygulched [[United States Marine Corps]], had I known it was going through FAR, we'd still be fighting over it.  :)  This one isn't that controversial, just happens when Emerson appears on a talk show (he was on 3 or 4 the week that a user inactive for 4 years tried to get it deleted) or posts something slightly right leaning on his personal blog.  For the record, AFD doesn't give a shit if an article is featured.  Neither do the vandals, competitors, or people who break down in tears at the thought of people carrying pocketknives or socialists who think anything representing a business entity is advertising.  Like I said, I'm easy to work with and I'll address any valid concerns.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 16:26, 8 October 2011 (UTC)
+::::::::Checking back. I notice you have a mix of Harvard referencing and straight inline citations which would be a 2c issue. I'd like to try and fix these up but don't want to just dive in without consultation. Since you have a mix of citation styles, the style you want to follow needs a decision. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 14:30, 2 December 2011 (UTC)
+:::::::::I've always preferred the Harvard style, but every now and then get a ration of shit over it from someone.  I thought I had purged the Harvard style from here, though?--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 16:17, 2 December 2011 (UTC)
+::::::::::OK apparently, I didn't.  I think I fixed it and made them all Harvard, feel free to help out if you wish.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 17:20, 2 December 2011 (UTC)
+Brad101, you're nomming one FAR per week now (an exception only because the FAR page wasn't backlogged); for the record, I don't think putting some vague claims here-- without backing them up with specifics-- qualifies as notifying that a FAR is needed.  If you see problems, please list them with clarity and specificity per [[WP:WIAFA]].  The issues have been addressed as you have raised them, and generally saying that you think an article needs a FAR is not really in the spirit of how FAR works.  [[User:SandyGeorgia|Sandy&lt;font color=&quot;green&quot;&gt;Georgia&lt;/font&gt;]] ([[User talk:SandyGeorgia|Talk]]) 03:19, 7 October 2011 (UTC)
+
+===Break===
+Mike, 2c does not require that any particular citation format be used; only that a format is consistent throughout the article. I had to overhaul the citations for [[Abraham Lincoln]] and would like to do the same style here with bibliography etc. I can use harvard if that's what you prefer. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 20:13, 3 December 2011 (UTC)
+:No, I knew that.  I, too, think the harvard style works well with a bibiliography and the type of sourcing here when single sources provide multiple refs.  This particular knife maker has had a pretty diverse career as opposed to those where a maker is known for one method of making knives or one or two blade shapes.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 04:40, 4 December 2011 (UTC)
+::I'm sort of stuck now with an issue. Is there any particular reason why some passages have 3 or more citations? In one case there are over 6. It seems to me like citation overkill but on top of that there are a multitude of notes that don't seem to be worth much. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 22:03, 6 December 2011 (UTC)
+:::Way back before I even knew what a FA was, there was an editor who worked for a competing knife company who was being a dick about things.  I'd add a ref, he'd delete it, etc.  Then 2 refs weren't good enough for him for a statement so it snowballed a bit.  Every now and then some hopolophobe (person with an irrational fear of weapons) or a plebian who cannot fathom a knife costing more than his car gets in a tizzy and  either tries the same tactic or wants to know what some of the offline sources axtually say...hence the redundant notes.  I guess I was trying to show, it's not one writer making these claims or one or two publications, it's many over a period of 25+ years through journals and books about knives, guns, Navy SEALs, and martial arts.  At a glance all those fields look &quot;the same&quot;, but they are all in fact different and its only very few who garner coverage on all fronts.  Some yokel once complained that Emerson was &quot;just a cutler&quot;.  This isn't some guy cranking out knives in a backyard shop, the State of Nevada actually held hearings to change State laws regarding switchblades so he could open a second factory there to supply the military with automatic knives.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 00:56, 7 December 2011 (UTC)
+::::Took a day or so thinking about this. I believe that two cites are ok and three is ok if really needed but any more than that is not useful. I'd like to see the cites reduced but we will not delete them entirely. I split the biblio section into two parts. One for sources cited in the article and one for additional sources. The sources that get removed from the article can be moved into the additional section. Essentially that means the additional sources were consulted for the article but not cited in the article.
+::::The mass of quotations can be taken out of the separate section and attached to the inline citations and sources and that will clear the article of all those little inline letters. But since you hold all of the references you will have to decide which is important enough to keep as a cite and which should go to the additional pile. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 18:52, 8 December 2011 (UTC)
+:::::Fair enough.   I was patterning the sources off another Featured Article,  which ironically is now not Featured and the author did something similar with the footnotes.  They were a pain in the ass to put in and I have never used that style since (nor has anyone else that I have seen).  If I see no activity on here for a while I'll start incorporating the more pertinent ones using the ''quote'' attribute in the citation template.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 19:16, 8 December 2011 (UTC)
+::::::I see you're working now; looks better already. I'll go away for a couple days while you clean things up. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 19:49, 8 December 2011 (UTC)
+:::::::You didn't find any sources to put into the additional section? [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 20:41, 12 December 2011 (UTC)
+::::::::I'll work on that this afternoon.  Sorry, I had to turn in several articles this weekend for work I actually get paid for.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 21:24, 12 December 2011 (UTC)
+::::::::I have whittled down the sources.  Let me know if this is what you wanted to see.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 22:26, 14 December 2011 (UTC)
+:::::::::You have left me almost nothing to do ;) You may want to use harvnb which removes the parentheses from the citations. harv is normally used for citing inline with text ie: ''Text text text''(Smith 2007 pp. 1-2). You may want to think about expanding the lede section too; it's a bit short. Thanks for being cooperative and non-combative during this. I wish others were more like that. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 04:35, 17 December 2011 (UTC)
+:::::::::::Done!  I started to realize that myself when I was 3/4 in, but knew it would be an easy change.    I broke the lede out a bit more, I'll definitely work on that one.   No problem, you didn't ask for anything unreasonable, I remember some real winner on here trashing the NASA stuff and  went so far as to denounce this video [http://www.youtube.com/watch?v=NTsIuYRvLHI&amp;list=UUvjZKBT0mJqvl7gA9JnNzJw&amp;index=7&amp;feature=plcp], as a fake, telling me I had to provide a manifest for the knife on a Shuttle Mission!  The article looks a lot cleaner now, thanks to your suggestions.--[[User:Mike Searson|'''Mike''']] - [[User_talk:Mike_Searson|'''Μολὼν λαβέ''']] 06:04, 17 December 2011 (UTC)
+
+=== Page nos ===
+Hard to tell why the citation style had to be changed, but whatever ... page numbers are not needed on those magazines (and in fact, are already given).  We don't typically cite page nos on such small ranges, don't cite them at all on journal articles, and the page ranges given on those magazines is small enough that the text can be verified.  [[User:SandyGeorgia|Sandy&lt;font color=&quot;green&quot;&gt;Georgia&lt;/font&gt;]] ([[User talk:SandyGeorgia|Talk]]) 02:32, 6 December 2011 (UTC)
+:I know I'm picking on your pet article Sandy but it doesn't meet 2c requirements for several reasons. Some of the harvs are broken and there is a mix of citation styles. I'm trying to assist on fixing the issues rather than drag the article to FAR. However, if I keep getting flack about helping out I'll just start a FAR and let someone else work on it. I've enough things to do as it is. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 17:40, 6 December 2011 (UTC)
+:: Not even close to my &quot;pet&quot; article, whatever that means (I do have one, though :)  Anyway, as I said, I don't understand why the citation style was ever messed with to begin with, but yes, now it needs fixing, but adding page nos when the (small) ranges are already given is not part of that fixin.  And I hope we're not dragging articles to FAR over citation consistency, because that sort of thing is what gives FAC and FAR a bad rap.  By the way, thanks for the help here; I'd offer to help, but I hate harvnbs, would never use them, and don't know how.  [[User:SandyGeorgia|Sandy&lt;font color=&quot;green&quot;&gt;Georgia&lt;/font&gt;]] ([[User talk:SandyGeorgia|Talk]]) 18:03, 6 December 2011 (UTC)
+:::I too, dislike harvs but the article had to go one way or the other and Mike chose harvs so that's what he'll get. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 18:52, 8 December 2011 (UTC)
+=== 2016 ===
+{{u|Nikkimaria}} has tagged the &quot;Emerson's knives in the media&quot; section since April 2016. What exactly should be done with it? (see also the discussion above) &lt;span style=&quot;font-family: serif; letter-spacing: 0.1em&quot;&gt;–&amp;nbsp;[[User:Finnusertop|Finnusertop]]&lt;/span&gt; ([[User talk:Finnusertop|talk]] ⋅ [[Special:Contributions/Finnusertop|contribs]]) 23:51, 14 August 2016 (UTC)
+:Per [[Wikipedia_talk:Verifiability/Archive_63#popular-culture-RfC|this RfC]], this type of content now requires secondary sourcing. [[User:Nikkimaria|Nikkimaria]] ([[User talk:Nikkimaria|talk]]) 00:27, 15 August 2016 (UTC)
+::{{re|Nikkimaria}} Agreed. I've removed all such instances. I left the paragraph on David Morrell's work as it's the only one that's discussed with a secondary reference. Do you think this paragraph can stay, should it be cut down, or will it be removed? &lt;span style=&quot;font-family: serif; letter-spacing: 0.1em&quot;&gt;–&amp;nbsp;[[User:Finnusertop|Finnusertop]]&lt;/span&gt; ([[User talk:Finnusertop|talk]] ⋅ [[Special:Contributions/Finnusertop|contribs]]) 00:49, 15 August 2016 (UTC)
+:::That one is fine IMO. [[User:Nikkimaria|Nikkimaria]] ([[User talk:Nikkimaria|talk]]) 02:26, 15 August 2016 (UTC)</text>
+      <sha1>rnwhi96kkaidsgvnxdufjfw0swafoj8</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,294 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Pommern</title>
+    <ns>0</ns>
+    <id>2668732</id>
+    <revision>
+      <id>740590752</id>
+      <parentid>735017198</parentid>
+      <timestamp>2016-09-22T01:15:24Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* Further reading */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16077">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Bundesarchiv DVM 10 Bild-23-61-21, Linienschiff &quot;SMS Pommern&quot;.jpg|300px]]
+| Ship caption = SMS ''Pommern'' in 1907
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name = ''Pommern''
+| Ship namesake = [[Pomerania]]
+| Ship ordered = 
+| Ship builder = [[AG Vulcan Stettin|AG Vulcan]], [[Stettin]]
+| Ship laid down = 22 March 1904
+| Ship launched = 2 December 1905
+| Ship acquired = 
+| Ship commissioned = 6 August 1907
+| Ship fate = Torpedoed and sunk at the [[Battle of Jutland]], 1 June 1916
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass-|Deutschland|battleship}}
+| Ship displacement =* {{convert|13191|t|LT|abbr=on}} normal
+* {{convert|14218|t|LT|abbr=on}} full load
+  
+| Ship length = {{convert|127.6|m|ftin|abbr=on}}
+| Ship beam = {{convert|22.2|m|ftin|abbr=on}}
+| Ship draft = {{convert|7.7|m|ftin|abbr=on}}
+| Ship power = {{convert|13,015|kW|ihp|order=flip|abbr=on|0}}
+| Ship propulsion = three shafts, triple expansion steam engines
+| Ship speed = {{convert|18|kn}}
+| Ship range = {{convert|5,830|nmi|abbr=on|lk=in}} at {{convert|10|kn}}
+| Ship complement =*35 officers
+*708 enlisted men
+| Ship armament =*  2 × 2 – [[28 cm SK L/40 gun|{{convert|28|cm|in|abbr=on|1}} SK L/40]] guns
+* 14 × [[17 cm SK L/40 gun|{{convert|17|cm|in|abbr=on}} SK L/40 gun]]s
+* 20 × [[8.8 cm SK L/45 naval gun|{{convert|8.8|cm|in|abbr=on}} SK L/45 naval gun]]s
+*  6 × {{convert|45|cm|in|abbr=on|1}} torpedo tubes
+  
+| Ship armor =* [[Belt armor|Waterline belt]]: {{convert|240|mm|in|abbr=on|0}}
+* [[Deck (ship)|Deck]]: {{convert|40|mm|in|abbr=on|1}}
+* [[Turret]]s: {{convert|280|mm|in|abbr=on|0}}
+  
+| Ship notes = 
+}}
+|}
+
+'''SMS ''Pommern'''''{{efn|name=SMS}} was one of five {{sclass-|Deutschland|battleship|0}} [[pre-dreadnought battleship]]s built for the [[Kaiserliche Marine]] between 1904 and 1906. Named after the [[Prussia]]n province of [[Pomerania]], she was built at the [[AG Vulcan]] yard at [[Stettin]], where she was laid down on 22 March 1904 and launched on 2 December 1905. She was commissioned into the navy on 6 August 1907. The ships of her class were already outdated by the time they entered the service, being inferior in size, armor, firepower, and speed to the revolutionary new battleship {{HMS|Dreadnought|1906|6}}.
+
+After commissioning, ''Pommern'' was assigned to the II Battle Squadron of the [[High Seas Fleet]], where she served throughout her peacetime career and the first two years of [[World War I]]. During this period, ''Pommern'' participated in several fruitless sorties into the North Sea in attempts to lure out and destroy a portion of the British [[Grand Fleet]]. The ship was present at the [[Battle of Jutland]] on 31 May&amp;nbsp;– 1 June 1916. She and her sisters briefly engaged the British battlecruisers commanded by [[David Beatty, 1st Earl Beatty|David Beatty]]; ''Pommern'' was hit once by a {{convert|12|in|cm|abbr=on|1}} shell from the battlecruiser {{HMS|Indomitable|1907|6}}. During the confused night actions in the early hours of 1 June, she was hit by one, or possibly two, torpedoes from the British destroyer {{HMS|Onslaught|1915|6}}, which detonated one of ''Pommern''{{'}}s {{convert|17|cm|adj=on|sp=us}} gun [[magazine (artillery)|magazines]]. The resulting explosion broke the ship in half and killed the entire crew. ''Pommern'' was the only battleship of either side sunk during the battle.
+
+== Construction ==
+{{main|Deutschland-class battleship}}
+[[File:Deutschland class line-drawing.png|thumb|left|Line-drawing of the ''Deutschland'' class]]
+
+''Pommern'' was ordered under the contract name &quot;O&quot;.{{sfn|Hildebrand Röhr &amp; Steinmetz|p=237}} She was laid down on 22 March 1904 at the [[AG Vulcan]] dockyard in [[Stettin]].{{sfn|Staff|p=5}} She was originally scheduled to be launched on 19 November 1905, but the water level in the harbor was too low. As a result, the ship could not be launched until 2 December.{{sfn|Staff|p=12}} The ''Oberpräsident'' of [[Pommern]], [[Helmuth von Maltzahn]], gave the launching speech.{{sfn|Hildebrand Röhr &amp; Steinmetz|p=237}} In July 1907 ''Pommern'' was transferred to [[Kiel]] where she had her main battery of four 28&amp;nbsp;cm (11&amp;nbsp;in) guns installed. She was commissioned for trials on 6 August; during her speed run, she made {{convert|18.7|kn}}, which made her the fastest pre-dreadnought battleship in the world.{{sfn|Staff|p=12}}
+
+The ship was {{convert|127.6|m|ftin|abbr=on}} long and had a beam of {{convert|22.2|m|ftin|abbr=on}}, and a draft of {{convert|8.21|m|ftin|abbr=on}}. Her full-load displacement was {{convert|14,218|t|LT|0|sp=us}}. She was equipped with [[triple expansion engine]]s that were rated at {{convert|13,015|kW|ihp|lk=in|order=flip}} and a top speed of {{convert|18|kn}}. Steam was provided by twelve Schulz-Thornycroft boilers. In addition to being the fastest ship of her class, ''Pommern'' was the most fuel efficient. At a cruising speed of {{convert|10|kn}}, she could steam for {{convert|5,830|nmi|sp=us}}. The ship had a peacetime crew of 35&amp;nbsp;officers and 708&amp;nbsp;enlisted men, though during military operations, the size of the crew expanded.{{sfn|Gröner|p=21}}
+
+''Pommern''{{'}}s primary armament consisted of four [[28 cm SK L/40 gun|{{convert|28|cm|in|abbr=on}} SK L/40]] guns in two twin turrets.{{efn|name=gun nomenclature}} She was equipped with fourteen {{convert|17|cm|in|abbr=on|1}} guns mounted in casemates and twenty {{convert|8.8|cm|in|abbr=on|1}} guns in pivot mounts. The ship was also armed with six {{convert|45|cm|in|abbr=on|1}} [[torpedo tube]]s, all submerged in the hull. One was in the bow, one in the stern, and four on the [[broadside]]. Her [[belt armor|armored belt]] was {{convert|240|mm|abbr=on}} thick [[amidships]] and she had a {{convert|40|mm|abbr=on}} thick armored deck. The main battery turrets had {{convert|280|mm|abbr=on}} thick sides.{{sfn|Gröner|pp=20–21}}{{sfn|Staff|p=6}}
+
+== Service history ==
+[[File:SMS Pommern.png|thumb|left|''Pommern'' before the outbreak of war]]
+''Pommern'' was assigned to the [[II Battle Squadron]] of the [[High Seas Fleet]] alongside her sisters. She took part in the annual training cruises and maneuvers with the rest of the High Seas Fleet between 1908 and 1914.{{sfn|Staff|p=12}} This included fleet training in the Baltic in 1908 and a cruise into the Atlantic the following year. In May 1910 ''Pommern'' took part in fleet training in the [[Kattegat]] between Denmark and Norway, followed by a cruise to Norway in the summer. At the end of 1910, the fleet conducted another cruise into the Baltic. The next two years followed a similar pattern, though the summer cruise in 1912 was interrupted by the [[Agadir Crisis]]. As a result, the cruise was only into the Baltic. Later in the year ''Pommern'' took part in maneuvers off the island of [[Helgoland]] in the North Sea.{{sfn|Staff|p=8}}
+
+In July 1914, about two weeks after the [[Assassination of Archduke Franz Ferdinand of Austria|assassination of Archduke Franz Ferdinand]] in [[Sarajevo]], ''Pommern'' was with the High Seas Fleet during its annual summer cruise to Norway. As a result of rising international tensions, the cruise was cut short and the German fleet was back in Wilhelmshaven by 29 July.{{sfn|Staff|p=11}} At midnight on 4 August, the United Kingdom declared war on Germany.{{sfn|Herwig|p=144}} ''Pommern'' remained with the High Seas Fleet throughout the first two years of the naval war.{{sfn|Staff|p=12}} At the outbreak of war, the ship and her sisters in the II Battle Squadron were deployed to the mouth of the [[Elbe River]] to guard the area from possible British incursions.{{sfn|Staff|p=10}}
+
+[[File:SMS Pommern 1916.jpg|thumb|''Pommern'' before the war]]
+''Pommern'' and the rest of the II Battle Squadron then rejoined the High Seas Fleet as part of the battleship support for the battlecruisers in the [[I Scouting Group]] that [[Raid on Scarborough, Hartlepool and Whitby|bombarded Scarborough, Hartlepool, and Whitby]] on 15–16 December 1914.{{sfn|Staff|p=14}} During the operation, the German battle fleet of some twelve dreadnoughts and eight pre-dreadnoughts came to within {{convert|10|nmi|abbr=on}} of an isolated squadron of six British battleships. However, skirmishes between the rival [[destroyer]] screens convinced Admiral [[Friedrich von Ingenohl]] that he was confronted with the entire [[Grand Fleet]], and so he broke off the engagement and turned for home.{{sfn|Tarrant|pp=31–33}} Two fruitless fleet advances followed on 17–18 and 21–23 April 1915. A third took place on 17–18 May, and a fourth occurred on 23–24 October.{{sfn|Staff|p=14}}
+
+On 24–25 April 1916, ''Pommern'' and her sisters joined the dreadnoughts of the High Seas Fleet to support the battlecruisers, which were again tasked with conducting a raid of the English coast.{{sfn|Staff|p=10}} While en route to the target, the battlecruiser {{SMS|Seydlitz||2}} was damaged by a [[naval mine|mine]]. ''Seydlitz'' was detached to return home, and the rest of the ships continued with the mission. Due to poor visibility, the battlecruisers conducted a brief [[Bombardment of Yarmouth and Lowestoft|bombardment of the ports of Yarmouth and Lowestoft]]. The operation was quickly called off, which prevented the British fleet from being able to intervene.{{sfn|Tarrant|pp=52–54}}
+
+=== Battle of Jutland ===
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|350px|Maps showing the maneuvers of the British (blue) and German (red) fleets on 31 May&amp;nbsp;– 1 June 1916|alt=The British fleet sailed from northern Britain to the east while the Germans sailed from Germany in the south; the opposing fleets met off the Danish coast]]
+{{main|Battle of Jutland}}
+
+Vice Admiral [[Reinhard Scheer]], the new commander of the High Seas Fleet, immediately planned another foray into the North Sea, but the damage to ''Seydlitz'' delayed the operation until the end of May.{{sfn|Tarrant|p=58}} ''Pommern'' remained assigned to the II Battle Squadron, now under the command of Rear Admiral [[Franz Mauve]]. The squadron was positioned at the rear of the German line.{{sfn|Tarrant|p=286}} During the &quot;Run to the North,&quot; Scheer ordered the fleet to pursue the British V Battle Squadron at top speed. The slower ''Deutschland''-class ships could not keep up with the faster dreadnoughts and quickly fell behind.{{sfn|London|p=73}}
+
+Later in the evening of the first day of the battle, the hard-pressed battlecruisers of the I Scouting Group were being pursued by their British opponents. ''Pommern'' and the other so-called &quot;five-minute ships&quot; came to their aid by steaming in between the opposing battlecruiser squadrons.{{sfn|Tarrant|p=195}}{{efn|name=five-minute ships}} ''Pommern'' could not make out a target in the darkness, though several of her sisters could. Despite this, their shooting was ineffective.{{sfn|London|pp=70–71}} The British battlecruisers scored several hits on the German ships, including one on ''Pommern'' by a {{convert|12|in|cm|abbr=on|1}} shell fired by {{HMS|Indomitable|1907|2}},{{sfn|Campbell|p=254}} forcing her to haul out of line. Admiral Mauve ordered an [[Boxing the compass|8-point]] turn to the south to disengage from the British, and they did not follow.{{sfn|London|pp=70–71}}
+
+At 3:10 on the morning of 1 June, ''Pommern'' was torpedoed by the British destroyer {{HMS|Onslaught|1915|2}}. At least one torpedo, and possibly a second, struck the ship, detonating one of the 17&amp;nbsp;cm ammunition magazines.{{sfn|Staff|pp=12–13}} A tremendous explosion broke the ship in half. The stern capsized and remained afloat for at least 20&amp;nbsp;minutes with her propellers jutting into the air.{{sfn|Campbell|p=305}} {{SMS|Hannover||2}}, the ship directly astern of ''Pommern'', was forced to haul out of line to avoid the wreck. ''Pommern''{{'}}s entire crew of 839 officers and enlisted men were killed when the ship sank.{{sfn|Staff|p=13}} She was the only battleship, pre-dreadnought or dreadnought, in either fleet to be sunk at Jutland;{{sfn|Campbell|p=338}} her loss, coupled with the vulnerabilities of the surviving pre-dreadnoughts, prompted Scheer to leave them behind during the [[Action of 19 August 1916|sortie of 18&amp;ndash;19 August 1916]].{{sfn|Halpern|p=330}}
+
+== Notes ==
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot;, or &quot;His Majesty's Ship&quot; in German.
+}}
+
+{{efn
+| name = gun nomenclature
+| In Imperial German Navy gun nomenclature, &quot;SK&quot; (Schnelladekanone) denotes that the gun is quick loading, while the L/40 denotes the length of the gun. In this case, the L/40 gun is 40 [[Caliber (artillery)|caliber]], meaning that the gun is 40 times long as it is in diameter.
+}}
+
+{{efn
+| name = five-minute ships
+| The men of the German navy referred to ships as &quot;five-minute ships&quot; because that was the length of time they were expected to survive if confronted by a dreadnought. See: {{harvnb|Tarrant|p=62}}.
+}}
+
+}}
+
+== Footnotes ==
+
+{{reflist|20em}}
+
+== References ==
+
+{{portal|Battleships}}
+
+* {{cite book
+  | last = Campbell
+  | first = John
+  | year = 1998
+  | title = Jutland: An Analysis of the Fighting
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-1-55821-759-1
+  | ref = {{sfnRef|Campbell}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis, MD
+  | isbn = 978-0-87021-790-6
+  | ref = {{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1995
+  | title = A Naval History of World War I
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-352-7
+  | oclc = 57447525
+  | ref = {{sfnRef|Halpern}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = Amherst, NY
+  | isbn = 978-1-57392-286-9
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last1 = Hildebrand
+  | first1 = Hans H.
+  | last2 = Röhr
+  | first2 = Albert
+  | last3 = Steinmetz
+  | first3 = Hans-Otto
+  | year = 1993
+  | title = Die Deutschen Kriegsschiffe
+  | volume = 7
+  | location = [[Ratingen]]
+  | publisher = Mundus Verlag
+  | isbn = 978-3-8364-9743-5 
+  | ref = {{sfnRef|Hildebrand Röhr &amp; Steinmetz}}
+  }}
+* {{cite book
+  | last = London
+  | first = Charles
+  | year = 2000
+  | title = Jutland 1916: Clash of the Dreadnoughts
+  | publisher = Osprey Publishing
+  | location = Oxford
+  | isbn = 978-1-85532-992-8
+  | ref = {{sfnRef|London}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2010
+  | title = German Battleships: 1914–1918 (1)
+  | publisher = Osprey Books
+  | location = Oxford
+  | isbn = 978-1-84603-467-1
+  | ref = {{sfnRef|Staff}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | ref = {{sfnRef|Tarrant}}
+  }}
+
+==Further reading==
+* {{cite journal
+  | last = Dodson
+  | first = Aidan
+  | year = 2014
+  | title = Last of the Line: The German Battleships of the Braunschweig and Deutschland Classes
+  | journal = Warship 2014 
+  | pages = 49–69
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-1591149231
+  | ref = {{sfnRef|Dodson}}
+  }}
+
+{{Deutschland class battleship}}
+{{June 1916 shipwrecks}}
+{{Good article}}
+
+{{DEFAULTSORT:Pommern}}
+[[Category:Deutschland-class battleships]]
+[[Category:Ships built in Stettin]]
+[[Category:1905 ships]]
+[[Category:World War I battleships of Germany]]
+[[Category:Maritime incidents in 1916]]
+[[Category:Ships sunk at the Battle of Jutland]]
+[[Category:Ships lost with all hands]]
+[[Category:Naval magazine explosions]]</text>
+      <sha1>j0a4l168y1w5ryv532oob9wguk40cb6</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,164 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese destroyer Natsugumo (1937)</title>
+    <ns>0</ns>
+    <id>5100648</id>
+    <revision>
+      <id>728171366</id>
+      <parentid>707006027</parentid>
+      <timestamp>2016-07-03T18:08:59Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8800">
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Natsugumo.jpg|300px|Natsugumo]]
+|Ship caption=''Natsugumo'' underway on 22 November 1939
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= [[Empire of Japan]]
+|Ship flag={{shipboxflag|Japan|naval}}
+|Ship name= ''Natsugumo''
+|Ship namesake=
+|Ship ordered=1934 Maru-2 Program
+|Ship builder=[[Sasebo Naval Arsenal]]
+|Ship laid down= 1 July 1936
+|Ship launched= 26 May 1937
+|Ship completed= 
+|Ship commissioned= 10 February 1938
+|Ship decommissioned= 
+|Ship struck= 15 November 1942
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate= Sunk in air attack, 12 October 1942
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= {{sclass-|Asashio|destroyer}}
+|Ship displacement= {{convert|2370|LT|t|0|abbr=on}}
+|Ship length=*{{convert|111|m|ft|abbr=on}} [[Length between perpendiculars|pp]]
+*{{convert|115|m|ftin|abbr=on}}waterline
+*{{convert|118.3|m|ftin|abbr=on}} OA 
+|Ship beam= {{convert|10.3|m|ftin|abbr=on}} 
+|Ship draft= {{convert|3.7|m|ftin|abbr=on}} 
+|Ship propulsion= 2-shaft geared turbine, 3 boilers, {{convert|50000|shp|kW|0|abbr=on}}
+|Ship speed= {{convert|35|kn|mph km/h|lk=in}}
+|Ship range=*{{convert|5700|nmi|km|abbr=on|lk=in}} at {{convert|10|kn|km/h|abbr=on}}
+*{{convert|960|nmi|km|abbr=on|lk=in}} at {{convert|34|kn|km/h|abbr=on}}
+|Ship complement=200
+|Ship sensors=
+|Ship EW=
+|Ship armament=*6 × [[12.7 cm/50 Type 3 naval gun|12.7 cm/50 Type 3]] [[dual purpose gun|DP]] guns
+*up to 28 × [[Type 96 25 mm AT/AA Gun|Type 96 AA guns]]
+*up to 4 × [[13.2 mm Hotchkiss machine gun|Type 93 AA guns]]
+*8 × {{convert|24|in|mm|0|abbr=on}} [[torpedo tube]]s
+*36 [[depth charge]]s
+|Ship armor=
+|Ship notes=
+}}
+|}
+
+{{nihongo|'''''Natsugumo'''''|夏雲|Summer Cloud}} &lt;ref&gt;Nelson. ''Japanese-English Character Dictionary''. page 52, 942&lt;/ref&gt; was the seventh of ten {{sclass-|Asashio|destroyer}}s built for the [[Imperial Japanese Navy]] in the mid-1930s under the [[2nd Naval Armaments Supplement Programme (Japan, 1934)|Circle Two Supplementary Naval Expansion Program]] (''Maru Ni Keikaku'').
+
+==History==
+The ''Asashio''-class destroyers were larger and more capable that the preceding {{sclass|Shiratsuyu|destroyer|0}}, as Japanese naval architects were no longer constrained by the provisions of the [[London Naval Treaty]]. These [[light cruiser]]-sized vessels were designed to take advantage of Japan’s lead in [[torpedo]] technology, and to accompany the Japanese main striking force and in both day and night attacks against the [[United States Navy]] as it advanced across the [[Pacific Ocean]], according to Japanese naval strategic projections.&lt;ref&gt;Peattie &amp; Evans, ''Kaigun'' .&lt;/ref&gt; Despite being one of the most powerful classes of destroyers in the world at the time of their completion, none survived the [[Pacific War]].&lt;ref&gt;Globalsecurity.org, IJN Asashio class destroyers&lt;/ref&gt;
+
+''Natsugumo'', built at the [[Sasebo Naval Arsenal]] was laid down on 1 July 1936, launched on 26 May 1937 and commissioned on 10 February 1938.&lt;ref&gt;{{cite web| url= http://homepage2.nifty.com/nishidah/e/stc0427.htm | title= Asashio class 1st class destroyers| last= Nishidah | first=  Hiroshi| year= 2002 | work= Materials of the Imperial Japanese Navy | publisher= }}&lt;/ref&gt;
+
+==Operational history==
+At the time of the [[attack on Pearl Harbor]], ''Natsugumo'', under the command of Lieutenant Commander Moritaro Tsukamoto, was assigned to Destroyer Division 9 (Desdiv 9), and a member of Destroyer Squadron 4 (Desron 4) of the [[IJN 2nd Fleet]], escorting the [[Battle of the Philippines (1941-42)|Philippines invasion]] forces to [[Vigan]] and [[Lingayen, Pangasinan|Lingayen]]. She then assisted in the landings of Japanese forces at [[Battle of Tarakan (1942)|Tarakan]], [[Balikpapan]], [[Makassar]] and [[Battle of Java|Java]] in the [[Netherlands East Indies]]. During the [[Battle of the Java Sea]] of 27 February, she was on detached duty escorting the troop convoy and thus did not see combat. However, on 1 March, she damaged the submarine {{USS|Perch|SS-176|6}} with [[depth charge]]s.&lt;ref&gt;{{cite web| url= http://www.combinedfleet.com/natsug_t.htm| title= IJN ''Natsugumo'': Tabular Record of Movement |author= Allyn D. Nevitt  |date= |year= 1998 |month= |work= |publisher= combinedfleet.com  | accessdate= 2008-02-06 }}&lt;/ref&gt;
+
+''Natsugumo'' participated in the [[Battle of Christmas Island]] from 31 March–10 April, escorting the damaged cruiser {{ship|Japanese cruiser|Naka||2}} to [[Singapore]], and then returning to [[Yokosuka Naval District|Yokosuka]] on April 12 for repairs.
+
+''Natsugumo'' joined the escort for Admiral [[Nobutake Kondō]]’s Midway Invasion Force during the [[Battle of Midway]] from 4–6 June 1942. Afterwards, she was reassigned to the [[Ominato Naval District]] and assigned to patrols of the [[Kurile Islands]] and north Pacific to mid-July. However, on 19 July, she received orders to escort the cruiser {{ship|Japanese cruiser|Chokai||2}} from Kure to Truk. From Truk, she made a transport run to [[Kwajalein]] and returned to Yokosuka by 8 August.
+
+On 11 August, ''Natsugumo'' departed Yokosuka for Truk, and was part of the escort for the aircraft carrier {{ship|Japanese aircraft carrier|Chitose||2}} at the [[Battle of the Eastern Solomons]] on 24 August. She was assigned to patrols out of Truk in September, and ordered to [[Shortland Island]] in October. During the month of October, she made four “[[Tokyo Express]] transport runs to [[Guadalcanal]]. On the fourth run, while escorting {{ship|Japanese seaplane tender|Nisshin||2}} and ''Chitose'', she went to the assistance of the destroyer {{ship|Japanese destroyer|Murakumo||2}} which had been damaged during the [[Battle of Cape Esperance]]. Attacked by [[United States Navy]] aircraft on the night of 11 October, near misses ruptured her hull, and she sank after only 39 minutes at position {{coord|08|40|S|159|20|E|display=inline, title}} approximately {{convert|90|nmi|lk=in}} west-northwest of [[Savo Island]]. The attack killed 16 crewmen, including her captain, Lieutenant Commander Tsukamoto; the destroyer {{ship|Japanese destroyer|Asagumo||2}} took off her 176 survivors &lt;ref&gt;{{cite book | last = Brown | first = David| year = 1990 | title = Warship Losses of World War Two| publisher = Naval Institute Press| isbn = 1-55750-914-X}}&lt;/ref&gt; She was removed from the [[navy list]] on 15 November 1942.
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last = D'Albas | first = Andrieu| year = 1965 | title = Death of a Navy: Japanese Naval Action in World War II  | publisher = Devin-Adair Pub| isbn = 0-8159-5302-X}}
+*{{cite book | last = Brown | first = David| year = 1990 | title = Warship Losses of World War Two| publisher = Naval Institute Press| isbn = 1-55750-914-X}}
+*{{cite book | last = Hammel | first = Eric | authorlink = Eric M. Hammel | year = 1988 | title = Guadalcanal: Decision at Sea : The Naval Battle of Guadalcanal, Nov. 13–15, 1942 | publisher = Pacifica Press | location = (CA) | isbn = 0-517-56952-3}}
+*{{cite book | last = Howarth | first = Stephen | year = 1983| title = The Fighting Ships of the Rising Sun: The Drama of the Imperial Japanese Navy, 1895–1945 | publisher = Atheneum | location =| isbn = 0-689-11402-8}}
+*{{cite book| last = Jentsura | first = Hansgeorg | year = 1976 | title = Warships of the Imperial Japanese Navy, 1869–1945 | publisher = US Naval Institute Press  | isbn = 0-87021-893-X }}
+*{{cite book | last = Nelson | first = Andrew N. | year = 1967| title = Japanese–English Character Dictionary | publisher = Tuttle | isbn = 0-8048-0408-7}}
+*{{cite book | last = Watts | first = Anthony J | year = 1967 | title = Japanese Warships of World War II | publisher = Doubleday | id = ASIN B000KEV3J8}}
+*{{cite book | last = Whitley | first = M J | title = Destroyers of World War Two: An International Encyclopedia | publisher = Arms and Armour Press | year = 2000 | location = London | isbn = 1-85409-521-8 }}
+
+==External links==
+*[http://www.combinedfleet.com/asashi_c.htm  CombinedFleet.com: ''Asashio''-class destroyers]
+*[http://www.combinedfleet.com/natsug_t.htm ''Natsugumo'' history]
+*[http://www.globalsecurity.org/military/world/japan/asashio-dd.htm GlobalSecurity.org: ''Asashio'' class destroyers]
+*[http://homepage2.nifty.com/nishidah/e/stc0427.htm Materials of the Imperial Japanese Navy]
+
+{{Asashio class destroyer}}
+{{IJN}}
+{{October 1942 shipwrecks}}
+
+{{DEFAULTSORT:Natsugumo}}
+[[Category:Asashio-class destroyers]]
+[[Category:Ships built in Japan]]
+[[Category:World War II destroyers of Japan]]
+[[Category:Destroyers sunk by aircraft]]
+[[Category:1937 ships]]
+[[Category:Maritime incidents in October 1942]]
+[[Category:Shipwrecks in the Solomon Sea]]
+[[Category:Ships sunk by US aircraft]]</text>
+      <sha1>kgcziz8gqakkdhhj0oyjq55jximllm5</sha1>
+    </revision>
+  </page>
+</mediawiki>

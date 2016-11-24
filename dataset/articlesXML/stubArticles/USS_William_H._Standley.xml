@@ -1,0 +1,178 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS William H. Standley</title>
+    <ns>0</ns>
+    <id>7514490</id>
+    <revision>
+      <id>749343186</id>
+      <parentid>727406307</parentid>
+      <timestamp>2016-11-13T21:24:26Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5438">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:William H Standley CG-32.jpg|300px|USS William H. Standley CG-32]]
+|Ship caption=USS ''William H. Standley'' (CG-32)
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1994}}
+|Ship name=''William H. Standley''
+|Ship namesake=[[William H. Standley]]
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=16 January 1962
+|Ship awarded=
+|Ship builder=[[Bath Iron Works]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=29 July 1963
+|Ship launched=19 December 1964
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=28 June 1966
+|Ship commissioned=9 July 1966
+|Ship recommissioned=
+|Ship decommissioned=11 February 1994
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=CG-32 on 30 June 1975
+|Ship refit=
+|Ship struck=11 February 1994
+|Ship reinstated=
+|Ship homeport=[[Naval Station Mayport|NS Mayport]], [[Naval Station Charleston|NS Charleston]] and finally [[Naval Station San Diego|NS San Diego]] (former)
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=Sunk as target 23 June 2005
+|Ship status=
+|Ship notes=
+|Ship badge=[[File:USS William H. Standley (CG-32) Badge.jpg|120px]]
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Belknap|cruiser}}
+|Ship displacement=7930 tons
+|Ship length={{convert|547|ft|m|abbr=on}}
+|Ship beam={{convert|55|ft|m|abbr=on}}
+|Ship height=
+|Ship draft={{convert|28|ft|10|in|m|abbr=on}}
+|Ship power=
+|Ship propulsion=
+|Ship speed={{convert|30|kn|mph km/h|0}}
+|Ship range=
+|Ship endurance=
+|Ship complement=418 officers and men
+|Ship sensors={{Belknap class cruiser sensors}}
+|Ship EW=[[AN/SLQ-32]]
+|Ship armament=* 1 × Mark 42 [[5&quot;/54 caliber Mark 42 gun|{{convert|5|in|mm|abbr=on|0}}]]/54-[[Caliber (artillery)|caliber]] gun
+* 2 × [[3″/50 caliber gun|{{convert|3|in|mm|abbr=on|0}}]]/50 caliber guns
+* 1 × [[RIM-2 Terrier|Terrier missile]] / [[RIM-67 Standard|SM-2ER]] launcher
+* 6 × {{convert|15.5|in|mm|0|abbr=on}} torpedo tubes
+* [[Harpoon missiles]], [[Phalanx CIWS]]
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''USS ''William H. Standley'' (DLG/CG-32)''' was a [[Belknap-class cruiser|''Belknap''-class destroyer leader / cruiser]]. She was named for Admiral [[William Harrison Standley]], former [[Chief of Naval Operations]] and ambassador to the [[Soviet Union]]. She was launched as '''DLG-32''', a frigate, and [[United States Navy 1975 ship reclassification|reclassified]] Cruiser on 30 June 1975.
+
+The contract to construct ''William H. Standley'' was awarded on 16 January 1962. Her keel was laid down at [[Bath Iron Works]] on 29 July 1963. Launched 19 December 1964 and sponsored by Mrs. Charles B. Wincote, daughter of the late Admiral Standley. The vessel was delivered 28 June 1966 and commissioned on 9 July 1966.
+
+==Service history==
+[[File:US_Navy_050623-N-0120R-008_An_Aircrew_member,_assigned_to_Helicopter_Anti-Submarine_Squadron_Fourteen_(HS-14),_practices_firing_a_Browning_.50-caliber_machine_gun_during_a_live-fire_exercise_on_the_decommissioned_guided_missile.jpg|thumb|left|''Standley'' used as a target for [[Exercise Talisman Saber]] 2006]]
+''William H. Standley'' earned four [[battle star]]s for her service along the coast of [[Vietnam]].&lt;ref&gt;[http://www.history.navy.mil/danfs/w8/william_h_standley.htm]  {{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+From June 1990 to August 1991, ''William H. Standley'' received a comprehensive overhaul including [[New Threat Upgrade]] (NTU), a major anti-aircraft warfare systems improvement.&lt;ref&gt;[http://www.cg-32.com/cg-32/decomm.htm]  {{webarchive |url=https://web.archive.org/web/20050223214244/http://www.cg-32.com/cg-32/decomm.htm |date=February 23, 2005 }}&lt;/ref&gt;
+
+After more than 27 years of service, ''William H. Standley'' was decommissioned on 11 February 1994. She was struck the same day and would be sunk in a fleet exercise. ex-''William H. Standley'' and [[USS Elliot (DD-967)|ex-''Elliot'']] were sunk off the eastern coast of [[Australia]] as part of [[Exercise Talisman Sabre]], ''Elliot'' on 22 June 2005 and ''William H. Standley'' on 23 June 2005. Both ships are now [[artificial reef]]s in the [[Coral Sea]], with ''William H. Standley'' resting at a depth of 4,526 [[fathom]]s (27,156 feet; 8,277 meters) at {{Coord|24|47|S|155|48|E|display=inline}}, or̃ roughly 100 nautical miles (185 km) east of [[Fraser Island]], [[Queensland]], [[Australia]].{{citation needed|date=March 2016}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|USS William H. Standley (CG-32)}}
+*[http://www.cg-32.com CG-32.com]
+*{{NVR url|id=CG32|title=NVR CG-32}}
+*[http://www.globalsecurity.org/military/agency/navy/cg-32.htm GlobalSecurity.org]
+*[http://www.navsource.org/archives/04/1132/040132.htm NavSource - CG-32]
+*[http://www.history.navy.mil/danfs/w8/william_h_standley.htm DANFS - William H. Standley]
+
+{{Belknap class cruiser}}
+{{2005 shipwrecks}}
+
+{{DEFAULTSORT:William H. Standley (DLG-32)}}
+[[Category:Belknap-class cruisers]]
+[[Category:Ships built in Bath, Maine]]
+[[Category:1964 ships]]
+[[Category:Cold War cruisers of the United States]]
+[[Category:Shipwrecks in the Coral Sea]]
+[[Category:Ships sunk as targets]]
+
+
+{{US-mil-ship-stub}}</text>
+      <sha1>j7a2ehve9cbkw8rktk9d5maar6p1dmf</sha1>
+    </revision>
+  </page>
+</mediawiki>

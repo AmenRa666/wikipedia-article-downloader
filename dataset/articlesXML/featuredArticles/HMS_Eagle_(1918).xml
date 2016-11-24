@@ -1,0 +1,241 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Eagle (1918)</title>
+    <ns>0</ns>
+    <id>1967320</id>
+    <revision>
+      <id>728697455</id>
+      <parentid>700046433</parentid>
+      <timestamp>2016-07-07T01:38:41Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42844">{{Other ships|HMS Eagle}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Eagle underway 1930s.jpeg|300px]]
+|Ship caption=Aerial view of ''Eagle'' in the 1930s
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom]]
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=HMS ''Eagle''
+|Ship ordered=29 July 1912
+|Ship awarded=
+|Ship builder=[[Armstrong Whitworth]]
+|Ship yard number=858
+|Ship laid down=20 February 1913
+|Ship launched=8 June 1918
+|Ship christened=
+|Ship acquired=Purchased, 28 February 1918
+|Ship commissioned=20 February 1924
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship identification=[[Pennant number]]: 94
+|Ship fate=Sunk by {{GS|U-73|1940|2}}, 11 August 1942
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as completed in 1924)
+|Ship type=[[Aircraft carrier]]
+|Ship displacement={{convert|21850|LT|abbr=on}} [[standard displacement|standard]]
+|Ship length={{convert|667|ft|6|in|m|1|abbr=on}}
+|Ship beam={{convert|115|ft|m|1|abbr=on}}
+|Ship draught={{convert|26|ft|8|in|m|1|abbr=on}} ([[deep load]])
+|Ship power={{convert|50,000|shp|lk=in|abbr=on}}
+|Ship propulsion=*4 shafts
+*4 geared [[steam turbine]] sets
+*32 [[water-tube boiler]]s
+|Ship speed={{convert|24|kn|lk=in}}
+|Ship range={{convert|4800|nmi|lk=in|abbr=on}} at {{convert|16|kn}}
+|Ship complement=791
+|Ship armament=*9 × [[BL 6 inch naval guns Mk XIII – XVIII#6-inch Mark XVII gun in Royal Navy service|{{convert|6|inch|mm|sing=on|sigfig=3}} guns]]
+*5 × [[QF 4 inch Mk V naval gun|{{convert|4|inch|mm|sing=on|sigfig=3}} Mk V anti-aircraft guns]]
+|Ship armour=*[[Belt armor|Belt]]: {{convert|4.5|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|1|-|1.5|in|mm|0|abbr=on}}
+*[[Bulkhead (partition)|Bulkheads]]: {{convert|4|in|mm|0|abbr=on}}
+|Ship aircraft=25–30
+|Ship notes=
+}}
+|}
+'''HMS ''Eagle''''' was an early [[aircraft carrier]] of the [[Royal Navy]]. Ordered by Chile during the [[South American dreadnought race]] as the {{sclass-|Almirante Latorre|battleship}} ''Almirante Cochrane'', she was laid down before [[World War I]]. In early 1918 she was purchased by Britain for conversion to an aircraft carrier; this work was finished in 1924. Her completion was delayed by labour troubles and the possibility that she might be repurchased by Chile for reconversion into a battleship, as well as the need for comparative trials to determine the optimum layout for aircraft carriers. The ship was initially assigned to the [[Mediterranean Fleet]] and then later to the [[China Station]], spending very little time in home waters other than for periodic refits.
+
+''Eagle'' spent the first nine months of [[World War II]] in the [[Indian Ocean]] searching for German [[commerce raider]]s. During the early part of the war, the [[Fleet Air Arm]] was desperately short of [[fighter aircraft|fighters]] and ''Eagle'' was equipped solely with [[Fairey Swordfish]] [[torpedo bomber]]s until late 1940. She was transferred to the Mediterranean in May 1940, where she escorted [[Malta convoys|convoys]] to [[Malta]] and [[Greece]] and attacked Italian shipping, naval units and bases in the Eastern Mediterranean. The ship also participated in the [[Battle of Calabria]] in July but her aircraft failed to score any hits when they attempted to torpedo Italian cruisers during the battle. Whenever ''Eagle'' was not at sea, her aircraft were disembarked and used ashore.
+
+The ship was relieved by a more modern carrier in March 1941 and ordered to hunt for [[Axis powers|Axis]] shipping in the Indian Ocean and the [[South Atlantic]]. Her aircraft sank a German [[blockade runner]] and disabled a German [[oil tanker]] in mid-1941 but did not find any other Axis ships before the ship was ordered home for a refit in October. After completing an extensive refit in early 1942, the ship made trips delivering fighter aircraft to Malta to boost its air defences in the first half of 1942. ''Eagle'' was torpedoed and sunk by the {{GS|U-73|1940|6}} on 11&amp;nbsp;August 1942 while escorting a convoy to Malta during [[Operation Pedestal]].
+
+== Design and description ==
+
+=== Construction and conversion ===
+{{See also|South American dreadnought race}}
+In 1911, the [[Chilean Navy]] ordered one {{convert|28000|LT|adj=on|-1}} [[super-dreadnought]] battleship, with an option for a second ship, each to be armed with ten 14-inch (356&amp;nbsp;mm) and sixteen six-inch (152&amp;nbsp;mm) guns, that were named {{ship|Chilean battleship|Almirante Latorre||2}} and ''Almirante Cochrane''.&lt;ref&gt;Brook, p. 146&lt;/ref&gt; ''Almirante Latorre'' was laid down in December 1911, followed by ''Almirante Cochrane'' at the [[Armstrong Whitworth|Armstrong yards]] at [[Newcastle upon Tyne]] on 20&amp;nbsp;February 1913. On the outbreak of the First World War, construction of the two ships was suspended. As ''Almirante Latorre'' was almost complete, she was purchased for the Royal Navy, entering service as {{HMS|Canada|1913|6}} in 1915. ''Almirante Cochrane'' was almost complete up to the forecastle, although her side armour had not yet been installed when war broke out. No work was carried out during the war until the British decided to complete her as an aircraft carrier for the Royal Navy. She was therefore purchased from Chile on 28&amp;nbsp;February 1918 to be converted into the carrier HMS ''Eagle''.&lt;ref name=&quot;Conways 06 p70&quot;&gt;Gardiner and Gray, pp. 38, 70&lt;/ref&gt; She was the fourteenth ship of the Royal Navy to bear that name.&lt;ref&gt;Colledge and Warlow, p. 108&lt;/ref&gt;
+
+The [[Director of Naval Construction]] began preliminary design work even before the ship was purchased and submitted an outline design on 8&amp;nbsp;February 1918. This design had a full-length [[flight deck]] and its most distinctive features were the two [[Glossary of nautical terms#I|islands]] separated by the flight deck. Each island was to be {{convert|110|ft|m|1}} long, containing two [[funnel (ship)|funnels]] and a tripod mast. Although they were staggered to make it more difficult for an enemy ship to estimate the ship's course, they were to be connected to each other with heavy bracing. The [[bridge (nautical)|bridge]] was to be mounted on top of this bracing which left a clear height of {{convert|20|ft|m|1}} for the aircraft on the flight deck. There was to be a {{convert|68|ft|m|1|adj=on}} wide space between the islands where the aircraft were to be assembled before taking off. Aircraft would be transported between the hangar and the flight deck by two [[Elevator#Aircraft elevators|aircraft lifts]] (elevators). A [[crane (machine)|crane]] was to be located at the aft end of each island to lift aircraft aboard and to recover [[seaplane]]s. Bulk [[petrol]] storage consisted of {{convert|15,000|impgal|l usgal}} in {{convert|2|impgal|l usgal|adj=on}} tins stowed on the forecastle deck and protected by {{convert|1|in|0|adj=on}} plating. Two ready-use tanks near the islands would allow aircraft on the flight deck to refuel. The ship's planned armament consisted of nine 6-inch guns and four {{convert|4|in|adj=on|0}} [[Anti-aircraft warfare|anti-aircraft]] guns mounted on the platform between the islands.&lt;ref&gt;Friedman, pp. 74–75&lt;/ref&gt; ''Eagle'' retained the battleship's mixture of coal and [[fuel oil]], but the quantities were increased to {{convert|3200|LT}} of coal and {{convert|1750|LT}} of oil, as the forward and rear 14-inch [[magazine (artillery)|magazines]] and shell rooms were converted to be used as oil tanks.&lt;ref name=b50 /&gt;
+
+[[File:Brassey's HMS Canada Plan (1915).jpg|thumb|left|Line drawing of ''Almirante Latorre'', illustrating what ''Eagle'' would have looked like if she had been finished in her original configuration. Shaded areas show the extent of her armour.]]
+Based on trials with {{HMS|Furious|47|6}}, in which pilots were found generally to turn to port when recovering from an aborted landing, the design was revised to eliminate the port island in April 1918. The starboard island was lengthened to {{convert|130|ft|1}} and its width was reduced to {{convert|15|ft|1}} to minimise air turbulence. The island contained the bridge, both funnels and the tripod mast that carried the [[fire-control director]]s for the armament. At the request of Admiral [[David Beatty, 1st Earl Beatty|David Beatty]], commander of the [[Grand Fleet]], the main armament was increased to 12 six-inch guns, including one mounted on the island, and eighteen torpedo tubes were added, three triple fixed mounts on each [[broadside]], in case the ship met German [[light cruiser]]s at night. The anti-aircraft armament was reduced to a single 4-inch gun mounted on the island between the funnels as Beatty believed that the ship's own fighters would be her best defence against enemy aircraft. This design was approved in June, although work had begun earlier.&lt;ref&gt;Friedman, pp. 74–76&lt;/ref&gt;
+
+The {{convert|4.5|in|0|adj=on}} armour planned for her upper [[Belt armor|belt]] was used to protect the ship's [[waterline]]. The already-completed superstructure was removed as were the [[barbette]]s for the 14-inch guns.&lt;ref&gt;Friedman, p. 75&lt;/ref&gt; ''Eagle'' was launched on 8&amp;nbsp;June 1918 and was towed downriver to the shipbuilder's High Walker yard for [[fitting-out]] ten days later. The boiler uptakes were re-routed and the existing openings were plated over. The existing {{convert|1.5|in|adj=on|0}} upper deck became the floor of the hangar deck and a new superstructure was built above it. The flight deck was {{convert|1|in}} thick and served as the uppermost strength deck, or main supporting deck, of the ship. When the war ended in November 1918, the ship was about nine months from completion.&lt;ref name=b50&gt;Brown, p. 250&lt;/ref&gt;
+
+Construction was slowed by [[industrial action]] after the war, and was suspended on 21&amp;nbsp;October 1919 as Chile wanted to repurchase the ship and have it re-converted to a battleship.&lt;ref name=f79&gt;Friedman, p. 79&lt;/ref&gt; The £2.5 million cost of doing so would have been higher than the £1.5 million offered by the Chileans and the Admiralty decided to retain the ship. The Royal Navy needed to carry out flying trials with a carrier fitted with an island, and the Admiralty approved the use of ''Eagle'' on 11 November. Armstrong Whitworth plated over the openings for the undelivered elevators on the flight deck (which had been cancelled when they could not meet the specifications), finished the rear funnel, removed the torpedo tubes, and plated over the forward funnel uptakes before she sailed to the [[HMNB Portsmouth|Royal dockyard at Portsmouth]] for the modifications necessary for the trials on 20&amp;nbsp;April 1920.&lt;ref name=f79 /&gt;&lt;ref&gt;Brown, pp. 250–51&lt;/ref&gt; Only two of her boilers, converted to run on fuel oil only, could be used during the trials.&lt;ref&gt;Brown, p. 251&lt;/ref&gt;
+
+=== Flight trials ===
+The trials principally tested the longitudinal [[arresting gear]] used previously on the small aircraft carrier {{HMS|Argus|I49|2}}.&lt;ref name=b52&gt;Brown, p. 252&lt;/ref&gt; They were not intended to stop landing aircraft—the landing speeds of the time were low enough that this was unnecessary given a good headwind—but rather to prevent aircraft from veering off to one side and falling off the flight deck.&lt;ref&gt;Friedman, p. 95&lt;/ref&gt; Initially, the arresting gear was about {{convert|170|ft|1}} long and was installed too far forward. Over the course of the trials it was moved further to the rear and lengthened to a total of {{convert|320|ft|1}}.&lt;ref&gt;Friedman, pp. 79–81&lt;/ref&gt;
+
+The ship was commanded during the trials by [[Captain (Royal Navy)|Captain]] [[Wilmot Nicholson]], who had previously commanded the carrier {{HMS|Furious|47|2}} in 1918, and the Royal Air Force representative was [[Group Captain]] [[Charles Samson]].&lt;ref name=f79 /&gt; Taxiing trials began on 10&amp;nbsp;May with [[Sopwith Camel]] fighters and [[Parnall Panther]] reconnaissance aircraft while the ship was still docked. Flights over and around the ship to evaluate air currents over the flight deck and around the island began shortly afterward and the first on-board landing was made on 1&amp;nbsp;June. Larger aircraft like the [[Bristol F2B]] fighter, the [[Sopwith Cuckoo]] torpedo bomber, and the [[De Havilland DH.9]] bomber were also evaluated during the trials. They were generally successful with only 12 minor accidents in 143 landings in all types of weather conditions,&lt;ref name=b52 /&gt; although they did reveal that aircraft landing aboard carriers would need [[landing gear]] fitted with [[Oleo strut (aircraft suspension)|shock absorbers]] to handle the impact of landing on a pitching deck.&lt;ref&gt;Friedman, pp. 81–82&lt;/ref&gt; Group Captain Samson strongly preferred the elimination of the island entirely, but Nicholson recommended that the ship be retained for service, although he was not satisfied with the size and shape of the island.&lt;ref name=b52 /&gt; He also recommended that ''Eagle'' be converted to burn [[fuel oil]] exclusively and that the removal of the 6-inch guns in exchange for anti-aircraft guns would allow the tripod mast in the island to be eliminated, since it would not then be required for fire control purposes .&lt;ref&gt;Friedman, p. 82&lt;/ref&gt;
+
+=== Description ===
+The ship was [[Ship decommissioning|paid off]] on 16&amp;nbsp;November, but did not begin construction to a revised design until 24&amp;nbsp;March 1921 at Portsmouth. The Admiralty accepted some of Nicholson's suggestions, but not all. The shape and size of the island was modified in accordance with the results from [[wind tunnel]] testing at the [[National Physical Laboratory (United Kingdom)|National Physical Laboratory]], but the 6-inch guns were retained. The forward edge of the flight deck was faired into the ship's bow to smooth out the air currents over the bow and the 4-inch anti-aircraft guns were mounted on and around the island. The forward elevator was moved to the forward end of the [[hangar]]. After construction began, [[anti-torpedo bulge]]s were added, {{convert|6|ft|1}} deep, and the petrol tin storage room was replaced by a {{convert|8100|impgal|l USgal|adj=on}} tank. The ship's designed fuel capacity was {{convert|3000|LT}}, but this was increased to {{convert|3750|LT}} when she was bulged. However, {{convert|500|LT}} of this amount was required to act as ballast to offset the weight of the island and its equipment.&lt;ref&gt;Brown, pp. 252–53&lt;/ref&gt;
+
+''Eagle'' had an [[length overall|overall length]] of {{convert|667|ft|6|in|m|1}}, a beam of {{convert|115|ft|m|1}}, and a [[draft (ship)|draught]] of {{convert|26|ft|8|in|m|1}} at [[deep load]]. She displaced {{convert|21850|LT}} at [[Standard displacement|standard load]]. Each of the ship's four sets of Brown-Curtis geared [[steam turbine]]s drove one 3-bladed propeller.&lt;ref name=b73&gt;Brown, p. 272&lt;/ref&gt; They were powered by 32 [[Yarrow Shipbuilders|Yarrow]] small-tube [[water-tube boiler|boilers]]. During her [[sea trial]]s on 9–10 September 1923, the turbines produced {{convert|52100|shp|lk=in}} and gave ''Eagle'' a speed of {{convert|24.37|kn|lk=in}}, but this caused leaks in the turbine joints and she was limited to a maximum of {{convert|50000|shp}} in service. She had a range of {{convert|4800|nmi|lk=in}} at {{convert|16|kn}}.&lt;ref&gt;Friedman, pp. 82–83, 366&lt;/ref&gt;
+
+The ship's flight deck was {{convert|652|ft|1}} long and her [[hangar]] was {{convert|400|ft|1}} long and no less than {{convert|33|ft|1}} wide. Its minimum height was {{convert|20|ft|6|in|1}}, and it was equipped with four steel shutter [[fire curtain]]s to isolate any fires in the hangar. The forward lift's dimensions were {{convert|46|x|47|ft|m|1}} and the aft lift was {{convert|46|x|33|ft|m|adj=on|1}}. The fore-and-aft arresting gear was {{convert|328|ft|1}} long and extended the length of the flight deck between the edges of the lifts.&lt;ref&gt;Brown, pp. 253–54, 273&lt;/ref&gt; A large [[crane (machine)|crane]] with a {{convert|60|ft|1|adj=on}} radius was positioned behind the island.&lt;ref name=b50 /&gt; The ship's aircraft capacity was 25 to 30 and, in 1939, the ship's crew totalled 41 officers and 750 men, exclusive of the air group.&lt;ref&gt;Friedman, p. 83, 366&lt;/ref&gt;
+
+For self-defence against enemy warships, ''Eagle'' had nine [[BL 6 inch naval guns Mk XIII – XVIII#6-inch Mark XVII gun in Royal Navy service|BL Mk XVII 6-inch guns]], three at the stern and six along both sides of the ship. The ship carried 200 rounds per gun. Two of her five [[QF 4 inch Mk V naval gun|QF Mk V 4-inch]] AA guns were positioned on the flight deck in front of the island while a third was behind the island. The remaining two guns were mounted on top of the island, one between the two funnels, and each gun was provided with 150 rounds.&lt;ref name=b73 /&gt;
+
+== Career ==
+
+=== Inter-war ===
+[[File:HMS Eagle 1931 NAN7-78.jpg|thumb|right|Aerial view of ''Eagle'' in 1931, prior to her refit]]
+''Eagle'' was assigned to the Mediterranean Fleet on 7&amp;nbsp;June 1924 after she commissioned on 26 February and finished [[Glossary of nautical terms#W|working up]]. She was the largest aircraft carrier in the world at the time and embarked 24 aircraft in four six-aircraft flights of the [[Fleet Air Arm]] of the [[Royal Air Force]]. These consisted of [[No. 402 (Fleet Fighter) Flight RAF / No. 402 (Fleet Fighter) Flight FAA|No. 402 Flight]] with [[Fairey Flycatcher]]s, [[No. 422 (Fleet Spotter) Flight RAF / No. 422 (Fleet Spotter) Flight FAA|No. 422 Flight]] with [[Blackburn Blackburn]] reconnaissance aircraft, [[No. 440 (Fleet Reconnaissance) Flight RAF / No. 440 (Fleet Reconnaissance) Flight FAA|No. 440 Flight]] ([[Supermarine Seagull (1921)|Supermarine Seagull]] [[flying boat]]s) and [[No. 460 (Fleet Torpedo) Flight RAF / No. 460 (Fleet Torpedo) Flight FAA|No. 460 Flight]] with [[Blackburn Dart]] torpedo bombers.&lt;ref name=b54&gt;Brown, p. 254&lt;/ref&gt;
+
+While in the Mediterranean, one flight usually operated ashore at either [[RAF Hal Far]], [[Malta]], or [[Aboukir]], [[Egypt]]. The Seagulls proved to be unsatisfactory in service and they were replaced by [[Fairey III]]Ds in January 1925. [[Avro Bison]] spotters of [[No. 421 (Fleet Spotter) Flight RAF / No. 421 (Fleet Spotter) Flight FAA|No. 421B Flight]] operated aboard for a time in late 1925. ''Eagle'' sailed for [[HMNB Devonport|Devonport]] at the end of 1925 for a brief refit where the longitudinal arresting gear was removed as it had been found to be virtually useless in service. Two single [[QF 2 pounder naval gun|QF 2-pounder ''pom-pom'']] light anti-aircraft guns were added forward of the 4-inch guns on the flight deck in front of the island and the ship's petrol capacity was increased to {{convert|14,190|impgal|l usgal}}.&lt;ref name=b54 /&gt;
+
+When the ship returned to the Mediterranean after the completion of her refit in 1926, the Bisons of [[No. 448 (Fleet Spotter Reconnaissance) Flight FAA|No. 448 Flight]] replaced No. 422 Flight. In 1928 she was joined by {{HMS|Courageous|50|6}} which allowed the fleet to experiment with multi-carrier operations.  ''Eagle'' was refitted again in early 1929 and a salt-water spray system was fitted to fight hangar fires. When the ship returned to the Mediterranean later in the year, both 440 and 448 Flights had re-equipped with Fairey IIIF reconnaissance aircraft. ''Eagle'' departed Malta on 8 January 1931, en route to Portsmouth to load the latest carrier aircraft for a demonstration at the British Industries Exhibition at [[Buenos Aires]], [[Argentina]]. She returned to the Mediterranean to participate in the summer fleet exercises before sailing for Devonport where she began a lengthy refit in August.&lt;ref&gt;Brown, pp. 254–55&lt;/ref&gt;
+
+The ship's boilers were replaced during the refit and the 4-inch gun between the funnels was replaced by an eight-barrel QF 2-pounder Mark V ''pom-pom'' mount. A single quadruple [[Vickers .50 machine gun|Vickers .50&amp;nbsp;machine gun mount]] was added on the starboard aft side of the flight deck. Four [[Fire fighting foam|fire-fighting foam]] generators were also fitted on the flight deck. A single [[High Angle Control System]] (HACS) director was fitted on the aft end of the control top on the tripod mast. The crew, now numbering 753 sailors and 253 airmen, benefited from improved accommodation. The refit was completed on 28 November 1932, but personnel shortages prevented her from [[Glossary of nautical terms#W|working up]] until April 1933.&lt;ref&gt;Brown, pp. 255, 257&lt;/ref&gt;
+
+[[File:HMS Eagle and HMS Medway at Hong Kong in the 1930s.jpg|thumb|''Eagle'' at Hong Kong in the 1930s. The depot ship HMS ''Medway'' is in the background]]
+Following the refit, ''Eagle'' was sent to the Far East, serving on the China Station throughout 1934, with her aircraft being deployed against [[Piracy|pirate ships]] and their bases. The tropical heat caused problems in cooling the bomb magazines, and the food storage rooms and the ventilation proved to be barely satisfactory.&lt;ref name=b57&gt;Brown, pp. 257–58&lt;/ref&gt; Another quadruple .50&amp;nbsp;machine gun mount was added forward of the 2-pounder gun on the flight deck and the original mounting was shifted over to the port side.&lt;ref name=f86&gt;Friedman, p. 86&lt;/ref&gt; During this time, the ship's air group comprised nine [[Hawker Osprey]] fighters of [[803 Naval Air Squadron|803 Squadron]] and 12 Fairey IIIFs of [[824 Naval Air Squadron|824 Squadron]]; the latter unit was re-designated as [[825 Naval Air Squadron|825 Squadron]] in October 1934. 803 Squadron transferred to {{HMS|Hermes|95|6}} when she relieved ''Eagle'' at the end of 1934.&lt;ref name=b57 /&gt; They were replaced by [[Blackburn Baffin]] torpedo bombers of [[812 Naval Air Squadron|812 Squadron]] when ''Eagle'' arrived in the Mediterranean in February 1935. Both squadrons remained behind at RAF Hal Far when the ship sailed for Devonport for another refit in June.&lt;ref&gt;Sturtivant, pp. 209, 266&lt;/ref&gt;&lt;ref name=b58&gt;Brown, p. 258&lt;/ref&gt;
+
+''Eagle'' was paid off until her refit began in early 1936.&lt;ref name=b58 /&gt; Transverse arresting gear was installed and a second octuple ''pom-pom'' replaced the 2-pounders in front of the island. Two more quadruple .50&amp;nbsp;machine gun mounts were installed in [[sponson]]s on either side of the bow. The capacity of her bomb magazines was also increased during this refit,&lt;ref name=f86 /&gt; and the ship's ventilation and insulation arrangements were improved as well. She was sent back to the Far East in 1937 with only nine Fairey Swordfish torpedo bombers (cloth-covered biplanes) of [[813 Naval Air Squadron|813 Squadron]] aboard&lt;ref&gt;Brown, pp. 258–59&lt;/ref&gt; as well as nine more Swordfish to re-equip 824 Squadron when it transferred from ''Hermes'' in April.&lt;ref&gt;Sturtivant, p. 286&lt;/ref&gt; Captain [[Clement Moody]] commanded ''Eagle'' from 1&amp;nbsp;January 1937 until relieved by Captain A. R. M. Bridge on 16&amp;nbsp;June 1939. In August 1939 the ship's crew was exchanged in [[Hong Kong]] and ''Eagle'' sailed for [[Singapore]] to begin a short refit on 12 August.&lt;ref&gt;Smith, pp. 15–16&lt;/ref&gt;
+
+=== World War II ===
+
+==== 1939–41 ====
+When World War Two began the following month, the ship had just completed her refit in Singapore. She put to sea a few days later and began searching for German merchant ships in company with the [[light cruiser]] {{HMS|Birmingham|C19|2}} and escorted by the [[destroyer]] {{HMS|Daring|H16|2}}. A Swordfish discovered the freighter {{SS|Franken}} south of the port of [[Padang, Indonesia|Padang]] on [[Sumatra]] and ''Birmingham'' was ordered to intercept it while ''Eagle'' continued her air patrols. She arrived in [[Colombo]], [[Ceylon]], on 10&amp;nbsp;September and until 5&amp;nbsp;October she searched the Indian Ocean for German ships between the west coast of India and the [[Maldive Islands]] with the light cruiser {{HMS|Liverpool|C11|2}}. ''Eagle'' was then assigned to Force I together with the heavy cruisers {{HMS|Cornwall|56|2}} and {{HMS|Dorsetshire|40|2}}, to search the Indian Ocean for the [[pocket battleship]] {{ship|German cruiser|Admiral Graf Spee||2}} and other German [[commerce raider]]s. In mid-December her boilers and bottom were cleaned during a period of maintenance in [[Durban]], [[South Africa]].&lt;ref&gt;Smith, pp. 20–23, 29–30&lt;/ref&gt;
+
+[[File:HMS Eagle at Alexandria Dec 1940.jpg|thumb|right|''Eagle'' in Alexandria harbour, December 1940]]
+''Eagle'' continued to patrol the Indian Ocean in 1940, but escorted a large Australian troop convoy to Suez early in the year. While in the vicinity of the [[Nicobar Islands]] on 14&amp;nbsp;March, a {{convert|250|lb|abbr=on}} bomb accidentally exploded, killing 14 men. The damage to the ship was mostly confined to the bomb magazines, although two generators were knocked out. The explosion flashed upwards through the port bomb lift and ignited the wing on one Swordfish stowed in the hangar. All but four of the aircraft were damaged by the corrosive salt-water spray system when the fire was doused. She was repaired at Singapore between 15&amp;nbsp;March and 9&amp;nbsp;May when the ship sailed for Colombo en route to the Mediterranean, which she reached on 26&amp;nbsp;May. In June three crated [[Gloster Gladiator|Gloster Sea Gladiators]] were found in storage at [[HMS Grebe|Dekheila]] and these aircraft became the only fighters available for the entire fleet in the Eastern Mediterranean.&lt;ref&gt;Smith, pp. 30–40, 44&lt;/ref&gt;
+
+Flying from shore bases on 5&amp;nbsp;July, 813 Squadron attacked [[Tobruk]] harbour in a combined attack with the RAF at dusk, sinking the {{ship|Italian destroyer|Zeffiro}} and the freighter {{SS|Manzoni}},&lt;ref&gt;Smith, p. 47&lt;/ref&gt; and blowing the bow off the destroyer {{ship|Italian destroyer|Euro||2}}. Two other merchantmen had to be beached before they sank.&lt;ref&gt;Rohwer, p. 31&lt;/ref&gt; During the [[Battle of Calabria]] on 9&amp;nbsp;July, 813 Squadron was used to search and track the Italian fleet while 824 Squadron made two unsuccessful attacks on Italian cruisers without loss. On the evening of 10&amp;nbsp;July,&lt;ref&gt;Smith, pp. 49–52&lt;/ref&gt; ''Eagle''{{'}}s aircraft attacked [[Augusta, Sicily|Augusta]] harbour in [[Sicily]], sinking the destroyer {{ship|Italian destroyer|Leone Pancaldo||2}}.&lt;ref&gt;Rohwer, p. 32&lt;/ref&gt; While under heavy aerial attack on 13&amp;nbsp;July, pilots of the Sea Gladiator Flight shot down three Italian bombers.&lt;ref&gt;Gustavsson and Slongo, pp. 78–79&lt;/ref&gt; On the night of 20&amp;nbsp;July, six aircraft from 824 Squadron, flying from [[Sidi Barrani]],&lt;ref&gt;Smith, p. 53&lt;/ref&gt; sank the destroyers {{ship|Italian destroyer|Nembo||2}} and {{ship|Italian destroyer|Ostro||2}} as well as the freighter {{SS|Sereno}}.&lt;ref&gt;Rohwer, p. 33&lt;/ref&gt; While providing distant cover to a convoy bound for Greece, one [[Savoia-Marchetti SM.79]] medium bomber was shot down on 29&amp;nbsp;July by ''Eagle''{{'}}s Sea Gladiators while attacking the fleet.&lt;ref&gt;Gustavsson and Slongo, p. 89&lt;/ref&gt;
+
+On 22&amp;nbsp;August three Swordfish from 824 Squadron, flying from Sidi Barrani, attacked and sank the {{ship|Italian submarine|Iride}} and the depot ship ''Monte Gargano'' in the [[Gulf of Bomba]]. The ships were carrying [[Frogman|eight frogmen]] and four [[manned torpedo]]es to attack British shipping in Alexandria harbour.&lt;ref&gt;Gustavsson and Slongo, p. 117&lt;/ref&gt; In September, she was joined by the carrier {{HMS|Illustrious|R87|2}} and both ships attacked Italian airbases on [[Rhodes]] on 9&amp;nbsp;September. ''Eagle''{{'}}s 12 Swordfish were late in taking off and attacked the airfield at Maritza after the Italians had been alerted by the earlier attack by ''Illustrious''{{'}} aircraft on the nearby airbase at Collato. Four aircraft were shot down by the defending [[Fiat CR.32]] and [[Fiat CR.42]] fighters, but two SM.79s were destroyed on the ground and four other aircraft were damaged.&lt;ref&gt;Shores, et al., p. 128&lt;/ref&gt; These losses were the ship's heaviest in any single mission of the war.&lt;ref&gt;Smith, pp. 55–56&lt;/ref&gt;
+
+While covering another convoy to Malta on 12&amp;nbsp;October, she was damaged by near misses from SM.79s based in [[Sicily]]. The damage to her aviation fuel system was not immediately apparent and she covered another convoy later that month.&lt;ref&gt;Gustavsson and Slongo, p. 162&lt;/ref&gt; While returning to Alexandria, her aircraft attacked Maltezana seaplane base on Rhodes on 27&amp;nbsp;October.&lt;ref&gt;Smith, p. 66&lt;/ref&gt; Four of her Swordfish from 824 Squadron had been disembarked earlier and were flown to Fuka Landing Ground for a night attack on Tobruk harbour. The 824 Squadron aircraft distracted the defences with 250-pound bombs, while the 12 other Swordfish laid [[mine (naval)|mines]].&lt;ref&gt;Gustavsson and Slongo, pp. 165–66&lt;/ref&gt; On 28&amp;nbsp;October, ''Eagle'' and the rest of the Mediterranean Fleet patrolled off the west coast of Greece for a few days hoping to intercept the Italian Navy if it supported the Italian Army in their invasion of Greece, but no contact was made.&lt;ref&gt;Smith, pp. 66–67&lt;/ref&gt;
+
+When the ship was examined on 5&amp;nbsp;November, her aviation fuel system was leaking and required repairs. Five of her aircraft were transferred to ''Illustrious'' for an attack on 11&amp;nbsp;November on [[Taranto]] ([[Battle of Taranto|Operation Judgement]]), whilst ''Eagle'' remained in Alexandria. One of ''Eagle''{{'}}s Swordfish was shot down by the intense Italian anti-aircraft fire. The ship covered multiple convoys to Greece and Malta during the rest of November.&lt;ref&gt;Smith, pp. 67–75&lt;/ref&gt; Six of her aircraft bombed [[Tripoli]] harbour during the night of 24/25&amp;nbsp;November without loss.&lt;ref&gt;Gustavsson and Slongo, p. 200&lt;/ref&gt; ''Eagle'' spent most of December in Alexandria, but her aircraft supported the ground war, most notably when they spotted for the [[battleship]]s {{HMS|Warspite|03|2}} and {{HMS|Barham|04|2}} during the bombardment of [[Bardia]] on 2&amp;nbsp;January 1941. In mid-January, the ship  covered a convoy to Greece, but bad weather foiled plans to attack Italian bases en route. After her return, her aircraft complement was reorganised to include more fighters, as ''Eagle'' now had sole responsibility for fighter cover over the fleet after the crippling of ''Illustrious'' by German [[dive bomber]]s on 11&amp;nbsp;January. In order to make room for the fighters, one of the Swordfish squadrons was disembarked and used to support the ground war. When ''Eagle'' was covering another convoy to Malta in mid-February, the ship carried nine [[Fairey Fulmar]]s of [[813 Naval Air Squadron|805 Squadron]], five Sea Gladiators and six Swordfish.&lt;ref&gt;Smith, pp. 77–83&lt;/ref&gt;
+
+After the carrier {{HMS|Formidable|67|2}} arrived on 9&amp;nbsp;March to relieve ''Illustrious'', orders were cancelled that would have transferred Eagle to the South Atlantic to hunt for German commerce raiders and the ship did not leave Alexandria until 9&amp;nbsp;April.&lt;ref&gt;Smith, pp. 84–85&lt;/ref&gt; In the meantime, both Swordfish squadrons were transferred to [[Port Sudan]] to operate against Italian shipping in [[Massawa]], in [[Italian East Africa]], on 25&amp;nbsp;March. They were very successful and returned to the ship on 13&amp;nbsp;April after she had passed through the [[Suez Canal]].&lt;ref&gt;Brown, p. 264&lt;/ref&gt; After she reached [[Mombasa]], [[Kenya]], on 26&amp;nbsp;April, she was ordered to sea on 29 April on an unsuccessful search for a raider in the Indian Ocean. The ship was then ordered on 1&amp;nbsp;May to proceed to [[Durban]], [[South Africa]], to rendezvous with the battleship {{HMS|Nelson|28|2}} and to proceed to [[Gibraltar]]. After the two ships arrived in [[Freetown]], [[Sierra Leone]], on 25&amp;nbsp;May to refuel, ''Nelson'' was ordered to continue to Gibraltar, but ''Eagle''{{'}}s orders changed and she was now charged with hunting for German supply ships in the South Atlantic. Captain A. R. M. Bridge was relieved by [[Edmund Rushbrooke|E. G. H. Rushbrooke]] at this time.&lt;ref&gt;Smith, pp. 108–16&lt;/ref&gt;
+
+''Eagle'' began searching the South Atlantic on 29&amp;nbsp;May, usually accompanied by ''Dorsetshire'' or the light cruiser {{HMS|Dunedin|D93|2}}. The carrier's Swordfish discovered, bombed and sank the blockade runner ''Elbe'' on 6&amp;nbsp;June. The oil tanker ''Lothringen'' was captured on 15&amp;nbsp;June by ''Dunedin'' after it had been bombed and [[Strafing|strafed]] by several Swordfish. The ship continued patrolling without incident except for a hangar fire that killed one aircraft mechanic on 20&amp;nbsp;September. All but four of the ship's Swordfish were damaged by the spray used to put out the fire, but the ship herself was undamaged.&lt;ref&gt;Smith, pp. 116–32&lt;/ref&gt;
+
+In October 1941, ''Eagle'' was ordered to return to Britain for a refit at [[Gladstone Dock]], [[Liverpool]]. She arrived off [[Greenock]] on 26&amp;nbsp;October and was docked at Liverpool on 1&amp;nbsp;November.&lt;ref&gt;Smith, pp. 134–37&lt;/ref&gt; The quadruple .50&amp;nbsp;machine guns were replaced by 12 manually operated automatic [[Oerlikon 20&amp;nbsp;mm cannon|20&amp;nbsp;mm Oerlikon]] light anti-aircraft guns, six in sponsons on each side of the flight deck, and the crews of the four-inch AA guns were given protection from splinters by the addition of [[zareba (ship structure)|zarebas]] around each weapon. The HACS was moved to the front of the control top and fitted with a [[List of World War II British naval radar#Type 285|Type 285]] gunnery [[radar]]. A [[List of World War II British naval radar#Type 290|Type 290]] air warning radar was also installed. The ship's oil fuel capacity was reduced to {{convert|2990|LT}} in exchange for an increase in her petrol storage of {{convert|3000|impgal|l USgal}}. This reduced her range to {{convert|2780|nmi}} at a speed of {{convert|17.5|kn}}.&lt;ref&gt;Friedman, pp. 86–87&lt;/ref&gt;
+
+''Eagle''{{'}}s refit was completed on 9&amp;nbsp;January 1942 and she was working up for the next five weeks. She joined the convoy WS16 en route to Gibraltar on 16&amp;nbsp;February and reached it a week later. 813 and 824 Squadrons had rejoined the ship with their Swordfish and they were supplemented by four [[Hawker Hurricane|Hawker Sea Hurricane 1B]] fighters from a detachment of [[804 Naval Air Squadron|804 Squadron]] and the Fighter Flight of 813 Squadron.&lt;ref&gt;Smith, pp. 141–43&lt;/ref&gt;&lt;ref&gt;Sturtivant, pp. 178, 212–13&lt;/ref&gt; Because their wings could not fold, they could not use either lift and remained on the flight deck at all times. The ship reached Gibraltar on 23&amp;nbsp;February and was assigned to [[Force H]].&lt;ref&gt;Smith, pp. 142–43&lt;/ref&gt;
+
+==== Battle of Malta ====
+[[File:HMS EAGLE and HMS MALAYA in the Mediterranean during Operation 'Spotter', which delivered 16 RAF Spitfire Mk Vs to Malta on 7th March 1942. A7840.jpg|thumb|HMS ''Eagle'' and HMS ''Malaya'', from HMS ''Argus'' serving with Force H in the Mediterranean, 7 March 1942]]
+Upon ''Eagle'''s arrival in Gibraltar, 824 Squadron transferred to [[RAF Gibraltar|RAF North Front]] and the ship loaded 15 [[Supermarine Spitfire]] fighters brought to Gibraltar by the carrier {{HMS|Argus|I49|2}}.&lt;ref&gt;Sturtivant, p. 262&lt;/ref&gt;&lt;ref&gt;Nailer, p. 160&lt;/ref&gt; These aircraft were partly assembled dockside and hoisted aboard for final assembly. They were too big to fit below deck and remained on the flight deck, where they impeded the operations of ''Eagle''{{'}}s aircraft, except for those few also carried on the flight deck, until the ferried aircraft were flown off.&lt;ref&gt;Shores, Cull and Malizia 1991, pp. 108–09&lt;/ref&gt; On 27&amp;nbsp;February 1942, she sailed to deliver the Spitfires to Malta, escorted by the battleship {{HMS|Malaya||2}}, ''Argus'', the cruiser {{HMS|Hermione|74|2}}, and nine destroyers, but the operation had to be cancelled when the long-range fuel tanks of the Spitfires proved defective. The problems were not rectified until 7&amp;nbsp;March, when the 15 Spitfires were successfully flown off to Malta. Upon her return, the ship's engines required repairs that lasted until 13 March.&lt;ref&gt;Smith, pp. 144–46&lt;/ref&gt; Nine more Spitfires were delivered to Malta on 21&amp;nbsp;March and an additional seven on 29&amp;nbsp;March.&lt;ref&gt;Nailer, p. 161&lt;/ref&gt; After her return, her steering gear required extensive repairs that lasted until the end of April.&lt;ref&gt;Smith, p. 146&lt;/ref&gt;
+
+[[File:EagleSinkingA 011302.jpg|thumb|left|''Eagle'' listing to port and sinking, 11 August 1942]]
+As part of [[Operation Bowery]], ''Eagle'' rendezvoused on the night of 7/8&amp;nbsp;May with the American carrier {{USS|Wasp|CV-7|6}}, carrying 47 Spitfires, while ''Eagle'' had landed her entire aircraft complement to make room for 17 Spitfires of her own. Sixty of them arrived safely at Malta. For the next operation on 17&amp;nbsp;May, the Swordfish and Sea Hurricanes of 813 Squadron flew back on board to join the 17 Spitfires and six [[Fairey Albacore]] torpedo bombers destined for Malta. The fighters flew off without incident, but engine problems forced all of the Albacores to return.&lt;ref&gt;Nailer, p. 162&lt;/ref&gt; After they had landed, the ship was attacked by a half-dozen SM.79 torpedo bombers which failed to score any hits. The radar-guided guns of the escorting light cruiser, {{HMS|Charybdis|88|6}}, were instrumental in driving off the determined Italian aircraft.&lt;ref&gt;Smith, pp. 151–53&lt;/ref&gt;
+
+''Eagle'' disembarked all of her aircraft, except for her four Sea Hurricanes, to make room for 31 Spitfires and flew them off on 3&amp;nbsp;June during [[Operation Style]]. Another 32 were flown off on 9&amp;nbsp;June during [[Operation Salient]]. Later in the month, the ship provided air cover for another convoy, [[Operation Harpoon (1942)|Operation Harpoon]], which departed for Malta at the same time as the [[Operation Vigorous]] convoy did, from the opposite direction. A dozen Sea Hurricanes of [[801 Naval Air Squadron|801 Squadron]] and four Fulmars from [[807 Naval Air Squadron|807 Squadron]] reinforced the four Sea Hurricanes of 813's Fighter Flight to deal with the heavy air attacks anticipated.&lt;ref&gt;Smith, pp. 156–58&lt;/ref&gt; The convoy was subject to heavy air attacks by both the German and Italian Air Forces; ''Eagle''{{'}}s Sea Hurricanes managed to disrupt many attacks, claiming nine aircraft destroyed and a further two probably destroyed for the loss of one Sea Hurricane from 813 Squadron and three Fulmars.&lt;ref&gt;Brown, p. 268&lt;/ref&gt; The escorts reached Gibraltar on 17&amp;nbsp;June and did not make the next delivery of aircraft until 14&amp;nbsp;July when 32 Spitfires were flown off to Malta ([[Operation Pinpoint]]). During this time, the carrier's aircraft complement consisted solely of six Sea Hurricanes of 801 Squadron. Another 29 Spitfires as well as four Swordfish of 824 Squadron were loaded on 20&amp;nbsp;July and the Spitfires were flown off the following day.&lt;ref&gt;Nailer, p. 163&lt;/ref&gt;  Earlier in the day, the ship was unsuccessfully attacked by the {{ship|Italian submarine|Dandolo}}.&lt;ref&gt;Smith, pp. 159–61&lt;/ref&gt;
+
+''Eagle'' covered Operation Pedestal together with the carriers {{HMS|Victorious|R38|2}} and {{HMS|Indomitable|92|2}}. ''Eagle'' carried 16 Sea Hurricanes of 801 and 813 Squadrons as well as four reserve aircraft for the operation.&lt;ref&gt;Smith, p. 163&lt;/ref&gt; On the early afternoon of 11&amp;nbsp;August, ''Eagle'' was hit by four torpedoes from the {{GS|U-73|1940|6}}, commanded by [[Helmut Rosenbaum]], and sank within four minutes, {{convert|70|nmi}} south of [[Cape Salinas]] at position
+{{Coord|38|3|0|N|3|1|12.00|E|type:event|display=inline,title}}. 131 officers and men, mainly from the ship's machinery spaces, were lost in the sinking,&lt;ref name=s9&gt;Smith, p. 189&lt;/ref&gt; Sixteen Sea Hurricanes were lost; four from 801 were aloft when the ship was torpedoed, and landed on other carriers.&lt;ref&gt;Brown, p. 271&lt;/ref&gt; The destroyers {{HMS|Laforey|G99|2}} and {{HMS|Lookout|G32|2}} and the [[tug]] ''Jaunty'' rescued 67 officers and 862 sailors.&lt;ref name=s9 /&gt;
+
+== Notes ==
+{{Research help|Mil}}{{Reflist|20em}}
+
+== References ==
+* {{cite book|last=Brown|first=David|title=HMS Eagle|series=Warship Profile|volume=35|year=1973|publisher=Profile Publications|location=Windsor, Berkshire, UK|oclc=33084560}}
+* {{cite book|last=Brook|first=Peter|title=Warships for Export: Armstrong Warships 1867–1927|publisher=World Ship Society|location=Gravesend, Kent, UK|year=1999|isbn=978-0-905617-89-3}}
+* {{Colledge}}
+* {{cite book|last=Friedman|first=Norman|title=British Carrier Aviation: The Evolution of the Ships and Their Aircraft|year=1988|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-054-8}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5|lastauthoramp=y}}
+* {{cite book|last1=Gustavsson|first1=Håkan|last2=Slongo|first2=Ludovico|title=Desert Prelude: Early Clashes June–November 1940|year=2010|publisher=Stratus|location=Sandomierz, Poland|isbn=978-83-89450-52-4|lastauthoramp=y}}
+* {{cite book|last=Nailer|first=Roger|editor=Gardiner, Robert|title=Warship 1990|year=1990|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-903-4|chapter=Aircraft to Malta|pages=151–65}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939–1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Rev|isbn=1-59114-119-2}}
+* {{cite book|last1=Shores|first1=Christopher|last2=Cull|first2=Brian|last3= Malizia |first3=Nicola|title=Air War for Yugoslavia, Greece, and Crete |publisher=Grub Street|location=London|year=1987|isbn=0-948817-07-0|lastauthoramp=y}}
+* {{cite book|last1=Shores|first1=Christopher|last2=Cull|first2=Brian|last3= Malizia |first3=Nicola|title=Malta: The Spitfire Year: 1942|publisher=Grub Street|location=London|year=1991|isbn=0-948817-16-X|lastauthoramp=y}}
+* {{cite book|last=Smith|first=Peter C.|title=Eagle's War: War Diary of an Aircraft Carrier|publisher=Crécy Books|location=Bristol, UK|year=1995|isbn=0-947554-60-2}}
+* {{cite book|last=Sturtivant|first=Ray|title=The Squadrons of the Fleet Air Arm|year=1984|publisher=Air-Britain (Historians)|location=Tonbridge, Kent, UK|isbn=0-85130-120-7}}
+
+== External links ==
+{{Commons category|HMS Eagle (ship, 1918)}}
+* [http://www.maritimequest.com/warship_directory/great_britain/pages/aircraft_carriers/hms_eagle_94.htm Maritimequest HMS ''Eagle'' photo gallery]
+* [http://www.iwm.org.uk/collections/item/object/80016233 IWM Interview with survivor Roy Northover]
+
+{{WWII British ships}}
+{{South American dreadnoughts}}
+{{August 1942 shipwrecks}}
+{{featured article}}
+
+{{DEFAULTSORT:Eagle (1918)}}
+{{Subject bar
+| portal1=Royal Navy
+| portal2=World War II
+}}
+[[Category:1918 ships]]
+[[Category:Aircraft carriers of the Royal Navy]]
+[[Category:Almirante Latorre-class battleships|Almirante Cochrane]]
+[[Category:Armstrong Whitworth ships]]
+[[Category:Maritime incidents in August 1942]]
+[[Category:Ships sunk by German submarines in World War II]]
+[[Category:World War II aircraft carriers of the United Kingdom]]
+[[Category:World War II shipwrecks in the Mediterranean]]</text>
+      <sha1>6bu8ay4qqiyzltqdgqdt9p90psnx73s</sha1>
+    </revision>
+  </page>
+</mediawiki>

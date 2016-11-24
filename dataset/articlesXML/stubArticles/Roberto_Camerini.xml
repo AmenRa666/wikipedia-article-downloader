@@ -1,0 +1,128 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Roberto Camerini</title>
+    <ns>0</ns>
+    <id>52255844</id>
+    <revision>
+      <id>750619343</id>
+      <parentid>749089858</parentid>
+      <timestamp>2016-11-20T21:47:08Z</timestamp>
+      <contributor>
+        <username>Keith D</username>
+        <id>2278355</id>
+      </contributor>
+      <comment>Fix cite date error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2653">{{Infobox military person
+| honorific_prefix  = 
+| name              = Roberto Camerini
+| honorific_suffix  = 
+| native_name       = 
+| native_name_lang  = 
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| birth_date    = {{birth date and age|df=yes|1955|07|23}}
+| death_date    = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} death date first, then birth date --&gt;
+| birth_place   = [[Sliema]], Malta
+| death_place   = 
+| placeofburial = 
+| placeofburial_label = 
+| placeofburial_coordinates = &lt;!-- {{Coord|LAT|LONG|display=inline,title}} --&gt;
+| nickname      = 
+| birth_name    = 
+| allegiance    = {{ITA}}
+| branch        = {{navy|Italy}}
+| serviceyears  = 
+| rank          = Rear Admiral
+| servicenumber = &lt;!--Do not use data from primary sources such as service records.--&gt;
+| unit          = 
+| commands      = {{plainlist |
+* Commander Maritime Command North
+* Commander Maritime Command Sicily
+}}
+| battles       = 
+| battles_label = 
+| awards        = &lt;!-- {{plainlist |
+*
+}} --&gt;
+| memorials     =
+| spouse        = &lt;!-- Add spouse if reliably sourced --&gt; 
+| relations     =
+| laterwork     = 
+| signature     = 
+| website       = &lt;!-- {{URL|example.com}} --&gt;
+| module        = 
+}}
+
+Rear Admiral ({{lang|it|L'ammiraglio di divisione}}) '''Roberto Camerini''' (born 23 July 1955, [[Sliema]])&lt;ref name=&quot;NavyBio&quot;&gt;{{Cite web |url=http://www.marina.difesa.it/conosciamoci/organizzazione/comandienti/dipartimentali/mdpt_spezia/Pagine/cinc.aspx |title=Comandante in Capo}}&lt;/ref&gt; is an Italian Navy officer, currently serving as Commander Maritime Command North.
+
+He joined the Navy in 1974 and attended the Naval Academy before joining the submarine branch. He commanded the submarine [[USS Harder (SS-568)|Romeo Romei]] from 1985 to 1986  and [[Sauro-class submarine|Giuliano Prini]] from 1984-1990 as well as the 2nd Submarine Group.
+
+From 2013 to 2015 he served as Commander Maritime Command Sicily before being appointed Commander Maritime Command North ({{lang|it|Comandante del Comando Marittimo Nord}}) in February 2015.&lt;ref name=&quot;Citadella&quot;&gt;{{cite web |url=http://www.cittadellaspezia.com/La-Spezia/Attualita/Marina-militare-arriva-l-ammiraglio-174456.aspx |title=Marina militare, arriva l'ammiraglio Camerini al posto di Toscano |date=20 January 2015}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-mil}}
+{{s-bef | before = [[Andrea Toscano]]}}
+{{s-ttl | title = Commander Maritime Command North | years = 2015-2016}}
+{{s-aft | after = [[Giorgio Lazio]] }}
+{{s-end}}
+
+{{Italy-mil-bio-stub}}
+
+{{DEFAULTSORT:Camerini, Roberto}}
+[[Category:Italian admirals]]
+[[Category:Living people]]
+[[Category:1955 births]]</text>
+      <sha1>6tjq0sp7frzhbu9zxu4zk34suwjsyac</sha1>
+    </revision>
+  </page>
+</mediawiki>

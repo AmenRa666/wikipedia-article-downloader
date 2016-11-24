@@ -1,0 +1,174 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Naval Base Simon's Town</title>
+    <ns>0</ns>
+    <id>44004289</id>
+    <revision>
+      <id>750930103</id>
+      <parentid>748137565</parentid>
+      <timestamp>2016-11-22T09:01:12Z</timestamp>
+      <contributor>
+        <username>Barabbas1312</username>
+        <id>13452816</id>
+      </contributor>
+      <comment>/* Gallery */ pic</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7574">{{Infobox military installation
+|name = Naval Base, Simon's Town
+|ensign = 
+|native_name = 
+|partof = &lt;!-- for elements within a larger site --&gt;
+|location = 
+|nearest_town = [[Simon's Town]]&lt;!-- used in military test site infobox --&gt;
+|country = {{ZAF}}
+|image = File:Simonstown Naval base from above.jpg
+|alt = 
+|caption = A view of Simon's Town and the naval base
+|image2 = &lt;!--secondary image, major command emblems for airfields --&gt;
+|alt2 = 
+|caption2 = 
+|type = Naval Base
+|coordinates = {{Coord|34|10|59|S|18|25|59|E|display=inline,title}}&lt;!-- for generating inline coords link at top of article --&gt;
+|latd = 34 | latm = 10 | lats = 60 | latNS = S 
+|longd = 18 | longm = 25 | longs = 60 | longEW = E
+|coordinates_type = Naval Base&lt;!--airport, fort, etc. --&gt;
+|coordinates_region = ZA
+|pushpin_map = South Africa Western Cape
+|pushpin_label_position = none
+|pushpin_mapsize = 300
+|pushpin_map_caption = Location within the South African Western Cape
+|ownership = [[South African Navy]]&lt;!-- government department such as the MoD or the United States DoD --&gt;
+|operator = &lt;!-- where different from ownership such as the RAF or the USAF --&gt;
+|controlledby = &lt;!-- such as RAF Bomber Command or the Eighth Air Force --&gt;
+|open_to_public = &lt;!-- for out of use sites/sites with museums etc --&gt;
+|site_other_label = &lt;!-- for renaming &quot;Other facilities&quot; in infobox --&gt;
+|site_other = &lt;!-- for other sorts of facilities - radar types etc --&gt;  
+|area = &lt;!-- area of site m2, km2 square mile etc --&gt;
+|code = &lt;!--facility/installation code, applies to US --&gt;
+|built = &lt;!-- {{Start date|YYYY}} --&gt;
+|used = &lt;!--{{End date|1946}} --&gt;
+|builder = 
+|materials = 
+|height = &lt;!-- height of tallest part, not above sea level --&gt;
+|fate = &lt;!--changed from demolished parameter--&gt;
+|condition = 
+|battles = 
+|events = 
+|commander = &lt;!-- current commander --&gt;
+|commanders = &lt;!-- past notable commander(s) --&gt;
+|garrison = &lt;!-- such as the 25th Bombardment Group --&gt;
+|occupants = &lt;!-- squadrons only --&gt;
+|website = 
+|subcritical_tests = 
+|nuclear_tests = 
+|thermonuclear_tests = 
+|other_tests_label = &lt;!-- changed from &quot;Other tests&quot; to wording of your choice --&gt; 
+|other_tests = 
+|remediation = 
+|image3 = 
+|alt3 = 
+|caption3 = 
+|IATA = 
+|ICAO = 
+|FAA = 
+|TC = 
+|LID = 
+|GPS = 
+|WMO = 
+|elevation = &lt;!-- {{Convert| |m|0}} --&gt;
+|r1-number = 
+|r1-length = &lt;!-- {{Convert| |m|0}} --&gt;
+|r1-surface = 
+|h1-number = 
+|h1-length = &lt;!-- {{Convert| |m|0}} --&gt;
+|h1-surface = 
+|airfield_other_label = &lt;!-- for renaming &quot;Other facilities&quot; in infobox --&gt;
+|airfield_other = &lt;!-- for other sorts of airfield facilities --&gt;
+|footnotes = &lt;!-- catchall in case it's needed to preserve something in infobox that doesn't work in new code --&gt;
+}}
+'''Naval Base Simon's Town''' is the [[South African Navy]]'s largest naval base, situated in [[Simon's Town]], near [[Cape Town]]. The base provides support functions to [[Fleet Command (SA Navy)|Fleet Command]].&lt;ref&gt;{{cite book|author1=Bennett, C. H.  |author2=Söderlund, A. G. |lastauthoramp=yes |title=South Africa's Navy : A Navy of the People and for the People|year=2008|isbn=978-0-620-41446-3|page=149}}&lt;/ref&gt;
+
+==History==
+A small dockyard facility was first established in Simon's Town by the [[Dutch East India Company]] in 1743. This was taken over by the British [[Royal Navy]] in the 1790s, under whom the facility was further developed over the following century and a half. A pair of handsome stone storehouses dating from the 1740s stand on the seafront where they were built by the Dutch East India Company, marking the initial location of the Yard. Immediately adjacent is the earliest Royal Naval building on the site (a combined mast-house, boathouse and sail loft); dating from 1815, it now serves as the [[South African Naval Museum]].&lt;ref name=Coad2013&gt;{{cite book|last1=Coad|first1=Jonathan|title=Support for the Fleet|date=2013|publisher=English Heritage|location=Swindon}}&lt;/ref&gt;
+
+Over the next few decades the site was developed gradually, with steam engineering and coaling facilities being added mid-century. In 1885 the government of the [[Cape Colony]] transferred the assets of the Simon's Bay Dock and Patent Slip Company to the British [[Admiralty]].&lt;ref name=&quot;Goosen&quot;&gt;{{cite book | title=South Africa's Navy -  the first Fifty years | publisher=W. J. Flesch &amp; partners | author=Goosen, C | year=1973 | pages=131–132 | isbn=0 949989 02 9}}&lt;/ref&gt; By the close of the century, however, it became clear that more space would be needed to accommodate the requirements of a modern Navy. In 1898 a large site was acquired to the east of the original Yard for a dockyard extension. Sir John Jackson and Co Ltd. were chosen to do the work.&lt;ref name=&quot;Goosen&quot; /&gt;
+
+Construction began in 1900. The new harbour would encompass an area of 11 hectares, with a breakwater of 914 m long. It would also contain a drydock 240 m long and 29 m wide with a sizeable steam factory constructed alongside. The drydock was named the [[Selborne Graving Dock]] after the Earl of Selborne, the High Commissioner of the Cape.&lt;ref name=&quot;Goosen&quot; /&gt;
+
+Work on the Simon's Town dockyard was completed in 1910.&lt;ref name=&quot;Goosen&quot; /&gt;
+
+The naval base was handed over to South Africa in 1957 under the [[Simonstown Agreement]].&lt;ref name=&quot;Hein1&quot;&gt;{{cite journal | url=http://heinonline.org/HOL/Page?handle=hein.journals/soaf85&amp;div=22&amp;g_sent=1&amp;collection=journals#174 | title=Simonstown Agreement: South Africa, Britain and the Commonwealth | author=Lawrie, G C | journal=South African Law Journal | year=1968 | volume=85 | pages=162}}&lt;/ref&gt;
+
+The Dockyard was expanded in 1975, a large area of land was reclaimed and the harbour walls were extended to form a new Tidal Basin.&lt;ref&gt;{{cite web|url=http://www.simonstown.com/stdc/history/history.htm|title=Simon's Town Map|work=Simonstown.com|accessdate=31 December 2014}}&lt;/ref&gt;
+
+==Current status==
+[[File:F220 Hamburg - 2008.JPG|thumbnail|right|Naval Base Simon's Town from the sea.]]
+{{As of|December 2015}} it is the main base of the SA Navy and home port of the frigate and submarine flotillas. The base also houses training facilities for the frigates and submarines. In December 2015 [[Naval Base Durban]] in [[Port of Durban|Durban harbour]] was redesignated back to a fully fledged naval base and home port of the [[Offshore patrol vessel|offshore patrol]] flotilla.&lt;ref&gt;{{cite web|url=http://www.defenceweb.co.za/index.php?option=com_content&amp;view=article&amp;id=34458:new-navy-chief-upbeat-on-opvs-ns-durban-and-hydrographic-survey&amp;catid=51:Sea&amp;Itemid=106|title=New Navy Chief upbeat on OPVs, NS Durban and hydrographic survey|author=Kim Helfrich|publisher=|accessdate=31 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Kim |last=Helfrich |url=http://www.defenceweb.co.za/index.php?option=com_content&amp;view=article&amp;id=41760:minister-says-its-naval-base-durban-not-station&amp;catid=111:sa-defence&amp;Itemid=242 |title=Minister says it’s Naval Base Durban, not Station |publisher=defenceWeb |date=2015-12-09 |accessdate=2015-12-09}}&lt;/ref&gt;
+
+==Gallery==
+{{Gallery
+|title=
+|width=220
+|height=170
+|lines=2
+|align=center
+|File:View of SAS Simonsberg, Simon's Town.jpg|Site of the 18th-century dockyard
+|File:SA Naval Museum 2014.JPG|Mast House &amp; Sail Loft, West Yard, 1815.
+|File:Buildings next to Drydock, Simon's Town Navy Base.jpg|Main Factory, East Yard, 1910.
+|File:SA Naval Museum, West Dockyard 3.JPG|Selborne Graving dock in use, 2013.
+}}
+
+==References==
+{{reflist}}
+
+{{South African Navy}}
+{{Royal Navy air stations, bases, depots, dockyards, facilities, installations, shore establishments, training, units}}
+[[Category:South Africa Navy bases]]</text>
+      <sha1>ro4cgcp632vg6si3ac3tn93i134jcd8</sha1>
+    </revision>
+  </page>
+</mediawiki>

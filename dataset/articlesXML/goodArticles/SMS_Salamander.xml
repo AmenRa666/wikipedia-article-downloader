@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Salamander</title>
+    <ns>0</ns>
+    <id>42367208</id>
+    <revision>
+      <id>748397040</id>
+      <parentid>748395569</parentid>
+      <timestamp>2016-11-08T00:42:15Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>Adding Good Article icon</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12589">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SMS Salamander NH 87453.jpg|300px]]
+|Ship caption=''Salamander'' before her 1867 refit
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Austro-Hungarian Empire]]
+|Ship flag= [[Image:Austria-Hungary-flag-1869-1914-naval-1786-1869-merchant.svg|60px|Austro-Hungarian Navy Ensign]]
+|Ship name= SMS ''Salamander''
+|Ship namesake=[[Salamander]]
+|Ship ordered=
+|Ship builder= [[Stabilimento Tecnico Triestino]], [[Trieste]]
+|Ship laid down=February 1861
+|Ship launched=22 August 1861
+|Ship completed=May 1862
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=18 March 1883
+|Ship renamed=
+|Ship reclassified=[[Naval mine|Mine]] [[hulk (ship)|hulk]]
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=[[ship breaking|Scrapped]], 1895&amp;ndash;1896
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship type={{sclass-|Drache|ironclad|0}} [[armored frigate]]
+|Ship displacement= {{convert|3110|LT}}
+|Ship length= {{convert|70.1|m|ftin|sp=us}}
+|Ship beam= {{convert|13.94|m|ftin|abbr=on}}
+|Ship draft= {{convert|6.8|m|ftin|abbr=on}}
+|Ship propulsion=1 shaft, 1 [[Marine steam engine|steam engine]]
+|Ship speed= {{convert|10.5|kn|lk=in}}
+|Ship range= 
+|Ship complement=346
+|Ship power={{convert|2060|ihp|lk=in|abbr=on}}
+|Ship armament=
+*'''1862''':
+*10 × 48-pounder [[smoothbore]] guns
+*18 × 24-pounder [[Muzzle-loading rifle|rifled, muzzle-loading guns]]
+*'''1867''':
+*10 × [[RML 7 inch gun|RML {{convert|7|in|adj=on|0}}]] guns
+*2 × RML {{convert|2|in|adj=on|0}} guns 
+|Ship armor=[[Belt armor|Waterline belt]]: {{convert|115|mm|in|abbr=on|1}}
+|Ship notes=
+}}
+|}
+
+'''SMS ''Salamander''''' was a {{sclass-|Drache|ironclad|0}} [[armored frigate]] built for the [[Austro-Hungarian Navy]] in the 1860s; she was laid down in February 1861, launched in August that year, and completed in May 1862, six months before her [[sister ship|sister]] {{SMS|Drache||2}}. She was a [[broadside ironclad]], mounting a battery of twenty-eight guns in [[gun port]]s along the length the [[hull (ship)|hull]]. During the [[Second Schleswig War]] in 1864, ''Salamander'' remained in the Adriatic to protect Austria from a possible Danish attack that did not materialize. Two years later, during the [[Seven Weeks' War]], she participated in the Austrian victory over a superior Italian fleet in the [[Battle of Lissa (1866)|Battle of Lissa]] in July 1866. Immediately after the war, she was modernized with a battery of more powerful guns. Little used thereafter owing to reduced naval budgets, she was stricken from the [[Navy List]] in 1883 and [[hulk (ship)|hulked]] for use as a [[naval mine|mine]] storage ship before being [[ship breaking|broken up]] in 1895&amp;ndash;1896.
+
+==Design and description==
+The ''Drache'' class was designed in response to the {{sclass-|Formidabile|ironclad}}s bought from France by Italy in 1860.&lt;ref name=s8&gt;Silverstone, p. 17&lt;/ref&gt; They had an [[length overall|overall length]] of {{convert|70.1|m|ftin|sp=us}}, a [[beam (nautical)|beam]] of {{convert|13.94|m|ftin|abbr=on}} and a [[draft (hull)|draft]] of {{convert|6.8|m|ftin|sp=us}}. They displaced {{convert|2824|LT}} at normal load, and {{convert|3110|LT}} at [[deep load]]. The ships had a horizontal [[Marine steam engine|steam engine]] that drove their single propeller using steam provided by four [[boiler]]s that exhausted through one [[funnel (ship)|funnel]]. The engine produced a total of {{convert|2060|ihp|lk=in}} which gave the ships a speed of {{convert|10.5|kn|lk=in}}. For long-distance travel, the ''Drache''s were fitted with three [[mast (sailing)|masts]] and [[barque]] rigged.&lt;ref name=s8/&gt; The ships had a complement of 346 officers and crewmen.&lt;ref name=G267&gt;Gardiner, p. 267&lt;/ref&gt;
+
+The frigates were armed with ten 48-pounder [[smoothbore]] guns and eighteen 24-pounder [[Muzzle-loading rifle|rifled, muzzle-loading]] (RML) guns in the traditional [[broadside]] arrangement of older [[ship of the line|ships of the line]]. In addition, they carried a pair of landing guns, one of which was an 8-pounder and the second was a 4-pounder. They were equipped with [[naval ram|ram]] bows. The ''Drache''-class ironclads had a [[waterline]] [[Belt armor|belt]] of [[wrought iron]] that was {{convert|115|mm|1|sp=us}} thick.&lt;ref name=G267/&gt;
+
+==Service history==
+''Salamander'' was [[laid down]] at [[Stabilimento Tecnico Triestino]] at its [[Trieste]] shipyard in February 1861, [[Ship naming and launching|launched]] on 20 or 22 August 1861, and completed in May 1862, some six months before her [[sister ship]] {{SMS|Drache||2}}.&lt;ref name=G267/&gt;&lt;ref name=S1731/&gt; During the [[Second Schleswig War]] in 1864, ''Salamander'' and ''Drache'' remained in the [[Adriatic Sea|Adriatic]] to protect Austria's coastline, while a squadron was sent to the [[North Sea]] to attack [[Denmark]].&lt;ref&gt;Greene &amp; Massignani, p. 210&lt;/ref&gt; In June 1866, Italy declared war on Austria, as part of the [[Third Italian War of Independence]], which was fought concurrently with the [[Austro-Prussian War]].&lt;ref name=S1&gt;Sondhaus, p. 1&lt;/ref&gt; Rear Admiral [[Wilhelm von Tegetthoff]], the commander of the Austrian Fleet, immediately began to mobilize his fleet. As the ships became fully manned, they began to conduct training exercises in [[Fasana]].&lt;ref&gt;Wilson, p. 228&lt;/ref&gt; Tegetthoff brought the Austrian fleet to [[Ancona]] on 27 June, in an attempt to draw out the Italians, but the Italian commander, Admiral [[Carlo Pellion di Persano]], refused to engage Tegetthoff.&lt;ref&gt;Wilson, pp. 216&amp;ndash;218&lt;/ref&gt;
+
+===Battle of Lissa===
+{{main article|Battle of Lissa (1866)}}
+
+On 16 July, Persano took the Italian fleet out of Ancona and steamed to the island of [[Vis (island)|Lissa]], where they arrived on the 18th. With the main fleet of twelve ironclads, they brought troop transports carrying 3,000 soldiers.&lt;ref name=S1/&gt; Persano then spent the next two days bombarding the Austrian defenses of the island and unsuccessfully attempting to force a landing.&lt;ref&gt;Wilson, pp. 221&amp;ndash;224&lt;/ref&gt; Tegetthoff received a series of telegrams between the 17 and 19 July notifying him of the Italian attack, which he initially believed to be a feint to draw the Austrian fleet away from its main bases at [[Pula|Pola]] and [[Venice]]. By the morning of the 19th, however, he was convinced that Lissa was in fact the Italian objective, and so he requested permission to attack.&lt;ref&gt;Wilson, pp. 229&amp;ndash;230&lt;/ref&gt; As Tegetthoff's fleet arrived off Lissa on the morning of 20 July, Persano's fleet was arrayed for another landing attempt. The latter's ships were divided into three groups, with only the first two able to concentrate in time to meet the Austrians.&lt;ref&gt;Wilson, pp. 223&amp;ndash;225&lt;/ref&gt; Tegetthoff had arranged his ironclad ships into a wedge-shaped formation, with ''Salamander'' on his left flank; the wooden warships of the second and third divisions followed behind in the same formation.&lt;ref&gt;Wilson, pp. 230&amp;ndash;231&lt;/ref&gt;
+
+While he was forming up his ships, Persano transferred from his [[flagship]], {{ship|Italian ironclad|Re d'Italia||2}} to the [[turret ship]] {{ship|Italian ironclad|Affondatore||2}}. This created a gap in the Italian [[line of battle|line]], and Tegetthoff seized the opportunity to divide the Italian fleet and create a melee. He made a pass through the gap, but failed to ram any of the Italian ships, forcing him to turn around and make another attempt.&lt;ref&gt;Wilson, pp. 232&amp;ndash;235&lt;/ref&gt; ''Salamander'' and the other two ships of the left wing, {{SMS|Habsburg|1865|2}} and {{SMS|Kaiser Max|1862|2}}, attacked the leading Italian division, composed of the ironclads {{ship|Italian ironclad|Principe di Carignano||2}}, {{ship|Italian ironclad|Castelfidardo||2}}, and {{ship|Italian ironclad|Ancona||2}}.&lt;ref&gt;Hale, p. 245&lt;/ref&gt; In the ensuing close-quarters action, ''Salamander'' attempted to ram an unidentified Italian ironclad but failed to connect.&lt;ref&gt;Wilson, p. 243&lt;/ref&gt;
+
+By this time, ''Re d'Italia'' had been sunk and the [[coastal defense ship]] {{ship|Italian coastal defense ship|Palestro||2}} was burning badly, soon to be destroyed by a magazine explosion. Persano broke off the engagement, and though his ships still outnumbered the Austrians, he refused to counter-attack with his badly demoralized forces. In addition, the fleet was low on coal and ammunition. The Italian fleet began to withdraw, followed by the Austrians; Tegetthoff, having gotten the better of the action, kept his distance so as not to risk his success. As night began to fall, the opposing fleets disengaged completely, heading for Ancona and Pola, respectively.&lt;ref&gt;Wilson, pp. 238&amp;ndash;241, 250&lt;/ref&gt; In the course of the battle, ''Salamander'' had been hit by 35&amp;nbsp;shells,&lt;ref&gt;Greene &amp; Massignani, p. 253&lt;/ref&gt; but the Italians had failed to inflict serious damage on ''Salamander'' or any of the other Austrian ironclads.&lt;ref&gt;Wilson, p. 245&lt;/ref&gt;
+
+===Later career===
+After returning to Pola, Tegetthoff kept his fleet in the northern Adriatic, where it patrolled against a possible Italian attack. The Italian ships never came, and on 12 August, the two countries signed the [[Armistice of Cormons]]; this ended the fighting and led to the [[Treaty of Vienna (1866)|Treaty of Vienna]]. Though Austria had defeated Italy at Lissa and on land at the [[Battle of Custoza (1866)|Battle of Custoza]], the Austrian army was decisively defeated by Prussia at the [[Battle of Königgrätz]]. As a result, Austria, which became [[Austria-Hungary]] in the [[Austro-Hungarian Compromise of 1867|''Ausgleich'']] of 1867, was forced to cede the city of Venice to Italy.&lt;ref&gt;Sondhaus, pp. 1&amp;ndash;3&lt;/ref&gt; The two halves of the [[Dual Monarchy]] held veto power over the other, and Hungarian disinterest in naval expansion led to severely reduced budgets for the fleet.&lt;ref name=G267/&gt; In the immediate aftermath of the war, the bulk of the Austrian fleet was decommissioned and disarmed.&lt;ref&gt;Sondhaus, p. 8&lt;/ref&gt;
+
+The fleet embarked on a modest modernization program after the war, primarily focused on re-arming the ironclads with new rifled guns.&lt;ref&gt;Sondhaus, p. 10&lt;/ref&gt; The ship was refitted and rearmed in 1867–68 with ten {{convert|178|mm|0|adj=on|sp=us}} and two bronze {{convert|51|mm|0|adj=on|sp=us}} RML guns.&lt;ref name=S1731&gt;Silverstone, pp. 17, 31&lt;/ref&gt; By 1875, the ship had been reduced to a stationary guard ship.&lt;ref&gt;Dislère, p. 11&lt;/ref&gt; By 1883, ''Salamander''{{'}}s wooden hull had deteriorated to the point where she was no longer seaworthy. In addition, she was infested with [[cockroach]]es, rendering her largely uninhabitable.&lt;ref&gt;Sondhaus, p. 78&lt;/ref&gt; Accordingly, she was stricken from the [[naval register]] on 18 March 1883 and converted into a [[naval mine]] storage [[hulk (ship)|hulk]]. She served in this capacity for more than a decade before being [[ship breaking|broken up]] for scrap in 1895&amp;ndash;1896.&lt;ref name=G267/&gt;
+
+==Footnotes==
+{{reflist|20em}}
+
+==References==
+* {{cite book|last=Dislère|first=Paul|title=Die Panzerschiffe der neuesten Zeit|location=Pola|publisher=Druck und Commissionsverlag von Carl Gerold's Sohn|year=1877|oclc=25770827}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{Cite book |last1=Greene|first1=Jack|last2=Massignani|first2=Alessandro|title=Ironclads at War: The Origin and Development of the Armored Warship, 1854–1891|year=1998|location=Pennsylvania|publisher=Da Capo Press|lastauthoramp=y|isbn=0-938289-58-6}}
+* {{Cite book|last=Hale|first=John Richard|title=Famous Sea Fights From Salamis to Tsu-shima|year=1911|location=Boston|publisher=Little, Brown, &amp; Company|oclc=747738440}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{Cite book| last=Sondhaus| first=Lawrence| title=The Naval Policy of Austria-Hungary, 1867&amp;ndash;1918| year=1994| location=West Lafayette| publisher=Purdue University Press| isbn=978-1-55753-034-9}}
+* {{cite book|last=Wilson|first=Herbert Wrigley|title=Ironclads in Action: A Sketch of Naval Warfare from 1855 to 1895|year=1896|publisher=S. Low, Marston and Company|location=London|oclc=1111061}}
+
+{{Drache class ironclads}}
+
+{{DEFAULTSORT:Salamander}}
+[[Category:Ships built in Trieste]]
+[[Category:1861 ships]]
+[[Category:Drache-class ironclads]]</text>
+      <sha1>tvh2q6pceo5r6e1ebhl8sdzbhm0g47w</sha1>
+    </revision>
+  </page>
+</mediawiki>

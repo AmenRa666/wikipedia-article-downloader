@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Starfish (1895)</title>
+    <ns>0</ns>
+    <id>14460765</id>
+    <revision>
+      <id>732636387</id>
+      <parentid>698338939</parentid>
+      <timestamp>2016-08-02T07:45:53Z</timestamp>
+      <contributor>
+        <username>Eddaido</username>
+        <id>5743316</id>
+      </contributor>
+      <comment>/* Service */ link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7943">{{Otherships|HMS Starfish}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= United Kingdom
+|Ship flag= {{Shipboxflag|United Kingdom|naval}}
+|Ship name= HMS ''Starfish'' 
+|Ship namesake=
+|Ship ordered=8 November 1893
+|Ship builder=[[Vickers]] 
+|Ship laid down=22 March 1894
+|Ship launched= 26 January 1895
+|Ship acquired=
+|Ship commissioned=January 1896
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=  
+|Ship nickname=
+|Ship honours=
+|Ship fate= Sold 1912
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{Sclass-|Sturgeon|destroyer}}
+|Ship displacement=*{{convert|300|LT|abbr=on}} light,
+*{{convert|340|LT|abbr=on}} deep load
+|Ship length=*{{convert|194|ft|6|in|m|2|abbr=on}} [[overall length|oa]]
+*{{convert|190|ft|m|2}} [[length between perpendiculars|pp]]
+|Ship beam=  {{convert|19|ft|m|2|abbr=on}}
+|Ship height= 
+|Ship draught= {{convert|7|ft|7|in|m|2|abbr=on}}
+|Ship propulsion=*4 × Blechynden [[Water-tube boiler|boilers]],
+*2 × Vertical Triple Expansion [[steam engine]]s
+|Ship power=  {{convert|4000|ihp|0|abbr=on}} 
+|Ship speed={{convert|27|kn|lk=in}}
+|Ship range={{convert|1370|nmi|abbr=on}} at {{convert|11|kn|abbr=on}}
+|Ship complement= 53
+|Ship sensors=
+|Ship EW=
+|Ship armament=*1 × [[QF 12 pounder 12 cwt naval gun|12 pounder gun]]
+*5 × [[QF 6-pdr 8 cwt naval gun|QF 6-pdr 8 cwt]]
+*2 × 18 inch (450 mm) [[torpedo tube]]s
+|Ship armour=
+|Ship notes=
+}}
+|}
+'''HMS ''Starfish''''' was a {{sclass-|Sturgeon|destroyer}} which served with the [[Royal Navy]].  Built by [[Vickers]], she was launched in 1895 and sold in 1912.
+
+==Construction and design==
+On 8 November 1893, the British [[Admiralty]] placed an order with the Naval Construction and Armament Company of [[Barrow-in-Furness]] (later to become part of [[Vickers]]) for three &quot;Twenty-Seven Knotter&quot; destroyers as part of the 1893–1894 construction programme for the [[Royal Navy]],&lt;ref name=&quot;Lyon p69&quot;&gt;Lyon 2001, p. 69.&lt;/ref&gt; with in total, 36 destroyers being ordered from various shipbuilders for this programme.&lt;ref name=&quot;Lyon p19&quot;&gt;Lyon 2001, p. 19.&lt;/ref&gt;
+
+The Admiralty only laid down a series of broad requirements for the destroyers, leaving detailed design to the ships' builders. The requirements included a trial speed of {{convert|27|kn|mph km/h}}, a &quot;turtleback&quot; [[forecastle]] and a standard armament of a [[QF 12 pounder 12 cwt naval gun|QF 12 pounder 12 cwt]] ({{convert|3|in|mm|abbr=on}} calibre) gun on a platform on the ship's [[conning tower]] (in practice the platform was also used as the ship's bridge), with a secondary armament of five 6-pounder guns, and two 18-inch (450 mm) torpedo tubes.&lt;ref name=&quot;Lyon p20&quot;&gt;Lyon 2001, p. 20.&lt;/ref&gt;&lt;ref name=&quot;Lyon p98-9&quot;&gt;Lyon 2001, pp. 98–99.&lt;/ref&gt;&lt;ref name=&quot;Friedman p40&quot;&gt;Friedman 2009, p. 40.&lt;/ref&gt; 
+
+The Naval Construction and Armament Company produced a design with a length of {{convert|194|ft|6|in|m|2}} [[overall length|overall]] and {{convert|190|ft|m|2}} [[length between perpendiculars|between perpendiculars]], with a [[Beam (nautical)|beam]] of {{convert|19|ft|m|2}} and a [[draft (hull)|draught]] of {{convert|7|ft|7|in|m|2}}. [[Displacement (ship)|Displacement]] was {{convert|300|LT|lk=on}} light and {{convert|340|LT}} deep load.&lt;ref name=&quot;Lyon p69&quot;/&gt; Three funnels were fitted, with the foremast between the ship's bridge and the first funnel.&lt;ref name=&quot;Friedman p50&quot;&gt;Friedman 2009, p. 50.&lt;/ref&gt;&lt;ref name=&quot;Manning p38&quot;&gt;Manning 1961, p. 38.&lt;/ref&gt; Four Blechyndnen [[water-tube boiler]]s fed steam at {{convert|200|psi}} to two three-cylinder [[Marine steam engine#Triple or multiple expansion|triple expansion steam engines]] rated at {{convert|4000|ihp}}.&lt;ref name=&quot;Lyon p69&quot;/&gt;&lt;ref name=&quot;engv80 p365&quot;&gt;''The Engineer'' 11 October 1895, p. 365.&lt;/ref&gt; 60 tons of coal were carried,&lt;ref name=&quot;Brassey02 p274&quot;&gt;Brassey 1902, p. 274.&lt;/ref&gt; giving a range of {{convert|1370|nmi|lk=in}} at a speed of {{convert|11|kn}}.&lt;ref name=&quot;Friedman p291&quot;&gt;Friedman 2009, p. 291.&lt;/ref&gt; The ship's crew was 53 officers and men.&lt;ref name=&quot;Friedman p291&quot;/&gt;
+
+HMS ''Starfish'' was laid down on 22 March 1894 as the second of Naval Construction and Armament Company's three destroyers, and was launched on 26 January 1895.&lt;ref name=&quot;Lyon p69&quot;/&gt; During [[sea trials]] in October 1895, ''Starfish'' made an average speed of {{convert|27.87|kn}} over six runs over a measured mile, meeting the {{convert|27|kn}} requirement of the specification.&lt;ref name=&quot;engv80 p365&quot;/&gt; ''Starfish'' was commissioned in January 1896.&lt;ref name=&quot;Lyon p69&quot;/&gt;
+
+==Service==
+''Starfish'' served throughout her career in home waters, being prone to failures of her propeller brackets, which were made of forged scrap iron.&lt;ref name=&quot;Lyon p69&quot;/&gt; In late January 1900 it was announced that she would be commissioned as [[Ship’s tender|tender]] to the gunnery school {{HMS|Excellent|shore establishment|6}}.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Monday |date=29 January 1900 |page_number=11 |issue=36051| }}&lt;/ref&gt; In 1900–1901, ''Starfish'' was used in tests of a modified [[spar torpedo]] for use as an anti-submarine weapon. The {{convert|42|ft}} long spar, carrying an explosive charge, would be swung out and immersed in the water in action, and detonated as the submarine was passed.&lt;ref name=&quot;Friedman p50&quot;/&gt;&lt;ref name=&quot;Brassey02 p146-7&quot;&gt;Brassey 1902, pp. 146–147.&lt;/ref&gt; 
+
+''Starfish'' was attached to the torpedo school {{HMS|Vernon|shore establishment|6}} at [[Portsmouth]] in 1901,&lt;ref name=&quot;nmm&quot;&gt;{{cite web|url=http://www.nmm.ac.uk/upload/pdf/Warship_Histories_Vessels_v.pdf|title=NMM, vessel ID 376329|work=Warship Histories, vol v|publisher=[[National Maritime Museum]]|accessdate=7 June 2014}}&lt;/ref&gt; taking place in the 1901 Naval Manoeuvres.&lt;ref name=&quot;Brassey02 p86,1&quot;&gt;Brassey 1902, pp. 86, 91.&lt;/ref&gt; In April 1903, ''Starfish'' was used for trials of the use of kites designed by [[Samuel Franklin Cody|Samuel Cody]] for lifting radio [[antenna (radio)|antenna]]e.&lt;ref name=&quot;Layman p38-9&quot;&gt;Layman 1994, pp. 38–39.&lt;/ref&gt;
+
+''Starfish'' was laid up at [[HMNB Devonport|Devonport]] for disposal in 1910,&lt;ref name=&quot;nmm&quot;/&gt; and was sold for scrap to [[Thos W Ward]] of Preston on 15 May 1912.&lt;ref name=&quot;Lyon p70&quot;&gt;Lyon 2001, p. 70.&lt;/ref&gt;
+
+==References==
+;Notes
+{{Reflist}}
+
+;References
+* {{cite book|last=Brassey|first=T.A.|title=The Naval Annual 1902|year=1902|publisher=J. Griffin and Co|location=Portsmouth, UK}}
+*{{cite book|last=Friedman|first=Norman|title=British Destroyers: From Earliest Days to the Second World War|year=2009|publisher=Seaforth Publishing|location=Barnsley, UK|isbn=978-1-84832-049-9}}
+*{{cite book|last=Layman|first=R. D.|chapter=Naval Kite Trials|editor-last=Roberts|editor-first=John|title=Warship 1994|year=1994|publisher=Conway Maritime Press|location=London|pages= 35–51|isbn=0-85177-630-2}}
+* {{cite book|last=Lyon|first=David|title=The First Destroyers|year=2001|publisher=Caxton Editions|location=London|isbn=1-84067-3648}}
+* {{cite book  |last=Manning |first=Captain T.D.   |title=The British Destroyer  |publisher=Putnam and Co  |year=1961}}
+* {{cite book  |last = Manning  |first = Captain T.D  |title = The British Destroyer  |publisher = Godfrey Cave Associates  |year =    |doi =    |isbn = 0-906223-13-X}}
+*{{cite magazine|title=Speed Trials of the Torpedo Boat Destroyer Starfish|magazine=[[The Engineer (magazine)|The Engineer]]|date=11 October 1895|page=365|volume=80|url=http://www.gracesguide.co.uk/images/1/1a/Er18951011.pdf}}
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Sturgeon class destroyer}}
+
+{{DEFAULTSORT:Starfish (1894)}}
+[[Category:Sturgeon-class destroyers]]
+[[Category:Barrow-built ships]]
+[[Category:1894 ships]]
+[[Category:Victorian-era destroyers of the United Kingdom]]</text>
+      <sha1>psglayjx5c3s1mtsxm8x1z5pv5zrfrf</sha1>
+    </revision>
+  </page>
+</mediawiki>

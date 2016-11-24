@@ -1,0 +1,79 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Glisenti Model 1910</title>
+    <ns>1</ns>
+    <id>21605365</id>
+    <revision>
+      <id>717420494</id>
+      <parentid>717408726</parentid>
+      <timestamp>2016-04-27T16:05:22Z</timestamp>
+      <contributor>
+        <username>Naaman Brown</username>
+        <id>897716</id>
+      </contributor>
+      <comment>/* weaker cartridges than pistols of comparable caliber */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2028">{{talkheader}}
+{{WPGUNS|class=B
+| b1 &lt;!--Referencing &amp; citations--&gt; = yes
+| b2 &lt;!--Coverage &amp; accuracy    --&gt; = yes
+| b3 &lt;!--Structure              --&gt; = yes
+| b4 &lt;!--Grammar &amp; style        --&gt; = yes
+| b5 &lt;!--Supporting materials   --&gt; = yes|importance=low}}
+{{WPMILHIST|class=B|B1=y|B2=y|B3=y|B4=y|B5=y|Italian=yes|Weaponry=yes|WWI=yes|WWII=yes}}
+
+==weaker cartridges than pistols of comparable caliber==
+The 9mm Glisenti cartridge was a 9mm charged like a 7.65 mm Luger. It fires a 124 grains bullet at 1050 fps with an energy of 412 joules. Less than a 9mm Luger, but much more than a 380 ACP, a 38 Special (270J), or a 9mm Makarov (313J), that, other that the 9mm Luger, are the most diffused 9mm pistol cartridges in the world. So It seems that the Glisenti fires a weaker cartridge than a 9x19mm Luger pistol, but it's power is, however, in the high part of the 9mm chambered pistols.
+:Boothroyd in &quot;The Handgun&quot; lists Italian loadings for 9mm Glisenti at 970 fps and for 9mm Luger at 1,150 fps. Smith in &quot;Small Arms of the World&quot; lists the 9mm Glisenti round from a M1910 Glisenti pistol with 3.9&quot; barrel at 1050 fps. As a sidearm for defense, the 1910 Glisenti ballistics compare well against the Walther PPK, S&amp;W Model 36, Makarov Pistol 9mm/.38. It appears that its &quot;weak&quot; reputation arose because it could chamber and fire WWII Italian issue ammo like 9mm Luger and 9mm M38 submachinegun that would damage the gun. -- [[User:Naaman Brown|Naaman Brown]] ([[User talk:Naaman Brown|talk]]) 16:05, 27 April 2016 (UTC)
+
+== Illustration current as of 27 Apr 2016 ==
+
+The current illustration for the Glisenti Model 1910 pistol shows the barrel and extension in full recoil position, short of the bolt unlocking and extending in eject/reload position. See Smith &quot;Small Arms of the World&quot; or Boothroyd &quot;The Handgun&quot;: standard references show the Glisenti Model 1910 pistol in normal &quot;at rest&quot; barrel extension forward position. --[[User:Naaman Brown|Naaman Brown]] ([[User talk:Naaman Brown|talk]]) 14:35, 27 April 2016 (UTC)</text>
+      <sha1>r6lekacu5i1btmot6vsf3qhrcym2es8</sha1>
+    </revision>
+  </page>
+</mediawiki>

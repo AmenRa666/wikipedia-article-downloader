@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bill Downie</title>
+    <ns>0</ns>
+    <id>12546009</id>
+    <revision>
+      <id>726260534</id>
+      <parentid>712175136</parentid>
+      <timestamp>2016-06-21T02:35:12Z</timestamp>
+      <contributor>
+        <username>BU RoBOT</username>
+        <id>25993922</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */Change hyphens to endashes for years in [[Template:Infobox AFL biography]] ([[WP:MOSDASH]]; Task 22)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2531">{{Use dmy dates|date=September 2015}}
+{{Use Australian English|date=September 2015}}
+{{for|the Carlton player|Bill T. Downie}}
+{{Infobox AFL biography
+| name = Bill Downie
+| image = 
+| birth_date = 3 December 1909
+| birth_place = Deniliquin
+| death_date = {{Death date and age|1943|9|11|1908|12|4|df=y}}
+| death_place = [[Burma Railway|Burma-Siam Railway]], [[Burma]]
+| originalteam = [[Eaglehawk Football Club|Eaglehawk]]
+| heightweight = 184cm / 81 kg
+| years = 1929–1932 &lt;br /&gt; 1933 &lt;br /&gt; '''Total -'''
+| clubs =  [[Western Bulldogs|Footscray]] &lt;br /&gt; [[St Kilda Football Club|St Kilda]]
+| games(goals) = 54 (26) &lt;br /&gt; 15 {{0}}(2) &lt;br /&gt; '''69 (28)'''
+| statsend = 1933
+}}
+'''William Downie''' (4 December 1908 &amp;ndash; 11 September 1943) was an [[Australian rules football]]er who played with [[Western Bulldogs|Footscray]] and [[St Kilda Football Club|St Kilda]] in the [[Australian Football League|Victorian Football League]] (VFL).
+
+Downie played as a [[Ruckman (Australian rules football position)|ruckman]] and represented Footscray 54 times before finishing off his VFL career with a year at St Kilda. He was then picked up by [[Northcote Football Club|Northcote]] in the [[Victorian Football League|Victorian Football Association]] (VFA) and was a member of their 1937 premiership side.   
+
+He served his country in [[World War II]] and was killed by a Japanese guard in a Prisoner of War camp.
+
+==See also==
+* [[List of Victorian Football League players who died in active service]]
+
+== References ==
+* Main, J. &amp; Allen, D., &quot;Downie, Bill&quot;, pp.&amp;nbsp;236–237 in Main, J. &amp; Allen, D., ''Fallen — The Ultimate Heroes: Footballers Who Never Returned From War'', Crown Content, (Melbourne), 2002. ISBN 1-74095-010-0
+
+==External links==
+*{{AFL Tables|ref=B/Bill_Downie1.html}}
+*{{AustralianFootball|ref=bill%2Bdownie/4968}}
+* [http://www.awm.gov.au/people/rolls/R1709408/ Australian War Memorial Roll of Honour: William Downie (VX38839)]
+
+{{DEFAULTSORT:Downie, Bill}}
+[[Category:1908 births]]
+[[Category:1943 deaths]]
+[[Category:Australian rules footballers from Victoria (Australia)]]
+[[Category:Western Bulldogs players]]
+[[Category:St Kilda Football Club players]]
+[[Category:Northcote Football Club players]]
+[[Category:Eaglehawk Football Club players]]
+[[Category:Australian Army soldiers]]
+[[Category:Australian military personnel of World War II]]
+[[Category:World War II prisoners of war held by Japan]]
+[[Category:Australian military personnel killed in World War II]]
+[[Category:Australian prisoners of war]]</text>
+      <sha1>5kv94t3y2me0wz49om59c0ztds8ucr5</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Armament of the Iowa-class battleship</title>
+    <ns>1</ns>
+    <id>10096513</id>
+    <revision>
+      <id>702760459</id>
+      <parentid>655265409</parentid>
+      <timestamp>2016-02-01T14:48:29Z</timestamp>
+      <contributor>
+        <username>Bschorr</username>
+        <id>179315</id>
+      </contributor>
+      <comment>/* Armament of Iowa Class Battleships */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13107">{{Talk header}}
+{{ArticleHistory
+|action1=WAR
+|action1date=23:26, 18 March 2007
+|action1link=Wikipedia:WikiProject Military history/Assessment/Armament of the Iowa class battleship
+|action1result=approved
+|action1oldid=116109455
+
+|action2=FAC
+|action2date=04:34, 30 March 2007
+|action2link=Wikipedia:Featured article candidates/Armament of the Iowa class battleship
+|action2result=promoted
+|action2oldid=118964471
+
+|action3=FTC
+|action3date=21:27, 20 February 2009
+|action3link=Wikipedia:Featured topic candidates/Iowa class battleships
+|action3result=promoted
+|action3oldid=267331484
+
+|action4=WPR
+|action4date=17:34, 4 March 2009 (UTC)
+|action4link=Wikipedia:WikiProject Military history/Peer review/Armament of the Iowa class battleship
+|action4result=reviewed
+|action4oldid=267331484
+
+|ftname=Iowa class battleships
+|currentstatus=FA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject United States|class=FA|importance=low}}
+{{WPMILHIST|class=FA|A-Class=pass|old-peer-review=yes|OMT=2
+|portal1-name=Military of the United States
+|portal1-link=Featured article/25
+|Maritime=yes|US=yes|WWII=yes|Weaponry=yes|Cold-War=yes}}
+{{WikiProject Ships|class=FA|importance=High}}
+{{WikiProject Iowa|class=FA|importance=low}}
+{{WP1.0|v0.7=pass|class=FA|category=Engtech}}
+}}
+{{summary in|Iowa class battleship|USS Iowa (BB-61)|USS New Jersey (BB-62)|USS Missouri (BB-63)|USS Wisconsin (BB-64)|USS Illinois (BB-65)|USS Kentucky (BB-66)}}
+
+==Iowa's broadside?==
+
+I question whether &quot;File:Uss iowa bb-61 pr.jpg&quot; is actually Iowa. I saw that picture at the USS Lexington (CV-16) giftshop and they said it was Missouri. Iowa had an American flag on the number one turret. The ship in this picture has no such flag. The flag is visible in &quot;File:USS Iowa BB61 Iowa Explosion 1989.jpg&quot;. [[Special:Contributions/173.65.239.63|173.65.239.63]] ([[User talk:173.65.239.63|talk]]) 02:22, 24 April 2009 (UTC)
+
+==Reference formatting==
+I went through and started throwing some &lt;nowiki&gt;{{fact|date=March 2007}}&lt;/nowiki&gt; tags on unattributed claims, but began to realize that you were just omitting all references until the end of the paragraph. Since it's all coming from the same source, it seems silly to cite everything, but per [[WP:CITE]] I think you should go through a throw cites on them anyway since you did a good job with the ref-links. (I think it looks stupid too) However, there were some claims made later regarding effectiveness and strategy rather than just technical specifications that may or may not be in the cited source that you should check as well. I also caught a good number of mis-spelled words. And if you're going to talk about an American battleship, you better use American spelling (armor!). [[User:Madcoverboy|Madcoverboy]] 00:37, 22 March 2007 (UTC)
+:My spelling sucks; of that, i make no secret :) Your fact tags have been removed as I have come across them, most had their source at the paragraph's end, as you statd. A few need still need to be checked, that should be done soon. [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 02:27, 22 March 2007 (UTC)
+
+==Possible modifications and support==
+
+I am an old retired Fire Control Technician (Gun) new to WikipediA.  You folks have done a great job on this article, but I would like to humbly offer some suggestions to the Fire Control Section. Each gun battery had its own set of Fire Control Systems.  The 16in/50Cal Main battery had two Mk 34 GFCS's and they each used a Mk 4 Rangekeeper electromechanical computer (I'm pretty sure about this, but it has been 25 years).  The 5in/38Cal Secondary Battery had four Mk37 GFCS's and each used a MK IA electromechanical computer.  The 40mm AA Battery probably used a Mk51 Director with a Mk14 (40mm) gun sight near each mount.  The 20mm AA Battery used a Mk14 (20mm) Gun Sight mounted over the barrel/barrels on each mount.  This is because these were all electromechanical analog computing devices.  They calculated by spring tension, Gyro precession, position of a small rod on a three dimensional cam buried deep in the workings of the device.  Each computer was designed and hand made for each gun ballistic in the factory, and could not be changed to another gun ballistic at sea.  If you all think I could help your great work, I would be glad.  [[User:FTC Gerry|FTC Gerry]] 02:48, 30 July 2007 (UTC)
+:You must be the answer to prayers, I have been trying very hard to find information on the computers used by the Iowa class for fire controll. It seems that no matter how hard I try to find that information it remains elusive. If you caould at that material to the article I (and others I am sure) would be very grateful. [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 03:10, 30 July 2007 (UTC)
+
+==1980's Modernization and Missiles==
+
+Note former Firecontrolman comments on computers. Analog. Some people described those as a lot of knobs, dials,  and preciesly tuned gearing (maybe some made by Singer Sewing Machines). 
+What follows is at the rumors level; in the 1980s amoung the US Navy. [IE I canot produce any collaborating evidence] Reseach was done into replacing the fire control computer with a strictly digital computer. Was not worth the cost for the improvement, and would likely have required some maintenance if not rebooted from the shock of the firings. 
+-Still at rumor level There was also desires to add some newer additional anit-aircraft defense weapons, but again the shock issue could not be overcome.  &lt;small&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Wfoj2|Wfoj2]] ([[User talk:Wfoj2|talk]] • [[Special:Contributions/Wfoj2|contribs]]) 03:14, 17 December 2007 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:Well, your right about the shock issue becuase the planned installation of the NATO sea sparrow missile was scrubbed for the exact reason --  the system couldn;t withstand the over pressure effects. I wouldn;t be to suprise to learn that other updates enountered similar fates for similar reasons. I will keep an eye out for any information to that effect. [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 04:25, 17 December 2007 (UTC)
+
+:The program to install digital fire control systems was not scrapped because of issue with shock despite ongoing rumors.  (There were many other digital systems installed on the reactivated battlewagons, like the Tomahawk fire control system, and they worked just fine.)  They were canceled because they wouldn't increase the accuracy of the guns to any significant factor - other issues, like mechanical slop in the gun's training and elevation mechanisms, limited the total accuracy the system was capable of.  Taking advantage of the increased accuracy allowed by digital systems turned out to require tens of millions of dollars per turret in work on redesigning and rebuilding the mechanical systems and was judged too expensive.  [[Special:Contributions/24.16.177.215|24.16.177.215]] ([[User talk:24.16.177.215|talk]]) 18:39, 8 January 2009 (UTC)
+
+==Peer Review Comments as requested==
+
+Comments as desired follow. [[User:AshLin|AshLin]] ([[User talk:AshLin|talk]]) 04:30, 6 January 2009 (UTC)
+/*moved to link listed below*/
+
+You may have better luck adding them here: [[Wikipedia:WikiProject Military history/Peer review/Armament of the Iowa class battleship]]. [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 04:32, 6 January 2009 (UTC)
+
+==Miles problems==
+
+In [http://en.wikipedia.org/w/index.php?title=Iowa_class_battleship&amp;diff=340092399&amp;oldid=340091867 this edit] of [[Iowa class battleship]], [[User:TomStar81|TomStar81]] removed all numbers dealing with the range of the 16-inch guns, with the edit summary &quot;Missiles:  trim, removing material better presented in the armament article&quot;. 
+
+See the existing discussion of this problem at [[Talk:Iowa class battleship#Beaucoup problems with miles]].  This armament article has as many problems as, or more than, what the main article had.  Nothing has been fixed here, either, of course.
+
+Furthermore, since those 16-in/50 guns were a pretty distinctive feature of the ''Iowa'' class, and since the first thing most people want to know is how far those big guns will shoot, that is one of the few things that should be in the main article even if the detail is in this article.  [[User:Gene Nygaard|Gene Nygaard]] ([[User talk:Gene Nygaard|talk]]) 22:55, 27 January 2010 (UTC)
+
+:I'll readd the material there when we all reach an agreement as to how the range conversions should be given and what the numbers should actually say. Your own comments were critical of this problem and of my edits to the other article, so I though it best to avoid making that an issue on the main page and having us work out a solution to the problem on this page since this is where most of the detailed ranges are given. When the numbers are corrected here we can then move them back to the main class page, and as an added bonus we can make 100% sure that both pages have digits that match, rather than risk one page having numbers and conversions that do not match the other page. Would that be an acceptable course of action for you, or would you prefer a different course of action to solve the problem? [[User:TomStar81|TomStar81]] ([[User talk:TomStar81|Talk]]) 01:31, 28 January 2010 (UTC)
+
+==Armament of the Iowa class battleship==
+
+RE: unreliable source. 
+1; Gun length is 68 feet (muzzle to breech).
+http://www.eugeneleeslover.com/AMMUNITION/NAVORD-OP-769-CHAPTER-3-GUN-ASSEMBLIES-PAGE-1.html
+
+2; Weight's.  Gun, with screw box liner, lb   239,156
+              Gun, with recoiling parts, lb   292,000
+              Yoke weight, lb                  38,500
+http://www.eugeneleeslover.com/AMMUNITION/NAVORD-OP-769-CHAPTER-3-GUN-ASSEMBLIES-PAGE-1.html 
+
+Brad, I did not check the source contained in the article, this I found on my own.  As for correcting the page, I am not familiar enough to do it on my own.  I would more than likely mess it up.  Also, it might be a nice thing to ask Mr Slover for permission to cite his reference.  As I understand it band with is not free.  I do not have a user or talk page, so I hope you are able to make corrections.  If it is necessary to contact me, I can be reached at Yahoo. 
+[[User:Daddio478|Daddio478]] ([[User talk:Daddio478|talk]]) 19:51, 30 July 2010 (UTC)Daddio478
+:The above message was left on my talk page but it belongs here more than anywhere else. [[User:Brad101|Brad]] ([[User talk:Brad101|talk]]) 01:16, 31 July 2010 (UTC)
+
+== Armament of Iowa Class Battleships ==
+
+Nowhere in the articles about these ships does it mention that when originally built, they had FOUR 16-inch turrets. The removal of the #4 aft turret was a &quot;modernization&quot; which allowed the placement of a helicopter deck. 
+
+If you look at the original photographs, there are four turrets, and the #4 turret also had a mechanism on the top for launching scout planes equipped with floats (usually the OS2U Kingfisher)  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/108.197.202.214|108.197.202.214]] ([[User talk:108.197.202.214|talk]]) 17:20, 9 June 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:You may be confusing this with a different ship; the Iowas never had 4 main batteries.  During their modernization there was talk of removing #3 battery to accomodate helicopter hanger/facilities, but this was not done.  The 2 aircraft catapults (that were removed during modernization) were mounted on the extreme stern (probably to get them away from the gun blast during a broadside).  This page has plenty of vintage photos showing the original layout: http://www.navsource.org/archives/01/61d.htm .  Mounting catapult rails on the main batteries' turrets was not uncommon for pre-war battle wagons, but quickly fell out of practice during the war.[[User:Nwilde|Nwilde]] ([[User talk:Nwilde|talk]]) 18:53, 6 August 2012 (UTC)
+
+:NWilde is correct - there was never a 4th turret on the Iowa-class and no plans for helicopters when they were initially launched. --[[User:Bschorr|-B-]] ([[User talk:Bschorr|talk]]) 14:48, 1 February 2016 (UTC)
+
+::The first US military helicopter, the XR-4, didn't fly until 1942, and didn't enter NAVY service until 1944. As planning for the Iowa-class began in early 1938, it would be rather impossible for them to have planned for a helicopter that wouldn't enter sirve for another 6 years. Thus, no, the Iowa-class were never planned with a helicopter in mind.[[Special:Contributions/85.230.46.130|85.230.46.130]] ([[User talk:85.230.46.130|talk]]) 22:16, 2 April 2013 (UTC)
+
+== Pictures of Gun Directors ==
+In the text it appears to refer to photos of the MK 37 gun directors as being in their recent condition with the MK 22 parabolic antenna but it doesn't look like said photos are actually in the article. Somebody may want to clean up the text to make sure that it doesn't say &quot;pictured&quot; when it's not. --[[User:Bschorr|-B-]] ([[User talk:Bschorr|talk]]) 14:48, 1 February 2016 (UTC)</text>
+      <sha1>804d4dpvfz35gqyxkbsjgbqprqjdecd</sha1>
+    </revision>
+  </page>
+</mediawiki>

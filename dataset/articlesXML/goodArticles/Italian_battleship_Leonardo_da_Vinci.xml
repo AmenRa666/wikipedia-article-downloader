@@ -1,0 +1,196 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian battleship Leonardo da Vinci</title>
+    <ns>0</ns>
+    <id>2359696</id>
+    <revision>
+      <id>740516229</id>
+      <parentid>732665778</parentid>
+      <timestamp>2016-09-21T15:10:58Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15143">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Leonardodavinci.jpg|300px|]]
+|Ship caption=Postcard of ''Leonardo da Vinci'' in [[Taranto]]
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Kingdom of Italy|Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy}}
+|Ship name=''Leonardo da Vinci''
+|Ship namesake=[[Leonardo da Vinci]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Oto Melara|Odero Shipbuilding Co.]], [[Sestri Ponente]], [[Genoa]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=18 July 1910
+|Ship launched=14 October 1911
+|Ship sponsor=
+|Ship christened=
+|Ship completed=17 May 1914
+|Ship commissioned=
+|Ship struck=
+|Ship motto=
+|Ship nickname=
+|Ship fate=*Sunk 2 August 1916
+*Refloated 17 September 1919
+*Sold for scrapping 26 March 1923
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Conte di Cavour|battleship}}
+|Ship displacement=*{{convert|23088|LT|t}} ([[Displacement (ship)#Standard displacement|standard]])
+*{{convert|25086|LT|t}} ([[deep load]])
+|Ship length={{convert|176|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|28|m|ftin|abbr=on}}
+|Ship draught= {{convert|9.3|m|ftin|abbr=on}}
+|Ship power=* {{convert|30700|-|32800|shp|abbr=on|lk=in}}
+* 20 × [[Water-tube boiler]]s
+|Ship propulsion=*4 × Shafts
+* 4 × [[Steam turbine]]s
+|Ship speed={{convert|21.5|kn|lk=in}}
+|Ship range={{convert|4800|nmi|abbr=on|lk=in}} at {{convert|10|kn}}
+|Ship complement=31 officers and 969 enlisted men
+|Ship armament=* 3 × 3, 2 × 2 {{convert|305|mm|in|0|adj=on}} guns
+* 18 × 1 {{convert|120|mm|in|adj=on}} gun
+* 14 × 1 {{convert|76.2|mm|in|adj=on|0}} gun
+* 3 × {{convert|450|mm|in|1|adj=on}} [[torpedo tube]]s 
+|Ship armor=* [[Belt armor|Waterline belt]]: {{convert|250|-|130|mm|in|abbr=on|1}}
+* [[Deck (ship)|Deck]]: {{convert|24|-|40|mm|in|abbr=on|1}}
+* [[Gun turret]]s: {{convert|280|-|240|mm|in|abbr=on|1}}
+* [[Barbette]]s: {{convert|230|-|130|mm|in|abbr=on|1}}
+* [[Conning tower]]s: {{convert|280|-|180|mm|in|abbr=on|1}} 
+|Ship notes=
+}}
+|}
+'''''Leonardo da Vinci''''' was one of three {{sclass-|Conte di Cavour|battleship|0}} [[dreadnought]]s built for the ''[[Regia Marina]]'' (Italian Royal Navy) in the early 1910s. Completed just before the beginning of [[World War I]], the ship saw no action and was sunk by a [[magazine (artillery)|magazine]] explosion in 1916 with the loss of 248 officers and enlisted men. The Italians blamed [[Austro-Hungarian]] [[saboteur]]s for her loss, but it may have been accidental. ''Leonardo da Vinci'' was [[Marine salvage|refloated]] in 1919 and plans were made to repair her. Budgetary constraints did not permit this and her [[hulk (ship)|hulk]] was sold for [[ship breaking|scrap]] in 1923.
+
+==Description==
+''Leonardo da Vinci'' was {{convert|168.9|m|ftin|sp=us}} [[length at the waterline|long at the waterline]], and {{convert|176|m|ftin|sp=us}} [[length overall|overall]]. The ship had a [[beam (nautical)|beam]] of {{convert|28|m|ftin|sp=us}}, and a [[draft (hull)|draft]] of {{convert|9.3|m|ftin|sp=us}}.&lt;ref name=randal259&gt;Gardiner &amp; Gray, p. 259&lt;/ref&gt; She displaced {{convert|23088|LT|t}} at normal load, and {{convert|25086|LT|t}} at [[deep load]]. The ''Conte di Cavour''-class dreadnoughts had a complete [[double bottom]] and their hull was subdivided by 23 longitudinal and transverse [[bulkhead (partition)|bulkhead]]s. They had a crew of 31 officers and 969 enlisted men.&lt;ref name=g02&gt;Giorgerini, pp. 270, 272&lt;/ref&gt;
+
+The ship's machinery consisted of four [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s, each driving one [[propeller shaft]]. Steam for the turbines was provided by 20 Blechynden [[water-tube boiler]]s, eight of which burned oil and twelve of which burned both [[fuel oil]] and coal. Designed to reach a maximum speed of {{convert|22.5|kn}} from {{convert|31000|shp|lk=in}}, ''Leonardo da Vinci'' failed to reach this goal on her [[sea trial]]s, despite generally exceeding the rated power of her turbines. The ship only made a maximum speed of {{convert|21.6|kn}} using {{convert|32800|shp|abbr=on}}. The ship could store a maximum of {{convert|1450|LT|t}} of coal and {{convert|850|LT|t}} of oil&lt;ref&gt;Giorgerini, pp. 268, 272&lt;/ref&gt; that gave her a range of {{convert|4800|nmi|lk=in}} at {{convert|10|kn|abbr=on}}, and {{convert|1000|nmi|abbr=on}} at {{convert|22|kn}}.&lt;ref name=randal259/&gt;
+
+===Armament===
+[[File:Conte di Cavour class main weapon.svg|thumb|left|300px|Original main armament layout]]
+''Leonardo da Vinci''{{'}}s main armament consisted of thirteen 46-[[Caliber#Caliber as measurement of length|caliber]] 305-millimeter guns, in five gun turrets. The turrets were arranged all on the centerline, with a twin-gun turret [[superfire|superfiring]] over a triple-gun turret in fore and aft pairs, and a third triple turret amidships.  These were designated &quot;A&quot;, &quot;B&quot;, &quot;Q&quot;, &quot;X&quot;, and &quot;Y&quot; from [[Bow (ship)|bow]] to [[stern]].&lt;ref name=hore175&gt;Hore, p. 175&lt;/ref&gt; The turrets had an elevation capability of −5/+20 degrees and the ship could carry 100 [[Cartridge (firearms)|rounds]] for each gun, although 70 was the normal load. Sources disagree regarding these guns' performance, but naval historian Giorgio Giorgerini claims that they fired {{convert|452|kg|lb|adj=on}} [[Armor-piercing shot and shell|armor-piercing (AP)]] projectiles at the rate of one round per minute and that they had a [[muzzle velocity]] of {{convert|840|m/s|ft/s}} which gave a maximum range of {{convert|24000|m|yd|sp=us}}.&lt;ref name=g86&gt;Giorgerini, pp. 268, 276&lt;/ref&gt;{{#tag:ref|Friedman provides a variety of sources that show armor-piercing shell weights ranging from {{convert|919.16|to|997.2|lb|kg|disp=flip}} and muzzle velocities around {{convert|861|m/s|ft/s}}.&lt;ref&gt;Friedman, pp. 233–34&lt;/ref&gt;|group=Note}}
+
+The [[Battleship secondary armament|secondary armament]] consisted of eighteen 50-caliber {{convert|120|mm|in|adj=on|sp=us|1}} guns mounted in [[casemate]]s on the sides of the hull. These guns could depress to −&amp;minus;10 degrees and had a maximum elevation of +15 degrees; they had a rate of fire of six shots per minute. They could fire a {{convert|22.1|kg|lb|adj=on}} high-explosive projectile with a muzzle velocity of {{convert|850|m/s|ft/s|sp=us}} to a maximum distance of {{convert|12000|yd|m}}. The ship carried a total of 3,600 rounds for them. For defense against [[torpedo boat]]s, ''Leonardo da Vinci'' carried fourteen 50-caliber {{convert|76|mm|abbr=on}} guns; thirteen of these could be mounted on the turret tops, but they could be mounted in 30 different positions, including some on the [[forecastle]] and upper decks. These guns had the same range of elevation as the secondary guns, although their rate of fire was higher at 10 rounds per minute. They fired a {{convert|6|kg|lb|adj=on}} AP projectile with a muzzle velocity of {{convert|815|m/s|ft/s|sp=us}} to a maximum distance of {{convert|10000|yd|m}}. The ships were also fitted with three submerged {{convert|45|cm|in|adj=on|sp=us}} [[torpedo tube]]s, one on each [[broadside]] and the third in the stern.&lt;ref&gt;Giorgerini, pp. 268, 277–77&lt;/ref&gt;
+
+===Armor===
+The ''Conte di Cavour''-class ships had a complete [[waterline]] armor belt that was {{convert|2.8|m|ftin|sp=us}} high; {{convert|1.6|m|ftin|sp=us}} of this was below the waterline and {{convert|1.2|m|ftin|sp=us}} above. It had a maximum thickness of {{convert|250|mm|in|1|sp=us}} amidships, reducing to {{convert|130|mm|in|sp=us|1}} towards the stern and {{convert|80|mm|in|sp=us|1}} towards the bow. The lower edge of this belt was a uniform {{convert|170|mm|in|1|sp=us}} in thickness. Above the main belt was a [[strake]] of armor {{convert|220|mm|in|sp=us|1}} thick that extended {{convert|2.3|m|ftin|sp=us}} up to the lower edge of the main deck. Above this strake was a thinner one, 130 millimeters thick, that extended {{convert|138|m|ftin|sp=us}} from the bow to 'X' turret. The upper strake of armor protected the casemates and was {{convert|110|mm|in|1|sp=us}} thick. The ships had two armored [[deck (ship)|deck]]s: the main deck was {{convert|24|mm|abbr=on}} thick in two layers on the flat that increased to {{convert|40|mm|sp=us|1}} on the slopes that connected it to the main belt. The second deck was {{convert|30|mm|sp=us|1}} thick, also in two layers. Fore and aft transverse bulkheads connected the armored belt to the decks.&lt;ref&gt;Giorgerini, pp. 270–71&lt;/ref&gt;
+
+The frontal armor of the [[gun turrets]] was {{convert|280|mm|in|1|sp=us}} in thickness with {{convert|240|mm|in|adj=on|sp=us|1}} sides, and an {{convert|85|mm|in|adj=on|sp=us}} roof and rear.&lt;ref name=g2&gt;Giorgerini, p. 272&lt;/ref&gt; Their [[barbette]]s also had 230-millimeter armor above the forecastle&lt;ref&gt;McLaughlin, p. 421&lt;/ref&gt; deck that reduced to {{convert|180|mm|in|sp=us|1}} between the forecastle and upper decks and 130 millimeters below the upper deck. The forward [[conning tower]] had walls 280 millimeters thick; those of the aft conning tower were 180 millimeters thick.&lt;ref&gt;Giorgerini, pp. 270–72&lt;/ref&gt;
+
+==Construction and service==
+[[File:Upside-down Leonardo da Vinci.jpg|thumb|The upside-down hulk of ''Leonardo da Vinci'' under repair]]
+
+''Leonardo da Vinci'', named after the [[Leonardo da Vinci|artist and inventor]],&lt;ref&gt;Silverstone, p. 300&lt;/ref&gt; was built by the [[Oto Melara|Odero Shipbuilding Co.]], at their [[Sestri Ponente]], [[Genoa]] shipyard. She was [[Keel|laid down]] on 18 July 1910, [[Ship naming and launching|launched]] on 14 October 1911, and completed on 17 May 1914. The ship saw no combat during the war and spent most of it at anchor. 
+
+==Sinking==
+She capsized in [[Taranto]] harbor,&lt;ref&gt;Giorgerini, pp. 272, 277&lt;/ref&gt; in {{convert|36|ft|disp=flip}} of water,&lt;ref&gt;Allen, p. 23&lt;/ref&gt; after an internal magazine explosion on the night of 2/3 August 1916 while loading ammunition. Casualties included 21 officers and 227 enlisted men.&lt;ref&gt;Whitley, pp. 157–58&lt;/ref&gt; The subsequent investigation blamed [[Austro-Hungarian]] [[saboteur]]s, but unstable propellant may well have been responsible.&lt;ref name=hore175/&gt; 
+
+The ''Regia Marina'' wanted to raise the ship and rejected initial plans to demolish the wreck with explosives. They ultimately settled on a plan to make the ship's hull airtight and raise it using compressed air and [[Float (nautical)|pontoons]]. This required that the ship's coal, ammunition, and gun turrets be removed or cut loose, respectively, by divers to reduce her weight. A further complication was that the largest [[drydock]] in Taranto had a maximum depth of only {{convert|40|ft|1|disp=flip}} and the upside-down ''Leonardo da Vinci'' drew {{convert|50|ft|1|disp=flip}}. This meant that her [[funnel (ship)|funnels]] had to be cut off as well.&lt;ref&gt;Allen, pp. 24–26&lt;/ref&gt;
+
+All of this preparation required over two years and the ship was refloated on 17 September 1919. A deep channel had been dredged from her location to the drydock and she was moved there. A special wooden framework had to be built to support her, still inverted, after the water in the drydock had been drained.&lt;ref name=a6/&gt; Her decks were not designed to handle the stresses involved in her unique situation and had to be reinforced to withstand the weight of the hull and preliminary repairs were made in preparation for righting her. A deep spot in the harbor was dredged for this task and some {{convert|400|LT|t}} of [[sailing ballast|ballast]] were added in spots calculated to assist in the righting effort. The primary work was done by {{convert|7500|LT|t}} of water pumped into the ship's starboard side&lt;ref name=a6&gt;Allen, p. 26&lt;/ref&gt; and she was successfully righted on 24 January 1921.&lt;ref&gt;Whitley, p. 158&lt;/ref&gt; The ''Regia Marina'' planned to modernize ''Leonardo da Vinci'' by replacing her center turret with six {{convert|102|mm|adj=on|0|sp=us}} AA guns,&lt;ref name=randal259/&gt; but ultimately lacked the funds to do so and sold her for scrap on 22 March 1923.&lt;ref name=s7&gt;Preston, p. 176&lt;/ref&gt;
+
+== See also ==
+* {{Portal-inline|Battleships}}
+
+==Notes==
+{{Reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{reflist|24em}}
+
+==References==
+* {{cite journal|last=Allen|first=M. J.|year=1964|title=The Loss &amp; Salvage of the &quot;Leonardo da Vinci&quot;|journal=Warship International|publisher=Naval Records Club|location=Toledo, Ohio|volume=I|issue=Reprint|pages=23–26}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5}}
+* {{cite book|last=Giorgerini|first=Giorgio|chapter=The Cavour &amp; Duilio Class Battleships|pages=267–79|editor=Roberts, John|title=Warship IV|year=1980|publisher=Conway Maritime Press|location=London|isbn=0-85177-205-6}}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}} 
+* {{cite book|last=Hore|first=Peter|title=Battleships|year=2005|publisher=Lorenz Books|location=London|isbn=0-7548-1407-6}}
+* {{cite book|last=McLaughlin|first=Stephen|title=Russian &amp; Soviet Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2003|isbn=1-55750-481-4}}
+* {{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book |last=Whitley|first=M. J.|title=Battleships of World War II|year=1998|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=1-55750-184-X}}
+
+==Further reading==
+* {{cite book|last=Fraccaroli|first=Aldo |title=Italian Warships of World War I|location=London|publisher=Ian Allan|year=1970|isbn=978-0-7110-0105-3}}
+* {{cite book |last=Stille|first=Mark|title=Italian Battleships of World War II|year=2011|location=Oxford|publisher=Osprey Publishing|isbn=978-1-84908-831-2}}
+
+==External links==
+* [http://www.gwpda.org/naval/pg000000.htm World War I Document Archive: Ship Photo Gallery]
+* [http://www.ex-voto-marins.net/EXvotoduMonde/Italie/Italie-Trecastagni/Italie-Trecastagni18.jpg A naïve ex-voto (votive painting playing the same role as a church ship in Italian culture) depicting the explosion onboard the ship is in the chapel of Trecastagni (Sicily), donated by a sailor who &quot;miraculously&quot; escaped the blast.]
+
+{{Conte di Cavour-class battleship}}
+{{August 1916 shipwrecks}}
+{{Good article}}
+
+{{DEFAULTSORT:Leonardo da Vinci}}
+[[Category:Conte di Cavour-class battleships]]
+[[Category:World War I battleships of Italy]]
+[[Category:1911 ships]]
+[[Category:Maritime incidents in 1916]]
+[[Category:Ships sunk by non-combat internal explosions]]
+[[Category:Shipwrecks of Italy]]
+[[Category:World War I shipwrecks in the Mediterranean]]
+[[Category:Ships built in Genoa]]
+[[Category:Leonardo da Vinci]]</text>
+      <sha1>6rnsq081ne5tzeyw9ux97q4y8wqdebo</sha1>
+    </revision>
+  </page>
+</mediawiki>

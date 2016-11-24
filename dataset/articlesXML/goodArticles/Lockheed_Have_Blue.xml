@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Lockheed Have Blue</title>
+    <ns>0</ns>
+    <id>1253187</id>
+    <revision>
+      <id>740651289</id>
+      <parentid>708675121</parentid>
+      <timestamp>2016-09-22T11:50:50Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="30100">{{good article}}
+{{DISPLAYTITLE:Lockheed ''Have Blue''}}
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. --&gt;
+{|{{Infobox aircraft begin
+ |name=''Have Blue''
+ |image= File:DARPA USAirForce HaveBlue.png
+ |caption=''Have Blue'' &quot;HB1001&quot; in Alan Brown's camouflage paint scheme|alt=Small jet aircraft with angled surfaces in hangar. It is painted in a disruptive scheme to confused casual onlookers.
+}}{{Infobox aircraft type
+ |type=[[Stealth aircraft|Stealth demonstrator]]
+ |manufacturer=[[Lockheed Corporation|Lockheed]] [[Skunk Works]]
+ |designer=
+ |first flight=1 December 1977
+ |introduced=
+ |retired=1979 (crashed)
+ |produced=1977–1978
+ |number built=2
+ |status=Planes destroyed in crashes
+ |program cost={{US$|link=yes}}35&amp;nbsp;million (1978)&lt;ref&gt;Goodall 1992, p.&amp;nbsp;19.&lt;/ref&gt;
+ |primary user=[[Lockheed Corporation|Lockheed]]
+ |more users=
+ |developed from=
+ |variants with their own articles=
+ |developed into=[[Lockheed F-117 Nighthawk]]
+}}
+|}
+
+'''Lockheed ''Have Blue''''' was the code name for [[Lockheed Corporation|Lockheed]]'s demonstrator (i.e., &quot;[[proof of concept]]&quot;) that preceded the [[Lockheed F-117 Nighthawk|F-117 Nighthawk]] production [[stealth aircraft]]. ''Have Blue'' was designed by Lockheed's [[Skunk Works]] division, and tested at [[Groom Lake]], [[Nevada]]. The ''Have Blue'' was the first [[fixed-wing aircraft]] designed from an [[electrical engineering]] (rather than an aerospace engineering) perspective.&lt;ref name=Donald_p68&gt;Donald 2003, p.&amp;nbsp;68.&lt;/ref&gt; The aircraft's plate-like, [[faceting|faceted]] shape was designed to deflect [[Electromagnetic radiation|electromagnetic waves]] in directions other than that of the originating [[radar]] emitter, greatly reducing its [[radar cross-section]]. Two flyable vehicles were constructed, but both crashed during the flight-test program.
+
+In the 1970s, it became increasingly apparent to U.S. planners that, in a military confrontation with [[Warsaw Pact]] forces, [[NATO]] aircraft would quickly suffer heavy losses. This came as a result of sophisticated Soviet defense networks, which used surveillance radars and radar-guided [[surface-to-air missile]]s (SAM) and [[anti-aircraft artillery]] to seek and eliminate enemy aircraft. Consequently, the [[Defense Advanced Research Project Agency]] (DARPA) started a study on low-observability aircraft, seeking to design and produce an operational stealth aircraft. Five companies were initially invited, three of which bowed out early. The remaining two were later joined by Lockheed.
+
+To design the aircraft, the Skunk Works' design team devised a [[computer program]] to calculate the [[radar cross-section]]s (RCS) of various designs. The eventual design characteristically featured faceted surfaces to deflect radar waves elsewhere. It had [[Swept wing|highly-swept wings]] and inward-canted [[vertical stabilizer]]s, which led to its being nicknamed &quot;Hopeless Diamond&quot;. The first operational aircraft made its [[maiden flight]] on 1&amp;nbsp;December&amp;nbsp;1977. The flight test program validated the feasibility of a flyable stealth aircraft. However, both prototypes were lost due to mechanical problems. Nevertheless, ''Have Blue'' was deemed a success, paving the way for the first operational stealth aircraft, ''Senior Trend'', or F-117 Nighthawk.
+
+== Design and development ==
+
+=== Origins ===
+The Lockheed ''Have Blue'' was born out of a requirement to evade radar detection. During the [[Vietnam War]], radar-guided [[surface-to-air missile]]s (SAM) and [[anti-aircraft artillery]] (AAA) posed a significant threat to US aircraft. As such, strike aircraft during the war often required support aircraft to perform combat air patrols and [[suppression of enemy air defenses]] (SEAD).&lt;ref name=Crickmore_p9&gt;Crickmore 2003, p.&amp;nbsp;9.&lt;/ref&gt; The 1973 [[Yom Kippur War]] again highlighted the vulnerability of aircraft to SAMs – the [[Israeli Air Force]] lost 109 aircraft in 18 days.&lt;ref name=Crickmore_p9/&gt; During the [[Cold War]], the [[Soviet Union]] developed an integrated defense network, central to which were medium- to long-range surveillance radars. SAMs and AAAs would be set up around key locations to defend them from incoming enemy aircraft.&lt;ref name=Crickmore_p9/&gt; If the loss ratio of Israel during the Yom Kippur War was experienced by [[NATO]] forces during a military confrontation with the [[Warsaw Pact]], NATO aircraft numbers would be depleted within two weeks.&lt;ref name=Crickmore_p9/&gt;
+
+In 1974, DARPA secretly requested answers from five aircraft manufacturers regarding two considerations. The first was about the signature thresholds at which an aircraft is virtually undetectable. The second point was whether these companies had the capacity to design and manufacture such an aircraft.&lt;ref name=Crickmore_p9/&gt; [[Fairchild Aircraft|Fairchild]] and [[Grumman]] declined to participate, while [[General Dynamics]] insisted on the use of [[electronic countermeasures]]. As a result, General Dynamics left the discussion. The remaining two companies, [[McDonnell Douglas]] and [[Northrop Corporation|Northrop]], were each awarded $100,000 for further research.&lt;ref&gt;Jenkins 1999, p.&amp;nbsp;15.&lt;/ref&gt;
+
+=== Design effort and early testing ===
+Lockheed, having been absent from the fighter aircraft industry for 10 years, was not approached by DARPA in 1974. Ed Martin, Lockheed California Companies director of science and engineering, became aware of the research into stealth during his work at [[the Pentagon]] and [[Wright-Patterson AFB]].&lt;ref name=Crickmore_p10&gt;Crickmore 2003, p.&amp;nbsp;10.&lt;/ref&gt; Martin and [[Ben Rich]], who at that time had recently become [[Skunk Works]]' president, briefed [[Kelly Johnson (engineer)|Clarence &quot;Kelly&quot; Johnson]] on the program. The [[Central Intelligence Agency]] (CIA) gave Skunk Works permission to discuss with DARPA on the stealth characteristics of the [[Lockheed A-12|A-12]] and [[Lockheed D-21/M-21|D-21]].&lt;ref name=Crickmore_p10 /&gt; Rich and Martin formally requested DARPA for the company to participate in the program, but the agency initially refused because there were insufficient funds; after much debate, Lockheed was allowed entry, albeit without a government contract.&lt;ref name=Crickmore_p10 /&gt;
+[[File:ClarenceLeonardKellyJohnson.jpg|thumb|[[Kelly Johnson (engineer)|Kelly Johnson]], Lockheed's eminent designer, was an initial skeptic of the ''Have Blue'' design, remarking: &quot;Our old [[Lockheed D-21|D-21]] drone has a lower [[radar cross-section]] than that goddamn diamond&quot;.&lt;ref name=Crickmore_p12 /&gt;|alt=Black-and-white portrait photograph of gray-haired man in suit posing to the right; a number of plaques are present on the wall behind.]]
+
+Preliminary designer [[Richard C. Scherrer|Dick Scherrer]] requested possible shapes upon which he could base his low [[radar cross-section]] (RCS) design. He was introduced to [[Denys Overholser]], who recommended an aircraft with flat surfaces. Overholser later recounted his discussion with Sherrer: &quot;When Dick Scherrer asked me ... I said 'Well, it's simple, you just make it out of flat surfaces, and tilt those flat surfaces over, sweeping the edges away from the radar view angle, and that way you basically cause the energy to reflect away from the radar.'&quot;&lt;ref name=Crickmore_p11&gt;Crickmore 2003, p.&amp;nbsp;11.&lt;/ref&gt; Scherror subsequently drew a preliminary low-RCS aircraft with faceted surfaces.&lt;ref name=Crickmore_p11 /&gt; At the same time, Overholser hired mathematician Bill Schroeder, with whom he had a prior working relationship – in fact, it was Schroeder who trained Overholser on mathematics relating to stealth aircraft.&lt;ref name=Crickmore_p11 /&gt; Kenneth Watson was hired as the senior lead aircraft designer.&lt;ref name=Crickmore_p11 /&gt;
+
+During the next few weeks, the team created a computer program which could evaluate the RCS of possible designs. The RCS-prediction software was called &quot;ECHO 1&quot;. As tests with the program proceeded, it became apparent that edge calculations by the program were incorrect due to [[diffraction]].&lt;ref name=Crickmore_p11 /&gt; In 1964, [[Petr Ufimtsev|Pyotr Ufimtsev]], the chief scientist of the Moscow Institute for Radio Engineering, published a seminal paper titled ''Method of Edge Waves in the Physical Theory of Diffraction''.&lt;ref&gt;Ufimtsev, P. Ya. [http://oai.dtic.mil/oai/oai?verb=getRecord&amp;metadataPrefix=html&amp;identifier=AD0733203 &quot;Method of Edge Waves in the Physical Theory of Diffraction.&quot;] ''Oai.dtic.mil''. Retrieved 30 July 2011.&lt;/ref&gt; The work was translated by the [[Air Force Systems Command]]'s Foreign Technnology Division; subsequently, Overholser incorporated elements of Ufimtsev's work to refine the software.&lt;ref name=Crickmore_p11 /&gt;&lt;ref&gt;Jenkins 1999, p.&amp;nbsp;16.&lt;/ref&gt; ECHO 1 allowed the team to quickly decide which of the 20 possible designs were optimal, finally settling on the faceted delta-wing design.&lt;ref name=Crickmore_p12&gt;Crickmore 2003, p.&amp;nbsp;12.&lt;/ref&gt; However, many within the division were skeptical of the shape, giving rise to the name &quot;Hopeless Diamond&quot;&lt;ref name=Sweetman_p25&gt;Sweetman 2005, p.&amp;nbsp;25.&lt;/ref&gt;&amp;nbsp;– Kelly Johnson said to Rich, &quot;Our old D-21 drone has a lower radar cross-section than that goddamn diamond&quot;.&lt;ref name=Crickmore_p12 /&gt;
+
+In May 1975, the Skunk Works produced an internal report titled, &quot;Progress Report No. 2, High Stealth Conceptual Studies.&quot; Within it was a concept study called &quot;Little Harvey,&quot; including Kelly Johnson's drawing of an aircraft with smoothly blended shapes. Johnson advocated for the use of blended shapes as the best way to achieve stealth, while Ben Rich advocated for faceted angles. Rich won the argument with Johnson, a rare occurrence.&lt;ref&gt;Slattery, Chad, &quot;Secrets of the Skunk Works,&quot; ''Air &amp; Space'', August 2014, p.41&lt;/ref&gt;
+
+The design effort produced a number of wooden models. A 24-inch long model, made of [[balsa wood]], demonstrated placement of internal structure and access doors. An ''Air &amp; Space'' article noted &quot;The model shop found it nearly impossible to make all the flat surfaces come to a single point in one corner. Engineers later encountered the same difficulty fabricating the prototype on the factory floor.&quot;&lt;ref&gt;Slattery, p.43&lt;/ref&gt; For early tests of the design, two ⅓-scale wooden mock-ups were constructed. One model, coated in metal foil, was used to verify ECHO 1's RCS calculations, while the other was earmarked for wind tunnel tests.&lt;ref name=Crickmore_p12 /&gt;&lt;ref name=HB_FTP&gt;{{cite web|title=Have Blue Flight Test Program|url=http://www.globalsecurity.org/military/systems/aircraft/have-blue-flight.htm|publisher=Global Security|accessdate=31 July 2011}}&lt;/ref&gt; Afterwards, a model was moved to the [[Grey Butte Range]] radar-testing facility in the [[Mojave Desert]] near [[Palmdale]], which allowed more accurate tests of the aircraft's RCS. In the event, the aircraft's RCS level confirmed ECHO 1's predictions.&lt;ref name=Crickmore_p12 /&gt; This meant Ben Rich won a [[Quarter (United States coin)|quarter]] from Johnson, who previously insisted that the D-21 had less RCS than ''Have Blue''.&lt;ref name=Crickmore_p12 /&gt;
+
+=== Experimental Survivable Testbed ===
+In the summer of 1975, DARPA informally invited Lockheed, Northrop and McDonnell Douglas to develop an aircraft under the name &quot;Experimental Survivable Testbed&quot; (XST).&lt;ref name=Sweetman_p25/&gt;&lt;ref name=Jenkins_p17&gt;Jenkins 1999, p.&amp;nbsp;17.&lt;/ref&gt; McDonnell Douglas, having identified the thresholds at which aircraft were deemed undetectable, was unable to design and produce such an aircraft.&lt;ref name=Crickmore_p13&gt;Crickmore 2003, p.&amp;nbsp;13.&lt;/ref&gt; Phase 1 of XST would see both Lockheed and Northrop build full-scale models to test their RCS, construct flyable vehicles, and wind-tunnel test their designs. Following Phase 1, a sole contractor would be selected to continue with the construction and flight testing of two demonstrators as part of Phase 2.&lt;ref name=Jenkins_p17/&gt; Northrop's and Lockheed's designs were generally similar, though the former's submission featured more angular and flat surfaces. The company used &quot;GENSCAT&quot;, software similar to ECHO 1, to calculate the RCS of its designs.&lt;ref name=Crickmore_p13/&gt;&lt;ref&gt;Jenkins 1999, p.&amp;nbsp;18.&lt;/ref&gt;
+
+On 1&amp;nbsp;November&amp;nbsp;1975, Lockheed and Northrop were each awarded $1.5-million contracts to proceed with Phase 1 of XST.&lt;ref&gt;Aronstein and Piccirillo 1997, p.&amp;nbsp;29.&lt;/ref&gt; During a four-month period, the two companies were each required to construct full-scale wooden mock-ups, which would then be evaluated at the USAF's [[National Radar Cross-section Facility|Radar Target Scatter]] (RATSCAT) test facility at [[White Sands, New Mexico]].&lt;ref name=Crickmore_p13/&gt; To test the design's radar returns, Lockheed erected a $187,000 specially built pole upon which the model would be perched. In March&amp;nbsp;1976, a Lockheed model was transferred to the range before being tested; the following month Lockheed was pronounced the winner&lt;ref&gt;Aronstein and Piccirillo 1997, pp.&amp;nbsp;32–33.&lt;/ref&gt; because the Northrop XST had a much higher side hemisphere RCS.&lt;ref&gt;{{cite book |last= |first= |date= |title=Inside the Stealth Bomber |url=https://books.google.com/books?id=Q_wyJ_pKcqoC&amp;pg=PA55&amp;lpg=PA55&amp;#v=onepage&amp;q&amp;f=false |location= |publisher= |page=13 |isbn= |access-date=2015-02-04 }}&lt;/ref&gt; DARPA, having realized the progress accumulated throughout the study, urged the Northrop team to remain together. The agency would later initiate the [[Battlefield Surveillance Aircraft-Experimental]] (BSAX), which evolved into the [[Northrop Tacit Blue|Tacit Blue]] and, ultimately, the [[Northrop Grumman B-2 Spirit|B-2]] bomber.&lt;ref name=A&amp;P_p33&gt;Aronstein and Piccirillo 1997, p.&amp;nbsp;33.&lt;/ref&gt;
+
+=== Construction and further tests ===
+[[File:Have Blue bottom view.jpg|thumb|right|Underside view of ''Have Blue'']]
+Skunk Works now had to design, construct and flight test two manned demonstrators as part of Phase 2, or ''Have Blue''. To build the demonstrators, Ben Rich had to raise $10.4&amp;nbsp;million from the Lockheed management, which was secured by June. Phase 2 encompassed three main objectives, which were the validation of: reduced visibility in the [[Radar cross-section|radio wave]], [[Infrared signature|infrared]], and [[Aircraft camouflage|visual]] spectrums and reduced [[Acoustic signature|acoustical]] observability; acceptable flying qualities; and the &quot;modeling capabilities that accurately predict low observable characteristics of an aircraft in flight&quot;.&lt;ref name=A&amp;P_p33/&gt;
+
+Construction of both ''Have Blue'' demonstrators used leftover tools from the [[Lockheed C-5 Galaxy|C-5]] program. Final assembly of HB1001 was originally scheduled to end in August 1977, before being ground tested until mid-October. The secret roll-out was envisaged to occur on 23&amp;nbsp;October, after which the aircraft would be dismantled and flown to the test area.&lt;ref name=Crickmore_p16&gt;Crickmore 2003, p.&amp;nbsp;16.&lt;/ref&gt; On 1&amp;nbsp;September, however, with HB1001 partially complete, Lockheed machinists went on a four-month strike. A group of managers instead took over the job of assembly, which was completed in six weeks, with ground tests beginning on 17&amp;nbsp;October.&lt;ref name=Crickmore_p17&gt;Crickmore 2003, p.&amp;nbsp;17.&lt;/ref&gt;
+
+While superficially similar to the later F-117, the ''Have Blue'' prototypes were smaller aircraft, about one quarter the weight of the F-117, with a [[Swept wing|wing sweep]] of 72.5° and inward-canted vertical tails (inverse [[V-tail]]).&lt;ref name=Eden_p243&gt;Eden 2004, p.&amp;nbsp;243.&lt;/ref&gt;&lt;ref&gt;Aronstein, Hirschberg and Piccirillo 1998, p.&amp;nbsp;261.&lt;/ref&gt; [[Radar-absorbent material]] (RAM), developed in a Lockheed laboratory, were applied to the aircraft's flat surfaces – for the windscreen, special coatings were applied to give them metallic characteristics.&lt;ref&gt;Donald 2003, p.&amp;nbsp;67.&lt;/ref&gt;&lt;ref name=Eden_p242&gt;Eden 2004, p.&amp;nbsp;242.&lt;/ref&gt; The aircraft's gross weight of 9,200–12,500&amp;nbsp;lb (4,173–5,669&amp;nbsp;kg) enabled the aircraft to use the landing gear from the [[Northrop F-5]] fighter.&lt;ref name=Eden_p242/&gt; The aircraft's [[Aircraft engine|powerplant]]s were two {{Convert|2,950|lbf|kN|adj=on}} [[General Electric J85|General Electric J85-GE-4As]] of the [[North American T-2 Buckeye|T-2B Buckeye]].&lt;ref name=AHP_p263/&gt;&lt;ref&gt;Sweetman 2005, p&amp;nbsp;30.&lt;/ref&gt; Because stealth took precedence above all else, the aircraft was inherently [[Relaxed static stability|unstable]]. As a result, a quadruple redundant [[fly-by-wire]] (FBW) flight control system was integrated into the aircraft to give it normal flying characteristics. The flight control system was borrowed from the [[General Dynamics F-16 Fighting Falcon|F-16]].&lt;ref name=AHP_p263&gt;Aronstein, Hirschberg and Piccirillo 1998, p.&amp;nbsp;263.&lt;/ref&gt; The overwing engine inlet was covered by a low-RCS grid; during takeoffs, when more air is needed, blow-in doors were constructed at the upper fuselage to admit additional airflow.&lt;ref&gt;Crickmore 2003, pp.&amp;nbsp;15–16.&lt;/ref&gt;
+
+Throughout the one and a half months after the start of ground tests, HB1001, the first of two demonstrators, underwent tests in preparations for the first flight. Flight instrumentation was checked first, followed by a thorough [[Shakedown (testing)|shakedown]] of the aircraft. In early November, two [[semi-trailer]]s were parked parallel to each other outside Building 82; a camouflage net was thrown over the top to cover the demonstrator during outdoor engine runs. During the engine tests, a local resident complained about the noise, but ''Have Blue'' retained its secrecy.&lt;ref name=Crickmore_p17/&gt; HB1001 received a layer of iron-coat paint; during the weekend of 12–13 November, the aircraft received a camouflage scheme devised by Alan Brown, ''Have Blue''{{'}}s chief technical engineer. The scheme, consisting of three colors, each with three tones, was used to deceive any casual onlooker from recognizing the design's characteristic [[faceting]].&lt;ref name=Crickmore_p17/&gt; The aircraft was disassembled and loaded onto a C-5&amp;nbsp;– on 16&amp;nbsp;November, the aircraft was flown from [[Bob Hope Airport|Burbank Airport]] (since renamed ''Bob Hope Airport'') to [[Area 51]] at [[Groom Lake]], [[Nevada]]. Upon touchdown, the aircraft was reassembled before undergoing another round of testing prior to the first flight.&lt;ref&gt;Crickmore 2003, pp.&amp;nbsp;17–18.&lt;/ref&gt; After four taxi tests, HB1001 was ready for test flights.&lt;ref name=Crickmore_p19&gt;Crickmore 2003, p.&amp;nbsp;19.&lt;/ref&gt;
+
+== Operational history ==
+
+=== HB1001 ===
+HB1001 made its first flight on 1&amp;nbsp;December&amp;nbsp;1977 at the hands of Lockheed test pilot, Bill Park. He would fly the next four sorties, all chased by a T-38 piloted by Major (later Lieutenant Colonel) Ken Dyson.&lt;ref name=Crickmore_p20/&gt; Dyson, an [[McDonnell Douglas F-15 Eagle|F-15 Eagle]] pilot, was previously approached by [[United States Air Force]] personnel about the project in 1976.&lt;ref name=Crickmore_p16/&gt; He made his first flight on HB1001 on 17&amp;nbsp;January&amp;nbsp;1978, chased by Park. In fact, the two would be the only test pilots of ''Have Blue'', alternating between the demonstrator and the chase plane.&lt;ref name=Crickmore_p20&gt;Crickmore 2003, p.&amp;nbsp;20.&lt;/ref&gt; Flight test results allowed engineers to refine the FBW system. At the same time, they verified predictions made earlier by aerodynamic engineers on the aircraft's behavior.&lt;ref name=Crickmore_p20/&gt;
+
+Flight tests proceeded fairly smoothly until 4&amp;nbsp;May&amp;nbsp;1978, when HB1001 was making its 36th flight. The aircraft pitched up just as it made contact with the ground which forced the pilot, Bill Park, to abort the landing and make a second attempt. The impact had however been so hard that the landing gear had become jammed in a semi-retracted position. Efforts to lower the gear were unsuccessful and Bill Park was forced to eject at {{convert|10000|ft}} when fuel ran out. The aircraft was destroyed on impact in the vicinity of the [[Groom Lake]] facility.&lt;ref name=J&amp;L_p232&gt;Jenkins and Landis 2008, p.&amp;nbsp;232.&lt;/ref&gt; Park survived, but suffered a [[concussion]], forcing him to retire from further test flights.&lt;ref name=Crickmore_p21&gt;Crickmore 2003, p.&amp;nbsp;21.&lt;/ref&gt; Dyson, who was in the chase plane, recounted: &quot;Just before touchdown the airplane pitched up... It seemed it slammed down on the ground real hard... He [Park] raised the gear on the go around, and when he tried to extend it on approach, only one of the mains and the nose wheel came down. All this time, gas was being consumed... I suggested he climb up to 10,000 feet for ejection... He started climbing, but the engine started [[Flameout|flaming out]], from the lack of fuel, so he ejected.&quot;&lt;ref name=Crickmore_p21/&gt;
+
+=== HB1002 ===
+
+At the time of the crash, HB1002 was almost complete, with the lessons learned from the HB1001 incorporated into the aircraft, including the rebuilding of the aft fuselage.&lt;ref name=Crickmore_p19/&gt; HB1002 was distinguished from the prototype in having a gray paint coat. It did not have the flight test instrumentation boom present on HB1001's nose. As the aircraft was used to test RCS returns, the unstealthy spin recovery chute was removed, and the aircraft was covered in radar-absorbent material.&lt;ref name=J&amp;L_p232/&gt; It first flew on 20&amp;nbsp;July&amp;nbsp;1978  with Dyson at the controls, who would be the only pilot to fly the aircraft.&lt;ref name=Crickmore_p22&gt;Crickmore 2003, p.&amp;nbsp;22.&lt;/ref&gt;
+
+HB1002 was lost on 11&amp;nbsp;July&amp;nbsp;1979 during the aircraft's 52nd flight. A [[Hydraulic fluid|hydraulic]] leak caused an engine fire, resulting in the loss of [[hydraulic pressure]], which in turn caused severe [[Flight dynamics (aircraft)|pitch]] [[oscillation]]s. The pilot ejected safely, and the aircraft was destroyed.&lt;ref name=J&amp;L_p233&gt;Jenkins and Landis 2008, p.&amp;nbsp;233.&lt;/ref&gt; It was later discovered that an engine exhaust clamp had loosened, allowing the hot exhaust to migrate to the right engine compartment. The heat built up there, causing the hydraulic lines to fail.&lt;ref name=Crickmore_p23&gt;Crickmore 2003, p.&amp;nbsp;23.&lt;/ref&gt; The debris from both aircraft was secretly buried somewhere within the Nellis complex.&lt;ref name=J&amp;L_p233/&gt; Despite the crashes, ''Have Blue'' was considered a success.&lt;ref&gt;Donald 2003, p.&amp;nbsp;72.&lt;/ref&gt;
+
+=== ''Senior Trend'' ===
+{{main|Lockheed F-117 Nighthawk}}
+In October&amp;nbsp;1977, just prior to Phase 2 of the XST competition, Lockheed was tasked with exploring possible operational aircraft. Just a month later, on the day HB1001 was transported to Groom Lake, the Air Force awarded the company a contract under the code name ''Senior Trend''.{{refn|Quote: &quot;The results of these studies were sufficiently promising that the Air Force issued a development contract on 16&amp;nbsp;November&amp;nbsp;1977 under the name ''Senior Trend''.&quot;&lt;ref name=J&amp;L_p233/&gt;|group=N}} The Air Force wanted to exploit the revolutionary technologies developed during the ''Have Blue'' program.&lt;ref&gt;Crickmore 2003, p.&amp;nbsp;25.&lt;/ref&gt; The [[Tactical Air Command]] ordered five full-scale development and twenty production aircraft.&lt;ref name=J&amp;L_p233/&gt;
+
+Based on the ''Have Blue'' demonstrators, ''Senior Trend'' aircraft were different from their predecessors in several aspects. The wings exhibited less sweep to resolve a [[Center of gravity|center-of-gravity]] problem discovered during tests. The front fuselage was shortened to give the pilot a better view. And, the vertical stabilizers were canted outwards from the centerline.&lt;ref name=J&amp;L_p233/&gt; Additionally, provisions were made to include two weapons bays, each of which would accommodate a single {{Convert|2,000|lb|kg|adj=on}} [[laser-guided bomb]], or the [[B61 nuclear bomb|B61]] [[Tactical nuclear weapon|tactical nuclear bomb]].&lt;ref name=J&amp;L_p233/&gt;
+
+Beset by early construction problems, the first FSD aircraft was transferred to Groom Lake in May&amp;nbsp;1981 inside a C-5. Further problems, this time with fuel leaks, delayed the first flight.&lt;ref name=J&amp;L_p233/&gt; Under the control of Harold Farley, the aircraft took off on 18&amp;nbsp;June for its maiden flight, nine months after the July&amp;nbsp;1980 first flight originally envisaged.&lt;ref name=J&amp;L_p233/&gt; The first production F-117A was delivered in 1982, and operational capability was achieved in October&amp;nbsp;1983; the 59th and last F-117 was delivered in 1990.&lt;ref&gt;Goodall 1992, p.&amp;nbsp;29.&lt;/ref&gt;&lt;ref&gt;{{Cite web|title=F-117A Nighthawk : Overview|work=[[Federation of American Scientists]]|url=http://www.fas.org/programs/ssp/man/uswpns/air/attack/f117a.html|accessdate=1 August 2011}}&lt;/ref&gt;
+
+== Specifications ==
+[[File:Havef117.png|thumb|Several CG rendered views of ''Have Blue'', with overhead comparison of size relative to the F-117|alt=Line drawings of different angles of an aircraft]]
+{{aircraft specifications
+|plane or copter?=plane
+|jet or prop?=jet
+|ref=Crickmore,&lt;ref&gt;Crickmore 2003, pp.&amp;nbsp;14–15.&lt;/ref&gt; Donald,&lt;ref name=Donald_p68/&gt; Aronstein and Piccirillo&lt;ref&gt;Aronstein and Piccirillo 1997, pp.&amp;nbsp;41–42.&lt;/ref&gt;
+|crew= 1
+|capacity=
+|payload main=
+|payload alt=
+|length main= 47 ft 3 in
+|length alt= 14.40 m
+|span main= 22 ft 6 in
+|span alt= 6.86 m
+|height main= 7 ft 6 in
+|height alt= 2.29 m
+|area main= 386 ft²
+|area alt= 35.86 m²
+|airfoil=
+|empty weight main= 8,950 lb
+|empty weight alt= 4,060 kg
+|loaded weight main=
+|loaded weight alt=
+|useful load main=
+|useful load alt=
+|max takeoff weight main= 12,500 lb
+|max takeoff weight alt= 5,670 kg
+|more general=
+|engine (jet)= [[General Electric J85|General Electric J85-GE-4A]]
+|type of jet=[[turbojet]]s
+|number of jets=2
+|thrust main=
+|thrust alt= 2,950 lbf
+|thrust original=13.1 kN
+|afterburning thrust main=
+|afterburning thrust alt=
+|max speed main=600 mph
+|max speed alt= 966 km/h
+|cruise speed main=
+|cruise speed alt=
+|stall speed main=
+|stall speed alt=
+|never exceed speed main=
+|never exceed speed alt=
+|range main= 
+|range alt=
+|ceiling main=
+|ceiling alt=
+|climb rate main=
+|climb rate alt=
+|loading main= 32 lb/ft²
+|loading alt= 156 kg/m²
+|thrust/weight=0.46–0.62
+|power/mass main= 
+|power/mass alt=
+|more performance=
+|armament=
+|avionics=
+}}
+
+== See also ==
+{{Portal|Military of the United States|Aviation}}
+{{aircontent
+|see also=
+|related=
+* [[Lockheed F-117 Nighthawk]]
+* Lockheed [[Senior Prom]] (a stealthy [[cruise missile]] [[prototype]], based on Have Blue, also flown at Groom Lake)
+|similar aircraft=
+* [[Northrop Tacit Blue]]
+* [[MBB Lampyridae]]
+|lists=
+* [[List of experimental aircraft]]
+* [[List of Lockheed aircraft]]
+}}
+
+== References ==
+===Notes===
+{{reflist|group=N}}
+
+===Citations===
+{{reflist|30em}}
+
+===Bibliography===
+* Aronstein, David C. and Albert C. Piccirillo, ''[https://books.google.com/books?id=rzXdGpkDa7YC&amp;pg=PA264&amp;dq=Lockheed+Have+Blue&amp;hl=en&amp;ei=yUtXTv6rMszZiALDmPnKCQ&amp;sa=X&amp;oi=book_result&amp;ct=book-preview-link&amp;resnum=2&amp;ved=0CDIQuwUwAQ#v=onepage&amp;q&amp;f=true Have Blue and the F-117A: Evolution of the &quot;Stealth Fighter&quot;]''. Reston, Virginia: [[American Institute of Aeronautics and Astronautics]], 1997. ISBN 978-1-56347-245-9.
+* Aronstein, David C.,  Michael J. Hirschberg and Albert C. Piccirillo. ''[https://books.google.com/books?id=uCI5KhlGM4kC&amp;pg=PA262&amp;dq=Lockheed+Have+Blue&amp;hl=en&amp;ei=pEVXTo7_NJHPmAW-qKGPDA&amp;sa=X&amp;oi=book_result&amp;ct=book-preview-link&amp;resnum=8&amp;ved=0CFEQuwUwBw#v=onepage&amp;q&amp;f=false Advanced tactical fighter to F-22 raptor: origins of the 21st century air dominance fighter]''. Reston, Virginia: [[American Institute of Aeronautics and Astronautics]], 1998. ISBN 978-1-56347-282-4.
+* {{Cite book|last=Crickmore|first=Paul F. and Alison J|title=Nighthawk F-117 Stealth Fighter|location=St. Paul, Minnesota|publisher=Motorbooks, 2003|url=https://books.google.com/books?id=IOshjF1z5dgC&amp;printsec=frontcover&amp;dq=f-117&amp;hl=en&amp;ei=zJ00Tp_uOOTymAXQuK3lDg&amp;sa=X&amp;oi=book_result&amp;ct=book-preview-link&amp;resnum=2&amp;ved=0CDUQuwUwAQ#v=onepage&amp;q&amp;f=false|isbn=0-7603-1512-4|ref={{harvid|Crickmore|2003}}}}
+&lt;!--* Anon, &quot;Stealth Aircraft Lost in Nevada&quot;, Flight International, May 27, 1978, p.1591.--&gt;
+* Donald, David. ''Black Jets: The Development and Operation of America's Most Secret Warplane''. North Branch, Minnesota: Specialty Press, 2003. ISBN 978-1-880588-67-3.
+*{{Cite book|editor-last=Eden|editor-first=Paul|title=The Encyclopedia of Modern Military Aircraft|location=London|publisher=Amber Books, 2004|isbn=1-904687-84-9|ref={{harvid|Eden|2004}}}}
+* {{Cite book|last=Goodall|first=James C|title=America's Stealth Fighters and Bombers: B-2, F-117, YF-22 and YF-23|location=St. Paul, Minnesota|publisher=Motorbooks International, 1992|chapter=The Lockheed F-117A Stealth Fighter|year=|isbn=0-87938-609-6|ref={{harvid|Goodall|1992}}}}
+* Jenkins, Dennis R. ''Lockheed Martin F-117 Nighthawk''. North Branch, Minnesota: Specialty Press, 1999. ISBN 1-58007-020-5.
+* Jenkins, Dennis R. and Tony R. Landis. ''Experimental &amp; Prototype U.S. Air Force Jet Fighters.'' North Branch, Minnesota: Specialty Press, 2008. ISBN 978-1-58007-111-6.
+&lt;!--*Richardson, Doug. ''[https://books.google.com/books?id=qZlrReU-cMkC&amp;pg=PT64&amp;dq=Lockheed+Stealth&amp;hl=en&amp;ei=XpY0TsaGA-WTmQXJs6DxCg&amp;sa=X&amp;oi=book_result&amp;ct=book-preview-link&amp;resnum=3&amp;ved=0CDgQuwUwAg#v=onepage&amp;q=Lockheed%20Stealth&amp;f=false Stealth Warplanes]''. Zenith Imprint, 2001. ISBN 978-0-76031-051-9--&gt;
+* [[Bill Sweetman|Sweetman, Bill]]. ''[https://books.google.com/books?id=q06Jw1lgcF8C&amp;printsec=frontcover&amp;dq=lockheed+stealth&amp;hl=en&amp;ei=SKczTrSvKIremAW7s9jwCg&amp;sa=X&amp;oi=book_result&amp;ct=book-preview-link&amp;resnum=1&amp;ved=0CDEQuwUwAA#v=onepage&amp;q&amp;f=false Lockheed Stealth]''. Grand Rapids, Michigan: Zenith Imprint, 2005. ISBN 978-0-7603-1940-6.
+
+== External links ==
+{{Commons category|Lockheed Have Blue}}
+* [http://www.faqs.org/docs/air/avf1171.html#m2 Have Blue page] at FAS.org
+
+{{Lockheed Martin aircraft}}
+{{Use dmy dates|date=February 2011}}
+
+[[Category:Lockheed aircraft|Have Blue]]
+[[Category:United States experimental aircraft 1970–1979]]
+[[Category:Monoplanes]]
+[[Category:V-tail aircraft]]
+[[Category:Stealth aircraft]]
+[[Category:Black projects]]
+[[Category:Relaxed-stability aircraft]]</text>
+      <sha1>o8w90uvpmn3e61aflzs2hoky4847a87</sha1>
+    </revision>
+  </page>
+</mediawiki>

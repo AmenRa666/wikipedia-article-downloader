@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Arrogant-class cruiser</title>
+    <ns>0</ns>
+    <id>30072316</id>
+    <revision>
+      <id>739246962</id>
+      <parentid>734948697</parentid>
+      <timestamp>2016-09-13T16:08:52Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Green Cardamom/WaybackMedic 2|WaybackMedic 2]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9306">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Furious h61062.jpg|300px]] 
+|Ship caption=HMS ''Furious''
+}}
+{{Infobox ship class overview
+|Name=
+|Builders=
+|Operators={{navy|United Kingdom}}
+|Class before={{sclass-|Eclipse|cruiser|4}}
+|Class after={{sclass-|Pelorus|cruiser|4}}
+|Cost=
+|Built range=1895–1900
+|In service range=1898–1923   
+|In commission range=  
+|Total ships completed=4
+|Total ships scrapped=2
+|Total ships lost=2
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=&quot;Conways60 p78&quot;&gt;Gardiner 1979, p. 78.&lt;/ref&gt; 
+|Ship class=
+|Ship type=[[Protected cruiser]]
+|Ship displacement={{convert|5750|LT|t|abbr=on}} 
+|Ship length=*{{convert|320|ft|m|1|abbr=on}} ([[Length between perpendiculars|p/p]])
+*{{convert|342|ft|m|1|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|57|ft|6|in|m|1|abbr=on}}
+|Ship draught={{convert|20|ft|m|1|abbr=on}}
+|Ship power={{convert|10000|shp|kW|lk=in|abbr=on|-1}}
+|Ship propulsion=*2 shafts
+*2 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]
+*18 Belleville [[water-tube boiler]]s
+|Ship speed={{convert|19|kn|lk=in|1}}
+|Ship range=
+|Ship complement=480
+|Ship armament=*4 × [[Elswick 6 inch naval gun|QF 6-inch (152&amp;nbsp;mm) guns]]
+*6 × [[QF 4.7 inch Gun Mk I - IV|4.7-inch (120 mm) guns]]
+*8 × [[QF 12 pounder 12 cwt naval gun|12-pounder (3-inch, 76&amp;nbsp;mm) guns]]
+*3 × [[QF 3 pounder Hotchkiss|3-pounder (47&amp;nbsp;mm) guns]]
+*3 submerged [[British 18 inch torpedo|18 inch (450 mm) torpedo]] tubes
+|Ship armour=*[[Deck (ship)|Deck]]: {{convert|1.5|-|3|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|9|in|mm|abbr=on|0}}
+|Ship notes=
+}}
+|}
+
+The '''''Arrogant''-class cruiser''' was a [[ship class|class]] of four [[protected cruiser]]s built for the British [[Royal Navy]] at the end of the 1890s. One ship, {{HMS|Gladiator|1896|6}} was lost following a collision with a merchant ship in 1908, while {{HMS|Vindictive|1897|6}} saw active service in the [[World War I|First World War]], taking part in the [[Zeebrugge Raid]] in April 1918 before being sunk as a blockship during the [[Second Ostend Raid]] in May 1918.
+
+==Design==
+The 1895–96 programme of naval construction for the Royal Navy included provision for four Second-class cruisers of the ''Arrogant'' class.{{#tag:ref|Earlier plans allowed for up to six ''Arrogant''-class cruisers.&lt;ref name=&quot;War p156&quot;&gt;Brown 2003, p. 156.&lt;/ref&gt;|group=nb}} While most contemporary Royal Navy cruisers were intended for trade protection, the ''Arrogant'' class was designed to operate with the main battle fleet, being intended to finish off crippled enemy ships by ramming, and were originally described as &quot;Fleet Rams&quot;.&lt;ref name=&quot;Conways60 p78&quot;/&gt;&lt;ref name=&quot;War p162-3&quot;&gt;Brown 2003, pp. 162–163.&lt;/ref&gt;
+
+To suit the class for its proposed role, the [[Naval ram|ram bow]] was larger and stronger than normal, and was supported by the ship's [[Protected cruiser|protective deck]] and by {{convert|2|in|mm}} side armour plating covering the forward part of the ship. While the protective deck had a similar thickness ({{convert|1.5|-|3|in|mm}}) to that of the preceding {{sclass-|Eclipse|cruiser|4}}, the ship's conning tower had much thicker protection than normal, with {{convert|9|in|mm}} of armour to resist close-range enemy shells. The design had a shorter hull with greater beam and an auxiliary [[rudder]] ahead of the main rudder to improve manoeuvrability (with a turning circle of {{convert|380|yd|m}} compared with {{convert|650|yd|m}} for the same-length {{sclass-|Astraea|cruiser|1}}s).&lt;ref name=&quot;Conways60 p78&quot;/&gt;&lt;ref name=&quot;War p162-3&quot;/&gt;
+
+The ''Arrogants'' were the first British second-class cruisers to use [[water-tube boiler]]s, with 18 [[Belleville boiler]]s feeding triple-expansion steam engines which drove two shafts, giving a speed of {{convert|18|kn}}.&lt;ref name=&quot;Conways60 p78&quot;/&gt; The ships' main gun armament was a mixture of four {{convert|6|in|mm|0|abbr=on}} guns and six {{convert|4.7|in|mm|abbr=on}} guns, and a secondary armament of eight [[QF 12 pounder 12 cwt naval gun|12-pounder (76 mm)]] and three [[QF 3 pounder Hotchkiss|3 pounder (47 mm)]] guns, supplemented by 5 machine guns and three {{convert|18|in|mm|0|abbr=on}} [[torpedo tube]]s.&lt;ref name=&quot;Conways60 p78&quot;/&gt; The ''Arrogants'', like many of the armoured cruisers built for the Royal Navy, were often criticised by the contemporary press,&lt;ref name=&quot;War p162&quot;&gt;Brown 2003, p. 162.&lt;/ref&gt; with the 1896 [[Brassey's Naval Annual]] considering that the classes armament and speed were &quot;hardly satisfactory&quot;,&lt;ref name=&quot;Brassey1896 p12&quot;/&gt; with unfavourable comparisons made to armoured cuisers being built for export,&lt;ref name=&quot;Brassey1896 p12&quot;/&gt; and ships in service with France and Germany.&lt;ref name=&quot;Brassey1896 p155&quot;&gt;Brassey 1896, p. 155.&lt;/ref&gt; The ship's armament was strengthened in 1903–04, when the existing main gun armament was replaced by a homogeneous battery of ten 6 inch guns.&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+
+==History==
+The four ships were laid down at [[HMNB Devonport|Devonport]] and [[HMNB Portsmouth|Portsmouth]] naval dockyards in 1895–96, launching in 1896–97 and were completed between 1898 and 1900.&lt;ref name=&quot;Conways60 p78&quot;/&gt; 
+
+{{HMS|Gladiator|1896|6}} collided with the American liner {{SS|Saint Paul}} in a heavy snowstorm off the [[Isle of Wight]] on 25 April 1908, sinking with the loss of 27 men. Although she was raised in October 1908, ''Gladiator'' proved too expensive to repair and was sold for scrap.&lt;ref name=&quot;Conways06 p16&quot;&gt;Gardiner and Gray 1985, p. 16.&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Patterson|first=Brian|title=HMS Gladiator in Collision|url=http://www.btinternet.com/~philipr/glad.htm|archiveurl=https://web.archive.org/web/20091026162235/http://www.btinternet.com/~philipr/glad.htm|work=Navies in Transition|accessdate=23 June 2012|archivedate=26 October 2009|deadurl=yes|date=12 September 1999}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=H.M.S. Gladiator for Sale|url=http://trove.nla.gov.au/ndp/del/article/71965364|accessdate=23 June 2012|newspaper=The Capricornian|date=13 February 1909|location=Rockhampton, Queensland, Australia|page=19}}&lt;/ref&gt;
+
+{{HMS|Arrogant|1896|6}} became a submarine depot ship in 1911, while {{HMS|Furious|1896|6}} was paid off in 1912, being renamed HMS ''Forte'' in 1915, serving as a [[Hulk (ship)|hulk]] attached to the [[stone frigate]] (or shore establishment) [[HMS Vernon (shore establishment)|HMS ''Vernon'']].&lt;ref name=&quot;Conways60 p78&quot;/&gt;&lt;ref name=&quot;Conways06 p16&quot;/&gt; {{HMS|Vindictive|1897|6}} served as a tender attached to HMS ''Vernon'' from 1912 until the outbreak of the First World War, when she returned to active service. In 1918, ''Vindictive'' was converted to an assault ship for the [[Zeebrugge Raid]] on 23 April, and following that was scuttled as a blockship during the [[Second Ostend Raid]] on 10 May 1918.&lt;ref name=&quot;Conways06 p16&quot;/&gt;
+
+==Ships==
+{| class=&quot;wikitable&quot; border=&quot;1&quot;
+|-
+!Name
+!Builder&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+!Laid Down&lt;ref name=&quot;Brassey1896 p12&quot;&gt;Brassey 1896, p. 12.&lt;/ref&gt;
+!Launched&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+!Commissioned&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+!Cost
+!Fate
+|-
+| {{HMS|Arrogant|1896|2}} || [[HMNB Devonport|Devonport Dockyard]] || 10 June 1895 || 26 May 1896 || 1898 || £278,878&lt;ref name=&quot;Brassey02 p187&quot;&gt;Brassey 1902, p. 187.&lt;/ref&gt; ||Sold 1923&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+|-
+| {{HMS|Furious|1896|2}} || Devonport Dockyard || 10 June 1895 || 3 December 1896 || 1 July 1898 || £280,772&lt;ref name=&quot;Brassey02 p191&quot;&gt;Brassey 1902, p. 191.&lt;/ref&gt; || Sold 1923&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+|-
+| {{HMS|Gladiator|1896|2}} || [[HMNB Portsmouth|Portsmouth Dockyard]] || 27 January 1896 || 18 December 1896 || April 1899 || £287,642&lt;ref name=&quot;Brassey02 p191&quot;/&gt; || Sank in collision 25 April 1908&lt;br&gt; Raised and scrapped 1908&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+|-
+| {{HMS|Vindictive|1897|2}} || Portsmouth Dockyard || 27 January 1896 || 9 December 1897 || 4 July 1900 || £290,458&lt;ref name=&quot;Brassey02 p200&quot;&gt;Brassey 1902, p. 200.&lt;/ref&gt; || Scuttled as blockship 10 May 1918&lt;ref name=&quot;Conways60 p78&quot;/&gt;
+|}
+
+==Notes==
+{{reflist|group=nb}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{reflist|2}}
+
+==References==
+*{{cite book|last=Brassey|first=T. A.|title=The Naval Annual 1896|year=1896|publisher=J Griffin and Co|location=Portsmouth, UK|url=https://archive.org/details/brasseysannuala00brasgoog}}
+*{{cite book|last=Brassey|first=T. A.|title=The Naval Annual 1902|year=1902|publisher=J Griffin and Co|location=Portsmouth, UK}}
+*{{cite book|last=Brown|first=D. K.|title=Warrior to Dreadnought: Warship Development 1860–1905|year=2003|publisher=Caxton Editions|location=London|isbn=1-84067-5292}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor=Gardiner, Robert |publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4}}
+*{{cite book|last1=Gardiner|first1=Robert|last2=Gray|first2=Randal|title=Conways's All the World's Fighting Ships 1906–1921|year=1985|publisher=Conway Maritime Press|location=London|isbn=0-85177-245-5}}
+
+==External links==
+{{Commons category|Arrogant class cruiser}}
+* [http://www.worldwar1.co.uk/light-cruiser/hms-Arrogant.html  Arrogant Class Cruiser]
+
+{{Arrogant class cruisers}}
+{{WWIBritishShips}}
+
+[[Category:Cruiser classes]]
+[[Category:Arrogant-class cruisers| ]]
+[[Category:1890s ships]]</text>
+      <sha1>hhu61yielx2e1jzjliiw92mw3q7gfpz</sha1>
+    </revision>
+  </page>
+</mediawiki>

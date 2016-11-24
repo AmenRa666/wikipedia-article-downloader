@@ -1,0 +1,196 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Research (1863)</title>
+    <ns>0</ns>
+    <id>5328538</id>
+    <revision>
+      <id>686036614</id>
+      <parentid>685240681</parentid>
+      <timestamp>2015-10-16T15:48:14Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>list fix; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7920">{{otherships|HMS Research}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image =  [[File:HMS Research (1863).jpg|300px|]]
+| Ship caption =  ''Research'' in 1864
+}}
+{{Infobox ship career
+| Hide header =  
+| Ship country =  
+| Ship flag ={{shipboxflag|UK|naval}}
+| Ship name =  HMS ''Research''
+| Ship namesake =  
+| Ship ordered =  
+| Ship builder =  [[Pembroke Dock]]yard
+| Ship original cost=£71,287&lt;ref group=Note&gt;A total cost accounting for inflation of approximately £{{formatnum:{{Inflation|UK|71287|1863|r=-2}}}} in today's money.&lt;/ref&gt;&lt;ref name=RW/&gt;
+| Ship laid down =  3 September 1861
+| Ship launched =  15 August 1863
+| Ship completed =  6 April 1864
+| Ship acquired =  
+| Ship commissioned =  6 April 1864
+| Ship decommissioned =  
+| Ship in service =  
+| Ship out of service =  
+| Ship struck =  
+| Ship reinstated =  
+| Ship honours =  
+| Ship fate =*Laid up 1878
+*Sold for breaking, 1884
+| Ship notes =  
+}}
+{{Infobox ship characteristics
+| Hide header =  
+| Header caption =  as originally designed
+| Ship class=
+| Ship type=Wooden {{sclass|Camelion|sloop|1}}
+| Ship tonnage=
+| Ship displacement=1,200 tons
+| Ship tons burthen=
+| Ship length={{convert|185|ft|abbr=on}}
+| Ship beam={{convert|33|ft|2|in|abbr=on}} 
+| Ship height=
+| Ship draught=*{{convert|13|ft|abbr=on}} light,
+*{{convert|15|ft|abbr=on}} deep load
+}}
+{{Infobox ship characteristics
+| Hide header =  
+| Header caption =  after conversion
+| Ship class=
+| Ship type=Ironclad [[sloop-of-war|sloop]]
+| Ship tonnage=
+| Ship displacement=1,743 tons
+| Ship tons burthen=1,253 [[Builder's Old Measurement|bm]]
+| Ship length={{convert|195|ft|abbr=on}} [[Length between perpendiculars|pp]]
+| Ship beam={{convert|38|ft|6|in|abbr=on}} 
+| Ship height=
+| Ship draught=*{{convert|13|ft|abbr=on}} light,
+*{{convert|16|ft|4|in|abbr=on}} deep load
+| Ship draft=
+| Ship depth=
+| Ship hold depth=
+|Ship propulsion =*[[Boulton and Watt]] horizontal single-expansion direct-acting steam engine
+*2 × tubular boilers
+*1 × hoisting {{convert|12|ft|m|0|adj=on}} screw
+|Ship power=*200 [[nominal horsepower]]
+*{{convert|1040|ihp|kW}}
+|Ship sail plan =  Barque rig, sail area {{convert|18250|sqft|m2|abbr=on}}
+|Ship speed =*{{convert|10.3|kn|km/h|0}} under power;
+*{{convert|6|kn|km/h|0}}, best sailing speed
+|Ship range =  
+|Ship complement =  150
+|Ship armament =*'''1864''':
+* 4 × [[Somerset cannon|100-pounder smoothbore guns]]
+*'''1870''':
+* 4 × [[RML_7_inch_gun#RML_7_inch_6.C2.BD_ton_gun|7-inch (180-mm) 6½-ton muzzle-loading rifles]]
+|Ship armour =*4.5 inch belt and battery
+*4.5 inch bulkheads
+|Ship notes =  
+}}
+|} 
+
+'''HMS ''Research''''' was a small [[ironclad warship]], converted from a wooden-hulled sloop and intended as an experimental platform in which to try out new concepts in armament and in armour. She was launched in 1863, laid up in 1878 and sold for breaking in 1884, having displayed serious limitations as a warship.
+
+==Background==
+In the period from 1860 to 1865 the [[Board of Admiralty]] were seriously concerned at the speed with which France was producing ironclad warships. One of the steps taken to counter this perceived threat was the conversion of partially built British wooden ships into ironclads, including such large ships as the {{sclass-|Prince Consort|ironclad}}s. 
+
+==Design==
+===Conversion===
+The 17-gun sloop ''Trent'' had been ordered in November 1860 as one of the {{sclass|Camelion|sloop|0}}. She was selected for conversion to an ironclad, and her name was changed to ''Research''. Although she had been building for a year, work was not far advanced, and the necessary changes to her length and beam could easily be made. A new design by the Royal Navy Chief Constructor, [[Edward James Reed|Sir Edward Reed]], saw her sloop ends replaced by an oval stern and a ram bow, and the draught altered to give her a trim of {{convert|3+1/2|ft|m}} by the stern.
+
+===Armament===
+Her armament was carried in a midships armoured compartment which, when used in subsequent designs, became known as a box battery. The designed armament of seventeen guns was discarded, and the offensive power of the ship was concentrated into four 100-pounder [[Somerset cannon|Somerset smoothbore cannon]], which were at the time the most powerful guns afloat. While these guns were certainly much more effective against armour than smaller pieces, whether a two-gun broadside would have prevailed against more generously armed ironclads is open to question.
+
+For the first time, in this ship, a degree of axial fire was possible from broadside guns. The hull sides were recessed at either end of the battery, and gunports were constructed facing fore and aft to which the guns could be moved. Moving the guns in anything other than calm weather was a hazardous procedure.
+
+The Somerset smoothbore cannon were replaced in 1870 with four [[RML_7_inch_gun#RML_7_inch_6.C2.BD_ton_gun|7-inch (180-mm) 6½-ton muzzle-loading rifles]],&lt;ref name=RW/&gt; largely because of the difficulty in working and controlling the guns.
+
+===Armour===
+Once completed as an ironclad, she featured a full-length {{convert|4+1/2|in|cm|adj=on}} armour belt to a depth of {{convert|10|ft|m}}.  An armoured box battery was provided on the main deck with the same thickness of armour. The iron armour was backed by {{convert|19+1/2|in|cm}} of [[teak]].&lt;ref name=RW/&gt;
+
+===Propulsion===
+''Research'' was fitted with a 2-cylinder [[Boulton and Watt]] horizontal single-expansion direct-acting steam engine of 200 [[nominal horsepower]].  Steam was provided by two tubular boilers, and the screw, which was {{convert|12|ft|m|0}} in diameter, could be hoisted clear of the water for better performance under sail. The total power of {{convert|937|ihp|kW}} (after a refit in 1869 this was increased to 1,040 ihp) was sufficient to propel her at just over {{convert|10|kn|km/h|lk=in}}.  She carried 130 tons of coal.&lt;ref name=RW/&gt;
+
+==Construction==
+Having been laid down on 3 September 1861, approval was given for her conversion to an ironclad on 1 September 1862.  She was launched from [[Pembroke Dockyard]] on 15 August 1863 and commissioned on 6 April 1864.&lt;ref name=RW/&gt;
+
+==Assessment==
+''Research'' rolled excessively, and was normally retained in harbour during the winter months. Although [[Edward James Reed|Edward Reed]], her designer, had expected great things of her, the ''Standard'' of 27 October 1865 said &quot;probably the very worst vessel, both as a fighting machine and a sea-boat, that ever yet went out of a dockyard of any nation pretending to a maritime reputation&quot;.
+
+==Service==
+She served in the Channel Fleet from 1864 to 1866, and in the Mediterranean from 1871 to 1878. 
+
+In January 1868, while on patrol duties at the south coast of Ireland, she grounded near [[Cork Harbour]] while giving chase to an American ship, ''Alaska''.  During the subsequent [[court martial]] it was demonstrated that the ship had not in fact grounded on Daunt Rock, but instead on the wreckage of the steamer ''City of New York'', which had wrecked near the rock a year previously, and the ship's officers were exonerated.
+
+==Fate==
+She was laid up in 1878 and sold for breaking in 1884.&lt;ref name=RW&gt;Winfield (2004) p.238&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==References==
+{{reflist}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor=Gardiner, Robert |publisher=Conway Maritime Press|location=Greenwich|date=1979|isbn=0-8317-0302-4}}
+*{{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, MD|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+*{{winfield}}
+*{{cite web|url=http://www.corkshipwrecks.net/55g%20HMS%20Research.htm|title=Shipwrecks of Cork Harbour|date=2 February 2010|accessdate=29 April 2013}}
+
+{{Camelion class sloop}}
+
+{{DEFAULTSORT:Research}}
+[[Category:Pembroke-built ships]]
+[[Category:1863 ships]]
+[[Category:Sloops of the Royal Navy]]</text>
+      <sha1>du7j9faglamksisgl3rhu6ut4fpz9yo</sha1>
+    </revision>
+  </page>
+</mediawiki>

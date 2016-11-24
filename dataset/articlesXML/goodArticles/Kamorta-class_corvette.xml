@@ -1,0 +1,239 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kamorta-class corvette</title>
+    <ns>0</ns>
+    <id>10722115</id>
+    <revision>
+      <id>750738640</id>
+      <parentid>750738528</parentid>
+      <timestamp>2016-11-21T15:21:32Z</timestamp>
+      <contributor>
+        <username>UY Scuti</username>
+        <id>19500131</id>
+      </contributor>
+      <minor/>
+      <comment>/* Export */ Spelling/grammar correction</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22963">{{good article}}
+{{Use British English|date=March 2013}}
+{{Use dmy dates|date=March 2013}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image =[[File:INS Kamorta (P28) during trials.JPG|300px]]
+|Ship caption=INS ''Kamorta'' during sea trials
+}}
+{{Infobox ship class overview
+|Name= ''Kamorta'' class
+|Builders= [[Garden Reach Shipbuilders and Engineers]]
+|Operators= {{navy|India}}                 
+|Class before=*{{sclass-|Kora|corvette}} by precedence
+*{{sclass-|Abhay|corvette}} by role.
+|Class after= Project 28A (guided missile corvettes)(planned)&lt;ref name=&quot;globalsecurity&quot;&gt;{{cite news|last1=Pike|first1=John|title=Project 28 ASW Corvette|url=http://www.globalsecurity.org/military/world/india/p-28.htm|accessdate=18 August 2016|work=www.globalsecurity.org}}&lt;/ref&gt;
+|Subclasses=
+|Cost= {{INRConvert|78|b|0}}&lt;ref name=&quot;ecitimes&quot;&gt;{{cite news|title=INS Kavaratti: Anti-submarine warfare class stealth corvette launched - The Economic Times|url=http://economictimes.indiatimes.com/news/defence/ins-kavaratti-anti-submarine-warfare-class-stealth-corvette-launched/articleshow/47341938.cms|accessdate=18 August 2016|work=economictimes.indiatimes.com}}&lt;/ref&gt;
+|Built range= 
+|In service range= 
+|In commission range=
+|Total ships building= 2
+|Total ships planned= 4&lt;ref name=&quot;ecitimes&quot;/&gt;
+|Total ships completed= 2&lt;ref name=&quot;dna2&quot;&gt;{{cite news|title=INS Kadmatt commissioned; Navy Chief RK Dhowan stresses on indigenisation {{!}} Latest News &amp; Updates at Daily News &amp; Analysis|url=http://www.dnaindia.com/india/report-ins-kadmatt-commissioned-navy-chief-rk-dhowan-stresses-on-indigenisation-2163226|accessdate=18 August 2016|work=DNA|date=7 January 2016}}&lt;/ref&gt;
+|Total ships cancelled=
+|Total ships active= 2
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= 
+|Ship type= [[Anti-submarine warfare]] [[corvette]]
+|Ship displacement= {{convert|3500|t}} full load&lt;ref name=&quot;IN&quot;&gt;{{cite web|title=INS Kadmatt commissioned at Visakhapatnam {{!}} Indian Navy|url=http://indiannavy.nic.in/content/ins-kadmatt-commissioned-visakhapatnam|website=indiannavy.nic.in|accessdate=18 August 2016}}&lt;/ref&gt;
+
+|Ship tons burthen=
+|Ship length= {{convert|109|m|ft|abbr=on}}&lt;ref name=&quot;IN&quot;/&gt;
+|Ship beam= {{convert|13.7|m|ft|abbr=on}}&lt;ref name=&quot;IN&quot;/&gt;
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=*4 × Pielstick 12 PA6 STC Diesel engines
+*{{convert|20,384|hp|abbr=on}}&lt;ref name=&quot;aermech&quot;&gt;{{cite news|title=INS Kamorta India’s First Indigenous built Anti-Submarine Stealth Corvettes,Warship,Indian navy - AerMech.IN|url=http://aermech.in/ins-kamorta-indias-first-indigenous-built-anti-submarine-stealth-corvetteswarshipindian-navy/|accessdate=18 August 2016|work=aermech.in|date=6 November 2015}}&lt;/ref&gt;
+|Ship propulsion=
+*[[CODAD]], [[DCNS (company)|DCNS]] raft mounted gearbox
+|Ship sail plan=
+|Ship speed= {{convert|31.8|kn|abbr=on}}&lt;ref name=&quot;aermech&quot;/&gt;
+|Ship range= {{convert|3450|nmi|km|lk=in|-3}} at {{convert|25|kn|km/h|abbr=on}}&lt;ref name=&quot;janes&quot;&gt;{{cite news|title=Indian Navy commissions second Kamorta-class ASW corvette {{!}} IHS Jane's 360|url=http://www.janes.com/article/57037/indian-navy-commissions-second-kamorta-class-asw-corvette|accessdate=18 August 2016|work=www.janes.com}}&lt;/ref&gt;
+|Ship endurance= {{convert|3995|nmi}}&lt;ref name=&quot;aermech&quot;/&gt;
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement= 193 (13 officers)&lt;ref name=&quot;janes&quot;/&gt;
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=*1 × HUMSA-NG bow-mounted sonar&lt;ref name=&quot;janes&quot;/&gt;
+*1 × [[Central acquisition radar (3D-CAR)]]&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × EL/M-2221 STGR fire-control radar&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL Shikari&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL Ajanta&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × Hull mounted radar array (HUMSA)&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL RAWL02 (Signal LW08) antenna communication grid – Gigabit Ethernet-based integrated ship borne data network, with a fibre optic cable backbone running through the vessel&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × Atlas Elektronik towed array sonar (to be fitted)&lt;ref name=&quot;janes&quot;/&gt;
+|Ship EW= Bomber Electronic warfare (EW) suites – BEL Sanket Mk III,&lt;ref name=&quot;aermech&quot;/&gt; [[Kavach|Kavach naval decoy system]] and DESEAVER MK-II
+|Ship armament=*1 × [[OTO Melara 76 mm]] Super Rapid Gun Mount (SRGM)
+*2 × [[AK-630]]M [[close-in weapon system]] (CIWS)
+*2 × [[RBU-6000]] (IRL) anti-submarine rocket launcher
+*4 × 533 mm [[Torpedo tubes]]&lt;ref name=&quot;janes.com&quot;&gt;{{cite web|url=http://www.janes.com/article/57037/indian-navy-commissions-second-kamorta-class-asw-corvette|title=Indian Navy commissions second Kamorta-class ASW corvette {{!}} IHS Jane's 360|website=www.janes.com|access-date=2016-04-27}}&lt;/ref&gt;
+|Ship armour=
+|Ship armor =
+|Ship aircraft= 1 × [[Westland Sea King]] Mk.42B
+|Ship aircraft facilities= Rail-less helo traversing system and foldable hangar door&lt;ref name=&quot;aermech&quot;/&gt;
+|Ship notes=
+}}
+|}
+The '''''Kamorta''-class corvettes''' or '''Project 28''' are a class of [[anti-submarine warfare]] [[corvette]]s currently in service with the [[Indian Navy]]. Built at [[Garden Reach Shipbuilders &amp; Engineers]] (GRSE), [[Kolkata]], they are the first anti-submarine warfare [[Stealth ship|stealth]] corvettes to be built in [[India]].&lt;ref name=&quot;dnainida&quot;&gt;{{cite news|title=INS Kamorta: All you need to know about India's indigenous warship {{!}} Latest News &amp; Updates at Daily News &amp; Analysis|url=http://www.dnaindia.com/india/report-ins-kamorta-all-you-need-to-know-about-india-s-indigenous-warship-2013021|accessdate=17 August 2016|work=dna|date=23 August 2014}}&lt;/ref&gt; ''Project 28'' was approved in 2003, with construction of the lead ship, [[INS Kamorta]] commencing on 12 August 2005. Two of the four corvettes, INS Kamorta and [[INS Kadmatt]] were commissioned in 2014 and 2016 respectively. The remaining two, [[INS Kiltan]] and [[INS Kavaratti]] are under construction and slated to be completed by 2017.&lt;ref&gt;{{cite web|url=http://www.dnaindia.com/report.asp?newsid=1239890|title=Indian Navy to get four new destroyers|date=17 March 2009|publisher=DNA|work=New Corvettes|accessdate=27 September 2014}}&lt;/ref&gt;
+
+The platform and major internal systems of this class of corvettes are indigenously designed and built.&lt;ref name=&quot;globalsecurity&quot;/&gt; The corvettes are named after the islands in the [[Lakshadweep archipelago]].
+
+The ''Kamorta'' class corvettes are intended to succeed the [[Kora-class corvette]] by precedence&lt;ref name=&quot;NT&quot;&gt;{{cite news|title=Kamorta Class ASW Corvettes|url=http://www.naval-technology.com/projects/kamorta-class-asw-corvettes/|accessdate=18 August 2016|work=Naval Technology}}&lt;/ref&gt; and [[Abhay-class corvette]] by role.
+
+==Construction==
+The order for four ''Kamorta''-class corvettes were placed in 2003 by the Indian Navy. Construction of the lead ship, INS Kamorta began in the year 2005 and the [[keel]] was laid down in 2006 at Garden Reach Ship Builders and Engineers, Kolkata. The ship was launched in the year 2010 and was inducted into the navy in 2014 after a series of delays.&lt;ref name=&quot;globalsecurity&quot;/&gt; Construction of the second ship in the row, INS Kadmatt followed and the keel was laid in 2007. The corvette was launched in 2011 and was inducted in the early 2016. INS Kiltan was laid down in 2010 and launched in 2013. While the last ship of its class, INS Kavaratti was laid down in 2012 and launched in 2015.&lt;ref name=&quot;NT&quot;/&gt; Both the ships are expected to be completed by the end of 2017.&lt;ref name=&quot;dnainida&quot;/&gt;
+
+''Project 28's'' objective was to enhance localization and development of warship construction industry in India. The navy asked the Indian industries to deliver equipment of higher sophistication levels than usual. This led to some unforeseen delays in the product delivery, and struggles perfecting the products.&lt;ref name=bs-privsector&gt;{{cite web|url=http://www.business-standard.com/india/news/warship-project-delayed-to-buildprivate-sector/365553/ |title=Warship project delayed to build up private sector |publisher=''Business Standard'' |last=Shukla |first=Ajai |date=1 August 2009 |accessdate=27 September 2014}}&lt;/ref&gt;
+
+All the ships of this class are built using DMR 249A special grade high-tensile steel,&lt;ref name=&quot;IN&quot;/&gt; produced by the state-owned [[Steel Authority of India Limited]] (SAIL), and [[carbon fiber reinforced plastic]] (CFRP) materials.&lt;ref name=&quot;NT&quot;/&gt; The main machinery is raft mounted, and each gear unit and its associated engines are mounted on a common raft. The diesel engines are license built by [[Kirloskar]] under [[SEMT Pielstick]] of France. [[DCNS (company)|DCNS]] supplies the noise-suppressing raft-mounted gearbox for [[CODAD]] propulsion. [[Wärtsilä]] India manufactures the low-vibration diesel alternators to power the on-board electronics.&lt;ref name=&quot;bs-privsector&quot;/&gt;&lt;ref&gt;{{cite news|title=Bharat-Rakshak.com :: NAVY - Project 28 Class|url=http://www.bharat-rakshak.com/NAVY/ships/future/188-project-28.html|work=bharat-rakshak.com|archiveurl=https://web.archive.org/web/20140222055851/http://www.bharat-rakshak.com/NAVY/Ships/Future/188-Project-28.html|archivedate=22 February 2014}}&lt;/ref&gt;
+
+[[File:Project 28 Kamorta class corvette CGI.png|thumb|300px|Indian Navy's computer generated design of the Project 28 ''Kamorta''-class corvette]]
+[[File:Defence Minister Arun Jaitely, Admiral Robin Dhowan and other dignitaries onboard INS Kamorta (2).jpg|thumb|300px|INS ''Kamorta'' commissioning ceremony]]
+ 
+The ships also includes an integrated ship management system (ISMS) from [[L-3 Communications|L-3]] MAPPS which combines an [[integrated platform management system]] and bridge management system into a single integrated system.&lt;ref&gt;{{cite web|url=http://www.mapps.l-3com.com/newsletters/MCN21.pdf |title=The Power of Two: Combined IPMS + IBS for the Indian Navy P28 Stealth Corvettes |publisher=MCS News |issue=21 |date=June 2010 |accessdate=27 September 2014}}&lt;/ref&gt;
+
+INS Kiltan and INS Kavaratti  are to be more advanced than their elder ships. In a first, [[composite material]]s, imported from [[Kockums]], Sweden, are used for the construction of the [[superstructure]]s. This resulted in increased stealth features, reduced weight relative to typical superstructures built with steel, anti-corrosive and fire resistant. It's also projected for the ships to have some additional armament and new features.&lt;ref&gt;{{cite web|title = GRSE’s last two ASW corvettes to be very advanced: Navy - Times of India|url = http://timesofindia.indiatimes.com/india/GRSEs-last-two-ASW-corvettes-to-be-very-advanced-Navy/articleshow/50288359.cms|website = The Times of India|accessdate = 2016-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = INS Kavaratti launched - Times of India|url = http://timesofindia.indiatimes.com/city/kolkata/INS-Kavaratti-launched/articleshow/47346159.cms|website = The Times of India|accessdate = 2016-01-01}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Navy experimenting with composite superstructure for warships - The Economic Times|url = http://economictimes.indiatimes.com/news/defence/navy-experimenting-with-composite-superstructure-for-warships/articleshow/47056945.cms|website = The Economic Times|accessdate = 2016-01-01}}&lt;/ref&gt;
+
+==Design and Description==
+In 2003, under the code name ''Project 28'', the Indian Navy placed an order for four ASW corvettes.&lt;ref name=&quot;NT&quot;/&gt; The corvette's design was originally planned to be based on the [[Russia]]n corvette [[Steregushchy-class corvette|''Project 2038.2'']], however the basic design was later provided by the Indian Navy's Directorate of Naval Design, followed by the detailed design by GRSE.&lt;ref name=gs-p28&gt;{{cite web|url=http://www.globalsecurity.org/military/world/india/p-28.htm|title=Project 28 ASW Corvette |publisher=globalsecurity.org |date=27 February 2014 |accessdate=27 September 2014}}&lt;/ref&gt; The design includes many [[stealth ship]] features, including reductions in [[acoustic signature]] and vibration of the vessels.&lt;ref&gt;{{cite web|url=http://www.georgians.in/article_detail.asp?aid=307 |title=Anti-submarine corvette for Navy next year |first=Amarjeet |last=Malik |publisher=General Military School |work=Georgians News |date= |accessdate=27 September 2014 |archiveurl=https://web.archive.org/web/20150224095042/http://www.georgians.in/article_detail.asp?aid=307 |archivedate=24 February 2015 |deadurl=yes}}&lt;/ref&gt;
+
+The class incorporates some major features including but not limited to the 'X'-shaped hull form to improve stealth, a raft-mounted propulsion system to reduce vibration, and an infrared signature suppression system.&lt;ref name=&quot;janes&quot;/&gt; It also includes networks such as the Total Atmospheric Control System (TACS), Integrated Platform Management System (IPMS), Integrated Bridge System (IBS), Battle Damage Control System (BDCS) and Personnel Locator System (PLS). The ships also include technology that enables them to fight in Nuclear, Biological and Chemical (NBC) warfare scenarios. The Indian Navy claims that the indigenization achieved in these ships is about 90%.&lt;ref name=&quot;IN&quot;/&gt;
+
+===General characteristics and propulsion===
+The [[Length overall|overall]] length of the ''Kamorta''-class corvettes is {{convert|109|m|abbr=on}}, and the [[Beam (nautical)|beam]] spans {{convert|13.7|m|abbr=on}}. The ships displace about {{convert|2500|t}} at standard load and {{convert|3500|t}} when fully loaded. Each ship compliments 180 sailors and 13 officers.&lt;ref name=&quot;janes&quot;/&gt;
+
+They are propelled by four Pielstick 12 PA6 STC Diesel engines, each with a power of {{convert|5,096|hp|abbr=on}} in CODAD configuration. They also have two controllable pitch propellers which helps the ship achieve maximum speeds in excess of {{convert|25|kn}}.&lt;ref name=&quot;IN&quot;/&gt;&lt;ref name=&quot;NT&quot;/&gt;
+
+===Electronics and sensors===
+The ''Kamorta''-class corvettes boast a wide variety of sensors. Given below are the list of known sensors in the corvette:
+
+*1 × HUMSA-NG bow-mounted sonar&lt;ref name=&quot;janes&quot;/&gt;
+*1 × [[Central acquisition radar (3D-CAR)]]&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × EL/M-2221 STGR fire-control radar&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL Shikari&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL Ajanta&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × Hull mounted radar array (HUMSA&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × BEL RAWL02 (Signal LW08) antenna communication grid – Gigabit Ethernet-based integrated ship borne data network, with a fibre optic cable backbone running through the vessel&lt;ref name=&quot;aermech&quot;/&gt;
+*1 × Atlas Elektronik towed array sonar (to be fitted)&lt;ref name=&quot;janes&quot;/&gt;
+
+=== Armament ===
+The armament of the class includes a license-built [[OTO Melara 76 mm]] Super Rapid Gun in a stealth mount and a weapons layout similar to what is found on the {{sclass-|Talwar|frigate|0}} and {{sclass-|Shivalik|frigate}}s, two [[Larsen &amp; Toubro]] built derivatives of the [[RBU-6000]] [[anti-submarine rocket]] launcher, as well as Larsen &amp; Toubro torpedo tube launchers, and a pair of [[AK-630]]M [[close-in weapon system]] (CIWS). The [[Ship gun fire-control system|fire-control]] system is the Bharat Electronics IAC Mod C system.&lt;ref name=&quot;janes.com&quot;&gt;{{cite web|url=http://www.janes.com/article/57037/indian-navy-commissions-second-kamorta-class-asw-corvette|title=Indian Navy commissions second Kamorta-class ASW corvette {{!}} IHS Jane's 360|website=www.janes.com|access-date=2016-04-27}}&lt;/ref&gt;
+
+There is an option on the ship to include [[surface-to-air missile]]s (SAM). But it is unclear as to which SAM will be integrated into the ''Kamorta''-class corvette. Options include [[Barak 1]], [[Barak 8]], and the [[MICA (missile)|VL-MICA]].&lt;ref name = &quot;aermech&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.business-standard.com/article/news-ians/indian-navy-test-fires-missile-developed-with-israel-115122900967_1.html|title=Indian Navy test-fires missile developed with Israel|accessdate=2015-12-29}}&lt;/ref&gt;&lt;ref name=&quot;mlw&quot;&gt;{{cite news|title=The reasons why Philippines decided to buy the &quot;Karmota Class&quot; frigate of India|url=http://www.manilalivewire.com/2016/04/the-reasons-why-philippines-decided-to-buy-the-karmota-class-frigate-of-india/|accessdate=19 August 2016|work=Manila Livewire|language=en-us}}&lt;/ref&gt; The corvette can hold one helicopter, which currently is an [[Westland Sea King]] Mk.42B helicopter.&lt;ref name=&quot;IN&quot;/&gt;
+
+==Ships of the class==
+All the ships names of the class are reincarnations of ships from the previous {{sclass-|Arnala|corvette}}s which are considered to be the spiritual predecessors of the ''Kamorta'' class.&lt;ref&gt;{{cite web |url=http://ajaishukla.blogspot.in/2014/08/india-gets-its-first-90-per-cent.html |title=India gets its first &quot;90 per cent indigenous&quot; warship|work=Business Standard|location=Visakhapatnam|date=24 August 2014|first=Ajai |last=Shukla}}&lt;/ref&gt;
+
+{| class=&quot;toccolours&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;2&quot; style=&quot;margin:auto; border-collapse:collapse;&quot;
+|-  style=&quot;background:#069; color:white;&quot;
+! Name !! Pennant !! Laid down !! Launched !! Commissioned !! Home-port
+|-
+| {{INS|Kamorta}} || P 28 || 20 November 2006 || 19 April 2010 || 23 August 2014&lt;ref&gt;{{cite news|author=The Times of India |url=http://timesofindia.indiatimes.com/india/Navy-to-commission-two-ships-next-month/articleshow/38232147.cms |title=Navy to commission two ships next month|publisher=''Times of India'' |date=12 July 2014 |accessdate=27 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.navyrecognition.com/index.php/news/defence-news/year-2014-news/august-2014-navy-naval-forces-maritime-industry-technology-security-global-news/1961-first-indigenously-built-stealth-asw-corvette-ins-kamorta-commissioned-in-indian-navy.html |title=First Indigenously Built Stealth ASW Corvette ‘INS Kamorta’ Commissioned in Indian Navy |publisher=navyrecognition.com |date=23 August 2014 |accessdate=27 September 2014}}&lt;/ref&gt; || [[Visakhapatnam]]
+|-
+| {{INS|Kadmatt}}&lt;ref name=autogenerated1&gt;{{cite web|url=http://livefist.blogspot.com/2011/10/india-launches-2nd-home-built-p28-anti.html |title=India Launches 2nd Home-built P28 Anti-Sub Corvette |publisher=livefistdefence.com |date=25 October 2011 |accessdate=27 September 2014}}&lt;/ref&gt; ||P 29 || 27 September 2007 || 24 October 2011&lt;ref&gt;{{cite news|url=http://www.thehindu.com/news/national/article2096916.ece | title=Delivery of INS Kamorta next June | publisher=''Times of India'' | last=Anandan |first=S. | date=12 June 2011 | accessdate=27 September 2014}}&lt;/ref&gt; || 7 January 2016&lt;ref&gt;{{cite news|author=Rajib Chowdhuri|publisher=Asian Age|url=http://www.asianage.com/kolkata/anti-sub-warship-join-navy-fleet-today-368|title=Anti-sub warship to join Navy fleet today|date=26 November 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = ASW corvette INS Kadmatt to be commissioned at Vizag tomorrow - The Economic Times|url = http://economictimes.indiatimes.com/news/defence/asw-corvette-ins-kadmatt-to-be-commissioned-at-vizag-tomorrow/articleshow/50470206.cms|website = The Economic Times|accessdate = 2016-01-06}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title = Navy chief to commission INS Kadmatt today - The Hans India|url = http://www.thehansindia.com/posts/index/2016-01-06/Navy-chief-to-commission-INS-Kadmatt-today-198429|website = www.thehansindia.com|accessdate = 2016-01-06}}&lt;/ref&gt; || [[Visakhapatnam]]
+|-
+| {{INS|Kiltan}} || P 30 || 10 August 2010&lt;ref&gt;{{cite web|url=http://www.grse.nic.in/Keel%20Laying.pdf |title=Keel Laying – Anti Submarine Warfare Corvette GRSE Yard No. 3019 |deadurl=yes |archiveurl=https://web.archive.org/web/20110719195011/http://www.grse.nic.in/Keel%20Laying.pdf |archivedate=19 July 2011 }}&lt;/ref&gt; || 26 March 2013&lt;ref&gt;{{cite web|url=http://livefist.blogspot.com/2013/03/indian-navys-3rd-p28-asw-corvette.html | title=Indian Navy's 3rd P28 ASW Corvette Kiltan Launched |publisher=livefistdefence.com | date=26 March 2013 | accessdate=27 September 2014}}&lt;/ref&gt; || 2016 (expected) ||tbd
+|-
+| {{INS|Kavaratti}}&lt;ref name=autogenerated1 /&gt; || P 31|| 20 January 2012 || 19 May 2015 || 2017 (expected) || tbd
+|}
+
+==Export==
+Under a modernization program, the [[Philippines Navy]] sought to purchase two light frigates, each displacing {{convert|2000|t}}, spanning {{convert|109|m|abbr=on}} in length, capable of cruising at {{convert|25|kn|abbr=on}} and be able to sail in [[sea state]] 7. In the bidding process, GRSE was selected as the lowest bidder among the contenders, [[Daewoo Shipbuilding &amp; Marine Engineering]], [[Hyundai Heavy Industries]] and [[Navantia]]. The deal was said to cost more than {{INRconvert|21.57|b|0}}.&lt;ref name=&quot;DefenseNews&quot;&gt;{{cite news|title=grse-export-light-frigates-philippines {{!}} DefenseNews|url=http://www.defensenews.com/story/defense/international/asia-pacific/2016/05/12/grse-export-light-frigates-philippines/84280572/|accessdate=19 August 2016|work=DefenseNews}}&lt;/ref&gt;&lt;ref name=&quot;BS&quot;&gt;{{cite news|last1=India|first1=Press Trust of|title=GRSE close to sealing deal with Philippines on warship export|url=http://www.business-standard.com/article/pti-stories/grse-close-to-sealing-deal-with-philippines-on-warship-export-116060800588_1.html|accessdate=19 August 2016}}&lt;/ref&gt; However, based on a post qualification assessment, GRSE was disqualified on the grounds of not meeting the financial capability requirements &lt;ref name=&quot;The Standard&quot;&gt;{{cite news|title=Losing bidders buck P18-b Navy deal|url=http://thestandard.com.ph/news/-main-stories/209491/losing-bidders-buck-p18-b-navy-deal-.html| date=30 June 2016| accessdate=12 November 2016}}&lt;/ref&gt;
+
+==Criticisms==
+At 3400 ton, the vessel is argued to be a small frigate rather than a corvette, and poorly armed. Its also been alleged that the Indian Navy wanted a vessel with the endurance of a 3400 ton frigate and an armament of a 1200 ton corvette.&lt;ref name=&quot;GlobalSecurity&quot;&gt;{{cite news|title=Kamorta Project 28 ASW Corvette - Design|url=http://www.globalsecurity.org/military/world/india/p-28-design.htm|accessdate=12 November 2016|work=Global Security|language=en-us}}&lt;/ref&gt;
+
+==See also==
+*[[List of active Indian Navy ships]]
+* [[Future ships of the Indian Navy]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons category|Kamorta class corvette}}
+* {{cite web|title=Bharat-Rakshak.com :: NAVY - Project 28 Class|url=http://www.bharat-rakshak.com/NAVY/Ships/Future/188-Project-28.html|website=Bharat-Rakshak.com|archiveurl=https://web.archive.org/web/20140222055851/http://www.bharat-rakshak.com/NAVY/Ships/Future/188-Project-28.html|archivedate=22 February 2014|deadurl=yes}}
+* [http://www.globalsecurity.org/military/world/india/p-28.htm P-28 Specifications – Global Security]
+* [http://defencyclopedia.com/2015/09/18/kamorta-class-analysis-of-indias-deadly-anti-submarine-corvette/ Kamorta Class Analysis - Defencyclopedia]
+
+{{Kamorta-class corvette}}
+{{Ship classes of the Indian Navy}}
+{{Corvettes_of_the_Indian_Navy}}
+
+{{DEFAULTSORT:Project 28 Anti-Submarine Warfare Corvette}}
+[[Category:Kamorta-class corvettes| ]]
+[[Category:Naval ships of India]]
+[[Category:Ships built in India]]</text>
+      <sha1>eli65yk80e0csawx1l4ltxb3w2iz6eb</sha1>
+    </revision>
+  </page>
+</mediawiki>

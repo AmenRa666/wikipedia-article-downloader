@@ -1,0 +1,195 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Emperor of India</title>
+    <ns>0</ns>
+    <id>488447</id>
+    <revision>
+      <id>708921416</id>
+      <parentid>687566909</parentid>
+      <timestamp>2016-03-08T05:34:50Z</timestamp>
+      <contributor>
+        <username>Hazard-Bot</username>
+        <id>12923076</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots|Bot]]: Adding {{Research help|Mil}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23081">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[Image:HMS Emperor of India LOC 00192u.jpg|300px|HMS Emperor of India]]
+|Ship caption=''Emperor of India'' in October 1920
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Emperor of India''
+|Ship namesake=
+|Ship ordered=1911
+|Ship builder=[[Vickers]], [[Barrow-in-Furness]]
+|Ship laid down=31 May 1912
+|Ship launched= 27 November 1913
+|Ship commissioned=10 November 1914
+|Ship decommissioned=1931
+|Ship fate= Sunk as target ship 1931, then raised and scrapped 1932
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type={{sclass-|Iron Duke|battleship}}
+|Ship displacement=*Normal: {{convert|25000|LT|t|abbr=on|-1}} (normal)
+*Full load: {{convert|29560|LT|t|abbr=on|-1}}
+|Ship length={{convert|622|ft|9|in|m|abbr=on}} [[Length overall|o/a]]
+|Ship beam={{convert|90|ft|m|abbr=on|1}}
+|Ship draught={{convert|29|ft|6|in|m|abbr=on}}
+|Ship power={{convert|29000|shp|kW|abbr=on}}
+|Ship propulsion=*4 × [[Parsons Marine Steam Turbine Company|Parsons]] [[Steam turbine|turbine]]s
+*18 × [[Babcock &amp; Wilcox]] boilers
+|Ship speed={{convert|21.25|kn|mph km/h|abbr=on|1}}
+|Ship range={{convert|7800|nmi|mi km|abbr=on|0}} at {{convert|10|kn|mph km/h|abbr=on|1}}
+|Ship complement=995&amp;ndash;1,022
+|Ship armament=* 10 × [[BL 13.5 inch Mk V naval gun|BL {{convert|13.5|in|mm|abbr=on|0}}/45 cal Mk V gun]]s
+* 12 × [[BL 6 inch Mk VII naval gun|{{convert|6|in|mm|abbr=on|0}}/45 cal Mk VII gun]]s
+* 2 × [[QF 3 inch 20 cwt|QF {{convert|3|in|mm|abbr=on|0}} 20 cwt]] [[Anti-aircraft warfare|AA]] guns
+* 4 × 3-pounder ({{convert|47|mm|in|abbr=on}}) guns
+* 4 × {{convert|21|in|mm|abbr=on|0}} submerged beam [[torpedo tube]]s
+
+|Ship armour=*[[Belt armor|Belt]]: {{convert|12|in|mm|abbr=on|0}}
+*[[Deck (ship)|Deck]]: {{convert|2.5|in|mm|abbr=on|0}}
+*[[Barbette]]s: {{convert|10|in|mm|abbr=on|0}}
+*[[Gun turret|Turret]]s: {{convert|11|in|mm|abbr=on|0}}
+
+|Ship notes=
+}}
+|}
+'''HMS ''Emperor of India''''' was an {{sclass-|Iron Duke|battleship|2}} of the British [[Royal Navy]]. She was originally to have been named '''''Delhi''''' but was renamed before she was completed, to honour [[George V of the United Kingdom|King George V]], who was also [[Emperor of India]]. The ship was laid down on 31 May 1912 at the [[Vickers]] shipyard, and was launched on 27 November 1913. The finished ship was commissioned a year later in November 1914, shortly after the start of the [[First World War]]. She was armed with a main battery of ten {{convert|13.5|in|adj=on}} guns and was capable of a top speed of {{convert|21.25|kn|lk=in}}.
+
+Upon commissioning, ''Emperor of India'' joined the [[4th Battle Squadron (United Kingdom)|4th Battle Squadron]] of the [[Grand Fleet]], based at [[Scapa Flow]]. She took part in numerous sorties into the northern [[North Sea]] to enforce the blockade of Germany, along with frequent training exercises and gunnery drills. ''Emperor of India'' was in dock for a refit in late May 1916, so she was unavailable for the [[Battle of Jutland]]. The increased danger from [[submarine]]s led both the Grand Fleet and the German [[High Seas Fleet]] to pursue more cautious strategies after Jutland, which led to a less eventful war.
+
+After the war, ''Emperor of India'' was sent to the [[Mediterranean Fleet]], where she became involved in the [[Allied intervention in the Russian Civil War]] in the [[Black Sea]] in 1919&amp;ndash;1921. She remained in the Mediterranean until 1926, when she was transferred to the [[Atlantic Fleet (United Kingdom)|Atlantic Fleet]]. The [[London Naval Treaty]] of 1930 mandated that ''Emperor of India'' and her three [[sister ship]]s be dismantled. In 1931, she and {{HMS|Marlborough|1912|6}} underwent a series of weapons tests that proved to be highly beneficial for future British battleship designs. ''Emperor of India'' was ultimately sold for scrap in February 1932, and was [[ship breaking|broken up]] shortly thereafter.
+
+==Design==
+[[Image:Iron Duke class battleship - Jane's Fighting Ships, 1919 - Project Gutenberg etext 24797.png|thumb|left|Plan of the ''Iron Duke'' class]]
+{{main|Iron Duke-class battleship}}
+
+''Emperor of India'' was {{convert|622|ft|9|in|0}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|90|ft|abbr=on}} and an average [[draft (hull)|draught]] of {{convert|29|ft|6|in|abbr=on|0}}. She displaced {{convert|25000|LT|0}} as designed and up to {{convert|29560|LT|0}} at combat loading. Her propulsion system consisted of four [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s, with steam provided by eighteen [[Babcock &amp; Wilcox boiler]]s. The engines were rated at {{convert|29000|shp|lk=in|0}} and produced a top speed of {{convert|21.25|kn|abbr=on|0}}. Her cruising radius was {{convert|7800|nmi|lk=in|0}} at a more economical {{convert|10|kn|abbr=on|0}}. ''Emperor of India'' had a crew of 995&amp;nbsp;officers and enlisted men, though during wartime this grew to up to 1,022.&lt;ref name=GG31&gt;Gardiner &amp; Gray, p. 31&lt;/ref&gt;
+
+''Emperor of India'' was armed with a main battery of ten [[BL 13.5-inch Mk V naval gun]]s mounted in five twin [[gun turret]]s. They were arranged in two [[superfire|superfiring]] pairs, one forward and one aft; the fifth turret was located [[amidships]], between the funnels and the rear [[superstructure]]. Close-range defence against [[torpedo boat]]s was provided by a secondary battery of twelve [[BL 6 inch Mk VII naval gun|BL 6-inch Mk VII guns]]. The ship was also fitted with a pair of [[QF 3-inch 20 cwt]] anti-aircraft guns and four {{convert|47|mm|abbr=on|0}} 3-pounder guns.&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 20 cwt referring to the weight of the gun.&lt;/ref&gt; As was typical for capital ships of the period, she was equipped with four {{convert|21|in|abbr=on}} [[torpedo tube]]s submerged on the [[broadside]]. ''Emperor of India'' was protected by a main [[armoured belt]] that was {{convert|12|in|abbr=on|0}} thick over the ship's vitals. Her deck was {{convert|2.5|in|abbr=on|0}} thick. The main battery turret faces were {{convert|11|in|abbr=on|0}} thick, and the turrets were supported by {{convert|10|in|abbr=on|0}} thick [[barbette]]s.&lt;ref name=GG31/&gt;
+
+==Service history==
+[[File:HMSEmperorOfIndiaAft13.5inchGuns.jpg|thumb|The aft gun turrets aboard ''Emperor of India'']]
+''Emperor of India'' was laid down at the [[Vickers]] shipyard on 31 May 1912, originally to have been named ''Delhi''. She was launched on 27 November 1913 and christened ''Emperor of India''. The ship was commissioned into the [[Royal Navy]]'s [[Grand Fleet]] under Admiral [[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]] in November 1914 for [[sea trials]], three months after the outbreak of [[World War I]]. The following month she was assigned to the [[4th Battle Squadron]] as the second division [[flagship]], where she served for the first two years of the war.&lt;ref&gt;Gardiner &amp; Gray, pp. 31&amp;ndash;32&lt;/ref&gt;&lt;ref name=B226&gt;Burt 1986, p. 226&lt;/ref&gt; On 1 December, ''Emperor of India'' and her [[sister ship]] {{HMS|Benbow|1913|2}} arrived at the 4th Squadron to begin working up, before being pronounced fit for service with the fleet on 10 December.&lt;ref&gt;Jellicoe, pp. 168&amp;ndash;169, 172&lt;/ref&gt; During this period, the rearmost 6-inch guns were removed from the four ''Iron Duke''-class ships and their casemates were sealed off, as they were too low in the hull and permitted water to continually enter the ship.&lt;ref&gt;Jellicoe, pp. 173&amp;ndash;174&lt;/ref&gt;
+
+===World War I===
+On 23 and 24 December, the 4th and [[2nd Battle Squadron|2nd Squadrons]] conducted gunnery practice north of the [[Hebrides]].&lt;ref&gt;Jellicoe, p. 182&lt;/ref&gt; The following day, the entire fleet sortied for a sweep in the North Sea, which concluded on 27 December; this was ''Emperor of India''{{'}}s first fleet operation.&lt;ref&gt;Jellicoe, pp. 183&amp;ndash;184&lt;/ref&gt; Another round of gunnery drills followed on 10&amp;ndash;13 January 1915 west of the [[Orkneys]] and [[Shetlands]], this time with the entire fleet.&lt;ref&gt;Jellicoe, p. 190&lt;/ref&gt; On the evening of 23 January, the bulk of the Grand Fleet sailed in support of Beatty's Battlecruiser Fleet, but the main fleet did not become engaged in the [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]] that took place the following day.&lt;ref&gt;Jellicoe, pp. 194&amp;ndash;196&lt;/ref&gt; On 7&amp;ndash;10 March, the Grand Fleet conducted a sweep in the northern North Sea, during which it conducted training manoeuvres. Another such cruise took place on 16&amp;ndash;19 March.&lt;ref&gt;Jellicoe, p. 206&lt;/ref&gt; On 11 April, the Grand Fleet conducted a patrol in the central North Sea and returned to port on 14 April; another patrol in the area took place on 17&amp;ndash;19 April, followed by gunnery drills off the Shetlands on 20&amp;ndash;21 April.&lt;ref&gt;Jellicoe, pp. 211&amp;ndash;212&lt;/ref&gt;
+
+[[File:Ammunitioning HMS Emperor of India WWI IWM SP 1872.jpg|thumb|left|Loading shells aboard the ship during the war]]
+
+The Grand Fleet conducted a sweep into the central North Sea on 17&amp;ndash;19 May without encountering any German vessels.&lt;ref&gt;Jellicoe, p. 217&lt;/ref&gt; In mid-June, the fleet conducted another round of gunnery training.&lt;ref&gt;Jellicoe, p. 221&lt;/ref&gt; On 2&amp;ndash;5 September, the fleet went on another cruise in the northern end of the North Sea and conducted gunnery drills.&lt;ref&gt;Jellicoe, p. 243&lt;/ref&gt; Throughout the rest of the month, the Grand Fleet conducted numerous training exercises.&lt;ref&gt;Jellicoe, p. 246&lt;/ref&gt; On 13 October the majority of the fleet conducted another sweep into the North Sea, returning to port on the 15th.&lt;ref&gt;Jellicoe, p. 250&lt;/ref&gt; On 2&amp;ndash;5 November, ''Emperor of India'' participated in another fleet training operation west of the Orkneys.&lt;ref&gt;Jellicoe, p. 253&lt;/ref&gt; Another such cruise took place on 1&amp;ndash;4 December.&lt;ref&gt;Jellicoe, pp. 257&amp;ndash;258&lt;/ref&gt;
+
+The typical routine of gunnery drills and squadron exercises occurred in January.&lt;ref&gt;Jellicoe, pp. 267&amp;ndash;269&lt;/ref&gt; The fleet departed for a cruise in the North Sea on 26 February; Jellicoe had intended to use the [[Harwich Force]] to sweep the [[Heligoland Bight]], but bad weather prevented operations in the southern North Sea. As a result, the operation was confined to the northern end of the sea.&lt;ref&gt;Jellicoe, p. 271&lt;/ref&gt; On the night of 25 March, ''Emperor of India'' and the rest of the fleet sailed from [[Scapa Flow]] to support the Battlecruiser Fleet and other light forces that raided the German [[zeppelin]] base at [[Tondern]]. By the time the Grand Fleet approached the area on 26 March, the British and German forces had already disengaged and a severe gale threatened the light craft. ''Iron Duke'', the fleet flagship, guided the [[destroyer]]s back to Scapa while ''Emperor of India'' and the rest of the fleet retired independently.&lt;ref&gt;Jellicoe, pp. 279&amp;ndash;280&lt;/ref&gt;
+
+[[File:North Sea map-en.png|thumb|upright|Map of the [[North Sea]]]]
+On 21 April, the Grand Fleet conducted a demonstration off [[Horns Reef]] to distract the Germans while the Russian Navy relaid its defensive minefields in the [[Baltic Sea]].&lt;ref&gt;Jellicoe, p. 284&lt;/ref&gt; The fleet returned to Scapa Flow on 24 April and refuelled before proceeding south in response to intelligence reports that the Germans were about to launch a [[Bombardment of Yarmouth and Lowestoft|raid on Lowestoft]]. The Grand Fleet did not arrive in the area until after the German [[High Seas Fleet]] had withdrawn, however.&lt;ref&gt;Jellicoe, pp. 286&amp;ndash;287&lt;/ref&gt;&lt;ref&gt;Marder, p. 424&lt;/ref&gt; On 2&amp;ndash;4 May, the fleet conducted another demonstration off Horns Reef to keep German attention focused on the North Sea.&lt;ref&gt;Jellicoe, pp. 288&amp;ndash;290&lt;/ref&gt; ''Emperor of India'' was not available for the [[Battle of Jutland]] on 31 May &amp;ndash; 1 June, as she was in dock for a refit.&lt;ref name=B226/&gt; Following Jutland, she was transferred to the [[1st Battle Squadron]], where she again served as the second division flagship. She remained in the 1st Squadron for the rest of the war.&lt;ref name=B226/&gt; 
+
+On 18 August, the Germans again sortied, this time to bombard [[Sunderland, Tyne and Wear|Sunderland]]; [[Vice Admiral]] [[Reinhard Scheer]], the German fleet commander, hoped to draw out Beatty's battlecruisers and destroy them. British signals intelligence decrypted German wireless transmissions, allowing Jellicoe enough time to deploy the Grand Fleet in an attempt to engage in a decisive battle. Both sides withdrew, however, after their opponents' [[submarine]]s inflicted losses: the British cruisers {{HMS|Nottingham|1913|2}} and {{HMS|Falmouth|1910|2}} were both torpedoed and sunk by German [[U-boat]]s, and the German battleship {{SMS|Westfalen}} was damaged by the British submarine {{HMS|E23||2}}. After returning to port, Jellicoe issued an order that prohibited risking the fleet in the southern half of the North Sea due to the overwhelming risk from mines and U-boats.&lt;ref&gt;Massie, pp. 682&amp;ndash;684&lt;/ref&gt; Later that year, ''Emperor of India'' was equipped with equipment to handle a [[kite balloon]]. Following the investigation into the Battle of Jutland, the Royal Navy determined that deck protection was insufficient in all of its [[capital ship]]s; as a result, ''Emperor of India'' had an additional {{convert|100|MT|abbr=on}} of armour over the magazines between October and December 1916.&lt;ref&gt;Burt 1986, p. 215&lt;/ref&gt; 
+
+A series of minor modifications followed throughout 1917 and 1918; these included the installation of larger and additional searchlights to improve night combat capabilities, [[funnel cap]]s to reduce smoke interference with the [[spotting top]]s, and [[rangefinder]] baffles that were intended to make it more difficult to estimate the range for enemy gunners. The baffles were later removed in 1918.&lt;ref&gt;Burt 1986, pp. 215&amp;ndash;218&lt;/ref&gt; In late 1917, the Germans began using destroyers and light cruisers to raid the British convoys to Norway; this forced the British to deploy capital ships to protect the convoys. In April 1918, the German fleet sortied in an attempt to catch one of the isolated British squadrons, though the convoy had already passed safely. The Grand Fleet sortied too late to catch the retreating Germans, though the battlecruiser {{SMS|Moltke}} was torpedoed and badly damaged by the [[submarine]] {{HMS|E42}}.&lt;ref&gt;Halpern 1995, pp. 418&amp;ndash;420&lt;/ref&gt;
+
+Following the capitulation of Germany in November 1918, the Allies interned most of the High Seas Fleet in Scapa Flow. The fleet rendezvoused with the British [[light cruiser]] {{HMS|Cardiff|D58|2}}, which led the ships to the Allied fleet that was to escort the Germans to Scapa Flow. The massive fleet consisted of some 370 British, American, and French warships. The fleet remained in captivity during the negotiations that ultimately produced the [[Treaty of Versailles]]. Reuter believed that the British intended to seize the German ships on 21 June 1919, which was the deadline for Germany to have signed the peace treaty. That morning, the Grand Fleet left Scapa Flow to conduct training maneuvers, and while they were away Reuter issued the order to [[Scuttling of the German fleet in Scapa Flow|scuttle the High Seas Fleet]].&lt;ref&gt;Herwig, pp. 254–256&lt;/ref&gt;
+
+===Post-war career===
+[[File:ApproxPositionsWWI-1919.png|thumb|upright|Map of the approximate positions of the Bolshevik and White forces in Russia in 1919]]
+In 1919, ''Emperor of India'' was assigned to the [[Mediterranean Fleet]],&lt;ref name=GG32/&gt; as part of the 4th Battle Squadron, along with her three sisters and two {{sclass-|Centurion|battleship|1}}s. During this period, she served in the [[Black Sea]] during the [[Allied intervention in the Russian Civil War]] to support the [[White movement|Whites]] against the Red [[Bolshevik]]s. Admiral [[Edward Hobart Seymour]], the commander of British forces in the Black Sea, hoisted his flag aboard the ship on 14 April.&lt;ref&gt;Halpern 2011, pp. 7, 34&lt;/ref&gt; The ship bombarded Bolshevik troops on 5 May 1919 outside [[Feodosia|Theodosia]], and later to disrupt the operations of a railway being used to supply the Bolshevik assault on the port.&lt;ref&gt;Halpern 2011, pp. 54&amp;ndash;55&lt;/ref&gt; On 26 March 1920, ''Emperor of India'' provided gunfire support to White Russian forces outside [[Novorossiysk]], along with the French [[armoured cruiser]] {{ship|French cruiser|Waldeck-Rousseau||2}}.&lt;ref&gt;Halpern 2011, p. 186&lt;/ref&gt; Shortly thereafter, ''Emperor of India'' came under fire from an [[armoured train]], prompting the ship to leave the harbour, bound for Theodosia.&lt;ref&gt;Halpern 2011, p. 192&lt;/ref&gt; The ship was also involved in observing the [[Greco-Turkish War (1919–22)|Greco-Turkish War]] of 1919&amp;ndash;22; this included stops in the ports of [[Mitylene]] and [[Smyrna]].&lt;ref&gt;Halpern 2011, p. 434&lt;/ref&gt; 
+
+She returned to Britain for a refit in 1922, during which new long-base rangefinders were installed on &quot;X&quot; turret.&lt;ref&gt;Burt 1986, p. 219&lt;/ref&gt; This was followed by another stint in the Mediterranean Fleet that lasted until 1926. During this period, she took part in a demonstration in Smyrna against Turkish demands that foreign warships leave the port. She was thereafter transferred to the [[Atlantic Fleet (United Kingdom)|Atlantic Fleet]], where she served until 1930. In May 1926, stability tests were conducted with the ship; these provided the basis for a 1927 proposal from the [[Director of Naval Construction]] to add [[anti-torpedo bulge]]s to the four ''Iron Duke''-class ships. The proposal was sent to [[Admiralty#The_Board_of_Admiralty|the Board]] for review, but concerns over the further value of the ships, which were due to be replaced in 1931&amp;ndash;32 under the terms of the [[Washington Naval Treaty]], and the cost of the reconstruction led the Board to cancel it. From July to September 1927, she had a refit in [[HMNB Devonport|Devonport]]. She served as the squadron flagship from June 1929 until January 1931, when she was relieved by ''Marlborough''.&lt;ref name=GG32/&gt;&lt;ref&gt;Burt 1986, pp. 223, 227&lt;/ref&gt;
+
+According to the terms of the [[London Naval Treaty]] of 1930, the four ships of the ''Iron Duke'' class were to be scrapped or demilitarised; ''Emperor of India'' was scheduled to be removed from service in 1931 and broken up for scrap. The ship provided one final service to the Navy by serving as a gunnery target, along with ''Marlborough''. The tests included firing destroyer armament at the upper works at close range to test their effectiveness in a simulated night engagement, direct hits from 13.5-inch shells, aerial attacks, and experiments with flash tightness in the magazines.&lt;ref&gt;Burt 2012, pp. 63&amp;ndash;65&lt;/ref&gt; The main tests for ''Emperor of India'' took place in June off [[Bognor Regis]]. She departed [[Portsmouth]] on 6 June and ran aground on the [[Cymenshore#The_Owers|Owers Bank]]. Salvage efforts proved fruitless, and so the Navy decided to conduct the gunnery tests there. The tests were conduced on 10&amp;ndash;11 June, with her sister ''Iron Duke'', which hit ''Emperor of India'' with twelve 13.5-inch shells over the two days. The first round of shells were fired from {{convert|12000|yd}}, while on the second day the range was increased to {{convert|18000|yd}}.&lt;ref name=B22&gt;Brown, p. 22&lt;/ref&gt; She was refloated later and sold for scrap to the Alloa Shipbreaking Co. on 6 February 1932. She arrived in [[Rosyth]] for demolition on 16 February.&lt;ref name=GG32&gt;Gardiner &amp; Gray, p. 32&lt;/ref&gt;&lt;ref&gt;Burt 1986, p. 227&lt;/ref&gt;
+
+The tests provided invaluable experience that was incorporated into the {{sclass-|King George V|battleship (1939)|5}} and {{sclass-|Lion|battleship|4}}es and {{HMS|Vanguard|23|6}}.&lt;ref&gt;Garzke &amp; Dulin, p. 363&lt;/ref&gt; Of particular importance was a shell that struck ''Emperor of India'' on the bottom edge of the main belt, which penetrated into one of the boiler rooms, where it caused tremendous damage. This showed that the depth of British belt armour was too shallow, which influenced the design of the ''King George V'' class.&lt;ref name=B22/&gt; In addition, the tests with ''Emperor of India'' and ''Marlborough'' highlighted the weaknesses of the deck armour of British battleship designs, particularly over the ammunition magazines, and the other First World War-vintage battleships that continued in service had additional armour installed in subsequent modernisations in the 1930s.&lt;ref&gt;Brown, p. 150&lt;/ref&gt;
+
+==Footnotes==
+{{Research help|Mil}}
+{{Portal|Battleships}}
+;Notes
+{{reflist|group=Note}}
+
+;Citations
+{{reflist|20em}}
+
+==References==
+* {{cite book|last = Brown|first = David Keith|year = 2006|origyear = 2000|title = Nelson to Vanguard: Warship Design and Development, 1923–1945|publisher = Naval Institute Press|location = Annapolis|isbn = 978-1-59114-602-5}}
+*  {{cite book|last=Burt|first=R. A.|title=British Battleships 1919&amp;ndash;1945|publisher=Naval Institute Press|location=Annapolis|year=2012|isbn=9781591140528}}
+*  {{cite book|last=Burt|first=R. A.|title=British Battleships of World War One|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1986|isbn=0-87021-863-8}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+* {{cite book|last1=Garzke|first1=William H.|last2=Dulin|first2=Robert O.|title=Allied Battleships in World War II|year=1980|publisher=Naval Institute Press|location=Annapolis|isbn=0870211005}}
+*{{cite book|last=Halpern|first=Paul G.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis, Maryland|date=1995|isbn=1-55750-352-4}}
+*{{cite book|editor-last=Halpern|editor-first=Paul|title=The Mediterranean Fleet, 1919–1929|year=2011|publisher=Ashgate for the Navy Records Society|series=Publications of the Navy Records Society|volume=158|location=Farnham|isbn=978-1-4094-2756-8}}
+* {{cite book|last=Herwig|first=Holger|year=1998|origyear=1980|title=&quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918|publisher=Humanity Books|location=Amherst|isbn=978-1-57392-286-9}}
+* {{cite book |last=Jellicoe|first=John|authorlink=John Jellicoe, 1st Earl Jellicoe|title=The Grand Fleet, 1914&amp;ndash;1916: Its Creation, Development, and Work|year=1919|location=New York, NY|publisher=George H. Doran Company}}
+* {{cite book |last=Massie|first=Robert K.|authorlink=Robert K. Massie|title=[[Castles of Steel]]|year=2003|location=New York, NY|publisher=Ballantine Books|isbn=0345408780}}
+
+==External links==
+{{Commons category|HMS Emperor of India}}
+
+* [http://www.maritimequest.com/warship_directory/great_britain/battleships/emperor_of_india/hms_emperor_of_india.htm Maritimequest HMS ''Emperor of India'' photo gallery]
+
+{{Iron Duke class battleship}}
+
+{{DEFAULTSORT:Emperor Of India (1913)}}
+[[Category:Iron Duke-class battleships]]
+[[Category:Vickers]]
+[[Category:Barrow-built ships]]
+[[Category:1913 ships]]
+[[Category:World War I battleships of the United Kingdom]]
+[[Category:Royal Navy ship names]]
+
+{{Good article}}</text>
+      <sha1>bzfhs4gzhj9l5quiug25iroz4b4x6hr</sha1>
+    </revision>
+  </page>
+</mediawiki>

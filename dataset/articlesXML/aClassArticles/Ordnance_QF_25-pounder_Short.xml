@@ -1,0 +1,163 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ordnance QF 25-pounder Short</title>
+    <ns>0</ns>
+    <id>23021326</id>
+    <revision>
+      <id>684934528</id>
+      <parentid>678992417</parentid>
+      <timestamp>2015-10-09T18:19:46Z</timestamp>
+      <contributor>
+        <ip>70.139.212.201</ip>
+      </contributor>
+      <comment>/* Service */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="17030">{{Infobox Weapon
+| name               = 25-pounder Short Mark I
+| image              = [[File:25 pounder Short 1944.jpg|300px|alt=An artillery gun mounted on a wheeled gun carriage|An Ordnance QF 25-pounder Short in 1944]]
+| caption            = An Ordnance QF 25-pounder Short in 1944
+| origin             = {{flagcountry|Australia}} / {{flagcountry|United Kingdom}}
+| type               = [[Howitzer|Field gun / howitzer]]
+&lt;!-- Type selection --&gt;
+| is_ranged          = yes
+| is_artillery       = yes
+| is_UK              = yes
+&lt;!-- Service history --&gt;
+| service            = 1943–1946&lt;ref name=&quot;Dennis_50&quot;&gt;Dennis et al. (2008), p. 50&lt;/ref&gt;
+| used_by            = [[Australian Army]]
+| wars               = [[World War II]]
+&lt;!-- Production history --&gt;
+| designer           =
+| design_date        = 1942
+| manufacturer       =
+| unit_cost          = [[Australian pound|£]]3,300&lt;ref name=&quot;ABS_1066&quot;&gt;Commonwealth Bureau of Census and Statistics (1947), p. 1066&lt;/ref&gt;
+| production_date    = 1943–1944&lt;ref name=&quot;Mellor_239&quot;&gt;Mellor (1958), p. 239&lt;/ref&gt;&lt;ref&gt;Gower (1981), p. 94&lt;/ref&gt;
+| number             = 213
+| variants           =
+&lt;!-- General specifications --&gt;
+| spec_label         =
+| weight             = {{convert|1,315|kg|lb|abbr=on}} (gun and carriage)
+| length             =  {{convert|49.8|in|m}}
+| part_length        =
+| width              =
+| height             =
+| diameter           =
+| crew               = 6
+&lt;!-- Ranged weapon specifications --&gt;
+| cartridge          = Various, with normal (3 charges) and super charge
+| cartridge_weight   =
+| caliber            = {{convert|3.45|in|mm|1}}
+| barrels            =
+| action             =
+| rate               = 3-4 rpm
+| velocity           = 1,230 f/s (375 m/s)
+| range              = {{convert|10,200|yd|m|abbr=on}}
+| max_range          = {{convert|11,500|yd|m|abbr=on}} (using super charge)&lt;ref name=&quot;Mellor_238&quot;&gt;Mellor (1958), p. 238&lt;/ref&gt;
+| feed               =
+| sights             =
+&lt;!-- Artillery specifications --&gt;
+| breech             = Vertically-sliding wedge
+| recoil             = Hydropneumatic, variable
+| carriage           = Two wheel, box trail
+| elevation          = -5° to +40°
+| traverse           = 4° on carriage
+}}
+The '''Ordnance QF 25-pounder Short''' was an Australian variant of the British [[Ordnance QF 25 pounder|Ordnance QF 25-pounder]] [[field gun]]/[[howitzer]]. The gun was developed by modifying the 25-pounder's design to improve its mobility during [[jungle warfare]]. Development began in 1942, and the weapon first entered service with the [[Australian Army]] the next year. It was used by several [[Royal Regiment of Australian Artillery|Royal Australian Artillery]] regiments during fighting in the [[South West Pacific theatre of World War II|South West Pacific Area]], before being declared obsolete in 1946.
+
+The development of the Ordnance QF 25-pounder Short was an important achievement for Australia's defence industry, and provided the Army with a weapon suited to conditions in the South West Pacific. Nevertheless, the gun's performance was inferior to that of the standard 25-pounder, and it received a mixed reception from artillerymen.
+
+==Background==
+The Australian Army began to be equipped with British-built 25-pounder guns in 1940. The gun proved successful, and was the standard equipment of Australian field batteries by 1943.&lt;ref name=&quot;Dennis_48&quot;&gt;Dennis et al. (2008), p. 48&lt;/ref&gt; In January 1940, the Australian Government approved a proposal to build 25-pounders in Australia. A Government-owned factory was constructed at [[Maribyrnong, Victoria|Maribyrnong]] in [[Melbourne]] and commercial industry was contracted to produce additional guns. Almost all the guns' components were manufactured in Australia, with almost 200 firms providing parts. The first Australian-built 25-pounder was completed in May 1941 and 1,527 guns were delivered before production ceased at the end of 1943.&lt;ref&gt;Mellor (1958), pp. 234–238&lt;/ref&gt;
+
+The 25-pounder was well suited to the open conditions the Army experienced in the [[Mediterranean, Middle East and African theatres of World War II|Mediterranean and Middle East theatres]] but proved difficult to deploy in [[jungle]] terrain. While the developed road network in [[British Malaya|Malaya]] allowed it to be moved by vehicles during the [[Battle of Malaya|Malayan Campaign]], the rugged terrain and limited transport infrastructure in [[New Guinea]] meant that the guns could only be moved away from coastal plains and airfields by manhandling.&lt;ref name=&quot;Dennis_49&quot;&gt;Dennis et al. (2008), p. 49&lt;/ref&gt; As a result, Australian infantry often had no artillery support heavier than [[Ordnance ML 3 inch Mortar|3 inch mortars]] during the [[New Guinea Campaign]] in 1942.&lt;ref name=&quot;Henry_40&quot;&gt;Henry (2002), p. 40&lt;/ref&gt;
+
+==Design==
+The difficulty of deploying artillery in New Guinea led to a need for a gun which could be broken down into light parts and transported by aircraft or jeeps.&lt;ref name=&quot;Henry_40&quot; /&gt; The Army had only a small number of British [[3.7 inch Mountain Howitzer]]s, and Australia's request for United States [[M116 howitzer|M116 75mm pack howitzers]] was not immediately filled.&lt;ref&gt;Gower (1981), pp. 89–90&lt;/ref&gt; In September 1942, the Army's Director of Artillery, Brigadier John O'Brien, suggested that a variant of the 25-pounder be developed to meet this requirement.&lt;ref name=&quot;Henry_40&quot; /&gt; This proposal was agreed to, and all development work was conducted in Australia by the Army, the Ordnance Production Directorate and Charles Ruwolt Pty Ltd.&lt;ref name=&quot;Mellor_238&quot;/&gt; The process of designing the gun began in September 1942, and an acceptable weapon was ready by January the next year. The three agencies cooperated well as they were strongly motivated to provide the Army with a useful light artillery piece as quickly as possible.&lt;ref&gt;Ross (1995), pp. 398–399&lt;/ref&gt; During this period, the Army received thirty-eight 75mm pack howitzers, and deployed some of these guns to New Guinea.&lt;ref&gt;Gower (1981), pp. 90–91&lt;/ref&gt;
+[[File:Standard and short 25pdr.jpg|thumb|left|alt=Two artillery guns mounted on wheeled gun carriages photographed inside of a building. The weapons have a large plate mounted about half way down the length of their barrels.|Standard (left) and Short (right) 25-pounders. This is the prototype, which was fitted with a gun shield that was later removed.]]
+
+The new gun used as many standard 25-pounder parts as possible, but included a number of major differences in order to reduce the weapon's weight.&lt;ref name=&quot;Gower_92&quot;&gt;Gower (1981), p. 92&lt;/ref&gt; Modifications included shortening the gun's [[Gun barrel|barrel]] and [[recuperator]], making the trail lighter, and incorporating the new recoil system which had been developed to allow 25-pounders to be mounted in the Australian-designed [[Sentinel tank]].&lt;ref name=&quot;Mellor_238&quot; /&gt; The guns weighed 1.25 tons, had a {{convert|49.825|in|mm|0}} long barrel and a maximum range which was approximately 87 percent that of the standard gun.&lt;ref name=&quot;Mellor_238&quot; /&gt;&lt;ref name=&quot;Henry_40&quot; /&gt; The QF 25-pounder Short could use three standard charges to obtain a range of up to {{convert|10400|yd|m}}. This range could be extended to {{convert|11500|yd|m}} if a super charge was used, though standing instructions warned against doing so except in emergencies due to the strain these charges placed on the gun carriage.&lt;ref name=&quot;Mellor_238&quot; /&gt; The gun could fire the same variety of ammunition as the standard 25-pounder; namely high explosive, armour piercing, smoke, gas, propaganda and illumination shells.&lt;ref name=&quot;Dennis_50&quot; /&gt; While the prototype gun was fitted with a [[gun shield]], this was later removed and not incorporated into the production weapons.&lt;ref name=&quot;Gower_92&quot; /&gt;
+
+The QF 25-pounder Short incorporated a number of design features which sought to increase its mobility. The gun could be broken down into 13 or 14 parts in under two minutes, allowing it to be air dropped from aircraft or packed into [[Jeep]]s.&lt;ref name=&quot;Mellor_238&quot; /&gt;&lt;ref name=&quot;Henry_40&quot; /&gt;&lt;ref name=&quot;Gower_92&quot; /&gt; Of these parts, only the [[recuperator]] and front trail weighted over {{convert|135|kg|lb}}.&lt;ref name=&quot;Gower_92&quot; /&gt; Assembled guns could also be towed by a Jeep, which was advantageous as it was possible to transport these vehicles inside of aircraft.&lt;ref name=&quot;Mellor_238&quot; /&gt; The [[Limbers and caissons (military)|gun carriage]] was very different from that in the standard 25-pounder, and included a new cradle, trail and axles. The guns were initially fitted with stabilisers to reduce stress on their wheels when firing, but these were later removed as they caused problems when reversing or running up the guns in action.&lt;ref name=&quot;Henry_40&quot; /&gt;
+
+Initial testing of the prototype QF 25-pounder Short was completed in early December 1942.&lt;ref name=&quot;Mellor_239&quot; /&gt; The [[2/1st Field Regiment (Australia)|2/1st Field Regiment]] also trialled the gun in New Guinea during early 1943.&lt;ref name=&quot;Horner_355&quot;&gt;Horner (1995), p. 355&lt;/ref&gt; Large-scale production began in early 1943, after minor modifications were made to the design, and the Army placed an initial order for 112 guns.&lt;ref name=&quot;Mellor_239&quot; /&gt;&lt;ref name=&quot;Gower_92&quot; /&gt; A second order was later placed for 100 more. This lot incorporated the Mark II carriage, which had larger wheels and tyres to prevent the problem with wheel bounce encountered by the first lot. Altogether, 213 guns were manufactured by the time production ceased in 1944.&lt;ref&gt;Gower (1981), pp. 92–94&lt;/ref&gt; As completed, the gun's full designation was Ordnance QF 25-pounder Short (Aust) Mark I, but it was nicknamed the 'snort' by Australian soldiers.&lt;ref name=&quot;Henry_40&quot; /&gt;
+
+==Service==
+[[File:Short 25 pdr Balikpapan.jpg|thumb|alt=Rear view of an artillery gun mounted on a wheeled carriage. Palm trees, damaged buildings and smoke are visible in front of the gun's barrel. Three shirtless men are working on the gun while another three shirtless men are standing in a line to its left each holding a single artillery shell.|Gunners of the 2/4th Field Regiment fire a 25-pounder Short at Japanese positions during the [[Battle of Balikpapan (1945)|Battle of Balikpapan]] in July 1945]]
+QF 25-pounder Short guns were first issued to front line artillery regiments in August 1943 as part of the reorganisation of the Australian Army's fighting units to the &quot;[[Jungle division]]&quot; structure. Under this structure, one of each field regiment's three batteries was re-equipped with the new guns.&lt;ref name=&quot;Henry_40&quot; /&gt;&lt;ref&gt;Johnston (2008), p. 189&lt;/ref&gt;&lt;ref&gt;Threlfall (2014), pp. 183, 198&lt;/ref&gt; Field batteries equipped with the guns normally consisted of a headquarters and two troops each with four guns, seven jeeps and a [[Caterpillar D6|D6 tractor]].&lt;ref name=&quot;Henry_41&quot;&gt;Henry (2002), p. 41&lt;/ref&gt; Like the standard 25-pounder, each gun had a crew of six men.&lt;ref name=&quot;Dennis_50&quot; /&gt; The commander of [[New Guinea Force]]'s artillery, Brigadier L.E.S. Barker, preferred the 75mm pack howitzer to the 25-pounder Short, and tried to prevent the new gun being issued, but was overruled by Brigadier O'Brien.&lt;ref name=&quot;Horner_355&quot; /&gt; The guns were first used in action by the [[7th Division (Australia)|7th Division]] during the [[landing at Nadzab]], when a 32-man detachment of the [[2/4th Field Regiment (Australia)|2/4th Field Regiment]] was dropped by [[parachute]] from five C-47 transports with two guns.&lt;ref name=&quot;Mellor_239&quot; /&gt; One gun was assembled and ready to fire within an hour, but the buffer and recuperator of the other took two days to locate in the long grass.&lt;ref name=&quot;Gower_94&quot;&gt;Gower (1981), p. 94.&lt;/ref&gt; The QF 25-pounder Short continued to be used by some Australian artillery units in New Guinea, the Solomon Islands and Borneo until the end of the war, and was declared obsolete in 1946.&lt;ref name=&quot;Gower_200&quot;&gt;Gower (1981), p. 200.&lt;/ref&gt;
+
+The QF 25-pounder Short received a mixed reception from gunners, and was particularly unpopular among members of AIF artillery units which had used the standard 25-pounder during the fighting in the Middle East.&lt;ref name=&quot;Threlfall_198&quot;&gt;Threlfall (2014), p. 198&lt;/ref&gt; Guns were sometimes put out of action by damage caused by the absorption of violent recoil. The gun also had a tendency to tilt at low elevation; this was remedied by its crew standing on the trails, an expedient that had previously been used with the [[QF 4.5 inch Howitzer]]. Other limitations included a low rate of fire (three or four rounds per minute) and difficulties towing the weapon.&lt;ref name=&quot;Gower_94&quot; /&gt; Concerns were also raised over the quality of workmanship, and the commander of the 2/4th Field Regiment rejected a batch of Short 25-pounders sent to his unit before the Nadzab operation in the belief that they had been poorly manufactured. Inspectors subsequently concluded that most of his criticisms were unfounded, however.&lt;ref&gt;Johnston (1996), p. 115&lt;/ref&gt; The most important deficiency compared to the regular 25-pounder was the shorter range. As a result of its experience with the gun, the [[9th Division (Australia)|9th Division]] recommended that they be pooled and reserved for their special role rather than be employed in a day-to-day role alongside the regular 25 pounder.&lt;ref name=&quot;Gower_94&quot; /&gt;
+
+Post-war assessments of the gun's performance are generally positive. The Australian [[official history]] acknowledged the QF 25-pounder Short's limitations, but argued that these were the result of it being developed to perform a specialised role for which some trade-offs in performance were needed, and that on balance it was a successful weapon.&lt;ref name=&quot;Mellor_239&quot; /&gt; Historian and retired Major General [[Steve Gower]] has assessed the gun as being &quot;undoubtedly one of the more significant Australian weapon developments of the Second World War&quot; as it represented a success in adapting a foreign-designed weapon to meet the Australian Army's requirements.&lt;ref name=&quot;Gower_92&quot; /&gt; Similarly, Australian historian Adrian Threlfall noted the shortcomings of the gun, but stated that its rapid development and introduction into service provides an example of the Army's success in adapting to the demands of jungle warfare.&lt;ref name=&quot;Threlfall_199&quot;&gt;Threlfall (2014), p. 199&lt;/ref&gt; British historian Chris Henry has also written that the QF 25-pounder Short &quot;gave good service, and was robust enough to survive life in the jungle even though many modifications were needed&quot;.&lt;ref name=&quot;Henry_40&quot; /&gt;
+
+==References==
+===Citations===
+{{reflist|3}}
+===Works consulted===
+{{Commons category|Ordnance QF 25-pounder Short}}
+{{refbegin}}
+* {{cite book|last=Commonwealth Bureau of Census and Statistics|title=Official Year Book of the Commonwealth of Australia No. 36 — 1944 and 1945|publisher=Commonwealth Government Printer|location=Canberra|year=1947|url=http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1301.01944-45?OpenDocument}}
+* {{cite book|last=Dennis|first=Peter|title=The Oxford Companion to Australian Military History|publisher=Oxford University Press Australia &amp; New Zealand|location=Melbourne|year=2008|edition=Second|isbn=978-0-19-551784-2|display-authors=etal}}
+* {{cite book|last=Gower|first=S. N.|title=Guns of the Regiment|publisher=Australian War Memorial|location=Canberra|year=1981|isbn=0-642-89688-7}}
+* {{cite book|last=Henry|first=Chris|title=The 25-pounder Field Gun 1939–72|publisher=Osprey Publishing|location=Botley|year=2002|series=New Vanguard No. 48|isbn=1-84176-350-0}}
+* {{cite book|last=Horner|first=David|title=The Gunners: A History of Australian Artillery|publisher=Allen &amp; Unwin|location=St Leonards|year=1995|isbn=1-86373-917-3}}
+* {{cite book|last=Johnston|first=Mark|title=At the Front Line. Experiences of Australian Soldiers in World War II|publisher=Cambridge University Press|location=Melbourne|year=1996|isbn=0-521-56037-3}}
+* {{cite book|last=Johnston|first=Mark|title=The Proud 6th: An Illustrated History of the 6th Australian Division 1939-45|year=2008|publisher=Cambridge University Press|isbn=978-0-521-51411-8|location=Melbourne}}
+* {{cite book|last=Mellor|first=D.P. |title=The Role of Science and Industry|publisher=Australian War Memorial|location=Canberra|year=1958|series=[[Australia in the War of 1939–1945|Australia in the War of 1939–1945. Series 4 – Civil - Volume V]]|url=http://www.awm.gov.au/histories/second_world_war/volume.asp?levelID=67920}}
+* {{cite book|last=Ross|first=A.T.|title=Armed &amp; Ready: The Industrial Development &amp; Defence of Australia, 1900&amp;ndash;1945|publisher=Turton &amp; Armstrong|location=Sydney|year=1995|isbn=0-908031-63-7}}
+* {{cite book|last1=Threlfall|first1=Adrian|title=Jungle Warriors : From Tobruk to Kokoda and beyond, How the Australian Army Became the World's Most Deadly Jungle Fighting Force|date=2014|publisher=Allen &amp; Unwin|location=Sydney|isbn=9781742372204}}
+{{refend}}
+
+{{WWIIBritishCommGuns|collapsed=yes}}
+
+[[Category:88 mm artillery]]
+[[Category:World War II field artillery]]
+[[Category:World War II artillery of Australia]]
+[[Category:Pack artillery]]</text>
+      <sha1>jrpbnldnu52qvhov4lwzpm981b5pouo</sha1>
+    </revision>
+  </page>
+</mediawiki>

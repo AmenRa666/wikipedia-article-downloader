@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Gas attacks at Hulluch</title>
+    <ns>1</ns>
+    <id>2870289</id>
+    <revision>
+      <id>653002714</id>
+      <parentid>652999938</parentid>
+      <timestamp>2015-03-22T12:12:59Z</timestamp>
+      <contributor>
+        <username>Keith-264</username>
+        <id>925588</id>
+      </contributor>
+      <comment>/* Lead */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1137">{{WikiProject Germany|class=B|importance=low}}
+{{WPMILHIST
+|class=B
+|B1=y|B2=y|B3=y|B4=y|B5=y
+|British=yes
+|German=yes
+|WWI=yes
+}}
+
+== Requested move ==
+
+The only source that lists this as the &quot;Battle of Hulluch&quot; is derived from wikipedia. The attack lasted three days and only spanned a divisional front, so it pales in comparison to the [[Battle of the Somme]], for example. It is, however, notable for being a gas attack. So I'm suggesting that this page be renamed to [[Gas attack at Hulluch]]. &amp;mdash; [[User:RJHall|RJH]] ([[User_talk:RJHall|''talk'']]) 14:05, 10 November 2007 (UTC)
+:Will this article need to then be removed from the battle categories [[:Category:Battles of the Western Front (World War I)]], [[:Category:Battles involving Germany]] and [[:Category:Battles involving the United Kingdom]]? [[User:Ewlyahoocom|Ewlyahoocom]] 07:10, 12 November 2007 (UTC)
+
+== Lead ==
+
+If you leave the lead as it is there's a four line paragraph followed by an eight line and a five line paragraph. I prefer them to have an equal number of lines. [[User:Keith-264|Keith-264]] ([[User talk:Keith-264|talk]]) 12:12, 22 March 2015 (UTC)</text>
+      <sha1>5cvtjx5rx42jh7ml57hmggvrvr4o1yt</sha1>
+    </revision>
+  </page>
+</mediawiki>

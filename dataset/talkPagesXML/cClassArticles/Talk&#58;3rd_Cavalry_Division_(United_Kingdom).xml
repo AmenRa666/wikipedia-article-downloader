@@ -1,0 +1,93 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:3rd Cavalry Division (United Kingdom)</title>
+    <ns>1</ns>
+    <id>17687795</id>
+    <revision>
+      <id>567422775</id>
+      <parentid>567422619</parentid>
+      <timestamp>2013-08-06T17:09:17Z</timestamp>
+      <contributor>
+        <username>Hamish59</username>
+        <id>15572676</id>
+      </contributor>
+      <comment>Rated; needs more work on the actions</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1927">{{WikiProjectBannerShell|1=
+{{WikiProject Military History|class=start
+&lt;!-- B-Class 5-criteria checklist --&gt;
+|B1 &lt;!-- Referencing and citations --&gt; =yes
+|B2 &lt;!-- Coverage and accuracy --&gt; =no
+|B3 &lt;!-- Structure --&gt; =yes
+|B4 &lt;!-- Grammar and style --&gt; =yes
+|B5 &lt;!-- Supporting materials --&gt; =yes
+|British=yes|WWI=yes}}
+{{WikiProject United Kingdom|class=|importance=}}
+}}
+
+==Rating and improvements==
+I have completed an assessment of this article and believe it to be a Start class article. I believe that it could be improved by addressing the following issues:
+
+* Referencing: almost there, there are just a few more blocks of information that require citations. For a successful B class review, every paragraph or block of information (i.e. list) requires at least one in line citation (more if multiple sources are used, or multiple assertions are made);
+* Coverage: the article could be expanded to discuss the major actions that the unit was involved in in more detail. 
+
+Just a couple of ideas, if you would like more in-depth comments please consider putting the article up for peer review. This can be done by going to [[WP:MHPR]]. Once you feel that the article is ready for re-assessment, please add it to the list at [[WP:MHA]]. Hope this helps. — [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 06:39, 1 May 2009 (UTC)
+
+== Dead link ==
+
+During several automated bot runs the following external link was found to be unavailable. Please check if the link is in fact down and fix or remove it in that case!
+
+* http://www.1914-1918.net/CAVALRY/3cavdiv.htm
+** In [[Essex Yeomanry]] on 2011-03-18 09:03:19, 404 Not Found
+** In [[3rd Cavalry Division (United Kingdom)]] on 2011-06-19 07:25:45, 404 Not Found
+
+--[[User:JeffGBot|JeffGBot]] ([[User talk:JeffGBot|talk]]) 07:26, 19 June 2011 (UTC)
+:Fixed.  [[User:Hamish59|Hamish59]] ([[User talk:Hamish59|talk]]) 17:07, 6 August 2013 (UTC)</text>
+      <sha1>gxe9wmbg3g9q7ljht8osmdpn3i4gzqt</sha1>
+    </revision>
+  </page>
+</mediawiki>

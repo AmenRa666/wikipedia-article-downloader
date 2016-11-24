@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Royal Sovereign (1891)</title>
+    <ns>0</ns>
+    <id>14339081</id>
+    <revision>
+      <id>748202807</id>
+      <parentid>747644678</parentid>
+      <timestamp>2016-11-06T23:46:04Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15039">{{Other ships|HMS Royal Sovereign}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMSRoyalSovereign1897.jpg|300px]]
+|Ship caption=HMS ''Royal Sovereign'' at anchor, about 1897
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Royal Sovereign''
+|Ship ordered=[[Naval Defence Act 1889]]
+|Ship awarded=
+|Ship builder=[[Portsmouth Dockyard]]
+|Ship laid down=30 September 1889
+|Ship launched=26 February 1891
+|Ship sponsor=[[Queen Victoria]]
+|Ship commissioned=31 May 1892
+|Ship completed=May 1892
+|Ship decommissioned=9 September 1909
+|Ship in service=
+|Ship out of service=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sold for [[ship breaking|scrap]], 7 October 1913
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Royal Sovereign|battleship|0}} [[predreadnought battleship]]
+|Ship displacement={{convert|14150|LT|t|lk=on}} (normal)
+|Ship length=*{{convert|380|ft|abbr=on|1}} ([[Length between perpendiculars|pp]])
+|Ship beam={{convert|75|ft|m|abbr=on|1}}
+|Ship draught={{convert|27|ft|6|in|m|abbr=on|1}}
+|Ship power=*{{convert|11000|ihp|abbr=on|lk=in}}
+*8 [[Scotch marine boiler|cylindrical boilers]]
+|Ship propulsion=2 shafts; 2 [[Marine steam engine#Triple or multiple expansion|Triple-expansion steam engines]]
+|Ship speed={{convert|17.5|kn|lk=in}}
+|Ship range={{convert|4720|nmi|abbr=on|lk=in}} @ {{convert|10|kn}}
+|Ship complement=670
+|Ship armament=*2 × twin [[BL 13.5 inch naval gun Mk I - IV|BL {{convert|13.5|in|mm|sing=on|sigfig=3}} guns]]
+*10 × single [[QF 6 inch Mk I - III naval gun|QF {{convert|6|in|mm|sing=on|sigfig=3}} guns]]
+*10 × single [[QF 6-pounder Hotchkiss|QF 6-pdr ({{convert|57|mm|in|abbr=on|1|disp=flip}})]] [[Hotchkiss gun]]s
+*12 × single [[QF 3-pounder Hotchkiss|QF 3-pdr ({{convert|47|mm|in|abbr=on|1|disp=flip}})]] Hotchkiss guns
+*7 × [[British 18 inch torpedo|18-inch (450&amp;nbsp;mm) torpedo]] tubes
+| Ship armour =* Main [[Belt armor|belt]]: {{convert|14|-|18|in|mm|abbr=on|0}}
+* [[Bulkhead (partition)|bulkheads]]: {{convert|14|-|16|in|mm|abbr=on|0}}
+* [[Barbette]]s: {{convert|11|-|17|in|mm|abbr=on|0}}
+* [[Casemate#Naval|Casemates]]: {{convert|6|in|mm|abbr=on|0}}
+* [[Conning tower]]: {{convert|14|in|mm|abbr=on|0}}
+* [[Deck (ship)|Deck]]: {{convert|2.5|-|3|in|mm|abbr=on|0}}
+|Ship notes=
+}}
+|}
+'''HMS ''Royal Sovereign''''' was the [[lead ship]] of the seven ships in [[Royal Sovereign-class battleship|her class]] of [[pre-dreadnought battleship]]s built for the [[Royal Navy]] in the 1890s. The ship was [[Ship commissioning|commissioned]] in 1892 and served as the [[flagship]] of the [[Channel Fleet]] for the next five years. She was transferred to the [[Mediterranean Fleet]] in 1897 and returned home in 1902, and was briefly assigned as a [[Her Majesty's Coastguard|coast guard ship]] before she began a lengthy refit in 1903–04. ''Royal Sovereign'' was reduced to [[Reserve fleet|reserve]] in 1905 and was taken out of service in 1909. The ship was sold for [[ship breaking|scrap]] four years later and subsequently broken up in Italy.
+
+==Design and description==
+[[File:Royal Sovereign class diagrams Brasseys 1906.jpg|thumb|left|Right plan and elevation of the ''Royal Sovereign'' class from [[Brassey's Naval Annual]] 1906]]
+The design of the ''Royal Sovereign''-class ships was derived from that of the {{sclass2-|Admiral|ironclad}} battleships, greatly enlarged to improve [[seakeeping]] and to provide space for a [[Battleship secondary armament|secondary armament]] as in the preceding {{sclass-|Trafalgar|ironclad|2}} battleships.&lt;ref&gt;Gardiner, p. 116; Parkes, pp. 359&lt;/ref&gt; The ships [[Displacement (ship)|displaced]] {{convert|14150|LT|t|lk=on}} at normal load and {{convert|15580|LT|t}} at [[deep load]]. They had a [[length between perpendiculars]] of {{convert|380|ft|m|1}} and an [[length overall|overall length]] of {{convert|410|ft|6|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|75|ft|m|1}}, and a [[Draft (hull)|draught]] of {{convert|27|ft|6|in|m|1}}.&lt;ref name=ck0&gt;Chesneau &amp; Kolesnik, p. 32&lt;/ref&gt; Their crew consisted of 670 officers and [[naval rating|ratings]].&lt;ref name=&quot;Burt, p. 66&quot;&gt;Burt, p. 73&lt;/ref&gt;
+
+The ''Royal Sovereign''s were powered by a pair of three-cylinder, vertical [[triple-expansion steam engine]]s, each driving one shaft. Her [[Humphrys, Tennant and Dykes|Humphrys &amp; Tennant]] engines&lt;ref name=ck0/&gt; were designed to produce a total of {{convert|11000|ihp|lk=in}} and a maximum speed of {{convert|17.5|kn|lk=in}} using steam provided by eight [[Scotch marine boiler|cylindrical boilers]] with [[forced draught]]. ''Royal Sovereign'' was the first ship of the class to be completed, and was put through a lengthy set of steam trials of which only a few sets of figures have survived. She made {{convert|16.41|kn}} over eight hours from {{convert|9661|ihp|abbr=on}} using normal [[Chimney draught|draught]] and {{convert|18|kn}} over three hours from {{convert|13360|ihp|abbr=on}} using [[forced draught]]. Some of her boiler tubes were observed to crack and leak under the pressures involved; as a result, the Navy decided not to push the boilers of the ''Royal Sovereign'' class past 11,000 ihp to prevent similar damage. The ships carried a maximum of {{convert|1420|LT|t|0}} of coal, which gave them a range of {{convert|4720|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref&gt;Burt, pp. 73, 83–84&lt;/ref&gt;
+
+Their main armament consisted of four [[List of British ordnance terms#BL|breech-loading (BL)]] [[BL 13.5 inch naval gun Mk I - IV|{{convert|13.5|in|mm|sing=on|sigfig=3}} guns]] mounted in two twin-gun [[barbette]]s, one each fore and aft of the [[superstructure]].&lt;ref name=p5&gt;Parkes, p. 355&lt;/ref&gt; Each gun was provided with 80 [[Cartridge (firearms)|rounds]].&lt;ref name=&quot;Burt, p. 66&quot;/&gt; Their secondary armament consisted of ten [[quick-firing gun|quick-firing (QF)]] [[QF 6 inch Mk I - III naval gun|{{convert|6|in|mm|sing=on|sigfig=3}} guns]].&lt;ref name=ck0/&gt; 200 rounds per gun were carried by the ships.&lt;ref name=&quot;Burt, p. 66&quot;/&gt; Sixteen [[QF 6-pounder Hotchkiss|QF 6-pounder ({{convert|57|mm|in|abbr=on|1|disp=flip}})]] and a dozen [[QF 3-pounder Hotchkiss|QF 3-pounder ({{convert|47|mm|abbr=on|disp=flip}})]] [[Hotchkiss gun]]s were fitted for defence against [[torpedo boat]]s. The two 3-pounders in the upper [[Top (sailing ship)|fighting top]] were removed in 1903–04 and all of the remaining light guns from the lower fighting tops and main deck followed in 1905–09. The ''Royal Sovereign''-class ships mounted seven 14-inch (356&amp;nbsp;mm) [[torpedo tube]]s, although ''Royal Sovereign'' had four of hers removed in 1903–04.&lt;ref&gt;Burt, pp. 73, 85, 87&lt;/ref&gt;
+
+The ''Royal Sovereign''s' armour scheme was similar to that of the ''Trafalgar''s, as the [[waterline]] [[Belt armor|belt]] of [[compound armour]] only protected the area between the barbettes. The {{convert|14|-|18|in|mm|0|adj=on}} belt and transverse [[bulkhead (partition)|bulkheads]] {{convert|14|-|16|in|0}} thick closed off the ends of the belt. Above the belt was a [[strake]] of {{convert|4|in|0|adj=on}}&lt;ref name=ck0/&gt; [[Harvey armour]] closed off by {{convert|3|in|adj=on}} oblique bulkheads. The barbettes were protected by compound armour, ranging in thickness from {{convert|11|to|17|in|mm|0}} and the casemates for the 6-inch guns were protected by an equal thickness of armour. The thicknesses of the armour [[deck (ship)|deck]] ranged from {{convert|2.5|to|3|in|mm|0}}. The walls of the forward [[conning tower]] were {{convert|12|-|14|in|0}} thick and the aft conning tower was protected by 3-inch plates.&lt;ref&gt;Burt, pp. 79–80&lt;/ref&gt;
+
+==Construction and career==
+[[File:HMS Royal Sovereign (1891 ship).jpg|thumb|A 1913 [[postcard]] showing ''Royal Sovereign'' at sea.]]
+The ''Royal Sovereign'' class was ordered as part of the [[Naval Defence Act 1889]] that was a supplement to the normal naval estimates.&lt;ref name=&quot;Burt, p. 80&quot;&gt;Burt, p. 90&lt;/ref&gt; ''Royal Sovereign'', the seventh ship of her name to serve with the Royal Navy,&lt;ref&gt;Colledge, p. 301&lt;/ref&gt; was [[laid down]] on 30 September 1889 in a [[drydock]] because [[Portsmouth Dockyard]] lacked a [[slipway]] long enough to accommodate her.&lt;ref&gt;Parkes, pp. 355–56&lt;/ref&gt; The ship was floated out of dock on 26 February 1891 and [[Ceremonial ship launching|christened]] by [[Queen Victoria]]. She completed her [[sea trials]] in May 1892&lt;ref name=&quot;Burt, p. 80&quot;/&gt; and was commissioned on 31 May at a cost of £913,986.&lt;ref name=p5/&gt; ''Royal Sovereign'' relieved the battleship {{HMS|Camperdown|1885|6}} as flagship of the Channel Squadron. From then until 13 August 1892, she served as the flagship of the &quot;Red Fleet&quot; in the annual manoeuvres off the coast of [[Ireland]]. She reprised her role as the flagship of the Red Fleet, from 27 July to 6 August 1893 during the manoeuvres in the [[Irish Sea]] and the [[Western Approaches]]. To reduce her [[ship motions|rolling]], she was fitted with [[bilge keel]]s in 1894–95.&lt;ref&gt;Burt, pp. 75, 90&lt;/ref&gt; In June 1895, ''Royal Sovereign'' and three of her sister ships were part of a British naval squadron that attended the opening of the [[Kaiser Wilhelm Canal]] in Germany.&lt;ref&gt;Parkes, p. 363&lt;/ref&gt; During the third week of July 1896, the ship took part in annual manoeuvres in the Irish Sea and off the southwest coast of England as part of &quot;Fleet A&quot;.&lt;ref name=&quot;Burt, p. 80&quot;/&gt;
+
+On 7 June 1897, ''Royal Sovereign'' paid off and her crew was transferred to the battleship {{HMS|Mars|1896|2}} which relieved her in the Channel Squadron. The next day, she recommissioned to relieve the battleship {{HMS|Trafalgar|1887|2}} in the [[Mediterranean Sea]]. Before departing for the Mediterranean, she took part in the [[Fleet Review]] for the [[Diamond Jubilee]] of [[Queen Victoria]] at [[Spithead]] on 26 June 1897, and from 7–11 July took part in annual manoeuvres off the coast of Ireland. She finally departed England for the Mediterranean in September. Upon arrival, ''Royal Sovereign'' joined the Mediterranean Fleet.&lt;ref name=&quot;Burt, p. 80&quot;/&gt; On 18 January 1899, [[Rear-Admiral (Royal Navy)|Rear-Admiral]] [[Gerard Noel (Royal Navy officer)|Gerard Noel]], [[Second-in-Command]] of the Mediterranean Fleet, hoisted his flag aboard the ship&lt;ref&gt;Akers, p. 30&lt;/ref&gt; and Captain [[Charles Henry Adair]] was appointed in command two days later.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |date=27 January 1900 |page_number=13 |issue=36050| }}&lt;/ref&gt; The following month the ship toured Italian waters, visiting [[Naples]], [[Genoa]], [[Palermo]] and [[Syracuse, Sicily|Syracuse]].&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |date=8 February 1900 |page_number=10 |issue=36060| }}&lt;/ref&gt; On 14 July, she visited Fiume (modern [[Rijeka]]), [[Croatia]], in company with four other battleships, departing five days later. On the 28th, one man was killed aboard ''Royal Sovereign'' in a gun accident and he was buried at sea that evening.&lt;ref&gt;Akers, pp. 50, 52, 54&lt;/ref&gt;
+
+[[File:HMS Royal Sovereignmemorial.jpg|thumb|left|upright|Memorial in Victoria Park, [[Portsmouth]], to those killed in the 1901 explosion aboard ''Royal Sovereign'']]
+On 9 November 1901, off [[Greece]], one of her six-inch guns exploded when the breech was not fully closed, killing one officer and five [[Royal Marines]] and injuring one officer ([[Sir Robert Keith Arbuthnot, 4th Bt]]) and 19 seamen.&lt;ref name=&quot;Burt, p. 80&quot;/&gt;&lt;ref&gt;{{Cite newspaper The Times |articlename=Gun accident on board the Royal Sovereign |day_of_week=Monday |date=11 November 1901 |page_number=9 |issue=36609| }}&lt;/ref&gt; Captain [[Frederick Inglefield]] was appointed in command on 26 November 1901.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |date=15 November 1901 |page_number=4 |issue=36613| }}&lt;/ref&gt; After being relieved in the Mediterranean by the battleship {{HMS|London|1899|2}}, ''Royal Sovereign'' departed [[Gibraltar]] on 9 July 1902, arriving at [[Portsmouth]], England, on 14 July 1902 to pay off.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Tuesday |date=15 July 1902 |page_number=11 |issue=36820| }}&lt;/ref&gt; On 30 August 1902, she commissioned under Captain [[George Primrose (Royal Navy officer)|George Primrose]] as a coast guard ship there. From 5–9 August 1903, the ship participated in manoeuvres off the coast of [[Portugal]]. From 1903 to 1904, she underwent an extensive refit at Portsmouth during which six-inch armoured casemates were added for the six-inch guns. On 9 February 1907, ''Royal Sovereign'' commissioned as a special service vessel in reserve. As such, she was incorporated into the 4th Division of the Home Fleet with other such vessels in April 1909. In September 1909, ''Royal Sovereign'' was taken out of service and she was sold for scrap to G. Clarkson &amp; Son for £40,000 on 7 October 1913. They resold her to GB Berterello of [[Genoa]] and the ship was demolished there.&lt;ref&gt;Burt, pp. 73, 77, 80&lt;/ref&gt;
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{cite book|last1=Akers|first1=T. H.|title=The Log of the Commission of H. M. S. Astrea on the Mediterranean and China Stations|date=1902|publisher=Westminster Press|location=London|oclc=669130439|url=http://books.googleusercontent.com/books/content?req=AKW5Qaf67kBrkOIr00f-4zKMBaT5TGS2DXJ61MdcAoZjpKwA_LFSshtrubRa2qIaMyHsKEgO2ixWVXAa89ZoGQG0RvklNQdpFkEvGzaCvauC4NiKkIX0VNHEHoRpVrB4SXyqdcjC6MgGPikaL4vRL1N37PocLVXtEggkAvna85PUPQRxfqYO4ArLo6zmvWRuFDubczA-ly5_n8OqW1HOcM6ldElygfE9eRvWUqEkTzHYy0TrJgTR7WewgSe50fi9VkqxZG00xOjgY07YCWbqq6aKk8dmEdCmbQ}}
+*{{cite book|last=Burt|first=R. A.|title=British Battleships 1889–1904|year=2013|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-065-8}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860-1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{colledge}}
+*{{cite book|editor=Gardiner, Robert|title=Steam, Steel and Shellfire: The Steam Warship 1815–1905|series=Conway's History of the Ship|year=1992|publisher=Conway Maritime Press|location=London|isbn=1-55750-774-0}}
+*{{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|HMS Royal Sovereign (ship, 1891)}}
+
+{{Royal Sovereign class battleship}}
+{{1899 shipwrecks}}
+{{1901 shipwrecks}}
+
+{{DEFAULTSORT:Royal Sovereign (1891)}}
+[[Category:Royal Sovereign-class battleships]]
+[[Category:Victorian-era battleships of the United Kingdom]]
+[[Category:Portsmouth-built ships]]
+[[Category:1891 ships]]
+[[Category:Maritime incidents in 1899]]
+[[Category:Maritime incidents in 1901]]
+{{Good article}}</text>
+      <sha1>2v7ig6pyz5j68d8j7nz37dmng0ghunk</sha1>
+    </revision>
+  </page>
+</mediawiki>

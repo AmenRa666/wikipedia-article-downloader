@@ -1,0 +1,186 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Whelp (R37)</title>
+    <ns>0</ns>
+    <id>26062746</id>
+    <revision>
+      <id>750485858</id>
+      <parentid>750416554</parentid>
+      <timestamp>2016-11-20T01:21:14Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>Adding Good Article icon</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18064">{{good article}}
+{{other ships|HMS Whelp}}
+{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Whelp.jpg|300px]]
+|Ship caption=''Whelp'' underway on the [[Tyne River|Tyne]], 1944
+}}
+{{Infobox ship career
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=''Whelp''
+|Ship ordered=3 December 1941
+|Ship awarded=
+|Ship builder=[[Hawthorn Leslie and Company]], [[Hebburn]]
+|Ship laid down=1 May 1942
+|Ship launched=3 June 1943
+|Ship christened=
+|Ship commissioned=25 April 1944 
+|Ship decommissioned=January 1946
+|Ship fate=Sold to the [[South African Navy]], 25 April 1952
+|Ship honours=
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=South Africa
+|Ship flag={{shipboxflag|South Africa|naval-1952}}
+|Ship name=SAS ''Simon van der Stel''
+|Ship namesake=[[Simon van der Stel]]
+|Ship acquired=25 April 1952
+|Ship commissioned=20 March 1953
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=27 March 1972
+|Ship renamed=20 March 1953
+|Ship reclassified=Converted into an anti-submarine [[frigate]], 1962–64
+|Ship fate=[[ship breaking|Scrapped]], 1976
+}}
+{{Infobox ship characteristics
+|Header caption= (as built)
+|Ship class= [[W and Z-class destroyer|W-class destroyer]]
+|Ship displacement=*{{convert|1710|LT|t}} ([[Displacement (ship)|standard load]])
+*{{convert|2530|LT|t}} ([[deep load]])
+|Ship length={{Convert|362|ft|9|in|m|1|abbr=on}}
+|Ship beam={{Convert|35|ft|8|in|m|1|abbr=on}}
+|Ship height=
+|Ship draught={{Convert|14|ft|6|in|m|1|abbr=on}} (deep load)
+|Ship power=*2 [[Admiralty 3-drum boiler]]s
+*{{Convert|40000|shp|kW|abbr=on|lk=in}}
+|Ship propulsion=*2 shafts
+*2 × geared [[steam turbines]] 
+|Ship speed={{Convert|36|kn|lk=in}}
+|Ship range={{Convert|4675|nmi|lk=in|abbr=on}} at {{Convert|20|kn}}
+|Ship complement=179
+|Ship sensors=*[[ASDIC]]
+*[[List of World War II British naval radar#Type 272|Type 272]] surface-search [[radar]]
+*Type 282 and 285 gunnery radars
+*Type 291 [[early-warning radar]]
+|Ship EW=
+|Ship armament=*4 × single [[4.7 inch QF Mark XII|4.7-inch (120&amp;nbsp;mm) guns]]
+*1 × quadruple [[QF 2 pounder naval gun#QF 2-pounder Mark VIII|2-pounder (40&amp;nbsp;mm) &quot;pom-pom&quot;]] [[AA gun]]
+*4 × twin [[Oerlikon 20 mm cannon|Oerlikon {{convert|20|mm|1|abbr=on}}]] AA guns
+*2 × quadruple {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s
+*70 [[depth charge]]s; 4 throwers, 2 rails
+}}
+|}
+'''HMS ''Whelp''''' was one of eight [[W and Z-class destroyer|W-class destroyers]] built for the [[Royal Navy]] during the [[World War II|Second World War]]. Completed in 1944, the ship spent most of the war assigned to the [[Eastern Fleet|Eastern]] and [[British Pacific Fleet|Pacific Fleets]]. She screened British [[aircraft carrier]]s as their aircraft attacked targets in the Japanese-occupied [[Nicobar Islands]], the [[Japanese occupation of the Dutch East Indies|Dutch East Indies]], [[Formosa]] and near [[Okinawa]]. ''Whelp'' was present at the [[Japanese surrender]] in [[Tokyo Bay]] in 1945 and later in [[Hong Kong]]. She was [[paid off]] in January 1946 and went into [[Reserve fleet|reserve]].
+
+''Whelp'' was sold to the [[South African Navy]] (SAN) in 1952 and renamed ''[[Simon van der Stel]]''. She was subsequently converted into a fast [[anti-submarine warfare|anti-submarine]] [[frigate]] in the early 1960s and served as a [[training ship]] from 1968 until 1972 when she went back into reserve. ''Simon van der Stel'' was [[Ship commissioning|recommissioned]] in 1975 for a refit, but that proved to be uneconomical and she was [[ship breaking|scrapped]] the following year.
+
+== Description ==
+The W-class ships displaced {{convert|1710|LT|t}} at [[Displacement (ship)|standard load]] and {{convert|2530|LT|t}} at [[deep load]]. They had an [[length overall|overall length]] of {{convert|362|ft|9|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|35|ft|8|in|m|1}} and a mean deep [[draft (hull)|draught]] of {{convert|14|ft|6|in|m|1}}. The ships were powered by a pair of [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s, each driving one [[propeller shaft]], using steam provided by two [[Admiralty three-drum boiler]]s. The turbines developed a total of {{convert|40000|shp|lk=in}} which gave a maximum speed of {{convert|36|kn|lk=in}}. They carried {{convert|615|LT|t}} of [[fuel oil]] that gave them a range of {{convert|4675|nmi|lk=in}} at {{convert|20|kn}}. Their crew numbered 179 officers and [[naval rating|ratings]].&lt;ref name=l2/&gt;
+
+The W-class destroyers were armed with four single [[4.7 inch QF Mark XII|4.7-inch (120&amp;nbsp;mm) Mark IX guns]], one quadruple mount for [[QF 2 pounder naval gun#QF 2-pounder Mark VIII|2-pounder (40&amp;nbsp;mm) Mk II &quot;pom-pom&quot;]] [[anti-aircraft gun|anti-aircraft (AA) guns]] and eight [[Oerlikon 20 mm cannon|Oerlikon {{convert|20|mm|1|abbr=on}}]] light AA guns on twin mounts. They also were equipped with two quadruple mounts for {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s. For [[anti-submarine warfare|anti-submarine work]], the ships were fitted with [[ASDIC]] and two rails and four throwers for 70 [[depth charge]]s.&lt;ref&gt;Raven &amp; Roberts, pp. 48–49&lt;/ref&gt; They were equipped with a [[List of World War II British naval radar#Type 272|Type 272]] surface-search [[radar]], Type 282 and 285 gunnery radars and a Type 291 [[early-warning radar]].&lt;ref name=l2&gt;Lenton, p. 178&lt;/ref&gt;
+
+To better defend the ship against Japanese [[kamikaze]] suicide aircraft, ''Whelp'' had her [[searchlight]] replaced by a [[Bofors 40 mm gun|{{convert|40|mm|1|abbr=on}} Bofors]] AA gun in mid-1944.&lt;ref name=l2/&gt; As part of her 1962–64 refit, the ship's aft torpedo tubes were removed to make room for a small [[flight deck]] and [[hangar]] for two [[Westland Wasp]] [[helicopter]]s.  A a pair of Bofors guns were added, one on each side of the hangar, but these were later replaced by the originally intended pair of American [[Mark 32 Surface Vessel Torpedo Tubes|{{convert|12.75|in|mm|0|adj=on}} Mk 32 triple-barrelled anti-submarine torpedo tubes]]. The main guns were replaced by two twin-gun turrets fitted with [[QF 4 inch Mk XVI naval gun|4-inch (102&amp;nbsp;mm) Mk XVI guns]], one forward of the [[bridge (nautical)|bridge]] and the other aft of the hangar. Her electronics were modernized as well although she retained the existing search radar. The changes increased her crew to 186–210 officers and ratings.&lt;ref&gt;du Toit, pp. 196, 199&lt;/ref&gt;
+
+==Construction and career==
+===British service===
+The W-class destroyers were ordered on 3 December 1941 and ''Whelp'' was [[laid down]] by [[Hawthorn Leslie and Company]] at their [[shipyard]] in [[Hebburn]] on 1 May 1942. The ship was [[Ceremonial ship launching|launched]] on 3 June 1943 and completed on 14 July 1944.&lt;ref name=l2/&gt; She was initially assigned to the [[3rd Destroyer Flotilla]] (DF) of the [[Home Fleet]] and was based in [[Scapa Flow]]. During her active service, her [[captain (nautical)|captain]] and [[executive officer|first lieutenant]] were [[Commander]] G. A. F. Norfolk and [[Lieutenant (naval)|Lieutenant]] [[Philip Mountbatten]] (now Prince Philip, Duke of Edinburgh), respectively. In mid-June, ''Whelp'' sailed to [[Spitsbergen]] to resupply the small Allied garrison there.&lt;ref name=ag&gt;{{cite web |last=Gatrell |first=Anthony |title=HMS Whelp: Reminiscences of a Young Naval Officer |work=WW2 People's War |publisher=BBC |year=2004 |url=http://www.bbc.co.uk/history/ww2peopleswar/stories/23/a2103823.shtml |accessdate=8 November 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web |title=The Duke of Edinburgh - Naval career |work=The Official Website of the British Monarchy |year=2009 |url=http://www.royal.gov.uk/ThecurrentRoyalFamily/TheDukeofEdinburgh/Navalcareer.aspx |accessdate=6 February 2010}}&lt;/ref&gt; ''Whelp'' was then assigned to the [[27th Destroyer Flotilla]] which left for the Far East on 2 August and arrived in [[Trincomalee]], [[Ceylon]] (now Sri Lanka), on 12 September.&lt;ref name=e3/&gt; En route, the ship covered the Allied invasion of Southern France ([[Operation Dragoon]]) in mid-August.&lt;ref name=ag/&gt;
+
+By October, the 27th DF was assigned to the Eastern Fleet in the [[Indian Ocean]] and ''Whelp'' escorted the aircraft carriers {{HMS|Indomitable|92|2}} and {{HMS|Victorious|R38|2}} while their aircraft attacked [[Nancowry]] harbour and other targets in the Nicobar Islands as part of [[Operation Millet]]. When the Eastern Fleet attempted to attack the [[oil refinery]] complex at [[Pangkalan Brandan]], [[Sumatra]], in mid-November, ''Whelp'' and her [[sister ship]] {{HMS|Wager|R98|2}} escorted the [[oiler (ship)|oiler]] {{ship|RFA|Wave King|A264|6}}. The [[British Pacific Fleet]] (BPF) was formed a few days afterwards and attacked the refinery at [[Belawan Deli]] during [[Operation Robson]] a month later, as the ship escorted the main body of the fleet. She did much the same during [[Operation Lentil (Sumatra)|Operation Lentil]], another attack on the refinery at Pangkalan Brandan at the beginning of January 1945. ''Whelp'' was then detached to tow the damaged submarine {{HMS|Shakespeare|P221|6}} to Trincomalee, arriving on 8 January. The BPF departed from the port eight days later, bound for [[Sydney]], Australia. En route its aircraft attacked the refineries in [[Plaju]] and [[Sungai Gerong]], Sumatra, on 24 and 29 January ([[Operation Meridian|Operation Meridian I &amp; II]]) before arriving on 10 February.&lt;ref&gt;English, p. 103; Hobbs, pp. 57, 61, 64, 73, 241; Rohwer, pp. 373, 377, 388&lt;/ref&gt; ''Whelp'' rescued the crew of a crashed [[Grumman TBF Avenger]], [[Sub-Lieutenant]] [[Roy Halliday]] and his gunner, Norman Richardson, during the second attack.&lt;ref&gt;{{cite web|title=A Right Royal Rescue - BBC Radio 4|url=http://www.bbc.co.uk/programmes/b0076wrm|website=BBC|accessdate=8 November 2016}}&lt;/ref&gt;
+
+On 28 February, the BPF sailed for their forward base at [[Manus Island]] and arrived on 7 March and exercised together before sailing for [[Ulithi]] on 18 March. The BPF joined the American [[United States Fifth Fleet|Fifth Fleet]] there two days later to participate in the preliminary operations for the [[Battle of Okinawa|invasion of Okinawa]]. The British role during the operation was to neutralise airfields on the [[Sakishima Islands]], between Okinawa and [[Formosa]], beginning on 26 March. They later attacked airfields in Formosa before returning to the Sakishima Islands. The BPF retired to [[Leyte Gulf]] to rest and resupply on 17 April&lt;ref&gt;Hobbs, pp. 126–51; Rohwer, p. 402&lt;/ref&gt; and ''Whelp'', together with ''Wager'', was tasked to escort the badly damaged carrier {{HMS|Illustrious|87|2}} to Sydney on 3 May.&lt;ref&gt;McCart, pp. 30, 32&lt;/ref&gt; They arrived on 14 May and ''Whelp'' continued on to [[Melbourne]] to begin a refit that lasted until July.&lt;ref name=e3&gt;English, p. 103&lt;/ref&gt;
+
+She rejoined the BPF at Sydney (now attached to the [[United States 3rd Fleet]]) and on 31 July escorted the [[battleship]] {{HMS|Duke of York|17|2}} to [[Guam]], together with ''Wager'', where they arrived on 9 August. Admiral [[Bruce Fraser, 1st Baron Fraser of North Cape|Bruce Fraser]], [[Commander-in-chief]] of the BPF, conferred with U.S. Admiral [[Chester W. Nimitz|Chester Nimitz]], the [[Commander in Chief Pacific Fleet Headquarters (World War II)|Commander-in-Chief Pacific Fleet Headquarters]]. The ships then proceeded to rendezvous with the main body of the fleet off the coast of Japan on the 16th. ''Whelp'' was the first Allied ship to enter [[Sagami Bay]] on 27 August, leading the way for ''Duke of York'' and the American battleships {{USS|Iowa|BB-61|2}} and {{USS|Missouri|BB-63|2}}. She was present at [[Tokyo]] for the [[Surrender of Japan|formal surrender of the Japanese]] on 2 September. She left Tokyo on 9 September and, following an overnight stop at Okinawa on 11/12 September, arrived at [[Hong Kong]] with Admiral Fraser aboard. He accepted the surrender of the Japanese forces in Hong Kong on 16 September.&lt;ref name=wjs&gt;{{cite web |last=Stonebridge |first=W J |title=HMS Whelp: Memories of a Young Stoker, Pt. 7 |work=WW2 People's War |publisher=BBC |date=11 January 2005 |url=http://www.bbc.co.uk/history/ww2peopleswar/stories/90/a3509390.shtml|accessdate=9 November 2016}}&lt;/ref&gt;
+
+''Whelp'' was remained in Hong Kong and conducted anti-piracy patrols along the Chinese coast. On 12 November, the ship departed Hong Kong for Sydney, via [[Darwin, Northern Territory|Darwin]], and arrived there on the 24th to begin a brief refit. She sailed for Britain on 7 December and arrived at [[Portsmouth]] on 17 January 1946. ''Whelp'' was [[paid off]] and was in Category B reserve by 30 May.&lt;ref name=e3/&gt;&lt;ref name=wjs/&gt; She was recommissioned on 9 August 1947 and refitted at [[HMNB Portsmouth|Portsmouth Royal Dockyard]] in September–October preparation for the voyage to South Africa in company with her sisters, {{HMS|Kempenfelt|R03|2}}, {{HMS|Wessex|R78|2}} and {{HMS|Wrangler|R48|2}} to form the South Atlantic Reserve Force in [[Simon's Town]]. ''Whelp'' was damaged while in dock on 8 September 1949. She was scheduled to be converted into a Type 62 air defence frigate, but this was cancelled when that programme was abandoned.&lt;ref&gt;du Toit, p. 195; English, pp. 101–03&lt;/ref&gt;
+
+===South African service===
+''Whelp'' was offered to South Africa in 1950, together with ''Wessex'', but she was not purchased until 25 April 1952 for [[pound sterling|£420,000]].&lt;ref name=e3/&gt; The ship was commissioned on 23 February 1953 and was renamed ''Simon van der Stel'', after the first governor of [[Cape Colony]]. Much of the ship's service was as a &quot;grey ambassador&quot;, on goodwill visits to Europe and the European colonies in African, including a 147-day cruise to Europe in 1954 with Commander [[M. R. Terry-Lloyd]] in command. This began on 14 July, when she departed Durban on what was the longest flag-showing cruise ever by an SAN warship. En route to Portsmouth, ''Simon van der Stel'' stopped in [[Freetown]], [[Sierra Leone]], and [[Dakar]], [[French West Africa]] and arrived there on 31 July. Then she became the first SAN ship to visit, when the warship berthed in [[Rotterdam]], [[Netherlands]], [[Derry]], [[Northern Ireland]], and [[Glasgow]], [[Scotland]]. On 21 October, the ship escorted {{SAS|Gelderland}} (the former HMS ''Brayford'', a new {{sclass-|Ford|seaward defence boat}} back home. On their way to Durban, the ships visited [[France]], [[Portugal]], the [[Canary Islands]], Dakar, French West Africa, and [[French Equatorial Africa]] before arriving at their destination on 8 December, ''Simon van der Stel'' having steamed some {{convert|17200|nmi}}.&lt;ref&gt;du Toit, pp. 195–96, 200&lt;/ref&gt; This role, however, declined as South Africa became increasingly isolated during the [[apartheid]] years.&lt;ref&gt;{{cite web |title=Unlikely Ambassadors |publisher=South African Navy |date=9 February 2010 |url=http://www.navy.mil.za/aboutus/history/ambassadors.htm |accessdate=9 November 2016}}&lt;/ref&gt;
+
+The ship was placed in reserve from 1957, but was modernised at [[Naval Base Simon's Town|Simon's Town Naval Dockyard]] from 1962 to 1964, and re-commissioned on 27 February 1964. ''Simon van der Stel'' remained in commission for just over a year as manpower shortages mandated that she be reduced back to reserve in March 1965. The ship was recommissioned on 17 June 1968 and was briefly assigned to the 10th Frigate Squadron until she was redesignated as a training ship on 1 October. ''Simon van der Stel'' visited [[Portuguese Mozambique]] later that month. In June 1969, she was ordered to proceed to [[Gough Island]] to search for two missing members of the [[weather station]] there, but only found their bodies. The ship was replaced in her training role by her sister {{SAS|Jan van Riebeeck||2}} in 1972 and she was paid off on 27 March. ''Simon van der Stel'' was reactivated with a skeleton crew in early 1975 for a refit at Durban, but she was deemed too expensive to repair and was scrapped there by [[Sandock-Austral]] in late 1976.&lt;ref&gt;du Toit, pp. 196–97; English, p. 104&lt;/ref&gt;
+
+==Footnotes==
+{{reflist|30em}}
+
+==Publications==
+*{{colledge}}
+*{{cite book|last1=Du Toit|first1=Allan|authorlink=Allan du Toit|title=South Africa's Fighting Ships: Past and Present|date=1992|publisher=Ashanti Publishing|location=Rivonia, South Africa|isbn=1-874800-50-2}}
+*{{cite book|last1=English|first1=John|title=Obdurate to Daring: British Fleet Destroyers 1941–1945|date=2008|publisher=World Ship Society|location=Windsor, UK|isbn=978-0-9560769-0-8}}
+*{{cite book|last=Hobbs|first=David, Commander|title=The British Pacific Fleet: The Royal Navy's Most Powerful Strike Force|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2011|isbn=978-1-59114-044-3}}
+* {{cite book|last=Lenton|first=H. T.|title=British &amp; Empire Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1998|isbn=1-55750-048-7}}
+* {{cite book |last=Raven |first=Alan |last2=Roberts|first2=John |title=War Built Destroyers: O to Z Classes|publisher=Bivouac Books |location=London |year=1978 |isbn=0-85680-010-4|lastauthoramp=y}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939–1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+* {{cite book|last=Whitley|first=M. J.|title=Destroyers of World War 2|publisher=Naval Institute Press|year=1988|isbn=0-87021-326-1|location=Annapolis, Maryland}}
+
+==External links==
+* [http://www.naval-history.net/xGM-Chrono-10DD-63W-Whelp.htm HMS ''Whelp'' on naval-history.net]
+
+{{W and Z class destroyers}}
+
+{{DEFAULTSORT:Whelp}}
+[[Category:W and Z-class destroyers]]
+[[Category:Tyne-built ships]]
+[[Category:1943 ships]]
+[[Category:World War II destroyers of the United Kingdom]]
+[[Category:Cold War destroyers of the United Kingdom]]
+[[Category:Type 15 frigates of the South African Navy]]
+[[Category:W-class destroyers of the South African Navy|Simon van der Stel]]</text>
+      <sha1>jppstla864sqsicrz694s0939la5u8t</sha1>
+    </revision>
+  </page>
+</mediawiki>

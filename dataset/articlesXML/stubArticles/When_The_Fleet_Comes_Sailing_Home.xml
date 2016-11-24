@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>When The Fleet Comes Sailing Home</title>
+    <ns>0</ns>
+    <id>51190810</id>
+    <revision>
+      <id>751148939</id>
+      <parentid>731988173</parentid>
+      <timestamp>2016-11-23T18:04:28Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>copyedit, links and AWB general fixes, replaced: [[World War 1 → [[World War I, added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2072">{{Orphan|date=November 2016}}
+
+{{Infobox song
+| title           = When The Fleet Comes Sailing Home
+| English_title   = 
+| comment         = 
+| image           =
+| caption         = Sheet Music cover
+| alt             = 
+| original_artist = 
+| recorded_by     = 
+| performed_by    = 
+| written         = 
+| Released        = &lt;!-- {{Start date|YYYY|MM|DD}} --&gt;
+| Published       = 1918
+| Length          = &lt;!-- {{Duration|m=MM|s=SS}} --&gt;
+| Writer          = Carl M. Legg
+| Composer        = Jay Flanagan
+| Language        = English
+| Form            = 
+}}
+'''When The Fleet Comes Sailing Home''' is a [[World War I]] song written by Carl M. Legg and composed by Jay Flanagan.&lt;ref&gt;{{cite book |last1=Vogel |first1=Frederick G. |date=1995 |title=World War I Songs: A History and Dictionary of Popular American Patriotic Tunes, with Over 300 Complete Lyrics |location=Jefferson |publisher=McFarland &amp; Company, Inc. |page=272 |isbn=0-89950-952-5}} {{OCLC | 32241433}}&lt;/ref&gt; The song was first published in 1918 by Songland Music in [[Brooklyn, NY]]. The sheet music cover depicts a mother, wife, and son in uniform waving at an arriving transport ship.&lt;ref&gt;{{cite book |last=Parker |first=Bernard S. |year=2007 |title=World War I Sheet Music Vol 2. |location=Jefferson |publisher=McFarland &amp; Company, Inc. |page=782 |isbn=0-7864-2799-X |oclc=71790113}}&lt;/ref&gt;
+
+The sheet music can be found at the [[Pritzker Military Museum &amp; Library]].&lt;ref&gt;Flanagan, T. Jay, and Carl M. Legg. 1918. ''When the fleet comes sailing home''. Brooklyn (549 Kosciusko St., Brooklyn, N.Y.): Songland Music Pub. Co.{{OCLC|79690734}}&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+;Bibliography
+*Parker, Bernard S. ''World War I Sheet Music Vol 2.'' Jefferson: McFarland &amp; Company, Inc., 2007. ISBN 0-7864-2799-X. {{OCLC | 71790113}}
+*Vogel, Frederick G. ''World War I Songs: A History and Dictionary of Popular American Patriotic Tunes, with Over 300 Complete Lyrics''. Jefferson: McFarland &amp; Company, Inc., 1995. ISBN 0-89950-952-5. {{OCLC | 32241433}}
+
+[[Category:1918 songs]]
+[[Category:Songs of World War I]]</text>
+      <sha1>d68s6cwdlyn2bty44xsev58f9s8klnv</sha1>
+    </revision>
+  </page>
+</mediawiki>

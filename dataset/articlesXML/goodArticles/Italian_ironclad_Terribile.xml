@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian ironclad Terribile</title>
+    <ns>0</ns>
+    <id>48047314</id>
+    <revision>
+      <id>707731133</id>
+      <parentid>702637175</parentid>
+      <timestamp>2016-03-01T13:24:15Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12177">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Italian ironclad Terribile.jpg|300px]]
+|Ship caption=''Terribile'' in Naples in 1869
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Kingdom of Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy}}
+|Ship name=''Terribile''
+|Ship namesake=
+|Ship laid down=June 1860
+|Ship launched=16 February 1861
+|Ship completed=September 1861
+|Ship stricken=1904
+|Ship fate=[[ship breaking|Broken up]]
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Formidabile|ironclad|0}} [[ironclad warship]]
+|Ship displacement=*Normal: {{convert|2682|LT|t|0|abbr=on}}
+*Full load: {{convert|2807|MT|0|abbr=on}}
+|Ship length={{convert|65.8|m|ftin|abbr=on}}
+|Ship beam={{convert|14.44|m|ftin|abbr=on}}
+|Ship draft={{convert|5.45|m|ftin|abbr=on}}
+|Ship power=*6 rectangular [[boiler]]s
+*{{convert|1100|ihp|0|abbr=on}}
+|Ship propulsion=One single-expansion [[steam engine]]s
+|Ship speed={{convert|10|kn|lk=in}}
+|Ship range={{convert|1300|nmi|km|abbr=on}} at {{convert|10|kn|abbr=on}}
+|Ship complement=371
+|Ship armament=*4 × {{convert|203|mm|abbr=on|0}} guns
+*16 × {{convert|164|mm|abbr=on|0}} guns
+|Ship armor=[[Belt armor]]: {{convert|4.3|in|abbr=on|0}}
+|Ship notes=
+}}
+|}
+
+'''''Terribile''''' was the first [[ironclad warship]] to be built for the Italian ''[[Regia Marina]]'' (Royal Navy), and the second member of the {{sclass-|Formidabile|ironclad|4}}. ''Terribile'' and her sister, {{ship|Italian ironclad|Formidabile||2}}, were both built in France. A [[broadside ironclad]], she was laid down in June 1860, launched in February 1861, and was completed in September that year. She was the first Italian ironclad to enter service and was equipped with four {{convert|203|mm|abbr=on}} and sixteen {{convert|164|mm|abbr=on}} guns.
+
+The ship took part in the operation off [[Vis (island)|Lissa]] in 1866 during the [[Third Italian War of Independence]]. There, was tasked with neutralizing the Austrian coastal [[artillery battery|batteries]] protecting the port at [[Komiža|Comisa]], which placed her too far away to take part in the ensuing [[Battle of Lissa (1866)|Battle of Lissa]]. The ship's postwar career was limited due to a combination of drastically reduced naval budgets and the appearance of more modern ironclads. In 1885, ''Terribile'' was withdrawn from service for use as a [[training ship]]. She remained in service until 1904 when she was [[ship breaking|broken up]] for scrap.
+
+==Design==
+{{main|Formidabile-class ironclad}}
+
+''Terribile'' was {{convert|65.8|m|sp=us}} [[length overall|long overall]]; she had a [[beam (nautical)|beam]] of {{convert|14.44|m|abbr=on}} and an average [[draft (hull)|draft]] of {{convert|5.45|m|abbr=on}}. She displaced {{convert|2682|MT|sp=us}} normally and up to {{convert|2807|MT|sp=us|abbr=on}} at full load. She had a crew of 371. Her propulsion system consisted of one single-expansion [[steam engine]] that drove a single [[screw propeller]], with steam supplied by six coal-fired, rectangular [[boiler]]s. Her engine produced a top speed of {{convert|10|kn|lk=in}} from {{convert|1100|ihp|lk=in}}. She could steam for about {{convert|1300|nmi|lk=in}} at her top speed. To supplement her steam engine, the ship was [[schooner]]-rigged.&lt;ref name=G337&gt;Gardiner, p. 337&lt;/ref&gt;
+
+''Terribile'' was a [[broadside ironclad]], armed with a [[main battery]] of four {{convert|203|mm|abbr=on}} guns and sixteen {{convert|164|mm|abbr=on}} [[Muzzle-loading rifle|rifled muzzle-loading]] guns. The ship's hull was sheathed with [[wrought iron]] armor that was {{convert|4.3|in|abbr=on|0}} thick.&lt;ref name=G337/&gt;
+
+==Service history==
+''Terribile'' was built by the ''[[Société Nouvelle des Forges et Chantiers de la Méditerranée]]'' shipyard in [[La Seyne]]; her [[keel]] was laid down in June 1860, the first member of her class to begin construction. She was launched on 16 February 1861 and was completed in September that year.&lt;ref name=G337/&gt; In June 1866, Italy declared war on Austria, as part of the [[Third Italian War of Independence]], which was fought concurrently with the [[Austro-Prussian War]].&lt;ref name=S1&gt;Sondhaus, p. 1&lt;/ref&gt; The Italian fleet commander, Admiral [[Carlo Pellion di Persano]], initially adopted a cautious course of action; he was unwilling to risk battle with the [[Austro-Hungarian Navy|Austrian Navy]], despite the fact that the Austrian fleet was much weaker than his own. Persano claimed he was simply waiting on the ironclad ram {{ship|Italian ironclad|Affondatore||2}}, ''en route'' from Britain, but his inaction weakened morale in the fleet, with many of his subordinates openly accusing him of cowardice.&lt;ref&gt;Greene &amp; Massignani, pp. 217&amp;ndash;222&lt;/ref&gt;
+
+Rear Admiral [[Wilhelm von Tegetthoff]] brought the Austrian fleet to [[Ancona]] on June 27, in attempt to draw out the Italians. At the time, many of the Italian ships were in disarray; ''Terribile'' was carrying only half her guns at the time, and other ships were experiencing various difficulties with their engines or armament. Persano held a council of war aboard the ironclad {{ship|Italian ironclad|Principe di Carignano||2}} to determine whether he should sortie to engage Tegetthoff, but by that time, the Austrians had withdrawn, making the decision moot. The Minister of the Navy, [[Agostino Depretis]], urged Persano to act and suggested the island of [[Vis (island)|Lissa]], to restore Italian confidence after their defeat at the [[Battle of Custoza (1866)|Battle of Custoza]] the previous month. On 7 July, Persano left Ancona and conducted a sweep into the Adriatic, but encountered no Austrian ships and returned on the 13th.&lt;ref&gt;Wilson, pp. 216&amp;ndash;218&lt;/ref&gt;
+
+===Battle of Lissa===
+[[File:Battle of Lissa - 1866 - Initial Situation.svg|thumb|upright|Map showing the disposition of the fleets on 20 July; ''Terribile'' was further to the south and did not see action]]
+{{see also|Battle of Lissa (1866)}}
+
+On 16 July, Persano took the Italian fleet out of Ancona, bound for Lissa, where they arrived on the 18th. With them, they brought troop transports carrying 3,000 soldiers; the Italian warships began bombarding the Austrian forts on the island, with the intention of landing the soldiers once the fortresses had been silenced. In response, the Austrian Navy sent the fleet under Tegetthoff to attack the Italian ships.&lt;ref&gt;Sondhaus, pp. 1&amp;ndash;2&lt;/ref&gt; ''Terribile'' was at that time in the 3rd Division, along with her sister {{ship|Italian ironclad|Formidabile||2}}, the ironclads {{ship|Italian ironclad|Re di Portogallo||2}} and {{ship|Italian ironclad|Regina Maria Pia||2}}, and the [[coastal defense ship]]  {{ship|Italian coastal defense ship|Varese||2}}.&lt;ref&gt;Wilson, p. 219&lt;/ref&gt; After spending the 18th unsuccessfully bombarding the Austrian fortresses, the Italians withdrew late in the day, preparing to launch another attack the following morning. Persano ordered ''Terribile'' and ''Varese'' to attack the fortifications protecting the town of [[Comisa]], while the rest of the fleet would attack the main port at [[Vis (town)|Vis]]. These attacks again failed to defeat the Austrian defenders.&lt;ref&gt;Wilson, pp. 221&amp;ndash;223&lt;/ref&gt;
+
+Persano repeated his orders for the 20th, with ''Terribile'' and ''Varese'' again tasked with suppressing the batteries at Comisa. Before the Italians could begin the attack, the [[dispatch boat]] {{ship|Italian dispatch boat|Esploratore||2}} arrived, bringing news of Tegetthoff's approach. Persano's fleet was in disarray; ''Terribile'' and ''Varese'' were nine miles to the west of most of his ships, preparing to attack Comisa, and three other ironclads were to the north-east.&lt;ref&gt;Wilson, pp. 223&amp;ndash;225&lt;/ref&gt; Persano immediately recalled ''Terribile'' and ''Varese'' while he ordered his ships first into a [[line abreast]] formation, and then to [[line ahead]] formation. Shortly before the action began, Persano left his flagship, {{ship|Italian ironclad|Re d'Italia||2}}, and transferred to ''Affondatore'', though none of his subordinates on the other ships were aware of the change. They there thus left to fight as individuals without direction.&lt;ref&gt;Wilson, pp. 231&amp;ndash;233&lt;/ref&gt;
+
+''Terribile'' did not see action during the battle; she only fired a single long-range shot at the [[ship of the line]] {{SMS|Kaiser|1858|2}}.&lt;ref&gt;Greene &amp; Massignani, p. 230&lt;/ref&gt; She had answered Persano's summons very slowly and only arrived on the scene after ''Re d'Italia'' had been rammed and sunk, and the coastal defense ship {{ship|Italian coastal defense ship|Palestro||2}} had been set on fire, soon to be destroyed by a magazine explosion. Persano's forces had withdrawn, and though his ships still outnumbered the Austrians, Persano refused to counter-attack. The Italian fleet began to withdraw, followed by the Austrians; as night began to fall, the opposing fleets disengaged completely, heading for Ancona and [[Pula|Pola]], respectively.&lt;ref&gt;Wilson, pp. 238&amp;ndash;241, 250&lt;/ref&gt;
+
+===Later career===
+[[File:Italian ironclad Terribile in La Spezia.jpg|thumb|''Terribile'' in La Spezia in 1896]]
+After the battle, Persano was replaced by Admiral [[Giovanni Vacca (admiral)|Giovanni Vacca]]; he was ordered to attack the main Austrian naval base at Pola, but the war ended before the operation could be carried out.&lt;ref&gt;Wilson, p. 251&lt;/ref&gt; After the end of the war, the government lost confidence in the fleet and drastically reduced the naval budget. The cuts were so severe that the fleet had great difficulty in mobilizing its ironclad squadron to attack the port of [[Civitavecchia]] in September 1870, as part of the [[Italian unification|wars of Italian unification]]. Instead, the ships were laid up and the sailors [[conscript]]ed to man them were sent home.&lt;ref&gt;Gardiner, p. 336&lt;/ref&gt; ''Terribile'' was rapidly surpassed, first by [[central battery ship|central battery]] and then [[turret ship]]s, which made the first generation of ironclads like ''Terribile'' and her sister obsolete.&lt;ref&gt;Sondhaus (2001), p. 112&lt;/ref&gt;
+
+In 1872&amp;ndash;73, the ship received new boilers. Her armament was significantly reduced in 1878 to eight 8-inch guns. Starting in 1885, ''Terribile'' was employed as a [[training ship]]. By that time her armament had been revised and now consisted of two {{convert|6|in|abbr=on|0}} guns, two {{convert|5.9|in|abbr=on|0}} guns, and two {{convert|4.7|in|abbr=on|0}} guns alongside two [[torpedo tube]]s. She served in this capacity until 1904, when she was stricken from the [[naval register]] and subsequently [[ship breaking|broken up]] for scrap.&lt;ref name=G337/&gt;&lt;ref&gt;Ordovini et al., p. 328&lt;/ref&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+*{{Cite book |last1=Greene|first1=Jack|last2=Massignani|first2=Alessandro|title=Ironclads at War: The Origin and Development of the Armored Warship, 1854–1891|year=1998|location=Pennsylvania|publisher=Da Capo Press|lastauthoramp=y|isbn=0-938289-58-6}}
+*{{cite magazine|last1=Ordovini|first1=Aldo F.|last2=Petronio|first2=Fulvio|last3=Sullivan|first3=David M.|title=Capital Ships of the Royal Italian Navy, 1860–1918: Part I: The ''Formidabile, Principe di Carignano, Re d'Italia, Regina Maria Pia, Affondatore, Roma'' and ''Principe Amedeo'' Classes|magazine=[[Warship International]]|date=December 2014|volume= 51|issue= 4|pages=323–360}}
+*{{Cite book| last=Sondhaus| first=Lawrence| title=The Naval Policy of Austria-Hungary, 1867&amp;ndash;1918| year=1994| location=West Lafayette, In| publisher=Purdue University Press| isbn=978-1-55753-034-9}}
+* {{cite book|last=Sondhaus|first=Lawrence|title=Naval Warfare, 1815–1914|location=New York|publisher=Routledge|year=2001|isbn=0-415-21478-5}}
+* {{cite book|last=Wilson|first=Herbert Wrigley|title=Ironclads in Action: A Sketch of Naval Warfare from 1855 to 1895|year=1896|publisher=S. Low, Marston and Company|location=London|oclc=1111061}}
+
+{{Formidabile class ironclads}}
+
+[[Category:Formidabile class ironclad|Terribile]]</text>
+      <sha1>gqx21ddevd4qm8nx6maa5n9ktp2f4xn</sha1>
+    </revision>
+  </page>
+</mediawiki>

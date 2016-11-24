@@ -1,0 +1,230 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tosa-class battleship</title>
+    <ns>0</ns>
+    <id>12933313</id>
+    <revision>
+      <id>693303845</id>
+      <parentid>688916728</parentid>
+      <timestamp>2015-12-01T18:30:31Z</timestamp>
+      <contributor>
+        <username>Dallas S12345</username>
+        <id>25178882</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25628">{{featured article}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Model of battleship Kaga port view - cleaned up.jpg|300px]]
+|Ship caption=Scale model of ''Kaga'' as originally designed
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators={{navy|Empire of Japan}}
+|Name=''Tosa'' class
+|Class before={{sclass-|Nagato|battleship|4}}
+|Class after={{sclass-|Kii|battleship|4}}
+|Built range=1920–1922
+|In commission range=
+|Total ships planned=2
+|Total ships completed=1; converted to an [[aircraft carrier]] (''Kaga'')
+|Total ships cancelled=1
+|Total ships scrapped=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Dreadnought]] [[battleship]]
+|Ship displacement=*{{convert|39900|t|LT|abbr=on}} (normal)
+*{{convert|44200|t|LT|abbr=on}} ([[Full-load displacement|full load]])
+|Ship length={{convert|231.7|m|ftin|abbr=on}}
+|Ship beam={{convert|30.5|m|ftin|abbr=on}}
+|Ship draft= {{convert|9.4|m|ftin|abbr=on}}
+|Ship power=*{{convert|91000|shp|lk=in|abbr=on}}
+*12 × [[water-tube boiler]]s
+|Ship propulsion=*4 × shafts
+*4 × geared [[John Brown &amp; Company|Brown-Curtis]] [[steam turbine]]s
+|Ship speed={{convert|26.5|kn|lk=in}}
+|Ship range={{convert|5500|nmi|lk=in|abbr=on}} at {{convert|16|kn}}
+|Ship complement=
+|Ship armament=*5 × twin [[41 cm/45 3rd Year Type naval gun|41&amp;nbsp;cm guns]]
+*20 × single [[14 cm/50 3rd Year Type naval gun|14&amp;nbsp;cm guns]]
+*4 × single [[8&amp;nbsp;cm/40 3rd Year Type naval gun|76&amp;nbsp;mm]] [[AA gun]]s
+*8 × {{convert|61|cm|in|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|280|mm|in|abbr=on|1}}
+*[[Deck (ship)|Deck]]: {{convert|102|mm|in|abbr=on|1}}
+*[[Barbette]]s: {{convert|305|-|229|mm|in|abbr=on|1}}
+*[[Conning tower]]: {{convert|356|mm|in|abbr=on|1}}
+
+|Ship notes=
+}}
+|}
+
+The {{nihongo|'''''Tosa''-class battleships'''|土佐型戦艦|Tosa-gata Senkan}}&lt;ref group=&quot;A&quot;&gt;The ships are sometimes referred to as the ''Kaga'' class, after the ship that was planned to have been completed first.&lt;/ref&gt; were two [[dreadnought]]s ordered as part of the &quot;[[Eight-eight fleet|Eight-Eight]]&quot; fleet for the [[Imperial Japanese Navy]] (IJN) during the early 1920s. The ships were larger versions of the preceding {{sclass-|Nagato|battleship|4}}, and carried an additional {{convert|41|cm|in|1|adj=on|sp=us}} twin-gun [[gun turret|turret]]. The design for the class served as a basis for the {{sclass-|Amagi|battlecruiser|2}}s.
+
+Both ships were launched in late 1921, but the first ship, {{ship|Japanese battleship|Tosa||2}}, was cancelled in accordance with the terms of the [[Washington Naval Treaty]] before it could be completed, and was used in experiments testing the effectiveness of its armor scheme before being [[scuttled]] in the [[Bungo Channel]]. The hull of the second ship, {{ship|Japanese aircraft carrier|Kaga||2}}, was converted into an [[aircraft carrier]] of the same name. The carrier supported Japanese troops in China during the [[Second Sino-Japanese War]] of the late 1930s, and took part in the [[attack on Pearl Harbor]] on 7 December 1941 and the [[battle of Rabaul (1942)|invasion of Rabaul]] in the Southwest Pacific in January 1942. The following month her aircraft participated in a [[Bombing of Darwin|combined carrier airstrike]] on [[Darwin, Northern Territory|Darwin]], Australia, during the [[Dutch East Indies campaign]]. She was sunk during the [[Battle of Midway]] in 1942.
+
+== Background ==
+The IJN believed that a modern battle fleet of eight battleships and eight [[armored cruiser]]s was necessary for the defense of Japan; the government ratified that idea in 1907.&lt;ref&gt;Evans &amp; Peattie, p. 150&lt;/ref&gt; This policy was the genesis of the [[Eight-Eight Fleet Program]], the development of a cohesive battle line of sixteen [[capital ship]]s less than eight years old.&lt;ref name=stille7&gt;Stille, p. 7&lt;/ref&gt; Advances in naval technology represented by the British battleship {{HMS|Dreadnought|1906|6}} and the [[battlecruiser]] {{HMS|Invincible|1907|6}} forced the IJN to reevaluate on several occasions which ships it considered &quot;modern&quot; and, in 1911, it restarted the program with orders for the {{sclass-|Fusō|battleship|0}} dreadnoughts and the {{sclass-|Kongō|battlecruiser|2}}s. By 1915, the IJN was halfway to its goal and wanted to order four more dreadnoughts, but the [[Diet of Japan|Diet]] rejected the plan and authorized only the dreadnought {{ship|Japanese battleship|Nagato||2}} and two battlecruisers in the 1916 budget. Later that year American President [[Woodrow Wilson]] announced plans for ten additional battleships and six battlecruisers, and the Diet authorized three more dreadnoughts in response the following year: a second {{sclass-|Nagato|battleship|1}}&amp;mdash;{{ship|Japanese battleship|Mutsu||2}}&amp;mdash;and two to a modified design, ''Tosa'' and ''Kaga''.&lt;ref&gt;Evans &amp; Peattie, pp. 160, 166–67&lt;/ref&gt;
+
+== Design and description ==
+The IJN began reevaluating the ''Nagato'' design in light of lessons learned from the [[Battle of Jutland]] in May 1916, experiments evaluating armor protection, and newly acquired information on the protective schemes of British and American capital ships. These lessons highlighted the need for better protection of the main gun turrets and magazines, as well as thicker deck armor to protect against [[plunging fire]]. Existing methods of defense against [[naval mine|mines]] and torpedoes had also proved to be inadequate and needed improvement. Eleven new designs were rejected between October and early 1917 before [[Captain (naval)|Captain]] [[Yuzuru Hiraga]], superintendent of shipbuilding and the [[naval architect]] in charge of the fundamental design of the ships of the Eight-Eight Fleet, presented a heavily modified version of the ''Nagato'' design, A-125, to be built in lieu of the second ship of the class, ''Mutsu'', on 12 June 1917, well before she was actually [[Keel|laid down]].&lt;ref&gt;Lengerer 2010, pp. 3, 7&lt;/ref&gt;
+
+Hiraga's design for the ship reflected the latest combat experience as well as incorporating advances in [[boiler (steam generator)|boiler]] technology. It added an extra twin main-gun turret, using space and weight made available by the reduction of the number of boilers from 21 to 12 while the power remained the same. He reduced the [[Battleship secondary armament|secondary armament]] from 20 guns to 16; they were moved up a deck to improve their arcs of fire and their ability to shoot during heavy weather. To increase the ship's protection he proposed to angle the belt armor outwards to improve its resistance to horizontal fire, and to thicken the lower deck armor and the torpedo bulkhead. Hiraga also planned to add [[anti-torpedo bulge]]s to improve the ship's underwater protection. He estimated that his ship would displace as much as ''Nagato'', although it would cost about a million [[yen]] more. These changes would have considerably delayed the ship's completion and were rejected by the [[Ministry of the Navy of Japan|Navy Ministry]].&lt;ref&gt;Lengerer 2010, pp. 3, 6–7&lt;/ref&gt; The rejected design formed the basis for a much larger {{convert|39000|t|LT|adj=on|sp=us}} battleship, designated as A-127, with nearly twice as much armor weight as the ''Nagato''s. It was designed to achieve the same speed as the older ships, to allow them to maneuver together as a tactical formation. This design was accepted on 27 March 1918 and became the ''Tosa'' class.&lt;ref&gt;Lengerer 2010, pp. 4, 10&lt;/ref&gt;
+
+The ''Tosa''-class ships had a planned displacement of {{convert|39900|t|LT|abbr=on}}, and {{convert|44200|t|LT|abbr=on}} at a full load. They would have been {{convert|231.65|m|ft|sp=us}} long at the [[Length at the waterline|waterline]], and {{convert|234.09|m|ft|sp=us}} [[Length overall|overall]]; the ships would have had a [[Beam (nautical)|beam]] of {{convert|30.48|m|ft|sp=us}} and a [[Draft (hull)|draft]] of {{convert|9.39|m|ft|sp=us}}. The ''Tosa'' class would have had a [[metacentric height]] of {{convert|1.292|m|ftin|sp=us}} at normal load.&lt;ref&gt;Lengerer 2010, pp. 11–12&lt;/ref&gt; A [[turbo-electric]] propulsion system was considered for these ships after the United States announced that the system was a great success in the battleship {{USS|New Mexico|BB-40|6}}, and the Japanese estimated that a {{convert|70000|shp|lk=in|adj=on}} turbo-electric plant could be installed in the ''Tosa'' class, which would have given the ships a speed of {{convert|25.25|kn|lk=in}}, a {{convert|2500|nmi|lk=in|adj=on}} range at full speed, and a {{convert|7800|nmi|adj=on}} range at {{convert|14|kn}}, but this system was rejected. More conventional Curtis geared [[steam turbine]]s were chosen, powered by 12 [[Kampon]] [[water-tube boiler]]s, eight of which would have used [[fuel oil]] and four of which would have used a mixture of oil and coal. This system would have provided {{convert|91000|shp}} to four propeller shafts for a top speed of {{convert|26.5|kn}}. The fuel stores would have amounted to {{convert|3600|LT|t}} of oil and {{convert|1800|LT|t}} of coal; at a speed of 14&amp;nbsp;knots, this would have enabled a maximum range of {{convert|6500|nmi}}.&lt;ref name=&quot;Conways232&quot;&gt;Gardiner &amp; Gray, p. 232&lt;/ref&gt;
+
+=== Armament ===
+[[File:41cm-45 3rd Year Type naval gun outside the Yamato Museum during October 2008.jpg|thumb|A 41&amp;nbsp;cm gun on display at the [[Yamato Museum]] in [[Kure, Japan]]]]
+The ''Tosa''-class ships were intended to be armed with a [[main battery]] of ten 45-[[caliber (artillery)|caliber]] [[41 cm/45 3rd Year Type naval gun|41-centimeter]] guns in five twin [[Gun turret|turrets]], four of which were [[superfire|superfiring]] fore and aft. Numbered one through five from front to rear, the hydraulically powered turrets had an elevation range of −2 to +35 degrees. The rate of fire for the guns was around two [[Cartridge (firearms)|rounds]] per minute.&lt;ref name=s19&gt;Skwiot, p. 19&lt;/ref&gt; The ships were designed to carry 90 rounds per gun, although space was available for 110.&lt;ref name=l1/&gt;
+
+The guns used Type 91 [[Armour-piercing capped#Armor-piercing|armor-piercing, capped shells]]. Each of these shells weighed {{convert|1020|kg|lb|sp=us}} and had a [[muzzle velocity]] of {{convert|780|m/s|ft/s|sp=us}}. Also available was a {{convert|936|kg|lb|sp=us|adj=on}} [[Armour-piercing capped#High-explosive|high-explosive shell]] that had a muzzle velocity of {{convert|805|m/s|ft/s|sp=us}}.&lt;ref&gt;Campbell, pp. 181–82&lt;/ref&gt;
+
+The ships' secondary armament of twenty 50-caliber [[14 cm/50 3rd Year Type naval gun|3rd Year Type 14-centimeter guns]] would have been mounted in [[casemate]]s, 12 on the upper sides of the hull and eight in the superstructure. The 3rd Year Type guns had a maximum range of {{convert|19750|m|yd|sp=us}} at an elevation of +35 degrees. Each gun could fire a {{convert|38|kg|lb|adj=on}} high-explosive projectile at a rate up to 10 rounds per minute&lt;ref&gt;Campbell, p. 190&lt;/ref&gt; and was provided with 120 rounds.&lt;ref name=l1&gt;Lengerer 2010, p. 11&lt;/ref&gt; [[Anti-aircraft defense]] was provided by four 40-caliber [[8&amp;nbsp;cm/40 3rd Year Type naval gun|3rd Year Type 8-centimeter]]{{refn|These guns were license-built British [[quick-firing gun|quick-firing (QF)]] [[QF 12 pounder 12 cwt naval gun|12-pounder guns]]. While the Japanese designated them as 8&amp;nbsp;cm, their actual caliber was 76.2&amp;nbsp;mm.&lt;ref name=c8/&gt;|group=A}} [[AA gun]]s in single mounts. The {{convert|3|in|adj=on}} high-angle guns had a maximum elevation of +75 degrees, and a rate of fire of 13 to 20 rounds per minute. They fired a {{convert|6|kg|lb|abbr=on}} projectile with a muzzle velocity of {{convert|680|m/s|ft/s|abbr=on}} to a maximum height of {{convert|7500|m|ft|sp=us}}.&lt;ref name=c8&gt;Campbell, p. 198&lt;/ref&gt; The guns were normally supplied with 250 rounds each, although space was available for a total of 400 rounds per gun.&lt;ref name=l1/&gt; These 3rd Year Type guns were intended to be replaced by four 45-caliber {{convert|12|cm|in|adj=on|sp=us}} anti-aircraft guns.&lt;ref name=&quot;Conways232&quot;/&gt;
+
+The ''Tosa''s were intended to mount eight {{convert|61|cm|in|adj=on|sp=us}} [[torpedo tube]]s, four above water and four below. The former were to be provided with two torpedoes each and the latter with three each.&lt;ref name=l1/&gt;
+
+=== Armor ===
+The ships' armor protection was designed to break up {{convert|16|in|mm|adj=on|0}} shells from a distance of {{convert|15000|–|20000|m|yards|sp=us}} and the primary armor plates were backed up by splinter [[Bulkhead (partition)|bulkheads]] intended to contain any shell fragments. They would have been protected by a [[waterline]] [[Belt armor|main belt]] of [[Vickers cemented armor]] that sloped outwards 15 degrees at the top. [[Amidships]] it would have been {{convert|280|mm|in|0|abbr=on}} thick and {{convert|254|mm|in|0|abbr=on}} thick fore and aft. Approximately {{convert|1.83|m|ftin|sp=us}} of the armor belt was below the waterline. The side armor was closed off at its ends by bulkheads {{convert|229|-|254|mm|in|0|abbr=on}} thick.&lt;ref name=l9&gt;Lengerer 2010, pp. 8–9&lt;/ref&gt; The main battery turrets and the portions of the [[barbette]]s above the main [[deck (ship)|deck]] would have had between {{convert|229|and|305|mm|in|abbr=on}} of armor plating,&lt;ref name=&quot;Conways232&quot; /&gt; and the [[conning tower]] walls would have had armor {{convert|254|and|356|mm|in|abbr=on}} thick and a roof of {{convert|178|mm|in|abbr=on}} armor plates. The communications tube below the conning tower would have had walls {{convert|76|-|127|mm|in|abbr=on}} thick.&lt;ref&gt;Lengerer 2010, p. 9&lt;/ref&gt;
+
+The middle deck was the primary armored deck and was connected to the top of the armor belt. It would have consisted of a {{convert|63.5|mm|in|1|abbr=on}} plate of New Vickers non-cemented armor on top of a {{convert|37|mm|in|1|abbr=on}} plate of high-tensile steel (HTS) above the engine and boiler rooms. Above the [[magazine (artillery)|magazine]]s, the thickness of the HTS plate would have increased to 63&amp;nbsp;mm. The lower deck would have consisted of two {{convert|19|mm|abbr=on}} plates of HTS. For the first time in a Japanese ship, the ''Tosa''s would have had the lower portion of the single [[funnel (ship)|funnel]] protected by 229&amp;nbsp;mm of armor. In addition, the funnel openings in the lower deck would have been protected by armor gratings.&lt;ref name=l9/&gt;
+
+The ships would have had an internal [[torpedo bulge]] to provide protection against underwater explosions. This was backed by a [[torpedo bulkhead]] also made up of three {{convert|25|mm|in|abbr=on}} layers of HTS and angled outwards to meet the base of the waterline belt. It connected to a {{convert|12.7|-|32|mm|in|abbr=on}} splinter bulkhead on the lower deck behind the waterline belt. Behind the torpedo bulge and the splinter bulkhead was another splinter bulkhead 12.7–19&amp;nbsp;mm thick.&lt;ref&gt;Lengerer 2010, p. 8&lt;/ref&gt;
+
+== Ships ==
+{| class=&quot;wikitable&quot;
+|-
+! Name
+!Builder&lt;ref name=&quot;Conways232&quot; /&gt;
+!Laid down&lt;ref name=&quot;Conways232&quot; /&gt;
+!Launched&lt;ref name=&quot;Conways232&quot; /&gt;
+!Estimated date of completion&lt;ref name=&quot;Conways232&quot; /&gt;
+! Fate
+|-
+|{{ship|Japanese battleship|Tosa||2}} (土佐)
+|[[Mitsubishi Heavy Industries|Mitsubishi Shipyard]], [[Nagasaki]]
+|16 February 1920
+|18 December 1921
+|March 1923
+|[[Scuttled]], 9 February 1925&lt;ref&gt;Lengerer 2010, p. 26&lt;/ref&gt;
+|-
+|{{ship|Japanese aircraft carrier|Kaga||2}} (加賀)
+|[[Kawasaki Heavy Industries|Kawasaki Shipyard]], [[Kobe]]
+|19 July 1920
+|17 November 1921
+|25 December 1922
+|Sunk during the [[Battle of Midway]], 4 June 1942&lt;ref name=NHC/&gt;
+|}
+
+== Cancellation and fates ==
+[[File:Japanese battleship Tosa.jpg|thumb|right|''Tosa'', partly complete, being towed from Nagasaki in 1922|alt=Small tugboats surround a partially completed large ship; dark smoke is rising from the boats]]
+Construction of both ships began in 1920, but the 1922 [[Washington Naval Treaty]] intervened, mandating the cancellation of all capital ships being built. Work stopped on the two ''Tosa''-class battleships on 5 February 1922.&lt;ref&gt;See: [[s:Washington Naval Treaty, 1922#SECTION II REPLACEMENT AND SCRAPPING OF CAPITAL SHIPS|Washington Naval Treaty, Chapter II, Part III, Section II]]&lt;/ref&gt; After being stricken on 1 April 1924,&lt;ref name=&quot;Conways232&quot; /&gt; ''Tosa''{{'}}s incomplete [[hull (watercraft)|hull]] was used to test her armor scheme against long-range naval gunfire, aerial bombs, [[naval mine|mines]], and torpedoes. Two of the shells fired at her fell short, but deeply penetrated her hull through the thin armor of the torpedo bulge below the waterline armor belt. This sparked an interest in optimizing underwater performance of Japanese shells that culminated in production of the Type 91 armor-piercing shell. Conversely, the IJN took measures to defend against shells of this type when reconstructing its existing battleships during the 1930s, as well as in the designs of the {{sclass-|Yamato|battleship|2}}s and the [[heavy cruiser]]s of the [[Mogami-class cruiser|''Mogami'']] and {{sclass-|Tone|cruiser|4}}es. ''Tosa''{{'}}s torpedo defense system proved able to defeat {{convert|200|kg|abbr=on}} torpedo [[warhead]]s, but not larger {{convert|350|kg|abbr=on}} ones. After the conclusion of the tests, the ship was scuttled by opening her [[Kingston valve]]s on 9 February 1925 in {{convert|650|m|abbr=on}} of water in the [[Bungo Channel]] after the demolition charges failed to detonate.&lt;ref&gt;Lengerer 2010, pp. 18–22, 25–26&lt;/ref&gt;
+
+The battlecruiser {{Ship|Japanese battlecruiser|Amagi||2}}, which was being converted to an [[aircraft carrier]] under the terms of the treaty, was wrecked in the [[1923 Great Kantō earthquake|Great Kantō earthquake]] in 1923 and rendered unusable. As a result, ''Kaga'', which was originally slated to be [[ship breaking|scrapped]] under the terms of the [[Washington Naval Treaty]] ([[s:Washington Naval Treaty, 1922#Article IX|Chapter I, Article IX]]),&lt;ref name=&quot;Conways232&quot; /&gt; was converted in ''Amagi''{{'}}s stead. No work took place until 1925 as new plans were drafted and earthquake damage to the [[Yokosuka Naval Arsenal]] was repaired. Although the ship was [[Ship commissioning|commissioned]] on 31 March 1928, she did not join the [[Combined Fleet]] (''Rengō Kantai'') until 30 November 1929.&lt;ref name=l8&gt;Lengerer 1982, p. 128&lt;/ref&gt;
+
+[[File:Japanese Navy Aircraft Carrier Kaga 1928.jpg|thumb|left|''Kaga'', seen from the stern, under construction in Yokosuka naval yard in November 1928; note the large pipe that directed exhaust smoke down, away from any landing aircraft|alt=A crane in the background towers over the mostly completed ship]]
+Much like the converted {{sclass-|Amagi|battlecruiser|2}} {{ship|Japanese aircraft carrier|Akagi||2}}, ''Kaga'' was fitted with two flying-off decks &quot;stepped down&quot; from a [[flight deck]] that extended two-thirds of the ship; in theory, this allowed planes to take off directly from the hangars while other planes landed on the top. As aircraft became heavier during the 1930s, they required longer distances to get airborne and the lower flight decks became useless. ''Kaga''{{'}}s 1935 reconstruction removed the lower two decks and extended the top flight deck to the bow.&lt;ref&gt;Lengerer 1982, pp. 130, 136&lt;/ref&gt; As completed, the ship had two main [[hangar]] decks and a third auxiliary hangar with a total capacity of 60 aircraft.&lt;ref&gt;Peattie, p. 231&lt;/ref&gt;
+
+''Kaga'' was provided with a heavy gun armament in case she was surprised by enemy cruisers and forced to give battle, but her large and vulnerable flight deck, hangars, and other features made her more of a target in any surface action than a fighting warship. Carrier doctrine was still evolving at this time and the impracticability of carriers engaging in gun duels had not yet been realized.&lt;ref&gt;Peattie, pp. 53, 55&lt;/ref&gt; The ship was armed with ten [[20 cm/50 3rd Year Type naval gun|20 cm/50 3rd Year Type guns]]: one twin-gun turret on each side of the middle flight deck and six in casemates aft. ''Kaga''{{'}}s waterline armored belt was reduced from {{convert|280|to|152|mm|abbr=on}} during her reconstruction and her deck armor was also reduced from {{convert|102|to|38|mm|in|abbr=on}}. The carrier displaced {{convert|26900|LT|MT}} at standard load, and {{convert|33693|LT|MT}} at full load, nearly {{convert|6000|LT|MT}} less than her designed displacement as a battleship. This reduction in her displacement increased her speed to {{convert|27.5|kn}} and gave her a range of {{convert|8000|nmi}} at {{convert|14|kn}}.&lt;ref&gt;Lengerer 1982, pp. 129, 131, 134&lt;/ref&gt;
+
+[[File:Japanese Navy Aircraft Carrier Kaga.jpg|thumb|right|alt=|''Kaga'' after her 1930s reconstruction]]
+In 1933–35 ''Kaga'' was rebuilt to increase her top speed, improve her exhaust systems, and adapt her flight decks to more modern, heavier aircraft. After the reconstruction, the ship displaced {{convert|38200|LT|t}} at standard load, better boilers gave her a top speed of {{convert|28.3|kn}}, and additional fuel storage increased her range to {{convert|10000|nmi}} at {{convert|15|kn}} and raised her aircraft capacity to 90. The ten {{convert|20|cm|abbr=on}} guns, although now all mounted singly in casemates, were retained.&lt;ref&gt;Lengerer 1982, p. 134&lt;/ref&gt;
+
+''Kaga''{{'}}s aircraft first supported Japanese troops in China during the [[28 January Incident|Shanghai Incident]] of 1932 and participated in the [[Second Sino-Japanese War]] in the late 1930s.&lt;ref&gt;Peattie, pp. 50–51, 103–04&lt;/ref&gt; With five other fleet carriers, she took part in the Pearl Harbor raid in December 1941 and the [[battle of Rabaul (1942)|invasion of Rabaul]] in the Southwest Pacific in January 1942. The following month her aircraft participated in a [[Bombing of Darwin|combined carrier airstrike]] on [[Darwin, Northern Territory|Darwin]], Australia, helping secure the [[Dutch East Indies campaign|conquest]] of the [[Dutch East Indies]] by Japanese forces. She missed the [[Indian Ocean raid]] in April as she had to return to Japan for repairs after hitting a reef in February. Following repairs, ''Kaga'' rejoined the [[1st Air Fleet of the Imperial Japanese Navy|1st Air Fleet]] for the [[Battle of Midway|attack on Midway Atoll]] in June 1942.&lt;ref&gt;Lengerer 1982, pp. 174–77&lt;/ref&gt;
+
+The IJN was surprised by the appearance of three American carriers and, partly due to Admiral [[Isoroku Yamamoto]]'s plan in which ships were too dispersed to support each other, ''Kaga'', along with the other three carriers present, was sunk by aircraft from {{USS|Enterprise|CV-6|6}}, {{USS|Hornet|CV-8|2}} and {{USS|Yorktown|CV-5|2}} on 4 June.&lt;ref name=&quot;NHC&quot;&gt;{{cite web |url=http://www.history.navy.mil/photos/sh-fornv/japan/japsh-k/kaga.htm |title=''Kaga'' (Aircraft Carrier, 1927–1942) |accessdate=18 January 2009 |last= |first= |date=6 April 1999 |work= |publisher=[[Naval Historical Center]] }}&lt;/ref&gt;
+
+== Notes ==
+{{Reflist|group=A}}
+
+== Footnotes ==
+{{Reflist|20em}}
+
+== References ==
+* {{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+* {{cite book
+  | last = Evans
+  | first = David| first2 = Mark R. |last2=Peattie
+  | year = 1997
+  | title = Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941
+  | publisher =Naval Institute Press
+  | location =Annapolis, Maryland
+  | isbn = 0-87021-192-7|lastauthoramp=y
+}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-87021-907-3 |oclc= 12119866|lastauthoramp=y}}
+* {{cite book|last=Lengerer|first=Hans|year=1982|chapter=Akagi &amp; Kaga|title=Warship VI|publisher=Conway Maritime Press|location=London|isbn=0-87021-981-2|editor=Roberts, John}}
+* {{cite journal
+  | last1        = Lengerer
+  | first1       = Hans
+  | editor1-last = Ahlberg
+  | editor1-first= Lars
+  | title        = Battleships of the ''Kaga'' Class and the so-called ''Tosa'' Experiments
+  | date         = June 2010
+  | journal      = Contributions to the History of Imperial Japanese Warships
+  | issue        = Special Paper I}} {{subscription required}} (contact the editor at lars.ahlberg{{@}}halmstad.mail.postnet.se for subscription information)
+* {{cite book|last=Peattie|first=Mark|authorlink=Mark Peattie|title=Sunburst: The Rise of Japanese Naval Air Power 1909–1941|year=2001|publisher=Naval Institute Press|location=Annapolis, Maryland |isbn=1-55750-432-6}}
+* {{cite book|last=Skwiot|first=Miroslaw|title=Nagato Mutsu, Part II|series=Encyklopedia Okretów Wojennych|volume=52|year=2008|publisher=AJ-Press|location=Gdansk, Poland|isbn=978-83-7237-202-4}}
+* {{cite book |last=Stille |first=Mark |title=Imperial Japanese Navy Battleships 1941-45| series =New Vanguard|volume=146 |publisher=Osprey Publishing |location=Botley, Oxford, UK |year=2008 |isbn=1-84603-280-6 }}
+
+== Further reading ==
+* {{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869–1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X|lastauthoramp=y}}
+
+== External links ==
+{{Portal|Battleships}}
+{{Commonscat-inline|Tosa class battleships|''Tosa''-class battleships}}
+* [http://www.hazegray.org/navhist/battleships/ijn_dr.htm ''Haze Gray &amp; Underway'' page on Japanese dreadnought and semi-dreadnought battleships]
+
+{{Tosa class battleships}}
+
+{{DEFAULTSORT:Tosa Class Battleship}}
+[[Category:Battleship classes]]
+[[Category:Tosa-class battleships| ]]</text>
+      <sha1>npdj7y11t8yur8im9f9jgkyp7meizkw</sha1>
+    </revision>
+  </page>
+</mediawiki>

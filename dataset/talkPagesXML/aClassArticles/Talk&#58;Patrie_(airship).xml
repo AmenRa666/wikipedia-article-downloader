@@ -1,0 +1,216 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Patrie (airship)</title>
+    <ns>1</ns>
+    <id>20929683</id>
+    <revision>
+      <id>655296147</id>
+      <parentid>652810421</parentid>
+      <timestamp>2015-04-07T04:18:39Z</timestamp>
+      <contributor>
+        <username>SporkBot</username>
+        <id>12406635</id>
+      </contributor>
+      <minor/>
+      <comment>Remove template per [[Wikipedia:Templates for discussion/Log/2015 March 16|TFD outcome]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27624">{{Talkheader}}
+{{ArticleHistory
+|action1=WAR
+|action1date=22:29, 9 December 2009 (UTC)
+|action1link=Wikipedia:WikiProject Aviation/Assessment/Lebaudy Patrie
+|action1result=approved
+|action1oldid=329552422
+
+|action2=WAR
+|action2date=05:38, 12 December 2009 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/Lebaudy Patrie/archive1
+|action2result=not approved
+|action2oldid=331127271
+
+|action3=WAR
+|action3date=03:23, 30 December 2009
+|action3link=Wikipedia:WikiProject Military history/Assessment/Lebaudy Patrie
+|action3result=approved
+|action3oldid=334840836
+
+|action4=GAN
+|action4date=02:27, 6 May 2012
+|action4link=Talk:Lebaudy Patrie/GA1
+|action4result=listed
+|action4oldid=490590499
+
+|dykdate=7 January 2009
+|dyklink=Wikipedia:Recent additions 238
+|currentstatus=GA
+|topic=war
+}}
+{{WikiProjectBannerShell|
+{{WPAVIATION|class=A|B-Class-1=yes|B-Class-2=yes|B-Class-3=yes|B-Class-4=yes|B-Class-5=yes|A-Class=pass|Aircraft-project=yes}}
+{{WPMILHIST|A-Class=pass|Aviation=yes|French=yes|class=A}}
+{{WikiProject France|class=GA||importance=low}}
+}}
+
+== Significant figures ==
+
+The article states that on it's final flight, the ship achieved a height of 6562.  This is confirmed in the source, but I think it is faulty.  Clearly this is meant to be 2000m in the original source since 2000.0 meters = 6 561.7 feet.    This source seems to have destroyed the information about significant figures in it's conversion.  The source does it again with 750.0 kg = 1653 pounds.
+
+Maybe another source should be found that says 2000 meters (and may indicate the significant figures) and that can be the source of the information.  If such a source can be found, I propose that it be reconverted back to feet using the correct significant figures (probably 2, so 6600 feet).
+
+&amp;ndash; [[User:Bu gee|Bu gee]] ([[User talk:Bu gee|talk]]) 22:54, 7 January 2009 (UTC)
+
+:That altitude number was a wild estimate, so significant figures are probably 1 or 2 with a large +/- margin.  One way around the problem in feet is to say it went up to &quot;2000 meters (or yards)&quot;, which might pass muster with such a guesstimate.  [[User:Tempshill|Tempshill]] ([[User talk:Tempshill|talk]]) 00:05, 8 January 2009 (UTC)
+
+::Bu gee, I'm sure that you are right about the figures having been converted from metres, since &quot;the constructor&quot;, i.e. the Lebaudy Brothers or the designer Julliot, were French and would have given their estimates in metres. Unfortunately there is only the one (secondary)source (Colonel F. G. STONE) at the moment, so the figure in feet is all we have. George Squier (US Army) states &lt;blockquote&gt;The ballonette for air had a capacity of 22,958 cub. ft. or about one-fifth of the total volume. This is calculated to permit reaching a height of about 1 mile and to be able to return to the earth, keeping the gas-bag always rigid. &lt;/blockquote&gt; but this was before the enlargement of the gas-bag, I think. I did search for French sources but have not found anything yet. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 10:57, 8 January 2009 (UTC)
+
+:::Yeah, no joke about the lack of sources about that.  I took a really hard look at the historic NY Times and Washington Post from 1907 through 1990 as well as whatever I could find at google books this afternoon and the only thing that I saw said something along the lines of 'it surely would have gone up a mile'. &amp;ndash; [[User:Bu gee|Bu gee]] ([[User talk:Bu gee|talk]]) 22:54, 8 January 2009 (UTC)
+
+== Great article ==
+
+Nice one mate. [[User:Ryan4314|&lt;strong&gt;&lt;font color=&quot;Black&quot;&gt;Ryan&lt;/font&gt;&lt;font color=&quot;CornflowerBlue&quot;&gt;4314&lt;/font&gt;&lt;/strong&gt;]]  ([[User talk:Ryan4314|talk]]) 02:21, 8 January 2009 (UTC)
+
+== Multi-layer envelope / Design section ==
+
+At present the detail of the structure of the envelope is given in a footnote. Is this level of detail best left there, or would it be better to incorporate it into the design section? &lt;BR&gt;
+Apropos the latter, I think that it is long enough to warrant subdivision into subsections, e.g. Envelope, Gondola, Ballonet, Engine etc. Would make it more accessible to the first-time reader? Any ideas? Thanks. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 09:56, 22 January 2009 (UTC)
+
+:Yes the more content in the article the better essentially (plus it'll make your refs look tidier) and yes I think that would be a good idea, it'll make it more attractive for the readers and more encyclopaedic. However the new subsections should be at least 2 paragraphs, otherwise don't create them e.g. The engine bit is only 1 paragraph long and quite short, so it might not warrant it's own subsection, but the part about the gas bag is long enough. [[User:Ryan4314|&lt;strong&gt;&lt;font color=&quot;Black&quot;&gt;Ryan&lt;/font&gt;&lt;font color=&quot;CornflowerBlue&quot;&gt;4314&lt;/font&gt;&lt;/strong&gt;]]  ([[User talk:Ryan4314|talk]]) 11:48, 22 January 2009 (UTC)
+
+== Naming format ==
+
+'''To place this discussion in the correct place and open it up to a wider audience the following string is copied from the talk pages of [[User:TraceyR|TraceyR]] and [[User:Red Sunset|Red Sunset]]:''' --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 10:16, 1 February 2009 (UTC)
+
+Nice additions again – I understood the Lebaudy 1 was rebuilt from the attached ref ([4]), but it doesn't mention that it was renamed Lebaudy 2. (I've found one that does so I'll tack it on as well.) In view of this, should the Patrie be regarded as the second or third Lebaudy airship? One source states that it was the third, but technically speaking it was the second entirely new airship! This is something that might well come up at a GAC review, but in the end it just comes down to point of view. --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 21:19, 30 January 2009 (UTC)
+
+:re Lebaudy 1-2-3-4 we share the same misgivings. I altered the Lebaudy template for good measure, leaving just 1 and 2. As fas as I can make out, it was just the one ship, which metamorphosed into  the later numbers. The deciding factor for me today was a source which said that it was handed over to the army as Lebaudy 2! All very French, somehow! Anyway, we need to find a sound set of sources for whatever number it is. For me the Patrie really is the second, ordered by the forces on the back of the 1-2-3-4's performance; I'll have to have a thorough look at the better sources. If you look at a contemporary French source ([http://www.gutenberg.org/files/17691 Le tour de France en aéroplane_(misleading title)] - Gutenberg, so you'll need to download it to look at it), the story runs from Nov. 1902 to Oct. 1906, when the Patrie was ordered, mentioning only the one airship, the &quot;Lebaudy&quot;. I think that I'll change it back tomorrow, giving that ref as the source! I'll leave it to the [[Lebaudy Lebaudy]] (how about that for an article title!!) article to sort that lot out! Perhaps [[Lebaudy Jaune]] would be better, even though it was really a nickname. The Patrie was yellow too, of course. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 22:44, 30 January 2009 (UTC)
+
+::[[http://www.pionnair-ge.com/spip1/spip.php?article164 Here it is:]] This source enumerates the 4 stages (5 actually!), from 1 (1902) to 1bis (1903) to 2 (early 1904) to 3 (early 1905) and finally to 4 (3/7/1905). That's way to much detail for this article, so I think the Patrie should be the second Lebaudy airship and the template sould be restored so that 2,3,and 4 all point to 1, as it was earlier today. Maybe it should include the 1bis. Any views? I'm off to ZZZZZs now! It seems that the whole envelope was replaced by a longer one on the 4. What constitutes the airship? It's a bit like the grandfather's knife, with a new blade and a replacement handle! --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 23:01, 30 January 2009 (UTC)
+
+::::Hello folks! Sorry, I am busy with engines but I just had another quick look through and did some tweaking. I can see a mixture of metric and Imperial units (11 foot props, 280 Liter fuel tank etc). I think the guideline is that as a French aircraft all the units would have to be primarily metric with Imperial conversions given as an option (although highly recommended). I have a handy conversion programme if you don't want to use the templates. Never enough hours in the day for me at the moment. Cheers [[User:Nimbus227|Nimbus]] [[User talk:Nimbus227|&lt;font style=&quot;color:#2F4F4F;&quot;&gt;(Cumulus &lt;font style=&quot;color:#708090;&quot;&gt;nimbus &lt;font style=&quot;color:#D3D3D3;&quot;&gt;floats by)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 01:08, 31 January 2009 (UTC)
+
+Good to see you onboard 'Nimble' – good points that can be quickly addressed; I suppose the mixture of primary units has occurred as a result of those used in the relevant sources!
+
+You're certainly doing your homework TraceyR; that source you gave me sorts it out once and for all! Trust the French to complicate matters; still, a bit of rewording to the effect that the Patrie was the second entirely new Lebaudy airship together with that ref will put the matter straight. Off for the day now, but if you haven't been able to get to it yourself I'd be happy to attend to it this evening. Cheers for now. --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 09:10, 31 January 2009 (UTC)
+
+:::I've made the change and cited the Swiss site, but I'd like some thoughts about the predecessor airship(s) WRT the template. Some sources refer to the Lebaudy, some to Lebaudy 1,2,3,4 etc, so should the template give those names and link them to the &quot;Lebaudy Lebaudy&quot;? BTW, the Swiss site has a UK flag pointing to the English version of the website, provided via the Google translation service - v. interesting: &quot;Its asymmetric envelope, inflated with hydrogen, is attached by ropes to a platform of steel tubes, a 1st in the world of football...&quot;! One may laugh (I did!), but apart from the howler it's a surprisingly good sentence. Is automatic translation becoming feasible? Back to the template: since it is early days, I'll just edit it; we can always sort it out later. It shouldn't contradict the article's statement that the Patrie was the second! Another thought. This thread should really be on the Patrie talk page! Can it be moved there without offending WP rules?--[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 12:39, 31 January 2009 (UTC)
+
+:You're right; this string really ought to be on the article talk page (believe it or not that thought did cross my mind this morning). Anyway, I don't think that anyone's sensibilities would be upset if it was copied over and provided with a forenote to that effect. Re the name of Patrie's predecessor/s (what a mix up!), [[Lebaudy Lebaudy]] seems a bit inelegant even if it is correct – I prefer the encompassing title [[Lebaudy 'Jaune']] – but either way, a short footnote following its first mention within the text explaining its incarnations should prevent any confusion and at the same not bring side issues into the main text. Similarly, perhaps the template entry could be [[Lebaudy(1–4) 'Jaune']] linked to [[Lebaudy 'Jaune']]??? BTW, that part of the translation ''is'' into good English, and no doubt it ''would'' be a 1st in football! (Lol)  
+
+:I've spotted a small number of non-metric primary units in the text which can be addressed, but there are two that I'm loathe to alter since they're within  quotes (although I'm sure the figures were converted during translation), and the 10 and 20 lb (4.5 and 9.1 kg) sandbags were probably 4.5 and 9 kg originally before translation. To avoid making assumptions and changes for the sake of consistency, I think the answer is to look through French sources for the original values. We seem to keep coming up with more questions than answers so I guess that peer review is a little way off yet! --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 19:50, 31 January 2009 (UTC)
+
+== Assessment/peer review? ==
+
+There is very little accessible information left 'out there' IMHO with which to improve the article. I'm on the track of something from a 1907 issue of the Paris magazine &quot;L'Illustration&quot; (no. 3381, 14 Dec. 1907), which may clarify the source of the sighting near the Isle of Man, but by and large I consider the article as good as it's going to get (in terms of available information). There was a bound volume of 1907 issues on ebay recently, but it went for almost €50 - out of my league for the sake of one article! Anyway, it's up for Class A(/GA?) assessment, but things are quiet there at the moment. I'm not sure how to progress it further; I may be offline for a while some time soon, so I'll probably just observe for a while. I'm pleased with the results of the work of all who have contributed to make it a good little article! Thanks everyone. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 20:07, 6 February 2009 (UTC)
+
+:You've done your homework and put in a lot of time and hard work into this article TraceyR, and I think you're right in that there's not a lot more info available (apart from trivial details). I think it looks pretty good now as well – just have to wait a bit longer for your assessment request to bear fruit before taking further action. --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 21:49, 6 February 2009 (UTC)
+
+== Film footage of the Patrie! ==
+
+I have stumbled across a [http://www.dailymotion.com/video/x695jd_ballon-dirigeable-alice-guy_shortfilms short film sequence] showing the Patrie 'reversing out' of the hangar at Moisson in 1906/07, her being 'man-handled' on tethers by the ground team, close-ups of the gondola and the Patrie in flight. This brings her to life. This version of the film (there are others without it) starts with the title &quot;1er Départ&quot; - does this perhaps mean that this is footage of the Patrie's first flight? 
+
+The film footage of the Patrie, only one minute long, was made by [[Alice Guy-Blaché]], the first female director in the motion picture industry; at the time she may have been working for Gaumont. If it is now in the public domain, it would be an important addition to the article.
+
+About 1:22 into the film (including lead-in etc) there is the best view I have come across of the 'elevator' control surfaces mounted ahead of the gondola (i.e. in addition to the empennage), which either do not feature in other images or are very hard to discern. Certainly they are not fitted in the other images at present in the article - a bit of a conundrum. Perhaps they were removed at a later date? 
+
+Another 'problem' is that the propellers and the empennage indicate that the film was made in 1906, but film sources about Guy's work claim that she made (or released?) it in 1907. If it really was the first flight, that clinches the date as 1906, of course. Can anyone help with any of these aspects? Thanks.  --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 17:56, 20 February 2009 (UTC)
+
+:Interesting find! The film title would seem to indicate that this ''was'' the first flight; but in any case the flight took place in 1906 judging by the empennage etc. as you point out, therefore one can only assume that the film was ''released'' rather than made in 1907, or someone simply slipped up with the dating! Re the forward control surfaces/planes, they don't appear extended either side during later flight scenes, although another difficult-to-discern flat object of similar length now seems to be suspended longitudinally below the gas-bag in approximately their same position. This same 'shape' does not appear in the early part of the clip when the planes are clearly visible to the sides, but ''is'' present in the article's 1907 infobox image – could they have been present all along and simply folded inboard to sit on top of each other at times for some reason??? --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 22:05, 20 February 2009 (UTC)
+
+::The idea of the surfaces folding 'out of the way' is intriguing and would explain some of the images. I have seen a photo from mid-1907 (the Clemenceau flight, in fact) where one of them is clearly visible. I think that part of the problem is that the photos are very grainy and black-and-white, so that it is next to impossible to see a control surface in front of the gas-bag. Most photos are side views too, in which they would be difficult to see anyway. I think that folding them inboard would have been difficult, given the large number of ropes hanging around. Perhaps they were on detachable arms which could be fitted/removed easily and were only used when weather conditions required them. There are some good pictures of the Patrie's sister ship, République, which show the same features (e.g. [http://www.earlyaviator.com/archive/JPL1/1908.06.24_LebLaRepublique_10_jpl.jpg here]). I have asked Jean-Pierre Lauwers (the JPL in the filename) and Alice-Guy-JR (who uploaded the film) for more info: watch this space! --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 23:38, 20 February 2009 (UTC)
+
+:::I agree, the process of moving and 'stowing' the surfaces would appear to be difficult, but at the present time it's the only explanation I can think of. Naturally, I could be completely wrong (pity better cameras weren't around then)! Let's hope your two contacts have a better idea. Great work on the whole thing BTW. :-) --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 09:09, 21 February 2009 (UTC)
+
+::::Thanks! If you zoom in on this [http://www.earlyaviator.com/archive/JPL1/1908.06.24_LebLaRepublique_12_jpl.jpg image of the République] (zoom a long way in - it can take it) you can follow the whole axle joining the two 'elevators' (the caption refers to them as &quot;ailerons d'ascension et de descente&quot;). Unfortunately I can see no 'sleeve join' allowing the outboard arms to be detached easily, nor any sign of a hinge mechanism. There is what appear to be a support bracket just inboard of each elevator, which would have prevented both folding and removal of the controls, so they seem to have been permanent fixtures. The République might have been different in such details, of course, but it does seems to have been the same in most major components. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 11:09, 21 February 2009 (UTC)
+
+:::::Oh well, it was just a possibility – back to the drawing board and thinking cap back on! Cheers ;-) --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 14:17, 21 February 2009 (UTC)
+
+::::::Yesterday I re-read the primary source for technical details (an article in the [http://www.flightglobal.com/pdfarchive/view/1909/1909%20-%200119.html Flight pdf archive], which appeared over a year after the loss of the Patrie.). This includes the following:&lt;blockquote&gt;&quot;Stability. A movable horizontal plane near the centre of gravity, above the car, is used to produce rising or descending motion, or to prevent an involuntary rising or falling of the airship due to expansion or contraction of the gas, or to other causes. After the adoption of this movable horizontal plane, the loss of gas and ballast was reduced to a minimum.&quot;&lt;/blockquote&gt;
+::::::The information given suggests that at first there was no such (single) plane; later it was added, improving performance. Even later, the single plane was replaced by the two 'elevators' (an assumption, since this configuration was used on its replacement, the République). If this ''is'' the chronological sequence, then the Alice Guy film cannot have covered the first flight. But this information explains the three different configurations of this feature in evidence in the photos of the Patrie! Progress, it would appear. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 13:54, 22 February 2009 (UTC)
+
+:::::::Yes, that does explain why these features appear in some images but not in others; however, in the opening sequence of the film it appears we have the ''early'' empennage together with the ''later'' elevators. Maybe the time scale for implementing the improved stability control devices was shorter than that for installing the later empennage. Another conundrum is that ''later'' sequences of the film show the ''earlier'' single stability plane! I'm beginning to wonder if the Alice Guy film is the result of editing together more than one reel out of chronological order?! In any case, the article would benefit from the info you've just provided even if the film may not be completely reliable as far as continuity is concerned, so progress indeed. --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 17:45, 22 February 2009 (UTC)
+
+::::::::I have heard from from Alice-Guy_jr, who tells me that &quot;1er depart&quot; is the generic title in all of Guy's films, so that is a relief: There is no longer the conundrum about the 'twin elevators' on the maiden flight, no need to postulate out-of-sequence editing! She also mentioned that Alice Guy left for the USA in March 1907, so that gives us a latest possible date for this configuration. 
+ 
+::::::::It may not be possible to match the chronology of these planes and the empennage, since there was an overlap in the developments of the different controls. There were two &quot;deflation&quot; periods (18 Dec. 1906 - 26 June 1907 and 8 Aug.- 14 Oct. 1907). There is, of course, still a problem with the date of the film: Since it must have been made ''before'' Alice Guy's departure for the USA, then both the single and twin elevators must have been fitted during test flying from Moisson, ''prior to'' delivery to Chalais-Meudon on 15 Dec. 1906. This seems unlikely. But (quel horreur!) is all of this [[WP:OR|Original Research]]? I'll have a go at improving the article using the 'new' information about the stability planes. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 22:02, 22 February 2009 (UTC)
+
+:::::::::Right, at last we can put everything within, and about the film into context, and put an end to what you're probably correct in suggesting is [[WP:OR]]! The known facts are now in the article, and the film is linked for illustrative purposes – nice 'n tidy! :-) 
+:::::::::There still doesn't seem to be much interest in assessing this at the Project does there!. :-( --[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 19:18, 23 February 2009 (UTC)
+
+Unfortunately the film footage has disappeared from the internet - I hope just for the time being. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 15:42, 5 October 2009 (UTC)
+
+== Acknowledge help of Jean-Pierre Lauwers ==
+
+It would be amiss of me not to mention here that Jean-Pierre Lauwers, a genuine expert historian in the field of lighter-than-air flight, has been of great help in providing background information and access to images from his extensive collection of photos. Of course any mistakes I have introduced are mine, not his! Some of his collection can be see [http://www.earlyaviator.com/archive4.htm#jpl here], hosted at &quot;Rosebud's WWI and Early Aviation Image Archive&quot; (www.earlyaviator.com), which has over 3,800 downloadable images from the pioneering days of flight. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 18:06, 24 February 2009 (UTC)
+
+:It seems that Rosebud has been grounded. If anyone finds his new mooring post, please leave a note here! Many thanks! --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 21:07, 1 October 2009 (UTC)
+
+::I have found a note that it is (was) due back on 28 September. I'll just have to be patient. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 21:10, 1 October 2009 (UTC)
+
+:::It is [http://www.earlyaeroplanes.com here], much as before. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 16:35, 21 December 2009 (UTC)
+
+== Epilogue? ==
+
+I wonder whether there ought to be a sort of &quot;what happened after the loss of the Patrie?&quot; paragraph - that the &quot;Ville de Paris&quot; (I think!) was offered to the army as a stop-gap replacement, that the sister-ship République was built ... Any thoughts? --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 05:50, 8 October 2009 (UTC)
+
+:Not a bad idea. I read somewhere in the depths and intricacies of WP guidelines that a good article should ideally end with such a section - not essential but recommended – I did something similar with a &quot;Fate and legacy&quot; section on [[HMA No. 1]].--[[User:Red Sunset|Red]] [[User talk:Red Sunset|&lt;font style=&quot;color:#AA0000;&quot;&gt;Su&lt;font style=&quot;color:#DD0000;&quot;&gt;ns&lt;font style=&quot;color:#FF0000;&quot;&gt;et&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;]] 22:47, 9 October 2009 (UTC)
+
+== A-class review ==
+I'm [[Wikipedia:WikiProject Military history/Assessment/Lebaudy Patrie|requesting]] an A-class review with the WP:Milihist project. This article should've been bumped up to A months ago and hasn't been due to a lack of activity at the WP:Aviation project. [[User:Ryan4314|&lt;strong&gt;&lt;font color=&quot;Black&quot;&gt;Ryan&lt;/font&gt;&lt;font color=&quot;CornflowerBlue&quot;&gt;4314&lt;/font&gt;&lt;/strong&gt;]]  ([[User talk:Ryan4314|talk]]) 19:22, 9 November 2009 (UTC)
+
+:Thanks Ryan - great news! I'll have to be prepared for a few change suggestions, since I was told recently (was that by you?) that MilHist is quite strict. Looking forward to a successful assessment! Cheers. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 20:34, 9 November 2009 (UTC)
+
+::'''''A big thank you''''' to all who have helped to get this article through to A-Class, to all who have taken the time to comment, ask questions, edit the article, make suggestions for improvement etc - this is great moment!  --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 23:17, 9 December 2009 (UTC)
+:::You've only achieved A-class with the aviation project. The MILHIST review is still active and is not yet at the threshold for promotion. -'''[[User:MBK004|MBK]]'''&lt;sub&gt;[[User talk:MBK004|004]]&lt;/sub&gt; 23:46, 9 December 2009 (UTC)
+
+::::Thanks for the reminder - I'm looking at the MilHist comments now and hope to be able to respond to them within a day or two. --[[User:TraceyR|TraceyR]] ([[User talk:TraceyR|talk]]) 00:04, 10 December 2009 (UTC)
+:::::Unfortunately, I have gone ahead and closed the MILHIST ACR since it has been open longer than 28 days with an extra grace period which is of the coordinators' discretion. (This is laid out in the instructions at [[WP:MHR#A-CLASS]]: &quot;Reviews remain open for a minimum of five days and a maximum of twenty-eight days.&quot;) I encourage the editors of this article to complete the suggestions put forward in the review and once those are completed wait a few days and then re-nominate the article. -'''[[User:MBK004|MBK]]'''&lt;sub&gt;[[User talk:MBK004|004]]&lt;/sub&gt; 05:43, 12 December 2009 (UTC)
+
+{{Talk:Lebaudy Patrie/GA1}}</text>
+      <sha1>jr3demy1674unm0n94nftwszapa2igm</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,209 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Collingwood (1908)</title>
+    <ns>0</ns>
+    <id>488525</id>
+    <revision>
+      <id>748893627</id>
+      <parentid>748802306</parentid>
+      <timestamp>2016-11-11T00:51:23Z</timestamp>
+      <contributor>
+        <username>DumbBOT</username>
+        <id>1310918</id>
+      </contributor>
+      <comment>removing a protection template from a non-protected page ([[User:DumbBOT/Protection|info]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27943">{{featured article}}
+{{Other ships|HMS Collingwood}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Collingwood.jpg|300px]]
+|Ship caption=HMS ''Collingwood'' at anchor, 1912
+}}
+{{Infobox ship career
+|Hide header= 
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=''Collingwood''
+|Ship namesake=[[Vice-Admiral]] [[Cuthbert Collingwood, 1st Baron Collingwood]]
+|Ship ordered=26 October 1907
+|Ship awarded=
+|Ship builder=[[HMNB Devonport|Devonport Royal Dockyard]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=3 February 1908
+|Ship launched=7 November 1908
+|Ship commissioned=April 1910
+|Ship decommissioned=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Sold for [[ship breaking|scrap]], 12 December 1922
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|St Vincent|battleship|0}} [[dreadnought battleship]]
+|Ship displacement= {{convert|19700|LT|t|lk=in}} (normal)
+|Ship length={{convert|536|ft|m|abbr=on|1}} ([[Length overall|o/a]])
+|Ship beam={{convert|84|ft|2|in|m|abbr=on|1}}
+|Ship draught={{convert|28|ft|m|abbr=on|1}}
+|Ship power=*{{convert|24500|shp|lk=in|abbr=on}}
+*18 [[Yarrow boiler]]s
+|Ship propulsion=4 × shafts; 2 × [[steam turbine]] sets
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range={{convert|6900|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=758
+|Ship armament=* 5 × twin [[BL 12 inch Mk XI - XII naval gun|BL 12-inch Mk XI guns]]
+* 20 × single [[BL 4 inch naval gun Mk VII|BL 4-inch Mk VII guns]]
+* 3 × [[British 18 inch torpedo|18-inch]] [[torpedo tube]]s 
+|Ship armour=* [[Belt armor|Belt]]: {{convert|8|-|10|in|mm|0}}
+* [[Bulkhead (partition)|Bulkhead]]s: {{convert|5|-|8|in|mm|0}}
+* [[Deck (ship)|Deck]]: {{convert|.75|-|3|in|mm|0}}
+* [[Turret]]s: {{convert|11|in|mm|0}}
+* [[Barbette]]s: {{convert|5|-|10|in|mm|0}}
+*[[Conning tower]]: {{convert|8|-|11|in|mm|0|abbr=on}} 
+|Ship notes=
+}}
+|}
+'''HMS ''Collingwood''''' was a {{sclass-|St Vincent|battleship|0}} [[dreadnought battleship]] built for the [[Royal Navy]] in the first decade of the 20th century. She spent her whole career assigned to the [[Home Fleet|Home]] and [[Grand Fleet]]s and often served as a [[flagship]]. Prince Albert (later [[King George VI]]) spent several years aboard the ship before and during [[Naval warfare of World War I|World War I]]. At the [[Battle of Jutland]] in May 1916, ''Collingwood'' was in the middle of the [[battleline]] and lightly damaged a German [[battlecruiser]]. Other than that battle, and the inconclusive [[Action of 19 August 1916|Action of 19 August]], her service during the war generally consisted of routine patrols and training in the [[North Sea]]. The ship was deemed obsolete after the war; she was reduced to [[Reserve fleet|reserve]] and used as a [[training ship]] before being sold for [[ship breaking|scrap]] in 1922.
+
+==Design and description==
+[[File:1stGenBritishBBs.tiff|thumb|left|Right elevation and plan of the first generation of British dreadnoughts from the 1912 edition of ''[[Jane's Fighting Ships]]'']]
+The design of the ''St Vincent'' class was derived from that of the previous {{sclass-|Bellerophon|battleship|4}}, with a slight increase in size, armour and more powerful guns, among other more minor changes. ''Collingwood'' had an [[length overall|overall length]] of {{convert|536|ft|m|1}}, a [[Beam (nautical)|beam]] of {{convert|84|ft|2|in|m|1}},&lt;ref&gt;Burt, pp. 75–76&lt;/ref&gt; and a normal [[Draft (hull)|draught]] of {{convert|28|ft|m|1}}.&lt;ref name=p5&gt;Preston, p. 125&lt;/ref&gt; She displaced {{convert|19700|LT|t|lk=in}} at normal load and {{convert|22800|LT|t}} at [[deep load]]. In 1911 her crew numbered 758 officers and enlisted men.&lt;ref name=&quot;B_76&quot;/&gt;
+
+''Collingwood'' was powered by two sets of [[Parsons Marine Steam Turbine Company|Parsons]] [[direct-drive]] [[steam turbine]]s, each driving two shafts, using steam from eighteen [[Yarrow boiler]]s. The turbines were rated at {{convert|24500|shp|abbr=on}} and intended to reach a maximum speed of {{convert|21|kn|lk=in}}. During her full-power, eight-hour [[sea trial]]s on 17 January 1910, the ship only reached a top speed of {{convert|20.62|kn}} from {{convert|26789|shp|abbr=on}}. She had a range of {{convert|6900|nmi|lk=in}} at a cruising speed of {{convert|10|kn}}.&lt;ref&gt;Burt, pp. 76, 80&lt;/ref&gt;
+
+The ''St Vincent'' class was equipped with ten [[List of British ordnance terms#BL|breech-loading]] (BL) [[BL 12 inch Mk XI - XII naval gun|12-inch Mk XI guns]] in five twin-[[gun turret]]s, three along the centreline and the remaining two as [[wing turret]]s. The secondary, or anti-[[torpedo boat]], armament comprised twenty [[BL 4 inch naval gun Mk VII|BL 4-inch Mk VII guns]]. Two of these guns were each installed on the roofs of the fore and aft centreline turrets and the wing turrets in unshielded mounts, and the other ten were positioned in the superstructure. All guns were in single mounts.&lt;ref name=&quot;B_76&quot;&gt;Burt, p. 76&lt;/ref&gt; The ships were also fitted with three [[British 18 inch torpedo|18-inch]] [[torpedo tube]]s, one on each [[broadside]] and the third in the stern.&lt;ref name=p5/&gt;
+
+The ''St Vincent''-class ships had a [[Belt armor|waterline belt]] of [[Krupp cemented armour]] (KC) that was {{convert|10|in|0}} thick between the fore and aftmost [[barbette]]s, reducing to a thickness of {{convert|2|in|0}} before it reached the ships' ends. Above this was a [[strake]] of armour {{convert|8|in|0}} thick. Transverse [[bulkhead (partition)|bulkhead]]s {{convert|5|to|8|in|0}} inches thick terminated the thickest parts of the waterline and upper armour belts once they reached the outer portions of the endmost barbettes.&lt;ref&gt;Burt, pp. 76, 78; Parkes, p. 503&lt;/ref&gt;
+
+The three centreline barbettes were protected by armour {{convert|9|in|0}} thick above the main [[deck (ship)|deck]] that thinned to {{convert|5|in|0}} below it. The wing barbettes were similar except that they had 10 inches of armour on their outer faces. The gun turrets had {{convert|11|in|0|adj=on}} faces and sides with {{convert|3|in|0|adj=on}} roofs. The three armoured decks ranged in thicknesses from {{convert|.75|to|3|in}}. The front and sides of the forward [[conning tower]] were protected by 11-inch plates, although the rear and roof were 8 inches and 3 inches thick, respectively.&lt;ref&gt;Burt, pp. 76, 78; Parkes, p. 504&lt;/ref&gt;
+
+===Alterations===
+The guns on the forward turret roof were removed in 1911–12 and the upper forward pair of guns in the superstructure were removed in 1913–14. In addition, [[gun shield]]s were fitted to all guns in the superstructure and the [[bridge (nautical)|bridge]] structure was enlarged around the base of the forward tripod mast. During the first year of the war, a [[fire-control director]] was installed high on the forward tripod mast. Around the same time, the base of the forward superstructure was rebuilt to house four 4-inch guns and the turret-top guns were removed, which reduced her secondary armament to a total of fourteen guns. In addition, a pair of 3-inch [[anti-aircraft gun|anti-aircraft (AA) guns]] were added.&lt;ref name=b81&gt;Burt, p. 81&lt;/ref&gt;
+
+By April 1917, ''Collingwood'' mounted thirteen 4-inch anti-torpedo boat guns as well as single 4-inch and 3-inch AA guns. Approximately {{convert|50|LT|t}} of additional deck armour had been added after the Battle of Jutland. Before the end of the war the AA guns were moved from the deckhouse between the aft turrets to the stern and the stern torpedo tube was removed. In 1918, a high-angle [[rangefinder]] was fitted and [[Flight deck#Early flight decks|flying-off platforms]] were installed on the roofs of the fore and aft turrets.&lt;ref name=b81/&gt;
+
+==Construction and career==
+[[File:British Battleships of the First World War; HMS Collingwood Q21101.jpg|thumb|left|''Collingwood'' shortly after completion]]
+''Collingwood'', named after [[Vice-Admiral]] [[Cuthbert Collingwood, 1st Baron Collingwood|Cuthbert Collingwood]],&lt;ref&gt;Silverstone, p. 223&lt;/ref&gt; was ordered on 26 October 1907.&lt;ref name=&quot;B_86&quot;/&gt; She was [[laid down]] at [[HMNB Devonport|Devonport Royal Dockyard]] on 3 February 1908, [[Ship naming and launching|launched]] on 7 November 1908 and completed in April 1910. Including her armament, the ship's cost is quoted at £1,680,888&lt;ref name=&quot;B_76&quot;/&gt; or £1,731,640.&lt;ref&gt;Parkes, p. 503&lt;/ref&gt;
+
+On 19 April 1910, ''Collingwood'' was [[Ship commissioning|commissioned]] and assigned to the 1st Division of the [[Home Fleet]] under the command of [[Captain (Royal Navy)|Captain]] [[William Pakenham (Royal Navy officer)|William Pakenham]].&lt;ref name=b29&gt;Brady, Part One, p. 29&lt;/ref&gt; She joined other members of the fleet in regular peacetime exercises, and on 11 February 1911 damaged her bottom plating on an uncharted rock off [[Ferrol, Spain|Ferrol]]. On 24 June the ship was present at the [[Coronation Fleet Review]] for [[King George V]] at [[Spithead]].&lt;ref name=&quot;B_86&quot;&gt;Burt, p. 86&lt;/ref&gt; Pakenham was relieved by Captain [[Charles Vaughan-Lee]] on 1 December.&lt;ref name=b29/&gt; On 1 May 1912, the 1st Division was renamed the [[1st Battle Squadron (United Kingdom)|1st Battle Squadron]].&lt;ref name=&quot;B_86&quot;/&gt; On 22 June, Vaughan-Lee was transferred to the battleship {{HMS|Bellerophon|1907|2}} and Captain [[James Ley (Royal Navy officer)|James Ley]] assumed command; Vice-Admiral [[Stanley Colville]] hoisted his flag in ''Collingwood'' as commander of the 1st Battle Squadron.&lt;ref name=&quot;b29&quot;/&gt; The ship participated in the Parliamentary Naval Review on 9 July at Spithead before beginning a refit late in the year. In March 1913, ''Collingwood'' and the 1st Battle Squadron undertook a port visit to [[Cherbourg]], France.&lt;ref name=b88&gt;Burt, p. 88&lt;/ref&gt; [[Midshipman]] Prince Albert (later [[King George VI]]) was assigned to the ship on 15 September 1913.&lt;ref&gt;Judd, p. 28&lt;/ref&gt; ''Collingwood'' hosted Albert's older brother, [[Edward VIII|Edward]], [[Prince of Wales]], during a short cruise on 18 April 1914. She became a [[private ship]] when Colville hauled down his flag on 22 June.&lt;ref name=b88/&gt;
+
+===World War I===
+Between 17 and 20 July, ''Collingwood'' took part in a test mobilisation and fleet review. Arriving in [[Isle of Portland|Portland]] on 27 July, she was ordered to proceed with the rest of the Home Fleet to [[Scapa Flow]] two days later to safeguard the fleet from a possible [[Imperial German Navy|German]] surprise attack.&lt;ref&gt;Massie, p. 19&lt;/ref&gt; In August 1914, following the outbreak of [[World War I]], the Home Fleet was reorganised as the [[Grand Fleet]], and placed under the command of Admiral [[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]].&lt;ref&gt;Gardiner &amp; Gray, p. 32&lt;/ref&gt; Most of it was briefly based (22 October to 3 November) at [[Lough Swilly]], Ireland, while the defences at Scapa were strengthened. On the evening of 22 November 1914, the Grand Fleet conducted a fruitless sweep in the southern half of the [[North Sea]]; ''Collingwood'' stood with the main body in support of Vice-Admiral [[David Beatty, 1st Earl Beatty|David Beatty]]'s [[1st Battlecruiser Squadron]]. The fleet was back in port in Scapa Flow by 27 November.&lt;ref&gt;Jellicoe, pp. 163–65&lt;/ref&gt; The 1st Battle Squadron cruised north-west of the [[Shetland Islands]] and conducted gunnery practice on 8–12 December. Four days later, the Grand Fleet sortied during the German [[raid on Scarborough, Hartlepool and Whitby]], but failed to make contact with the [[High Seas Fleet]]. ''Collingwood'' and the rest of the Grand Fleet conducted another sweep of the North Sea on 25–27 December.&lt;ref&gt;Brady, Part One, p. 32; Jellicoe, pp. 172, 179, 183–84&lt;/ref&gt;
+
+[[File:First battle squadron in the North Sea (April 1915).jpg|thumb|upright=1.6|The 1st Battle Squadron at sea, April 1915]]
+The Grand Fleet, including ''Collingwood'', conducted gunnery drills on 10–13 January 1915 west of the [[Orkneys]] and Shetlands. On the evening of 23 January, the bulk of the Grand Fleet sailed in support of Beatty's [[battlecruiser]]s, but ''Collingwood'' and the rest of the fleet did not participate in the ensuing [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]] the following day.&lt;ref&gt;Jellicoe, pp. 190, 194–96&lt;/ref&gt; The ship sailed for [[Portsmouth Royal Dockyard]] on 2 February to begin a brief refit and returned on 18 February.&lt;ref&gt;Brady, Part One, p. 32&lt;/ref&gt; On 7–10 March, the Grand Fleet conducted a sweep in the northern North Sea, during which it conducted training manoeuvres. Another such cruise took place on 16–19 March.&lt;ref&gt;Jellicoe, p. 206&lt;/ref&gt; From 25 March to 14 April 1915, [[Rear-Admiral]] [[Hugh Evan-Thomas]] temporarily hoisted his flag aboard ''Collingwood''.&lt;ref name=b3&gt;Brady, Part One, p. 33&lt;/ref&gt; On 11 April, the Grand Fleet conducted a patrol in the central North Sea and returned to port on 14 April; another patrol in the area took place on 17–19 April, followed by gunnery drills off the Shetlands on 20–21 April.&lt;ref&gt;Jellicoe, pp. 211–12&lt;/ref&gt;
+
+The Grand Fleet conducted sweeps into the central North Sea on 17–19 May and 29–31 May without encountering any German vessels. During 11–14 June the fleet conducted gunnery practice and battle exercises west of the Shetlands.&lt;ref&gt;Jellicoe, pp. 217, 218–19, 221–22&lt;/ref&gt; ''Collingwood'' was briefly docked at [[Invergordon]] from 23 to 25 June. King George V inspected the ship on 8 July,&lt;ref name=b3/&gt; and the Grand Fleet conducted training off the Shetlands beginning three days later.&lt;ref&gt;Jellicoe, p. 228&lt;/ref&gt; Rear-Admiral [[Ernest Gaunt]] temporarily used ''Collingwood'' as his flagship from 24 August to 24 September and from 10 December to 16 January 1916.&lt;ref&gt;Brady, Part One, pp. 33–34&lt;/ref&gt; On 2–5 September 1915, the fleet went on another cruise in the northern end of the North Sea and conducted gunnery drills. Throughout the rest of the month, the Grand Fleet conducted numerous training exercises. The ship, together with the majority of the Grand Fleet, conducted another sweep into the North Sea from 13 to 15 October. Almost three weeks later, ''Collingwood'' participated in another fleet training operation west of Orkney during 2–5 November.&lt;ref&gt;Jellicoe, pp. 243, 246, 250, 253&lt;/ref&gt; On 21 November, she sailed for Devonport Royal Dockyard for a minor [[wikt:overhaul|overhaul]] and arrived back at Scapa on 9 December.&lt;ref name=b4&gt;Brady, Part One, p. 34&lt;/ref&gt;
+
+The Grand Fleet departed for a cruise in the North Sea on 26 February 1916; Jellicoe had intended to use the [[Harwich Force]] to sweep the [[Heligoland Bight]], but bad weather prevented operations in the southern North Sea. As a result, the operation was confined to the northern end of the sea. Another sweep began on 6 March, but had to be abandoned the following day as the weather grew too severe for the escorting [[destroyer]]s. On the night of 25 March, ''Collingwood'' and the rest of the fleet sailed from Scapa Flow to support Beatty's battlecruisers and other light forces raiding the German [[Zeppelin]] base at [[Tondern]]. By the time the Grand Fleet approached the area on 26 March, the British and German forces had already disengaged and a strong [[gale]] threatened the light craft, so the fleet was ordered to return to base. On 21 April, the Grand Fleet conducted a demonstration off [[Horns Reef]] to distract the Germans while the [[Imperial Russian Navy|Russian Navy]] relaid its defensive [[naval mine|minefields]] in the [[Baltic Sea]]. The fleet returned to Scapa Flow on 24 April and refuelled before proceeding south in response to intelligence reports that the Germans were about to launch a [[Bombardment of Yarmouth and Lowestoft|raid on Lowestoft]]. The Grand Fleet arrived in the area after the Germans had withdrawn. On 2–4 May, the fleet conducted another demonstration off Horns Reef to keep German attention focused on the North Sea.&lt;ref&gt;Jellicoe, pp. 271, 275, 279–80, 284, 286–90&lt;/ref&gt;
+
+====Battle of Jutland====
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|400px|Maps showing the manoeuvres of the British (blue) and German (red) fleets on 31 May&amp;nbsp;– 1 June 1916|alt=The British fleet sailed from northern Britain to the east while the Germans sailed from Germany in the south; the opposing fleets met off the Danish coast.]]
+{{Main|Battle of Jutland}}
+In an attempt to lure out and destroy a portion of the Grand Fleet, the German High Seas Fleet, composed of 16 dreadnoughts, 6 pre-dreadnoughts, 6 light cruisers, and 31 torpedo boats, departed the Jade early on the morning of 31 May. The fleet sailed in concert with Rear Admiral [[Franz von Hipper]]'s five battlecruisers and supporting cruisers and torpedo boats. The Royal Navy's [[Room 40]] had intercepted and decrypted German radio traffic containing plans of the operation. The Admiralty ordered the Grand Fleet, totalling some 28 dreadnoughts and 9 battlecruisers, to sortie the night before to cut off and destroy the High Seas Fleet.&lt;ref&gt;Tarrant, pp. 54–55, 57–58&lt;/ref&gt; ''Collingwood'' was the eighteenth ship from the head of the battle line after the Grand Fleet deployed for battle.&lt;ref name=b88/&gt;
+
+The initial action was fought primarily by the British and German battlecruiser formations in the afternoon, but by 18:00,&lt;ref group=Note&gt;The times used in this section are in [[Universal Time|UT]], one hour behind [[Central European Time|CET]], which is often used in German works.&lt;/ref&gt; the Grand Fleet approached the scene. Fifteen minutes later, Jellicoe gave the order to turn and deploy the fleet for action. The transition from cruising formation caused congestion with the rear divisions, forcing many ships to reduce speed to {{convert|8|kn}} to avoid colliding with each other. During the first stage of the general engagement, ''Collingwood'' fired eight [[salvo]]s from her main guns at the crippled [[light cruiser]] {{SMS|Wiesbaden}} from 18:32, although the number of hits made, if any, is unknown. Her secondary armament then engaged the destroyer {{SMS|G42}}, which was attempting to come to ''Wiesbaden''{{'}}s assistance, but failed to hit her. At 19:15 ''Collingwood'' fired two salvoes of [[Explosive material#High explosives|high explosive]] (HE) shells at the battlecruiser {{SMS|Derfflinger}}, hitting her target once before she disappeared into the mist. The shell detonated in the German ship's [[sickbay]] and damaged the surrounding superstructure. Shortly afterwards, during the attack of the German destroyers around 19:20, the ship fired her main armament at a damaged destroyer without success and dodged two torpedoes that missed by {{convert|10|yd}} behind and {{convert|30|yd}} in front. This was the last time she fired her guns during the battle.&lt;ref&gt;Campbell, pp. 37, 116, 146, 157, 205, 208, 212, 214, 229–30&lt;/ref&gt;
+
+Following the German destroyer attack, the High Seas Fleet disengaged, and ''Collingwood'' and the rest of the Grand Fleet saw no further action in the battle. This was, in part, due to confusion aboard the fleet flagship over the exact location and course of the German fleet; without this information, Jellicoe could not bring his fleet to action. At 21:30, the Grand Fleet began to reorganise into its night-time cruising formation. Early on the morning of 1 June, the Grand Fleet combed the area, looking for damaged German ships, but after spending several hours searching, they found none. ''Collingwood'' fired a total of 52 [[Armor-piercing shot and shell|armour-piercing, capped]] and 32 HE shells from her main armament and 35 four-inch shells during the battle.&lt;ref&gt;Campbell, pp. 256, 274, 309–10, 346, 348, 358&lt;/ref&gt; Prince Albert was a [[sub-lieutenant]] commanding the forward turret during the battle and sat in the open on the turret roof during a lull in the action.&lt;ref&gt;Gordon, pp. 454, 459&lt;/ref&gt;
+
+====Subsequent activity====
+After the battle the ship was transferred to the [[4th Battle Squadron (United Kingdom)|4th Battle Squadron]] under the command of Vice-Admiral Sir [[Doveton Sturdee]], who inspected ''Collingwood'' on 8 August 1916.&lt;ref&gt;Brady, Part Two, p. 19&lt;/ref&gt; On the evening of 18 August, the Grand Fleet put to sea in response to a message deciphered by Room 40 that indicated that the High Seas Fleet, minus II Squadron, would be leaving harbour that night. The German objective was to bombard [[Sunderland, Tyne and Wear|Sunderland]] on 19 August, based on extensive reconnaissance conducted by Zeppelins and [[U-boat Campaign (World War I)|U-boats]]. The Grand Fleet sailed with 29 dreadnoughts and 6 battlecruisers while the Germans mustered 18 dreadnoughts and 2 battlecruisers. Throughout the next day, Jellicoe and Vice-Admiral [[Reinhard Scheer]], commander of the High Seas Fleet, received conflicting intelligence; after reaching the location in the North Sea where they expected to encounter the High Seas Fleet, the British turned north in the erroneous belief that they had entered a minefield. Scheer turned south again, then steered south-eastward to pursue a lone British battle squadron sighted by an airship, which was in fact the Harwich Force of [[cruiser]]s and destroyers under [[Commodore (Royal Navy)|Commodore]] [[Reginald Tyrwhitt]]. Realising their mistake, the Germans changed course for home. The only contact came in the evening when Tyrwhitt sighted the High Seas Fleet but was unable to achieve an advantageous attack position before dark, and broke off contact. The British and the German fleets returned home; the British lost two cruisers to U-boat attacks, and one German dreadnought had been torpedoed. After returning to port, Jellicoe issued an order that prohibited risking the fleet in the southern half of the North Sea due to the overwhelming risk from mines and U-boats unless the odds of defeating the High Seas Fleet in a decisive engagement were favourable.&lt;ref&gt;Massie, pp. 682–84&lt;/ref&gt;
+
+''Collingwood'' received a brief refit at [[Rosyth]] in early September before rejoining the Grand Fleet. On 29 October Sturdee came aboard to present the ship with her [[battle honour]], &quot;Jutland 1916&quot;. Captain [[Wilmot Nicholson]] briefly assumed command on 1 December before transferring to the new battlecruiser {{HMS|Glorious||2}} upon his relief by Captain [[Cole Fowler]] on 26 March 1917. Together with the rest of the 4th Battle Squadron, ''Collingwood'' put to sea for tactical exercises for a few days in February 1917. The ship was present at Scapa Flow when her [[sister ship]] {{HMS|Vanguard|1909|2}}{{'}}s [[magazine (artillery)|magazines]] exploded on 9 July and her crew recovered the bodies of three men killed in the explosion. In January 1918, ''Collingwood'' and other of the older dreadnoughts cruised off the coast of Norway for several days, possibly to provide distant cover for a convoy to Norway.&lt;ref name=b22&gt;Brady, Part Two, pp. 19–22&lt;/ref&gt; Along with the rest of the Grand Fleet, she [[sortie]]d on the afternoon of 23 April after radio transmissions revealed that the High Seas Fleet was at sea after a failed attempt to intercept the regular British convoy to Norway. The Germans were too far ahead of the British, and no shots were fired.&lt;ref&gt;Massie, p. 748&lt;/ref&gt; By early November, ''Collingwood'' was at Invergordon to receive a brief refit in the floating dock based there, and missed the surrender of the High Seas Fleet on the 21st. She was slightly damaged on 23 November while attempting to come alongside the [[Replenishment oiler|oiler]] [[Royal Fleet Auxiliary|RFA]] [[RFA Ebonol|''Ebonol'']].&lt;ref name=b24&gt;Brady, Part Two, pp. 23–24&lt;/ref&gt;
+
+In January 1919, ''Collingwood'' was transferred to Devonport and assigned to the Reserve Fleet. Upon the dissolution of the Grand Fleet on 18 March, the Reserve Fleet was redesignated the Third Fleet and ''Collingwood'' became its flagship. She became a [[Ship's tender|tender]] to [[HMS Vivid (shore establishment 1890)|HMS ''Vivid'']] on 1 October and served as a gunnery and [[wireless telegraphy]] (W/T) training ship. The W/T school was transferred to ''Glorious'' on 1 June 1920 and the gunnery duties followed in early August; ''Collingwood'' returned to the reserve. She became a [[Boy seaman|boys']] training ship on 22 September 1921 until she was [[Ship decommissioning|paid off]] on 31 March 1922. ''Collingwood'' was sold to [[John Cashmore Ltd]] for scrap on 12 December and arrived at [[Newport, Wales]], on 3 March 1923 to be broken up.&lt;ref name=b24/&gt;
+
+==Relics==
+[[Battle ensign]]s flown by the ship during Jutland survive at the [[shore establishment]] of the [[HMS Collingwood (shore establishment)|same name]] and at the [[Roedean School]] in [[East Sussex]].&lt;ref&gt;Gordon, p. 417&lt;/ref&gt;
+
+==Footnotes==
+{{Reflist|group=Note}}
+
+==Citations==
+{{reflist|30em}}
+
+==Bibliography==
+* {{cite book|last=Burt|first=R. A.|title=British Battleships of World War One|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1986|isbn=0-87021-863-8}}
+*{{cite journal|last=Brady|first=Mark|date=May 2014|title=HMS Collingwood War Record |others=Part One|journal=Warship|publisher=World Ship Society|location=London|issue=176|pages=29–35|issn=0966-6958}}
+*{{cite journal|last=Brady|first=Mark|date=September 2014|title=HMS Collingwood War Record |others=Part Two|journal=Warship|publisher=World Ship Society|location=London|issue=177|pages=19–24|issn=0966-6958}}
+*{{Cite book|last=Campbell|first=N. J. M.|title=Jutland: An Analysis of the Fighting|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1986|isbn=0-87021-324-5}}
+* {{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3|last-author-amp=yes}}
+* {{cite book|last=Gordon|first=Andrew|title=The Rules of the Game: Jutland and British Naval Command|date=2012|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-336-9}}
+* {{cite book |last=Jellicoe|first=John|authorlink=John Jellicoe, 1st Earl Jellicoe|title=The Grand Fleet, 1914–1916: Its Creation, Development, and Work|year=1919|location=New York|publisher=George H. Doran Company|oclc=13614571}}
+*{{Cite book|first=Denis|last=Judd|year=1982|title=King George VI: 1895–1952|publisher=Michael Joseph|location=London|isbn=0-7181-2184-8}}
+* {{cite book|title=[[Castles of Steel: Britain, Germany, and the Winning of the Great War at Sea]] |last=Massie|first=Robert K.|authorlink=Robert K. Massie|publisher=Random House|year=2003|location= New York|isbn=0-679-45671-6}}
+* {{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|orig-year=1957|edition=reprint|isbn=1-55750-075-4}}
+* {{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book|last=Tarrant|first=V. E.|title=Jutland: The German Perspective: A New View of the Great Battle, 31 May 1916|publisher=Brockhampton Press|location=London|year=1999|orig-year=1995|edition=reprint|isbn=1-86019-917-8}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|HMS Collingwood (ship, 1908)}}
+* [http://www.maritimequest.com/warship_directory/great_britain/battleships/collingwood/hms_collingwood.htm Maritimequest HMS ''Collingwood'' Photo Gallery]
+
+{{St Vincent class battleship}}
+
+{{DEFAULTSORT:Collingwood (1908)}}
+[[Category:St. Vincent-class battleships]]
+[[Category:World War I battleships of the United Kingdom]]
+[[Category:1908 ships]]
+[[Category:Plymouth-built ships]]</text>
+      <sha1>hspd4ujjvpb6tshxcvrf25g1kjpc28l</sha1>
+    </revision>
+  </page>
+</mediawiki>

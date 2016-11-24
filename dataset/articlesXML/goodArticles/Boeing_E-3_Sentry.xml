@@ -1,0 +1,369 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Boeing E-3 Sentry</title>
+    <ns>0</ns>
+    <id>10384</id>
+    <revision>
+      <id>743328515</id>
+      <parentid>740514482</parentid>
+      <timestamp>2016-10-09T04:03:28Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <comment>http → https, link maintenance, [[WP:AWB/T|typo(s) fixed]]: world-wide → worldwide using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="43324">{{good article}}
+{{Use dmy dates|date=August 2014}}
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+  |name = E-3 Sentry
+  |image = E-3 Sentry exercise Green Flag 2012 (Cropped).jpg&lt;!-- Flight images are preferred for aircraft - Please do not change this image without a talk page discussion --&gt;
+  |caption = An E-3 Sentry of the United States Air Force.|alt=Aerial view port view of white jet aircraft in-flight. It has a large disc-like black radar lying horizontally above two convergent struts. 
+}}{{Infobox Aircraft Type
+  |type = [[Airborne early warning and control]] (AEW&amp;C)
+  |manufacturer = [[Boeing Defense, Space &amp; Security]] &lt;br /&gt;[[Westinghouse Electric (1886)|Westinghouse Electric]] (radar)
+  |designer =
+  |first flight =  EC-137D: 9 February 1972&lt;br/&gt; E-3: 25 May 1976{{refn|Quote:&quot;...and the first flight of an E-3 with full mission avionics was from Seattle on 25 May 1976.&quot;&lt;ref name=Eden_p94&gt;Eden et al 2004, p.&amp;nbsp;94.&lt;/ref&gt;|group=&quot;N&quot;}}
+  |introduction = March 1977 
+  |retired =
+  |status = Operational
+  |primary user = [[United States Air Force]]
+  |more users = [[NATO]] &lt;br/&gt; [[Royal Air Force]] &lt;br/&gt; [[Royal Saudi Air Force]]&lt;!--limited to three &quot;more users&quot; total; please separate with &lt;br/&gt;--&gt;
+  |produced = 1977–1992
+  |number built = 68
+  |unit cost ={{US$|link=yes}}270&amp;nbsp;million (FY1998 constant dollars)&lt;ref name=USAF1&gt;{{cite web|url=http://www.af.mil/information/factsheets/factsheet.asp?id=98 |title=Factsheet : E-3 SENTRY (AWACS) : E-3 SENTRY (AWACS) |accessdate=26 May 2007 |date=May 2006 |work=US Air Force }}&lt;/ref&gt;
+  |developed from = [[Boeing 707]]
+  |variants with their own articles =
+}}
+|}
+
+The '''Boeing E-3 Sentry''', commonly known as '''AWACS''', is an [[airborne early warning and control]] (AEW&amp;C) aircraft developed by [[Boeing Defense, Space &amp; Security|Boeing]] as the prime contractor. Derived from the [[Boeing 707]], it provides all-weather surveillance, command, control, and communications, and is used by the [[United States Air Force]], [[NATO]], [[Royal Air Force]], [[French Air Force]], and [[Royal Saudi Air Force]]. The E-3 is distinguished by the distinctive rotating [[radar dome]] above the fuselage. Production ended in 1992 after 68 aircraft had been built.
+
+In the mid-1960s, the US Air Force (USAF) was seeking an aircraft to replace its piston-engined [[Lockheed EC-121 Warning Star]], which had been in service for over a decade. After issuing preliminary development contracts to three companies, the USAF picked Boeing to construct two airframes to test Westinghouse Electric and [[Hughes Aircraft|Hughes]]'s competing radars. Both radars used [[Pulse-Doppler radar|pulse-Doppler technology]], with Westinghouse's design emerging as the contract winner. Testing on the first production E-3 began in October 1975.
+
+The first USAF E-3 was delivered in March 1977, and during the next seven years, a total of 34 aircraft were manufactured. NATO, as a single identity, also had 18 aircraft manufactured, basing them in Germany. The E-3 was also sold to the United Kingdom (seven) and France (four) and [[Saudi Arabia]] (five, plus eight E-3-derived tanker aircraft). In 1991, when the last aircraft had been delivered, E-3s participated in [[Operation Desert Storm]], playing a crucial role of directing [[Coalition of the Gulf War|coalition]] aircraft against the enemy. Throughout the aircraft's service life, numerous upgrades were performed to enhance its capabilities. In 1996, Westinghouse Electric's Defense &amp; Electronic Systems division, was acquired by Northrop Corporation before its being renamed [[Northrop Grumman Electronic Systems]], which currently supports the E-3's radar.
+
+==Development==
+
+===Background===
+In 1963, the USAF asked for proposals for an Airborne Warning and Control System (AWACS) to replace its [[Lockheed EC-121 Warning Star|EC-121 Warning Stars]], which had served in the [[airborne early warning]] role for over a decade.&lt;ref&gt;Wilson 1998, p.&amp;nbsp;72.&lt;/ref&gt; The new aircraft would take advantage of improvements in radar technology; and, in computer aided radar data analysis and data reduction; which, allowed airborne radars to &quot;look down&quot;, detect the movement of low-flying aircraft (see [[Look-down/shoot-down]]), and discriminate, even over land, target aircraft's movements; which up until then was impossible, due to the inability to discriminate an aircraft's track from [[Radar#Clutter|ground clutter]].&lt;ref name=Eden_p92&gt;Eden et al. 2004, p.&amp;nbsp;92.&lt;/ref&gt; Contracts were issued to Boeing, [[Douglas Aircraft Company|Douglas]], and [[Lockheed Corporation|Lockheed]], the latter being eliminated in July 1966. In 1967, a parallel program was put into place to develop the radar, with [[Westinghouse Electric (1886)|Westinghouse Electric]] and the [[Hughes Aircraft]] being asked to compete in producing the radar system. In 1968, it was referred to as Overland Radar Technology (ORT) during development tests on the modified EC-121Q.&lt;ref name=&quot;AUR1&quot;&gt;{{cite web|url=http://www.airpower.maxwell.af.mil/airchronicles/aureview/1972/may-jun/pearce.html |title=AWACS to Bridge the Technological Gap |accessdate=14 February 2009 |publisher=Air University }}&lt;/ref&gt;&lt;ref name=&quot;Davies p2&quot;&gt;Davies 2005, p.&amp;nbsp;2.&lt;/ref&gt; The Westinghouse radar antenna was going to be used by whichever company won the radar competition, since Westinghouse had pioneered in the design of high-power RF phase-shifters.
+
+[[File:Lockheed RC-121C 1955.jpg|thumb|left|The piston-engined [[Lockheed EC-121 Warning Star|EC-121 Warning Star]], a military development of the [[Lockheed Constellation]], saw service since the mid-1950s.|alt=Black-and-white photograph of piston-engined aircraft with a large hump on midfuselage]]
+
+Boeing initially proposed a purpose-built aircraft, but tests indicated it would not outperform the already-operational 707, so the latter was chosen, instead. To increase endurance, this design was to be powered by eight [[General Electric TF34]]s, or carrying its radar in a rotating dome mounted at the top of a forward-swept tail, above the fuselage.&lt;ref name=Eden_p92/&gt;&lt;ref&gt;{{Cite web|first=Erik|last= Simonsen|url=http://www.boeing.com/news/frontiers/archive/2007/march/i_history.pdf|title=Still keeping watch|date=March 2007|publisher=Boeing|format=PDF|accessdate=21 August 2011}}&lt;/ref&gt; Boeing was selected ahead of [[McDonnell Douglas]]'s [[Douglas DC-8|DC-8]]-based proposal in July 1970. Initial orders were placed for two aircraft, designated EC-137D as test beds to evaluate the two competing radars. As the test-beds did not need the same 14-hour endurance demanded of the production aircraft, the EC-137s retained the [[Pratt &amp; Whitney JT3D]] commercial engines, and a later reduction in endurance requirement led to retaining the normal engines in production.&lt;ref name=Davies_p2/&gt;
+
+The first EC-137 made its maiden flight on 9 February 1972, with the fly-off between the two radars taking place during March–July that year.&lt;ref name=AUR1/&gt; Favorable test results led to the selection of Westinghouse's radar for the production aircraft.&lt;ref name=&quot;Davies 5-6&quot;&gt;Davies 2005, pp.&amp;nbsp;5–6.&lt;/ref&gt; Hughes's radar was initially thought to be a certain winner, simply because much of its design was also going into the new [[McDonnell Douglas F-15 Eagle|F-15 Eagle]]'s radar program. The Westinghouse radar used a pipelined [[fast fourier transform]] (FFT) to digitally resolve 128 Doppler frequencies, while Hughes's radars used analog filters based on the design for the F-15 fighter. Westinghouse's engineering team won this competition by using a programmable 18-[[bit]] computer whose software could be modified before each mission. This computer was the AN/AYK-8 design from the B-57G program, and designated AYK-8-EP1 for its much expanded memory. This radar also multiplexed a beyond-the-horizon (BTH) pulse mode that could complement the [[pulse-Doppler radar]] mode. This proved to be beneficial especially when the BTH mode is used to detect ships at sea when the radar beam is directed below the horizon.&lt;ref name=&quot;Northrop1&quot;&gt;{{cite web|url=http://www.es.northropgrumman.com/solutions/awacs/assets/AWACS.pdf |title=AWACS Surveillance Radar |accessdate=10 February 2009 |publisher=Northrop Grumman|format=PDF }}&lt;/ref&gt;
+
+===Full-scale development===
+Approval was given on 26 January 1973 for full-scale development of the AWACS system. To allow further development of the aircraft's systems, orders were placed for three preproduction aircraft, the first of which performed its maiden flight in February 1975. To save costs, the endurance requirements were relaxed, allowing the new aircraft to retain the four JT3D (US Military designation TF33) engines.&lt;ref name=Davies_p2/&gt;&lt;ref name=&quot;Janes 76 p246&quot;&gt;Taylor et al. 1976, p.&amp;nbsp;246.&lt;/ref&gt; IBM and Hazeltine were selected to develop the mission computer and display system. The IBM computer receiving the designation 4PI, and the software is written in [[JOVIAL]]. A [[Semi-Automatic Ground Environment]] (SAGE) or [[Back-Up Interceptor Control|back-up interceptor control]] (BUIC) operator would immediately be at home with the track displays and tabular displays, but differences in symbology would create compatibility problems in tactical ground radar systems in [[Iceland]], Europe, and Korea over [[MIL-STD-6011|Link-11 (TADIL-A)]].
+[[File:First E-3 Sentry at Tinker AFB.jpg|thumb|Welcome ceremony for first E-3 aircraft at [[Tinker AFB]] in 1977|alt=Black-and-white photograph with angled front view of four-engine jet aircraft on ramp with front fuselage door opened: A contingent of people are there to welcome the jet, which has a disc-shaped radar perching on top of struts on the dorsal fuselage.]]
+
+Modifications to the Boeing 707 for the E-3 Sentry included a rotating radar dome, single-point ground refueling, air refueling, and a bail-out tunnel or chute. The original design had two (one forward, and one aft), but the aft bail-out chute was deleted to cut mounting costs.&lt;ref name=&quot;Cresent1&quot;&gt;{{cite book|author=[[Bill Gunston|Gunston, Bill]]|title=The Illustrated Encyclopedia of the World's Modern Military Aircraft |year=1985|publisher=Leisure Books|isbn= 978-0-517-22477-9}}&lt;/ref&gt; Engineering, test and evaluation began on the first E-3 Sentry in October 1975. Between  1977 and 1992, a total of 68 E-3s were built.&lt;ref name=USAF1/&gt;&lt;ref name = Boeing1/&gt;
+
+===Future status===
+Because the Boeing 707 is no longer in production, the E-3 mission package has been fitted into the [[Boeing E-767]] for the [[Japan Air Self Defense Force]]s. The [[Northrop Grumman E-10 MC2A|E-10 MC2A]] was intended to replace USAF E-3s—along with the [[Boeing RC-135|RC-135]] and the E-8, but the E-10 program was canceled by the [[United States Department of Defense|Department of Defense]]. The USAF is now performing a series of incremental improvements, mainly to avionics, to bring the E-3 up to current standards of performance. Boeing is flight-testing its Block 40/45 E-3s. This modified E-3 contains upgrades of the mission crew and air battle management sections, as well as significantly upgraded electronic equipment.&lt;ref&gt;{{Cite press release|url=http://www.boeing.com/defense-space/asw_isr/news/2008/q3/080910a_nr.html|title=Completes Mission System Flight Testing for US AWACS Block 40/45 Upgrade|publisher=Boeing|date=10 September 2008|accessdate=13 July 2011}}&lt;/ref&gt;
+
+Another program that the Air Force is considering is the &quot;Avionics Modernization Program&quot; (AMP). AMP would equip the E-3s with [[glass cockpit]]s. The Air Force also wants modified E-3s with jet engines that are more reliable than the original ones, and also with at least 19% higher fuel efficiencies. New turbofan engines would give these E-3s longer ranges, longer time-on-station, and a shorter critical runway length. If the modification is carried out, the E-3s could take off with full fuel loads using runways only {{convert|10000|ft|m|abbr=on}} long, and also at higher [[ambient temperature]]s and lower [[barometric pressure]]s, such as from bases in mountainous areas. Now that the [[E-8 Joint STARS]] are being fitted with the new [[Pratt &amp; Whitney JT8D|Pratt &amp; Whitney JT8D-219]] turbofans, which are stated as having one-half the cost of the competing engine, the [[CFM International CFM56|CFM56]], the Air Force is again studying the possibility of replacing the E-3's original turbofan engines with more-efficient ones.&lt;ref&gt;{{Cite news|url=http://www.highbeam.com/doc/1G1-76547425.html|title=EADS, Northrop Grumman, Partt and Whitney To Offer NATO AWACS Upgrade|work=Defense Daily International|date=13 July 2001|accessdate=8 September 2010}}&lt;/ref&gt;
+
+Upgrading NATO's E-3 fleet is complicated by the heterogeneity of the fleet's equipment.  Each NATO member's E-3 aircraft are configured differently, and NATO has not finalized upgrade or replacement plans.  The airplanes themselves can be flown to 2050 with appropriate maintenance, but as the worldwide fleet of 707 aircraft dwindles, supporting the E-3 becomes more difficult.&lt;ref&gt;Batey, Angus, Early warning, Aviation Week and Space Technology, 21 April 2014, p.54&lt;/ref&gt;
+
+==Design==
+
+===Overview===
+{{See also|Boeing 707#Design|l1=Boeing 707 – Design}}
+
+The E-3 Sentry's airframe is a modified [[Boeing 707|Boeing 707-320B Advanced]] model. USAF and NATO E-3s have an unrefueled range of some {{convert|4000|mi|km|abbr=on}} or eight hours of flying.&lt;ref name=GS.org_specs/&gt; The newer E-3 versions bought by France, Saudi Arabia, and the UK are equipped with newer CFM56-2 turbofan engines, and these can fly for about 11 hours or about {{convert|5000|mi|km|abbr=on}}.&lt;ref&gt;{{Cite web|title=Boeing E-3 Airborne Warning and Control System (AWACS)|publisher=Boeing|url=http://www.boeing.com/defense-space/ic/awacs/docs/E-3AWACS_overview.pdf|format=PDF|accessdate=22 August 2011}}&lt;/ref&gt; The Sentry's range and on-station time can be increased through [[air-to-air refueling]] and the crews can work in shifts by the use of an on-board crew rest and meals area.&lt;ref name=USAF1/&gt;&lt;ref name=Boeing1/&gt;
+
+When deployed, the E-3 monitors an assigned area of the battlefield and provides information for commanders of air operations to gain and maintain control of the battle; while as an air defense asset, E-3s can detect, identify, and track airborne enemy forces far from the boundaries of the U.S. or NATO countries and can direct fighter-interceptor aircraft to these targets.&lt;ref name=USAF1/&gt; In support of air-to-ground operations, the E-3 can provide direct information needed for interdiction, reconnaissance, airlift, and close-air support for friendly ground forces.&lt;ref name=USAF1/&gt;
+
+===Avionics===
+[[File:AWACS antenna, Airborne Warning and Control System - National Electronics Museum - DSC00416.JPG|thumb|150px|[[AN/APY-1]] antenna array in the [[National Electronics Museum]]]]
+The unpressurized [[rotodome]] is 30&amp;nbsp;feet (9.1&amp;nbsp;m) in diameter, six feet (1.8&amp;nbsp;m) thick at the center, and is held 11&amp;nbsp;feet (3.4&amp;nbsp;m) above the fuselage by two struts.&lt;ref name=USAF1/&gt; It is tilted down at the front to reduce its aerodynamic drag, which lessens its detrimental effect on take-offs and endurance (which is corrected electronically by both the radar and [[secondary surveillance radar]] antenna [[phase shifter]]s). The dome uses both [[bleed air]] and cooling doors to remove the heat generated by electronic and mechanical equipment. The hydraulically rotated antenna system permits the [[Northrop Grumman Electronic Systems|Westinghouse Corporation]]'s [[AN/APY-1]] and [[AN/APY-2]] [[passive electronically scanned array]] radar system&lt;ref name=&quot;GS&quot;&gt;{{cite web|url=http://www.globalsecurity.org/military/systems/aircraft/e-3.htm |title=E-3 Sentry (AWACS) |accessdate=9 November 2009 |work=globalsecurity.org }}&lt;/ref&gt; to provide surveillance from the Earth's surface up into the [[stratosphere]], over land or water.
+
+[[File:ILA 2008 PD 185.JPG|thumb|left|Close-up view of the radar, which revolves at 6 [[revolutions per minute]].&lt;ref&gt;Wilson 1998, p.&amp;nbsp;73.&lt;/ref&gt;|alt=Close-up view of black disc-shaped radar with wide diagonal white band. The radar rests on two convergent struts above aircraft fuselage.]]
+
+Other major subsystems in the E-3 Sentry are navigation, communications, and computers. Consoles display computer-processed data in graphic and tabular format on video screens. Console operators perform surveillance, identification, weapons control, battle management and communications functions.&lt;ref name=USAF1/&gt; The radar and computer subsystems on the E-3 can gather and present broad and detailed battlefield information. This includes position and tracking information on enemy aircraft and ships, and location and status of friendly aircraft and naval vessels. The information can be sent to major [[command and control]] centers in rear areas or aboard ships. In times of crisis, data can be forwarded to the [[National Command Authority]] in the U.S. via [[RC-135]] or naval [[aircraft carrier]] task forces.&lt;ref name=USAF1/&gt;
+
+[[Electrical generator]]s mounted on each of the E-3's four engines provide the one [[megawatt]] of electrical power that is required by the E-3's radars and other electronics.&lt;ref name=USAF1/&gt; Its [[pulse-Doppler radar]] (PD) has a range of more than 250&amp;nbsp;mi (400&amp;nbsp;km) for low-flying targets at its operating altitude, and the pulse (BTH) radar has a range of approximately 400&amp;nbsp;mi (650&amp;nbsp;km) for aircraft flying at medium to high altitudes. The radar, combined with an SSR, provides a [[Look-down/shoot-down|look down]] capability, to detect, identify, and track low-flying aircraft, while eliminating ground [[clutter (radar)]] returns.&lt;ref name=USAF1/&gt;&lt;ref name=&quot;Boeing1&quot;&gt;{{cite web|url=http://www.boeing.com/defense-space/ic/awacs/index.html |title= Airborne Warning and Control System (AWACS) |accessdate=26 May 2007 |publisher=Boeing }}&lt;/ref&gt;&lt;ref name=&quot;FAS1&quot;&gt;{{cite web|url=http://www.fas.org/programs/ssp/man/uswpns/air/special/e3.html |title=E-3 Sentry (AWACS) |accessdate=13 July 2011 |date=23 April 2000 |work=[[Federation of American Scientists]]}}&lt;/ref&gt;
+
+===Upgrades===
+[[File:E3 080129-N-2183K-025.jpg|thumb|Personnel manning E-3 communications and command consoles.|alt=Inside military aircraft. Two personnel wearing green clothes and blue gloves manning communications consoles with wide displays.]]
+
+Starting in 1987, USAF E-3s were upgraded under the &quot;Block 30/35 Modification Program&quot; to enhance the E-3's capabilities. On 30 October 2001, final airframe to be upgraded under this program was rolled out.&lt;ref name=&quot;GS1&quot;&gt;{{cite web|url=http://www.globalsecurity.org/military/systems/aircraft/e-3-30.htm |title=E-3 Sentry (AWACS) |accessdate=26 May 2007 |work=globalsecurity.org }}&lt;/ref&gt; Several major enhancements were made, firstly the installation of [[Electronic warfare support measures|electronic support measures]] (ESM) and an electronic surveillance capability, for both active and passive means of detection. Also, [[Joint Tactical Information Distribution System]] (JTIDS) was installed, which provides rapid and secure communication for transmitting information, including target positions and identification data, to other friendly platforms. [[Global Positioning System]] (GPS) capability was also added. Onboard computers were also overhauled to accommodate JTIDS, [[Link-16]], the new ESM systems and to provide for future enhancements.&lt;ref name=GS1/&gt;
+
+The Radar System Improvement Program (RSIP) was a joint US/NATO development program.&lt;ref name=USAF1/&gt; RSIP enhances the operational capability of the E-3 radars' [[electronic countermeasures]], and dramatically improve the system's reliability, maintainability, and availability.&lt;ref name=USAF1/&gt; Essentially, this program replaced the older [[transistor-transistor logic]] (TTL) and [[emitter-coupled logic]] (MECL) electronic components, long-since out of production, with off-the-shelf [[digital computer]]s that utilised a [[High-level programming language]] instead of [[assembly language]]. Significant improvement came from replacing the old 8-bit [[Fast Fourier transform|FFT]] with 24-bit FFTs, and the 12-bit A/D (Sign + 12-bits) with a 15-bit A/D (Sign + 15-bits).&lt;ref name=Northrop1/&gt; These hardware and software modifications improve the E-3 radars' performance, providing enhanced detection with an emphasis towards low [[radar cross-section]] (RCS) targets.&lt;ref name=USAF1/&gt;
+
+The RAF had also joined the USAF in adding RSIP to upgrade the E-3's radars. The retrofitting of the E-3 squadrons were completed in December 2000. Along with the RSIP upgrade was installation of the Global Positioning System/Inertial Navigation Systems which dramatically improve positioning accuracy. In 2002, Boeing was awarded a contract to add RSIP to the small French AWACS squadron. Installation was completed in 2006.&lt;ref name=USAF1/&gt;&lt;ref name=Boeing3&gt;{{cite web|url=http://www.boeing.com/defense-space/ic/awacs/e3svcww/ukfr.html |title= AWACS For United Kingdom and France |accessdate=26 May 2007 |publisher=Boeing }}&lt;/ref&gt;
+
+==Operational history==
+In March 1977, the 552nd Airborne Warning and Control Wing (now the [[552d Air Control Wing]]) at [[Tinker AFB]], [[Oklahoma]] received the first E-3 aircraft, commanded by Major James R. Sterk.&lt;ref name=USAF1/&gt; The 34th and last USAF Sentry was delivered in June 1984.&lt;ref name=Boeing_AWACS&gt;{{Cite web|title=U.S. and NATO AWACS|publisher=Boeing|url=http://www.boeing.com/defense-space/ic/awacs/e3svcww/usnato.html|accessdate=21 August 2011}}&lt;/ref&gt; In March 1996, the USAF activated the [[513th Air Control Group]] (513 ACG), an ACC-gained [[Air Force Reserve Command]] (AFRC) AWACS unit under the Reserve Associate Program. Collocated with the 552 ACW at Tinker AFB, the 513 ACG which performs similar duties on active duty E-3 aircraft shared with the 552 ACW.&lt;ref name=USAF1/&gt;
+
+[[File:e3 sentry zh101 kemble arp.jpg|thumb|left|An RAF Boeing E-3D Sentry AEW1 accompanied by two [[Panavia Tornado ADV|Panavia Tornado F3s]] at [[Kemble Airport|Kemble Air Day]]. RAF AEW1s can be identified by the [[Electronic warfare support measures|electronic support measures]] pods on the wingtips.&lt;ref name=Wilson_p75/&gt;|alt=Four-engined jet aircraft with disc-shaped radar on fuselage in-flight flanked by two jet fighters.]]
+
+The USAF has a total of thirty-one E-3s in active service. Twenty-seven are stationed at Tinker AFB and belong to the [[Air Combat Command]] (ACC). Four are assigned to the [[Pacific Air Forces]] (PACAF) and stationed at [[Kadena AB]], Okinawa and [[Elmendorf AFB]], Alaska. One aircraft (TS-3) was assigned to Boeing for testing and development (retired/scrapped June 2012).&lt;ref name=USAF1/&gt;
+
+In 1977, Iran placed an order for ten E-3s, however this order was cancelled following the [[Iranian Revolution|1979 revolution]].
+
+NATO acquired 18 E-3As and support equipment for a NATO air defense force. Since all aircraft must be registered with a certain country, the decision was made to register the 18 NATO Sentries with [[Luxembourg]], a NATO member that previously did not have any air force. The first NATO E-3 was delivered in January 1982.&lt;ref name=Wilson_p75&gt;Wilson 1998, p&amp;nbsp;75.&lt;/ref&gt; The eighteen E-3s were operated by Number 1, 2 and 3 Squadrons of NATO's E-3 Component, based at [[NATO Air Base Geilenkirchen]].&lt;ref name=Wilson_p75/&gt; Presently, 17 NATO E-3As are in the inventory, since one E-3 was lost in a crash.&lt;ref name=Boeing_AWACS/&gt;&lt;ref name=Flight1997/&gt;
+
+The United Kingdom and France are not part of the NATO E-3A Component, instead procuring E-3 aircraft through a joint project.&lt;ref&gt;{{cite web|url=http://www.boeing.com/defense-space/ic/awacs/e3svcww/ukfr.html |title= AWACS For United Kingdom and France |accessdate=26 September 2010 |publisher=Boeing}}&lt;/ref&gt; The UK and France operate their E-3 aircraft independently of each other and of NATO.&lt;ref name=&quot;Boeing2&quot;&gt;{{cite web|url=http://www.boeing.com/defense-space/ic/awacs/e3svcww/e3fleet.html |title= E-3 Specifications (707 Platform) and Worldwide Fleet|accessdate=26 September 2010 |publisher=Boeing}}&lt;/ref&gt; The UK operates six aircraft (with a seventh now retired)&lt;ref&gt;{{cite web|last=Hoyle|first=Craig|title=RAF ISTAR watch: a Shadowy arrival, and saving Sentinel |url=http://www.flightglobal.com/blogs/the-dewline/2013/07/raf-istar-watch-a-shadowy-arri/|publisher=Flightglobal |accessdate=27 September 2013 |archivedate= 2013-07-24 |archiveurl= https://web.archive.org/web/20130724111520/http://www.flightglobal.com/blogs/the-dewline/2013/07/raf-istar-watch-a-shadowy-arri/ }}&lt;/ref&gt; and France operates four aircraft, all fitted with the newer CFM56-2 engines.&lt;ref name=Boeing1/&gt; The British requirement came about following the cancellation of the [[British Aerospace Nimrod AEW3]] project to replace the [[Avro Shackleton|Avro Shackleton AEW2]] during the 1980s. The UK E-3 order was placed in February 1987, with deliveries starting in 1990.&lt;ref name=Boeing3/&gt;&lt;ref name=&quot;Lake Sentry p44&quot;&gt;Lake 2009, p.&amp;nbsp;44.&lt;/ref&gt; The other operator of the type, delivered between June 1986 and September 1987, is [[Saudi Arabia]] which operates five aircraft, all fitted with CFM56-2 engines.&lt;ref name=Boeing1/&gt; This [[US–Saudi Arabia AWACS Sale|particular sale]] was hotly contested between the Reagan administration and opponents{{who|date=June 2016}} of the sale.{{citation needed|date=June 2016}}
+
+E-3 Sentry aircraft were among the first to deploy during [[Gulf War#Diplomacy and Operation Desert Shield|Operation Desert Shield]], where they immediately established as an around-the-clock radar screen to defend against Iraqi forces. During [[Gulf War#Operation Desert Shield|Operation Desert Storm]], E-3s flew 379 missions and logged 5,052 hours of on-station time.&lt;ref name=V&amp;D_p83&gt;Veronico and Dunn 2004, p.&amp;nbsp;83.&lt;/ref&gt; The data collection capability of the E-3 radar and computer subsystems allowed an entire air war to be recorded for the first time in history. In addition to providing senior leadership with time-critical information on the actions of enemy forces, E-3 controllers assisted in 38 of the 41 air-to-air kills recorded during the conflict.&lt;ref name=USAF1/&gt;&lt;ref name=V&amp;D_p83/&gt;
+
+NATO E-3s joined their USAF colleagues for joint air defense as part of Operation Eagle Assist in the wake of the [[September 11, 2001 attacks|September 11, 2001 terrorist attacks]] on the World Trade Center towers and the Pentagon.&lt;ref&gt;[http://www.e3a.nato.int/eng/html/organizations/humanitarian.htm ″The history of the TCA Squadron.″] ''NATO AWACS''&lt;/ref&gt;
+
+NATO and RAF E-3s participated in the [[2011 military intervention in Libya|international military operation in Libya]].&lt;ref&gt;{{Cite news|title=NATO starts patrolling Libyan air space|newspaper=[[The Australian]]|date=11 March 2011|url=http://www.theaustralian.com.au/news/world/nato-starts-patrolling-air-space-over-libya/story-e6frg6so-1226019422694|accessdate=22 August 2011}}&lt;/ref&gt;
+
+On 27 January 2015, the RAF deployed an E-3D Sentry to Cyprus in support of [[2014 military intervention against ISIS|U.S.-led coalition airstrikes]] against [[Islamic State of Iraq and the Levant|Islamic State militants]] in Iraq and Syria.  The Sentry joins RAF [[Panavia Tornado]], [[MQ-9 Reaper]], and [[Airbus Voyager|AirTanker Voyager]] aircraft performing or supporting almost daily strikes against militants.&lt;ref&gt;[http://www.flightglobal.com/news/articles/raf-sentry-aew-aircraft-deploys-in-support-of-counter-is-408549/ RAF Sentry AEW aircraft deploys in support of counter-IS mission] - Flightglobal.com, 2 February 2015&lt;/ref&gt;
+
+On 23 June 2015, the first of the original 18 NATO E-3A AWACS aircraft to retire, arrived at [[Davis-Monthan AFB]] near [[Tucson]], AZ.  The aircraft, LX-N 90449, will be placed in parts reclamation storage where critical parts will be removed by NATO technicians to support their remaining fleet of 16 Boeing E-3A aircraft. It had accumulated 22,206 flight hours between 19 August 1983 and 13 May 2015 and operated out of twenty-one different countries in support of NATO operational activities. The aircraft was due in mid-July 2015 for a six-year cycle Depot Level Maintenance (DLM) inspection which would have been very costly.  Without the inspection, the aircraft would no longer be allowed to fly. The so-called &quot;449 Retirement Project&quot; will result in reclamation of critical parts with a value of upwards of $40,000,000.  Some of the parts to be removed are no longer on the market or have become very expensive.&lt;ref&gt;http://www.e3a.nato.int/eng/html/stories/story_102.htm&lt;/ref&gt;&lt;ref&gt;https://www.dvidshub.net/video/411646/nato-e-3a-arrives-davis-monthan-afb#.VZvF7vlVikq&lt;/ref&gt;
+
+On 18 November 2015, an E-3G was deployed to the Middle East to begin &quot;immediately&quot; flying combat missions in support of [[Operation Inherent Resolve]] against ISIL, marking the first combat deployment of the upgraded AWAC Block 40/45.  The $2.7 billion development effort started in 2003, with the first five aircraft achieving initial operational capability (IOC) in July 2015.  The Block 40/45 upgrade is the most extensive the E-3 has undergone, replacing its 1970s computer technology with an early 2000s standard and including a deployable ground system that receives, processes, and disseminates data. The Air Force plans to convert 24 AWACS to E-3G standard, while retiring seven from the fleet to avoid upgrade costs and harvest out-of-production components.&lt;ref&gt;[https://www.flightglobal.com/news/articles/boeing-e-3g-makes-middle-east-combat-debut-419318/ Boeing E-3G makes Middle East combat debut] - Flightglobal.com, 19 November 2015&lt;/ref&gt;
+
+==Variants==
+[[File:FAF9052 (F-UJCB) (15285956727).jpg|thumb|A French Air Force E-3F in 2014]]
+;EC-137D 
+:Two prototype AWACS aircraft with JT3D engines, one fitted with a Westinghouse Electric radar and the other with a Hughes Aircraft Company radar. Both converted to E-3A standard with TF33 engines.
+;E-3A
+:Production aircraft with TF33 engines and AN/APY-1 radar, 24 built for USAF later converted to E-3B standard, total of 34 ordered but the last 9 completed as E-3C.&lt;ref name=Pithere3&gt;Pither 1998, pp.&amp;nbsp;40–42&lt;/ref&gt; One additional aircraft retained by Boeing for testing,&lt;ref name=Pithere3/&gt; 18 built for NATO with TF33 engines and five for Saudi Arabia with CFM56 engines.&lt;ref name=Pithere3/&gt;
+;KE-3A
+:These are not AWACS aircraft but CFM56 powered tankers based on the E-3 design. Eight were sold to Saudi Arabia.&lt;ref name=Pithere3/&gt;
+;E-3B
+:E-3As with improvements, 24 conversions.&lt;ref name=Pithere3/&gt;&lt;!--
+[[File:boeing.e3-d.sentry.takeoff.arp.jpg|thumb|A Sentry AEW1 of the RAF takes off]]--&gt;
+;E-3C
+:Production aircraft with AN/APY-2 radar, additional electronic consoles and system improvements, ten built.&lt;ref name=E-3_variants&gt;{{Cite web|title=E-3 Sentry (AWACS) Variants|url=http://www.globalsecurity.org/military/systems/aircraft/e-3-var.htm|work=globalsecurity.org|accessdate=21 August 2011}}&lt;/ref&gt;
+;JE-3C
+:One E-3A aircraft used by Boeing for trials later redesignated E-3C.&lt;ref name=Pithere3/&gt;
+;E-3D
+:Production aircraft for the Royal Air Force to E-3C standard with CFM56 engines and British modifications designated ''Sentry AEW.1'', seven built.&lt;ref name=Pithere3/&gt;
+;E-3F
+:Production aircraft for the French Air Force to E-3C standard with CFM56 engines and French modifications, four built.&lt;ref name=Pithere3/&gt;
+;E-3G
+:USAF Block 40/45 modification.&lt;ref name=E-3_variants/&gt; Includes hardware and software upgrades to improve communications, computer processing power, threat tracking, and others, and automates some previously manual functions.  IOC reached in July 2015.&lt;ref&gt;[http://www.tinker.af.mil/news/story.asp?id=123463680 The wait is over…E-3 Block 40/45 deploys to combat theater] - AF.mil, 18 November 2015&lt;/ref&gt;
+
+==Operators==
+[[File:E-3 operators.png|thumb|400px|Map with E-3 operators in blue]]
+[[File:Boeing E-3 Sentry LX-N 90454-3.JPG|thumb|NATO E-3s have the registration LX on the tail.&lt;ref name=Wilson_p75/&gt; The chin bulges house a suite of electronic warfare support measures.&lt;ref name=Wilson_p75/&gt;|alt=Four-engined jet aircraft in-flight with landing gear partially extended. A large disc-shaped radar perches on two convergent struts on the aft fuselage.]]
+
+===Current operators===
+;{{flag|France}}: The [[French Air Force]] purchased four E-3F aircraft similar to the British E-3D aircraft.
+:All planes are assigned to the ''Escadron de Détection et de Commandement Aéroporté'' (ECDA, Air detection and command squadron) and are based at [[Avord Air Base]].&lt;ref&gt;Wilson 1998, p&amp;nbsp;76.&lt;/ref&gt;
+
+;{{flag|NATO}}
+: Based in [[NATO Air Base Geilenkirchen|Geilenkirchen]], Germany, 18 E-3 AWACS were purchased – one lost in Greece. All of these aircraft are officially registered as aircraft of [[Luxembourg]], a NATO member with no other air force.&lt;ref name=Wilson_p75/&gt; Responsible for monitoring airspace for NATO operations around the world.
+* [http://www.e3a.nato.int/eng/html/organizations/aircrew_training_sq.htm Aircrew Training Squadron]
+* [http://www.e3a.nato.int/eng/html/organizations/sq_1.htm Flying Squadron 1]
+* [http://www.e3a.nato.int/eng/html/organizations/sq_2.htm Flying Squadron 2]
+* [http://www.e3a.nato.int/eng/html/organizations/sq_3.htm Flying Squadron 3 disbanded 2015]
+
+;{{flag|Saudi Arabia}}: The [[Royal Saudi Air Force]] purchased five E-3A aircraft and eight KE-3A tanker aircraft in 1983.&lt;ref&gt;Wilson 1998, pp.&amp;nbsp;75–76.&lt;/ref&gt;
+* No. 18 Squadron
+
+;{{flag|United Kingdom}}: The [[Royal Air Force]] purchased seven E-3Ds by October 1987.  All seven are still in service; six are operational and one is used for training.  The aircraft are designated ''Sentry AEW.1''.&lt;ref name=Wilson_p75/&gt;
+* [[No. 8 Squadron RAF|No. 8 Squadron]]
+* [[No. 23 Squadron RAF|No. 23 Squadron]] – (disbanded in 2009)
+* [[No. 54 Squadron RAF|No. 54 Squadron]]
+
+;{{flag|United States of America}}: The [[United States Air Force]] currently has 32 E-3s.
+
+:'''[[Tactical Air Command]]''' 1976–92
+:'''[[Air Combat Command]]''' 1992–present
+*[[552d Air Control Wing]] – [[Tinker Air Force Base]], [[Oklahoma]]
+::[[960th Airborne Air Control Squadron]] 2001–present ([[NAS Keflavik]], [[Iceland]] 1979–92)
+::[[963d Airborne Air Control Squadron]] 1976–present 
+::[[964th Airborne Air Control Squadron]] 1977–present
+::[[965th Airborne Air Control Squadron]] 1978–79, 1984–present 
+::[[966th Airborne Air Control Squadron]] 1976–present
+*[[380th Air Expeditionary Wing]] – [[Al Dhafra Air Base]], United Arab Emirates
+::[[968th Expeditionary Airborne Air Control Squadron]] 2002-2003, 2013-present&lt;ref&gt;{{Cite web|url=http://www.afhra.af.mil/factsheets/factsheet.asp?id=20166|title=Factsheets : 968 Expeditionary Airborne Air Control Squadron (ACC)|website=www.afhra.af.mil|access-date=2016-04-04}}&lt;/ref&gt;
+:'''[[Air Force Reserve Command]]'''
+*[[513th Air Control Group]] (Associate) – Tinker AFB, Oklahoma
+::[[970th Airborne Air Control Squadron]] 1996–present
+:'''[[Pacific Air Forces]]'''
+*[[3d Wing]] – [[Elmendorf AFB]], [[Alaska]]
+::[[962d Airborne Air Control Squadron]] 1986–present
+*[[18th Wing]] – [[Kadena AB]], Japan
+::[[961st Airborne Air Control Squadron]] 1979–present
+
+==Incidents and accidents==
+[[File:AWACS Engine (ADN).jpg|thumb|Yukla 27, serial number ''77-0354'' crash site]]
+[[File:E-3 Sentry LX-N90457 Crash, 14 July 1996.jpg|thumb|LX-N90457, after having overran the runway at [[Aktion National Airport|Prevesa AB]] on July 14, 1996]]
+[[File:E-3NellisPhotoa.jpg|thumb|Fire-damaged E-3 on Nellis AFB ramp]]
+
+The E-3 has been involved in three hull-loss accidents, and one radar antenna destroyed during RSIP development (see photo under Avionics).
+
+* On 22 September 1995, a U.S. Air Force E-3 Sentry (callsign Yukla 27, serial number ''77-0354''), [[1995 Alaska Boeing E-3 Sentry accident|crashed shortly after take off]] from [[Elmendorf Air Force Base|Elmendorf AFB]], Alaska. The plane lost power to both left side engines after these engines [[bird strike|ingested]] several [[Canada goose|Canada geese]] during takeoff. The aircraft went down about {{convert|2|mile|km}} northeast of the runway, killing all 24 crew members on board.&lt;ref&gt;{{Cite web|url=http://aviation-safety.net/investigation/cvr/transcripts/cvr_yukla27.php|title=CVR transcript Boeing E-3 USAF Yukla 27–22 SEP 1995|work=Aviation Safety Network|date= 16 October 2004|accessdate=21 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.aewa.org/Yukla27 |title=Yukla 27|publisher=Airborne Early Warning Association|accessdate=22 August 2011}}&lt;/ref&gt;
+* On 14 July 1996, a NATO E-3A, ''LX-N90457'', c/n 22852, ex-''79-0457'', overran the runway and dipped into the sea on takeoff from [[Aktion National Airport|Preveza AB]], [[Preveza, Greece|Preveza]], Greece. The fuselage broke into two, destroying the aircraft, but there were no casualties among the 16 crew members on board.&lt;ref&gt;Hurturk 1998, p.&amp;nbsp;358.&lt;/ref&gt; It allegedly suffered a [[birdstrike]] during take off, but no evidence of a birdstrike was found.&lt;ref name=&quot;Flight1997&quot;&gt;{{cite magazine |date= 4–10 June 1997 |title=Military Safety |magazine=[[Flight International]] |page=44 |url=http://www.flightglobal.com/pdfarchive/view/1997/1997%20-%201492.html|accessdate=23 August 2011}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.aviationpics.de/military/1999/awacs/awacs.html|title=Unusual Aviation Pictures|publisher=Aviationpics.de |date=14 July 1996|accessdate=8 September 2010}}&lt;/ref&gt;
+* On 28 August 2009, a USAF E-3C, ''83-0008'', was severely damaged&lt;ref name=&quot;008 Destoyed&quot;&gt;{{cite web|url=http://www.aewa.org/pipermail/aewa/2011-July/005816.html|title=The Fate of Balls 8|date=22 July 2011|publisher=Airborne Early Warning Association|accessdate=22 August 2011}}&lt;/ref&gt; while landing at [[Nellis Air Force Base]], after experiencing a nose-wheel failure. The failure resulted in a fire that caused a reported US$100&amp;nbsp;million in damage.&lt;ref&gt;[http://www.af.mil/news/story.asp?id=123165650 &quot;E-3 damaged while landing at Nellis&quot;]. ''US Air Force'', 31 August 2009. ([[wikisource:E-3 damaged while landing at Nellis|copy on Wikisource]])&lt;/ref&gt; The accident was determined to be pilot error:&lt;ref name=&quot;Nellis Crash&quot;&gt;{{cite web |url=http://www.airforcetimes.com/news/2010/02/airforce_awacs_crash_021110w/ |title= Pilot error led to AWACS crash at Nellis |accessdate=16 May 2010 |publisher=Airforcetimes.com}}&lt;/ref&gt; at an altitude of about {{convert|100|ft|m}}, both the co-pilot, and the pilot, lost track of their height above ground. The aircraft struck the ground with such force that the nose wheel strut broke. The aircraft slid along the runway for {{convert|4500|ft|m}}.&lt;ref&gt;http://www.targetlock.org.uk/sentry/service_usaf.html&lt;/ref&gt;
+
+==Specifications (USAF/NATO)==
+{{Aircraft specifications
+|plane or copter? = plane 
+|jet or prop?     = jet 
+|ref=Globalsecurity.org&lt;ref name=GS.org_specs&gt;{{Cite web|title=E-3 Sentry (AWACS): Specifications|url=http://www.globalsecurity.org/military/systems/aircraft/e-3-specs.htm|work=globalsecurity.org|accessdate=18 August 2011}}&lt;/ref&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|crew=Flight crew: 4 (aircraft commander, pilot, navigator, flight engineer)&lt;br /&gt;Mission crew: 13–19
+|capacity=
+|payload main=
+|payload alt=
+|length main=152 ft 11 in
+|length alt=46.61 m
+|span main=145 ft 9 in
+|span alt=44.42 m
+|height main=41 ft 4 in
+|height alt=12.6 m
+|area main=3,050 ft&lt;sup&gt;2&lt;/sup&gt;
+|area alt=283.4 m&lt;sup&gt;2&lt;/sup&gt;
+|airfoil=
+|empty weight main=185,000 lb
+|empty weight alt=73,480 kg
+|loaded weight main=344,000 lb (with aerial refueling)
+|loaded weight alt=156,036 kg
+|useful load main=
+|useful load alt=
+|max takeoff weight main=347,000 lb
+|max takeoff weight alt=157.397 kg
+|more general=
+|engine (jet)= [[Pratt &amp; Whitney JT3D|Pratt and Whitney TF33-PW-100A]]
+|type of jet=turbofan
+|number of jets=4
+|thrust main=21,500 [[pound-force|lbf]]
+|thrust alt=93 kN
+|thrust original=
+|afterburning thrust main=
+|afterburning thrust alt=
+&lt;!--
+        Performance
+--&gt;
+|max speed main=530 mph
+|max speed alt= 855 km/h, 461 knots
+|cruise speed main=
+|cruise speed alt=
+|never exceed speed main=
+|never exceed speed alt=
+|range main=4,000 [[nautical mile|nmi]]
+|range alt=7,400 km
+|range more=(8 hr)
+|ceiling main=41,000 ft
+|ceiling alt=12,500 m
+|climb rate main=
+|climb rate alt=
+|loading main=
+|loading alt=
+|thrust/weight=
+|power/mass main=
+|power/mass alt=
+|more performance=
+|armament=
+|avionics=
+}}
+
+==See also==
+{{Portal|United States Air Force|NATO|Aviation}}
+{{Aircontent
+|see also=
+|related=
+* [[Boeing C-137 Stratoliner|Boeing CT-49]]
+* [[Boeing E-767]] – essentially the E-3's systems in a [[Boeing 767|767]] airframe
+* [[Boeing KC-135 Stratotanker]]
+
+|similar aircraft=
+* [[Beriev A-50]]
+* [[Beriev A-100]]
+* [[Boeing 737 AEW&amp;C]]
+* [[EL/M-2075]]
+* [[KJ-2000]]
+* [[Northrop Grumman E-2 Hawkeye]]
+* [[Northrop Grumman E-8 Joint STARS]]
+
+|lists=
+* [[List of active United Kingdom military aircraft]]
+* [[List of active United States military aircraft]]
+}}
+
+==References==
+;Notes
+{{reflist|group=N}}
+
+;Citations
+{{Reflist|2}}
+
+;Bibliography
+{{Refbegin}}
+* {{Cite magazine|last=Davies|first=Ed|title=AWACS Origins: Brassboard – Quest for the E-3 Radar|magazine=[[Air Enthusiast]]|issue=119, September/October 2005|location=Stamford, Lincs, UK|publisher=Key Publishing|issn=0143-5450|pages=2–6}}
+* {{Cite book|editor-last=Eden|editor-first=Paul|title=The Encyclopedia of Modern Military Aircraft|location=London|publisher=Amber Books|year=2004|isbn=1-904687-84-9|ref={{harvid|Eden|2004}}}}
+* {{Cite book|last=Hurturk|first=Kivanc N|title=History of the Boeing 707|publisher=Buchair UK|year=1998|isbn=0-9666368-0-5}}
+* {{Cite magazine|last=Lake|first=Jon|title=Aircraft of the RAF – Part 10 Sentry AEW.1|magazine=[[Air International]]|issue= Vol 76 No. 2, February 2009|location=Stamford, UK|publisher=Key Publishing|pages=44–47}}
+* {{Cite book|last=Pither|first=Tony|title=The Boeing 707 720 and C-135|publisher=Air-Britain (Historians)|year=1998|isbn=0-85130-236-X}}
+* {{Cite book|editor-last=Taylor|editor-first=John W.R.|editor-link=John W. R. Taylor|title=Jane's All the World's Aircraft 1976–77|location=London|publisher=Macdonald and Jane's|year=1976|isbn=0-354-00538-3}}
+* {{Cite book|last1=Veronico|first1=Nick |last2=Dunn|first2=Jim|url=https://books.google.com/books?id=3zz3KLbOvYUC&amp;pg=PA83&amp;dq=E-3+Sentry#v=onepage&amp;q&amp;f=false|title=21st Century U.S. Air Power|location= Grand Rapids, Michigan|publisher=Zenith Imprint|year=2004|isbn=978-0-7603-2014-3}}
+* {{Cite book|last=Wilson|first=Stewart|title=Boeing 707, Douglas DC-8, and Vickers VC-10|location=Fyshwick, Australia|publisher=Aerospace Publications|year=1998|isbn=1-875671-36-6|ref={{harvid|Wilson|1998}}}}
+{{Refend}}
+
+==External links==
+{{Commons|E-3 Sentry}}
+* [http://www.raf.mod.uk/equipment/sentry.cfm Royal Air Force E-3 Sentry information]
+* [http://www.awacs-spotter.nl/ NATO AWACS-Spotter Geilenkirchen website]
+* [http://www.aewa.org/ Airborne Early Warning Association website]
+
+{{Boeing military aircraft}}
+{{707 military variants}}
+{{US EW aircraft}}
+
+[[Category:AWACS aircraft]]
+[[Category:Boeing aircraft|E-03 Sentry]]
+[[Category:Quadjets]]
+[[Category:United States military reconnaissance aircraft 1970–1979]]
+[[Category:Boeing 707]]</text>
+      <sha1>6z43959crrk74kxtjchup4xq9v9feu9</sha1>
+    </revision>
+  </page>
+</mediawiki>

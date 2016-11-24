@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Iven Mackay</title>
+    <ns>1</ns>
+    <id>36559474</id>
+    <revision>
+      <id>705514099</id>
+      <parentid>705428126</parentid>
+      <timestamp>2016-02-17T22:59:16Z</timestamp>
+      <contributor>
+        <username>Anotherclown</username>
+        <id>8567476</id>
+      </contributor>
+      <comment>per [[WP:Talkpage layout]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1258">{{talkheader}}
+{{ArticleHistory
+|action1=WAR
+|action1date=07:00, 18 November 2009 (UTC)
+|action1link=Wikipedia:WikiProject Military history/Assessment/Iven Giffard Mackay
+|action1result=approved
+|action1oldid=326278152
+| action2       =  GAN
+| action2date   = 08:04, 18 October 2012 (UTC)
+| action2link   = Talk:Iven Mackay/GA1
+| action2result = listed
+| action2oldid  = 518471615
+|action3=GTC
+|action3date=19:10, 23 December 2012
+|action3link=Wikipedia:Featured topic candidates/Command in the South West Pacific Area/archive1
+|action3result=promoted
+|ftname=Command in the South West Pacific Area
+|maindate= 6 March 2016
+|action4=FAC
+|action4date=10:03, 19 May 2013
+|action4link=Wikipedia:Featured article candidates/Iven Mackay/archive1
+|action4result=promoted
+|action4oldid=555767476
+| currentstatus=FA
+| topic = History
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military History|class=FA|A-Class=pass|Biography=y|ANZSP=y|WWI=y|WWII=y}}
+{{WikiProject Biography|living=n|class=FA|listas=Mackay, Iven|military-work-group=y|military-priority=Mid|sports-work-group=y|sports-priority=Low}}
+{{WikiProject Australia|class=FA|importance=Mid|military=y|military-importance=Low|NSW=y|NSW-importance=Low|Sydney=y|Sydney-importance=Low}}
+}}
+{{Australian-English}}</text>
+      <sha1>169ffhjcpmdvxeir0yy0de0u231ykh9</sha1>
+    </revision>
+  </page>
+</mediawiki>

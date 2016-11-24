@@ -1,0 +1,104 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Swerford Castle</title>
+    <ns>0</ns>
+    <id>32048528</id>
+    <revision>
+      <id>651397436</id>
+      <parentid>498656696</parentid>
+      <timestamp>2015-03-14T22:44:12Z</timestamp>
+      <contributor>
+        <username>The Anomebot2</username>
+        <id>1979668</id>
+      </contributor>
+      <comment>Adding geodata: {{coord|51.9771|N|1.4598|W|type:landmark_region:GB|display=title}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1774">{{Infobox Military Structure
+|name = Swerford Castle
+|location = [[Swerford]], [[Oxfordshire]], England
+|coordinates = {{gbmapping|SP372311}}
+|coord_region = GB
+|coord_display = title
+|image = [[Image:Motte and Bailey, Swerford - geograph.org.uk - 215450.jpg|225px]]
+|caption = The remaining earthworks
+|map_type = Oxfordshire
+|latitude = 51.9777
+|longitude =   -1.4592
+|map_size = 200
+|map_alt = 
+|map_caption = Shown within [[Oxfordshire]]
+|type = [[Motte and bailey]]
+|materials = 
+|height = 
+|condition = Earthworks remain
+|ownership = 
+|open_to_public = 
+|battles = 
+|events = 
+}}
+'''Swerford Castle''' was a medieval [[castle]] in the village of [[Swerford]], [[Oxfordshire]], [[England]].
+
+==History==
+
+Swerford Castle was built in a [[motte and bailey]] design in the 12th century.&lt;ref name=NatHer&gt;''[http://list.english-heritage.org.uk/resultsingle.aspx?uid=1014748 List entry Number: 1014748]'', the National Heritage List, English Heritage, accessed 9 June 2011.&lt;/ref&gt; It was positioned so as to overlook the local [[ford]] of the [[River Swere]] and the village of [[Swerford]].&lt;ref name=NatHer/&gt; Archaeological remains suggest that the castle was probably constructed during the years of [[the Anarchy]], probably by the same family that built [[Ascot d'Oilly Castle]].&lt;ref name=NatHer/&gt; 
+
+The central motte is 18 m wide in diameter on top, and 30 m in diameter at the base, and 4 m tall; the wider bailey is approximately 52 m by 42 m, with a deep ditch.&lt;ref name=NatHer/&gt; The remains today are a [[scheduled monument]].&lt;ref name=NatHer/&gt; 
+
+==See also==
+*[[Castles in Great Britain and Ireland]]
+*[[List of castles in England]]
+
+==References==
+{{Reflist}}
+
+{{coord|51.9771|N|1.4598|W|type:landmark_region:GB|display=title}}
+
+[[Category:Castles in Oxfordshire]]</text>
+      <sha1>afnpxjes3ka30q52b1cluz6uxfti44d</sha1>
+    </revision>
+  </page>
+</mediawiki>

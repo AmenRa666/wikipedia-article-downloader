@@ -1,0 +1,210 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>C Star class airship</title>
+    <ns>0</ns>
+    <id>18239399</id>
+    <revision>
+      <id>668371571</id>
+      <parentid>603861662</parentid>
+      <timestamp>2015-06-23T22:37:29Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Consensus at [[Template talk:Aviation lists#RfC: Should this navbox be removed from non-mentioned articles?]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4894">__NOTOC__
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ |name=C-Star class
+ |image=
+ |caption=
+}}{{Infobox Aircraft Type
+ |type=Patrol airship
+ |national origin=United Kingdom
+ |manufacturer=
+ |designer=
+ |first flight=
+ |introduced=
+ |retired=
+ |status=
+ |primary user=
+ |more users=
+ |produced=
+ |number built=10
+ |variants with their own articles=
+}}
+|}
+
+The '''C-Star class''' (sometimes written as '''C* class''') of [[non-rigid airship]]s or &quot;blimps&quot; were used by Britain's [[Royal Naval Air Service]] for convoy escort duties during World War I. Developed from the [[Coastal class airship|Coastal class]] (often referred to as the &quot;C class&quot;), the &quot;*&quot; in their designation indicated a modification of the original class &lt;ref name=&quot;Janes 1919 11c&quot;&gt;''Jane's'' 1919, 11c&lt;/ref&gt; which they slowly replaced in service.
+
+The C-Star class were slightly larger than their predecessors. With an endurance of up to 30 hours, and more powerful (and reliable) [[Renault]] engines, the C*s had the same basic layout as the Coastal Class, with the same trilobe envelope. However, the envelope tapered towards the rear, as on the [[SSZ class airship|SSZ class]], which greatly improved stability, as did the larger control surfaces.&lt;ref&gt;London, 1999, p.45&lt;/ref&gt;
+
+&lt;!-- ==Development== --&gt;
+&lt;!-- ==Operational history== --&gt;
+&lt;!-- ==Variants== --&gt;
+
+==Operators==
+;{{UK}}
+*[[Royal Naval Air Service]]
+
+&lt;!-- ==Units using this aircraft/Operators (choose)== --&gt;
+
+==Specifications==
+{{aerospecs
+|ref=&lt;ref name=&quot;Janes 1919 11c&quot; /&gt;&lt;ref&gt;[http://aht.ndirect.co.uk/airships/Technical%20Spec/Coastal%20Star%20Airships.htm C-Star class airship specifications] The Airship Heritage Trust. Retrieved on 15 March 2009.&lt;/ref&gt;
+|met or eng?=&lt;!-- eng for US/UK aircraft, met for all others. You MUST include one or the other here, or no specifications will show --&gt;eng
+
+|crew=Five
+|capacity=
+|length m=66.46
+|length ft=218
+|length in=0
+|span m=
+|span ft=
+|span in=
+|swept m=&lt;!-- swing-wings --&gt;
+|swept ft=&lt;!-- swing-wings --&gt;
+|swept in=&lt;!-- swing-wings --&gt;
+|rot number=&lt;!-- helicopters --&gt;
+|rot dia m=&lt;!-- helicopters --&gt;
+|rot dia ft=&lt;!-- helicopters --&gt;
+|rot dia in=&lt;!-- helicopters --&gt;
+|dia m=&lt;!-- airships etc --&gt;
+|dia ft=&lt;!-- airships etc --&gt;
+|dia in=&lt;!-- airships etc --&gt;
+|width m=&lt;!-- if applicable --&gt;15.01
+|width ft=&lt;!-- if applicable --&gt;49
+|width in=&lt;!-- if applicable --&gt;3
+|height m=17.53
+|height ft=57
+|height in=3
+|wing area sqm=
+|wing area sqft=
+|swept area sqm=&lt;!-- swing-wings --&gt;
+|swept area sqft=&lt;!-- swing-wings --&gt;
+|rot area sqm=&lt;!-- helicopters --&gt;
+|rot area sqft=&lt;!-- helicopters --&gt;
+|volume m3=&lt;!-- lighter-than-air --&gt;6,000
+|volume ft3=&lt;!-- lighter-than-air --&gt;210,000
+|aspect ratio=&lt;!-- sailplanes --&gt;
+|empty weight kg=
+|empty weight lb=
+|gross weight kg=
+|gross weight lb=
+|lift kg=&lt;!-- lighter-than-air --&gt;1,830
+|lift lb=&lt;!-- lighter-than-air --&gt;4,030
+
+|eng1 number=1
+|eng1 type=tractor-mounted [[Berliet]] engine &lt;!-- what type?? --&gt;
+|eng1 kw=&lt;!-- prop engines --&gt;82
+|eng1 hp=&lt;!-- prop engines --&gt;110
+|eng1 kn=&lt;!-- jet/rocket engines --&gt;
+|eng1 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng1 kn-ab=&lt;!-- afterburners --&gt;
+|eng1 lbf-ab=&lt;!-- afterburners --&gt;
+|eng2 number=1
+|eng2 type=pusher-mounted [[Fiat]] &lt;!-- what type?? --&gt;
+|eng2 kw=&lt;!-- prop engines --&gt;193
+|eng2 hp=&lt;!-- prop engines --&gt;260
+|eng2 kn=&lt;!-- jet/rocket engines --&gt;
+|eng2 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng2 kn-ab=&lt;!-- afterburners --&gt;
+|eng2 lbf-ab=&lt;!-- afterburners --&gt;
+
+|max speed kmh=93
+|max speed mph=58
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=&lt;!-- if max speed unknown --&gt;
+|cruise speed mph=&lt;!-- if max speed unknown --&gt;
+|range km=
+|range miles=
+|endurance h=&lt;!-- if range unknown --&gt;at half speed 20 hours; at full speed 10
+|ceiling m=2,900
+|ceiling ft=9,500
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+
+|armament1=
+|armament2=
+|armament3=
+|armament4=
+|armament5=
+|armament6=
+}}
+&lt;!-- ==See also== --&gt;
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* London, P. (1999) ''U-Boat Hunters: Cornwall's Air War 1916-19'' Dyllansow Truran, Truro. ISBN 1-85022-135-9
+* {{cite book| title=Jane's All the World's Aircraft 1919| publisher=Sampson Low Marston |location=London}}
+
+==External links==
+* [http://www.aht.ndirect.co.uk/airships/Technical%20Spec/Coastal%20Star%20Airships.htm C-star class on Airship Heritage Trust site]
+
+{{RNAS blimps}}
+{{wwi-air}}
+
+[[Category:Airships of the United Kingdom]]
+[[Category:British patrol aircraft 1910–1919]]</text>
+      <sha1>jd6f9gu1ilcsh3a78pfdhk4r6bbkb4t</sha1>
+    </revision>
+  </page>
+</mediawiki>

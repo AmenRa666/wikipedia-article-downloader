@@ -1,0 +1,178 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Belgian frigate Louise-Marie (F931)</title>
+    <ns>0</ns>
+    <id>14829098</id>
+    <revision>
+      <id>749569879</id>
+      <parentid>744108103</parentid>
+      <timestamp>2016-11-15T00:47:27Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5309">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:F931 Louise-Marie.jpg|300px]]
+|Ship caption=''Louise-Marie'' (F931) in Belgian service
+}}
+{{Infobox Ship Career
+|Ship country=[[Netherlands]]
+|Ship flag={{shipboxflag|Netherlands|naval}}
+|Ship name=''Willem van der Zaan''
+|Ship namesake=[[Schout-bij-nacht]] [[Willem van der Zaan]]
+|Ship ordered=
+|Ship builder=[[:nl:Koninklijke Schelde Groep|KMS]], [[Flushing, Netherlands|Flushing]] ([[Netherlands]])
+|Ship laid down=6 November 1985
+|Ship launched=21 January 1989
+|Ship commissioned=28 November 1991
+|Ship decommissioned=25 August 2006
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sold to [[Belgium]] on 22 December 2005
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox Ship Career
+|Hide header=title
+|Ship country=[[Belgium]]
+|Ship flag={{shipboxflag|Belgium|naval}}
+|Ship name=''Louise-Marie''
+|Ship namesake=[[Louise-Marie of France|Queen Louise-Marie of Belgium]]
+|Ship ordered=
+|Ship christened=8 April 2008
+|Ship acquired=22 December 2005
+|Ship commissioned=8 April 2008
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship reclassified=
+|Ship fate=
+|Ship status=Active
+|Ship homeport=[[Zeebrugge]] Naval Base
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption
+|Ship class={{sclass-|Karel Doorman|frigate}}
+|Ship displacement=2,800 tonnes
+|Ship length={{convert|122.325|m|abbr=on}}
+|Ship beam={{convert|14.37|m|abbr=on}}
+|Ship draught={{convert|6.2|m|abbr=on}}
+|Ship propulsion=
+|Ship speed={{convert|30|kn}}
+|Ship range=
+|Ship endurance=
+|Ship complement=15 officers, 70 [[Non-commissioned officer|NCO]]'s, 60 sailors
+|Ship sensors=
+|Ship EW=
+|Ship armament= {{Karel_Doorman_frigate_armament}}
+|Ship armour=
+|Ship armor=
+|Ship aircraft=1 x [[NHIndustries NH90|NH-90 NFH]] helicopter
+|Ship notes=
+}}
+|}
+
+'''''Louise-Marie''''' (F931) is a {{sclass-|Karel Doorman|frigate}} of the [[Belgian Navy|Marine Component]] of the [[Military of Belgium|Belgian Armed Forces]] that was commissioned in 2008. It is the second of the two frigates of this [[Ship class|class]] that were purchased from the [[Royal Netherlands Navy]] on 22 December 2005. During its service in the Netherlands, it was known as '''HNLMS ''Willem van der Zaan'' (F829)'''.
+
+==Service==
+HNLMS ''Willem van der Zaan'' was rechristened ''Louise-Marie'' (F931) on 8 April 2008 in [[Antwerp (city)|Antwerp]] by [[Queen Paola of Belgium]].&lt;ref&gt;{{cite news|url=http://www.telegraaf.nl/binnenland/3696003/_Nederlands_fregat_onder_Belgische_vlag__.html|title=Nederlands fregat voortaan onder Belgische vlag|publisher=De Telegraaf|date=2 April 2008 |accessdate=6 August 2015 |language=Dutch| archiveurl= https://web.archive.org/web/20080405231821/http://www.telegraaf.nl/binnenland/3696003/_Nederlands_fregat_onder_Belgische_vlag__.html| archivedate= 5 April 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; It was named after ''Louise-Marie'', the name of a naval vessel purchased by the Belgian navy in 1840, which in turn was named after [[Louise-Marie of France|Queen Louise-Marie of Belgium]], the wife of [[Leopold I of Belgium|Leopold I]].
+
+''Louise-Marie'' is under command of [[commander]] Carl Gillis.&lt;ref&gt;[http://www.mil.be/navycomp/cv/index.asp?LAN=nl&amp;ID=78&amp;FILE=cvtext&amp;MENU=1&amp;PAGE=1]  {{webarchive |url=https://web.archive.org/web/20120217135749/http://www.mil.be/navycomp/cv/index.asp?LAN=nl&amp;ID=78&amp;FILE=cvtext&amp;MENU=1&amp;PAGE=1 |date=February 17, 2012 }}&lt;/ref&gt;
+
+===Missions===
+In September 2010, ''Louise-Marie'' was reported to be preparing for a second deployment to the [[Horn of Africa]].&lt;ref&gt;{{cite web|url=http://www.defpro.com/news/details/18284/ |accessdate=2010-09-29 |title=defence.professionals |deadurl=yes |archiveurl=https://web.archive.org/web/20120317030918/http://www.defpro.com/news/details/18284/ |archivedate=March 17, 2012 }}&lt;/ref&gt;
+
+On 29 November 2013, the ship arrived in [[London]], [[UK]] as part of the preparations for the centenary of the start of [[World War I]] delivering soil from 70 World War I battlefields collected by British and Belgian schoolchildren for the [[Flanders Fields Memorial Garden]] in London's [[Wellington Barracks]].&lt;ref&gt;{{cite news|url=http://www.bbc.co.uk/news/uk-25158245 |title=WW1 'sacred soil' ceremony takes place in London |work=[[BBC News]] |date=30 November 2013 |accessdate=6 August 2015}}&lt;/ref&gt;
+
+==See also==
+*{{ship|Belgian frigate|Leopold I|F930}}, for the other ship of this class that was sold to Belgium.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.marine.nl/nlmarfor/schepen/eskader/fregatten/m-fregat/zaan/ Homepage of HNLMS ''Willem van der Zaan'' on the website of the Royal Netherlands Navy] - Only available in [[Dutch language|Dutch]].
+
+{{Karel Doorman-class frigate}}
+{{Ships of the Belgian Navy|state=expanded}}
+
+
+
+{{DEFAULTSORT:Louise-Marie (F931)}}
+[[Category:1989 ships]]
+[[Category:Ships built in the Netherlands]]
+[[Category:Karel Doorman-class frigates of the Belgian Navy]]
+[[Category:Karel Doorman-class frigates|Willem van der Zaan]]
+[[Category:Active naval ships of Belgium]]
+
+
+{{Belgium-stub}}
+{{mil-ship-stub}}
+
+[[nl:Hr. Ms. Willem van der Zaan (1991)]]</text>
+      <sha1>ht1nbxnbenc4v85bm2pwjfj020wp37d</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,290 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hrabri-class submarine</title>
+    <ns>0</ns>
+    <id>23132306</id>
+    <revision>
+      <id>740622504</id>
+      <parentid>731260656</parentid>
+      <timestamp>2016-09-22T06:19:13Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Books */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13135">{{good article}}
+{{Use dmy dates|date=October 2013}}
+{|{{Infobox ship begin |infobox caption=''Hrabri'' class}}
+{{Infobox ship image
+|Ship image=[[File:Yugoslav submarine Hrabri.jpg|300px|alt=a black and white photograph of a submarine underway on the surface]]
+|Ship caption=''Hrabri'' underway in 1934
+}}
+{{Infobox ship class overview
+|Builders=[[Vickers-Armstrongs|Vickers-Armstrong Naval Yard]], [[River Tyne]], [[United Kingdom]]
+|Operators=*{{navy|Kingdom of Yugoslavia}}
+*{{navy|Yugoslavia}}
+|Class before=
+|Class after={{sclass-|Osvetnik|submarine|4}}
+|Built range=1925–27
+|In commission range=1928–54
+|Total ships completed=2
+|Total ships retired=2
+|Total ships scrapped=2
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Diesel-electric]] [[submarine]]
+|Ship displacement=*{{convert|975|LT}} (surfaced)
+*{{convert|1164|LT}} (submerged)
+|Ship length={{convert|72.05|m|ftin|abbr=on}}
+|Ship beam={{convert|7.32|m|ft||abbr=on|sigfig=2}}
+|Ship draught={{convert|3.96|m|ft||abbr=on|sigfig=2}}
+|Ship propulsion=*2 × shafts
+*2 × [[diesel engine]]s {{convert|2400|bhp|lk=in|abbr=on}}
+*2 × [[electric motor]]s {{convert|1600|shp|lk=in|abbr=on}}
+|Ship speed=*{{convert|15.7|kn|lk=in}} (diesel)
+*{{convert|10|kn}} (electric)
+|Ship range={{convert|3800|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship endurance=
+|Ship complement=45
+|Ship armament=*6 × {{convert|533|mm|in|abbr=on|sigfig=2}} [[torpedo tubes]] (bow)
+*12 × torpedoes
+*2 × {{convert|102|mm|in|abbr=on|sigfig=1}} guns
+*1 × [[machine gun]]
+|Ship notes=
+}}
+|}
+
+The '''''Hrabri'' class''' consisted of two submarines built by the [[Vickers-Armstrongs|Vickers-Armstrong Naval Yard]], on the [[River Tyne]], in the United Kingdom, for the [[Kingdom of Yugoslavia|Kingdom of Serbs, Croats and Slovenes]] (later Yugoslavia). Launched in 1927, the vessels were named ''[[Yugoslav submarine Hrabri|Hrabri]]'' (Brave) and ''[[Yugoslav submarine Nebojša|Nebojša]]'' (Fearless). Their design was based on that of the [[British L-class submarine]] of [[World War I]], and they were built using parts originally assembled for L-class submarines that were never completed. The ''Hrabri''-class were the first submarines to serve in the Royal Yugoslav Navy, and the class was joined by the two smaller French-made {{sclass-|Osvetnik|submarine}}s to make up the pre-war Yugoslav submarine force. They were armed with six bow-mounted {{convert|533|mm|in|abbr=on|sigfig=2}} [[torpedo tubes]], two {{convert|102|mm|in|abbr=on|sigfig=1}} guns and one [[machine gun]], and could dive to {{convert|60|m|ft}}.
+
+Prior to [[World War II]] both submarines participated in cruises to [[Mediterranean Sea|Mediterranean]] ports. ''Hrabri'' was captured by [[Kingdom of Italy|Italian]] forces in April 1941 during the [[Nazi Germany|German]]-led [[Axis powers|Axis]] [[invasion of Yugoslavia]]. She was never commissioned by the Italians and was subsequently scrapped. ''Nebojša'' evaded capture, and served with British submarine forces in the Mediterranean as an [[anti-submarine warfare]] training boat until the end of the war. Following the war, she served in the [[Yugoslav Navy]] as ''Tara'' in a training role until 1954, when she was stricken.
+
+==Description and construction==
+Yugoslav naval policy in the [[interwar period]] lacked direction until the mid-1920s,{{sfn|Jarman|1997a|p=732}} although it was generally accepted that the [[Adriatic Sea|Adriatic]] coastline was effectively a sea frontier that the naval arm was responsible for securing with the limited resources made available to it. In 1926, a modest ten-year construction program was initiated to build up a force of [[submarine]]s, coastal [[torpedo boat]]s, [[torpedo bomber]]s and conventional [[bomber]] aircraft to perform this role. The ''Hrabri''-class submarines were one of the first new acquisitions aimed at developing a naval force capable of meeting this challenge.{{sfn|Jarman|1997a|p=779}}
+
+The ''Hrabri''-class was built for the [[Kingdom of Yugoslavia|Kingdom of Serbs, Croats and Slovenes]] (later Yugoslavia) by the [[Vickers-Armstrongs|Vickers-Armstrong Naval Yard]] on the [[River Tyne]] in the [[United Kingdom]].{{sfn|Chesneau|1980|p=358}} Their design was based on that of the [[British L-class submarine]] of [[World War I]], and they were built using parts originally assembled for the Group III boats HMS ''L-67'' and HMS ''L-68'', which were never completed due to the end of the war. The L-class were designed for operations in the [[North Sea]], but during the interwar period the [[Royal Navy]] had deployed them around the world, including in the [[Mediterranean Sea|Mediterranean]] from 1929 onward.{{sfn|Akermann|2002|pp=168–169}} The two Yugoslav boats had an [[Length overall|overall length]] of {{convert|72.05|m|ftin}}, a [[Beam (nautical)|beam]] of {{convert|7.32|m|ftin|abbr=on|sigfig=2}}, and a surfaced [[Draft (hull)|draught]] of {{convert|3.96|m|ftin|abbr=on|sigfig=2}}. Their surfaced [[Displacement (ship)|displacement]] was {{convert|975|LT}} or {{convert|1164|LT}} submerged, and their crews consisted of 45 officers and enlisted men. They had a [[Submarine depth ratings|diving depth]] of {{convert|60|m|ft|abbr=on}}.{{sfn|Bagnasco|1977|p=171}}
+
+They had two shafts driven by two [[diesel engine]]s (when surfaced) or two [[electric motor]]s (when submerged). The diesel engines were rated at {{convert|2400|bhp|lk=in|abbr=on}} and the electric motors at {{convert|1600|shp|lk=in|abbr=on}}, and they were designed to reach a top speed of {{convert|15.7|kn|lk=in}} under diesel power while surfaced, and {{convert|10|kn}} on their electric motors when submerged. The ''Hrabri''-class were armed with six bow-mounted {{convert|533|mm|in|abbr=on|sigfig=2}} [[torpedo tubes]] and carried twelve torpedoes.{{sfn|Fontenoy|2007|p=148}} They were also equipped with two {{convert|102|mm|in|abbr=on|sigfig=1}} guns (one forward and one [[aft]] of the [[conning tower]]), and one [[machine gun]].{{sfn|Chesneau|1980|p=358}} Their radius of action was {{convert|3800|nmi}} at {{convert|10|kn}}.{{sfn|Akermann|2002|p=166}}
+
+==Service history==
+Both submarines were [[Ceremonial ship launching|launched]] in 1927,{{sfn|Chesneau|1980|p=358}} and left the Tyne in late January 1928.{{sfn|Hood|1928|p=154}} In company with the Yugoslav [[submarine tender]] {{ship|Yugoslav submarine tender|Hvar||2}}, the submarines arrived in the [[Bay of Kotor]] on the southern Adriatic coast on 8 April 1928.{{sfn|Luković|6 April 2013}} In May and June 1929, ''Hrabri'', ''Nebojša'', ''Hvar'' and six torpedo boats accompanied the light cruiser ''[[SMS Niobe|Dalmacija]]'' on a cruise to [[Crown Colony of Malta|Malta]], the Greek island of [[Corfu]] in the [[Ionian Sea]], and [[Bizerte]] in the [[French protectorate of Tunisia]]. According to the British naval [[attaché]], the ships and crews made a very good impression while visiting Malta.{{sfn|Jarman|1997b|p=183}} In June and July 1930, ''Hrabri'', ''Nebojša'' and the fleet auxiliary ''Sitnica'' again cruised the Mediterranean, visiting [[Alexandria]] and [[Beirut]].{{sfn|Radio Tivat|9 July 2014}} In 1932, the British naval attaché reported that Yugoslav ships engaged in few exercises, manoeuvres or gunnery training due to reduced budgets.{{sfn|Jarman|1997b|p=451}} In 1933, the attaché reported that the naval policy of Yugoslavia was strictly defensive, aimed at protecting her more than {{convert|600|km|abbr=on}} of coastline.{{sfn|Jarman|1997b|p=453}}
+
+===''Hrabri''===
+{{main|Yugoslav submarine Hrabri}}
+The first of the class, ''Hrabri'' was involved in a series of visits to Mediterranean ports during the interwar period.{{sfn|Jarman|1997b|pp=544, 641, 838}} She was captured in port by the Italians during the [[Nazi Germany|German]]-led [[Axis Powers|Axis]] [[invasion of Yugoslavia]],{{sfn|Terzić|1982|pp=267, 374, 457}}{{sfn|Bagnasco|1977|p=251}} but was not commissioned by them and was [[Ship breaking|scrapped]] later that year due to her poor condition.{{sfn|Chesneau|1980|p=358}}{{sfn|Fontenoy|2007|p=148}}
+
+===''Nebojša''===
+{{main|Yugoslav submarine Nebojša}}
+''Nebojša'' was the second and last of the class. After repairs following an accident in 1930, she participated in several cruises in the Mediterranean during the interwar period.{{sfn|Jarman|1997b|pp=247, 453, 738}} She evaded capture during the German-led Axis invasion of Yugoslavia in April 1941,{{sfn|Willmott|2010|p=311}} and was used by the Royal Navy as an [[anti-submarine warfare]] training vessel. After the war she was overhauled by the Yugoslavs and renamed ''Tara'',{{sfn|Novosti|2011}} continuing in a training role until she was stricken in 1954.{{sfn|Chesneau|1980|p=358}}{{sfn|Fontenoy|2007|p=148}}
+
+==See also==
+*[[List of ships of the Yugoslav Navy]]
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+
+===Books===
+{{refbegin}}
+* {{cite book
+  | last = Akermann
+  | first = Paul
+  | title = Encyclopedia of British Submarines 1901–1955
+  | year = 2002
+  | publisher = Periscope Publishing
+  | location = Penzance, Cornwall
+  | isbn = 978-0-907771-42-5
+  | url = https://books.google.com/books?id=boO7WGL21EQC
+  | ref = harv
+  }}
+* {{cite book
+  | last = Bagnasco
+  | first = Erminio
+  | year = 1977
+  | title = Submarines of World War Two
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-962-7
+  | ref = harv
+  }}
+* {{cite book
+  | editor-last = Chesneau
+  | editor-first = Roger
+  | year = 1980
+  | title = Conway's All the World's Fighting Ships, 1922–1946
+  | publisher = Conway Maritime Press
+  | location = London, England
+  | isbn = 978-0-85177-146-5
+  | ref = harv
+  }}
+* {{cite book
+  | last = Fontenoy
+  | first = Paul E.
+  | year = 2007
+  | title = Submarines: An Illustrated History of Their Impact
+  | publisher = ABC-CLIO
+  | location = Santa Barbara, California
+  | isbn = 978-1-85109-563-6
+  | ref = harv
+  }}
+* {{cite book
+  | editor-last = Jarman
+  | editor-first = Robert L.
+  | year = 1997a
+  | title = Yugoslavia Political Diaries 1918–1965
+  | volume = 1
+  | publisher = Archives Edition
+  | location = Slough, Berkshire
+  | isbn = 978-1-85207-950-5
+  | ref = harv
+  }}
+* {{cite book
+  | editor-last = Jarman
+  | editor-first = Robert L.
+  | year = 1997b
+  | title = Yugoslavia Political Diaries 1918–1965
+  | volume = 2
+  | publisher = Archives Edition
+  | location = Slough, Berkshire
+  | isbn = 978-1-85207-950-5
+  | ref = harv
+  }}
+* {{cite book
+  | last = Terzić
+  | first = Velimir
+  | title = Slom Kraljevine Jugoslavije 1941: Uzroci i posledice poraza
+  | trans_title = The Collapse of the Kingdom of Yugoslavia in 1941: Causes and Consequences of Defeat
+  | language = Serbo-Croatian
+  | volume = 2
+  | publisher = Narodna knjiga
+  | location = Belgrade, Yugoslavia
+  | year = 1982
+  | oclc = 10276738
+  | ref = harv
+  }}
+* {{cite book
+  | last = Willmott
+  | first = H.P.
+  | year = 2010
+  | title = The Last Century of Sea Power: From Washington to Tokyo, 1922–1945
+  | publisher = Indiana University Press
+  | location = Bloomington, Indiana
+  | isbn = 978-0-253-35214-9
+  | url = https://books.google.com/books?id=2AiIL5icXqMC
+  | ref = harv
+  }}
+{{refend}}
+
+===Periodicals===
+{{refbegin}}
+* {{cite news
+  | last         = Hood
+  | first        = A.G.
+  | title        = The Jugo-Slavian Submarines ''Hrabri'' and ''Nebojsa''
+  | url          = 
+  | newspaper    = The Shipbuilder and Marine Engine-builder
+  | volume       = 35
+  | issue        = 
+  | location     = London, England
+  | publisher    = Shipbuilder Press
+  | date         = 
+  | year         = 1928
+  | accessdate   = 20 April 2014
+  | oclc = 2450525
+  | ref          = harv
+  }}
+{{refend}}
+
+===Websites===
+{{refbegin}}
+* {{cite news
+  | last = Luković
+  | first = Siniša
+  | date = 6 April 2013
+  | accessdate = 3 October 2015
+  | language = Serbo-Croatian
+  | title = 85 godina od dolaska prvih jugoslovenskih podmornica
+  | trans_title = 85 years since the arrival of the first Yugoslav submarines
+  | newspaper = Vijest online
+  | url = http://www.vijesti.me/vijesti/85-godina-dolaska-prvih-jugoslovenskih-podmornica-clanak-122013
+  | ref = {{harvid|Luković|6 April 2013}}
+  }}
+* {{cite news
+  | author = Novosti
+  | date = 21 March 2011
+  | accessdate = 3 October 2015
+  | language = Serbian
+  | title = Preminuo poslednji čuvar srpske podmornice
+  | trans_title = The Last Guardian of a Serbian Submarine Has Died
+  | newspaper = Novosti online
+  | url = http://www.novosti.rs/vesti/naslovna/aktuelno.69.html:323768-Preminuo-poslednji-cuvar-srpske-podmornice
+  | ref = harv	
+  }}
+* {{cite news
+  | author = Radio Tivat
+  | date = 9 July 2014
+  | accessdate = 3 October 2015
+  | language = Serbo-Croatian
+  | title = Tivat kroz novinsku građu - 9.jul
+  | trans_title = Tivat in newspapers – 9 July
+  | newspaper = Radio Tivat
+  | url = http://radiotivat.com/index.php/zdravlje/33-tivat-kroz-novinsku-gradju/9439-tivat-kroz-novinsku-gradju-9-jul.html
+  | ref = {{harvid|Radio Tivat|9 July 2014}}
+  }}
+{{refend}}
+{{Hrabri-class submarine}}
+
+[[Category:Submarines of the Royal Yugoslav Navy]]
+[[Category:Hrabri-class submarine]]</text>
+      <sha1>lk5aj5dxzxp9tf3q33yaw9xkenx799h</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,125 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Territory of the Military Commander in Serbia</title>
+    <ns>1</ns>
+    <id>6955820</id>
+    <revision>
+      <id>714536654</id>
+      <parentid>714534872</parentid>
+      <timestamp>2016-04-10T10:29:22Z</timestamp>
+      <contributor>
+        <username>Oranges Juicy</username>
+        <id>22907456</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12537">{{Talk header|search=yes }}
+{{skip to talk}}
+{{Not a forum}}
+{{Old moves|collapse=yes|list=
+*RM, Territory of the Military Commander in Serbia -&gt; Military Administration in Serbia, '''not moved''', 1 August 2012, [[Talk:Territory of the Military Commander in Serbia/Archive 7#Requested move]]
+*RM, Territory of the Military Commander in Serbia -&gt; German-occupied Serbia, '''no consensus''', 14 August 2012, [[Talk:Territory of the Military Commander in Serbia/Archive 8#Requested move to &quot;German-occupied Serbia&quot;]]
+*RM, Territory of the Military Commander in Serbia -&gt; German-occupied Serbia, '''no consensus''', 5 October 2012, [[Talk:Territory of the Military Commander in Serbia/Archive 9#Proposing a move in good faith]]
+*RM, Territory of the Military Commander in Serbia -&gt; Military Administration in Serbia, '''no consensus''', 5 October 2012, [[Talk:Territory of the Military Commander in Serbia/Archive 9#Alternate proposal]]
+}}
+{{Round in circles|search=no}}
+{{User:MiszaBot/config
+|archiveheader = {{aan}}
+|maxarchivesize = 150K
+|counter = 11
+|minthreadsleft = 1
+|minthreadstoarchive = 1
+|algo = old(30d)
+|archive = Talk:Territory of the Military Commander in Serbia/Archive %(counter)d
+}}
+{{Auto archiving notice|bot=MiszaBot I |age=1 |units=month }}
+{{User:HBC Archive Indexerbot/OptIn 
+|target=/Archive index |mask=/Archive &lt;#&gt; |leading_zeros=0 |indexhere=yes 
+}}
+{{WikiProjectBannerShell|1= 
+{{WikiProject Military history|class=start
+&lt;!-- B-Class-1.suitably referenced, and all major points have appropriate inline citations. --&gt;
+|B-Class-1=yes
+&lt;!-- B-Class-2. It reasonably covers the topic, and does not contain obvious omissions or inaccuracies. --&gt;
+|B-Class-2=no
+&lt;!-- B-Class-3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- B-Class-4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- B-Class-5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+|German=yes|Balkan=yes|WWII=yes|attention=yes}}
+{{WikiProject Former countries|class=C}}
+{{WikiProject Yugoslavia|class=C|importance=Mid}}
+{{WikiProject Serbia|class=C|importance=Mid}}
+}}
+
+== Translation ==
+
+I see my Serbian translation was merely based on Serbian Wikipedia's article. The only thing is that now this is the only article of its type not to have a local language translation:
+*[[Government of National Salvation]] (related)
+*[[Independent State of Croatia]]
+*[[Albanian Kingdom (1939–43)]]
+*[[Slovak Republic (1939–45)]]
+*[[Hellenic State (1941–44)]]
+*[[Lokot Autonomy]]
+
+As the subject is a collaborationist state and there are named heads of state and government who are Serbian, and as Serbian is also listed as a language next to German, I cannot see what makes this article different from those listed. --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 15:17, 8 April 2016 (UTC)
+:It is the German name for an occupied territory, not a state. Surely the title would need to exist in Serbian outside of WP (ie in sources, like the German name, from which this title originated) in order to be translated in WP? The other articles you list (except the GNS article) are [[WP:OTHERSTUFF]], and that is not a reason to do it here. The GNS article has a title that exists (in fact originated, in Serbian), so it is natural that it is translated in that article. [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 01:36, 9 April 2016 (UTC)
+::I'm not that worried if this is only about occupied territory but in this case, I fail to see why there is this infobox which projects the entity to be similar to the others when we already have the Government of National Salvation. Conerning the rest of the reply, [[WP:OTHERSTUFF]] is a weak argument. Had there been something of a 50/50 split, the site not being robotic, then naturally that guideline is valid, but at the moment this looks to me similar to not having a capital city within a sovereign state article, and then claiming OTHERSTUFF when someone cites the other articles which contain them. Essentially this article is ''other'' to any of those listed, but my question was what made the remainder so different.--[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 06:45, 9 April 2016 (UTC)
+:::What about the infobox projects the entity to be similar to the others? The GNS was the main puppet government installed by the Germans on this occupied territory, but the other three Balkan ones and the Slovak Republic were all puppet states, while this was not. [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 14:33, 9 April 2016 (UTC)
+::::In that case there is no requirement for a host of the details contained in the infobox, such as Serbian and German being joint official languages and the Serbian Dinar being the currency. Those are properties of a state (or a client state, regardless). --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 15:13, 9 April 2016 (UTC)
+::::::Also, if all of the information there and on [[Government of National Salvation]] is correct then it is illogical that this entity should have the [[Reichsmark]] as a currency while the other only lists Dinar. --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 15:17, 9 April 2016 (UTC)
+:::::::An occupied territory still has to have a currency or currencies and official languages for edicts to be issued. The GNS article is in a poor state and needs a lot of work, whereas this one is in relatively good shape. I wouldn't be using it as a comparison. [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 22:06, 9 April 2016 (UTC)
+::::::::::That wasn't my point. Both articles are relatively poor in my opinion but I wasn't focusing on this. This particular article with its infobox and the details you mentioned, coupled with its status as German-occupied land makes sovereign status unclear. The missing Serbian translation (or even attempt to translate) suggests a German property while the infobox largely projects the entity as Serbian. --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 07:00, 10 April 2016 (UTC)
+{{od}}I don't agree, and find it difficult to believe that anyone would read the infobox or lead and think that its status was unclear. Its sovereign status is entirely clear (it was an occupied territory, not a puppet state) and the infobox could be any clearer about that, the Nazi flag and eagle and list of German commander names being major giveaways. Puppet states have their own flag and coat of arms etc, and a list of local leaders. The fact that the Germans allowed that the Serbian language and a local currency could also be used (in addition to German and the Reichsmark are the add-ons to the German-centric content in the infobox, not the other way around. [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 07:59, 10 April 2016 (UTC)
+::On the contrary, information regarding an occupied territory requires only its outline and the dynamics. Many lands across the world have been and still are occupied; German insignia suggests that Germany annexed the territory and if this is so, either it is wrong to continue calling it an occupation or it is wrong to present it as de jure German, take your pick. Obviously if it was merely an occupation even from the German point of view then the continuation of Serbian being the language and the dinar being the currency would go without saying, needless to say, I fail to see the relevance for a population statistic. It is one thing to say that 4.5 million lived under occupation, but another thing entirely to state: the occupied territory had a population of 4.5 million, particularly as this was an arbitrary outline in the first place, inconsistent with any pre-German presence classification. Those details generally belong to the [[Commissioner Government]] and [[Government of National Salvation]] articles. The very establishment of those two named entities further confuses the sovereign issue, since in order to be a &quot;puppet state&quot; it would have to be sovereign, or at least declared as independent. If not, it is not a &quot;puppet state&quot; but an internal territory run by local functionaries as Algeria had been in the Fourth French Republic. In addition, Government of National Salvation appears to have an infobox on local data but its predecessor Commissioner Government doesn't, and from its history I even see that you once vehemently opposed that article's existence and pushed to have everything (of what was formally the same thing as the Govt of National Salvation) included in this article. Now if that isn't creating confusion, then I don't know what is. --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 08:33, 10 April 2016 (UTC)
+:::You are looking at this with a very peculiar perspective, and all I see is a lot of rambling wikilawyering without anything substantive being advanced. Something which is very common around here. The situation of this territory, and the Germans that ran it as a remaining fragment of Yugoslavia, is entirely clear to any reasonable reader who doesn't have a particular POV to push. Unless you have a reliable source that used the Serbian translation, that's me done. [[User:Peacemaker67|Peacemaker67]]  ([[User_talk:Peacemaker67|click to talk to me]]) 09:00, 10 April 2016 (UTC)
+::::&quot;Germans that ran it as a remaining fragment of Yugoslavia&quot; at most introduces a third area of confusion since you don't appear to know whether this was Germany, Serbia or Yugoslavia. All that is known (by everybody) is the structure. As for POV, I don't know what you are getting at. I sought to have the name written in Serbian, which is not the same thing as adding comments to suggest that the Military Commander was good or bad, so only you can elaborate here. Obviously you failed to answer a single point I made on the note of confusion in the earlier post, but then it is not entirely for you to answer those things because most of the information in the infobox was added before you made your first edit to the page. However what I have noticed with regards this article is this: it wasn't originally called Territory of the Military Commander in Serbia, and the article has gone through transformation several times and this has been characterised by editors not able to agree with each other whether this was a country or subdivision[https://en.wikipedia.org/w/index.php?title=Territory_of_the_Military_Commander_in_Serbia&amp;diff=449881213&amp;oldid=449877888]. We do however know that it began life in 2006 as [[Nedić Serbia]] and it rightfully contained a translation. Even now it doesn't have the current English title on all other Wikipedia articles. In Russian for instance, it is plainly ''Serbia 1941-1944''. [[Nedić Serbia]] now redirects here and is acknowledged in the opening lines, and we know this translation. I note also that the Serbo-Croat article is at ''Vojna uprava u Srbiji'' (Military Administration in Serbia), and this term is used in [http://www.politika.rs/sr/clanak/262988/Dan-ustanka-zaboravljeni-praznik/Ustanak-protiv-drzave-ili-napad-na-sluge-okupatora Politika Online] in naming form (see capital V, all remaining title letters are not capitalised in Serbian/Croatian), just as it had been on this article [https://en.wikipedia.org/w/index.php?title=Territory_of_the_Military_Commander_in_Serbia&amp;diff=449871257&amp;oldid=449868008 at one time in 2011]. Amid disagreement over just what this article represents it eventually became plain 'Serbia' until you [https://en.wikipedia.org/w/index.php?title=Territory_of_the_Military_Commander_in_Serbia&amp;diff=484470943&amp;oldid=484105504 removed the final reference]. I'm not a detective and I'm not about to waste time searching for the conversation to which the summary referred, my point is you hit the nail on the head with your very comment, &quot;''Unless you have a reliable source that used the Serbian translation, that's me done''&quot;. This is completely different from arguing that a Serbian translation &lt;u&gt;should not&lt;/u&gt; feature for some reason; one had done for six years. It just means you're not sure what should go in its place, whereas I on the other hand don't mind what does so long as there is something if indeed this is a Serbia-related article, no Wikilawyering, no POV pushing. --[[User:Oranges Juicy|OJ]] ([[User talk:Oranges Juicy|talk]]) 10:08, 10 April 2016 (UTC)</text>
+      <sha1>huqhfrpxwmwnndgzz9yb95uw8gd96bx</sha1>
+    </revision>
+  </page>
+</mediawiki>

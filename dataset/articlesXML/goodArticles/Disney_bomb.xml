@@ -1,0 +1,255 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Disney bomb</title>
+    <ns>0</ns>
+    <id>18178580</id>
+    <revision>
+      <id>744299626</id>
+      <parentid>737859453</parentid>
+      <timestamp>2016-10-14T11:02:34Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="42642">{{good article}}
+{{infobox weapon
+| name              = Disney Bomb
+| image              = [[File:Disney bomb.png|250px|alt=View from a high-altitude aircraft, looking down and showing a bomb that has just being released. On the ground can be seen a box-like building next to water]]
+| caption            = A Disney Bomb just after release&lt;ref name=&quot;CB57&quot; /&gt;
+| origin             = United Kingdom
+| type               = [[Bunker buster]] bomb
+&lt;!-- Type selection --&gt;
+| is_missile         = yes
+&lt;!-- Service history --&gt;
+| service            = 1945–46
+| used_by            = [[United States Army Air Forces]]
+| wars               = World War II
+&lt;!-- Production history --&gt;
+| designer           =[[Edward Terrell]]
+| design_date        = 1943
+| manufacturer       = [[Vickers Armstrong]]&lt;ref name=&quot;ruby&quot;&gt;{{harvnb|Project Ruby|1946|p=25}}&lt;/ref&gt;
+| unit_cost          =
+| production_date    =
+| number             =
+| variants           =
+&lt;!-- General specifications --&gt;
+| spec_label         =
+| weight             = {{convert|4500|lb|kg|abbr=on}}
+| length             = {{convert|16|ft|6|in|abbr=on}}&lt;ref group=&quot;Note&quot;&gt;Spillman gives {{convert|14|ft|m}} ({{harvnb|Spillman|1997|pp=75–76}})&lt;/ref&gt;
+| part_length        =
+| width              =
+| height             =
+| diameter           = Body: {{convert|15|in|abbr=on}} &lt;br/&gt;Tail {{convert|17|in|abbr=on}} &lt;ref group=&quot;Note&quot;&gt;Spillman gives a diameter of {{convert|11|in}}.({{harvnb|Spillman|1997|pp=75–76}})&lt;/ref&gt;
+| crew               =
+| passengers         =
+&lt;!-- Explosive specifications --&gt;
+| filling            = [[shellite (explosive)|Shellite]]&lt;ref name=USSTAF/&gt;
+| filling_weight     = {{convert|500|lb|kg|abbr=on}}&lt;ref name=USSTAF&gt;{{Harvnb|USSTAF Armament Memorandum|1945|pp=1–2}}&lt;/ref&gt;
+| detonation         = Base fuze
+| yield              =
+&lt;!-- Vehicle/missile specifications --&gt;
+| armour             =
+| primary_armament     =
+| secondary_armament   =
+| engine             =
+| engine_power       =
+| pw_ratio           =
+| transmission       =
+| payload_capacity   =
+| suspension         =
+| clearance          =
+| fuel_capacity      =
+| vehicle_range      =
+| speed              =
+| guidance           =
+| steering           =
+&lt;!-- Missiles only --&gt;
+| wingspan           =
+| propellant         = [[Cordite]]
+| ceiling            =
+| altitude           =
+| depth              =
+| boost              =
+| accuracy           =
+| launch_platform    = ''Aircraft''
+| transport          = [[Boeing B-17 Flying Fortress]], [[Boeing B-29 Superfortress]]&lt;ref&gt;{{harvnb|Keefer|1947}}&lt;/ref&gt;
+}}
+
+The '''Disney Bomb''', also known as the '''Disney Swish''',&lt;ref name=&quot;CB57&quot; /&gt; officially the '''4500&amp;nbsp;lb Concrete Piercing/Rocket Assisted bomb''' was a rocket-assisted [[bunker buster]] bomb developed during the [[World War II|Second World War]] by the British [[Royal Navy]] to penetrate hardened concrete targets, such as [[submarine pen]]s, that could resist conventional [[free-fall bomb]]s. Devised by Royal Navy Captain [[Edward Terrell]], the bomb was fitted with [[solid-fuel rocket]]s to accelerate its descent, giving it an impact speed of {{convert|990|mph|km/h|bbr=on}} — substantially beyond the {{convert|750|mph|km/h|bbr=on}} gravity-propulsion impact velocity&lt;ref&gt;{{cite book |last=Ellis |first=John |date=1998 |title=One Day in a Very Long War |url= |location= |publisher=Jonathan Cape |page=297 |isbn=978-0-22404-244-4}}&lt;/ref&gt; of the 5 tonne [[Tallboy (bomb)|''Tallboy'']] munition for comparable purposes —  and hence the ability to penetrate {{convert|16|ft|m|abbr=on}} of solid concrete before detonating. The name is attributed to [[Victory Through Air Power (film)#Impact|a propaganda film]] produced by the [[Walt Disney Productions|Walt Disney Studios]], that provided the inspiration for the design.
+
+The Disney bomb saw limited use by the [[United States Army Air Forces]] in Europe from February to April 1945. Although technically successful, it initially lacked the pinpoint accuracy required for bunker targets. It was deployed late in the war and had little effect on the [[Strategic bombing during World War II|Allied bombing campaign against Germany]].
+
+==Background==
+During the Second World War, [[Barnes Wallis]] developed two large [[earthquake bomb|&quot;earthquake&quot; bombs]] for the Royal Air Force: the five-tonne [[Tallboy (bomb)|Tallboy]] and the ten-tonne [[Grand Slam (bomb)|Grand Slam]], for use against targets too heavily protected to be affected by conventional high explosive bombs.&lt;ref&gt;{{harvnb|Murray|2009}}&lt;/ref&gt; These enormous weapons were designed to strike close by their target, to penetrate deeply into the earth, and to cause major structural damages, making repair uneconomic, by the [[shock wave]]s transmitted through the ground. In practice, they proved capable of penetrating a significant thickness of concrete if they scored a direct hit despite not being designed for that purpose by Wallis, who had to work within the accuracy limitations of current [[bombsight]]s&lt;ref&gt;{{cite journal|last=Allen|first=Raymond|title=Bombsight Solves Problems|journal=[[Popular Science]]|date=December 1943|volume=143|issue=6|url=https://books.google.com/books?id=fScDAAAAMBAJ&amp;pg=PA116|accessdate=3 July 2011|issn=0161-7370}}&lt;/ref&gt; and the resulting low [[Accuracy and precision#Accuracy versus precision: the target analogy|accuracy]] of the bombings.&lt;ref&gt;{{harvnb|Flower|2004}}&lt;/ref&gt;&lt;ref group=&quot;Note&quot;&gt;After sliding into the soil or rock beneath or around the target, the energy of detonation is transferred into the structure or creates a [[camouflet]] (cavern or crater) into which the target would fall.&lt;/ref&gt;&lt;ref group=&quot;Note&quot;&gt;The Royal Air Force introduced into operational service in 1943 an improved [[precision bombing|precision]] bombsight: the [[Stabilizing Automatic Bomb Sight]]. 617 Squadron achieved a [[Accuracy and precision|precision]] of {{convert|100|yd|m|abbr=on}} at the V1 Weapon launch site at [[Abbeville]] on 16/17 December 1943. [http://www.raf.mod.uk/bombercommand/dec43.html Bomber Command Diary December 1943]&lt;/ref&gt;
+
+The Disney bomb, by contrast, was designed from the start to directly penetrate the thick concrete roofs of fortified bunkers. Whereas the earthquake bomb's target was the bunker itself, the Disney bomb's target was the bunker's contents. To this end, the warhead was composed of an unusually thick steel shell, containing a comparatively small amount of explosive.&lt;ref group=&quot;Note&quot;&gt;The Disney's explosive charge was 11% of the weight of the bomb. Around 50% of the weight of conventional bombs is explosive (see [[General-purpose bomb]])&lt;/ref&gt; It was shaped to be much slimmer than was usual for aircraft-dropped bombs and a cluster of booster rockets accelerated the weapon as it fell, so it struck the target with a velocity much greater than its free-fall, [[terminal velocity]]. These features accord with [[Impact depth|Newton's approximation for impact depth]], and the empirical design equation known as ''Young's equation'' that state that the deepest target penetration is achieved by a projectile that is dense, long and thin (i.e. has a large [[sectional density]]), and strikes with a high velocity.&lt;ref&gt;{{harvnb|Young|1997|loc=Appendix B: Penetration Equations Summarized}}&lt;/ref&gt;
+
+==Description==
+The CP/RA&lt;ref group=&quot;Note&quot;&gt;The Disney bomb was officially codenamed the 4500-lb CP/RA bomb (Project Ruby 1946, p. 1). CP/RA stands for Concrete Piercing/Rocket Assisted.&lt;/ref&gt;  Disney bombs were {{convert|16|ft|6|in|abbr=on}} long&lt;ref name=&quot;Terrell58&quot;&gt;{{harvnb|Terrell|1958}}&lt;/ref&gt; and weighed {{convert|4500|lb|kg}}. The diameter of the body of the bomb was {{convert|11|in|abbr=on}}, while the diameter at the tail was {{convert|17|in|abbr=on}}.&lt;ref name=&quot;Terrell58&quot;/&gt; They were composed of three sections. The forward section was the warhead—an explosive charge of {{convert|500|lb|kg}} of [[Shellite (explosive)|shellite]],&lt;ref name=USSTAF/&gt; contained within an armour-piercing casing of thick steel and fitted with two British No.58 MK I tail Pistol [[fuze]]s  at the base (''i.e.'' furthest from the nose).&lt;ref group=&quot;Note&quot;&gt;The  No.58 MK I tail Pistol that also equipped the [[Tallboy (bomb)|Tallboy]] bombs were manufactured by Midgley Harmer Limited (London).[http://www.bocn.co.uk/vbforum/threads/38705-No.58-MK-I-tail-pistol-who-can-help]&lt;/ref&gt; The second section was made up of nineteen rocket motors from the [[RP-3|{{convert|3|in}} Rocket Projectile]] - essentially metal tubes filled with [[cordite]].&lt;ref name=USSTAF/&gt;&lt;ref name=&quot;pol&quot;/&gt; In the third rear section, a tail cone contained the circuit that ignited the rockets. This was powered by a small generator with a vane spun by the airstream going past the falling bomb. Rocket ignition was controlled either by a time-delay switch,&lt;ref name=&quot;ruby&quot; /&gt; or a barometric switch.&lt;ref group=&quot;Note&quot;&gt;Switch activated by changes in atmospheric pressure. Also known as &quot;baroswitch&quot;. See [[Pressure sensor#Applications|Applications of pressure sensors]].&lt;/ref&gt;&lt;ref name=&quot;92nd76&quot;&gt;{{harvnb|Spillman|1997|p=76}}&lt;/ref&gt; There were six small fins at the rear of the bomb for its stabilisation. The bomb was suspended from the aircraft by two weight-bearing lugs. Three arming wires also connected the bomb and the aircraft; as the bomb dropped, a brief tug from the wires would arm the warhead fuzes and the rocket-ignition circuit, and unlock the electrical generator, allowing it to spin freely.&lt;ref name=USSTAF/&gt;
+{{Gallery
+| title = Diagram and close-up of a Disney bomb
+| lines = 2
+| width = 400
+| align = center
+|File:Disney Bomb Diagram.png|alt1=A cutaway diagram of a Disney bomb|Diagram of a Disney bomb&lt;ref&gt;{{harvnb|Project Ruby|1946|pp=87–88}}&lt;/ref&gt;
+|File:Disney bomb.jpg|alt2=Close-up of a Disney bomb|A Disney bomb with Lt-Cdr Murray, Edward Terrell, and an &quot;Air Force Armament Officer&quot;, and a bomb mounted under a B-17 Flying Fortress&lt;ref name=&quot;pol&quot;&gt;{{harvnb|Burakowski|Sala|1960|p=557}}&lt;/ref&gt;
+}}
+
+For accuracy, the bombs had to be dropped precisely from a pre-determined height, usually {{convert|20000|ft|m}}.&lt;ref name=&quot;pol556&quot;&gt;{{harvnb|Burakowski|Sala|1960|p=556}}&lt;/ref&gt; They would free-fall for around 30&amp;nbsp;seconds until, at {{convert|5000|ft|m}}, the rockets were ignited, causing the tail section to be expelled.&lt;ref name=&quot;pol556&quot;/&gt; The rocket burn lasted for three seconds&lt;ref name=&quot;ruby18&quot; /&gt; and added {{convert|300|ft/s|m/s}} to the bomb's speed, giving a final impact speed of {{convert|1450|ft/s|m/s}}, equivalent to {{convert|990|mph|km/h}} or &lt;ref name=&quot;ruby18&quot;&gt;{{harvnb|Project Ruby|1946|p=18}}&lt;/ref&gt; approximately [[Mach number|Mach]] 1.29.&lt;ref group=&quot;Note&quot;&gt;Other sources mention a striking speed of {{convert|2400|ft/s|m/s mph}}. ({{harvnb|Johnsen|2003|p=45}}, {{harvnb|Burakowski|Sala|1960|p=556}})&lt;/ref&gt; Post-war tests demonstrated the bombs were able to penetrate a {{convert|14|ft|8|in|m|adj=on}}  thick concrete roof,&lt;ref name=&quot;ruby23&quot;&gt;{{harvnb|Project Ruby|1946|p=23}}&lt;/ref&gt; with the predicted (but untested) ability to penetrate {{convert|16|ft|8|in|m}} of concrete.&lt;ref name=&quot;ruby23&quot; /&gt;
+
+==Development and testing==
+[[File:Victory Through Air Power still2.png|thumb|alt=A cartoon picture of a bomb punching through a thick roof that was protecting several submarines|A rocket–bomb destroys a U-boat pen in the Disney animated film ''Victory Through Air Power'' (1943)]]
+
+According to an anecdote, the idea arose after a group of Royal Navy officers saw a similar, but fictional, bomb depicted in the 1943 [[The Walt Disney Company|Walt Disney]] animated [[propaganda film]] [[Victory Through Air Power (film)|''Victory Through Air Power'']],&lt;ref group=&quot;Note&quot;&gt;A film adaptation of the book ''[[Victory Through Air Power]]'' by the air warfare advocate [[Alexander P. de Seversky|Alexander de Seversky]]&lt;/ref&gt; and the name ''Disney'' was consequently given to the weapon.&lt;ref&gt;{{harvnb|Spillman|1997|p=75}}&lt;/ref&gt; The Royal Navy developed the bomb&lt;ref name=&quot;McA280&quot;&gt;{{Harvnb|McArthur|1990|p=280}}&lt;/ref&gt; even though the [[Fleet Air Arm]] operated no aircraft capable of carrying it.&lt;ref group=&quot;Note&quot;&gt;Strategic attacks against German shipping, warships and ports were carried out by [[RAF Coastal Command]].&lt;/ref&gt; The navy's interest in a concrete penetrating weapon can be explained by the German navy's extensive use of fortified [[submarine pen]]s to protect their [[U-boat]]s and [[E-boat]]s from air attack while docked.
+
+The Disney Bomb was devised by a British naval officer, Captain [[Edward Terrell]]&lt;ref&gt;{{harvnb|Terrell|1958|pp= 197–212}}&lt;/ref&gt; of the [[Royal Naval Reserve|Royal Naval Volunteer Reserve]], who served in the [[Directorate of Miscellaneous Weapons Development]].&lt;ref name=&quot;britatwar&quot; /&gt; Before the war, he had been a lawyer and the [[Recorder (judge)|Recorder]] of [[Newbury, Berkshire|Newbury]].&lt;ref&gt;{{cite web |url=http://www.balean.net/terrell.html |title=Terrell Family Name |author= |date= |work=|publisher=Balean.net|accessdate=8 June 2011}}&lt;/ref&gt; However, he was also an enthusiastic inventor and had filed several patents pre-war, including ones for a vegetable peeling knife&lt;ref&gt;{{cite patent | country = US| number =1724980| status =patent | title = Vegetable or Like Peeling Knife| pubdate =20 August  1929 | gdate = | fdate =20 September 1927 | pridate = | inventor = Edward Terrell | class =A47J17/02}}&lt;/ref&gt; and a bottle for [[fountain pen ink]].&lt;ref&gt;{{cite patent | country = US| number =2215942| status =patent | title = Bottle| pubdate =24 September 1940 | gdate = | fdate = 17 Apr 1939 | pridate = | inventor = Edward Terrell | class =B43L25/00}}&lt;/ref&gt;
+
+[[File:Edward Terrel Admiralty brief 1945.jpg|thumb|size=160px|left|alt=A book cover, with a picture showing two falling bombs and with the aircraft that dropped them high above|right|The Disney bomb on the cover of Terrell's book ''Admiralty Brief: The Story of Inventions that Contributed to Victory in The Battle of the Atlantic'' (1958)]]
+
+The bomb's development began in September 1943. Although there was support for the idea at the highest levels within the Admiralty, production of the weapon would have to come under the [[Ministry of Aircraft Production]] (MAP). The [[Road Research Laboratory]]&lt;ref group=&quot;Note&quot;&gt;The RRL had aided the development of Barnes Wallis' [[bouncing bomb]].&lt;/ref&gt; provided theoretical formula for penetration from US data on the performance of {{convert|15|in|adj=on|0}} shells against reinforced concrete and the Chief Engineer of Armament Development at [[Fort Halstead]] prepared a preliminary design to present to the MAP. In the face of opposition, the First Sea Lord prepared a memorandum for the Anti-U-Boat Committee of which [[Winston Churchill|Churchill]] was the Chairman. Terrell visited Churchill's scientific adviser [[Frederick Lindemann, 1st Viscount Cherwell|Lord Cherwell]] to convince him that it was feasible technically. Due to the Prime Minister's absence through illness, it was not until January 1944 that Churchill expressed a desire that the bomb should be considered by the committee. Due to the number of departments involved there were meetings involving large numbers of technicians and scientists to confirm the technical feasibility.&lt;ref&gt;{{harvnb|Terrell|1958|pp=200–203}}&lt;/ref&gt;
+
+Through the Air Technical Section of the USAAC, Terrell received support and was able to show the Admiralty a mockup under the wing of a [[Boeing B-17 Flying Fortress]]. The Air Ministry was still opposed to its development on several technical grounds and it took a meeting of the War Cabinet in May (which Terrell attended) to decide in its favour giving it &quot;P plus&quot; priority. A side effect of the meeting was it focused attention on the issue of the U-boat shelters and the RAF were directed to make attacks on them&amp;nbsp;— dropping 26 Tallboys in August that year.&lt;ref&gt;{{harvnb|Terrell|1958|pp=205–207}}&lt;/ref&gt;
+
+[[File:Disney Bomb Loading.png|thumb|alt=Photograph of three men using lifting equipment to jack a heavy bomb up to the underside of a large parked aircraft|American ground crew loading a Disney bomb onto a B-17 bomber&lt;ref name=&quot;CB57&quot; /&gt;]]
+
+Despite being a British weapon, Disneys were used only by the United States Army Air Force, with the bombs becoming a joint project between the American [[Eighth Air Force]] and the British Royal Navy; they were never used by [[RAF Bomber Command]].&lt;ref group=&quot;Note&quot;&gt;The reason for this is unclear. In the [[Avro Lancaster]], the RAF had a bomber with a large enough bomb bay and sufficient lift. Several sources ({{harvnb|Freeman|2001|p=228}}; {{harvnb|McArthur|1990|p=280}}) cite unspecified technical reasons that prevented the use of British aircraft. Terrell states that the B-17 was the only aircraft capable of bearing the weight &quot;under its wings&quot; (''Admiralty Brief'' p.201).&lt;/ref&gt;&lt;ref group=&quot;Note&quot;&gt;{{cite journal |author= |date=30 May 1946 |title=Bombs Versus Concrete |journal=[[Flight International|Flight]]|volume=XLIX |issue=1953 |pages=537–541 |publisher= |issn=0015-3710|pmid= |pmc= |url=http://www.flightglobal.com/pdfarchive/view/1946/1946%20-%201045.html |accessdate=10 June 2011|quote=The U.S. component is dropping bombs ranging from 2000&amp;nbsp;lb to 22,000&amp;nbsp;lb (...) in addition to a new type of 4,500-lb rocket-assisted armour-piercing bomb, two of which are slung externally under the wing roots of a B-17. The rocket motor is cut in at a predetermined height after release and a direct hit is essential to effectiveness. An official film of &quot;Project Ruby&quot; shows that the missile resembles the German &quot;P.C.&quot; series carried by [[Ju 87]]s and [[Ju 88]]s, though the rocket motor, detachable from the warhead, appears even longer. For &quot; technical reasons &quot; no British aircraft can handle this bomb}} ''Flight'' makes references to the German Rocket-Propelled Bomb PC 1000 Rs. ({{cite book|title=Catalog of Enemy Ordnance Materiel|chapter=PC 1000 Rs: Rocket-Propelled Bomb|url=http://cgsc.cdmhost.com/cdm/compoundobject/collection/p4013coll8/id/2758|author=U.S. Office of Chief of Ordnance|page=316|accessdate=10 June 2011|date=1 March 1945|quote=''The German 1,000&amp;nbsp;kg. (actual wt. 2,176&amp;nbsp;lb.) armor-piercing bomb (PC 1000 Rs) is a rocket-propelled type designed primarily for use against ships or similar targets.(...) There are three other bombs of the same general type: PC 500 Rs; a lighter version of the PC 1000 Rs; PC 1000 Rs Ex, for practice or experimental use (...) and the PC 1800 Rs.''}}&lt;/ref&gt; The [[92nd Operations Group|92nd Bombardment Group]] was initially tasked with their use. The bombs would also be dropped by the [[305th Bombardment Group]]  and [[306th Bombardment Group]]. The [[94th Bombardment Group]]  prepared to use the bombs, but flew no operations with them before the war in Europe ended.&lt;ref&gt;{{harvnb|Freeman|2001|p=228}}&lt;/ref&gt; The [[Boeing B-17 Flying Fortress|B-17 Flying Fortresses]] operated by these units carried the bombs in pairs; one was slung under each wing as they were too long to be carried in the B-17's bomb bay. The Disneys were carried from the same external mounting that was used for the [[glide bomb#US designs|Aeronca GB-1 glide bomb]].&lt;ref&gt;{{harvnb|Freeman|Osbourne|1998|p=50}}&lt;/ref&gt; Cameras were also fitted to the aircraft so the bombs' trajectory and effect could be recorded.&lt;ref&gt;{{harvnb|Thom|1986|p=222}}&lt;/ref&gt;
+
+Testing of the Disney bombs began in early 1945. Bombs were initially dropped on a bombing range near [[Southampton]]{{Clarify|Terrell puts initials tests at Orfordness, flying from Bovingdon and Woodbridge, and live tests in Hampshire|date=June 2011}} to photographically record their trajectory and calibrate [[bombsight]]s. This was necessary as the flight-path of a rocket-accelerated bomb differed considerably from that of a free–falling bomb.&lt;ref name=&quot;92nd76&quot; /&gt; Test drops were then conducted on the [[Blockhaus d'Éperlecques|Watten bunker]], German codename ''Kraftwerk Nord West'' (now known as the ''Blockhaus d'Éperlecques''), a large German concrete bunker near [[Watten, Nord|Watten]] in northern France. This was ideal for the purpose as the area had been captured by Allied forces in September 1944, so damage to the structure could be inspected after bomb tests.&lt;ref name=&quot;92nd76&quot; /&gt; Four bombs, carried by two B-17s, were used and two hits scored on the target. The resultant damage was considered satisfactory by Royal Navy observers on the ground.&lt;ref name=&quot;92nd76&quot; /&gt;
+
+==Combat==
+[[File:Disney bombs.png|thumb|left|Aerial view of a large box-like structure beside a body of water. It is surrounded by large craters and four trails of smoke are directed towards it| Four Disneys leave rocket trails as they accelerate towards ''Schnellbootbunker BY (SBB2)'', [[IJmuiden]], Netherlands, 1945. Still taken from a US Army film&lt;ref name=&quot;CB57&quot;&gt;{{cite video | people= | date= 1945 | title = Combat bulletins CB n°57: Activities in ETO—Disney swish | url  = http://commons.wikimedia.org/wiki/File:Disney_Bomb_1945.ogv | publisher  = US Army Pictorial Service | location  = Wikimedia Commons| archiveurl = | archivedate = | accessdate = | time = | id  = | isbn = | oclc = | quote = | ref  = }}&lt;/ref&gt;]]
+The first Disney attack was against the port of [[IJmuiden]], [[Netherlands]].&lt;ref&gt;{{harvnb|Spillman|1997|p=48}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Hecks|1990|p=259}}&lt;/ref&gt; This was the site of two separate fortified pens used by the German navy to house their ''Schnellboote'' (fast torpedo boats, known to the Allies as &quot;[[E-boat]]s&quot;)&lt;ref name=&quot;flower203&quot; /&gt; and ''[[Biber (submarine)|Biber]]'' [[midget submarine]]s.&lt;ref name=&quot;flower301&quot;&gt;{{harvnb|Flower|2004|p=301}}&lt;/ref&gt; The older structure, codename ''Schnellbootbunker AY (SBB1)'', was protected by a {{convert|10|ft|m|adj=on}} thick concrete roof.&lt;ref name=&quot;flower203&quot; /&gt; The newer one, codename ''Schnellbootbunker BY (SBB2)'',  had {{convert|10|-|12|ft|m}} of concrete, with a further {{convert|2|-|4|ft|m|adj=on}} layer separated by an air–gap.&lt;ref group=&quot;Note&quot;&gt;Only SBB2 has remained until today ({{coord|52|27|36.72|N|4|34|39.08|E| type:landmark_scale:1000_region:NL|display=inline}}).&lt;/ref&gt;&lt;ref name=&quot;flower301&quot; /&gt;
+
+The E-boats laid up in the shelters during the day, safe from air–attack, and put to sea under cover of night to attack Allied shipping.&lt;ref name=&quot;flower203&quot;&gt;{{harvnb|Flower|2004|p=203}}&lt;/ref&gt; The pens were priority targets as the torpedo boats they protected were a considerable threat to the supply lines serving Allied forces in western Europe. Since August 1944, the two bunkers had been attacked four times by [[No. 9 Squadron RAF|No. 9 Squadron]] and [[No. 617 Squadron]] of the RAF, with a total of 53 of the five–ton, Tallboy earthquake bombs.&lt;ref&gt;{{harvnb|Flower|2004|loc=Appendix A}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Bateman|2009|p= 92}}&lt;/ref&gt; There had been numerous other attacks from bombers carrying smaller, conventional bombs.
+
+Nine aircraft of the 92nd Bomb Group, carrying 18 Disneys, attacked ''Schnellbootbunker BY (SBB2)'' on 10 February 1945.&lt;ref&gt;{{harvnb|Freeman|1990|p=437}}&lt;/ref&gt; Royal Navy intelligence learned the concrete had been penetrated, but the pens had been empty at the time of the attack.&lt;ref name=&quot;92nd76&quot; /&gt; The 92nd therefore carried out an attack on the SBB1 pen, again with nine aircraft,&lt;ref&gt;{{harvnb|Spillman|1997|p=49}}&lt;/ref&gt; on 14 March.&lt;ref&gt;{{harvnb|Freeman|1990|p=463}}&lt;/ref&gt;
+
+[[File:Disney Bomb 1945.ogv|thumb|US Army newsreel, reporting on the first Disney attack on IJmuiden&lt;ref name=&quot;CB57&quot; /&gt;]]
+
+On 30 March, 36 aircraft from the US Eighth Air Force, including 12 from the 92nd Bomb Group,&lt;ref&gt;{{harvnb|Spillman|1997|p=50}}&lt;/ref&gt; attacked the [[Valentin submarine pens]], a massive, bomb–hardened concrete shelter under construction at the small port of [[Farge]], near Bremen in Germany (location: {{coord|53|13|00|N|8|30|15|E |region:DE-HB_type:landmark|display=inline}}) with Disney bombs. The shelter was nearing completion and was to be a factory for the assembly of [[German Type XXI submarine|Type XXI U-boats]].&lt;ref name=&quot;flower350&quot;&gt;{{harvnb|Flower|2004|p=350}}&lt;/ref&gt; Construction had been under way since 1943, using the forced labour of 10,000 concentration–camp prisoners, prisoners–of–war and foreign civilians (''[[Fremdarbeiter]]'') who suffered a high death rate because of the horrific conditions they worked under.&lt;ref&gt;{{cite web | url =http://www.ushmm.org/wlc/en/article.php?ModuleId=10007390 | title =Neuengamme / Bremen-Farge | author =Marc Buggeln | date = | work = Holocaust Encyclopedia| publisher =United States Holocaust Memorial Museum | accessdate = 29 January 2011}}&lt;/ref&gt;
+
+Valentin's {{convert|4.5|m|ft|0|adj=on}}-thick roof had already been penetrated by two 10-ton [[Grand Slam (bomb)|Grand Slam]] bombs dropped by the RAF three days earlier, on 27 March.&lt;ref&gt;{{harvnb|Flower|2004|p=348}}&lt;/ref&gt; During the Eighth Air Force attack, more than sixty Disneys were launched but only one hit the target with little effect, although installations around the bunker received considerable damage.&lt;ref name=&quot;flower351&quot;&gt;{{harvnb|Flower|2004|p=351}}&lt;/ref&gt; After the bombing, the Germans made limited attempts to carry out repairs before abandoning the complex; the area was captured by the British Army four weeks later.&lt;ref name=&quot;flower351&quot; /&gt;
+
+On 4 April 1945, 24 B-17s attacked fortified targets in [[Hamburg]].&lt;ref&gt;{{harvnb|Freeman|1990|p=479}}&lt;/ref&gt; The target was obscured by cloud so radar guidance was used to launch the bombs. A further mission in May 1945 was cancelled.&lt;ref&gt;{{harvnb|Spillman|1997|p=52}}&lt;/ref&gt; A total of 158 bombs were dropped before the end of the war.&lt;ref name=&quot;britatwar&quot; /&gt; No aircraft or aircrew were lost during the four Disney combat missions.&lt;ref&gt;{{harvnb|Freeman|1990|p=}}&lt;/ref&gt;
+
+==Post-war development==
+[[File:Disney bomb impact test.png|thumb|left|alt=Diagram showing cross-sections of a hole punched through a thick roof|Diagram of a roof penetration produced by a Disney strike on the Valentin bunker during ''Project Ruby''&lt;ref&gt;{{harvnb|Project Ruby|1946|p=214}}&lt;/ref&gt;]]
+
+In June 1945, the [[Air Ministry|Air Council]]&lt;ref group=&quot;Note&quot;&gt;{{cite book|title=Royal Air Force manual: organization|year=1954|publisher=|url=http://www.airpowerstudies.co.uk/AP1301_1954.pdf|author=Air Ministry|edition=2d|authorlink=Air Ministry|accessdate=27 June 2011|quote=The Air Council is the ruling body at the head of the Air Ministry, and is responsible for the control and administration of the Royal Air Force. This responsibility is a joint one and is shared by all members of the Air Council. Any order emanating from the Air Council to R.A.F. formations is issued &quot;by command of the Air Council&quot;.|page=7}}&lt;/ref&gt; wrote to the [[Lords of the Admiralty]] expressing &quot;their appreciation&quot; of the work that had been done on the &quot;rocket bomb&quot;.&lt;ref&gt;{{harvnb|Terrell|1958|p=224}}&lt;/ref&gt; The RAF initiated bombing tests of the Disney in June 1945, using the Watten bunker as a target.&lt;ref name=&quot;ruby6&quot; /&gt; The actual bombing was carried by the US 8th Air Force on behalf of the RAF.&lt;ref name=&quot;ruby7&quot;&gt;{{harvnb|Project Ruby|1946|p=7}}&lt;/ref&gt; However, Watten proved too small to be a satisfactory target,&lt;ref name=&quot;ruby6&quot; /&gt; and the French objected to continued bombing of their territory in peace-time.&lt;ref&gt;{{cite journal |last1= |first1= |last2= |first2= |date= May 30, 1946|title=Bombs Versus Concrete |journal=Flight |volume=XLIX |issue=1953 |pages=537 |publisher= |url= http://www.flightglobal.com/pdfarchive/view/1946/1946%20-%201045.html|accessdate= }}&lt;/ref&gt;
+
+Further testing took place as part of ''Project Ruby''.&lt;ref&gt;{{cite web|last=Howell|first=Mark|title=Project Ruby – a look at RAF Mildenhall's history|url=http://www.mildenhall.af.mil/news/story.asp?id=123183828|publisher=US Air Force|accessdate=10 June 2011|archiveurl=http://www.webcitation.org/5zKaN0BxG|archivedate=10 June 2011|date=30 December 2009}}&lt;/ref&gt; This was a 1946, joint Anglo-American programme to test a range of concrete penetrating bombs against a wartime German bunker on the small island of [[Heligoland]] and the [[Valentin submarine pens]]. Bombs tested included the Tallboy and the Grand Slam (both British and US-made versions), the American {{convert|22000|lb|kg|adj=on}} Amazon and {{convert|2000|lb|kg|adj=on}} M103 SAP bombs, and the Disney. The bombs dropped on Valentin were inert, as the objective was not to observe the effects of bomb explosions, but rather to test concrete penetration and the strength of the bomb casings.&lt;ref name=&quot;ruby6&quot;&gt;{{harvnb|Project Ruby|1946|p=6}}&lt;/ref&gt; Also, with the resumption of peace, the safety of civilians living around Valentin had become a consideration.&lt;ref name=&quot;ruby7&quot; /&gt;
+
+Heligoland was uninhabited at the time as its small population had been evacuated during the war. It was the site of a U-boat pen with a {{convert|10|ft|m|adj=on}} thick roof. This was used to test bombs loaded with explosive (but with inert detonators) to make sure the explosives used were not shock sensitive and would not prematurely detonate upon impact with the target.&lt;ref name=&quot;ruby7&quot; /&gt;
+
+This peace-time testing of the bomb was far more extensive than could be carried out prior to its wartime deployment. A total of 76 Disneys were dropped on Heligoland, loaded with a variety of explosive charges, composed of shellite, [[RDX]], [[Trinitrotoluene|TNT]] or [[Picratol]].&lt;ref&gt;{{harvnb|Project Ruby|1946|pp=45–48}}&lt;/ref&gt; Thirty-four Disneys were dropped on Valentin, 12 with the rockets inactivated &lt;ref name=&quot;ruby15&quot;&gt;{{harvnb|Project Ruby|1946|p=15}}&lt;/ref&gt; and 22 with the rockets firing.&lt;ref name=&quot;ruby18&quot;/&gt; A further four had been previously dropped on a bomb range at [[Orford Ness]] to test their accuracy, and to make sure none would land outside the safety exclusion zone that was set up around Valentin during the trials.&lt;ref name=&quot;ruby18&quot; /&gt;
+
+The penetration performance ({{convert|14|ft|8|in|m}} of concrete) of the Disney was found to be satisfactory, with a predicted maximum penetration of {{convert|16|ft|8|in|m|abb=on}}.&lt;ref name=&quot;ruby23&quot;/&gt;
+One of the bombs penetrated both Valentin's concrete roof, and its {{convert|3|ft|m|adj=on}} thick concrete floor, coming to rest completely buried in the sand under structure's foundations.&lt;ref name=&quot;ruby22&quot;&gt;{{harvnb|Project Ruby|1946|p=22}}&lt;/ref&gt; However, there were problems with the bombs. The reliability of the rocket booster ignition was considered unsatisfactory,&lt;ref name=&quot;ruby34&quot;&gt;{{harvnb|Project Ruby|1946|p= 34}}&lt;/ref&gt; with a failure rate of around 37% during the trials.&lt;ref name=&quot;ruby18&quot; /&gt; Also, some bombs broke up on impact with the target due to flaws in the steel casing and bombs struck at an angle, increasing the effective thickness of concrete they had to penetrate. Furthermore, it was noted that the warhead of the bomb was comparatively small&lt;ref name=&quot;ruby34&quot; /&gt; so a very large bunker complex, such as Valentin, would have required many penetrating hits to be sure of destroying all the contents.
+
+In comparison, the effective concrete penetration of the Tallboy and Grand Slams was similar to the Disney (around 14&amp;nbsp;feet). However, these bombs directly penetrated only around seven feet of concrete, and the remaining thickness was blown in by the detonation of the bomb's enormous explosive charge. The roof of Valentin had been penetrated by two Grand Slams before the war ended. But, as no detonation occurred inside the bunker, post-war examination revealed little damage to the complex aside from the large holes in the roof; installations inside the bunker remained comparatively unscathed.&lt;ref name=&quot;flower351&quot; /&gt; The conclusion of ''Project Ruby'' was that none of the bombs tested was completely suitable and the development of a new, concrete–penetrating bomb was recommended.&lt;ref name=&quot;ruby2&quot;&gt;{{harvnb|Project Ruby|1946|p=2}}&lt;/ref&gt; However, the Disney's rocket-assist was viewed as a worthwhile feature that should be incorporated into any new bomb designs,&lt;ref&gt;{{harvnb|Project Ruby|1946|p=13}}&lt;/ref&gt; as target penetration increases with strike velocity, but it was found this only increases marginally if a bomb is dropped from higher than {{convert|20000|ft|m}}.&lt;ref&gt;{{harvnb|Project Ruby|1946|p=12}}&lt;/ref&gt;
+
+On 27 January 2009, the body of an inactive Disney bomb, with its {{convert|500|lb|adj=on}} explosive charge, was extracted from the roof of Watten bunker (by now a private museum), where it had embedded itself during one of the 1945 test-drops. The bomb was transferred to the ammunition depot at ''La Geule d'Ours'' – two kilometres from the centre of [[Vimy]] – where recovered chemical ammunition and equipment from the [[First World War]] is processed.&lt;!--&lt;ref group=Note&gt;Schematically, the depot is divided into three zones. First zone contains World War I chemical shells  with [[phosgene]].  In the second zone consists of a stock of undetermined mixture of explosives and gas shells (mainly with mustard gas or [[Yperite]]). The third zone is the sorting area and storage facility. (location: {{coord|50|22|28.71|N|2|50|45|E|type:landmark_scale:1000_region:FR|display=inline}})&lt;/ref&gt; --&gt;&lt;ref name=&quot;britatwar&quot;&gt;{{cite web|url=http://www.britain-at-war-magazine.com/news/rocket-assisted-bomb-found-at-french-museum |title=Rocket-Assisted Bomb Found at French Museum |author= |date= |work= |publisher=Britain at War Magazine |accessdate=14 March 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110723064232/http://www.britain-at-war-magazine.com/news/rocket-assisted-bomb-found-at-french-museum |archivedate=23 July 2011 }}&lt;/ref&gt;&lt;ref&gt;{{cite journal|first=Gwénaëlle |last=Lavenant|title=La bombe du blockhaus s'est envolée vers une nouvelle vie|journal=[[La Voix du Nord (daily)|La Voix du Nord]]|date=28 January 2009|url=http://www.lavoixdunord.fr/Locales/Saint_Omer/actualite/Secteur_Saint_Omer/2009/01/28/article_hier-la-bombe-du-blockhaus-s-est-envolee.shtml|accessdate=13 June 2011|language=French|quote=Après plus d'une semaine de travaux, la bombe qui était fichée dans le toit du blockhaus d'Éperlecques a été déposée à terre, hier, dans un camion de la sécurité civile, avant d'être transportée au centre de stockage de Vimy.}}&lt;/ref&gt;
+
+==See also==
+* [[Kinetic energy penetrator]],  type of ammunition without explosives that uses kinetic energy to penetrate the target.
+* [[Matra Durandal]], post–war, French,  unguided  rocket-boosted bomb, designed for use an anti–runway bomb.
+* [[Massive Ordnance Penetrator]], a 2000s bunker buster weapon of similar design and purpose.
+
+==Notes==
+{{reflist|group=Note|colwidth=33em}}
+
+==References==
+;Citations
+{{reflist|colwidth=33em}}
+;Bibliography
+{{refbegin|colwidth=33em}}
+* {{cite book|title=Comparative Test of the Effectiveness of Large Bombs against Reinforced Concrete Structures (Anglo-American Bomb Tests – Project Ruby)|publisher=US Air Force|location=Orlando, Florida|url=http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA065940&amp;Location=U2&amp;doc=GetTRDoc.pdf|author=Air Proving Ground Command Eglin Field|accessdate=9 June 2011|date=31 October 1946|ref={{harvid|Project Ruby|1946}}|quote=Running parallel with the development of large bombs was a project for obtaining high striking velocities by means of a rocket assisted 4,500-lb British bomb called the Disney. (...) As early as June 1945, the concrete V-weapon structure at Watten was used as a target.|type=Report}}
+* {{cite book|last=Bateman |first=Alex |editor=Tony Holmes |title=No 617 'Dambusters' Sqn|year=2009|publisher=Osprey|location=Oxford|isbn=978-1-84603-429-9|page=111|url=https://books.google.com/books?id=xrWf0gxb6CYC&amp;pg=PA111#v=onepage&amp;q&amp;f=false|ref=harv}}
+*{{cite book|last1=Burakowski|first1=Tadeusz|title=Rakiety i Pociski Kierowane|first2=Aleksander |last2=Sala|trans_title=Rockets and guided missiles|language=Polish|year=1960|ref=harv|publisher= Wydawnictwo Ministerstwa Obrony Narodowej (Ministry Of National Defense Publishing House)|location=Warsaw|volume=Część 1 – Zastosowania (Volume 1 – applications)|pages=556–557}} Figure 280, p.&amp;nbsp;558, provides a detailed diagram of the Disney bomb (with its internals).
+* {{cite book |last= Flower |first= Stephen |title= Barnes Wallis' Bombs: Tallboy, Dambuster &amp; Grand Slam |year= 2004|publisher=Tempus|location=Stroud |isbn= 978-0-7524-2987-8|ref=harv}}
+* {{cite book|last=Freeman|first=Roger A.|title=The Mighty Eighth War Diary|authorlink=Roger A. Freeman|year=1990|publisher=Arms and Armour Press|location=London|isbn=978-1-85409-071-3|edition=|accessdate=|ref=harv}}
+* {{cite book |title=B-17 Flying Fortress Story: Design, Production, History |last=Freeman |first=Roger A.|last2=Osbourne|first2=David|authorlink1=Roger A. Freeman|coauthors= |year=1998 |publisher=Arms and Armour Press |location=London |isbn=978-1-85409-301-1 |page= |pages= |url= |accessdate=|ref=harv}}
+* {{cite book |title=The Mighty Eighth War Manual |last=Freeman |first=Roger A.|authorlink=Roger A. Freeman |coauthors= |year=2001 |publisher=Cassell &amp; Co |location=London |isbn=978-0-304-35846-5 |page= |pages= |url= |accessdate=|ref=harv}}
+* {{cite book|last=Hecks|first=Karl|title=Bombing 1939–45 : the Air Offensive Against Land Targets in World War Two|year=1990|publisher=Hale| location=London|isbn=0-7090-4020-2|edition=|ref=harv}}
+* {{cite book|title= Project Harken –  part II Bombing and Analysis and Related Subjects. American and British Phase|publisher=US Air Force|location=Riverside, California|editor=[[March Air Force Base]]
+|url= http://handle.dtic.mil/100.2/AD080379|last=Keefer|first=I. J.|page=6|accessdate=22 June 2011|date=December 1947|ref=harv|quote=|type=Report}}
+*{{cite book|last=Johnsen|first=Frederick A.|title=Weapons of the Eighth Air Force|year=2003|publisher=MBI Publishing|location=St. Paul, MN|isbn=0-7603-1340-7|url=https://books.google.com/books?id=S5USfmKSCD4C&amp;lpg=PA45&amp;dq=%22disney%20bomb%22&amp;pg=PA45#v=onepage&amp;q&amp;f=false|accessdate=11 June 2011|page=45|ref=harv}}
+* {{cite book |title=Operations Analysis in the U.S. Army Eighth Air Force in World War I|last=McArthur |first=Charles |authorlink= |coauthors= |year=1990 |publisher=American Mathematical Soc. |location= Providence, RI |isbn=978-0-8218-0158-1 |url=https://books.google.com/books?id=AC1GlWYTe3EC&amp;pg=PA279#v=onepage&amp;q&amp;f=false|pages=279–280|accessdate=|ref=harv}}
+*{{cite book|last=Murray|first=Iain|title=Bouncing-bomb Man : the Science of Sir Barnes Wallis|year=2009|publisher=Haynes |location=Sparkford|isbn=978-1-84425-588-7|ref=harv}}
+* {{cite book | last = Terrell | first = Edward | authorlink=Edward Terrell|title = Admiralty Brief: the Story of Inventions that Contributed to Victory in the Battle of the Atlantic | publisher = Harrap | location = London| series = | year = 1958 | oclc=504731245|ref=harv}}
+* {{cite book |title=The Brotherhood of Courage: The History of the 305th Bombardment Group (H) in World War II |last=Thom |first=Walter |authorlink= |location= New York|year=1986 |publisher=W. Thom |oclc= 18702434|ref=harv}}
+* {{cite book |title=92nd Bomb Group (H): Fame's Favored Few|last=Spillman|first=Pat |chapter=The Disney Bomb Project |year=1997 |publisher=Turner Publishing Company |location=New York|isbn=978-1-56311-241-6 |page=|accessdate=|ref=harv}}
+* {{cite book |title=USSTAF Armament Memorandum|author=[[United States Strategic Air Forces in Europe]]|date=28 January 1945|pages=1–2|quote=|type=Report|volume=133–3|ref={{harvid|USSTAF Armament Memorandum|1945}}}}
+*{{cite book |last=Young|first=C.W.|title=Penetration Equations|volume=SAND94-2726|year=1997|type=Report|location=Albuquerque NM|publisher= Sandia National Laboratories|ref=harv|url=http://www.fas.org/sgp/othergov/doe/lanl/lib-www/sand/972426.pdf|quote=This is a standalone report documenting the latest version of the Young/Sandia penetration equations and related analytical techniques to predict penetration into natural earth materials and concrete.}}
+{{refend}}
+
+==Further reading==
+*{{cite book |last=Young|first=C.W.|title=The Development of Empirical Equations for Predicting Depth of an Earth Penetrating Projectile|volume=SC-DR-67-60|year=1967|type=Report |location=Albuquerque NM|publisher= Sandia National Laboratories|ref=harv}}
+* {{cite journal|last=Alekseevskii|first=V. P.|title=Penetration of a Rod into a Target at High Velocity|journal=Combustion, Explosion, and Shock Waves (Fizika Goreniya i Vzryva)|year=1966|volume=2|issue=2|pages=99–106 |doi=10.1007/BF00749237|issn=0010-5082}}
+* {{cite journal|last=Tate|first=A.|title=A Theory for the Deceleration of Long Rods After Impact |journal=Journal of the Mechanics and Physics of Solids|date=1 November 1967|volume=15|issue=6|pages=387–399|doi=10.1016/0022-5096(67)90010-5|url=http://hep.ph.liv.ac.uk/~ibailey/target/shielding/tate_1967.pdf|accessdate=23 June 2011}}
+*{{cite book|last=Bernard|first= Robert S.|title=Depth and Motion Prediction for Earth Penetrators|volume=ADA056701|year=1978|type=Report |publisher=Army Engineer Waterways Experiment Station Vicksburg|location=Vicksburg, MS|url=http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=ADA056701|ref=harv}}
+* {{cite journal|last2=Segletes|first2=Steven B.|first1=William P. |last1=Walters|title=An Exact Solution of the Long Rod Penetration Equations|journal=International Journal of Impact Engineering|year=1991|volume=11|issue=2|pages=225–231|doi=10.1016/0734-743X(91)90008-4}}
+*{{cite book|last1=Segletes|first1=Steven B.|first2=William P. |last2=Walters|title=Efficient Solution of the Long-Rod Penetration Equations of Alekseevskii-Tate|year=2002|type=Report |volume=ARL-TR-2855|publisher=Army Research Lab Aberdeen Proving Ground MD|url=http://www.arl.army.mil/arlreports/2002/ARL-TR-2855.pdf|location=Aberdeen, MD|ref=harv}}
+*{{cite journal|last1=Segletes|first1=Steven B.|first2=William P. |last2=Walters|title=Extensions to the Exact Solution of the Long-Rod Penetration/Erosion Equations|journal=International Journal of Impact Engineering|year=2003|volume=28|issue=4|pages=363–376|doi=10.1016/S0734-743X(02)00071-4|url=http://aux.ciar.org/ttk/mbt/papers/ijie00/ijie_28_363.pdf|accessdate=23 June 2011}}
+
+==External links==
+* {{YouTube|id=rL6wtVBhNnU|title=B17 having Disney Bombs Fitted 92nd Bomb Group, WW2 }}. ''A short colour clip showing a parked B-17, loaded with Disney bombs''
+* {{YouTube|id=iIhNRJGdzIk |title=The Disney bomb was used by the 92ndBomb Group in the closing months of WW2}}. ''A short colour clip showing a B-17 taking off with Disney bombs''
+*[http://www.mildenhall.af.mil/news/story.asp?id=123183828 Project Ruby – a look at RAF Mildenhall's history]
+{{Use dmy dates|date=June 2011}}
+
+{{DEFAULTSORT:Disney Bomb}}
+[[Category:World War II aerial bombs of the United Kingdom]]
+[[Category:Anti-fortification weapons]]
+[[Category:Articles containing video clips]]</text>
+      <sha1>6mzrm156el86l8mqrbsq0k6j6dn740l</sha1>
+    </revision>
+  </page>
+</mediawiki>

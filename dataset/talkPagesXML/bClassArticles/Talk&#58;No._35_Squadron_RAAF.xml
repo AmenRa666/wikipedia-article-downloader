@@ -1,0 +1,94 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:No. 35 Squadron RAAF</title>
+    <ns>1</ns>
+    <id>6210521</id>
+    <revision>
+      <id>739573592</id>
+      <parentid>739573556</parentid>
+      <timestamp>2016-09-15T14:16:12Z</timestamp>
+      <contributor>
+        <username>SineBot</username>
+        <id>4936590</id>
+      </contributor>
+      <minor/>
+      <comment>Signing comment by [[User:S6X GOD.EXE|S6X GOD.EXE]] - &quot;/* Non-combat? */&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1666">{{WPMILHIST
+|class=B
+&lt;!-- B-Class checklist --&gt;
+|B-Class-1= yes&lt;!-- 1. referencing --&gt;
+|B-Class-2= yes&lt;!-- 2. coverage --&gt;
+|B-Class-3= yes&lt;!-- 3. structure --&gt;
+|B-Class-4= yes&lt;!-- 4. grammar --&gt;
+|B-Class-5= yes&lt;!-- 5. supporting materials --&gt;
+&lt;!-- Task forces (general topics) --&gt;
+|Australian=yes
+|WWII=yes
+|Aviation=yes
+|Cold-war=yes
+}}
+
+== Non-combat?== 
+Why do we say, under &quot;Vietnam and after&quot;: &quot;Despite not being employed in an offensive role....&quot;?
+The official roles were (DEPARTMENT OF AIR ORGANIZATION DIRECTIVE NO 5/64):
+
+9. The primary task of the Flight is to co-operate with the United States Forces in the operation of a Combined South East Asia Airlift System. The Flight will operate in the short range transport role and may be employed on the following tasks:-
+(a) trooping,
+(b) supply transport,
+(c) supply dropping,
+(d) para dropping,
+(e) communications, and
+(f) medical evacuation.
+
+To these, in practice, may be added flare dropping and combat assault, altho' the latter is probably covered by &quot;trooping&quot;. So a. and c., plus the flare dropping, were, in my somewhat educated opinion &quot;offensive&quot;. Subject to further discussion, I'll rewrite this para in a couple of weeks.[[User:Lexysexy|Lexysexy]] ([[User talk:Lexysexy|talk]]) 06:40, 15 January 2013 (UTC)
+
+Just to add on, where is this information being provided from.  &lt;!-- Template:Unsigned --&gt;&lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:S6X GOD.EXE|S6X GOD.EXE]] ([[User talk:S6X GOD.EXE#top|talk]] • [[Special:Contributions/S6X GOD.EXE|contribs]]) 14:15, 15 September 2016 (UTC)&lt;/span&gt;&lt;/small&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>ncdp3z1acgstlu6xtjoz3ndq9r15owk</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,247 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tucker-class destroyer</title>
+    <ns>0</ns>
+    <id>1621200</id>
+    <revision>
+      <id>740838944</id>
+      <parentid>710537404</parentid>
+      <timestamp>2016-09-23T16:43:07Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: WWIUSShips → WWI US ships using [[Project:AWB|AWB]] (12084)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="35086">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USCGC Tucker (CG-23).jpg|300px|[[Lead ship]] {{USS|Tucker|DD-57|2}} in [[United States Coast Guard]] service, c. 1926–1933]]
+|Ship caption=[[Lead ship]] {{USS|Tucker|DD-57|2}} in [[United States Coast Guard]] service, c. 1926–1933
+}}
+{{Infobox ship class overview
+|Name=''Tucker''-class destroyer
+|Builders=
+* [[Bath Iron Works]] (1)
+* [[Fore River Shipbuilding Company]] (1)
+* [[New York Shipbuilding Corporation]] (2)
+* [[William Cramp and Sons]] (2)
+
+|Operators=
+* {{navy|United States|1912}}
+* {{navy|United States|coast guard}}
+
+|Class before={{sclass-|O'Brien|destroyer|4}}
+|Class after={{sclass-|Sampson|destroyer|4}}
+|Built range=1914–1916
+|In commission range=*U.S. Navy: 1916–1922
+*U.S. Coast Guard: 1924–1934
+|Total ships planned=6
+|Total ships completed=6
+|Total ships lost=1
+|Total ships retired=5
+|Total ships scrapped=5
+}}
+{{Infobox ship characteristics
+|Ship type=[[Destroyer]]
+|Ship displacement=*{{convert|1090|LT|MT}} [DD-61, -62: 1150 long tons; DD-60: 1060 long tons] (normal)&lt;ref name=Con-122 /&gt;
+*{{convert|1205|LT|MT}} (full)
+|Ship length={{convert|315|ft|3|in|m|abbr=on}} ([[length overall|oa]])
+|Ship beam={{convert|30|ft|6|in|m|abbr=on}} [DD-57, -60, -62: 29 ft 11 in]&lt;ref name=Con-122 /&gt;
+|Ship draft=*{{convert|9|ft|4|in|m|abbr=on}} [DD-60: 9 ft 2 in; DD-61: 9 ft 8 in] (normal)&lt;ref name=Con-122 /&gt;
+*{{convert|10|ft|5|in|m|abbr=on}} (max)&lt;ref name=Bauer-171 /&gt;
+|Ship propulsion=*4 [[Yarrow boiler]]s
+*2 × [[direct drive]] [[steam turbine]]s, 1 × [[gear]]ed cruising turbine [DD-60: 2 × geared steam turbines]&lt;ref name=Bauer-171 /&gt;
+*2 × [[propeller shaft (ship)|shafts]]
+*{{convert|17000|shp|abbr=on}} [DD-58, -59: 18,000 shp; DD-60: 17,500 shp]&lt;ref name=Con-122 /&gt;
+|Ship speed={{convert|29.5|knots|km/h}}
+|Ship endurance={{endurance|2500|nmi|km|20|knots|km/h|sep=at}}&lt;ref name=Friedman-29-31 /&gt;
+|Ship complement=99
+|Ship armament=*4 × [[4&quot;/50 caliber gun|{{convert|4|in|mm|abbr=on|0}}/50 caliber guns]]
+*8 × {{convert|21|in|mm|0|abbr=on}} [[torpedo tube]]s (4 × 2), 8 [[torpedo]]es
+|Ship notes=
+}}
+|}
+The '''''Tucker'' class''' of [[destroyer]]s was a [[ship class]] of six ships designed by and built for the [[United States Navy]] shortly before the United States entered [[World War I]]. The ''Tucker'' class was the fourth of five classes of destroyers that were known as the &quot;thousand tonners&quot;, because they were the first U.S. destroyers over {{convert|1000|LT|MT|0}} [[displacement (ship)|displacement]].
+
+The design of what became the ''Tucker'' class was the result of compromises between the [[General Board of the United States Navy]] and the U.S. Navy's [[Bureau of Construction and Repair]]. The General Board, tasked with creating an integrated battle fleet, wanted a larger ship that could serve in a [[reconnaissance|scouting]] role and proposed a ship larger than the unique British destroyer {{HMS|Swift|1907|6}} of 1907, and more than twice the displacement of any previous U.S. destroyer. Input from Construction and Repair resulted in a design that was an incremental development of the {{sclass|O'Brien|destroyer|4}}, which itself was similar to the first of the thousand tonners, the {{sclass|Cassin|destroyer|4}} (which displaced about a third more than the preceding {{sclass|Paulding|destroyer|4}}).
+
+The ships were built by four private American shipyards—[[Bath Iron Works]], [[Fore River Shipbuilding Company]], [[New York Shipbuilding Corporation]], and [[William Cramp and Sons]]—and were [[keel laying|laid down]] between February and November 1914; [[launch (ship)|launch]]ed between April and July 1915; and [[commission (ship)|commission]]ed into the U.S. Navy between July 1915 and May 1916. The ships had a median displacement of {{convert|1060|LT|MT}}, were just over {{convert|315|ft|m}} in length, and had a [[beam (nautical)|beam]] of about {{convert|30|ft|m}}. Most of the ships had two direct-drive [[steam turbine]]s and a single geared cruising turbine; {{USS|Wadsworth|DD-60|2}} was equipped with two geared steam turbines only and, as the first U.S. destroyer so equipped, greatly influenced later U.S. Navy destroyer designs.&lt;ref name=Con-122 /&gt; All of the ships were designed for a maximum speed of {{convert|29.5|knots|km/h|lk=in}} and a range of {{convert|2500|nmi|km|lk=in}} at more economical speeds. As built, they were armed with four {{convert|4|in|cm|adj=on}} guns and had four twin {{convert|21|in|mm|adj=on}} [[torpedo tube]]s with a load of eight [[torpedo]]es, but all were later equipped with [[depth charge]]s.
+
+All six ships operated in the Atlantic or Caribbean until the U.S. entrance into World War I in April 1917, when all six were sent overseas to [[Queenstown, Ireland]], for [[U-boat Campaign (World War I)|convoy escort]] duties. Several of the ships rescued passengers and crew from ships sunk by U-boats, and several had encounters with U-boats themselves; {{USS|Jacob Jones|DD-61|2}} was torpedoed and sunk by {{SMU|U-58||2}} in December 1917. All five surviving members of the class had returned to the United States by early 1919 and been [[decommission (ship)|decommissioned]] by June 1922. Between 1924 and 1926, four of the five (all but ''Wadsworth'') were commissioned into the [[United States Coast Guard]] to help enforce [[Prohibition in the United States|Prohibition]] as a part of the &quot;[[Rum Patrol]]&quot;. They were returned to U.S. Navy custody between 1934 and 1936, and had all been sold for [[ship breaking|scrapping]] by 1936.
+
+== Background ==
+In September 1912, the [[General Board of the United States Navy]] asked the Navy's [[Bureau of Construction and Repair]] (C&amp;R) to develop plans for the next class of destroyers. The General Board asked for a design with four {{convert|4|in|mm|0|adj=on}} guns, six twin {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s, and twenty [[naval mine|floating mines]], that could travel at up to {{convert|35|knots|km/h}} with steaming radius of {{endurance|2500|nmi|km|20|knots|km/h|sep=at}}.&lt;ref name=Friedman-29-31&gt;Friedman, pp. 29, 31.&lt;/ref&gt; C&amp;R came back with a design for a {{convert|385|ft|m|adj=on}} long, {{convert|2160|LT|MT|adj=on}} [[displacement (ship)|displacement]], triple-[[screw propeller|screw]] &quot;super-destroyer&quot; requiring {{convert|40000|shp}} to make the design speed of {{convert|35|kn|km/h}}.&lt;ref name=Friedman-31&gt;Friedman, p. 31.&lt;/ref&gt; The C&amp;R design was similar to, but larger than the unique British destroyer {{HMS|Swift|1907|6}} of 1907,&lt;ref name=Friedman-31 /&gt; and more than twice the displacement of the largest U.S. destroyers.&lt;ref name=Con-122&gt;Gardiner, p. 122.&lt;/ref&gt;&lt;ref group=Note&gt;The {{sclass-|Cassin|destroyer|1}}s then under construction had a displacement of {{convert|1010|LT|MT}}.&lt;/ref&gt;
+
+The General Board, whose main concern was the integrated operation of the United States [[:wikt:battle fleet|battle fleet]],&lt;ref name=Friedman-28&gt;Friedman, p. 28.&lt;/ref&gt; pushed for the design to provide more [[reconnaissance|scouting]] capabilities for fleet operations.&lt;ref name=Friedman-29&gt;Friedman, p. 29.&lt;/ref&gt; But the high cost of the design—$1,900,000 for hull and machinery vs. $790,000 for the {{sclass-|O'Brien|destroyer|0}} ships—and the lack of operating experience with the {{sclass-|Cassin|destroyer|4}}&lt;ref name=Con-122 /&gt;—the first of the &quot;thousand tonners&quot; (destroyers exceeding {{convert|1000|LT|MT|-1}} [[displacement (ship)|displacement]]) which were just beginning to be launched—caused C&amp;R to resist the much larger design.&lt;ref name=Friedman-31 /&gt; The Chief Constructor of the Navy, the head of C&amp;R, pointed out that the British had not repeated the ''Swift'' design in the five years since her introduction, and noted that &quot;a destroyer that gets too large loses many of the desirable features of the type&quot;.&lt;ref name=Friedman-31 /&gt;
+
+In November 1912, the General Board offered several alternatives to reduce the size of the destroyer, and was convinced by C&amp;R that the most practical solution was a design that shared much with the ''O'Brien'' class: matching that class' main battery and torpedo load but with a design speed of {{convert|29.5|knots|km/h}} and the desired {{convert|2500|nmi|km|adj=on}} steaming radius. The General Board also specified that the ships be equipped with &quot;two aeroplane guns, if they can be developed and installed&quot;, have provisions for laying thirty-six mines, and a strengthened bow for [[ramming#Sea warfare|ramming]]. The C&amp;R design for the ''Tucker'' class, DD-57 through DD-62,&lt;ref name=hull-note group=Note&gt;Although the [[United States Navy]]'s [[hull classification symbol|hull classification system]] in which destroyers were assigned the hull code of ''DD'' was not adopted until July 1920, most sources retroactively apply the numbering system. So, for example, the [[lead ship]] of the class is referred to in sources as {{USS|Tucker|DD-57|3}} rather than as ''Tucker'' (Destroyer No. 57), even though the latter name is the one she was known by throughout most of her U.S. Navy career. Similarly, because {{USS|Jacob Jones|DD-61|2}} was sunk in 1917, she was never known by ''DD-61'' while afloat, but is referred to by that hull code in sources.&lt;/ref&gt; was approved by the [[Secretary of the Navy (United States)|Secretary of the Navy]] in December 1912, and authorized by [[Congress (United States)|Congress]] in 1913.&lt;ref name=Con-122 /&gt;
+
+== Design ==
+As built, the ''Tucker''-class ships were {{convert|315|ft|3|in}} in length ([[length overall|overall]]), were between {{convert|29|ft|9|in|m}} and {{convert|30|ft|6|in|m}} [[abeam]], and had a median [[draft (ship)|draft]] of {{convert|9|ft|4|in|m}}. The hull shape featured the distinctive high forecastle typical of U.S. destroyer classes since the 1908–09 {{sclass-|Smith|destroyer|4}}, the first destroyers designed to be truly ocean-going vessels.&lt;ref name=Con-121&gt;Gardiner, p. 121.&lt;/ref&gt; The ships [[displace (ship)|displace]]d between {{convert|1060|and|1150|LT|MT}} with a median of {{convert|1060|LT|MT}}.&lt;ref name=Bauer-171 /&gt;
+
+The ships were equipped with two [[propeller shaft (ship)|propeller shaft]]s and two Curtis [[steam turbine]]s fed by four [[Yarrow boiler]]s, providing a minimum of {{convert|17000|shp}} to achieve the design speed of {{convert|29.5|kn|km/h}}.&lt;ref name=Con-123&gt;Gardiner, p. 123.&lt;/ref&gt; For all of the ships except {{USS|Wadsworth|DD-60|2}}, the pair of main turbines was supplemented with a cruising turbine geared to one of the shafts.&lt;ref name=Con-123 /&gt; ''Wadsworth'' had no cruising turbines, but instead had her twin turbines geared directly to the propeller shafts—the first American destroyer so outfitted.&lt;ref name=Friedman-29 /&gt; She served as a testbed,&lt;ref name=Friedman-29 /&gt; and had a considerable effect on U.S. destroyer design after her trials in July 1915.&lt;!-- date of trials --&gt;&lt;ref name=Friedman-29 /&gt;&lt;ref name=Con-123 /&gt;&lt;!-- considerable effect --&gt;
+
+The main [[artillery battery|battery]] of the ''Tucker'' class consisted of four {{convert|4|in|mm|adj=on}}/50 Mark 9 guns,&lt;!-- number, size --&gt;&lt;ref name=Con-123 /&gt;&lt;ref name=NavWeaps-4in&gt;{{cite web | last = DiGiulian | first = Tony | title = United States of America: 4&quot;/50 (10.2 cm) Marks 7, 8, 9 and 10 | url = http://www.navweaps.com/Weapons/WNUS_4-50_mk9.htm | work = Naval Weapons of the World | publisher = Navweaps.com | date = 15 August 2008 | accessdate = 6 May 2009 }}&lt;/ref&gt;&lt;!-- calibers --&gt;&lt;ref group=Note&gt;The ''50'' denotes the length of the gun barrels; in this case, the gun is 50 [[calibers#Caliber as measurement of length|calibers]], meaning that the gun is 50 times as long as it is in diameter, {{convert|200|in|m}} in this case. The Mark number is the version of the gun; in this case, the ninth U.S. Navy design of the 4-inch/50 gun.&lt;/ref&gt; with each gun weighing in excess of {{convert|6100|lbs|kg}}.&lt;ref name=NavWeaps-4in /&gt; The guns fired {{convert|33|lbs|kg|adj=on}} [[armor-piercing shot and shell|armor-piercing]] [[projectile]]s at {{convert|2900|ft/s|m/s}}. At an [[elevation (ballistics)|elevation]] of 20°, the guns had a range of {{convert|15920|yards|m}}.&lt;ref name=NavWeaps-4in /&gt;
+
+The ''Tucker'' class was also equipped with four twin {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s, for a total load of eight [[Mark 8 torpedo]]es. Although the General Board had called for two [[anti-aircraft warfare|anti-aircraft guns]] for the ''Tucker'' class, they were not originally outfitted with the weapons; the {{sclass|Sampson|destroyer|4}} was the first American destroyer class so armed.&lt;ref name=Friedman-31 /&gt; Likewise, there is no record of any of the ''Tucker'' ships being outfitted with mine-laying apparatus. During World War I, most American destroyers were used in [[anti-submarine warfare]] roles, and were equipped with [[depth charge]]s and delivery systems, such as [[Y-gun]]s and depth charge racks.&lt;ref name=Con-121&gt;Gardiner, p. 121.&lt;/ref&gt; ''Tucker''-class ships were equipped with depth charges during the war,&lt;ref name=DANFS-all_six /&gt; but no specific mentions of the types of depth charges used or delivery system are recorded in available sources.&lt;ref name=Bauer-171 /&gt;&lt;ref name=Con-123 /&gt;
+
+[[File:Rum Patrol ships Tucker and Cassin.jpg|thumb|left|{{USS|Tucker|DD-57|2}} ''(left)'' and {{USS|Cassin|DD-43|2}}, the [[lead ship]]s of their respective classes, show the design similarities between the {{sclass|Cassin|destroyer|5}} and ''Tucker'' classes.]]
+
+=== Comparisons with other &quot;thousand tonners&quot; ===
+The &quot;thousand tonners&quot; were the 26 United States Navy destroyers of five classes—''Cassin'', {{sclass|Aylwin|destroyer|5}}, ''O'Brien'', ''Tucker'', and ''Sampson''—so named because they were the first U.S. Navy destroyers to have displacements greater than 1,000 long tons&lt;!-- not converted since it's converted in previous paragraph --&gt;.&lt;ref name=Con-122-123&gt;Gardiner, pp. 122–23.&lt;/ref&gt;&lt;ref group=Note&gt;The {{sclass|Aylwin|destroyer|4}} is considered a part of the {{sclass|Cassin|destroyer|4}} by ''Conway's All the World's Fighting Ships, 1906–1921'' (p. 122), but is classed separately by the United States Navy. See, for example, {{cite DANFS | author = [[Naval History &amp; Heritage Command]] | url = http://www.history.navy.mil/danfs/a15/aylwin-ii.htm | title = Aylwin }}&lt;/ref&gt; The ''Cassin'' class, the first of the thousand tonners, displaced about a third more than the preceding {{sclass-|Paulding|destroyer|4}}.&lt;ref name=Con-122-123 /&gt; The introduction of the thousand tonners led to the ''Paulding''s and other older, smaller displacement destroyers of previous classes to be dismissively called &quot;flivvers&quot;,&lt;ref name=Con-121 /&gt; a nickname also commonly applied to the [[Ford Model T]].&lt;ref&gt;Cashman, p. 278.&lt;/ref&gt;&lt;ref group=Note&gt;According to Cashman (p. 278), a flivver—a [[portmanteau]] of &quot;for the liver&quot;—was any small, inexpensive automobile that shook the liver while in motion.&lt;/ref&gt;
+
+The ''Tucker'' class was the fourth of the five classes of &quot;thousand tonners&quot;. The earlier ''Cassin''- (DD-43 to DD-46), ''Aylwin''- (DD-47 to DD-50) and ''O'Brien''-class (DD-51 to DD-56) ships were about {{convert|10|ft|m}} shorter than the ''Tucker'' ships and had a lower displacement, between {{convert|40|and|80|LT|MT|0}} less than the median displacement of the ''Tucker''s; the later ''Sampson''-class (DD-63 to DD-68) ships were the same length and displaced {{convert|10|LT|MT|0}} more. All five classes were armed with four {{convert|4|in|mm|0|adj=on}} guns, but the torpedo size and complement varied. All were equipped with four twin [[torpedo tube]]s loaded with eight [[torpedo]]es except for the ''Sampson''s (which had four triple tubes carrying twelve torpedoes), but the ''Cassin''  and ''Aylwin'' classes were armed with {{convert|18|in|mm|0|adj=on}} torpedoes; the rest with {{convert|21|in|mm|0|adj=on}} torpedoes. The ''Sampson''s were the only group originally equipped with [[anti-aircraft warfare|anti-aircraft guns]], a pair of [[QF 1 pounder pom-pom|{{convert|1|pdr|adj=on}} guns]] with a [[caliber#Firearms|caliber]] of {{convert|37|mm|in|2|abbr=on}}.&lt;ref name=Con-122-123 /&gt;
+
+== Construction ==
+[[File:USS Tucker (DD-57), under construction January 1915.jpg|thumb|right|{{USS|Tucker|DD-57|2}} under construction at the [[Fore River Shipbuilding Company]] on 1 January 1915.]] 
+The construction of the six ''Tucker''-class ships was allocated to four U.S. shipbuilders. The [[Fore River Shipbuilding Company]] and [[Bath Iron Works]] built one ship each, while [[William Cramp and Sons|William Cramp]] and [[New York Shipbuilding Corporation|New York Shipbuilding]] each constructed a pair of ''Tucker'' destroyers.&lt;ref name=Con-123&gt;Gardiner, p. 123.&lt;/ref&gt; The [[keel]]s for all six ships were [[keel laying|laid down]] between February and November 1914, with ''Wadsworth'' being the first and {{USS|Tucker|DD-57|2}} the last.&lt;ref name=Bauer-171&gt;Bauer and Roberts, p. 171.&lt;/ref&gt; All were [[launch (ship)|launch]]ed between April and July 1915, with ''Wadsworth'' again being the first and {{USS|Porter|DD-59|2}} being the last.&lt;ref name=Con-123 /&gt; ''Wadsworth'' was [[commission (ship)|commission]]ed in July 1915, three months after her launch; the rest were commissioned between January and May 1916, with {{USS|Wainwright|DD-62|2}} the final ship to enter service.&lt;ref name=Bauer-171 /&gt;
+
+==Ships in class==
+All six members of the class served in the Atlantic throughout their U.S. Navy careers, and all were sent overseas to [[Queenstown, Ireland]], for convoy escort and [[anti-submarine warfare|anti-submarine]] duties after the United States entered World War I in April 1917.&lt;ref name=DANFS-all_six&gt;[[Naval History &amp; Heritage Command]]. [http://www.history.navy.mil/danfs/c13/conyngham-i.htm &quot;''Conyngham''&quot;], [http://www.history.navy.mil/danfs/j1/jacob_jones-i.htm &quot;''Jacob Jones''&quot;], [http://www.history.navy.mil/danfs/p10/porter-ii.htm &quot;''Porter''&quot;], [http://www.history.navy.mil/danfs/t9/tucker-i.htm &quot;''Tucker''&quot;], [http://www.history.navy.mil/danfs/w1/wadsworth-i.htm &quot;''Wadsworth''&quot;], [http://www.history.navy.mil/danfs/w1/wainwright-i.htm &quot;''Wainwright''&quot;]. ''[[Dictionary of American Naval Fighting Ships]] ''(''DANFS&lt;span style=&quot;padding-left:0.1em;&quot;&gt;''). Retrieved on 6 May 2009.&lt;/ref&gt; {{USS|Conyngham|DD-58|2}}, ''Porter'', ''Wadsworth'', and ''Wainwright'' were in the first group of six American destroyers, arriving at Queenstown on 4 May;&lt;ref name=DANFS-first_four&gt;Naval History &amp; Heritage Command. [http://www.history.navy.mil/danfs/c13/conyngham-i.htm &quot;''Conyngham''&quot;], [http://www.history.navy.mil/danfs/p10/porter-ii.htm &quot;''Porter''&quot;], [http://www.history.navy.mil/danfs/w1/wadsworth-i.htm &quot;''Wadsworth''&quot;], [http://www.history.navy.mil/danfs/w1/wainwright-i.htm &quot;''Wainwright''&quot;]. ''DANFS''. Retrieved on 6 May 2009.&lt;/ref&gt; ''Tucker'' and {{USS|Jacob Jones|DD-61|2}} followed as part of the second group, which arrived thirteen days later.&lt;ref name=DANFS-last_two&gt;Naval History &amp; Heritage Command. [http://www.history.navy.mil/danfs/j1/jacob_jones-i.htm &quot;''Jacob Jones''&quot;], [http://www.history.navy.mil/danfs/t9/tucker-i.htm &quot;''Tucker''&quot;]. ''DANFS''. Retrieved on 6 May 2009.&lt;/ref&gt; Several of the ships had encounters with U-boats during the war: ''Conyngham''{{'}}s commander was commended for what was thought a probable &quot;kill&quot; of one U-boat;&lt;ref name=DANFS-Conyngham&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/c13/conyngham-i.htm | title = Conyngham | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt; ''Jacob Jones'' was sunk by {{SMU|U-53||2}} in December 1917.&lt;ref name=DANFS-Jacob-Jones&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/j1/jacob_jones-i.htm | title = Jacob Jones | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt; All surviving ships of the class had returned to the United States by early 1919 and served in various roles over the next two years.&lt;ref name=DANFS-all_six /&gt; ''Tucker'' was [[decommission (ship)|decommissioned]] in May 1921, followed by ''Wainwright'' in May 1922, and the remaining three in June 1922.&lt;ref name=Bauer-171 /&gt;
+
+Between 1924 and 1926, four of the five ships—''Conyngham'' and ''Porter'' in 1924, ''Tucker'' and ''Wainwright'' in 1926—were reactivated for service with the [[United States Coast Guard]]'s &quot;[[Rum Patrol]]&quot;. All were returned to the U.S. Navy in 1933 with the exception of ''Tucker'', which followed in 1934. ''Conyngham'', ''Porter'', and ''Wainwright'' were sold for [[ship breaking|scrapping]] in 1934; the other two in 1936.&lt;ref name=Bauer-171 /&gt;
+
+=== USS ''Tucker'' (DD-57) ===
+[[File:USSTuckerDD57.jpg|thumb|{{USS|Tucker|DD-57|2}} in [[United States Coast Guard]] service, c. 1926–1933]]
+{{main article|USS Tucker (DD-57)}}
+USS ''Tucker'' (DD-57), the [[lead ship]] of the class, was [[keel laying|laid down]] by the [[Fore River Shipbuilding Company]] of [[Quincy, Massachusetts]], in November 1914 and [[launch (ship)|launch]]ed in May 1915. She was the first U.S. Navy vessel named for [[Samuel Tucker]].
+
+After her April 1916 [[commission (ship)|commission]]ing, ''Tucker'' sailed off the [[East Coast of the United States|east coast]] and in the [[Caribbean]]. After the United States entered World War I in April 1917, ''Tucker'' was part of the second U.S. destroyer squadron sent overseas. Patrolling the [[Irish Sea]] out of [[Queenstown, Ireland]], ''Tucker'' made several rescues of passengers and crew from ships sunk by U-boats. For her part in rescuing crewmen from the [[French armoured cruiser Dupetit-Thouars (1901)|''Dupetit-Thouars'']] in August 1918, ''Tucker'' received a commendation from the ''[[Préfet Maritime]]''. In June, ''Tucker'' was transferred to [[Brest, France]], and spent the remainder of the war there.&lt;ref name=DANFS-Tucker&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/t9/tucker-i.htm | title = Tucker | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt;
+
+Upon returning to the United State near the end of 1918, ''Tucker'' underwent repairs at the [[Boston Navy Yard]]. After a [[New England]] recruiting tour through October 1919, she was placed in reduced commission and then [[decommission (ship)|decommission]]ed in May 1921. In March 1926, ''Tucker'' was transferred to the [[United States Coast Guard]] to help enforce [[Prohibition in the United States|Prohibition]] as a part of the &quot;[[Rum Patrol]]&quot;. She operated under the name USCGC ''Tucker'' (CG-23) until 1933; during her Coast Guard service, she was the first American ship to arrive at the crash site of Navy airship {{USS|Akron|ZRS-4|2}}. After her transfer back to the Navy later in 1933, the ship was renamed ''DD-57'' to free the name ''Tucker'' for [[USS Tucker (DD-374)|another destroyer]]. She was sold for scrap and hulked in December 1936.&lt;ref name=DANFS-Tucker /&gt;
+
+=== USS ''Conyngham'' (DD-58) ===
+[[File:USS Conyngham (DD-58).jpg|thumb|{{USS|Conyngham|DD-58|2}} in [[dazzle camouflage]], c. 1918]]
+{{main article|USS Conyngham (DD-58)}}
+USS ''Conyngham'' (DD-58) was laid down by the [[William Cramp and Sons]] of [[Philadelphia, Pennsylvania|Philadelphia]] in July 1914 and launched in July of the following year. She was the first U.S. Navy vessel named for [[Gustavus Conyngham]].
+
+After her January 1916 commissioning, ''Conyngham'' sailed off the east coast and in the Caribbean. After the United States entered World War I in April 1917, ''Conyngham'' was part of the first U.S. destroyer squadron sent overseas. Patrolling the Irish Sea out of Queenstown, Ireland, ''Conyngham'' made several rescues of passengers and crew from ships sunk by U-boats. ''Conyngham''{{'}}s commander was commended for actions related to what was thought at the time to be a &quot;probable&quot; kill of a German submarine.&lt;ref name=DANFS-Conyngham /&gt;
+
+Upon returning to the United State in December 1918, ''Conyngham'' underwent repairs at the [[Boston Navy Yard]]. She remained there in reduced commission through 1921, with only brief episodes of activity. After returning to active service for about a year, she was decommissioned in June 1922. In June 1924, ''Conyngham'' was transferred to the United States Coast Guard to help enforce Prohibition as a part of the &quot;Rum Patrol&quot;. She operated under the name USCGC ''Conyngham'' (CG-2) until 1933, when she was returned to the Navy. Later that year, the ship was renamed ''DD-58'' to free the name ''Conyngham'' for [[USS Conyngham (DD-371)|another destroyer]]. She was sold for scrap in August 1934.&lt;ref name=DANFS-Conyngham /&gt;
+
+=== USS ''Porter'' (DD-59) ===
+[[File:USS Porter (DD-59) cropped.jpg|thumb|{{USS|Porter|DD-59|2}} during trials, 1916]]
+{{main article|USS Porter (DD-59)}}
+USS ''Porter'' (DD-59) was laid down by the William Cramp and Sons of Philadelphia in August 1914 and launched in August of the following year. She was the second U.S. Navy vessel named in honor of both [[David Porter (naval officer)|David Porter]] and his son [[David Dixon Porter]].
+
+After her April 1916 commissioning, ''Porter'' conducted her [[shakedown cruise (ship)|shakedown cruise]] in the Caribbean. After the United States entered World War I in April 1917, ''Porter'' was part of the first U.S. destroyer squadron sent overseas. Patrolling the Irish Sea out of Queenstown, Ireland, ''Porter'' severely damaged the German submarine {{SMU|U-108||2}} in April 1918.&lt;ref name=DANFS-Porter&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/p10/porter-ii.htm | title = Porter | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt;
+		
+Upon returning to the United States after the war, ''Porter'' operated off the east coast until she was decommissioned in June 1922. In June 1924, ''Porter'' was transferred to the United States Coast Guard to help enforce Prohibition as a part of the &quot;Rum Patrol&quot;. She operated under the name USCGC ''Porter'' (CG-7) until 1933, when she was returned to the Navy. Later that year, the ship was renamed ''DD-59'' to free the name ''Porter'' for [[USS Porter (DD-356)|another destroyer]]. She was sold for scrap in August 1934.&lt;ref name=DANFS-Porter /&gt;
+
+=== USS ''Wadsworth'' (DD-60) ===
+[[File:USSWadsworthDD60 cropped.jpg|thumb|{{USS|Wadsworth|DD-60|2}}, c. 1917–1918]]
+{{main article|USS Wadsworth (DD-60)}}
+USS ''Wadsworth'' (DD-60) was laid down by the [[Bath Iron Works]] of [[Bath, Maine]], in February 1914 and launched in April 1915. She was the first U.S. Navy vessel named for [[Alexander S. Wadsworth|Alexander Scammel Wadsworth]].&lt;ref name=DANFS-Wadsworth /&gt; ''Wadsworth''{{'}}s geared [[steam turbine]] power plant was a successful prototype that greatly influenced U.S. destroyer designs after 1915.&lt;ref name=Con-123 /&gt;
+
+After her July 1915 commissioning, ''Wadsworth'' served on the [[neutrality patrol]] off the east coast and in the Caribbean. After the United States entered World War I in April 1917, ''Wadsworth'' was the [[flagship]] of the first U.S. destroyer squadron sent overseas. Patrolling the Irish Sea out of Queenstown, Ireland, ''Wadsworth'' reported several encounters with U-boats in the first months overseas. She was transferred to Brest, France, in March 1918, and spent the remainder of the war there.&lt;ref name=DANFS-Wadsworth&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/w1/wadsworth-i.htm | title = Wadsworth | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt;
+
+Upon returning to the United State at the end of 1918, ''Wadsworth'' underwent a five-month overhaul. She served as a plane guard for the Navy's transatlantic flight attempt by four Navy-Curtiss flying boats in May. After two years in reduced commission in August, ''Wadsworth'' was reactivated in May 1921. She was decommissioned in June 1922, and spent nearly 14 years in reserve at the [[Philadelphia Navy Yard]]. She was struck from the [[Naval Vessel Register]] in January 1936, sold in June, and scrapped in August.&lt;ref name=DANFS-Wadsworth /&gt;
+
+=== USS ''Jacob Jones'' (DD-61) ===
+[[File:USS Jacob Jones (DD-61).jpg|thumb|{{USS|Jacob Jones|DD-61|2}} underway, 1916]]
+{{main article|USS Jacob Jones (DD-61)}}
+USS ''Jacob Jones'' (DD-61)&lt;ref name=hull-note group=Note /&gt; was laid down by the [[New York Shipbuilding Corporation|New York Shipbuilding]] of [[Camden, New Jersey]], in August 1914 and launched in May of the following year. She was the first U.S. Navy vessel named in honor of [[Jacob Jones]].
+
+After her February 1916 commissioning, ''Jacob Jones'' conducted patrols off the New England coast. After the United States entered World War I in April 1917, ''Jacob Jones'' was sent overseas. Patrolling the Irish Sea out of Queenstown, Ireland, ''Jacob Jones'' rescued the survivors of several ships, notably picking up over 300 from the sunken [[armed merchant cruiser]] {{SS|Orama||2}}.&lt;ref name=DANFS-Jacob-Jones /&gt;
+
+On 6 December, ''Jacob Jones'' was steaming independently from Brest, France, for Queenstown, when she was torpedoed and sunk by German submarine {{SMU|U-53||2}} with the loss of 66 officers and men, becoming the first United States destroyer to ever be sunk by enemy action, and the only destroyer lost to the enemy by the US Navy in World War I.&lt;ref name=NavSrc&gt;{{cite web | last = Willshaw | first = Fred | title = USS Jacob Jones (DD-61) | url = http://www.navsource.org/archives/05/061.htm | work = Destroyer Archive | publisher = NavSource Naval History | year = 2009 | accessdate = 6 May 2009 }}&lt;/ref&gt; ''Jacob Jones'' sank in eight minutes without issuing a distress call; the German submarine commander, ''[[Kapitänleutnant]]'' [[Hans Rose]], after rescuing two badly injured ''Jacob Jones'' crewmen, radioed the American base at Queenstown with the coordinates for the survivors before leaving the area.&lt;ref name=DANFS-Jacob-Jones /&gt;
+
+=== USS ''Wainwright'' (DD-62) ===
+[[File:USS Wainwright (DD-62).jpg|thumb|{{USS|Wainwright|DD-62|2}}, c. 1916–1922]]
+{{main article|USS Wainwright (DD-62)}}
+USS ''Wainwright'' (DD-62) was laid down by the New York Shipbuilding of Camden, New Jersey, in September 1914 and launched in June of the following year. She was the first U.S. Navy vessel named in honor of U.S. Navy officers [[Jonathan Wainwright (naval officer)|Jonathan Wainwright]] and [[Jonathan Wainwright, Jr.]] (father and son), and Commander [[Richard Wainwright (naval officer, Civil War)|Richard Wainwright]] (cousin of the elder Jonathan).
+
+After her May 1916 commissioning, ''Wainwright'' sailed off the east coast and in the Caribbean. After the United States entered World War I in April 1917, ''Wainwright'' was part of the first U.S. destroyer squadron sent overseas. Patrolling the Irish Sea out of Queenstown, Ireland, ''Wainwright'' made several unsuccessful attacks on U-boats, and rescued survivors of several ships sunk by the German craft.&lt;ref name=DANFS-Wainwright&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/w1/wainwright-i.htm | title = Wainwright | short = on | accessdate = 6 May 2009 | link = off }}&lt;/ref&gt;
+
+Upon returning to the United State after the war, ''Wainwright'' resumed operations with the destroyers of the [[United States Atlantic Fleet|Atlantic Fleet]] until May 1922, when she was decommissioned. In April 1926, ''Wainwright'' was transferred to the United States Coast Guard to help enforce Prohibition as a part of the &quot;Rum Patrol&quot;. She operated under the name USCGC ''Wainwright'' (CG-24) until April 1934, when she was returned to the Navy. She was sold for scrap in August 1934.&lt;ref name=DANFS-Wainwright /&gt;
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{Reflist|30em}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last1 = Bauer | first1 = K. Jack | authorlink = K. Jack Bauer | last2 = Roberts | first2 = Stephen S. | authorlink2 = Stephen S. Roberts | title = Register of Ships of the U.S. Navy, 1775–1990: Major Combatants | location = New York | publisher = [[Greenwood Press]] | year = 1991 | isbn = 978-0-313-26202-9 | oclc = 24010356 }}
+* {{cite book | last = Cashman | first = Sean Dennis | title = America in the Age of the Titans: The Progressive Era and World War I | location = New York | publisher = New York University Press | year = 1988 | isbn = 978-0-8147-1411-9 | oclc = 17234055 }}
+* {{cite book | last = Friedman | first = Norman | title = U.S. destroyers: An Illustrated Design History | location = [[Annapolis, Maryland]] | publisher = [[Naval Institute Press]] | year = 2004 | origyear = 1982 | edition = rev. | isbn = 978-1-55750-442-5 | oclc = 51861947 }}
+* {{cite book | editor-last = Gardiner | editor-first = Robert | title = Conway's All the World's Fighting Ships, 1906–1921 | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 }}
+* Silverstone, Paul H., ''U.S. Warships of World War I'' (Ian Allan, 1970), ISBN 0-71100-095-6.
+* {{cite DANFS | author = [[Naval History &amp; Heritage Command]] | url = http://www.history.navy.mil/danfs/c13/conyngham-i.htm | title = Conyngham | accessdate = 6 May 2009 }}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/j1/jacob_jones-i.htm | title = Jacob Jones | accessdate = 6 May 2009 | link = off }}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/p10/porter-ii.htm | title = Porter | accessdate = 6 May 2009 | link = off }}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/t9/tucker-i.htm | title = Tucker | accessdate = 6 May 2009 | link = off }}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/w1/wadsworth-i.htm | title = Wadsworth | accessdate = 6 May 2009 | link = off }}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | url = http://www.history.navy.mil/danfs/w1/wainwright-i.htm | title = Wainwright | accessdate = 6 May 2009 | link = off }}
+{{refend}}
+
+==External links==
+{{Commons category|Tucker class destroyers}}
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+*[http://destroyerhistory.org/early/1000tonners/ DestroyerHistory.org Thousand Tonner page]
+*[http://destroyerhistory.org/early/tuckerclass/ DestroyerHistory.org Tucker Class page]
+*[http://www.destroyers.org/Class/c-Tucker.htm Tin Can Sailors@Destroyers.org Tucker class]
+*[http://www.navsource.org/archives/05idx.htm NavSource Destroyer Photo Index Page]
+*[http://www.navweaps.com/Weapons/WNUS_4-50_mk9.htm DiGiulian, Tony Navweaps.com 4&quot;/50 Mks 7, 8, 9, and 10]
+*[http://www.navweaps.com/Weapons/WTUS_PreWWII.htm DiGiulian, Tony Navweaps.com Pre-WWII US Torpedoes]
+*[http://www.history.navy.mil/museums/keyport/html/part2.htm US Navy Torpedo History, part 2]
+
+{{Tucker class destroyer}}
+{{WWI US ships}}
+
+{{good article}}
+
+[[Category:Destroyer classes]]
+[[Category:Tucker-class destroyers| ]]
+[[Category:World War I destroyers of the United States| ]]</text>
+      <sha1>moccetv2o3u8n33tif76gg6rollspy7</sha1>
+    </revision>
+  </page>
+</mediawiki>

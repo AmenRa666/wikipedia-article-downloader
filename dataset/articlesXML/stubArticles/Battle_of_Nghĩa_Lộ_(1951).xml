@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Nghĩa Lộ (1951)</title>
+    <ns>0</ns>
+    <id>38494250</id>
+    <revision>
+      <id>751055035</id>
+      <parentid>751054986</parentid>
+      <timestamp>2016-11-23T02:57:20Z</timestamp>
+      <contributor>
+        <username>Dino nam</username>
+        <id>13296198</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1641">{{unreferenced|date=March 2013}}
+{{Infobox military conflict
+|partof=the [[First Indochina War]]
+|place=[[Nghia Lo]], [[Vietnam]]
+|date=3–10 October 1951
+|result=French victory
+|combatant1={{Flagicon|North Vietnam|1945}} [[Viet Minh]]
+|combatant2={{flag|France}}
+|commander1=[[Lê Trọng Tấn]]
+|commander2=[[Rémy Raffalli]]
+|strength1=2,400
+|strength2=450
+|casualties1=300 killed
+|casualties2=60 killed
+}}
+{{Campaignbox First Indochina War}}
+The '''Battle of Nghia Lo''' (Vietnamese: '''Nghĩa Lộ'''), was fought between the [[French army]] and the [[Viet Minh]] during the [[First Indochina War]]. On 3 October, the Viet Minh [[312th Division (Vietnam)|312th Division]] launched an attack on French forces in the town of Nghia Lo and its vicinity. The attack was repelled, after a week of fighting. A year later on 17 October, the Viet Minh launched another attack on Nghia Lo and suceceded in driving out the remaining French from the area.
+
+==References==
+{{refbegin}}
+* {{cite book
+  |first =  Bernard 
+  |last = Fall
+  |title = Street Without Joy: The French Debacle in Indochina
+  |publisher = Pen &amp; Sword Books
+  |location = Barnsley
+  |year = 2005
+  |ISBN = 978 184415 318 3}}
+* {{cite book
+  |first =  Martin
+  |last = Windrow
+  |title = The Last Valley: Dien Bien Phu and the French Defeat in Vietnam
+  |publisher = Hachette UK
+  |location = London
+  |year = 2005
+  |ISBN = 978 1 7802 2247 9}}
+
+{{coord|20.9833|N|106.0500|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Battle of Nghia Lo}}
+[[Category:Battles and operations of the First Indochina War]]
+[[Category:1951 in French Indochina]]
+[[Category:Conflicts in 1951]]</text>
+      <sha1>nd7hgouxkzkpk0gpgen3cgzlj4msayv</sha1>
+    </revision>
+  </page>
+</mediawiki>

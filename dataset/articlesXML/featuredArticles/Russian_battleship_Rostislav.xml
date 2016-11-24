@@ -1,0 +1,244 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian battleship Rostislav</title>
+    <ns>0</ns>
+    <id>5404557</id>
+    <revision>
+      <id>734746715</id>
+      <parentid>729957515</parentid>
+      <timestamp>2016-08-16T12:47:26Z</timestamp>
+      <contributor>
+        <username>Lamro</username>
+        <id>3636441</id>
+      </contributor>
+      <minor/>
+      <comment>link [[Red Mutiny: Eleven Fateful Days on the Battleship Potemkin]] using [[User:Edward/Find link|Find link]]s</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33575">{{featured article}}
+{{Coord|45|25|01|N|36|37|43|E|display=title}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Rostislav1895-1917a.jpg|300px]]
+|Ship caption=''Rostislav'' between 1907 and 1916.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Russian Empire
+|Ship flag={{shipboxflag|Russian Empire|naval}}
+|Ship name= ''Rostislav'' ({{lang-ru|Ростислав}})
+|Ship namesake= [[Rostislav I of Kiev]]
+|Ship operator=Imperial Russian Navy
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Black Sea Shipyard|Nikolayev Admiralty Shipyard]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=*January 30, 1894 (actual)
+*May 19, 1895 (formal)&lt;ref name=&quot;note1&quot; group=Note&gt;All dates used in this article are [[Old Style and New Style dates|New Style]]. Russia was still using the Julian calendar, and the dates on that calendar were 13 days earlier at that time.&lt;/ref&gt;
+|Ship launched=September 2, 1896
+|Ship sponsor=
+|Ship christened=May 20, 1894
+|Ship completed=March 1900
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=[[Scuttled]] in the [[Strait of Kerch]], November 1920
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Pre-dreadnought battleship]]
+|Ship displacement=*{{Convert|8880|LT|t|abbr=on}} (designed)
+*{{Convert|10520|LT|t|0|abbr=on}} (actual)&lt;ref name=R11/&gt;
+|Ship length={{convert|351|ft|10|in|m|1|abbr=on}}
+|Ship beam={{convert|68|ft|m|1|abbr=on}}
+|Ship draft=*{{convert|22|ft|m|1|abbr=on}} (designed)
+*{{convert|25|ft|2|in|m|1|abbr=on}} (actual)
+|Ship propulsion=2 shafts, 2 [[Steam engine#Multiple expansion engines|Vertical triple-expansion steam engines]]
+|Ship speed= {{Convert|15|kn|lk=in}}
+|Ship range={{convert|4100|nmi|lk=in}} at {{convert|8|kn}}
+|Ship power=*{{Convert|8500|ihp|kW|abbr=on|lk=in}}
+*8 [[fire-tube boiler]]s
+|Ship complement=633 (1900), 831–852 (World War I)&lt;ref name=R11/&gt;
+|Ship armament=*2 × 2 – {{convert|10|in|mm|0|sing=on}} guns
+*4 × 2 – {{convert|6|in|mm|0|sing=on}} guns
+*12 × 1 – {{convert|47|mm|1|sing=on}} guns
+*16 × 1 – {{convert|37|mm|1|sing=on}} guns&lt;ref group=Note&gt;Replaced in 1915 for 75-mm and 37-mm guns&amp;nbsp;– Melnikov, p. 11.&lt;/ref&gt;
+*6 × {{convert|15|in|mm|0|sing=on}} [[torpedo tube]]s
+|Ship armour=*[[Harvey armor]]
+*[[Belt armor|Belt]]: {{convert|14.5|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|2|-|3|in|mm|0|abbr=on|1}}
+*[[Turret]]s: {{convert|10|in|mm|0|abbr=on|0}}
+*[[Conning tower]]: {{convert|6|in|mm|0|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|5|-|9|in|mm|0|abbr=on}}
+|Ship notes=
+}}
+|}
+
+'''''Rostislav''''' was a [[pre-dreadnought battleship]] built by the [[Black Sea Shipyard|Nikolaev Admiralty Shipyard]] in the 1890s for the [[Black Sea Fleet]] of the [[Imperial Russian Navy]]. She was conceived as a small, inexpensive [[coastal defence ship]], but the Navy abandoned the concept in favor of a compact, seagoing battleship with a displacement of {{Convert|8880|LT|t}}. Poor design and construction practices increased her actual displacement by more than {{Convert|1600|LT|t|abbr=on}}. ''Rostislav'' became the world's first [[capital ship]] to burn [[fuel oil]], rather than coal.&lt;ref name=W57&gt;Willmott, p. 57.&lt;/ref&gt; Her combat ability was compromised by the use of {{convert|10|in|adj=on|0}} main guns instead of the [[de facto]] Russian standard of {{convert|12|in|0}}.
+
+Her hull was launched in September 1896, but non-delivery of the ship's main guns delayed her [[maiden voyage]] until 1899 and her completion until 1900. In May 1899 ''Rostislav'' became the first ship of the Imperial Navy to be commanded by a member of the [[House of Romanov]], Captain [[Grand Duke Alexander Mikhailovich of Russia|Alexander Mikhailovich]].&lt;ref name=R12&gt;Melnikov, p. 12.&lt;/ref&gt; From 1903 to 1912 the ship was the [[flagship]] of the [[second-in-command]] of the Black Sea Fleet. During the [[1905 Russian Revolution]] her crew was on the verge of mutiny, but ultimately remained loyal to the regime, and actively suppressed the [[mutiny]] of the cruiser ''Ochakov''.
+
+''Rostislav'' was actively engaged in [[World War I]] until the collapse of the Black Sea Fleet in the beginning of 1918. She was the first Russian ship to fire on enemy targets on land during World War I, the first to be hit by a German [[airstrike]], and the first to destroy a submarine, albeit [[Karp-class submarine|a Russian one]]. In April 1918 the fleeing [[Bolshevik]]s abandoned ''Rostislav'' in [[Sevastopol]]. A year later the British occupation forces permanently disabled her engines. The [[White movement|White forces]] used the ship as a towed [[floating battery]], then scuttled her in the [[Strait of Kerch]] in November 1920.
+
+==Design and description==
+Similar in size to earlier [[coastal defence ship]]s but [[seaworthy]] for operations in the Black Sea, ''Rostislav'' was conceived in 1892 as a cheap and compact platform for 12-inch guns.  Admiral [[Nikolay Chikhachov]], Chief of the Ministry of the Navy, envisioned a squadron of such ships, each displacing {{convert|4000|to|5000|LT|t}}, that would fit into his total desired displacement target of {{convert|24000|LT|t|-2}}. Chief designer of the Nikolaev Shipyard, Sergey Ratnik,&lt;ref group=Note&gt;In the very beginning of 1893 Ratnik moved from Nikolaev to Saint Petersburg and became chief executive of privately owned [[Baltic Shipyard]]. – Melnikov, p. 4.&lt;/ref&gt; evaluated Chikhachov's request for proposals, and advised against the idea in general. The Naval Technical Committee (NTC) concurred: any meaningful combination of firepower, armor, speed and stability required at least {{convert|6000|LT|t}}. The NTC discarded Ratnik's advice to build an improved copy of the battleship {{ship|Russian battleship|Sissoi Veliky||2}} of {{convert|8880|LT|t}}, but did not present a definite alternative. The NTC declined to discuss tactical matters, leaving the choice of armament to Chikhachov.&lt;ref name=R4&gt;Melnikov, p. 4.&lt;/ref&gt;
+
+Chikhachov instructed Andrey Toropov of the Nikolaev Shipyard to draft two proposals, one armed with 10-inch and the other with 12-inch guns.&lt;ref name=R5&gt;Melnikov, p. 5.&lt;/ref&gt; Toropov estimated that the ship should have displaced at least 8,880 tons. Chikhachov admitted the fact and presented the two options to the NTC. The admiral himself and the active fleet commanders voted for the 12-inch caliber, which had already become a worldwide battleship standard, but the NTC strongly advised against it.&lt;ref name=R5/&gt; The Navy [[Official|brass]] spent April and May 1893 in lengthy debates. They agreed to increase displacement to 8,880 tons and were leaning toward accepting 12-inch guns when [[General Admiral]] [[Grand Duke Alexei Alexandrovich of Russia|Grand Duke Alexey]] resolved the discussion in favor of the smaller caliber.&lt;ref name=R8&gt;Melnikov, p. 8.&lt;/ref&gt;
+
+''Rostislav'' had the same hull as ''Sissoi Veliky'', protected with the newly developed [[Harvey armor]]. She was also the first Russian battleship to use electric power instead of older hydraulic systems to [[wikt:train|train]] her guns.&lt;ref name=R9/&gt;
+
+===General characteristics===
+''Rostislav'' was {{convert|345|ft|6|in|1}} [[length at the waterline|long at the waterline]] and {{convert|351|ft|10|in|1}} long [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|68|ft|1}} and a [[draft (hull)|draft]] of {{convert|25|ft|2|in|1}}. She displaced  {{convert|10520|LT|t}}, over {{convert|1500|LT|t}} more than her designed displacement of {{convert|8880|LT|t}}.&lt;ref name=m72&gt;McLaughlin, p. 93.&lt;/ref&gt; This weight gain increased her draft by about {{convert|3|ft|1}}, submerging most, if not all, of her [[waterline]] armored belt.&lt;ref&gt;McLaughlin, p. 96.&lt;/ref&gt;
+
+===Propulsion===
+''Rostislav'' had two [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]], identical to those of ''Sissoi Veliky'', that had a total designed output of {{convert|8500|ihp|lk=in}}. Eight cylindrical [[fire-tube boiler]]s provided steam to the engines, each of which drove one [[propeller]]. Half of the [[fire-tube boiler]]s were coal-fired and the other half were oil-fired,&lt;ref name=m97/&gt; making ''Rostislav'' the first [[capital ship]] in the world to use [[fuel oil]].&lt;ref&gt;Silverstone, p. 366.&lt;/ref&gt; This was done in order to substitute cheap oil from [[Baku]] for expensive imported coal.&lt;ref name=m57/&gt; On [[sea trial]]s, the power plant produced a total of {{convert|8816|ihp|lk=in}} and a top speed of {{convert|15.8|kn|lk=in}}. She carried a maximum of {{convert|820|LT|MT}} of fuel oil and coal at full load that provided a range of {{convert|3100|nmi|lk=in}} at a speed of {{convert|8|kn}}.&lt;ref name=m97&gt;McLaughlin, pp. 93, 97.&lt;/ref&gt;
+
+===Armament===
+The main armament consisted of two pairs of {{convert|10|in|mm|0|adj=on}} 45-[[caliber (artillery)|caliber]] Model 1891 guns mounted in French-style, center-pivot twin [[gun turret]]s fore and aft. Each turret had an arc of fire of 240°.&lt;ref name=m57&gt;McLaughlin, p. 95.&lt;/ref&gt; These guns had a maximum elevation of +15° and could depress to −5°. They fired a {{convert|496.5|lb|kg|adj=on}} shell at a [[muzzle velocity]] of {{convert|2273|ft/s|m/s|abbr=on}}. At an elevation of +6° the guns had a range {{convert|8010|yd|m|disp=flip}}.&lt;ref&gt;Friedman, pp. 256–57.&lt;/ref&gt; All eight of the 45-caliber, {{convert|6|in|mm|adj=on|0}} [[Canet guns|Canet]] Pattern 1891 guns were mounted in twin-gun turrets on the main deck. Each turret was positioned at a corner of the [[superstructure]] and had an arc of fire of 110°.&lt;ref name=m57/&gt; They fired shells that weighed {{convert|41.46|kg|lb|abbr=on|disp=flip}} with a muzzle velocity of {{convert|792|m/s|ft/s|abbr=on|disp=flip}}. They had a maximum range of {{convert|11523|m|yd|disp=flip}} when fired at an elevation of +20°.&lt;ref&gt;Friedman, pp. 260–61.&lt;/ref&gt;
+
+The anti-[[torpedo boat]] armament consisted of twelve {{convert|47|mm|in|adj=on}} [[Hotchkiss gun]]s. Eight of these were mounted in the superstructure and the locations of the remaining four are unclear.&lt;ref name=m57/&gt;  They fired a {{convert|2.2|lb|kg|adj=on}} shell at a muzzle velocity of {{convert|1400|ft/s|m/s|abbr=on}}.&lt;ref&gt;Smigielski, p. 160&lt;/ref&gt; The ship also mounted sixteen {{convert|37|mm|in|adj=on}} Hotchkiss guns, eight of which were carried in the [[Top (sailing ship)|fighting top]]. The locations of the other eight are unknown.&lt;ref name=m57/&gt; They fired a {{convert|1.1|lb|kg|adj=on}} shell at a muzzle velocity of {{convert|2150|ft/s|m/s|abbr=on}}.&lt;ref&gt;Friedman, p. 120.&lt;/ref&gt;
+
+''Rostislav'' carried six {{convert|15|in|mm|0|adj=on}} [[torpedo tube]]s. The bow and stern tubes and the aft pair of [[broadside]] tubes were above water. The forward broadside tubes were underwater. The ship carried 50 [[Naval mine|mines]] to be used to protect her anchorage.&lt;ref&gt;McLaughlin, pp. 95–96.&lt;/ref&gt;
+
+===Protection===
+The maximum thickness of the ''Rostislav''{{'}}s [[Belt armor|waterline belt]] was {{convert|14.5|in|mm|0}}, tapering to {{convert|10|in|mm|0}} abreast the [[magazine (artillery)|magazine]]s. It covered {{convert|227|ft|m|1}} of the ship's length and was {{convert|7|ft|1}} high. While the exact height of the belt above the designed waterline is unknown, much of it, if not all, would have been below the waterline as the ship's draft was over {{convert|3|ft|1}} deeper than designed. The belt terminated forward in a {{convert|9|in|mm|0|adj=on}} transverse [[bulkhead (partition)|bulkhead]] and aft in a {{convert|5|in|mm|0|adj=on}} bulkhead. The upper belt was 5&amp;nbsp;inches thick, {{convert|7|ft|6|in|m|1}} high and covered {{convert|160|ft|m|1}} of the ship's side. The sides of the main gun turrets were 10&amp;nbsp;inches thick and they had {{convert|2.5|in|mm|0|adj=on}} roofs. The sides of the 6-inch turrets were 6&amp;nbsp;inches thick as were the sides of the [[conning tower]]. The armor [[deck (ship)|deck]] was flat and located at the upper edge of the main belt. It was {{convert|2|in|0}} thick. Below the waterline, forward and aft of the [[armored citadel]], were {{convert|3|in|mm|0|adj=on}} decks.&lt;ref&gt;McLaughlin, pp. 96–97.&lt;/ref&gt;
+
+==Construction==
+Work on ''Rostislav'' commenced on January 30, 1894. The ship was officially christened May 20, 1894; in line with Russian tradition, the formal laying down ceremony was delayed until May 19, 1895. The contract for oil-firing [[boiler (steam generator)|boiler]]s and engines was awarded to [[Baltic Shipyard|Baltic Works]].&lt;ref name=R9&gt;Melnikov, p. 9.&lt;/ref&gt; The armor was rolled in the United States by [[Bethlehem Steel]] within the framework of an earlier contract for {{sclass-|Petropavlovsk|battleship|2}}s.&lt;ref name=Nov26&gt;[http://query.nytimes.com/mem/archive-free/pdf?res=9C02E3DA113AE533A25755C2A9679D94649ED7CF &quot;Russia Buys Armor Here: The New Battle Ship Rostislav&quot;]. ''The New York Times'', November 26, 1895.&lt;/ref&gt; Bethlehem Steel faced the scrutiny of the [[United States Senate Committee on Armed Services|Senate Committee on Naval Affairs]] for charging the Russians an unusually low &quot;introductory&quot; price of $250 to $300 per ton, compared to $600 to $660 paid by the United States Navy.&lt;ref name=July30&gt;[http://query.nytimes.com/gst/abstract.html?res=9B03E7D91F39E433A25753C3A9619C94669ED7CF &quot;Prices for Armor Plate&quot;] ''The New York Times'', July 30, 1897&lt;/ref&gt;  Senator [[Benjamin Tillman]] publicly accused Bethlehem and [[Carnegie Steel Company|Carnegie]] of [[price fixing]] and robbing the American taxpayer.&lt;ref group=Note&gt;According to Senator [[Benjamin Tillman]], Carnegie Works and Bethlehem Steel formed a trust with an intent to rob the U.S. government on naval armor contracts. The law obliged the U.S. Navy to purchase only U.S.-made steel, thus eliminating competitive choices open to other navies. As a result, the U.S. Navy paid $660 a ton when foreign governments paid only $300. – [http://query.nytimes.com/mem/archive-free/pdf?res=9C04E1D6143BEE33A2575BC2A9629C94679ED7CF &quot;Serving Two Masters: Naval Officers Employed by Armor Plate Makers&quot;]. ''The New York Times'', April 28, 1896.&lt;/ref&gt;
+
+''Rostislav''{{'}}s hull was launched on September 2, 1896. Lack of proper cranes in [[Mykolaiv|Nikolaev]] made the installation of its engines exceedingly difficult, to the point that the navy even considered towing the hull to [[Sevastopol]] for completion. The Nikolaev engineers eventually resolved the problem and the ship was ready to sail in July 1897. ''Rostislav'' conducted her speed trials on October 21, 1898, still missing her main guns. Her power plant performed flawlessly, but its weight exceeded the design target by more than {{convert|300|t|LT|disp=flip|0}}.&lt;ref name=R10&gt;Melnikov, p. 10.&lt;/ref&gt;
+
+Non-delivery of the new 10-inch Model 1897 guns, made by the [[Obukhov State Plant|Obukhov Factory]] in [[Saint Petersburg]] for ''Rostislav'', {{sclass-|Admiral Ushakov|coastal defense ship|2}}s and {{sclass-|Peresvet|battleship|2}}s, delayed the completion of the ship by two years.&lt;ref name=R10/&gt; One of these guns, earmarked for ''Admiral Ushakov'', exploded at the proving ground and the whole batch was subjected to exhaustive tests and, when possible, repairs. Guns Number 16 through Number 19 passed the tests and were delivered to Sevastopol in July and August 1899. ''Rostislav'' was able to sail to her first gunnery trial on April 12, 1900.&lt;ref name=R11&gt;Melnikov, p. 11.&lt;/ref&gt; On the second day of shooting practice the [[shock absorber|recoil mechanism]]s of her forward turret failed and more defects were discovered back at the base. ''Rostislav'' spent the rest of the spring having her gun mounts repaired,&lt;ref name=&quot;R12&quot; /&gt; but the problem persisted and the Navy &quot;solved&quot; it by prohibiting them from being used.&lt;ref name=R13/&gt; The gun mounts were rebuilt along the pattern of those used by the [[armored cruiser]] {{ship|Russian armoured cruiser|Admiral Nakhimov||2}} in 1901 and 1902, and ''Rostislav'' successfully passed the gunnery tests in June 1902.&lt;ref name=R13/&gt; The ship's electrical turret controls, with their 332 [[Electrical connector|contact pairs]], required tedious maintenance and proved too complex for most of the enlisted men.&lt;ref name=R14&gt;Melnikov, p. 14.&lt;/ref&gt;
+
+==Service==
+On May 1, 1899, [[Captain (naval)|Captain]] [[Grand Duke Alexander Mikhailovich of Russia|Grand Duke Alexander Mikhailovich]] assumed command of ''Rostislav'', becoming the first [[House of Romanov|Romanov]] since [[Peter I of Russia|Peter I]] to command a combat ship.&lt;ref name=&quot;R12&quot;/&gt; Another Romanov, [[Cyril Vladimirovich, Grand Duke of Russia|Grand Duke Kirill]], spent a few uneventful months on board ''Rostislav'' in 1900.&lt;ref name=R13&gt;Melnikov, p. 13.&lt;/ref&gt; Alexander's guests, parties and diplomatic visits to [[Istanbul]] regularly interfered with the crew's duties, but he personally managed the repairs and alterations of the ship's equipment. Shipyards and contractors treated ''Rostislav'' as a priority customer. Alexander, based on his experience with ''Sissoi Veliky'', persuaded the NTC to reinforce ''Rostislav''{{'}}s rudder frame and supervised installation of a backup control post deep under the conning tower.&lt;ref name=&quot;R12&quot;/&gt; In 1903 Alexander was promoted to [[rear admiral]] and returned to his ship as a squadron commander.&lt;ref name=R17&gt;Melnikov, p. 17.&lt;/ref&gt; ''Rostislav'' served as the junior flagship of the Black Sea Fleet until September 1912.&lt;ref name=R28&gt;Melnikov, p. 28.&lt;/ref&gt;
+
+The 1900 season revealed grave problems with ''Rostislav''{{'}}s boilers. Black smoke from burning oil was more conspicuous than coal smoke.&lt;ref name=R14/&gt; Uneven distribution of heat inside the boilers caused severe local overheating, buckling of [[Firebox (steam engine)|fireboxes]] and sudden [[backdraft]]s.&lt;ref name=R14/&gt; For three and a half months the boilers failed one by one, starting with small auxiliary power units and ending with the main boilers.&lt;ref name=R14/&gt; Oil delivered by the [[Rothschild family|Rothschild-controlled]] Russian Standard Oil was not at fault; similar problems were experienced by oil-fired ships of the [[Baltic Fleet]].&lt;ref&gt;Melnikov, pp. 17–18.&lt;/ref&gt;
+Repairs and alterations of the power plant continued until 1904, when the continuing boiler failures compelled the Navy to dispense with oil fuel and convert ''Rostislav'' to coal in 1904 and 1905.&lt;ref name=R21&gt;Melnikov, p. 21.&lt;/ref&gt; Each round of repairs and alterations added more weight to the already overweight ship, and by 1907 the ship's belt armor was completely below the waterline.&lt;ref name=R22/&gt;
+
+The Tsentralka, the group plotting a mutiny of the Black Sea Fleet, decided on June 25, 1905, that the mutiny should start on ''Potemkin'' rather than ''Rostislav''.&lt;ref&gt;Bascomb, p. 34.&lt;/ref&gt; On June 27, 1905, the day of the [[Russian battleship Potemkin|battleship ''Potemkin'' mutiny]], ''Rostislav'' was sailing under the ensign of [[Vice Admiral]] [[Alexander Krieger]].&lt;ref name=R21/&gt; [[Nicholas II of Russia|Nicholas II]] ordered Krieger and his superior, fleet commander [[Grigory Chukhnin]], to destroy the rebels by force, but the admirals refrained from shooting. They let the rebels flee to [[Odessa]] and later to [[Romania]]. Krieger's own crew was on the verge of open mutiny.&lt;ref name=R22&gt;Melnikov, p. 22.&lt;/ref&gt; On July 2, 1905, a military council held on board ''Rostislav'' decided to moor the ships in Odessa, disconnect the engines from the propellers and let the enlisted men walk ashore at will.&lt;ref&gt;[http://query.nytimes.com/mem/archive-free/pdf?res=9D0CE1DA173DE733A25750C0A9619C946497D6CF &quot;Black Sea Fleet to be Disbanded&quot;]. ''The New York Times'', July 3, 1905.&lt;/ref&gt; By the time of the [[Ochakov mutiny|''Ochakov'' mutiny]] in November 1905, fleet morale had improved and Krieger did not hesitate to fire two 10-inch and fourteen 6-inch shells against the rebels.&lt;ref name=R22/&gt;
+
+===Exercises and casualties===
+After the [[Battle of Tsushima]] the Imperial Navy concentrated on improving their gunnery skills and fire-control practices.&lt;ref name=R234&gt;Melnikov, pp. 23–24.&lt;/ref&gt; In 1908 [[Alexei Krylov]] and [[Yevgeny Berkalov]] led ''Rostislav'' on an unprecedented long-range gunnery shoot: ''Rostislav'' fired 330 ten-inch shells at a distance of {{convert|8|to|10|mi}} in a few days.&lt;ref name=R234/&gt; The experiment proved that the older [[Range of a projectile|ballistic tables]] used by the Navy were inaccurate. Berkalov compiled the data from the 1908 exercise into the new tables adopted by the Navy.&lt;ref name=R234/&gt; Another of Krylov's initiatives, rapid [[Glossary of nautical terms#C|counter-flooding]], was standardized in 1909.&lt;ref name=&quot;R28&quot; /&gt;
+[[File:Rostislav1895-1917d.jpg|thumb|Cleaning the guns of ''Rostislav''.]]
+Two plans for modernizing the ship were put forward before World War I. In 1907 the [[Naval General Staff]] proposed a major reconstruction aimed at reducing her draft and raising her armor belt higher out of the water. Her above-water torpedo tubes, [[torpedo net]]s, auxiliary boilers and 47-millimeter guns would have been removed, her superstructure cut down and her rigging reduced to a single pole mast. These changes would have reduced her displacement by {{convert|250|LT|t}}, but the plan was rejected due to a shortage of money.&lt;ref name=M88&gt;McLaughlin, p. 288.&lt;/ref&gt; Her above-water torpedo tubes, however, were removed about this time.&lt;ref name=m94&gt;McLaughlin, p. 294.&lt;/ref&gt; In 1912 the staff of the Black Sea Fleet proposed to replace all of her 47&amp;nbsp;mm guns with four {{convert|75|mm|0|adj=on}} guns and to remove the auxiliary boilers and the submerged torpedo tubes to offset the additional weight. The Naval General Staff did not think that this was worth the cost and rejected the plan.&lt;ref name=M88/&gt; Even though these plans did not come to fruition, other alterations were made to ''Rostislav'' before the war. A dozen of her 37&amp;nbsp;mm guns were removed in 1906, and she was fitted with {{convert|15|ft|1|adj=on}} [[rangefinder]]s, probably made by [[Barr and Stroud]], in 1907 and 1908.&lt;ref name=m94/&gt;
+
+In 1909 and 1910, ''Rostislav'' and the rest of the Black Sea Fleet prepared for joint operations with [[submarine]]s. She was scheduled for an installation of the first Russian [[underwater acoustic communication]] system, but the installation was interrupted and her hardware was installed on the battleship {{ship|Russian battleship|Panteleimon||2}} (the former ''Potemkin'') instead.&lt;ref&gt;Godin and Palmer, p. 33.&lt;/ref&gt; During an anti-submarine exercise on the night of June 11, 1909, ''Rostislav'' accidentally rammed and sank the submarine [[Karp-class submarine|''Kambala'']]. Twenty men of ''Kambala'' and two rescue divers died.&lt;ref&gt;[http://query.nytimes.com/mem/archive-free/pdf?res=9D0CE2D6173EE033A25750C1A9609C946897D6CF &quot;Submarine is sunk; Hope to save crew&quot;.] ''The New York Times'', June 13, 1909.&lt;/ref&gt;&lt;ref&gt;[http://query.nytimes.com/gst/abstract.html?res=9505EFD6153EE733A25757C1A9609C946897D6CF &quot;Submarine Crew Past Aid&quot;]. ''The New York Times'', June 14, 1909.&lt;/ref&gt; The accident was blamed on reckless maneuvering by the submarine, and ''Rostislav''{{'}}s captain was cleared of any negligence or wrongdoing.&lt;ref name=R26&gt;Melnikov, p. 26.&lt;/ref&gt;
+
+===Diplomatic incidents===
+Before the outbreak of World War I ''Rostislav'' was involved in two minor international incidents. On August 11, 1911, {{ship|Russian battleship|Evstafi||2}} and ''Panteleimon'', two of the Black Sea Fleet battleships paying a state visit to Romania, ran aground on a [[shoal]] just off the port of [[Constanța]]. ''Rostislav''{{'}}s officers had detected the hazard and steered her to safety, but did not alert the other ships. The international embarrassment that followed led to the resignation of fleet commander Admiral [[Ivan Bostrem]].&lt;ref name=&quot;R28&quot; /&gt; During the [[First Balkan War]] ''Rostislav'' sailed into the [[Sea of Marmara]] to protect the Russian Embassy in Istanbul from a mob.&lt;ref group=Note&gt;The international &quot;observation fleet&quot; comprised 21 ships, including ''Rostislav'', {{SMS|Goeben||2}} and {{ship|French cruiser|Léon Gambetta||2}}. – Melnikov, p. 29.&lt;/ref&gt; ''Rostislav'' accidentally fired a live shell into the Turkish defenses. No one was injured during the incident, and the captain defused the situation with a personal apology to the Ottoman government.&lt;ref name=R293&gt;Melnikov, pp. 29–30.&lt;/ref&gt;
+
+===World War I===
+{{further|SMS Goeben|Caucasus Campaign|Romania during World War I}}
+
+''Rostislav'' spent the winter of 1913–14 refitting, and in April 1914 she returned to the active fleet with newly overhauled machinery, new rangefinders and new gun sights.&lt;ref name=R31&gt;Melnikov, p. 31.&lt;/ref&gt; The ship made {{convert|15.37|kn}} on her post-refit trials.&lt;ref name=m94/&gt;
+
+On November 4, 1914, the Black Sea Fleet sailed out on its first combat operation of the war: the bombardment of [[Zonguldak]]. The operation was conceived as a retaliation against the [[SMS Goeben#1914|Turkish-German attack on Sevastopol]]. ''Rostislav'', captained by [[Kazimierz Porębski]], was the &quot;designated [[gunboat]]&quot; while other Russian battleships formed a defensive screen around her. On November 6 she fired 251 shells at the port of Zonguldak, reducing it to rubble.&lt;ref name=R32&gt;Melnikov, p. 32.&lt;/ref&gt; On November 18 the ship faced ''Goeben'' during the [[Battle of Cape Sarych]], but the German ship broke contact before ''Rostislav'', trailing behind the Russian formation, even spotted her.&lt;ref name=R34&gt;Melnikov, p. 34.&lt;/ref&gt; ''Rostislav'' had other encounters with ''Goeben'' in 1915 and 1916, but did not engage her directly.&lt;ref group=Note&gt;Admiral [[Andrei Eberhardt]] deliberately kept the ship out of action to protect the old ship from a vastly superior enemy. He reasoned that a ship with 10-inch guns had no place in a fight of 12-inch guns (as had already been proven by the loss of {{SMS|Blücher}} in the Battle of Dogger Bank in 1915). – Melnikov, pp. 35–36.&lt;/ref&gt; In 1915 the ship received four 75&amp;nbsp;mm [[Anti-aircraft warfare|anti-aircraft]] guns.&lt;ref&gt;McLaughlin, p. 310.&lt;/ref&gt;
+
+After the commissioning of the {{sclass-|Imperatritsa Mariya|battleship|0}} dreadnoughts, the old battleships were split into independent combat groups. ''Rostislav'' became the flagship of the [[Batumi]] Group tasked with supporting the ground operations of the [[Russian Caucasus Army (World War I)|Caucasus Army]].&lt;ref name=&quot;R37&quot;&gt;Melnikov, p. 36.&lt;/ref&gt; Their first joint action began February 5, 1916, near [[Arhavi]].&lt;ref name=W305/&gt; On the first day alone the ship fired 400 shells against the Turks.&lt;ref name=&quot;R37&quot; /&gt; On March 4 ''Rostislav'' and the gunboats ''Kubanetz'' and ''Donetz'' supported the amphibious landing at [[Pazar, Rize|Atina]].&lt;ref name=W305&gt;Willmott, p. 305.&lt;/ref&gt; Three days later she supported the landing of marines that ended in the capture of [[Rize]]. At the end of March ''Rostislav'' and ''Panteleimon'' forced the Turks to evacuate [[Trabzon]].&lt;ref name=&quot;R37&quot;/&gt;
+
+In the summer of 1916 the Navy seriously considered an all-out amphibious assault on the [[Bosphorus]].&lt;ref name=R39&gt;Melnikov, p. 39.&lt;/ref&gt; Fleet commander [[Andrei Eberhardt]] anticipated a high risk of naval mine and torpedo hits in the coastal waters and suggested equipping all pre-dreadnought battleships with [[anti-torpedo bulge]]s. {{ship|Russian battleship|Sinop||2}} had her bulges fitted in Nikolaev in July 1916, and ''Rostislav'' was next in line, but the work was cancelled in August,&lt;ref name=R40&gt;Melnikov, p. 40.&lt;/ref&gt; and she was transferred to the Romanian coast as flagship of the Constanța Group. Constanța temporarily became an important logistical hub for the Russian troops heading to the Romanian Front, and the base for minelayers, submarines and destroyers harassing the enemy in the Bosphorus area. The Germans responded with air raids; their first aerial success against a Russian naval target was scored against ''Rostislav''. The bomb hit the edge of the aft 10-inch turret and injured sixteen sailors. The turret itself remained fully operational. The [[Romania during World War I#The counteroffensive of the Central Powers .28September–December 1916.29|collapse of the Romanian Front]] in October 1916 forced the Navy to evacuate Constanța. ''Rostislav'' returned to Sevastopol for a much-needed overhaul.&lt;ref name=R38&gt;Melnikov, p. 38.&lt;/ref&gt;
+
+===Revolution===
+{{further|Russian Revolution (1917)|Russian Civil War|Entente intervention in the Russian Civil War}}
+
+The [[February Revolution]] of 1917 did not demoralize the Black Sea Fleet as quickly as the Baltic Fleet. Captain Fyodor Stark, a former destroyer commander, maintained ''Rostislav'' in combat-ready condition until the end of the year.&lt;ref name=R41&gt;Melnikov, p. 41.&lt;/ref&gt; The battleship sailed out for her last voyage to Batumi in September and October. Stark managed to contain the radical politics, [[anti-German sentiment]] and [[Ukrainization]] of the crew, but nevertheless raised the [[flag of Ukraine]] on his return to Sevastopol on October 25.&lt;ref&gt;Melnikov, pp. 41–42.&lt;/ref&gt;&lt;ref name=&quot;note1&quot; group=Note/&gt; From this moment desertion and &quot;volunteering&quot; into the [[Red Guards (Russia)|Red Guards]] intensified, and by December 21 the crew was reduced to 460 enlisted men and 28 officers.&lt;ref name=R42&gt;Melnikov, p. 42.&lt;/ref&gt; In January 1918 the fleet disintegrated completely: the officers fled from the enraged enlisted men, then the enlisted men abandoned the ships and fled from the advancing German Army. On April 29, 1918, the [[Bolshevik]]s managed to extricate two battleships and sixteen destroyers from Sevastopol to [[Novorossiysk]], but ''Rostislav'' and the rest of the fleet remained in Sevastopol.&lt;ref name=R44&gt;Melnikov, p. 44.&lt;/ref&gt;
+
+The German occupation of [[Crimea]] from May to November 1918 did not affect the abandoned ship. The Anglo-French forces that replaced the Germans stayed in Sevastopol until April 1919.&lt;ref name=R46&gt;Melnikov, p. 46.&lt;/ref&gt; Before leaving, the British destroyed ''Rostislav''{{'}}s engines on April 25. The [[White movement|White forces]] of [[Pyotr Nikolayevich Wrangel|Baron Wrangel]] used the disabled ship as a [[floating battery]] in the [[Sea of Azov]].&lt;ref&gt;McLaughlin, p. 99.&lt;/ref&gt; The ship, manned by a ragtag volunteer crew, was stationed in the shallow waters of the [[Strait of Kerch]] to harass the Reds in [[Taman, Russia|Taman]] and prevent a landing in the Crimea.&lt;ref name=R47/&gt; After the defeat of Wrangel's land forces, the crew [[Scuttling|scuttled]] ''Rostislav'' in the Strait of Kerch to prevent the Red forces from breaking through to the Black Sea.&lt;ref name=R47&gt;Melnikov, p. 47.&lt;/ref&gt;
+
+When ''Rostislav'' sank in the shallows her superstructure remained above water. In 1930, the [[EPRON]] (a Soviet salvage unit) retrieved the ship's guns and partially dismantled the hull. According to diver Alexander Yolkin, the remains of the hull are still lying in the strait, around {{convert|1200|m|yd}} from the Ukrainian coast, and gradually sinking into the [[silt]].&lt;ref&gt;Yolkin, A. (2009, in Russian). ''[http://www.wreck.ru/stat3.shtml Kladbische korablei (Кладбище кораблей)]''. www.wreck.ru. Retrieved 30 June 2010.&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+* {{cite book
+  | last = Bascomb
+  | first = Neal
+  | year = 2007
+  | title = [[Red Mutiny: Eleven Fateful Days on the Battleship Potemkin]]
+  | publisher = Houghton Mifflin
+  | location = Boston|isbn=0-618-59206-7
+  }}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}} 
+* {{cite book|last1=Godin|first1=Oleg A.|last2=Palmer|first2=David R.|title=History of Russian Underwater Acoustics|url=https://books.google.com/books?id=tsZYbQoNijsC|year=2008|publisher=World Scientific|location=Singapore|isbn=981-256-825-5}}
+* {{cite book|last=McLaughlin|first=Stephen|title=Russian &amp; Soviet Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2003|isbn=1-55750-481-4}}
+* Melnikov, R. M. (2006, in Russian). ''Lineyny korabl &quot;Rostislav&quot; (1893–1920)'' (Линейный корабль &quot;Ростислав&quot; (1893–1920)). Saint Petersburg: M. A. Leonov. ISBN 5-902236-34-7.
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book|editor=Roberts, John|last=Smigielski|first=Adam|chapter=Imperial Russian Navy Cruiser Varyag|title=Warship III|year=1979|publisher=Conway Maritime Press|location=London|isbn=0-85177-204-8}}
+* {{cite book|last=Willmott|first=H. P.|title=The Last Century of Sea Power: From Port Arthur to Chanak, 1894–1922|url=https://books.google.com/books?id=xe_dW5YABUUC|year=2009|publisher=Indiana University Press|location=Bloomington, Indiana|isbn=978-0-253-35214-9}}
+
+===Further reading===
+* Shirokorad, A. B. (1997, in Russian). ''Korabelnaya artilleriya Rossiyskogo flota 1867–1922.'' (Корабельная артиллерия Российского флота. 1867–1922). ''Morskaya Kollekciya'', No. 2 (14), 1997, pp.&amp;nbsp;1–42.
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|Rostislav (ship, 1896)|''Rostislav''}}
+
+{{Rostislav}}
+{{WWIRussianShips}}
+
+{{DEFAULTSORT:Rostislav}}
+[[Category:1896 ships]]
+[[Category:Battleships of the Imperial Russian Navy]]
+[[Category:World War I battleships of Russia]]</text>
+      <sha1>1g50sbccm3vlixmlonioused86jcfts</sha1>
+    </revision>
+  </page>
+</mediawiki>

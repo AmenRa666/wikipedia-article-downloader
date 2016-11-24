@@ -1,0 +1,186 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Wessex (R78)</title>
+    <ns>0</ns>
+    <id>14577414</id>
+    <revision>
+      <id>749770820</id>
+      <parentid>749768816</parentid>
+      <timestamp>2016-11-16T02:37:41Z</timestamp>
+      <contributor>
+        <username>Finnusertop</username>
+        <id>19089174</id>
+      </contributor>
+      <minor/>
+      <comment>/* Construction and career */ disamb</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12179">{{good article}}
+{{otherships|HMS Wessex}}
+{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Wessex.jpg|300px]]
+|Ship caption=''Wessex'' at anchor, 10 May 1944
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=''Wessex''
+|Ship ordered=3 December 1941
+|Ship awarded=
+|Ship builder=[[Fairfield Shipbuilding and Engineering Company]], [[Govan]]
+|Ship laid down=25 October 1942
+|Ship launched=2 September 1943
+|Ship christened=
+|Ship acquired=
+|Ship commissioned=11 May 1944
+|Ship recommissioned=
+|Ship decommissioned=14 March 1946
+|Ship fate=Sold to [[South African Navy]], 29 March 1950
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[South Africa]]
+|Ship flag=[[File:Naval Ensign of South Africa (1951-1952).svg|70px]]
+|Ship name=SAS ''Jan van Riebeeck''
+|Ship namesake=[[Jan van Riebeeck]]
+|Ship acquired=29 March 1950
+|Ship commissioned=29 March 1950
+|Ship nickname=''JVR''
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=Late 1975
+|Ship renamed=
+|Ship reclassified=Converted into an anti-submarine [[frigate]], 1964–66
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sunk as target, 25 March 1980
+|Ship status=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= (as built)
+|Ship class= [[W and Z-class destroyer|W-class destroyer]]
+|Ship displacement=*{{convert|1710|LT|t}} ([[Displacement (ship)|standard load]])
+*{{convert|2530|LT|t}} ([[deep load]])
+|Ship length={{Convert|362|ft|9|in|m|1|abbr=on}}
+|Ship beam={{Convert|35|ft|8|in|m|1|abbr=on}}
+|Ship height=
+|Ship draught={{Convert|14|ft|6|in|m|1|abbr=on}} (deep load)
+|Ship power=*2 [[Admiralty 3-drum boiler]]s
+*{{Convert|40000|shp|kW|abbr=on|lk=in}}
+|Ship propulsion=*2 shafts
+*2 × geared [[steam turbines]] 
+|Ship speed={{Convert|36|kn|lk=in}}
+|Ship range={{Convert|4675|nmi|lk=in|abbr=on}} at {{Convert|20|kn}}
+|Ship complement=179
+|Ship sensors=*[[ASDIC]]
+*[[List of World War II British naval radar#Type 272|Type 272]] surface-search [[radar]]
+*Type 282 and 285 gunnery radars
+*Type 291 [[early-warning radar]]
+|Ship EW=
+|Ship armament=*4 × single [[4.7 inch QF Mark XII|4.7-inch (120&amp;nbsp;mm) guns]]
+*1 × quadruple [[QF 2 pounder naval gun#QF 2-pounder Mark VIII|2-pounder (40&amp;nbsp;mm) &quot;pom-pom&quot;]] [[AA gun]]
+*4 × twin [[Oerlikon 20 mm cannon|Oerlikon {{convert|20|mm|1|abbr=on}}]] AA guns
+*2 × quadruple {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s
+*70 [[depth charge]]s; 4 throwers, 2 rails
+}}
+|}
+
+'''HMS ''Wessex''''' ([[pennant number]]: R78) was one of eight [[W and Z class destroyer|W-class destroyers]] built for the [[Royal Navy]] during [[World War II]]. Completed in 1944, the ship spent most of the war assigned to the [[Eastern Fleet|Eastern]] and [[British Pacific Fleet|Pacific Fleets]]. She screened British [[aircraft carrier]]s as their aircraft attacked targets in the Japanese-occupied [[Nicobar Islands]], the [[Japanese occupation of the Dutch East Indies|Dutch East Indies]] and [[Okinawa]].
+
+''Wessex'' was then reduced to [[Reserve fleet|reserve]] after arriving home in December 1945.  She was then transferred to [[Simon's Town]], [[South Africa]] in 1947, to form the South Atlantic Reserve Force. The ship was purchased by the [[South African Navy]] in 1950 and renamed HMSAS ''Jan van Riebeeck''. She was placed in reserve in 1953 and continuing shortages of manpower kept the ship in reserve for most of the rest of her career even though she was converted into a fast [[anti-submarine warfare|anti-submarine]] [[frigate]] in 1964–66. ''Jan van Riebeeck'' was converted to serve as a [[training ship]] in 1971–72 and remained in that role until she was [[Ship decommissioning|decommissioned]] in 1975. The ship was sunk as a target in 1980.
+
+== Description ==
+The W-class ships displaced {{convert|1710|LT|t}} at [[Displacement (ship)|standard load]] and {{convert|2530|LT|t}} at [[deep load]]. They had an [[length overall|overall length]] of {{convert|362|ft|9|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|35|ft|8|in|m|1}} and a mean deep [[draft (hull)|draught]] of {{convert|14|ft|6|in|m|1}}. The ships were powered by a pair of [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s, each driving one [[propeller shaft]], using steam provided by two [[Admiralty three-drum boiler]]s. The turbines developed a total of {{convert|40000|shp|lk=in}} which gave a maximum speed of {{convert|36|kn|lk=in}}. They carried {{convert|615|LT|t}} of [[fuel oil]] that gave them a range of {{convert|4675|nmi|lk=in}} at {{convert|20|kn}}. Their crew numbered 179 officers and [[naval rating|ratings]].&lt;ref name=l2/&gt;
+
+The W-class destroyers were armed with four single [[4.7 inch QF Mark XII|4.7-inch (120&amp;nbsp;mm) Mark IX guns]], one quadruple mount for [[QF 2 pounder naval gun#QF 2-pounder Mark VIII|2-pounder (40&amp;nbsp;mm) Mk II &quot;pom-pom&quot;]] [[anti-aircraft gun|anti-aircraft (AA) guns]] and eight [[Oerlikon 20 mm cannon|Oerlikon {{convert|20|mm|1|adj=on}}]] light AA guns on twin mounts. They also were equipped with two quadruple mounts for {{convert|21|in|mm|0|adj=on}} [[torpedo tube]]s. For [[anti-submarine warfare|anti-submarine work]], the ships were fitted with [[ASDIC]] and two rails and four throwers for 70 [[depth charge]]s.&lt;ref&gt;Raven &amp; Roberts, pp. 48–49&lt;/ref&gt; They were equipped with a [[List of World War II British naval radar#Type 272|Type 272]] surface-search [[radar]], Type 282 and 285 gunnery radars and a Type 291 [[early-warning radar]].&lt;ref name=l2&gt;Lenton, p. 178&lt;/ref&gt;
+
+To better defend the ship against Japanese [[kamikaze]] suicide aircraft, ''Wessex'' had her [[searchlight]] replaced by a [[Bofors 40 mm gun|{{convert|40|mm|1|abbr=on}} Bofors]] AA gun in mid-1944.&lt;ref name=l2/&gt; As part of her 1964–66 refit, the ship's aft torpedo tubes were removed to make room for a small [[flight deck]] and [[hangar]] for two [[Westland Wasp]] [[helicopter]]s and a pair of American [[Mark 32 Surface Vessel Torpedo Tubes|Mk 32 triple-barrelled anti-submarine torpedo tubes]] were added, one on each side of the hangar. The guns were replaced by two twin-gun turrets fitted with [[QF 4 inch Mk XVI naval gun|4-inch (102&amp;nbsp;mm) Mk XVI guns]], one forward of the [[bridge (nautical)|bridge]] and the other aft of the hangar. Her electronics were modernized as well although she retained the existing search radar. The changes increased her crew to 186–210 officers and ratings.&lt;ref&gt;du Toit, pp. 196, 199&lt;/ref&gt;
+
+==Construction and career==
+''Wessex'' was ordered from [[Fairfield Shipbuilding and Engineering Company]] on 3 December 1941 under the name of ''Zenith'' and was laid down at their [[Govan]], [[Scotland]], shipyard on 20 October 1942.&lt;ref name=l2/&gt; She was renamed in January 1943&lt;ref&gt;Colledge, p. 384&lt;/ref&gt; and was [[Ceremonial ship launching|launched]] on 2 October 1943. Completed on 11 May 1944,&lt;ref name=l2/&gt; the ship was assigned to the Eastern Fleet in the [[Indian Ocean]] and escorted the aircraft carriers {{HMS|Indomitable|92|2}} and {{HMS|Victorious|R38|2}} while their aircraft attacked [[Nancowry Island|Nancowry]] harbour and other targets in the Nicobar Islands as part of [[Operation Millet]], 15–19 October. During [[Operation Robson]], an aerial attack on the [[oil refinery]] complex at [[Pangkalan Brandan]], [[Sumatra]], on 17–22 December, ''Wessex'' escorted the main body of the fleet. The ship did much the same during [[Operation Meridian]], multiple aerial attacks on the refineries in Sumatra 16–29 January 1945, although she was held back to pick up radar spare parts and did not rendezvous with the fleet until the 19th.&lt;ref&gt;Hobbs, pp. 57, 61, 64, 73–74; Rohwer, pp. 377, 388&lt;/ref&gt;
+
+Now part of the [[British Pacific Fleet]], ''Wessex'' continued to escort ships and screen operations during the [[Battle of Okinawa]]&lt;ref&gt;English, p. 101; Rohwer, pp. 408, 415&lt;/ref&gt; until she began a refit at [[Auckland]] that lasted from 5 July to 27 August. The ship rejoined the fleet in September&lt;ref&gt;English, p. 101&lt;/ref&gt; and ferried Allied prisoners of war back home.&lt;ref&gt;du Toit, p. 195&lt;/ref&gt; She arrived at [[HMNB Devonport|Devonport]] on 28 December and was reduced to Category B Reserve on 14 March 1946 after being refitted in January–February. ''Wessex'' was recommissioned on 28 August 1947 and was refitted at [[HMNB Portsmouth|Portsmouth Royal Dockyard]] in August–September in preparation for the voyage to South Africa in company with her [[sister ship]]s, {{HMS|Kempenfelt|R03|2}}, {{HMS|Whelp|R37|2}} and {{HMS|Wrangler|R48|2}}. Upon arrival, they formed the South Atlantic Reserve Force in Simon's Town.&lt;ref&gt;du Toit, p. 195; English, pp. 101–02&lt;/ref&gt; 
+
+''Wessex'' was sold to the [[South African Navy]] on 29 March 1950 for [[pound sterling|£450,000]] and commissioned that day as ''Jan van Riebeeck''. Two years later she participated in [[Cape Town]]'s celebration of the 300th anniversary of its founding by her namesake in April 1952. Later that year, the ship visited ports in [[French Madagascar]] and [[British East Africa]]. ''Jan van Riebeeck'' was placed in reserve in early 1953 to allow the navy to man her newly-purchased sister ship, [[HMS Whelp (R37)|HMSAS ''Simon van der Stel'']]. She remained in reserve for nearly 20 years, despite her conversion into a frigate between 1964 and 1966. ''Jan van Riebeeck'' began a refit in March 1971 to prepare her to replace her sister as a training ship that was completed on 12 April 1972 when she was recommissioned. The ship was reduced to reserve again in late 1975 and ''Jan van Riebeeck'' was sunk as a target on 25 March 1980, {{convert|60|nmi}} south of Cape Town. The [[hulk (ship)|hulk]] was initially struck by a [[Gabriel (missile)|Skerpioen missile]] fired by the [[fast attack craft]] {{SAS|Jim Fouché}} from over the horizon, but had to be finished off by gunfire.&lt;ref&gt;du Toit, pp. 195–97; English, p. 103&lt;/ref&gt;
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+*{{colledge}}
+*{{cite book|last=Critchley |first=Mike |title=British Warships Since 1945: Part 3: Destroyers |publisher=Maritime Books |location=Liskeard, UK |date=1982 |isbn=0-9506323-9-2}}
+*{{cite book|last1=Du Toit|first1=Allan|authorlink=Allan du Toit|title=South Africa's Fighting Ships: Past and Present|date=1992|publisher=Ashanti Publishing|location=Rivonia, South Africa|isbn=1-874800-50-2}}
+*{{cite book|last1=English|first1=John|title=Obdurate to Daring: British Fleet Destroyers 1941-1945|date=2008|publisher=World Ship Society|location=Windsor, UK|isbn=978-0-9560769-0-8}}
+*{{cite book|last=Hobbs|first=David, Commander|title=The British Pacific Fleet: The Royal Navy's Most Powerful Strike Force|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2011|isbn=978-1-59114-044-3}}
+* {{cite book|last=Lenton|first=H. T.|title=British &amp; Empire Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1998|isbn=1-55750-048-7}}
+* {{cite book |last=Raven |first=Alan |last2=Roberts|first2=John |title=War Built Destroyers: O to Z Classes|publisher=Bivouac Books |location=London |year=1978 |isbn=0-85680-010-4|lastauthoramp=y}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+
+==External links==
+*[http://uboat.net/allies/warships/ship/4527.html HMS Wessex at Uboat.net]
+*[http://www.naval-history.net/xGM-Chrono-10DD-63W-Wessex2.htm HMS Wessex's career]
+*[http://www.navy.mil.za/aboutus/history/ambassadors.htm Flag-showing cruises of the South African Navy]
+
+{{W and Z class destroyers|others}}
+
+{{DEFAULTSORT:Wessex}}
+[[Category:W and Z-class destroyers]]
+[[Category:Govan-built ships]]
+[[Category:1943 ships]]
+[[Category:World War II destroyers of the United Kingdom]]
+[[Category:Cold War destroyers of the United Kingdom]]
+[[Category:Type 15 frigates of the South African Navy]]
+[[Category:W-class destroyers of the South African Navy|Jan van Riebeeck]]
+[[Category:Ships sunk as targets]]</text>
+      <sha1>myc94tfb56cd5h7j8ujyaenlxijfqte</sha1>
+    </revision>
+  </page>
+</mediawiki>

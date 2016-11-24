@@ -1,0 +1,226 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>PPSh-41</title>
+    <ns>0</ns>
+    <id>3070369</id>
+    <revision>
+      <id>750770290</id>
+      <parentid>750769679</parentid>
+      <timestamp>2016-11-21T18:56:23Z</timestamp>
+      <contributor>
+        <username>Sus scrofa</username>
+        <id>270506</id>
+      </contributor>
+      <comment>rvv</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="25135">{{Infobox weapon
+ | name = PPSh-41
+ | image=[[File:PPSh-41 from soviet.jpg|300px]]
+ | caption = PPSh-41 with drum magazine
+ | origin  = [[Soviet Union]] &lt;!-- WP:INFOBOXFLAG --&gt;
+ | type    = [[Submachine gun]]
+&lt;!-- Type selection --&gt;
+ | is_ranged = yes
+&lt;!-- Service history --&gt;
+ | service   = 1941–1960s (USSR)&lt;br&gt;1941–present (Other countries) 
+ | used_by   = See ''[[PPSh-41#Users|Users]]''
+ | wars      = * [[World War II]]&lt;ref name=&quot;bishop1998&quot;&gt;{{citation | last = Bishop | first = Chris | title = Guns in Combat | publisher = Chartwell Books | year = 1998 | ISBN = 0-7858-0844-2}}.&lt;/ref&gt;
+* [[Korean War]]&lt;ref name = &quot;bishop1998&quot; /&gt;
+* [[Hungarian Revolution of 1956]]
+* [[Portuguese Colonial War]]
+* [[Bay of Pigs Invasion]]
+* [[Sino-Indian War]]
+* [[Vietnam War]]&lt;ref name= &quot;bishop1998&quot;/&gt;
+* [[Rhodesian Bush War]]&lt;ref name=&quot;blackfire&quot;&gt;{{cite book|last=Raeburn|first=Michael|title=
+We are everywhere: Narratives from Rhodesian guerillas|pages=1–209}}&lt;/ref&gt;&lt;ref&gt;http://www.rhodesia.nl/jackal.htm&lt;/ref&gt;
+* [[Cambodian Civil War]]
+* [[Yugoslav Wars]]&lt;ref&gt;{{cite AV media |people= |date=April 1999  |title=The Defense Of Bosnia |trans-title= |medium= |url=https://www.youtube.com/watch?v=3a1bQTDR9y8 |access-date=22 May 2015 |time=18:29 |publisher=Studio &quot;FLASH&quot; Sarajevo}}&lt;/ref&gt;
+
+&lt;!-- Production history --&gt;
+ | designer  = [[Georgy Shpagin]]
+ | design_date=1941
+ | manufacturer = Numerous
+ | production_date= 1941–1947&lt;ref&gt;[http://www.angelfire.com/ar/classicfirearms/PPSh41.html]&lt;/ref&gt;
+ | number         = Approx. 6,000,000
+ | variants       = See ''[[PPSh-41#Variants|Variants]]
+ | production_cost= Ca. 50-80 Roebels (WWII)
+&lt;!-- General specifications --&gt;
+ | weight         = {{convert|3.63|kg|lb|1|abbr=on}} (without magazine)
+ | length         = {{convert|843|mm|in|abbr=on}}
+ | part_length    = {{convert|269|mm|abbr=on|1}}
+ | width=
+ | height=
+&lt;!-- Ranged weapon specifications --&gt;
+ | cartridge      = [[7.62×25mm Tokarev]]
+ | action         = [[Blowback (arms)|Blowback]], [[open bolt]]
+ | rate           = 900 to over 1000 rounds/min&lt;ref&gt;{{cite book|script-title=ru:Наставление по стрелковому делу. Пистолет-пулемёт обр. 1941 г.|trans_title=NSD-41. PPSh-41|year=1941|publisher=[[Voenizdat]]|location=Moscow|url=http://reibert.info/forum/attachment.php?s=66fc008e1e5cc19c390357f9a62b3bbc&amp;attachmentid=1481157&amp;d=1337427416|language=ru}}&lt;/ref&gt;
+ | velocity       = 488 m/s (1,600.6 ft/s)
+ | range          = 125 - 150 m&lt;ref name=&quot;korwar&quot;&gt;{{cite book | last = Edwards | first = Paul M | title = The Korean War  | publisher = Greenwood Press | year = 2006 | location = Westport, CT | page = 77 | url = https://books.google.com/books?id=xA34hGXAjlIC&amp;pg=PA77 | edition= | isbn = 0-313-33248-7}}&lt;/ref&gt;
+ | max_range      = 200m - 250m&lt;ref&gt;http://ww2db.com/weapon.php?q=61&lt;/ref&gt;&lt;ref&gt;http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=217&lt;/ref&gt;
+ | feed           = 35-round [[box magazine]] or 71-round [[drum magazine]]
+ | sights         = [[Iron sight]]s
+}}
+
+The '''PPSh-41''' (''pistolet-pulemyot Shpagina''; {{lang-ru|Пистолет-пулемёт Шпагина}}; &quot;Shpagin machine pistol&quot;); is a [[Soviet Union|Soviet]] [[submachine gun]] designed by [[Georgi Shpagin]] as a cheap, reliable, and simplified alternative to the [[PPD-40]]. Common nicknames are &quot;''[[Pe (Cyrillic)|pe]]-pe-[[Sha (Cyrillic)|sha]]''&quot; from its three-[[Cyrillic script|letter]] prefix and &quot;''papasha''&quot; ({{lang-ru|папаша}}), meaning &quot;daddy&quot;.
+
+The PPSh is a magazine-fed [[selective fire]] submachine gun using an [[open-bolt]], [[blowback action]]. Made largely of [[Stamping (metalworking)|stamped]] steel, it can be loaded with  either a box or drum magazine, and fires the [[7.62×25mm Tokarev|7.62×25mm]] Tokarev pistol round.
+
+The PPSh saw extensive combat use during [[World War II]] and the [[Korean War]]. It was one of the major infantry weapons of the [[Soviet Armed Forces]] during World War II. Around six million PPSh-41s were manufactured. In the form of the Chinese Type 50 (a licensed copy), it was still being used by Vietnamese [[Viet Cong]] as late as 1970. According to the 2002 edition of the ''Encyclopedia of Weapons of World War II'' the PPSh was still in use with [[Irregular military|irregular military forces]].&lt;ref&gt;{{cite book | last = Bishop | first = Chris | title = The Encyclopedia of Weapons of World War II  | publisher = Sterling Publishing Company, Inc. | year = 2002 | page = 261 | url = https://books.google.com/books?id=MuGsf0psjvcC&amp;pg=PA261 | edition= Illustrated | isbn = 1-58663-762-2}}&lt;/ref&gt;
+
+==History==
+
+===World War II===
+The impetus for the development of the PPSh came partly from the [[Winter War]] against [[Finland]], where the Finnish Army employed the [[Suomi KP/-31]] submachine gun as a highly effective tool for close-quarter fighting in forests and built-up urban areas. A submachine gun, the [[PPD-40]], was subsequently rushed into mass production in 1940, but it was expensive to manufacture, both in terms of materials and labor, because it used numerous [[Milling (machining)|milled]] metal parts, particularly its receiver. Shpagin's main idea for cost reduction was to use [[Stamping (metalworking)|metal stamping]] for the production of most parts; that concept was revolutionary in the Soviet Union at the time. Shpagin created a prototype PPSh in September 1940, which also featured a simple gas compensator designed to prevent the muzzle from rising during bursts; this improved [[Grouping (firearms)|shot grouping]] by about 70% relative to the PPD.&lt;ref name=&quot;bolotin&quot;&gt;{{cite book|last=Болотин|first=Давид|script-title=ru:История советского стрелкового оружия и патронов|pages=109–114|publisher=Полигон|year=1995|isbn=5-85503-072-5|language=ru}}&lt;/ref&gt;
+
+The new weapon was produced in a network of factories in [[Moscow]], with high-level local [[Communist Party of the Soviet Union|party]] members made directly responsible for meeting production targets. A few hundred weapons were produced in November 1941 and another 155,000 were made during the next five months. By spring 1942, the PPSh factories were producing roughly 3,000 units a day.&lt;ref&gt;Rodric Braithwaite, ''Moscow 1941: A City and its People at War'', London: Profile Books, 2006, p. 236.&lt;/ref&gt; Soviet production figures for 1942 indicate that almost 1.5 million units were produced.&lt;ref name=&quot;bolotin&quot;/&gt; The PPSh-41 is a classic example of a design adapted for mass production (other examples of such wartime design are the [[M3 submachine gun]], [[MP40]], [[PPS submachine gun|PPS]], and the [[Sten]]). Its parts (excluding the barrel) could be produced by a relatively unskilled workforce with simple equipment available in an auto repair garage or tin shop, freeing more skilled workers for other tasks. The PPSh-41 uses 87 components compared to 95 for the [[PPD-40]] and the PPSh could be manufactured with an estimated 5.6 machining hours (later revised to 7.3 hours) compared with 13.7 hours for the PPD.&lt;ref&gt;{{cite web|url=http://www.cruffler.com/trivia-March01.html|title=Kalashnikov, Part 2: Soviet Political Economy and the Design Evolution of the Kalashnikov Avtomat|accessdate=2010-03-21}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Болотин|first=Давид|script-title=ru:История советского стрелкового оружия и патронов|pages=111 for the early estimate vs. PPD and p. 119 comparison with PPS|publisher=Полигон|year=1995|isbn=5-85503-072-5|language=ru}}&lt;/ref&gt; Barrel production was often simplified by using barrels for the 7.62mm [[Mosin–Nagant|M1891 Mosin–Nagant]] rifle: the rifle barrel was cut in half and two PPSh barrels were made from it after machining the chamber for the [[7.62×25mm Tokarev|7.62mm Soviet submachine gun]] cartridge.&lt;ref&gt;Pauly, Roger (2004). ''[https://books.google.com/books?id=izGOfMdSm2IC&amp;pg=PA141  Firearms: the life story of a technology]'', [[Greenwood Publishing Group]], p. 141 ISBN 0-313-32796-3&lt;/ref&gt;
+
+After the German Army captured large numbers of the PPSh-41 during World War II, a program was instituted to convert the weapon to the standard German submachine gun cartridge – [[9×19mm Parabellum]]. The ''[[Wehrmacht]]'' officially adopted the converted PPSh-41 as the &quot;MP41(r)&quot;; unconverted PPSh-41s were designated &quot;MP717(r)&quot; and supplied with [[7.63×25mm Mauser]] ammunition (which is dimensionally identical to 7.62×25mm, but slightly less powerful). German-language manuals for the use of captured PPShs were printed and distributed in the ''Wehrmacht''.&lt;ref name=&quot;ppsh41&quot;&gt;{{cite web|url=http://www.ppsh41.com/ppsh2.html|title=9 mm Conversion of the PPSh-41|accessdate=2010-03-21}}&lt;/ref&gt;
+
+[[File:PPSh-PPS-mags.jpg|PPSh vis-à-vis PPS box magazine|thumb|right]]
+As standard each PPSh-41 came with two factory fitted drum magazines that were matched to the weapon with marked serial numbers.  If drum magazines were mixed and used with different serial numbered PPSh-41, a loose fitting could result in poor retention and failure to feed.  Drum magazines were superseded by a simpler PPS-42 box-type magazine holding 35 rounds, although an improved drum magazine made from 1&amp;nbsp;mm thick steel was also introduced in 1944.&lt;ref name=&quot;bolotin&quot;/&gt;
+
+The [[PPS submachine gun|PPS]], an even simpler submachine gun, was later introduced in Soviet service in 1943, although it did not replace the PPSh-41 during the war.
+
+The Soviet Union also experimented with the PPSh-41 in a [[close air support]] [[anti-personnel]] role, mounting dozens of the submachine guns in forward fuselage racks on the Tu-2sh variant of the [[Tupolev Tu-2]] bomber.&lt;ref name=&quot;xs4all&quot;&gt;{{cite web|url=http://www.ppsh41.com/index-2.html|title=Tu-2 Gunships!|accessdate=2010-11-23}}&lt;/ref&gt;
+
+More than five million PPSh submachine guns were produced by the end of the war. The Soviets would often equip platoons and sometimes  entire companies with the weapon, giving them excellent short-range firepower.&lt;ref&gt;{{cite book|last1=Bishop|first1=Chris|title=The encyclopedia of weapons of World War II|date=2002|publisher=MetroBooks|location=New York|isbn=9781586637620|url=https://books.google.com/books/about/The_Encyclopedia_of_Weapons_of_World_War.html?id=MuGsf0psjvcC|accessdate=19 October 2014}}&lt;/ref&gt; Thousands more were dropped behind enemy lines in order to equip [[Soviet  partisans]]  to disrupt German supply lines and communications.
+
+===Korean War===
+After the Second World War, the PPSh was supplied in large quantities to Soviet client states and Communist guerrilla forces. The [[Korean People's Army]] (KPA) and the Chinese [[People's Volunteer Army]] (PVA) fighting in Korea received massive numbers of the PPSh-41, in addition to the North Korean Type 49 and the Chinese Type 50, which were licensed copies of the PPSh-41 with small mechanical revisions. The weapon was widely used during the [[Korean War]].
+
+Though relatively inaccurate, the Chinese PPSh has a high rate of fire and was well-suited to the close-range firefights that typically occurred in that conflict, especially at night.&lt;ref name=&quot;Halberstam447&quot;&gt;{{cite book 
+|last=Halberstam
+|first=David
+|title=The Coldest Winter
+|publisher=Hyperion Press
+|year=2007
+|page=447
+|isbn=978-1-4013-0052-4}}&lt;/ref&gt; United Nations forces in defensive outposts or on patrol often had trouble returning a sufficient volume of fire when attacked by companies of infantry armed with the PPSh. Some U.S. infantry officers ranked the PPSh as the best combat weapon of the war: while lacking the accuracy of the U.S. [[M1 Garand]] and [[M1 carbine]], it provided more firepower at short distances.&lt;ref name=&quot;Halberstam447&quot;/&gt; As infantry Captain (later General) [[Hal Moore]], stated: &quot;on full automatic it sprayed a lot of bullets and most of the killing in Korea was done at very close ranges and it was done quickly – a matter of who responded faster.  In situations like that it outclassed and outgunned what we had.  A close-in patrol fight was over very quickly and usually we lost because of it.&quot;&lt;ref name=&quot;Halberstam447&quot;/&gt; Other U.S. servicemen, however, felt that their [[M2 carbine]]s were superior to the PPSh-41 at the typical engagement range of 100–150 meters.&lt;ref name=&quot;Thompson2011&quot;&gt;{{cite book|author=Leroy Thompson|title=The M1 Carbine|url=https://books.google.com/books?id=km5XxecLeOkC&amp;pg=PA56|year=2011|publisher=Osprey Publishing|isbn=978-1-84908-619-6|page=56}}&lt;/ref&gt;
+
+==Features==
+[[File:Mémorial uniforme soviétique WWII.JPG|thumb|right|A PPSh-41 on display]]
+
+The PPSh-41 fires the standard Soviet pistol and submachine gun cartridge, the 7.62×25mm (Tokarev). Weighing approximately 12 pounds (5.45&amp;nbsp;kg) with a loaded 71-round drum and 9.5 pounds (4.32&amp;nbsp;kg) with a loaded 35-round box magazine, the PPSh is capable of a rate of about 1000 rounds per minute, a very high [[rate of fire]] in comparison to most other military submachine guns of World War II.  It is a durable, low-maintenance weapon made of low-cost, easily obtained components, primarily stamped sheet metal and wood.  The final production PPShs have top ejection and an ''L'' type rear sight that can be adjusted for ranges of 100 and 200 meters.  A crude [[Muzzle brake|compensator]] is built into the barrel jacket, intended to reduce [[muzzle climb]] during automatic fire. The compensator was moderately successful in this respect, but it greatly increased the [[muzzle flash]] and report of the weapon. The PPSh also has a hinged receiver to facilitate field-stripping and cleaning the weapon.  A chrome-lined bore enables the PPSh to withstand both corrosive ammunition and long intervals between cleaning.  No forward grip or forearm was provided, and the operator generally has to grasp the weapon behind the drum magazine with the supporting hand, or else hold the lower edge of the drum magazine.  Though 35-round curved box [[Magazine (firearms)|magazines]] were available from 1942, the average Soviet infantryman in World War II carried the PPSh with the original 71-round [[drum magazine]].&lt;ref name=&quot;worldguns&quot;&gt;{{cite web|url=http://world.guns.ru/smg/smg02-e.htm|title=Shpagin PPSh-41 submachine gun (USSR)|accessdate=2010-03-21}}&lt;/ref&gt;
+
+The PPSh drum magazine holds 71 rounds.  In practice, misfeeding is likely to occur with more than about 65.&lt;ref&gt;Mosier, ''The Blitzkrieg Myth'', p.86.&lt;/ref&gt;  In addition to feed issues, the drum magazine is slower and more complicated to load with ammunition than the later 35-round box magazine that increasingly supplemented the drum after 1942.  While holding fewer rounds, the box magazine does have the advantage of providing a superior hold for the supporting hand.  Although the PPSh is equipped with a sliding bolt safety, the weapon's open-bolt design still presents a risk of accidental discharge if the gun is dropped on a hard surface.
+
+==Users==
+&lt;!--READ FIRST: This section is for cited entries only. Please do not add entries into this list without a citation from a reliable source. All entries without a citation will be removed. Thank you.--&gt;
+
+[[File:Bundesarchiv Bild 116-168-618, Russland, Kampf um Stalingrad, Soldat mit MPi.jpg|thumb|right|A [[Germany|German]] soldier with the PPSh-41 amid the ruins of [[Stalingrad]], 1942.]]
+[[File:Bundesarchiv Bild 183-E0406-0022-011, Russland, deutscher Kriegsgefangener.jpg|thumb|right|A Red Army soldier armed with PPSh-41 marches a German soldier into captivity after the [[Battle of Stalingrad]], 1943]]
+[[File:Captured NVA Weapons.jpg|thumb|right|A collection of submachine guns captured from [[Vietnam People's Army|NVA]] forces. From top to bottom: [[PPS submachine gun|PPS-43]], [[MP 40]], [[K-50M]].]]
+
+*{{flagicon|Albania|1946}} [[People's Socialist Republic of Albania|People's Republic of Albania]]&lt;ref name=&quot;jones2009&quot;&gt;{{cite book |editor1-first=Richard D. |editor1-last=Jones |editor2-first=Leland S. |editor2-last=Ness |title=Jane's Infantry Weapons 2009/2010 |date=January 27, 2009 |edition=35th |publisher=Jane's Information Group |location=Coulsdon |isbn=978-0-7106-2869-5}}&lt;/ref&gt;
+*{{flag|Afghanistan|1980}} - Formerly in service with the Afghan Army in the 1980s.&lt;ref&gt;Г. П. Кашуба. Афганские встречи. М., изд-во ДОСААФ СССР, 1981. стр.73&lt;/ref&gt; Also used by various self-defense groups.&lt;ref&gt;Афганистан сегодня: фотоальбом. / сост. Хайдар Масуд, А. Н. Сахаров. М., «Планета», 1981. стр.202-203&lt;/ref&gt;
+*{{flag|Cuba}}&lt;ref&gt;''The Bay of Pigs: Cuba 1961'' by Alejandro Quesada, ISBN 978-1-84603-323-0, p. 62 url: [https://books.google.com/books?id=cchLfXrXpH4C&amp;pg=PA62&amp;lpg=PA62]&lt;/ref&gt;
+*{{flag|China}}: Made unlicensed copies under the designation &quot;Type 50&quot;.&lt;ref name=&quot;miller2001&quot;&gt;Miller, David (2001). ''The Illustrated Directory of 20th Century Guns''. Salamander Books Ltd. ISBN 1-84065-245-4.&lt;/ref&gt;
+*{{flag|East Germany}}: Used by the [[Border Troops of the German Democratic Republic|East German ''Grenztruppen'']] and became an unofficial symbol of the force. Designated &quot;MPi41&quot; in DDR service the PPSh-41 was gradually replaced by the [[AK-47]] beginning in 1960.&lt;ref name=BerlinWall&gt;{{cite book|last=Rottman|first=Gordon|title=The Berlin Wall and the Intra-German Border 1961-89|year=2008|publisher=Osprey Publishing|location=Oxford|isbn=978 184603 1939|pages=44}}&lt;/ref&gt;
+*{{flag|Finland}}: Used captured examples.&lt;ref&gt;{{cite web|url=http://www.jaegerplatoon.net/MACHINEPISTOLS2.htm|title=Machine Pistols, Captured and Bought|accessdate=2012-01-28}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ppsh41.com/finn.html|title=9 mm version of PPD-40 and PPSh-41|accessdate=2012-01-28}}&lt;/ref&gt;
+*{{flag|Guinea}}&lt;ref name=&quot;jones2009&quot;/&gt;
+*{{flag|Guinea Bissau}}: Used by the [[PAIGC]] in the [[Guinea-Bissau War of Independence]]&lt;ref&gt;World Armies, 1983. Page 239.&lt;/ref&gt; 
+*{{flag|Hungary}}: Captured and reissued PPSh-41s in the early 1940s.  Produced a local version in the early 1950s called the &quot;7.62mm Géppisztoly 48.Minta&quot;, or simply &quot;48m&quot;.&lt;ref name=&quot;sunblest&quot;&gt;{{cite web|url=http://www.hungariae.com/PPSh41.htm|title=7.62mm Submachine Gun PPSh41|accessdate=2010-03-21}}&lt;/ref&gt;&lt;ref name=&quot;Owen&quot;&gt;{{cite book|title=Warsaw Pact infantry and its weapons: Manportable weapons and equipment in service with the regular and reserve forces of the Soviet Union, Bulgaria, Poland, Rumania, and of Yugoslavia|author=Maj. Gen. J. I. Hardback. Owen|year=1976}}&lt;/ref&gt;
+*{{flag|Indonesia}}
+*{{flagicon image|Naval flag of Iran 1933-1980.svg}} [[Pahlavi dynasty|Iran]]: Produced a local version in the 1940s with a tangent rear sight.&lt;ref name=&quot;Owen&quot;/&gt;&lt;ref&gt;{{cite book|page=103|title=Arms Transfer Limitations and Third World Security|author=Thomas Ohlson|isbn=0-19-829124-8|publisher=[[Oxford University Press]]}}&lt;/ref&gt;
+*{{flag|Kurdistan}}
+*{{flag|Laos}}&lt;ref name=&quot;jones2009&quot;/&gt;
+*{{flag|Nazi Germany}}: Used captured guns, and also converted some to 9×19mm Luger under the designation &quot;MP41r&quot;.&lt;ref name=&quot;ppsh41&quot;/&gt;
+*{{flag|North Korea}}: Made licensed copies under the designation  &quot;Type 49&quot;.&lt;ref name=&quot;Weapon&quot;&gt;US Department of Defense, North Korea Country Handbook 1997, Appendix A: Equipment Recognition, PPSH 1943 SUBMACHINEGUN (TYPE-50 CHINA/MODEL-49 DPRK), p. A-79.&lt;/ref&gt;
+*{{flag|Poland|1945}}: Produced a local version, identical to late production Soviet design.&lt;ref&gt;{{cite book|title=The Polish Army 1939-1945|author= Steven J. Zaloga, Richard Hook|page=39|year=1982|isbn=0-85045-417-4|publisher=Osprey Publishing}}&lt;/ref&gt; Made under license as the &quot;7.62&amp;nbsp;mm pm wz.41&quot; by Łucznik Arms Factory.&lt;ref&gt;{{cite web|url=http://www.fabrykabroni.pl/tresci.php|title=Radom Before the Kalashnikov|publisher=Łucznik Arms Factory|archiveurl=http://archive.is/TWetj|accessdate=2013-12-08|archivedate=2013-12-08}}&lt;/ref&gt; It was used by the [[First Polish Army]].
+*{{flag|Romania|1965}}: Captured and reissued PPSh-41 submachine guns during 1941-1944. Made licensed copies during the 1950s at Cugir Arms Plant under the designation &quot;PM PPȘ Md. 1952&quot;.&lt;ref&gt;{{cite web|title=About us|archiveurl=https://web.archive.org/web/20120403164217/http://fabricadearmecugir.ro/|archivedate=2012-04-03|url=http://fabricadearmecugir.ro/|work=Fabricadearmecugir.ro|publisher=Cugir Arms Plant SA|accessdate=2013-12-08}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=Infanteria Română - 180 de ani|year=2010|publisher=Editura Centrului-Tehnic Editorial al Armatei|location=București|isbn=978-606-524-071-1|pages=261|url=http://www.rft.forter.ro/_wsn/01_biblioteca/pdf/c-006-infanteria-romana-180-de-ani.pdf}}&lt;/ref&gt;
+*{{flagicon|Somalia}} [[Somali Democratic Republic]]: 1970-80s by the Siad Barre military dictatorship.{{citation needed|date=October 2013}}
+*{{flag|Soviet Union}}: In service with the [[Soviet Army]] in 1942.&lt;ref name=&quot;miller2001&quot;/&gt;
+*{{flag|Syria|2016}}
+*{{flagicon|Vietnam}} [[North Vietnam]]: The Vietcong used the K-50M license-built copy during the Vietnam War.&lt;ref name=&quot;jones2009&quot;/&gt;
+*{{flag|Yugoslavia}}:  Locally produced a variant known as the [[M49 Submachine gun]].&lt;ref&gt;{{cite book|title=Standard Catalog of Military Firearms: The Collector's Price and Reference Guide|author=Philip Peterson|page=479|year=2011|isbn=1-4402-1451-4}}&lt;/ref&gt;&lt;ref&gt;{{cite book|title=Save the Last Bullet for Yourself: A Soldier of Fortune in the Balkans and Somalia|page=175|author=Rob Krott|isbn=1-932033-95-5}}&lt;/ref&gt;
+*{{flag|Zimbabwe}}&lt;ref name=&quot;blackfire&quot;/&gt;
+
+==Variants==
+*Type 50: A Chinese-made version of the PPSh-41. Unlike its Soviet counterpart, it only accepts column-type box magazines.&lt;ref name=&quot;Weapon&quot;/&gt;
+*Type 49: A North Korean made version of the PPSh-41. This model only accepts drum-based magazines.&lt;ref name=&quot;Weapon&quot;/&gt;
+*K-50M: A Vietnamese-made submachine gun based on the Type 50s supplied by China during the Vietnam War. The chief difference is that the cooling sleeve of the K-50 was truncated to three inches (76&amp;nbsp;mm)  and a foresight based on that of the French [[MAT-49]] was attached to the front of the barrel.&lt;ref&gt;{{cite web|url=http://www.vietnam-war.info/weapons/ppsh41_sub_machine_gun.php|title=PPSh41 Sub Machine Gun|accessdate=2009-01-17}}&lt;/ref&gt; Modifications include the addition of a pistol grip, a steel wire-made stock and the shortened barrel.&lt;ref name=&quot;K-50M&quot;&gt;{{cite web|url=http://world.guns.ru/smg/smg109-e.htm|title=Modern Firearms' K-50M Submachine Gun|accessdate=2009-01-17}}&lt;/ref&gt; The changes resulted in a weight of 3.4&amp;nbsp;kg (7.5&amp;nbsp;lb), making K-50M lighter than the PPSh-41 by 500 g (1.1&amp;nbsp;lb).&lt;ref&gt;{{cite web|url=http://www.skysoldier17.com/vc_weapons.htm|title=VC Weapons|accessdate=2009-01-17}}&lt;/ref&gt; The weapon uses a 35-round stick magazine, but the 71-round drum magazine can be used if the stock is fully retracted.&lt;ref name=&quot;K-50M&quot;/&gt;
+*MP41(r): A captured PPSh-41 converted to 9×19mm Parabellum caliber for use by German forces.
+*MP717(r): A captured, unconverted PPSh-41 placed in German service and supplied with 7.63×25mm Mauser ammunition
+*M-49: A Yugoslavian produced variant of the PPSh-41 design, though it differs in several important ways.
+*PPS-50: A [[Semi-automatic firearm|semi-automatic]] manufactured by Pietta. A non-restricted firearm in [[.22LR]] ammunition. The box magazine holds 30 and the drum magazine holds 50.  It is cosmetically similar to the PPSh-41, although the two share no other features.
+*VPO-135: A semi-automatic version of the PPSh-41 from Russia.
+*LTD PPSh-41: A semi-automatic-only clone of the PPSh-41. This variant with its fixed wooden stock is manufactured by Luxembourg Defence Technology for the civilian European sport shooting market.
+*SKL-41: A semi-automatic version of the PPSh-41 which became available on the German market in 2008. This version is converted to fire the [[9×19mm Parabellum]] cartridge. Aside from replicas of its original magazines, it also accepts [[MP 40]] magazines.
+
+==See also==
+*[[List of modern Russian small arms]]
+*[[List of submachine guns]]
+*[[Table of handgun and rifle cartridges]]
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+* {{cite book |title= Jane's Guns Recognition Guide Second Edition|last= Hogg|first=Ian |authorlink= |coauthors= |year=2000 |publisher=Janes |location=Glasgow |isbn=0-00-472453-4 |url= |page= }}
+
+==External links==
+{{Commons category}}
+*[http://www.youtube.com/watch?v=xuSVmHxQJS8&amp;mode=related&amp;search= Video of PPSh being fired with box and drum magazine]
+*[http://www.youtube.com/watch?v=tJ0YUd-sNLg&amp;mode=related&amp;search= Video of PPSh being fired in burst with 9 mm conversion]
+*[http://www.a-human-right.com/ppsh.html 17 photos of PPSh-41 and its parts]
+*[http://www.ppsh41.com/88ppsh.jpg Photograph of close air support anti-personnel mount]
+*[http://www.ppsh41.com/markings1.htm  Photographs of the markings present on different variations of PPSH-41 guns and their clones.]
+
+{{WWIIUSSRInfWeapons}}
+{{Weapons of Iran}}
+
+{{Authority control}}
+{{DEFAULTSORT:Ppsh-41}}
+[[Category:Submachine guns]]
+[[Category:Submachine guns of Russia]]
+[[Category:World War II submachine guns]]
+[[Category:World War II infantry weapons of the Soviet Union]]
+[[Category:7.62×25mm Tokarev firearms]]</text>
+      <sha1>0vt4ixled64f2kf9nrvsgabak30fzey</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,217 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Hanford Site</title>
+    <ns>1</ns>
+    <id>1873625</id>
+    <revision>
+      <id>748204961</id>
+      <parentid>689396914</parentid>
+      <timestamp>2016-11-07T00:03:59Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <comment>Adding/updating {{OnThisDay}} for 2016-11-06.  Errors? [[User:AnomieBOT/shutoff/OnThisDayTagger]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24363">{{ArticleHistory
+|action1=GAN
+|action1date=22:29, 6 February 2008
+|action1result=listed
+|action1oldid=189599945
+|action2=FAC
+|action2date=19:39, 6 April 2008
+|action2link=Wikipedia:Featured article candidates/Hanford Site
+|action2result=promoted
+|action2oldid=203813126
+|topic=Geography
+|currentstatus=FA
+|maindate=January 5, 2009
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class=FA|US=yes|Cold-War=yes|Science=yes|WWII=yes}}
+{{WikiProject History of Science|class=FA|importance=high}}
+{{WikiProject United States|class=FA|importance=high|UShistory=yes|UShistory-importance=high|USGov=yes|USGov-importance=high|USMIL=yes|WA=yes|WA-importance=high|EastWa=yes|EastWa-importance=high|Superfunds=Yes|Superfunds-importance=high}}
+{{WikiProject Environment|class=FA|importance=mid}}
+{{WikiProject National Register of Historic Places|class=FA|importance=related}}
+{{WikiProject Oregon|class=FA|importance=mid}}
+}}
+{{OnThisDay|date1=2014-11-06|oldid1=632629839|date2=2016-11-06|oldid2=747988201}}
+{{Archive box|[[/Archive 1|Archive 1]]}}
+
+==Suggestions for the next featured article review==
+
+Missed the featured article review last January, but here are some thoughts on how the article could be strengthened: 
+* There is no detailed map of the Hanford site. The current map shows areas, but provides limited correlation between areas and facilities. 
+* The article mentions that &quot;Hanford engineers produced many significant technological advances,&quot; but does not cite many, and the ones it cites are puzzling. That section of the article goes on to mention &quot;ammonia-based refrigeration systems&quot; which already existed prior to the war as well as use of Teflon as a gasket material, and use of closed-circuit television for operation (Teflon and closed-circuit television were not invented at Hanford, although they were applied there). No mention is made of inventions actually innovated at Hanford like:
+:* the [[Pulsed columns|pulsed column]], without which the aqueous-based reprocessing (i.e., [[PUREX]] flowsheet [[reprocessing]]) was extremely difficult.  
+:* the reactor [[Containment building|containment building]] - first used at the Plutonium Recycle Test Reactor (PRTR) at Hanford and effective in containing an accidental release, articles from this experience informed later NRC standards. Such a containment was reconfirmed at [[Three Mile Island]] to be effective in protecting the public and is common to all modern reactor designs. 
+* A fair amount of effort went into describing the reactor technology. No significant mention is made of the batch reprocessing technologies which were developed in the B, U &amp; T plants, in the REDOX facility, or in the PUREX plant (notably the first such in the world to use the [[PUREX]] flowsheet).   
+* The reader was informed that &quot;...many of the early safety procedures and waste disposal practices were inadequate.&quot; No discussion provides insights into the fact that these were new technologies created under wartime conditions with no existing safety or environmental standards. No mention is made of the influence that the experience and data from Hanford had on developing such standards. 
+* Much is made of the early reactors - no doubt in part due to the fine work by the B Reactor Museum Association. There are passing mentions of later production reactors - there were significant differences in function and technology which are worthy of more detailed mention. One test reactor, FFTF, gets passing mention, while another, PRTR, received no mention whatsoever. 
+* No mention is made of the plutonium finishing plant and its major cold war era role in preparing weapons material. 
+* No mention is made of the fuel fabrication facilities. 
+Someday when you have an urge to update this, these are topics which might warrant consideration. Skål -[[User:Williamborg|Williamborg]] ([[User talk:Williamborg|Bill]]) 04:24, 12 June 2009 (UTC)
+
+==Gallons to Liters (or &lt;i&gt;why don't we all just go metric&lt;/i&gt;)==
+
+At one point in the article it is mentioned:
+
+&quot;
+&lt;i&gt;Cooling water was pumped through the aluminium tubes around the uranium slugs at the rate of 30,000 US gallons per minute (130 L/s)&lt;/i&gt;
+&quot;
+
+I assume the quantity in parentheses refers to Liters per second; if so, this is incorrect. 30,000 US gallons per minute is about ~2,000 liters per second. Does anyone know whether this is a mistake in converting from gallons to liters, or the other way around? What's the correct figure? (The reference is a book.) Cheers!  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/84.238.24.248|84.238.24.248]] ([[User talk:84.238.24.248|talk]]) 21:22, 15 October 2009 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+ 
+::Agree the conversion is wrong. {{convert|30000|gal|l|-1}} divided by 60 seconds per minute gets you to 2000 liters per second. I'll make the change (for reasons that follow). 
+::Historical numbers sometimes make for problems when converted by nontechnical types. 
+::Odds are extremely good (99+%) that the GPM flow rate is correct - prior to 1950 the English system was the only system of units used at Hanford - heck, even to this day engineering at the Hanford site, nominally required to be done in metric since it is government funded, is performed in English units with metric conversions in parentheses. And if that seems strange to you, you might recall that although the United States was a founding member of the [[International Bureau of Weights and Measures]] in 1875,  the metric system is governmentally declared the &quot;preferred&quot; (but only voluntary) system of weights and measures for United States trade and commerce. There are no places in the U.S. where the metric system is absolutely required by law.  
+::You ask, &quot;why don't we all just go metric?&quot; Most folks don't like to change until it is mandatory. We're not all engineers and don't realize the substantial advantages of doing most scientific calculations in metric. The U.S. has been willing to pay the penalty to using English units to this day - I bought both gallons of gas and pounds of vegetables just hours ago. Until recently, the U.S. has been immune to economic pressure to change, and the U.S. hasn't changed - probably won't until the bottom line becomes clear.  
+::Skål - [[User:Williamborg|Williamborg]] ([[User talk:Williamborg|Bill]]) 04:24, 6 January 2010 (UTC)
+:::Confirmed with reference that it was 30,000 GPM. Since B was a single pass reactor, this means they pumped 30,000 GPM out of the river, treated it, pushed it through the reactor, and discharged it back to the river continuously except for refueling shutdowns. That's about 50 km&lt;sup&gt;3&lt;/sup&gt;/year of water through one of those reactors. Skål -[[User:Williamborg|Williamborg]] ([[User talk:Williamborg|Bill]]) 17:42, 6 January 2010 (UTC)
+
+==&quot;rolls of quarters&quot;==
+Geography --&gt; Plutonium production --&gt; para 1, sent 5: &quot;''Two hundred short tons (180 t) of uranium slugs the size of rolls of quarters...''&quot;.
+
+I do not know how many countries use quarters or a slang equivalent. I do not know how many countries' roll of quarters will match the length of a US roll of quarters. I am not even sure the US roll of quarters is what is being referenced in this article; US quarters make sense since it is an article about the US, but that is completely OR.
+
+I do know inches and centimeters can easily be converted into any other length system. Exactly what is the length of a roll of quarters from the country that is (non-)cited? [[Special:Contributions/71.234.215.133|71.234.215.133]] ([[User talk:71.234.215.133|talk]]) 07:25, 1 February 2010 (UTC)
+
+:I agree that a &quot;roll of quarters&quot; is not a standard measure and should be explained or replaced. A commercial business [http://www.bcwsupplies.com/products/Coin-Tubes/ here] that sells containers for rolls of U.S. coins gives the dimensions of a roll of U.S. quarters as 1 inch by 2 7/8 inches. Since this source is a dot-com, it might not be considered reliable per [[WP:RS]], but personal research suggests to me that these dimensions are correct. Maybe someone else knows of an RS for these dimensions. Would it make sense to insert the dimensions (with metric equivalents) into the text in parentheses after &quot;slugs the size of a roll of quarters&quot; with a ref to the dot-com (or a better source if one can be found)? The sentence, slightly modified and wikilinked might read, &quot;Two hundred short tons (180 t) of uranium slugs the size of rolls of U.S. coins called &quot;[[Quarter (United States coin)|quarter]]s&quot;&amp;mdash;(about {{convert|1|in|cm}} by {{convert|2.9|in|cm}}&amp;mdash;... &quot;. Or is this too clumsy? [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 18:19, 1 February 2010 (UTC)
+
+::I added the conversion from rolls to inches and centimeters and sourced it to a commercial firm that lists the dimensions. This is a bit awkward but perhaps solves the opaqueness problem. Feel free to modify if you see a better way. [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 18:58, 3 February 2010 (UTC)
+
+:::A roll is typically 40 quarters, as far as I know. What about changing the wording to &quot;US quarter-dollar coins&quot;? --[[Special:Contributions/76.115.67.114|76.115.67.114]] ([[User talk:76.115.67.114|talk]]) 04:37, 2 December 2011 (UTC)
+
+I replaced this with the correct information and added the reference. [[User:DABurbank|DABurbank]] ([[User talk:DABurbank|talk]]) 21:53, 6 November 2015 (UTC)
+
+==Probable unit conversion or data error==
+
+&quot;By 1957, the eight plutonium production reactors at Hanford dumped a daily average of 50,000 curies (1,900 TBq) of radioactive material into the Columbia.[43]&quot;
+
+This sentence is prima facie implausible, as 50,000Ci/day would release a Chernobyl-scale amount roughly every five years, and would have put the entire discharge of the Columbia River ''several thousand'' times over the EPA's current 15pCi/L limit for alpha emitters.  Someone screwed up their units, and unless someone has a better source than [43] this should go away.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/166.70.89.180|166.70.89.180]] ([[User talk:166.70.89.180|talk]]) 23:27, 5 February 2010 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:You might be right, but it's generally better to discuss first before removing significant information or a source from a featured article. I have no expertise in radiation, but the source you removed [http://www.psr.org/chapters/washington/hanford/hanford-history.html here] is not the only source that supports the claim. [http://books.google.com/books?id=3Y33xWBvyb0C&amp;pg=PA298&amp;lpg=PA298&amp;dq=Hanford+50,000+curies&amp;source=bl&amp;ots=y_wuvPZZyC&amp;sig=phgbdvFGwpiCXoCSS9xHGqKdqA0&amp;hl=en&amp;ei=zaZtS4qgI4_QsQPrk_GxDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CBMQ6AEwAw#v=onepage&amp;q=Hanford%2050%2C000%20curies&amp;f=false Here] it is in ''On the home front: the Cold War legacy of the Hanford Nuclear Site'' by Michele Stenehjem Gerber. [http://www.nytimes.com/1990/08/05/opinion/generations-of-poison-and-lies.html?pagewanted=all Here] an editorial in ''The New York Times'' refers to Hanford as a &quot;creeping Chernobyl&quot;. A report, &quot;A Short History of Hanford Waste Generation, Storage, and Release&quot; generated for the U.S. Department of Energy (DOE) says in a subsection entitled &quot;Radionuclide Releases into the Columbia River&quot; [http://74.125.155.132/search?q=cache:krFUTaeiESMJ:www.pnl.gov/main/publications/external/technical_reports/PNNL-13605rev4.pdf+50,000+curies+hanford&amp;cd=21&amp;hl=en&amp;ct=clnk&amp;gl=us&amp;client=firefox-a here] says, &quot;An estimated 110 million curies of radiation were released to the Columbia River from 1944 to 1971 during the operation of Hanford’s first eight reactors (Heeb and Bates 1994)&quot;. Given this number, is it not possible that the peak amount during this stretch did in fact reach 50,000 curies a day? [[User:Finetooth|Finetooth]] ([[User talk:Finetooth|talk]]) 18:31, 6 February 2010 (UTC)
+
+== Plutonium Recycle Research Reactor ==
+The dome on the PRTR was removed Saturday, January 15th, 2011. Anyone have a good picture they can share?  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/130.20.3.152|130.20.3.152]] ([[User talk:130.20.3.152|talk]]) 20:06, 17 January 2011 (UTC)&lt;/span&gt;&lt;!-- Template:UnsignedIP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:[http://nuclearstreet.com/nuclear_power_industry_news/b/nuclear_power_news/archive/2011/01/18/tricityherald_3a00_-hanford-removes-the-plutonium-recycle-test-reactor-dome-011801.aspx#.VeLBdvZVhHw Here] is a good article with photos and a link to the source newspaper article. [[User:DABurbank|DABurbank]] ([[User talk:DABurbank|talk]]) 08:48, 30 August 2015 (UTC)
+
+== Photo of high school ==
+In the article's section headed &quot;Site selection&quot; are two photographs of a high-school building.  The first, which shows the building in ordinary condition, is captioned &quot;Hanford High School, shown before residents were displaced by the creation of the Hanford Site.&quot;  The second, in which the building is a burned-out hulk, is captioned &quot;Hanford High after abandonment.&quot;
+
+The latter caption is unfair.  The building appears to have suffered vandalism, not mere abandonment.
+
+Maybe someone who knows the structure's history can modify the caption, to indicate when the burning of the building took place.  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/108.52.30.154|108.52.30.154]] ([[User talk:108.52.30.154|talk]]) 00:13, 15 August 2011 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+:In fact, the former school was used for target practice, according to the U.S. government [http://www.hanford.gov/page.cfm/HanfordBeforetheReactors], which would explain its current condition. I looked and could not find a way to construe the caption as &quot;unfair&quot; though it might be a bit misleading, which I don't think was intentional. See also [[Hanford, Washington]], which mentions the [http://ebchs.org/architecture/Hanford/townsite/h_hanford_townsite.htm use of the building] by SWAT teams. [[User:Valfontis|Valfontis]] ([[User talk:Valfontis|talk]]) 01:32, 15 August 2011 (UTC)
+==File:Hanford site tank interior.jpg Nominated for speedy Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Hanford site tank interior.jpg|File:Hanford site tank interior.jpg]], has been nominated for speedy deletion at [[Wikimedia Commons]] for the following reason: ''Copyright violations'' 
+;What should I do?
+''Don't panic''; deletions can take a little longer at Commons than they do on Wikipedia. This gives you an opportunity to contest the deletion (although please review Commons guidelines before doing so). The best way to contest this form of deletion is by posting on the image talk page.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+* If the image has already been deleted you may want to try [[commons:COM:UR|Commons Undeletion Request]]
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 14:23, 2 October 2011 (UTC)
+|}
+
+==Article renaming?==
+What about renaming the article to &quot;Hanford Nuclear Site&quot;? &quot;Hanford Site&quot; is fairly vauge. I mean, I know what it is because I grew up in Oregon, but a lot of people wouldn't know. It would get more relevant search engine hits, too. --[[Special:Contributions/76.115.67.114|76.115.67.114]] ([[User talk:76.115.67.114|talk]]) 04:39, 2 December 2011 (UTC)
+:Its name is &quot;Hanford Site&quot; as documented in reliable sources, so that's what Wikipedia calls it; the Manhattan Project administration and AEC weren't terribly interested in descriptive names. A redirect page called &quot;Hanford Nuclear Site&quot; would accomplish your goal, though. '''&lt;font face=&quot;Arial&quot;&gt;[[User:Acroterion|&lt;font color=&quot;black&quot;&gt;Acroterion&lt;/font&gt;]] &lt;small&gt;[[User talk:Acroterion|&lt;font color=&quot;gray&quot;&gt;(talk)&lt;/font&gt;]]&lt;/small&gt;&lt;/font&gt;''' 05:06, 2 December 2011 (UTC)
+
+== Washington Governor Comment on Leak Discovered at the Hanford Site Misleading ==
+
+The end of the environmental concerns quotes Washington's governor as saying the leak discovered poses no immediate threat, but the quote is taken out of a complete sentence and out of context, implying the threat is minimal.
+
+The actual segment of the Governor's statement as cited by CNN reads:
+&quot;This is an extremely toxic substance, and we have to have a zero-tolerance policy for leaks of radioactive material into the ground and potentially groundwater of the state of Washington,&quot; Gov. Jay Inslee said.
+
+He stressed that the leak poses no immediate public heath risk but said that fact should not be an excuse for complacence.
+
+&quot;At the same time that I am making clear that this is a long-term, very significant concern of the state of Washington; it is not a short-term concern,&quot; he said.
+http://edition.cnn.com/2013/02/15/us/washington-tank-leak/index.html
+[[Special:Contributions/76.0.12.98|76.0.12.98]] ([[User talk:76.0.12.98|talk]]) 12:15, 17 February 2013 (UTC)
+==infobox==
+would anyone object to using the superfund infobox? [[:Template:Infobox superfund]] if no objections, i will drop in after a pause. [[Special:Contributions/198.24.31.118|198.24.31.118]] ([[User talk:198.24.31.118|talk]]) 20:45, 10 September 2013 (UTC)
+:It seems like an appropriate infobox. [[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;cursor:help&quot;&gt;&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;&lt;/span&gt;]] 22:15, 10 September 2013 (UTC)
+
+:I actually '''object''', as the scope and history of Hanford is a lot larger than the Superfund aspect, yet adding an infobox will visually dominate the article with a Superfund infobox of unclear value. If such an infobox makes sense at all, it makes more sense at an article like [[Love Canal]] where the subject would not have been notable without the contamination aspect. Regards, &lt;span style=&quot;font-variant:small-caps&quot;&gt;[[User:Orange Suede Sofa|&lt;font color=&quot;DarkGreen&quot;&gt;Orange Suede Sofa&lt;/font&gt;]]&lt;/span&gt; ([[User talk:Orange Suede Sofa|talk]]) 22:26, 10 September 2013 (UTC)
+::The history of the Hanford Site goes back a few decades but I think it has tens of thousands of millennia as a &quot;Superfund&quot; site or whatever the legacy name is for a big mess. It is the largest and most funded Superfund site, is it not? If so, then if the infobox does not belong here then it may not belong anywhere. I am not sure - the bombs definitely were part of the history, but the mess is a big deal too. Hmmm... I am not sure what is best. Is there another infobox option? How about one for general polluting manufacturing facilities? [[:Template:Infobox factory]] [[User:Bluerasberry|&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;''' Blue Rasberry '''&lt;/span&gt;]][[User talk:Bluerasberry|&lt;span style=&quot;cursor:help&quot;&gt;&lt;span style=&quot;background:#cedff2;color:#11e&quot;&gt;(talk)&lt;/span&gt;&lt;/span&gt;]] 01:53, 11 September 2013 (UTC)
+
+:::Thanks for your thoughts&amp;mdash; I'm actually leaning toward &quot;the infobox may not belong anywhere&quot; because it adds so little value. It only offers a few parameters, one of which is not interesting at all to general readership (CERCLIS) and the others (nature of problem and a few dates) that can be easily placed in prose in the article. If we look at the lead section of this article as it stands now, we have a large high-quality photograph and a good summary; I'd hate to see that compromised for the sake of an infobox that isn't that informative anyway. 
+:::I'm not trying to bury (ha!) the contamination aspect, but given the sheer amount of human history in the area (the Native American sites, the two towns that were forcibly evacuated during construction, not to mention that B Reactor is a [[National Historic Landmark]], etc.), I just don't think that adding a content-light infobox dedicated to a narrow aspect of the subject will actually improve the article. Perhaps an alternative can be to place the infobox later in the article, closer to the environmental cleanup section. I've seen that done in other articles.  Regards, &lt;span style=&quot;font-variant:small-caps&quot;&gt;[[User:Orange Suede Sofa|&lt;font color=&quot;DarkGreen&quot;&gt;Orange Suede Sofa&lt;/font&gt;]]&lt;/span&gt; ([[User talk:Orange Suede Sofa|talk]]) 16:16, 11 September 2013 (UTC)
+::::ok see if you like how it looks. i see you objected. i note there are more than one cerclis numbers, i found the epa docs there interesting primary material. i'm kinda agnostic about these things , but am persuaded that machine readable site data is useful. [[Special:Contributions/198.24.31.118|198.24.31.118]] ([[User talk:198.24.31.118|talk]]) 17:19, 11 September 2013 (UTC)
+:::::I created an alternative proposal [[User:Orange_Suede_Sofa/sandbox/Hanford_Site#Environmental concerns|here]]. It moves the infobox closer to the environmental concerns section and removes parameters that aren't necessary at that point in the article. Thoughts? (And I agree that machine readable site data is useful; I just don't think that it should come at the expense of human readers.) Regards, &lt;span style=&quot;font-variant:small-caps&quot;&gt;[[User:Orange Suede Sofa|&lt;font color=&quot;DarkGreen&quot;&gt;Orange Suede Sofa&lt;/font&gt;]]&lt;/span&gt; ([[User talk:Orange Suede Sofa|talk]]) 00:39, 12 September 2013 (UTC)
+
+== Heads Up Warning, Copy Edits Coming ==
+
+This article is listed in the current run of Articles Needing Copy Edit. Because it is larger and of higher importance than many on that list, it is likely to get more attention, and sooner. I hope to get back to it next week, unless another copy editor beats me to it. Be forewarned that, whoever jumps in on it, the prose style of the opening section will be substantially simplified to improve clarity. No information will be lost, but it may be moved around to improve sense and flow. Don't panic. All will be well. [[User:Here.it.comes.again|Here.it.comes.again]] ([[User talk:Here.it.comes.again|talk]]) 07:18, 14 September 2013 (UTC)
+
+: Many thanks! I look forward to seeing what you do, and will try to pitch in if I can. -[[User:Peteforsyth|Pete]] ([[User talk:Peteforsyth|talk]]) 16:53, 14 September 2013 (UTC)
+
+== External links modified ==
+
+Hello fellow Wikipedians,
+
+I have just added archive links to {{plural:1|one external link|1 external links}} on [[Hanford Site]]. Please take a moment to review [https://en.wikipedia.org/w/index.php?diff=prev&amp;oldid=678222724 my edit]. If necessary, add {{tlx|cbignore}} after the link to keep me from modifying it. Alternatively, you can add {{tlx|nobots|deny{{=}}InternetArchiveBot}} to keep me off the page altogether. I made the following changes:
+*Added archive https://web.archive.org/20101117151138/http://www.hanfordnews.com:80/2009/06/03/13506/fast-flux-test-facility-shutdown.html to http://www.hanfordnews.com/2009/06/03/13506/fast-flux-test-facility-shutdown.html
+
+When you have finished reviewing my changes, please set the ''checked'' parameter below to '''true''' to let others know.
+
+{{sourcecheck|checked=false}}
+
+Cheers. —[[User:Cyberbot II|&lt;sup style=&quot;color:green;font-family:Courier&quot;&gt;cyberbot II]]&lt;small&gt;&lt;sub style=&quot;margin-left:-14.9ex;color:green;font-family:Comic Sans MS&quot;&gt;[[User talk:Cyberbot II|&lt;span style=&quot;color:green&quot;&gt;Talk to my owner]]:Online&lt;/sub&gt;&lt;/small&gt; 02:17, 28 August 2015 (UTC)
+
+== Historic pictures ==
+
+In the media viewer a picture is featured with a wrong description &quot;The rising mushroom cloud from the Nagaskai &quot;Fat Man&quot; bomb, August 9, 1945&quot;. I'm unable to find this description in the article. Could someone more knowledgable make the proper correction?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Theking2|Theking2]] ([[User talk:Theking2|talk]] • [[Special:Contributions/Theking2|contribs]]) 12:46, 4 October 2015 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;</text>
+      <sha1>pck7pl9ogrus26m5yp6ykgpdp0yk4ug</sha1>
+    </revision>
+  </page>
+</mediawiki>

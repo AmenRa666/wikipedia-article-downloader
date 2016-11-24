@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian monitor Admiral Chichagov</title>
+    <ns>0</ns>
+    <id>47216271</id>
+    <revision>
+      <id>685283246</id>
+      <parentid>684042332</parentid>
+      <timestamp>2015-10-11T23:52:31Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break, plain list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9416">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Admiral chichagov.jpg|300px]]
+|Ship caption=''Admiral Chichagov'' at anchor
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country={{nowrap|[[Russian Empire]]}}
+|Ship flag={{shipboxflag|Russian Empire|naval}}
+|Ship name=''Admiral Chicagov''
+|Ship namesake=Admiral [[Vasily Chichagov]]
+|Ship ordered=4 June 1865&lt;ref group=Note&gt;All dates used in this article are [[Old Style and New Style dates|New Style]]&lt;/ref&gt;
+|Ship builder=Semiannikov &amp; Poletika Shipyard, [[Saint Petersburg]]
+|Ship laid down=20 November 1866
+|Ship launched= 13 October 1868
+|Ship in service=1869
+|Ship decommissioned=31 March 1907
+|Ship reclassified=As a [[coast defense ship|coast-defense]] [[ironclad]], 13 February 1892
+|Ship struck=14 August 1907   
+|Ship fate=Unknown
+|Ship original cost=1,177,500 [[ruble]]s
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Admiral Spiridov|monitor|3|warship}}
+|Ship displacement={{convert|3505|-|3587|LT|t|0}} 
+|Ship length={{convert|254|ft|m|1|abbr=on}} ([[waterline]])
+|Ship beam={{convert|43|ft|m|1|abbr=on}}
+|Ship draft={{convert|21|ft|m|1|abbr=on}}
+|Ship power=*{{convert|2000|ihp|lk=in|abbr=on}}
+*4 rectangular [[fire-tube boiler]]s
+|Ship propulsion=1 Shaft, 1 [[Marine steam engine#Direct acting|direct-action steam engine]]
+|Ship speed={{convert|10|kn|lk=in}}
+|Ship range={{convert|1400|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=280 officers and crewmen
+|Ship armament=*2 × twin {{convert|9|in|adj=on|0}} [[Muzzle-loading rifle|Rifled muzzle-loading]] guns
+*12&amp;ndash;15 [[naval mine|mines]]
+|Ship armor=*[[Belt armor|Belt]]: {{convert|3|-|7.5|in|mm|0|abbr=on}}
+*[[Gun turret]]s: {{convert|6|-|6.5|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|5|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|1|in|mm|0|abbr=on}} 
+|Ship notes=
+}}
+|}
+
+The '''Russian monitor ''Admiral Chichagov''''' ({{lang-ru|Адмирал Чичагов}}) was the second and last of the two {{sclass-|Admiral Spiridov|monitor|3|warship}}s built for the [[Imperial Russian Navy]] in the late 1860s. The ship was assigned to the [[Baltic Fleet]] upon completion and remained there for her entire career. Aside from an incident where she [[Ship grounding|ran aground]], her service was uneventful. The [[sister ship]]s were reclassified as [[coast defense ship|coast-defense]] [[ironclad]]s in 1892 before they became [[training ship]]s in 1900. ''Admiral Spiridov'' was stricken from the [[Navy List]] in 1907 and became a [[target ship]]. Her ultimate fate is unknown.
+
+==Design and description==
+The ''Admiral Spiridov''-class monitors were significantly larger than their predecessors, the {{sclass-|Charodeika|monitor|4}}, and were {{convert|254|ft|m|1}} long at the [[waterline]]. They had a [[Beam (nautical)|beam]] of {{convert|43|ft|m|1}} and a maximum draft of {{convert|21|ft|m|1}}. The ships were designed to [[Displacement (ship)|displace]] {{convert|3196|LT|t}}, but turned out to be overweight and actually displaced {{convert|3505|to|3587|LT|t}}. Their crew consisted of 280 officers and crewmen. The ''Admiral Spiridov'' class had a single two-cylinder horizontal [[Marine steam engine#Direct acting|direct-acting steam engine]]. It drove a single propeller using steam provided by four rectangular [[fire-tube boiler]]s. The engine was designed to produce a total of {{convert|2000|ihp|lk=in}} which gave the ships speeds between {{convert|9.1|-|9.5|kn|lk=in}} when they ran their initial [[sea trial]]s in 1869. The ship carried {{convert|280|LT|t}} of coal which gave her a range of {{convert|1400|nmi|lk=in}} at full speed. She was fitted with three [[mast (sailing)|masts]] in a light [[fore-and-aft rig]] to steady her and aid in maneuvering.&lt;ref&gt;McLaughlin, pp. 115–16, 122–23&lt;/ref&gt;
+
+The monitors were ultimately designed to be armed with four [[Obukhov State Plant|Obukhov]] 9-inch rifled guns, a pair in each [[turret]]. In 1874–75 the guns were replaced by a single {{convert|11|in|0|adj=on}} gun. During the [[Russo-Turkish War (1877–78)|Russo-Turkish War of 1877–78]], a 9-inch [[mortar (weapon)|mortar]] was fitted to attack the thin deck armor of enemy ships, but accuracy was poor and they were later removed, probably in the early 1880s.  An improved, more powerful, 11-inch gun was installed aboard ''Admiral Chichagov'' during the 1880s. Light guns for use against [[torpedo boat]]s were added to the ''Admiral Spiridov''-class ships during the Russo-Turkish War when a pair of 4-pounder {{convert|3.4|in|adj=on}} guns were mounted on the roofs of each gun turret. A variety of other small guns are known to have been fitted, but details are lacking. The ships could also carry 12 to 15 [[naval mine|mines]].&lt;ref&gt;McLaughlin, pp. 118–20&lt;/ref&gt;
+
+The hull of the ''Admiral Spiridov''-class monitors was completely covered by [[wrought iron|wrought-iron]] armor that was {{convert|5.5|to|6.5|in|mm|0}} thick amidships and thinned to {{convert|3.25|in|mm|0}} aft and {{convert|3.5|in|mm|0}} forward of the main belt. The turrets had 6 inches of armor, except around the [[Glossary of nautical terms#G|gun ports]], where it thickened to 6.5 inches. The [[conning tower]] was {{convert|5|in|mm|0}} thick and the [[deck (ship)|deck]] armor was in two layers with a total thickness of 1 inch.&lt;ref&gt;McLaughlin, pp. 121–22&lt;/ref&gt;
+
+==Construction and service==
+''Admiral Chichagov'', named for Admiral [[Vasily Chichagov]],&lt;ref&gt;Silverstone, p. 372&lt;/ref&gt; was ordered on 4 June 1865 from the [[Sredne-Nevskiy Shipyard|Semiannikov &amp; Poletika Shipyard]], [[Saint Petersburg]], although the formal [[keel]]-laying was not until 20 November 1866. Construction was delayed by changes to the design and late deliveries of components. She was [[Ship naming and launching|launched]] on 28 August 1868 and then transferred to [[Kronstadt]] for [[fitting out]] as the shallow waters around Saint Petersburg prevented deep-draft ships from being completed. This added more delays as the dockyard there lacked the equipment to efficiently fit out the ships, and she officially entered service in 1869 at the cost of 1,177,500 [[Russian ruble|rubles]].&lt;ref&gt;McLaughlin, pp. 113–14&lt;/ref&gt;
+
+On 20 July 1870, ''Admiral Chichagov'' struck a [[sandbank]] near [[Primorsk, Leningrad Oblast|Koivisto]] at full speed. While not damaged in the incident, she was very firmly stuck and, an attempt by the [[armored frigate]] {{ship|Russian ironclad|Sevastopol||2}} pull her off failed two days later when the [[hawser]] snapped. The Russians started to off-load coal and equipment onto the low deck of the {{ship|Russian monitor|Strelets||2}} in preparation for another attempt. While rigging another hawser aboard ''Strelets'', it moved unexpectedly, badly injuring the ship's [[executive officer]] and a [[bosun]], who later died of his injuries. The subsequent attempt by ''Sevastopol'' also failed, so several [[barge]]s and a [[floating crane]] were summoned from Kronstadt the next day. As much weight as possible was transferred to the barges, including her forward guns, and she was successfully pulled free on 25 July. ''Admiral Chichagov'' was not damaged in the incident.&lt;ref&gt;McLaughlin, pp. 124–26&lt;/ref&gt;
+
+On 18 July 1875, she accidentally collided with the monitor {{ship|Russian monitor|Veschun||2}}, but neither ship was seriously damaged. ''Admiral Chichagov'' served as the flagship for [[Captain 1st Rank]] [[Stepan Makarov]] during the 1885 fleet maneuvers in the approaches to the Gulf of Riga. She was reclassified as a coast-defense ironclad on 13 February 1892. By this time, her role in Russian war plans was to defend the Gulf of Riga against an anticipated German [[amphibious landing]]. In 1900, ''Admiral Chichagov'' was assigned to the Kronstadt Engineering School as a training ship, although she was transferred to [[Liepāja|Libau]] during the [[Russo-Japanese War]] of 1904–05 to reinforce the port's defenses. The ship was transferred to the Port of Kronstadt on 31 March 1907 for disposal. The ship was stricken on 14 August and her [[hulk (ship)|hulk]] was used as a target near [[Tallinn|Reval]]. Her ultimate fate is unknown.&lt;ref&gt;McLaughlin, p. 126&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|30em}}
+
+==References==
+*{{cite book|last=McLaughlin|first=Stephen|chapter=The Turret Frigates of the ''Admiral Lazarev'' and ''Admiral Spiridov'' Classes|editor=Jordan, John|publisher=Conway|location=London|year=2014|title=Warship 2014|isbn=978-1-84486-236-8|pages=112–28}} 
+*{{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+==Further reading==
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor=Robert Gardiner|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4}}
+*{{cite journal|year=1972|title=Russian Monitors and Coast Defense Ships|journal=Warship International|publisher=Naval Records Club|location=Toledo, OH|volume=IX|issue=3|pages=304–305|issn=0043-0374}}
+*{{cite book|last=Watts|first=Anthony J.|title=The Imperial Russian Navy|publisher=Arms and Armour|location=London|year=1990|isbn=0-85368-912-1}}
+
+{{Admiral Spiridov class monitor}}
+{{Ironclads of Russia}}
+
+{{Good article}}
+
+[[Category:Admiral Spiridov-class monitors]]
+[[Category:1868 ships]]</text>
+      <sha1>3kmsjgzxbdfcuqf4nqetaselakwpwnc</sha1>
+    </revision>
+  </page>
+</mediawiki>

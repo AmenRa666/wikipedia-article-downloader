@@ -1,0 +1,105 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Weissenstein</title>
+    <ns>0</ns>
+    <id>37406493</id>
+    <revision>
+      <id>727017593</id>
+      <parentid>724883532</parentid>
+      <timestamp>2016-06-26T02:11:10Z</timestamp>
+      <contributor>
+        <username>APersonBot</username>
+        <id>21527109</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots/Requests for approval/APersonBot 8|Bot]] updating 2 categories with sort keys for an article about a battle</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4447">{{Infobox military conflict
+|conflict=Battle of Weissenstein
+|image=
+|caption=
+|partof=the [[Polish-Swedish War (1600–1611)]]
+|date=September 25, 1604
+|place=[[Paide|Weissenstein]], modern-day [[Estonia]]
+|result=Polish victory
+|combatant1={{flagicon|Sweden|1562}} [[Kingdom of Sweden (1523–1611)|Sweden]]|
+|combatant2=[[File:Herb Rzeczypospolitej Obojga Narodow.svg|16px]] [[Polish-Lithuanian Commonwealth]]
+|commander1=[[Arvid Stålarm]]&lt;br/&gt;
+[[Alonzo Cacho de Canut]] {{KIA}}
+|commander2=[[Jan Karol Chodkiewicz]]
+|strength1=5,000 men&lt;br&gt;6 cannons&lt;ref name=&quot;Bialy&quot;&gt;[http://www.jasinski.co.uk/wojna/battles/1600-Sw/1600-Sw-06.htm Battle of Bialy Kamien]&lt;/ref&gt;
+|strength2=2,300 men&lt;ref name=&quot;Bialy&quot;/&gt;
+|casualties1=3,000 killed,&lt;br&gt;wounded or captured&lt;br&gt;6 cannons&lt;br&gt;26 banners&lt;ref name=&quot;Vägen till Stormakt&quot;&gt;{{cite book |title=Vägen till Stormakt |last=Isacson |first=Claes-Göran (ed) |year=2006 |publisher=Norstedts |location=Stockholm |language=Swedish |isbn=91-1-301502-8 |oclc=}}&lt;/ref&gt;&lt;ref name=&quot;Sundberg&quot;/&gt;
+|casualties2=50 killed&lt;br&gt;100 wounded&lt;ref name=&quot;Podhorodecki&quot;&gt;Leszek Podhorodecki, &quot;Rapier i koncerz&quot;, Warszawa 1985&lt;/ref&gt;
+}}
+{{Campaignbox Polish–Swedish War (1600–1611)}}
+
+The '''Battle of Weissenstein'''&lt;ref name=&quot;Sundberg&quot;&gt;Sundberg, Ulf: Svenska krig 1521-1814, Hjalmarson &amp; Högberg Bokförlag, Stockholm 2002&lt;/ref&gt; or '''Battle of Biały Kamień'''&lt;ref name=&quot;Bialy&quot;/&gt; was fought during the [[Polish–Swedish War (1600–1611)]], between Sweden and the Polish–Lithuanian Commonwealth on 25 September 1604. The Swedish army was commanded by [[Arvid Stålarm]] and the Polish army under [[Jan Karol Chodkiewicz]]. The battle ended with a victory for Poland, who sent a relief party against the Swedish forces which besieged [[Paide]] (Weissenstein).&lt;ref name=&quot;Vägen till Stormakt&quot;/&gt;
+
+Swedish army arrived in the summer to Estonia (6000 troops&lt;ref name=&quot;Podhorodecki&quot;/&gt;) led by [[Arvid Stålarm]] and Spanish mercenary [[Alonzo Cacho de Canut]] besieged September 15, 1604 Weissenstein. The first Swedish assault was repulsed by  fortress crew. September 25 came up to the rescue [[Jan Karol Chodkiewicz]] (2300 soldiers&lt;ref name=&quot;Podhorodecki&quot;/&gt;). The battlefield was located between the road from Dorpat to Reval, which arrived the Polish-Lithuanian army and marshy streams located in the east, west and south. Nearby Weissenstein was located in the marshy valley west of the battlefield.
+
+Seeing the approaching army of the Polish-Lithuanian Alonzo de Canut proposed setting loose formation in Spanish style. However Stålarm, keeping in mind that in previous battles Poles and Lithuanians at first chase away Swedish cavalry, and then cut out infantry, this time he decided to mix infantry and cavalry. The left, stronger flank Swedish, made up of Germans mercenaries led by de Canut was based on a narrow causeway and the road leading to Reval. The right flank, composed of the Finns was weaker, but protected with marshy streams. Center, led by Stålarm, consisted solely of Swedish troops. Chodkiewicz, after the diagnosis of the enemy formation, he decided to attack the left Swedish flank, because he believed that the Swedish commander did not expect such a move. Therefore, the right flank of the Polish Army stood Hussars, on the left - light cavalry, in the center of infantry, reiters and artillery.
+
+Before the Swedes were able to discern the intentions Chodkiewicz, hussars moved at them, which struck the Germans, breaking the German reiters. Fierce resistance put infantry commanded by Canut. However, when Canut was killed, the left flank was destroyed. After the destruction of the left wing of the Swedish army, Chodkiewicz rushed to attack the right wing and center. When they joined the hussars, the Swedish army was pushed to the swamp. The battle ended with the total defeat of the army led by Stålarm. The Swedes lost 3,000 soldiers, 6 guns, all equipment and 26 standards (5 of them have been destroyed), while the Poles and Lithuanians - 50 killed and 100 wounded.
+
+==Notes==
+{{Reflist}}
+
+{{coord missing|Estonia}}
+
+[[Category:Battles involving Poland|Weissenstein 1604]]
+[[Category:Battles involving Sweden|Weissenstein 1604]]
+[[Category:Battles involving the Grand Duchy of Lithuania|Weissenstein 1604]]
+[[Category:Conflicts in 1604|Weissenstein]]
+[[Category:Paide]]
+[[Category:17th century in Estonia]]
+[[Category:1604 in Europe]]
+[[Category:Military history of Estonia|Weissenstein]]</text>
+      <sha1>b7c7lutyoudxv1u9jqsg2uewaq64jjr</sha1>
+    </revision>
+  </page>
+</mediawiki>

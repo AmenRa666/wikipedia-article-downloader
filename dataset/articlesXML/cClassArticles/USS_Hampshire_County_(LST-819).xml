@@ -1,0 +1,212 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Hampshire County (LST-819)</title>
+    <ns>0</ns>
+    <id>8788844</id>
+    <revision>
+      <id>723808620</id>
+      <parentid>702483758</parentid>
+      <timestamp>2016-06-05T11:11:11Z</timestamp>
+      <contributor>
+        <username>RussBot</username>
+        <id>279219</id>
+      </contributor>
+      <minor/>
+      <comment>Robot: fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[LCVP]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8727">{{no footnotes|date=June 2013}}
+{{Use dmy dates|date=February 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:Hampshire County LST-819.jpg|300px|USS Hampshire County (LST-819)]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag={{USN flag|1970}} 
+|Ship name=USS ''Hampshire County'' (LST-819)
+|Ship namesake=
+|Ship ordered=
+|Ship builder=Missouri Valley Bridge &amp; Iron Company, [[Evansville, Indiana]]
+|Ship laid down=12 September 1944
+|Ship launched=21 October 1944
+|Ship acquired=
+|Ship commissioned=7 November 1944
+|Ship decommissioned=January 1946
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned=8 September 1950
+|Ship decommissioned=24 June 1955
+|Ship renamed=USS ''Hampshire County'' (LST-819), 1 July 1955
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned=9 July 1966
+|Ship decommissioned=19 December 1970
+|Ship in service=
+|Ship out of service=
+|Ship struck=5 April 1975
+|Ship reclassified=
+|Ship homeport=
+|Ship motto=''Possumus Quae Debmus'' 
+|Ship nickname=
+|Ship honors=*1 [[battle star]] ([[World War II]])
+*4 battle stars ([[Korean War|Korea]])
+*10 [[campaign stars]], [[Presidential Unit Citation (United States)|Presidential Unit Citation]], and [[Navy Unit Commendation]] ([[Vietnam War|Vietnam]])
+|Ship fate=Converted for commercial use and sold, 5 April 1975
+|Ship status=
+|Ship notes=
+|Ship badge=[[File:USS Hampshire County Patch.jpg|200px]]
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country= Singapore
+|Ship flag=[[File:Civil Ensign of Singapore.svg|100x35px|border|Republic of Singapore Civil Ensign]]
+|Ship name= LST 2
+|Ship owner=Landing System Technology Pte. Ltd., [[Singapore]]
+|Ship acquired= 5 April 1975
+|Ship in service=1975
+|Ship out of service=1978
+|Ship struck=
+|Ship homeport=
+|Ship motto=
+|Ship fate= Sold, 1978
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country= Greece
+|Ship flag= [[File:Flag of Greece.svg|100x35px|border|Flag of Greece]]
+|Ship name= ''Petrola 142''
+|Ship owner=Maritime &amp; Commercial Co. Argonaftis, S.A., [[Greece]]
+|Ship acquired= 1978
+|Ship in service=1980
+|Ship out of service=1983
+|Ship struck=
+|Ship homeport=
+|Ship motto=
+|Ship fate= Scrapped, 1995
+|Ship status=
+|Ship notes=
+}}{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|LST-542|tank landing ship}}
+|Ship displacement=*{{convert|1625|LT|t|0|abbr=on}} light
+*{{convert|4080|LT|t|0|abbr=on}} full
+|Ship length={{convert|328|ft|m|abbr=on}}
+|Ship beam={{convert|50|ft|m|abbr=on}}
+|Ship draft=*''Unloaded'' :
+*{{convert|2|ft|4|in|m|abbr=on}} forward
+*{{convert|7|ft|6|in|m|abbr=on}} aft
+*''Loaded'' :
+*{{convert|8|ft|2|in|m|abbr=on}} forward
+*{{convert|14|ft|1|in|m|abbr=on}} aft
+|Ship depth=
+|Ship propulsion=2 × [[General Motors]] [[EMD 567|12-567]] [[diesel engine]]s, two shafts, twin rudders
+|Ship speed={{convert|12|kn|lk=in}}
+|Ship range=
+|Ship boats=Two or six [[LCVP (United States)|LCVP]]s
+|Ship capacity=
+|Ship complement=7 officers, 104 enlisted men
+|Ship armament=
+* 8 × 40&amp;nbsp;mm guns
+* 12 × 20&amp;nbsp;mm guns
+|Ship armor=
+|Ship notes=
+}}
+|}
+'''USS ''Hampshire County'' (LST-819)''' was an {{sclass|LST-542|tank landing ship}} built for the [[United States Navy]] during [[World War II]]. Named for counties in [[Massachusetts]] and [[West Virginia]], she was the only U.S. Naval vessel to bear the name.
+
+Originally laid down as LST-819 by the Missouri Valley Bridge &amp; Iron Company of [[Evansville, Indiana]] on 12 September 1944; launched on 21 October; sponsored by Mrs. William M. Gilmore; and commissioned on 14 November 1944 with Lieutenant George W. Ryerson in command.
+
+==World War II==
+Following shakedown off [[Florida]], LST-819 loaded cargo, then departed New Orleans on 18 December for the [[Pacific War|Pacific]]. After brief stops at [[San Diego]] and [[Pearl Harbor]], the tank landing ship arrived [[Tulagi]] on 23 February 1945. During the next month she shuttled cargo throughout the Pacific, then ammunition for the [[Battle of Okinawa|Okinawa invasion]]. Arriving on 2 April, one day after the initial landing, LST-819 prepared to unload her cargo under heavy enemy air attack. Remaining off the island for the next three weeks, she assisted in the effort as the Japanese made an attempt to stop the American thrust toward Japan. For the rest of the war she continued transport and cargo operations in the vicinity of Okinawa. After [[Victory over Japan Day|V-J Day]], she operated with the [[Occupation of Japan|occupation]] forces in Okinawa and Japan, then sailed for the United States in mid-November, arriving [[San Francisco]] on 6 January 1946. Later that month she sailed to [[Astoria, Oregon]], was decommissioned there and joined the [[Pacific Reserve Fleet]].
+
+LST-819 received one [[battle star]] for World War II service.
+
+==Korean War==
+During the [[Korean War]] build-up LST-819 recommissioned at Astoria on 8 September 1950, Lt. J. H. Burch in command. Following training she departed San Diego three months later, arriving at [[United States Fleet Activities Yokosuka|Yokosuka]] on 17 January 1951. Two weeks later she steamed to [[Pusan]] where she embarked Army personnel for transport to [[Inchon]], arriving there on 19 February.  From February to June LST-819 carried troops and vehicles from Japan to Korean ports, then on 8 June departed for the United States. After six months at San Diego LST-819 returned for her second tour in the Far East, arriving at Yokosuka on 15 February 1952. She resumed cargo runs to the war zone and harbor entrance patrol until late October when she steamed back to the United States.
+
+After the Korean War LST-819 made another cruise to the [[Far East]] from August 1953 to June 1954 where she resumed her cargo operations under more peaceful conditions. She returned to San Diego on 17 July and operated along the West Coast until she decommissioned on 24 June 1955. While in reserve at San Diego LST-819 was renamed '''USS ''Hampshire County'' (LST-819)''' on 1 July 1955.
+
+LST-819 received four [[battle star]]s for [[Korean War]] service.
+
+==Vietnam War==
+''Hampshire County'' was recommissioned at Tod Shipyard in San Padro, CA, in 1966, for service in the [[Vietnam War]]. By 9 September she had completed shakedown training and on 24 September left [[Del Mar, California]] for [[Da Nang]], Vietnam, arriving on 8 November. After debarking [[United States Marine Corps|marines]] and cargo there, she returned to [[Guam]], anchoring on 19 December. ''Hampshire County'' then participated in &quot;[[Operation Market Time]].&quot; After that she continued into 1967 in her important combat support missions.
+
+''Hampshire County'' received the [[Combat Action Ribbon]], [[Presidential Unit Citation (United States)|Presidential Unit Citation]], [[Navy Unit Commendation]], [[Vietnam Gallantry Cross|RVN Gallantry Cross with Palm]], [[Vietnam Civil Actions Medal|RVN Civil Action Medal First Class with Palm]], [[Vietnam Campaign Medal|RVN Campaign Medal]] with 60's device, and the [[Vietnam Service Medal]] with 10 battle stars.  The ''Hampshire County'' was awarded 10 battle stars during her Vietnam deployment.
+
+==Decommissioning and sale==
+Decommissioned on 19 December 1970, ''Hampshire County'' was struck from the [[Naval Vessel Register]] on 1 April 1975. Sold by the [[Defense Reutilization and Marketing Service]] in 1975 she was converted for commercial use, acquired by Landing System Technology Pte. Ltd., of [[Singapore]] and renamed LST 2. The ship was then acquired by Maritime &amp; Commercial Co. Argonaftis S.A. of [[Greece]] on 30 June 1978, and renamed ''Petrola 142''. Laid up on 24 February 1983, the ship was eventually sold. She arrived at [[Aliağa]], [[Turkey]], for scrapping on 22 December 1995.
+
+==References==
+* {{DANFS|http://www.history.navy.mil/danfs/h2/hampshire_county.htm}}
+* {{cite web|title=LST-819 ''Hampshire County''|work=Amphibious Photo Archive|url=http://www.navsource.org/archives/10/16/160819.htm|accessdate=17 July 2007}}
+
+==External links==
+* [http://www.mrfa.org/lst_819.htm Mobile Riverine Force Association]
+
+{{LST-542 class tank landing ship|800}}
+
+{{DEFAULTSORT:Hampshire County (Lst-819)}}
+[[Category:1944 ships]]
+[[Category:Cold War amphibious warfare vessels of the United States]]
+[[Category:Korean War amphibious warfare vessels of the United States]]
+[[Category:LST-542-class tank landing ships]]
+[[Category:Ships built in Evansville, Indiana]]
+[[Category:United States Navy Massachusetts-related ships]]
+[[Category:United States Navy West Virginia-related ships]]
+[[Category:Vietnam War amphibious warfare vessels of the United States]]
+[[Category:World War II amphibious warfare vessels of the United States]]</text>
+      <sha1>rschgz0nnqogkbaxppz3jzh5szb329z</sha1>
+    </revision>
+  </page>
+</mediawiki>

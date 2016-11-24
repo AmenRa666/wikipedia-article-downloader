@@ -1,0 +1,216 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Roanoke (1855)</title>
+    <ns>0</ns>
+    <id>3698571</id>
+    <revision>
+      <id>737022263</id>
+      <parentid>735281924</parentid>
+      <timestamp>2016-08-31T08:35:00Z</timestamp>
+      <contributor>
+        <username>Revent</username>
+        <id>4179294</id>
+      </contributor>
+      <minor/>
+      <comment>([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Uss Roanoke 1855 Ironclad.jpg]] → [[File:USS Roanoke 1855 Ironclad.jpg]] fix capitalization</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18860">{{Use dmy dates|date=February 2013}}
+{{otherships|USS Roanoke}}
+{{Good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Uss Roanoke 1855 Frigate.jpg|300px]]
+|Ship caption= USS ''Roanoke'' as a steam frigate 
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag=[[Image:US Naval Jack 36 stars.svg|48px|Union Navy Jack]]  {{USN flag|1861}}
+|Ship name= USS ''Roanoke''  
+|Ship namesake=[[Roanoke River]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Norfolk Navy Yard]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=May 1854
+|Ship launched=13 December 1855
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship commissioned=4 May 1857
+|Ship recommissioned=29 June 1863 as a [[monitor (warship)|monitor]]
+|Ship decommissioned=12 June 1875
+|Ship in service=
+|Ship out of service=
+|Ship reclassified=
+|Ship refit=25 March 1862
+|Ship struck=5 August 1882
+|Ship reinstated=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sold for [[ship breaking|scrap]], 27 September 1883
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Merrimack|frigate|0}} [[screw frigate]]
+|Ship displacement= {{convert|4472|LT|t|lk=in}}
+|Ship tons burthen=3,400 [[Builder's Old Measurement|bm]]
+|Ship length={{convert|263|ft|8|in|m|1|abbr=on}} ([[Length between perpendiculars|p/p]])
+|Ship beam={{convert|51|ft|4||m|1|abbr=on}} 
+|Ship draft={{convert|23|ft|9|in|m|1|abbr=on}}
+|Ship speed={{convert|8.8|kn|lk=in}}
+|Ship power=*{{convert|996|ihp|lk=in|abbr=on}}
+*4 [[Martin boiler]]s
+|Ship propulsion=*1 shaft
+*1 [[Trunk engine|Trunk steam engine]]
+|Ship sail plan=[[Ship rig]]
+|Ship complement=674
+|Ship depth of hold={{convert|26|ft|2|in|m|1|abbr=on}}
+|Ship armament=*1 × {{convert|10|in|mm|abbr=on|0}} [[smoothbore]] [[Dahlgren gun]]
+*28 × {{convert|9|in|mm|abbr=on|0}} Dahlgren guns
+*14 × {{convert|8|in|mm|abbr=on|0}} Dahlgren guns
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(after reconstruction)
+|Ship type=Monitor
+|Ship displacement= {{convert|6300|LT|t}}
+|Ship beam={{convert|53|ft|3|in|m|1|abbr=on}} 
+|Ship speed={{convert|8.5|kn}}
+|Ship complement=347
+|Ship armament=*2 × {{convert|15|in|mm|abbr=on|0}} Dahlgren guns
+*2 × 150-pounder [[Parrott rifle]]
+*2 × {{convert|11|in|mm|abbr=on|0}} Dahlgren guns
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|3.5|-|4.5|in|mm|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|1.5|in|mm|0|abbr=on}}
+*[[Gun turret]]s: {{convert|11|in|mm|0|abbr=on}}
+*[[Pilothouse]]s: {{convert|9|in|mm|0|abbr=on}}
+
+|Ship notes=
+}}
+|}
+ 
+'''USS ''Roanoke''''' was a wooden-hulled {{sclass-|Merrimack|frigate|0}} [[screw frigate]] built for the [[United States Navy]] in the mid-1850s. She served as [[flagship]] of the [[Home Squadron]] in the late 1850s and captured several [[Confederate States of America|Confederate]] ships after the start of the [[American Civil War]] in 1861. The ship was converted into an [[ironclad]] [[Monitor (warship)|monitor]] during 1862–63; the first ship with more than two [[gun turret]]s in history. Her conversion was not very successful as she rolled excessively and the weight of her armor and turrets strained her hull. Her deep [[draft (hull)|draft]] meant that she could not operate off shallow Confederate ports and she was relegated to harbor defense at [[Hampton Roads]], Virginia for the duration of the war. ''Roanoke'' was placed [[Reserve fleet|reserve]] after the war and sold for [[ship breaking|scrap]] in 1883.
+
+==Description==
+''Roanoke'' was {{convert|263|ft|8|in|m|1}} [[Length between perpendiculars|long between perpendiculars]] and had a beam of {{convert|51|ft|4|in|m|1}}.&lt;ref name=c4&gt;Canney 1990, p. 174&lt;/ref&gt; The ship had a draft of {{convert|23|ft|9|in|m|1}}&lt;ref name=s7&gt;Silverstone, p. 17&lt;/ref&gt; and a [[Glossary of nautical terms#D|depth of hold]] of {{convert|26|ft|2|in|m|abbr=on|1}}. She displaced {{convert|4472|LT|t}}&lt;ref name=c4/&gt; and had a [[Builder's Old Measurement|burthen]] of 3,400 tons. ''Roanoke''{{'}}s hull was strongly reinforced by wrought iron straps. Her crew numbered 674 officers and enlisted men.&lt;ref name=s7/&gt;
+
+The ship had one horizontal two-cylinder [[Trunk engine|trunk steam engine]] driving a single propeller using steam provided by four [[Martin boiler]]s. The engine produced a total of {{convert|996|ihp|lk=in}} and the ship had a maximum speed of {{convert|8.8|kn|lk=in}} under steam alone. The propeller could be hoisted and the single [[funnel (ship)|funnel]] lowered to increase speed under sail alone. ''Roanoke'' was [[ship rig]]ged and had a sail area of {{convert|28008|sqft|sqm|0}}.&lt;ref&gt;Canney 1990, pp. 48, 51&lt;/ref&gt; In 1861, the ship's armament consisted of one {{convert|10|in|mm|adj=on|0}} [[smoothbore]] [[Dahlgren gun|Dahlgren]] [[pivot gun]], twenty-eight {{convert|9|in|mm|adj=on|0}} Dahlgren guns and fourteen {{convert|8|in|mm|adj=on|0}} Dahlgren guns.&lt;ref name=c4/&gt; The 10-inch Dahlgren weighed {{convert|12500|lb}} and could fire a {{convert|103|lb|1|adj=on}} shell up to a range of {{convert|3000|yd}} at +19° elevation. The nine-inch gun weighed {{convert|9200|lb}} and could fire a {{convert|72.5|lb|1|adj=on}} shell to a range of {{convert|3357|yd}} at an elevation of +15°. The eight-inch Dahlgren had a range of {{convert|2300|yd}} at an elevation of +10° with a {{convert|51.5|lb|1|adj=on}} shell. It weighed {{convert|6500|lb}}.&lt;ref&gt;Olmstead, et al, pp. 87–88&lt;/ref&gt;
+
+===Steam frigate service=== 
+''Roanoke'', named after the [[Roanoke River]],&lt;ref name=&quot;DANFS&quot;&gt;''Roanoke''&lt;/ref&gt; was [[Keel|laid down]] at the [[Norfolk Navy Yard]] in May 1854 and [[Ship naming and launching|launched]] on 13 December 1855. The ship sank when launched and had to be refloated before she could be completed.&lt;ref name=s7/&gt; She was [[Ship commissioning|commissioned]] on 4 May 1857 with [[Captain (United States)|Captain]] [[John B. Montgomery]] in command.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Assigned to the Home Squadron as flagship, ''Roanoke'' transported the American [[Filibuster (military)|filibuster]] and former [[President of Nicaragua|President]] of [[Nicaragua]], [[William Walker (filibuster)|William Walker]], and his men back to the United States from Aspinwall, [[Colombia]], (now called [[Colón, Panamá]]). ''Roanoke'' arrived on 4 August and the ship was decommissioned at the [[Boston Navy Yard]] on 24 September 1857. Recommissioned on almost a year later on 18 August 1858, ''Roanoke'' resumed her duties as flagship of the Home Squadron. For over a year, she was stationed at Aspinwall awaiting the arrival of the first [[Japanese Embassy to the United States (1860)|Japanese embassy to the United States]] to ratify the 1858 [[Treaty of Amity and Commerce (United States–Japan)|Treaty of Amity and Commerce]]. They reached Aspinwall on 25 April 1860 and ''Roanoke'' reached Hampton Roads on 12 May 1860 with the delegation and was again decommissioned.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After the start of the Civil War, ''Roanoke'' recommissioned on 20 June 1861 and was assigned to the [[North Atlantic Blockading Squadron]]. She destroyed the [[schooner]] ''Mary'' off [[Lockwood Folly River|Lockwood Folly Inlet]], North Carolina, on 13 July 1861. The ship subsequently helped to capture the schooners ''Albion'' and ''Alert'' and the ship ''Thomas Watson'' off [[Charleston, South Carolina]], on 15 October 1861.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+''Roanoke''{{'}}s deep draft prevented her from engaging the Confederate [[casemate ironclad]] [[CSS Virginia|CSS ''Virginia'']] (her former [[sister ship|sister]] {{USS|Merrimack|1855|6}}) during the [[Battle of Hampton Roads]] on 8–9 March 1862. The ship ferried north survivors from the sailing frigates {{USS|Congress|1841|6}} and {{USS|Cumberland|1842|6}} which ''Virginia'' had sunk. She arrived at New York City on 25 March, and decommissioned the same day to begin reconstruction as a monitor.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Ironclad reconstruction=== 
+[[File:USS Roanoke 1855 Ironclad.jpg|300px | thumb |left | ''Roanoke'' after her conversion into a monitor]] 
+On 19 March 1862, 10 days after the [[Battle of Hampton Roads]] where the {{USS|Monitor||2}} fought the Confederate ironclad {{ship|CSS|Virginia||2}} to a standstill, [[John Lenthall (shipbuilder)|John Lenthall]], Chief of the [[Bureau of Construction and Repair]], and the Chief of Steam Engineering, [[Benjamin F. Isherwood]], wrote a letter to [[Gideon Welles]], the [[United States Secretary of the Navy|Secretary of the Navy]] recommending that ''Roanoke'' be converted into a seagoing ironclad as that would be cheaper and faster than new construction. They suggested that the ship be cut down to the top of her [[gun deck]], armoring her sides and deck and mounting four revolving [[John Ericsson|Ericsson]] [[gun turret]]s, each mounting two {{convert|12|in|mm|0|adj=on}} or {{convert|15|in|mm|0|adj=on}} guns. This scheme would give her an ample {{convert|6|ft|m|1}} of [[freeboard (nautical)|freeboard]]. Aside from reinforcing her hull to carry the weight of the turrets, the only other changes that they recommended were the elimination of the hoisting screw, replacement by a propeller smaller in diameter, and the addition of a [[naval ram|ram]]. The wrought iron side armor would be a maximum of {{convert|6|in|mm|0}} in thickness with a taper down to {{convert|4.5|in|mm|0}} at its bottom edge, about {{convert|4|ft|m|1}} below the [[waterline]]. The [[deck (ship)|deck]] armor was to be {{convert|2.5|in|mm|0|adj=on}} thick and an additional steam engine would be necessary to rotate the turrets and run the ventilation fans. They estimated that this conversion would take three and a half months and cost $495,000.&lt;ref&gt;Canney 1993, pp. 59–60&lt;/ref&gt;
+
+Welles accepted their recommendation and ''Roanoke'' began her reconstruction at the [[Brooklyn Navy Yard]] when she arrived in New York City on 25 March.&lt;ref name=&quot;DANFS&quot;/&gt; The navy yard removed her masts, rigging and everything above the upper deck except her funnel while the [[Novelty Iron Works]] received a contract in early April to shape and mount all of her metal work. To save weight the number of turrets was reduced to three and her deck armor to {{convert|1.5|in|mm|0}}. Each turret was virtually identical to those of the {{sclass-|Passaic|monitor|2}}s and consisted of eleven layers of {{convert|1|in|adj=on}} plates.&lt;ref name=c0&gt;Canney 1993, pp. 60–61&lt;/ref&gt; The forward two turrets were surmounted by a stationary [[pilothouse]] with armor nine inches thick.&lt;ref name=s7/&gt; Novelty was given a choice in protecting ''Roanoke''{{'}}s sides, it could either with six layers of {{convert|1|in|adj=on}} plates or a single plate {{convert|4.5|in|mm|0}} thick that reduced to {{convert|3.5|in|mm|0}} inches below the waterline. It chose the latter and delays in their delivery were largely responsible for drawing out the reconstruction time to around a year.&lt;ref name=c0/&gt;  The plates were manufactured by the &quot;Franklin Forge&quot; of Tugnot, Dally &amp; Co.&lt;ref&gt;{{cite book|title=Appletons' annual cyclopaedia and register of important events of the year: 1862|year=1863|publisher=D. Appleton &amp; Company|location=New York|page=612|url=https://archive.org/stream/1862appletonsan02newyuoft#page/n619/mode/1up}}&lt;/ref&gt;
+
+An auxiliary boiler was added to provide steam for the engines that powered the turrets, fans and steering and little to nothing was done to reinforce the hull to withstand the weight of her armor and turrets. The deck beneath each {{convert|125|LT|t|adj=on}} turret was reinforced by a series of [[stanchion]]s that transferred their weight to the ship's bottom, which was not reinforced to handle their weight. The stress caused ''Roanoke'' to leak around {{convert|1.5|ft|m|1}} per day by the end of the war. In her new configuration, her crew numbered 347 officers and men.&lt;ref name=c23&gt;Canney 1993, pp. 61–62&lt;/ref&gt;
+
+''Roanoke'' was armed with two [[muzzle-loading]] [[smoothbore]] 15-inch Dahlgren guns, two {{convert|11|in|mm|abbr=on|0}} Dahlgren guns and a pair of eight-inch, 150-pounder [[Parrott rifle]]s. The forward turret mounted one 15-inch Dahlgren and a 150-pounder Parrot rifle, the middle turret was fitted with 15- and 11-inch Dahlgrens and the aft turret with one 11-inch Dahlgren and a 150-pounder rifle.&lt;ref name=ck0&gt;Chesneau &amp; Kolesnik, p. 120&lt;/ref&gt; Shortages of the 15-inch Dahlgren forced the substitution of two 11-inch Dahlgrens. Each of the former guns weighed approximately {{convert|43000|lb}}. They could fire a {{convert|350|lb|1|adj=on}} shell up to a range of {{convert|2100|yd}} at an elevation of +7°. The 11-inch Dahlgren weighed {{convert|16000|lb}} and could fire a {{convert|136|lb|1|adj=on}} shell up to a range of {{convert|1710|yd}} at +5° elevation.&lt;ref&gt;Olmstead, et al, pp. 90, 94&lt;/ref&gt; The 150-pounder Parrot rifle weighed {{convert|16300|lb}} and fired eight-inch shells that weighed {{convert|132|to|175|lb}}.&lt;ref&gt;Silverstone, p. xx&lt;/ref&gt;
+
+''Roanoke'' was also fitted with an ax-shaped ram. It was formed from two 4.5-inch plates that projected past her bow and presumably was the height of a single plate, {{convert|24|in|m|1}}.&lt;ref&gt;Canney 1993, p. 61&lt;/ref&gt;
+
+===Ironclad service===
+The ship was accepted by the Navy on 16 April 1863 although she was not recommissioned until 29 June,&lt;ref name=&quot;DANFS&quot;/&gt; the first warship with more than two turrets in history.&lt;ref name=ck0/&gt; Ignoring pressure by local politicians to keep ''Roanoke'' in New York, the Navy ordered her to [[Hampton Roads]], Virginia, to join the blockading squadron there. On the voyage south, the ship reached a maximum speed of {{convert|8.5|kn}} and averaged {{convert|7|kn}}. Captain [[Benjamin F. Sands]] reported that the ship's roll was so great that it would &quot;preclude the possibility of fighting her guns at sea, and I was obliged to secure them with pieces of timber to prevent them fetching away&quot;.&lt;ref name=c23/&gt; ''Roanoke'' was assigned as harbor defense ship at Hampton Roads where she remained through the end of the war.&lt;ref name=&quot;DANFS&quot;/&gt; On 14 July, Sands test-fired his guns for the first time and both of the 15-inch Dahlgrens and one 150-pounder Parrott rifle dismounted themselves by their violent recoil.&lt;ref&gt;ORN, IX, 125&lt;/ref&gt; Her rear turret required nearly 5 minutes to make a full rotation.&lt;ref&gt;Canney, p. 62&lt;/ref&gt; Captain [[Guert Gansevoort]] replaced Sands in command of the ship later in 1863.&lt;ref&gt;ORN, IX, pp. 146, 709&lt;/ref&gt; He was succeeded by Captain [[Augustus Kilty]].&lt;ref&gt;ORN, XI, p. 694&lt;/ref&gt;
+
+''Roanoke'' arrived back in New York on 27 April 1865.&lt;ref&gt;ORN, XII, p. 128&lt;/ref&gt; She was decommissioned and placed in reserve on 20 June at New York Navy Yard. The ship's only postwar service was as [[flagship]] of the [[Port Admiral (United States Navy)|Port Admiral]] at New York. She was recommissioned on 13 January 1874 until reduced to reserve again on 12 June 1875. On 5 August 1882, ''Roanoke''  was struck from the [[Navy List]] and later sold for scrap on 27 September 1883.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+
+==See also==
+&lt;!-- Reminder to those who routinely delete 'See also' links: [[WP:ALSO]]: &quot;The links in the &quot;See also&quot; section do not have to be directly related to the topic of the article, because one purpose of &quot;See also&quot; links is to enable readers to explore tangentially related topics.&quot;  The only way some pages are ever discovered and read is through 'See also'. --&gt;
+{{Portal|American Civil War|United States Navy|Military of the United States}}
+*[[List of steam frigates of the United States Navy]]
+*[[Bibliography of early American naval history]]
+*[[Union Navy]]
+{{clear}}
+==Notes==
+{{Reflist|2}}
+
+== References ==
+*{{cite book|last=Canney|first=Donald L.|title=The Old Steam Navy: Frigates, Slops and Gunboats, 1815–1882|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|volume=1|isbn=0-87021-004-1}}
+*{{cite book|last=Canney|first=Donald L.|title=The Old Steam Navy: The Ironclads, 1842–1885|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1993|volume=2|isbn=0-87021-586-8}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4}}
+* {{cite book|last1=Olmstead|first1=Edwin|last2=Stark|first2=Wayne E.|last3=Tucker|first3=Spencer C.|date=1997|title=The Big Guns: Civil War Siege, Seacoast, and Naval Cannon|publisher=Museum Restoration Service|location=Alexandria Bay, New York|isbn=0-88855-012-X}}
+* {{cite web|url=http://www.history.navy.mil/danfs/r7/roanoke-ii.htm|title=''Roanoke''|work=Dictionary of American Naval Fighting Ships|publisher=[[Naval History &amp; Heritage Command]] (NH&amp;HC)|accessdate=25 January 2013}}
+*{{cite book|last=Silverstone|first=Paul H.|title=Civil War Navies 1855–1883|publisher=Routledge|location=New York|year=2006|series=The U.S. Navy Warship Series|isbn=0-415-97870-X}}
+* {{cite book|last=United States|first=Naval War Records Office|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://digital.library.cornell.edu/cgi/t/text/text-idx?c=moawar;idno=ofre0009|series=Series I|volume=Volume 9: North Atlantic Blockading Squadron (May 5, 1863 – May 5, 1864)|year=1899|publisher=Government Printing Office|location=Washington, D. C.}}
+* {{cite book|last=United States|first=Naval War Records Office|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://digital.library.cornell.edu/cgi/t/text/text-idx?c=moawar;idno=ofre0011|series=Series I|volume=Volume 11: North Atlantic Blockading Squadron (October 28, 1864 – February 1, 1865)|year=1900|publisher=Government Printing Office|location=Washington, D. C.}}
+* {{cite book|last=United States|first=Naval War Records Office|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://digital.library.cornell.edu/cgi/t/text/text-idx?c=moawar;idno=ofre0012|series=Series I|volume=Volume 12: North Atlantic Blockading Squadron (February 2, 1865 – August 3, 1865); South Atlantic Blockading Squadron (October 29, 1861 – May 13, 1862)|year=1901|publisher=Government Printing Office|location=Washington, D. C.}}
+
+== External links ==
+{{Portal|American Civil War|United States Navy}}
+*[http://www.history.navy.mil/photos/sh-usn/usnsh-r/roanoke.htm Images of USS ''Roanoke'']
+
+{{Battle of Hampton Roads|state=autocollapse}}
+{{Union ironclads}}
+
+{{DEFAULTSORT:Roanoke (1855)}}
+[[Category:Monitors of the United States Navy]]
+[[Category:Ships of the Union Navy]]
+[[Category:Ships built in Portsmouth, Virginia]]
+[[Category:United States Navy Virginia-related ships]]
+[[Category:Steam frigates]]
+[[Category:1855 ships]]
+[[Category:American Civil War monitors of the United States]]</text>
+      <sha1>qtxwyb35hrt4pr9v5r9w1hljwsjh2g4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Brick Quinto</title>
+    <ns>0</ns>
+    <id>31981802</id>
+    <revision>
+      <id>685347685</id>
+      <parentid>622505243</parentid>
+      <timestamp>2015-10-12T09:52:27Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7357">{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = 
+| Ship caption             = 
+}}
+{{Infobox ship career
+| Hide header              = 
+| Ship name                =*''Empire Daughter'' (1943-46)
+*''Glanrhyd'' (1946-48)
+*''Noeldale'' (1948-49)
+*''Kinnaird Head'' (1949-61)
+*''Brick Quinto'' (1961-76)
+| Ship owner               =*Ministry of War Transport (1943-45)
+*Ministry of Transport (1945-46)
+*Harries Brothers &amp; Co Ltd (1946-48)
+*Tavistock Shipping Co Ltd (1948-49)
+*Henry &amp; McGregor Ltd (1946-61)
+*Gino Gardella (1961-76)
+| Ship operator            =*Stephenson, Clarke &amp; Associated Companies Ltd (1943-46)
+*Harries Brothers &amp; Co Ltd (1946-48)
+*Tavistock Shipping Co Ltd (1948-49)
+*Henry &amp; McGregor Ltd (1946-61)
+*Gino Gardella (1961-76) 
+| Ship registry            =*{{flagicon|United Kingdom|civil}} Grangemouth, United Kingdom (1944-46)
+*{{flagicon|United Kingdom|civil}} Swansea (1946-48)
+*{{flagicon|United Kingdom|civil}} London (1948-49)
+*{{flagicon|United Kingdom|civil}} Leith (1949-61)
+*{{flagicon|Italy|civil}} Italy (1961-76)
+| Ship route               = 
+| Ship ordered             = 
+| Ship builder             = Grangemouth Dockyard Co Ltd
+| Ship original cost       = 
+| Ship yard number         = 
+| Ship way number          = 
+| Ship laid down           = 
+| Ship launched            = 27 December 1943
+| Ship completed           = April 1944
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship christened          = 
+| Ship acquired            = 
+| Ship maiden voyage       = 
+| Ship in service          = 
+| Ship out of service      = 
+| Ship identification      =*United Kingdom Official Number 169105 (1943-61)
+*Code Letters GCSQ (1944-61)
+*{{ICS|Golf}}{{ICS|Charlie}}{{ICS|Sierra}}{{ICS|Quebec}}
+| Ship fate                = Scrapped
+| Ship status              = 
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+| Ship class               = Cargo ship
+| Ship tonnage             =*{{GRT|2,026}}
+*{{NRT|1,073}}&gt;&lt;!--xx,xxx [[deadweight tonnage|DWT]]--&gt;
+| Ship displacement        = 
+| Ship length              = {{convert|272|ft|0|in|m|2|abbr=on}}
+| Ship beam                = {{convert|40|ft|0|in|m|2|abbr=on}}
+| Ship height              = 
+| Ship draught             = &lt;!--{{convert|xxx|ft|x|in|m|2}}--&gt;
+| Ship depth               = {{convert|17|ft|2|in|m|2|abbr=on}}
+| Ship decks               = 
+| Ship deck clearance      = 
+| Ship ramps               = 
+| Ship ice class           = 
+| Ship range               = 
+| Ship power               = 
+| Ship propulsion          = Triple expansion steam engine
+| Ship speed               = &lt;!--{{convert|xx|kn|km/h}}--&gt;
+| Ship capacity            = 
+| Ship crew                = 
+| Ship notes               = 
+| Ship complement          = 
+| Ship armament            = 
+}}
+|}
+
+'''''Brick Quinto''''' was a {{GRT|2066|link=off}} [[collier (ship type)|collier]] that was built in 1943 as '''''Empire Daughter''''' by [[Grangemouth Dockyard Company|Grangemouth Dockyard Co Ltd]], [[Grangemouth]], [[Stirlingshire]], [[United Kingdom]] for the [[Ministry of War Transport]] (MoWT). In 1946, she was sold into merchant service and renamed '''''Glanrhyd'''''. Further sales in 1948 and 1949 saw her renamed '''''Noeldale''''' and '''''Kinnaird Head''''' respectively. In 1961, she was sold to [[Italy]] and renamed ''Brick Quinto''. She served until 1976, when she was scrapped.
+
+==Description==
+The ship was built in 1943 by [[Grangemouth Dockyard Company|Grangemouth Dockyard Co Ltd]], [[Grangemouth]], [[Stirlingshire]].&lt;ref name=Ships&gt;{{cite book |last1= Mitchell |first1=W.H. |last2=Sawyer |first2=L.A. |year=1995 |title=The Empire Ships |page=not cited |publisher= Lloyd's of London Press Ltd |location= London, New York, Hamburg, Hong Kong |isbn=1-85044-275-4}}&lt;/ref&gt; She was yard number 673.&lt;ref name=Searle&gt;{{cite web |url=http://www.searlecanada.org/sunderland/sunderland034.html#empireday |title=THE SUNDERLAND SITE - PAGE 034, SHIPBUILDERS - PAGE 11 |publisher=Searle |accessdate=1 June 2011}}&lt;/ref&gt;
+
+The ship was {{convert|272|ft|0|in|m|2}} long, with a beam of {{convert|40|ft|0|in|m|2}}. She had a depth of {{convert|17|ft|5|in|m|2}}&lt;!-- and a draught of {{convert|xx|ft|x|in|m|2}}--&gt; She was assessed at {{GRT|2,066}}.&lt;ref name=Ships/&gt; {{NRT|1,073}}.&lt;ref name=Daughter43&gt;{{cite web |url=http://www.plimsollshipdata.org/pdffile.php?name=43b1112.pdf |title=LLOYD'S REGISTER, NAVIRES A VAPEUR ET A MOTEURS |publisher=Plimsoll Ship Data |accessdate=15 July 2011}}&lt;/ref&gt;&lt;!-- Her [[deadweight tonnage|DWT]] was x,xxx.&lt;ref name=xxxx/&gt;--&gt;
+
+The ship was propelled by a [[triple expansion steam engine]], which had cylinders of {{convert|17|in|cm}}, {{convert|27|in|cm}} and {{convert|48|in|cm}} diameter by {{convert|36|in|cm}} stroke. The engine was built by North East Marine Engine (1938) Ltd, [[Newcastle upon Tyne]].&lt;ref name=Daughter43/&gt;&lt;!-- It drove a screw propeller and could propel the ship at {{convert|xx|kn|km/h}}.&lt;ref name=xxxx/&gt;--&gt;
+
+==History==
+''Empire Daughter'' was built for the MoWT.&lt;ref name=Ships/&gt; She was launched on 27 December 1943 and completed in April 1944.&lt;ref name=Ships/&gt;  The United Kingdom Official Number 169105 and [[Code Letters]] GCSQ were allocated. Her port of registry was Grangemouth.&lt;ref name=ID&gt;{{cite web |url=http://convoyweb.org.uk/signal/index.html?search_all.php~signalmain |title=Signal Letters Database |publisher=Convoyweb |accessdate=4 June 2011}} (Enter GCSQ or Empire Daughter in relevant search box)&lt;/ref&gt; She was placed under the management of [[Stephenson Clarke Shipping|Stephenson, Clarke and Associated Companies Ltd]].&lt;ref name=Daughter43/&gt;
+
+''Empire Daughter'' was a member of a number of convoys during [[World War II]]. She was a member of Convoy FS 1584, which departed from [[Methil]], [[Fife]] on 23 September 1944 and arrived at [[Southend-on-Sea|Southend]], [[Essex]] on 25 September. She was also a member of Convoy TAM 124, which departed from Southend on 31 March 1945 and arrived at [[Antwerp]], [[Belgium]] on 1 April; Convoy ATM 135, which departed from Antwerp on 25 April and arrived at Southend on 26 April; and Convoy TAM 171, which departed from Southend on 17 May and arrived at Antwerp that day.&lt;ref name=Port&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?search.php?vessel=EMPIRE%20DAUGHTER~armain |title=EMPIRE DAUGHTER |publisher=Convoyweb |accessdate=4 June 2011}}&lt;/ref&gt;
+
+In 1946, ''Empire Daughter'' was sold to Harries Brothers &amp; Co Ltd, [[Swansea]], [[Glamorgan]] and was renamed ''Glanrhyd''. In 1948, ''Glanrhyd'' was sold to Tavistock Shipping Co Ltd, [[London]] and renamed ''Noeldale''. In 1949, ''Noeldale'' was sold to Henry &amp; Mc Gregor Ltd, [[Leith]], [[Scotland]] and renamed ''Kinnaird Head''. In 1961, ''Kinnaird Head'' was sold to Gino Gardella, [[Italy]] and was renamed ''Brick Quinto''. She served until 1976, when she was scrapped at [[Savona]], Italy.&lt;ref name=Ships/&gt;
+
+==References==
+{{reflist|2}}
+
+{{Empire D ships}}
+
+{{DEFAULTSORT:Brick Quinto}}
+[[Category:1943 ships]]
+[[Category:Ships built in Scotland]]
+[[Category:Empire ships]]
+[[Category:Ministry of War Transport ships]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Steamships of Italy]]
+[[Category:Merchant ships of Italy]]</text>
+      <sha1>rg15lm0ch7b0c29mq6muqpp4jggjurx</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,294 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Arizona (BB-39)</title>
+    <ns>0</ns>
+    <id>188086</id>
+    <revision>
+      <id>751289526</id>
+      <parentid>751289250</parentid>
+      <timestamp>2016-11-24T17:02:59Z</timestamp>
+      <contributor>
+        <username>Favonian</username>
+        <id>7007500</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/2600:8800:7000:222:B0C8:9031:6506:3A49|2600:8800:7000:222:B0C8:9031:6506:3A49]] ([[User talk:2600:8800:7000:222:B0C8:9031:6506:3A49|talk]]) to last revision by DouglasKenney18. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49178">{{Other ships|USS Arizona}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image = [[File:Arizona (BB39) Port Bow, Underway - NARA - 5900075 - 1930.jpg|300px]]
+| Ship caption = USS ''Arizona'', 1920s
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country= United States
+| Ship flag = {{USN flag|1941}}
+| Ship name = ''Arizona''
+| Ship namesake = [[Arizona]]
+| Ship ordered = 4 March 1913
+| Ship builder = [[Brooklyn Navy Yard]]
+| Ship original cost = $16,000,000&lt;ref&gt;Stillwell, pp. 11–12.&lt;/ref&gt;
+| Ship laid down = 16 March 1914
+| Ship launched = 19 June 1915
+| Ship commissioned = 17 October 1916
+| Ship fate = Sunk during the [[Attack on Pearl Harbor]], 7 December 1941
+| Ship status = [[USS Arizona Memorial|Memorial]] wreck
+| Ship decommissioned = 29 December 1941&lt;ref name=&quot;nvr&quot; /&gt;
+| Ship struck = 1 December 1942&lt;!-- NOTE: THIS IS THE CORRECT DATE. When a ship is removed from an official register (such as the United States Navy's Naval Vessel Register), the date of removal (or striking) from the register should be listed here. This field does not include collisions, groundings, or attacks a ship has experienced. --&gt;
+|Ship identification= [[Hull number]]: BB-39
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption = (as completed)
+| Ship class = {{sclass-|Pennsylvania|battleship}}
+| Ship displacement =*{{convert|29158|LT}} ([[Displacement (ship)|standard]])
+*{{convert|31917|LT|MT}} ([[deep load]])
+
+| Ship length = {{convert|608|ft|m|1|abbr=on}}
+| Ship beam = {{convert|97|ft|1|abbr=on}}
+| Ship draft = {{convert|29|ft|3|in|m|1|abbr=on}} (deep load)
+| Ship propulsion =*4 shafts
+*4 sets of [[Charles Algernon Parsons|Parsons]] [[steam turbine]]s
+*12 [[Babcock &amp; Wilcox]] [[water-tube boiler]]s
+| Ship speed = {{convert|21|kn|lk=in}}
+| Ship range = {{convert|8000|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+| Ship complement = 2290
+
+| Ship power = {{convert|29366|shp|lk=in|abbr=on}} (on [[sea trial]]s)
+| Ship armament =*4 × 3 – [[14&quot;/45 caliber gun|14-inch/45 guns]]
+*22 × 1 – [[5&quot;/51 caliber gun|5-inch/51 guns]]
+*4 × 1 – [[3&quot;/50 caliber gun|3-inch/50]] [[Anti-aircraft warfare|AA]] guns
+*2 × {{convert|21|in|mm|adj=on|0}} [[torpedo tube]]s
+| Ship armor =*[[Belt armor|Belt]]: {{convert|13.5|-|8|in|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkheads]]: {{convert|13|-|8|in|abbr=on|0}}
+*[[Barbette]]s: {{convert|13|in|abbr=on|0}}
+*[[Turret]]s: {{convert|18|in|abbr=on|0}}
+*[[Deck (ship)|Decks]]: {{convert|5|in|abbr=on|0}}
+*[[Conning tower]]: {{convert|16|-|14|in|abbr=on|0}}
+| Ship aircraft =
+| Ship notes =
+}}
+|}
+
+'''USS ''Arizona''''' was a {{sclass-|Pennsylvania|battleship}} built for and by the [[United States Navy]] in the mid-1910s. Named in honor of the [[Arizona|48th state]]'s recent admission into the union, the ship was the second and last of the ''Pennsylvania'' class of &quot;[[super-dreadnought]]&quot; battleships. Although [[ship commissioning|commissioned]] in 1916, the ship remained stateside during [[World War I]]. Shortly after the end of the war, ''Arizona'' was one of a number of American ships that briefly escorted President [[Woodrow Wilson]] to the [[Paris Peace Conference, 1919|Paris Peace Conference]]. The ship was sent to Turkey in 1919 at the beginning of the [[Greco-Turkish War (1919–1922)|Greco-Turkish War]] to represent American interests for several months. Several years later, she was transferred to the [[United States Pacific Fleet|Pacific Fleet]] and remained there for the rest of her career.
+
+Aside from a comprehensive modernization in 1929–31, ''Arizona'' was regularly used for training exercises between the wars, including the annual [[Fleet Problem]]s (training exercises). When an earthquake [[1933 Long Beach earthquake|struck Long Beach, California]], in 1933, ''Arizona''{{'}}s crew provided aid to the survivors. Two years later, the ship was featured in a [[James Cagney|Jimmy Cagney]] film, ''[[Here Comes the Navy]]'', about the romantic troubles of a sailor. In April 1940, she and the rest of the Pacific Fleet were transferred from California to [[Pearl Harbor]], Hawaii, as a deterrent to [[Japanese Empire|Japanese imperialism]].
+
+During the [[Attack on Pearl Harbor|Japanese attack on Pearl Harbor]] on 7 December 1941, ''Arizona'' was bombed. After a bomb detonated in a powder magazine, the battleship exploded violently and sank, killing 1,177&amp;nbsp;officers and crewmen. Unlike many of the other ships sunk or damaged that day, ''Arizona'' was irreparably damaged by the force of the magazine explosion, though the Navy removed parts of the ship for reuse. The [[shipwreck|wreck]] still lies at the bottom of Pearl Harbor and the [[USS Arizona Memorial|USS ''Arizona'' Memorial]], dedicated on 30 May 1962 to all those who died during the attack, straddles the ship's [[Hull (watercraft)|hull]].
+
+== Description ==
+The ''Pennsylvania''-class ships were significantly larger than their predecessors, the {{sclass-|Nevada|battleship|4}}. ''Arizona'' had an [[length overall|overall length]] of {{convert|608|ft|1}}, a [[beam (nautical)|beam]] of {{convert|97|ft|1}} (at the [[waterline]]), and a [[draft (ship)|draft]] of {{convert|29|ft|3|in|m|1}} at [[deep load]]. This was {{convert|25|ft|m|1}} longer than the older ships. She displaced {{convert|29158|LT|MT}} at [[Displacement (ship)|standard]] and {{convert|31917|LT|MT}} at deep load, over {{convert|4000|LT|MT|-1}} more than the older ships. The ship had a [[metacentric height]] of {{convert|7.82|ft|1}} at deep load.&lt;ref name=&quot;f0&quot;&gt;Friedman, p. 440.&lt;/ref&gt;
+
+The ship had four direct-drive [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]] sets, each of which drove a propeller {{convert|12|ft|1.5|in|1}} in diameter.&lt;ref&gt;Stillwell, p. 360.&lt;/ref&gt; They were powered by twelve [[Babcock &amp; Wilcox]] [[water-tube boiler]]s.&lt;ref name=&quot;f0&quot; /&gt; The turbines were designed to produce a total of {{convert|34000|shp|lk=in}}, but only achieved {{convert|33376|shp|abbr=on}} during ''Arizona''{{'}}s [[sea trial]]s, when she met her designed speed of {{convert|21|kn|lk=in}}.&lt;ref&gt;Breyer, p. 214.&lt;/ref&gt; However, she did manage to reach {{convert|21.5|kn}} during a full-power trial in September 1924.&lt;ref&gt;Stillwell, p. 305.&lt;/ref&gt; She was designed to normally carry {{convert|1548|LT|t|0}} of [[fuel oil]], but had a maximum capacity of {{convert|2305|LT|t|0}}. At full capacity, the ship could steam at a speed of {{convert|12|knots}} for an estimated {{convert|7552|nmi|-1|lk=in}} with a clean bottom. She had four {{convert|300|kW|0|adj=on}} [[turbo generator]]s.&lt;ref name=&quot;f0&quot; /&gt;
+
+''Arizona'' carried twelve 45-[[caliber (artillery)#Barrel length|caliber]] [[14&quot;/45 caliber gun|14-inch guns]] in triple [[gun turret]]s.&lt;ref name=&quot;f0&quot; /&gt; The turrets were numbered from I to IV from front to rear. The guns could not elevate independently and were limited to a maximum elevation of +15° which gave them a maximum range of {{convert|21000|yd}}.&lt;ref&gt;Wright, pp. 66, 123, 285.&lt;/ref&gt; The ship carried 100 shells for each gun. Defense against [[torpedo boat]]s was provided by twenty-two 51-caliber [[5&quot;/51 caliber gun|five-inch guns]] mounted in individual [[casemate]]s in the sides of the ship's hull. Positioned as they were they proved vulnerable to sea spray and could not be worked in heavy seas.&lt;ref&gt;Friedman, pp. 116, 440.&lt;/ref&gt; At an elevation of 15°, they had a maximum range of {{convert|14050|yd}}.&lt;ref&gt;Campbell, p. 136.&lt;/ref&gt; Each gun was provided with 230 rounds of ammunition.&lt;ref name=&quot;f0&quot; /&gt; The ship mounted four 50-caliber [[3&quot;/50 caliber gun|three-inch guns]] for [[Anti-aircraft warfare|anti-aircraft]] defense, although only two were fitted when completed. The other pair were added shortly afterward on top of Turret III.&lt;ref&gt;Stillwell, p. 19.&lt;/ref&gt; ''Arizona'' also mounted two {{convert|21|in|0|adj=on}} [[torpedo tube]]s and carried 24 [[torpedo]]es for them.&lt;ref name=&quot;f0&quot; /&gt;
+
+[[File:Arizona (BB39) At Launch Approaching End of Ways - NARA - 5900076 - 1915 edit.jpg|thumb|upright=1.2|''Arizona''{{'}}s launch, 19 June 1915]]
+The ''Pennsylvania''-class design continued the [[all or nothing (armor)|all-or-nothing]] principle of armoring only the most important areas of the ship begun in the ''Nevada'' class. The [[waterline]] [[Belt armor|armor belt]] of [[Krupp armor]] measured {{convert|13.5|in|mm|0}} thick and only covered the ship's machinery spaces and [[magazine (artillery)|magazines]]. It had a total height of {{convert|17|ft|6|in|1}}, of which {{convert|8|ft|9.75|in|1}} was below the waterline; beginning {{convert|2|ft|4|in|1}} below the waterline, the belt tapered to its minimum thickness of {{convert|8|in|0}}.&lt;ref name=&quot;f0&quot; /&gt; The transverse [[Bulkhead (partition)|bulkheads]] at each end of the ship ranged from 13 to 8&amp;nbsp;inches in thickness. The faces of the gun turrets were {{convert|18|in|0}} thick while the sides were {{convert|9|-|10|in|0}} thick and the turret roofs were protected by {{convert|5|in|0}} of armor. The armor of the [[barbette]]s was {{convert|18|to|4.5|in|mm|0}} thick. The [[conning tower]] was protected by {{convert|16|in|0}} of armor and had a roof eight inches thick.&lt;ref name=&quot;s9&quot; /&gt;
+
+The main armor deck was three plates thick with a total thickness of {{convert|3|in|0}}; over the steering gear the armor increased to {{convert|6.25|in|0}} in two plates. Beneath it was the splinter deck that ranged from {{convert|1.5|to|2|in|mm|0}} in thickness.&lt;ref name=&quot;f5&quot;&gt;Friedman, pp. 115, 118, 440.&lt;/ref&gt; The boiler uptakes were protected by a conical [[mantlet]] that ranged from {{convert|9|to|15|in}} in thickness.&lt;ref name=&quot;s9&quot;&gt;Stillwell, p. 359.&lt;/ref&gt; A three-inch [[torpedo bulkhead]] was placed {{convert|9|ft|6|in|1}} inboard from the ship's side and the ship was provided with a complete [[double bottom]]. Testing in mid-1914 revealed that this system could withstand {{convert|300|lb}} of [[Trinitrotoluene|TNT]].&lt;ref name=&quot;f5&quot; /&gt;
+
+== Construction and trials ==
+The [[keel]] of battleship number 39 was laid on the morning of 16 March 1914 with [[Assistant Secretary of the Navy]] [[Franklin Delano Roosevelt]] in attendance.&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9D07EEDB133EE733A25754C1A9659C946596D6CF Lay Keel of Navy's New Dreadnought],&quot; ''New York Times'', 17 March 1914.&lt;/ref&gt; The builders intended to set a world-record ten months between the ship's keel-laying and [[ship naming and launching|launch]],&lt;ref&gt;Stillwell, pp. 3–5.&lt;/ref&gt; for what the ''New York Times'' declared would be &quot;the world's biggest and most powerful, both offensively and defensively, superdreadnought ever constructed,&quot;&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9801E7DA153FE633A25750C1A9619C946296D6CF Two Best Warships to be Built for US],&quot; ''New York Times'', 13 July 1913.&lt;/ref&gt; but the ship was only a little over half complete a year later.&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9904E5D61439EF32A25752C2A9659C946496D6CF Arizona Launching Here in Early June],&quot; ''New York Times'', 21 March 1915.&lt;/ref&gt; She was launched on 19 June 1915, making it about fifteen months from keel-laying to launch. In the meantime, the ship was named after the newest state in the union by [[United States Secretary of the Navy|Secretary of the Navy]] [[Josephus Daniels]].&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9E02E0DE1631E733A05750C1A9609C946496D6CF 50,000 to witness Arizona launching],&quot; ''New York Times'', 13 June 1915.&lt;/ref&gt;
+
+[[File:USS Arizona in New York City Crisco edit.jpg|thumb|left|upright=1.2|''Arizona'' on the [[East River]], New York City (1916)]]
+The ''New York Times'' estimated that 75,000 people attended the launch, including [[John Purroy Mitchel]], the mayor of New York City, [[George W. P. Hunt]], the [[governor of Arizona]], and many high-ranking military officials. Several warships were also nearby, including many of the new dreadnoughts which had already entered service ({{USS|Florida|BB-30|2}}, {{USS|Utah|BB-31|2}}, {{USS|Wyoming|BB-32|2}}, {{USS|Arkansas|BB-33|2}}, {{USS|New York|BB-34|2}}, and {{USS|Texas|BB-35|2}}). Esther Ross, the daughter of an Arizona [[pioneer family]], was given the honors of ship [[Ship naming and launching|sponsor and christening]]. To acknowledge a ban on alcohol recently passed by the state legislature, the state's governor decided that two bottles would be used: one full of sparkling wine from Ohio, and another filled with water from the [[Roosevelt Dam]]. After the launch, ''Arizona'' was towed to the [[Brooklyn Navy Yard]] for [[fitting-out]].&lt;ref name=&quot;Launch&quot;&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9906EFD8123FE233A25753C2A9609C946496D6CF Arizona Afloat as 75,000 Cheer],&quot; ''New York Times'', 20 June 1915.&lt;/ref&gt;
+
+''Arizona'' was [[ship commissioning|commissioned]] into the Navy on 17 October 1916 with [[John D. McDonald (naval officer)|John D. McDonald]] as captain.&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9E03E6DF1430E733A0575BC1A9669D946796D6CF The Mighty Arizona Now a Part of Navy],&quot; ''New York Times'', 18 October 1918.&lt;/ref&gt; She departed New York on 10 November 1916 after the crew had cleaned the ship and the propulsion system had been tested at the dock.&lt;ref&gt;Stillwell, pp. 14–15.&lt;/ref&gt; After [[Magnetic declination|declinating]] the ship's magnetic compasses, the ship sailed south for her [[shakedown cruise]]. Outside [[Guantanamo Bay Naval Base|Guantanamo Bay]], a stripped turbine on 7 December forced the navy to order ''Arizona'' back to New York for repairs, although she was able to enter [[Chesapeake Bay]] to test her [[main battery|main]] and secondary gun batteries on 19–20 December. The turbine could not be repaired inside the ship, so the yard workers had to cut holes in the upper decks to lift the damaged casing out. It was reinstalled after almost four months of repairs at the naval yard.&lt;ref&gt;Stillwell, pp. 16–21.&lt;/ref&gt;
+{{Clear}}
+
+== World War I ==
+[[File:USS Arizona (BB-39) 1918.jpg|thumb|upright=1.2|''Arizona'' at the New York City naval review, leading ten [[dreadnoughts]] that paraded past Secretary of the Navy [[Josephus Daniels]]]]
+''Arizona'' left the yard on 3 April 1917,&lt;ref name=&quot;DANFS&quot;&gt;NH&amp;HC, &quot;''Arizona''&quot;&lt;/ref&gt; and three days later, the United States declared war on Germany.  Assigned to Battleship Division&amp;nbsp;8 operating out of the [[York River (Virginia)|York River]],&lt;ref name=&quot;DANFS&quot; /&gt;&lt;ref&gt;Stillwell, pp. 21–22.&lt;/ref&gt; ''Arizona'' was only employed as a gunnery training ship for the crewmen on armed merchant vessels crossing the Atlantic in [[convoy]]s. Shortly after the war began, eight of her 5-inch guns (the four guns farthest forward and the sternmost four guns) were removed to equip merchant ships. When the ship sailed near the wreck of the old [[USS Texas (1892)|''San Marcos'']] (ex-''Texas''), the wreck was sometimes used as a target for the 14-inch guns. ''Arizona'' rarely ventured into the ocean for fear of [[U-boat]]s, and when she did, it was only in the company of other battleships and escort ships. Four coal-fired American dreadnoughts were eventually sent across the Atlantic in December 1917 as [[United States Battleship Division Nine (World War I)|Battleship Division Nine]], but ''Arizona'' was not among them, as it was easier to obtain coal than oil in the United Kingdom. Life for ''Arizona''{{'}}s crew was not all training as the [[Rowing (sport)|race-boat]] team from ''Arizona'' was able to win the [[Battenberg Cup]] in July 1918 by beating the team from ''Nevada'' by three lengths over the three-mile course.&lt;ref&gt;Stillwell, pp. 22–31.&lt;/ref&gt;
+
+The fighting ended on 11 November 1918 with [[Armistice with Germany|an armistice]]. A week later, the ship left the United States for the United Kingdom, arriving on 30 November 1918.&lt;ref name=&quot;DANFS&quot; /&gt; After two weeks berthed at [[Portland Harbour|Portland Harbor]], ''Arizona'' sailed for France.&lt;ref&gt;Stillwell, pp. 36–37.&lt;/ref&gt; On 13 December 1918, ''Arizona'' joined nine battleships and twenty-eight destroyers escorting President [[Woodrow Wilson]] on the ocean liner {{SS|George Washington||2}} into [[Brest, France|Brest]] for one day on Wilson's journey to the [[Paris Peace Conference, 1919|Paris Peace Conference]].&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9E01EEDF1339E13ABC4C52DFB4678383609EDE Fleet Met Wilson Before Daylight],&quot; ''New York Times'', 14 December 1918.&lt;/ref&gt; The ten battleships departed France the next day,&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9504E3DE1339E13ABC4D52DFB4678383609EDE Battleship Fleet sails for New York],&quot; ''New York Times'', 15 December 1918.&lt;/ref&gt; taking less than two weeks to cross the Atlantic, and arrived in New York on 26 December to parades, celebrations, and a full [[naval review]] by Secretary Daniels. ''Arizona'' was the first in line and rendered a nineteen-gun salute to Daniels. Along with many of the other members of the recently returned fleet, she was anchored off New York City for the next several weeks and open to the public.&lt;ref&gt;&quot;[http://query.nytimes.com/gst/abstract.html?res=9D01E1D91339E13ABC4F51DFB4678383609EDE Ovation to Sea Fighters],&quot; ''New York Times'', 26 December 1918.&lt;/ref&gt;
+
+== 1920s ==
+[[File:U.S.S. Arizona in lock, Panama.jpg|alt=Arizona transits the Panama Canal in 1921|thumb|''Arizona'' transits the Panama Canal in 1921]]
+''Arizona'' sailed from New York for Hampton Roads, where she arrived on 22 January, and she continued south to Guantanamo Bay not long after, arriving on 8 February.&lt;ref name=&quot;DANFS&quot; /&gt; The time in Caribbean waters was mostly used in training for battles and fleet maneuvering, although it included a liberty visit to [[Port of Spain]]. In April, ''Arizona''{{'}}s crew won the Battenberg Cup rowing competition for the second straight year before the ship was deployed to France once again to escort President Wilson back to the United States. While the ship was awaiting Wilson's departure, she was redeployed to Smyrna (now [[Izmir]]) in Turkey in response to tensions between Greece and Italy over the awarding of Smyrna to Greece in the [[Paris Peace Treaty]].&lt;ref&gt;Stillwell, pp. 41–43.&lt;/ref&gt; The Greek and Italian governments had each deployed a major warship to the area ([[Greek armored cruiser Georgios Averof|''Georgios Averof'']] and [[Italian battleship Caio Duilio|''Caio Duilio'']], respectively) to enforce their interests. Shortly after ''Arizona'' arrived, Greek ground forces arrived in transports and [[Greek landing at Smyrna|were off-loaded]] in the port. The resultant chaos in the city caused many American citizens in the area to seek shelter on board ''Arizona''.&lt;ref&gt;Stillwell, pp. 44–45.&lt;/ref&gt;
+
+When the crisis abated, ''Arizona'' was ordered to Constantinople (now [[Istanbul]]) before she sailed for home on 15 June. She put into the New York Navy Yard on 30 June for an overhaul, where six 5-inch guns were removed and the fire control system was modernized. Work was completed in January 1920 and the battleship sailed south to Guantanamo Bay for crew training. During this time, ''Arizona'' was fitted with a [[Flight deck#Early flight decks|flying-off platform]] similar to the one given to ''Texas'' in March 1919. In April, ''Arizona'' lost the Battenberg Cup to ''Nevada'', and in June she was present for the [[United States Naval Academy|Naval Academy]]'s graduation ceremonies. In August she became the flagship of [[United States Battleship Division Seven|Battleship Division Seven]], although it was only later in 1920 that the battleship was refitted to be an admiral's flagship.&lt;ref&gt;Stillwell, pp. 45, 48, 51, 56–57.&lt;/ref&gt;
+
+[[File:USS Arizona (BB-39) - NH 86101.jpg|thumb|left|upright=1.2|''Arizona'' with ship's complement (1924)]]
+In company with six battleships and eighteen destroyers, ''Arizona'' was sent south again to transit the [[Panama Canal]] in January 1921. After meeting up with the Pacific Fleet, ''Arizona'' continued on to Peru for a week before the two fleets combined to practice battle maneuvers. After a short return to the Atlantic, which included an overhaul in New York, ''Arizona'' returned to Peru in the summer before she began operating from her new home port of [[San Pedro, California]], part of Los Angeles, where she was based until 1940.&lt;ref name=&quot;DANFS&quot; /&gt;&lt;ref&gt;Stillwell, pp. 61, 64, 66–68.&lt;/ref&gt;
+
+For the rest of the 1920s, ''Arizona''{{'}}s service consisted of routine training exercises. Naval historian Paul Stillwell remarked that &quot;the Pacific years included a great deal of sameness and repetition&quot;, and his chronology of the ship's movements is filled with phrases like &quot;torpedo-defense practice&quot;, &quot;battle-practice rehearsal&quot;, &quot;gunnery practice&quot;, &quot;en route to…&quot;, and &quot;anchored at…&quot;.&lt;ref&gt;Stillwell, pp. 69, 300–14.&lt;/ref&gt; A recurring theme in these years were the annual Fleet Problems, which began in 1923 and simulated large fleet actions by having most of the active fleet face off against each other. The first two simulated an attack on the Panama Canal from the west, while in 1925 they attempted to defend the Hawaiian Islands. Other 1920s Fleet Problems included the Caribbean, near Central America, the [[West Indies]], and Hawaii. On 27 July 1923 the ship joined President [[Warren G. Harding]]'s [[naval review]] in Seattle. Harding died just one week later, and ''Arizona'' joined the Pacific Fleet to fire a salute in his honor on 3 August.&lt;ref name=&quot;DANFS&quot; /&gt;&lt;ref&gt;Stillwell, pp. 74, 303.&lt;/ref&gt;
+
+== Modernization ==
+[[File:USS Arizona (BB-39) being modernized in 1930.jpg|thumb|upright=1.2|''Arizona'' being modernized in Norfolk, June 1930]]
+Four months after [[Fleet Problem IX]] in January 1929, ''Arizona'' was modernized at the [[Norfolk Navy Yard]].&lt;ref name=&quot;DANFS&quot; /&gt; New tripod masts, surmounted by three-tiered [[Fire-control system#Naval fire control|fire-control directors]] for the main and secondary armament, replaced the old [[hyperboloid]] [[cage mast]]s; the number of {{convert|5|in|mm|adj=on}} guns was reduced to 12 and the guns re-positioned one deck higher, and eight 25-caliber [[5&quot;/25 caliber gun (United States)|5-inch]] [[Anti-aircraft warfare|anti-aircraft guns]] replaced the {{convert|3|in|mm|adj=on}} guns with which she had been originally equipped. The ship's main gun turrets were modified to increase the maximum elevation of their guns to 30°.&lt;ref name=f71/&gt; The compressed-air catapult on the quarterdeck was replaced by one that used [[black powder]].&lt;ref&gt;Stillwell, p. 111.&lt;/ref&gt; Her deck armor was increased by the addition of a {{convert|1.75|in|adj=on}} thickness of [[Special Treatment Steel]], and the ship was [[anti-torpedo bulge|bulged]] to protect her from torpedoes. An additional bulkhead was added to the sides of the boiler rooms for the same purpose. ''Arizona''{{'}}s machinery was almost entirely replaced; her high-pressure turbines were replaced by more powerful geared turbines from the cancelled battleship {{USS|Washington|BB-47|2}}, and six new boilers replaced her originals. Their additional power offset the ship's increased displacement as demonstrated during her sea trials; ''Arizona'' made {{convert|20.7|kn}} with {{convert|35081|shp|abbr=on}} at a displacement of {{convert|37654|lt|t}}.&lt;ref name=f71&gt;Friedman, pp. 197, 201.&lt;/ref&gt;
+
+== 1930s ==
+[[File:USS Arizona (BB-39) - 80-G-463589.jpg|thumb|upright=1.2|''Arizona'' after her modernization during the 1930s]]
+On 19 March 1931, even before ''Arizona'' was put through post-modernization sea trials, she hosted President [[Herbert Hoover]] for a brief vacation in the Caribbean. The President visited [[Puerto Rico]] and the [[Virgin Islands]]. Returning on 29 March, ''Arizona'' conducted her sea trials at [[Rockland, Maine]], and had another catapult fitted on the top of Turret III, before she was transferred to the [[West Coast of the United States|West Coast]] in August with her sister ''Pennsylvania''. In February 1932, the ship participated in Grand Joint Exercise No. 4 in which carrier aircraft successfully attacked [[Pearl Harbor]] on Sunday morning, 7 February. After returning to the West Coast from Fleet Problem&amp;nbsp;XIV in 1933, the ship was anchored in San Pedro when an earthquake struck nearby [[Long Beach, California]], on 10 March. Sailors from the ship joined the relief efforts, providing food, treating the injured and providing security from looters.&lt;ref&gt;Stillwell, pp. 112–20, 124, 128–29.&lt;/ref&gt;
+
+In early 1934, the ship and her crew were featured in a [[James Cagney]] film for Warner Brothers, ''[[Here Comes the Navy]]'', which made extensive use of exterior footage as well as on-board location shots. In the early morning of 26 July, ''Arizona'' collided with a [[fishing trawler]], ''Umatilla'', that was under tow by another trawler off [[Cape Flattery]]. Two men aboard the ''Umatilla'' were killed in the collision and the Navy convened a [[Court of Inquiry (Naval)|Court of Inquiry]] to investigate the incident. The court recommended that the ship's captain, Captain [[MacGillivray Milne]], be court-martialed. This took place at [[Guantanamo Bay Naval Base]], [[Cuba]], while the ship was participating in that year's Fleet Problem off the [[East Coast of the United States|East Coast]]. Milne was judged guilty and replaced several months later by Captain George Baum after the ship returned to the West Coast. In the meantime, [[Rear Admiral]] [[Samuel W. Bryant]] assumed command of Battleship Division Two on 4 September, with ''Arizona'' as his flagship.&lt;ref&gt;Stillwell, pp. 133–42, 183, 185, 321.&lt;/ref&gt;
+
+Rear Admiral [[George Pettengill]] relieved Bryant on 4 March 1935 and the ship participated in Fleet Problem XVI two months later. ''Arizona'' made a port visit to [[Balboa, Panama]], in May 1936 during Fleet Problem XVII. On 8 June, Captain [[George A. Alexander]] relieved Baum as captain, and, 15 days later, Rear Admiral [[Claude C. Bloch]] relieved Pettengill. During gunnery practice on 24 July, the combustion gases from one gun of Turret II entered the gun turret, burning one crewman. The turret's sprinkling system was turned on to prevent any powder explosion, but the water leaked into the turret's electrical switchboard and started a small fire that was easily put out. Due to the navy's limited budget, the ship spent most of this period in port as a fuel-saving measure. In [[Fiscal Year]] 1936–37, the ship was anchored for 267 days; the following year it was in port for 255 days. The ship spent the rest of her career based on the West Coast or in Hawaii.&lt;ref&gt;Stillwell, pp. 190–91, 196, 322–31.&lt;/ref&gt;
+
+[[File:USS Arizona after 1931 modernization NARA 19-LC-19B-1.jpg|thumb|left|upright=1.2|''Arizona'' in 1931 after her modernization]]
+On 2 January 1937, Rear Admiral [[John Greenslade]] assumed command of Battleship Division Two from Bloch and transferred his flag to the battleship {{USS|Maryland|BB-46|2}} on 13 April. Rear Admiral [[Manley Simons]], commander of Battleship Division One, transferred his flag to ''Arizona'' on 7 August. He was relieved by Rear Admiral [[Adolphus Wilson]] on 8 November. Captain [[Alfred Winsor Brown]] relieved Baum on 11 December. The ship participated in Fleet Problem XIX off Hawaii in April–May 1938. Captain Brown died in his sleep on 7 September and Captain [[Isaac C. Kidd]] assumed command of the ship on 17 September 1938. That same day, Rear Admiral [[Chester Nimitz]] assumed command of Battleship Division One. Nimitz was relieved on 27 May 1939 by Rear Admiral [[Russell Willson]].&lt;ref&gt;Stillwell, pp. 324–30.&lt;/ref&gt;
+
+''Arizona''{{'}}s last fleet problem was off Hawaii in April–May 1940. At its conclusion, the [[United States Pacific Fleet]] was retained in Hawaiian waters, based at Pearl Harbor, to deter the Japanese.&lt;ref&gt;Wohlstetter, pp. 80–81&lt;/ref&gt; She was overhauled at the [[Puget Sound Navy Yard]], [[Bremerton, Washington]], from October 1940 to January 1941. During this refit, her anti-aircraft armament was increased to twelve 5-inch guns, the foundation for a search [[radar]] was added atop her foremast, her anti-aircraft directors were upgraded and a platform for four water-cooled {{convert|.50|in|adj=on|1}} caliber [[M2 Browning]] machine guns was installed at the very top of the mainmast. Her last flag change-of-command occurred on 23 January 1941, when Willson was relieved by Isaac Kidd, by that time a rear admiral. Captain [[Harold C. Train]] assumed command of the ship on 3 February.&lt;ref&gt;Stillwell, pp. 217, 330–31.&lt;/ref&gt;
+
+Captain [[Franklin Van Valkenburgh]] relieved Train on 3 February 1941.&lt;ref&gt;Stillwell, p. 331.&lt;/ref&gt; The battleship's last training exercise was night-firing in company with the battleships {{USS|Nevada|BB-36|2}} and {{USS|Oklahoma|BB-37|2}}, on the night of 4 December. All three ships moored at [[quay]]s along [[Ford Island]] on the following day.&lt;ref name=&quot;DANFS&quot;/&gt; On 6 December, the repair ship {{USS|Vestal|AR-4|2}} came alongside to assist the ship's crew with minor repairs.&lt;ref&gt;Stillwell, p. 228.&lt;/ref&gt;
+
+== Attack on Pearl Harbor ==
+{{main article|Attack on Pearl Harbor}}
+
+Shortly before 08:00 local time on 7 December 1941, Japanese aircraft from six [[aircraft carrier]]s struck the Pacific Fleet as it lay in port at Pearl Harbor, and wrought devastation on the warships and the facilities defending Hawaii. On board ''Arizona'', the ship's air raid alarm went off at about 07:55, and the ship went to [[general quarters]] soon after. Shortly after 08:00, 10 [[Nakajima B5N]] &quot;Kate&quot; [[torpedo bomber]]s, five each from the carriers {{Ship|Japanese aircraft carrier|Kaga||2}} and {{Ship|Japanese aircraft carrier|Hiryū||2}}, attacked ''Arizona''. All of the aircraft were carrying {{convert|410|mm|adj=on|1|sp=us}} [[Armor-piercing shot and shell|armor-piercing]] shells modified into {{convert|797|kg|adj=on}} bombs. Flying at an estimated altitude of {{convert|3000|m|sp=us}}, ''Kaga''{{'}}s aircraft bombed ''Arizona'' from amidships to stern. Soon after, ''Hiryu''{{'}}s bombers hit the bow area.&lt;ref&gt;Stillwell, pp. 274–76.&lt;/ref&gt;
+
+The aircraft scored four hits and three near misses on and around ''Arizona''. The near miss off the port bow is believed to have caused observers to believe that the ship had been torpedoed, although no torpedo damage has been found. The sternmost bomb ricocheted off the face of Turret IV and penetrated the deck to detonate in the captain's pantry, causing a small fire. The next forwardmost hit was near the port edge of the ship, abreast the mainmast, probably detonating in the area of the anti-torpedo bulkhead. The next bomb struck near the port rear 5-inch AA gun.&lt;ref&gt;Stillwell, pp. 273–75.&lt;/ref&gt;{{refn|The preliminary damage report, filed on 28 January 1942, listed seven bomb hits as well one [[torpedo]] hit on the port bow forward. This last hit was based on a report from the captain of the [[repair ship]] {{USS|Vestal|AR-4|2}} moored alongside and could not be verified at the time. One bomb was thought to have gone down the stack, but this was contradicted when the ship's superstructure was salvaged in 1942 and the [[funnel (ship)|funnel cap]] was found to be intact.&lt;ref&gt;Reproduced in Wright, pp. 275–76.&lt;/ref&gt;|group=Note}}
+
+=== Magazine explosion ===
+[[File:Pearlharborcolork13513.jpg|thumb|right|upright=1.2|''Arizona''{{'}}s forward magazines explode in a still from a film made during the attack.]]
+[[File:The USS Arizona (BB-39) burning after the Japanese attack on Pearl Harbor - NARA 195617 - Edit.jpg|thumb|upright=1.2|''Arizona'' burning after the Japanese attack on Pearl Harbor.]]
+The last bomb hit at 08:06 in the vicinity of Turret II, likely penetrating the armored deck near the ammunition [[magazine (artillery)|magazines]] located in the forward section of the ship. While not enough of the ship is intact to judge the exact location, its effects are indisputable: about seven seconds after the hit, the forward magazines detonated in a cataclysmic explosion, mostly venting through the sides of the ship and destroying much of the interior structure of the forward part of the ship. This caused the forward turrets and conning tower to collapse downward some {{convert|25|-|30|ft|1}} and the foremast and funnel to collapse forward, effectively tearing the ship in half.&lt;ref name=&quot;s78&quot;&gt;Stillwell, pp. 277–78.&lt;/ref&gt; The explosion killed 1,177 of the 1,512 crewmen on board at the time, over half of the lives lost during the attack.&lt;ref name=&quot;DANFS&quot; /&gt; It touched off fierce fires that burned for two days; debris showered down on Ford Island in the vicinity. The blast from this explosion also put out fires on the repair ship ''Vestal'', which was moored alongside.&lt;ref&gt;Prange, pp. 513–14.&lt;/ref&gt;
+
+Two competing theories have arisen about the cause of the explosion. The first is that the bomb detonated in or near the [[black powder]] magazine used for the ship's saluting guns and catapult charges. This would have detonated first and then ignited the [[smokeless powder]] magazines which was used for the ship's main armament. A 1944 Navy [[Bureau of Ships]] report suggests that a hatch leading to the black powder magazine was left open, possibly with flammable materials stocked nearby. The [[Naval History and Heritage Command]] explained that black powder might have been stockpiled outside the armored magazine.&lt;ref name=&quot;navalhistory&quot;&gt;{{cite web | url = http://www.history.navy.mil/photos/events/wwii-pac/pearlhbr/ph-az.htm | title = Pearl Harbor Raid, 7 December 1941, USS Arizona during the Pearl Harbor Attack | publisher = Naval History and Heritage Command | accessdate = 26 August 2010 }}&lt;/ref&gt; The alternative explanation is that the bomb penetrated the armored decks and detonated directly inside one of the starboard magazines for the main armament, but smokeless powder is relatively difficult to detonate. Thus the 14-inch powder bags required a black powder pad to quickly ignite the powder. The time elapsed from the bomb hit to the magazine explosion was shorter than experience suggested burning smokeless powder required to explode.&lt;ref&gt;Wright, pp. 287–88, 60–61&lt;/ref&gt; It seems unlikely that a definitive answer to this question will ever be found, as the surviving physical evidence is insufficient to determine the cause of the magazine explosion.&lt;ref name=&quot;s78&quot; /&gt;&lt;ref&gt;Friedman, p. 6.&lt;/ref&gt;
+
+=== Awards and recognition ===
+
+After the attack, several sailors received medals for their conduct and actions under fire. [[Lieutenant Commander]] [[Samuel G. Fuqua]], the ship's damage control officer, earned the [[Medal of Honor]] for his cool-headedness while quelling fires and getting survivors off the wrecked battleship. Posthumous awards of the Medal of Honor also went to two high-ranking officers who were on board the battleship when it was destroyed, Rear Admiral [[Isaac C. Kidd]], the first flag officer killed in the Pacific war, and Captain [[Franklin Van Valkenburgh]], who reached the bridge and was attempting to defend his ship when the bomb that hit the onboard ammunition magazines destroyed it.&lt;ref&gt;Stillwell, pp. 267–68.&lt;/ref&gt; ''Arizona'' was awarded one [[battle star]] for her service in [[World War II]].&lt;ref name=&quot;DANFS&quot; /&gt;
+
+== Salvage and memorial ==
+[[File:USS Arizona 2.png|thumb|upright=1.2|The visible superstructure of ''Arizona'' after her sinking]]
+''Arizona'' was placed &quot;in ordinary&quot; (declared to be temporarily out of service)&lt;ref&gt;{{cite web | url = http://128.146.17.149/previous-programs/Arizona/UtahHistory_3.htm | publisher = USS ''Arizona'' Preservation Project 2004 | title = History of USS Utah | accessdate = 26 August 2010}}&lt;/ref&gt; at Pearl Harbor on 29 December, and was struck from the [[Naval Vessel Register]] on 1 December 1942. She was so badly damaged by the magazine explosion that she was not thought fit for service even if she could be [[marine salvage|salvaged]], unlike many of the other sunken ships nearby.&lt;ref&gt;Stillwell, p. 279.&lt;/ref&gt; Her surviving superstructure was [[ship breaking|scrapped]] in 1942, and her main armament was salvaged over the next year and a half.&lt;ref&gt;Wright, pp. 78, 80.&lt;/ref&gt; The aft main gun turrets were removed and reinstalled as [[United States Army]] [[Coast Artillery Corps]] Battery Arizona at Kahe Point on the west coast of [[Oahu]] and Battery Pennsylvania on the [[Mokapu Peninsula]], covering [[Kaneohe Bay]] at what is now Marine Corps Base Hawaii. Battery Pennsylvania fired its guns for the first and last time on V-J Day in August 1945 while training, while the nearby Battery Arizona was never completed.&lt;ref&gt;{{cite journal|last=Lewis|first=E. R.|author2=Kirchner, D. P.  | year = 1992 | title = The Oahu Turrets|journal=Warship International | publisher = International Naval Research Organization|location=Toledo, Ohio|volume=XXIX|issue=2|pages=289, 299|issn=0043-0374 }}&lt;/ref&gt; Both forward turrets were left in place, although the guns from Turret II were salvaged and later installed on the battleship {{USS|Nevada|BB-36|2}} in the fall of 1944 after having been straightened and relined.&lt;ref&gt;Wright, pp. 80, 84, 88.&lt;/ref&gt; ''Nevada'' later fired these same guns against the Japanese islands of [[Okinawa]] and [[Iwo Jima]].&lt;ref&gt;{{cite DANFS | title = Nevada | url = http://www.history.navy.mil/danfs/n4/nevada-ii.htm | accessdate = 17 October 2008 }}&lt;/ref&gt;
+
+=== Arizona memorials ===
+{{main article|USS Arizona Memorial}}
+It is commonly—albeit incorrectly—believed that ''Arizona'' remains perpetually in commission, like the {{USS|Constitution}}.&lt;ref name=hc/&gt; ''Arizona'' is under the control of the [[National Park Service]], but the U.S.&amp;nbsp;Navy still retains the title.&lt;ref name=&quot;nvr&quot;&gt;{{cite web | url = {{NVR url|id=BB39}} | title = Arizona (BB 39) | publisher = Naval Vessel Registry|accessdate=16 November 2011|date=30 August 2001 }}&lt;/ref&gt; ''Arizona'' retains the right, in perpetuity, to fly the [[United States flag]] as if she were an active, commissioned naval vessel.&lt;ref name=hc/&gt;
+
+[[File:USS Arizona Memorial (aerial view).jpg|thumb|upright=1.2|Aerial view of the USS ''Arizona'' Memorial, showing the wreck and oil seepage from the ship's bunkers]]
+The wreck of ''Arizona'' remains at Pearl Harbor to commemorate the men of her crew lost that December morning in 1941. On 7 March 1950, [[Admiral (United States)|Admiral]] [[Arthur W. Radford]], commander in chief of the Pacific Fleet at that time, instituted the raising of colors over her remains.&lt;ref&gt;Stillwell, p. 281.&lt;/ref&gt; Legislation during the administrations of presidents [[Dwight D. Eisenhower]] and [[John F. Kennedy]] resulted in the designation of the wreck as a national shrine in 1962. A memorial was built across the ship's sunken remains, including a shrine room listing the names of the lost crew members on a marble wall. The [[national memorial]] was administratively listed on the [[National Register of Historic Places]] on 15 October 1966. The ship herself was designated a [[National Historic Landmark]] on 5 May 1989.&lt;ref&gt;{{cite web | url = http://image1.nps.gov/lizardtech/iserv/getdoc?cat=NHLS&amp;item=/Text/89001083.djvu&amp;DJVUOPTS&amp;thumbnails=true | title = USS ''ARIZONA'' Wreck | publisher = National Park Service | accessdate = 16 July 2011 }}&lt;/ref&gt; Upon their death, survivors of the attack may have their ashes placed within the ship, among their fallen comrades. Veterans who served aboard the ship at other times may have their ashes scattered in the water above the ship.&lt;ref&gt;{{cite web | url = http://128.146.17.149/previous-programs/Arizona/ArizonaInterments.htm | publisher = USS ''Arizona'' Preservation Project 2004 | title = USS Arizona Interments | accessdate =16 November 2011|date=18 December 2007}}&lt;/ref&gt;
+
+While the superstructure and two of the four main gun turrets were removed, the barbette of one of the turrets remains visible above the water.&lt;ref name=hc&gt;{{cite web|url=http://www.nps.gov/valr/historyculture/index.htm|title=History and Culture|publisher=National Park Service|accessdate=16 November 2011}}&lt;/ref&gt; Since her sinking, oil still leaks from the hull, with more than 2.3 quarts (2.18&amp;nbsp;l) escaping into the harbor per day.&lt;ref&gt;{{cite web | url = http://128.146.17.149/previous-programs/Arizona/Legacy_2.htm | title = Baseline Environmental Data Collection | date = 18 December 2007 | work = | publisher = USS ''Arizona'' Preservation Project 2004| accessdate =16 November 2011}}&lt;/ref&gt; The Navy, in conjunction with the National Park Service, has recently overseen a comprehensive computerized mapping of the hull, being careful to honor its role as a [[war grave]].&lt;ref&gt;{{cite web | url = http://128.146.17.149/previous-programs/Arizona/index.htm | publisher = USS ''Arizona'' Preservation Project 2004| title = USS ''Arizona'' Preservation Project | accessdate =16 November 2011|date=18 December 2007}}&lt;/ref&gt; The Navy is considering non-intrusive means of abating the continued leakage of oil to avoid the further environmental degradation of the harbor.&lt;ref&gt;{{cite web | url = http://128.146.17.149/previous-programs/Arizona/FAQ_2.htm#StillOil | publisher = USS ''Arizona'' Preservation Project 2004| title = USS ''Arizona'' Preservation Project FAQ | accessdate =16 November 2011|date=18 December 2007}}&lt;/ref&gt;
+
+One of the original ''Arizona'' bells now hangs in the [[University of Arizona]] Student Union Memorial Center bell tower. The bell is rung after every home [[Arizona Wildcats football|football]] victory.&lt;ref&gt;{{cite web | url = http://www.union.arizona.edu/traditions/scrapbook/history27-2002.php | title = U.S.S. Arizona Bell| publisher = University of Arizona | accessdate = 16 July 2011 }}&lt;/ref&gt; A gun, mast, and anchor from ''Arizona'' are in [[Wesley Bolin Memorial Plaza]] just east of the [[Arizona]] [[Arizona State Capitol|state capitol]] complex in downtown [[Phoenix, Arizona]]. The gun's plaque states that it was not on the ship during the Pearl Harbor attack, but was being relined and was later mounted on {{USS|Nevada|BB-36}}. It is paired with a gun from {{USS|Missouri|BB-63}} to represent the start and end of the Pacific War for the United States.&lt;ref&gt;{{cite web | url = http://www.roadsideamerica.com/tip/11973 | title = Phoenix, Arizona – USS Arizona Anchor and Mast | date = 15 July 2011 | publisher = Roadside America.com | accessdate = 16 July 2011 }}&lt;/ref&gt; Other artifacts from the ship, such as items from the ship's [[Table setting|silver service]], are on permanent exhibit in the Arizona State Capitol Museum.&lt;ref&gt;{{cite web | url = http://azmemory.azlibrary.gov/cdm/ref/collection/acmimages/id/35 | title = Flagship of the Fleet: Life and Death of the USS Arizona | work = Current Exhibits | publisher = Arizona Capitol Museum | accessdate = 22 May 2008}}&lt;/ref&gt;
+
+Every two years the Navy awards &quot;The USS ''Arizona'' Memorial Trophy&quot; to the ship, determined by the [[Chief of Naval Operations]], to have achieved the highest combat readiness in Strike warfare, Surface Fire Support and Anti-Surface warfare. The 3 foot tall bronze trophy on a black marble base was provided to the Navy by the citizens of the state of [[Arizona]] on 7 December 1987.&lt;ref&gt;{{cite web |url= http://doni.daps.dla.mil/Directives/03000%20Naval%20Operations%20and%20Readiness/03-500%20Training%20and%20Readiness%20Services/3590.11F.pdf |title= OPNAVINST 3590.11F -  Arleigh Burke Fleet Trophy, the Marjorie Sterrett Battleship Fund Award and USS ARIZONA Memorial Trophy |date= 30 January 2007 }}&lt;/ref&gt;
+
+== See also ==
+{{Portal|Battleships}}
+
+* [[List of the largest artificial non-nuclear explosions]]
+*[[USS Arizona salvaged artifacts|USS ''Arizona'' salvaged artifacts]]
+
+== Notes ==
+{{Reflist|group=N}}
+
+=== Footnotes ===
+{{reflist|group=Note}}
+
+=== Citations ===
+{{reflist |32em}}
+
+== References ==
+*{{cite book |last=Breyer|first=Siegfried|title=Battleships and Battle Cruisers, 1905–1970|location=Garden City, New York|publisher=Doubleday|year=1973|oclc= 702840}}
+*{{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press |location=Annapolis, Maryland |isbn= 0-87021-459-4}}
+* {{cite book|last=Friedman|first=Norman|title=U.S. Battleships: An Illustrated Design History|publisher= Naval Institute Press|location=Annapolis, Maryland |year=1985|isbn= 0-87021-715-1}}
+* {{cite web|url=http://www.history.navy.mil/research/histories/ship-histories/danfs/a/arizona-battleship-no-39-ii.html|title= Arizona |date=9 November 2004 | work =Dictionary of American Naval Fighting Ships|publisher=[[Naval History &amp; Heritage Command]] (NH&amp;HC) | accessdate =20 November 2011}}
+*{{cite book|last=Prange|first=Gordon|authorlink=Gordon W. Prange|title=At Dawn We Slept: The Untold Story of Pearl Harbor|publisher=McGraw-Hill|location=New York|year=1981|isbn=0-14-015734-4|oclc= 48171319}}
+*{{cite book|last=Stillwell|first=Paul|title=Battleship Arizona: An Illustrated History|publisher= Naval Institute Press|location=Annapolis, Maryland|year=1991|isbn=0-87021-023-8|oclc= 2365447 | ref = harv}}
+*{{cite book|last=Wohlstetter|first=Roberta|authorlink=Roberta Wohlstetter|title=Pearl Harbor: Warning and Decision |publisher=Stanford University Press|location=Stanford, California|year=1962|oclc= 269470}}
+* {{cite journal | editor-last = Wright | editor-first = Christopher C |date=Mar 2002 | title = The US Navy's Study of the Loss of the Battleship Arizona |journal = Warship International | publisher = International Naval Research Organization | location = Toledo, Ohio| volume = XXXIX–XL | issue = 3–4, 1 | pages = 44–105, 247–99, 360–80 | issn = 0043-0374}}
+
+== Further reading ==
+* {{cite book | last1 = Gardiner | first1 = Robert | last2 = Gray | first2 = Randal | year = 1985 | title = Conway's All the World's Fighting Ships: 1906–1921 | publisher = Conway Maritime Press | location = London | isbn = 0-87021-907-3}}
+* {{cite book|last1 =Hone|first1 =Thomas C | first2 =Trent | last2 = Hone|title=Battle Line: The United States Navy 1919–1939 |publisher=Naval Institute Press|location=Annapolis, Maryland |year=2006| isbn = 1-59114-378-0 |oclc= 62324475}}
+* {{cite book|last=Jones|first=Jerry W |title=U.S. Battleship Operations in World War I|publisher= Naval Institute Press|location=Annapolis, Maryland|year=1998|isbn=1-55750-411-3|oclc= 37935228}}
+* {{cite book|last=Madsen|first=Daniel|title=Resurrection: Salvaging the Battle Fleet at Pearl Harbor | publisher =Naval Institute Press|location=Annapolis, Maryland|year=2003|isbn= 1-55750-488-1}}
+* {{cite book|last=Raymer|first=Edward C.|title=Descent into Darkness: Pearl Harbor, 1941: A Navy Diver's Memoir |publisher=Presidio Press|location=Novato, California|year=1996|isbn= 0-89141-589-0}}
+* {{cite book | last = Wallin | first = Homer N. | authorlink = Homer N. Wallin | title = Pearl Harbor: Why, How, Fleet Salvage and Final Appraisal | publisher = Department of the Navy | location = Washington, DC | year = 1968 | isbn = 0-89875-565-4 | oclc = 51673398}}
+
+== External links ==
+{{Commons category|USS Arizona (BB-39)}}
+* [http://go.footnote.com/arizona_memorial/ Interactive USS ''Arizona'' Memorial] Search the memorial for names.
+* [http://www.maritimequest.com/warship_directory/us_navy_pages/uss_arizona_bb39.htm Maritimequest USS ''Arizona'' BB-39 photo gallery]
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-a/bb39.htm USS ''Arizona'' (BB-39), 1916–1941] – Online Library of Selected Images (US Navy)
+* {{navsource|01/39a|USS Arizona}} – Construction – 1918
+* [http://www.library.arizona.edu/exhibits/ussarizona/links.html Internet Resources on the USS ''Arizona'' and the Pearl Harbor attack] – University of Arizona Library
+* [http://www.azcentral.com/longform/life/az-narratives/2014/12/04/uss-arizona-pearl-harbor-survivors/19892203/ ''Arizona Republic''] longform series, including interviews with the then-last nine survivors of those who serviced on the ship
+* {{HAER |survey=HI-13 |id=hi0096 |title=USS ''Arizona'', Submerged off Ford Island, Pearl Harbor, Honolulu, Honolulu County, HI |photos=5 |color=|dwgs=4 |data=2 |cap=1}}
+
+{{Pennsylvania class battleship}}
+{{US state ships}}
+{{Pearl Harbor attack}}
+{{December 1941 shipwrecks}}
+
+{{Coord|21.364775|-157.950112 |format=dms |region:US-HI_type:landmark |display=title }}
+{{Use dmy dates|date=December 2013}}
+{{Featured article}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arizona (BB-39)}}
+[[Category:1915 ships]]
+[[Category:Attack on Pearl Harbor]]
+[[Category:Battleships sunk by aircraft]]
+[[Category:Pennsylvania-class battleships]]
+[[Category:Ships built in Brooklyn, New York]]
+[[Category:Ships present during the attack on Pearl Harbor]]
+[[Category:Ships sunk during the attack on Pearl Harbor]]
+[[Category:Shipwrecks of Hawaii]]
+[[Category:Shrines]]
+[[Category:United States Navy Arizona-related ships]]
+[[Category:World War I battleships of the United States]]
+[[Category:World War II battleships of the United States]]
+[[Category:World War II shipwrecks in the Pacific Ocean]]
+[[Category:History of Arizona]]
+[[Category:Historic American Engineering Record in Hawaii]]
+[[Category:Naval magazine explosions]]
+[[Category:World War II on the National Register of Historic Places in Hawaii]]
+[[Category:National Historic Landmarks in Hawaii]]
+[[Category:Shipwrecks on the National Register of Historic Places in Hawaii]]
+[[Category:Filmed deaths]]</text>
+      <sha1>heet6t0kh7ihlj7hf018y6dg1rcnvjl</sha1>
+    </revision>
+  </page>
+</mediawiki>

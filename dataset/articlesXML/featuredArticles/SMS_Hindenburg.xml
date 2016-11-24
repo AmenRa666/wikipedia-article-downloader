@@ -1,0 +1,329 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Hindenburg</title>
+    <ns>0</ns>
+    <id>1581556</id>
+    <revision>
+      <id>743730902</id>
+      <parentid>736888163</parentid>
+      <timestamp>2016-10-10T23:09:53Z</timestamp>
+      <contributor>
+        <ip>80.4.110.223</ip>
+      </contributor>
+      <comment>Derfflinger had 12 single 5.9&quot; due to roll tanks. Hindenburg had all 14 as designed.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18873">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Hindenburg scapa.jpg|300px|alt=Several large gray warships sit motionless in harbor]]
+| Ship caption = ''Hindenburg'' at anchor in Scapa Flow
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name = ''Hindenburg''
+| Ship namesake = [[Paul von Hindenburg]]
+| Ship ordered = 1912–1913 Naval Program
+| Ship builder = [[Kaiserliche Werft Wilhelmshaven|Kaiserliche Werft]], [[Wilhelmshaven]]
+| Ship laid down = 1 October 1913
+| Ship launched = 1 August 1915
+| Ship acquired = 
+| Ship commissioned = 10 May 1917
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship struck = 
+| Ship reinstated = 
+| Ship fate = Scuttled in [[Scapa Flow]] on 21 June 1919, wreck raised 1930, scrapped 1930–1932
+| Ship status = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass-|Derfflinger|battlecruiser}}
+| Ship displacement =* 26,180 tons normal load
+* 31,200 tons full load
+  
+| Ship length = {{convert|212.8|m|ft|abbr=on}}
+| Ship beam = {{convert|29.0|m|ft|abbr=on}}
+| Ship draft = {{convert|9.57|m|ft|abbr=on}}
+| Ship propulsion = 4 shaft Parsons turbines; 18 boiler; {{convert|70,444|kW|shp|abbr=on|lk=in|order=flip}}
+| Ship speed = {{convert|26.6|kn|lk=in}}
+| Ship range = {{convert|6,100|nmi|abbr=on}} at {{convert|12|kn}}
+| Ship complement = 44 officers and 1,068 men, 1,390 in wartime
+| Ship sensors = 
+| Ship EW = 
+| Ship armament =*  8 × 30.5 cm (12&quot;) SK L/50 in 4 twin turrets
+* 14 × 15   cm (5.9&quot;) SK L/45 in 14 single turrets
+*  4 × 8.8 cm (4 × 1) in 4 single mounts
+*  4 × single 60&amp;nbsp;cm torpedo tubes
+  
+| Ship armor =* Belt: 300 mm
+* Command Tower: 300 mm
+* Deck: 30 mm
+* Turrets: 270 mm
+  
+| Ship aircraft = 
+| Ship motto = 
+}}
+|}
+
+'''SMS ''Hindenburg'''''{{efn|name=SMS}} was a [[battlecruiser]] of the [[German Empire|German]] ''[[Kaiserliche Marine]]'' (Imperial Navy), the third ship of the {{sclass-|Derfflinger|battlecruiser|4}}, built to a slightly modified design. She carried the same battery of eight {{convert|30.5|cm|abbr=on}} guns, but in improved turrets that allowed them to fire further. The ship was also slightly larger and faster than her two [[sister ship]]s. She was named in honor of [[Generalfeldmarschall|Field Marshal]] [[Paul von Hindenburg]], the victor of the [[Battle of Tannenberg (1914)|Battle of Tannenberg]] and the [[First Battle of the Masurian Lakes|Battle of the Masurian Lakes]], as well as Supreme Commander of the German armies from 1916. The ship was the last [[capital ship]] of any type built by the German navy during [[World War I]].
+
+''Hindenburg'' was commissioned late in the war and as a result had a brief service career. The ship took part in a handful of short fleet operations as the [[flagship]] of the [[I&amp;nbsp;Scouting Group]] in 1917–18, though saw no major action. The [[Naval order of 24 October 1918|proposed final sortie]] of the fleet in the last weeks of the war came to nothing when [[Wilhelmshaven mutiny|the crews of the capital ships mutinied]]. ''Hindenburg'' was subsequently interned with the rest of the German battlecruisers at [[Scapa Flow]] in November 1918. Rear Admiral [[Ludwig von Reuter]] [[scuttling of the German fleet in Scapa Flow|ordered the ships be scuttled]] on 21 June 1919. ''Hindenburg'' was the last of the ships to sink. She was raised in 1930 and [[ship breaking|broken up]] for scrap over the following two years.
+
+== Design ==
+{{main article|Derfflinger-class battlecruiser}}
+
+''Hindenburg''{{'}}s primary armament was eight [[30.5 cm SK L/50 gun|30.5&amp;nbsp;cm (12&amp;nbsp;in) guns]] in four twin turrets, the same as in her two sisters.{{sfn|Gröner|p=56}} However, the gun turrets were Drh LC/1913 mounts, which were an improved version the Drh LC/1912 type mounts on ''Derfflinger'' and ''Lützow''—the gun houses on ''Hindenburg'' allowed gun elevation to 16°,{{sfn|Campbell|p=57}} as opposed to 13.5° in the earlier model. This gave the guns mounted in the Drh LC/1913 turrets an advantage of some {{convert|2000|m|yd|abbr=on}} over those in the older turret.{{sfn|Staff|p=36}}{{efn|name=elevation advantage}}{{efn|name=older mounts modified}} Like her sister ship, the ''Lützow'', she was armed with fourteen 15&amp;nbsp;cm (5.9&amp;nbsp;in) SK L/45 guns and four 60&amp;nbsp;cm (23.6&amp;nbsp;in) torpedo tubes instead of the standard twelve 15&amp;nbsp;cm guns and four 50&amp;nbsp;cm (19.7&amp;nbsp;in) tubes mounted on ''Derfflinger''. While {{convert|2.5|m|ft|abbr=on}} longer and {{convert|300|MT}} heavier than her sisters, ''Hindenburg'' was also faster, capable of steaming at {{convert|26.6|kn}} during trials, compared with {{convert|25.5|kn}} for ''Derfflinger''.{{sfn|Gröner|pp=56–57}}
+
+== Service history ==
+
+[[File:Bundesarchiv Bild 183-2006-1121-500, Kreuzer Hindenburg, Stapellauf.jpg|thumb|left|Launch of ''Hindenburg'', August 1, 1915]]
+Built by the [[Kaiserliche Werft Wilhelmshaven|Kaiserliche Werft]] at their shipyard in [[Wilhelmshaven]], ''Hindenburg'' was the third and final ship of her class; her sister ships were {{SMS|Derfflinger||2}} and {{SMS|Lützow||2}}. Designed as a replacement for the elderly [[protected cruiser]] {{SMS|Hertha||2}}, ''Hindenburg''{{'}}s keel was laid down on 30&amp;nbsp;June 1913. She was launched on 1&amp;nbsp;August 1915, but due to shifting construction priorities in time of war, she was not completed until 10&amp;nbsp;May 1917, by which time it was too late for her to see any significant operations in World War I.{{sfn|Gröner|p=57}} At the time, British naval intelligence believed the ship was commissioned so late because she had had parts removed to repair ''Derfflinger'' after the [[battle of Jutland]] in June 1916.{{sfn|Campbell|p=56}} In actuality, construction proceeded slowly because of labor shortages.{{sfn|Staff|p=42}}
+
+SMS ''Hindenburg'' was the last battlecruiser completed for the Imperial German Navy, and as such had a very short career. She was fully operational by 20 October 1917, but this was too late to see any major operation in World War I. On 17 November ''Hindenburg'' and {{SMS|Moltke||2}}, along with the light cruisers of the II&amp;nbsp;Scouting Group, were acting as distant support for German minesweepers off the German coast when the minesweepers were [[Second Battle of Heligoland Bight|attacked by British warships]]. The British raiders included the new battlecruisers {{HMS|Repulse|1916|2}}, {{HMS|Courageous|50|2}}, and {{HMS|Glorious||2}}.{{sfn|Gardiner &amp; Gray|p=40}} However, the raid was brief; by the time ''Hindenburg'' and ''Moltke'' arrived on the scene, the British ships had broken off the attack and withdrawn. On 23 November, ''Hindenburg'' replaced {{SMS|Seydlitz||2}} as flagship of the I&amp;nbsp;Scouting Group.{{sfn|Staff|p=42}}{{efn|name=flag transfer}}
+
+=== Advance of 23 April 1918 ===
+In late 1917, light forces of the [[High Seas Fleet]] began interdicting British convoys to Norway.{{efn|name=coal convoys}} On 17 October the light cruisers {{SMS|Brummer||2}} and {{SMS|Bremse||2}} intercepted one of the convoys, sinking nine of the twelve cargo ships and the two escorting destroyers—{{HMS|Mary Rose|1915|2}} and {{HMS|Strongbow|1916|2}}—before turning back to Germany. On 12 December, four German destroyers ambushed a second British convoy of five cargo vessels and two British destroyers. All five transports were sunk, as was one of the destroyers.{{sfn|Massie|p=747}} Following these two raids, Admiral [[David Beatty, 1st Earl Beatty|David Beatty]], the commander of the [[Grand Fleet]], detached battleships from the battle fleet to protect the convoys.{{sfn|Massie|pp=747–748}} The German navy was now presented with an opportunity for which it had been waiting the entire war: a portion of the numerically stronger Grand Fleet was separated and could be isolated and destroyed. Vice Admiral [[Franz von Hipper]] planned the operation: the battlecruisers of the [[I&amp;nbsp;Scouting Group]], along with light cruisers and destroyers, would attack one of the large convoys, while the rest of the High Seas Fleet would stand by, ready to attack the British [[dreadnought battleship]] squadron.{{sfn|Massie|p=748}}
+
+At 05:00 on 23 April 1918, the German fleet, with ''Hindenburg'' in the lead, departed from the Schillig [[roadstead]]. Hipper ordered wireless transmissions be kept to a minimum, to prevent British intelligence from receiving radio intercepts.{{sfn|Massie|p=748}} At 06:10 the German battlecruisers had reached a position approximately 60&amp;nbsp;kilometers southwest of [[Bergen]], when {{SMS|Moltke||2}} lost her inner starboard propeller. Without resistance from the water, the propeller-less shaft began spinning faster and faster, until one of the engine gears flew apart. Shrapnel from the broken machinery damaged several boilers and tore a hole in the hull; the ship was dead in the water.{{sfn|Staff|p=17}} The ship's crew effected temporary repairs, which allowed the ship to steam at {{convert|4|kn}}. However, it was decided to take the ship under tow by the battleship {{SMS|Oldenburg||2}}. Despite this setback, Hipper continued northward. By 14:00, Hipper's force had crossed the convoy route several times but had found nothing. At 14:10, Hipper turned his ships southward. By 18:37, the German fleet had made it back to the defensive minefields surrounding their bases. It was later discovered that the convoy had left port a day later than expected by the German planning staff.{{sfn|Massie|p=748}}
+
+=== Later planned operations ===
+
+[[File:SMS Hindenburg steaming to Scapa.jpg|thumb|''Hindenburg'' steams to Scapa Flow]]
+
+On 11 August 1918, Hipper was promoted to Admiral and given command of the entire High Seas Fleet. [[Rear Admiral]] [[Ludwig von Reuter]] replaced Hipper as the commander of the I&amp;nbsp;Scouting Group; he raised his flag on ''Hindenburg'' the following day.{{sfn|Staff|p=42}}
+
+''Hindenburg'' was to have taken part in what would have amounted to the [[Naval order of 24 October 1918|&quot;death ride&quot;]] of the High Seas Fleet shortly before the end of World War I. The bulk of the High Seas Fleet was to have sortied from their base in [[Wilhelmshaven]] to engage the British [[Grand Fleet]]; Admiral [[Reinhard Scheer]] intended to inflict as much damage as possible on the British navy, to achieve a better bargaining position for Germany whatever the cost to the fleet.{{sfn|Tarrant|pp=280–281}} The plan involved two simultaneous attacks by light cruisers and destroyers, one on [[Flanders]] and another on shipping in the [[Thames estuary]]; ''Hindenburg'' and the other four battlecruisers were to support the Thames attack. After both strikes, the fleet was to concentrate off the Dutch coast, where it would meet the Grand Fleet in battle. While the fleet was consolidating in Wilhelmshaven, war-weary sailors began deserting en masse.{{sfn|Massie|p=774}} As ''Von der Tann'' and ''Derfflinger'' passed through the locks that separated Wilhelmshaven's inner harbor and roadstead, some 300 men from both ships climbed over the side and disappeared ashore.{{sfn|Massie|p=775}}
+
+On 24 October 1918, the order was given to sail from Wilhelmshaven. Starting on the night of 29 October, sailors on several battleships [[Wilhelmshaven mutiny|mutinied]]; three ships from the III&amp;nbsp;Squadron refused to weigh anchors, and acts of sabotage were committed on board the battleships {{SMS|Thüringen||2}} and {{SMS|Helgoland||2}}. In the face of open rebellion, the order to sail was rescinded and the planned operation was abandoned.{{sfn|Tarrant|pp=281–282}} In an attempt to suppress the mutiny, the High Seas Fleet squadrons were dispersed.{{sfn|Massie|p=775}}
+
+=== Fate ===
+[[File:SMS Hindenburg in Scapa Flow.jpg|thumb|''Hindenburg'' in Scapa Flow]]
+[[File:SMS Hindenburg scuttled.jpg|thumb|''Hindenburg'' after scuttling|alt=The top of a warship juts out of calm water after it had been sunk]]
+{{main article|Scuttling of the German fleet in Scapa Flow}}
+
+Under the terms of the [[Armistice with Germany (Compiègne)|Armistice between Germany and the Allies]] that ended World War I, the majority of the German fleet was to be interned at [[Scapa Flow]]; this included ''Hindenburg'' and the rest of the battlecruisers. On 21 November 1918, the ships to be interned—14 capital ships, seven light cruisers, and 50 of the most modern torpedo boats—departed German waters for what would prove to be the last time.{{sfn|Herwig|p=254}} Prior to the departure of the German fleet, Admiral [[Adolf von Trotha]] made clear to Rear Admiral [[Ludwig von Reuter]], who was given command of the ships to be interned, that he could not allow the Allies to seize the ships, under any conditions.{{sfn|Herwig|p=256}} The fleet rendezvoused with the British [[light cruiser]] {{HMS|Cardiff|D58|2}}, which led the ships to the Allied fleet that was to escort the Germans to Scapa Flow. The massive flotilla consisted of some 370 British, American, and French warships.{{sfn|Herwig|pp=254–255}}
+
+The fleet remained in captivity during the negotiations in Versailles that ultimately produced the [[Versailles Treaty|treaty that ended the war]]. A copy of ''[[The Times]]'' informed von Reuter that the Armistice was to expire at noon on 21 June 1919, the deadline by which Germany was to have signed the peace treaty. Rear Admiral von Reuter came to the conclusion that the British intended to seize the German ships after the Armistice expired.{{efn|name=armistice expiry}} To prevent this, he decided to [[scuttling|scuttle]] his ships at the first opportunity. On the morning of 21 June, the British fleet left Scapa Flow to conduct training maneuvers; at 11:20 Reuter transmitted the order to his ships.{{sfn|Herwig|p=256}} ''Hindenburg'' was the last ship to sink, at 17:00. Her captain had deliberately arranged that the ship sank on an even keel to make it easier for her crew to escape.{{sfn|Van der Vat|p=177}} After several unsuccessful attempts, she was [[Scapa Flow#The great salvage operation|raised]] on 23 July 1930, only to be scrapped at [[Rosyth]] between 1930 and 1932. Her bell was presented to the ''[[Bundesmarine]]'' (Federal Navy) on 28 May 1959.{{sfn|Gröner|p=57}}
+
+== Notes ==
+
+{{portal|Battleships}}
+{{Wikipedia books|Derfflinger class battlecruisers}}
+
+'''Footnotes'''
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot;, or &quot;His Majesty's Ship&quot; in German.
+}}
+
+{{efn
+| name = elevation advantage
+| The angle of fire and range of the projectile are directly related; see [[trajectory]] for more information.
+}}
+
+{{efn
+| name = older mounts modified
+| The Drh CL/1912 mounts were modified in 1916 to increase their maximum elevation to 16°. See: {{harvnb|Staff|p=36}}.
+}}
+
+{{efn
+| name = flag transfer
+| ''Seydlitz'' had been squadron flagship since the loss of ''Lützow'' at Jutland.
+}}
+
+{{efn
+| name = coal convoys
+| Britain had promised to ship {{convert|250000|ST}} of coal to Norway every month. See: {{harvnb|Massie|p=747}}.
+}}
+
+{{efn
+| name = armistice expiry
+| By this time, the Armistice had been extended to 23 June, though there is some contention as to whether von Reuter was aware of this. Admiral [[Sydney Fremantle]] stated that he informed von Reuter on the evening of the 20th, though von Reuter claims he was unaware of the development. For Fremantle's claim, see {{harvnb|Bennett|p=307}}. For von Reuter's statement, see {{harvnb|Herwig|p=256}}.
+}}
+
+}}
+
+'''Citations'''
+
+{{reflist|20em}}
+
+== References ==
+
+* {{cite book
+  | last = Bennett
+  | first = Geoffrey
+  | authorlink = Geoffrey Bennett
+  | year = 2005
+  | title = Naval Battles of the First World War
+  | publisher = Pen &amp; Sword Military Classics
+  | location = [[London]]
+  | isbn = 978-1-84415-300-8
+  | oclc = 57750267
+  | ref = {{sfnRef|Bennett}}
+  }}
+* {{cite book
+  | last = Campbell
+  | first = N. J. M.
+  | year = 1978
+  | title = Battle Cruisers: The Design and Development of British and German Battlecruisers of the First World War Era
+  | series = Warship Special
+  | volume = 1
+  | publisher = Conway Maritime Press
+  | location = Greenwich, England
+  | isbn = 978-0-85177-130-4
+  | oclc = 5991550
+  | ref = {{sfnRef|Campbell}}
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships: 1906–1921
+  | publisher = Naval Institute Press
+  | location = [[Annapolis]]
+  | isbn = 978-0-87021-907-8
+  | oclc = 12119866
+  | ref = {{sfnRef|Gardiner &amp; Gray}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = [[Annapolis]]
+  | isbn = 978-0-87021-790-6
+  | oclc = 22101769
+  | ref = {{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = [[Amherst, New York]]
+  | isbn = 978-1-57392-286-9
+  | oclc = 57239454
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last = Massie
+  | first = Robert K.
+  | authorlink = Robert K. Massie
+  | year = 2003
+  | title = [[Castles of Steel]]
+  | publisher = Ballantine Books
+  | location = New York City
+  | isbn = 978-0-345-40878-5
+  | oclc = 57134223
+  | ref = {{sfnRef|Massie}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2006
+  | title = German Battlecruisers: 1914–1918
+  | publisher = Osprey Books
+  | location = [[Oxford]]
+  | isbn = 978-1-84603-009-3
+  | oclc = 64555761
+  | ref = {{sfnRef|Staff}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | oclc = 48131785
+  | ref = {{sfnRef|Tarrant}}
+  }}
+* {{cite book
+  | last = Van der Vat
+  | first = Dan
+  | title = The Grand Scuttle: The Sinking of the German Fleet at Scapa Flow in 1919
+  | year = 1986
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-225-3
+  | oclc = 13104807
+  | ref = {{sfnRef|Van der Vat}}
+  }}
+
+== External links ==
+* [https://books.google.com/books?id=qOIDAAAAMBAJ&amp;lpg=PA995&amp;pg=PA995#v=onepage&amp;q&amp;f=true &quot;Raising The Hindenburg&quot; ''Popular Mechanics'', December 1930]
+
+{{Derfflinger class battlecruiser}}
+{{1919 shipwrecks}}
+{{Featured article}}
+
+{{DEFAULTSORT:Hindenburg}}
+[[Category:Derfflinger-class battlecruisers]]
+[[Category:World War I battlecruisers of Germany]]
+[[Category:1915 ships]]
+[[Category:Ships built in Wilhelmshaven]]
+[[Category:World War I warships scuttled in Scapa Flow]]
+[[Category:Maritime incidents in 1919]]
+[[Category:Paul von Hindenburg]]</text>
+      <sha1>0nwrxy3b2itrcopim37za5r3lbgz71a</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,158 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian cruiser Tripoli</title>
+    <ns>0</ns>
+    <id>50765309</id>
+    <revision>
+      <id>745628035</id>
+      <parentid>731871243</parentid>
+      <timestamp>2016-10-22T08:34:15Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13915">{{good article}}
+{|{{Infobox ship begin &lt;!-- full code --&gt;
+|infobox caption= &lt;!-- keywords: yes, nodab; or caption text --&gt;
+|display title= &lt;!-- keywords: none, ital; or article title with markup --&gt;
+}}
+{{Infobox ship image
+|Ship image=[[File:Italian cruiser Tripoli.jpg|300px]]
+|Ship caption=''Tripoli'' sometime before 1897
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Kingdom of Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy|naval}}
+|Ship name=''Tripoli''
+|Ship namesake=[[Tripoli]]
+|Ship builder=[[Regio Cantiere di Castellammare di Stabia]]
+|Ship laid down=10 June 1885
+|Ship launched=25 August 1886
+|Ship completed=1 December 1886
+|Ship commissioned=
+|Ship decommissioned=
+|Ship struck=4 March 1923
+|Ship fate=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Torpedo cruiser]]
+|Ship displacement={{convert|829|MT|abbr=on|sp=us}}
+|Ship length={{convert|73.4|m|ftin|abbr=on}}
+|Ship beam={{convert|7.88|m|ftin|abbr=on}}
+|Ship draft={{convert|3.65|m|ftin|abbr=on}}
+|Ship propulsion=3 [[compound engine|double-expansion]] [[steam engine]]s
+|Ship power=
+*6 [[locomotive boiler]]s
+*{{convert|2543|ihp|lk=in|abbr=on}}
+|Ship speed={{convert|17.5|kn|abbr=on}}
+|Ship range={{convert|1000|nmi|lk=in|abbr=on}} at {{convert|10|kn|abbr=on}}
+|Ship complement=105&amp;ndash;111
+|Ship armament=
+*1 × {{convert|4.7|in|abbr=on}} gun
+*6 × {{convert|57|mm|abbr=on}} guns
+*2 × {{convert|37|mm|abbr=on|1}} guns
+*3 × 37&amp;nbsp;mm [[Hotchkiss gun]]s
+*5 × {{convert|14|in|abbr=on|0}} [[torpedo tube]]s
+|Ship armor=Deck: {{convert|1.5|in|abbr=on}}
+}}
+|}
+
+'''''Tripoli''''' was the first modern [[torpedo cruiser]] built for the Italian ''[[Regia Marina]]'' (Royal Navy). She was built by the [[Regio Cantiere di Castellammare di Stabia]] shipyard in 1885&amp;ndash;86. The only vessel of her class, she provided the basis for the {{sclass-|Goito|cruiser|5}} and {{sclass-|Partenope|cruiser|4}}es that followed. She was armed with five {{convert|14|in|adj=on|0}} [[torpedo tube]]s and a battery of light guns, and was capable of a top speed of {{convert|17.5|kn|lk=in}}. ''Tripoli'' spent her career in the main Italian fleet, where she was occupied primarily with peacetime training exercises. She was modernized several times throughout her career, and in 1910, was converted into a [[minelayer]], a role she served in for another thirteen years, including during [[World War I]]. She was the longest serving torpedo cruiser in the Italian fleet, with over 36 years in service by the time she was discarded in March 1923.
+
+==Design==
+
+''Tripoli'' was the first modern [[torpedo cruiser]] built by the ''[[Regia Marina]]''; she followed the earlier cruiser {{ship|Italian cruiser|Pietro Micca||2}}, which had been a failed design that did not see much use. The design for ''Tripoli'' was prepared by Engineering Inspector [[Benedetto Brin]].&lt;ref name=G346/&gt; Brin had previously designed several classes of very large ironclad battleships, including the {{sclass-|Caio Duilio|ironclad|5}} and {{sclass-|Italia|ironclad|4}}es, but by the 1880s, he had begun to embrace the ideas of the ''[[Jeune École]]'', which emphasized small, fast, torpedo-armed vessels that could damage or destroy the much larger battleships at a fraction of the cost.&lt;ref&gt;Sondhaus, p. 149&lt;/ref&gt; Though an experimental design, ''Tripoli'' proved to be much more successful in service than ''Pietro Micca'', and she served as the basis for twelve further cruisers of the {{sclass-|Goito|cruiser|5}} and {{sclass-|Partenope|cruiser|4}}es.&lt;ref&gt;Gardiner, pp. 346&amp;ndash;347&lt;/ref&gt;
+
+===Characteristics===
+[[File:Italian cruiser Tripoli early.jpg|thumb|left|''Tripoli'' early in her career; note the light sailing rig]]
+
+''Tripoli'' was {{convert|70|m|ftin|sp=us}} [[length between perpendiculars|long between perpendiculars]] and {{convert|73.4|m|ftin|abbr=on}} [[length overall|long overall]]. She had a [[beam (nautical)|beam]] of {{convert|7.88|m|ftin|abbr=on}} and an average [[draft (hull)|draft]] of {{convert|3.65|m|ftin|abbr=on}}. She displaced {{convert|835|MT|sp=us}} normally and {{convert|952|MT|abbr=on|sp=us}} at full load. The ship was originally fitted with two pole [[mast (sailing)|masts]] with a light rigging, though the masts were later cut down. She had a crew of between 105 and 111.&lt;ref name=G346/&gt;
+
+Her propulsion system consisted of three [[Compound engine|double-expansion]] [[steam engine]]s, each driving a single [[screw propeller]]; she was the first Italian warship to be fitted with a triple-shaft propulsion system. Steam was supplied by six coal-fired [[locomotive boiler]]s that were trunked into two [[funnel (ship)|funnels]]. ''Tripoli'' could steam at a top speed of {{convert|17.5|kn|lk=in}} from {{convert|2543|ihp|lk=in}}. ''Tripoli'' had a cruising radius of {{convert|1000|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=G346/&gt;
+
+The primary armament for ''Tripoli'' was five {{convert|14|in|abbr=on|0}} [[torpedo tube]]s.&lt;ref name=G346/&gt; Two tubes were mounted in the bow and the other three were mounted in trainable deck launchers, one at the stern and two [[amidships]].&lt;ref&gt;&quot;Ships &amp;ndash; Italy&quot;, p. 264&lt;/ref&gt; She was also equipped with one {{convert|4.7|in|adj=on}} 32-[[caliber (artillery)|caliber]] (cal.) gun, six {{convert|57|mm|abbr=on}} 43-cal. guns, two {{convert|37|mm|abbr=on|1}} 20-cal. guns, and three 37&amp;nbsp;mm revolving [[Hotchkiss gun]]s, all mounted singly. In 1904, the ship was rearmed with a single {{convert|3|in|abbr=on}} 40-cal. gun, six 57&amp;nbsp;mm 40-cal. guns, one {{convert|47|mm|abbr=on}} 40-cal. gun; two of the torpedo tubes were removed. In 1910, ''Tripoli'' was converted into a minelayer; the remaining torpedo tubes were removed and equipment to handle 64 mines was installed. A second 3&amp;nbsp;in gun was added and all of the light guns were removed with the exception of four of the 57&amp;nbsp;mm guns. The ship was protected with an armored deck that was {{convert|1.5|in|abbr=on}} thick.&lt;ref name=G346/&gt;
+
+==Service history==
+The [[keel]] for ''Tripoli'' was [[keel laying|laid down]] at the [[Regio Cantiere di Castellammare di Stabia]] shipyard on 10 June 1885. Work proceeded quickly, and she was [[ship launching|launched]] on 25 August 1886, and [[fitting out]] was completed by 1 December that year.&lt;ref name=G346&gt;Gardiner, p. 346&lt;/ref&gt; The ship took part in the annual fleet maneuvers of 1887, which began on 10 June 1887. ''Tripoli'' was assigned to the &quot;attacking squadron&quot;, along with the [[ironclad warship|ironclads]] {{ship|Italian ironclad|San Martino||2}}, {{ship|Italian ironclad|Caio Duilio||2}}, and {{ship|Italian ironclad|Ancona||2}}, the [[protected cruiser]] {{ship|Italian cruiser|Giovanni Bausan||2}}, and several other vessels. The first half of the maneuvers tested the ability to attack and defend the [[Strait of Messina]], and concluded in time for a [[fleet review]] by King [[Umberto I]] on the 21st. The second phase consisted of joint maneuvers with the Italian Army; ''Tripoli'' and the torpedo cruiser {{ship|Italian cruiser|Folgore||2}} were tasked with blockading [[Livorno]]. The exercises lasted until 30 July.&lt;ref&gt;Beehler (1887), pp. 164, 166&lt;/ref&gt; In 1888, she took part in the annual fleet maneuvers, along with five [[ironclad warship|ironclads]], a [[protected cruiser]], the torpedo cruisers {{ship|Italian cruiser|Goito||2}}, {{ship|Italian cruiser|Saetta||2}}, and {{ship|Italian cruiser|Folgore||2}}, and numerous smaller vessels. The maneuvers consisted of close-order drills and a simulated attack on and defense of La Spezia. Later that year, the ship was present during a naval review held for the German [[Kaiser]] [[Wilhelm II]] during a visit to Italy.&lt;ref&gt;Brassey (1889), p. 453&lt;/ref&gt; 
+
+[[File:Italian cruiser Tripoli, post modernization.jpg|thumb|''Tripoli'' after her modernization]]
+
+''Tripoli'' was assigned to the 2nd Division of the Active Squadron, along with the ironclad {{ship|Italian ironclad|Francesco Morosini||2}}, the protected cruiser {{ship|Italian cruiser|Ettore Fieramosca||2}}, and four [[torpedo boat]]s.&lt;ref&gt;&quot;Naval and Military Notes &amp;ndash; Italy&quot; (1894), p. 564&lt;/ref&gt; In 1895, ''Tripoli'' was stationed in the 2nd Maritime Department, split between [[Taranto]] and  [[Naples]], along with most of the torpedo cruisers in the Italian fleet. These included the four {{sclass-|Goito|cruiser|4}} and the eight {{sclass-|Partenope|cruiser|1}}s.&lt;ref&gt;&quot;Naval and Military Notes – Italy&quot; (1895), p. 90&lt;/ref&gt; In 1896, she took part in the annual summer maneuvers in July as part of the Second Division of the Active Squadron, which also included the ironclads {{ship|Italian ironclad|Francesco Morosini||2}} and {{ship|Italian ironclad|Andrea Doria||2}} and the [[protected cruiser]] {{ship|Italian cruiser|Giovanni Bausan||2}}.&lt;ref&gt;Barry, p. 133&lt;/ref&gt; 
+
+''Tripoli'' was taken out of service in 1897&amp;ndash;1898 to be modernized. She was re-boilered with new [[water-tube boiler]]s manufactured by the German firm [[Schichau AG]], a new bow with a higher [[forecastle]] was fitted, and her masts were cut down.&lt;ref&gt;Garbett (1898), p. 200&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-47000/NH-47656.html|title=NH 47656 TRIPOLI (Italian Torpedo Boat)|access-date=10 June 2016|website=history.navy.mil|publisher=Naval History and Heritage Command}}&lt;/ref&gt; The ship was stationed in Naples in 1900, along with the old ironclads {{ship|Italian ironclad|Regina Maria Pia||2}}, {{ship|Italian ironclad|Castelfidardo||2}}, and {{ship|Italian ironclad|Affondatore||2}}, the [[armored cruiser]] {{ship|Italian cruiser|Marco Polo||2}}, the four ''Goito''-class cruisers, and the two new {{sclass-|Agordat|cruiser|1}}s.&lt;ref&gt;Garbett (1900), p. 184&lt;/ref&gt; In 1910, ''Tripoli'' was converted into a [[minelayer]], with capacity for 64 [[naval mine]]s.&lt;ref name=G346/&gt; At the outbreak of the [[Italo-Turkish War]] in September 1911, ''Goito'' was stationed in [[Venice]] along with ''Tripoli'' and ''Montebello''. None of the vessels saw action during the war.&lt;ref&gt;Beehler (1913), p. 11&lt;/ref&gt; 
+
+Italy had declared neutrality at the start of World War I, but by July 1915, the [[Triple Entente]] had convinced the Italians to enter the war against the [[Central Powers]].&lt;ref&gt;Halpern, p. 140&lt;/ref&gt; Admiral [[Paolo Thaon di Revel]], the Italian naval chief of staff, believed that the threat from [[Austro-Hungarian Navy|Austro-Hungarian]] [[submarine]]s and naval mines in the narrow waters of the Adriatic was too serious for him to use the fleet in an active way.&lt;ref&gt;Halpern, p. 150&lt;/ref&gt; Instead, Revel decided to implement a blockade at the relatively safer southern end of the Adriatic with the main fleet, while smaller vessels, such as the [[MAS (boat)|MAS boats]], conducted raids on Austro-Hungarian ships and installations.&lt;ref&gt;Halpern, pp. 141&amp;ndash;142&lt;/ref&gt; She continued to serve as a minelayer during the war in support of Revel's strategy. She was officially reclassified as a minelayer on 1 July 1921, though she did not remain in service for very long, being stricken from the [[naval register]] on 4 March 1923 and thereafter [[ship breaking|broken up]] for scrap.&lt;ref name=G346/&gt; At the time of her disposal, ''Tripoli'' was the last torpedo cruiser still in the Italian fleet's inventory, surpassing even the {{sclass-|Agordat|cruiser|4}}, which had been built fifteen years after ''Tripoli'' entered service.&lt;ref&gt;Gardiner, pp. 346&amp;ndash;348&lt;/ref&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+*{{cite journal|last=Barry|first=E. B.|title=The Italian Manoevres|pages=131&amp;ndash;140|journal=Notes on Naval Progress|year=1897}}
+*{{cite journal|editor-last=Beehler|editor-first=W. H.|journal=Information From Abroad|title=Naval Manoevres, 1887: Italian|pages=164&amp;ndash;167|year=1887|location=Washington, D.C.|publisher=Government Printing Office|oclc=12922775}}
+*{{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false|oclc=1408563}}
+*{{cite journal|editor-last=Brassey|editor-first=Thomas A.|journal=The Naval Annual|title=Foreign Naval Manoevres|pages=450&amp;ndash;455|year=1889|location=Portsmouth|publisher=J. Griffin &amp; Co.|oclc=5973345}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1898|volume=XLII|pages=199&amp;ndash;204|oclc=8007941}}
+*{{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institute|year=1900|volume=XLIV|location=London|publisher=Harrison &amp; Sons|pages=183–186}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{cite book |last=Halpern|first=Paul G.|title=A Naval History of World War I|year=1995|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=1-55750-352-4}}
+* {{cite journal|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1894|volume=XXXVIII|pages=564&amp;ndash;565&amp;ndash;111|oclc=8007941}}
+* {{cite journal|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1895|volume=XXXIX|pages=81&amp;ndash;111|oclc=8007941}}
+* {{cite journal|title=Ships &amp;ndash; Italy|pages=263&amp;ndash;265|journal=Recent Naval Progress|year=1887|location=Washington D.C.|publisher=Government Printing Office|oclc=6960410}}
+
+{{Italian cruiser Tripoli}}
+
+[[Category:Cruisers of the Regia Marina]]</text>
+      <sha1>hpjqb6f85myoq9hy99jopz4mz15psw5</sha1>
+    </revision>
+  </page>
+</mediawiki>

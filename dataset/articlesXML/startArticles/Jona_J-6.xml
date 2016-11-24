@@ -1,0 +1,242 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jona J-6</title>
+    <ns>0</ns>
+    <id>31784039</id>
+    <revision>
+      <id>723326317</id>
+      <parentid>723312461</parentid>
+      <timestamp>2016-06-02T11:23:17Z</timestamp>
+      <contributor>
+        <username>TSRL</username>
+        <id>4847699</id>
+      </contributor>
+      <comment>added caption</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9775">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=Jona J-6
+ | image=Jona J 6 S 01 large.jpg
+ | caption=Jona J-6S
+}}{{Infobox Aircraft Type
+ | type=[[Experimental aircraft|Experimental]] [[wing configuration#Number and position of main-planes|sequiplane]] 
+ | national origin=[[Italy]]
+ | manufacturer=Jona 
+ | designer=Alberto Jona
+ | first flight=24 May 1936
+ | introduced=
+ | retired=
+ | status=
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=7, including the J-6S
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= &lt;!--Incremental or flyaway cost for military or retail price for commercial aircraft--&gt;
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+
+The '''Jona J-6''' was an experimental [[Italy|Italian]] [[sesquiplane]] built in 1936 to demonstrate a novel, tilting wing stabilisation system. A [[Trainer (aircraft)|military trainer]] development without the moving wing was produced in small numbers.
+
+==Design and development==
+The Jona J-6 was a very unusual design: not only was it a [[cantilever]] sesquiplane, its lower wing having a span about two thirds that of the upper wing and having a narrower [[Chord (aircraft)|chord]] but, uniquely, the upper plane was mounted to the [[fuselage]] so that it could tilt about a longitudinal axis with respect to the rest of the aircraft. The objective was lateral stability; the [[aileron]]s were linked to the [[fuselage]] so that if the port wing was raised by a gust its aileron was also raised and that of the starboard wing lowered, automatically correcting the roll.&lt;ref name=JAWA38/&gt;
+
+Because the upper wing tilted, it had to be a cantilever structure.  It was built around two wooden [[Spar (aviation)|spars]] and was mounted at its centre on a [[chord (aircraft)|chordwise]] circular cross-section rod, fixed to the fuselage, which acted as a hinge and allowed the wing to [[see-saw]].&lt;ref name=JAWA38/&gt;&lt;ref name=Flight35/&gt; When the Jona J-6 appeared at the Milan show in 1935, the year before its first flight, this hinge was held above the fuselage on a [[aircraft fairing|faired]] column, but before it flew this was replaced by four pairs of faired V-form struts with their eight ends fixed to it.&lt;ref name=AB/&gt;  Control wires from the ailerons were attached to the fixed hinge rod, providing the required automatic deflections as the wing tilted. The rate of tilt was limited by a pair of telescopic, sprung struts from mid-chord quite close to the centreline, which met at the bottom centre of the fuselage after passing in through the upper sides.  These could be [[hydraulic]]ally locked for aerobatics and spins or when stabilisation was not wanted. Leading edge automatic Handley Page slots were fitted to prevent spinning via wingtip stalling. The wing was [[plywood]]-covered and straight-tapered in plan form, with semi-elliptical tips.  The lower wing was generally similar, though much smaller and rigidly mounted.&lt;ref name=JAWA38/&gt;&lt;ref name=Flight35/&gt; Though not required when the automatic lateral control system was engaged, conventional, pilot operated ailerons were later added to the lower wing.&lt;ref name=AB/&gt;
+
+The fuselage was built around a rectangular section steel tube structure, shaped into an oval with metal covering forward of the lower wing [[leading edge]] and for the decking behind the [[cockpit]], with [[aircraft fabric|fabric]] elsewhere.  At the front a 140&amp;nbsp;hp (104&amp;nbsp;kW) [[Fiat A.54]] radial engine was mounted forward of the fuselage within a [[Townend ring]].  The [[tandem]] cockpits were under continuous glazing with the forward seat under the midwing, where a large cutout eased visibility.  The glazing was faired into the rear decking.  The externally braced [[tailplane]] had a swept, straight leading edge and was mounted on top of the fuselage.  It carried separate [[elevator (aircraft)|elevators]], between which moved a deep, curved edged [[rudder]].&lt;ref name=JAWA38/&gt;&lt;ref name=Flight35/&gt;
+
+The mainwheels of the J-6 were mounted on split axles from the lower central fuselage, with [[shock absorbers]] fixed to the upper [[longerons]].  The wheels were [[aircraft fairing|spatted]] and the shock absorbers, though not their upper extension rods, were faired.  The [[conventional undercarriage]] had a steerable, partly faired tailskid.&lt;ref name=JAWA38/&gt;&lt;ref name=Flight35/&gt;
+
+The Jona J-6 first flew on 24 May 1936.&lt;ref name=AB/&gt; Its designer claimed that it could be flown without using the rudder, which was only needed on takeoff or landing.  It could not be spun or side-slipped when the upper wing was free to move, though with the wing locked it could be spun and looped at will.&lt;ref name=JAWA38/&gt;&lt;ref name=Flight35/&gt;
+
+After successfully completing its flight testing, the J-6 prototype was bought by the Italian government, though no more were built.  It was transferred to the civil register and was flown by Leonardo Bonzi until its registration was cancelled in 1943.&lt;ref name=JAWA38/&gt;&lt;ref name=AB/&gt;
+
+The prototype of a development, the '''J-6S''', built for Jona by Piero Magni Aviazione was flying by 1938.  This aircraft, intended as a military trainer, was powered by a 240&amp;nbsp;hp (180&amp;nbsp;kW) [[Alfa Romeo D2]]C.30 radial engine and did not have the tilting wing but was otherwise closely similar to the J-6.&lt;ref name=JAWA38/&gt;  The J-6S lacked a Townend ring cowling on the nine-cylinder radial, was slightly shorter with the front cockpit set slightly further aft and had a tailwheel instead of a skid.  Six J-6S were built and used by the Staff Training Squadron at [[Centocelle Airport]].  One was armed in April 1940.  They were later stored at [[Bresso Airport|Milan-Bresso]] and destroyed in an air raid in early 1942.&lt;ref name=AB/&gt;
+
+==Variants==
+;J-6
+:Built to test the stabilising wing system.
+;J-6S
+:Military trainer development with conventional wing and more powerful engine.  Six delivered to Italian Air Force.
+&lt;!-- ==Units using this aircraft/Operators (choose)== --&gt;
+
+==Specifications (J-6)==
+{{Aircraft specs
+|ref=Jane's All the World's Aircraft 1938&lt;ref name=JAWA38/&gt;&lt;!-- for giving the reference for the data --&gt;
+|prime units?=met&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=
+|capacity=two|length m=7.4
+|length note=
+|upper span m=10.2
+|upper span note=
+|lower span ft=22
+|lower span in=0
+|lower span note=&lt;ref name=Flight35/&gt;
+|height m=2.55
+|height ft=
+|wing area sqm=18.3
+|wing area note=total
+|swept area sqm=&lt;!-- swing-wings --&gt;
+|aspect ratio=&lt;!-- give where relevant eg sailplanes  --&gt;
+|airfoil=
+|empty weight kg=645
+|empty weight lb=
+|empty weight note=
+|gross weight kg=970
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Fiat A.54]]
+|eng1 type=7-cylinder radial
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=140&lt;!-- prop engines --&gt;
+|eng1 note=
+|power original=
+|more power=
+|prop blade number=2&lt;!-- propeller aircraft --&gt;
+|prop name=metal, fixed pitch
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop note=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=200
+|max speed mph=
+|max speed kts=
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=80&lt;!-- aerobatic --&gt;
+|stall speed mph=&lt;!-- aerobatic --&gt;
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|endurance=7 hr with 2 crew plus baggage&lt;!-- if range unknown --&gt;
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|climb rate ms=4.2
+|climb rate note=to 1,000 m (3,050 ft)
+|time to altitude=
+|wing loading kg/m2
+|wing loading lb/sqft=
+|wing loading note=
+|power/mass=
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|armament=&lt;!-- add (bulleted list) here or if you want to use the following specific parameters, remove this parameter--&gt;
+|guns= 
+|other armament=
+
+|avionics=
+}}
+&lt;!-- ==See also== --&gt;
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+&lt;!--==Notes==--&gt;
+
+==References==
+{{Reflist|refs=
+&lt;ref name=JAWA38&gt;{{cite book |title= Jane's All the World's Aircraft 1938|last= Grey |first= C.G. |coauthors= |edition= |year=1972|publisher= David &amp; Charles|location= London|isbn=0-7153-5734-4}}&lt;/ref&gt;
+&lt;ref name=Flight35&gt;{{cite magazine |last= |first= |authorlink= |coauthors= |year= |month= |title= A Novel Two Control Aeroplane.|magazine= [[Flight International|Flight]]|volume= |issue=10 October 1935 |page=378 |id= |url= http://www.flightglobal.com/pdfarchive/view/1935/1935%20-2-%200412.html |accessdate= |quote=}}&lt;/ref&gt;
+&lt;ref name=AB&gt;{{cite journal |date=December 2014 |title= Jona J.6|journal=Air Britain Archive |pages=2014–179}}&lt;/ref&gt;
+}}
+
+&lt;!-- ==Further reading== --&gt;
+==External links==
+*{{Commons category-inline|Jona J.6}}
+
+&lt;!-- Navboxes go here --&gt;
+
+[[Category:Italian aircraft 1930–1939]]
+[[Category:Sesquiplanes]]</text>
+      <sha1>pwfvrdij2zbf8cnk71aurlpxjkjzwmz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,176 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Liverpool (1814)</title>
+    <ns>0</ns>
+    <id>983990</id>
+    <revision>
+      <id>685233421</id>
+      <parentid>617109130</parentid>
+      <timestamp>2015-10-11T17:39:21Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8275">{{Other ships|HMS Liverpool}}
+{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= 
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= 
+|Ship flag= [[Image:Naval Ensign of the United Kingdom.svg|100x35px|Royal Navy Ensign]]
+|Ship name= HMS ''Liverpool''
+|Ship namesake=
+|Ship ordered=
+|Ship builder=Wigram, Wells &amp; Green, [[Blackwall Yard]], London
+|Ship laid down= May 1813
+|Ship launched= 21 February 1814
+|Ship acquired=
+|Ship commissioned= May 1814
+|Ship decommissioned= 3 April 1816
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned= 1818
+|Ship decommissioned= January 1822
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship reinstated=
+|Ship homeport=
+|Ship motto= 
+|Ship nickname=
+|Ship honours=
+|Ship fate=Sold, 1822
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=Winfield/&gt;
+|Ship class={{sclass|Endymion|frigate}}, reclassified as a [[fourth rate]]
+|Ship tonnage=
+|Ship tons burthen=1246&lt;small&gt;{{fraction|86|94}}&lt;/small&gt; [[Builder's Old Measurement|bm]] 
+|Ship length= {{convert|159|ft|m|abbr=on}} (overall)
+|Ship beam= {{convert|41|ft|m|abbr=on}}
+|Ship height=
+|Ship draught={{convert|12|ft|4|in|m|abbr=on}}
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship sail plan=[[Full-rigged ship]]
+|Ship speed= {{convert|14|kn|mph km/h|lk=in}}
+|Ship range=
+|Ship endurance=
+|Ship boats=
+|Ship complement=300
+|Ship armament=*Upperdeck: 28 x 24-pounder guns
+*[[Quarterdeck|QD]]: 16 x 32-pounder [[carronade]]s
+*[[Forecastle|Fc]]: 2 x 9-pounder guns + 4 x 32-pounder carronades
+|Ship armour=
+|Ship notes=
+}}
+|}
+'''HMS ''Liverpool''''' was a [[Royal Navy]] {{sclass|Endymion|frigate|0}} [[Sailing frigate|frigate]], reclassified as a [[fourth rate]].&lt;ref name=Winfield&gt;Winfield (2008), p.134.&lt;/ref&gt;  She was built by [[Blackwall Yard#Wigram and Green|Wigram, Wells and Green]] and launched at Woolwich on 21 February 1814. She was built of pitch-pine, which made for speedy construction at the expense of durability.
+
+Her major service was on the [[East Indies Station]] from where in 1819 she led the successful attack on the pirates based in [[Ras al-Khaimah]]. She was sold in 1822 but continued to operate in the [[Persian Gulf]] for an indefinite period thereafter.
+
+==Service==
+
+''Liverpool'' was commissioned under Captain [[Arthur Farquhar (1772–1843)|Arthur Farquhar]] in May 1814.&lt;ref name=Winfield/&gt; Her first commission was very brief, though. She escorted convoys to Newfoundland, Nova Scotia and Quebec. She then served at the [[South Atlantic Station|Cape Station]] before returning to [[Deptford]] to be paid off on 3 April 1816. First, though, she captured the French schooner
+''Circonstance'' on 21 October 1815. ''Circonstance'' was carrying 67 slaves.&lt;ref name=LG17461&gt;{{London Gazette|startpage=508|issue=17461|date=20 March 1819}}&lt;/ref&gt;{{#tag:ref|The first-class share of the bounty money for the release of the slaves was worth [[£sd|£]]111 0[[shilling|s]] 3[[pence|d]]; a sixth-class share, that of an ordinary seaman, was worth 16s 5½d.&lt;ref name=LG17461/&gt;|group=Note}}
+
+In 1817 ''Liverpool'' was laid up at Deptford.&lt;ref name=&quot;NMM-WH-370255&quot;&gt;
+{{cite web|url=http://www.nmm.ac.uk/upload/pdf/Warship_Histories_Vessels_vii.pdf|title=NMM, vessel ID 370255|work=Warship Histories, vol vii|publisher=[[National Maritime Museum]]|accessdate=30 July 2011}}&lt;/ref&gt; Then in 1818, the ''Liverpool'' was re-commissioned under Captain [[Francis Augustus Collier]].
+
+He sailed her to join the [[East Indies Station]], sailing via [[Mauritius]] and [[Trincomalee]]. While at [[Port Louis]] she captured four slave vessels. In the middle of 1819 she captured the ''Deux Amis'' (29 July), ''Constance'' (17 August) and ''Jenny'' (24 August). Bounty money was paid for the freed slaves.&lt;ref name=LG18049&gt;{{London Gazette|startpage=1252|issue=18049|date=31 July 1824}}&lt;/ref&gt;{{#tag:ref|The first-class share was worth £214 10s 7½d; a sixth-class share was worth £1 17s 10¼d.&lt;ref name=LG18049/&gt;|group=Note}}
+
+Rear Admiral [[Sir Richard King, 2nd Baronet|King]] appointed Captain Collier of ''Liverpool'' to command the naval portion of a joint navy-army punitive expedition against the pirates at [[Ras al-Khaimah]] in the Persian Gulf. The naval force consisted of ''Liverpool'', {{HMS|Eden|1814|2}}, {{HMS|Curlew|1812|2}}, and a number of gun and mortar boats. The [[Royal Indian Navy#East India Company|Bombay Marine]] of the [[East India Company]] contributed six armed vessels: the 16-gun ''Teignmouth'' under the command of Captain Hall, the senior captain, the 16-gun ''Benares'', the 14-gun ''Aurora'', the 14-gun ''Nautilus'', the 12-gun ''Ariel'' and the 12-gun ''Vestal''.&lt;ref&gt;''The United service magazine'', Vol. 141, pp.77-81.&lt;/ref&gt; Later several vessels belonging to the [[Said bin Sultan, Sultan of Muscat and Oman|Sultan of Muscat]] joined the expedition. On the army side, Major General Sir [[William Keir Grant|William Keir]] commanded some 5,000 troops in transports.&lt;ref name=United&gt;''United service magazine'' Part 1, pp. 711–15.&lt;/ref&gt;
+
+The punitive expedition anchored off Ras-al-Khaimah on 2 December but waited for two days before landing the troops. Collier placed Captain Walpole of ''Curlew'' in charge of the gun boats and an armed [[pinnace (ship's boat)|pinnace]] to protect the landing, which was, however, unopposed.&lt;ref name=United/&gt; On 4 December ''Curlew'' approached the shore and from there fired on the town, but with little effect.&lt;ref name=United/&gt; On 8 December the Navy took three 24-pounders from ''Liverpool'' and brought them onshore. These were much more effective.&lt;ref name=United/&gt; When the troops entered the town on 9 December they found that the inhabitants had all fled.&lt;ref name=United/&gt; The siege cost the British five dead and 52 men wounded. The Arabs reportedly had lost a thousand dead.&lt;ref name=United/&gt;
+
+The British then spent December and early January moving up and down the coast destroying forts and vessels. The capture and destruction of the fortifications and ships in the port was a massive blow for the Gulf pirates. The Royal Navy suffered no casualties during the action.&lt;ref name=United/&gt;
+
+==Fate==
+''Liverpool'' carried on serving in the East Indies Station and made a trip to China under Collier. Collier then transferred to {{HMS|Seringapatam|1819|2}}, a newly built vessel, and brought her home, arriving on 16 October 1820.&lt;ref name=Marshall&gt;Marshall (1830), Supplement, Part 4, pp.223-5.&lt;/ref&gt; ''Liverpool'' returned to the Persian Gulf in August 1821, where she lost a number of her crew to the heat.&lt;ref&gt;Low (1877), p. 365.&lt;/ref&gt; She was paid off at [[Bombay]] in January 1822. ''Liverpool{{'}}''s captain, officers and crew then transferred to the newly built {{HMS|Ganges|1821|2}} and sailed her back to Spithead, arriving on 6 October 1822.&lt;ref name=Marshall365&gt;Marshall (1827), Supplement, Part 1, p.365.&lt;/ref&gt;
+
+''Liverpool'' was sold at Bombay on 16 April 1822 for £3,780.&lt;ref name=Winfield/&gt; The buyer apparently was a Persian prince who wanted to use her to suppress piracy in the Gulf.&lt;ref name=Marshall365/&gt;
+
+==Footnotes==
+;Notes
+{{reflist|group=Note|2}} 
+;Citations
+{{reflist|colwidth=30em}}
+
+==References==
+*Low, Charles Rathbone (1877) ''History of the Indian navy: (1613-1863)''. (R. Bentley and son).
+*Marshall, John (1823–35) ''Royal naval biography; or, Memoirs of the services of all the flag-officers, superannuated rear-admirals, retired-captains, post-captains, and commanders, whose names appeared on the Admiralty list of sea officers at the commencement of the present year or who have since been promoted''. (London: Longman, Hurst, Rees, Orme, and Brown).
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1-86176-246-1}}
+
+==External links==
+*[http://www.ageofnelson.org/MichaelPhillips/info.php?ref=1348 Phillips, Michael, ''Ships of the Old Navy'' - HMS ''Liverpool'' (1814)]
+
+{{WarshipHist}}
+
+{{DEFAULTSORT:Liverpool (1814)}}
+[[Category:Blackwall Yard-built ships]]
+[[Category:Frigates of the Royal Navy]]
+[[Category:1814 ships]]</text>
+      <sha1>9eljxisldkpjxci22t8h4fydwriykuh</sha1>
+    </revision>
+  </page>
+</mediawiki>

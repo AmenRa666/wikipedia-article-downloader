@@ -1,0 +1,149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Arcadian</title>
+    <ns>0</ns>
+    <id>38206755</id>
+    <revision>
+      <id>739891729</id>
+      <parentid>685347208</parentid>
+      <timestamp>2016-09-17T18:38:58Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8932">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:RMSP Arcadian 1910.jpg|300px]]
+|Ship caption=RMS ''Arcadian'' as she appeared between 1910 and 1915
+}}
+{{Infobox ship career
+|Hide header              =
+|Ship name                =*{{flagicon|UK|civil}} SS ''Ortona'' (1899–1910)
+*{{flagicon|UK|civil}} RMS ''Arcadian'' (1910–14)
+*{{flagicon|UK|naval}} HMS ''Arcadian'' (1914–17)
+|Ship owner               =*[[Pacific Steam Navigation Company]] (1899–1906)
+*[[Royal Mail Steam Packet Company]] (1906–14)
+*Royal Navy (1914–17)
+|Ship operator            =
+|Ship registry            =*{{flagicon|UK|civil}} [[Liverpool]] (1899–1906)
+*{{flagicon|UK|civil}} [[London]] (1906–10)
+*{{flagicon|UK|civil}} [[Belfast]] (1910–14)
+*{{flagicon|UK|naval}} Royal Navy (1914–20)
+|Ship route               = London – [[Australia]] (1899–1910)
+|Ship ordered             =
+|Ship builder             = [[Vickers#Vickers, Sons &amp; Maxim|Vickers, Sons &amp; Maxim]] Ltd, [[Barrow-in-Furness]] 
+|Ship original cost       =
+|Ship yard number         = 272
+|Ship way number          =
+|Ship laid down           =
+|Ship launched            = 10 July 1899
+|Ship completed           = 26 October 1899
+|Ship christened          =
+|Ship acquired            =
+|Ship maiden voyage       = 24 November 1899
+|Ship in service          =
+|Ship out of service      = 
+|Ship identification      =*UK Official Number 110613
+*Code Letters RJQT
+*{{ICS|Romeo}}{{ICS|Juliet}}{{ICS|Quebec}}{{ICS|Tango}}
+|Ship fate                = 15 April 1917: torpedoed and sunk by German submarine {{SMU|UC-74}} near [[Milos]], [[Greece]], in position 36°50’N-24°50’E
+|Ship status              =
+|Ship notes               =
+}}
+{{Infobox ship characteristics
+|Hide header              =
+|Header caption           =
+|Ship class               =
+|Ship tonnage             =*{{GRT|7945}}
+*{{NRT|4115}}
+|Ship displacement        =
+|Ship length              = {{convert|500|ft|6|in|2|abbr=on|1}}
+|Ship beam                = {{convert|55|ft|3|in|2|abbr=on|1}}
+|Ship height              =
+|Ship draught             = {{convert|33|ft|7|in|2|abbr=on|1}}
+|Ship power               = {{convert|10,000|ihp}} 
+|Ship propulsion          = Triple-expansion steam engine; twin screws
+|Ship speed               = {{convert|18|kn|km/h}}
+|Ship capacity            = 140 first class, 180 second class, 300 third class (as built) 
+|Ship crew                =
+|Ship notes               =
+}}
+|}
+'''SS ''Arcadian''''' was a [[List of ships and submarines built in Barrow-in-Furness|Barrow-in-Furness built]] [[Ocean liner|passenger liner]] constructed in 1899 by [[Vickers|Vickers, Sons &amp; Maxim Ltd]] for the [[Pacific Steam Navigation Company]] as '''SS ''Ortona'''''. In [[World War I]] she served with the [[Royal Navy]] and was sunk by a [[U-boat]] in 1917.
+
+==Pacific Steam Navigation Company service, 1899–1906==
+SS ''Ortona'' was the last ship that Pacific Steam built for the London to Australia route. Launched on 10 July 1899 and registered in [[Liverpool]] on 26 October, she left London on her maiden voyage was on 24 November in a joint service with the [[Orient Steam Navigation Company]]. She carried 140 first class, 180 second class and 300 third class passengers, a total of 620. In December 1902, ''Ortona'' was used to return troops to the UK after the end of the [[Second Boer War]].&lt;ref name =&quot;P&amp;O Heritage&quot;&gt;{{cite web |url=http://www.poheritage.com/Content/Mimsy/Media/factsheet/94107ORTONA-1899pdf.pdf |title=Ship Fact Sheet – ORTONA (1899) |last1= |first1= |last2= |first2= |date=March 2010 |website=www.poheritage.com |publisher=DP World &amp; P&amp;O Heritage |accessdate=13 March 2014}}&lt;/ref&gt;
+
+==Royal Mail Steam Packet Company service, 1906–15==
+[[File:Arcadian dining saloon 1913.jpg|thumb|left|The dining saloon of ''Arcadian'' in 1913 after her conversion to a [[cruise ship]].]]
+On 8 May 1906 ''Ortona'' was sold to the [[Royal Mail Steam Packet Company]], who used her in a joint operation with the Orient line to Australia. In April 1909, she was transferred to the Royal Mail [[British West Indies|West Indies]] service. In 1910, she was sent to the [[Harland &amp; Wolff]] shipyard in Belfast for conversion into a 320-capacity [[cruise ship]] with a new gross tonnage of 8,939. She was renamed ''Arcadian'' on 21 September 1910 and registered at Belfast in September of the following year. She started her first world cruise in January 1912, the largest dedicated cruise ship in the world at that time.&lt;ref name =&quot;P&amp;O Heritage&quot;/&gt; It was on the first leg of this voyage that [[Olave Baden-Powell|Olave St Claire Soames]] met [[Robert Baden-Powell|Lieutenant General Sir Robert Baden-Powell]], the founder of the [[Scout Movement]], leading to their marriage in October of that year.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/dna/place-lancashire/plain/A4982664 |title= h2g2 – Olave Baden-Powell |last1=Cyzaki |first1=Linda |last2= |first2= |year=2010 |website=news.bbc.co.uk |publisher=BBC |accessdate=13 March 2014}}&lt;/ref&gt;
+
+==Admiralty service, 1915–17==
+[[File:HMS Arcadian torpedoed 15 April 1917.jpg|thumb|left|''Arcadian'' sinking after being torpedoed. Men can be seen sliding down ropes into the sea.]]
+In February 1915, near the start of the First World War, ''Arcadian'' was taken up by the [[Admiralty]] and converted to an [[armed merchant cruiser]].&lt;ref name =&quot;IWM&quot;&gt;{{cite web |url=http://m.iwm.org.uk/collections/item/object/30018111 |title=HMS ''Arcadian'' |last1= |first1= |last2= |first2= |year=2012 |website=m.iwm.org.uk |publisher=Imperial War Museum |accessdate=15 March 2014}}&lt;/ref&gt; On 7 April 1915 at [[Alexandria]], [[Ian Standish Monteith Hamilton|General Sir Ian Hamilton]] came aboard and used ''Arcadian'', together with the [[battleship]] [[HMS Queen Elizabeth (1913)|''Queen Elizabeth'']], as his headquarters ship during opening phase of the [[Gallipoli Campaign]].&lt;ref&gt;Hamilton, Ian (1920), [http://www.gutenberg.org/files/19317/19317-h/19317-h.htm ''Gallipoli Diary: Volume I''], George H Doran Company, New York (p. 86)&lt;/ref&gt; Once Hamilton's staff had transferred to a shore base at [[Imbros]], ''Arcadian'' was employed as a [[troop ship]] in the [[Mediterranean]].&lt;ref name =&quot;IWM&quot;/&gt;
+
+On 15 April 1917 ''Arcadian'' was ''en route'' from [[Salonika]] to [[Alexandria]] with a company of 1,335 troops and crew and escorted by a [[Imperial Japanese Navy|Japanese Navy]] [[destroyer]]. Shortly after completing a [[Muster drill|boat drill]], while 26 miles north east of the Greek island of [[Milos]], ''Arcadian'' was hit by a single [[torpedo]] from the German submarine {{SMU|UC-74}} and sank within six minutes with the loss of 279 lives.&lt;ref&gt;{{cite web |url=http://www.wrecksite.eu/wreck.aspx?98825 |title=SS Arcadian [+1917] |last1=Allen |first1=Tony |last2=Hocking |first2=C |date=23 March 2009 |website=www.wrecksite.eu |publisher=The Wrecksite |accessdate=13 March 2014}}&lt;/ref&gt; A contemporary newspaper article described how four of ''Arcadian's'' overcrowded lifeboats were successfully lowered before she sank. Many of the dead were cooks and stokers who were working below decks. The escorting destroyer had two torpedoes launched at her while she was attempting to rescue men from the water; survivors reported that she had lowered three of her own boats while going &quot;at full speed&quot;.&lt;ref&gt;{{cite news |last= |first= |date=17 May 1917 |title=Sinking of the Arcadian: Stories of Survivors (p. 5) |url=http://trove.nla.gov.au/ndp/del/article/1073910 |newspaper=The Mercury |location=Hobart, Tasmania |publisher= |accessdate=15 March 2014 }}&lt;/ref&gt; More survivors, who had been clinging to a raft, were rescued at midnight by the [[Q-ship]] {{HMS|Redbreast}}.&lt;ref&gt;{{cite web |url=http://www.firstworldwar.com/diaries/torpedoed.htm |title=Memoirs &amp; Diaries - Torpedoed in the Aegean Sea |last1=Huggins |first1=Reginald Cecil |last2= |first2= |date=22 August 2009 |website=www.firstworldwar.com |publisher=Michael Duffy |accessdate=15 March 2014}}&lt;/ref&gt; Among the dead was the eminent [[bacteriologist]], Sir [[Marc Armand Ruffer]], who was returning to Alexandria after advising on the control of an epidemic among troops based at [[Thessaloniki]].&lt;ref&gt;{{cite web |url=http://www.jleukbio.org/content/93/1/39.full#sec-4 |title=The Amazing Life of Sir Marc Armand Ruffer |last1=Cavaillon |first1=Jean-Marc |last2=Ingersoll |first2=Molly (translator) |date=26 August 2012 |website=www.jleukbio.org |publisher=Journal of Leukocyte Biology |accessdate=15 March 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+{{April 1917 shipwrecks}}
+
+{{DEFAULTSORT:Arcadian}}
+[[Category:1899 ships]]
+[[Category:Auxiliary cruisers of the Royal Navy]]
+[[Category:Barrow-built ships]]
+[[Category:Maritime incidents in 1917]]
+[[Category:Passenger ships of the United Kingdom]]
+[[Category:Ships sunk by German submarines in World War I]]
+[[Category:Troop ships of the Royal Navy]]
+[[Category:World War I shipwrecks in the Mediterranean]]</text>
+      <sha1>8tal2pcmsnxrv4aeyp2zl312u070f6f</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Canandaigua (ID-1694)</title>
+    <ns>0</ns>
+    <id>35693978</id>
+    <revision>
+      <id>685369389</id>
+      <parentid>646888123</parentid>
+      <timestamp>2015-10-12T13:21:37Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7250">{{Use dmy dates|date=November 2012}}
+
+{{otherships|USS Canandaigua}}
+{|{{Infobox ship begin}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1918}}
+|Ship name=USS ''Canandaigua''&lt;ref name=&quot;rrb46&quot;&gt;Belknap, Reginald Rowan ''The Yankee mining squadron; or, Laying the North Sea mining barrage'' (1920) United States Naval Institute pp.46-47,74&amp;110&lt;/ref&gt;
+|Ship namesake=
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Newport News Shipbuilding and Dry Dock Company]], [[Newport News, Virginia]]&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=May 1901&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=2 March 1918&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status=
+|Ship notes=Operated as commercial passenger-[[cargo ship]] ''El Siglo'' c. 1901-1917&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=[[Minelayer]] (in 1918)&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship tonnage=
+|Ship displacement=7,000 tons&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship tons burthen=
+|Ship length={{convert|405|ft|m|abbr=on}}&lt;ref name=&quot;rrb46&quot;/&gt; 
+|Ship beam={{convert|48|ft|m|abbr=on}}&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship height=
+|Ship draught= 
+|Ship draft={{convert|20|ft|m|abbr=on}}&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=
+|Ship sail plan=
+|Ship speed=15 [[Knot (unit)|knots]]&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=830 mines (900 max)&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship troops=
+|Ship complement=
+|Ship crew=21 officers and 400 men&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*1 × [[5&quot;/51 caliber gun]]
+*2 × [[3&quot;/23 caliber gun]]s&lt;ref name=&quot;rrb46&quot;/&gt;
+|Ship armour= 
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The second '''USS ''Canandaigua''''' was the [[Southern Pacific]] freighter ''El Siglo'' temporarily converted for planting the [[World War I]] [[North Sea Mine Barrage]].  [[Newport News Shipbuilding and Dry Dock Company]] launched ''El Siglo'' at [[Newport News, Virginia]] in May 1901 for service between [[New York City]] and [[Gulf of Mexico]] seaports of [[New Orleans]] and [[Galveston, Texas]].  The [[United States Shipping Board]] took control of the ship from Southern Pacific Steamship Company in 1917.
+
+==Conversion==
+She was fitted out for [[United States Navy]] service by [[Morse Dry Dock and Repair Company]] at [[Brooklyn, New York]].  Work began on 20 November 1917.  Gun platforms were added for two [[3&quot;/23 caliber gun|anti-aircraft guns]] forward and a [[5&quot;/51 caliber gun]] aft.  The [[minelayer|minelaying]] conversion enabled her to carry [[naval mines|mines]] on three decks, and included six [[Otis Elevator Company|Otis]] [[elevator]]s individually capable of transferring two mines every 20 seconds from the storage decks to the launching deck.  Stern ports were cut for launching the mines and the rudder quadrant was raised to give adequate clearance.  [[Watertight subdivision]] was improved by strengthening existing bulkheads and building two new bulkheads to divide the largest compartments so the ship might stay afloat if only one compartment were flooded.  Quarters were enlarged to accommodate messing and berthing arrangements for a crew of about 400.  The main machinery was overhauled and auxiliary machinery was added for the elevators, for heating the berthing spaces, for refrigerated food storage, for additional fresh water distilling capacity, for magazine sprinklers and galley and washroom plumbing, and enlarged electric generators for lighting and radio communications.  Existing coal bunkers on the third deck were replaced with a bunker in the hold forward of the boiler room with chutes to load coal over the mines.  Larger boats and heavier anchors required larger davits and anchor windlass, and the mines required specialized handling machinery.&lt;ref&gt;Daniels, Josephus ''The Northern Barrage and Other Mining Activities'' (1920) Government Printing Office pp.70-71&lt;/ref&gt;
+
+==Wartime service==
+USS ''Canandaigua'' was [[Ship commissioning|commissioned]] on 2 March 1918 with [[Captain (naval)|Captain]] W. H. Reynolds, [[USN]], in command.  While operating as part of Mine Squadron 1 out of [[Inverness, Scotland]], from 7 June until the close of the war on 11 November 1918, ''Canandaigua'' a total of 8,829 mines:&lt;ref name=&quot;rrb46&quot;/&gt;
+* planted 775 mines during the 1st minelaying excursion on 7 June,
+* planted 710 mines during the 2nd minelaying excursion on 30 June,
+* planted 760 mines during the 3rd minelaying excursion on 14 July,
+* planted 779 mines during the 4th minelaying excursion on 29 July,
+* planted 170 mines during the 5th minelaying excursion on 8 August,
+* planted 640 mines during the 6th minelaying excursion on 18 August,
+* planted 810 mines during the 7th minelaying excursion on 26 August,
+* planted 820 mines during the 8th minelaying excursion on 7 September,
+* planted 830 mines during the 9th minelaying excursion on 20 September,
+* planted 840 mines during the 10th minelaying excursion on 27 September,
+* planted 840 mines during the 11th minelaying excursion on 4 October, and
+* planted 855 mines during the 12th minelaying excursion on 13 October.
+''Canandaigua'' then made three trips returning soldiers of the [[American Expeditionary Forces]] to the United States before decommissioning and return to Southern Pacific Steamship Company in 1919.
+
+==Big Four==
+In the words of British [[Rear Admiral]] [[Lewis Clinton-Baker]], the North Sea mine barrage was the &quot;biggest mine planting stunt in the world's history.&quot;  The United States converted eight civilian steamships as minelayers for the 100,000 mines manufactured for the barrage.  The largest of these were four freighters owned by Southern Pacific Steamship Company.  Southern Pacific Transportation Company had evolved from the [[First Transcontinental Railroad]] to become the dominant transportation provider in California.  Owners of the original [[Central Pacific Railroad]] were known as the [[Big Four (Central Pacific Railroad)|Big Four]].  Sailors similarly referred to these former Southern Pacific ships as the Big Four.&lt;ref name=&quot;rrb46&quot;/&gt;
+* ''El Siglo'' became No. 1694 USS {{USS|Canandaigua|ID-1694|2}}
+* ''El Dia'' became No. 1695 USS {{USS|Roanoke|ID-1695|2}}
+* ''El Cid'' became No. 1696 USS {{USS|Canonicus|ID-1696|2}}
+* ''El Rio'' became No. 1697 USS {{USS|Housatonic|SP-1697|2}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Canandaigua (ID-1694)}}
+[[Category:World War I mine warfare vessels of the United States]]
+[[Category:1901 ships]]
+[[Category:Unique minelayers of the United States Navy]]
+[[Category:Ships built in Newport News, Virginia]]</text>
+      <sha1>llki4pvui0xxfdx7zzyrwz3lxgk09tu</sha1>
+    </revision>
+  </page>
+</mediawiki>

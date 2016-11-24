@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>World War I Memorial (Berwick, Pennsylvania)</title>
+    <ns>0</ns>
+    <id>33488886</id>
+    <revision>
+      <id>681709059</id>
+      <parentid>681547182</parentid>
+      <timestamp>2015-09-19T00:05:31Z</timestamp>
+      <contributor>
+        <username>Another Believer</username>
+        <id>5886041</id>
+      </contributor>
+      <comment>removed [[Category:Sculptures of men in the United States]]; added [[Category:Sculptures of men in Pennsylvania]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1676">{{Infobox artwork
+| name = World War I Memorial 
+| nrhp_type = 
+| image_file = Berwick PA WWI memorial 1923.jpg
+| caption = 
+| city = [[Berwick, Pennsylvania]], [[United States]]
+| coordinates = {{coord|41|3|27|N|76|14|7|W}}
+| museum             = 
+| area = 
+| locmapin = Pennsylvania
+| year = 1923
+}}
+
+The '''''World War I Memorial''''' is a bronze sculpture, in [[Berwick, Pennsylvania]]. 
+
+The inscription reads:&lt;br&gt;
+(Bronze plaque on front of base:) &lt;br&gt;
+&lt;center&gt;DEDICATED TO ALL MEN OF BERWICK AND&lt;br&gt;
+VICINITY WHO FOUGHT IN THE WORLD WAR&lt;br&gt;
+-TO THOSE WHO FOUGHT AND LIVED, AND THOSE&lt;br&gt;
+WHO FOUGHT AND DIED; TO THOSE WHO GAVE&lt;br&gt;
+MUCH, AND THOSE WHO GAVE ALL.&lt;br&gt;
+1914 IN MEMORIUM(sic) 1918&lt;br&gt;&lt;/center&gt;
+(list of names)&lt;br&gt;
+ERECTED BY THE MOSES VAN CAMPEN CHAPTER DAR 1923. &lt;br&gt;&lt;ref&gt;{{cite web| url=http://siris-artinventories.si.edu/ipac20/ipac.jsp?session=1T1913035XD01.37720&amp;profile=ariall&amp;source=~!siartinventories&amp;view=subscriptionsummary&amp;uri=full=3100001~!335758~!27&amp;ri=1&amp;aspect=Keyword&amp;menu=search&amp;ipp=20&amp;spp=20&amp;staffonly=&amp;term=Berwick&amp;index=.GW&amp;uindex=&amp;aspect=Keyword&amp;menu=search&amp;ri=1#focus| title=World War I Memorial, (sculpture)| publisher=Save Outdoor Sculpture, Pennsylvania survey| year= 1995| accessdate=October 11, 2011}}&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+
+[[Category:Outdoor sculptures in Pennsylvania]]
+[[Category:1923 sculptures]]
+[[Category:Bronze sculptures in Pennsylvania]]
+[[Category:Statues in Pennsylvania]]
+[[Category:Monuments and memorials in Pennsylvania]]
+[[Category:Military monuments and memorials in the United States]]
+[[Category:1923 establishments in Pennsylvania]]
+[[Category:Sculptures of men in Pennsylvania]]</text>
+      <sha1>5ng4ba7e9zcgg6zzkdojntrejqp1lyv</sha1>
+    </revision>
+  </page>
+</mediawiki>

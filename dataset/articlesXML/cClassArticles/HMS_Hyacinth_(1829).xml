@@ -1,0 +1,182 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Hyacinth (1829)</title>
+    <ns>0</ns>
+    <id>7146381</id>
+    <revision>
+      <id>686033291</id>
+      <parentid>685614290</parentid>
+      <timestamp>2015-10-16T15:23:08Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>list fix; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5216">{{otherships|HMS Hyacinth}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image=[[File:Volage &amp; Hyacinth in Chuenpee.jpg|300px|]]
+| Ship caption=''Hyacinth'' and {{HMS|Volage|1825|2}} engage Chinese war junks, 3 November 1839
+}}
+{{Infobox ship career
+| Hide header=
+| Ship country=United&amp;nbsp;Kingdom
+| Ship flag=[[File:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+| Ship name=HMS ''Hyacinth''
+| Ship owner=
+| Ship ordered=10 June 1823
+| Ship builder=[[HMNB Devonport|Plymouth Dockyard]]
+| Ship original cost=£17,361 including fitting&lt;ref group=Note&gt;A total cost accounting for inflation of approximately £{{formatnum:{{Inflation|UK|17361|1829|r=-2}}}} in today's money.&lt;/ref&gt;&lt;ref name=RW/&gt;
+| Ship laid down=March 1826
+| Ship launched=6 May 1829
+| Ship acquired=
+| Ship commissioned=12 January 1830
+| Ship decommissioned=
+| Ship in service=
+| Ship out of service=
+| Ship renamed=
+| Ship struck=
+| Ship reinstated=
+| Ship honours=
+| Ship honors=
+| Ship captured=
+| Ship fate=*Coal hulk at Portland, November 1860
+*Breaking completed in November 1871
+| Ship status=
+| Ship notes=
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Header caption=&lt;ref name=RW&gt;Winfield (2004) p.118&lt;/ref&gt;
+| Ship class={{sclass|Favorite|ship sloop}}
+| Ship tons burthen=429 &lt;small&gt;40/94&lt;/small&gt; [[Builder's Old Measurement|bm]]
+| Ship length=*{{convert|109|ft|6|in|m|abbr=on|1}} (gundeck)
+*{{convert|86|ft|9+1/2|in|m|abbr=on|1}} (keel)
+| Ship beam={{convert|30|ft|9|in|m|abbr=on|1}} oa
+| Ship draught=
+| Ship draft=
+| Ship hold depth={{convert|12|ft|9|in|m|abbr=on|1}}
+| Ship propulsion=
+| Ship sail plan=[[Full-rigged ship]]
+| Ship complement=125
+| Ship armament=*16 × 32-pounder [[carronade]]s
+*2 × 9-pounder [[chase gun|bow chasers]]
+*Reduced to 14 guns in 1848
+| Ship notes=
+}}
+|}
+{{ external media
+| align = right
+| width = 258px
+| image1 = [http://www.nmm.ac.uk/collections/images/560/D/25/D2507_1.jpg A contemporary 1:60 full hull model of ''Hyacinth'' at the National Maritime Museum]
+}}
+
+'''HMS ''Hyacinth''''' was an 18-gun [[Royal Navy]] [[Sloop-of-war|ship sloop]]. She was launched in 1829 and surveyed the north-eastern coast of Australia under [[Francis Price Blackwood]] during the mid-1830s.  She took part in the [[First Opium War]], destroying, with [[HMS Volage (1825)|HMS ''Volage'']], 29 Chinese junks. She became a coal hulk at Portland in 1860 and was broken up in 1871.
+
+==Design and construction==
+''Hyacinth'' was the second of four {{sclass|Favorite|ship sloop}}s, which were a [[full-rigged ship|ship-rigged]] and lengthened version of the 1796 {{sclass|Cruizer|brig-sloop}}. All four ships of the class were ordered on 10 June 1823 and ''Hyacinth'' was laid down at [[HMNB Devonport|Plymouth Dockyard]] in March 1826. She was launched on 6 May 1829 and commissioned for the [[Jamaica Station (Royal Navy)|West Indies Station]] on 12 January 1830.&lt;ref name=RW/&gt;
+
+===Dimensions===
+''Hyacinth'' measured {{convert|109|ft|6|in|m|abbr=on|1}} along the gun deck by {{convert|30|ft|9|in|m|abbr=on|1}} in the beam, and had a tonnage of 429 &lt;small&gt;40/94&lt;/small&gt; [[Builder's Old Measurement|bm]].&lt;ref name=RW/&gt; She was flush-decked with a small forecastle and quarterdeck.
+
+===Armament===
+She was armed with sixteen 32-pounder [[carronade]]s and two 9-pounder [[chase gun|bow chaser guns]].&lt;ref name=RW/&gt;
+
+==Service==
+&lt;!--West Indies
+
+Circa Feb 1833 recommissioned at Portsmouth.
+
+Portsmouth 8 May 1833 Sailed for the East Indies.
+
+1834/35 - Sydney - relieved ''Alligator''
+
+Australia &amp; New Zealand
+
+''Anonymous Journal of a Voyage on board H.M.S. Hyacinth'' by [[Conrad Martens]]
+
+''Hydrographical Remarks on the North-Eastern Coast of Australia'' by Blackwood 
+
+Portsmouth 19 Nov 1836 arrived from the East Indies.
+
+Reviewed in October 1837 at Brighton with ''Emerald'' and 2 cutters by Queen Victoria in residence at the Pavilion.
+
+28 Oct 1839 had arrived Hong Kong under Commander William Warren
+
+See http://www.britishmedals.us/collections/GA/brady.html, http://www.archive.org/stream/royalnavyhistory06clow#page/280/mode/2up--&gt;
+
+During her 42-year career, she was stationed in the West and East Indies from 1829–41, took part in the First Opium War from 1841–42, and from 1843-46 was stationed off the west coast of Africa in the suppression of the slave trade. After being reduced to 14 guns in 1848,&lt;ref name=RW/&gt; she later became a coal hulk at [[Portsmouth]] before being broken up in 1871.&lt;ref name=RW/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==References==
+{{reflist}}
+*{{winfield}}
+
+==External links==
+*[http://www.pdavis.nl/ShowShip.php?id=1588 Career of HMS ''Hyacinth'' at William Loney website]
+*{{cite web|url=http://www.pbenyon.plus.com/18-1900/H/02344.html|title=HMS ''Hyacinth'' at the naval Database website|accessdate=2011-09-11}}
+
+{{Royal Navy ship-rigged sloops after 1816}}
+
+{{DEFAULTSORT:Hyacinth (1829)}}
+[[Category:Sloops of the Royal Navy]]
+[[Category:Ships of the West Africa Squadron]]
+[[Category:Plymouth-built ships]]
+[[Category:Coal hulks]]
+[[Category:1829 ships]]
+[[Category:First Opium War ships of the United Kingdom]]
+[[Category:Survey vessels of the Royal Navy]]
+[[Category:Exploration of Australia]]
+[[Category:Maritime exploration of Australia]]</text>
+      <sha1>7h8qo7siqhnxj7wvmhx9289to7sb8fj</sha1>
+    </revision>
+  </page>
+</mediawiki>

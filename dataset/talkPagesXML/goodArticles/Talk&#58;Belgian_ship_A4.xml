@@ -1,0 +1,95 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Belgian ship A4</title>
+    <ns>1</ns>
+    <id>40295326</id>
+    <revision>
+      <id>608378597</id>
+      <parentid>574760221</parentid>
+      <timestamp>2014-05-13T13:29:05Z</timestamp>
+      <contributor>
+        <username>Keith D</username>
+        <id>2278355</id>
+      </contributor>
+      <minor/>
+      <comment>Added WikiProject [[Template:WikiProject Yorkshire|WikiProject Yorkshire]] «GA/Low»</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6966">{{GA|00:33, 3 September 2013 (UTC)|topic=warfare|page=|oldid=571308437}}
+
+{{WikiProjectBannerShell|1=
+{{WikiProject Military history|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=yes|British=yes|WWII=yes}}
+{{WikiProject Belgium|class=GA|importance=low}}
+{{WikiProject Ships|naval=yes|class=GA|B1=n|B2=y|B3=y|B4=y|B5=y}}
+{{WikiProject Yorkshire|class=GA|importance=Low}}
+}}
+
+
+{{Talk:Belgian ship A4/GA1}}
+
+==Coverage==
+G'day, I see that this article is currently undergoing a GA review. Good work on improving the article so far. I have reviewed a few ship articles in the past and I'm concerned that the coverage does not meet the criteria. For instance, from experience it seems usual to include details such tonnage, length, speed, beam, power, draught/draft, complement, etc. in the body. Currently these sorts of details only appear in the infobox, where they are uncited. Additionally, the infobox mentions that the ship was transferred to Belgium in 1920, and that it was known by a couple of names over different periods (e.g. &quot;Pilote 4 (1920-1939, 1946) and Patrouilleur A4 (1939-1945)&quot;) but this information doesn't appear in the body. Could this information please be added with a corresponding citation? Additionally, for GA I think these two sentences should be referenced: &quot;After Belgium was invaded on 10 May 1940, there was not enough time to repaint it in a more discrete colour scheme.&quot; and &quot;A4 also carried Hubert Ansiaux, the civil servant charged with the gold evacuation and future Governor of the National Bank, to England.&quot; Please let me know what you think. Regards, [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 08:46, 31 August 2013 (UTC)
+:Thanks for your comments, I will do my best to implement your suggestions. I have cited the second sentence and will look for another reference for the first. However, I'm afraid the others pose a bit of a problem. I do not know why the boat's name was changed - I assume because it was recomissioned as a patrol boat, rather than as a pilot boat, but that would be conjecture/original research. The other part is also slightly problematic. I do not know how it would be possible to mention the specifications of the boat in the text without boring the reader to death with information already present in the infobox. The boat is notable for what it did rather than its class or specifications per se. Could I footnote or reference the infobox instead? ''[[User:Brigade Piron|Brigade Piron]]'' ([[User talk:Brigade Piron|talk]]) 09:59, 31 August 2013 (UTC)
+::G'day, referencing the infobox would be a partial solution, but my main concern is that you are not meeting the coverage requirement for a ship article at GA level. It seems common practice in ship articles that reach GA. For instance, [[French ironclad Suffren]], [[German battleship Scharnhorst]], [[HMS Tiptoe (P332)]], and many others at [[Wikipedia:Good articles/Warfare#Warships]] include a &quot;design and description&quot; or &quot;construction and characteristics&quot; section (or something similar). I'm not saying that you should include a separate section like that, but perhaps you could work in some more of those details into the Background section to provide the reader with a better understanding of what the ship actually was. Perhaps some advice could be sought from the editors at [[WT:SHIPS]] about how to best present this information? Regarding the issue with the name, no dramas, I don't think you need to necessarily say why the name changed, particularly if you don't know, but the fact that it did change should be mentioned in the body with a reference. [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 11:37, 31 August 2013 (UTC)
+:::I'm not sure I agree. In the examples you cite, the ships are notable for their existence as much as for their careers and so stats form a major part of &quot;what they were&quot;. For ''A4'', it is only notable for what it did in 1940 - the Mersey class is so unremarkable that it doesn't even merit an article here, and only very short extracts elsewhere. I could add that it was a small and slow boat (which would be relevant, including these two measurements) and cite accordingly, but otherwise I would be very much against lengthy discussions of a non-notable subject.''[[User:Brigade Piron|Brigade Piron]]'' ([[User talk:Brigade Piron|talk]]) 12:57, 31 August 2013 (UTC)
+::::To clarify, I'm not asking for a lengthy discussion of it. You could probably get away with adding only a few short sentences. For example, if you were to reword the first paragraph of the Background section using something like this, it would probably be sufficient coverage (so long as it could be referenced): 
+::::{{quote|''Pilote A4'' (later ''Patrouilleur A4'') was purchased by the Belgian [[Belgian Navy|''Corps de Marine'']] in 1920, having previously served in the British [[Royal Navy]] during the [[First World War]] as HMS ''John Ebbs'' (FY3566). A Mersey-class naval trawler, the vessel had been built by Cochranes in [[Selby]], [[North Yorkshire]], and launched on 2 October 1917. [[Displacement (ship)|Displacing]] {{convert|344|lt|t}}, the vessel was {{convert|148|ft|m}} long, and had a [[draught (ship)|draught]] of {{convert|4.5|m|ft}}. Fitted with engines that were capable of producing {{convert|600|hp}}, it could travel at between 9 and10 knots. With a complement of 27, the Belgians armed the ship with two [[Maxim gun|Maxim machine guns]] on the bridge and a [[47 mm Model 1931 anti-tank gun|47mm gun]] at the [[stern]]. In 1939, ''A4'' was waiting to be scrapped, but the deteriorating international situation caused by German expansionism led to its reactivation by the Ministry of Defence. }} [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 13:50, 31 August 2013 (UTC)
+:::::Fine. If it OK, I've added your text verbatim (with cites, of course). ''[[User:Brigade Piron|Brigade Piron]]'' ([[User talk:Brigade Piron|talk]]) 16:34, 31 August 2013 (UTC)
+::::::G'day, I made a couple of minor tweaks, but yes that looks fine. Cheers, and good luck with the review. Regards, [[User:AustralianRupert|AustralianRupert]] ([[User talk:AustralianRupert|talk]]) 01:01, 1 September 2013 (UTC)
+
+== Mersey class ==
+
+A recent edit suggested that the Mersey class is named for the lead ship in the class.  I haven't searched very thoroughly, but haven't found any evidence that such a ship existed.  These two sources suggest that there was no naval trawler called ''Mersey'':
+:{{cite web |url=http://www.worldnavalships.com/naval_trawlers.htm |title=Naval Trawlers |website=Naval Ships of the Worlds Navies}}
+:{{cite web |url=http://uboat.net/allies/warships/class.html?ID=335 |title=Mersey class |website=Uboat.net}}
+
+So, the class-name format should rightly be: {{sclass2-|Mersey|naval trawler}}.
+
+—[[User:Trappist the monk|Trappist the monk]] ([[User talk:Trappist the monk|talk]]) 11:46, 4 September 2013 (UTC)</text>
+      <sha1>5thm0bbya11xovaxqx2b9ls02y011cq</sha1>
+    </revision>
+  </page>
+</mediawiki>

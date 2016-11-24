@@ -1,0 +1,99 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Battle of Knjaževac</title>
+    <ns>0</ns>
+    <id>35801343</id>
+    <revision>
+      <id>701943865</id>
+      <parentid>701801729</parentid>
+      <timestamp>2016-01-27T14:14:16Z</timestamp>
+      <contributor>
+        <username>TU-nor</username>
+        <id>9690600</id>
+      </contributor>
+      <comment>Undid revision 701801729 by [[Special:Contributions/2601:403:4000:6DE1:BC40:3EEF:91C4:A522|2601:403:4000:6DE1:BC40:3EEF:91C4:A522]] ([[User talk:2601:403:4000:6DE1:BC40:3EEF:91C4:A522|talk]])&quot;Decisive&quot; would have to be sourced</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1982">{{Infobox military conflict
+|conflict= Battle of Knjaževac
+|image=
+|caption=
+|partof=the [[Second Balkan War]]
+|date= 4–7 July 1913
+|result= Bulgarian victory
+|place=[[Knjaževac]], [[Kingdom of Serbia]] 
+|combatant1={{flag|Kingdom of Bulgaria}}
+|combatant2={{flag|Kingdom of Serbia}}
+|commander1={{flagicon|Bulgaria}} [[Vasil Kutinchev]]
+|commander2={{flagicon|Serbia}} [[Vukoman Aračić]]
+|strength1= 56,689 men, 108 guns&lt;ref&gt;''Кратък обзор на бойния състав, организацията, попълването и мобилизацията на българската армия '', pag. 92-93;Държавно военно издателство,София 1961&lt;/ref&gt;
+|strength2= 40,000 men, 68 guns&lt;ref&gt;[http://www.bulgarianartillery.it/Bulgarian%20Artillery%201/T_OOB/Interallied%20War_Serbia.htm     The Serbian and Greek Armies    at the beginning of the Interallied War]&lt;/ref&gt;
+|casualties1=280 dead&lt;br&gt;820 wounded&lt;ref name=Hall/&gt;
+|casualties2=unknown
+}}
+{{Campaignbox Second Balkan War}}
+
+The '''Battle of Knjaževac''' was a battle of the [[Second Balkan War]], fought between the [[Bulgaria]]n and the [[Kingdom of Serbia|Serbian]] army. The battle took in July 1913 and ended with the capture of the Serbian city by the [[Bulgaria]]n [[First Army (Bulgaria)|1st Army]].&lt;ref name=&quot;Hall&quot;&gt;{{cite book| last =Hall  | first =Richard   | title =The Balkan Wars, 1912-1913: Prelude to the First World War| publisher =Routledge| year =2000 | isbn =0-415-22946-4  | page =116}}&lt;/ref&gt;
+
+==References==
+{{Reflist|1}}
+
+==Sources==
+* {{cite book |title=The Balkan Wars, 1912–1913: Prelude to the First World War |last=Hall |first=Richard C. |year=2000 |publisher=Routledge |isbn=0-415-22946-4 }}
+
+{{coord missing}}
+
+{{DEFAULTSORT:Knjazevac}}
+[[Category:Battles of the Second Balkan War]]
+[[Category:Battles involving Bulgaria]]
+[[Category:Battles involving Serbia]]
+[[Category:Conflicts in 1913]]
+[[Category:1913 in Bulgaria]]
+[[Category:1913 in Serbia]]</text>
+      <sha1>s01f2r4ugxxxx4elhrbczd548coct0i</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Coureuse (1795)</title>
+    <ns>0</ns>
+    <id>38202151</id>
+    <revision>
+      <id>687191083</id>
+      <parentid>687038979</parentid>
+      <timestamp>2015-10-23T22:17:49Z</timestamp>
+      <contributor>
+        <username>Nigel Ish</username>
+        <id>3000221</id>
+      </contributor>
+      <comment>fix infobox error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5796">
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag=[[Image:Civil and Naval Ensign of France.svg|60px|French Navy Ensign]]
+|Ship name=''Coureuse'' 
+|Ship ordered=
+|Ship builder=New York
+|Ship laid down=
+|Ship launched=1788 04 1785
+|Ship acquired=Purchased at Cayenne April 1794 
+|Ship completed=
+|Ship commissioned=June 1794 at [[Lorient]]
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=26 February 1795
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[Kingdom of Great Britain]]
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|50px|Royal Navy Ensign]]
+|Ship name=HMS ''Coureuse''
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=26 February 1795 by capture
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Sold April 1799
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=Winfield&gt;Winfield (2008), p.356.&lt;/ref&gt;&lt;ref name=WR&gt;Winfield and Roberts (2015). p. 249.&lt;/ref&gt;
+|Ship class=
+|Ship type=Schooner
+|Ship tons burthen=55 {{small|{{fraction|85|94}}}} ([[Builder's Old Measurement|bm]]), or 18 (French; &quot;of load&quot;)
+|Ship displacement=33 tons (French)
+|Ship length=*{{convert|55|ft|10|in|m|1|abbr=on}} (overall)
+*{{convert|41|ft|11+3/8|in|m|1|abbr=on}} (keel)
+|Ship beam={{convert|15|ft|9|in|m|1|abbr=on}} 
+|Ship draught=
+|Ship hold depth={{convert|6|ft|5|in|m|1|abbr=on}}
+|Ship sail plan=[[Schooner]]
+|Ship propulsion=[[Sails]]
+|Ship complement=*'''French service''':23
+*'''British service''':35
+|Ship armament=*'''French service''':
+*8 × 2-pounder guns&lt;ref name=Chapelle/&gt;&lt;ref name=WR/&gt;
+*'''British service''':
+*2 × 24-pounder [[carronade]]s + 12 x ½-pounder [[swivel gun]]s
+|Ship notes=
+}}
+|}
+
+'''HMS ''Coureuse''''' was a schooner launched in 1785 or 1788 in the United States and acquired and armed at [[Lorient]] in 1794. The British captured her in 1795 and the [[Royal Navy]] briefly used her as a dispatch vessel in the Mediterranean. The Admiralty sold her in 1799.
+
+==French service==
+''Coureuse'' sailed out to [[Cayenne]], and back to Lorient under the command of ''Lieutenant de Vaisseau'' Malvin (acting).&lt;ref&gt;Fonds, Vol. 1, p.90.&lt;/ref&gt;&lt;ref group=Note&gt;Actually, the rank was &quot;Lieutenant de vaisseau non entretenu&quot;, where &quot;non entrentenu&quot; means &quot;not paid&quot;, or &quot;without a salary&quot;. The rank was that of Lieutenant, but junior to &quot;Lieutenant de vaisseau entretenu&quot;. In addition to not being paid, an officer &quot;non entretenu&quot; would wear the uniform and have authority only when on service. There was a fixed number of positions for &quot;entretenus&quot;, which required a competitive examination, while there was an unlimited number of &quot;non entretenus&quot;, and one could obtain the status by a simple examination or by captaining a merchantman.&lt;/ref&gt; 
+
+In February 1795 ''Coureuse'', under the command of ''Enseigne de vaisseau'' Landais (acting), was escorting a convoy of three brigs and two luggers carrying clothes for the Army from [[Île-Tudy]] to [[Groix|Île de Groix]] when the convoy had the misfortune to encounter a squadron under Captain Sir [[John Borlase Warren]] in {{HMS|Pomone|1794|2}}. ''Pomone'' captured all six vessels.&lt;ref&gt;Fonds, Vol.1, p.149.&lt;/ref&gt; At the time of her capture her captors described ''Curieuse'' (name latter corrected to ''Coureuse'') as a schooner belonging to the [[National Convention]] government and carrying eight brass guns.&lt;ref name=LG13757&gt;{{London Gazette|issue=13757|startpage=206|endpage=207|date=3 March 1795}}&lt;/ref&gt;
+
+The frigates {{HMS|Artois|1794|2}}, {{HMS|Galatea|1794|2}} and {{HMS|Anson|1781|2}}, and the [[Hired armed vessels|hired armed]] [[lugger]] [[Hired armed lugger Duke of York|''Duke of York'']] assisted ''Pomone'' in the capture. The British latter scuttled two of the brigs of little value that they had captured from the convoy, but took the other four vessels as prizes, with ''Coureuse'' being taken into service.&lt;ref name=LG13757/&gt;
+
+==British service==
+
+The Royal Navy fitted ''Coureuse'' out between June and July 1795, and registered her on 22 July.&lt;ref name=Winfield/&gt; She then briefly served as a dispatch vessel in the Mediterranean.&lt;ref name=Chapelle&gt;Chapelle (1967), p.154.&lt;/ref&gt;
+
+==Fate==
+''Coureuse'' was offered for sale at Plymouth in March 1799.&lt;ref&gt;{{London Gazette|issue=15119|startpage=291|date=26 March 1799}}&lt;/ref&gt; She was sold on 13 April for £125 to Mr. Dodds.&lt;ref name=Winfield/&gt;
+
+==Notes, citations, and references==
+;Notes
+{{reflist|group=Note}}
+;Citations
+{{reflist|colwidth=30em}}
+;References
+* Chapelle, Howard Irving (1967) ''The search for speed under sail, 1700–1855'' (New York: Norton).
+* Fonds Marine. Campagnes (opérations ; divisions et stations navales ; missions diverses). Inventaire de la sous-série Marine BB4. Tome premier : BB4 1 à 209 (1790-1804) [http://www.servicehistorique.sga.defense.gouv.fr/contenu/functions/dc/attached/FRSHD_PUB_00000226_dc/FRSHD_PUB_00000226_dc_att-FRSHD_PUB_00000226_01.pdf]
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1-86176-246-1}}
+*Winfield, Rif &amp; Stephen S Roberts (2015) ''French Warships in the Age of Sail 1786 - 1861: Design Construction, Careers and Fates''. (Seaforth Publishing). ISBN 9781848322042
+
+
+{{DEFAULTSORT:Coureuse (1795)}}
+[[Category:Schooners of the Royal Navy]]
+[[Category:Captured ships]]
+[[Category:1785 ships]]
+[[Category:Ships of the French Navy]]</text>
+      <sha1>4eavtwon7xcaryub2as1tbesxjwrajw</sha1>
+    </revision>
+  </page>
+</mediawiki>

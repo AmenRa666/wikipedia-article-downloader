@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Matthew Sands</title>
+    <ns>1</ns>
+    <id>21864037</id>
+    <revision>
+      <id>736964844</id>
+      <parentid>734033006</parentid>
+      <timestamp>2016-08-31T00:00:50Z</timestamp>
+      <contributor>
+        <username>DYKUpdateBot</username>
+        <id>11745509</id>
+      </contributor>
+      <comment>Article appeared on [[WP:Did you know|DYK]] on 31 August 2016, adding {{[[Template:DYK talk|DYK talk]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1194">{{Article history
+|action1=GAN
+|action1date=17:49, 21 October 2014 (UTC)
+|action1link=/GA1
+|action1result=failed
+|action1oldid=626067813
+
+| action2       = GAN
+| action2date   = 19:46, 10 August 2016 (UTC)
+| action2link   = Talk:Matthew Sands/GA2
+| action2result = listed
+| action2oldid  =733812245
+|currentstatus=GA
+|topic=Natural Sciences}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Biography|living=no|class=GA|military-work-group=yes|military-priority=low|s&amp;a-work-group=yes|listas=Sands, Matthew}}
+{{WikiProject United States|MA=yes}}
+{{WikiProject Physics|class=GA|importance=low|bio=yes}}
+{{WikiProject Military history|class=GA|b1=y|b2=y|b3=y|b4=y|b5=y|Biography=y|SciTech=y|Weaponry=y|US=y|WWII=y}}
+}}
+{{DYK talk|31 August|2016|entry= ... that '''[[Richard Feynman]]'''{{'}}s work ''[[The Feynman Lectures on Physics]]'' was co-authored by '''[[Matthew Sands]]''' and Robert B. Leighton?|nompage=Template:Did you know nominations/Matthew Sands}}
+
+==Needs Cleanup==
+This is a mess. How do we tag it for needing serious clean up? It's full of typos and grammatical errors. &lt;small&gt;unsigned comment at 11:49, 27 September 2009‎ by {{u|75.61.232.112}} &lt;/small&gt;
+
+{{Talk:Matthew Sands/GA2}}</text>
+      <sha1>gkwhepldgd8won9s3bhfme11ylbfk25</sha1>
+    </revision>
+  </page>
+</mediawiki>

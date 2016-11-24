@@ -1,0 +1,371 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Yugoslav destroyer Dubrovnik</title>
+    <ns>0</ns>
+    <id>9036096</id>
+    <revision>
+      <id>750790475</id>
+      <parentid>750788015</parentid>
+      <timestamp>2016-11-21T21:07:15Z</timestamp>
+      <contributor>
+        <username>Dank</username>
+        <id>5950998</id>
+      </contributor>
+      <comment>/* Premuda */  ce. done.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27685">{{good article}}
+{|{{Infobox ship begin}}
+|+Yugoslav destroyer ''Dubrovnik''
+{{Infobox ship image
+|Ship image=[[File:Bundesarchiv Bild 101I-185-0116-22A, Bucht von Kotor (-), jugoslawische Schiffe.jpg|300px|alt=a black and white photograph of two ships moored side-by-side]]
+|Ship caption=''Dubrovnik'' (left) and [[Yugoslav destroyer Beograd|''Beograd'']] (right) photographed in the Bay of Kotor in 1941 after being captured by Italian forces.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Kingdom of Yugoslavia]]
+|Ship flag={{shipboxflag|Kingdom of Yugoslavia|naval}}
+|Ship name=''Dubrovnik''
+|Ship namesake=City of [[Dubrovnik]]
+|Ship ordered=1929
+|Ship builder=[[Yarrow Shipbuilders]]
+|Ship laid down=10 June 1930
+|Ship launched=11 October 1931
+|Ship acquired=
+|Ship commissioned=May 1932
+|Ship fate=Captured by [[Royal Italian Army|Italian forces]] on 17 April 1941
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[Kingdom of Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy|naval}}
+|Ship name=''Premuda''
+|Ship namesake=The island of [[Premuda]]
+|Ship acquired=17 April 1941
+|Ship commissioned= February 1942
+|Ship fate=Captured by [[Wehrmacht|German forces]] on 9 September 1943
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''TA32''
+|Ship acquired=9 September 1943
+|Ship commissioned= 18 August 1944
+|Ship fate=Scuttled on 24 April 1945
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship displacement=*Standard: {{convert|1880|LT|t|0|abbr=on|lk=in}}
+*Full: {{convert|2400|LT|t|0|abbr=on}}
+|Ship length= {{convert|113.2|m|ftin|abbr=on|lk=in}}
+|Ship beam={{convert|10.67|m|ftin|abbr=on}}
+|Ship draught= {{convert|3.58|-|4.1|m|ftin|abbr=on}}
+|Ship propulsion=*Two shafts;
+*2 × [[Parsons Marine Steam Turbine Company|Parsons]] [[steam turbine]]s ({{convert|48000|shp|abbr=on|lk=in}})
+*1 × Curtis steam turbine for cruising ({{convert|900|shp|abbr=on}})
+*3 × [[Yarrow water-tube boiler]]s
+
+|Ship speed=*Maximum: {{convert|37|kn|lk=in}}
+*Cruising: {{convert|15|kn}}
+
+|Ship range={{convert|7000|nmi|abbr=on|lk=in}} at {{convert|15|kn}}
+|Ship complement=20 officers and 220 enlisted
+|Ship sensors=
+|Ship EW=
+|Ship armament=*4 × Škoda {{convert|140|mm|in|abbr=on}} [[naval gun]]s
+*2 × Škoda {{convert|83.5|mm|in|abbr=on}} [[Anti-aircraft warfare|AA guns]]
+*6 × Škoda {{convert|40|mm|in|abbr=on}} AA guns
+*2 × Škoda {{convert|15|mm|in|abbr=on}} [[machine guns]]
+*6 × {{convert|533|mm|in|abbr=on|0}} [[torpedo tube]]s
+*40 × [[naval mine]]s
+
+|Ship notes=
+}}
+|}
+'''''Dubrovnik''''' was a [[flotilla leader]] built for the [[Royal Yugoslav Navy]] by [[Yarrow Shipbuilders]] in [[Glasgow]] in 1930 and 1931. She was one of the largest [[destroyer]]s of her time. Resembling contemporary British designs, ''Dubrovnik'' was a fast ship with a main armament of four [[Czechoslovakia|Czechoslovak]]-built [[Škoda Works|Škoda]] {{convert|140|mm|in|abbr=on}} guns in single mounts. Intended to be the first of three flotilla leaders built for Yugoslavia, she was the only one completed. During her service with the Royal Yugoslav Navy, ''Dubrovnik'' undertook several peacetime cruises through the [[Mediterranean Sea|Mediterranean]], the [[Turkish Straits]] and the [[Black Sea]]. In October 1934, she conveyed [[Alexander I of Yugoslavia|King Alexander]] to France for a [[state visit]], and carried his body back to Yugoslavia following his assassination in [[Marseille]].
+
+During the [[Nazi Germany|German]]-led [[Axis powers|Axis]] [[invasion of Yugoslavia]] in April 1941, ''Dubrovnik'' was captured by the Italians. After a refit, which included the replacement of some of her weapons and the shortening of her [[Mast (sailing)|mainmast]] and [[Funnel (ship)|funnels]], she was commissioned into the [[Regia Marina|Royal Italian Navy]] as '''''Premuda'''''. In Italian service she was mainly used as an escort and troop transport. In June 1942, she was part of the Italian force that attacked the [[Allies of World War II|Allied]] [[Operation Harpoon (1942)|Operation Harpoon]] convoy attempting to relieve the island of [[Malta]]. In July 1943, she broke down and put in to [[Genoa]] for repair and a refit. ''Premuda'' was the most important and effective Italian [[Prize (law)|war prize]] ship of [[World War II]].
+
+At the time of the [[Armistice of Cassibile|Italian surrender]] to the Allies in September 1943, ''Premuda'' was still docked in Genoa, and was seized by Germany. Plans to convert her into a [[radar picket]] for [[night fighter]]s were abandoned. In August 1944, following the replacement of her armament, she was commissioned into the [[Kriegsmarine|German Navy]] as a ''[[Torpedoboot Ausland]]'' (foreign torpedo boat) with the designation '''''TA32'''''. The ship saw action shelling Allied positions on the Italian coast and laying [[naval mine]]s. In March 1945, she took part in the [[Battle of the Ligurian Sea]] against two [[Royal Navy]] destroyers, during which she was lightly damaged. She was [[scuttling|scuttled]] the following month as the Germans retreated from Genoa.
+
+==Development==
+Following the demise of the [[Austro-Hungarian Empire]] and the creation of the [[Kingdom of Yugoslavia|Kingdom of Serbs, Croats and Slovenes]] (KSCS), Austria-Hungary transferred the vessels of the former [[Austro-Hungarian Navy]] to the new nation. The [[Kingdom of Italy]] was unhappy with this, and convinced the Allies to share the Austro-Hungarian ships among the victorious powers. As a result, the only modern sea-going vessels left to the KSCS were 12 [[torpedo boat]]s,{{sfn|Chesneau|1980|p=355}} and they had to build their naval forces from scratch.{{sfn|Novak|2004|p=234}} During the 1920s, many navies were pursuing the [[flotilla leader]] concept, building large [[destroyer]]s similar to the [[World War I]] [[Royal Navy]] [[V and W-class destroyer]]s.{{sfn|Freivogel|2014|p=83}} In the [[interwar period|interwar]] [[French Navy]], these ships were known as ''contre-torpilleurs'', and were intended to operate with smaller destroyers, or as half-flotillas of three ships. The idea was that such a half-flotilla could defeat an Italian [[light cruiser]] of the [[Condottieri-class cruiser|Condottieri class]].{{sfn|Freivogel|2014|pp=83–84}} The [[Royal Yugoslav Navy|Navy of the KSCS]] decided to build three such flotilla leaders, ships that would have the ability to reach high speeds and with a long endurance. The long endurance requirement reflected Yugoslav plans to deploy the ships into the central [[Mediterranean]], where they would be able to operate alongside French and British warships.{{sfn|Freivogel|2014|p=84}}
+
+At the time the decision was made, French shipyards were heavily committed to producing vessels for the French Navy. So, despite its intention to develop a French concept, the KSCS engaged [[Yarrow Shipbuilders]] in [[Glasgow]], Scotland, to build the ships. Unlike the French, who preferred to install guns of their own manufacture, Yarrow was happy to order the guns from the [[Czechoslovakia|Czechoslovak]] firm [[Škoda Works|Škoda]]. The initial Yarrow design was based on an expanded version of the British [[Thornycroft type destroyer leader|''Shakespeare''-class]], with five [[Skoda 14 cm/56 naval gun]]s. Excessive top weight resulted in the deletion of one of the guns, to be replaced with a [[seaplane]] mounting. The final version replaced the seaplane mounting with improved [[anti-aircraft warfare|anti-aircraft]] armament. The intention to build three flotilla leaders was demonstrated by the fact that Yarrow ordered a total of 12 Škoda {{convert|140|mm|in|abbr=on}} guns, four per ship.{{sfn|Freivogel|2014|p=84}} In the late summer of 1929, the KSCS (which became the Kingdom of Yugoslavia on 3 October) signed a contract with Yarrow for a destroyer named ''Dubrovnik''.{{sfn|Jarman|1997|p=183}} This was the only ship built; the [[Great Depression]] prevented the construction of the rest of the planned half-flotilla.{{sfn|Freivogel|2014|p=84}}
+
+==Description and construction==
+''Dubrovnik'' was similar in many respects to the British destroyers being manufactured at the same time, having a square box-like [[Bridge (nautical)|bridge]], a long [[forecastle]], and a sharp raked [[stem (ship)|stem]] similar to the later [[Tribal-class destroyer (1936)|Tribal class]]. Her rounded [[stern]] was adapted for [[minelaying]].{{sfn|Freivogel|2014|p=84}} She had an [[overall length]] of {{convert|113.2|m|ftin|lk=in}}, with a {{convert|10.67|m|ft|sigfig=2|abbr=on}} [[beam (nautical)|beam]], a mean [[Draft (ship)|draught]] of {{convert|3.58|m|ftin|abbr=on}}, and a maximum draught of {{convert|4.1|m|ftin|abbr=on}}. Her [[displacement (ship)#Standard displacement|standard displacement]] was {{convert|1880|LT|t|lk=in}},{{sfn|Chesneau|1980|p=357}} and {{convert|2400|LT|t|0}} at full load.{{sfn|Lenton|1975|p=105}} ''Dubrovnik'' had two [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s, each driving a single propeller shaft. Steam for the turbines was provided by three [[Yarrow water-tube boiler]]s, located in separate [[boiler room (ship)|boiler room]]s,{{sfn|Freivogel|2014|p=85}} and the turbines were rated at {{convert|48000|shp|abbr=on|lk=in}}. As designed, the ship had a maximum speed of {{convert|37|kn|lk=in}}.{{sfn|Chesneau|1980|p=357}} In 1934, under ideal conditions, she achieved a maximum speed of {{convert|40.3|kn}}.{{sfn|Freivogel|2014|p=85}} A separate [[Curtis turbine]], rated at {{convert|900|shp|abbr=on|adj=on}}, was installed for cruising, with which she could achieve a range of {{convert|7000|nmi|link=in}} at {{convert|15|kn}}.{{sfn|Freivogel|2014|p=85}} She carried {{convert|470|t|LT}} of [[fuel oil]].{{sfn|Chesneau|1980|p=357}}
+
+Her main armament consisted of four Škoda {{convert|140|mm|in|abbr=on}} L/56{{refn|L/56 denotes the length of the gun. In this case, the L/56 gun is 56 [[Caliber (artillery)|calibre]], meaning that the gun was 56 times as long as the diameter of its bore.|group = lower-alpha}} [[superfiring]] guns in single mounts, two forward of the [[superstructure]] and two [[aft]]. She was also equipped with two triple Brotherhoods {{convert|533|mm|in|abbr=on|0}} [[torpedo tube]]s on her centreline.{{sfn|Whitley|1988|p=313}} For air defence, ''Dubrovnik'' had twin-mounted Škoda {{convert|83.5|mm|in|abbr=on}} L/35 guns located on the centreline between the two sets of torpedo tubes,{{sfn|Whitley|1988|p=313}} and six Škoda {{convert|40|mm|in|abbr=on}} L/67 anti-aircraft guns, arranged in two twin mounts and two single mounts.{{sfn|Freivogel|2014|pp=84–85}} The twin mounts were located between the two funnels, with the single mounts on the main deck abreast the [[aft]] control station.  For anti-submarine work she was equipped with two [[depth charge]] throwers and two depth charge rails, and carried ten depth charges.{{sfn|Whitley|1988|p=313}} She also carried two Škoda {{convert|15|mm|in|abbr=on}} [[machine guns]] and 40 mines. Her crew comprised 20 officers and 220 [[Naval rating|ratings]]. She was [[Keel laying|laid down]] on 10 June 1930 and [[Ceremonial ship launching|launched]] on 11 October 1931.{{sfn|Freivogel|2014|pp=84–85}}
+
+==Service history==
+
+===''Dubrovnik''===
+[[File:Alexander I. Karađorđević in Split.JPG|thumb|250px|King Alexander on board ''Dubrovnik'' in October 1934 before his voyage to France.]]
+''Dubrovnik'' was completed at the Yarrow shipyards in Glasgow in 1932, at which time her main guns and light anti-aircraft guns had been installed. After sailing to the [[Bay of Kotor]] in the southern [[Adriatic Sea|Adriatic]], she was fitted with her heavy anti-aircraft guns.{{sfn|Freivogel|2014|p=85}} She was commissioned with the Royal Yugoslav Navy in May 1932.{{sfn|Whitley|1988|p=313}} Her [[commanding officer|captain]] was Armin Pavić.{{sfn|Freivogel|2014|p=85}} In late September 1933, the ship left the Bay of Kotor and sailed through the [[Turkish Straits]] to [[Constanța]] on the [[Black Sea]] coast of [[Kingdom of Bulgaria|Bulgaria]], where she embarked [[Alexander I of Yugoslavia|King Alexander]] and [[Maria of Yugoslavia|Queen Maria]] of Yugoslavia. She then visited [[Balchik|Balcic]] in [[Kingdom of Romania|Romania]] and [[Varna]] in Bulgaria, before returning via [[Istanbul]] and the Greek island of [[Corfu]] in the [[Ionian Sea]], arriving back at the Bay of Kotor on 8 October.{{sfn|Jarman|1997|p=453}} On 6 October 1934, King Alexander left the Bay of Kotor on board ''Dubrovnik'' for a state visit to France, arriving in [[Marseille]] on 9 October. He was killed that same day by a [[Bulgarians|Bulgarian]] assassin, and ''Dubrovnik'' conveyed his body back to Yugoslavia, escorted by French, Italian{{sfn|Freivogel|2014|p=86}} and British ships.{{sfn|Nielsen|2014|p=239}} Soon after, Vladimir Šaškijević replaced Pavić as captain.{{sfn|Freivogel|2014|p=86}} In August 1935, ''Dubrovnik'' visited Corfu and [[Bizerte]] in the [[French protectorate of Tunisia]].{{sfn|Jarman|1997|p=641}} In August 1937, ''Dubrovnik'' visited Istanbul and the Greek ports of [[Moudros|Mudros]] in the northern [[Aegean Sea]] and [[Piraeus]] near [[Athens]].{{sfn|Jarman|1997|p=838}}
+
+In April 1941, Yugoslavia entered [[World War II]] when it was [[Invasion of Yugoslavia|invaded]] by the [[Nazi Germany|German]]-led [[Axis powers]]. At the time, ''Dubrovnik'' was still under the command of Šaškijević and was assigned as the [[flagship]] of the 1st Torpedo Division, along with the three smaller [[Beograd-class destroyer|''Beograd''-class destroyers]], {{ship|Yugoslav destroyer|Beograd||2}}, {{ship|Yugoslav destroyer|Ljubljana||2}} and {{ship|Yugoslav destroyer|Zagreb||2}}.{{sfn|Freivogel|2014|p=86}}
+
+===''Premuda''===
+The Italians captured ''Dubrovnik'' in the Bay of Kotor on 17 April 1941; she had been damaged by Yugoslav civilians prior to her seizure. ''Dubrovnik'' was sailed to [[Taranto]] in [[southern Italy]] on 21 May, where she underwent repairs and a refit. She was renamed ''[[Premuda]]'', after the [[Dalmatia]]n island near which an Italian [[MAS (boat)|motor torpedo boat]] had sunk the Austro-Hungarian [[dreadnought]] {{SMS|Szent István||2}} in June 1918. Her aft deckhouse and emergency bridge were removed and replaced with an anti-aircraft platform, and her [[Mast (sailing)|mainmast]] and [[Funnel (ship)|funnels]] were shortened. Her twin Škoda {{convert|83.5|mm|in|abbr=on}} /L55 anti-aircraft guns were replaced by a {{convert|120|mm|abbr=on}} /L15 [[howitzer]] firing [[star shell]]s for illumination, while the six Škoda {{convert|40|mm|in|abbr=on}}/L67 anti-aircraft guns were replaced by four [[Breda Model 35]] {{convert|20|mm|abbr=on}} /L65 machine guns in single mounts,{{sfn|Freivogel|2014|p=86}} space for the latter being made available by removing her searchlights. A new [[Director (military)|director]] was also fitted to her [[Bridge (nautical)|bridge]].{{sfn|Whitley|1988|p=186}} Later in her Italian service, the {{convert|120|mm|abbr=on}} howitzer was replaced by a twin Breda [[Cannone-Mitragliera da 37/54 (Breda)|{{convert|37|mm|abbr=on}} /L54]] anti-aircraft gun mount.{{sfn|Freivogel|2014|p=86}} In Italian service, her crew consisted of 13 officers and 191 enlisted ranks.{{sfn|Freivogel|2014|p=85}}
+
+''Premuda'' was commissioned in the [[Regia Marina|Italian Navy]] ({{lang-it|Regia Marina}}) in February 1942.{{sfn|Freivogel|2014|p=86}} Later that month she rescued British [[Prisoner of war|prisoners of war]] who survived the sinking of the {{SS|Ariosto}}, an Italian ship ferrying them from [[Tripoli]] to [[Sicily]].{{sfn|Birmingham Post|14 May 2003}} In early June, the [[Italian submarine Alagi]] fired on ''Premuda'', mistaking her for a British destroyer due to her similarities with a British [[G and H-class destroyer|H-class destroyer]]. The attack missed ''Premuda'' and struck the [[Navigatori-class destroyer|''Navigatori''-class destroyer]] {{ship|Italian destroyer|Antoniotto Usodimare||2}}, sinking her.{{sfn|Sadkovich|1994|p=252}} During 12–16 June 1942, ''Premuda'' took part in operations against the [[Allies of World War II|Allied]] [[Operation Harpoon (1942)|Operation Harpoon]] convoy attempting to reach the beleaguered island of Malta from [[Gibraltar]]. As part of the 10th Destroyer Flotilla, ''Premuda'' supported the Italian 7th Cruiser Squadron, comprising the light cruisers {{ship|Italian cruiser|Eugenio di Savoia||2}} and {{ship|Italian cruiser|Raimondo Montecuccoli||2}}. The force that attacked the Operation Harpoon convoy included most of the fighting power of the Italian Navy, including two battleships and two [[heavy cruiser]]s. The Allied naval escort lost one cruiser, three destroyers and several merchant ships to a combination of air attacks, submarines and naval mines. One Italian battleship was damaged, and the [[Trento-class cruiser]] {{ship|Italian cruiser|Trento||2}} was sunk. One of the other damaged Italian ships was the ''Navigatori''-class destroyer {{ship|Italian destroyer|Ugolino Vivaldi||2}}, and ''Premuda'' was tasked to tow her to safety in the harbour of [[Pantelleria]], an island in the [[Strait of Sicily]], under escort from the destroyer {{ship|Italian destroyer|Lanzerotto Malocello||2}}.{{sfn|Freivogel|2014|p=86}}
+
+On 6–7 January 1943, ''Premuda'' and 13 other Italian destroyers transported troops to the Axis-held port of [[Tunis]] in [[North Africa]],{{sfn|Freivogel|2014|p=86}} completing two more such missions between 9 February and 22 March.{{sfn|Rohwer|Hümmelchen|1992|p=193}} On 17 July, she developed serious engine problems in the [[Ligurian Sea]] near [[La Spezia]],{{sfn|Freivogel|2014|p=87}} and was brought to [[Genoa]] for a major boiler and engine overhaul.{{sfn|Brescia|2012|p=134}} It was decided to rebuild her along the lines of the ''Navigatori''-class, including a wider beam to improve her stability. As shells for her Škoda-built main guns were in short supply, the decision was made to replace them with Italian-made {{convert|135|mm|abbr=on}} /L45 guns in single mounts.{{sfn|Freivogel|2014|p=87}} The rebuild was also to have included augmented 37&amp;nbsp;mm and 20&amp;nbsp;mm armament, probably using space made available by removing her aft torpedo tubes.{{sfn|Whitley|1988|p=186}} The rebuild had not been completed when [[Armistice of Cassibile|Italy surrendered]] to the Allies, and ''Premuda'' was seized by Germany at Genoa on 8 or 9 September 1943.{{sfn|Whitley|1988|p=186}}{{sfn|Freivogel|2014|p=87}} ''Premuda'' was the most important and effective Italian [[Prize (law)|war prize]] ship of World War II.{{sfn|Brescia|2012|p=134}}
+
+===''TA32''===
+When she was captured by the Germans, ''Premuda'''s new guns had not been completed. Their initial plans called for the ship to serve as a [[radar picket]] for [[night fighter]]s, with three [[10.5 cm SK L/45 naval gun|{{convert|105|mm|abbr=on}}]] /L45 anti-aircraft guns in single mounts, [[Freya radar|Freya]] [[early-warning radar]], [[Würzburg radar|Würzburg]] [[gun-laying]] [[radar]] and a FuMO 21 surface [[fire-control system]]. These plans were soon abandoned due to the German lack of destroyers and torpedo boats in the Mediterranean, and the decision was made to commission her as a ''[[Torpedoboot Ausland]]'' (foreign torpedo boat) with a [[Seetakt radar|DeTe]] radar instead of the Freya and Würzburg radar sets.{{sfn|Freivogel|2014|p=87}}{{sfn|Brescia|2012|p=134}} Her armament was replaced with four {{convert|105|mm|abbr=on}} /L45 naval guns, eight [[3.7 cm Flak 18/36/37/43|{{convert|37|mm|abbr=on}}]] anti-aircraft guns and between thirty-two and thirty-six [[2 cm Flak 30/38/Flakvierling|{{convert|20|mm|abbr=on}}]] anti-aircraft guns in quadruple and twin mounts. The number of torpedo tubes was reduced from six to three. The number of {{convert|37|mm|abbr=on}} anti-aircraft guns was later increased to ten, in four twin and two single mounts.{{sfn|Freivogel|2014|p=87}} In German service, she had a total crew of 220 officers and men.{{sfn|Freivogel|2014|p=85}}
+[[File:HMS Meteor (G74).jpg|thumb|HMS ''Meteor'' (pictured) and HMS ''Lookout'' outgunned ''TA32'' and her companions during the Battle of the Ligurian Sea in March 1945.|alt=a black and white photograph of a warship at sea]]
+She was commissioned in the [[Kriegsmarine|German Navy]] ({{lang-de|Kriegsmarine}}) on 18 August 1944, as ''TA32'', under the command of ''[[Kapitänleutnant]]'' Emil Kopka. She served in the Ligurian Sea with the 10th Torpedo Boat Flotilla, and was immediately committed to shelling Allied positions on the Italian coast, then scouting and minelaying tasks in the western [[Gulf of Genoa]].{{sfn|Freivogel|2014|p=87}} On 2 October 1944, ''TA32'', along with {{ship|German torpedo boat|TA24||2}} and {{ship|German torpedo boat|TA29||2}}, sailed towards [[Sanremo]] to lay mines, where they encountered the destroyer {{ship|USS|Gleaves|DD-423|6}}. After exchanging fire, the three ships returned to Genoa without being hit.{{sfn|O'Hara|2013|p=250}} By mid-March 1945, ''TA32'', ''TA24'' and ''TA29'' were the only ships of the 10th Torpedo Boat Flotilla that remained operational.{{sfn|Freivogel|2014|p=87}} On the night of 17–18 March 1945, ''TA32'' placed 76 naval mines off [[Cap Corse]], the northern tip of [[Corsica]], in an offensive minelaying operation, along with ''TA24'' and ''TA29''.{{sfn|O'Hara|2011|pp=245–246}} After being detected by a shore based radar,{{sfn|Tomblin|2004|p=462}} the ships were engaged by the destroyers {{ship|HMS|Lookout|G32|6}} and {{ship|HMS|Meteor|G73|6}}, in what would become known as the [[Battle of the Ligurian Sea]].{{sfn|O'Hara|2011|pp=245–246}} Outgunned, ''TA24'' and ''TA29'' were sunk, while ''TA32'' managed to escape with light damage to her rudder,{{sfn|Freivogel|2014|p=87}} after firing a few rounds and making an unsuccessful torpedo attack.{{sfn|O'Hara|2011|pp=245–246}} ''TA32'' was finally [[Scuttling|scuttled]] at Genoa on 24 April 1945, as the Germans retreated.{{sfn|Freivogel|2014|p=87}} Her wreck was raised and [[Ship breaking|broken up]] in 1950.{{sfn|Brescia|2012|p=134}}
+
+==See also==
+*[[List of ships of the Royal Yugoslav Navy]]
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==Footnotes==
+{{reflist|20em}}
+
+==References==
+
+===Books===
+{{refbegin}}
+* {{cite book
+  | last = Brescia
+  | first = Maurizio
+  | year = 2012
+  | title = Mussolini's Navy: A Reference Guide to the Regia Marina 1930–45
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-59114-544-8
+  | ref = harv
+  }}
+* {{cite book
+  | editor-last = Chesneau
+  | editor-first = Roger
+  | year = 1980
+  | title = Conway's All the World's Fighting Ships, 1922–1946
+  | publisher = Conway Maritime Press
+  | location = London, England
+  | isbn = 978-0-85177-146-5
+  | ref = harv
+  }}
+* {{cite book
+  | editor-last = Jarman
+  | editor-first = Robert L.
+  | year = 1997
+  | title = Yugoslavia Political Diaries 1918–1965
+  | volume = 2
+  | publisher = Archives Edition
+  | location = Slough, Berkshire
+  | isbn = 978-1-85207-950-5
+  | ref = harv
+  }}
+* {{cite book
+  | last = Lenton
+  | first = Henry Trevor
+  | title = German Warships of the Second World War
+  | url = https://books.google.com/books?id=a3osAAAAYAAJ
+  | year = 1975
+  | publisher = Macdonald and Jane's
+  | location = London, England
+  | isbn = 978-0-356-04661-7
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Novak
+  | first1 = Grga
+  | year = 2004
+  | title = Jadransko more u sukobima i borbama kroz stoljeća
+  | trans_title = The Adriatic Sea in Conflicts and Battles Through the Centuries
+  | language = Croatian
+  | volume = 2
+  | publisher = Marjan tisak
+  | location = Split, Croatia
+  | isbn = 978-953-214-222-8
+  | ref = harv
+  }}
+* {{cite book
+  | last = O'Hara
+  | first = Vincent P.
+  | year = 2011
+  | title = The German Fleet at War, 1939–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-61251-397-3
+  | url = https://books.google.com.au/books?id=GkbXBZttEsUC
+  | ref = harv
+  }}
+* {{cite book
+  | last = O'Hara
+  | first = Vincent P.
+  | year = 2013
+  | title = Struggle for the Middle Sea: The Great Navies at War in the Mediterranean Theater, 1940–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-61251-408-6
+  | url = https://books.google.com.au/books?id=exOT4ONB-OUC
+  | ref = harv
+  }}
+* {{cite book
+  | last = Nielsen
+  | first = Christian Axboe
+  | year = 2014
+  | title = Making Yugoslavs: Identity in King Aleksandar's Yugoslavia
+  | publisher = University of Toronto Press
+  | location = Toronto, Ontario
+  | isbn = 978-1-4426-2750-5
+  | url = https://books.google.ca/books?id=ksAeBQAAQBAJ
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Rohwer
+  | first1 = Jürgen
+  | authorlink = Jürgen Rohwer
+  | last2 = Hümmelchen
+  | first2 = Gerhard
+  | title = Chronology of the War at Sea 1939–1945: The Naval History of World War Two
+  | url = https://books.google.com/books?id=l6za1mEmQE4C
+  | year = 1992
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-1-55750-105-9
+  | ref = harv
+  }}
+* {{cite book
+  | last = Sadkovich
+  | first = James J.
+  | year = 1994
+  | title = The Italian Navy in World War II
+  | publisher = Greenwood Press
+  | location = Westport, Connecticut
+  | subscription = yes
+  | via = [[Questia]]
+  | isbn = 978-0-313-28797-8
+  | ref = harv
+  }}
+* {{cite book
+  | last1 = Tomblin
+  | first1 = Barbara Brooks
+  | year = 2004
+  | title = With Utmost Spirit: Allied Naval Operations in the Mediterranean, 1942–1945
+  | publisher = University Press of Kentucky
+  | location = Lexington, Kentucky
+  | isbn = 978-0-8131-3768-1
+  | url = https://books.google.com.au/books?id=XDqBUqnrFLYC
+  | ref = harv
+  }}
+* {{cite book
+  | last = Whitley
+  | first = M. J.
+  | title = Destroyers of World War Two: An International Encyclopedia
+  | url = https://books.google.com/books?id=u4XfAAAAMAAJ
+  | year = 1988
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-326-7
+  | ref = harv
+  }}
+{{refend}}
+
+===Periodicals===
+{{refbegin}}
+*{{cite journal
+  | last = Freivogel
+  | first = Zvonimir
+  | year = 2014
+  | title = From Glasgow to Genoa under Three Flags – The Yugoslav Flotilla Leader Dubrovnik
+  | url = http://ejournal6.com/journals_n/1404051978.pdf
+  | journal = Voennyi Sbornik
+  | publisher = Academic Publishing House Researcher
+  | volume = 4
+  | issue = 2
+  | pages = 83–88
+  | doi=
+  | accessdate = 25 October 2014
+  | ref = harv
+  }}
+* {{cite news
+  | author = Birmingham Post
+  | title = PoW Survivors Re-Live Sinking by Submarine
+  | newspaper = [[Birmingham Post]]
+  | publisher = Trinity
+  | location = Birmingham, England
+  | date = 14 May 2003
+  | subscription = yes
+  | via = [[Questia]]
+  | ref = {{harvid|Birmingham Post|14 May 2003}}
+  }}
+{{refend}}
+
+{{April 1945 shipwrecks}}
+
+{{DEFAULTSORT:Dubrovnik}}
+[[Category:1931 ships]]
+[[Category:Clyde-built ships]]
+[[Category:Destroyers of the Kriegsmarine|TA032]]
+[[Category:Destroyers of the Regia Marina|Premuda]]
+[[Category:Destroyers of the Royal Yugoslav Navy]]
+[[Category:History of Dubrovnik]]
+[[Category:Naval ships of Italy captured by Germany during World War II]]
+[[Category:Naval ships of Yugoslavia captured by Italy during World War II]]
+[[Category:Scuttled vessels]]
+[[Category:World War II destroyers of Germany]]
+[[Category:World War II destroyers of Italy]]
+[[Category:World War II destroyers of Yugoslavia]]
+[[Category:Maritime incidents in April 1945]]</text>
+      <sha1>42tdmpuhi463b460yd1ahfm5xcgbsic</sha1>
+    </revision>
+  </page>
+</mediawiki>

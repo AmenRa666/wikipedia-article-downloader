@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Garnet Malley</title>
+    <ns>1</ns>
+    <id>24715060</id>
+    <revision>
+      <id>721160928</id>
+      <parentid>697094760</parentid>
+      <timestamp>2016-05-20T03:16:27Z</timestamp>
+      <contributor>
+        <username>Adamdaley</username>
+        <id>2669838</id>
+      </contributor>
+      <minor/>
+      <comment>Cleanup.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2079">{{talkheader}}
+{{Article history
+|action1=GAN
+|action1date=04:49, 25 March 2014 (UTC)
+|action1link=Talk:Garnet Malley/GA1
+|action1result=listed
+|action1oldid=601149368
+|dykdate=3 April 2014 
+|dykentry=... that Australian World War I [[Flying ace|fighter ace]] '''[[Garnet Malley]]''' ''(pictured)'' served as an aviation adviser to [[Chiang Kai-shek]]'s government in China during the 1930s?
+|currentstatus = FA
+|topic=war
+
+|action2=WAR
+|action2date=06:21, 18 August 2014 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/Garnet Malley
+|action2result=approved
+|action2oldid=620092639
+
+|action3=FAC
+|action3date=2014-11-27
+|action3link=Wikipedia:Featured article candidates/Garnet Malley/archive1
+|action3result=promoted
+|action3oldid=632525007
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Aviation|class=FA|Biography=y}}
+{{WikiProject Biography|living=n|class=FA|listas=Malley, Garnet|military-work-group=y|military-priority=Mid}}
+{{WikiProject Military history|A-Class=pass|class=FA|Aviation=y|Biography=y|ANZSP=y|WWI=y|WWII=y}}
+{{WikiProject Australia|class=FA|importance=Mid|military=y|military-importance=Mid}}
+}}
+{{Australian English}}
+
+== A-Class=FA? ==
+Looking at the Wikipedia code, shouldn't &quot;A-Class&quot; be a &quot;pass&quot;? See the code here:
+&lt;nowiki&gt;{{WikiProject Military history|A-class==pass|class=FA|Aviation=y|Biography=y|ANZSP=y|WWI=y|WWII=y}}&lt;/nowiki&gt; [[User:Adamdaley|Adamdaley]] ([[User talk:Adamdaley|talk]]) 01:31, 5 January 2015 (UTC)
+:Interesting! Now you mention it I notice the same thing on [[Talk:No. 1 Squadron RAAF]], my previous successful FAC.  I assume FACBot does it... [[User:Hawkeye7|Hawkeye]], when you have a sec?  Doesn't actually seem to do any harm on this page, just looks a bit odd when you see it... cheers, [[User:Ian Rose|Ian Rose]] ([[User talk:Ian Rose|talk]]) 01:50, 5 January 2015 (UTC)
+::It's a bug. I'll fix it next week. [[User:Hawkeye7|Hawkeye7]] ([[User talk:Hawkeye7|talk]]) 01:52, 5 January 2015 (UTC)
+:::It has been corrected. [[User:Hawkeye7|Hawkeye7]] ([[User talk:Hawkeye7|talk]]) 22:42, 17 January 2015 (UTC)</text>
+      <sha1>85y05n6r1d0f9gtzworp2al7fv2vt1t</sha1>
+    </revision>
+  </page>
+</mediawiki>

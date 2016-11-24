@@ -1,0 +1,415 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-331</title>
+    <ns>0</ns>
+    <id>7983029</id>
+    <revision>
+      <id>749080357</id>
+      <parentid>748811044</parentid>
+      <timestamp>2016-11-12T07:37:58Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16272">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''U-331''
+|Ship ordered=23 September 1939
+|Ship builder=[[Nordseewerke]], [[Emden]]
+|Ship yard number=203
+|Ship laid down=26 January 1940
+|Ship launched=20 December 1940
+|Ship commissioned=31 March 1941
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sunk, 17 November 1942
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[German Type VII submarine#Type VIIC|Type VIIC]] [[submarine]]
+|Ship displacement=
+*{{convert|769|t|LT|0}} surfaced
+*{{convert|871|t|LT|0|abbr=on}} submerged
+|Ship length=
+*{{convert|67.10|m|ftin|abbr=on}} [[o/a]]
+*{{convert|50.50|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam=
+*{{convert|6.20|m|ftin|abbr=on}} o/a
+*{{convert|4.70|m|ftin|abbr=on}} pressure hull
+|Ship height={{convert|9.60|m|ftin|abbr=on}}
+|Ship draught={{convert|4.74|m|ftin|abbr=on}}
+|Ship power=
+*{{convert|2800|–|3200|PS|kW bhp|abbr=on}} (diesels)
+*{{convert|750|PS|kW shp|abbr=on}} (electric)
+|Ship propulsion=
+*2 shafts
+*2 × [[diesel engine]]s
+*2 × [[Motor-generator|electric motors]]
+|Ship speed=
+*{{convert|17.7|kn}} surfaced
+*{{convert|7.6|kn}} submerged
+|Ship range=
+*{{convert|8,500|nmi|abbr=on|lk=on}} at {{convert|10|kn}} surfaced
+*{{convert|80|nmi|abbr=on}} at {{convert|4|kn}} submerged
+|Ship test depth=
+*{{convert|230|m|ft|abbr=on}}
+*[[Crush depth]]: {{convert|250|–|295|m|ft|abbr=on}}
+|Ship complement=4 officers, 40–56 enlisted
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*4 × {{convert|53.3|cm|in|0|abbr=on}} bow [[torpedo tube]]s
+*14 × [[torpedo]]es ''or'' 26 TMA mines
+*1 × [[8.8 cm SK C/35 naval gun|{{convert|8.8|cm|in|2|abbr=on}} deck gun]] (220 rounds)
+*various AA guns
+|Ship notes=
+}}
+{{Service record
+|is_ship=yes
+|label=Service record&lt;ref name=&quot;uboatnet&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/u331.html
+ |title=The Type VIIC boat U-331
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;&lt;ref name=&quot;patrols&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/u331.html
+ |title=War Patrols by German U-boat U-331
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+|partof=
+*[[1st U-boat Flotilla]]
+*31 March – 14 October 1941
+*[[23rd U-boat Flotilla]]
+*15 October 1941 – 14 April 1942
+*[[29th U-boat Flotilla]]
+*15 April – 17 November 1942
+|codes=
+|commanders=
+*''[[Kptlt.]]'' [[Hans-Diedrich von Tiesenhausen]]
+*31 March 1941 – 17 November 1942
+|operations=
+*1st patrol: 2 July – 19 August 1941
+*2nd patrol: 24 September – 11 October 1941
+*3rd patrol: 12 November – 3 December 1941
+*4th patrol: 14 January – 28 February 1942
+*5th patrol: 4–19 April 1942
+*6th patrol: 9–21 May 1942
+*7th patrol: 25 May – 15 June 1942
+*8th patrol: 5–10 August 1942
+*9th patrol: 12 August – 19 September 1942
+*10th patrol: 7–17 November 1942
+|victories=
+*1 auxiliary warship sunk ({{GRT|9,135}})
+*1 warship sunk ({{GRT|31,100}})
+*1 warship damaged (372 tons)
+}}
+|}
+
+'''German submarine ''U-331''''' was a [[German Type VII submarine#Type VIIC|Type VIIC]] [[U-boat]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'' during [[World War II]].
+
+The submarine was [[Keel laying|laid down]] on 26 January 1940 at the [[Nordseewerke]] yard at [[Emden]], [[Ceremonial ship launching|launched]] on 20 December 1940, and [[Ship commissioning|commissioned]] on 31 March 1941 under the command of ''[[Oberleutnant zur See]] '' [[Hans-Diedrich von Tiesenhausen|Hans-Diedrich Freiherr von Tiesenhausen]]. She was tracked by the RAF and crippled before being destroyed by the Royal Navy [[Fleet Air Arm]] in late 1942 with the loss of most of her crew.
+
+==Design==
+[[German Type VII submarine#Type VIIC|German Type VIIC submarines]] were preceded by the shorter [[German Type VII submarine#Type VIIB|Type VIIB submarines]]. ''U-331'' had a displacement of {{convert|769|t|LT}} when at the surface and {{convert|871|t|LT}} while submerged.{{sfn|Gröner|1991|pp=43-46}} She had a total length of {{convert|67.10|m|ftin|abbr=on}}, a [[pressure hull]] length of {{convert|50.50|m|ftin|abbr=on}}, a [[beam (nautical)|beam]] of {{convert|6.20|m|ftin|abbr=on}}, a height of {{convert|9.60|m|ftin|abbr=on}}, and a [[draught (ship)|draught]] of {{convert|4.74|m|ftin|abbr=on}}. The submarine was powered by two [[Germaniawerft]] F46 four-stroke, six-cylinder [[supercharged]] [[diesel engine]]s producing a total of {{convert|2800 to 3200|PS|kW shp|-1}} for use while surfaced, two [[AEG]] GU 460/8–27 [[Motor–generator|double-acting electric motors]] producing a total of {{convert|750|PS|kW shp}} for use while submerged. She had two shafts and two {{convert|1.23|m|ft|abbr=on|0}} [[propeller]]s. The boat was capable of operating at depths of up to {{convert|230|m}}.{{sfn|Gröner|1991|pp=43-46}}
+
+The submarine had a maximum surface speed of {{convert|17.7|kn}} and a maximum submerged speed of {{convert|7.6|kn}}.{{sfn|Gröner|1991|pp=43-46}} When submerged, the boat could operate for {{convert|80|nmi}} at {{convert|4|kn}}; when surfaced, she could travel {{convert|8500|nmi}} at {{convert|10|kn}}. ''U-331'' was fitted with five {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s (four fitted at the bow and one at the stern), fourteen [[torpedo]]es, one [[8.8 cm SK C/35 naval gun|{{convert|8.8|cm|in|2|abbr=on}} SK C/35 naval gun]], 220 rounds, and an anti-aircraft gun. The boat had a [[Ship's company|complement]] of between forty-four and sixty.{{sfn|Gröner|1991|pp=43-46}}
+
+==Service history==
+
+===1st patrol===
+''U-331''{{'}}s first patrol took her from [[Kiel]] in Germany on 2 July 1941, out into the mid-Atlantic, before arriving at [[Lorient]] in [[France]] on 19 August.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4930.html
+ |title=Patrol of U-boat U-331 from 2 Jul 1941 to 19 Aug 1941
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+===2nd patrol===
+She sailed from Lorient on 24 September and headed into the [[Mediterranean Sea]]. There on 10 October she engaged three British [[Landing Ship, Tank|tank landing craft]] off [[Sidi Barrani]], [[Egypt]]. After missing with a torpedo, she engaged with her [[deck gun]], slightly damaging HMS ''TLC-18'' (A 18), before breaking off the attack after being hit by [[Bofors 40 mm|40 mm shells]], which wounded two men (one fatally) and damaged the conning tower. She arrived at [[Salamis Island|Salamis]], [[Greece]], the next day, 11 October.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4931.html
+ |title=Patrol of U-boat U-331 from 24 Sep 1941 to 11 Oct 1941
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+===3rd patrol===
+[[File:HMS Barham explodes.jpg|thumb|left|HMS ''Barham''{{'}}s main magazines explode, 25 November 1941]] Sailing from Salamis on 12 November 1941, ''U-331'' returned to the Egyptian coast. On 17 November she landed seven men of the ''[[Brandenburgers|Lehrregiment Brandenburg]]''&lt;ref&gt;{{cite web |url=http://www.uboatarchive.net/U-331INT.htm |title=Report on the interrogation of survivors from ''U-331'' |website=www.uboatarchive.net |accessdate=2010-01-12}}&lt;/ref&gt; east of [[Ras Gibeisa]], on a mission to blow up a railway line near the coast, which failed.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4932.html
+ |title=Patrol of U-boat U-331 from 12 Nov 1941 to 3 Dec 1941
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt; On 25 November 1941, north of Sidi Barrani, ''U-331'' fired three torpedoes into the British {{sclass-|Queen Elizabeth|battleship|2}} {{HMS|Barham|04|6}}. As the ship rolled over, her magazines exploded and she quickly sank&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/1206.html
+ |title=HMS Barham (04) (Battleship)
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt; with the loss of 861 men, while 395 were rescued.&lt;ref&gt;{{cite web |url=http://www.webatomics.com/jason/barhamconspiracy.html |title=The Barham Conspiracy|author=Jason Stevenson |publisher=www.webatomics.com |accessdate=2010-01-11 }}&lt;/ref&gt; ''U-331'' returned to Salamis on 3 December, where her commander, Freiherr Hans-Diedrich von Tiesenhausen, was subsequently promoted to ''[[Kapitänleutnant]]'' and awarded the [[Knight's Cross of the Iron Cross]].&lt;ref name=&quot;Tiesenhausen&quot;&gt;{{cite web
+ |url=http://uboat.net/men/tiesenhausen.htm
+ |title=Kapitänleutnant Freiherr Hans-Diedrich von Tiesenhausen
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+===4th and 5th patrol===
+''U-331'' left Salamis on 14 January 1942 for another patrol off the Egyptian coast, this time with no success, she then sailed for [[La Spezia]], [[Italy]], arriving on 28 February.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4933.html
+ |title=Patrol of U-boat U-331 from 14 Jan 1942 to 28 Feb 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+Her next patrol was the reverse of the previous one, she left La Spezia on 4 April, patrolled the enemy coast, then returned to Salamis on 19 April.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4934.html
+ |title=Patrol of U-boat U-331 from 4 Apr 1942 to 19 Apr 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+===6th to 9th patrol===
+Her next four patrols were similarly uneventful, operating from [[Messina]], [[Sicily]], and then La Spezia again, from May to September 1942, patrolling the North African coast without success.
+
+===10th patrol===
+''U-331'' departed La Spezia on her final voyage on 7 November 1942 to attack the massed ships of &quot;[[Operation Torch]]&quot;.&lt;ref name=&quot;lastpatrol&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/patrols/patrol_4939.html
+ |title=Patrol of U-boat U-331 from 7 Nov1942 to 17 Nov 1942
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt; Two days later, on 9 November, ''U-331'' sighted the American 8,600 ton [[troopship]] {{USS|Leedstown|AP-73}} off [[Algiers]]. The ''Leedstown'' had landed troops on the night of 7/8 November, and the next day had been hit by an [[aerial torpedo]] from a [[Junkers Ju 88|Ju 88]] [[torpedo bomber]] of [[Kampfgeschwader 26|III./KG 26]] destroying her steering gear and flooding the after section. ''U-331'' fired a spread of four torpedoes at the ship hitting her with two. ''Leedstown'' settled by the bow with a heavy starboard list, and was abandoned, finally sinking two hours later.&lt;ref&gt;{{cite web
+ |url=http://uboat.net/allies/merchants/ships/2398.html
+ |title=USS Leedstown (AP 73) (Troop transport)
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}&lt;/ref&gt;
+
+On 13 November ''U-331'' was attacked by an escort ship and was slightly damaged when she dived too deep and hit the sea bed.&lt;ref name=&quot;lastpatrol&quot;/&gt;
+
+====Sinking====
+''U-331'' was sunk on 17 November, north of Algiers in position {{coord|37|05|N|2|27|E|dim:400000|display=inline,title}}.&lt;ref name=&quot;uboatnet&quot;/&gt; She had been badly damaged after being attacked by a [[Lockheed Hudson]] bomber of [[No. 500 Squadron RAF]], with the forward hatch jammed open, preventing the submarine from diving, and she signalled surrender to the Hudson.&lt;ref name=&quot;Hodgson p12&quot;&gt;Hodgson 1994, p. 12.&lt;/ref&gt; The destroyer {{HMS|Wilton|L128|6}} was ordered to seize the submarine, but an airstrike by three [[Fairey Albacore]] torpedo-bombers from [[820 Naval Air Squadron]] escorted by two [[Grumman Martlet]] fighters of [[893 Naval Air Squadron]] was launched from the British [[aircraft carrier]] {{HMS|Formidable|67|6}} against the damaged submarine.&lt;ref name=&quot;Hodgson p12&quot;/&gt; Unaware of any surrender signals, the Martlets strafed ''U-331'' which was then sunk by a torpedo dropped from one of the Albacores.&lt;ref name=&quot;Hodgson p13-4&quot;&gt;Hodgson 1994, pp. 13–14.&lt;/ref&gt; Of her crew 32 were killed and 17 survived, including her commander.&lt;ref name=&quot;Hodgson p13&quot;&gt;Hodgson 1994, p. 13.&lt;/ref&gt;
+
+===Wolfpacks===
+''U-331'' took part in one [[Wolfpack (naval tactic)|wolfpack]], namely.
+* Goeben (24–30 September 1941)
+
+==Summary of raiding history==
+{| class=&quot;wikitable&quot;
+|-
+! Date
+! Name
+! Nationality
+! Tonnage&lt;ref group=Note name=tonnage&gt;Merchant ship tonnages are in [[gross register tons]]. Military vessels are listed by tons [[displacement (ship)|displacement]].&lt;/ref&gt;
+! Fate
+|-
+|align=&quot;right&quot;|10 October 1941
+|align=&quot;left&quot; |[[List of shipwrecks in October 1941#10 October|HMS ''TLC-18'']]
+|align=&quot;left&quot; |{{navy|United Kingdom}}
+|align=&quot;right&quot;|372
+|align=&quot;left&quot; |Damaged
+|-    
+|align=&quot;right&quot;|25 November 1941
+|align=&quot;left&quot; |{{HMS|Barham|04|6}}
+|align=&quot;left&quot; |{{navy|United Kingdom}}
+|align=&quot;right&quot;|31,100
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|9 November 1942
+|align=&quot;left&quot; |{{USS|Leedstown|AP-73|6}}
+|align=&quot;left&quot; |{{navy|United States|1912}}
+|align=&quot;right&quot;|9,135
+|align=&quot;left&quot; |Sunk
+|}
+
+==See also==
+* [[Mediterranean U-boat Campaign (World War II)]]
+
+==References==
+
+===Notes===
+{{Reflist|group=Note}}
+
+===Citations===
+{{reflist}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+|ref=harv
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+* Hodgson, Bill. &quot;The Sinking of U-331&quot;. ''[[Aeroplane Monthly]]'', March 1994, Vol 22 No 3. pp.&amp;nbsp;11–14.
+
+{{Refend}}
+
+==External links==
+*{{Cite web
+ |url=http://uboat.net/boats/u331.html
+ |title=The Type VIIC boat U-331
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=26 December 2014
+}}
+*{{cite web
+ |url=http://uboat.net/gallery/index.html?gallery=BarhamA
+ |title=uboat.net - The Sinking of HMS ''Barham'' (photo gallery) 
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=2010-01-11
+}}
+*{{cite web
+|url=http://www.u-boot-archiv.de/dieboote/u0331.html
+|title=''U 331''
+|last=Hofmann
+|first=Markus
+|website=Deutsche U-Boote 1935-1945 - u-boot-archiv.de
+|language=German
+|accessdate=26 December 2014
+}}
+*{{cite web
+ |url=http://www.uboatarchive.net/U-331INT.htm
+ |title=Report on the interrogation of survivors from ''U-331''
+ |website=www.uboatarchive.net
+ |accessdate=2010-01-12
+}}
+
+{{German Type VII submarines}}
+{{November 1942 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+}}
+
+{{Use dmy dates|date=February 2011}}
+
+{{DEFAULTSORT:U0331}}
+[[Category:German Type VIIC submarines]]
+[[Category:U-boats commissioned in 1941]]
+[[Category:World War II submarines of Germany]]
+[[Category:World War II shipwrecks in the Mediterranean]]
+[[Category:U-boats sunk in 1942]]
+[[Category:U-boats sunk by British aircraft]]
+[[Category:1940 ships]]
+[[Category:Ships built in Emden]]
+[[Category:Maritime incidents in November 1942]]</text>
+      <sha1>0mhihe6kvgtcgnoxwalwbt364kz3ek8</sha1>
+    </revision>
+  </page>
+</mediawiki>

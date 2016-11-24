@@ -1,0 +1,240 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Comus-class corvette</title>
+    <ns>0</ns>
+    <id>24496403</id>
+    <revision>
+      <id>709333779</id>
+      <parentid>708493628</parentid>
+      <timestamp>2016-03-10T09:46:05Z</timestamp>
+      <contributor>
+        <username>Oldnoccer</username>
+        <id>2776893</id>
+      </contributor>
+      <comment>/* Ships */  Corrected the link to expanded Humphrys, Tennant and Dykes page (they weren't renamed Humphrys, Tennant and Co until 1882)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13591">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Curacoa (1878) AWM 302169.jpeg|300px]]
+|Ship caption=HMS ''Curacoa'' at Sydney circa. 1890
+}}
+{{Infobox ship class overview
+| Name                     = ''Comus'' class
+| Builders                 = 
+| Operators                = {{navy|UK}}
+| Class before             = {{sclass-|Bacchante|corvette|4}}
+| Class after              = {{sclass-|Calypso|corvette|4}}
+| Subclasses               = 
+| Built range              = 1878 - 1881
+| In commission range      = 
+| Total ships building     = 
+| Total ships planned      = 
+| Total ships completed    = 9
+| Total ships cancelled    = 
+| Total ships active       = 
+| Total ships laid up      = 
+| Total ships lost         = 
+| Total ships retired      = 
+| Total ships scrapped     = 9
+| Total ships preserved    = 
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=
+|Ship displacement=2,380 [[long ton|ton]]s
+|Ship length={{convert|225|ft|m|0|abbr=on}}
+|Ship beam={{convert|44|ft|m|0|abbr=on}}
+|Ship draught={{convert|19|ft|m|0|abbr=on}}
+|Ship sail plan=Barque or ship rig
+|Ship power=
+|Ship propulsion=Single screw driven by compound engines of 2,590&amp;nbsp;ihp (&amp;nbsp;MW)
+|Ship speed=13.75&amp;nbsp;[[knot (unit)|kt]] (25.5&amp;nbsp;km/h) powered; 14.75&amp;nbsp;[[knot (unit)|kt]] (27.3&amp;nbsp;km/h) 
+|Ship boats=
+|Ship complement=
+|Ship armament=*(As built) ''Comus'':&lt;ref name=RW/&gt;
+* 2 × [[RML 7 inch gun|{{convert|7|inch|mm|sing=on|0}} muzzle-loading rifles]]
+* 4 × [[BL 6 inch 80 pounder gun|BL {{convert|6|inch|mm|sing=on|0}} 80-pounder gun]]s
+* 8 × [[RML 64 pounder gun|64-pounder (160 mm) muzzle-loading rifles]]
+* 2 × light guns
+* 8 × QF [[Nordenfelt gun]]s
+* 2 × torpedo carriages
+*''Curacoa'' to ''Constance'':&lt;ref name=RW/&gt;
+* 2 × [[RML 7 inch gun|7-inch muzzle-loading rifles]]
+* 12 × [[RML 64 pounder gun|64-pounder muzzle-loading rifles]]
+* 2 × light guns
+* 8 × QF [[Nordenfelt gun]]s
+* 2 × torpedo carriages
+*''Canada'' &amp; ''Cordelia'':&lt;ref name=RW&gt;Winfield (2004) p.272&lt;/ref&gt;
+* 10 × [[BL 6 inch gun Mk I - VI|BL 6-inch (152 mm) Mk II guns]]
+* 2 × light guns
+* 6-10 × QF [[Nordenfelt gun]]s
+* 2 × torpedo carriages
+|Ship armour=[[Deck (ship)|Deck]]: {{convert|1.5|in|mm|abbr=on}} over engines
+}}
+|}
+The '''''Comus'' class''' was a class of [[Royal Navy]] steam [[corvette]]s, re-classified as [[cruiser|third-class cruiser]]s in 1888.  All were built between 1878 and 1881.  The class exemplifies the transitional nature of the late [[Victorian era|Victorian]] navy.  In design, materials, armament, and propulsion the class members resemble their wooden sailing antecedents, but blended with characteristics of the all-metal mastless steam cruisers which followed.
+
+Despite their qualities they had relatively short commissions, as they soon were rendered superfluous by the &quot;flood of warships&quot; built under the [[Naval Defence Act 1889|Naval Defence Act of 1889]].  By the turn of the century all were in reserve, relegated to subsidiary duties, or being scrapped.&lt;ref&gt;Osbon (1963), p. 193.&lt;/ref&gt;
+
+==Purpose==
+Great Britain had a worldwide empire, founded upon and sustained by seaborne commerce.  To protect this trade and police its empire, Britain constructed many small and medium-sized cruisers, the latter typically armed with guns up to six inches in calibre. They were designed to serve long periods at sea, and therefore were equipped with sails.  The nine ''Comus''-class corvettes and their later derivatives — the two {{sclass-|Calypso|corvette|0}} corvettes — were ships of this type.&lt;ref&gt;Lyon (1980), pp. 35–36, 38.&lt;/ref&gt;
+
+==Design==
+Planning for six metal-hulled corvettes began in 1876.&lt;ref name = Osb194&gt;Osbon (1963), p. 194.&lt;/ref&gt;  These vessels, which became the ''Comus''-class corvettes, were designed by [[Nathaniel Barnaby]]. Among the Royal Navy’s last sailing corvettes,&lt;ref name = Arch43/&gt; they supplemented an extensive sail rig with powerful engines.  Unlike their French rivals, which built fast steamers and needed neither long range nor a full rig of sail, the Royal Navy required their cruisers to be capable of long voyages away from coaling stations.  Their ships therefore had a beamy hull to handle their sails, making them slower under steam than their French counterparts.&lt;ref name = Osb194/&gt;
+
+The British vessels were similar in appearance and layout to the older wooden and composite-hulled small cruisers they were intended to replace,&lt;ref name = Arch43&gt;Archibald (1971), p. 43.&lt;/ref&gt; albeit larger and more powerfully armed.&lt;ref name = Osb194/&gt; The vessels were among the first of the smaller cruisers to be given metal hulls,&lt;ref name = Arch43&gt;Archibald (1971), p. 43.&lt;/ref&gt; with frames of iron or steel.&lt;ref&gt;Osbon (1963), pp. 195, 196.&lt;/ref&gt;  The forefoot was a [[naval ram|ram]] forged from brass, a feature then in vogue.&lt;ref name = Osb195&gt;Osbon (1963), p. 195.&lt;/ref&gt; In common with older wooden vessels, their hulls had [[copper sheathing]] over timber beneath the waterline, but that timber simply served to separate the iron hull from the copper sheathing so as to prevent [[Galvanic corrosion|electrolytic corrosion]].&lt;ref&gt;Lyon (1980), pp. 35–36.&lt;/ref&gt;  The timber extended to the upper deck; it was in two layers from the keel to 3&amp;nbsp;ft (.9&amp;nbsp;m) above the water line, and one layer above.&lt;ref&gt;Osbon (1963), p. 196.&lt;/ref&gt;
+
+In an early case of a single builder taking responsibility for building an entire class, contracts for these first six vessels were all awarded to the John Elder &amp; Company at [[Govan]] on the [[River Clyde|Clyde]]. They were all fitted with 3-cylinder compound engines, with one high-pressure cylinder of 46 inches diameter being flanked by two low-pressure cylinders of 64 inches diameter.
+
+Two to three years later, the Admiralty ordered an additional three vessels to be built to the same design. Construction of these was awarded to the Royal Dockyards at [[Chatham Dockyard|Chatham]] and [[Portsmouth]]. This second group differed by carrying a barque rig instead of the ship rig of the first six ships.  The compound engines in the new batch were of 4-cylinder type, with two high-pressure cylinders of 36 inches diameter and two low-pressure cylinders of 64 inches diameter.
+
+[[File:Comus ILN2.JPG|thumb|left|''Comus'' when built, showing [[ship rig]]]]
+[[File:Comus class corvette diagrams Brasseys 1888.jpg|thumb|left|Diagrams of the ''Comus'' class]]
+In the ''Comus'' class, the bow above the waterline was nearly straight, in contrast to that of wooden sailing ships.  The corvettes had stern galleries, similar to older frigates, but the ports were false, and there were no [[Quarter gallery|quarter galleries]].&lt;ref name = Osb195/&gt;  Boats were carried both amidships and at the stern.&lt;ref name = Arch49&gt;Archibald (1971), p. 49 (drawing).&lt;/ref&gt;  The ships flew a [[Barque#Barque rig|barque]] or [[ship rig]] of sail on three masts, including [[studding sail]]s on fore and mainmasts.&lt;ref&gt;Harland, John H. (1985), ''Seamanship in the Age of Sail'', p. 172.  Naval Institute Press, Annapolis.  ISBN 0-87021-955-3.&lt;/ref&gt; The masts were stayed by [[Shroud (sailing)|shrouds]] which were anchored to [[chainplate]]s affixed to the inside of the [[gunwale]]s, rather than the exterior as in wooden sailing ships.  Their sailing rigs enabled them to serve in areas where coaling stations were rare, and to rely on their sails for propulsion.
+
+The vessels had two complete decks, upper and lower, with partial decks at the forecastle and poop.  The forecastle was used for the [[Head (watercraft)|heads]] and working space for the cables.  The [[poop deck]] contained cabins for the captain, first lieutenant, and navigating officer, with the double wheel sheltered under its forward end.  Between these was the open quarterdeck on which the battery was located.  Under the lower deck were spaces for water, provisions, coal, and magazines for shell and powder.  Amidships were the engine and boiler rooms.  These were covered by an armoured deck, 1.5&amp;nbsp;inches (38&amp;nbsp;mm) thick and approximately 100&amp;nbsp;ft (30&amp;nbsp;m) long. This armour was about 3&amp;nbsp;ft (90&amp;nbsp;cm) below the lower deck, and the space between could be used for additional coal bunkerage. The machinery spaces were flanked by coal bunkers, affording the machinery and magazines some protection from the sides.  The lower deck was used for berthing of the ship's company; officers aft, warrant and petty officers forward, and ratings amidships, as was traditional.  The tops of the coal bunkers, which projected above deck level, were used for seating at the mess tables.  The living spaces were well-ventilated and an improvement over prior vessels.&lt;ref&gt;Osbon (1963), pp. 195–98.&lt;/ref&gt;
+
+There were some refinements in the design among class members, and the armament in particular changed during their careers.  In 1881 an enlarged version of the design was drawn up by Barnaby, with the hull being lengthened by another 10&amp;nbsp;ft. Two ships were ordered to this later design, which became the ''Calypso'' class.  The ''Comuses'' and ''Calypsos'' were sometimes called the &quot;C class&quot; of corvettes, an informal term rather than an official designation.
+
+==Armament==
+''Comus'' was armed with two [[RML 7 inch gun|7-inch muzzle-loading rifles]], eight [[RML 64 pounder gun|64-pounder muzzle-loading rifles]] and four [[BL 6 inch 80 pounder gun|breech-loading 6-inch 80-pounder gun]]s, but the breech loaders proved unsatisfactory.&lt;ref name=RW/&gt; The rest of the class were provided with four more 64-pounders in place of the 6-inch breech loaders, except for ''Canada'' and ''Cordelia'', which exchanged all the muzzle loaders for ten of the new [[BL 6 inch gun Mk II – VI|6-inch Mk II breech loading guns]]. A selection of light guns and [[Nordenfelt gun|Nordenfelt quick-firing guns]], as well as a pair of torpedo carriages, were also carried. The large guns were in embrasures in the bulwarks of the upper deck; this was a common (and to some extent a differentiating) feature of steam corvettes, as most frigates carried their main armament one deck lower.&lt;ref&gt;Archibald (1971), pp. 39–42.&lt;/ref&gt;  The details of the main armament varied between the vessels, and during their careers, as all were rearmed after their first commissions.
+
+==Ships==
+{|class=&quot;wikitable&quot;
+!&amp;nbsp; Ship!!'''Laid down'''!!'''Builder'''!!'''Engine-builder'''!!'''Launched'''!! '''Completed''' !! '''Disposition''' !! '''Fate'''
+|-
+| {{HMS|Comus|1878|2}} 
+|  17 August 1876 ||[[Fairfield Shipbuilding and Engineering Company|John Elder]] || John Elder || 3 April 1878 ||  23 October 1879 || Struck 1902 || Sold for breaking 1904
+|-
+| {{HMS|Curacoa|1878|2}} 
+|  17 August 1876 ||John Elder||[[Humphrys, Tennant and Dykes]] || 18 April 1878 || 24 February 1880 ||Seagoing tender || Sold for breaking 1904
+|-
+| {{HMS|Champion|1878|2}} 
+| 17 August 1876 ||John Elder||John Elder|| 1 July 1878 || 7 December 1880 || Stokers' training ship|| Sold for breaking 1919
+|-
+| {{HMS|Cleopatra|1878|2}} 
+|  17 August 1876 ||John Elder ||Humphrys, Tennant and Dykes || 1 August 1878 || 24 August 1880 || Training ship; overflow hulk || Sold 1931, broken up 1933
+|-
+| {{HMS|Carysfort|1878|2}} 
+| 17 August 1876 ||John Elder || John Elder || 26 September 1878 || 15 September 1880 ||Paid off 1901 || Sold for breaking 1899
+|-
+| {{HMS|Conquest|1878|2}} 
+| 17 August 1876 ||John Elder||Humphrys, Tennant and Dykes|| 28 October 1878 || 18 April 1885 || Paid off 1894 || Sold for breaking 1899
+|-
+| {{HMS|Constance|1880|2}} 
+| 14 September 1878 ||[[Chatham Dockyard|Chatham]] ||[[John Penn (engineer)|John Penn and Son]] ||  9 June 1880||  3 October 1882|| In reserve 1889  || Sold for breaking 1899
+|-
+| {{HMS|Canada|1881|2}} 
+|  7 July 1879 ||[[HMNB Portsmouth|Portsmouth]] ||[[J. &amp; G. Rennie]] || 26 August 1881 || 1 May 1883 || In reserve 1896 || Sold for breaking ca. 1898
+|-
+| {{HMS|Cordelia|1881|2}} 
+| 17 July 1879 ||Portsmouth||J. &amp; G. Rennie||  25 October 1881 ||  25 January 1887 || Paid off 1898, stricken 1902 || Sold for breaking 1904
+|}
+
+==Notes==
+{{Reflist}}
+
+==Sources==
+* {{cite book
+  | last =Archibald
+  | first =E.H.H.
+  | author2 = Ray Woodward (ill.)
+  | title =The Metal Fighting Ship in the Royal Navy 1860-1970
+  | publisher =Arco Publishing Co
+  | year =1971
+  | location =New York
+  | isbn =0-668-02509-3 }}
+
+* {{cite book | last = Brassey | first = T.A. | title = The Naval Annual | year = 1896 | publisher = J. Griffin and Co. | location = Portsmouth | url = https://archive.org/stream/brasseysannuala00brasgoog#page/n9/mode/2up }}
+* {{Colledge}}
+* {{cite book
+  | last =Lyon
+  | first =David
+  | title =Steam, Steel and Torpedoes
+  | work = The Ship
+  | publisher =W.S. Cowell, Ltd. for HM Stationery Office
+  | year =1980
+  | location =Ipswich
+  | pages =39
+  | isbn =0-11-290318-5 }}
+
+* {{cite journal
+  | last = Osbon
+  | first = G. A.
+  | title = Passing of the steam and sail corvette:  the ''Comus'' and ''Calliope'' classes
+  | journal = [[Mariner's Mirror]]
+  | volume = 49
+  | issue = 
+  | pages = 193–208
+  | publisher = [[Society for Nautical Research]]
+  | location = London
+  | year = 1963
+  | issn = 0025-3359
+  | doi=10.1080/00253359.1963.10657732}}
+
+* {{cite book
+  | last = Paine
+  | first = Lincoln P.
+  | title = Warships of the World to 1900
+  | work = Warships of the World: An Historical Encyclopedia
+  | publisher = [[Houghton Mifflin]]
+  | location = New York 
+  | year = 2000
+  | isbn = 0-395-98414-9}}
+*{{winfield}}
+
+==External links==
+{{Commons category|Comus class corvette}}
+
+{{Comus class corvettes}}
+
+[[Category:Comus-class corvettes| ]]</text>
+      <sha1>0ebh311hrcac7qcwz1biicru1kpp3mp</sha1>
+    </revision>
+  </page>
+</mediawiki>

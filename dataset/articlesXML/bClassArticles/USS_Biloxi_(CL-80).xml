@@ -1,0 +1,292 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Biloxi (CL-80)</title>
+    <ns>0</ns>
+    <id>193377</id>
+    <revision>
+      <id>694459731</id>
+      <parentid>694453927</parentid>
+      <timestamp>2015-12-09T11:34:06Z</timestamp>
+      <contributor>
+        <username>Pennsy22</username>
+        <id>5958044</id>
+      </contributor>
+      <comment>fixing DANFS link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37037">{{Use dmy dates|date=October 2012}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Biloxi (CL-80).jpg|300px|USS Biloxi in 1943]]
+|Ship caption=USS ''Biloxi'' in 1943
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1946}}
+|Ship name=''Biloxi''
+|Ship namesake=City of [[Biloxi, Mississippi]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder= [[Newport News Shipbuilding &amp; Dry Dock Company]], [[Newport News, Virginia]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=9 July 1941
+|Ship launched=23 February 1943
+|Ship sponsor=Mrs. Katharine G. Braun
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=31 August 1943
+|Ship decommissioned=29 August 1946
+|Ship refit=
+|Ship struck=1 December 1961
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=The &quot;Busy Bee&quot;
+|Ship identification=*[[Hull classification symbol#Surface combatant type|Hull symbol]]:CL-80
+*[[International Code of Signals|Code letters]]:NUMV
+*{{ICS|November}}{{ICS|Uniform}}{{ICS|Mike}}{{ICS|Victor}}
+|Ship honors=* [[Image:Bronze-service-star-3d.png|18px]] [[Image:Silver-service-star-3d.png|20px]] 9 × [[Battle star#Navy warships|battle stars]]
+|Ship fate=Sold for scrap on 5 March 1962 
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Cleveland|cruiser|0}} [[Light cruiser]]
+|Ship displacement=*{{convert|11,744|LT|t|abbr=on}} (standard)
+*{{convert|14,131|LT|t|abbr=on}} (max)
+|Ship length=*{{convert|610|ft|1|in|m|abbr=on}} [[Length overall|oa]]
+*{{convert|608|ft|m|abbr=on}}[[Length between perpendiculars|pp]]
+|Ship beam={{convert|66|ft|4|in|m|abbr=on}}
+|Ship draft=*{{convert|25|ft|6|in|m|abbr=on}} (mean)
+*{{convert|25|ft|m|abbr=on}} (max)
+|Ship power=*4 × 634 psi [[Steam boiler]]s 
+*{{convert|100,000|shp|kW|abbr=on}}
+|Ship propulsion=*4 × [[Steam turbine#Marine propulsion|geared turbines]]
+*4 × [[Propeller|screw]]s
+|Ship speed={{convert|32.5|kn|mph km/h|abbr=on}} 
+|Ship range={{convert|11000|nmi|km|-3|abbr=on}} @ {{convert|15|kn|mph km/h|0|abbr=on}}
+|Ship complement=1,255 officers and enlisted
+|Ship sensors=
+|Ship EW=
+|Ship armament=* 4 × triple [[6&quot;/47 caliber Mark 16 gun|{{convert|6|in|mm|abbr=on}}/47]] [[caliber (artillery)|caliber]] Mark 16 guns
+* 6 × dual [[5&quot;/38 caliber gun|{{convert|5|in|mm|abbr=on}}/38 caliber]] [[Anti-aircraft warfare|anti-aircraft guns]] 
+* 4 × quad [[Bofors 40 mm gun|{{convert|40|mm|in|abbr=on}} Bofors]] anti-aircraft guns
+* 6 × dual [[Bofors 40 mm gun|{{convert|40|mm|in|abbr=on}} Bofors]] anti-aircraft guns
+* 21 × single [[Oerlikon 20 mm cannon|{{convert|20|mm|in|abbr=on}} Oerlikon]] anti-aircraft cannons 
+|Ship armor=*'''[[Armor belt|Belt]]:''' {{convert|3+1/2|-|5|in|mm|abbr=on}}
+*'''[[Deck (ship)|Deck]]:''' {{convert|2|in|mm|abbr=on}}
+*'''[[Barbette]]s:''' {{convert|6|in|mm|abbr=on}}
+*'''[[Gun turret|Turret]]s:''' {{convert|1+1/2|-|6|in|mm|abbr=on}}
+*'''[[Conning tower|Conning Tower]]:''' {{convert|2+1/4|-|5|in|mm|abbr=on}}
+|Ship aircraft=4 × [[floatplane]]s
+|Ship aircraft facilities=2 × [[stern]] [[Aircraft catapult|catapults]] 
+|Ship notes= 
+}}
+|}
+'''USS ''Biloxi'' (CL-80)''' was a [[United States Navy]] {{sclass-|Cleveland|light cruiser}}, the first ship named after the city of [[Biloxi, Mississippi]].&lt;ref name=&quot;DANFS&quot;&gt;{{cite DANFS | title = Biloxi | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/b/biloxi-cl-80.html |date= 26 June 2015 | accessdate = 9 December 2015}}&lt;/ref&gt;
+
+The ship was laid down on 9 July 1941 at [[Newport News, Virginia]] by the [[Newport News Shipbuilding &amp; Dry Dock Co.]] and launched on 23 February 1943, sponsored by Mrs. Katharine G. Braun, wife of the Mayor of Biloxi. She was commissioned at the [[Norfolk Navy Yard]] on 31 August 1943, with Captain [[Daniel M. McGurl]] in command.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+==Service history==
+
+=== Preparation for war, September 1943&amp;ndash;January 1944===
+The light cruiser fitted out at Norfolk until 17 September when she began [[Sea trial|shakedown]] training in [[Chesapeake Bay]]. This included aircraft launch and recovery drills, structural test gun firing, day spotting practice and anti-aircraft drills. The crew also conducted an unplanned but successful [[man overboard]] drill when S2c Scott was knocked overboard by a training gun mount.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+[[File:USS Biloxi CL-80 stern with SO3Cs 1943.jpg|left|thumb|''Biloxi''{{'}}s stern with SO3Cs, 1943]]
+On 29 September, ''Biloxi'' and the destroyer {{USS|Sproston|DD-577|3}} departed for [[Trinidad]]. While en route, one of ''Biloxi''{{'}}s four [[Curtiss SO3C Seamew]] [[floatplane]]s crashed during a landing attempt off the port beam. Both the pilot and passenger, Ensign H. Jolly and ACMM J. Phagan, were rescued and the wreck was destroyed by gunfire as a hazard to navigation.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After arriving at Trinidad on 3 October, ''Biloxi'' conducted two weeks of battle drills and other exercises. These included radar calibration tests, night and day battle practice, fueling at sea exercises, and fighter ([[Combat air patrol|CAP]]) director drills. Departing Trinidad on the 18th, the light cruiser entered the Norfolk Navy Yard on 26 October for post-shakedown overhaul. Following these repairs, and a short trip north to [[Rockland, Maine]], for gyro and compass standardization trials, ''Biloxi'' sailed south for the [[Panama Canal Zone|Canal Zone]] on 20 November.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Passing through the [[Panama Canal]] on 24 November, ''Biloxi'' arrived in [[San Francisco]] on 4 December. There, the crew loaded provisions and, in the words of the war diary, exchanged four SO3C's and spare parts for two [[Vought OS2U Kingfisher]]s and no spare parts, before getting underway for Hawaii on the 7th. She arrived at Oahu on 11 December and conducted her first fire support exercise at [[Kahoolawe]] Island in company with the [[heavy cruiser]] {{USS|Wichita|CA-45|3}} between 15 and 19 December.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The light cruiser sailed back to San Francisco the next day, arriving on the 24th. After moving to [[San Pedro, Los Angeles|San Pedro]] for blower repairs, she reported for duty with the [[United States Fifth Fleet|Fifth Fleet]]. On 1 January 1944, ''Biloxi'' joined the battleship {{USS|Maryland|BB-46|3}}, the cruisers {{USS|Louisville|CA-28|3}} and {{USS|Mobile|CL-63|3}}, and two destroyers, for shore bombardment and amphibious landing exercises at [[San Clemente Island]]. Return to San Pedro, she refueled and provisioned in preparation for &quot;[[Operation Flintlock (World War II)|Operation Flintlock]]&quot;.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+=== Marshall Islands, January&amp;ndash;February 1944===
+''Biloxi'' put to sea on 13 January and, after joining Task Group (TG) 53.5 in Hawaii, sailed for the [[Marshall Islands]]. In company with ''Louisville'', ''Mobile'', {{USS|Santa Fe|CL-60|3}}, and six destroyers, the light cruiser approached [[Wotje Atoll|Wotje]] early in the morning on 30 January. After launching her Kingfisher spotter aircraft, she carried out a neutralizing bombardment of the Japanese air base on Wotje from dawn until noon. Enemy shore batteries fired back intermittently, one of which straddled ''Biloxi''. A later ricochet hit the superstructure above the signal bridge but fortunately did not explode.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Over the next two days, the light cruiser participated in several more shore bombardment missions against [[Roi-Namur|Roi Island]] in support of amphibious landings made by the Northern Attack Force. She then screened three escort carriers for five days before entering [[Majuro]] lagoon on the 7th to refuel.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On 12 January, ''Biloxi'' joined TG 58.1, built around the carriers {{USS|Enterprise|CV-6|3}}, {{USS|Yorktown|CV-10|3}}, and {{USS|Belleau Wood|CVL-24|3}}, and sailed west for a carrier raid against the Japanese base at [[Truk Lagoon]] in the central Pacific. Intended to cover the landings on [[Eniwetok]] and to distract the Japanese from Allied operations in [[New Guinea]], &quot;[[Operation Hailstone]]&quot; began on 16 February when the carriers struck enemy airfields on Truk. After a second strike during the morning of the 17th, the task group retired east to refuel. Following the departure of ''Enterprise'' later that day, the remaining warships were shifted into TG 58.2 and steamed northwest for a strike against [[Saipan]].&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Marianas, February &amp;ndash;June 1944===
+On 19 February, a Japanese reconnaissance aircraft closed the task group and was shot down by anti-aircraft fire. During this action, a salvo of anti-aircraft shells landed 500 yards off ''Biloxi''{{'}}s starboard bow. Although the task group hoped they had avoided enemy detection, it was clear by the evening of the 21st that the Japanese were tracking them. Starting at 23:00 that evening, and continuing until 10:00 the following morning, the task group was attacked by three waves of [[Mitsubishi G4M]] &quot;Betty&quot; land-attack bombers. A total of nineteen bombers attacked at night and another five closed the task group in the morning. None penetrated the surface ship screen and eleven were shot down by anti-aircraft fire. Following air strikes against Saipan, the task group returned to Majuro on the 26th.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+''Biloxi'' rearmed and replenished and got underway on 7 March in company with ''Enterprise'', ''Belleau Wood'', two other light cruisers and eight destroyers. Heading south, the task group crossed the equator, at which time [[Line-crossing ceremony|Neptune ceremonies]] were held and ''Biloxi'' made loyal shellbacks out of some 1,139 polywogs, and arrived at [[Espiritu Santo]] on the 11th. There, the warships loaded supplies and provisions before proceeding to [[Emirau Island|Emirau]] in the [[Bismarck Archipelago]]. The light cruiser then covered [[Landing on Emirau|the Marine landings]] on the 20th and again on the 25th.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Returning north the next day, the task group was joined by {{USS|Cowpens|CVL-25|3}}, a fourth light cruiser, and nine more destroyers before conducting a raid against Japanese forces in the [[Caroline Islands|western Carolines]]. On 30 March, ''Biloxi'' covered the carriers during strikes on Palau. One &quot;Betty&quot; was shot down as it tried to close the formation that morning. Later that night, gun crews spotted a single [[Aichi D3A]] &quot;Val&quot; carrier bomber flying overhead and fired several 5&amp;nbsp;inch batteries in a vain attempt to shoot it down. After observing the destruction of three Japanese patrol craft by two destroyers off [[Woleai]] the next day, the light cruiser steamed back to Majuro, arriving there on 6 April.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Following a week of upkeep, ''Biloxi'' sortied on 13 April with TG 58.1 for the [[Landing at Hollandia|Hollandia operation]]. On 21 April, she covered the carriers as they launched strikes against enemy aircraft and installations at Sawar, [[Wakde]], and Sarmi in [[New Guinea]]. At 14:56 that afternoon, the light cruiser launched two Kingfishers to rescue the crew of a ditched [[Grumman TBF Avenger]]. Neither floatplane found the aircraft crew, however, and one of the floatplanes later ran out of fuel. Lt.(jg) H. Jolly landed the aircraft on the water and the crew was rescued by {{USS|Frazier|DD-607|3}}.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+That evening, ''Biloxi'', two other light cruisers and five destroyers closed Wakde and Sawar. Fire was opened at 01:15 on the 22nd against aircraft on Wakde and ceased at 02:25 after firing at the airfield and supply dumps on Sawar. Rejoining the carriers later that morning, ''Biloxi'' helped screen them until returning to [[Manus Island|Manus]] on 28 April.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The task group headed north and struck the Japanese base at Truk on 29 April. ''Biloxi'' covered the carriers during these strikes and those launched against [[Pohnpei|Ponape]] in the Caroline Islands the next day. She also observed battleships bombarding Ponape on 1 May. The warships steamed to the Marshalls, arriving in [[Kwajalein Atoll|Kwajalein lagoon]] on the 4th. The light cruiser then loaded fuel, ammunition and supplies in preparation for &quot;[[Operation Forager]]&quot;, the planned liberation of the [[Mariana Islands]].&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Tasked with eliminating Japanese air power in the Marianas, the 15 fleet carriers of [[Fast Carrier Task Force|Task Force 58]] planned to attack airfields on [[Saipan]], [[Tinian]], and [[Guam]]. They also prepared for a major fleet battle if the Japanese carriers attempted to interfere with the American transports. ''Biloxi'' joined TG 58.2, which was built around the carriers {{USS|Bunker Hill|CV-17|3}}, {{USS|Wasp|CV-18|3}}, {{USS|Monterey|CVL-26|3}}, and {{USS|Cabot|CVL-28|3}} and covered the carriers during air strikes against Saipan and Tinian on the 12th. Several enemy raids were driven off by aircraft or shot down by anti-aircraft fire, including one Japanese aircraft shot down &quot;in brilliant flames&quot; by the destroyer {{USS|Conyngham|DD-371|3}}.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The light cruiser screened the carriers during the landing operations on Saipan beginning on the 15th. The next day, the task group heard reports that a large Japanese force was closing the Marianas from the Philippines. After rendezvous with the other three carrier groups about noon on 18 June, the warships took up a patrol station some {{convert|150|mi|km}} west of Saipan. From that position, on the southern flank of the carrier forces, ''Biloxi'' participated in the [[Battle of the Philippine Sea]].&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Battle of the Philippine Sea, 19–20 June 1944===
+[[File:USS Biloxi (CL-80) firing 1943.jpg|thumb|left|''Biloxi'' firing 6 inch guns during shakedown, 1943]]
+Although American search aircraft could not find the approaching enemy carriers, the presence of reconnaissance aircraft near the American carriers indicated the Japanese had found them. Late in the morning of 19 June, the first of 14 enemy raids registered on radar and began closing the task force. Most of these raids were destroyed or broken up by American fighters, severely disrupting the ensuing Japanese attacks, but several raids did get through.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Around noon, six [[Yokosuka D4Y]] &quot;Judy&quot; dive bombers evaded the American fighters and closed TG 58.2. ''Biloxi'', along with several other escorts, fired on the two attacking ''Bunker Hill'' and both were shot down. At least four more Judys pounced on the task group later that afternoon but all were shot down by anti-aircraft fire without inflicting any damage. These were but a small portion of the 300 or so Japanese aircraft lost in the battle dubbed the &quot;Great Marianas Turkey Shoot.&quot;&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The next day, the American task force discovered the Japanese carrier force had retired west during the night. Late in the day, a sighting report at 16:13 led to a last-ditch 206-aircraft strike. These aircraft caught the retreating Japanese at dusk and sank the light carrier {{Ship|Japanese aircraft carrier|Hiyō||2}} and damaged another. The American aircraft then flew east for a difficult night landing. Many were later ditched owing to darkness or lack of fuel and ''Biloxi'' joined other warships in recovering crews from the water. After a futile stern chase of the Japanese on the 21st, the American warships gave up the pursuit and retired, arriving at Eniwetok on 27 June.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Marianas, June&amp;ndash;July 1944===
+The light cruiser stayed in the Marshalls only briefly, sailing west with TG 58.1 to the Bonin Islands on 30 June. She screened the carriers {{USS|Yorktown|CV-10|3}}, {{USS|Hornet|CV-12|3}} and {{USS|Bataan|CVL-29|3}} while they launched fighter sweeps and other strikes against [[Iwo Jima]] on 3 July. ''Biloxi'' then joined a bombardment group of four light cruisers and seven destroyers and closed Iwo Jima the following day.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Just as firing began at 14:45, three Japanese fighters took off from Iwo Jima and closed the American Kingfisher spotter aircraft. Although ''Biloxi''{{'}}s Kingfisher safely retreated under the protection of friendly anti-aircraft fire, ''Santa Fe's'' spotter aircraft was heavily damaged by enemy fire and forced to make an emergency landing. The crew was later rescued by {{USS|Burns|DD-588|3}}. After the warships drove off the attacking Japanese fighters, the bombardment resumed and the observation aircraft reported target areas well covered, with many fires burning when the bombardment group retired.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After refueling at sea, the light cruiser spent the next two weeks screening the carriers during air strikes against [[Guam]] and [[Rota (island)|Rota]] in the Marianas. On 24 July, the task group sailed south for strikes against [[Palau]], [[Yap]], and [[Ulithi]]. Japanese air operations during both these operations were limited and no enemy aircraft closed the task group.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On the morning of 27 July, ''Biloxi'' catapulted two Kingfishers to rescue a pilot sighted in the water just off the southwest tip of Yap Island. One Kingfisher, flown by Lt(jg). R. Dana, spotted the pilot at 09:05 and was able to land just outside the reef line surrounding the island. A Japanese anti-aircraft gun began firing at the Kingfisher, but was soon silenced by four circling American fighters. The downed flier managed to paddle his raft through the breaking swells and across the reef where he collapsed from exhaustion. Lt(jg). Dana taxied between the raft and the reef and managed to pull the pilot in with a line. He took off at 09:40 and successfully returned to the task group later that morning.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Volcano and Ryukyu Islands, July&amp;ndash;October 1944===
+[[File:Curtiss SO3C catapulted USS Biloxi 1943.jpg|thumb|A Curtiss SO3C is catapulted from ''Biloxi'' in 1943]]
+Following one more air strike on 28 July, heavy rain squalls and poor weather canceled further strikes and the task group turned for the Mariana Islands. After a quick replenishment stop at Saipan on 2 August, the task group steamed west for a strike against the [[Bonin Islands|Bonin]] and [[Volcano Islands]]. During a fighter sweep on 4 August, friendly aircraft reported a small enemy task group in the area. Late that afternoon, ''Biloxi'', three other cruisers and seven destroyers closed the Bonins for an anti-shipping sweep. After the destroyers {{USS|Brown|DD-546|3}} and {{USS|Izard|DD-589|3}} destroyed a small [[sampan]], the cruisers picked up a Japanese convoy on radar north of Muko Jima. Owing to the danger of enemy torpedo attack, the cruisers kept their distance and fired at long range. Their accurate gunfire quickly damaged and eventually sank escort destroyer {{Ship|Japanese destroyer|Matsu|1944|2}} and collier ''Ryuko Maru''.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+At 04:00 the following morning, while preparing for a bombardment mission against Ani and Chichi Jima, a Japanese &quot;Betty&quot; closed from the stern and passed over the light cruiser. Shortly thereafter a heavy underwater explosion, probably a torpedo, detonated in ''Biloxi''{{'}}s wake. The blast severely shook the warship but did no damage. The bombardment mission was carried out as planned later that morning and the cruisers rejoined the carriers that afternoon.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The task group then sailed east and arrived at [[Eniwetok]] on 9 August. After ''Biloxi'' refueled alongside the oiler {{USS|Tappahannock|AO-43|3}}, she moved to a berth in the lagoon to take on stores and provisions. The crew also received three weeks of [[R&amp;R (military)|rest and recreation]].&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Assigned to TG 38.4, the light cruiser got underway on 28 August in company with the carriers {{USS|Franklin|CV-13|3}}, {{USS|San Jacinto|CV-30|3}} and {{USS|Enterprise|CV-6|3}}, the cruiser {{USS|New Orleans|CA-32|3}}, and 12 destroyers. Steaming west, the task group closed the Bonins to neutralize Japanese installations there in advance of upcoming operations against Palau and the Philippines.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After ''Franklin'' and ''Enterprise'' launched a fighter sweep on the 31st, the cruisers closed and bombarded Chichi Jima. During that evolution, the warships were approached by a Japanese &quot;Betty&quot; but they drove the bomber off with anti-aircraft fire. The next day, the warships closed Iwo Jima and fired at targets ashore. During this operation, ''Biloxi''{{'}}s crew saw friendly aircraft strafing an enemy patrol craft. The destroyer {{USS|Helm|DD-388|3}} then closed the target and sank it with gunfire. At 15:00 that afternoon, a damaged Army [[Consolidated B-24 Liberator|B-24D Liberator]] four-engined bomber appeared over the task group and eleven crew members bailed out. Ten were rescued in the water and, despite extensive searches, the warships did not find the eleventh man. The task group then sailed east and moored at Saipan anchorage on 4 September.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The warships continued a fast pace of operations by sailing south to Yap the next day. ''Biloxi'' conducted an especially good bombardment mission during the morning of 7 September, starting numerous fires in a vehicle depot and an oil storage building. The light cruiser then took up a position to cover the carriers and screened them during air strikes against Palau between 10 and 15 September. During this time, ''Biloxi'' also launched Kingfishers to fly close in anti-submarine patrol. Following the amphibious landings on Palau on the 15th, the light cruiser headed to the Admiralty Islands for upkeep.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+While en route, ''Biloxi'' crossed the equator on 20 September. According to the war diarist, &quot;King Neptune, Davy Jones, and all the Royal Court were received aboard and dispensed justice with their customary ruthless and bloodthirsty manner. Among the initiates was the XO, Commander E.F. McDaniel, who until today had evaded His Majesty during 21 years of naval service. He was punished accordingly.&quot; The warship arrived at Manus the next day.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After taking on supplies and ammunition, ''Biloxi'' sailed to [[Kossol Passage]] on 24 September and joined TG 38.1. Once joined there by the other fast carriers of [[Fast Carrier Task Force|Task Force 38]], the force proceeded west to [[Okinawa]] on 8 October. Arriving off the [[Ryukyu Islands]] two days later, ''Biloxi'' screened the carriers as they struck airfields and other installations ashore. That morning, two Kingfishers catapulted off the light cruiser to search for a downed pilot from ''Franklin''. One aircraft landed and recovered the pilot but, owing to rough seas, the OS2U capsized during takeoff. Rather than risk the second floatplane—her last working aircraft—''Biloxi'' allowed the two pilots to be rescued by the submarine {{USS|Sterlet|SS-392|3}}.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The carriers then shifted to Formosa on 12 October for two days of heavy attacks against Japanese airfields. Just before sunset on the 13th, seven &quot;Betty&quot; bombers appeared out of a rain squall and rapidly closed the carriers. ''Biloxi''{{'}}s forward 6-inch turrets as well as her 5-inch and 40-mm batteries took five of these aircraft under fire as they passed down her port side. One aircraft broke into flames and, after ''Biloxi'' checked fire to avoid hitting two nearby destroyers, all five were shot down by other warships in the formation.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Philippines, October 1944&amp;ndash;January 1945===
+[[File:Gunnery practice on USS Biloxi (CL-80), October 1943.jpg|thumb|left|Gunnery practice, October 1943]]
+Between 14 and 19 October, the light cruiser covered the carriers as they struck airfields on [[Luzon]] in preparation for the [[Battle of Leyte|Leyte landings]] on 20th. Numerous small enemy raids plagued the task group but they inflicted no damage. On the 19th, ''Biloxi''{{'}}s remaining OS2U, accompanied by a seaplane from ''New Orleans'', successfully picked up the crew of a crashed dive bomber and returned them to ''Franklin''.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After covering Leyte strikes between 20 and 22 October, ''Biloxi'' detached and joined TG 38.2 built around {{USS|Intrepid|CV-11|3}}, ''Bunker Hill'', ''Cabot'', and {{USS|Independence|CV-22|3}}. Upon word that three groups of Japanese warships were closing the Philippines, this force concentrated east of [[Samar]]. On 24 October, during the second day of the [[Battle of Leyte Gulf]], aircraft from ''Intrepid'' and ''Cabot'' took part in attacks that sank the {{Ship|Japanese battleship|Musashi||2|up=yes}} south of Luzon. Other air attacks damage two other battleships.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+That night, the task group steamed north off [[Cape Engaño (Luzon)|Cape Engano]] to hunt for fleeing enemy carriers, five of which are disposed of by air strikes the following day. Later that evening the American warships turned south in an attempt to catch a second group of retiring Japanese warships. Just after midnight on the 26th, ''Biloxi'' and four other cruisers and destroyers picked up a surface contact near [[San Bernardino Strait]]. The three cruisers quickly opened fire, destroying the {{Ship|Japanese destroyer|Nowaki||2|up=yes}} in a blinding explosion shortly thereafter. The Nowaki had aboard her all of the survivors from the Tone-class heavy cruiser Chikuma, which had been sunk at the end of the Battle off Samar. As a result, a total of approximately 1,400 officers and men went down with her in this one action&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On 28 October, TG 38.2 returned to launching air strikes against Luzon airfields and Japanese shipping in [[Manila Bay]]. Poor weather hampered aircraft recovery on the 29th, and the evening was spent rescuing ditched airmen. Following a withdrawal to refuel and receive replacement aircraft, the task group carried out two more rounds of Luzon strikes in the first weeks of November. These attacks pounded Japanese shipping and port facilities at Manila and central Luzon, sinking half a dozen light warships and over a dozen cargo ships and auxiliaries.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On the 15th, ''Biloxi'' departed the Philippines and steamed east to Ulithi. Arriving there two days later, she received much needed repairs and replenishment. ''Biloxi'' also recovered pilot Lt.(jg) Dana, who related an exciting cruise in ''Sterlet'' during which time the submarine sank at least two enemy cargo ships. While at Ulithi on 20 November, ''Biloxi''{{'}}s crew experienced the Japanese [[kaiten]] attack on the anchorage. All five [[midget submarine]]s were lost in the attack, though not before the Japanese torpedoes damaged and eventually sank the tanker {{USS|Mississinewa|AO-59|3}}.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On 22 November, ''Biloxi'' joined TG 38.3 for another set of air strikes against Luzon. While carrier aircraft attacked enemy coastal shipping on the 25th, the light cruiser helped the task group fight off Japanese [[kamikaze]]s. Numerous raids breached friendly fighter defenses that day and five American carriers were damaged, forcing the task group to retire from the area.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+The carriers returned to the Philippines on 13 December and, in addition to air strikes in support of the [[Battle of Mindoro|Mindoro landings]], they also launched special night raids against Japanese airfields. These attacks prevented enemy kamikaze dive bombers (called &quot;green hornets&quot;) from launching the coordinated attacks that had plagued the American task groups in late November.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+On 18 December, ''Biloxi''{{'}}s task force [[Typhoon Cobra (1944)|encountered a typhoon]] northeast of Samar and suffered heavy damage. In addition to the loss of three destroyers, many other warships were damaged and ''Biloxi'' herself lost an OS2U washed overboard. After spending the next few days searching for survivors, the light cruiser steamed to Ulithi on the 24th and remained there for the next week.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+''Biloxi'' put to sea with TG 38.3 on 30 December, intending to strike [[Formosa]], [[Nansei Shoto]], and northern Luzon. The task group, built around the carriers {{USS|Essex|CV-9|3}}, {{USS|Ticonderoga|CV-14|3}} and {{USS|Langley|CVL-27|3}} launched the first strike against Formosa on 3 January 1945. The weather quickly worsened, however, and many of the planned attacks were canceled. The carriers steamed back south and, when the weather cleared on the 6th, blanketed Luzon with aircraft in support of bombardment and amphibious [[Invasion of Lingayen Gulf|operations in Lingayen Gulf]]. These attacks did not achieve a lot of success, as enemy aircraft were carefully hidden and camouflaged, and the task group shifted strikes to airfields on Formosa, in the Ryukyus, and the [[Penghu|Pescadores]].&lt;ref name=&quot;DANFS&quot;/&gt;
+
+During the evening of 9 January, the task group passed through [[Bashi Channel]] of [[Luzon Strait]] and began a high speed run south. Two days later, carrier aviators struck targets between [[Cam Rahn Bay]] and Cape Varella, hitting many ground installations and virtually annihilating a coastal convoy north of [[Qui Nhơn]]. Nine Japanese ships were sunk in that attack, and another 13 were damaged. After retired to refuel, a task made more difficult owing to typhoon passing through area, the carriers shifted north to attack [[Hainan]] and [[Hong Kong]]. The following day, S1c Daniel A. Little was swept overboard by a wave and drowned. This was the first loss of life suffered by ''Biloxi''{{'}}s crew.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+After refueling, the task group passed through [[Balintang Channel]] and conducted strikes against airfields on Formosa on 21 January. Around midday, Japanese kamikazes began attacking in increasing numbers and, in successive waves, two aircraft crashed into the carrier ''Ticonderoga'' and another damaged the destroyer {{USS|Maddox|DD-731|3}}. That evening, ''Biloxi'' detached to escort the two damaged warships to Ulithi, arriving there on the 26th.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Iwo Jima, February&amp;ndash;March 1945===
+On 10 February, ''Biloxi'' joined TG 58.4 and sailed for operations against Iwo Jima. Following carrier-launched fighter sweeps against Japanese airfields in the Tokyo area, the task group closed Iwo Jima to support [[Battle of Iwo Jima|landing operations]]. During the morning of 19 February, ''Biloxi'' provided [[naval gunfire support]] for the troops ashore. She then shifted to harassing fire that evening. This pattern of operations continued until the 21st when 5&amp;nbsp;inch mount #6 fired into the barrels of gun mount #5, slightly injuring several sailors and destroying the latter mount.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Despite the damage, ''Biloxi'' then rejoined TG 58.4 and returned to the [[Tokyo]] area to attack aircraft factories and airfields starting on the 25th. Increasingly heavy weather limited and then canceled strikes that afternoon and the force retired south. After hitting ground installations, airfields and shipping at Okinawa, the task group split up and ''Biloxi'' steamed to Ulithi, arriving there on 1 March. She replenished, loaded ammunition and repaired mount #5.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Okinawa, March&amp;ndash;April 1945===
+On 21 March, ''Biloxi'' sailed with a fire support group for operations in the Ryukyus. Assigned to TG 54.1, she helped cover mine clearing sweeps, [[Underwater Demolition Team]] (UDT) operations, and the amphibious landings on [[Kerama Islands|Kerama Retto]] on the 26th. Moving to Okinawa later that morning, she launched seaplanes for spotting and reconnaissance missions and fired on targets west of Zanpa Misaki point.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+Just after dawn, a wave of kamikazes broke through friendly fighter cover and closed to attack the task group. Although two &quot;Vals&quot; were quickly shot down, a third crashed into the battleship {{USS|Nevada|BB-36|3}} and a fourth, taken under fire and burning, crashed into ''Biloxi'' amidships. The light cruiser's luck continued when the aircraft's {{Convert|500|kg|lb|abbr=on}} bomb did not explode and she suffered only minor damage to a storeroom.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+''Biloxi'' spent the next three weeks conducting shore bombardment missions, including closing to within 3,000 yards of the beach and using 40&amp;nbsp;mm guns to support UDT operations. Starting on 1 April, she fired on enemy targets north of the [[Battle of Okinawa|main amphibious landings]] and then continued these bombardment missions in support of advancing troops ashore. During these weeks, the task group was repeatedly attacked by kamikazes, one of whom just missed ''Biloxi'' on 3 April. In addition to fending off these aerial attacks, the light cruiser also fired on enemy [[Shinyo (suicide boat)|suicide boat]] concentrations.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Return to the United States, April&amp;ndash;July 1945===
+''Biloxi'' departed Okinawa on 20 April and steamed east to Ulithi, where she arrived on the 24th. After receiving battle repairs alongside {{USS|Vulcan|AR-5|3}}, the light cruiser continued east, arriving at San Francisco via [[Pearl Harbor]] on 11 May. Moving into the [[Bethlehem Shipbuilding Corporation]] yard the warship received three weeks of long overdue repairs and machinery maintenance. Following completion of this work on 6 July, ''Biloxi'' conducted two weeks of post overhaul checks and refresher training out of San Diego and San Clemente. These evolutions were disrupted on 14 July when a water feed line ruptured in the aft fire room, flashed into steam and burned eight men, none seriously.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===The end of the war, July&amp;ndash;August 1945===
+Returning west on 19 July, ''Biloxi'' practiced shore bombardment exercises in Hawaii before departing Pearl Harbor on 2 August. While en route to Ulithi, the warship conducted a long range shore bombardment of Wake on 8 August, primarily to train her gunners for upcoming operations against Japan. After a stop at Ulithi on 12 August, she refueled and headed for Leyte, arriving in [[San Pedro Bay, Philippines|San Pedro Bay]] on 14th. While anchored there, the crew heard the [[Surrender of Japan|Japanese surrender]] announcement at 08:15 the following morning.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===Post-war, August&amp;ndash;November 1945===
+Departing the Philippines for Okinawa on 20 August, the light cruiser arrived there three days later and spent the next three weeks awaiting orders. Putting to sea on 16 September, ''Biloxi'' proceeded to [[Nagasaki]], Japan, to evacuate [[Prisoner of war|POWs]]. Arriving there on the 18th, her crew saw the damage caused by the atomic bomb and took on 11 U.S., 17 British, one Australian, one Canadian, and 187 Dutch &quot;recovered Allied military personnel.&quot; These men were delivered to Okinawa on 21 September. Steaming back to Japan, the warship made stops at Nagasaki, [[Wakayama, Wakayama|Wakayama]], and [[Seto Inland Sea|Hiro Wan]] as the [[Occupation of Japan|American Occupation Forces]] consolidated their positions ashore. During October, some officers from ships' company took part in inspections of surviving Japanese shipping at [[Kure, Hiroshima|Kure]]. Underway on 9 November, ''Biloxi'' picked up passengers at Okinawa on the 11th, before sailing to Pearl Harbor and then San Francisco, arriving at the latter port on 27 November.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+===In reserve, decommissioning and sale, 1946&amp;ndash;1962===
+The warship moved to [[Port Angeles, Washington]], on 15 January 1946 and reported for inactivation. On 18 May 1946 she was placed in commission in reserve at the [[Puget Sound Naval Shipyard]], and on 29 October 1946 went out of commission in reserve. Her name stricken from the [[Naval Vessel Register|Navy List]] on 1 December 1961, and she was sold for scrap to Puget Sound Towing &amp; Barge Co. on 29 March 1962.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+==Awards==
+''Biloxi'' received nine [[Battle star#Navy warships|battle stars]] for her service in the Pacific during World War II.&lt;ref name=&quot;DANFS&quot;/&gt;
+
+==Memorials==
+The cruiser's superstructure was set aside and erected in the Guice Park near the Biloxi Small Craft Harbor, on Lameuse Street where it still stands today. The [[ship's bell]] is housed in the lobby of the Biloxi Maritime and Seafood Museum.
+
+==References==
+{{reflist}}
+* {{DANFS|http://www.history.navy.mil/research/histories/ship-histories/danfs/b/biloxi-cl-80.html}}
+
+
+==External links==
+{{Commons category|USS Biloxi (CL-80)|USS Biloxi}}
+* {{navsource|04/080/04080|USS Biloxi}}
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-b/cl80.htm USS ''Biloxi''] at the [[Naval History &amp; Heritage Command]]
+* [http://biloxi.ms.us/PDF/ussbiloxihistory.pdf Compilation of World War II press releases about the ''Biloxi'']
+* [http://biloxi.ms.us/PDF/ussbiloxi.pdf Before and after Katrina : photographs of the USS ''Biloxi'' superstructure at the small craft harbor]
+
+{{Cleveland class cruiser}}
+
+{{DEFAULTSORT:Biloxi (Cl-80)}}
+[[Category:Cleveland-class cruisers]]
+[[Category:World War II cruisers of the United States]]
+[[Category:United States Navy Mississippi-related ships]]
+[[Category:1943 ships]]
+[[Category:Ships built in Newport News, Virginia]]</text>
+      <sha1>7sdlqg4eqd2yyzh81xad4xgg1ljtn23</sha1>
+    </revision>
+  </page>
+</mediawiki>

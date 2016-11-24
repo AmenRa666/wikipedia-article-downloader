@@ -1,0 +1,273 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Sopwith Camel</title>
+    <ns>1</ns>
+    <id>550068</id>
+    <revision>
+      <id>711472831</id>
+      <parentid>711426111</parentid>
+      <timestamp>2016-03-23T02:24:22Z</timestamp>
+      <contributor>
+        <username>NiD.29</username>
+        <id>5229608</id>
+      </contributor>
+      <comment>/* 2F.1 Prototype */ reply</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="41236">{{WikiProjectBannerShell|1=
+{{WPMILHIST|class=Start
+|B-Class-1=y
+|B-Class-2=yes
+|B-Class-3=yes
+|B-Class-4=yes
+|B-Class-5=yes 
+|British=yes
+|Aviation-task-force=yes
+|WWI-task-force=yes
+
+}}
+{{WPAVIATION|class=Start|Aircraft-project=yes
+&lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-1=yes
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=y
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+}}
+}}
+
+==Design &amp; Development==
+
+&quot;Unlike the Sopwith Triplane, the Camel lacked a variable incidence tailplane, so that the pilot had to apply constant forward pressure on the control stick to maintain a level attitude at low altitude.&quot;
+
+Does that refer to trim?  If so (or even if not) could this be clarified to explain what is meant?
+
+&quot;A stall immediately resulted in a particularly dangerous spin.&quot;
+
+Is this a fact 100% of the time?  It sounds dubious but if true should be emphasized more clearly.
+
+- [[Special:Contributions/71.34.73.127|71.34.73.127]] ([[User talk:71.34.73.127|talk]]) 20:14, 9 June 2014 (UTC) (AbstractClass - I'm locked out of my account, my email changed and lost password...if you can help post on my talk page)
+
+==Blipped throttle==
+What is a &quot;blipped&quot; throttle? [[User:Bastie|Bastie]] 10:10, 5 September 2005 (UTC)
+
+:I have added an explanation in the text. [[User:Ian Dunster|Ian Dunster]] 22:15, 10 November 2005 (UTC)
+
+::Aha, thanks. I did a bit of digging and also found [http://www.fantasyofflight.com/aircraftpages/scout.htm this]:
+
+:::''The way the pilot controls the engine speed is with a blip switch located on top of the control stick.  By holding the switch down with his thumb, the magneto is grounded, which shuts electricity off to the spark plugs.  This effectively, kills the engine.  When the blip switch is released by taking the thumb off the switch, the spark plugs begin to fire again and the engine roars to life.  By blipping the switch on (thumb up) and off (thumb down), the pilot can control the speed of the engine for operation on the ground and to slow down for landing.  If you watch any old World War I films, you can hear the sound of the engine going . . . Brrrappp! . . . Brrrappp! . . . Brrrappp!. . . when the aircraft comes in to land.'' 
+
+::[[User:Bastie|Bastie]] 04:51, 11 November 2005 (UTC)
+
+:::May also be because the Camel didn't have a [[carburetor|carb]] (or so I've heard...)  [[User:Trekphiler|Snoopyson]] 09:36, 16 December 2006 (UTC)
+
+This may be a bit late as the carb comment is 2 years old, but I'm sure the Camel must have had a carburettor, I don't think any WW1 aircraft had fuel injection! Even the Spitfire and Hurricane in WW2 had carburettors which is why you always see them &quot;peel off&quot; and wing-over into a dive. The German fighters of WW2 (such as the Messerschmidt Bf109e) did have fuel injection but for some reason we British didn't bother with it to start with. [[Special:Contributions/204.104.55.244|204.104.55.244]] ([[User talk:204.104.55.244|talk]]) 14:18, 3 December 2008 (UTC) Chris
+
+::As you say, Chris, this is a very old one! [[Rotary engine]]s (look up the article on them) as fitted to the Sopwith Camel and other types, had a very primitive carburetor that did not lend itself to throttle movements, if you throttled back you needed to fiddle the &quot;choke&quot; (fuel/air mixture control) to match and if you got it even slightly wrong you stalled the engine - close to the ground of course you had problems starting it again before you lost control and crashed. Most pilots just ran their engines flat out for the whole flight, and blipped in on landing so as to have power availalble if they needed to abort the landing and get off again. There was an even more primitive species of rotary engine (the &quot;mono&quot;) that didn't have a throttle at all - it just ran flat out unless you cut some of the cylinders with a special switch designed for the purpose. If you got this wrong the front of your aeroplane filled with unburned fuel and the probably exploded. Fun and games! --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 16:49, 3 December 2008 (UTC)
+
+:::If you let a WW I-era aeroplane's engine stop then there is no way of getting it going again in the air, as there is not enough slipstream to turn the engine over, and the aeroplane is too draggy to reach sufficient speed in a dive. So once the engine stops, that's it, you go down. That's why an un-powered landing is called a 'dead stick' one, because the propeller is sticking up in front 'like a dead stick'.  The alternative explanation for the term is the mushiness felt in the control column when the slipstream from the propeller stops.&lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by 
+[[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 10:54, 30 December 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+::::No way of getting it started again? Yet somehow they managed it as a regular routine - read some of the many acounts of people who were there. The engine would stop due to fuel starvation, so you switched over to your gravity tank, let your prop kick the engine over, and all being well it would re-start. Of course engines DID sometimes stall and couldn't be started again, for all kinds of reason, but not because their propellers didn't turn fast enough in the &quot;slipstream&quot; to turn the engines over. A WWI era aeroplane could be dived fast enough to rip its wings off - certainly fast enough to kick the engine over. As for &quot;deadstick&quot; - less a &quot;general mushiness&quot;, just an aeroplane without a working engine (and of course this remains true today) can only maintain flying speed by diving or gliding down, pulling back on the stick reduces airspeed (in the case of an early aeroplane very rapidy) causing a stall (not an engine stall, but a loss of lift in the wings to the point you basically just drop out of the sky). --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 21:23, 30 December 2012 (UTC)
+
+== even better... we should talk a bit about the classic game... ==
+
+...sopwith. i think one can still download it for the pc.
+
+:It has an own article, [[Sopwith (video game)]]. I think it belongs to the &quot;Notable appearances in media&quot; section. [[Special:Contributions/85.217.46.149|85.217.46.149]] ([[User talk:85.217.46.149|talk]]) 01:22, 4 July 2012 (UTC)
+
+== Link Edit ==
+Link to 'Le Rhone' points to the river rather than to the engine manufacturer.  Is there a dedicated page for 'Le Rhone'?
+: It's [[Gnome et Rhône]], I fixed it.  [[User:Emt147|Emt147]] [[User_talk:Emt147|&lt;small&gt;&lt;sup&gt;Burninate!&lt;/sup&gt;&lt;/small&gt;]] 04:07, 31 March 2006 (UTC)
+
+I read in a Wikipedia article about the Sopwith Snipe that major Barker scored at least 4 kills in a Snipe. Here it is said that he only scored in a Camel. What is it?
+::His final battle was in a Snipe but his main weapon was the Camel. [[User:Bzuk|Bzuk]] 01:47, 12 April 2007 (UTC).
+:::On 27 October, 1918, Barker in his Sopwith Snipe fought 60 Fokker D VII's alone, shooting down four airplanes that day (including a Rumpler 2-seater), then crash landing himself after being severely wounded and his aircraft having been hit hundreds of times.  With the exception of Mannock's kills of the Aviatik Training flight in 1917, Barker's feat of downing 4 aircraft in 40 minutes was the highest score in the shortest time of any aerial dogfight in WWI.  [[Special:Contributions/71.154.159.1|71.154.159.1]] ([[User talk:71.154.159.1|talk]]) 18:10, 5 March 2011 (UTC)
+::::&quot; With the exception of Mannock's kills of the Aviatik Training flight in 1917, Barker's feat of downing 4 aircraft in 40 minutes was the highest score in the shortest time of any aerial dogfight in WWI.&quot; Wow, you don't seem to even want to hide your POV, at least. First, as for Billy Bishop adventures, we will never know how many of those credited &quot;kills&quot; were actually true kills because of British somewhat laxist crediting system. So comparing numbers between countries is an unscientific procedure. To the maximum extent you could say Barker had the best score of the RAF, but way not of &quot; any aerial dogfight in WWI&quot; since every country credited kills differently.
+::::Second,  World War I flying ace Fritz Otto Bernert scored five victories within 20 minutes on April 24, 1917. So no, Barker's feat of downing 4 aircraft in 40 minutes was NOT the highest score in the shortest time of any aerial dogfight in WWI, nor was Mannock.[[Special:Contributions/86.66.196.237|86.66.196.237]] ([[User talk:86.66.196.237|talk]]) 20:24, 14 May 2011 (UTC)
+
+==Additional Details==
+In the course of researching another topic, I've come across some info which I think can be incorporated into the 'Camel' article.  I hope to add some stuff in, as and when; maybe I could tinker a bit with some of the structure, as well? That's unless I'm treading on any toes here. [[User:Scoop100|Scoop100]] 14:51, 20 April 2007 (UTC)
+
+==Videogames==
+This section is fancruft and mainly trivial in nature. Anyone object to it being reduced in size, scope or perhaps being &quot;snipped&quot; entirely? [[User:Bzuk|Bzuk]] 01:47, 12 April 2007 (UTC).
+:Very happy to see it disappeared completely. [[User:Scoop100|Scoop100]] 14:50, 20 April 2007 (UTC)
+:: As there haven't been any adverse comments in the last 8 months regarding these proposed actions, this section has been duly trimmed. [[User:Scoop100|Scoop100]] ([[User talk:Scoop100|talk]]) 22:18, 8 January 2008 (UTC)
+:::This section seems to be growing again - time for another purge of non-notable items?[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 21:56, 3 June 2008 (UTC)
+
+::::Agree [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 22:02, 3 June 2008 (UTC)
+
+==Flying Qualities==
+PC Games... Expurgate. Castrate.           ; '''Moving on to reality &amp; facts;''' The article on the Camel is innacurate and misrepresentative of what was factually the Great Wars best fighter. All this talk about the handling characteristics is utter tripe. The Camel was DESIGNED to be inherrently unstable. It's primary mass was not all concentrated around the CG for nothing..! Sopwiths knew EXACTLY what they were doing, and used their experience with Rotatary engines to exploit the torque-effect of the engine and large heavy airscrew. Power-off it was a pussy-cat. Power-on it could turn and kill in a flash. Exactly what was required of a dogfighting fighter of the time. (Not that much has changed either.) The 'bad' reputation has it's origins and perpetuation in pure ignorance and hearsay. At the time, young, very inexperienced pilots who moved onto the type, who might have been well versed with handling a Rotary engine,( An arcane art to any modern pilot!)perhaps on an Avro 504 or Sopwith Pup, were unable to avail themselves of suitable dual-control machine. All of the experienced pilots loved and admired the machine, although one highly experience pilot at the CFS wrote describing the flight characteristics of the Camel after the Great War ' ..it was a fierce little beastie'. That was it's intent. It was a killing machine. Students heard stories and the scuttlebutt got around. Some of that has survived.
+
+The drivel about the Camels' flying qualities needs removing or correcting. It's absolute tosh. [[User:88.111.3.188|88.111.3.188]] 00:33, 21 May 2007 (UTC)
+
+== no redirect? ==
+
+I did a wikipedia search for &quot;Sopwith Camel&quot; and not only did it not point to this page, it wasn't even in the search results!
+
+Anyone else having the same problem?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Erroramong|Erroramong]] ([[User talk:Erroramong|talk]] • [[Special:Contributions/Erroramong|contribs]]) 05:52, 17 April 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+:No - Sopwith Camel in the search box on the left works and takes you to this article. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 09:56, 17 April 2009 (UTC)
+
+== Question ==
+
+Why did the Sopwith Camel have targets painted on the undersides of its wings?  --[[Special:Contributions/76.102.149.170|76.102.149.170]] ([[User talk:76.102.149.170|talk]]) 03:10, 10 May 2009 (UTC)
+:[[Royal Air Force roundels|This article]] should explain. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 09:02, 10 May 2009 (UTC)
+
+==Better choice of photo at top of infobox ?==
+The photo at the top of the infobox shows a model with 2 Lewis guns over the top wing, and no caption. According to the IWM blurb attached to the image at Commons, it's a Naval 2F1 version. Shouldn't the main photo be of the standard (i.e. most common - the Western Front dogfighter) version with 2 Vickers guns above the engine cowling ? The current photo is not really representative, and without a caption is in fact misleading. Also, the article states the 2F1 had &quot;One Vickers gun replaced by an overwing Lewis gun&quot;. ?? Rod. [[User:Rcbutcher|Rcbutcher]] ([[User talk:Rcbutcher|talk]]) 12:41, 27 September 2009 (UTC)
+
+:I have changed the caption to show it is a 2F1, it may be a Naval Camel but it an original aircaft notable as a Zepplin killer, which is why it was preserved. The article is about both versions does it matter which is in the infobox. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 14:18, 27 September 2009 (UTC)
+
+::It is a 2F1 - and there IS only one Lewis gun - unless you are seeing double?? I tend to agree that a really nice photo of an F1 might be even nicer - if only as being more &quot;typical&quot;. Perhaps the current infobox pikkie could go down to the &quot;survivors&quot; section?--[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 22:31, 27 September 2009 (UTC)
+
+:::Display the photo at full size and you will clearly see 2 ammo drums and 2 barrels. Rod. I do think the photo has value on the page as representing a surviving example. But the F1 was the model that actually contributed to winning the war. [[User:Rcbutcher|Rcbutcher]] ([[User talk:Rcbutcher|talk]]) 05:17, 28 September 2009 (UTC)
+
+::::When I come to &quot;really&quot; look at it, there ARE actually two Lewis guns jammed up into a most unreasonable space - the real 2F1 had a single gun in that position - the frail little &quot;Admiralty over wing mounting&quot; could never have taken two guns - in fact I doubt if they could have fired together in that position anyway, the drums would have fouled each other! So the aircraft in the display - at least its armament, has been stupidly cobbled up by someone with no idea whatever. Sad. The only Camels to carry two Lewis guns on the top wing in &quot;real life&quot; were the home defence examples that had the cockpit moved back and double Foster mountings. The F1 is certainly the &quot;common&quot; model anyway, and I agree there is a case for a nice picture of one of them to be there instead. I would prefer a photo taken in 1917 or 1918 - which would necessarily be in black and white of course. Most of our WW1 aircraft articles have such pictures - while nice modern coloured ones are all very well they don't quite have the same ambience. As I said - move the current picture to the &quot;survivors&quot; section. Or delete it altogether - since one of those Lewis guns (if there really ARE Lewis guns) shouldn't be there! It is really not encyclopediac. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 09:57, 28 September 2009 (UTC)
+
+:::::I dont have any real objection to moving N6812 down to survivors if a decent contempary F1 image could be found for the infobox. Whatever its condition N6812 is still notable and extant [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 12:24, 28 September 2009 (UTC)
+
+::::::Ive raised the question of the authenticity of the guns as located on the IWM machine N6812 at the Great War Forum : http://1914-1918.invisionzone.com/forums/index.php?showtopic=133909 . I would expect somebody there to have the answer. Rod. [[User:Rcbutcher|Rcbutcher]] ([[User talk:Rcbutcher|talk]]) 15:17, 28 September 2009 (UTC)
+
+:::::::According to JM Bruce in ''War Planes of the First World War: Volume Two'' (p161), Culley's Camel (i.e. the example at the IWM) DID have twin overwing Lewis's - in a non-standard, fixed installation that could not be reloaded in flight ,together with a quick release catch on the undercarriage axle.  There is a contemporary photo of the aircraft on p159, showing this armament.  The reasons for this are not clear, possibly either to lower weight or because Vickers guns could not be used to fire incendiary bullets.) It should be noted that while one Lewis and one Vickers was the normal armament, it was not the only armament tried - there is also a photo of a Ship's Camel with twin Vickers uns.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 17:09, 28 September 2009 (UTC)
+:::::::::Here's an alternative contemporary photograph available as public domain from the RAF Museum: [http://www.raf.mod.uk/downloads/wallpapers/1914_1916/camel1024.jpg Sopwith Camel]. FWiW, please keep the museum example in the article, but consider trimming one of the two very similar images. [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 17:15, 28 September 2009 (UTC).
+
+'Tis done! Note that I have left the two very similar images of the same camel higher up the page - and put the old infobox image in the &quot;variants&quot; section. Vickers guns (and the very similar German &quot;Spandaus&quot;) fired thousands and thousands of incendiary and explosive bullets through prop arcs - it was normal practice in fact - you couldn't shoot down a balloon (for instance) any other way. Pilots still didn't like doing it very much - as if and when the synchronisation gear failed (as they did now and then) the result could be a bit messy. Incidentally, I still think those Lewis guns are too close to be authentic, although it may be a trick of perspective! --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 23:32, 28 September 2009 (UTC)
+
+== List of survivors==
+Why does the list of survivors section incite people to convert it from list format to prose? A list is a much clearer way of presenting this information. A list is exactly what it is and should be.
+:Lists were considered trivia lists and were actively discouraged, although it often makes sense in an aircraft article. FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 12:38, 6 October 2009 (UTC).
+::Checking back to when the tags were &quot;sprinkled&quot;, it all came down to an editor happening upon the article, making a number of arbitrary changes in the name of NPOV and MOS and it has meant a wholesale rewrite to put back the sense of the article. FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 12:45, 6 October 2009 (UTC).
+
+== Gyroscopic Inertia of Rotary Engine  ==
+
+I think a little explanation of the gyroscopic effects of the rotary engine is needed to explain how the Sopwith Camel could make those devastating whip-turns to the right, and why half the fatalities in the Camel occurred on takeoff or landing.  The rotary engine, when on, was just a large gyroscope.  However, when you push a gyroscope in one direction, it actually moves 90 degrees in a different direction (remember science class?).  Hence, pilots attempting to manouvre the aircraft had to take this into account, otherwise the airplane would go 90 degrees in an unintended direction and crash.  As the article states, turning to the right, the plane would go down; turning to the left the plane would go up.  The gyroscopic inertia (coupled with the weight being massed toward the front) enabled the Camel to make whip-turns to the right, allowing it to outmanouvre other airplanes by turning inside their turns.  [[Special:Contributions/71.154.159.1|71.154.159.1]] ([[User talk:71.154.159.1|talk]]) 18:25, 5 March 2011 (UTC)
+
+== Reason for name ==
+
+In Jon Guttmann, [i]The origin of the fighter aircraft[/i], 2009, Westholme Publishing, he quotes the name Camel coming from a test pilot saying &quot;Just to look at the beast gives me the hump at the thought of flying it&quot;, and references the remark as recorded by RFC technical officer Harry Tizard, adding to the reasons (along with the fairing block) for the name. [[User:Bendel boy|Bendel boy]] ([[User talk:Bendel boy|talk]]) 08:29, 7 July 2011 (UTC)
+
+::I have always had a sneaking suspicion that the origin of the &quot;Camel&quot; name might have had something to do with the type's wilfulness! The &quot;hump&quot; over the gun breeches was mentioned by a number of people at the time and since, but it seems otherwise highly unlikely. You look at pictures of Camels (it was one of the most-photographed aircraft of the war) - just where IS this famous &quot;hump&quot;? Is it really characteristic enough to have &quot;named&quot; the type? Unfortunately I think this (against so many contemporary sources) must be speculation. If the only source we can get is as late as 2009 - then I do have to remark that many recent sources in this field speculate like hell - there now being no genuine living people of the period to contradict them. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 11:37, 7 July 2011 (UTC)
+
+:::On the other hand, I am HIGHLY suspicious of our friend, since I have already caught him using Wikipedia (one of the articles I wrote) and the fact that the &quot;hump&quot; is noticeable, was mentioned in contemporary journals and is not an urban myth. FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 11:42, 7 July 2011 (UTC).
+
+::::Keeping out of any ''ad hominem'' argument, I agree of course about the wealth of contemporary evidence - which is why I said that any alternative must be wild speculation. I don't think anyone is talking about &quot;urban myths&quot; in this context? On the other hand, camels ''were'' stubborn self-willed little aeroplanes, and the camel is a notoriously stubborn and self-willed animal. I suppose the noticability of the so-called &quot;hump&quot; is in the eye of the beholder. But we are actually on the same side in this one, Buzzy, if from a slightly different angle. It would certainly be OR to suggest that anything but the fairing over the gun breeches had anything to do with the name without a good ''contemporary'' source. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 22:17, 7 July 2011 (UTC)
+
+:::::A 1979 interview with [[Thomas Sopwith|T.O.M. Sopwith]] here: [http://www.flightglobal.com/pdfarchive/view/1979/1979%20-%200033.html] &quot;Why was it called the Camel? Because it had a hump!&quot;  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/80.7.147.13|80.7.147.13]] ([[User talk:80.7.147.13|talk]]) 18:08, 12 February 2014 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Camel as a &quot;ground-attack&quot; aircraft ==
+
+All RFC/RAF single seater &quot;scouts&quot; were used as &quot;trench straffers&quot; during both British and German offensives - the Camel certainly being no exception. This was certainly not confined to &quot;near the end of the conflict&quot;. The &quot;germ of truth&quot; in the last sentence of the lead is that this was a duty that tended to go ''especially'' to obsolete types and that the Camel WAS obsolete by the end of the war - comparing poorly with the Fokker D.VII and other late war German types. Any way to put all this into one clear, neat, succinct and NPOV sentence? --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 23:12, 15 September 2011 (UTC)
+:'''Large scale, organised''' use of single-seat fighters for strafing by the RFC seems to have started at the Battle of Amiens in August 1917, when DH.5s were used, with Camels being used at the Battle of Cambrai in November that year. Losses of both types were very high - an average of 30% attrition per day of operations on close support missions  - see [[Sopwith Salamander]] for references.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 17:40, 23 February 2012 (UTC)
+
+== Change to reference format ==
+
+Why has the reference and citation format for this article been completely changed? This change has made the citations much less clear and has completely mangled the references to the J. M. Bruce ''Flight'' articles. Please provide some justification to these changes, which appear to go against WP:RETAIN.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 07:27, 16 June 2012 (UTC)
+:Same Anon has been about in other articles, changing to suit his/her style. Moved back. FWiW [[User:Bzuk|Bzuk]] ([[User talk:Bzuk|talk]]) 13:24, 16 June 2012 (UTC).
+:: The ip has reverted, reinstating all the sfn and citation templates - I've left a note on their talk page.Hopefully they will self revert and discuss it here.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 08:54, 17 June 2012 (UTC)
+
+:::I reverted the change before I saw this discussion but the IPs have been challenged a few times so they still needs to gain a consensus for the changes. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 10:45, 17 June 2012 (UTC)
+
+== Wing span ==
+
+I changed the wing span back to 28 ft 0 in after checking with the cited reference (i.e. Quest for Performance) and other sources. It was changed to 26 ft 11 in (which is the correct value for the 2F1 Ships Camel [http://en.wikipedia.org/w/index.php?title=Sopwith_Camel&amp;diff=prev&amp;oldid=84442235 here in 2006], and was not spotted.[[User:Nigel Ish|Nigel Ish]] ([[User talk:Nigel Ish|talk]]) 18:14, 4 July 2012 (UTC)
+
+== LEGO Sopwith Camel ==
+
+I don't know, maybe I'm wrong, but I think that under, &quot;Notable appearances in media,&quot; it should be mentioned that there have been three LEGO incarnations of this plane, the 10226 Sopwith Camel, released in September 2012, the 3451 Sopwith Camel in 2001, and the 40049 Mini Sopwith Camel, also released in September of 2012. 10226 also had moving wing flaps connected to a joystick that moved like the real thing. --[[User:ThePlaneFan|ThePlaneFan]] ([[User talk:ThePlaneFan|talk]]) 23:02, 15 February 2013 (UTC)ThePlaneFan
+:I dont think models and toys based on the aircraft are notable enough to mention. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 15:55, 16 February 2013 (UTC)
+::Actually they may be very eligible for inclusion in an article about LEGO - but not in ''this'' article. Would any other LEGO models be &quot;notable&quot; in a discussion of the real thing? Think about it. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 20:58, 9 June 2014 (UTC)
+
+== Removal of cited content ==
+
+''&quot;The [[Clerget]] engine was particularly sensitive to fuel mixture control and incorrect settings often caused the engine to choke and cut out during take-off.&lt;ref name = &quot;bruce 9&quot;/&gt;&quot;'' This cited sentence, which can be verified to be an accurate summarisation of information stated by the cited work and author, has been removed under seemingly dubious reasoning. I fail to see how the Clerget engine being 'preferred' or being 'heavier' in any way contradicts the above; no evidence has presented for a conflicting point of view or to invalidate the above. Can a solid reason for writing the author off (an author that has been used to explicitly cite parts of this article for eight years) as incorrect? A failure for other authors not mentioning the fuel mixture issue, which is an assertion that has been made, could simply be a symptom of whatever selection of authors be used for that statement having simply not mentioned/covered the sub-topic in question, and may be more a statement of their lack of coverage than Bruce's lack of accuracy - which I don't think is a fair assumption to make upon him/his work in the absence of any contradicting statements from established authors. [[User:Kyteto|Kyteto]] ([[User talk:Kyteto|talk]]) 23:23, 12 October 2015 (UTC)
+
+::He is confusing it with the early Gnome rotaries, an error that has been repeated ad nauseum by many authors over the years, each parroting the errors they read. They early Gnomes lacked any sort of automatic mixture control, and hence was very sensitive and difficult to control, while the Clerget, did have an automatic mixture control. In a gasoline engine of any type, as you open the throttle, the mixture needs to be progressively leaned out - on the early rotaries, this meant adjusting the throttle, then the mixture, for every change in throttle setting, hence the need for the blip switch to kill the ignition on 1 3 5 7 or 9 cylinders, as those adjustments are prone to power loss at inopportune times. The Clerget's mixture control still needed to be adjusted but it was less likely to die during throttle changes.
+::A LOT of contemporary aircraft used this same engine and none are mentioned as having this problem, including aircraft that were every bit as maneuverable, so it can hardly be accurate that this one type's flaws can be blamed on the engine. If a reference is needed I will dig one up - IIRC the book on rotaries mentions it. As for the Clerget being preferred - I will find a reference for that too (probably in the datafile). The fundamental problem the Camel had, is they screwed up the weight and balance calculations and got the center of weight too far aft - a problem partially alleviated by the overweight Clerget, which, according to the RFC's own official reports was significantly heavier than its contemporaries, and delivered only the nominal HP (110 or 130), unlike its contemporaries which usually exceeded those numbers by a healthy margin. In most types the Clerget was an unpopular engine choice as its lower power and higher weight degraded the performance of the aircraft it was used in, but its weight helped make the Camel a little more manageable, hence the unusual preference. All of which comes from established authors.NiD.29 12:41, 13 October 2015 (UTC)
+
+:::You might read up on [[rotary engines]] (our article is at least a start). The difference between a &quot;normal&quot; and a &quot;mono&quot; rotary is (to be a bit simplistic) that one had tricky air/fuel mixture control and the other had none whatsoever. Neither had anything resembling &quot;automatic&quot; adjustment. One can indeed speculate and surmise about why Camel pilots had particular problems with stalling engines (I have never seen anyone suggest that these problems were actually better or worse with the Clerget than with any of the other engines used) - perhaps they were simply too preoccupied with the notorious tendency to spin shortly after takeoff to manage the fiddle with the air control valve (&quot;fine adjustment&quot;) that ALL pilots of rotary-engined aircraft needed to master? The Clerget was the most widely used engine in the Camel by the way, but this was at least a matter of availablity as anything else - the [[Bentley BR1]] was &quot;preferred&quot; - in fact the RNAS, who had longstanding contractual preferences with Sopwith, were eventually able to standardise on the Bentley. Was the Bentley actually lighter, heavier, or roughly the same weight as the Clerget (look it up?) The main feature of the Camel was not that it was tail heavy (which it was - as  was pretty standard, especially in a fighter) but that all the heavy parts (engine, guns, fuel tank, pilot) were even closer together than in (say) a contemporary Nieuport - making the relative position of the centre of gravity and the centre of pressure very unstable. This was not a &quot;screw-up&quot;, but quite deliberate - although it made handling a Camel &quot;tricky&quot; it also made it very manoeuverable. Given the fact that most &quot;beginner&quot; Camel pilots were really still learning to fly when they started on operations the whole bit was probably a bit overdone, but it was not, as you imply, the result of incompetence or carelessness. Most Camel pilots did (provided they lived long enough) master the &quot;beast&quot;, and in fact appreciated it. Not all Camel pilots even found it particularly difficult, if we are to believe their written accounts.
+
+:::But all this is not really the point. We can speculate and surmise all we like, but the fact is that Bruce is still a reliable source if anyone is - even if his work is a little dated - and if we are going to directly contradict him we need to do so from a thorough background knowledge, and we also need to have things well cited from an equally good but more up-to-date source. While we need that background knowledge, to rely on it too much, and not to back it up properly, in the context of Wiki, is [[WP:OR]], and very naughty. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 20:03, 14 October 2015 (UTC)
+
+::::I have THE book on rotaries, Andrew Nahum's &quot;The Rotary Aero Engine&quot; published by HMSO (ISBN 0112904521) so I doubt the wikipedia page can add anything useful - indeed I am sure it is full of the same nonsense that has been parroted for decades and could probably do with a complete rewrite, but I am disinclined for the fight at the moment. To quote from page 44 to 45 - &quot;By the middle of the war, however, some throttling was essential to allow aircraft to fly in formation, and the improved carborettors then in use would allow a power reduction of up to 25 percent. The pilot would close the air valve by the desired degree and then re-adjust the mixture.&quot; &quot;An exception to this general control system was the Gnome mono.&quot; (due to its use of fixed inlet ports, much like a two stroke)
+::::No OR as I have seen it all in print, I just have to find the references - digging as we speak. They should both be from either Over the Front and Cross and Cockade, which are far more reputable than old generalist hagiographies. As for the concentration of masses silliness, the Camel was nothing more than a Nieuport 17 with a second Vickers in place of the overwing Lewis, and a full chord bottom wing, yet the Nieuport shared none of the Camel's vices, was just as well known for its exceptional maneuverability, and had its masses just as concentrated, if not more so since the pilot didn't have fuel behind him - and all of the other matters still applied as the number of hours of experience was unlikely to have been much different. As for preferences - there were official preferences (the Clerget was problematic and the supply was dependent on the French who had their own priorities), and those of the pilots, which often didn't coincide, and I suspect the preference was Clerget over Le Rhone, which dry was 85 pounds lighter, and used less fuel and oil while the standardized Royal Aircraft Establishment tests showed the 110 Le Rhone produced almost as much power as the 130 Clerget (the ratings being purely nominal).NiD.29 02:56, 15 October 2015 (UTC)
+
+== Incomplete sentence needs editing ==
+
+The last paragraph of the section on the Western Front consists of nothing but a sentence fragment; in this case, a subject without a predicate.  I'd edit it myself, but I'm not sure if it needs more material added or, most likely, it simply needs to be restructured into a proper sentence.  If somebody more familiar with the material would take a look at it, I'm sure it can be corrected fairly easily.  [[User:JDZeff|JDZeff]] ([[User talk:JDZeff|talk]]) 00:50, 15 October 2015 (UTC)
+::Fixed.NiD.29 02:58, 15 October 2015 (UTC)
+
+== Difficult handling ==
+
+Many sources - including all (that I can find) of the memoirs of pilots who actually flew the Camel - remark on the &quot;trickiness&quot; of the type, together with the fact that it could turn inside practically anything. Many of them contrast it with the Pup - e.g. Lee in ''No Parachute'' where he compares the Pup's &quot;sensitivity&quot; with the Camel's &quot;razor sharp&quot; response. We are perfectly entitled to find all this (and the reasons generally used to explain it) unconvincing - but the expression of personal opinions about the questions without clear citation (preferably from a contemporary source) is not on ''in an encyclopedia article''.
+
+In context (this is my OR and I am not suggesting for one moment that it can go into the article either) - handling characteristics of an aeroplane (or, for that matter, a car or a speedboat!) are pretty subjective, and rely very much on comparisons with what we are used to. Many WWI pilots - even quite successful ones - had been through abbreviated courses by instructors who didn't really know what they were doing. Essentially they were &quot;self-taught&quot;. The fact seems to be that rotary engined aircraft in general did all kinds of strange things when you started to wriggle about - a &quot;stationary&quot; engined aircraft like the S.E.5 was praised for (in contrast) &quot;going where it was pointed&quot;! Thus the reportedly &quot;delightful&quot; handling of the Pup (for instance). One should always read &quot;in comparison with other rotary engined fighters&quot;. Modern pilots flying replica or original examples of the Pup (for example) have stated that they have been less than &quot;delighted&quot;, and found the tendency of the aircraft to do strange things in tight turns very disconcerting indeed.
+
+Sadly - we have to go with our sources. It would indeed be nice to get to the 'real truth&quot; which probably lurks somewhere - but we can't make it up. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 02:54, 19 March 2016 (UTC)
+
+== Official name ==
+
+If the official name was actualy the ''F.1'', that should be included in infobox as well as the first line in the lede. '''&lt;font color=&quot;#0000FF&quot;&gt;[[User:Nyth83|Nyth]]&lt;/font&gt;&lt;font color=&quot;#00CC66&quot;&gt;[[User talk:Nyth83|63]]&lt;/font&gt;''' 10:44, 21 March 2016 (UTC)
+::However that is only one of several official names as the Ship's Camel was the 2F.1.[[User:NiD.29|&amp;#32;- NiD.29]] ([[User talk:NiD.29|talk]]) 19:29, 21 March 2016 (UTC)
+:::Both &quot;F.1&quot; and &quot;2F.1&quot; are manufacturer's model numbers rather than &quot;official names&quot; in the later sense - at the time nobody called a Sopwith Camel anything but a Camel (or perhaps a Ship's Camel in the case of a 2F.1) anyway. The system of giving British service aircraft official names arose out of the often &quot;unsuitable&quot; nicknames they otherwise acquired. In any case, as NiD points out, both models are covered by this article - so we use the general inclusive term as the article title. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 23:13, 21 March 2016 (UTC)
+::::The change was not in the article title. '''&lt;font color=&quot;#0000FF&quot;&gt;[[User:Nyth83|Nyth]]&lt;/font&gt;&lt;font color=&quot;#00CC66&quot;&gt;[[User talk:Nyth83|63]]&lt;/font&gt;''' 23:54, 21 March 2016 (UTC)
+:::::The official rigging drawings refer to it as either the Sopwith Biplane F.1 or Sopwith Biplane 2.F.1 - no mention of &quot;Camel&quot;, which was an unofficial nickname arising supposedly from the fairing/hump over the guns - official names issued by the government came later. Sopwith factory drawings also refer to the design as the F.1 and 2F.1 (with different punctuation). Oddly no other types are listed on the list of types using most of the parts - perhaps only production types got added to the list. The exception is the drawing for the footstep, which lists all the late war production types (again no prototypes) and how many each needed - 2F.1 is still there but the F.1 was listed as Camel.[[User:NiD.29|&amp;#32;- NiD.29]] ([[User talk:NiD.29|talk]]) 01:40, 22 March 2016 (UTC)
+
+== 2F.1 Prototype ==
+The Air-Britain RN aircraft serials and units shows that the prototype 2F.1 was modified from a Sopwith FS.1 Baby (Improved) ''N5'' built with a fixed landing gear. Dont seem to mention it anywhere anybody have anything else on this?. [[User:MilborneOne|MilborneOne]] ([[User talk:MilborneOne|talk]]) 18:16, 22 March 2016 (UTC)
+
+::I am gathering stuff for a rewrite of this article - there is a mention of the connection in ''Sopwith, the man and the aircraft'' [[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 20:45, 22 March 2016 (UTC)
+
+::The 2F.1 Ships Camel or Split Camel had a completely different development history than the F.1 and much like the Nimrod and Fury it was a parallel development that arrived at almost the same point - it really should have its own page as it had its own distinct history. Windsock Datafile No 6 dealt exclusively with the 2F.1, and the Putnam Sopwith book has a section on it. There was a pair of (seemingly) unphotographed FS.1 &quot;Sopwith Improved Baby&quot; prototypes, N4 had floats (but was almost immediately wrecked), N5 had wheels, and there were significant differences from the F.1 - different span (26' 11&quot; vs 28'), narrower center section, metal cabane struts, different dihedral, control lines were run outside the fuselage, the single Vickers and Lewis was standard, the split rear fuselage and numerous other details. The first prototypes even had the Lewis mounted inverted. [[User:NiD.29|&amp;#32;- NiD.29]] ([[User talk:NiD.29|talk]]) 02:24, 23 March 2016 (UTC)</text>
+      <sha1>6nhpxfkwekafau50ptr1y19tnkxo8f5</sha1>
+    </revision>
+  </page>
+</mediawiki>

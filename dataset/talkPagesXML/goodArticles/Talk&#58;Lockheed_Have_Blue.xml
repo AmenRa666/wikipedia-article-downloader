@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Lockheed Have Blue</title>
+    <ns>1</ns>
+    <id>7176416</id>
+    <revision>
+      <id>746868222</id>
+      <parentid>453000569</parentid>
+      <timestamp>2016-10-30T01:57:26Z</timestamp>
+      <contributor>
+        <ip>24.107.185.147</ip>
+      </contributor>
+      <comment>/* Designed from an electrical engineering perspective? */ new section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3300">{{ArticleHistory
+|action1=GAN
+|action1date=03:47, 7 August 2011
+|action1link=Talk:Lockheed Have Blue/GA1
+|action1result=listed
+|action1oldid=443438577
+
+|action2=WAR
+|action2date=11:01, 15 September 2011 (UTC)
+|action2link=Wikipedia:WikiProject_Military_history/Assessment/Lockheed_Have_Blue
+|action2result=not approved
+|action2oldid=450553807
+
+|currentstatus=GA
+|topic=war
+}}
+{{WPMILHIST
+|class=GA|A-Class=fail
+|Aviation-task-force= y
+|US-task-force= y
+}}
+{{WPAVIATION|class= GA|Aircraft-project=y}}
+
+== WikiProject class rating==
+This article was automatically  assessed because at least one article was rated and this bot brought all the other ratings up to at least that level. [[User:BetacommandBot|BetacommandBot]] 10:21, 27 August 2007 (UTC)
+
+== Have Blue what? ==
+
+Do any of the mil aircraft regulars have a explanation of the code-name Have Blue? (And, for example, does it relate to the naming of the Northrop [[Tacit Blue]]?) It's an odd name, I would expect most casual readers would be curious -- [[User:PaulxSA|PaulxSA]] 18:07, 11 November 2007 (UTC)
+
+{{Talk:Lockheed Have Blue/GA1}}
+==File:Have-blue.jpg Nominated for Deletion==
+{|
+|-
+| [[File:Image-x-generic.svg|100px]] 
+| An image used in this article, [[commons:File:Have-blue.jpg|File:Have-blue.jpg]], has been nominated for deletion at [[Wikimedia Commons]] in the following category: ''Deletion requests September 2011'' 
+;What should I do?
+''Don't panic''; a discussion will now take place over on Commons about whether to remove the file. This gives you an opportunity to contest the deletion, although please review Commons guidelines before doing so.
+* If the image is [[WP:NFCC|non-free]] then you may need to upload it to Wikipedia (Commons does not allow fair use)
+* If the image isn't freely licensed and there is no [[WP:FUR|fair use rationale]] then it cannot be uploaded or used.
+
+''This notification is provided by a Bot'' --[[User:CommonsNotificationBot|CommonsNotificationBot]] ([[User talk:CommonsNotificationBot|talk]]) 19:36, 14 September 2011 (UTC)
+|}
+
+== Designed from an electrical engineering perspective? ==
+
+Why is this sentence relevant enough to be in the introductory paragraph? It's even questionably true- nobody sat down and wondered what would happen if they started an aerospace design process with the perspective of an electrical engineer. The story is, recounted in Ben Rich's autobiography, one of the radar specialists at Lockheed realized that he could write a computer program to fully calculate and predict radar cross-section (which was not possible at that time). The program worked, and so the aircraft was designed around using computer simulation to minimize that cross section.
+
+To be accurate, this was the first aircraft designed by shaping the airframe to scatter radar beams. This required an unprecedented amount of computer involvement in the design of the aircraft, and it was the first aircraft that had unstable flight dynamics in all three control inputs (pitch, roll, and yaw). Both of these are related to electrical engineering, but I don't see how you can make the statement that the aircraft was designed from an electrical engineering perspective. [[Special:Contributions/24.107.185.147|24.107.185.147]] ([[User talk:24.107.185.147|talk]]) 01:57, 30 October 2016 (UTC)</text>
+      <sha1>8kga8myexq2ce6mdlb1a1ghz069s74l</sha1>
+    </revision>
+  </page>
+</mediawiki>

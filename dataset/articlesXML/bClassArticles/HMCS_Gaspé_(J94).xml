@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Gaspé (J94)</title>
+    <ns>0</ns>
+    <id>14037920</id>
+    <revision>
+      <id>750431735</id>
+      <parentid>750431599</parentid>
+      <timestamp>2016-11-19T18:31:17Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>added otherships</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7761">{{other ships|HMCS Gaspé}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMCS Gaspé H-568.jpg|300px]]
+|Ship caption=''Gaspé'' underway
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval-1911}}
+|Ship name= ''Gaspé''
+|Ship namesake=[[Gaspé Bay]]
+|Ship ordered= 23 August 1937 
+|Ship awarded=
+|Ship builder=[[Morton Engineering and Dry Dock Company|Morton Engineering and Dry Dock Co.]] [[Quebec City, Quebec|Quebec City]] 
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=21 October 1938
+|Ship recommissioned=
+|Ship decommissioned=27 July 1945
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification= [[pennant number]]: J94
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate= Sold for mercantile use 1946
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= {{sclass-|Fundy|minesweeper}}
+|Ship displacement={{convert|460|LT|t ST|lk=in}}
+|Ship length={{convert|163|ft|m|1|abbr=on}}
+|Ship beam={{convert|27.5|ft|m|1|abbr=on}}
+|Ship draught={{convert|14.5|ft|m|1|abbr=on}}
+|Ship power=
+|Ship propulsion=
+|Ship speed={{convert|12|kn|km/h|1}}
+|Ship range=
+|Ship endurance=
+|Ship complement=38
+|Ship armament=1 × [[QF 4 inch naval gun Mk IV, XII, XXII|QF {{convert|4|in|mm|abbr=on|0}} Mk IV gun]]&lt;ref name=mac14&gt;Macpherson, p. 14&lt;/ref&gt;
+|Ship notes=
+}}
+|}
+'''HMCS ''Gaspé''''' was a {{sclass-|Fundy|minesweeper}} that served in the [[Royal Canadian Navy]] from 1938 to 1945. She saw service during the [[Second World War]] as part of the local defence of [[Halifax, Nova Scotia|Halifax]]. She was named for  [[Gaspé Bay]] in [[Quebec]]. Following the war the ship was sold for mercantile use, becoming the [[tugboat]] '''''Sung Li'''''. The ship's registry was deleted in 1993.
+
+== Design and description ==
+In 1936, new minesweepers were ordered for the Royal Canadian Navy.&lt;ref name=j3&gt;Johnston et al., p. 979&lt;/ref&gt; Based on the British {{sclass-|Basset|trawler|4}},&lt;ref name=mac2/&gt;&lt;ref name=chesneau&gt;Chesneau, p. 65&lt;/ref&gt; those built on the east coast would cost $318,000 per vessel.&lt;ref name=j5&gt;Johnston et al., p. 1075&lt;/ref&gt; At the outbreak of the Second World War, the Royal Canadian Navy considered constructing more, but chose to build {{sclass-|Bangor|minesweeper|1}}s instead upon learning of that design due to their oil-burning engines.&lt;ref name=mac2&gt;Macpherson and Barrie, p. 167&lt;/ref&gt;&lt;ref&gt;Pritchard, pp. 21-2&lt;/ref&gt;&lt;ref&gt;Tucker, p. 29&lt;/ref&gt;
+
+The ''Fundy'' class, named after the [[HMCS Fundy (J88)|lead ship]], [[Displacement (ship)|displaced]] {{convert|460|LT|t ST|lk=in}}. They were {{convert|163|ft|m|1|abbr=on}} long, with a [[Beam (nautical)|beam]] of {{convert|27.5|ft|m|1|abbr=on}} and a [[Draft (ship)|draught]] of {{convert|14.5|ft|m|1|abbr=on}}. They had a complement of 3 officers and 35 ratings.&lt;ref name=mac3&gt;Macpherson and Barrie, p. 32&lt;/ref&gt;
+
+The ''Fundy'' class was propelled by one shaft driven by [[vertical triple expansion]] engine powered by steam from a one-cylinder boiler.&lt;ref name=chesneau/&gt; This created between {{convert|850|-|950|ihp|kW|lk=in}} and gave the minesweepers a top speed of {{convert|12|kn|lk=in}}.&lt;ref name=chesneau/&gt;&lt;ref name=mac3/&gt; The ships were capable of carrying between {{convert|180|-|196|LT|t}} of coal.&lt;ref name=chesneau/&gt;
+
+The ships were armed with one [[Quick-firing gun|QF]] [[QF 4 inch naval gun Mk IV, XII, XXII|{{convert|4|in|mm|adj=on|0}} Mk IV gun]] mounted forward on a raised platform.&lt;ref name=mac14/&gt;&lt;ref name=chesneau/&gt;&lt;ref group=note&gt;Macpherson and Barrie state that the ships were equipped with one [[QF 12-pounder 12 cwt naval gun]].&lt;/ref&gt;&lt;ref group=note&gt;Mark IV = Mark 4. Britain used [[Roman numeral]]s to denote Marks (models) of ordnance until after World War II.&lt;/ref&gt; The minesweepers were armed with two [[20 mm Oerlikon]] [[anti-aircraft warfare|anti-aircraft]] cannons.&lt;ref name=mac14/&gt; They were later equipped with 25 [[depth charge]]s.&lt;ref name=chesneau/&gt;
+
+==Service history==
+
+''Gaspé'' was ordered on 23 August 1937 for the Royal Canadian Navy.&lt;ref name=u1&gt;{{cite web|url=http://www.uboat.net/allies/warships/ship/5620.html |title=HMCS Gaspe (J94) |work=uboat.net |accessdate=27 May 2014}}&lt;/ref&gt; The vessel's [[keel]] was laid down on 24 January 1938 by [[Morton Engineering and Dry Dock Company|Morton Engineering and Dry Dock Co.]] at [[Quebec City, Quebec|Quebec City]]. The ship was [[Ship naming and launching|launched]] on 12 August later that year. ''Gaspé'' was [[Ship commissioning|commissioned]] into the Royal Canadian Navy on 21 October 1938 at Quebec City.&lt;ref name=M1&gt;Macpherson and Barrie, p. 33&lt;/ref&gt;
+
+After commissioning, ''Gaspé'' was one of two of the ''Fundy''-class minesweepers assigned to the east coast of Canada. She was stationed at [[Halifax, Nova Scotia]] when the war broke out. At the onset of war, ''Gaspé'' and [[sister ship]] {{HMCS|Fundy|J88|2}} were the only warships available to patrol the entrance to Halifax's harbour.&lt;ref&gt;Tucker, p. 114&lt;/ref&gt; She served with the [[Halifax Local Defence Force]] as a local minesweeper.&lt;ref name=M1/&gt; On 14 January 1945, she picked up 56 survivors of the British tanker ''British Freedom'' that was torpedoed and sunk east of Halifax by {{GS|U-1232||2}}.&lt;ref name=u1/&gt; The ship was [[Ship decommissioning|paid off]] on 23 July 1945 at Halifax.&lt;ref name=M1/&gt;
+
+''Gaspé'' was sold into mercantile service in 1946.&lt;ref&gt;Colledge, p. 250&lt;/ref&gt; The ship re-emerged as the [[tugboat]] ''Sung Li'', working out of [[Shanghai]].&lt;ref name=M1/&gt; The ship's registry was deleted in 1993.&lt;ref&gt;{{csr|register=MSI|id=5344827|shipname=Gaspe |accessdate=13 August 2016}}&lt;/ref&gt;
+
+==References==
+===Notes===
+{{reflist|group=note}}
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+{{refbegin}}
+* {{cite book |editor-last=Chesneau |editor-first=Roger |date=1980 |title=Conway's All the World's Fighting Ships 1922–1946 |publisher=Conway Maritime Press |location=Greenwich, UK |isbn=0-85177-146-7}}
+* {{Colledge}}
+* {{cite book |last=Johnston |first=William |last2=Rawling |first2=William G.P. |last3=Gimblett |first3=Richard H. |last4=MacFarlane |first4=John |date=2010 |title=The Seabound Coast: The Official History of the Royal Canadian Navy, 1867-1939 |volume=1 |publisher=Dundurn Press |location=Toronto |isbn=978-1-55488-908-2}}
+* {{cite book |last=Macpherson |first=Ken |date=1990 |title=Minesweepers of the Royal Canadian Navy 1938-45 |publisher=Vanwell Publishing Limited |location=St. Catharines, Ontario |isbn=0-920277-55-1}}
+* {{cite book |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |date=2002 |title=The Ships of Canada's Naval Forces 1910-2002  |edition=Third |publisher=Vanwell Publishing |location=St. Catharines, Ontario |isbn=1-55125-072-1}}
+* {{cite book |last=Pritchard |first=James |date=2011 |title=A Bridge of Ships: Canadian Shipbuilding during the Second World War |publisher=McGill-Queen's University Press |location=Montreal, Quebec and Kingston, Ontario  |isbn=978-0-7735-3824-5}}
+* {{cite book |last=Tucker |first=Gilbert Norman |date=1952 |title=The Naval Service of Canada, Its Official History - Volume 2: Activities on Shore During the Second World War |publisher=King's Printer |location=Ottawa}}
+{{refend}}
+
+{{Fundy class minesweeper}}
+
+{{DEFAULTSORT:Gaspe (J94)}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:Fundy-class minesweepers]]
+[[Category:Ships built in Quebec]]
+[[Category:1938 ships]]
+[[Category:World War II minesweepers of Canada]]
+[[Category:Minesweepers of the Royal Canadian Navy]]</text>
+      <sha1>noagw28xqugmryxlnx08tvmsuxmxz34</sha1>
+    </revision>
+  </page>
+</mediawiki>

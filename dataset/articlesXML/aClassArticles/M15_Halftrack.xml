@@ -1,0 +1,184 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>M15 Halftrack</title>
+    <ns>0</ns>
+    <id>44811360</id>
+    <revision>
+      <id>740914795</id>
+      <parentid>734916198</parentid>
+      <timestamp>2016-09-24T04:11:12Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Journals */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15950">{{good article}}
+{{Infobox Weapon
+|name=M15 Combination Gun Motor Carriage
+|image=[[File:M-15A1 Combination Gun Motor Carriage.jpg|300px|alt=A picture of the M15 Halftrack displayed in a grassy area in Washington State.]]
+|caption=An M15A1 CGMC displayed at the [[Fort Lewis Military Museum]].
+&lt;!-- Service History --&gt;
+| wars=[[World War II]]&lt;br /&gt;[[Korean War]]
+| operators=United States
+| service=1943–53
+&lt;!-- Production History --&gt;
+| designer=[[United States Army]]
+| design_date=1940–42
+| manufacturer=[[White Motor Company]], [[Autocar Company]]
+|production_date=1942–44
+| number=2,332
+|origin=United States
+|type=[[Self-propelled anti-aircraft gun]]
+|is_vehicle=yes
+|length={{convert|20|ft|3|in|m|abbr=on}}
+|width={{convert|7|ft|4|in|m|abbr=on}}
+|height={{convert|7|ft|10|in|abbr=on}}
+|weight={{convert|10|ST|t|abbr=on}}
+|suspension=Halftrack, [[Vertical volute spring suspension|vertical volute springs]]; front leaf spring
+|speed={{convert|41.9|mph|km/h|abbr=on}}
+|fuel_capacity={{convert|60|USgal|l|abbr=on}}
+|vehicle_range={{convert|150|mi|km|abbr=on}}
+|primary_armament=[[37 mm Gun M1|M1 {{convert|37|mm|in|abbr=on}} gun]] with 2 × .50 [[caliber|cal]] ({{convert|12.7|mm|in|abbr=on}})  [[M2 Browning machine gun]]s
+|armour={{convert|0|-|12|mm|in|abbr=on}}
+|engine=White 160AX, {{convert|386|in3|cc|sing=on|abbr=on}} 6-cylinder, [[petrol engine|gasoline]], [[compression ratio]] 6.3:1
+|engine_power={{convert|128|hp|kW|abbr=on}}
+|pw_ratio=15.8 hp/ton
+|crew=7
+}}
+
+The '''M15 Halftrack''', officially designated '''M15 Combination Gun Motor Carriage''',  was a [[self-propelled anti-aircraft gun]] on a [[half-track|halftrack]] chassis used by the [[United States Army]] during [[World War II]]. It was equipped with one [[37 mm Gun M1|M1]] [[autocannon|automatic]] 37&amp;nbsp;millimeter (1.5&amp;nbsp;in) gun and two water-cooled 0.5&amp;nbsp;inch (12.7&amp;nbsp;mm) [[M2 Browning]] heavy machine guns. Based on the [[M3 Half-track|M3 Halftrack]] chassis, it was produced by the [[White Motor Company]] and [[Autocar Company|Autocar]] between July 1942 and February 1944, and served alongside the [[M16 Multiple Gun Motor Carriage]].
+
+The M15 evolved from the T28 project, an outgrowth of a 37&amp;nbsp;millimeter (1.5&amp;nbsp;in) gun mounted on a [[M2 Half Track Car|M2 Halftrack]]. Initially designated as the T28E1 Combination Gun Motor Carriage (CGMC), it was accepted into service in 1943 as the M15. While conceived as an anti-aircraft weapon, its 37&amp;nbsp;mm gun was often used as an infantry support weapon during the later stages of World War II. The M15A1 was an improved variant with air-cooled machine guns mounted below the 37&amp;nbsp;mm gun. The M15 &quot;Special&quot; was an M15 which mounted a single [[Bofors 40&amp;nbsp;mm gun]].
+
+During World War II the vehicle served the U.S. Army throughout the [[Mediterranean Theater of Operations|Mediterranean]], [[European Theater of Operations|European]], and [[Asiatic-Pacific Theater|Pacific]] Theaters of Operations. In the [[Korean War]] the M15 served alongside the M16 providing infantry support.
+
+== Specifications ==
+The M15 was based on the [[M3 Half-track|M3 Halftrack]] chassis, adding a [[coaxial mount|coaxially mounted]] armament of a fully automatic [[37 mm Gun M1|M1 {{convert|37|mm|in|abbr=on}} gun]] and two superior placed .50 [[caliber|cal]] (12.7&amp;nbsp;mm) [[M2 Browning machine gun]]s.&lt;ref name=Berndt152 /&gt; Manned by a crew of seven,&lt;ref name=Ness206&gt;Ness (2002), p. 206.&lt;/ref&gt; it was {{convert|20|ft|3|in|m}} long, {{convert|7|ft|4|in|m}} wide, {{convert|7|ft|10|in}} high, and had a wheelbase of {{convert|135.5|in|m}}.&lt;ref name=Berndt152&gt;Berndt (1993), p. 152.&lt;/ref&gt;&lt;ref name=Ness206 /&gt; The vehicle's armor was up to 12&amp;nbsp;mm thick and the vehicle itself weighed {{convert|10|ST|t}}. The suspension was [[leaf spring]] on the front axle and [[Vertical volute spring suspension|vertical volute spring]] for the tracks. A 386-cubic inch (6.330&amp;nbsp;cc) White 160AX, 128&amp;nbsp;horsepower (95&amp;nbsp;kW) 6-cylinder [[petrol engine|gasoline engine]] gave the M15 a [[power-to-weight ratio]] of 15.8&amp;nbsp;horsepower per ton and a maximum road speed of {{convert|41.9|mph|km/h|abbr=on}}.&lt;ref name=Hunnicutt221&gt;Hunnicutt (2001), p. 221.&lt;/ref&gt;&lt;ref name=Berndt34&gt;Berndt (1994), p. 34.&lt;/ref&gt;&lt;ref name=Hogg&gt;Hogg &amp; Weeks (1980), p. 94.&lt;/ref&gt; Its {{convert|60|USgal|l|abbr=on}} fuel tank provided a range of {{convert|150|mi|km|abbr=on}}.&lt;ref name=Berndt152 /&gt;
+
+== Development ==
+[[File:M15 CGMC.jpg|thumb|right|Side view of the M15 Halftrack|alt=A side view of the M15]]
+{{Hatnote|For related development details, see [[M13 Half-track|M13 Halftrack]]}}
+
+The M15 design developed from the [[United States Army Coast Artillery Corps]]' T1A2 Multiple Gun Motor Carriage (MGMC) project, which added a 37&amp;nbsp;mm gun to an [[M2 Half Track Car|M2 Halftrack Car]]. It was designated the T28 and tested at the [[Aberdeen Proving Grounds]]. The tests were deemed unsuccessful due to heavy recoil, and the project was canceled in 1942.&lt;ref name=&quot;Green151&quot;&gt;Green &amp; Green (2000), p. 151.&lt;/ref&gt;&lt;ref name=&quot;Gander234&quot;&gt;Gander (2013), p. 234.&lt;/ref&gt;
+
+=== T28E1 ===
+A United States Army [[Armor Branch (United States)|Armored Force]] requirement for a mobile [[anti-aircraft gun]] to support the coming [[North African Campaign]] resulted in the T28 project being revived soon after its cancellation. The new vehicles used the larger M3 Halftrack chassis and an M2E1 sight for target spotting,&lt;ref name=Hunnicutt131&gt;Hunnicutt (2001), p. 131.&lt;/ref&gt;&lt;ref&gt;Popular Mechanics (1943), p. 7.&lt;/ref&gt; receiving the designation T28E1 Combination Gun Motor Carriage (CGMC).&lt;ref name=Green152 /&gt;&lt;ref name=Zaloga&gt;Zaloga (1994), p. 38.&lt;/ref&gt;
+
+A total of eighty T28E1s were produced from July to August 1942 by [[White Motor Company|White]], all of which had a [[Weapon mount|mount]] lacking protection for the gun combination and crew. After this initial run the vehicle gained an armored mount and went into production as the M15 CGMC.&lt;ref name=Green151 /&gt;&lt;ref name=Berndt32 /&gt; Some of the T28E1s still in service had their 37 mm guns removed and were converted into M3A1 Halftracks.&lt;ref name=Rottman30&gt;Rottman (2012), p. 30.&lt;/ref&gt;
+
+=== M15, M15A1, M15 &quot;Special&quot; ===
+[[File:M15 Halftrack in Normandy.jpg|thumb|left|M15A1 Halftrack in Normandy several days after the D-day landings|alt=A Halftrack shooting at several aircraft after Normandy.]]
+The M15 was equipped with the M42 armored weapon mount, with two water-cooled coaxial M2 Browning machine guns above a 37&amp;nbsp;mm gun.&lt;ref name=Berndt34 /&gt; A total of 680 M15s were produced in 1943 by White and [[Autocar Company|Autocar]] before the considerable stress this mount placed on the M3 chassis, which resulted in its replacement with the M54 mount. The new mount reversed weapon placement, used simpler and lighter air-cooled M2 Brownings, and added a M6 [[sight (device)#Optical sights|sighting system]].&lt;ref name=Hunnicutt131 /&gt;&lt;ref&gt;Hunter (1951), p. 220&lt;/ref&gt;
+
+The resulting combination of the M54 mount with the M3A1 Halftrack chassis was designated the M15A1 CGMC.&lt;ref name=Green152&gt;Green &amp; Green (2000), p. 152.&lt;/ref&gt; A total of 1,052 were produced in 1943, and a further 600 in 1944.&lt;ref name=Berndt33&gt;Berndt (1994), p. 33.&lt;/ref&gt;&lt;ref name=Ness193 /&gt; 100 M15s were shipped to the Soviet Union for use under the [[Lend-Lease]] policy.&lt;ref name=Zaloga42 /&gt; Both the M42 mount and M15 CGMC were classified as obsolete in August 1946.&lt;ref name=Hunnicutt195/&gt;
+
+The M15 &quot;Special&quot; was the unofficial name for an M15 (and probably other CGMCs) adapted in depots in Australia to carry only a single [[Bofors 40&amp;nbsp;mm gun]].&lt;ref name=Berndt33/&gt;&lt;ref name=Ness193 /&gt; To enhance ground support firepower during the Korean War, depots in Japan were searched for vehicles that could be refurbished for possible combat use. A shortage of 37&amp;nbsp;mm ammunition and relative abundance of 40&amp;nbsp;mm ammunition resulted in conversion of some M15s into &quot;T19s&quot;, later officially designated model M34.&lt;ref name=Hunnicutt195&gt;Hunnicutt (2001), p. 195.&lt;/ref&gt;
+
+== Service history ==
+{{quote box
+|width  = 35em
+|align  = right
+|quote  = The proficiency of this mobile weapon can be attributed to three characteristics: its mobility, enabling it to work well in close support of combat troops in forward areas and to patrol roads over which heavy traffic must travel under constant threat of bombing and strafing; its flexible firepower, combining the volume of caliber .50 with the knocking power of the 37&amp;nbsp;mm; and the facility which the fire is controlled, by using the tracer stream from the caliber .50 to bring it on target before opening up with the full volume of armament. Numerous cases are cited in which a &quot;mouse trap&quot; effect has been obtained which enemy planes came in much closer on the initial caliber .50 fire than they would on a light cannon and were caught by the 37&amp;nbsp;mm.&lt;ref name=Green151 /&gt;
+|salign  = right
+|source  = A U.S. Army report from North Africa&lt;ref name=Green151 /&gt;
+}}
+[[File:M16-halftrack-korea.jpg|thumb|The [[M16 Multiple Gun Motor Carriage|M16 MGMC]] operated alongside the M15A1 in World War II and Korea, here in action during the later conflict.|alt=A M16 on a ridge during the Korean War.]]
+
+The M15 was first used during [[Operation Torch]], the November 1942 Anglo-American invasion of North Africa. Tracer ammunition from the machine guns was used to bring the main gun onto the target when engaging enemy aircraft. T28E1 crews shot down more than a hundred aircraft during Operation Torch, the [[Battle of Kasserine Pass]], and the [[Allied Invasion of Sicily]], shooting down thirty-nine at Kasserine alone.&lt;ref name=Zaloga38&gt;Zaloga (1994),  p. 38.&lt;/ref&gt; One T28E1 was captured at Kasserine by the Germans and rebuilt as an equipment and troop carrier to replace vehicles destroyed by Allied aircraft.&lt;ref name=Berndt33 /&gt;&lt;ref name=Zaloga42&gt;Zaloga (1994), pp. 42–43.&lt;/ref&gt; During the Allied Invasion of Sicily, 78 T28E1s helped provide anti-aircraft fire for the invasion force. They were especially effective against low-flying aircraft, like [[Stuka]] dive bombers. T28E1s were used in Italy until the end of the war.&lt;ref&gt;Hunnicutt (2001), p. 185.&lt;/ref&gt;
+
+Each US Army [[Division (military)#Armored Division|armored division]] was allocated an anti-aircraft artillery (AAA) [[Company (military unit)|company]] equipped with eight M15 CGMCs and eight [[M45 Quadmount]]-equipped M16 MGMCs. At [[corps]] and [[Field army|army]] level, each AAA [[battalion]] was equipped with thirty-two of each vehicle. After first seeing action in the Allied invasion of Italy, the M15 and M15A1 served through the rest of the [[Italian Campaign (World War II)|Italian Campaign]], the [[Operation Overlord|Allied invasion of Normandy]], [[Operation Dragoon]] in southern France, and throughout the fighting on the [[Western Front (World War II)|Western Front]]. They were often used in ground support roles, as Allied [[air supremacy|air superiority]] left few German aircraft to engage. The vehicles were also used in the [[Pacific War|Pacific Theater]] during the [[Philippines Campaign (1944–1945)|campaign to liberate the Philippines]] and during the [[Battle of Okinawa]]. The M15 &quot;Special&quot; was used by the 209th AAA Battalion in the Philippines from 1944 to 1945.&lt;ref name=Berndt32/&gt;&lt;ref name=Ness193/&gt;&lt;ref name=Zaloga40/&gt;
+
+The M15 and M15A1 served in a ground-support role during the Korean War.&lt;ref name=Berndt32&gt;Berndt (1994) p. 32.&lt;/ref&gt;&lt;ref name=Ness193&gt;Ness (2002) p. 193.&lt;/ref&gt;&lt;ref name=Zaloga40&gt;Zaloga (1994), pp. 40–41.&lt;/ref&gt; The M34 (instead of the M15A1, which was then classified as &quot;[[limited standard]]&quot;) served with several AAA battalions there, including the 76th AAA Battalion and the 140th AAA Battalion. Several M15 &quot;Specials&quot; managed to avoid being scrapped in the post-war period and were also used, along with those converted in Japan.&lt;ref name=Hunnicutt195/&gt;&lt;ref&gt;Doyle (2011), p. 395.&lt;/ref&gt; After [[World War II]], many M15s were provided to Japan under the Military Aid Program (MAP).&lt;ref name=Zaloga42 /&gt;
+
+== See also ==
+{{Portal|Half-track|World War II|Cold War}}
+* [[M45 Quadmount]]
+* [[List of U.S. military vehicles by model number]]
+* [[List of U.S. military vehicles by supply catalog designation]]
+* [[Sd.Kfz. 251]], equivalent German halftrack
+
+== References ==
+
+=== Citations ===
+{{reflist|20em}}
+
+=== Bibliography ===
+* {{cite book |last=Berndt |first=Thomas |date=1993 |title=Standard Catalog of U.S. Military Vehicles|location=Iola, WI |publisher=[[Krause Publications]]|isbn=0-87341-223-0}}
+* {{cite book |last=Berndt |first=Thomas |date=1994 |title=American Tanks of World War II |url=https://www.google.com.au/search?tbo=p&amp;tbm=bks&amp;q=ISBN0879389303&amp;gws_rd=cr&amp;ei=n3-qVITaCcXPmwWdi4K4CA |location=Minneapolis, MN |publisher=[[Quarto Group|MBI Publishing Company]]|isbn=0-87938-930-3}}
+* {{cite book |last=Doyle |first=David |date=2011 |title=Standard Catalog of U.S. Military Vehicles |edition=Second |location=Iola, WI |publisher=Krause Publications |isbn=1-4402-2572-9}}
+* {{cite book |last=Gander |first=Terry |date=2013 |title=The Bofors Gun |location=Barnsley, UK |publisher=[[Pen and Sword Books|Pen and Sword]]|isbn=1-4738-3680-8}}
+* {{cite book |last1=Green |first1=Michael|last2=Green|first2=Gladys |date=2000 |title=Weapons of Patton's Armies |url=https://www.google.com.au/search?tbo=p&amp;tbm=bks&amp;q=ISBN1610607740&amp;gws_rd=cr&amp;ei=kH-qVMvpK6HUmAWNhYDYDQ |location=Minneapolis, MN |publisher=MBI Publishing Company |isbn=0-7603-0821-7}}
+* {{cite book |last1=Hogg |first1=Ian V. |last2=Weeks |first2=John S. |date=1980 |title=The Illustrated Encyclopedia of Military Vehicles |location=Englewood Cliffs, NJ|publisher=[[Prentice Hall]]|isbn=0-13-450817-3}}
+* {{cite book |last=Hunnicutt |first=R.P. |date=2001 |title=Half-Track: A History of American Semi-Tracked Vehicles |location=Novato, CA |publisher=[[Ballantine Books|Presidio Press]]|isbn=0-89141-742-7}}
+* {{cite book |last=Hunter |first=Kenneth E. |year=1951 |title=The War Against Germany and Italy: Mediterranean And Adjacent Areas |series=United States Army in World War II |location= Washington, DC |publisher=Government Printing Office |isbn=0-16-087289-8}}
+* {{cite book |last=Ness|first=Leland S. |date=2002 |title=Jane's World War II Tanks and Fighting Vehicles|location=London, UK |publisher=[[HarperCollins]]|isbn=0-00-711228-9}}
+* {{cite book |last=Rottman |first=Gordon |date=2009 |title=World War II US Armored Infantry Tactics|location=Oxford, UK |publisher=[[Osprey Publishing]]|isbn=1-78096-083-2}}
+* {{cite book |last=Zaloga|first=Steven J.|authorlink=Steven Zaloga |year=1994|title=M3 Infantry Half-Track 1940–1973 |series=New Vanguard |location=Oxford, UK|publisher=Osprey Publishing |isbn=1-85532-467-9}}
+
+===Journals===
+
+* {{cite journal|url=https://books.google.com/books?id=S9YDAAAAMBAJ&amp;pg=PA7&amp;dq=Popular+Science+1935+plane+%22Popular+Mechanics%22#v=onepage&amp;q&amp;f=true|title=Hit-Run Ack-Ack Guns Mounted on a Half-Track|journal=Popular Mechanics |date=December 1943|p=7|volume=80|issue=6|author1=Magazines|first1=Hearst}} (including [https://books.google.com/books?id=S9YDAAAAMBAJ&amp;pg=PA0&amp;dq=Popular+Science+1935+plane+%22Popular+Mechanics%22&amp;hl=en&amp;ei=Uu44TpGOEquGsgLepeUC&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCgQ6AEwADgU#v=onepage&amp;q&amp;f=true &quot;cover artwork&quot;])
+
+==Further reading==
+{{Commons|Multiple Gun Motor Carriage M15}}
+* {{cite book | title=Death Traps: The Survival of an American Armored Division in World War II | publisher=Ballatine Books | author=Cooper, Belton Y. | year=2003 | location=New York, NY | isbn=978-1-299-17054-4}}
+
+{{WWIIAmericanAFVs|state=collapsed}}
+
+{{DEFAULTSORT:M15 Halftrack}}
+[[Category:Cold War armored fighting vehicles of the United States]]
+[[Category:Half-tracks of the United States]]
+[[Category:World War II armored fighting vehicles of the United States]]
+[[Category:World War II half-tracks]]
+[[Category:Anti-aircraft vehicles of the United States]]
+[[Category:Cold War Half-tracks]]</text>
+      <sha1>9w26l2p9n3won8wxa1jv6rejpow6ys0</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,349 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ilyushin Il-22</title>
+    <ns>0</ns>
+    <id>19945930</id>
+    <revision>
+      <id>737849575</id>
+      <parentid>733466388</parentid>
+      <timestamp>2016-09-05T11:13:53Z</timestamp>
+      <contributor>
+        <username>Marigold100</username>
+        <id>18920676</id>
+      </contributor>
+      <comment>Design para1, &quot;much&quot; para 2, comma, &quot;was&quot; para 3, commas, &quot;the&quot; &quot;neighbor&quot; &quot;reliable,&quot; para 5, deleted comma, Testing, &quot;produced only&quot; &quot;first-ever&quot;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13886">''For the 1970s [[Airborne Command Post]] aircraft of the same designation, see [[Ilyushin Il-18#Military|Ilyushin Il-18]]''
+
+{|{{Infobox Aircraft Begin
+  |name = Il-22
+  |image =Il-22front.jpg
+  |caption = '''Ilyushin Il-22'''
+}}{{Infobox Aircraft Type
+  |type = [[Bomber]]
+  |national origin=Soviet Union
+  |manufacturer = [[Ilyushin]]
+  |designer = 
+  |first flight =22 July 1947
+  |introduction = 
+  |retired = 
+  |status = Prototype
+  |primary user = 
+  |more users = 
+  |produced = 
+  |number built = 1
+  |unit cost = 
+  |developed from = 
+  |variants with their own articles =
+}}
+|}
+
+The '''Ilyushin Il-22''', [[USAF]]/[[USDOD|DOD]] designation '''Type 10''',&lt;ref name=pa&gt;Parsch, Andreas and Aleksey V. Martynov. [http://www.designation-systems.net/non-us/soviet.html#_DOD_Type &quot;Designations of Soviet and Russian Military Aircraft and Missiles.&quot;] ''designation-systems.net,'' 2008. Retrieved: 21 August 2011.&lt;/ref&gt; was the first [[Soviet Union|Soviet]] [[Jet engine|jet-engined]] [[bomber]] to fly. It used four [[Lyulka TR-1]] [[turbojet]]s carried on short horizontal pylons ahead and below the wing. The engines did not meet their designed thrust ratings and their fuel consumption was higher than planned. These problems meant that the aircraft could not reach its required performance and it was cancelled on 22 September 1947.&lt;ref name=&quot;Nemecek&quot;&gt;{{Harvnb |Němeček|1986 | p=170.}}&lt;/ref&gt;
+
+==Design and development==
+The [[Government of the Soviet Union|Council of Ministers]] ordered the [[Ilyushin]] design bureau on 12 February 1946 to begin work on a bomber that would use four of the new TR-1 jet engines. Experiences with the first generation of jet fighters had revealed unsuspected problems involved with high-speed flight and Ilyushin devoted much effort to mitigate them. The long, thin [[Swept wing|unswept]] wing was conventional in appearance, but it was shaped to improve lateral stability at high [[Angle of attack|angles of attack]] and to prevent the onset of [[Stall (flight)|tip stall]].&lt;ref&gt;Gordon 2004, p. 108.&lt;/ref&gt;
+
+Another problem discovered by the jet fighters was unexpectedly dropping a wing at high speeds and high altitudes. This was traced to manufacturing defects in the wings that made no difference at low speeds and altitudes, but meant that each wing had a slightly different [[airfoil]] and hence, a different amount of [[Lift (force)|lift]]. To counter this [[Sergey Ilyushin]] and his team developed a new manufacturing technique that reversed the traditional practice where the internal supporting members were affixed to the assembly [[Jig (tool)|jig]] and the aircraft's skin panels were then attached. This new method meant that the skin panels were placed in the jigs where the correct curvature and shape could be guaranteed and the internal structure was then fastened to them. This required that manufacturing joints be used along the [[Chord (aircraft)|chord lines]] of the wings and tail surfaces, which split the [[Spar (aviation)|spars]] and [[Rib (aircraft)|ribs]] in half.  Similarly, the fuselage was built the same way, although it was split vertically along the centerline. This new technique did impose a small weight penalty, but had the unexpected advantage of greatly accelerating the assembly process as the internal equipment could be installed before the halves were joined together. This allowed several teams to work on a single sub-assembly before they were mated.&lt;ref&gt;Gordon 2004, pp. 108–109.&lt;/ref&gt;
+
+Most of the other multi-engined jet aircraft in existence, when the Il-22 was being designed, either had the engines in a nacelle (singly or in pairs) directly attached to the underside of the wing or were buried in the wing itself. Clustering them in a nacelle offered several advantages over individual nacelles as it reduced overall drag and minimized interference drag, but had the major operational disadvantage that an uncontained fire in one engine could disable its neighbor as well and the early jet engines were not reliable, so this was a significant risk. Ilyushin chose to put the TR-1 engines ahead and below the wing leading edge on short horizontal pylons. This gave them the beneficial effect of acting as anti-flutter weights and proved to be more efficient aerodynamically than underwing nacelles. This also facilitated engine changes and maintenance by making them more accessible to the ground crews.&lt;ref&gt;Gordon 2004, p. 109.&lt;/ref&gt;
+
+Neither the thin wing nor the engine nacelles offered any place to store the main landing gear so the fuselage was designed as a flattened oval to give them as wide a track as possible. This also provided plenty of room for the {{convert|9300|kg|abbr=on}} of fuel stored in three bags, one each ahead, above and behind the [[bomb bay]]. This could carry up to {{convert|3000|kg|abbr=on}} of bombs. The fuselage nose was largely glazed and came to a point, much like the noses of the [[Boeing B-29 Superfortress]], [[Heinkel He 111]] and [[Arado Ar 234]], to reduce drag. The Il-22 had a crew of five, two pilots in the nose, the bombardier-navigator in front of them in the tip of the nose, the dorsal gunner/radio operator immediately behind the pilots and the rear turret gunner behind the tail.&lt;ref&gt;Gordon 2004, p. 110.&lt;/ref&gt;
+[[File:Ilyushin Il-22.png|left|thumb|plan view of the Il-22]]
+
+A {{convert|23|mm|adj=on}} [[Nudelman-Suranov NS-23]] [[autocannon]] with 150 rounds was fixed on the lower starboard side of the nose; it was fired by the pilot who had a primitive ring sight to use for aiming. The dorsal turret mounted two {{convert|20|mm|adj=on}} [[Berezin B-20]]E guns with 400 rounds per gun and was capable of almost 360° of traverse; special microswitches prevented the gunner from firing into the bomber's tail. The turret was remotely controlled by the radio operator and was powered by electric motors for both traverse and elevation. The gunner and his gunsight used a small observation blister at the rear of the main crew compartment to lay the guns on their target. The sight automatically compensated for [[parallax]] between the gunner and the turret as well as the required amount of target lead and the shell's ballistics. The remote-control system offered several advantages including a smaller turret that had less drag, the guns could be fixed more rigidly to their mounts, the sight was not exposed to vibrations from firing and could track targets more smoothly and the gunner's comfort did not have to be sacrificed to optimize the performance of the turret. The major disadvantage, of course, was that the remote control system was exceedingly complicated for the period and prone to breaking down. The rear gunner was placed at the very tail of the Il-22 to optimize his field of fire in an electro-hydraulically powered Il-KU3 turret that mounted another NS-23 cannon. The turret could traverse a total of 140°, elevate 35° and depress 30°.&lt;ref&gt;Gordon 2004, p. 111.&lt;/ref&gt;
+
+==Testing and evaluation==
+The prototype Il-22 was rapidly assembled and made its first flight on 24 July 1947. It proved to have docile handling characteristics, but was severely underpowered as the TR-1 engines produced only 80% of the required thrust. During the latter part of the manufacturer's flight tests the Il-22 made the first-ever Soviet [[JATO|jet-assisted]] takeoff on 7 February 1948 with a pair of SR-2 boosters. As the thrust of the engines could not be increased in a timely manner Ilyushin made the decision not to submit the bomber for state acceptance trials as its performance did not meet the requirements laid down for it in 1946.&lt;ref name=g2&gt;Gordon 2004, p. 112.&lt;/ref&gt;
+
+==Specifications (Il-22)==
+{{Aircraft specs
+|ref=Early Soviet Jet Bombers&lt;ref name=GordonESJB&gt;{{cite book|last=Gordon|first=Yefim|title=Early Soviet Jet Bombers|year=2004|publisher=Midland Publishing|location=Hinkley|isbn=1 85780 181 4}}&lt;/ref&gt; 
+|prime units?=met
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=
+|capacity=
+|length m=21.05
+|length ft=
+|length in=
+|length note=
+|span m=23.06
+|span ft=
+|span in=
+|span note=
+|upper span m=
+|upper span ft=
+|upper span in=
+|upper span note=
+|mid span m=
+|mid span ft=
+|mid span in=
+|mid span note=
+|lower span m=
+|lower span ft=
+|lower span in=
+|lower span note=
+|swept m=&lt;!-- swing-wings --&gt;
+|swept ft=&lt;!-- swing-wings --&gt;
+|swept in=&lt;!-- swing-wings --&gt;
+|swept note=
+|dia m=&lt;!-- airships etc --&gt;
+|dia ft=&lt;!-- airships etc --&gt;
+|dia in=&lt;!-- airships etc --&gt;
+|dia note=
+|width m=&lt;!-- if applicable --&gt;
+|width ft=&lt;!-- if applicable --&gt;
+|width in=&lt;!-- if applicable --&gt;
+|width note=
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=74.5
+|wing area sqft=
+|wing area note=
+|swept area sqm=&lt;!-- swing-wings --&gt;
+|swept area sqft=&lt;!-- swing-wings --&gt;
+|swept area note=
+|volume m3=&lt;!-- lighter-than-air --&gt;
+|volume ft3=&lt;!-- lighter-than-air --&gt;
+|volume note=
+|aspect ratio=&lt;!-- sailplanes --&gt;
+|airfoil=
+|empty weight kg=14,950
+|empty weight lb=
+|empty weight note=
+|gross weight kg=20000
+|gross weight lb=
+|gross weight note=(design target {{convert|24000|kg|lb|abbr=on}})
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity={{convert|9300|kg|lb|abbr=on}}
+|lift kg=&lt;!-- lighter-than-air --&gt;
+|lift lb=&lt;!-- lighter-than-air --&gt;
+|lift note=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=4
+|eng1 name=[[Lyul'ka TR-1]]
+|eng1 type=axial flow turbojet
+|eng1 kW=
+|eng1 hp=&lt;!-- prop engines --&gt;
+|eng1 shp=&lt;!-- prop engines --&gt;
+|eng1 kn=12.75
+|eng1 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng1 note=
+|power original=
+|thrust original=
+|eng1 kn-ab=&lt;!-- afterburners --&gt;
+|eng1 lbf-ab=&lt;!-- afterburners --&gt;
+
+|eng2 number=
+|eng2 name=
+|eng2 type=
+|eng2 kW=&lt;!-- prop engines --&gt;
+|eng2 hp=&lt;!-- prop engines --&gt;
+|eng2 shp=&lt;!-- prop engines --&gt;
+|eng2 kn=&lt;!-- jet/rocket engines --&gt;
+|eng2 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng2 note=
+|eng2 kn-ab=&lt;!-- afterburners --&gt;
+|eng2 lbf-ab=&lt;!-- afterburners --&gt;
+
+|eng3 number=
+|eng3 name=
+|eng3 type=
+|eng3 kW=&lt;!-- prop engines --&gt;
+|eng3 hp=&lt;!-- prop engines --&gt;
+|eng3 shp=&lt;!-- prop engines --&gt;
+|eng3 kn=&lt;!-- jet/rocket engines --&gt;
+|eng3 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng3 note=
+|eng3 kn-ab=&lt;!-- afterburners --&gt;
+|eng3 lbf-ab=&lt;!-- afterburners --&gt;
+|more power=
+
+|prop blade number=&lt;!-- propeller aircraft --&gt;
+|prop name=
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop dia note=
+
+|rot number=&lt;!-- helicopters --&gt;
+|rot dia m=&lt;!-- helicopters --&gt;
+|rot dia ft=&lt;!-- helicopters --&gt;
+|rot dia in=&lt;!-- helicopters --&gt;
+|rot area sqm=&lt;!-- helicopters --&gt;
+|rot area sqft=&lt;!-- helicopters --&gt;
+|rot area note=
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=656.5
+|max speed mph=
+|max speed kts=
+|max speed note=at sea level&lt;br&gt;
+::::{{convert|705|km/h|mph kn|abbr=on}} at {{convert|5000|m|ft|abbr=on}}
+::::{{convert|718|km/h|mph kn|abbr=on}} at {{convert|7000|m|ft|abbr=on}}
+*'''Landing Speed:''' {{convert|190|km/h|mph kn|abbr=on}}
+*'''Landing Run:''' {{convert|940|m|ft|abbr=on}}
+*'''Take-off Run:''' {{convert|1144|m|ft|abbr=on}}
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=485
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=865 
+|range miles=
+|range nmi=
+|range note= with {{convert|2000|kg|lb|abbr=on}} of bombs, at {{convert|4900|m|ft|abbr=on}} at {{convert|485|km/h|mph kn|abbr=on}}
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|combat range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=&lt;!-- if range unknown --&gt;
+|ceiling m=11,100
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude= {{convert|5000|m|ft|abbr=on}} in 8.6 minutes, {{convert|8000|m|ft|abbr=on}} in 17.4 minutes
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|disk loading kg/m2=
+|disk loading lb/sqft=
+|disk loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=
+
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|guns=&lt;br&gt;
+**1 x fixed, forward-firing {{convert|23|mm|in|abbr=on|3}} [[Nudelman-Suranov NS-23]]
+** 2 x {{convert|20|mm|in|abbr=on|3}} [[Berezin B-20]]E gun in the dorsal turret
+** 1 x {{convert|23|mm|in|abbr=on|3}} NS-23 gun in the rear turret
+|bombs=Normal {{convert|2000|kg|lb|abbr=on}}, Maximum {{convert|3000|kg|lb|abbr=on}}
+
+|avionics=
+}}
+
+==See also==
+{{aircontent
+|related=
+|similar aircraft=
+* [[Arado Ar 234]]
+* [[Convair XB-46]]
+* [[Martin XB-48]]
+* [[North American B-45 Tornado]]
+|lists=
+* [[List of bomber aircraft]]
+}}
+
+==References==
+
+===Notes===
+{{reflist|2}}
+
+===Bibliography===
+{{refbegin}}
+*{{cite book|last=Gordon|first=Yefim|title=Early Soviet Jet Bombers|year=2004|publisher=Midland Publishing|location=Hinkley|isbn=1 85780 181 4}}
+* Gordon, Yefim and Dmitriy and Sergey Komissarov. ''OKB Ilyushin: A History of the Design Bureau and its Aircraft.'' London: Ian Allan, 2004. ISBN 1-85780-187-3.
+* Němeček, Václav. ''The History of Soviet Aircraft from 1918.'' London: Willow Books, 1986. ISBN 0-00-218033-2.
+{{refend}}
+
+==External links==
+{{commons category|Ilyushin Il-22 (bomber)}}
+* [http://ram-home.com/ram-old/il-22.html Il-22 on ram-home.com]
+
+{{Ilyushin aircraft}}
+
+[[Category:Soviet bomber aircraft 1940–1949]]
+[[Category:Ilyushin aircraft|Il-022]]
+[[Category:Abandoned military aircraft projects of the Soviet Union]]
+[[Category:Quadjets]]</text>
+      <sha1>57tjifl2utgmjzkjjqn4nombr1onja6</sha1>
+    </revision>
+  </page>
+</mediawiki>

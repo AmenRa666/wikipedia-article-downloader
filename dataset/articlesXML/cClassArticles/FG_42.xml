@@ -1,0 +1,209 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>FG 42</title>
+    <ns>0</ns>
+    <id>296187</id>
+    <revision>
+      <id>750993620</id>
+      <parentid>748210806</parentid>
+      <timestamp>2016-11-22T18:47:33Z</timestamp>
+      <contributor>
+        <username>Felsic2</username>
+        <id>27774530</id>
+      </contributor>
+      <comment>add back &quot;Battle rifle&quot; with cites - see talk</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23343">{{Infobox Weapon
+|name=''Fallschirmjägergewehr'' 42
+|image=[[File:FG42.jpg|300px]]
+|caption=Both early (top) and late-war (bottom) variants of the FG 42.
+|origin=[[Nazi Germany]]
+|type=[[Automatic rifle]]&lt;ref&gt;Military Small Arms of the 20th Century. 7th Edition. By Ian V. Hogg &amp; John S. Weeks. Krause Publictaions. 2000 pages 241 &amp; 242&lt;/ref&gt;&lt;ref&gt;http://www.lonesentry.com/articles/fg42/index.html &quot;New German Rifle for Paratroopers&quot; from Intelligence Bulletin, June 1944.&lt;/ref&gt; or [[Battle rifle]]&lt;ref name=&quot;James&quot;&gt;{{cite book|title=Gun Digest 2015|page=88|chapter=The Machine Gun Investor|editor1-first=Jerry |editor1-last=Lee||first1=Frank W.|last1=James|publisher=F+W Media, Inc.|date=2014|isbn=1440239126}}&lt;/ref&gt;&lt;ref name=&quot;Thompson&quot;&gt;{{cite book|title=The M14 Battle Rifle| first1=Leroy|last1= Thompson|page=8|publisher=Bloomsbury Publishing|date=2014|isbn=9781472802569}}&lt;/ref&gt;&lt;ref name=&quot;McNab&quot;&gt;{{cite book|title=The World's Greatest Small Arms: An Illustrated History|first1= Chris|last1= McNab|page=197|publisher=Amber Books Ltd|date=2015 |isbn=9781782742746}}&lt;/ref&gt;
+&lt;!-- Type selection --&gt;
+|is_ranged=Yes
+&lt;!-- Service history --&gt;
+|service=1942–1945
+|used_by=See ''[[#Users|Users]]
+|wars=[[World War II]]
+&lt;!-- Production history --&gt;
+|designer=[[Louis Stange]]
+|design_date=1941–1942
+|manufacturer=[[Rheinmetall]] (limited)&lt;br/&gt; Heinrich Krieghoff Waffenfabrik, L. O. Dietrich (limited)
+|unit_cost=
+|production_date=1943–1945
+|number=
+|variants=Early model (original Rheinmetall-Borsig design)&lt;br /&gt;Late model (Krieghoff revision)
+&lt;!-- General specifications --&gt;
+|spec_label=
+|weight=''Ausführung'' &quot;E&quot;: {{convert|4.2|kg|lb|1|abbr=on}}&lt;br/&gt; ''Ausführung'' &quot;G&quot;: {{convert|4.95|kg|abbr=on}}
+|length=''Ausführung'' &quot;E&quot;: {{convert|945|mm|in|abbr=on}}&lt;br/&gt; ''Ausführung'' &quot;G&quot;: {{convert|975|mm|abbr=on|1}}
+|part_length={{convert|500|mm|abbr=on|1}}
+|width=
+|height=
+|diamter=
+&lt;!-- Ranged weapon specifications --&gt;
+|cartridge=[[7.92×57mm Mauser]]
+|action=[[Gas-operated reloading|Gas-operated]], [[rotating bolt]]
+|rate=''Ausführung'' &quot;E&quot;: ~900 rounds/min&lt;br/&gt; ''Ausführung'' &quot;G&quot;: ~750 rounds/min
+|velocity={{convert|740|m/s|0|abbr=on}} (SmK bullet)
+|range=600 m
+|max_range=
+|feed=10- or 20-round detachable [[box magazine]]
+|sights=[[Iron sights]] (all models); flip-up front post and folding rear diopter sight; ZFG42 or ZF4 scope
+}}
+
+The '''FG 42''' ([[German language|German]]: ''Fallschirmjägergewehr'' 42, &quot;paratrooper rifle 42&quot;) is a [[selective fire|selective-fire]] [[automatic rifle]]&lt;ref&gt;Military Small Arms of the 20th Century. 7th Edition. By Ian V. Hogg &amp; John S. Weeks. Krause Publictaions. 2000 pages 241 &amp; 242&lt;/ref&gt;&lt;ref&gt;http://www.lonesentry.com/articles/fg42/index.html &quot;New German Rifle for Paratroopers&quot; from Intelligence Bulletin, June 1944.&lt;/ref&gt; or [[battle rifle]]&lt;ref name=&quot;James&quot;/&gt;&lt;ref name=&quot;Thompson&quot;/&gt;&lt;ref name=&quot;McNab&quot;/&gt; produced in [[Nazi Germany]] during [[World War II]]. The weapon was developed specifically for the use of the [[Fallschirmjäger (World War II)|Fallschirmjäger]] [[Airborne forces|airborne infantry]] in 1942 and was used in very limited numbers until the end of the war.
+
+It combined the characteristics and firepower of a [[light machine gun]] in a lightweight form no larger than the standard-issue [[Karabiner 98k|Kar 98k]] [[bolt-action]] [[rifle]]. Considered one of the most advanced weapon designs of [[World War II]],&lt;ref name=&quot;Senich&quot;&gt;Senich, Peter: ''The German Assault Rifle: 1935–1945'', page 239. Paladin Press, 1987.&lt;/ref&gt;&lt;ref name=&quot;Miller&quot;&gt;Miller, David: ''Fighting Men of World War II: Axis Forces : Uniforms, Equipment and Weapons'', page 104. Stackpole Books, 2007.&lt;/ref&gt; the FG 42 influenced post-war small arms development, and most of its design was copied by the US Army when they developed the [[M60 machine gun]].&lt;ref name=&quot;Bishop&quot;&gt;Bishop, Chris: ''The Encyclopedia of Weapons of World War II'', page 217. Sterling Publishing, 2002.&lt;/ref&gt;
+
+==History==
+[[Image:Bundesarchiv Bild 101I-720-0344-11, Frankreich, Fallschirmjäger mit FJG 42 in Stellung.jpg|thumb|left|A [[Germany|German]] ''[[Fallschirmjäger (Nazi Germany)|Fallschirmjäger]]'' poses with his early model FG 42 (''Ausführung'' &quot;C&quot;) in [[France]], 1944.]]
+[[File:Bundesarchiv Bild 101I-567-1503A-01, Gran Sasso, Fallschirmjäger vor Lastensegler.jpg|thumb|right|The FG 42 was used by paratroopers of the ''Fallschirmjägerlehrbattalion'' (Paratroopers' Instructional Battalion) to try out new equipment during the [[Gran Sasso raid|raid to free Benito Mussolini in September 1943]].]]
+
+At the time of the [[Battle of Crete]] (Operation Mercury), German ''Fallschirmjäger'' were equipped with the same assortment of small arms as the ''[[German Army (Wehrmacht)|Heer]]'', carrying only [[pistol]]s and [[hand grenade]]s on them during parachute jumps, with [[submachine gun]]s, [[rifle]]s and crew-served weapons stored separately in containers that were dropped from the wing of the exit craft. The German [[parachute]] harness, with a single strap attached to the body making the paratrooper land on his hands and knees in a forward roll, did not allow for heavier equipment such as rifles and [[machine gun]]s to be safely carried during jumps. At Crete, long-range rifle and machine gun fire from dug-in [[Commonwealth of Nations|Commonwealth]] defenders inflicted heavy casualties upon the outgunned German paratroopers in the early stages of battle as they attempted to retrieve their support weapons from containers scattered all over the battlefield.&lt;ref name=&quot;Dugelby&quot;&gt;Dugelby, Thomas B.: ''Death from Above—The German FG42 Paratroop Rifle'', page 3. Collector Grade Publications, 2007.&lt;/ref&gt; These combat experiences demonstrated the need for a rifle that could be carried on the person of the paratrooper.
+
+===Development===
+In 1941, the German Air Force (''[[Luftwaffe]]'') requested a [[selective-fire]] hand-held weapon for the paratroopers; Senior Staff Air Secretary Ossenbach at the ''GL/C Erprobungsstelle-6'' (GL/C E-6—the ''Luftwaffe'' Weapons Development Branch at [[Tarnewitz test site|Tarnewitz]] near [[Lübeck]]) was approached informally to develop this special new weapon.&lt;ref name=&quot;Dugelby&quot;/&gt; The [[Reich Air Ministry]] (''Reichsluftfahrtministerium'' or RLM) sought to develop a universal shoulder-fired automatic rifle that could replace the bolt-action rifle, submachine gun, and light machine gun in the air assault role.&lt;ref name=&quot;Senich&quot;/&gt; The proposed weapon would also simplify logistics and provide greater firepower to the individual paratrooper.
+
+The RLM attempted to initiate a formal weapons development program through the ''[[Waffenamt|Heereswaffenamt]]'' (the HWaA, or Army Ordnance Department)—responsible for German small arms development—but conflicting priorities and friction with the Army (the HWaA dismissed the undertaking as unrealistic and offered their [[Gewehr 41|G 41(W)]] [[semi-automatic rifle]] instead) led to an independent development by the ''Luftwaffe''. Plans were laid out to form a central authority for the new program at the Luftwaffe's [[Tarnewitz test site|''Erprobungstelle'' coastal testing station at Tarnewitz]]. The engineers on staff had acquired considerable expertise developing lightweight automatic weapons, having successfully converted the [[MG 15 machine gun|MG 15]] aircraft machine gun to a ground configuration.&lt;ref name=&quot;Dugelby_4&quot;&gt;Dugelby, 4&lt;/ref&gt; However, due to the high casualties sustained by the paratroopers during [[Operation Mercury]], [[Adolf Hitler|Hitler]] changed his mind about the usefulness of airborne assaults and the plans were terminated.&lt;ref name=&quot;Dugelby_4&quot;/&gt; Nevertheless, ''Luftwaffe'' ''Reichsmarschall'' [[Hermann Göring]] privately ordered the continuation of the project.&lt;ref name=&quot;Dugelby_4&quot;/&gt;
+
+The RLM went directly to German industry with its plans—the so-called '''LC-6''' specification issued 14 December 1941 mentioned amongst others that the weapon should not exceed {{convert|1000|mm|abbr=on|1}} in length, should not be significantly heavier than the Kar 98k rifle, should be able to fire single shots from a [[closed bolt]], provide fully automatic fire from an [[open bolt]], feed from detachable 10- or 20-round [[Magazine (firearm)|magazines]] and be able to fire [[rifle grenade]]s. Despite the introduction of the intermediate [[7.92×33mm Kurz|7.9mm ''Kurz'']] cartridge promoted by the ''Heer'' (developed for the promising [[StG 44|MP 43]] assault rifle), the ''Luftwaffe'' favored the long-range potential of the standard [[7.92×57mm Mauser]] rifle round and this caliber was one of the main design prerequisites.&lt;ref name=&quot;Senich&quot;/&gt;
+
+====Prototypes====
+Six manufacturers were solicited for prototype designs: Gustloff-Werke, [[Mauser]], Johannes Großfuß Metall- und Lackierwarenfabrik, C.G. Hänel, [[Rheinmetall|Rheinmetall-Borsig]] and Heinrich Krieghoff Waffenfabrik.&lt;ref name=&quot;Senich&quot;/&gt;&lt;ref name=&quot;Dugelby_4&quot;/&gt; Several contracts were awarded but only a few prototypes are known to have been submitted. Mauser offered a version of the [[MG 81 machine gun|MG 81]] (rejected due to excessive weight and its belt-fed operation)&lt;ref name=&quot;Dugelby_5&quot;&gt;Dugelby, 5&lt;/ref&gt; while Krieghoff presented a rising-block prototype, which too was quickly dropped. A design credited to Rheinmetall-Borsig's Louis Stange of [[Sömmerda]] proved satisfactory and underwent military trials conducted by the GL/C E-6 test station at Tarnewitz in mid-1942.&lt;ref name=&quot;Senich&quot;/&gt; This early prototype, known under the factory designation '''''Gerät'' 450''' (&quot;device 450&quot;) or '''''Ausführung'' &quot;A&quot;''' (&quot;type A&quot;), was intended to be a pure [[sheet metal]] design, using pressed steel in the construction of the [[receiver (firearms)|receiver]], [[buttstock]] and corrugated handguard. The proposed system of operation was modeled on that used in the [[World War I]] [[Lewis Gun|Lewis]] light machine gun, with a [[Gas-operated reloading|gas-operated]] [[Rotating bolt|turning bolt]] action geared to a spiral (clock-type) recoil spring.&lt;ref name=&quot;Dugelby_8&quot;&gt;Dugelby, 8&lt;/ref&gt; The type &quot;A&quot; was never produced beyond model form, but the basic design layout was retained for further development.&lt;ref name=&quot;Dugelby_9&quot;&gt;Dugelby, 9&lt;/ref&gt;
+
+With the basic characteristics of the LC-6 accepted, a series of modifications followed. The revised '''''Ausführung'' &quot;B&quot;''' replaced the sheet metal handguard with a [[resin]]-impregnated fiber type that provided protection against heat and a better grip when wet.&lt;ref name=&quot;Dugelby_9&quot;/&gt;
+
+These tests exposed several shortcomings, addressed by Stange in April 1942 with the '''LC-6/II''' prototype. The prototype was then submitted to a series of endurance tests led by the HWA and further modified to increase functional reliability and durability, resulting in the final '''LC-6/III''' prototype variant that was ultimately accepted into production as the FG 42. Fifty rifles were fabricated by Rheinmetall-Borsig for evaluation purposes by the end of 1942.
+
+A pre-series batch of 50 rifles was produced in early 1943 and 6 examples were sent to GL/C E-6 for additional testing. Almost identical to the LC-6/III, these guns differ from later models by using a smooth [[sheet metal]] buttstock and an experimental [[muzzle brake]]. The weapons experienced serious malfunctions: one rifle suffered a catastrophic failure after firing only 2,100 rounds, a soldier was injured when attempting to fire a rifle grenade and the pressed metal buttstock would deform after launching a small number of rifle grenades.
+
+===Production===
+Several other improvements were made before being authorized for large-scale production. The original Rheinmetall design used [[Chromium|chrome]]-[[nickel]] [[steel]] heavily in many essential components, a strategic alloy in short supply. When the ''Luftwaffe'' was finally given permission to produce 3,000 rifles for combat trials, the material specifications were changed to accommodate the use of [[manganese]] steel as a substitute.&lt;ref name=&quot;Senich&quot;/&gt; The Heinrich Krieghoff company of [[Suhl]] (authors of the previous unsuccessful LC-6 tender) was contracted to manufacture the FG 42 in limited quantity as Rheinmetall did not have the capacity to bring the FG 42 into serial production.
+
+The weapon system underwent continuous development. Its expedited development, remedial changes to the original design and ever-changing ''Luftwaffe'' requirements resulted in a myriad of variants.&lt;ref name=&quot;Senich&quot;/&gt; Post-war literature typically identifies three versions, however the Germans did not give them separate designations; the &quot;Model I&quot;, &quot;Model II&quot; and &quot;Model III&quot; were never officially referenced and period documents simply refer the weapon as the &quot;FG 42&quot;, and the reference was always made to the latest production model.&lt;ref name=&quot;Senich_240&quot;&gt;Senich, 240&lt;/ref&gt;
+
+====First operational use====
+The weapon saw first operational use during the [[Gran Sasso raid]] ('''Unternehmen ''Eiche''''') in September 1943 when German paratroopers and [[Waffen-SS]] [[commando]]s rescued Italian dictator [[Benito Mussolini]] from his captors – 200 well-equipped Carabinieri guards. However, during the whole airborne operation (which was personally ordered by Hitler) not a single shot was fired.
+
+===Deployment===
+[[File:Bundesarchiv Bild 101I-720-0344-09, Frankreich, Fallschirmjäger mit Fallschirmjägergewehr.jpg|right|thumb|A ''Fallschirmjäger'' firing the early FG 42 in June 1944]]
+
+After approximately 2,000 FG 42s had been produced by Krieghoff, supplies of the [[manganese]] steel from which the receivers were forged were diverted to other needs; this meant a redesign was required to use stamped sheet metal in its place. Field reports were also requesting minor improvements, such as: relocating the bipod from the front of the handguard to the muzzle to reduce shot dispersion; changing the pistol grip angle to near vertical; enlarging the handguard and changing the stock from stamped steel to wood to minimize overheating. These changes, particularly the pistol grip change and the bipod relocation, are clearly visible on late-model FG 42s. Both models also had a simple flip-out spike bayonet under the barrel hidden by the bipod. In the later version the bayonet was shortened from around {{convert|10|in|mm}} to around {{convert|6|in|mm}}.
+
+==Design details==
+[[File:FG-42 Rifle.png|thumb|right|FG 42, known informally as the &quot;early model&quot; or &quot;Model I&quot;. Characteristic of the early models was the [[bipod]] placement (hinged to the barrel collar in front of the handguard), [[Forging|forged]] [[Receiver (firearms)|receiver]], ribbed [[Stock (firearm)|buttstock]] and the sharply angled [[pistol grip]].]]
+[[File:Bundesarchiv Bild 101I-567-1503E-15, San Felice, Inspektion von Fallschirmtruppen.jpg|thumb|right|German officers inspect and strip an FG 42 in December 1943]]
+[[File:FG42 Base Borden Military Museum 1.jpg|thumb|FG 42 grip (late war model)]]
+
+===General configuration/layout===
+The FG 42 was a [[select-fire]] air-cooled weapon and one of the first to incorporate the &quot;straight-line&quot; recoil configuration. This layout, combined with the side [[Magazine (firearm)|magazine]], placed both the [[center of gravity]] and the position of the shoulder stock nearly in line with the longitudinal axis of the bore, a feature increasing controllability during burst or automatic fire.&lt;ref name=&quot;Senich_240&quot;/&gt; The operating system was derived from that used in the successful [[Lewis Gun|Lewis]] light machine gun with a [[Gas-operated reloading|gas piston-actuated]] [[rotating bolt|turning-bolt]] locking mechanism.&lt;ref name=&quot;Senich_240&quot;/&gt; This system used pressurized exhaust gases from the bore and channeled them through a port drilled in the barrel into a gas cylinder located under the barrel. The rapid build-up of propellant gases imparted rearward pressure on a long-stroke piston, driving it backwards, while an extension of the bolt carrier interacted with a [[Helix|helical]] camming slot [[Machining|machined]] into the bolt carrier, converting this linear movement into an [[angular velocity]] and forcing the bolt into a [[Rotation|rotary motion]], clearing the locking juts and unlocking it near the end of the bolt carrier's travel. The weapon was locked into battery by two lugs on the bolt head which recessed into appropriate cavities machined into the receiver walls. Owing to its main intended use by paratroopers, the rear sight (which necessarily was rather high due to the straight stock design) was a flip-up construction.{{Citation needed|date=December 2011}}
+
+===Receiver specifics and magazine feeding===
+The receiver was a sophisticated, machined [[alloy]] [[forging]] with the magazine housing placed on the left-hand side and the ejection port on the right. The seemingly awkward placement of the magazine housing (horizontally to the side rather than directly beneath the receiver) allowed the bolt mechanism to extend into the buttstock assembly, effectively reducing the overall length of the weapon as the magazine well did not interfere with the location of the pistol grip. The pistol grip was integrated into the trigger group assembly, a separate housing containing the trigger mechanism and fire control components, and was formed from pressed sheet metal during fabrication from two separate halves and then welded together.&lt;ref name=&quot;Senich_240&quot;/&gt;
+
+The rifle fed from either a 10- or 20-round detachable box magazine.
+
+===Firing===
+The FG 42 fired in semi-automatic mode from a [[closed bolt]], accomplished by delaying the release of the firing pin (mounted on the bolt carrier and released by the front [[Sear (firearm)|sear]] notch) until after the [[Trigger (firearms)|trigger]] had been pressed; the short lock time, and little movement in the action during firing translated into greater single-shot accuracy.&lt;ref name=&quot;Senich_240&quot;/&gt; When operating in the automatic mode, the sear mechanism was designed to fire from an [[open bolt]] by simultaneously releasing both the bolt and bolt carrier. This had the advantage of preventing a phenomenon known as &quot;[[Cooking off|cook off]]&quot; where the heat of repeated rounds being fired caused a chambered round to overheat and prematurely ignite the powder or primer. With automatic fire selected, the bolt would remain open between bursts to provide maximum cooling.&lt;ref name=&quot;Senich_240&quot;/&gt; The rotating fire selector switch was situated in the trigger group, above the [[pistol grip]] on the right side. The change lever also served as the [[Safety (firearms)|safety]],&lt;ref name=&quot;Senich_240&quot;/&gt; disabling the sear mechanism when engaged.
+
+===Testing===
+[[File:Armamento - Museo de Armas de la Nación 30.JPG|thumb|right|200px|An FG 42 in the Museum of Weapons of the Nation, [[Argentina]]]]
+The FG 42 was intended to fill a key niche in Nazi Germany's arsenal and was produced only in small numbers. It was somewhat well received by paratroopers when tested, but it did have its drawbacks. The FG 42 had a 20 round, or sometimes 10 round, magazine that was mounted on the left side of the rifle. Though a side-mounted magazine was common in submachine guns of the time, the larger magazine with heavier ammunition of a full-powered rifle tended to unbalance the weapon. In addition, muzzle rise with automatic fire was substantial and controllable bursts were difficult. This made full-automatic fire only marginally useful. The FG 42 used a fairly sophisticated [[flash hider|muzzle device]] that did help with recoil and muzzle flash, but made blast and noise much greater than on other similar weapons. The US [[M14 rifle]] had similar problems, and attempts were made to upgrade that rifle the same way with an in-line stock and muzzle device.
+
+===Influences/derivatives===
+[[File:T44.jpg|thumb|right|T-44, a US-commissioned FG 42 prototype modified for belt-feeding as a light machine gun]]
+
+Some features, such as the details of the gas-operated bolt selection process, were studied by [[United States Army|US Army]] engineers after the war. These, along with some aspects of the [[MG42]], are commonly reported to have been incorporated in the similarly troubled [[M60 machine gun|M60]].
+
+The American [[M1941 Johnson machine gun|M41 Johnson LMG]] has many parallels with the contemporary FG 42. Both had in-line stocks, fed from the left side, and both fired from the open bolt in automatic mode and closed bolt in semi-automatic mode. Despite these similarities, there is no evidence that either weapon had any effect on the design of the other. As they were both seeking to solve similar problems, it is reasonable to expect that each weapon's respective engineers approached these problems similarly but independently, unaware of the developments of their counterparts.
+
+Last known derivatives of the FG 42 were the [[Sturmgewehr 52]] and [[M60 machine gun]].
+
+==Users==
+*{{flagcountry|Nazi Germany}}: Used during [[World War II]].
+*{{flagcountry|Argentina}}: Trial purposes only.&lt;ref&gt;Julio S. Guzmán, Las Armas Modernas de Infantería, Abril de 1953&lt;/ref&gt;
+
+==See also==
+*[[List of battle rifles]]
+*[[M1941 Johnson machine gun]]
+*[[M60 machine gun]]
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{cite book| last = Bishop| first = Chris| authorlink = | year = 2002| chapter = | title = The Encyclopedia of Weapons of World War II| publisher = Sterling Publishing| location = New York, NY| isbn = 1-58663-762-2}}
+*{{cite book| last = Dugelby| first = Thomas B.| authorlink = |author2=R. Blake Stevens| origyear = 1990| year = 2007| chapter = | title = Death from Above—The German FG42 Paratroop Rifle| publisher = Collector Grade Publications| location = Cobourg, ON| isbn = 0-88935-429-4}}
+*{{cite book| last = Miller| first = David| authorlink = | year = 2007| chapter = | title = Fighting Men of World War II: Axis Forces : Uniforms, Equipment and Weapons| publisher = Stackpole Books| location = Mechanicsburg, PA| isbn = 978-0-8117-0277-5}}
+*{{cite book| last = Senich| first = Peter| authorlink = | year = 1987| chapter = | title = The German Assault Rifle: 1935–1945| publisher = Paladin Press| location = Boulder, CO| isbn = 0-87364-400-X}}
+
+==External links==
+{{commons|FG42}}
+* [http://www.ssd-weapon.com/BD_42.1.html Sport-Systeme Dittrich—civilian BD 42 replica]
+* [http://www.ssd-weapon.com/engl_web/downloads_en/fg42_en/Operating%20instructions%20BD42%20DIN%20A4.pdf SSD BD 42 instruction manual]{{dead link|date=December 2011}}
+* [http://world.guns.ru/rifle/rfl11-e.htm Modern Firearms]
+* [http://www.lonesentry.com/articles/fg42/index.html U.S WWII intelligence report on the FG 42]
+* [http://i225.photobucket.com/albums/dd297/armeiro1/6187-SAA1-1.jpg?t=1262524338 Blow-forward FG 42 prototype]
+* [http://www.youtube.com/watch?v=KdaUPUZXdSM Fieldstrip of a FG42]
+* [https://www.youtube.com/watch?v=XCFx_smieKk Closeup of a FG42 at the range.]
+* [https://www.youtube.com/watch?v=xY5jUXMg2-I Interesting competition between a FG42 and a M1 Garand.]
+* [https://www.youtube.com/watch?v=NstrbkCg_ks An early version of the FG42 at the range.]
+* [https://www.youtube.com/watch?v=RbxRKXKht3Y Forgotten Weapons - FG-42 German Paratroop Rifle]
+
+{{WWIIGermanInfWeapons}}
+
+{{Authority control}}
+{{DEFAULTSORT:Fg 42}}
+[[Category:8 mm firearms]]
+[[Category:World War II infantry weapons of Germany]]
+[[Category:Battle rifles]]
+[[Category:Light machine guns]]</text>
+      <sha1>gesoxiyqjxfwqo3pllnkm6q8m92dj52</sha1>
+    </revision>
+  </page>
+</mediawiki>

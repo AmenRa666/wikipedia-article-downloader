@@ -1,0 +1,107 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Old Kaduna Airport</title>
+    <ns>0</ns>
+    <id>31139689</id>
+    <revision>
+      <id>578676753</id>
+      <parentid>578675195</parentid>
+      <timestamp>2013-10-25T11:16:44Z</timestamp>
+      <contributor>
+        <username>Buckshot06</username>
+        <id>1938651</id>
+      </contributor>
+      <comment>link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1898">{{Infobox Airport
+| name         = Old Kaduna Airport
+| nativename   = 
+| image        = 
+| image-width  = 
+| IATA         = 
+| ICAO         = 
+&lt;center&gt;{{Location map|Nigeria|width=200|float=center
+|caption=|mark=Airplane_silhouette.svg|marksize=10
+|label=Old Kaduna Airport|position=right
+|lat_deg=10|lat_min=35|lat_sec=56.14|lat_dir=N
+|lon_deg=07|lon_min=26|lon_sec=56.23|lon_dir=E
+}}&lt;small&gt;Location of Airport in Nigeria&lt;/small&gt;&lt;/center&gt;
+| type         = Military ([[Nigerian Air Force]])
+| owner-oper   = 
+| city-served  = 
+| location     = [[Kaduna]], [[Nigeria]]
+| elevation-f  = 2,126
+| elevation-m  = 648
+| coordinates  = {{coord|10|35|56.14|N|7|26|56.23|E|region:NG_type:airport_scale:150000}}
+| website      = 
+| metric-rwy   = y
+| r1-number    = 05/23
+| r1-length-f  = 8,612
+| r1-length-m  = 2,625
+| r1-surface   = [[Asphalt]]
+| footnotes    = &lt;ref&gt;[http://worldaerodata.com/wad.cgi?id=NI45711 Old Kaduna Airport] at World Aero Data. Source: [[DAFIF]].&lt;/ref&gt;}}
+
+'''Old Kaduna Airport''' is an airport serving [[Kaduna]], a city in the [[Kaduna State]] of [[Nigeria]].&lt;ref&gt;[http://worldaerodata.com/wad.cgi?id=NI45711 Old Kaduna Airport] at World Aero Data. Source: [[DAFIF]].&lt;/ref&gt; It was replaced by [[Kaduna Airport]], located 10 miles to the northwest.
+
+It appears to be the headquarters of [[NAF Training Command]] with a flying training group and a ground training group at the base. The command is chiefly responsible for implementing NAF training policies. Ground training is also provided for support services and technical personnel.&lt;ref&gt;See http://www.nigerianairforce.net/nafstructure/TC.aspx&lt;/ref&gt;
+:301 Flying Training School, Kaduna 
+:303 Flying Training School, Kano 
+:320 Technical Training Group, Kaduna
+:325 Ground Training Group, Kaduna 
+
+==References==
+{{Reflist}}
+
+[[Category:Airports in Nigeria]]
+[[Category:Kaduna]]
+
+{{Nigeria-struct-stub}}
+{{Nigeria-airport-stub}}</text>
+      <sha1>i69nthlr533w1zlmedw8jbulyo80zik</sha1>
+    </revision>
+  </page>
+</mediawiki>

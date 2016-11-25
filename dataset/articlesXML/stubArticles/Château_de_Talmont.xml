@@ -1,0 +1,117 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Château de Talmont</title>
+    <ns>0</ns>
+    <id>35367766</id>
+    <revision>
+      <id>606997144</id>
+      <parentid>487651158</parentid>
+      <timestamp>2014-05-04T07:56:52Z</timestamp>
+      <contributor>
+        <username>John of Reading</username>
+        <id>11308236</id>
+      </contributor>
+      <minor/>
+      <comment>/* History */Typo fixing, replaced: by 1140s → by the 1140s using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1888">{{Infobox Military Structure
+|name = Château de Talmont
+|location = [[Talmont-Saint-Hilaire]], France
+|coordinates =
+|image = [[Image:Chateau-talmont-2011.jpg|225px]]
+|caption = Château de Talmont
+|map_type = France
+|latitude = 46.4681
+|longitude = -1.6169
+|map_size = 200
+|map_alt =
+|map_caption = Shown within [[France]]
+|type =
+|materials = Stone
+|height =
+|condition =
+|ownership =
+|open_to_public = Yes
+|battles =
+|events=
+}}
+
+'''Château de Talmont''' is a medieval [[castle]] in the [[Talmont-Saint-Hilaire]] [[Communes of France|commune]] in the [[Vendée]] [[Departments of France|department]] in the [[Pays de la Loire]] [[Regions of France|region]] of western [[France]].
+
+==History==
+The Château de Talmont was founded by the [[Count of Poitou]] in the 10th century and the first documentary records appear between 1040 and 1046.&lt;ref&gt;Baudry, p.249.&lt;/ref&gt; In 1138 the castle was held by Joscelin de Lezay, who was attacked by [[Louis VII of France|Louis VII]]; despite being considered invulnerable because it could be resupplied from the sea, the castle was burnt by the king.&lt;ref&gt;Baudry, pp.249-250.&lt;/ref&gt; Talmont passed on to the Mauléons by the 1140s, but in 1182 [[Richard I of England]] became the lord of Talmont; he remained in control of the castle until his death in 1199, when it was returned to the Mauléon family.&lt;ref&gt;Baudry, p.250.&lt;/ref&gt;
+
+==See also==
+* [[Castles in France]]
+* [[List of castles in France]]
+
+==Notes==
+{{reflist|group=&quot;nb&quot;|colwidth=30em}}
+
+==References==
+{{reflist|3}}
+
+==Bibliography==
+* {{cite book
+ | last = Baudry
+ | first = Marie-Pierre
+ | year = 2001
+ | title = Les Fortifications des Planagenêts en Poitou, 1154-1242
+ | edition =
+ | publisher = Comité des travaux historiques et scientifiques
+ | location= Paris
+ | isbn = 2-7355-0448-4
+ | url =
+ | ref = harv
+ }}
+
+{{DEFAULTSORT:Chateau de Talmont}}
+[[Category:Châteaux in Vendée]]</text>
+      <sha1>7ozz3g4objvu5sgntcrmotx604571e8</sha1>
+    </revision>
+  </page>
+</mediawiki>

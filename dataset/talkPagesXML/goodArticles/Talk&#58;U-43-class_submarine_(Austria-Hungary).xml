@@ -1,0 +1,84 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:U-43-class submarine (Austria-Hungary)</title>
+    <ns>1</ns>
+    <id>20526555</id>
+    <revision>
+      <id>540121227</id>
+      <parentid>275612211</parentid>
+      <timestamp>2013-02-24T19:31:48Z</timestamp>
+      <contributor>
+        <username>Armbrust</username>
+        <id>8454797</id>
+      </contributor>
+      <minor/>
+      <comment>Armbrust moved page [[Talk:U-43 class submarine (Austria-Hungary)]] to [[Talk:U-43-class submarine (Austria-Hungary)]]: [[WP:NC-SHIPS]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="584">{{ArticleHistory
+|action1=GAN
+|action1date=04:39, 2 January 2009
+|action1link=Talk:U-43 class submarine (Austria-Hungary)/GA1
+|action1result=listed
+|action1oldid=261048834
+
+|action2=GTC
+|action2date=15:28, 7 March 2009
+|action2link=Wikipedia:Featured topic candidates/U-43 class submarines (Austria-Hungary)
+|action2result=promoted
+|action2oldid=270310006
+
+|ftname=U-43 class submarines (Austria-Hungary)
+|ftmain=yes
+|currentstatus=GA
+|topic=war
+}}
+{{WPMILHIST|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|German=y|Maritime=y|WWI=y}}
+{{WPSHIPS|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|importance=high}}</text>
+      <sha1>t0z06oarmi992xynld3a4kkw5s70r7x</sha1>
+    </revision>
+  </page>
+</mediawiki>

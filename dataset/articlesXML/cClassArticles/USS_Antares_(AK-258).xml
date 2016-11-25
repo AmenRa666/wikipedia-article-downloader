@@ -1,0 +1,221 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Antares (AK-258)</title>
+    <ns>0</ns>
+    <id>37798413</id>
+    <revision>
+      <id>702621121</id>
+      <parentid>685365229</parentid>
+      <timestamp>2016-01-31T18:35:24Z</timestamp>
+      <contributor>
+        <username>Ktr101</username>
+        <id>5495886</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, replaced: Ships built in Oregon → Ships built in Portland, Oregon using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10960">{{other ships|USS Antares}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Antares (AK-258).jpg|300px|USS ''Antares'' (AK-258)]]
+|Ship caption=USS ''Antares'' (AK-258) as a [[cargo ship]].
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1944}}
+|Ship name=*''Nampa Victory''
+*''Antares''
+|Ship namesake=*[[Nampa, Idaho]]
+*[[Antares]]
+|Ship owner=
+|Ship operator=*[[International Freighting Company]] during [[World War II]]
+*[[Pacific Atlantic Steamship Company]] 28 November 1945&amp;ndash;31 October 1946
+*[[Waterman Steamship Corporation]] 31 October 1946&amp;ndash;13 November 1946
+*[[A. L. Burbank and Company]] 13 November 1946&amp;ndash;6 December 1947
+|Ship registry=
+|Ship route=
+|Ship ordered=as type (VC2-S-AP3) hull, [[Maritime Commission|MCV]] hull 107
+|Ship awarded=
+|Ship builder=[[Oregon Shipbuilding Corporation]], [[Portland, Oregon]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=6 April 1944,  as SS ''Nampa Victory''
+|Ship launched=19 May 1944
+|Ship sponsor=Mrs. R. A. Hadley
+|Ship christened=
+|Ship completed=10 June 1944
+|Ship acquired=23 July 1951, by the USN
+|Ship commissioned=12 February 1952, as USS ''Antares'' (AK-258)
+|Ship recommissioned=
+|Ship decommissioned= 18 December 1964
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=26 July 1951, ''Antares''
+|Ship reclassified=1 April 1959, [[Stores Issue Ship]] (AKS-33)
+|Ship refit=
+|Ship struck=1 September 1965 
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=*[[Hull classification symbol#Support type|Hull symbol]]:AK-258
+*Hull symbol:AKS-33
+|Ship motto=
+|Ship nickname=
+|Ship honors=[[Armed Forces Expeditionary Medal]] 
+|Ship captured=
+|Ship fate=sold for scrapping, 5 April 1974, to Union Minerals and Alloys Corp., for $225,433
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Header caption=&lt;ref name=&quot;navsource&quot;&gt;{{cite web | url=http://www.navsource.org/archives/09/13/130258.htm | title=USS Antares (AKS-33)
+ | publisher=Navsource.org | accessdate=June 5, 2015}}&lt;/ref&gt;|Ship class={{sclass-|Greenville Victory|cargo ship}}
+|Ship type=
+|Ship tonnage=       
+|Ship displacement=*{{convert|4512|t|LT|sp=us}} (standard)
+*{{convert|15589|t|LT|sp=us}} (full load)
+|Ship tons burthen=
+|Ship length={{convert|455|ft|m|abbr=on}} 
+|Ship beam={{convert|62|ft|m|abbr=on}} 
+|Ship height=
+|Ship draft={{convert|29|ft|2|in|m|abbr=on}} 
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power={{convert|8500|shp|kW|lk=in|abbr=on}}
+|Ship propulsion=*1 × Steam turbine
+*2 ×  boilers
+*1 × [[Drive shaft#Marine drive shafts|shaft]]
+|Ship sail plan=
+|Ship speed={{convert|16.5|kn|lk=in}}
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=250
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=2 × [[Bofors 40 mm gun|{{convert|40|mm|in|abbr=on}} Bofors guns]] anti-aircraft gun mounts
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The second '''USS ''Antares'' (AK-258)''' was a [[United States Navy]] {{sclass-|Greenville Victory|cargo ship}} in commission from 1952 to 1959. She was converted into a [[Stores ship|general stores issue ship]] ('''AKS-33''') in 1959-1960 and remained in commission as such until 1964. She saw extensive service during the [[Cold War]]. Prior to her U.S. Navy career, she had operated as the [[merchant ship]] '''SS ''Nampa Victory''''' during the latter stages of [[World War II]] and in the years immediately after the war.
+
+==Construction==
+
+SS ''Nampa Victory'' was a [[Maritime Commission]] type VC2-S-AP3 hull laid down on 6 April 1944 at [[Portland, Oregon|Portland]], [[Oregon]], by the [[Oregon Shipbuilding Corporation]] under a Maritime Commission contract as MCV hull 107. She was [[Ship naming and launching|launched]] on 19 May 1944, sponsored by Mrs. R. A. Hadley, and was delivered to the Maritime Commission on 10 June 1944.
+
+==Operations as SS ''Nampa Victory''==
+''Nampa Victory'' entered mercantile service as a cargo ship, operated during World War II by the [[International Freighting Company]] under contract to the [[War Shipping Administration]]. After the war, she was operated under a [[general agency agreement]] successively by the [[Pacific Atlantic Steamship Company]] from 28 November 1945 to 31 October 1946, the [[Waterman Steamship Corporation]] from 31 October 1946 to 13 November 1946, and [[A. L. Burbank and Company]] from 13 November 1946 to 6 December 1947. On 18 January 1948, she was laid up in the [[National Defense Reserve Fleet]] in [[Wilmington, North Carolina|Wilmington]], [[North Carolina]].&lt;ref name=&quot;navsource.org&quot;&gt;[http://www.navsource.org/archives/09/13/130258.htm NavSource Online: Service Ship Photo Archive USS Antares (AKS-33) ex USS Antares (AK-258) (1952 - 1959)]&lt;/ref&gt;
+
+On 21 September 1950, [[United States Lines]] leased ''Nampa Victory'', and she briefly returned to active service.  On 28 November 1950, she again was laid up in the National Defense Reserve Fleet, this time in the [[James River Reserve Fleet]] on the [[James River (Virginia)|James River]] at [[Lee Hall, Virginia|Lee Hall]], [[Virginia]].&lt;ref name=&quot;navsource.org&quot;/&gt;
+
+==United States Navy service==
+
+===USS Antares (AK-258)===
+
+The U.S. Navy acquired ''Nampa Victory'' on 23 July 1951 and renamed her ''Antares'' on 26 July 1951, when she also was classified as a cargo ship (AK) and designated AK-258. After conversion for naval service by the [[Maryland Drydock Company]] at [[Baltimore, Maryland|Baltimore]], [[Maryland]], she was  [[Ship commissioning|commissioned]] at Baltimore on 12 February 1952 as USS ''Antares'' (AK-258) with [[Commander (United States)|Commander]] Grant O. Hansen in command. Her title was transferred to the U.S. Navy on 31 May 1956, by which time she already had been in active Navy service for over four years.&lt;ref name=&quot;navsource.org&quot;/&gt;
+
+During the first seven years of her U.S. Navy career, ''Antares'' operated as a cargo carrier between ports on the [[United States East Coast]], in the [[West Indies]], and along the coast of the [[Mediterranean Sea]]. During the autumn of 1958, she earned the [[Armed Forces Expeditionary Medal]] for her support for the ships and troops engaged in the U.S. intervention in the [[1958 Lebanon crisis]].
+
+===USS Antares (AKS-33)===
+
+Anticipating her conversion to a general stores issue ship (AKS), ''Antares'' was redesignated AKS-33 on 1 April 1959. She entered the [[Norfolk Naval Shipyard]] in [[Portsmouth, Virginia|Portsmouth]], Virginia, in June 1959 to receive modifications to allow her to perform [[underway replenishment]] of other ships. The work was interrupted in August 1959 in order that she might conduct refresher training in [[Cuba]]n waters and then make a two-month deployment to the Mediterranean Sea. In November 1959, she resumed her conversion overhaul at Norfolk Naval Shipyard.
+
+''Antares'' returned to active service in February 1960 to begin work as a general stores issue ship, which dictated a new pattern of employment in which she and the general stores issue ship {{USS|Altair|AKS-32}} were to alternate as station underway replenishment ship for the [[United States Sixth Fleet]] in the Mediterranean Sea. Whichever of the two was not on that duty would serve as backup while on the United States East Coast and in the West Indies.
+
+Late in 1961, ''Antares'' received an additional mission when she was designated a support ship for [[fleet ballistic missile submarine]]s deployed abroad, and she spent October and November 1961 receiving additional modifications at Norfolk Naval Shipyard and at [[Charleston, South Carolina|Charleston]], [[South Carolina]], to enable her to carry out this additional duty. Between January and May 1962, she operated out of [[Norfolk, Virginia|Norfolk]], Virginia, conducting stores ship training and participating in a multiship exercise in the West Indies. In June 1962, she loaded supplies at Charleston and then steamed to [[Scotland]] on her first resupply voyage to the [[fleet ballistic missile]] base at [[Holy Loch]]. She returned to Norfolk on 25 July 1962 and then conducted local operations and went alongside a [[repair ship]] for repairs.
+
+''Antares'' departed Norfolk in September 1962 to relieve ''Altair'' in the Mediterranean Sea. That deployment proved to be a long one, since ''Altair''{{'}}s overhaul in the United States was delayed by the [[Cuban Missile Crisis]] in October 1962, making ''Altair'' unable to relieve ''Antares'' at [[Naples]], [[Italy]], until 30 May 1963. ''Antares'' finally returned to Norfolk early in June 1963 and, following repairs alongside the repair ship {{USS|Cadmus|AR-14}}, operated along the United States East Coast for the remainder of 1963.
+
+Following a resupply mission to the fleet ballistic missile base at Holy Loch in January 1964 and participation in the annual &quot;Springboard&quot; exercise near [[Puerto Rico]], ''Antares'' returned to Norfolk later in the spring of 1964 to prepare for inactivation.
+
+==Decommissioning and disposal==
+
+''Antares'' reported to the Norfolk Group, [[Atlantic Reserve Fleet]], on 15 September 1964 and was [[Ship decommissioning|decommissioned]] there on 18 December 1964. She was laid up in the National Defense Reserve Fleet's James River Reserve Fleet on 30 March 1965. Her name was struck from the [[Navy list]] on 1 September 1965, and she was simultaneously transferred to the [[Maritime Administration]].&lt;ref name=&quot;navsource.org&quot;/&gt;
+
+''Antares'' remained inactive in the James River Reserve Fleet until she was sold for scrapping on 5 April 1974 to the [[Union Minerals and Alloys Corporation]], to which she was delivered on 31 May 1974.&lt;ref name=&quot;navsource.org&quot;/&gt;
+
+==Gallery==
+
+&lt;gallery&gt;
+File:USS Antares (AKS-33) underway c1962.jpg|&lt;center&gt;USS ''Antares'' (AKS-33) as a [[Stores ship|general stores issue ship]].&lt;/center&gt;
+File:USS Antares (AKS-33) with HUS-1.jpg|&lt;center&gt;''Antares'' (AKS-33) with a [[Sikorsky HUS-1|Sikorsky HUS-1 Seahorse]] helicopter hovering over her stern, as seen from the [[attack aircraft carrier]] {{USS|Franklin D. Roosevelt|CVA-42}} on 7 March 1963. The [[guided-missile frigate]] {{USS|Dahlgren|DLG-12}} is in the background.&lt;/center&gt;
+&lt;/gallery&gt;
+
+==References==
+{{reflist}}
+*{{DANFS|http://www.history.navy.mil/research/histories/ship-histories/danfs/a/antares-ii.html}}
+*[http://www.navsource.org/archives/09/13/130258.htm NavSource Online: Service Ship Photo Archive USS Antares (AKS-33) ex USS Antares (AK-258) (1952 - 1959)]
+
+{{Victory ship cargo ship classes}}
+
+{{DEFAULTSORT:Antares (AK-258)}}
+[[Category:Greenville Victory-class cargo ships]]
+[[Category:World War II merchant ships of the United States]]
+[[Category:Cold War auxiliary ships of the United States]]
+[[Category:Ships built in Portland, Oregon]]
+[[Category:1944 ships]]</text>
+      <sha1>egilcoc6dst2wdhckeln5ztdw2v190v</sha1>
+    </revision>
+  </page>
+</mediawiki>

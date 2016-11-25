@@ -1,0 +1,182 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS American (1900)</title>
+    <ns>0</ns>
+    <id>16671445</id>
+    <revision>
+      <id>743619055</id>
+      <parentid>737082101</parentid>
+      <timestamp>2016-10-10T12:19:10Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Philadelphia, Pennsylvania to [[:Category:Ships built in Philadelphia]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="18030">{{other ships|SS American|SS Honolulan|USS American}}
+{{Use dmy dates|date=October 2012}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[Image:USS American 1918.JPG|300px|USS American]]
+|Ship caption=USS ''American''
+}}
+{{Infobox ship career
+|Ship name=*1900: SS ''American''
+*1925: SS ''Honolulan''&lt;ref name=Miramar /&gt;
+|Ship owner=[[American-Hawaiian Steamship Company]]
+|Ship registry={{flagicon|USA|1912}} New York
+|Ship route=Hawaii – New York
+|Ship ordered=1899&lt;ref name=Cochran-346&gt;Cochran and Ginger, p. 346&lt;/ref&gt;
+|Ship awarded=
+|Ship builder= [[Delaware River Iron Shipbuilding and Engine Works]]
+|Ship original cost=$540,000&lt;ref name=Cochran-364&gt;Cochran and Ginger, p. 364.&lt;/ref&gt; ($425,000 for the ship,&lt;ref name=Cochran-346 /&gt; $115,000 financing costs) 
+|Ship yard number=308&lt;ref name=Miramar&gt;{{csr|register=MSI|id=2107591|shipname=American |accessdate=11 May 2009 }}&lt;/ref&gt;
+|Ship laid down=
+|Ship launched=14 July 1900&lt;ref name=Miramar /&gt;
+|Ship completed=October 1900&lt;ref name=Miramar /&gt;
+|Ship identification=U.S. official number: 107591&lt;ref name=Miramar /&gt;
+|Ship fate=[[ship breaking|scrapped]] in [[Osaka]], November 1926&lt;ref name=Miramar /&gt;
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag= {{USN flag|1919}}
+|Ship name=USS ''American'' (ID-2292)
+|Ship commissioned= 25 May 1918&lt;ref name=DANFS&gt;{{cite DANFS | author = [[Naval History &amp; Heritage Command]] | title = American | url = http://www.history.navy.mil/danfs/a8/american-ii.htm | short = first }}&lt;/ref&gt;
+|Ship decommissioned= 
+|Ship struck=14 March 1919&lt;ref name=DANFS /&gt;
+}}
+{{Infobox ship characteristics
+|Ship tonnage={{GRT|6861}}&lt;ref name=Cochran-364 /&gt;
+{{DWT|8,850|long}}&lt;ref name=Cochran-364 /&gt;
+|Ship displacement={{convert|13000|LT|t|-2}}&lt;ref name=DANFS /&gt;
+|Ship length=*{{convert|430|ft|1|in|m|abbr=on}} ([[length overall|oa]])&lt;ref name=DANFS /&gt;
+*{{convert|406|ft|10|in|m|abbr=on}} ([[length between perpendiculars|lpp]])&lt;ref name=Miramar /&gt;
+|Ship beam={{convert|51|ft|2|in|m|abbr=on}}
+|Ship draft={{convert|28|ft|m|abbr=on}}
+|Ship propulsion=*coal-fired boilers&lt;ref name=Cochran-357&gt;Cochran and Ginger, p. 357.&lt;/ref&gt;
+*1 × [[triple expansion steam engine|triple-expansion]] [[steam engine]]&lt;ref name=Miramar /&gt;
+*1 × [[screw propeller]]&lt;ref name=Cochran-357 /&gt;
+|Ship speed={{convert|12|knots|km/h}}&lt;ref name=Miramar /&gt;
+|Ship capacity=Cargo: {{convert|376699|cuft|0}}&lt;ref name=Cochran-364 /&gt;
+|Ship complement=70 (as USS ''American'')
+|Ship notes=Sister ships: {{SS|Hawaiian||2}}, {{SS|Oregonian|1901|2}}, {{SS|Californian|1900|2}}&lt;ref name=Cochran-364 /&gt;
+}}
+|}
+'''SS ''American''''' was a steel-hulled, single propeller [[cargo ship]] built at [[Chester, Pennsylvania]], by the [[Delaware River Iron Shipbuilding and Engine Works]] for the [[American-Hawaiian Steamship Company]] and the Hawaiian sugar trade. During [[World War I]] service for the [[United States Navy]], the ship was known as '''USS ''American'' (ID-2292)'''. Late in her career for American-Hawaiian, she was renamed '''SS ''Honolulan'''''.
+
+''American'' was a little more than {{convert|430|ft|m}} long and {{convert|51|ft|m}} [[abeam]]. Coal-fired boilers powered a single [[triple-expansion steam engine]] which turned a single [[screw propeller]]. This power plant—supplemented  with auxiliary sails—was capable of moving the ship at up to {{convert|12|knots|km/h}}. As one of the first four ships ordered by the American-Hawaiian Steamship Company after its 1899 formation, ''American'' was used on the Hawaii – New York sugar trade via the [[Straits of Magellan]]. In 1901 she set a record for the fastest New York – San Francisco ocean passage, making the voyage in 59 days. After 1905, she was employed in inter-coastal service via the [[Isthmus of Tehuantepec]] and, after it opened in 1914, the [[Panama Canal]].
+
+Taken up for wartime service after the United States entered World War I in April 1917, she completed two round-trip voyages to France without incident. Shortly after the start of her third such voyage, however, she collided with another U.S. Navy vessel, {{USS|West Gate|ID-3216|6}}, sinking that vessel with the loss of seven of her crew in October 1918. She completed one more round trip in U.S. Navy service, sailing to [[Gibraltar]] after the [[Armistice with Germany|Armistice]] in November. She returned to New York in February 1919, was [[decommission (ship)|decommission]]ed, and returned to American-Hawaiian.
+
+SS ''American'' resumed cargo service with American-Hawaiian after her return from naval service, being renamed ''Honolulan'' in 1925. She was sold in 1926 and taken to [[Osaka]] where she was [[ship breaking|broken up]] sometime after her arrival there in November that same year.
+
+== Design and construction ==
+The [[American-Hawaiian Steamship Company]], shortly after its March 1899 formation,&lt;ref name=Cochran-345&gt;Cochran and Ginger, p. 345.&lt;/ref&gt; placed orders for its first four ships for the company's planned sugar service between Hawaii and the [[East Coast of the United States]]. Three ships—''American'', {{SS|Hawaiian||2}}, and {{SS|Oregonian|1901|2}}—were ordered from [[Delaware River Iron Shipbuilding and Engine Works|Delaware River Shipbuilding]] in [[Chester, Pennsylvania]], while the fourth—{{SS|Californian|1900|2}}—was ordered from [[Union Iron Works]] of San Francisco.&lt;ref name=Cochran-346 /&gt; The contract cost of the three Pennsylvania-built ships was set at $425,000 each,&lt;ref name=Cochran-346 /&gt; but financing costs drove the final cost of each ship higher; the final cost of ''American'' was $61.00 per [[deadweight tonnage|deadweight ton]], which totaled just under $540,000.&lt;ref name=Cochran-357 /&gt;
+
+''American'' (Delaware River yard no. 308)&lt;ref name=Miramar /&gt; was [[launch (ship)|launch]]ed on 14 July 1900,&lt;ref name=Miramar /&gt; and delivered to American-Hawaiian in October,&lt;ref name=Colton&gt;{{cite web | last = Colton | first = Tim | url = http://shipbuildinghistory.com/history/shipyards/2large/inactive/merchant.htm | title = Merchant Shipbuilding Corp., Chester PA | work = Shipbuildinghistory.com | publisher = The Colton Company | accessdate = 11 May 2009}}&lt;/ref&gt; joining ''Californian'' in the American-Hawaiian Fleet.&lt;ref&gt;{{csr|register=MSI|id=2127446|shipname=Californian |accessdate=11 May 2009 }}&lt;/ref&gt;&lt;ref group=Note&gt;{{SS|Californian|1900|2}} had been completed in June 1900.&lt;/ref&gt; ''American'', the first of the trio of Pennsylvania ships to be completed,&lt;ref name=Colton /&gt; was {{GRT|6861|disp=long}},&lt;ref name=Cochran-364 /&gt; and was {{convert|430|ft|1|in|m}} in length and {{convert|51|ft|2|in|m}} [[beam (nautical)|abeam]].&lt;ref name=Miramar /&gt; She had a [[deadweight tonnage]] of {{DWT|8,850|long}}, and her cargo holds had a storage capacity of {{convert|376699|cuft}}.&lt;ref name=Cochran-364 /&gt; ''American'' had a speed of {{convert|12|knots|km/h}}, and was powered by a single [[triple expansion steam engine|triple-expansion]] [[steam engine]] with coal-fired [[boiler]]s, that drove a single [[screw propeller]].&lt;!-- speed, single-screw --&gt;&lt;ref name=Miramar /&gt;&lt;ref name=Cochran-349&gt;Cochran and Ginger, p. 349.&lt;/ref&gt;&lt;!--coal-fired --&gt; ''American'' and her sister ships, equipped with two upright [[mast (sailing)|mast]]s, carried and used two large [[trysail]]s, a fore [[staysail]] and [[jib]], and a main [[staysail]], to help conserve coal for their journeys.&lt;ref&gt;Cochran and Ginger, p. 348, note 2.&lt;/ref&gt;
+
+== Early career ==
+At the start of her American-Hawaiian career, ''American'' sailed in scheduled service from New York and [[Philadelphia]] around South America via the [[Straits of Magellan]], up to San Francisco and from there to [[Honolulu]]. Along the way, she was refueled with coal at [[Saint Lucia]] in the [[British West Indies]] and at [[Coronel, Chile|Coronel]] in Chile. The Chilean coal was often of lesser quality which burned too quickly and dangerously sent sparks flying from the ship's [[funnel (ship)|funnel]]; the quality and fire danger were key reasons that all subsequent American-Hawaiian ships used oil instead of coal for fuel.&lt;ref name=Cochran-349 /&gt;
+
+The early American-Hawaiian voyages averaged about 70 days in each direction from New York to San Francisco, which was about 55 days shorter than the typical time required for sailing ships. Insurers initially made the company pay a 6% premium for taking its large ships through the treacherous {{convert|300|nmi|km|adj=on}} channel in the Straits of Magellan, rather than the safer passage around [[Cape Horn]]. But by 1903, American-Hawaiian's safe operation and experience on the route allowed the company to negotiate a 3½% rate, just a ½% surcharge over the standard rate of 3%.&lt;ref name=Cochran-349 /&gt; The experience on the route also paid off in shorter transit times: ''American'' set a record time with a 59-day New York-to-San Francisco passage in 1901. However, typical times for the trip were just over 50 days by 1903.&lt;ref name=Cochran-348-349&gt;Cochran and Ginger, pp. 348–349.&lt;/ref&gt;
+
+In May 1905, after two years of negotiations, American-Hawaiian signed a contract with the [[Tehuantepec National Railway]] of Mexico, abandoning the Straits of Magellan route in favor of the [[Tehuantepec Route]]. Shipments on the Tehuantepec Route would arrive at Mexican ports—[[Salina Cruz]], Oaxaca, for eastbound cargo, and [[Coatzacoalcos]], Veracruz, for westbound cargo—and would traverse the [[Isthmus of Tehuantepec]], Mexico's narrowest point, on the railroad.&lt;ref&gt;Hovey, p. 78.&lt;/ref&gt; Eastbound shipments were primarily sugar and pineapple from Hawaii, while westbound cargoes were more general in nature.&lt;ref name=Cochran-355-56&gt;Cochran and Ginger, pp. 355–56.&lt;/ref&gt;
+
+After the [[United States occupation of Veracruz]] on 21 April 1914 (which found six American-Hawaiian ships in Mexican ports), the [[Victoriano Huerta|Huerta]]-led Mexican government closed the Tehuantepec National Railway to American shipping. This loss of access, coupled with the fact that the [[Panama Canal]] was not yet open, caused American-Hawaiian to return to its historic route of sailing around South America via the Straits of Magellan in late April.&lt;ref name=Cochran-360&gt;Cochran and Ginger, p. 360.&lt;/ref&gt; With the opening of the Panama Canal on 15 August, American-Hawaiian ships switched to taking that route.&lt;ref name=Cochran-360 /&gt; In October 1915, landslides closed the Panama Canal and all American-Hawaiian ships, including ''American'', returned to the Straits of Magellan route again.&lt;ref name=Cochran-361&gt;Cochran and Ginger, p. 361.&lt;/ref&gt;
+
+''American''{{'}}s exact movements from this time through early 1917 are unclear. She may have been in the half of the American-Hawaiian fleet that was [[ship chartering|chartered]] for transatlantic service. She may also have been in the group of American-Hawaiian ships chartered for service to South America, delivering coal, gasoline, and steel in exchange for coffee, [[nitrate]]s, cocoa, rubber, and [[manganese|manganese ore]].&lt;ref name=Cochran-362&gt;Cochran and Ginger, p. 362.&lt;/ref&gt; However, when the United States entered World War I in April 1917, the entire American-Hawaiian fleet, including ''American'', was requisitioned by the {{USSB|first=long}}, which then returned the ships for operation by American-Hawaiian.&lt;ref name=Cochran-363&gt;Cochran and Ginger, p. 363.&lt;/ref&gt;
+
+== U.S. Navy service ==
+In May 1918, the {{USSB|first=nolink}} selected ''American'' for service carrying [[United States Army]] cargo to France as a part of the U.S. Navy's {{NOTS|first=long}}. On 22 May, ''American'' was turned over to the Navy and assigned the identification number of 2292. She was [[commission (ship)|commission]]ed as USS ''American'' on 25 May with [[Lieutenant Commander (United States)|Lieutenant Commander]] (Lt. Cdr.) Myron P. Schermerhorn, {{USNRF|first=short}}, in command. One week later, ''American'', loaded with cargo, departed New York and joined up with an eastbound convoy on 2 June, reaching [[:Brest, France]], on 17 June. She sailed to [[Bordeaux]] via [[La Pallice]] to unload, and departed on 6 July, reaching New York 16 days later. After a quick turnaround, ''American'' sailed for Bordeaux again on 5 August and had arrived back at New York on 6 September.&lt;ref name=DANFS /&gt;
+
+=== Collision with ''West Gate'' ===
+On 4 October, ''American'' began her third trip to France in a convoy escorted by the cruiser {{USS|Denver|CL-16|2}} and headed to Bordeaux. On the night of 6/7 October—noted in the ''[[Dictionary of American Naval Fighting Ships]]'' as &quot;particularly dark and rainy&quot;—the ships were having trouble maintaining their stations in the convoy; ''American'' was sailing in the column headed by the convoy's guide ship, {{USS|Sagua|ID-1627|2}}.&lt;ref name=DANFS-West_Gate&gt;{{cite DANFS | author = Naval History &amp; Heritage Command | title = West Gate | url = http://www.history.navy.mil/danfs/w5/west_gate.htm | short = on | link = off }}&lt;/ref&gt;
+
+At 02:28 on 7 October, while about {{convert|250|nmi|km}} south of [[City of Halifax|Halifax]],&lt;ref&gt;{{cite web | last = Radigan | first = Joseph M. | title = West Gate (ID 3216) | url = http://www.navsource.org/archives/12/173216.htm | publisher = NavSource Naval History | year = 2005 | accessdate = 11 May 2009}}&lt;/ref&gt; the steering gear engine of {{USS|West Gate|ID-3216|6}}—ahead and to the starboard of ''American''—jammed, sending the ship veering sharply to the [[port (direction)|port]]. ''West Gate''{{'}}s crew put the ship's engine at half speed to try to drop out of the convoy, but minutes later, men on the bridge sighted the red light from the oncoming ''American''. Though ''West Gate''{{'}}s bridge rang up &quot;full speed ahead&quot; to avoid the collision, there was not enough time for the engine to respond before ''American''{{'}}s bow cut into the starboard side of ''West Gate'', near the [[poop deck]].&lt;ref name=DANFS /&gt;&lt;ref name=DANFS-West_Gate /&gt;
+
+''American'', which was lightly damaged by the collision,&lt;ref name=DANFS /&gt; reversed her engine to back out of the tangle while ''West Gate''{{'}}s engine was shut down. After ''American'' was completely backed out, ''West Gate'' began rapidly settling and was ordered abandoned. A total of seven men from ''West Gate'' died in the accident—two when their lifeboat capsized, and a further five that probably died in the initial impact. ''West Gate''{{'}}s commanding officer, Lt. Cdr. R. B. Vandervoort, and six men he had personally escorted to a life raft were picked up by one of ''American''{{'}}s lifeboats at 06:00, after some 3½ hours in the water.&lt;ref name=DANFS-West_Gate /&gt; The ''Dictionary of American Naval Fighting Ships'' does not report any casualties on ''American'' from the collision.&lt;ref name=DANFS /&gt;
+
+''American'' proceeded to Halifax, where she had her collision damage repaired over the next six weeks. She departed for [[Gibraltar]] on 27 November, a little more than two weeks after the signing of the [[Armistice with Germany]] that ended the fighting. After calling at that British port on 9 December, ''American'' docked at [[Marseilles]], before leaving for New York in the new year, arriving there on 9 February 1919. ''American'' was [[decommission (ship)|decommission]]ed and returned to American-Hawaiian on 4 March, and formally struck from the [[Naval Vessel Register]] on 14 May.&lt;ref name=DANFS /&gt;
+
+== Later career ==
+''American'' resumed cargo service with American-Hawaiian after her return from World War I service. Though the company had abandoned its original Hawaiian sugar routes by this time,&lt;ref name=Cochran-363 /&gt; ''American'' sailed in inter-coastal service through the Panama Canal. In June 1925, American-Hawaiian announced its intent to acquire six steamers from [[W. R. Grace and Company]].&lt;ref name=WSJ&gt;{{cite news | title = Pacific Mail S.S. Co.  |work=The Wall Street Journal | date = 11 June 1925 | page = 7 }}&lt;/ref&gt; Later in the year, ''American'' was renamed ''Honolulan'' in order to free her name for the newly acquired {{SS|Santa Barbara||2}}.&lt;ref name=Miramar /&gt;&lt;ref name=WSJ /&gt; In 1926, ''Honolulan'' was sold for scrap.&lt;ref name=Cochran-357 /&gt; She was taken to [[Osaka]], Japan, and was [[ship breaking|broken up]] some time after her arrival there in November that same year.&lt;ref name=Miramar /&gt;
+
+== Notes ==
+{{Reflist|group=Note}}
+
+== References ==
+{{Reflist|2}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite journal | last = Cochran | first = Thomas C. | authorlink = Thomas C. Cochran (historian) |author2=[[Ray Ginger]]  | title = The American-Hawaiian Steamship Company, 1899–1919 | journal = The Business History Review | volume = 28 | issue = 4 |date=December 1954 | pages = 343–365 | location = Boston | publisher = The President and Fellows of Harvard College | oclc = 216113867 | doi = 10.2307/3111801 | jstor = 3111801 }}
+* {{cite journal | last = Hovey | first = Edmund Otis | title = The Isthmus of Tehuantepec and the Tehuantepec National Railway | journal = Bulletin of the American Geographical Society | volume = 39 | issue = 2 | year = 1907 | pages = 78–91 | location = New York | publisher = [[American Geographical Society]] | oclc = 2097765 | doi = 10.2307/198380 | jstor = 198380 }}
+* {{cite DANFS | author = [[Naval History &amp; Heritage Command]] | title = American | url = http://www.history.navy.mil/danfs/a8/american-ii.htm | accessdate = 11 May 2009}}
+* {{cite DANFS | author = Naval History &amp; Heritage Command | title = West Gate | url = http://www.history.navy.mil/danfs/w5/west_gate.htm | accessdate = 11 May 2009 | link = off }}
+{{Refend}}
+
+==External links==
+* {{navsource|12/172292|American}}
+
+{{good article}}
+{{October 1918 shipwrecks}}
+
+{{DEFAULTSORT:American (1900)}}
+[[Category:Ships built in Philadelphia]]
+[[Category:1900 ships]]
+[[Category:Cargo ships]]
+[[Category:World War I merchant ships of the United States]]
+[[Category:World War I auxiliary ships of the United States]]
+[[Category:Cargo ships of the United States Navy]]
+[[Category:World War I cargo ships of the United States]]
+[[Category:Maritime incidents in 1918]]</text>
+      <sha1>nrnehavwn6cxzlkofxl51rvlzuz86gg</sha1>
+    </revision>
+  </page>
+</mediawiki>

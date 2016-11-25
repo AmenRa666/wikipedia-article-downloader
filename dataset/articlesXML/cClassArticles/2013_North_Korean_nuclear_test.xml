@@ -1,0 +1,150 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>2013 North Korean nuclear test</title>
+    <ns>0</ns>
+    <id>38422594</id>
+    <revision>
+      <id>745786128</id>
+      <parentid>745785590</parentid>
+      <timestamp>2016-10-23T08:33:25Z</timestamp>
+      <contributor>
+        <username>Mild Bill Hiccup</username>
+        <id>5202324</id>
+      </contributor>
+      <comment>Filled in 5 bare reference(s) with [[:en:WP:REFILL|reFill]] ()</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23054">{{Infobox nuclear weapons test
+|name                =2013 North Korean nuclear test
+|alt                 =
+|country             =[[North Korea]]
+|test_site           ={{coord|41.30|N|129.08|E|type:event_region:KP|display=inline,title}},&lt;ref name=&quot;USGS report 2013 nuclear test&quot;&gt;{{cite web|title=M5.1 Nuclear Explosion - 24km ENE of Sungjibaegam, North Korea|url=http://earthquake.usgs.gov/earthquakes/eventpage/usc000f5t0|work=Earthquake Hazards Program|publisher=[[United States Geological Survey]]|date=12 February 2013|accessdate=12 February 2013|deadurl= no}}&lt;/ref&gt; [[Punggye-ri Nuclear Test Site]], [[Kilju County]]
+|period              ={{Start date|2013|02|12|02|57|51|df=y}} UTC&lt;ref name=&quot;USGS report 2013 nuclear test&quot;/&gt;
+|number_of_tests     =1
+|test_type           =Underground
+|device_type         =Fission
+|max_yield           = 
+*Exact yield or intended yield was not announced by DPRK
+*{{convert|6-9|ktonTNT|TJ}}(Estimations from South Korean Defense Ministry)&lt;ref name=chosun&gt;{{cite news|url=http://english.chosun.com/site/data/html_dir/2013/02/14/2013021400705.html|title=How Powerful Was N.Korea's Nuke Test?|publisher=The Chosun Ilbo|date=14 February 2013|accessdate=17 February 2013}}&lt;/ref&gt;
+*{{convert|8-10|ktonTNT|TJ}}(Japanese estimates)&lt;ref name=chosun/&gt;
+*{{convert|8.4-16|ktonTNT|TJ}} (Estimations from [[University of Science and Technology of China]])&lt;ref name=UTSC&gt;{{cite web|url=http://www.51jiwo.com/military/4350.html|title=Chinese underground nuclear test North Korea reached an unprecedented precision measurement|date=19 June 2013|accessdate=14 July 2013}}&lt;/ref&gt;
+*More than {{convert|7|ktonTNT|TJ}} (Russian Defence Ministry)&lt;ref name=&quot;siberiantimes.com&quot;&gt;{{cite web|url=http://siberiantimes.com/other/others/news/russia-says-no-danger-to-far-east-residents-over-north-koreas-nuclear-test/|title=Russia says no danger to Far East residents over North Korea's nuclear test|author=|date=|publisher=|accessdate=23 October 2016}}&lt;/ref&gt;
+*{{convert|14|ktonTNT|TJ}} (Estimation from [[Bundesanstalt für Geowissenschaften und Rohstoffe|Federal Institute for Geosciences and Natural Resources]])&lt;ref name=BGRJan2016&gt;[http://www.bgr.bund.de/DE/Gemeinsames/Oeffentlichkeitsarbeit/Pressemitteilungen/BGR/bgr-160106_nordkorea_BGR_kernwaffentest.html?nn=1542132 Nordkorea: BGR registriert vermutlichen Kernwaffentest] - BGR, 6 Jan 2016&lt;/ref&gt; - Initially however was estimated at {{convert|40|ktonTNT|TJ}}&lt;ref name=BGR2013&gt;[http://www.bgr.bund.de/DE/Gemeinsames/Oeffentlichkeitsarbeit/Pressemitteilungen/BGR/bgr-130212_Kernwaffentest-Nordkorea.html Nordkorea: BGR registriert vermutlichen Kernwaffentest] - BGR (In German), 12 Feb 2013&lt;/ref&gt;
+|previous_test       =[[2009 North Korean nuclear test|2009 test]]
+|next_test           =[[January 2016 North Korean nuclear test|January 2016 test]]
+}}
+{{DPRK WMD}}
+On 12 February 2013, [[North Korea]]n state media announced it had conducted an [[Underground nuclear testing|underground nuclear test]], its third in seven years. A tremor that exhibited a nuclear bomb signature with an initial [[Moment magnitude scale|magnitude]] 4.9 (later revised to 5.1) was detected by the [[China Earthquake Networks Center]],&lt;ref name=&quot;朝鲜疑爆Ms4.9地震&quot;&gt;{{cite web|title=朝鲜(疑爆)Ms4.9地震 |url=http://www.csndmc.ac.cn/newweb/secondpage.jsp?id=1146 |language=Chinese |deadurl=yes |archiveurl=https://web.archive.org/web/20140809151257/http://www.csndmc.ac.cn/newweb/secondpage.jsp?id=1146 |archivedate=9 August 2014 }}&lt;/ref&gt; [[Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization]]&lt;ref&gt;{{cite web|title=Press Release: On the CTBTO's detection in North Korea|url=http://www.ctbto.org/press-centre/press-releases/2013/on-the-ctbtos-detection-in-north-korea/|publisher=CTBTO|accessdate=12 February 2013}}&lt;/ref&gt; and the [[United States Geological Survey]].&lt;ref name=&quot;USGS report 2013 nuclear test&quot;/&gt; In response, [[Japan]] summoned an emergency [[United Nations]] meeting for 12 February and [[South Korea]] raised its military alert status. It is not known whether the explosion was nuclear or a conventional explosion designed to mimic a nuclear blast;&lt;ref&gt;Broad, William, &quot;[http://www.nytimes.com/2013/02/13/world/asia/despite-claims-of-third-blast-north-korean-nuclear-program-remains-a-mystery.html?src=recg A Secretive Country Gives Experts Few Clues to Judge Its Nuclear Program]&quot;, ''New York Times'', 12 February 2013. &quot;As is usual with tests by the secretive North, it was not even clear if the underground test was nuclear, rather than conventional bomb blasts meant to mimic an underground nuclear test;&quot;&lt;/ref&gt; as of two days after the blast, Chinese, Japanese, and South Korean investigators had failed to detect any radiation.&lt;ref&gt;{{cite news|url=http://www.bbc.co.uk/news/world-asia-21455080 |title=BBC News - North Korea nuclear test: No radiation detected |publisher=bbc.co.uk |date=2013-02-14 |accessdate=2013-04-16}}&lt;/ref&gt;
+
+== Test ==
+[[File:North Korea nuclear test 2013.jpg|thumbnail|left|USGS infographic on the event]]
+
+On 12 February 2013, a spokesman for North Korea's army command said it had successfully conducted a third underground [[Nuclear weapons testing|nuclear weapons test]], according to the [[Yonhap]].&lt;ref&gt;{{cite web |title=(URGENT) N. Korea confirms it conducted third nuclear test |url=http://english.yonhapnews.co.kr/news/2013/02/12/0200000000AEN20130212010000315.HTML |publisher=YonHapNews |date=12 February 2013 |accessdate=12 February 2013}}&lt;/ref&gt;&lt;ref name=&quot;Nuke&quot;&gt;{{cite web |url=http://www.koreanconfidential.com/dprknukethreatmarch13.html |title=North Korea Nuclear Threat |date=5 March 2013 |accessdate=26 March 2013}}&lt;/ref&gt; North Korea also said the test had used a miniaturized nuclear device with greater explosive power.&lt;ref&gt;{{cite news|title=N.Korea says test used miniaturised nuclear device with greater explosive force |url=http://english.ruvr.ru/2013_02_12/N-Korea-says-test-used-miniaturised-nuclear-device-with-greater-explosive-force-KCNA/ |publisher=Voice of Russia|date=12 February 2013|accessdate=12 February 2013}}&lt;/ref&gt;
+
+Before North Korea announced they had conducted the test, [[seismic activity]] had already been detected in [[North Korea]] by the United States Geological Survey (USGS) and the seismic network operated by the Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) Preparatory Commission, near the site of previous nuclear tests at [[Mantapsan]] in [[Kilju County]]. A large tremor, first estimated at magnitude of 4.9, was detected in North Korea, and governments in the region were trying to determine whether it was a third nuclear test. The USGS upgraded the magnitude of the possibly nuclear tremor from 4.9 to 5.1, located {{convert|24|km|mi}} east-northeast of [[Sungjibaegam]], North Korea.&lt;ref name=&quot;USGS report summary&quot;&gt;{{cite web|title=M5.1 – 24km ENE of Sungjibaegam, North Korea|date=12 February 2013 |url=http://earthquake.usgs.gov/earthquakes/eventpage/usc000f5t0#summary|publisher=USGS|accessdate=12 February 2013}}&lt;/ref&gt; The tremor occurred at 11:57am [[Korea Standard Time|KST]] (2:57am [[UTC]]), and the USGS said the [[hypocenter]] of the event was only one [[kilometer]] deep. 
+
+Later, the [[Geophysical Service of the Russian Academy of Sciences|Geophysical Service]] of the [[Russian Academy of Sciences]] assures the residents in the [[Russian Far East]] that the nuclear blast did not trigger any seismic events and underground tremors at 16:00 local time on 12 February 2013 in the area and thus the North Korea's nuclear test does not pose danger to the residents there.&lt;ref name=&quot;siberiantimes.com&quot;/&gt;
+
+The [[China Earthquake Networks Center]] ([[Abbreviation]]: CENC; {{zh|s=中国地震台网中心}}) also reported this event, putting the magnitude at [[:Surface wave magnitude|M&lt;sub&gt;s&lt;/sub&gt;]] 4.9.&lt;ref name=&quot;朝鲜疑爆Ms4.9地震&quot;/&gt; The tremor caused by the test could be felt by residents of the neighboring city of [[Hunchun]] and [[Antu County|Antu]], in [[Yanbian Korean Autonomous Prefecture|Yanbian]], [[Jilin|Jilin Province]], China.&lt;ref&gt;{{cite web|url=http://news.ifeng.com/world/special/chaoxiansanheshi/content-3/detail_2013_02/12/22122280_0.shtml|title=吉林珲春市民感到晃动 老太错以为心脏病犯了_资讯频道_凤凰网|publisher=IFENG|date=12 February 2013|accessdate=12 February 2013}}&lt;/ref&gt; A citizen of [[Hyesan]], [[Ryanggang Province]] of North Korea, {{convert|80|km|mi|abbr=on}} west from the nuclear test site, reported that many 5- and 7-floor buildings shook very severely, and this caused cracking.&lt;ref&gt;{{cite web|title= Hyesan Suffers Test Quake Damage |date=13 February 2013 |url= http://www.dailynk.com/english/read.php?cataId=nk01500&amp;num=10314 |publisher=Daily NK|accessdate=14 February 2013}}&lt;/ref&gt; The explosion was registered by 94 seismic stations and two infrasound stations in the CTBTO's global monitoring system.&lt;ref&gt;{{cite news|title=Update on CTBTO findings related to the announced nuclear test by North Korea |url=http://www.ctbto.org/press-centre/highlights/2013/update-on-ctbto-findings-related-to-the-announced-nuclear-test-by-north-korea/ |publisher=CTBTO|date=15 February 2013|accessdate=14 April 2015}}&lt;/ref&gt; The CTBTO radionuclide network later made a significant detection of radioactive noble gases that could be attributed to the nuclear test.&lt;ref&gt;{{cite news|title=CTBTO detects radioactivity consistent with 12 February announced North Korean nuclear test |url=http://www.ctbto.org/press-centre/press-releases/2013/ctbto-detects-radioactivity-consistent-with-12-february-announced-north-korean-nuclear-test/ |publisher=CTBTO|date=23 April 2013|accessdate=14 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Gases &quot;consistent with&quot; North Korea's February test found: nuclear body |url=http://www.reuters.com/article/2013/04/23/us-korea-north-nuclear-idUSBRE93M0B820130423 |publisher=Reuters|date=23 April 2013|accessdate=14 April 2015}}&lt;/ref&gt;
+
+== Yield estimates ==
+[[South Korea]]'s defense ministry said the event reading indicated a blast of 6–7 [[TNT equivalent|kilotons]],&lt;ref name=&quot;USGS report summary&quot;/&gt;&lt;ref&gt;{{cite web |first1=Gloria|last1=Riviera|first2=Fujita|last2=Akiko|title=North Korea Tremor Arouses Suspicion of Nuclear Test |url=http://abcnews.go.com/International/north-korea-tremor-arouses-suspicion-nuclear-test/story?id=18444191|publisher=ABC News|date=12 February 2013|accessdate=12 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first1=David|last1=Chance|first2=Jack|last2=Kim|title=China joins U.S., Japan in condemning North Korea nuclear test |url=http://www.reuters.com/article/2013/02/12/us-korea-north-idUSBRE91B04820130212|agency=Reuters|accessdate=12 February 2013|date=12 February 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news|first=Calum|last=MacLeod|title=Obama calls North Korea nuclear test a threat to U.S. |url=http://www.usatoday.com/story/news/world/2013/02/11/earthquake-north-korea-nuclear-test/1911587/|newspaper=USA Today|date=12 February 2013|accessdate=12 February 2013}}&lt;/ref&gt; later revised to 6–9 kilotons using the Comprehensive Nuclear Test Ban Treaty Organization's calculation method.&lt;ref name=&quot;KoreaHearldFeb14&quot;&gt;{{cite news|url=http://www.koreaherald.com/view.php?ud=20130214000765|title=Estimates differ on size of N.K. blast|author=Choi He-suk|publisher=The Korea Herald|date=14 February 2013|accessdate=17 February 2013}}&lt;/ref&gt;
+
+The Korea Institute of Geosciences and Mineral Resources estimated the yield as 7.7–7.8 kilotons while the Japanese put the estimation between 8 and 10 kilotons.&lt;ref name=chosun/&gt;
+
+Some experts estimate the yield to be up to 15 kilotons, since the test site's geology is not well understood.&lt;ref&gt;{{cite news |title=North Korea nuclear test raises uranium concerns |url=http://www.bbc.co.uk/news/world-asia-21431599|date=12 February 2013|accessdate=12 February 2013|work=BBC News}}&lt;/ref&gt; The [[Ministry of Defence (Russia)|Russian Defence Ministry]] said the power of North Korea's nuclear test blast &quot;surpassed 7 kilotons&quot;.&lt;ref&gt;{{cite news|url=http://www.interfax.ru/world/290002|title=Пхеньян устроил &quot;безупречный&quot; взрыв|agency=[[Interfax]]|accessdate=14 March 2014|date=12 February 2013}}&lt;/ref&gt;&lt;ref name=&quot;siberiantimes.com&quot;/&gt;&lt;ref&gt;{{cite web|url=http://indrus.in/world/2013/02/13/russia_condemns_north_koreas_new_nuclear_test_22253.html|title=Russia condemns North Korea's new nuclear test|first=Igor|last=Rozin|date=13 February 2013|publisher=|accessdate=23 October 2016}}&lt;/ref&gt;
+
+[[NORSAR]] compared the seismic data from all three North Korean nuclear tests and estimated the yield of the 2013 test as approximately 10 kilotons.&lt;ref&gt;{{cite web|url=http://www.norsar.no/norsar/about-us/News/NuclearExplosionDPRK12Feb2013|title=Nuclear explosion in North Korea, February 12, 2013|publisher=[[NORSAR]]|date=12 February 2013|accessdate=13 February 2013}}&lt;/ref&gt;
+
+The [[Bundesanstalt für Geowissenschaften und Rohstoffe|Federal Institute for Geosciences and Natural Resources]], a state-run geology research institute in [[Germany]], estimated the yield initially at 40 kilotons.&lt;ref name=&quot;KoreaHearldFeb14&quot;/&gt;&lt;ref name=&quot;Nuke test air samples are a bust&quot;&gt;{{cite web|title=Nuke test air samples are a bust |url=http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2967164 |date=15 February 2013 |accessdate=16 February 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20130523095337/http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2967164 |archivedate=23 May 2013 |df=dmy }}&lt;/ref&gt;&lt;ref name=BGR2013/&gt; However, this estimation has since been revised to {{convert|14|ktonTNT|TJ}}&lt;ref name=BGRJan2016/&gt; after the [[January 2016 North Korean nuclear test]] was conducted.
+
+On 19 June 2013, the [[University of Science and Technology of China]] released a report that claimed that they had found the precise location of the test at latitude 41°17′26.88″, longitude 129°4′34.68″, with an error margin of 94 meters and the yield at around 12.2&amp;nbsp;kt, with a margin of error of 3.8&amp;nbsp;kt.&lt;ref name=UTSC/&gt;
+
+In comparison, the fission nuclear bombs dropped by the ''[[Enola Gay]]'' on Hiroshima ([[Little Boy]], a &quot;gun-type&quot; nuclear bomb) and on Nagasaki by ''[[Bockscar]]'' ([[Fat Man]], an &quot;implosion-type&quot; nuclear bomb) had blast yield equivalences of 16 and 21 kilotons respectively.&lt;ref name=&quot;KoreaHearldFeb14&quot;/&gt;
+
+== Further tests ==
+On 4 February 2013, a South Korean military official had stated that there was a &quot;chance that the southern tunnel is a decoy, but we are not ruling out that the regime will conduct nuclear tests simultaneously at both tunnels&quot;.&lt;ref&gt;{{cite news|last=Ryall |first=Julian |url=http://www.telegraph.co.uk/news/worldnews/asia/northkorea/9846447/North-Korea-preparing-for-two-nuclear-tests.html |title=North Korea 'preparing for two nuclear tests' |publisher=Telegraph |date=2013-02-04 |accessdate=2013-04-16 |location=London}}&lt;/ref&gt; On 15 February 2013, North Korea had told China that they were preparing for one or two more nuclear tests this year.&lt;ref&gt;{{cite news|last=Kang |first=Benjamin |url=http://www.reuters.com/article/2013/02/15/us-korea-north-nuclear-idUSBRE91E0J820130215 |title=Exclusive: North Korea tells China of preparations for fresh nuclear test - source |publisher=Reuters |date=2013-02-15 |accessdate=2013-04-16}}&lt;/ref&gt; On 8 April 2013, South Korea had observed activity at [[Punggye-ri Nuclear Test Site|Punggye-ri]], suggesting that a fourth underground test was being prepared.&lt;ref&gt;{{cite web|url=http://koreajoongangdaily.joinsmsn.com/news/article/article.aspx?aid=2969782&amp;cloc=joongangdaily%7chome%7ctop |title=Activity at North's nuke test site-INSIDE Korea JoongAng Daily |publisher=Koreajoongangdaily.joinsmsn.com |date=2013-04-08 |accessdate=2013-04-16}}&lt;/ref&gt; It was later believed that the tunneling activity that started in April was for a long-term project, and that a nuclear test wouldn't occur soon.&lt;ref&gt;{{cite web|url=http://38north.org/2013/06/punggye062413/|title=New Tunneling Activity at the North Korean Nuclear Test Site|author=38 North|publisher=38 North|date=25 June 2013|accessdate=26 June 2013}}&lt;/ref&gt; 
+
+According to a U.S. expert, North Korea has everything in place for a fourth explosion but is hesitating due to the fear that it would anger China.&lt;ref&gt;{{Cite news|url = http://www.nbcnews.com/id/52497384/ns/world_news-asia_pacific/#.UeiTI2TwJYA|title = North Korea has everything in place for new atom test: U.S. expert|publisher = NBC News|last = Dahl|first = Fredrik|editor-first = Tom|editor-last = Pfeiffer|date = 17 July 2013|accessdate = 18 July 2013}}&lt;/ref&gt; A professor from [[Georgetown University]] predicted that test would occur in spring 2014 at latest.&lt;ref&gt;{{Cite news|url=http://www.globalpost.com/dispatch/news/yonhap-news-agency/131113/n-korea-could-conduct-4th-nuclear-test-late-year-us-expert|title=N. Korea could conduct 4th nuclear test late this year: US expert|publisher=''[[GlobalPost]]''|author=Yonhap News Agency|date=13 November 2013|accessdate=16 November 2013}}&lt;/ref&gt;
+
+On 17 December 2013, a member of South Korea's parliamentary intelligence committee said that a nuclear and missile test would occur soon to draw attention away from the execution of [[Jang Sung-taek]]. This was said after North Korea floated propaganda leaflets to South Korea that threatened the annihilation of [[Baengnyeongdo]].&lt;ref&gt;{{Cite news|url=http://world.time.com/2013/12/17/south-korean-official-the-north-is-preparing-for-another-nuclear-test/|publisher=TIME|title=South Korean Official: The North is Preparing for Another Nuclear Test|author=David Stout|date=17 December 2013|accessdate=17 December 2013}}&lt;/ref&gt;
+
+On 22 April 2014, South Korea reported that North Korea had stepped up its activity at its main nuclear test site, meaning they may be preparing for their fourth underground nuclear test.&lt;ref&gt;{{Cite news|url=http://www.cnn.com/2014/04/21/world/asia/north-korea-nuclear-activity/|title=North Korea steps up activity at its nuclear site, South says|publisher=CNN|author1=Jethro Mullen|author2=Stella Kim|date=22 April 2014|accessdate=22 April 2014}}&lt;/ref&gt; The United States urged North Korea to refrain from testing.&lt;ref&gt;{{cite web|url=http://www.reuters.com/article/us-nuclear-korea-usa-idUSBREA3L1FO20140422|title=U.S. urges North Korea to refrain from new nuclear test|author=|date=22 April 2017|publisher=|accessdate=23 October 2016|via=Reuters}}&lt;/ref&gt;
+
+On [[January 2016 North Korean nuclear test|January 6th, 2016]] North Korea says it has successfully carried out a [[hydrogen bomb]] test, which if confirmed, will be a first for the reclusive regime and a significant advancement for its military ambitions.&lt;ref&gt;{{cite web|url=http://www.cnn.com/2016/01/05/asia/north-korea-seismic-event/index.html|title=North Korea says it has conducted hydrogen bomb test|first=Euan McKirdy|last=CNN|date=|publisher=|accessdate=23 October 2016}}&lt;/ref&gt;
+The test took place at 10 a.m. local time, the regime said in a televised statement. The seismic event, which measured the event at a magnitude of 5.1, occurred 19 kilometers (12 miles) east-northeast of Sungjibaegam, the United States Geological Survey said. &lt;ref&gt;{{cite web|url=http://earthquake.usgs.gov/earthquakes/eventpage/us10004bnm?utm_source=dlvr.it&amp;utm_medium=facebook#general_summary|title=M 5.1 Nuclear Explosion - 21km ENE of Sungjibaegam, North Korea|author=|date=|publisher=|accessdate=23 October 2016}}&lt;/ref&gt; A senior U.S. administration told CNN it could take days to obtain the scientific data to determine whether this was a successful test.
+
+== Reactions ==
+{{main|International reactions to the 2013 North Korean nuclear test}}
+In response, Japan's Prime Minister, [[Shinzo Abe]], called an urgent security meeting of the [[United Nations Security Council]]. The emergency session was to be held 9 AM EST on 12 February 2013.&lt;ref&gt;{{cite news|title=Quake triggers doubts about North Korean nuclear test|url=http://www.rediff.com/news/slide-show/slide-show-1-seismic-activity-fuels-north-korean-nuclear-test-doubts/20130212.htm#1|newspaper=Rediff News|accessdate=12 February 2013}}&lt;/ref&gt; [[United Nations Institute for Disarmament Research|Tibor Toth]], executive secretary of the [[Comprehensive Nuclear-Test-Ban Treaty Organization Preparatory Commission]] (CTBTO), confirmed the event's location was &quot;roughly congruent with&quot; nuclear tests carried out by North Korea in 2006 and 2009.&lt;ref&gt;{{cite web|title=N.Korea seismic event shows 'explosion-like characteristics' -CTBTO|url=http://www.trust.org/alertnet/news/nkorea-seismic-event-shows-explosion-like-characteristics--ctbto/|publisher=Trust.org|accessdate=12 February 2013}}&lt;/ref&gt; Japan's [[Kyodo News]] service reported the Japanese defense ministry had scrambled aircraft to hunt for radiation effects.&lt;ref&gt;{{cite web|title='Artificial Earthquake' Suggests North Korea Just Tested a Nuclear Bomb|url=http://www.theatlanticwire.com/global/2013/02/north-korea-nuclear-test/62029/|publisher=Atlantic Wire|accessdate=12 February 2013}}&lt;/ref&gt; Japan's government held a national security council meeting in [[Tokyo]] according to [[NHK]].&lt;ref&gt;{{cite news |first=Linda |last=Seig |title=Japan holding security meeting after N.Korea nuclear test report: NHK |url=http://www.reuters.com/article/2013/02/12/us-korea-north-japan-idUSBRE91B04T20130212 |newspaper=Reuters |date=11 February 2013 |accessdate=12 February 2013}}&lt;/ref&gt; The South Korean military also raised its readiness level.&lt;ref&gt;{{cite news |author=Song Sang-ho |url=http://nwww.koreaherald.com/view.php?ud=20130212000692|title=N.K. has conducted 3rd nuke test |publisher=The Korea Herald |date=12 February 2013 |accessdate=12 February 2013}}&lt;/ref&gt; In general, international reactions to the 2013 North Korean nuclear test have been almost uniformly negative.&lt;ref&gt;{{cite news|last=Chance |first=David |url=http://www.reuters.com/article/2013/02/12/us-korea-north-idUSBRE91B04820130212 |title=North Korean nuclear test draws anger, including from China |publisher=Reuters.com |date=2012-02-13 |accessdate=2013-02-13}}&lt;/ref&gt;
+
+== See also ==
+{{Portalbar|North Korea|2010s|International relations|Weapons of mass destruction}}
+* [[North Korea and weapons of mass destruction]]
+* [[2013 North Korean crisis]]
+* [[United Nations Security Council Resolution 2094|UN Resolution 2094]]
+* [[Foreign relations of North Korea]]
+* [[List of North Korean nuclear tests]]
+* [[Korean Armistice Agreement#North Korean announcements to withdraw from the armistice agreement|North Korean withdrawal from the Korean Armistice Agreement]] - post reaction to the nuclear test by North Korea, South Korea and the United States
+
+== References ==
+{{Reflist|30em}}
+
+{{Nuclear program of North Korea}}
+{{Use dmy dates|date=February 2013}}
+
+[[Category:2013 in North Korea|Nuclear test]]
+[[Category:Military equipment of North Korea]]
+[[Category:Military of North Korea]]
+[[Category:North Korean nuclear weapons testing]]
+[[Category:Nuclear program of North Korea]]
+[[Category:Nuclear proliferation]]
+[[Category:Nuclear weapons policy]]
+[[Category:Underground nuclear weapons testing]]</text>
+      <sha1>nvoe5s8gulhiwfvwl3p2fr1f3wfjbiq</sha1>
+    </revision>
+  </page>
+</mediawiki>

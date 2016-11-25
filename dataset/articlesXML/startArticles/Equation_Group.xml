@@ -1,0 +1,111 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Equation Group</title>
+    <ns>0</ns>
+    <id>45420727</id>
+    <revision>
+      <id>745666277</id>
+      <parentid>745487884</parentid>
+      <timestamp>2016-10-22T15:16:48Z</timestamp>
+      <contributor>
+        <username>Doug Weller</username>
+        <id>1304678</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/114.229.81.83|114.229.81.83]] ([[User talk:114.229.81.83|talk]]) to last revision by 204.16.64.3. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12858">The '''Equation Group''' is a highly sophisticated [[Threat_(computer)#Threat_agents_or_actors|threat actor]] described by its discoverers at [[Kaspersky Labs]] as one of the most sophisticated cyber attack groups in the world and &quot;the most advanced ... we have seen&quot;, operating alongside but always from a position of superiority with the creators of [[Stuxnet]] and [[Flame (malware)|Flame]].&lt;ref name=&quot;malware-galaxy&quot;&gt;{{cite web |url=https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/ |title=Equation: The Death Star of Malware Galaxy |author=GReAT |date=February 16, 2015 |website=securelist.com |publisher=[[Kaspersky Lab]] |access-date=August 16, 2016 |quote=''SecureList'', Costin Raiu (director of Kaspersky Lab's global research and analysis team): &quot;It seems to me Equation Group are the ones with the coolest toys. Every now and then they share them with the Stuxnet group and the Flame group, but they are originally available only to the Equation Group people. Equation Group are definitely the masters, and they are giving the others, maybe, bread crumbs. From time to time they are giving them some goodies to integrate into Stuxnet and Flame.&quot;}}&lt;/ref&gt;&lt;ref name=ars/&gt;
+
+The name ''Equation Group'' was chosen because of the group's predilection for strong encryption methods in their operations. By 2015, Kaspersky documented 500 [[malware]] infections by the group in at least 42 countries, while acknowledging that the actual number could be in the tens of thousands due to its self-terminating protocol.&lt;ref name=ars&gt;{{cite news |title=How &quot;omnipotent&quot; hackers tied to NSA hid for 14 years—and were found at last |work=[[Ars Technica]] |url=http://arstechnica.com/security/2015/02/how-omnipotent-hackers-tied-to-the-nsa-hid-for-14-years-and-were-found-at-last/ |first=Dan |last=Goodin |date=February 16, 2015 |accessdate=November 24, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.pcworld.com/article/2884952/equation-cyberspies-use-unrivaled-nsastyle-techniques-to-hit-iran-russia.html |title=Destroying your hard drive is the only way to stop this super-advanced malware |first=Jeremy |last=Kirk |date=17 February 2015 |work=[[PCWorld]] |accessdate=November 24, 2015}}&lt;/ref&gt;
+
+They are suspected of being tied to the [[United States]] [[National Security Agency]] (NSA).&lt;ref&gt;{{cite journal |title=Equation = NSA? Researchers Uncloak Huge 'American Cyber Arsenal' |journal=[[Forbes]] |first=Thomas |last=Fox-Brewster |url=http://www.forbes.com/sites/thomasbrewster/2015/02/16/nsa-equation-cyber-tool-treasure-chest/ |date=February 16, 2015 |accessdate=November 24, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Russian researchers expose breakthrough U.S. spying program |work=[[Reuters]] |url=http://www.reuters.com/article/2015/02/16/us-usa-cyberspying-idUSKBN0LK1QV20150216 |date=February 17, 2015 |first=Joseph |last=Menn |accessdate=November 24, 2015 }}&lt;/ref&gt; [[The Intercept]] has run a paper where they link the Equation Group to the NSA, citing the [[Edward Snowden|Snowden]] leaks.&lt;ref&gt;{{cite News |title=The nsa was hacked snowden documents confirm |work=[[The Intercept]] |url=https://theintercept.com/2016/08/19/the-nsa-was-hacked-snowden-documents-confirm/ |date=19 August 2016 |accessdate=19 August 2016}}&lt;/ref&gt; By 2015, most of their targets had been in [[Iran]], [[Russia]], [[Pakistan]], [[Afghanistan]], [[India]], [[Syria]], and [[Mali]].&lt;ref name=ars/&gt;
+
+==Discovery==
+At the Kaspersky Security Analysts Summit held in Mexico on February 16, 2015, Kaspersky Lab announced its discovery of the Equation Group. According to Kaspersky Lab's report, the group has been active since at least 2001, with more than 60 actors.&lt;ref name=&quot;kaspersky&quot;&gt;{{Cite web |title=Equation Group: The Crown Creator of Cyber-Espionage |work=Kaspersky Lab |url=http://www.kaspersky.com/about/news/virus/2015/Equation-Group-The-Crown-Creator-of-Cyber-Espionage |date=February 16, 2015 |accessdate=November 24, 2015}}&lt;/ref&gt; The malware used in their operations, dubbed EquationDrug and GrayFish, is found to be capable of reprogramming [[hard disk drive]] [[firmware]].&lt;ref name=&quot;malware-galaxy&quot;/&gt;  Because of the advanced techniques involved and high degree of covertness, the group is suspected of ties to the NSA, but Kaspersky Lab has not identified the actors behind the group.
+
+==Probable links to Stuxnet and the NSA==
+In 2015 Kaspersky's research findings on the Equation Group noted that its loader, &quot;Grayfish&quot;, had similarities to a previously discovered loader &quot;Gauss&quot; from another attack series, and separately noted that the Equation Group used two zero-day attacks later used in [[Stuxnet]]; the researchers concluded that &quot;the similar type of usage of both exploits together in different computer worms, at around the same time, indicates that the EQUATION group and the Stuxnet developers are either the same or working closely together&quot;.&lt;ref name=&quot;Kaspersky1&quot;&gt;{{cite web |url=https://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf |title=Equation Group: Questions and Answers (Version: 1.5) |date=February 2015 |work=[[Kaspersky Lab]] |accessdate=November 24, 2015}}&lt;/ref&gt;{{rp|13}}
+
+===Firmware===
+They also identified that the platform had at times been spread by [[interdiction]] (interception of legitimate CDs sent by a scientific conference organizer by [[mail]]),&lt;ref name=&quot;Kaspersky1&quot; /&gt;{{rp|15}} and that the platform had the &quot;unprecedented&quot; ability to infect and be transmitted through the [[hard drive]] [[firmware]] of several of the major hard drive manufacturers, and create and use hidden disk areas and virtual disk systems for its purposes, a feat demanding access to the manufacturer's [[source code]] of each to achieve,&lt;ref name=&quot;Kaspersky1&quot; /&gt;{{rp|16–18}} and that the tool was designed for surgical precision, going so far as to exclude specific countries by IP and allow targeting of specific usernames on [[discussion forum]]s.&lt;ref name=&quot;Kaspersky1&quot;/&gt;{{rp|23–26}}
+
+===Codewords and timestamps===
+The NSA codewords &lt;!-- The terms &quot;BACKSNARF&quot; and &quot;Grok&quot; are ancient MIT/SAIL usages from the late 70s and are common throughout computer geekdom , --&gt; &quot;STRAITACID,&quot; and &quot;STRAITSHOOTER&quot; have been found inside the malware. In addition, [[timestamps]] in the malware seem to indicate that the programmers worked overwhelmingly Monday–Friday in what would correspond to a 08:00–17:00 workday in an Eastern United States timezone.&lt;ref&gt;{{cite web |url=http://arstechnica.com/security/2015/03/new-smoking-gun-further-ties-nsa-to-omnipotent-equation-group-hackers/ |title=New smoking gun further ties NSA to omnipotent &quot;Equation Group&quot; hackers |first=Dan |last=Goodin |date=March 11, 2015 |work=Ars Technica |accessdate=November 24, 2015}}&lt;/ref&gt;
+
+===The LNK exploit===
+Kaspersky's global research and analysis team, otherwise known as GReAT, claimed to have found a piece of malware that contained Stuxnet's &quot;privLib&quot; in 2008.&lt;ref&gt;{{cite web |url=https://securelist.com/blog/research/68787/a-fanny-equation-i-am-your-father-stuxnet/|title=A Fanny Equation: &quot;I am your father, Stuxnet&quot; |work=Kaspersky Lab |date=February 17, 2015 |accessdate=November 24, 2015}}&lt;/ref&gt; Specifically it contained the LNK exploit found in Stuxnet in 2010. Fanny is classified as a worm that affects certain [[Microsoft Windows|Windows operating systems]] and attempts to spread laterally via network connection or [[Universal Serial Bus|USB storage]]. Kaspersky stated that they suspect that because of the recorded compile time of Fanny that the Equation Group has been around longer than Stuxnet.&lt;ref name=&quot;malware-galaxy&quot;/&gt;
+
+===Link to IRATEMONK===
+[[File:NSA IRATEMONK.jpg|thumb|The NSA's listing of its [[Tailored Access Operations]] program named IRATEMONK from the [[NSA ANT catalog]].]]
+[[F-Secure]] claims that the Equation Group's malicious hard drive [[firmware]] is TAO program &quot;IRATEMONK&quot;;&lt;ref name=&quot;FSecure&quot;&gt;{{cite web|url=https://www.f-secure.com/weblog/archives/00002791.html |title=The Equation Group Equals NSA / IRATEMONK |work=[[F-Secure]] Weblog : News from the Lab |date=February 17, 2015 |accessdate=November 24, 2015}}&lt;/ref&gt; one of the items from the [[NSA ANT catalog]] exposed in a 2013 ''Der Spiegel'' article. IRATEMONK provides the attacker with an ability to have their [[Application software|software application]] persistently installed on desktop and laptop computers, despite the disk being [[Disk formatting|formatted]], its [[Data erasure|data erased]] or the operating system re-installed. It infects the hard drive firmware, which in turn adds instructions to the disk's [[master boot record]] that causes the software to install each time the computer is [[Booting|booted up]].&lt;ref name=&quot;IRATEMONK&quot;/&gt; It is capable of infecting certain hard drives from [[Seagate Technology|Seagate]], [[Maxtor]], [[Western Digital]], [[Samsung]],&lt;ref name=&quot;IRATEMONK&quot;&gt;{{cite web |url=https://www.schneier.com/blog/archives/2014/01/iratemonk_nsa_e.html |first=Bruce |last=Schneier |title=IRATEMONK: NSA Exploit of the Day |work=Schneier on Security |date=January 31, 2014 |accessdate=November 24, 2015}}&lt;/ref&gt; [[IBM]], [[Micron]] and [[Toshiba]].&lt;ref name=&quot;malware-galaxy&quot; /&gt;
+
+==2016 breach of the Equation Group==
+In August 2016, a hacking group calling itself &quot;[[The Shadow Brokers]]&quot; announced that it stole malware code from the Equation Group.&lt;ref&gt;{{Cite news | url = http://arstechnica.com/security/2016/08/group-claims-to-hack-nsa-tied-hackers-posts-exploits-as-proof/ | first = Dan | last = Goodin | title = Group claims to hack NSA-tied hackers, posts exploits as proof | date = August 15, 2016 | access-date = August 19, 2016 | newspaper = Ars Technica}}&lt;/ref&gt; [[Kaspersky Lab]] noticed similarities between the stolen code and earlier known code from the Equation Group malware samples it had in its possession including quirks unique to the Equation Group's way of implementing the [[RC6]] encryption algorithm, and therefore concluded that this announcement is legitimate.&lt;ref&gt;{{Cite news | url = http://arstechnica.com/security/2016/08/code-dumped-online-came-from-omnipotent-nsa-tied-hacking-group/ | title = Confirmed: hacking tool leak came from “omnipotent” NSA-tied group | first = Dan | last = Goodin | date = August 16, 2016 | access-date = August 19, 2016 | newspaper = Ars Technica}}&lt;/ref&gt; [[Edward Snowden]] has speculated that The Shadow Brokers is actually [[Russia]]n intelligence.&lt;ref&gt;{{Cite news | url = http://www.eweek.com/security/shadow-brokers-allegedly-hack-nsas-equation-group.html | title = Shadow Brokers Allegedly Hack NSA's Equation Group | newspaper = eWeek | first = Sean Michael | last = Kerner | date = August 16, 2016 | access-date = August 19, 2016}}&lt;/ref&gt; The most recent dates of the stolen files are from June 2013, thus Snowden speculates that a likely lockdown resulting from his leak of the [[Global surveillance disclosures (2013–present)|NSA's global and domestic surveillance efforts]] stopped The Shadow Brokers' breach of the Equation Group. Exploits against [[Cisco Adaptive Security Appliance]]s and [[Fortinet]]'s firewalls were featured in some malware samples released by The Shadow Brokers.&lt;ref name=&quot;EXTRABACON&quot;&gt;{{Cite news | url = http://www.theregister.co.uk/2016/08/17/cisco_two_shadow_brokers_vulnerabilities_real/ | first = Iain | last = Thomson | title = Cisco confirms two of the Shadow Brokers' 'NSA' vulns are real | date = August 17, 2016 | access-date = August 19, 2016 | newspaper = [[The Register]]}}&lt;/ref&gt; EXTRABACON, a [[Simple Network Management Protocol]] exploit against Cisco's ASA software, is a [[Zero-day (computing)|zero-day exploit]] as of the time of the announcement.&lt;ref name=&quot;EXTRABACON&quot;/&gt; Juniper also confirmed that its NetScreen firewalls were affected.&lt;ref&gt;{{Cite news | title = Equation Group exploit hits newer Cisco ASA, Juniper Netscreen | url = http://www.theregister.co.uk/2016/08/24/equation_group_exploit_expanded_to_target_cisco_924_asa_boxes/ | first = Darren | last = Pauli | date = August 24, 2016 | access-date=August 30, 2016 | newspaper = [[The Register]]}}&lt;/ref&gt;
+
+==See also==
+* [[Global surveillance disclosures (2013–present)]]
+* [[United States intelligence operations abroad]]
+* [[Firmware#Firmware hacking|Firmware hacking]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Equation Group}}
+*''[https://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf Equation Group: Questions and Answers]'' by [[Kaspersky Lab]], Version: 1.5, February 2015
+*[https://securelist.com/blog/research/68787/a-fanny-equation-i-am-your-father-stuxnet/ A Fanny Equation: &quot;I am your father, Stuxnet&quot;] by [[Kaspersky Lab]], February 2015
+
+{{Hacking in the 2010s}}
+
+[[Category:Advanced persistent threat]]
+[[Category:Cyberwarfare in the United States]]
+[[Category:National Security Agency operations]]
+[[Category:Rootkits]]</text>
+      <sha1>psngif9h5zqppjyf1b1qzm3yub4vnl6</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,145 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ADR-8</title>
+    <ns>0</ns>
+    <id>42729429</id>
+    <revision>
+      <id>732492256</id>
+      <parentid>707075706</parentid>
+      <timestamp>2016-08-01T10:00:02Z</timestamp>
+      <contributor>
+        <username>Dawynn</username>
+        <id>6655086</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */[[Wikipedia:WikiProject Stub sorting|stub tagging]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3688">{{infobox weapon
+| name               = ADR-8A
+| image              = &lt;!-- [[File:A-4 with ZAP.png|300px]] --&gt;
+| caption            = 
+| origin             = [[United States]]
+| type               = [[Unguided rocket|Chaff rocket]]
+&lt;!-- Type selection --&gt;
+| is_missile         = yes
+&lt;!-- Service history --&gt;
+| service            = 
+| used_by            = [[United States Air Force]]
+&lt;!-- Production history --&gt;
+| designer           = [[Tracor]]
+| design_date        = early 1960s
+| production_date    = 
+| manufacturer       = [[Revere Copper and Brass]]
+| number             = 
+&lt;!-- General specifications --&gt;
+| spec_label         = 
+| weight             = &lt;!-- {{convert|999|lb}} --&gt;
+| length             = {{convert|5|ft}}
+| part_length        = 
+| width              = 
+| height             = 
+| diameter           = {{convert|2.75|in}}
+| crew               = 
+| passengers         =
+&lt;!-- Explosive specifications --&gt; 
+| filling            = Chaff
+| filling_weight     = 
+| detonation         = 
+| yield              = 
+&lt;!-- Vehicle/missile specifications --&gt;
+| engine             = 
+| engine_power       = 
+| pw_ratio           = 
+| payload_capacity   = 
+| fuel_capacity      = 
+| vehicle_range      = 
+| speed              = 
+| guidance           = None
+| steering           = 
+&lt;!-- Missiles only --&gt;
+| wingspan           = &lt;!-- {{convert|99|in}} --&gt;
+| propellant         = Solid fuel
+| ceiling            = 
+| altitude           = 
+| depth              = 
+| boost              = 
+| accuracy           = 
+| launch_platform    = [[B-52 Stratofortress]]
+| transport          =
+}}
+
+The '''ADR-8''' was an unguided [[electronic countermeasures]] [[rocket]] developed by [[Tracor]] for use by the [[United States Air Force]]. It was used to dispense [[chaff (countermeasure)|chaff]] from [[Boeing B-52 Stratofortress]] bombers.
+
+==Development==
+Originally given the designation '''RCU-2''', the ADR-8 was developed for use by the [[Boeing B-52 Stratofortress]] strategic bomber, to give the aircraft a means of dispensing chaff to disrupt enemy radar.&lt;ref name=&quot;DS&quot;&gt;Parsch 2005&lt;/ref&gt; Developed by [[Tracor]] under a Quick Reaction Contract, the ADR-8 was a [[folding fin]] rocket of {{convert|2.75|in|abbr=on}} diameter. Following successful testing, production of the rocket was undertaken by [[Revere Copper and Brass]].&lt;ref name=&quot;DS&quot;/&gt;
+
+==Operational use==
+The rockets were fired from 20-shot '''AN/ALE-25''' rocket pods mounted on pylons under the wings of the B-52s. The pods were {{convert|13|ft}} long and weighed {{convert|1100|lb}}; the rockets could be fired manually or automatically upon detection of a threat. They were installed on the final 18 B-52H aircraft constructed; earlier B-52Gs and B-52Hs were retrofitted with the system.&lt;ref name=&quot;B52&quot;&gt;Dorr and Peacock 2000, p.52.&lt;/ref&gt;
+
+The ADR-8 and AN/ALE-25 were retired in September 1970,&lt;ref name=&quot;DS&quot;/&gt; replaced by the &quot;Phase VI&quot; electronic warfare suite.&lt;ref name=&quot;B52&quot;/&gt;
+
+==References==
+;Citations
+{{reflist|2}}
+;Bibliography
+{{refbegin}}
+*{{cite book |last1=Dorr |first1=Robert F. |last2=Peacock |first2=Lindsay T.| title=B-52 Stratofortress: Boeing's Cold War Warrior | year=2000 |publisher=Osprey Publishing |location=Oxford, England, UK |isbn=978-1841760971}}
+*{{cite web |url=http://www.designation-systems.net/dusrm/r-8.html |title=Revere (Tracor) RCU-2/ADR-8 |first=Andreas |last=Parsch |year=2005 |work=Directory of U.S. Military Rockets and Missiles |publisher=designation-systems.net |accessdate=2014-05-11}}
+{{refend}}
+
+{{US military rockets}}
+{{Missile types}}
+
+[[Category:Cold War rockets of the United States]]
+[[Category:Weapons countermeasures]]
+[[Category:Boeing B-52 Stratofortress]]
+
+{{bomber-stub}}</text>
+      <sha1>4chfyt6dabqcnf4ipt7k2be0idvaiea</sha1>
+    </revision>
+  </page>
+</mediawiki>

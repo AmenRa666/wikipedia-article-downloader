@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gairnieston Castle</title>
+    <ns>0</ns>
+    <id>52232985</id>
+    <revision>
+      <id>748750733</id>
+      <parentid>748745931</parentid>
+      <timestamp>2016-11-10T04:21:14Z</timestamp>
+      <contributor>
+        <username>GünniX</username>
+        <id>237572</id>
+      </contributor>
+      <minor/>
+      <comment>Reference list duplication</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1042">{{Orphan|date=November 2016}}
+
+'''Gairnieston Castle''' or Garniston Castle was a [[medieval]] [[castle]] in [[Aberdeenshire]], [[Scotland]].&lt;ref name=Canmore&gt;{{cite web |url=https://canmore.org.uk/site/19241/gairnieston-castle|title=Gairnieston Castle|publisher=[[Royal Commission on the Ancient and Historical Monuments of Scotland]]|accessdate=2016-11-09}}&lt;/ref&gt;&lt;ref name=AberdeenCouncil&gt;{{cite web |url=https://online.aberdeenshire.gov.uk/smrpub/master/detail.aspx?tab=period&amp;refno=NJ75NW0003|title=Gairnieston Castle|publisher=[[Aberdeen]] council|accessdate=2016-11-09}}&lt;/ref&gt;
+
+No traces of it remain.&lt;ref name=Canmore/&gt;
+
+==History==
+
+The castle was the seat of the [[Scottish clan chief|chief]] of clan Dalgarno.&lt;ref name=Canmore/&gt;
+
+==Structure==
+
+The castle stood on the right bank of a stream.  There is a small park which is believed to have been the castle garden.&lt;ref name=Canmore/&gt;
+  
+==References==
+{{Reflist}}
+
+{{coord |57.58449|N|2.4449|W|display=title}}
+
+[[Category:Castles in Aberdeenshire]]
+[[Category:Castles in Scotland]]</text>
+      <sha1>fu59an49y93w0k8go74i0c4a4zedy1m</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Quanza</title>
+    <ns>0</ns>
+    <id>37509529</id>
+    <revision>
+      <id>746720145</id>
+      <parentid>720471963</parentid>
+      <timestamp>2016-10-29T03:32:59Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* August{{spaced ndash}}September 1940 voyage */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10165">{|{{Infobox ship begin}} &lt;!-- commercial vessels --&gt;
+|+''Quanza''
+{{Infobox ship image
+|Ship image=&lt;!-- Deleted image removed: [[File:SS Quanza model.jpg|center|300px]] --&gt;
+|Ship caption=A model of the ''SS Quanza''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship flag={{shipboxflag|Portugal|1945}}
+|Ship name=''Portugal''&lt;ref name=&quot;Bonsor&quot;&gt;
+ {{cite book
+ |title=South Atlantic Seaway
+ |last=Bonsor
+ |first=N R P
+ |year=1983
+ |publisher=Brookside Publications
+ |isbn=0905824067
+ }}&lt;/ref&gt;
+|Ship renamed=''Quanza'' (1929)
+|Ship owner=Companhia Nacional de Navegação, Lisbon&lt;ref name=&quot;Bonsor&quot; /&gt;&lt;ref name=&quot;Plimsoll&quot; /&gt;
+|Ship operator=
+|Ship registry=Lisbon
+|Ship route=[[Lisbon]] to Southern Africa
+|Ship ordered=
+|Ship builder=[[Blohm + Voss|Blohm &amp; Voss]], Hamburg
+|Ship original cost= 
+|Ship yard number=480&lt;ref name=&quot;Miramar&quot;&gt;{{cite web |url=http://www.miramarshipindex.org.nz/ship/show?nameid=81167&amp;shipid=79640|title=Quanza |publisher=Miramar Ship Index |accessdate=8 December 2012}} {{subscription required |date=December 2012}}&lt;/ref&gt;
+|Ship way number=
+|Ship laid down=
+|Ship launched=1 June 1929&lt;ref name=&quot;Miramar&quot; /&gt;
+|Ship completed=5 September 1929&lt;ref name=&quot;Miramar&quot; /&gt;
+|Ship christened=
+|Ship acquired=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship identification=
+|Ship fate=Scrapped 1968 in Spain&lt;ref name=&quot;Miramar&quot; /&gt;
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type= Passenger-cargo&lt;ref name=&quot;Bonsor&quot; /&gt;&lt;ref name=&quot;Miramar&quot; /&gt;
+|Ship tonnage=*{{GRT|6636|disp=long}}&lt;ref name=&quot;Plimsoll&quot; /&gt;
+*{{NRT|3944|disp=long}}&lt;ref name=&quot;Plimsoll&quot;&gt;{{cite web |url=http://www.plimsollshipdata.org/ship.php?ship_id=33056&amp;name=Quanza |title=Details of the ship |publisher=Plimsoll Ship Data |accessdate=7 December 2012 |archivedate=7 December 2012|archiveurl=http://www.webcitation.org/6CjscoRXO |deadurl=no}}&lt;/ref&gt;
+|Ship displacement=
+|Ship length={{convert|418.2|ft|abbr=on}}
+|Ship beam={{convert|52.6|ft|abbr=on}}
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth={{convert|28.6|ft|abbr=on}}
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=Twin screw
+|Ship speed={{convert|14|kn}}
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+|}
+'''SS ''Quanza''''' was a [[World War II]]-era Portuguese passenger-cargo ship,&lt;ref name=&quot;Miramar&quot; /&gt; best known for carrying 317 people, many of them refugees, from [[Nazi]]-occupied Europe to North America in 1940. At least 100 of its passengers were Jewish.&lt;ref name=&quot;NYT&quot; /&gt;
+
+== Early history ==
+Launched as ''Portugal'', the vessel went into service in 1929 as ''Quanza''. Her normal route was from [[Lisbon, Portugal]], to [[Angola]], [[South Africa]] and [[Mozambique]], though some voyages were made to South America.&lt;ref name=&quot;Bonsor&quot; /&gt;&lt;ref name=&quot;VHS&quot;&gt;{{cite web |url=http://www.youtube.com/watch?feature=player_embedded&amp;v=rGqE27fAHio#! |title=S.S. Quanza: Journey of Refugees from Lisbon to Norfolk |first=Greg |last=Hansard |date=3 March 2010 |work=Virginia Historical Society |publisher=YouTube |accessdate=5 December 2012 |archivedate=5 December 2012 |archiveurl=http://www.webcitation.org/6Cis6aTI4 |deadurl=no}}&lt;/ref&gt;
+
+== August{{spaced ndash}}September 1940 voyage ==
+In August 1940, ''Quanza'' was chartered by a group of passengers seeking to flee Europe, including French actors [[Marcel Dalio]] and [[Madeleine LeBeau]]. The passengers traveled with a variety of [[visa (document)|visa]]s, some of which were forged. Because the captain doubted the validity of the visas, he required that many passengers also buy return tickets on the likelihood that no country would admit them.&lt;ref name=&quot;NYT&quot; /&gt;
+
+The ship left Lisbon on 9 August, beginning its first trans-Atlantic voyage.&lt;ref name=&quot;VHS&quot; /&gt; After a difficult crossing that included a hurricane, the ship arrived in New York City on 19 August. 196 passengers disembarked, 66 of whom were American citizens. The remaining 121 passengers were denied entry, including nearly all of the Jewish passengers.&lt;ref name=&quot;NYT&quot;&gt;{{cite news |url=http://www.nytimes.com/2007/07/08/nyregion/08quanza.html?pagewanted=all&amp;_r=0 |title=Fleeing Hitler and Meeting a Reluctant Miss Liberty |first=Cara |last=Buckley |date=8 July 2008 |work=[[The New York Times]] |accessdate=5 December 2012 |archivedate=5 December 2012 |archiveurl=http://www.webcitation.org/6CibGEN7b |deadurl=no}}&lt;/ref&gt; ''Quanza'' proceeded to [[Veracruz, Veracruz|Veracruz, Mexico]], where it arrived on 30 August.&lt;ref name=&quot;VHS&quot; /&gt; Only 35 passengers were allowed to disembark, leaving 86 on board, mostly Belgian Jews.&lt;ref name=&quot;CP&quot;&gt;{{cite news |url=http://www.highbeam.com/doc/1G1-63446899.html |title=Rescue of Jews Recalled Little-Known Nazi Era Story |first=Stephen |last=Huba |date=28 April 2000 |work=[[The Cincinnati Post]] |publisher=[[HighBeam Research]] |accessdate=5 December 2012}} {{subscription required |date=December 2012}}&lt;/ref&gt; The ship was then ordered to return to Europe, causing despair among the remaining passengers.&lt;ref name=&quot;Goodwin&quot;&gt;{{cite book |title=No Ordinary Time |last=Goodwin |first=Doris Kearns |year=1994 |publisher=Simon &amp; Schuster |url=https://books.google.com/books?id=wQcMDdFC1QEC&amp;pg=PP1 |isbn=9780684804484 |page=[https://books.google.com/books?id=wQcMDdFC1QEC&amp;pg=PA174 174]}}&lt;/ref&gt; 
+
+The ship made a brief stop for coal in [[Norfolk, Virginia]], in the US. During the stop, Jacob Morewitz, a Jewish maritime lawyer from [[Newport News, Virginia|Newport News]], filed a lawsuit in federal court on behalf of four of the refugees, suing the Portuguese National Line for $100,000 for breach of contract.&lt;ref name=&quot;VP&quot;&gt;{{cite news |url=http://www.highbeam.com/doc/1G1-205932961.html |title=Journey to freedom passed through Lambert's Point Docks in 1940 |first=Lia |last=Russell |date=16 August 2009 |work=[[The Virginian-Pilot]] |publisher=[[HighBeam Research]] |accessdate=5 December 2012}} {{subscription required |date=December 2012}}&lt;/ref&gt; The suit held ''Quanza'' in port for six days,&lt;ref name=&quot;VP&quot; /&gt; during which time Jewish leaders, including Rabbi [[Stephen Wise]] of the [[World Jewish Congress]] and [[Cecilia Razovsky]] of the National Council of Jewish Women, lobbied for the remaining passengers' admittance.&lt;ref name=&quot;CP&quot; /&gt;&lt;ref&gt;{{cite book |title=Her Works Praise Her: A History of Jewish Women in America from Colonial Times to the Present |last=Diner |first=Hasia R.  |first2=Beryl Lieff |last2=Benderly |year=2002 |publisher=Basic Books |isbn=9780465017119 |page=[https://books.google.com/books?id=UPsT2zBNtA0C&amp;pg=PA365 365] |url=https://books.google.com/books?id=UPsT2zBNtA0C&amp;pg=PP1 |accessdate=10 December 2012}}&lt;/ref&gt; Meanwhile, ''Quanza''{{'}}s passengers became so desperate that one leapt from the ship to swim for land; though he reached shore successfully, he was quickly apprehended and returned to the boat. Following the incident, the ship's captain posted armed guards on the decks.&lt;ref name=&quot;VHS&quot; /&gt;
+
+When [[First Lady of the United States|First Lady]] [[Eleanor Roosevelt]] was informed by Jewish-American associations of the situation, she appealed to her husband, President [[Franklin D. Roosevelt]], who dispatched [[United States Department of State|State Department]] official [[Patrick Murphy Malin]] to investigate the passengers' status.&lt;ref name=&quot;Goodwin&quot; /&gt; Malin designated all 86 as political refugees and issued them visas, though six chose voluntarily to return to Europe.&lt;ref name=&quot;CP&quot; /&gt; The eighty who remained in the US entered the country on 14 September.&lt;ref&gt;{{cite news |url=http://www.highbeam.com/doc/1P1-5235446.html |title=Small but beautiful |first=Meir |last=Ronnen |date=1 February 1998 |work=[[The Jerusalem Post]] |publisher=[[HighBeam Research]] |accessdate=5 December 2012}} {{subscription required |date=December 2012}}&lt;/ref&gt; Some of the refugees later sent President Roosevelt roses with a note reading, &quot;with everlasting gratitude for your humane gesture, from the refugees of the SS ''Quanza''.&quot;&lt;ref name=&quot;Rosen&quot;&gt;{{cite book |title=Saving the Jews: Franklin D. Roosevelt and the Holocaust |last=Rosen |first=Robert |year=2007 |publisher=Basic Books |isbn=9781560259954 |pages=[https://books.google.com/books?id=mC1MFqELLpUC&amp;pg=PA196 196–197] |url=https://books.google.com/books?id=mC1MFqELLpUC&amp;pg=PP1 |accessdate=10 December 2012}}&lt;/ref&gt;
+
+Assistant Secretary of State [[Breckenridge Long]], who was nominally in charge of refugee issues, was enraged by the granting of visas to the ''Quanza'' refugees and insisted that it must not occur again.&lt;ref name=&quot;Rosen&quot; /&gt; Long renewed his efforts to block immigration, and by mid-1941, almost no war refugees were allowed into the US.&lt;ref&gt;{{cite book |title=Bearing Witness: How America and Its Jews Responded to the Holocaust |last=Feingold |first=Henry L. |year=1995 |publisher=Syracuse University Press |isbn=9780815626701 |pages=[https://books.google.com/books?id=ts5lKWho2YwC&amp;pg=PA78 78–79] |url=https://books.google.com/books?id=ts5lKWho2YwC&amp;pg=PP1 |accessdate=10 December 2012}}&lt;/ref&gt;
+
+== Fictional representations ==
+In 1991, Susan Lieberman and Jacob Morewitz's grandson Stephen Morewitz wrote a play about the events titled ''Steamship Quanza''.&lt;ref&gt;{{cite news |url=http://www.chicagoreader.com/chicago/steamship-quanza/Content?oid=877827 |title=Steamship Quanza |first=Mary Shen |last=Barnidge |date= |work=[[Chicago Reader]] |accessdate=5 December 2012 |archivedate=5 December 2012 |archiveurl=http://www.webcitation.org/6Cir4RMr3 |deadurl=no}}&lt;/ref&gt; [[Victoria Redel]], whose father and grandmother had been on the voyage, published a novel about the ship's crossing in 2007 titled ''The Border of Truth''.&lt;ref&gt;{{cite web |url=http://www.highbeam.com/doc/1G1-178895207.html |title=Victoria Redel. The Border of Truth |first=Stefanie |last=Sobelle |date=22 March 2008 |work=Review of Contemporary Fiction |publisher=[[HighBeam Research]] |accessdate=7 December 2012}} {{subscription required |date=December 2012}}&lt;/ref&gt;
+
+==See also==
+*{{MS|St. Louis}}
+
+== References ==
+{{Reflist|33em}}
+
+{{DEFAULTSORT:Quanza, SS}}
+[[Category:World War II merchant ships of Portugal]]
+[[Category:1929 ships]]</text>
+      <sha1>dvrhwzx30ybzh4gqd5yeerthj65k416</sha1>
+    </revision>
+  </page>
+</mediawiki>

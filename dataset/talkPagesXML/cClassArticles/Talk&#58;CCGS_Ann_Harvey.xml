@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:CCGS Ann Harvey</title>
+    <ns>1</ns>
+    <id>16666877</id>
+    <revision>
+      <id>751338098</id>
+      <parentid>587261155</parentid>
+      <timestamp>2016-11-25T00:44:43Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>rerated</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1011">{{oldafdfull| date = 15 December 2013 (UTC) | result = '''keep''' | page = CCGS Ann Harvey }}
+
+{{WikiProjectBannerShell|1=
+{{WikiProject Ships|class=c |b1=y |b2=n |b3=y |b4=y |b5=y|importance=mid}}
+{{WPMILHIST|class=c |b1=y |b2=n |b3=y |b4=y |b5=y
+
+|Maritime-task-force=yes|Canadian-task-force=yes}}
+{{WikiProject Canada|nl=yes|class=c|importance=low}}
+}}
+
+== Split tag ==
+
+I found a rather out of date split tag that had not been discussed. It was clear that listing all the ships at St Johns in the article for each ship was nonsense. However the proposed new article would have looked silly, being un referenced and only a list of ships. Instead I have added a section on the harbour in the main St Johns article and put the list there. I trust that is satisfactory. [[User:Op47|Op47]] ([[User talk:Op47|talk]]) 15:16, 21 December 2013 (UTC)
+
+: Looks okay to me. However, why wasn't the AfD posted on the project page? [[User:Tupsumato|Tupsumato]] ([[User talk:Tupsumato|talk]]) 18:20, 22 December 2013 (UTC)</text>
+      <sha1>40ubx5w4bgg26v2ncd5p7h18kk83gm9</sha1>
+    </revision>
+  </page>
+</mediawiki>

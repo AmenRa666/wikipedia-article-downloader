@@ -1,0 +1,161 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Fly (1831)</title>
+    <ns>0</ns>
+    <id>12030517</id>
+    <revision>
+      <id>715392578</id>
+      <parentid>685226125</parentid>
+      <timestamp>2016-04-15T14:05:24Z</timestamp>
+      <contributor>
+        <username>Sturmvogel 66</username>
+        <id>5808430</id>
+      </contributor>
+      <comment>/* Design and construction */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6180">{{other ships|HMS Fly}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Fly (1831).jpg|300px]]
+|Ship caption=''Fly'' off Sydney c.1842
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United&amp;nbsp;Kingdom
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Fly''
+|Ship ordered=30 January 1829
+|Ship builder=[[Pembroke Dockyard]]
+|Ship original cost=£11,761 (plus £4,648 for fitting out){{efn|A total cost accounting for inflation of approximately £{{formatnum:{{Inflation|UK|16409|1831|r=-2}}}} in today's money.}}&lt;ref name=RW/&gt;
+|Ship laid down=November 1829
+|Ship launched=25 August 1831
+|Ship acquired=
+|Ship commissioned=27 January 1832
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=Converted to a coal hulk in 1855
+|Ship renamed=''C2'' and later ''C70'' whilst a hulk
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Broken up 1903
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass|Fly|ship-sloop}}
+|Ship tons burthen=485 &lt;small&gt;69/94&lt;/small&gt; [[Builder's Old Measurement|bm]]
+|Ship length=*{{convert|114|ft|4|in|m|abbr=on|1}} (gundeck)
+*{{convert|93|ft|6+1/8|in|m|abbr=on|1}} (keel)
+|Ship beam={{convert|31|ft|7|in|m|abbr=on|1}} oa
+|Ship draught=
+|Ship draft=
+|Ship hold depth={{convert|14|ft|5|in|m|abbr=on|1}}
+|Ship sail plan=[[Full-rigged ship]]
+|Ship propulsion=
+|Ship complement=120
+|Ship armament=
+* 2 × 9-pounder [[chase gun|bow chasers]]
+* 16 × 32-pounder [[carronade]]s 
+|Ship notes=
+}}
+|}
+
+'''HMS ''Fly''''' was an 18-gun [[sloop]] of the [[Royal Navy]].  She was responsible for the exploration and charting of much of Australia's north-east coast and nearby islands.  She was converted to a coal hulk in 1855 and broken up in 1903.
+
+==Design and construction==
+''Fly'' was a development of the {{sclass|Orestes|ship-sloop}} designed by Professor Inman of the [[School of Naval Architecture]]. She was {{convert|114|ft|4|in|m|1}} long on the gundeck and {{convert|93|ft|6+1/8|in|m|1}} at the [[keel]].  She had a [[beam (nautical)|beam]] of {{convert|31|ft|7|in|m|1}} overall, and a hold depth of {{convert|14|ft|5|in|m|1}}, giving her a [[tonnage]] of 485 &lt;small&gt;69/94&lt;/small&gt; [[Builder's Old Measurement|bm]].  Her armament was made up of sixteen 32-pounder [[carronade]]s and a pair of 9-pounder [[chase gun|bow chasers]].&lt;ref name=RW&gt;Winfield (2004), p. 120&lt;/ref&gt;
+
+''Fly'' and her three sister ships ''Harrier'', ''Argus'' and ''Acorn'' were ordered on 30 January 1829.  She was laid down in November 1829 and launched from [[Pembroke Dockyard]] on 25 August 1831.  ''Argus'' and ''Acorn'' were cancelled on 27 April 1831, leaving ''Fly'' as the lead ship of a class of two.&lt;ref name=RW/&gt;
+
+==Service==
+She was commissioned at Plymouth on 27 January 1832 under the command of Commander Peter M'Quhae&lt;ref name=WL/&gt; and served initially on the [[North America and West Indies station]], returning to Portsmouth on 30 September 1833. After another two years on the same station she paid off at Portsmouth on 5 September 1835.  By September 1836 she was fitting out for the South America station, including work in the Pacific Ocean. She was under the command of Commander [[Granville Gower Loch]] on that station from 1838 to 1840.{{sfn|Laughton|1893|p=25}} She arrived at [[Spithead]] on 17 July 1840 from South America with 1,700,000 dollars and sailed for Plymouth to be paid off.  In December 1841 she commissioned at Plymouth under the command of [[Francis Price Blackwood]] to survey the Torres Straits in company with the cutter {{HMS|Bramble|1822|2}}.&lt;ref name=PB&gt;{{cite web|url=http://www.pbenyon.plus.com/18-1900/F/01828.html|title=HMS ''Fly'' at the Naval Database|accessdate=2011-09-10}}&lt;/ref&gt;
+
+During the early to mid-1840s, she charted numerous routes through and from many locations around [[Australia]]'s north-east coast and nearby [[island]]s, including [[Whitsunday Island]] and the [[Capricorn Islands]].&lt;ref name=ADB/&gt;
+
+After being discovered during the survey of the [[Gulf of Papua]], [[New Guinea]], the [[Fly River]] was named after the ship. Embarked during her voyages of exploration were the geologist and naturalist [[Joseph Jukes]] and the naturalist [[John MacGillivray]].&lt;ref name=ADB&gt;{{cite web|url=http://www.adb.online.anu.edu.au/biogs/A010105b.htm|last=Mozley|first=Ann|title=Blackwood, Francis Price (1809 - 1854)|publisher=Australian Dictionary of Biography|accessdate=2011-09-10}}&lt;/ref&gt;
+
+''Fly'' returned to the United Kingdom, arriving at Spithead on 19 June 1846 and proceeded to Plymouth to pay off. She was commissioned again on 14 October 1847 under Commander Richard Oliver,&lt;ref name=WL&gt;{{cite web|url=http://www.pdavis.nl/ShowShip.php?id=1464|title=HMS ''Fly'' at the William Loney website|accessdate=2011-09-10}}&lt;/ref&gt; and was employed in surveying in the Pacific and New Zealand.  After 4 years of work in the area she returned to the United Kingdom, arriving at Plymouth Sound on the evening of 4 December 1851 and paying off on 13 December.&lt;ref name=PB/&gt;
+
+==Fate==
+[[Image:Whitsunday islands.jpg|right|thumb|During the 1840s, ''Fly'' surveyed Whitsunday Island, pictured here]]She was laid up as a coal hulk at Devonport in 1855.  During this part of her career, she was renamed ''C2'', and then ''C70''.  She was finally broken up in 1903.&lt;ref name=RW/&gt;
+
+==See also==
+* [[European and American voyages of scientific exploration]]
+
+==Notes==
+{{notelist}}
+
+{{reflist|30em}}
+
+==References==
+*{{Colledge}}
+*{{Cite book|ref=harv|last=Jukes|first=J.|title=Narrative of the Surveying Voyage of H.M.S. Fly}}
+*{{Cite DNB|ref=harv |last=Laughton |first=John Knox  |wstitle=Loch, Granville Gower |volume=34 |pages=25,26}}
+*{{Winfield}}
+
+{{Clear}}
+
+{{Royal Navy ship-rigged sloops after 1816}}
+
+{{DEFAULTSORT:Fly, HMS}}
+[[Category:Sloops of the Royal Navy]]
+[[Category:Maritime exploration of Australia]]
+[[Category:Exploration ships of the United Kingdom]]
+[[Category:Survey vessels of the Royal Navy]]
+[[Category:Exploration of Australia]]
+[[Category:Fly River]]
+[[Category:Pembroke-built ships]]
+[[Category:Coal hulks]]
+[[Category:1831 ships]]</text>
+      <sha1>tr11yaftnwibpekuhvbkwhzo35wmjhk</sha1>
+    </revision>
+  </page>
+</mediawiki>

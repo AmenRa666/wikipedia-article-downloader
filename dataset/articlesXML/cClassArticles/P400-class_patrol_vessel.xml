@@ -1,0 +1,187 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>P400-class patrol vessel</title>
+    <ns>0</ns>
+    <id>2237526</id>
+    <revision>
+      <id>745466178</id>
+      <parentid>724031384</parentid>
+      <timestamp>2016-10-21T09:01:20Z</timestamp>
+      <contributor>
+        <ip>182.130.212.110</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9387">{|{{Infobox ship begin |sclass=2}}
+{{Infobox ship image
+|Ship image=[[Image:Tapageuse-01.jpg|300px|The Tapageuse]] 
+|Ship caption=The ''La Tapageuse''
+}}
+{{Infobox ship class overview
+|Name=P400
+|Builders=[[Constructions Mécaniques de Normandie]]
+|Operators=*{{navy|France|name=Marine Nationale}}
+*{{navy|Gabon}}
+*{{navy|Kenya}}
+*{{navy|Brazil|name=Marinha do Brasil}}
+|Class before=
+|Class after=Modified {{Sclass-|D'Estienne d'Orves|aviso|4}}&lt;ref name=&quot;secretdefense&quot;&gt;{{cite web |url= http://secretdefense.blogs.liberation.fr/defense/2008/10/exclusif-les-av.html |title=Secret Défense: Les avisos vont être transformés en patrouilleurs |work=secretdefense.blogs.liberation.fr |date=24 October 2008 |accessdate=27 March 2013|language=fr}}&lt;/ref&gt;
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=   
+|In commission range=18 September 1986  
+|Total ships building= 
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=10:  ''L'Audacieuse'', ''La Boudeuse'', ''La Capricieuse'', ''La Fougueuse'', ''La Glorieuse'', ''La Gracieuse'', ''La Moqueuse'', ''La Railleuse'', ''La Rieuse '', ''La Tapageuse''
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship class=
+|Ship type=Patrol ship
+|Ship tonnage=
+|Ship displacement=&lt;!-- {{Displacement|373|tonne}} --&gt;{{convert|373|t}} 
+|Ship tons burthen=
+|Ship length={{Convert|54.8|m|ftin|abbr=on}}
+|Ship beam={{Convert|8|m|ftin|abbr=on}}
+|Ship height=
+|Ship draught={{Convert|2.54|m|ftin|abbr=on}}
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=Electrical plant: 3 GE [[Poyaud]] [[Jeumond]] ({{convert|120|kW|hp|abbr=on|disp=or}} each)
+|Ship propulsion=*Engines : 2 [[Diesel engine|diesel]] [[SEMT Pielstick]] 200PAVGDS {{convert|3700|hp|abbr=on}} each
+*{{convert|7400|hp|abbr=on}}, 2 inversor-reductors, 2 fixed-blade [[propeller]]s
+|Ship sail plan=
+|Ship speed= {{Convert|24|kn|lk=in}}
+|Ship range=&lt;!--{{convert|4500|nmi|km|-2}} at {{convert|145|kn|km/h|0}}--&gt;
+|Ship endurance=
+|Ship test depth=
+|Ship boats=*1 × EFRC 10 seats
+*1 × EFR 10 seats
+|Ship capacity=
+|Ship troops=
+|Ship complement=29
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=UHF, VHF, HF, 1 DECCA 1226, 1 OMEGA M6, MF CRM 4215 radiogoniometer, shallow water tester, Ben LMN3 loch, CGM4 gyroscopic compass
+|Ship EW=
+|Ship armament=*[[Bofors 40 mm gun]]
+*[[20 mm modèle F2 gun]]
+*2 × [[AA-52 machine gun]]s
+|Ship armour=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+The '''P400''' patrol ships are small vessels of the [[French Navy]]. They were designed to accomplish police operations in the French [[Exclusive Economic Zone]]. They were built by the ''Constructions Mécaniques de Normandie'', which specialise in small military craft. Two similar ships are in service in [[Military of Gabon#Navy|Gabon]]. The P400 were originally designed in two versions: one armed with [[Exocet]] MM38 missiles, and another public service version with a smaller 16-man complement; eventually neither of these versions was commissioned as the Navy chose an intermediate version.
+
+Most of these craft are pre-positioned in overseas territories ([[Département d'outre-mer|DOM]]/[[Territoire d'outre-mer|TOM]]) where they carry out sea monitoring missions and secure the [[Exclusive Economic Zone|EEZ]]. They also execute missions in the context of French agreements with other nations, typically supporting foreign armies or carrying out humanitarian missions. Since late 2008, ships of the [[D'Estienne d'Orves-class aviso|''D'Estienne d'Orves'' class]], with their heavy armament removed, are planned  to replace the P400 in the high sea patrol role, a task for which the P400 have proved to be underweight.&lt;ref name=&quot;secretdefense&quot;/&gt;
+
+==Design==
+The P400 are fitted with a hydraulic crane capable of lifting 2.5 tonnes. This allows to use them for anti-pollution operations, by embarking and debarking equipment and anti-pollution chemicals, and to lift out small craft whilst at sea. An unusual feature for ships of this size, the Operational Centre allows a complete monitoring of close surface situations, using radar indicators and tracking tables. The engine can now be monitored remotely, which allows for a smaller crew. The maintenance of the ship was simplified notably by choosing those solutions which allow to clean the ship whilst in populated areas. The P400 can stay 15 days at sea, and have 20 days of food supplies for 28 men.
+
+==History==
+
+The engines of the P400 have been a constant source of technical problems since the maiden journey of the lead ship ''L'Audacieuse'' to [[Dakar]].
+
+The first problem that occurred related to the carter reductor, then with the transmission, and eventually with a [[piston]] - this last item being the most worrying, since it was probably a symptom of a conception problem. This shed a bad light on [[Alstom]] who were trying to compete against German motors by MTU. French humourist [[Coluche]] came up with the witty remark ''Après l'Audacieuse, la Boudeuse, la Capricieuse,… voici venu le temps de la Dépanneuse !'' (After the ''Audacieuse'', the ''Boudeuse'', the ''Capricieuse'', time has come for the ''Tow-Truck''!).
+
+After these problems were solved, larger exhaust pipes had to be fixed (originally, exhaust was vented underwater to minimise infra-red signature, but it turned out that the ship was taking water from these openings).
+
+After further studies, it became possible to gain the space of one propulsion compartment, which is now used for cargo and personnel. The ships can ferry 20 people, and up to 60 for short travel with a calm sea.
+
+In May 2009, ''La Fougueuse'' arrived in Brest to be decommissioned, the first of the P400 to be taken out of service.&lt;ref&gt;{{cite web |url= http://www.meretmarine.com/fr/content/le-patrouilleur-la-fougueuse-rentre-brest-pour-etre-desarme |title=Le patrouilleur La Fougueuse rentre à Brest pour être désarmé |work=meretmarine.com |date=17 May 2009 |accessdate=27 March 2013|language=fr}}&lt;/ref&gt;
+
+In February 2011, it was decided that eight P400 will be equipped with new engines. Previously, these ships were scheduled to retire according to Jane's Navy International. They will repair to ensure renewal of their operation until 2020. Earlier, the French Navy had intended to retire these ships in the period from 2010 to 2014. The reason for extending the service life of ships of this class is the desire to reduce the cost of procurement of new weapons.
+
+Currently the ships are equipped with two Wartsila SACM UD30 V16 M3 diesel engines. The new engines will be delivered to France's Mother Boda and installed by &quot;Piriu Naval Service&quot; (PNS - Piriou Naval Services) in a 10-year contract worth €30 million (US$39 million). The first of the modernised ships should be returned to the French Navy by March 2011. PNS also undertakes restoration of these ships.&lt;ref&gt;{{cite web |url= http://www.armstrade.org/includes/periodics/news/2011/0201/16457047/detail.shtml |title=French Navy refused to write-off training ships |work=armstrade.org |year=2011 |accessdate=27 March 2013}} (Subscription required)&lt;/ref&gt;
+
+One of the decommissioned vessels, the &quot;''La Tapageuse&quot;'', was offered to the [[Philippine Coast Guard]], and is estimated to cost about €6 million including the refurbishing works. &lt;ref&gt;http://globalnation.inquirer.net/82155/coast-guard-to-buy-old-french-navy-vessel&lt;/ref&gt; The deal did not push through, and French shipbuilder Piriou took control of the ship, which was later sold to Gabon as part of a larger deal.&lt;ref&gt;{{cite web |url=http://www.navyrecognition.com/index.php/news/naval-exhibitions/euronaval-2014/2137-gabonese-navy-signs-contract-with-piriou-for-modernized-p400-and-opv50-vessels.html |title=Gabonese navy signs contract with PIRIOU for modernized P400-class and OPV50 vessels |work=Navy Recognition |year=2014 |accessdate=1 November 2014}}&lt;/ref&gt;
+
+==Replacements==
+The French Navy is currently looking into a future class of patrol vessels to replace the P400s as they retire. The working name for this future class is BATSIMAR (''Bâtiments de surveillance et d'intervention maritime'', or 'surveillance and maritime intervention ships' in English).
+
+&lt;gallery&gt;
+File:Fougueuse img 2536.jpg|''La Fougueuse'' awaiting decommission near Recouvrance Bridge in summer 2009
+&lt;/gallery&gt;
+
+==Ships==
+* P682 ''L'Audacieuse'' ([[Degrad des Cannes]]), decommissioned in 2011.
+* P683 ''La Boudeuse'' ([[La Réunion]]),  decommissioned in 2011.
+* P684 ''La Capricieuse'' ([[Degrad des Cannes]])
+* P685 ''La Fougueuse'' ([[Fort-de-France]]),  decommissioned in 2009.
+* P686 ''[[French ship La Glorieuse|La Glorieuse]]'' ([[Nouméa]])
+* P687 ''La Gracieuse'' ([[Fort-de-France]])
+* P688 ''La Moqueuse'' ([[Nouméa]])
+* P689 ''La Railleuse'' ([[Papeete]]),  decommissioned in 2011.
+* P690 ''La Rieuse'' ([[La Réunion]]), donated to the [[Kenya Navy]] in 2011, renamed KNS ''Harambee II''.
+* P691 ''La Tapageuse'' ([[Papeete]]),  decommissioned in 2012, sold to Gabonese Navy in 2014, renamed ''CV Bivigou Nziengui''
+
+==References==
+{{Reflist}}
+{{commons category|P400 patrol ships}}
+
+{{French Navy Vehicle}}
+
+{{DEFAULTSORT:P400 Class Patrol Vessel}}
+[[Category:Patrol vessels of the French Navy]]
+[[Category:Patrol boat classes]]</text>
+      <sha1>94wb8h578ua748fr0vfiylawhtekxat</sha1>
+    </revision>
+  </page>
+</mediawiki>

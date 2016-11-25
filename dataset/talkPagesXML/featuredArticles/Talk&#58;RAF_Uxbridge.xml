@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:RAF Uxbridge</title>
+    <ns>1</ns>
+    <id>15859169</id>
+    <revision>
+      <id>556564446</id>
+      <parentid>487722974</parentid>
+      <timestamp>2013-05-24T10:56:53Z</timestamp>
+      <contributor>
+        <username>BattyBot</username>
+        <id>15996738</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:AWB/GF#Talk page general fixes|Talk page general fixes]] &amp; other cleanup using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7998">{{Talk header}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Aviation|class=FA
+&lt;!-- B-Class checklist --&gt;
+&lt;!-- 1. It is suitably referenced, and all major points are appropriately cited. --&gt;
+|B-Class-1=yes
+&lt;!-- 2. It reasonably covers the topic, and does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=yes
+&lt;!-- 3. It has a defined structure, including a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+|Airports=yes}}
+{{WikiProject London|class=FA|importance=Low}}
+{{WikiProject Military history|class=FA|A-Class=pass
+&lt;!-- B-Class 5-criteria checklist --&gt;
+|B1 &lt;!-- Referencing and citations --&gt; =yes
+|B2 &lt;!-- Coverage and accuracy --&gt; =yes
+|B3 &lt;!-- Structure --&gt; =yes
+|B4 &lt;!-- Grammar and style --&gt; =yes
+|B5 &lt;!-- Supporting materials --&gt; =yes
+|Aviation=yes|British=yes|WWI=yes|WWII=yes}}
+{{WikiProject Guild of Copy Editors|user=Philg88|date=March 28, 2011}}
+}}
+{{ArticleHistory
+|action1=PR
+|action1date=02:38, 22 September 2010
+|action1link=Wikipedia:Peer review/RAF Uxbridge/archive1
+|action1result=reviewed
+|action1oldid=386215715
+
+|action2=GAN
+|action2date=20:01, 9 April 2011
+|action2link=Talk:RAF Uxbridge/GA1
+|action2result=listed
+|action2oldid=423222140
+
+|action3=WAR
+|action3date=05:53, 21 October 2011 (UTC)
+|action3link=Wikipedia:WikiProject Military history/Assessment/RAF Uxbridge
+|action3result=approved
+|action3oldid=455745468
+
+|action4=FAC
+|action4date=03:11, 12 December 2011
+|action4link=Wikipedia:Featured article candidates/RAF Uxbridge/archive1
+|action4result=promoted
+|action4oldid=465330047
+
+|topic=History
+|currentstatus=FA
+}}
+
+{{British-English}}
+== Review comments ==
+
+As requested, here is a followup to my earlier peer review comments. The article looks much better, but still needs a lot of improvements to fully comply with the [[WP:MOS]]. Here are some suggestions for improvement.
+*The article has a lot of short (one or two sentence) paragraphs which impede the narrative flow - I would try to either combine these with other paragraphs or perhaps expand them.
+*As an example of this, the lead is four paragraphs, but three of those paragraphs are either one or two sentences long. Given the current length of the article, a two or three paragraph lead seems more than sufficient. See [[WP:LEAD]]
+*Wherever possible I would follow chronological order for maximum understanding. Two examples follow:
+**The first paragraph of Hillingdon House starts in 1717, then goes back to 1690, then forward in time to 1844, then way back to 1617:
+**:''Hillingdon House, the country estate which eventually became RAF Uxbridge, was built in 1717 by the Duke of Schomberg,[3] a general serving under William of Orange (later King William III) and subsequently Commander-in-Chief of the Forces, who was knighted for his part in the 1690 Battle of the Boyne. The Grade II listed[4] mansion was completely rebuilt after it burned down in 1844[5] and stands on the site of a previous house, also occupied by the Duke and reputed to have been built in 1617.[6]''
+**I would try rewriting it in chronlogical order, so perhaps something like the following would work (Note - I would move the 1844 fire and rebuilding to the chronologically correct order paragraph).
+**:''RAF Uxbridge grew out of Hillingdon House, a Grade II listed country estate. The first house on the site is reputed to have been built in 1617. It was a residence of the Duke of Schomberg, who was knighted for his part in the 1690 Battle of the Boyne, served as a general under William of Orange (later King William III), and subsequently was Commander-in-Chief of the king's forces [not sure if &quot;the Forces&quot; meant this - guessed]. The Duke built the current mansion in 1717, on the site of the previous house.'' 
+**The other example is the first three paragraphs of &quot;The latter years&quot;. The first paragraph is 1958 to 1970s to 2010 (with a quick reference back to the 1940s). The second paragraph is 1969, 1948, 1957. The third paragraph is 1948 and 1958. This is fine if you already know the history, but is just confusing if you do not.
+*Make sure to provide context to the reader - for example, if you do not know who Douglas Bader was, erhaps a sentence expalining what he went on to do after his time at Uxbridge would help. See [[WP:PCR]]
+*I also thought the World War Two section could use more information on how the place functioned. The article on RAF Group 11 lists the air commands under RAF Uxbridge. 
+*There is also the word &quot;non-flying&quot; in the lead, but more could be done to explain that in the body of the article
+*The references are a real mess and need to provide more information to the interested reader. How is an interested reader supposed to find the original source when all the article says is &quot;Newspaper cutting Uxbridge library&quot; (I am guessing that the library has many such clippings). What newspaper? When was it published? What page(s)? Is the author known? What was the title of the article?
+*Internet refs need URL, title, author if known, publisher and date accessed. {{tl|cite web}} and other cite templates may be helpful.
+*Books need author, title, publisher, location, page number(s), OCLC or ISBN if available.
+*Please make sure that the existing text includes no copyright violations, plagiarism, or close paraphrasing. For more information on this please see [[Wikipedia:Wikipedia_Signpost/2009-04-13/Dispatches]]. (This is a general warning given in all peer reviews, in view of previous problems that have risen over copyvios.)
+
+Hope this helps. If my comments are useful, please consider peer reviewing an article, especially one at [[Wikipedia:Peer review/backlog]] (which is how I found this article). I do not watch peer reviews, so if you have questions or comments, please contact me on my talk page. Yours, [[User:Ruhrfisch|Ruhrfisch]]  '''[[User talk:Ruhrfisch|&lt;sub&gt;&lt;font color=&quot;green&quot;&gt;&amp;gt;&amp;lt;&amp;gt;&lt;/font&gt;&lt;/sub&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;sup&gt;&lt;small&gt;&amp;deg;&lt;/small&gt;&lt;/sup&gt;]]''' 16:16, 29 March 2011 (UTC)
+
+==Notes==
+*&quot;RAF Uxbridge was also responsible for preparing the Under-Secretary of State ...&quot;; &quot;The station paraded through Uxbridge town centre ...&quot;: These may get snide comments at FAC, as if it were obvious when you can and can't say that a station is doing something, but it can actually get a bit subtle.  I have no problem with the first one; the second one is a little off, particularly since it's followed by &quot;RAF Uxbridge became a satellite station ...&quot;, so you're using &quot;station&quot; in two different senses. &quot;RAF Uxbridge personnel&quot; is fine, although you just said that a few sentences earlier, and variation might help. - Dank ([[User talk:Dank|push to talk]]) 13:35, 23 October 2011 (UTC)
+*I'd like to hear from British editors who know something about how &quot;listed&quot; is used in practice.  Since 92% of the UK's listed buildings are Grade II listed, could we link &quot;listed&quot; to &quot;Grade II listed&quot; without too much confusion? - Dank ([[User talk:Dank|push to talk]]) 14:54, 23 October 2011 (UTC)
+*I see 3 of Ruhrfisch's comments above that haven't IMO been dealt with: &quot;non-flying&quot; isn't going to mean anything to many readers, the Hillingdon House paragraph (and maybe others ... see above) still jumps around in time, and some FAC reviewers will have a problem with the many shortish paragraphs. - Dank ([[User talk:Dank|push to talk]]) 15:05, 23 October 2011 (UTC)
+
+== Station crest ==
+
+The author of this page needs to do a little research into correct heraldic terminology.  RAF unit insignia are not crests.  They are properly called badges.[[Special:Contributions/109.158.158.164|109.158.158.164]] ([[User talk:109.158.158.164|talk]]) 13:47, 10 April 2012 (UTC)
+
+:The reference I have used which is an official RAF source refers to it as the station crest. [[User:Harrison49|Harrison49]] ([[User talk:Harrison49|talk]]) 20:14, 16 April 2012 (UTC)</text>
+      <sha1>h8txk2kahia0ekf3cj8nct4jtc4mi9b</sha1>
+    </revision>
+  </page>
+</mediawiki>

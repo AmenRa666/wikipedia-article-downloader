@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sisu SA-150</title>
+    <ns>0</ns>
+    <id>36082547</id>
+    <revision>
+      <id>724883653</id>
+      <parentid>650620352</parentid>
+      <timestamp>2016-06-12T04:18:26Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>Fix [[:Category:Pages using citations with accessdate and no URL]] when perm identifier present (doi|bibcode|arxiv|pmid|jstor|isbn|issn|lccn|oclc|ismn|hdl) ([[User talk:Tom.Reding#Access-date/no url maint|rem access-date]]) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8572">{{Infobox automobile
+| name         = Sisu SA-150
+| image        = SISU truck.jpg
+| caption      = 
+| manufacturer = [[Sisu Auto|Oy Sisu-Auto Ab]]
+| aka          = Maasto-Sisu, ″Masi″
+| production   = 1982–1991
+| model_years  = 
+| assembly     = [[Hämeenlinna]] and [[Karis]], [[Finland]]
+| predecessor  = [[Sisu A-45]]
+| successor    = [[Sisu SA-130]]
+| class        = medium size [[Off-road vehicle|off-road lorry]]
+| body_style   = platform lorry&lt;ref name=&quot;YVSP: Sisu SA-150&quot;&gt;{{cite book |title= Yhteissisusta Vanajan ja Sisun kautta Patriaan |last= Blomberg |first= Olli |authorlink= |coauthors= |year= 2003 |publisher= Patria Vehicles Oy |location= Hämeenlinna |language= Finnish |isbn= 952-91-5613-8 |page= |pages= 123–124 |url=}}&lt;/ref&gt;
+| layout       = 
+| platform     = 
+| engine       = 6-cyl. [[AGCO Sisu Power|Valmet]] 611 CSBA
+| transmission = 6-speed manual ([[ZF Friedrichshafen|ZF]]) and a 2-stage reduction gear
+| wheelbase    = 3&amp;nbsp;850 mm
+| length       = 6&amp;nbsp;760 mm
+| width        = 2&amp;nbsp;480 mm
+| height       = 3&amp;nbsp;100 mm
+| weight       = 7&amp;nbsp;600 kg&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;&gt;{{cite web |url= http://www.janes.com/articles/Janes-Military-Vehicles-and-Logistics/Sisu-SA-150-VK-4-x-4-6500-kg-Truck-Finland.html |title= Jane's Intelligence and Insight – Sisu SA-150 VK (4 x 4) 6500 kg Truck (Finland) |last1= |first1= |last2= |first2= |date= |work= |publisher= Jane's Information Group |accessdate=7 June 2012}}&lt;/ref&gt;
+| related      = [[Sisu SA-240]]&lt;ref name=&quot;Military today: Sisu SA-150&quot;&gt;{{cite web |url= http://www.military-today.com/trucks/sisu_sa_150.htm |title= www.Military-Today.com – Sisu SA-150 |last1= |first1= |last2= |first2= |date= |work= |publisher= ARG |accessdate=7 June 2012}}&lt;/ref&gt;
+| designer     = Seppo Kokkola, Kari Lindholm, Veli Vallinoja, Uoti Hartikainen, Kalevi Kakko&lt;ref name=&quot;YVSP: Sisu SA-150&quot;/&gt;
+| sp           = uk
+}}
+
+'''Sisu SA-150''' is a medium-size, two-axle off-road lorry made by the Finnish heavy vehicle manufacturer [[Sisu Auto|Oy Sisu-Auto Ab]] from 1982 until 1991. The four-wheel-drive lorry with load capacity of 6&amp;nbsp;400&amp;nbsp;kg was developed for pulling of heavy cannons of the Finnish Defence Forces.
+
+== Development ==
+Based on experience from Sisu A-45 and due to new, heavier cannons, there came a need for stronger vehicles in the Finnish Defence Forces. Due to this, Sisu-Auto started a development project of an entirely new medium size off-road lorry.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;&gt;{{cite book |title= Puolustusvoimien moottoriajoneuvot 1960–2000 |last= Mäkipirtti |first= Markku |authorlink= |coauthors= |year= 2006 |publisher= Apali Oy |location= Tampere |language= Finnish |isbn= 978-952-5026-50-4 |page= |pages= 135–137 |chapter= Sisu SA-autosarja; Sisu SA-140; Sisu SA-150 |url=}}&lt;/ref&gt;
+
+The engineering work began in 1978&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt; in the main office of Sisu-Auto located then in Fleming Street, Helsinki. The project manager was Seppo Kokkola, the head engineer of the company. The other members were Kari Lindholm, Veli Vallinoja, Uoti Hartikainen and Kalevi Kakko who were the most notable engineers of Sisu-Auto. The starting point was NATO compatibility, which can be seen for instance on the tyre size of 14.00-20 and the general looks of the vehicle.&lt;ref name=&quot;YVSP: Sisu SA-150&quot;/&gt; Building of the first prototype was started in November 1979 and the first test run was performed in the following February. In April the prototype was taken to [[Rovajärvi]] for field testing and in the following autumn began a half-year testing programme.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;/&gt; The vehicle passed the tests of the Defence Forces.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+The prototype was called '''SA-140'''. It was powered by a turbocharged Valmet 611 of which output was 140&amp;nbsp;kW. The top speed was 100&amp;nbsp;km/h and with the biggest gear ratio the top speed was 1.6&amp;nbsp;km/h. The vehicle was clearly larger and more powerful than A-45. Its kerb weight was nearly the same as the gross weight of A-45.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;/&gt;
+
+At its early development A-45 had been nicknamed ″Proto-Sisu″, referring to prototype, by the Finnish army officers. Obviously, Sisu-Auto did not like this name and named the vehicle ''Masi'', which comes from ''Maasto-Sisu'', ″Terrain Sisu″.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;/&gt; Masi is also the Finnish name for [[Beetle Bailey]].
+
+== Production ==
+[[File:Sisu SA-150 military truck Jun2009 002.jpg|thumb|240px|right|Rear view on SA-150.]]
+The production model got a more powerful, 150&amp;nbsp;kW engine, and was therefore named '''SA-150'''. Serial production started in Sisu-Auto Hämeenlinna factory in 1982&lt;ref name=&quot;YVSP: Sisu SA-150&quot;/&gt; and the first delivery lot of 10 vehicles was handed over to the Defence Forces in October the same year. Beginning from the following year the annual production was about 60 vehicles.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;/&gt; Almost all vehicles were built in Hämeenlinna, only two small delivery lots at an early stage of the vehicles production cycle were made in Sisu's Karis factory.&lt;ref name=&quot;YVSP: Sisu SA-150&quot;/&gt;
+
+== Technical data ==
+In the production of SA-150 Sisu-Auto utilised many shared components of other Sisu models, in particular early XA-180 [[Patria Pasi|Pasi's]].&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+=== Engine ===
+The engine is water-cooled, turbocharged six-cylinder in-line Valmet 611 CSBA direct injection diesel of which output is 150&amp;nbsp;kW&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt; and maximum torque 680 Nm.
+
+=== Transmission and chassis ===
+Behind the engine there is a dry single-plate clutch and six-speed gearbox that was made by [[ZF Friedrichshafen|ZF]]. The vehicle is equipped with a two-step reduction gear that doubles the number of gears. Both axles are rigid and driven&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt; and equipped with air S cam [[drum brakes]].
+
+Suspension is carried out by leaf springs and the front axle has hydraulic dampers. The axle load is nearly even and the frame allows torsional bending which helps the wheels keeping their contact on ground also on rough terrain.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt; The steering system is aided by servo.&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt;
+
+=== Cabin and accessories ===
+The cabin is forward-control type and contains seats for driver and two passengers.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt; Both the cabin and platform are attached on the frame by elastic pads which allow the torsional movement of the frame without twisting the superstructures. The driver's seat can be adjusted for length and height. The heating fan has got two speeds. On the top of the cabin there is a hatch and a frame for camouflage.&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt;
+
+The platform is designed to carry up to 26 troops. The sides are openable and the platform can be covered by tarpaulin supported by steel frame.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+The electric system is 24-volt type and includes two batteries, each of 150 Ah.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+The vehicle is fitted with capacity of 8&amp;nbsp;000&amp;nbsp;kg winch with 50-metre cable that can be used both in front and back.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+Fuel tank capacity is 225 litres.&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt;
+
+== Characteristics ==
+The vehicle top speed is 100&amp;nbsp;km/h and its range is 800&amp;nbsp;km. The off-road capability is good mainly due to the torsionally bending frame.&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt; The angle of approach is 42° and the angle of departure is 39°. The ground clearance is 0.4 m and turning circle 8.2 m.&lt;ref name=&quot;Jane's Intelligence: Sisu SA-150&quot;/&gt;
+
+== Variations ==
+The SA-150 was followed by further developed '''SA-151''' which was produced in 1990–1991. The major difference was the platform that was widened by 100&amp;nbsp;mm.&lt;ref name=&quot;Pv:n moottoriajoneuvot 1960-2000: Sisu SA-150&quot;/&gt;
+
+== Usage ==
+The main purpose of SA-150 is towing of cannons and carrying of ammunition. Its bigger brother is three-axle [[Sisu SA-240|SA-240]].&lt;ref name=&quot;Military today: Sisu SA-150&quot;/&gt;
+
+== References ==
+&lt;references/&gt;
+
+== External links ==
+{{Commonscat-inline|Sisu SA-150}}
+
+[[Category:Sisu trucks|Sa150]]
+[[Category:Military trucks of Finland]]
+[[Category:Military vehicles 1980–1989]]
+[[Category:Vehicles introduced in 1982]]</text>
+      <sha1>8yrmv5cfwm62obw57s1l716uivyxhu3</sha1>
+    </revision>
+  </page>
+</mediawiki>

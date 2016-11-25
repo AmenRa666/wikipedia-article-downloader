@@ -1,0 +1,405 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Derfflinger</title>
+    <ns>0</ns>
+    <id>1581098</id>
+    <revision>
+      <id>736887387</id>
+      <parentid>728448743</parentid>
+      <timestamp>2016-08-30T13:50:01Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* Further reading */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="44009">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:SMS Derfflinger.PNG|300px|''Derfflinger'' interned at Scapa Flow|alt=A large gray warship sits motionless in harbor.]]
+| Ship caption = ''Derfflinger'' interned at Scapa Flow
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name = ''Derfflinger''
+| Ship namesake = [[Georg von Derfflinger]]
+| Ship nickname = &quot;Iron Dog&quot;
+| Ship ordered = 1912–1913 Naval Program
+| Ship builder = [[Blohm &amp; Voss]], [[Hamburg]]
+| Ship laid down = 30 March 1912
+| Ship launched = 17 July 1913
+| Ship acquired = 
+| Ship commissioned = 1 September 1914
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship struck = 
+| Ship reinstated = 
+| Ship fate = Scuttled in [[Scapa Flow]] on 21 June 1919, wreck raised 1939, broken up after 1946
+| Ship status = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass-|Derfflinger|battlecruiser}}
+| Ship displacement =* Normal: {{convert|26,600|t|LT|abbr=on}}
+* Full Load: {{convert|31,200|t|LT|abbr=on}}
+  
+| Ship length = {{convert|210.40|m|ftin|abbr=on}} ([[o/a]])
+| Ship beam = {{convert|29|m|ftin|abbr=on}} 
+| Ship draft = {{convert|9.20|m|ftin|abbr=on}} 
+| Ship propulsion = 4 shaft Parsons turbines; 18 boiler; {{convert|56,364|kW|shp|abbr=on|lk=on|order=flip}}
+| Ship speed = {{convert|26.5|kn}}
+| Ship range = {{convert|5,600|nmi|abbr=on|link=on}} at {{convert|12|kn|link=on}}
+| Ship complement = 44 officers and 1,068 men
+| Ship armament =*  8 × 30.5 cm (12&quot;) SK L/50 in 4 twin turrets
+* 12 × 15   cm (5.9&quot;) SK L/45 in 12 single turrets
+*  4 ×  8.8 cm (4×1) in 4 single mounts
+*  4 × single {{convert|50|cm|in|abbr=on}} torpedo tubes
+  
+| Ship armor =* Belt: {{convert|300|mm|in|abbr=on}}
+* Command Tower: 300 mm
+* Deck: {{convert|30|mm|in|abbr=on}}
+* Turrets: {{convert|270|mm|in|abbr=on}}
+  
+| Ship motto = 
+}}
+|}
+
+'''SMS ''Derfflinger'''''{{efn|name=SMS}} was a [[battlecruiser]] of the German [[Kaiserliche Marine]] built just before the outbreak of [[World War I]]. She was the lead vessel of her class of three ships; her [[sister ship]]s were {{SMS|Lützow||2}} and {{SMS|Hindenburg||2}}. The {{sclass-|Derfflinger|battlecruiser|2}}s were larger and featured significant improvements over the previous German battlecruisers, in terms of armament, armor protection, and cruising range. The ship was named after [[Generalfeldmarschall|Field Marshal]] [[Georg von Derfflinger]] who fought in the [[Thirty Years' War]].
+
+''Derfflinger'' was part of the [[I Scouting Group]] for most of World War I, and was involved in several fleet actions during the war. She took part in the bombardments of English coastal towns, as well as the Battles of [[Battle of Dogger Bank (1915)|Dogger Bank]] and [[Battle of Jutland|Jutland]], where her stubborn resistance led to the British nicknaming her &quot;Iron Dog&quot;. The ship was partially responsible for the sinking of two British battlecruisers at Jutland; ''Derfflinger'' and {{SMS|Seydlitz||2}} destroyed {{HMS|Queen Mary||2}}, and ''Lützow'' assisted her elder sister in the sinking of {{HMS|Invincible|1907|2}}. ''Derfflinger'' was interned with the rest of the High Seas fleet at [[Scapa Flow]] following the armistice in November 1918. Under the orders of Rear Admiral [[Ludwig von Reuter]], the interned ships were [[Scuttling of the German fleet in Scapa Flow|scuttled]] on 21 June 1919; ''Derfflinger'' sank at 14:45.{{efn|name=CET times}}
+
+== Construction ==
+{{details|Derfflinger-class battlecruiser}}
+[[File:Derfflinger class battlecruiser - Jane's Fighting Ships, 1919 - Project Gutenberg etext 24797.png|thumb|left|Plan and elevation view of the ''Derfflinger'' class, from Jane's ''Fighting Ships'' 1919|alt=Design schematics for this type of ship; it carried two gun turrets on either end, with two large smoke stacks and two tall masts in between.]]
+
+Built by [[Blohm &amp; Voss]] at their yard in [[Hamburg, Germany|Hamburg]], ''Derfflinger''{{'}}s keel was laid in January 1912. She was to have been launched on 14 June 1913, but the wooden sledges upon which the ship rested became jammed; the ship moved only 30–40 centimeters. A second attempt was successful on 12 July 1913. A crew composed of dockyard workers took the ship around the [[Skagen]] to Kiel. In late October, the vessel was assigned to the [[I Scouting Group]], but damage to the ship's [[steam turbine|turbines]] during trials prevented her from joining the unit until 16 November.{{sfn|Staff|p=39}}
+
+On completion she displaced {{convert|26,600|t|LT|abbr=on}} and was {{convert|210.40|m|ftin|abbr=on}} long.{{sfn|Gröner|pp=56–57}} The ship had a crew of 44 officers and 1,068 enlisted men.{{sfn|Staff|p=35}} ''Derfflinger'' was equipped with two sets of high- and low-pressure turbines powered by 14 coal-burning boilers that drove four propellers.{{sfn|Staff|p=37}} She was capable of a top speed of {{convert|26.5|kn}},{{efn|name=sea trials}} and could steam for {{convert|5,600|nmi|lk=in}} at a cruising speed of {{convert|14|kn}}.{{sfn|Gröner|pp=56–57}} In early August 1915, a [[derrick]] was mounted amidships, and tests with [[Hansa-Brandenburg W]] [[seaplane]]s were conducted.{{sfn|Staff|p=37}}
+
+Mounting a main armament of eight [[30.5 cm SK L/50 gun|30.5&amp;nbsp;cm (12&amp;nbsp;in) guns]], ''Derfflinger'' was the largest and most powerful German battlecruiser at the time.{{sfn|Gröner|pp=56–57}} The ship's armament was rounded out by twelve 15&amp;nbsp;cm (5.9&amp;nbsp;in) guns in single casemate mounts and eight 8.8&amp;nbsp;cm (3.45&amp;nbsp;in) guns, also placed in casemates, though four of these were removed in 1916. An additional four 8.8&amp;nbsp;cm [[flak]] guns were installed amidships. Four {{convert|50|cm|in|abbr=on}} submerged torpedo tubes were carried; one was located in the bow, two on the broadside, and one in the stern.{{sfn|Staff|p=36}}
+
+== Service ==
+
+=== Bombardment of Scarborough, Hartlepool, and Whitby ===
+{{main article|Raid on Scarborough, Hartlepool and Whitby}}
+
+[[File:Nseamap.gif|thumb|upright|The [[North Sea]], where most major German fleet actions took place|alt=Map of the North Sea, bounded in the west by Great Britain, the east by Scandinavia, and the south by mainland Europe. The sea opens into the Atlantic ocean in the north, and is connected by a narrow water passage in the east to the Baltic Sea.]]
+''Derfflinger'''s first combat operation was a raid on the English coastal towns of [[Scarborough, North Yorkshire|Scarborough]], [[Hartlepool]], and [[Whitby]]. One raid had already been conducted by the battlecruisers of the I Scouting Group, on the town of [[Raid on Yarmouth|Yarmouth]] in late 1914. Admiral [[Friedrich von Ingenohl]], the commander of the [[High Seas Fleet]], decided to conduct another raid on the English coast. His goal was to lure a portion of the [[Grand Fleet]] into combat where it could be isolated and destroyed.{{sfn|Tarrant|p=30}} At 03:20 on 15 December, Rear Admiral [[Franz von Hipper]], with his flag in {{SMS|Seydlitz||2}}, departed the [[Jade estuary]]. Following ''Seydlitz'' were ''Derfflinger'', {{SMS|Moltke||2}}, {{SMS|Von der Tann||2}}, and {{SMS|Blücher||2}}, along with the light cruisers ''Kolberg'', ''Strassburg'', ''Stralsund'', and ''Graudenz'', and two squadrons of torpedo boats.{{sfn|Tarrant|p=31}} The ships sailed north past the island of [[Heligoland]], until they reached the [[Horns Reef]] lighthouse, at which point the ships turned west towards Scarborough. Twelve hours after Hipper left the Jade, the High Seas Fleet departed to provide distant cover. The main fleet consisted of 14 [[dreadnought]]s, eight [[pre-dreadnought]]s and a screening force of two [[armored cruiser]]s, seven [[light cruiser]]s, and 54 torpedo boats.{{sfn|Tarrant|p=31}}
+
+Some four months earlier, on 26 August 1914, the German light cruiser {{SMS|Magdeburg||2}} had run aground in the [[Gulf of Finland]]; the wreck was captured by the Russian navy, which found code books used by the German navy, along with navigational charts for the North Sea. The Russians passed these documents to the Royal Navy, whose cryptographic unit—the so-called [[Room 40]]—began decrypting German signals. On 14 December, they intercepted messages relating to the planned bombardment of Scarborough.{{sfn|Tarrant|p=31}} However, the exact details of the plan were unknown, and the British assumed that the High Seas Fleet would remain safely in port, as in the previous bombardment. Vice Admiral [[David Beatty, 1st Earl Beatty|David Beatty]]'s four battlecruisers, supported by the 3rd Cruiser Squadron and the [[Grand Fleet#1st Light Cruiser Squadron|1st Light Cruiser Squadron]], along with the [[2nd Battle Squadron]]'s six dreadnoughts, were to ambush Hipper's battlecruisers.{{sfn|Tarrant|p=32}}
+
+During the night of 15 December, the main body of the High Seas Fleet encountered British destroyers. Fearing the prospect of a nighttime torpedo attack, Admiral Ingenohl ordered the ships to retreat.{{sfn|Tarrant|p=32}} Hipper was unaware of Ingenohl's reversal, and so he continued with the bombardment. Upon reaching the British coast, Hipper's battlecruisers split into two groups. ''Derfflinger'' and ''Von der Tann'' went south to shell Scarborough and Whitby while ''Seydlitz'', ''Moltke'', and ''Blücher'' went north to shell Hartlepool.{{sfn|Tarrant|p=33}} By 09:45 on the 16th, the two groups had reassembled, and they began to retreat eastward.{{sfn|Scheer|p=70}}
+
+[[File:Scheer's illustration of I SG disposition 16 Dec. 1916 en.SVG|thumb|300px|left|The High Seas Fleet's disposition on the morning of 16 December (distances in nautical miles)|alt=Map showing the locations of the British and German fleets; the German light cruisers pass between the British battleship and battlecruiser forces while the German battlecruisers steam to the northeast. The German battleships lie to the east of the other ships.]]
+
+By this time, Beatty's battlecruisers were positioned to block Hipper's chosen withdrawal route, while other forces were en route to complete the encirclement. At 12:25, the light cruisers of the II&amp;nbsp;Scouting Group began to pass through the British forces searching for Hipper.{{sfn|Tarrant|p=34}} One of the cruisers in the [[Grand Fleet#2nd Light Cruiser Squadron|2nd Light Cruiser Squadron]] spotted ''Stralsund'' and signaled a report to Beatty. At 12:30, Beatty turned his battlecruisers towards the German ships. Beatty presumed that the German cruisers were the advance screen for Hipper's ships; however, those were some 50&amp;nbsp;km (31&amp;nbsp;mi) ahead.{{sfn|Tarrant|p=34}} The 2nd Light Cruiser Squadron, which had been screening for Beatty's ships, detached to pursue the German cruisers, but a misinterpreted signal from the British battlecruisers sent them back to their screening positions.{{efn|name=Nottingham's signalman}} This confusion allowed the German light cruisers to slip away and alerted Hipper to the location of the British battlecruisers. The German battlecruisers wheeled to the northeast of the British forces and escaped.{{sfn|Tarrant|p=34}}
+
+Both the British and the Germans were disappointed that they failed to effectively engage their opponents. Admiral Ingenohl's reputation suffered greatly as a result of his timidity. ''Moltke''{{'}}s captain was furious; he stated that Ingenohl had turned back &quot;because he was afraid of 11 British destroyers which could have been eliminated...under the present leadership we will accomplish nothing.&quot;{{sfn|Tarrant|p=35}} The official German history criticized Ingenohl for failing to use his light forces to determine the size of the British fleet, stating: &quot;he decided on a measure which not only seriously jeopardized his advance forces off the English coast but also deprived the German Fleet of a signal and certain victory.&quot;{{sfn|Tarrant|p=35}}
+
+=== Battle of Dogger Bank ===
+{{main article|Battle of Dogger Bank (1915)}}
+
+In early January 1915, the German naval command became aware that British ships were reconnoitering in the [[Dogger Bank]] area.  Admiral Ingenohl was initially reluctant to attempt to destroy these forces, because the I Scouting Group was temporarily weakened while ''Von der Tann'' was in drydock for periodic maintenance. ''Konteradmiral'' [[Richard Eckermann]], the Chief of Staff of the High Seas Fleet, insisted on the operation, and so Ingenohl relented and ordered Hipper to take his battlecruisers to the Dogger Bank.{{sfn|Tarrant|p=36}} On 23 January, Hipper sortied, with ''Seydlitz'' in the lead, followed by ''Moltke'', ''Derfflinger'', and ''Blücher'', along with the light cruisers ''Graudenz'', ''Rostock'', ''Stralsund'', and ''Kolberg'' and 19 torpedo boats from V Flotilla and II and XVIII Half-Flotillas. ''Graudenz'' and ''Stralsund'' were assigned to the forward screen, while ''Kolberg'' and ''Rostock'' were assigned to the starboard and port, respectively. Each light cruiser had a half-flotilla of torpedo boats attached.{{sfn|Tarrant|p=36}}
+
+Again, interception and decryption of German wireless signals played an important role. Although they were unaware of the exact plans, the cryptographers of Room 40 deduced that Hipper would be conducting an operation in the Dogger Bank area.{{sfn|Tarrant|p=36}} To counter it, Beatty's [[1st Battlecruiser Squadron (United Kingdom)|1st Battlecruiser Squadron]], Rear Admiral Archibald Moore's [[2nd Battlecruiser Squadron (United Kingdom)|2nd Battlecruiser Squadron]] and Commodore [[William Goodenough]]'s 2nd Light Cruiser Squadron were to rendezvous with Commodore [[Reginald Tyrwhitt]]'s [[Harwich Force]] at 08:00 on 24 January, approximately {{convert|30|mi|km|abbr=on}} north of the Dogger Bank.{{sfn|Tarrant|p=36}}
+
+At 08:14, ''Kolberg'' spotted the light cruiser {{HMS|Aurora|1913|2}} and several destroyers from the Harwich Force.{{sfn|Tarrant|p=38}} ''Aurora'' challenged ''Kolberg'' with a search light, at which point ''Kolberg'' attacked ''Aurora'' and scored two hits. ''Aurora'' returned fire and scored two hits on ''Kolberg'' in retaliation. Hipper immediately turned his battlecruisers towards the gunfire, when, almost simultaneously, ''Stralsund'' spotted a large amount of smoke to the northwest of her position. This was identified as a number of large British warships steaming towards Hipper's ships.{{sfn|Tarrant|p=38}}
+
+Hipper turned south to flee, but was limited to {{convert|23|kn}}, which was the maximum speed of the older armored cruiser ''Blücher''. The pursuing British battlecruisers were steaming at {{convert|27|kn}}, and quickly caught up to the German ships. At 09:52, the battlecruiser {{HMS|Lion|1910|2}} opened fire on ''Blücher'' from a range of approximately 20,000&amp;nbsp;yards (18,300&amp;nbsp;m); shortly thereafter, {{HMS|Queen Mary||2}} and {{HMS|Tiger|1913|2}} began firing as well.{{sfn|Tarrant|p=38}} At 10:09, the British guns made their first hit on ''Blücher''. Two minutes later, the German ships began returning fire, primarily concentrating on ''Lion'', from a range of 18,000&amp;nbsp;yards (15,460&amp;nbsp;m). At 10:28, ''Lion'' was struck on the waterline, which tore a hole in the side of the ship and flooded a coal bunker.{{sfn|Tarrant|p=39}} At 10:30, {{HMS|New Zealand|1911|2}}, the fourth ship in Beatty's line, came within range of ''Blücher'' and opened fire. By 10:35, the range had closed to 17,500&amp;nbsp;yards (16,000&amp;nbsp;m), at which point the entire German line was within the effective range of the British ships. Beatty ordered his battlecruisers to engage their German counterparts.{{efn|name=counterparts}} Confusion aboard ''Tiger'' led the captain to believe he was to fire on ''Seydlitz'', which left ''Moltke'' able to fire without distraction.{{sfn|Tarrant|p=39}} During this period of the battle, ''Derfflinger'' was hit once, but the shell did only minor damage. Two armor plates in the hull were forced inward and some of the protective coal bunkers were flooded.{{sfn|Tarrant|p=43}}
+
+[[File:Bluecher sinkend.jpg|left|thumb|''Blücher'' capsizing|alt=A sinking gray warship rolls over onto is side, its guns pointed skyward]]
+
+At 10:40, one of ''Lion''{{'}}s {{convert|13.5|in|cm|abbr=on}} shells struck ''Seydlitz'' causing nearly catastrophic damage that knocked out both of the rear turrets and killed 159 men.{{sfn|Tarrant|p=40}} The executive officer ordered the flooding of both magazines to avoid a flash fire that would have destroyed the ship.{{efn|name=anti-flash measures}} By this time, the German battlecruisers had zeroed in on ''Lion'', scoring repeated hits. At 11:01, an {{convert|11|in|cm|abbr=on}} shell from ''Seydlitz'' struck ''Lion'' and knocked out two of her dynamos. At 11:18, two of ''Derfflinger's'' {{convert|12|in|cm|abbr=on}} shells hit ''Lion'', one of which struck the waterline and penetrated the belt, allowing seawater to enter the port feed tank. ''Lion'' had to turn off its engines due to seawater contamination{{sfn|Tarrant|p=40}} and as a result fell out of the line.
+
+By this time, ''Blücher'' was severely damaged after having been pounded by heavy shells. The chase ended when there were several reports of U-boats ahead of the British ships; Beatty quickly ordered  evasive maneuvers, which allowed the German ships to increase the distance to their pursuers.{{sfn|Tarrant|pp=40–41}} At this time, ''Lion''{{'}}s last operational dynamo failed, which dropped her speed to {{convert|15|knots|km/h}}. Beatty, in the stricken ''Lion'', ordered the remaining battlecruisers to &quot;Engage the enemy's rear,&quot; but signal confusion caused the ships to solely target ''Blücher'', allowing ''Moltke'', ''Seydlitz'', and ''Derfflinger'' to escape.{{sfn|Tarrant|p=41}} ''Blücher'' was hit by over 70&amp;nbsp;shells from the British battlecruisers over the course of the battle. The severely damaged warship capsized and sank at approximately 13:10. By the time Beatty regained control over his ships, after having boarded ''Princess Royal'', the German ships had too great a lead for the British to catch them; at 13:50, he broke off the chase.{{sfn|Tarrant|p=42}}
+
+=== Bombardment of Yarmouth and Lowestoft ===
+
+{{main article|Bombardment of Yarmouth and Lowestoft}}
+
+''Derfflinger'' also took part in the bombardment of Yarmouth and Lowestoft on 24–25&amp;nbsp;April 1916. Hipper was away on sick leave, so the German ships were under the command of Konteradmiral [[Friedrich Boedicker]]. ''Derfflinger'', her newly commissioned [[sister ship]] {{SMS|Lützow||2}}, and the veterans ''Moltke'', ''Seydlitz'' and ''Von der Tann'' left the Jade Estuary at 10:55 on 24 April. They were supported by a screening force of 6 light cruisers and two torpedo boat flotillas.{{sfn|Tarrant|p=52}} The heavy units of the High Seas Fleet, under the command of Admiral [[Reinhard Scheer]], sailed at 13:40, with the objective to provide distant support for Boedicker's ships. The British Admiralty was made aware of the German sortie through the interception of German [[wireless]] signals, and deployed the Grand Fleet at 15:50.{{sfn|Tarrant|p=52}}
+
+By 14:00, Boedicker's ships had reached a position off [[Norderney]], at which point he turned his ships northward to avoid the Dutch observers on the island of [[Terschelling]]. At 15:38, ''Seydlitz'' struck a [[naval mine]], which tore a 50-foot (15&amp;nbsp;m) hole in her hull, just abaft of the starboard broadside torpedo tube, allowing 1,400&amp;nbsp;short tons (1,250&amp;nbsp;long tons) of water to enter the ship.{{sfn|Tarrant|p=52}} ''Seydlitz'' turned back, with the screen of light cruisers, at a speed of {{convert|15|kn}}. The four remaining battlecruisers turned south immediately in the direction of Norderney to avoid further mine damage. By 16:00, ''Seydlitz'' was clear of imminent danger, so the ship stopped to allow Boedicker to disembark. The torpedo boat {{SMS|V28||2}} brought Boedicker to ''Lützow''.{{sfn|Tarrant|p=53}}
+
+At 04:50 on 25 April, the German battlecruisers were approaching Lowestoft when the light cruisers {{SMS|Rostock||2}} and {{SMS|Elbing||2}}, which had been covering the southern flank, spotted the light cruisers and destroyers of Commodore Tyrwhitt's Harwich Force. Boedicker refused to be distracted by the British ships, and instead trained his ships' guns on Lowestoft. At a range of approximately {{convert|14000|yd|m|abbr=on}}, the German battlecruisers destroyed two 6&amp;nbsp;in (15&amp;nbsp;cm) shore batteries and inflicted other damage to the town, including the destruction of some 200 houses.{{sfn|Tarrant|p=53}}
+
+At 05:20, the German raiders turned north, towards Yarmouth, which they reached by 05:42. The visibility was so poor that the German ships fired one [[salvo]] each, with the exception of ''Derfflinger'', which fired fourteen rounds from her main battery. The German ships turned back south, and at 05:47 encountered for the second time the Harwich Force, which had by then been engaged by the six light cruisers of the screening force. Boedicker's ships opened fire from a range of 13,000&amp;nbsp;yards (12,000&amp;nbsp;m).{{sfn|Tarrant|p=54}} Tyrwhitt immediately turned his ships around and fled south, but not before the cruiser {{HMS|Conquest|1915|2}} sustained severe damage. Due to reports of British submarines and torpedo attacks, Boedicker broke off the chase and turned back east towards the High Seas Fleet. At this point, Scheer, who had been warned of the Grand Fleet's sortie from Scapa Flow, turned back towards Germany.{{sfn|Tarrant|p=54}}
+
+=== Battle of Jutland ===
+{{main article|Battle of Jutland}}
+
+Almost immediately after the Lowestoft raid, Admiral [[Reinhard Scheer]] began planning another foray into the North Sea. He had initially intended to launch the operation in mid-May, but the mine damage to ''Seydlitz'' had proved difficult to repair—Scheer was unwilling to embark on a major raid without his battlecruiser forces at full strength. At noon on 28 May, the repairs to ''Seydlitz'' were finally completed, and the ship returned to the I Scouting Group.{{sfn|Tarrant|p=62}}
+
+[[File:Derfflinger firing full salvo.jpg|thumb|left|''Derfflinger'' fires a broadside salvo|alt=A large warship is partially obscured by smoke from its main guns firing]]
+
+''Derfflinger'' and the rest of Hipper's  I Scouting Group battlecruisers lay anchored in the outer Jade [[roadstead]] on the night of 30 May 1916. The following morning, at 02:00&amp;nbsp;[[Central European Time|CET]], the ships steamed out towards the [[Skagerrak]] at a speed of {{convert|16|kn}}.{{sfn|Tarrant|p=62}} ''Derfflinger'' was the second ship in the line of five, ahead of ''Seydlitz'', and to the rear of ''Lützow'', the group flagship.{{sfn|Tarrant|p=62}}{{efn|name=flag transfer}} The II Scouting Group, consisting of the light cruisers {{SMS|Frankfurt||2}}, Rear Admiral [[Friedrich Boedicker|Boedicker]]'s flagship, {{SMS|Wiesbaden||2}}, {{SMS|Pillau||2}}, and {{SMS|Elbing||2}}, and 30 torpedo boats of the II, VI, and IX Flotillas, accompanied Hipper's battlecruisers.{{sfn|Tarrant|p=62}}
+
+An hour and a half later, the High Seas Fleet under the command of Admiral [[Reinhard Scheer|Scheer]] left the Jade; the force was composed of 16 dreadnoughts.{{efn|name=Albert docked}} The High Seas Fleet was accompanied by the IV Scouting Group, composed of the light cruisers {{SMS|Stettin||2}}, {{SMS|München||2}}, {{SMS|Hamburg||2}}, {{SMS|Frauenlob||2}}, and {{SMS|Stuttgart||2}}, and 31 torpedo boats of the I, III, V, and VII Flotillas, led by the light cruiser ''Rostock''. The six pre-dreadnoughts of the II Battle Squadron had departed from the Elbe roads at 02:45, and rendezvoused with the battle fleet at 05:00.{{sfn|Tarrant|p=62}}
+
+Shortly before 16:00, Hipper's force encountered the six ships of Vice Admiral Beatty's [[1st Battlecruiser Squadron (United Kingdom)|1st]] and [[2nd Battlecruiser Squadron (United Kingdom)|2nd]] battlecruiser squadrons. The German ships were the first to open fire, at a range of approximately 15,000 yards (14,000&amp;nbsp;m).{{sfn|Bennett|p=183}} When the British ships began returning fire, confusion amongst the British battlecruisers resulted in ''Moltke'' being engaged by both ''New Zealand'' and ''Tiger''.{{efn|name=distribution of fire}} The British rangefinders had misread the range to their German targets, and so the first salvos fired by the British ships fell a mile past the German battlecruisers. Due to errors in British communication, ''Derfflinger'' was unengaged during the first 10 minutes of the battle.{{efn|name=Derfflinger unengaged}} ''Derfflinger''{{'}}s gunnery officer, ''Korvettenkapitän'' Georg von Hase later remarked &quot;By some mistake we were being left out. I laughed grimly and now I began to engage our enemy with complete calm, as at gun practice, and with continually increasing accuracy.&quot;{{sfn|Tarrant|p=90}} At 17:03, the British battlecruiser {{HMS|Indefatigable|1909|6}} exploded after 15 minutes of gunfire from ''Von der Tann''.{{sfn|Tarrant|p=94}} Shortly thereafter the second half of Beatty's force, the four {{sclass-|Queen Elizabeth|battleship|2}}s of the [[5th Battle Squadron (United Kingdom)|5th Battle Squadron]], came into range and began firing at ''Von der Tann'' and ''Moltke''.{{sfn|Tarrant|p=96}}
+
+[[File:HMS Queen Mary Jutland.jpg|thumb|''Queen Mary'' explodes under concentrated salvos from ''Seydlitz'' and ''Derfflinger''|alt=A large warship is almost completely obscured by a huge column of smoke.]]
+
+Following severe damage inflicted by ''Lützow'' on ''Lion'', ''Derfflinger'' lost sight of the British ship, and so  at 17:16 transferred her fire to {{HMS|Queen Mary}}. ''Seydlitz'' was also engaging ''Queen Mary'', and under the combined fire of the two battlecruisers, ''Queen Mary'' was hit repeatedly in quick succession. Observers on ''New Zealand'' and {{HMS|Tiger|1913|2}}, the ships behind and ahead, respectively, reported three shells from a salvo of four struck the ship at the same time. Two more hits followed, and a gigantic explosion erupted amidships; a billowing cloud of black smoke poured from the burning ship, which had broken in two.{{sfn|Tarrant|pp=100–101}}
+
+The leading ships of the German High Seas fleet had by 18:00 come within effective range of the British battlecruisers and ''Queen Elizabeth''-class battleships and had begun trading shots with them. Between 18:09 and 18:19, ''Derfflinger'' was hit by a {{convert|38|cm|in|abbr=on}} shell from either {{HMS|Barham|04|2}} or {{HMS|Valiant|1914|2}}.{{sfn|Tarrant|p=118}} At 18:55, ''Derfflinger'' was hit again; this shell struck the bow and tore a hole that allowed some 300&amp;nbsp;tons of water to enter the ship.{{sfn|Tarrant|p=126}}
+
+Shortly after 19:00, the German cruiser {{SMS|Wiesbaden||2}} had become disabled by a shell from the battlecruiser {{HMS|Invincible|1907|2}}; the German battlecruisers made a 16-point turn to the northeast and made for the crippled cruiser at high speed.  At 19:15, they spotted the British armored cruiser {{HMS|Defence|1907|2}}, which had joined the attack on ''Wiesbaden''. Hipper initially hesitated, believing the ship was the German cruiser ''Rostock'', but at 19:16, ''Kapitan zur See'' Harder, ''Lützow''{{'}}s commanding officer, ordered his ships' guns to fire. The other German battlecruisers and battleships joined in the melee; ''Defence'' was struck by several heavy-caliber shells from the German ships. One salvo penetrated the ship's ammunition magazines and a massive explosion destroyed the cruiser.{{sfn|Tarrant|p=140}}
+
+[[File:InvincibleBlowingUpJutland1916.jpg|thumb|left|''Invincible'' explodes after salvos from ''Derfflinger'' detonate the forward magazine|alt=A ball of flame engulfs a large gray warship. Several smaller ships are seen in the distance.]]
+
+By 19:24, the [[3rd Battlecruiser Squadron (United Kingdom)|3rd Battlecruiser Squadron]] had formed up with Beatty's remaining battlecruisers ahead of the German line. The leading British ships spotted ''Lützow'' and ''Derfflinger'' and began firing on them. In the span of eight minutes, the battlecruiser {{HMS|Invincible|1907|2}} scored eight hits on ''Lützow''. In return, both ''Lützow'' and ''Derfflinger'' concentrated their fire on their antagonist, and at 19:31, ''Derfflinger'' fired her final salvo at ''Invincible''. Shortly thereafter the forward magazine detonated and the ship disappeared in a series of massive explosions.{{sfn|Tarrant|pp=147–149}}
+
+By 19:30, the High Seas Fleet, which was by that point pursuing the British battlecruisers, had not yet encountered the Grand Fleet. Scheer had been considering retiring his forces before darkness exposed his ships to torpedo boat attack.{{sfn|Tarrant|p=150}} He had not yet made a decision when his leading battleships encountered the main body of the Grand Fleet. This development made it impossible for Scheer to retreat, for doing so would have sacrificed the slower pre-dreadnought battleships of the II Battle Squadron. If he chose to use his dreadnoughts and battlecruisers to cover their retreat, he would have subjected his strongest ships to overwhelming British fire.{{sfn|Tarrant|p=152}} Instead, Scheer ordered his ships to turn 16 points to starboard, which would bring the pre-dreadnoughts to the relative safety of the disengaged side of the German battle line.{{sfn|Tarrant|pp=152–153}}
+
+''Derfflinger'' and the other battlecruisers followed the move,{{efn|name=except Lützow}} which put them astern of ''König''.{{sfn|Tarrant|pp=155–156}} Hipper's badly battered ships gained a temporary moment of respite, and uncertainty over the exact location and course of Scheer's ships led Admiral [[John Jellicoe, 1st Earl Jellicoe|Jellicoe]] to turn his ships eastward, towards what he thought was the likely path of the German retreat.{{sfn|Tarrant|p=163}} The German fleet was instead sailing west, but Scheer ordered a second 16-point turn, which reversed course and pointed his ships at the center of the British fleet.{{sfn|Tarrant|p=165}} The German fleet came under intense fire from the British line, and Scheer sent ''Derfflinger'', ''Seydlitz'', ''Moltke'', and ''Von der Tann'' at high speed towards the British fleet, in an attempt to disrupt their formation and gain time for his main force to retreat.{{sfn|Tarrant|p=173}} By 20:17, the German battlecruisers had closed to within {{convert|7700|yards|m}} of {{HMS|Colossus|1910|2}}, at which point Scheer directed the ships to engage the lead ship of the British line.{{sfn|Tarrant|p=179}} Three minutes later, the German battlecruisers turned in retreat, covered by a torpedo boat attack.{{sfn|Tarrant|p=181}}
+
+A pause in the battle at dusk (approximately from 20:20 to 21:10) allowed ''Derfflinger'' and the other German battlecruisers to cut away wreckage that interfered with the main guns, extinguish fires, repair the fire control and signal equipment, and prepare the searchlights for nighttime action.{{sfn|Tarrant|p=188}} During this period, the German fleet reorganized into a well-ordered formation in reverse order, when the German light forces encountered the British screen shortly after 21:00. The renewed gunfire gained Beatty's attention, so he turned his battlecruisers westward. At 21:09, he sighted the German battlecruisers, and drew to within {{convert|8500|yards|m}} before opening fire at 21:20.{{sfn|Tarrant|p=193}} In the ensuing melee, ''Derfflinger'' was hit several times; at 21:34, a heavy shell struck her last operational gun turret and put it out of action.{{sfn|Tarrant|p=195}} The German ships returned fire with every gun available, and at 21:32 hit both ''Lion'' and ''Princess Royal'' in the darkness.{{sfn|Tarrant|p=195}} The maneuvering of the German battlecruisers forced the leading I Battle Squadron to turn westward to avoid collision. This brought the pre-dreadnoughts of the II Battle Squadron directly between the two lines of battlecruisers. In doing so, this prevented the British ships from pursuing their German counterparts when they turned southward. The British battlecruisers opened fire on the old battleships; the German ships turned southwest to bring all of their guns to bear against the British ships. This engagement lasted only a few minutes before Admiral Mauve turned his ships 8-points to starboard; the British inexplicably did not pursue.{{sfn|Tarrant|pp=195–196}}
+
+[[File:Bundesarchiv Bild 134-B2100, Panzerkreuzer Derfflinger - Gefechtsschäden.jpg|thumb|Damages on ''Derfflinger'']]
+
+Close to the end of the battle, at 03:55, Hipper transmitted a report to Admiral Scheer informing him of the tremendous damage his ships had suffered. By that time, ''Derfflinger'' and ''Von der Tann'' had only two operational guns each, ''Moltke'' was flooded with 1,000&amp;nbsp;tons of water, ''Lützow'' had sunk, and ''Seydlitz'' was severely damaged.{{sfn|Tarrant|p=255}} Hipper reported: &quot;I Scouting Group was therefore no longer of any value for a serious engagement, and was consequently directed to return to harbor by the Commander-in-Chief, while he himself determined to await developments off Horns Reef with the battlefleet.&quot;{{sfn|Tarrant|p=255}}
+
+During the course of the battle, ''Derfflinger'' was hit 17 times by heavy caliber shells and nine times by secondary guns. She was in dock for repairs until 15 October.{{sfn|Tarrant|p=277}} ''Derfflinger'' fired 385 shells from her main battery, another 235 rounds from her secondary guns, and one torpedo.{{sfn|Tarrant|p=292}} Her crew suffered 157 men killed and another 26 men wounded; this was the highest casualty rate on any ship not sunk during the battle.{{sfn|Tarrant|p=298}} Because of her stalwart resistance at Jutland, the British nicknamed her &quot;Iron Dog.&quot;{{sfn|Staff|p=66}}
+
+=== Later operations ===
+During the [[Second Battle of Heligoland Bight]] in November 1917, ''Derfflinger'' sailed from port to assist the German light cruisers of the II Scouting Group, but by the time she and the other battlecruisers arrived on the scene, the British raiders had fled northward.{{sfn|Staff|p=40}}
+
+In late 1917, the High Seas Fleet began to conduct anti-convoy raids in the North Sea between Britain and Norway. In October and December, German cruisers and destroyers intercepted and destroyed two British convoys to Norway. This prompted Beatty, now the Commander in Chief of the Grand Fleet, to detach several battleships and battlecruisers to protect convoys in the North Sea.{{sfn|Massie|p=747}} This presented to Admiral Scheer the opportunity for which he had been waiting the entire war: the chance to isolate and eliminate a portion of the Grand Fleet.{{sfn|Massie|p=748}} At 05:00 on 23 April 1918, the High Seas Fleet left harbor with the intention of intercepting one of the heavily escorted convoys. Wireless radio traffic was kept to a minimum to prevent the British from learning of the operation. By 14:10, the convoy had still not yet been located, and so Scheer turned the High Seas Fleet back towards German waters.{{sfn|Massie|p=748}}
+
+=== Fate ===
+
+[[File:Derfflinger's last voyage.jpg|thumb|''Derfflinger'' prepares to depart for Scapa Flow|alt=A large warship sits in harbor, smoke pouring from its funnels.]]
+
+''Derfflinger'' was to have taken part in what would have amounted to the [[Naval order of 24 October 1918|&quot;death ride&quot; of the High Seas Fleet]] shortly before the end of World War I. The bulk of the High Seas Fleet was to have sortied from its base in Wilhelmshaven to engage the British Grand Fleet; [[Reinhard Scheer|Scheer]]—by now the ''[[Grand Admiral|Großadmiral]]'' of the fleet—intended to inflict as much damage as possible on the British navy, in order to retain a better bargaining position for Germany, whatever the cost to the fleet.{{sfn|Tarrant|pp=280–281}} While the fleet was consolidating in Wilhelmshaven, war-weary sailors began deserting ''en masse.'' As ''Derfflinger'' and ''Von der Tann'' passed through the locks that separated Wilhelmshaven's inner harbor and roadstead, some 300 men from both ships climbed over the side and disappeared ashore.{{sfn|Massie|p=775}}
+
+On 24 October 1918, the order was given to sail from Wilhelmshaven. Starting on the night of 29 October, sailors [[Wilhelmshaven mutiny|mutinied]] on several battleships; three ships from the III&amp;nbsp;Squadron refused to weigh anchors, and the battleships {{SMS|Thüringen||2}} and {{SMS|Helgoland||2}} reported acts of sabotage. The order to sail was rescinded in the face of this open revolt. The following month, the [[German Revolution of 1918–19|German Revolution]] toppled the monarchy and was quickly followed by the [[Armistice with Germany (Compiègne)|Armistice]] that ended the war.{{sfn|Tarrant|pp=281–282}}
+
+[[File:SMS Derfflinger scuttled.jpg|thumb|left|''Derfflinger'' slips beneath the waves|alt=A large warship rolls onto its side]]
+
+Following Germany's capitulation, the Allies demanded that the majority of the High Seas Fleet be interned in the British naval base in [[Scapa Flow]].{{sfn|Tarrant|p=282}} On 21 November 1918, under the command of Rear Admiral [[Ludwig von Reuter]], the ships sailed from their base in Germany for the last time. The fleet rendezvoused with the light cruiser {{HMS|Cardiff|D58|2}}, before meeting a massive flotilla of some 370 British, American, and French warships for the voyage to Scapa Flow.{{sfn|Herwig|pp=254–255}} Once the ships were interned, their breech locks were removed, which disabled their guns.{{sfn|Herwig|p=255}}
+
+The fleet remained in captivity during the negotiations that ultimately produced the [[Versailles Treaty]]. It became apparent to Reuter that the British intended to seize the German ships on 21 June, which was the deadline by which Germany was to have signed the peace treaty. Unaware that the deadline had been extended to 23 June, Reuter ordered his ships be sunk. On the morning of 21 June, the British fleet left Scapa Flow to conduct training maneuvers. With the majority of the British fleet away, Reuter transmitted the order to his ships at 11:20.{{sfn|Herwig|p=256}} ''Derfflinger'' sank at 14:45. The ship was [[Scapa Flow#The great salvage operation|raised]] in 1939 and was anchored, still capsized, off the island of [[Rysa Little|Risa]] until 1946. ''Derfflinger'' was then sent to [[HMNB Clyde|Faslane Port]] and broken up by 1948. The ship's bell was delivered to the German [[German Navy|Federal Navy]] on 30 August 1965.{{sfn|Gröner|p=57}} Her bell is now on display outside the church of St Michael on the Outer Hebrides island of [[Eriskay]].&lt;ref&gt;http://www.britishlistedbuildings.co.uk/sc-18770-eriskay-st-michael-s-r-c-church-south-uis&lt;/ref&gt; [[File:SMS Derfflinger ship's bell.JPG|150px|thumb|''Derfflinger'' ship's bell exhibited outside St. Michael's church, Eriskay|alt=A ship's bell exhibited outside a church]]
+
+== Notes ==
+{{portal|Battleships}}
+{{Wikipedia books|Derfflinger class battlecruisers}}
+{{Commons category|SMS Derfflinger}}
+
+'''Footnotes'''
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot;, or &quot;His Majesty's Ship&quot; in German.
+}}
+
+{{efn
+| name = CET times
+| The times used in this article are in [[Central European Time|CET]], which is congruent with the German perspective. This is one hour ahead of [[UTC]], which is commonly used in British works.
+}}
+
+{{efn
+| name = sea trials
+| Due to the outbreak of war in the summer of 1914, ''Derfflinger'' was forced to conduct her trials in shallow waters close to Germany; in deeper water an additional {{convert|2|kn}} was possible. See: {{harvnb|Staff|p=35}}.
+}}
+
+{{efn
+| name = Nottingham's signalman
+| Beatty had intended to retain only the two rearmost light cruisers from [[William Goodenough|Goodenough's]] squadron; however, {{HMS|Nottingham|1913|2}}{{'}}s signalman misinterpreted the signal, thinking that it was intended for the whole squadron, and thus transmitted it to Goodenough, who ordered his ships back into their screening positions ahead of Beatty's battlecruisers.
+}}
+
+{{efn
+| name = counterparts
+| Thus, ''Lion'' on ''Seydlitz'', ''Tiger'' on ''Moltke'', ''Princess Royal'' on ''Derfflinger'', and ''New Zealand'' on ''Blücher''.
+}}
+
+{{efn
+| name = anti-flash measures
+| This was to have far-reaching consequences, for immediately after the battle, the German Naval Command launched an investigation which resulted in the adoption of anti-flash measures to prevent the type of spectacular explosions that resulted in the destruction of ''Indefatigable'' and ''Queen Mary'' at [[Battle of Jutland|Jutland]] a year later. See: {{harvnb|Tarrant|p=40}}.
+}}
+
+{{efn
+| name = flag transfer
+| ''Lützow'' had replaced ''Seydlitz'' as flagship of the I Scouting Group while the latter was in dock for repairs.
+}}
+
+{{efn
+| name = Albert docked
+| {{SMS|König Albert}} was in dock at the time.
+}}
+
+{{efn
+| name = distribution of fire
+| ''Tiger'' misread the &quot;distribution of fire&quot; signal hoisted by Beatty's flagship ''Lion''.
+}}
+
+{{efn
+| name = Derfflinger unengaged
+| Beatty intended his first two ships, ''Lion'' and ''Princess Royal'', to engage ''Lützow''; ''Queen Mary'' was to have fired on ''Derfflinger'', but her captain misinterpreted his directions and attacked ''Seydlitz'' instead. See: {{harvnb|Tarrant|p=90}}.
+}}
+
+{{efn
+| name = except Lützow
+| With the exception of ''Lützow'', which had lost speed and was unable to keep up.
+}}
+
+}}
+
+'''Citations'''
+
+{{reflist|20em}}
+
+== References ==
+{{refbegin}}
+* {{cite book
+  | last = Bennett
+  | first = Geoffrey
+  | authorlink = Geoffrey Bennett
+  | year = 2005
+  | title = Naval Battles of the First World War
+  | publisher = Pen &amp; Sword Military Classics
+  | location = [[London]]
+  | isbn = 978-1-84415-300-8
+  | oclc = 57750267
+  | ref = {{sfnRef|Bennett}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = [[Annapolis]]
+  | isbn = 978-0-87021-790-6
+  | oclc = 22101769
+  | ref = {{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = [[Amherst, New York]]
+  | isbn = 978-1-57392-286-9
+  | oclc = 57239454
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last = Massie
+  | first = Robert K.
+  | authorlink = Robert K. Massie
+  | year = 2003
+  | title = [[Castles of Steel]]
+  | publisher = Ballantine Books
+  | location = New York City
+  | isbn = 978-0-345-40878-5
+  | oclc = 57134223
+  | ref = {{sfnRef|Massie}}
+  }}
+* {{cite book
+  | last = Scheer
+  | first = Reinhard
+  | authorlink = Reinhard Scheer
+  | year = 1920
+  | title = Germany's High Seas Fleet in the World War
+  | publisher = Cassell and Company
+  | location = London and New York
+  | oclc = 2765294
+  | ref = {{sfnRef|Scheer}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2006
+  | title = German Battlecruisers: 1914–1918
+  | publisher = Osprey Books
+  | location = [[Oxford]]
+  | isbn = 978-1-84603-009-3
+  | oclc = 64555761
+  | ref = {{sfnRef|Staff}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | oclc = 48131785
+  | ref = {{sfnRef|Tarrant}}
+  }}
+{{refend}}
+
+==Further reading==
+*{{cite book|last=Hase|first=Georg von|others=Chambers, Arthur and Holt, Frederic Appleby (trans.)|title=Kiel and Jutland|trans_title=Kiel und Skagerrak|year=1921|location=London|publisher=Skeffington &amp; Son|oclc=1523613}}
+
+{{Derfflinger class battlecruiser}}
+{{Blohm + Voss}}
+{{1919 shipwrecks}}
+{{Featured article}}
+
+{{DEFAULTSORT:Derfflinger}}
+[[Category:Derfflinger-class battlecruisers]]
+[[Category:World War I battlecruisers of Germany]]
+[[Category:Ships built in Hamburg]]
+[[Category:1913 ships]]
+[[Category:World War I warships scuttled in Scapa Flow]]
+[[Category:Maritime incidents in 1919]]</text>
+      <sha1>l5db4at47zry6bl0oo0dbn4w7lvozyk</sha1>
+    </revision>
+  </page>
+</mediawiki>

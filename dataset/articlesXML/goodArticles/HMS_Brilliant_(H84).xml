@@ -1,0 +1,175 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Brilliant (H84)</title>
+    <ns>0</ns>
+    <id>8288203</id>
+    <revision>
+      <id>745806205</id>
+      <parentid>745806010</parentid>
+      <timestamp>2016-10-23T12:09:49Z</timestamp>
+      <contributor>
+        <username>Nigel Ish</username>
+        <id>3000221</id>
+      </contributor>
+      <minor/>
+      <comment>/* Construction and career */ tweak</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15375">{{other ships|HMS Brilliant}}
+{{good article}}
+{{Use dmy dates|date=January 2013}}
+{{Use British English|date=January 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Brilliant (H84).png|300px|right]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Brilliant''
+|Ship builder=[[Swan Hunter]], [[Tyne and Wear]], [[United Kingdom]]
+|Ship yard number=
+|Ship original cost=£221,638
+|Ship ordered=22 March 1929
+|Ship laid down=
+|Ship launched=9 October 1930
+|Ship completed=21 February 1931
+|Ship commissioned=
+|Ship decommissioned=November 1945
+|Ship reclassified=As [[target ship]], May 1945
+|Ship out of service=
+|Ship honours=
+|Ship fate=Sold, 21 February 1948 and [[ship breaking|scrapped]], April 1948
+|Ship motto=
+|Ship nickname=
+|Ship identification=[[Pennant number]]: H84&lt;ref name=w78/&gt;
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class= {{sclass2-|B|destroyer}} 
+|Ship displacement=*{{convert|1360|LT|t|abbr=on}} (standard)
+*{{convert|1790|LT|t|abbr=on}} ([[deep load]])
+|Ship length={{convert|323|ft|m|1|abbr=on}} [[Length overall|o/a]]
+|Ship beam={{convert|32|ft|3|in|m|1|abbr=on}}
+|Ship draught={{convert|12|ft|3|in|m|1|abbr=on}}
+|Ship power=*{{convert|34000|shp|kW|lk=in|abbr=on}}
+*3 × [[Admiralty 3-drum boiler]]s 
+|Ship propulsion=*2 × shafts
+*2 × [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s
+|Ship speed={{convert|35|kn|lk=in}}
+|Ship range={{convert|4800|nmi|lk=in|abbr=on}} at {{convert|15|kn}}
+|Ship complement=142 (wartime)
+|Ship sensors=Type 119 [[ASDIC]] 
+|Ship armament=*4 × 1 – [[4.7 inch QF Mark XII|4.7-inch (120 mm) Mk IX gun]]s
+*2 × 1 – [[QF 2 pounder naval gun|QF 2-pounder (40 mm) Mk II]] [[anti-aircraft gun|AA guns]]
+*2 × 4 – [[British 21 inch torpedo|{{convert|21|in|mm|abbr=on|0}} torpedo]] [[torpedo tube|tubes]]
+*20 × [[depth charge]]s, 1 rail and 2 throwers
+|Ship notes=
+}}
+|}
+
+'''HMS ''Brilliant''''' was a {{Sclass2-|B|destroyer}} built for the [[Royal Navy]] (RN) around 1930. Initially assigned to the [[Mediterranean Fleet]], she was transferred to the [[Home Fleet]] in 1936. The ship then patrolled Spanish waters enforcing the arms blockade during the first year of the [[Spanish Civil War]] of 1936–39. She spent most of [[World War II]] on [[convoy]] escort duties in the English Channel, and the [[North Atlantic]], based at [[Dover]], [[Gibraltar]], and [[Freetown]], [[Sierra Leone]]. During the war, ''Brilliant'' never destroyed a submarine, but did sink a Vichy French [[minesweeper (ship)|minesweeper]] during [[Operation Torch]]. She also intercepted two German supply ships and rescued survivors of two [[troopship]]s that had been [[torpedo]]ed by [[submarine]]s. The ship became a [[target ship]] at the end of the war and was [[ship breaking|scrapped]] in 1948.
+
+==Description==
+''Brilliant'' displaced {{convert|1360|LT|t}} at [[Displacement (ship)|standard]] load and {{convert|1790|LT|t}} at [[deep load]]. The ship had an [[length overall|overall length]] of {{convert|323|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|32|ft|3|in|m|1}} and a [[draft (hull)|draught]] of {{convert|12|ft|3|in|m|1}}.&lt;ref name=w78/&gt; She was powered by [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s,&lt;ref name=m0/&gt; driving two shafts, which developed a total of {{convert|34000|shp|lk=in}} and gave a maximum speed of {{convert|35|kn|lk=in}}. Steam for the turbines was provided by three [[Admiralty 3-drum boiler]]s. ''Brilliant'' carried a maximum of {{convert|390|LT|t}} of [[fuel oil]] that gave her a range of {{convert|4800|nmi|lk=in}} at {{convert|15|kn}}.&lt;ref name=w78&gt;Whitley, p. 99&lt;/ref&gt; The ship's complement was 134 officers and enlisted men, although it increased to 142 during wartime.&lt;ref name=f8&gt;Friedman, p. 298&lt;/ref&gt;
+
+The ship mounted four 45-[[caliber (artillery)|calibre]] [[quick-firing gun|quick-firing (QF)]] [[4.7 inch QF Mark XII|4.7-inch Mk IX guns]] in single mounts, designated 'A', 'B', 'X', and 'Y' from front to rear. For [[Anti-aircraft warfare|anti-aircraft]] (AA) defence, ''Brilliant'' had two {{convert|40|mm|1|adj=on}} [[QF 2 pounder naval gun|QF 2-pounder Mk II]] AA guns mounted on a platform between her [[funnel (ship)|funnels]]. She was fitted with two above-water quadruple [[torpedo tube]] mounts for [[British 21 inch torpedo|{{convert|21|in|adj=on|0}}]] torpedoes.&lt;ref name=f8/&gt; One [[depth charge]] rail and two throwers were fitted; 20 depth charges were originally carried, but this increased to 35 shortly after the war began.&lt;ref&gt;English, p. 141&lt;/ref&gt; The ship was fitted with a Type 119 [[ASDIC]] set to detect [[submarine]]s by reflections from sound waves beamed into the water.&lt;ref&gt;Friedman, p. 205&lt;/ref&gt;
+
+During a refit in March 1941, ''Brilliant''{{'}}s anti-aircraft armament was reinforced when the rear set of torpedo tubes was replaced by a [[QF 12 pounder 12 cwt naval gun|{{convert|3|in|1|adj=on}} (12-pounder)]] AA gun and two [[Oerlikon 20 mm cannon|{{convert|20|mm|adj=on|1}} Oerlikon]] [[autocannon]] were added. In addition, her depth charge stowage was increased to 60. 'Y' gun was removed to compensate for the additional weight and two more Oerlikons were added during a refit in April 1942. When the ship was converted into an [[escort destroyer]] beginning in January 1943, a split [[Hedgehog (weapon)|Hedgehog]] anti-submarine [[spigot mortar]] was installed on each side of 'A' gun, the 3-inch AA gun was removed and the rear torpedo tubes reinstalled, and stowage was increased to 125 depth charges.&lt;ref name=e0&gt;English, p. 40&lt;/ref&gt; By this time, the 2-pounders had been replaced by two additional Oerlikons, for a total of six.&lt;ref&gt;Friedman, p. 237&lt;/ref&gt;
+
+==Construction and career==
+The ship was ordered on 22 March 1929 from [[Swan Hunter]], under the 1928 Naval Programme. She was laid down on 8 July 1929, and launched on 9 October 1930,&lt;ref&gt;English, pp. 29–30&lt;/ref&gt; as the seventh RN ship to carry this name.&lt;ref&gt;Colledge, pp. 48–49&lt;/ref&gt; ''Brilliant'' was completed on 21 February 1931&lt;ref&gt;English, p. 30&lt;/ref&gt; at a cost of £221,638, excluding items supplied by the Admiralty such as guns, ammunition and communications equipment.&lt;ref name=m0&gt;March, p. 260&lt;/ref&gt; After her commissioning, she was assigned to the [[4th Destroyer Flotilla]] with the Mediterranean Fleet until September 1936 when it was transferred to Home Fleet.&lt;ref name=e9&gt;English, p. 39&lt;/ref&gt; On 31 December 1935, the [[Imperial Airways]] [[Short S.8 Calcutta|Short Calcutta]] flying boat ''City of Kharthoum'' crashed just outside the port of [[Alexandria, Egypt]]. ''Brilliant'' rescued the sole survivor, the aircraft's pilot, with the remaining three crew members and nine passengers killed.&lt;ref&gt;{{cite magazine|title=Commercial Aviation: The Mediterranean Tragedy|magazine=[[Flight International|Flight]]|date=9 January 1936|volume= XXIX|issue= 1411|page=45|url=http://www.flightglobal.com/pdfarchive/view/1936/1936%20-%200093.html}}&lt;/ref&gt; ''Brilliant'' was assigned as [[guard ship]] at [[Málaga]] when the Spanish Civil War began in July 1936. During the following winter, the ship enforced the arms blockade imposed by Britain and France on both sides by patrolling the Spanish ports on the Bay of Biscay.&lt;ref name=e9/&gt;
+
+At the outbreak of war in September 1939, ''Brilliant'' was assigned to the [[19th Destroyer Flotilla]] at Dover and spent the time before the [[Battle of France]] escorting convoys and [[minelaying]] operations. She collided with the [[breakwater (structure)|breakwater]] at Dover on 12 September and required six weeks for repairs. On 12 May 1940, the ship took part in [[Operation XD]], the destruction of Dutch port facilities and returned with 100 evacuees aboard. On 15 May ''Brilliant'' collided with her [[sister ship]] {{HMS|Boreas|H77|2}} en route for the [[Hook of Holland]] and was under repair at [[Sheerness Dockyard]] until 17 June. She was then transferred to the [[1st Destroyer Flotilla]] at Dover, as the heavy losses suffered during the [[Dunkirk evacuation]] forced the disbandment of the 19th Flotilla. On 25 July, the ship engaged German [[E-boat]]s off Dover Harbour together with ''Boreas'' and was badly damaged by German [[Junkers Ju 87]] &quot;Stuka&quot; [[dive bomber]]s after she was ordered to withdraw. ''Brilliant'' was attacked by eight &quot;Stuka&quot;s and the ship was hit by two bombs that passed through the hull without exploding. No one was injured, but the steering gear was disabled and she stopped and flooded by the stern. The ship was lightened by jettisoning her aft guns and depth charges and was towed back to Dover. ''Brilliant'' was under repair at [[Chatham Dockyard]] until mid-October.&lt;ref name=e9/&gt;
+
+Upon their completion, the ship was assigned to Home Fleet until February 1941 and was then refitted at [[Southampton]] in March. At this time she was fitted with a [[List of World War II British naval radar#Type 286|Type 286]] short-range surface search [[radar]]. On 12 May, ''Brilliant'' was sailed for Freetown, Sierra Leone where she served as a local escort and searched for German blockade runners and supply ships until returning home in April 1942 for a refit at Chatham.&lt;ref&gt;English, pp. 39–40&lt;/ref&gt; On 4 and 5 June, the ship, together with the [[light cruiser]] [[HMS London (69)|''London'']], intercepted the [[oil tanker]]s {{SS|Esso Hamburg}} and {{SS|Egerland}}, respectively. Both ships [[scuttled]] themselves to prevent their capture.&lt;ref&gt;Rohwer, p. 77&lt;/ref&gt; ''Brilliant'' became leader of the [[18th Destroyer Flotilla]] in August.&lt;ref name=e0/&gt;
+
+After the refit, the ship escorted a convoy to [[Durban]], South Africa in May 1942 before returning to Freetown in August.&lt;ref name=e0/&gt; On 9 October 1942, she rescued 321 survivors from the troopship [[SS Oronsay (1925)|HMT Oronsay]]&lt;ref&gt;{{Cite web
+ |url= http://www.theshipslist.com/ships/descriptions/ShipsO.html
+ |title=Ship Descriptions (O)
+ |work=theshipslist.com
+ |accessdate=14 December 2013
+}}&lt;/ref&gt; which was torpedoed by the {{ship|Italian submarine|Archimede}}.&lt;ref&gt;Rohwer, p. 200&lt;/ref&gt; The following month, ''Brilliant'' was transferred to [[Force H]] during Operation Torch, the invasion of [[French North Africa]], in November. She was tasked to provide [[naval gunfire support]] during the landings at [[Oran]], Algeria. When the Vichy French minesweeper {{ship|French minesweeper|Surprise||2}} [[sortie]]d to oppose the landing, ''Brilliant'' sank her and then rescued 21 survivors. The ship was transferred to the Gibraltar-based [[Escort Group 61]] and remained with them until January 1943 when she returned home to begin her conversion into an escort destroyer. In addition to the armament changes, a [[Type 271 radar|Type 271]] target indication radar was installed above the [[bridge (nautical)|bridge]] that replaced her [[List of British ordnance terms#DCT|director-control tower]] and [[rangefinder]] during the conversion.&lt;ref name=e0/&gt;
+
+After [[Glossary of nautical terms#W|working up]], ''Brilliant'' was assigned to the [[13th Destroyer Flotilla]] in Gibraltar in July 1943 and remained with them until September 1944 when she began a refit at Portsmouth. The ship was reassigned to the 1st Destroyer Flotilla in the English Channel in November. On 24 December 1944, ''Brilliant'' was escorting the troopship {{SS|Leopoldville|1929|2}} when the ship was struck by a [[torpedo]] from {{Ship|German submarine|U-486||2}}, 5{{frac|1|2}} nautical miles off [[Cherbourg]]. ''Brilliant'' was able to rescue about 500 survivors from the damaged troopship, but due to various communication failures, no other vessels reached her before she sank and 764 died.&lt;ref&gt;{{Cite web
+ |url= http://www.uboat.net/history/leopoldville.htm
+ |title=The Sinking of SS ''Leopoldville''
+ |work=uboat.net
+ |accessdate=14 December 2013
+}}&lt;/ref&gt; The ship collided with the Canadian [[corvette]] {{HMCS|Lindsay|K338|2}} in dense fog&lt;ref name=e0/&gt; on 21 January 1945 off the [[Isle of Wight]].&lt;ref&gt;{{cite web|url=http://uboat.net/allies/warships/ship/4358.html|title=HMS Brilliant (H 84)|work=Allied Warships|publisher=uboat.net|accessdate=14 December 2013}}&lt;/ref&gt; ''Brilliant''{{'}}s bow was badly damaged and she was transferred to [[Antwerp]], Belgium, for permanent repairs after emergency repairs were made at Portsmouth. They were not completed until 23 April and the ship returned to Portsmouth for conversion to a submarine target and escort vessel. This was completed on 26 May and ''Brilliant'' escorted the light cruiser {{HMS|Jamaica|44|2}} with [[King George VI]] aboard as he visited the [[Channel Islands]] on 7 June. From 13 June, based at [[Holy Loch]], Scotland, she escorted surrendered U-boats as part of [[Operation Deadlight]] before being [[Ship decommissioning|paid off]] into reserve in November 1945. Her radar and communications equipment was removed before the ship was reduced to Category C reserve at Holy Loch on 29 April 1946. ''Brilliant'' was allocated to the Target Trials Committee on 11 September&lt;ref name=e0/&gt; and was used evaluate the shock effects of a {{convert|1090|lb|kg|adj=on}} underwater explosion in April 1947.&lt;ref&gt;{{cite journal|last=Brown|first=D. K.|year=1987|title=British Post War Trials: Tests Against Destroyers|journal=Warship|publisher=Conway Maritime Press|location=London|volume=41|issue=January|pages=29–34|issn=0142-6222}}&lt;/ref&gt; The ship was turned over to the British Iron and Steel Company for scrapping on 21 February 1948. She was broken up beginning in April at [[Troon]] by the West of Scotland Shipbreaking Co.&lt;ref name=e0/&gt;
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+* {{Colledge}}
+* {{cite book|last=English|first=John|title=Amazon to Ivanhoe: British Standard Destroyers of the 1930s|year=1993|publisher=World Ship Society|location=Kendal, UK|isbn=0-905617-64-9}}
+* {{cite book|last=Friedman|first=Norman|title=British Destroyers From Earliest Days to the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2009|isbn=978-1-59114-081-8}}
+* {{cite book|last=Lenton|first=H. T.|title=British &amp; Empire Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|date=1998|isbn=1-55750-048-7}}
+*{{cite book|last=March|first=Edgar J.|title=British Destroyers: A History of Development, 1892–1953; Drawn by Admiralty Permission From Official Records &amp; Returns, Ships' Covers &amp; Building Plans|year=1966|publisher=Seeley Service|location=London |OCLC=164893555}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939–1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite book|last=Whitley|first=M. J.|title=Destroyers of World War 2|publisher=Naval Institute Press|year=1988|isbn=0-87021-326-1|location=Annapolis, Maryland}}
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{A class destroyer}}
+
+{{coord|0|45|N|6|27|W|source:kolossus-fiwiki|display=title}}
+
+{{DEFAULTSORT:Brilliant (H84)}}
+[[Category:A- and B-class destroyers]]
+[[Category:Ships built by Swan Hunter]]
+[[Category:Tyne-built ships]]
+[[Category:1930 ships]]
+[[Category:World War II destroyers of the United Kingdom]]</text>
+      <sha1>fdw3m85rcuyfp5da2ulgfca7dqpul3s</sha1>
+    </revision>
+  </page>
+</mediawiki>

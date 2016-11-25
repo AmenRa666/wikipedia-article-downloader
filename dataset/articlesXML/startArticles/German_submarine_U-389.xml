@@ -1,0 +1,272 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-389</title>
+    <ns>0</ns>
+    <id>36946940</id>
+    <revision>
+      <id>749080830</id>
+      <parentid>748812189</parentid>
+      <timestamp>2016-11-12T07:43:21Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8401">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''U-389''
+|Ship ordered=21 November 1940
+|Ship builder=[[Howaldtswerke]], [[Kiel]]
+|Ship yard number=20
+|Ship laid down=3 December 1941
+|Ship launched=19 December 1942
+|Ship commissioned=6 February 1943
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sunk, October 1943, by a British aircraft southwest of [[Iceland]] 
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[German Type VII submarine#Type VIIC|Type VIIC]] [[submarine]]
+|Ship displacement=
+*{{convert|769|t|LT|0}} surfaced
+*{{convert|871|t|LT|0|abbr=on}} submerged
+|Ship length=
+*{{convert|67.10|m|ftin|abbr=on}} [[o/a]]
+*{{convert|50.50|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam=
+*{{convert|6.20|m|ftin|abbr=on}} o/a
+*{{convert|4.70|m|ftin|abbr=on}} pressure hull
+|Ship height={{convert|9.60|m|ftin|abbr=on}}
+|Ship draught={{convert|4.74|m|ftin|abbr=on}}
+|Ship power=
+*{{convert|2800|–|3200|PS|kW bhp|abbr=on}} (diesels)
+*{{convert|750|PS|kW shp|abbr=on}} (electric)
+|Ship propulsion=
+*2 shafts
+*2 × [[diesel engine]]s
+*2 × [[Motor-generator|electric motors]]
+|Ship speed=
+*{{convert|17.7|kn}} surfaced
+*{{convert|7.6|kn}} submerged
+|Ship range=
+*{{convert|8,500|nmi|abbr=on|lk=on}} at {{convert|10|kn}} surfaced
+*{{convert|80|nmi|abbr=on}} at {{convert|4|kn}} submerged
+|Ship test depth=
+*{{convert|230|m|ft|abbr=on}}
+*[[Crush depth]]: {{convert|250|–|295|m|ft|abbr=on}}
+|Ship complement=4 officers, 40–56 enlisted
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*5 × {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s (four bow, one stern)
+*14 × [[torpedo]]es
+*1 × [[8.8 cm SK C/35 naval gun|{{convert|8.8|cm|in|2|abbr=on}} deck gun]] (220 rounds)
+*various AA guns
+|Ship notes=
+}}
+{{Service record
+|is_ship=yes
+|label=Service record&lt;ref name=&quot;uboatnet&quot;&gt;{{cite web
+ |url=http://uboat.net/boats/u389.html
+ |title=The Type VIIC boat U-389
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=7 September 2012
+}}&lt;/ref&gt;
+|partof=
+*[[5th U-boat Flotilla]]
+*6 February – 31 July 1943
+*[[9th U-boat Flotilla]]
+*1 August – 4 October 1943 
+|codes=
+|commanders=
+*''[[Kptlt.]]'' Siegfried Heilmann
+*6 February – 4 October 1943 
+|operations=18 September – 4 October 1943 
+|victories=None
+}}
+|}
+
+'''German submarine ''U-389''''' was a [[German Type VII submarine#Type VIIC|Type VIIC]] [[U-boat]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'' during [[World War II]].
+
+She carried out one patrol. She did not sink or damage any ships.
+
+She was sunk by a British aircraft southwest of [[Iceland]] in October 1943.&lt;ref name=&quot;uboatnet&quot; /&gt;
+
+==Design==
+[[German Type VII submarine#Type VIIC|German Type VIIC submarines]] were preceded by the shorter [[German Type VII submarine#Type VIIB|Type VIIB submarines]]. ''U-389'' had a displacement of {{convert|769|t|LT}} when at the surface and {{convert|871|t|LT}} while submerged.{{sfn|Gröner|1991|pp=43-46}} She had a total length of {{convert|67.10|m|ftin|abbr=on}}, a [[pressure hull]] length of {{convert|50.50|m|ftin|abbr=on}}, a [[beam (nautical)|beam]] of {{convert|6.20|m|ftin|abbr=on}}, a height of {{convert|9.60|m|ftin|abbr=on}}, and a [[draught (ship)|draught]] of {{convert|4.74|m|ftin|abbr=on}}. The submarine was powered by two [[Germaniawerft]] F46 four-stroke, six-cylinder [[supercharged]] [[diesel engine]]s producing a total of {{convert|2800 to 3200|PS|kW shp|-1}} for use while surfaced, two [[Garbe, Lahmeyer &amp; Co.]] RP 137/c [[Motor–generator|double-acting electric motors]] producing a total of {{convert|750|PS|kW shp}} for use while submerged. She had two shafts and two {{convert|1.23|m|ft|abbr=on|0}} [[propeller]]s. The boat was capable of operating at depths of up to {{convert|230|m}}.{{sfn|Gröner|1991|pp=43-46}}
+
+The submarine had a maximum surface speed of {{convert|17.7|kn}} and a maximum submerged speed of {{convert|7.6|kn}}.{{sfn|Gröner|1991|pp=43-46}} When submerged, the boat could operate for {{convert|80|nmi}} at {{convert|4|kn}}; when surfaced, she could travel {{convert|8500|nmi}} at {{convert|10|kn}}. ''U-389'' was fitted with five {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s (four fitted at the bow and one at the stern), fourteen [[torpedo]]es, one [[8.8 cm SK C/35 naval gun|{{convert|8.8|cm|in|2|abbr=on}} SK C/35 naval gun]], 220 rounds, and an anti-aircraft gun. The boat had a [[Ship's company|complement]] of between forty-four and sixty.{{sfn|Gröner|1991|pp=43-46}}
+
+==Service history==
+The submarine was [[Keel laying|laid down]] on 3 December 1941 at the [[Howaldtswerke]] (yard) at [[Flensburg]] as yard number 20, [[Ceremonial ship launching|launched]] on 19 December 1942 and [[Ship commissioning|commissioned]] on 6 February 1942 under the command of ''[[Kapitänleutnant]]'' Siegfried Heilmann.
+
+The boat was a member of one [[Wolfpack (naval tactic)|wolfpack]].
+
+She served with the [[5th U-boat Flotilla]] from 6 February 1943 and the [[9th U-boat Flotilla|9th flotilla]] from 1 August of the same year.
+
+===Patrol and loss===
+After moving briefly between Kiel, [[Bergen]] and [[Trondheim]], ''U-389'' set-off from the latter on 18 September 1943. Passing through the [[GIUK gap|gap]] that separates Iceland and the [[Faroe Islands]], she was attacked and sunk by [[depth charge]]s dropped from a British [[B-24 Liberator|Liberator]] of [[No. 120 Squadron RAF]].
+
+50 men died in the U-boat; there were no survivors.
+
+===Previously recorded fate===
+''U-389'' was noted as sunk on 5 October 1943 southwest of Iceland in the [[Denmark Strait]] by a RAF [[B-24 Liberator|Liberator]] of [[No. 269 Squadron RAF|269 Squadron]]. This attack accounted for {{GS|U-336||2}}.
+
+===Wolfpacks===
+''U-389'' took part in one [[Wolfpack (naval tactic)|wolfpack]], namely.
+* [[Wolfpack Rossbach|Rossbach]] (24 September - 4 October 1943)
+
+==References==
+{{reflist|30em}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+|ref=harv
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+
+{{Refend}}
+
+==External links==
+*{{cite web
+|url=http://www.u-boot-archiv.de/dieboote/u0389.html
+|title=''U 389''
+|last=Hofmann
+|first=Markus
+|website=Deutsche U-Boote 1935-1945 - u-boot-archiv.de
+|language=German
+|accessdate=26 December 2014
+}}
+*{{Cite web
+ |url=http://uboat.net/boats/u389.html
+ |title=The Type VIIC boat U-389
+ |last=Helgason
+ |first=Guðmundur
+ |website=German U-boats of WWII - uboat.net
+ |accessdate=26 December 2014
+}}
+
+{{German Type VII submarines}}
+{{October 1943 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+}}
+
+{{Use dmy dates|date=September 2012}}
+{{coord|60.8500|N|28.4333|W|source:wikidata|display=title}}
+
+{{DEFAULTSORT:U0389}}
+[[Category:German Type VIIC submarines]]
+[[Category:U-boats commissioned in 1943]]
+[[Category:U-boats sunk in 1943]]
+[[Category:1942 ships]]
+[[Category:Ships built in Kiel]]
+[[Category:Ships lost with all hands]]
+[[Category:U-boats sunk by depth charges]]
+[[Category:U-boats sunk by British aircraft]]
+[[Category:World War II shipwrecks in the Arctic Ocean]]
+[[Category:World War II submarines of Germany]]
+[[Category:Maritime incidents in October 1943]]</text>
+      <sha1>5lczp22l8j58pb72h0wko6lckphwbt7</sha1>
+    </revision>
+  </page>
+</mediawiki>

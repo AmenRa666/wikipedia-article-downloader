@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>206552</id>
     <revision>
-      <id>748777398</id>
-      <parentid>748533787</parentid>
-      <timestamp>2016-11-10T09:16:00Z</timestamp>
+      <id>751347426</id>
+      <parentid>748777398</parentid>
+      <timestamp>2016-11-25T02:15:17Z</timestamp>
       <contributor>
-        <username>Bender the Bot</username>
-        <id>28903366</id>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
       </contributor>
-      <minor/>
-      <comment>/* External links */clean up; http&amp;rarr;https for [[Google Books]] and other Google services using [[Project:AWB|AWB]]</comment>
+      <comment>Migrate {{Infobox NRHP}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="70380">{{Other ships|USS Wisconsin}}
+      <text xml:space="preserve" bytes="70275">{{Other ships|USS Wisconsin}}
 {{redirect|Wisky|the drink|Whiskey}}
 {{Use dmy dates|date=February 2013}}
 {|{{Infobox ship begin}}
@@ -160,15 +159,8 @@
   | image =
   | caption = 
   | location= 1 Waterside Dr., [[Norfolk, Virginia]]
-  | lat_degrees = 36
-  | lat_minutes = 50
-  | lat_seconds = 54
-  | lat_direction = N
-  | long_degrees = 76
-  | long_minutes = 17
-  | long_seconds = 43
-  | long_direction = W
-  | locmapin = Virginia#USA
+  | coordinates = {{coord|36|50|54|N|76|17|43|W|display=inline,title}}
+| locmapin = Virginia#USA
   | area =
   | built = 1941
   | architect= [[Bureau of Construction and Repair]]
@@ -497,7 +489,7 @@ On 11 August 2012, [[Republican Party (United States)|GOP]] presidential candida
 [[Category:World War II on the National Register of Historic Places]]
 [[Category:Maritime incidents in 1951]]
 [[Category:Maritime incidents in 1956]]</text>
-      <sha1>as61jksnyvhn4yg4lz566qa8mqz0dhs</sha1>
+      <sha1>c3ervog6hnstoxhblfggjyvm2jqsq02</sha1>
     </revision>
   </page>
 </mediawiki>

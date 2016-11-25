@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Breslau</title>
+    <ns>0</ns>
+    <id>1636096</id>
+    <revision>
+      <id>741906993</id>
+      <parentid>741906962</parentid>
+      <timestamp>2016-09-30T12:22:08Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <comment>/* Service history */ redundant</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26933">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Bundesarchiv DVM 10 Bild-23-61-22, Kleiner Kreuzer &quot;SMS Breslau&quot;.jpg|300px]]
+|Ship caption=SMS ''Breslau'' in 1912
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[German Empire]]
+|Ship flag={{shipboxflag|German Empire|naval}}
+|Ship name=''Breslau''
+|Ship namesake=City of [[Breslau]] (Now part of [[Poland]] as Wrocław)
+|Ship ordered=
+|Ship builder=A.G. Vulcan
+|Ship laid down= 1910
+|Ship launched= 16 May 1911
+|Ship commissioned= 10 May 1912
+|Ship fate=Transferred to the [[Ottoman Empire]] 16 August 1914
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[Ottoman Empire]]
+|Ship flag={{shipboxflag|Ottoman Empire|naval-1845}}
+|Ship name=''Midilli''
+|Ship namesake=Island of [[Midilli]]
+|Ship acquired= 16 August 1914
+|Ship fate=Mined &amp; sunk off [[Imbros]], 20 January 1918
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Magdeburg|cruiser}}
+|Ship displacement= {{convert|4570|MT|LT|abbr=on}}
+|Ship length= {{convert|138.7|m|ftin|abbr=on}}
+|Ship beam= {{convert|13.5|m|ftin|abbr=on}}
+|Ship draft= {{convert|4.4|m|ftin|abbr=on}}
+|Ship power={{convert|25000|shp|abbr=on|lk=in}}
+|Ship propulsion=*2 shafts
+*2 [[AEG]]-Vulcan [[steam turbines]]
+*16 [[water-tube boiler]]s
+|Ship speed= {{convert|27.5|kn|lk=in}}
+|Ship range={{convert|5820|nmi|abbr=on|lk=in}} at {{convert|12|kn}}
+|Ship complement=*18 officers
+*336 enlisted
+|Ship armament=*'''As constructed'''
+*12 × [[10.5 cm SK L/45 naval gun|10.5&amp;nbsp;cm SK L/45 guns]]
+*120 mines
+*2 × {{convert|50|cm|abbr=on|1}} [[torpedo tube]]s
+*'''After 1917'''
+*8 × [[15 cm SK L/45|15&amp;nbsp;cm SK L/45 guns]]
+*120 mines
+*2 × 50&amp;nbsp;cm torpedo tubes
+|Ship armor=*Belt: {{convert|60|mm|abbr=on}}
+*[[Conning tower]]: {{convert|100|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+
+'''SMS ''Breslau''''' was a {{sclass-|Magdeburg|cruiser}} of the [[Imperial German Navy]], built in the early 1910s. Following her commissioning, ''Breslau'' and the battlecruiser {{SMS|Goeben||2}} were assigned to the [[Mediterranean Division|''Mittelmeerdivision'']] (Mediterranean Division) in response to the [[Balkan Wars]]. After evading British warships in the Mediterranean to reach [[Constantinople]], ''Breslau'' and ''Goeben'' were transferred to the [[Ottoman Empire]] in August 1914, to entice the Ottomans to join the Central Powers in [[World War I]]. The two ships, along with several other Ottoman vessels, raided Russian ports in October 1914, prompting a Russian declaration of war. The ships were renamed ''Midilli'' and ''Yavûz Sultân Selîm'', respectively, and saw extensive service with the Ottoman fleet, primarily in the Black Sea against the Russian [[Black Sea Fleet]].
+
+''Midilli'' was active in laying [[minefield]]s off the Russian coast, bombarding Russian ports and installations and, because of a shortage of Ottoman merchant ships, transporting troops and supplies to the Black Sea ports supplying Ottoman troops fighting in the [[Caucasus Campaign]]. She was lightly damaged several times by Russian ships, but the most serious damage was inflicted by a [[naval mine|mine]] in 1915, which kept her out of service for half of a year. The ship was mined and sunk in January 1918 during the [[Battle of Imbros (1918)|Battle of Imbros]], with the loss of the vast majority of her crew.
+
+==Description==
+{{main article|Magdeburg-class cruiser}}
+[[File:SMS Breslau.jpg|thumb|left|''Breslau'' in the [[Kaiser Wilhelm Canal]], passing underneath the Levensau High Bridge]]
+
+''Breslau'' was {{convert|138.7|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|13.5|m|abbr=on}} and a [[draft (hull)|draft]] of {{convert|4.4|m|abbr=on}} forward. She displaced {{convert|4570|t|abbr=on}} at full combat load.&lt;ref name=G108&gt;Gröner, p. 108&lt;/ref&gt; Her propulsion system consisted of two sets of [[AEG]]-Vulcan [[steam turbine]]s driving two {{convert|3.4|m|adj=on|sp=us}} propellers. They were designed to give {{convert|25000|shp|lk=in}}, but reached {{convert|33482|shp|abbr=on}} in service. These were powered by sixteen coal-fired Marine-type [[water-tube boiler]]s, although they were later altered to use [[fuel oil]] that was sprayed on the coal to increase its burn rate. These gave the ship a top speed of {{convert|27.5|kn}}. ''Breslau'' carried {{convert|1200|t|LT}} of coal, and an additional {{convert|106|t|LT}} of oil that gave her a range of approximately {{convert|5820|nmi|lk=in}} at {{convert|12|kn}}. ''Breslau'' had a crew of 18 officers and 336 enlisted men.&lt;ref name=G1078&gt;Gröner, pp. 107–108&lt;/ref&gt;{{#tag:ref|According to Hildebrand, Röhr &amp; Steinmetz, ''Breslau'' was built with only three funnels, with the fourth added after trials.&lt;ref name=HRS&gt;Hildebrand, Röhr &amp; Steinmetz, pp. 139–142&lt;/ref&gt; Gröner does not support this, with a line-drawing showing of the ship as built, with four funnels,&lt;ref name=G108/&gt; nor is it mentioned in Gardiner &amp; Gray.&lt;ref name=C159/&gt;|group=Note}}
+
+The ship was armed with twelve [[10.5 cm SK L/45 naval gun|{{convert|10.5|cm|in|2|abbr=on}} SK L/45 guns]] in single pedestal mounts. Two were placed side by side forward on the [[forecastle]], eight were located amidships, four on either side, and two were side by side aft.&lt;ref name=C159&gt;Gardiner &amp; Gray, p. 159&lt;/ref&gt; The guns had a maximum elevation of 30&amp;nbsp;degrees, which allowed them to engage targets out to {{convert|12700|m|abbr=on}}.&lt;ref&gt;Gardiner &amp; Gray, p. 140&lt;/ref&gt; They were supplied with 1,800 rounds of ammunition, for 150 shells per gun. By 1917, the 10.5&amp;nbsp;cm guns were replaced with eight [[15 cm SK L/45|{{convert|15|cm|in|2|abbr=on}} SK L/45 guns]], one fore and aft and three on each broadside. She was also equipped with a pair of {{convert|50|cm|abbr=on|1}} [[torpedo tube]]s with five [[torpedo]]es submerged in the hull on the [[broadside]]. She could also carry 120 [[naval mine|mines]]. The ship was protected by a waterline [[armored belt]] that was {{convert|60|mm|abbr=on}} thick amidships. The [[conning tower]] had {{convert|100|mm|abbr=on}} thick sides, and the deck was covered with up to 60&amp;nbsp;mm thick armor plate.&lt;ref name=G107/&gt;
+
+==Service history==
+[[File:Bundesarchiv Bild 134-B0305, Kleiner Kreuzer SMS &quot;Breslau&quot;.jpg|thumb|left|''Breslau'' at sea, [[circa|c.]] 1912–1914]]
+''Breslau'' was ordered under the contract name &quot;''[[Ersatz]]'' {{SMS|Falke||2}}&quot; and was laid down at the [[AG Vulcan]] shipyard in [[Stettin]] in 1910.&lt;ref name=G107&gt;Gröner, p. 107&lt;/ref&gt; At her launching ceremony on 16 May 1911, she was christened by the mayor of [[Breslau]], the ship's namesake.&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, p. 139&lt;/ref&gt; After her launching, [[fitting-out]] work commenced and lasted until mid-1912. She was commissioned into the [[High Seas Fleet]] on 20 August 1912.&lt;ref name=G107/&gt; Following her commissioning, ''Breslau'' was attached to the German [[Mediterranean Division|''Mittelmeerdivision'']] (Mediterranean Division) along with the [[battlecruiser]] {{SMS|Goeben||2}} under the command of [[Admiral]] [[Wilhelm Souchon]]. The German Navy decided it needed a permanent naval presence in the Mediterranean in the aftermath of the [[Balkan Wars]] that began in 1912.&lt;ref&gt;Halpern, p. 15&lt;/ref&gt; [[Karl Dönitz]], the future [[Grand Admiral]] during [[World War II]], served aboard ''Breslau'' from 1912 to 1916.&lt;ref&gt;Zabecki, p. 7&lt;/ref&gt; 
+
+At the outbreak of [[World War I]], ''Breslau'' and ''Goeben'' were to interdict French transports transferring troops from [[Algeria]] to [[France]]. On 3 August 1914, Souchon's two ships were steaming off Algeria; shortly after 06:00, ''Breslau'' bombarded the embarkation port of [[Bône]] while ''Goeben'' attacked [[Skikda|Philippeville]].&lt;ref name=h512/&gt; The attacks caused minimal damage, however, and Souchon quickly broke off and returned to [[Messina]] to replenish his coal stocks.&lt;ref name=h512&gt;Halpern, pp. 51–52&lt;/ref&gt; Although the British were not yet at war with Germany, the two British battlecruisers {{HMS|Indomitable|1907|6}} and {{HMS|Indefatigable|1909|2}} shadowed the German ships while en route to Messina. After partially replenishing ''Goeben''{{'}}s coal on the 5th, Souchon arranged to meet a [[Collier (ship)|collier]] in the Aegean.&lt;ref&gt;Halpern, p. 52&lt;/ref&gt; ''Goeben'' and ''Breslau'' left port the following morning bound for [[Constantinople]], [[pursuit of Goeben and Breslau|pursued by the British]] [[British Mediterranean Fleet|Mediterranean Fleet]].&lt;ref&gt;Bennett, pp. 33–34&lt;/ref&gt; That evening, the [[1st Cruiser Squadron]], commanded by Rear Admiral [[Ernest Troubridge]], intercepted the Germans; ''Breslau'' briefly exchanged fire with the light cruiser {{HMS|Gloucester|1909|2}} before Troubridge broke off the attack, fearing ''Goeben''{{'}}s powerful {{convert|28|cm|abbr=on}} guns.&lt;ref name=H56&gt;Halpern, p. 56&lt;/ref&gt;
+
+On 8 August, ''Goeben'' and ''Breslau'' met the collier off the island of Donoussa near [[Naxos Island|Naxos]], and two days later they entered the [[Dardanelles]].&lt;ref name=H56/&gt; To circumvent neutrality requirements, Germany transferred the two ships to the [[Ottoman Navy]] on 16 August, though the supposed sale was simply a ruse. On 23 September, Souchon accepted an offer to command the Turkish fleet. ''Breslau'' was renamed ''Midilli'' while ''Goeben'' was renamed ''Yavûz Sultân Selîm''; their German crews remained with the ships and donned Ottoman uniforms and [[Fez (hat)|fezzes]].&lt;ref&gt;Halpern, pp. 57–58&lt;/ref&gt; The British did not accept the sale of the ships to the Ottoman Empire and stationed a blockading force outside the Dardanelles with orders to attack the ships if they appeared, regardless of the flag they flew.&lt;ref name=H63&gt;Halpern, p. 63&lt;/ref&gt;
+
+===Ottoman service===
+[[File:Bundesarchiv Bild 134-B3821, Türkei, Kreuzer Breslau.jpg|thumb|''Breslau'', flying the Turkish flag as ''Midilli'']]
+
+On the evening of 27 October, ''Midilli'' and the rest of the Ottoman fleet left the [[Bosporus]] and steamed into the [[Black Sea]], ostensibly to conduct maneuvers. Instead, the fleet split into four groups to attack Russian bases on the other side of the Black Sea; ''Midilli'' and another cruiser were tasked with mining the [[Strait of Kerch]] and then attacking the port of [[Novorossisk]].&lt;ref name=H63/&gt; ''Midilli'' laid sixty mines in the Strait,&lt;ref name=lg45/&gt; which later claimed two Russian merchant ships,&lt;ref&gt;Nekrasov, p. 25&lt;/ref&gt; and then joined the other ship in bombarding Novorossisk. They set the port's oil tanks on fire, damaged seven merchant ships, and sank ''Nikolai'' of {{GRT|1,085|disp=long}}.&lt;ref name=lg45&gt;Langensiepen &amp; Güleryüz, p. 45&lt;/ref&gt; Although the damage inflicted on the Russians was relatively light, it forced the Russians to declare war on the Ottoman Empire, bringing the country into the war on the side of Germany.&lt;ref&gt;Halpern, p. 64&lt;/ref&gt;
+
+In early November 1914, while ''Midilli'' was operating in the eastern Black Sea and covering Ottoman transports, she was detached to shell the Russian port of [[Poti]] in retaliation for Russian attacks on Turkish shipping.&lt;ref&gt;Halpern, p. 224&lt;/ref&gt; On 17 November, she sortied with ''Yavûz Sultân Selîm'', under the command of Souchon, in an attempt to intercept the [[Black Sea Fleet]] as it returned from bombarding [[Trabzon|Trebizond]]. ''Midilli'' discovered the Russian ships off [[Cape Sarych]], the southern tip of the [[Crimea]] in poor visibility at short range. In the [[Battle of Cape Sarych|resulting engagement]], Souchon ordered ''Midilli'' to assume a safer position to ''Yavûz''{{'}}s rear, but she was engaged by the pre-dreadnoughts {{ship|Russian battleship|Tri Sviatitelia||2}} and {{ship|Russian battleship|Rostislav||2}} without effect before Souchon ordered the Turkish ships to disengage shortly afterward.&lt;ref&gt;McLaughlin, pp. 123–133&lt;/ref&gt; The cruiser spent the rest of the month escorting shipping to Trebizond. On 5 December, she escorted a small raiding party to [[Bilhorod-Dnistrovskyi|Akkerman]], [[Bessarabia]], that was intended to attack railroad installations. On the return voyage, ''Midilli'' bombarded [[Sevastopol]], damaging some [[minesweeper (ship)|minesweeper]]s at anchor.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 46&lt;/ref&gt;
+
+A month later, on 23 December, ''Midilli'' sortied to rendezvous with ''Yavûz Sultân Selîm'' off [[Sinop, Turkey|Sinope]], and in the darkness the following morning she encountered the Russian transport ''Oleg'', which was intended to be sunk as a blockship in [[Zonguldak]]. ''Midilli'' quickly sank ''Oleg'' but was forced to turn away after spotting ''Rostislav''. She then encountered another blockship, ''Athos'', and forced her crew to [[Scuttling|scuttle]] the ship. She then briefly engaged Russian [[destroyer]]s before moving ahead of the Russian fleet to monitor their progress. Ottoman coastal guns forced the remaining blockships to scuttle in deep water.&lt;ref&gt;Halpern, p. 228&lt;/ref&gt; ''Midilli'' conducted a series of sorties against the Russians in early 1915, including an operation in concert with the cruiser {{ship|Ottoman cruiser|Hamidiye||2}} in January, during which they inadvertently came into contact with the Black Sea Fleet. ''Midilli'' scored a hit on the battleship {{ship|Russian battleship|Evstafi||2}}{{'}}s main battery turret before the Ottoman ships withdrew.&lt;ref&gt;Halpern, pp. 228–229&lt;/ref&gt;
+
+On 3 April, the Ottoman fleet sortied to attack Russian transports off [[Odessa]]. ''Midilli'' and ''Yavûz Sultân Selîm'' provided the covering force for the attack, which failed after the cruiser {{ship|Ottoman cruiser|Mecidiye||2}} struck a mine and sank off Odessa. The Russian fleet attempted to intercept the Turkish force, but ''Midilli'' and ''Yavûz Sultân Selîm'' were able to escape undamaged. The two ships, joined by ''Hamidiye'', conducted a sweep to attack Russian transports on 6 May, but found no targets.&lt;ref&gt;Halpern, p. 231&lt;/ref&gt; Later that month, detachments of naval infantry from ''Midilli'' and ''Yavûz Sultân Selîm'' were landed to assist in the defense against the [[Gallipoli Campaign|Allied landings at Gallipoli]].&lt;ref&gt;Herwig, p. 171&lt;/ref&gt; On the night of 10/11 June, ''Midilli'' encountered the Russian destroyers {{ship|Russian destroyer|Derzki||2}} and {{ship|Russian destroyer|Gnevny||2}} off [[Zonguldak]]. In a brief firefight, the cruiser crippled ''Gnevny'' with a hit in her starboard engine compartment that broke the main steam line to the engines, but was forced to turn away when ''Gnevny'' fired five torpedoes at her. ''Midilli'' was hit seven times herself with only slight damage and ''Gnevny'' was towed back to Sevastopol the following day by ''Derzki''.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 48&lt;/ref&gt;&lt;ref&gt;Nekrasov, pp. 59–60&lt;/ref&gt;
+
+[[File:Bundesarchiv Bild 134-B2109, Kreuzer Breslau, Landungskorps.jpg|thumb|left|Sailors from ''Midilli'' during the Gallipoli campaign]]
+''Midilli'' struck a [[naval mine|mine]] on 18 July as she sailed from [[Constantinople]] to escort a merchant ship through the minefields defending the capital. The explosion under No. 4 [[boiler room (ship)|boiler room]] killed eight crewmen and she was flooded with over {{convert|600|t|LT|abbr=on}} of water. The ship made it to port at [[İstinye]] and an inspection revealed that she was not badly damaged. Hampered by a shortage of trained personnel and material, however, the ship's repairs took quite a long time.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 49&lt;/ref&gt; The ship did not return to service until February 1916, and the opportunity was taken to replace two of her 10.5&amp;nbsp;cm guns with 15&amp;nbsp;cm pieces. On 27 February, she was used to quickly transport 71 officers and men of a machine-gun company and a significant stock of supplies and munitions to Trebizond, which was then under heavy pressure from the Russian army. While en route on the night of the 28th, she encountered the Russian destroyers {{ship|Russian destroyer|Pronzitelni||2}} and {{ship|Russian destroyer|Bespokoiny||2}}. ''Midilli'' evaded the Russians and reached Trebizond. On 2 March, she attempted to attack a pair of destroyers north of Zonguldak, but she was unable to catch them. The ship then returned to the Bosporus. On 11 March, ''Midilli'' made another run, this time carrying 211 soldiers and twelve barrels of fuel and lubricating oil, which were successfully landed on the 13th. She then stopped in [[Samsun]], where she picked up {{convert|30|MT|abbr=on}} of flour, one ton of maize, and 30&amp;nbsp;tons of coal, before returning to the Bosporus.&lt;ref&gt;Halpern, pp. 241–242&lt;/ref&gt;{{#tag:ref|Halpern is probably using German sources for this period, but the Turkish sources used by Langensiepen &amp; Güleryüz provide a slightly different account. They refer to carrying troops to Trebizond and oil to Sinope on 27 February with no mention of any encounter with Russian destroyers. Furthermore, &quot;A planned expedition along the Caucasus coast by ''Midilli'' is abandoned due to bad weather and the cruiser returns to base on 2 March.&quot;&lt;ref name=lg50&gt;Langensiepen &amp; Güleryüz, p. 50&lt;/ref&gt;|group=Note}}
+
+A third supply operation followed on 3 April, when the ship brought 107 men, 5,000&amp;nbsp;rifles, and 794&amp;nbsp;cases of ammunition to Trebizond. After making the delivery, the ship met the [[U-boat]] {{SMU|U-33|Germany|2}} and proceeded to attack Russian forces. ''Midilli'' shelled Russian positions at [[Sürmene Bay]], where she set the minesweeper ''T.233'' on fire, which was then destroyed by ''U-33''{{'}}s deck gun. ''Midilli'' then turned north and sank a Russian sailing vessel off [[Tuapse]] before running into the powerful [[dreadnought battleship]] {{ship|Russian battleship|Imperatritsa Ekaterina Velikaya||2}}. ''Midilli'' fled at high speed after being [[:wikt:straddle|straddled]] several times, though she was not damaged.&lt;ref&gt;Halpern, pp. 242–243&lt;/ref&gt;{{#tag:ref|Langensiepen &amp; Güleryüz also give a different account of this affair. They date the resupply mission to 18 April and that ''T.233'' was heavily damaged, but survived. ''Midilli'' then sank the sailing ship ''Nikolay'' by herself. She encountered the Russian dreadnought on 19 April while returning from this mission.&lt;ref name=lg50/&gt;|group=Note}} In early May, the cruiser laid two [[minefield]]s, each of 60 mines. The first of these was laid off the [[Chilia branch]] of the [[Danube River]] and the other off [[Cape Tarkhankut]] in the Crimea. On the second trip she bombarded [[Eupatoria]] after laying her mines. ''Midilli'' transported more troops to Sinope and Samsun on 30 May, returning with grain and tobacco as deck cargo.&lt;ref name=lg50/&gt;
+
+In July, ''Midilli'' and ''Yavûz Sultân Selîm'' sortied to support the Ottoman counterattack at Trebizond, which broke the Russian lines and advanced some {{convert|20|km|abbr=on}}. ''Midilli'' sank a pair of Russian ships off [[Sochi]] on 4 July and destroyed another that had been torpedoed the previous day. She then rejoined ''Yavûz Sultân Selîm'' for the return to the Bosporus, during which the two ships evaded strong Russian forces attempting to intercept them.&lt;ref&gt;Halpern, p. 245&lt;/ref&gt; Later that month, on 21 July, ''Midilli'' attempted to lay a minefield off Novorossisk, but Russian wireless interception allowed the dreadnought {{ship|Russian battleship|Imperatritsa Mariya||2}} and several destroyers to leave port and attempt to cut ''Midilli'' off from the Bosporus. The two ships encountered each other at 13:05, and ''Midilli'' quickly turned back south. Her stern 15&amp;nbsp;cm gun kept Russian destroyers at bay, but the ship only slowly drew out of range of ''Imperatritsa Mariya''{{'}}s heavy guns. Several near misses rained shell splinters on the deck and wounded several men. Heavy use of smoke screens and a rain squall allowed ''Midilli'' to break contact with her Russian pursuers, and she reached the Bosporus early the following morning.&lt;ref&gt;Halpern, p. 246&lt;/ref&gt; By the end of 1916, a severe coal shortage prevented ''Midilli'' and ''Yavûz Sultân Selîm'' from conducting offensive operations.&lt;ref&gt;Halpern, p. 248&lt;/ref&gt;
+
+In May 1917, ''Midilli'' laid a minefield off the mouth of the [[Danube]]; while there, she destroyed the wireless station on [[Fidonisi Island]] and captured 11 prisoners. The minefield she laid later sank the destroyer {{ship|Russian destroyer|Leytenant Zatsarenni||2}} on 30 June. While ''Midilli'' was at sea, a Russian force raided the Bosporus, including ''Imperatritsa Ekaterina Velikaya'', which had by then been renamed {{ship|Russian battleship|Svobodnaya Rossiya||2}}. Upon returning to port, ''Midilli'' was spotted by the Russian fleet, which attempted to cut her off from the safety of the Bosporus. ''Midilli'' raced toward port, while salvos from ''Svobodnaya Rossiya'' fell around her. The destroyer ''Gnevny'' closed to attack, but ''Midilli''{{'}}s 15&amp;nbsp;cm guns drove her off. The cruiser managed to reach port without damage; this was the last engagement of the war between the former German warships and the Russian fleet.&lt;ref&gt;Halpern, p. 253&lt;/ref&gt;{{#tag:ref|Langensiepen &amp; Güleryüz date the minelaying to 23 June and the encounter with ''Svobodnaya Rossiya'' to 25 June.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 52&lt;/ref&gt;|group=Note}} On 1 November, ''Midilli'' left the Bosporus to conduct a sweep for Russian warships. The Russians observed the departure and attempted to attack the cruiser with ''Svobodnaya Rossiya'' and the new battleship {{ship|Russian battleship|Volya||2}}, but mutiny aboard ''Svobodnaya Rossiya'' prevented the force from intercepting ''Midilli'' before she slipped back into port that night.&lt;ref&gt;Halpern, p. 254&lt;/ref&gt;{{#tag:ref|Langensiepen &amp; Güleryüz only describe an unsuccessful search for a pair of Russian destroyers that had destroyed a Turkish convoy on 31 October and make no mention of an attempted Russian interception.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 53&lt;/ref&gt;|group=Note}}
+
+===Battle of Imbros===
+{{Location map|Greece|label=|marksize=6|mark=Red_pog.svg|lat_dir=N|lat_deg=40|lat_min=3 |lat_sec=42|lon_dir=E|lon_deg=25|lon_min=58|lon_sec=42|position=right|width=177|float=right|caption=Wreck location}}
+On 20 January 1918, ''Midilli'' and ''Yavûz Sultân Selîm'' left the Dardanelles under the command of Vice Admiral [[Hubert von Rebeur-Paschwitz]], who had replaced Souchon the previous September. Rebeur-Paschwitz's intention was to draw Allied naval forces away from Palestine in support of Turkish forces there.&lt;ref name=H255&gt;Halpern, p. 255&lt;/ref&gt; Outside the straits, in the course of what became known as the [[Battle of Imbros (1918)|Battle of Imbros]], the two Ottoman ships surprised and sank the [[Monitor (warship)|monitors]] {{HMS|Raglan||2}} and {{HMS|M28||2}} which were at anchor and unsupported by the pre-dreadnoughts that should have been guarding them. Rebeur-Paschwitz then decided to proceed to the port of [[Mudros]]; there the British pre-dreadnought battleship {{HMS|Agamemnon|1906|2}} was raising steam to attack the Turkish ships.&lt;ref&gt;Buxton, pp. 36–37&lt;/ref&gt; While en route, ''Midilli'' struck a total of five mines and sank;&lt;ref&gt;Meek, et al., p. 95&lt;/ref&gt; ''Yavûz'' hit three mines as well and was forced to beach to avoid sinking.&lt;ref&gt;Gardiner and Gray, p. 152&lt;/ref&gt; Three hundred and thirty of ''Midilli''{{'}}s crew were killed in her sinking,&lt;ref name=G107/&gt; 162 survivors were rescued by British destroyers.&lt;ref&gt;Langensiepen &amp; Güleryüz, p. 32&lt;/ref&gt; According to Hildebrand, Röhr and Steinmetz, only 133 men were rescued from the ship.&lt;ref name=HRS/&gt;
+
+==Notes==
+{{Reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|colwidth=20em}}
+
+==References==
+* {{cite book |last=Bennett|first=Geoffrey |authorlink=Geoffrey Bennett|title=Naval Battles of the First World War|year=2005|location=London|publisher=Pen &amp; Sword Military Classics|isbn=1-84415-300-2}}
+* {{cite book|last=Buxton|first=Ian|title=Big Gun Monitors: Design, Construction and Operations 1914–1945|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2008|edition=2nd, revised and expanded|isbn=978-1-59114-045-0}}
+* {{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+* {{cite book |last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|publisher=Naval Institute Press|isbn=0-87021-790-9|location=Annapolis, Maryland}}
+* {{cite book |last=Halpern|first=Paul G.|title=A Naval History of World War I|year=1995|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=1-55750-352-4}}
+* {{cite book |last=Herwig|first=Holger|title=&quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918 |year=1980|location=Amherst, New York|publisher=Humanity Books|isbn=978-1-57392-286-9}}
+* {{cite book |last1=Hildebrand|first1=Hans H.|last2=Röhr|first2=Albert|last3=Steinmetz|first3=Hans-Otto|title=Die Deutschen Kriegsschiffe|volume=2|year=1993|location=[[Ratingen]]|publisher=Mundus Verlag|asin=B003VHSRKE |asin-tld=de|oclc=}}
+* {{cite book|last1=Langensiepen|first1=Bernd|last2=Güleryüz|first2=Ahmet|title=The Ottoman Steam Navy 1828–1923|year=1995|publisher=Conway Maritime Press|location=London|isbn=0-85177-610-8}}
+* {{cite book|last=McLaughlin|first=Stephen|editor=Preston, Antony|title=Warship 2001–2002|year=2001|publisher=Conway Maritime Press|location=London|isbn=0-85177-901-8|pages=117–40|chapter=Predreadnoughts vs a Dreadnought: The Action off Cape Sarych, 18 November 1914}}
+* {{cite journal |last=Hownam-Meek |first=R. S. S. |year=2000 |title=Question 3/99: The Loss of the German Light Cruiser Breslau |journal=Warship International |publisher=International Naval Research Organization |location=Toledo, Ohio |volume=XXXVII |issue=1 |pages=92–95 |issn=0043-0374|display-authors=etal}}
+* {{cite book|last=Nekrasov|first=George|title=North of Gallipoli: The Black Sea Fleet at War 1914–1917|series=East European monographs|volume=CCCXLIII|year=1992|publisher=East European Monographs|location=Boulder, Colorado|isbn=0-88033-240-9}}
+* {{cite book |last=Zabecki|first=David T.|title=Dönitz, A Defense|year=1995|location=Bennington, Vermont|publisher=World War II Historical Society|isbn=1-57638-042-4}}
+
+==External links==
+* {{Commons-inline|SMS Breslau|SMS ''Breslau''}}
+
+{{Magdeburg-class light cruisers}}
+{{January 1918 shipwrecks}}
+{{Authority control}}
+
+{{Good article}}
+{{Coord|40|3|42|N|25|58|42|E|display=title}}
+
+{{DEFAULTSORT:Breslau}}
+[[Category:Magdeburg-class cruisers]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:1911 ships]]
+[[Category:World War I cruisers of Germany]]
+[[Category:Magdeburg-class cruisers of the Ottoman Navy|Midilli]]
+[[Category:World War I cruisers of the Ottoman Empire]]
+[[Category:Ships sunk by mines]]
+[[Category:Maritime incidents in 1918]]
+[[Category:World War I shipwrecks in the Aegean Sea]]</text>
+      <sha1>i26vv4cqkzkn80nvvj4g3ifejyr7h2g</sha1>
+    </revision>
+  </page>
+</mediawiki>

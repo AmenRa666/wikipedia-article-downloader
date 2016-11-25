@@ -1,0 +1,265 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SM U-16 (Austria-Hungary)</title>
+    <ns>0</ns>
+    <id>20147006</id>
+    <revision>
+      <id>740411405</id>
+      <parentid>722524298</parentid>
+      <timestamp>2016-09-20T22:22:16Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* Bibliography */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16070">{|{{Infobox ship begin}}
+&lt;!-- {{Infobox ship image
+|Ship image=[[File:No Photo Available.svg|300px|AlternateTextHere]]
+|Ship caption=
+}} --&gt;
+{{Infobox ship career
+|Hide header=
+|Ship country=Austria-Hungary
+|Ship flag={{Shipboxflag|Austria-Hungary|naval}}
+|Ship name=SM ''U-16''
+|Ship ordered=1 April 1915&lt;ref name=Con-343 /&gt;
+|Ship builder=[[AG Weser]], [[Bremen]]&lt;ref name=Con-343&gt;Gardiner, p. 343.&lt;/ref&gt;
+|Ship original cost=
+|Ship yard number=233&lt;ref name=BS&gt;Baumgartner and Sieche, as excerpted [http://www.gwpda.org/naval/ahsubs.htm here] (reprinted and translated into English by Sieche). Retrieved 17 November 2008.&lt;/ref&gt;&lt;ref name=Miramar&gt;{{csr|register=MSI|id=6104942|shipname=U-16 |accessdate=}}&lt;/ref&gt;
+|Ship laid down=April 1915&lt;ref name=Miramar /&gt;
+|Ship launched=31 August 1915&lt;ref name=Tengeral /&gt;
+|Ship completed=30 September 1915&lt;ref name=Tengeral /&gt;
+|Ship commissioned=6 October 1915&lt;ref name=KUK-U-16&gt;{{cite Uboat.net
+|name=KUK U16
+|id=KUK+U16
+|type=1sub
+|accessdate=6 November 2008
+}}&lt;/ref&gt;
+|Ship fate=sunk, 17 October 1916&lt;ref name=Grant&gt;Grant, p. 163.&lt;/ref&gt;
+}}
+{{Infobox service record
+|is_ship=yes
+|is_multi=yes
+|commanders=
+* Eugen Hornyák Edler von Horn (October – November 1915)&lt;ref name=KUK-U-16/&gt;
+* Orest Ritter von Zopa (November 1915 – October 1916)
+|victories=*2 ships ({{GRT|355}}) sunk
+*1 ship ({{GRT|62}}) captured&lt;ref name=KUK-U-16 /&gt;
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type={{sclass|U-10|submarine|1}}
+|Ship displacement=*{{convert|127|t|LT}} surfaced
+*{{convert|141|t|LT}} submerged
+|Ship length=*{{convert|28.10|m|ftin|abbr=on}} ([[o/a]])
+*{{convert|23.62|m|ftin|abbr=on}} [[pressure hull]]
+|Ship beam={{convert|3.15|m|ftin|abbr=on}}
+|Ship draught={{convert|3.03|m|ftin|abbr=on}}
+|Ship propulsion=*1 × shaft
+*1 × [[Daimler-Motoren-Gesellschaft|Daimler]] [[diesel engine]], {{convert|60|bhp|abbr=on}}
+*1 × [[electric motor]], {{convert|120|shp|abbr=on}}
+|Ship speed=*{{convert|6.5|kn}} surfaced
+*{{convert|5.5|kn}} submerged&lt;ref name=Con-343 /&gt;
+|Ship range=*{{convert|1500|nmi|abbr=on|lk=in}} at {{convert|5|kn|abbr=on}} surfaced
+*{{convert|45|nmi|abbr=on}} at {{convert|4|kn|abbr=on}} submerged&lt;ref name=Con-UBI&gt;Gardiner, p. 180.&lt;/ref&gt;
+|Ship test depth={{convert|50|m|ft|abbr=on}}&lt;ref name=Mess-137&gt;Messimer, p. 137.&lt;/ref&gt;
+|Ship complement=17&lt;ref name=Con-343 /&gt;
+|Ship armament=2 × {{convert|45|cm|in|1|abbr=on}} [[torpedo tube]]s (both in front)
+*2 [[torpedo]]es&lt;ref name=Con-343 /&gt;
+}}
+|}
+
+'''SM ''U-16''''' or '''''U-XVI''''' was a {{sclass|U-10|submarine}} or [[U-boat]] of the [[Austro-Hungarian Navy]] ({{lang-de|Kaiserliche und Königliche Kriegsmarine ''or'' K.u. K. Kriegsmarine}}) during [[World War I]]. ''U-16'' was constructed in Germany and shipped by rail to [[Pula]] where she was assembled and completed in September 1915. She was [[ship commissioning|commissioned]] in October 1915.
+
+For most of her career, ''U-16'' operated in the [[Adriatic]] out of [[Kotor]] patrolling off the [[Albania]]n coast. The U-boat sank one small sailing ship in November and seized another in December. ''U-16'' carried Field Marshal [[Svetozar Borojević]] of the [[Austro-Hungarian Army]] as an observer while performing diving tests after engine repairs in January 1916. A water leak in March flooded ''U-16''{{'}}s batteries and put the U-boat out of action for about six weeks of repairs. While operating off [[Vlorë]] in mid-October 1916, ''U-16'' sank an Italian [[destroyer]] acting as a convoy escort. ''U-16'' was sunk in the ensuing action, but sources are not clear on the exact cause of her sinking. In all ''U-16'' sank three ships with a combined tonnage of 711. She was the only ''U-10''-class submarine sunk during the war.
+
+== Design and construction ==
+''U-16'' was a small, coastal submarine that displaced {{convert|125.5|LT|t}} surfaced and {{convert|140.25|LT|t}} submerged. She featured a single shaft, a single {{convert|60|bhp|abbr=on}} [[Daimler-Motoren-Gesellschaft|Daimler]] [[diesel engine]] for surface running, and a single {{convert|120|shp|abbr=on}} electric motor for submerged travel.&lt;ref name=Con-343 /&gt; ''U-16'' was capable of up to {{convert|6.5|kn}} while surfaced and {{convert|5.5|kn}} while submerged at a diving depth of up to {{convert|50|m|ft}}. She was designed for a crew of 17 officers and men.&lt;ref name=Con-343 /&gt;
+
+''U-16'' was equipped with two {{convert|45|cm|in|1|abbr=on}} [[torpedo tube]]s located in the front and carried a complement of two [[torpedo]]es. Although most members of the class were outfitted with a 37&amp;nbsp;mm/23 (1.5&amp;nbsp;in) [[Quick-firing gun|quick-firing]] (QF) gun to supplement their armament in October 1916, it is not known whether this upgrade had yet taken place on ''U-16'' by the time of her sinking during that month.&lt;ref name=Con-343 /&gt;
+
+''U-16'' was ordered by the Austro-Hungarian Navy on 1 April 1915 and [[keel laying|laid down]] at [[AG Weser]] in [[Bremen]] on later in the month.&lt;!-- order date --&gt;&lt;ref name=Con-343 /&gt;&lt;ref name=Miramar /&gt;&lt;!-- keel date --&gt; When completed, the submarine was broken down into sections, loaded onto railcars, and shipped on 20 August to the Austro-Hungarian Navy's main base at [[Pula]].&lt;!-- procedure --&gt;&lt;ref name=Con-343 /&gt;&lt;ref name=Tengeral&gt;{{cite web | title = Tengeralattjárók | url = http://www.kriegsmarine.hu/hk/tengeralattjarok.pdf | format = pdf | language = Hungarian | publisher = Imperial and Royal Navy Association | pages = 12, 16 | accessdate = 22 January 2009
+}}&lt;/ref&gt;&lt;!-- date of shipment --&gt; After completing the eight-day journey,&lt;ref name=Tengeral /&gt; the sections were riveted together.&lt;ref name=Con-343 /&gt; Though there is no specific mention of how long it took for ''U-16''{{'}}s sections to be assembled, a sister boat, the German [[German Type UB I submarine|Type UB I submarine]] {{SMU|UB-3||2}}, shipped to Pula from Germany in mid-April 1915, was assembled in about two weeks.&lt;ref&gt;Messimer, p. 126–27.&lt;/ref&gt;&lt;ref group=Note&gt;The Austro-Hungarian {{sclass|U-10|submarine|4}} and the German [[German Type UB I submarine|Type UB I]] were virtually identical.&lt;/ref&gt; ''U-16'' was delivered to the Austro-Hungarian Navy on 29 September.&lt;ref name=Tengeral /&gt;
+
+== Operational history ==
+SM ''U-16'' was commissioned into the Austro-Hungarian Navy on 6 October under the command of ''[[Linienschiffsleutnant]]'' Eugen Hornyák Edler von Horn.&lt;ref name=KUK-U-16 /&gt;&lt;ref group=Note&gt;Two of ''U-16''{{'}}s sister ships, {{SMU|U-15|Austria-Hungary|6}} and {{SMU|U-17|Austria-Hungary|6}}, were commissioned the same day.&lt;/ref&gt; Over the next month ''U-16'' patrolled off [[Rimini]] and the [[Po River|Po estuary]] before heading to [[Kotor]].&lt;ref name=Tengeral /&gt; There, ''U-16''{{'}}s second commander, ''Linienschiffsleutnant'' Orest Ritter von Zopa, assumed command on 18 November.&lt;ref name=KUK-U-16 /&gt; The U-boat departed the next day to patrol off [[Albania]]. Near [[Cape Rodoni]], von Zopa stopped and boarded ''Fiore Albania'', an Albanian sailing ship. Finding nothing amiss, the commander sent ''Fiore Albania'' on her way. Three days later, von Zopa and ''U-16'' scored their first success, when they sank the {{GRT|25}} Italian sailing vessel ''Unione'' in the [[Gulf of Drin]].&lt;ref&gt;{{cite Uboat.net
+|name=Unione
+|id=6208
+|type=1ship
+|accessdate=10 November 2008
+}}&lt;/ref&gt; Later the same day, a torpedo attack on two cargo ships in the harbor at [[Shëngjin]] netted no results. With her supply of torpedoes expended, ''U-16'' returned to Kotor on 24 November.&lt;ref name=Tengeral /&gt;
+
+''U-16'' set out on her next patrol on 3 December, but had to return to fix a broken [[gyrocompass]], and was underway for Albania the next day. On 5 December, the sailboat ''Xephanie'' was stopped, searched, and allowed to proceed.&lt;ref name=Tengeral /&gt; Near the same location, ''U-16'' next encountered ''Fione Albania'' again. When stopped this time, the 62-ton ship had [[Montenegro|Montenegrin]] soldiers, weapons, and ammunition aboard. The vessel was seized as a [[prize (law)|prize]] and taken back to Kotor.&lt;ref name=Tengeral /&gt;&lt;ref&gt;{{cite Uboat.net
+|name=Fiore Albania
+|id=2182
+|type=1ship
+|accessdate=10 November 2008
+}}&lt;/ref&gt;&lt;ref group=Note&gt;The date is reported as either 5 or 7 December.&lt;/ref&gt; ''U-16'' attempted two more Albanian patrols at the end of December. The first, departing Kotor on 19 December, was cut short by severe weather that forced the submarine back to port. The next attempt, on 25 December, ended when ''U-16'' suffered engine problems. ''U-16'' sailed for Pula on 27 December for more extensive engine repairs at the naval base there.&lt;ref name=Tengeral /&gt;
+
+[[File:Boroevic.jpg|thumb|right|200x300px|Field Marshal [[Svetozar Borojević]] of the [[Austro-Hungarian Army]] rode on ''U-16'' during diving tests in January 1916.]]
+''U-16''{{'}}s repairs were complete by 9 January 1916 when the submarine departed Pula for diving tests with Field Marshal [[Svetozar Borojević]] of the [[Austro-Hungarian Army]] on board as an observer. With the tests apparently successful, ''U-16'' returned to Kotor on 18 January to resume Albanian patrols. Off [[Durrës]] on 4 February, von Zopa and ''U-16'' launched a torpedo attack on the steamer ''Assyria'' being escorted by the Italian destroyers {{ship|Italian destroyer|Animoso||2}} and {{ship|Italian destroyer|Garibaldino||2}}. The torpedo's aim was true, but it failed to detonate when it hit the ship. A few days later, a British [[Town class cruiser (1910)|''Falmouth''-class cruiser]] attacked the U-boat. On 11 March, a valve on ''U-16'' leaked and water flooded into the boat, inundating the batteries, which released [[chlorine gas]]. The U-boat made it back to Kotor and underwent repairs that kept the boat out of action until the end of April.&lt;ref name=Tengeral /&gt;
+
+From late April to early September, ''U-16'' patrolled the Adriatic between [[Vlorë]], [[Brindisi]], and the [[Straits of Otranto]]. Twice during this time ''U-16'' attacked French destroyers, but missed on both attempts. In mid June, von Zopa launched torpedoes against a cargo ship without result. ''U-16'' put in at Kotor on 3 September for a general overhaul that lasted for about a month.&lt;ref name=Tengeral /&gt; When the repairs were complete, ''U-16'' set out for another Albanian patrol on 9 October. The submarine made a detour to [[Djenovic]] on 11 October to replace another faulty gyrocompass,&lt;ref name=Tengeral /&gt; but quickly resumed her journey to the Vlorë area.&lt;ref name=nh-net&gt;{{cite web | last = Smith | first = Gordon | title = Austro-Hungarian Navy: Submarines | url = http://www.naval-history.net/WW1NavyAustrian.htm#ss | work = World War 1 at Sea | date = 15 September 2008 | accessdate = 10 November 2008
+}}&lt;/ref&gt; After discovering an Italian convoy on 17 October,&lt;ref name=nh-net /&gt; von Zopa torpedoed and sank one of the convoy escorts, the {{ship|Italian destroyer|Nembo||2|up=y}}.&lt;ref name=Grant /&gt; In the ensuing action, ''U-16'' was sunk, but sources disagree on the exact manner.
+
+''Conway's All the World's Fighting Ships, 1906–1921'' reports that the Italian steamer {{SS|Bormida||2}}, one of the convoyed ships, rammed and damaged ''U-16'', causing ''U-16''{{'}}s crew to [[Scuttling|scuttle]] their ship due to the severity of the damage.&lt;ref name=Con-343 /&gt;&lt;ref group=Note&gt;''Conway's'' (p. 343) reports the name of the ship as &quot;''Borminda''&quot;, which does not show up in ship registries. Rodger Haworth reports an Italian [[cargo ship]] by the name of &quot;''Bormida''&quot; active from 1884 to 1928, which agrees with one of the names given by Gordon Smith.&lt;br&gt;For Haworth, see: {{csr|register=MSI|id=5615289|shipname=Bormida|accessdate=10 November 2008 }}&lt;br&gt;For Smith, see: {{cite web | last = Smith | first = Gordon | title = Austro-Hungarian Navy: Submarines | url = http://www.naval-history.net/WW1NavyAustrian.htm#ss | work = World War 1 at Sea | date = 15 September 2008 | accessdate = 10 November 2008
+}}&lt;/ref&gt; Uboat.net's ''U-Boat War in World War I'' reports that ''Nembo'' herself rammed ''U-16'' before going down,&lt;ref name=Nembo&gt;{{cite Uboat.net
+|name=Nembo
+|id=4341
+|type=1ship
+|accessdate=10 November 2008
+}}&lt;/ref&gt; while Robert Grant and Gordon Smith give another possible fate for ''U-16'': that ''Nembo''{{'}}s depth charges detonated and sank the submarine while ''Nembo'' was sinking.&lt;ref name=Grant /&gt;&lt;ref name=nh-net /&gt; Smith reports that 11 men aboard ''U-16'', including her commanding officer von Zopa, lost their lives in the sinking, and that two survivors were picked up.&lt;ref name=nh-net /&gt; ''U-16'' was the only boat of her class to be sunk during the war.&lt;ref name=Con-343 /&gt;
+
+== Ships sunk or damaged ==
+{| class=&quot;wikitable sortable&quot;
+|+Ships sunk or damaged by SM ''U-16''&lt;ref name=U16-ships&gt;{{cite Uboat.net
+|name=KUK U16
+|id=KUK+U16
+|type=1boat
+|accessdate=18 February 2009
+}}&lt;/ref&gt;
+! Date
+! Name
+! Nationality
+! &lt;ref group=Note name=tonnage&gt;Merchant ship tonnages are in [[gross register tons]]. Military vessels are listed by tons [[displacement (ship)|displacement]]&lt;/ref&gt; Tonnage
+! Fate
+|-
+|align=&quot;right&quot;|{{dts|1915|November|23|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in November 1915#23 November|''Unione'']]
+|align=&quot;left&quot; |{{flag|Italy}}
+|align=&quot;right&quot;|25
+|align=&quot;left&quot; |Sunk
+|-
+|align=&quot;right&quot;|{{dts|1915|December|7|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in December 1915#7 December|''Fiore Albania'']]
+|align=&quot;left&quot; |{{flag|Albania}}
+|align=&quot;right&quot;|62
+|align=&quot;left&quot; |Captured as a prize
+|-
+|align=&quot;right&quot;|{{dts|1916|October|16|format=dmy}}
+|align=&quot;left&quot; |{{ship|Italian destroyer|Nembo||2}}
+|align=&quot;left&quot; |{{navy|Kingdom of Italy}}
+|align=&quot;right&quot;|330
+|align=&quot;left&quot; |Sunk
+|-class=&quot;sortbottom&quot; style=&quot;background: #f2f2f2&quot;
+|
+| align=&quot;right&quot;|'''Total:'''
+| '''717'''
+|
+|
+|}
+
+== Notes ==
+{{Reflist|group=Note}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+{{Refbegin}}
+* {{Cite book
+|last=Bendert
+|first=Harald
+|title=Die UB-Boote der Kaiserlichen Marine, 1914-1918. Einsätze, Erfolge, Schicksal
+|location=[[Hamburg]]
+|publisher=[[Verlag E.S. Mittler &amp; Sohn GmbH]]
+|year=2000
+|isbn=3-8132-0713-7
+|language=German
+|ref=harv
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+* {{cite book | last = Baumgartner | first = Lothar |author2=Erwin Sieche | title = Die Schiffe der k.(u.)k. Kriegsmarine im Bild = Austro-Hungarian warships in photographs | language = German | location = [[Vienna|Wien]] | publisher = Verlagsbuchhandlung Stöhr | year = 1999 | isbn = 978-3-901208-25-6 | oclc = 43596931 }}
+* {{cite book | last = Gardiner | first = Robert, ed. | title = Conway's All the world's fighting ships, 1906&amp;ndash;1921 | location = [[Annapolis, Maryland]] | publisher = [[Naval Institute Press]] | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 }}
+* {{cite book | last = Grant | first = Robert M. | title = U-boats Destroyed: The Effect of Anti-submarine Warfare, 1914–1918 | location = [[Penzance]] | publisher = Periscope | origyear = 1964 | year = 2002 | isbn = 978-1-904381-00-6 | oclc = 50215640 }}
+* {{cite book | last = Messimer | first = Dwight R. | title = Verschollen: World War I U-boat Losses | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2002 | isbn = 978-1-55750-475-3 | oclc = 231973419 }}
+{{Refend}}
+
+{{U-10 class submarines}}
+{{October 1916 shipwrecks}}
+{{Good article}}
+
+{{coord missing|Mediterranean}}
+
+{{DEFAULTSORT:U0016}}
+[[Category:U-10-class submarines]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:Ships built in Pola]]
+[[Category:1915 ships]]
+[[Category:U-boats commissioned in 1915]]
+[[Category:World War I submarines of Austria-Hungary]]
+[[Category:U-boats sunk in 1916]]
+[[Category:World War I shipwrecks in the Mediterranean]]</text>
+      <sha1>gb2kwcjrr6cfodsf9zyd800sq2xqmz3</sha1>
+    </revision>
+  </page>
+</mediawiki>

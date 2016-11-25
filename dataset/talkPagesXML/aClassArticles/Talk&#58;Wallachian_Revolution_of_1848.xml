@@ -1,0 +1,140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Wallachian Revolution of 1848</title>
+    <ns>1</ns>
+    <id>11646337</id>
+    <revision>
+      <id>726406304</id>
+      <parentid>718085073</parentid>
+      <timestamp>2016-06-22T00:02:49Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <comment>Adding/updating {{OnThisDay}} for 2016-06-21.  Errors? [[User:AnomieBOT/shutoff/OnThisDayTagger]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3715">{{Article history|action1=WAR
+|action1date=23:31, 19 October 2007
+|action1link=Wikipedia:WikiProject Military history/Assessment/Wallachian Revolution of 1848
+|action1result=approved
+|action1oldid=163641938
+
+|action2=FAC
+|action2date=23:20, 22 January 2008
+|action2link=Wikipedia:Featured article candidates/Wallachian Revolution of 1848/archive1
+|action2result=not promoted
+|action2oldid=185669728
+
+|action3=GAN
+|action3date=23:24, 27 February 2008
+|action3link=Wallachian Revolution of 1848#Good article review
+|action3result=listed
+|action3oldid=192275813
+
+|currentstatus=GA
+|topic=War
+}}
+{{On this day|date1=2013-06-21|oldid1=560804116|date2=2016-06-21|oldid2=726381914}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Romania|class=GA|importance=High}}
+{{WikiProject Russia|class=A|importance=Mid|hist=yes|mil=yes}}
+{{WikiProject Military history|class=A|A-Class=pass
+|B-Class-1=yes
+|B-Class-2=yes
+|B-Class-3=yes
+|B-Class-4=yes
+|B-Class-5=yes
+|Romanian-task-force=yes
+|Ottoman=yes
+|Russian=yes}}
+{{WikiProject Politics|class=GA|importance=low}}}}
+
+== Good article review ==
+
+#Is it '''reasonably well written'''?
+#:A. Prose quality: {{GAList/check|yes}} 
+#:: {{#if:||}}
+#:B. [[Wikipedia:Manual of Style|MoS]] compliance: {{GAList/check|yes}}
+#:: {{#if:||}}
+#Is it '''factually accurate''' and '''[[Wikipedia:Verifiability|verifiable]]'''?
+#:A. References to sources: {{GAList/check|yes}} 
+#:: {{#if:||}}
+#:B. Citation of reliable sources where necessary: {{GAList/check|yes}} 
+#:: {{#if:||}}
+#:C. [[Wikipedia:No original research|No original research]]: {{GAList/check|yes}}
+#:: {{#if:||}}
+#Is it '''broad in its coverage'''?
+#:A. Major aspects: {{GAList/check|yes}} 
+#:: {{#if:||}}
+#:B. Focused: {{GAList/check|yes}}
+#:: {{#if:||}}
+#Is it '''[[WP:NPOV|neutral]]'''?
+#:Fair representation without bias: {{GAList/check|yes}}
+#:: {{#if:||}}
+#Is it '''stable'''?
+#: No edit wars, etc: {{GAList/check|yes}}
+#:: {{#if:||}}
+#Does it '''contain [[Wikipedia:Images|images]]''' to illustrate the topic?
+#:A. Images are copyright tagged, and non-free images have [[Wikipedia:Image_description_page#Use_rationale|fair use rationales]]: {{GAList/check|yes}} 
+#:: {{#if:||}}
+#:B. Images are provided where possible and appropriate, with [[WP:CAP|suitable captions]]: {{GAList/check|yes}}
+#:: {{#if:||}}
+#'''Overall''': 
+#:Pass or Fail: {{GAList/check|yes}}
+#:: {{#if:||}}
+
+Hmm, military history. Something I've never really reviewed or looked at before. However, I must say it looks good and should be of Featured quality in a short time. By all means, try for Featured Article Candidates. This article does pass Good Article quality as it meets the requirements.&lt;FONT FACE=&quot;Bauhaus 93&quot; SIZE=&quot;-1&quot; COLOR=&quot;red&quot;&gt;&lt;sup&gt;[[User:Mitchazenia|Mitch]]&lt;/sup&gt;&lt;b&gt;[[User talk:Mitchazenia|32]]&lt;/b&gt;&lt;sup&gt;[[Special:Contributions/Mitchazenia|contribs]]&lt;/sup&gt;&lt;/FONT&gt; 23:24, 27 February 2008 (UTC)
+
+== Ethnic Cleansing by Avram Iancu and his forces ==
+
+Does anyone have english data about this?  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;—Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Edipqe|Edipqe]] ([[User talk:Edipqe|talk]] • [[Special:Contributions/Edipqe|contribs]]) 11:57, 16 March 2009 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I have already answered on another page, so please stay focused. I also see absolutely no sense in having this discussion here - neither the controversy nor the sources have any relevancy on this page. [[User:Dahn|Dahn]] ([[User talk:Dahn|talk]]) 12:03, 16 March 2009 (UTC)
+::I don't understand. Where do they have relevancy then, if not on this page? --[[Special:Contributions/131.188.3.21|131.188.3.21]] ([[User talk:131.188.3.21|talk]]) 18:07, 9 May 2009 (UTC)</text>
+      <sha1>ka1id5yn4a4u8c4gm8t072wuz6xn1za</sha1>
+    </revision>
+  </page>
+</mediawiki>

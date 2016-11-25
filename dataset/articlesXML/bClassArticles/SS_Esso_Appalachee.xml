@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Esso Appalachee</title>
+    <ns>0</ns>
+    <id>32193014</id>
+    <revision>
+      <id>733096430</id>
+      <parentid>718988897</parentid>
+      <timestamp>2016-08-05T10:15:18Z</timestamp>
+      <contributor>
+        <username>Pennsy22</username>
+        <id>5958044</id>
+      </contributor>
+      <comment>added url to ref</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27975">{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image               = 
+| Ship caption             = 
+}}
+{{Infobox ship career
+| Hide header              = 
+| Ship name                =*''Empire Dickens'' (1942-46)
+*''Esso Appalachee'' (1946-60)
+| Ship owner               =*Ministry of War Transport (1942-45)
+*Ministry of Transport (1945-46)
+*Anglo-American Oil Co. Ltd (1946-51)
+*Esso Petroleum Co Ltd (1951-60)
+| Ship operator            =*Davies &amp; Newman Ltd (1942-46)
+*Esso Transportation Co (1946-51)
+*Esso Petroleum Co Ltd (1951-60)
+| Ship registry            = {{flagicon|United Kingdom|civil}} Middlesbrough, United Kingdom
+| Ship route               = 
+| Ship ordered             = 
+| Ship builder             = Furness Shipbuilding Co Ltd
+| Ship original cost       = 
+| Ship yard number         = 341
+| Ship way number          = 
+| Ship laid down           = 21 April 1941
+| Ship launched            = 14 February 1942
+| Ship completed           = April 1942
+| Ship commissioned        = 
+| Ship decommissioned      = 
+| Ship christened          = 
+| Ship acquired            = 
+| Ship maiden voyage       = 14 April 1942
+| Ship in service          = 
+| Ship out of service      = 
+| Ship identification      =*United Kingdom Official Number 164853
+*Code Letters BDSG
+*{{ICS|Bravo}}{{ICS|Delta}}{{ICS|Sierra}}{{ICS|Golf}}
+| Ship fate                = Scrapped
+| Ship status              = 
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              = 
+| Header caption           = 
+| Ship class               = Tanker
+| Ship tonnage             =*{{GRT|9,819}}
+*{{NRT|5,790}}
+*14,852 [[deadweight tonnage|DWT]]
+| Ship displacement        = 
+| Ship length              = {{convert|483|ft|8|in|m|2|abbr=on}}
+| Ship beam                = {{convert|68|ft|3|in|m|2|abbr=on}}
+| Ship height              = 
+| Ship draught             = &lt;!--{{convert|xx.xx|m|ftin}}{{convert|xx|ft|x|in|m|2}}--&gt;
+| Ship depth               = &lt;!--{{convert|xx.xx|m|ftin}}{{convert|xx|ft|x|in|m|2}}--&gt;&lt;!--{{convert|xx.xx|m|ftin}}{{convert|xx|ft|x|in|m|2}}--&gt;
+| Ship decks               = 
+| Ship deck clearance      = 
+| Ship ramps               = 
+| Ship ice class           = 
+| Ship range               = 
+| Ship power               = &lt;!--{{convert|xxx|ihp|kW}}--&gt;
+| Ship propulsion          = Triple expansion steam engine
+| Ship speed               = {{convert|10.5|kn|km/h}}
+| Ship capacity            = {{convert|708554|cuft|m3|0}}
+| Ship crew                = 
+| Ship notes               = 
+| Ship armament            = 
+}}
+|}
+&lt;!--{{location map||width=303
+|lat=
+|long=-
+|caption=Location where ''xxxx'' was xxxx.
+}}--&gt;
+
+'''''Esso Appalachee''''' was a {{GRT|9,819}} [[tank ship|tanker]] that was built in 1942 as '''''Empire Dickens''''' by Furness Shipbuilding Co Ltd, [[Haverton Hill-on-Tees]], [[County Durham]], United Kingdom for the [[Ministry of War Transport]] (MoWT). In 1946 she was sold into merchant service and renamed ''Esso Appalachee'', she served until 1960 when she was scrapped.
+
+==Description==
+The ship was built in 1941 by Furness Shipbuilding Co Ltd, [[Haverton Hill-on-Tees]].&lt;ref name=Ships&gt;{{cite book |last1= Mitchell |first1=W.H. |last2=Sawyer |first2=L.A. |year=1995 |title=The Empire Ships |page=not cited |publisher= Lloyd's of London Press Ltd |location= London, New York, Hamburg, Hong Kong |isbn=1-85044-275-4}}&lt;/ref&gt; She was yard number 341.&lt;ref name=Tees&gt;{{cite web |url=http://www.teesbuiltships.co.uk/furness/19401969/empiredickens1942.htm |title=FURNESS SHIPBUILDING COMPANY LTD., HAVERTON HILL |publisher=Teesbuiltships |accessdate=22 June 2011}}&lt;/ref&gt;
+
+The ship was {{convert|483|ft|8|in|m|2}} long, with a beam of {{convert|68|ft|3|in|m|2}}. She had a depth of {{convert|36|ft|1|in|m|2}} and a draught of {{convert|28|ft|3|in|m|2}}.&lt;ref name=Dickens41&gt;{{cite web |url=http://www.plimsollshipdata.org/pdffile.php?name=41b0995.pdf |title=LLOYD'S REGISTER, NAVIRES A VAPEUR ET A MOTEURS |publisher=Plimsoll Ship Data |accessdate=15 July 2011}}&lt;/ref&gt; She was assessed at {{GRT|9,819}},&lt;ref name=Ships/&gt; {{NRT|5,790}}.&lt;ref name=ID/&gt; Her [[deadweight tonnage|DWT]] was 14,852. She had capacity for {{convert|708554|cuft|m3|0}} of liquid cargo.&lt;ref name=Benjidog&gt;{{cite web|url=http://www.benjidog.co.uk/allen/index_files/Page3734.htm |title=Esso Tankers A-D |publisher=Brian Watson |accessdate=24 June 2011}}&lt;/ref&gt;
+
+The ship was propelled by a 674 [[nominal horsepower|nhp]] [[triple expansion steam engine]], which had cylinders of {{convert|27|in|cm}}, {{convert|44|in|cm}} and {{convert|76|in|cm}} diameter by {{convert|51|in|cm}} stroke.&lt;ref name=Dickens41/&gt; The engine was built by Richardson Westgarth &amp; Co Ltd, [[West Hartlepool]].&lt;ref name=Tees/&gt; It drove a screw propeller and could propel the ship at {{convert|10.5|kn|km/h}}.&lt;ref name=Visser/&gt;
+
+==History==
+''Empire Dickens'' was built for the MoWT. Her keel was laid on 21 April 1941,&lt;ref name=Visser&gt;{{cite web |url=http://www.aukevisser.nl/uk/id152.htm |title=Esso Appalachee - (1946-1960) |publisher=Auke Visser |accessdate=22 June 2011}}&lt;/ref&gt; She was launched on 14 February 1942 and completed in April.&lt;ref name=Ships/&gt; The Official Number 164853 and [[Code Letters]] BDSG were allocated.&lt;ref name=ID&gt;{{cite web |url=http://convoyweb.org.uk/signal/index.html?search_all.php~signalmain |title=Signal Letters Database |publisher=Convoyweb |accessdate=22 June 2011}} (Enter BDSG or Empire Dickens in relevant search box)&lt;/ref&gt;
+
+===World War II===
+====1942====
+''Empire Dickens'' departed from [[Middlesbrough]] on her [[maiden voyage]] on 14 April 1942.&lt;ref name=Port&gt;{{cite web |url=http://convoyweb.org.uk/ports/index.html?search.php?vessel=EMPIRE%20DICKENS~armain |title=EMPIRE DICKENS |publisher=Convoyweb |accessdate=17 June 2011}}&lt;/ref&gt; She joined [[Convoy FN 681]], which had departed from [[Southend-on-Sea|Southend]], [[Essex]] the previous day and arrived at [[Methil]], [[Fife]] on 15 April 1942.&lt;ref name=FN681&gt;{{cite web |url=http://www.convoyweb.org.uk/fn/index.html?fn.php?convoy=0681!~fnmain |title=ConvoyFN.681 = Convoy FN.81 / Phase 7 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She then joined [[Convoy EN 72]], which departed two days later and arrived at [[Oban]], [[Argyllshire]] on 19 April. From Oban, ''Empire Dickens'' joined [[Convoy ON 89]], which had departed from [[Liverpool]], [[Lancashire]] on 23 April and arrived at [[New York City|New York]], United States on 5 May.&lt;ref name=ON89&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=89!~onzmain |title=Convoy ON.89 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; From New York, she sailed to the [[Hampton Roads]], [[Virginia]], departing on 17 May as a member of Convoy KS 501, which arrived at [[Key West, Florida]] on 23 May. She then sailed to [[Pensacola, Florida]], arriving two days later. ''Empire Dickens'' sailed from Pensacola on 27 May for [[Port Arthur, Texas|Port Arthur]], [[Texas]], arriving the next day. She departed on 31 May for Key West, arriving there on 5 June.&lt;ref name=Port/&gt; ''Empire Dickens'' was a member of [[Convoy KN 108]], which departed from Key West on 8 June 1942 and arrived at New York on 15 June.&lt;ref name=KN108&gt;{{cite web |url=http://www.convoyweb.org.uk/kn/index.html?kn.php?convoy=108!~knmain |title=Convoy KN.108 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at the Hampton Roads on 16 June, departing for New York on 21 June and arriving there the next day. She then sailed to [[Boston, Massachusetts]], from where she departed on 27 June for [[Halifax Regional Municipality|Halifax]], [[Nova Scotia]], Canada, arriving two days later.&lt;ref name=Port/&gt; ''Empire Dickens'' was a member of [[Convoy HX 197]], which departed from Halifax on 6 July and arrived at Liverpool on 17 July. She was carrying a cargo of [[petrol]].&lt;ref name=HX197&gt;{{cite web |url=http://www.warsailors.com/convoys/hx197.html |title=CONVOY HX 197 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at the [[Belfast Lough]] to join [[Convoy BB 199]], which arrived at [[Milford Haven]], [[Pembrokeshire]] on 18 July.&lt;ref name=BB109&gt;{{cite web |url=http://www.convoyweb.org.uk/bb/index.html?bb.php?convoy=199!~bbmain |title=Convoy BB.109 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Her destination was [[Swansea]], [[Glamorgan]], where she arrived the next day.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Swansea on 26 August for Milford Haven, from where she sailed on 27 August to join [[Convoy ON 125]], which departed from Liverpool on 28 August and arrived at New York on 12 September.&lt;ref name=ON125&gt;{{cite web |url=http://www.warsailors.com/convoys/on125.html |title=CONVOY ON 125 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She departed from New York on 20 September as a member of [[Convoy NG 307]], which arrived at [[Guantanamo Bay]], Cuba on 27 September.&lt;ref name=Port/&gt; She then joined [[Convoy GAT 9]], which departed that day and arrived at [[Trinidad]] on 3 October. ''Empire Dickens'' left the convoy at [[Curaçao]], [[Netherlands Antilles]],&lt;ref name=GAT9&gt;{{cite web |url=http://www.convoyweb.org.uk/gat/index.html?gat.php?convoy=9!~gatmain |title=Convoy GAT.9 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; where she arrived on 30 September. She departed on 5 October, joining Convoy TAG 10,&lt;ref name=Port/&gt; which had departed from Trinidad on 3 October and arrived at Guantanamo Bay on 8 October.&lt;ref name=TAG10&gt;{{cite web |url=http://www.convoyweb.org.uk/tag/index.html?tag.php?convoy=10!~tagmain |title=CONVOY TAG.10 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She departed on 10 October as a member of [[Convoy GN 11]], which arrived at New York on 16 October.&lt;ref name=Port/&gt; ''Empire Dickens'' was a member of [[Convoy HX 212]], which departed from New York on 18 October and arrived at Liverpool on 2 November. She was carrying petrol and bound for [[Avonmouth]], [[Somerset]],&lt;ref name=HX212&gt;{{cite web |url= http://convoyweb.org.uk/hx/index.html?hx.php?convoy=212!~hxmain |title=Convoy HX.212 |publisher=Convoyweb.org |accessdate=5 August 2016}}&lt;/ref&gt; which was reached by detaching from the convoy at the Belfast Lough on 1 November to join [[Convoy BB 232]].&lt;ref name=Port/&gt; That convoy departed on 2 November and arrived at Milford Haven the next day.&lt;ref name=BB232&gt;{{cite web |url=http://www.convoyweb.org.uk/bb/index.html?bb.php?convoy=232!~bbmain |title=Convoy BB 232 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Avonmouth was reached on 5 November.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Avonmouth on 22 November for Milford Haven, arriving the next day and departing the day after to join [[Convoy ON 149]],&lt;ref name=Port/&gt; which departed from Liverpool on 26 November and arrived at New York on 12 December.&lt;ref name=ON149&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=149!~onzmain |title=Convoy ON.149 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She then joined [[Convoy NK 514]], which departed on 16 December and arrived at [[Key West]] on 21 December. She departed that day for [[Houston, Texas]], arriving on 26 December.
+====1943====
+A return trip was made to [[Baytown, Texas|Baytown]] before ''Empire Dickens'' departed on 1 January 1943 for New York, which was reached on 9 January via Key West and [[Jacksonville, Florida]].&lt;ref name=Port/&gt; She departed on 14 January as a member of [[Convoy HX 223]], which arrived at Liverpool on 2 February.&lt;ref name=HX223&gt;{{cite web |url=http://www.warsailors.com/convoys/hx223.html |title=CONVOY HX 223 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at the Belfast Lough on 1 February.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Liverpool on 21 February as a member of [[Convoy ON 168]], which dispersed off [[Cape Cod]], Massachusetts on 12 March.&lt;ref name=ON168&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=168!~onzmain |title=Convoy ON 168  |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; her destination was New York, which was reached on 17 March.&lt;ref name=Port/&gt; Having loaded a cargo of petrol, she departed from New York on 25 March as a member of [[Convoy HX 231]], which arrived at Liverpool on 10 April.&lt;ref name=HX231&gt;{{cite web |url=http://www.convoyweb.org.uk/ports/index.html?home.php~armain |title=Convoy HX.231 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at the Belfast Lough on 10 April to join Convoy BB 278, which arrived at Milford Haven the next day.&lt;ref name=BB278&gt;{{cite web |url=http://www.convoyweb.org.uk/bb/index.html?bb.php?convoy=278!~bbmain |title=Convoy BB 278 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Her destination was Swansea, which was reached via Avonmouth on 16 April.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Swansea on 22 April for Milford Haven, from where she departed the next day to join [[Convoy ON 180]],&lt;ref name=Port/&gt; which departed from Liverpool on 24 April and arrived at New York on 14 May. She detached from the convoy and put into the Belfast Lough with defects,&lt;ref name=ON180&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=180!~onzmain |title=Convoy ON.180 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; arriving on 26 April and departing four days later to join Convoy ON 181,&lt;ref name=Port/&gt; which departed from Liverpool that day and arrived at New York on 18 May. Her destination was [[Philadelphia, Pennsylvania]],&lt;ref name=ON181&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=181!~onzmain |title=Convoy ON.181 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; where she arrived that day. ''Empire Dickens'' sailed for New York on 29 May, arriving that day and departing two days later as a member of [[Convoy HX 242]],&lt;ref name=Port/&gt; which arrived at Liverpool on 15 June. She was carrying a cargo of petrol bound for the [[Stanlow Refinery]], [[Ellesmere Port]], [[Cheshire]].&lt;ref name=HX242&gt;{{cite web |url=http://www.warsailors.com/convoys/hx242.html |title=CONVOY HX 242 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; ''Empire Dickens'' made another return trip to New York, departing on 24 June as a member of Convoy ON 190, which arrived on 8 July. She returned with [[Convoy HX 248]], which departed on 15 July and arrived at Liverpool on 29 July.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Liverpool on 31 July as a member of [[Convoy ON 195]], which arrived at New York on 13 August. She returned with defects,&lt;ref name=ON195&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=195!~onzmain |title=Convoy ON.195 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; arriving back at Liverpool the next day. Defects rectified, she joined [[Convoy ON 196]], which departed on 8 August and arrived at New York on 21 August.&lt;ref name=Port/&gt; She was a member of [[Convoy HX 252]], which departed from New York on 2 September and arrived at Liverpool on 16 September. She was carrying a cargo of [[avgas]] which was destined for [[Thameshaven]], Essex.&lt;ref name=HX255&gt;{{cite web |url=http://www.warsailors.com/convoys/hx255.html |title=CONVOY HX 255 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; ''Empire Dickens'' left the convoy at [[Loch Ewe]] on 15 September and reached Southend on 20 September via [[Convoy WN 480]] to Methil and [[Convoy FS 1224]].&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Southend on 13 October as a member of [[Convoy FN 1151]], which arrived at Methil two days later. She then joined [[Convoy EN 295]], which departed on 16 October and arrived at Loch Ewe on 18 October. She then joined [[Convoy ON 207]],&lt;ref name=Port/&gt; which had departed from Liverpool on 18 October and arrived at New York on 4 November.&lt;ref name=ON207&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=207!~onzmain |title=Convoy ON.207 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She departed from New York on 11 November for the Hampton Roads, arriving the next day.&lt;ref name=Port/&gt; ''Empire Dickens'' was a member of Convoy UGS 24, which departed on 14 November and arrived at [[Port Said]], Egypt on 12 December. Her destination was [[Bizerta]], Algeria,&lt;ref name=UGS24&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=24!~ugsmain |title=Convoy UGS.24 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; which was reached on 6 December. She sailed on 13 December to join Convoy GUS 24,&lt;ref name=Port/&gt; which had departed from Port Said on 6 December 1943, and arrived at the Hampton Roads on 3 January 1944.&lt;ref name=GUS24&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=24!~gusmain |title=Convoy GUS.24 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Her destination was New York, which was reached that day.&lt;ref name=Port/&gt;
+====1944====
+''Empire Dickens'' departed from New York for the Hampton Roads on 23 January. She then joined [[Convoy UGS 31]],&lt;ref name=Port/&gt; which departed on 25 January and arrived at Port Said on 21 February. Her destination was [[Algiers]], Algeria,&lt;ref name=UGS31&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=31!~ugsmain |title=Convoy UGS.31 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; which was reached on 13 February. She departed on 19 February to join Convoy KMS 41,&lt;ref name=Port/&gt; which had departed from [[Gibraltar]] on 17 February and arrived at Port Said on 27 February.&lt;ref name=KMS41&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=41!~kmsmain |title=Convoy KMS.41 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at [[Augusta, Sicily]], Italy on 23 February. She sailed two days later for [[Bari]], arriving on 27 February. She departed on 6 March for [[Taranto]], arriving the next day and leaving later that day to join [[Convoy HA 28A]],&lt;ref name=Port/&gt; which had departed from Bari on 7 March and arrived at Augusta on 9 March.&lt;ref name=HA28A&gt;{{cite web |url=http://www.convoyweb.org.uk/ha/index.html?ha.php?convoy=28A!~hamain |title=Convoy HA.28A |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She departed the next day to join [[Convoy GUS 33]],&lt;ref name=Port/&gt; which had departed from Port Said on 5 March and arrived at the Hampton Roads on 4 April.&lt;ref name=GUS33&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=33!~gusmain |title=Convoy GUS.33 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt;
+
+''Empire Dickens'' departed from New York on 30 April for the Hampton Roads in order to join [[Convoy UGS 41]],&lt;ref name=Port/&gt; which departed on 3 May and arrived at Port Said on 30 May. Her destination was [[Casablanca]], Morocco,&lt;ref name=UGS41&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=41!~ugsmain |title=Convoy GUS.41 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; which was reached on 20 May. She departed for Gibraltar three days later, arriving on 25 May.&lt;ref name=Port/&gt; ''Empire Dickens''  was a member of [[Convoy KMS 52]], which departed on 6 June and arrived at Port Said on 16 June. She left the convoy at Augusta,&lt;ref name=KMS52&gt;{{cite web |url=http://www.convoyweb.org.uk/kms/index.html?kms.php?convoy=52!~kmsmain |title=Convoy KMS.52 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; arriving on 12 June. A return trip to [[Naples]] was made via [[Convoy VN 46]] and [[Convoy NV 47]], arriving back at Augusta on 22 June. She departed the next day to join [[Convoy MKS 53]],&lt;ref name=Port/&gt; which had departed from Port Said on 18 June and arrived at Gibraltar on 29 June. She left the convoy at Algiers,&lt;ref name=KMS53&gt;{{cite web |url=http://www.convoyweb.org.uk/mks/index.html?mks.php?convoy=53!~mksmain |title=Convoy KMS.53 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; where she arrived on 27 June. ''Empire Dickens'' departed on 2 July to join [[Convoy GUS 44]],&lt;ref name=Port/&gt; which had departed from Port Said on 24 June and arrived at the Hampton Roads on 18 July.&lt;ref name=GUS44&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=44!~gusmain |title=Convoy GUS.44 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Her destination was New York, which was reached that day.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from New York on 1 August 1944 for the Hampton Roads, arriving on 3 August.&lt;ref name=Port/&gt; She then joined [[Convoy UGS 50]], which departed that day and arrived at Port Said on 29 August. Her destination was Augusta,&lt;ref name=UGS50&gt;{{cite web |url=http://www.convoyweb.org.uk/ugs/index.html?ugs.php?convoy=50!~ugsmain |title=Convoy UGS.50 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; which was reached on 25 August. She sailed that day for Bari, arriving two days later and departing on 1 September 1944 for [[Brindisi]], arriving the next day. She departed on 5 September to join [[Convoy HA 64A]],&lt;ref name=Port/&gt; which had departed from Bari that day and arrived at Augusta on 7 September.&lt;ref name=HA64A&gt;{{cite web |url=http://www.convoyweb.org.uk/ha/index.html?ha.php?convoy=64A!~hamain |title=Convoy HA.64A |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; ''Empire Dickens'' arrived at Augusta on 6 September and joined [[Convoy GUS 51]],&lt;ref name=Port/&gt; which had departed from Port Said on 2 September and arrived at the Hampton Roads on 28 September.&lt;ref name=GUS51&gt;{{cite web |url=http://www.convoyweb.org.uk/gus/index.html?gus.php?convoy=51!~gusmain |title=Convoy GUS.51 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She arrived at New York that day.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' was a member of [[Convoy HX 314]], which departed from New York on 15 October 1944 and arrived at Liverpool on 29 October. She was carrying a cargo of avgas bound for Thameshaven.&lt;ref name=HX314&gt;{{cite web |url=http://www.warsailors.com/convoys/hx314.html |title=CONVOY HX 314 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She arrived at Southend on 30 October. ''Empire Dickens'' was a member of [[Convoy ON 270]], which departed from Southend on 3 December and arrived at New York on 22 December.&lt;ref name=Port/&gt;
+====1945====
+She returned to the United Kingdom with [[Convoy HX 331]], which departed on 8 January 1945 and arrived at Liverpool on 22 January. She was carrying a cargo of petrol,&lt;ref name=HX331&gt;{{cite web |url=http://www.convoyweb.org.uk/hx/index.html?hx.php?convoy=331!~hxmain |title=Convoy HX.331 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; which was bound for Avonmouth, where she arrived on 22 January.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Avonmouth on 31 January for Milford Haven, from where she sailed on 2 February to join [[Convoy ON 282]],&lt;ref name=Port/&gt; which had departed from Liverpool the previous day and arrived at New York on 19 February.&lt;ref name=ON282&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=282!~onzmain |title=CONVOY ON.282 |publisher=Warsailors |accessdate=24 June 2011}}&lt;/ref&gt; She returned with Convoy HX 342, which departed on 4 March and arrived at Liverpool on 19 March. She was carrying a cargo of aircraft and petrol.&lt;ref name=HX342&gt;{{cite web |url=http://www.convoyweb.org.uk/hx/index.html?hx.php?convoy=342!~hxmain |title=Convoy HX.342 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She detached from the convoy and sailed to the [[River Clyde|Clyde]], arriving on 20 March. ''Empire Dickens'' departed from the Clyde on 27 March to join [[Convoy ON 293]],&lt;ref name=Port/&gt; which had departed from Southend that day and arrived at New York on 15 April.&lt;ref name=ON293&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=293!~onzmain |title=Convoy ON.293 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; Carrying a cargo of petrol, she returned with [[Convoy HX 354]], which departed on 3 May and arrived at Liverpool on 18 May.&lt;ref name=HX354&gt;{{cite web |url=http://www.convoyweb.org.uk/hx/index.html?hx.php?convoy=354!~hxmain |title=Convoy HX.354 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She left the convoy at the Belfast Lough that day.&lt;ref name=Port/&gt;
+
+===Post-war===
+''Empire Dickens'' departed from the Belfast Lough on 22 May to join Convoy ON 304,&lt;ref name=Port/&gt; which had departed from Southend on 21 May and arrived at New York on 5 June.&lt;ref name=ON304&gt;{{cite web |url=http://www.convoyweb.org.uk/on/index.html?onz.php?convoy=304!~onzmain |title=Convoy ON.304 |publisher=Convoyweb |accessdate=24 June 2011}}&lt;/ref&gt; She departed three days later for [[London]]. She departed from London on 21 June for [[Aruba]], Netherlands Antilles, from where she departed on 17 July for [[Cristóbal, Colón|Cristóbal]], [[Panama Canal Zone]]. She sailed from Cristóbal on 23 July for Aruba, arriving three days later. She departed from Aruba on 28 July for Gibraltar, from where she departed on 12 August for Naples, arriving on 16 August.&lt;ref name=Port/&gt;
+
+''Empire Dickens'' departed from Naples on 19 August for Port Said, where she arrived four days later. She then sailed to [[Suez]], from where she departed on 24 August for [[Abadan, Iran]], arriving on 4 September and departing three days later for [[Melbourne]], Australia, where she arrived on 6 October. She departed on 10 October for Abadan, arriving on 5 November. ''Empire Dickens'' departed on 8 November for Suez, arriving on 19 November and then sailing to Port Said, from where she departed on 21 November for Augusta, which was reached on 24 November. She sailed four days later for [[Livorno]] via [[Genoa]], arriving on 3 December. ''Empire Dickens'' departed from Livorno on 6 December for Port Said, arriving on 11 December and then sailing to Suez, from where she departed on 12 December for Abadan, which was reached on 23 December.&lt;ref name=Port/&gt;
+===Re-named Esso Appalachee===
+In 1946, ''Empire Dickens'' was sold to the Anglo-American Oil Co Ltd, London. She was renamed ''Esso Appalachee'' and placed under the management of the Esso Transportation Co Ltd. In 1951, she was sold to [[Exxon|Esso Petroleum Co Ltd]], London.&lt;ref name=Visser/&gt; In April 1952, ''Esso Appalachee'' was being towed by the [[tugboat|tugs]] {{ship|ST|Flying Buzzard||2}} and ''Flying Petrel'' at [[Bowling, West Dunbartonshire]] when she fouled her tow and then collided with ''Flying Buzzard'', hitting her amidships and sinking her. ''Flying Buzzard'' was salvaged in May and repaired, returning to service in October.&lt;ref name=Buzzard&gt;{{cite web |url=http://flyingbuzzard.com/herstory.htm |title=Flying Buzzard |publisher=Flying Buzzard |accessdate=24 June 2011}}&lt;/ref&gt; On 6 January 1956, ''Esso Appalachee'' was in collision with the jetty at [[Immingham]], [[Lincolnshire]], cutting it in two and leaving a {{convert|50|ft|m|adj=on}} gap.&lt;ref name=Times070156&gt;{{Cite newspaper The Times |articlename=Third day of fog delays: Improvement in South |day_of_week=Saturday |date=7 January 1956 |page_number=6 |issue=54321 |column=B-C }}&lt;/ref&gt; She served until 1960, arriving on 2 August at [[Faslane]], Argyllshire for scrapping by Shipbuilding Industries Ltd.&lt;ref name=Visser/&gt;
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.photoship.co.uk/JAlbum%20Ships/Old%20Ships%20E/slides/Esso%20Appalachee-01.html Photo of ''Esso Appalachee'' from bows]
+*[http://www.photoship.co.uk/JAlbum%20Ships/Old%20Ships%20E/slides/Esso%20Appalachee-02.html Photo of ''Esso Appalachee'' from stern]
+
+{{Empire D ships}}
+{{1952 shipwrecks}}
+{{1956 shipwrecks}}
+
+{{DEFAULTSORT:Esso Appalachee}}
+[[Category:1942 ships]]
+[[Category:Tees-built ships]]
+[[Category:Empire ships]]
+[[Category:Ministry of War Transport ships]]
+[[Category:Tankers of the United Kingdom]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Maritime incidents in 1952]]
+[[Category:Maritime incidents in 1956]]</text>
+      <sha1>7dixhd6v784x2wuvn7pgfc3ve5le37e</sha1>
+    </revision>
+  </page>
+</mediawiki>

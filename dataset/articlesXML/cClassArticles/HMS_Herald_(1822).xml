@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Herald (1822)</title>
+    <ns>0</ns>
+    <id>31729737</id>
+    <revision>
+      <id>697359436</id>
+      <parentid>688842929</parentid>
+      <timestamp>2015-12-30T00:35:41Z</timestamp>
+      <contributor>
+        <username>Pahazzard</username>
+        <id>11561968</id>
+      </contributor>
+      <comment>/* Survey voyages */ link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8039">{{otherships|HMS Herald|HMS Termagant}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Herald.jpg|300 px]]
+|Ship caption=HMS ''Herald'' and steamship tender ''Torch'', Expedition to the South Sea, ''Illustrated London News'', 15 May 1852.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom]]
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Herald''
+|Ship ordered=5 June 1819
+|Ship awarded=
+|Ship builder=[[East India Company]] dockyard, [[Cochin]], [[British India]]
+|Ship laid down=March 1820
+|Ship launched=15 November 1822
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=16 July 1824&lt;ref name=RW/&gt;
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=*Launched as HMS ''Termagant'' in 1821
+*Renamed ''Herald'' on 15 May 1824
+|Ship reclassified=*Survey vessel in June 1845
+*Chapel ship in 1861
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sold for breaking on 28 April 1862
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=RW&gt;Winfield (2004) p.113.&lt;/ref&gt;
+|Ship class=[[Atholl class corvette|''Atholl''-class]] 28-gun [[sixth-rate]] [[corvette]]
+|Ship tons burthen=499 {{small|{{frac|91|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship displacement=
+|Ship length=*{{convert|113|ft|8|in|m|1|abbr=on}} (gundeck)
+*{{convert|94|ft|8+3/4|in|m|1|abbr=on}} (keel)
+|Ship beam=*As built:{{convert|31|ft|10|in|m|1|abbr=on}} *For tonnage:{{convert|31|ft|6|in|m|1|abbr=on}}
+|Ship draught=
+|Ship hold depth={{convert|8|ft|9|in|m|2|abbr=on}}
+|Ship sail plan=[[Full-rigged ship]]
+|Ship propulsion=
+|Ship complement=175
+|Ship armament=*Upper deck: 20 x 32-pounder (25cwt) [[carronade]]s
+*[[Quarterdeck|QD]]: 6 x 18-pounder carronades
+*[[Forecastle|Fc]]: 2 x 9-pounder guns
+|Ship notes=
+}}
+|}
+
+'''HMS ''Herald''''' was an [[Atholl class corvette|''Atholl''-class]] 28-gun [[sixth-rate]] [[corvette]] of the [[Royal Navy]]. She was launched in 1821 as '''HMS ''Termagant''''', commissioned in 1824 as ''Herald'' and converted to a survey ship in 1845.  After serving as a chapel ship from 1861, she was sold for breaking in 1862.
+
+==Early career==
+''Termagant'' was launched at the [[East India Company]] dockyard at [[Cochin]], [[British India]] on 15 November 1821. Lieutenant Robert Wallace Dunlop commissioned on 30 July 1822 to sail her to the United Kingdom. She arrived at Portsmouth on 7 July 1823. In July Captain Lord Henry Frederick Thynne took command, though he had nominally been appointed about a year earlier, on 30 July 1822.&lt;ref name=RW/&gt;
+
+She was renamed ''Herald'' on 15 May 1824, and commissioned on 16 July 1824. At this time she was rated a yacht.&lt;ref name=RW/&gt;
+
+Commander Henry John Leeke recommissioned her on 31 May 1824. He sailed her to St Petersburg, the West Indies, back to England from Havana, then to Quebec, and finally to Malta.&lt;ref name=RW/&gt;
+
+Captain Sir [[Augustus William James Clifford]] recommissioned ''Herald'' on 27 May 1826 to carry the Duke of Devonshire on an embassy to Russia. CommanderHenry Eden replaced Clifford in November 1826, only to hand over command to Commander Edward William Curry Astley in April 1827.&lt;ref name=RW/&gt;
+
+On 7 April 1829 Commander George Berkeley Maxwell replaced Astley. Maxwell sailed ''Herald'' to St Petersburg, Cartagena, Quebec, and home. 
+
+''Herald'' was paid off in 1830. She then underwent fitting for sea between April and July 1830.&lt;ref name=RW/&gt;
+
+On 20 November 1830 Captain Robert Godon took command at Portsmouth. He paid her off in January 1831. She then underwent fitting for sea again between November 1837 and August 1838.&lt;ref name=RW/&gt;
+
+==Service in New Zealand==
+
+Captain John Nias recommissioned ''Herald'' on 24 May 1838 for the East Indies and China.&lt;ref name=RW/&gt;
+
+On 29 April 1840 Nias sailed ''Herald'', with Major [[Thomas Bunbury (British Army officer)|Thomas Bunbury]] of the 80th Regiment (appointed by Governor [[William Hobson]] as Commissioner) and [[Edward Marsh Williams]] as interpreter, to take a copy of the [[Treaty of Waitangi]] (known as the ‘Herald-Bunbury’ copy) to the [[South Island]] of [[New Zealand]] to obtain signatures from Māori chiefs as part the process of claiming British sovereignty over New Zealand.&lt;ref name=&quot;NZENC EMW&quot;&gt;{{cite web| last = | first = | title =Williams, Edward Marsh 1818–1909|chapter= |year=1952|publisher=[[Early New Zealand Books]] (NZETC)| url= http://nzetc.victoria.ac.nz/tm/scholarly/tei-Cyc02Cycl-t1-body1-d1-d27-d21.html |accessdate=18 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url= http://www.nzhistory.net.nz/politics/treaty/making-the-treaty/treaty-of-waitangi-signing-locations| title= Treaty of Waitangi signing locations: ‘Herald-Bunbury’ copy | publisher=NZ History Online | accessdate=18 October 2013}}&lt;/ref&gt;
+
+==Service in the First Anglo-Chinese War==
+During the period 1841–42 she was involved in actions off [[Guangzhou|Canton]] in the fleet commanded by [[Sir William Parker, 1st Baronet, of Shenstone|Sir William Parker]] in the First Anglo-Chinese War (1839–42),&lt;ref name=&quot;OW&quot;&gt;{{cite web| last =| first = |title= HMS HERALD (Anglo-Chinese war 1842)| page=|url= http://anglochinesewar42.com/index.php?p=1_37_HMS-HERALD| accessdate=23 December 2012}}&lt;/ref&gt; known popularly as the [[First Opium War]]. ''Herald'' was paid off at Chatham in 1842.
+
+==Survey voyages==
+''Herald'' was converted at Sheerness to a [[survey ship]] between July 1844 and June 1845. At that time her armament was reduced to eight guns.&lt;ref name=RW/&gt;
+
+In 1845 [[Henry Kellett]] recommissioned ''Herald'' 8 February 1845 for surveying in the Pacific.&lt;ref name=RW/&gt;  Together with {{HMS|Pandora|1833|6}} she conducted a survey of the coast of British Columbia after the [[Oregon boundary dispute]] with the United States.&lt;ref name=WL&gt;{{cite web|url=http://www.pdavis.nl/ShowShip.php?id=1560|title=''Herald'' at the William Loney website|accessdate=2011-05-22}}&lt;/ref&gt; 
+
+''Herald'' was assigned in 1848 to join the search for Sir [[John Franklin]] who had been exploring the [[Northwest Passage]]. During this voyage ''Herald'' sailed through the [[Bering Strait]] across the [[Chukchi Sea]] and discovered [[Herald Island (Arctic)|Herald Island]], which Kellett named after his ship. She was then paid of in 1848.
+
+From 1852 to 1861, under the command of Captain [[Henry Mangles Denham]], ''Herald'' carried out a survey of the [[Australia]]n coast and [[Fiji]] Islands, continuing the mission of {{HMS| Rattlesnake|1822|6}}.  The naturalists on the voyage were [[John MacGillivray]] (1821–1867), [[William Grant Milne|William Milne]] (botanist) and [[John Denis Macdonald|Denis Macdonald]] as Assistant Surgeon-zoologist. However following disagreements with the captain, John MacGillivray disembarked at Sydney in January 1854.
+
+She was the first sailing ship to enter the Fitzroy Dock, [[Cockatoo Island (New South Wales)|Cockatoo Island]] in Sydney Harbour.&lt;ref&gt;Gillett, p.12.&lt;/ref&gt;
+
+''Herald'' was recommissioned on 1 April 1857 in the surveying role, and was [[Ship_commissioning#Ship_decommissioning|paid off]] in 1849.&lt;ref name=RW/&gt;
+
+==Fate==
+''Herald'' was converted to a chapel ship and was used as a floating church in Shoreham in September 1861.&lt;ref name=RW/&gt; She was sold to Castle for breaking on 28 April 1862.&lt;ref name=RW/&gt;
+
+==See also==
+* [[European and American voyages of scientific exploration]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book |title =A Century of Ships in Sydney Harbour | first =Ross | last =Gillett |author2=Melliar-Phelps, Michael | year =1980 | publisher =Rigby Publishers Ltd| url = | isbn =0-7270-1201-0}}
+* [[Edward Forbes]] (1815–1854), ''The zoology of the voyage of H.M.S. Herald under the command of Captain Henry Kellett,... during the years 1845-51.'' (London, 1854).
+*{{winfield}}
+
+{{Atholl class corvette}}
+
+{{DEFAULTSORT:Herald (1822)}}
+[[Category:Survey vessels of the Royal Navy]]
+[[Category:Atholl-class corvettes]]
+[[Category:1822 ships]]
+[[Category:First Opium War ships of the United Kingdom]]</text>
+      <sha1>bnep8hmwjad4jg26qwa4httk8rlwwwd</sha1>
+    </revision>
+  </page>
+</mediawiki>

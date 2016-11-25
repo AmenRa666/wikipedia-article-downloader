@@ -1,0 +1,193 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Cerbere (1800)</title>
+    <ns>0</ns>
+    <id>35200720</id>
+    <revision>
+      <id>729596099</id>
+      <parentid>695749283</parentid>
+      <timestamp>2016-07-13T08:35:56Z</timestamp>
+      <contributor>
+        <username>Paste</username>
+        <id>1616973</id>
+      </contributor>
+      <comment>/* British service and fate */ [[]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9034">{{Other ships|HMS Cerberus}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag=[[Image:Civil and Naval Ensign of France.svg|60px|French Navy Ensign]]
+|Ship name=''Chalier'' 
+|Ship ordered=
+|Ship builder=Cherbourg
+|Ship laid down=August 1793
+|Ship launched=4 January 1794
+|Ship acquired=
+|Ship completed=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=''Cerbère'' May 1795
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=29 July 1800
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+
+{{Infobox ship career
+|Hide header=title
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Cerbere''
+|Ship namesake= [[Cerberus]]
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=29 July 1800 (by capture)
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Wrecked 20 February 1804
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=Winfield/&gt;&lt;ref name=WR&gt;Winfield and Roberts (2015), p. 9.&lt;/ref&gt;
+|Ship class=[[Chalier class brick cannoniere|''Chalier''-class]]
+|Ship type=''Brick cannoniere'' ([[gun-brig]])
+|Ship tons burthen=137 {{small|{{fraction|80|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship displacement=130 tons (French)
+|Ship length=*{{convert|79|ft|6+1/2|in|m|abbr=on}} (overall)
+*{{convert|66|ft|7|in|m|1|abbr=on}} (keel)
+|Ship beam={{convert|19|ft|8+3/4|in|m|abbr=on}} 
+|Ship draught=
+|Ship hold depth={{convert|6|ft|1|in|m|abbr=on}}
+|Ship sail plan=[[Brig]]
+|Ship propulsion=[[Sails]]
+|Ship complement=*'''French service''': 43
+*'''At capture''':87
+*'''British service''': 50 
+|Ship armament=*'''Originally''': 2 x 24-pounder [[chase gun|bow chasers]] + 1 x 24-pounder gun amidships + 1 x 8-pounder gun
+*'''At capture''': 3 x 24-pounder guns + 4 x 6-pounder guns
+*'''British service''': 10 x 18-pounder [[carronade]]s
+|Ship notes=
+}}
+|}
+'''HMS ''Cerbere''''' was the French naval brig ''Cerbère'', ex-''Chalier'', which the British captured in 1800. She was wrecked in 1804.
+
+==Design==
+''Chalier'' (''Cerbère'') was the name vessel of a five-vessel class of ''brick-cannonnieres'' ([[gun-brig]]s).  All were  built at Cherbourg to a design by [[Pierre-Alexandre Forfait]].&lt;ref name=Winfield&gt;Winfield (2008), pp.326-8.&lt;/ref&gt; She had no keel and drew only six feet of water.&lt;ref name=Grocott&gt;Grocott (1997), p.170.&lt;/ref&gt;
+
+==French service==
+Between 5 February 1794 and 13 December, ''Chalier'' was under the command of ''enseigne de vaisseau non entretenu'' Fabien. She was stationed in the bay of Granville. From there she cruised of the coasts of [[Jersey]].&lt;ref&gt;''Fonds Marine'', p.89.&lt;/ref&gt;
+
+In 1795 ''Cerbère'', by then renamed from ''Chalier'', but still under Fabien's command, escorted convoys between Granville and Cancale.&lt;ref&gt;''Fonds Marine'', Vol. 1, p.147.&lt;/ref&gt;
+
+In 1800 she came under the command of ''enseigne de vaisseau'' Menagé.&lt;ref&gt;''Fonds Marine'', Vol. 1, pp.237 &amp; 245.&lt;/ref&gt;
+
+==Capture==
+In September 1799, Lieutenant [[Jeremiah Coghlan (Royal Navy officer)|Jeremiah Coghlan]] (acting) assumed command [[HMS Greyhound (1780)|HMS ''Viper'']].&lt;ref name=Winfield/&gt; On 1 November ''Viper'' recaptured the ''Diamond''.&lt;ref&gt;{{London Gazette|issue=15526|startpage=1126|date=23 October 1802}}&lt;/ref&gt;
+
+In July 1800,Coghlan, who had been watching [[Port-Louis, Morbihan]], proposed to Sir [[Edward Pellew, 1st Viscount Exmouth|Edward Pellew]] that he, Coghlan, take some boats into the harbour to cut out one of the French vessels there. Pellew acceded to the proposal and gave Coghlan a cutter from [[French ship America (1788)|''Impetueux'']], Midshipman Silas H. Paddon, and 12 men. Coghlan added in six men from ''Viper'', a boat from ''Viper'', and one from {{HMS|Amethyst|1799|2}}. On 29 July the boats went into the port after dark, targeting a brig. During the run-up to the attack the boats from ''Viper'' and ''Amethyst'' fell behind, but Coghlan in the cutter persisted.&lt;ref name=LG15282/&gt;
+
+Coghlan's initial attempt at boarding failed and he himself received a pike wound in the thigh. The French repelled a second attempt too. Finally, the British succeeded in boarding, killing and wounding a large number of the French brig's crew, and taking control. The two laggard boats came up and the British then brought the brig out of the harbour and back to the fleet.
+
+The brig was the ''Cerbère'', of three 24-pounder and four 6-pounder guns, with a crew of 87 men, 16 of them soldiers, still under Menagé's command. The attack cost the British one man killed (a seaman from ''Viper''), and eight men wounded, including Coghlan and Paddon. The French lost five men killed and 21 wounded, including all their officers; one of the wounded men died shortly thereafter.&lt;ref name=LG15282&gt;{{London Gazette|issue=15282|startpage=897|endpage=898|date=5 August 1800}}&lt;/ref&gt;
+
+The Royal Navy took ''Cerbère'' into service under her existing name. Pellew's fleet waived their right to any prize money as a gesture of admiration for the feat.&lt;ref name=LG15282/&gt; Pellew also recommended Coglan's promotion to Lieutenant, which followed, though Coghlan had not served the requisite time in grade.&lt;ref name=Long&gt;Long (1895), pp.219-20.&lt;/ref&gt; [[John Jervis, 1st Earl of St Vincent|Earl St. Vincent]] personally gave Coghlan a sword worth 100 [[Guinea (British coin)|guineas]],&lt;ref name=Long/&gt; in order to &quot;prevent the city, or any body of merchants, from making him a present of the same sort&quot;.&lt;ref&gt;Littell (1844), Vol. 1, p.237.&lt;/ref&gt; In 1847 the Admiralty awarded the [[Naval General Service Medal (1847)|Naval general Service Medal]] with clasp, &quot;29 July Boat Service 1800&quot; to the four surviving claimants from the action.&lt;ref&gt;{{London Gazette|issue=20939|startpage=246|date=26 January 1849}}&lt;/ref&gt;
+
+==British service and fate==
+The British brought ''Cerbere'' to Plymouth, where she underwent fitting-out from 7 September 1800 to 30 September 1802. At some point she may briefly have been named ''St Vincent''.&lt;ref name=&quot;NMM-WH-382080&quot;&gt;
+{{cite web|url=http://www.nmm.ac.uk/upload/pdf/Warship_Histories_Vessels_v.pdf|title=NMM, vessel ID 382080|work=Warship Histories, vol v|publisher=[[National Maritime Museum]]|accessdate=30 July 2011}}&lt;/ref&gt; Still, as ''Cerbere'', she was commissioned in August 1802 under Lieutenant Joseph Patey .&lt;ref name=Winfield/&gt;
+
+''Cerbere'' was sailing from [[Guernsey]] to Plymouth when bad weather forced her to anchor at Torbay. Patey tried to sail again on 14 February but was forced to anchor again. Patey hired a local boat to help warp her out, which took until 20 February when Patey again attempted to sail.&lt;ref name=Hepper&gt;Hepper (1994), p.104.&lt;/ref&gt; As she finally sailed from Brixham Quay a strong wave lifted ''Cerbere'' onto rocks at Berry Head that pierced her hull.&lt;ref name=Hepper/&gt; Spectators on shore saved the crew,&lt;ref name=Grocott/&gt; all of whom arrived safely on shore.&lt;ref name=Hepper/&gt;
+
+''Cerbere'' was later raised,&lt;ref name=Grocott/&gt;&lt;ref&gt;Gossett (1986), p.40&lt;/ref&gt; but apparently was not taken back into service.
+
+==Footnotes==
+{{reflist|colwidth=30em}}
+
+==References==
+*Fonds Marine. Campagnes (opérations ; divisions et stations navales ; missions diverses). Inventaire de la sous-série Marine BB4. Tome premier : BB4 1 à 209 (1790-1804) [http://www.servicehistorique.sga.defense.gouv.fr/contenu/functions/dc/attached/FRSHD_PUB_00000226_dc/FRSHD_PUB_00000226_dc_att-FRSHD_PUB_00000226_01.pdf]
+*Gossett, William Patrick (1986) ''The lost ships of the Royal Navy, 1793-1900''. (London: Mansell). ISBN 0-7201-1816-6
+*Grocott, Terence (1997) ''Shipwrecks of the revolutionary &amp; Napoleonic eras'' (Chatham). ISBN 1-86176-030-2
+*{{cite book|last=Hepper|first=David J.|authorlink=|year=1994|title=British Warship Losses in the Age of Sail, 1650-1859|publisher=Jean Boudriot|location=Rotherfield|isbn=0-948864-30-3}}
+*Littell, Eliakim (1844) ''The living age''. (Littell, Son and Co.).
+*Long, William H. (1895) ''Medals of the British navy and how they were won: with a list of those officers, who for their gallant conduct were granted honorary swords and plate by the Committee of the Patriotic Fund''. (London: Norie &amp; Wilson).
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2008|isbn=1861762461}}
+*Winfield, Rif &amp; Stephen S Roberts (2015) ''French Warships in the Age of Sail 1786 - 1861: Design Construction, Careers and Fates''. (Seaforth Publishing). ISBN 9781848322042
+
+{{WarshipHist}}
+
+{{DEFAULTSORT:Cerbere (1800)}}
+[[Category:1794 ships]]
+[[Category:Ships built in France]]
+[[Category:Captured ships]]
+[[Category:Brigs of the Royal Navy]]
+[[Category:Maritime incidents in 1804]]</text>
+      <sha1>p0qto0cq2j6e3wz3elh7xltsar918cx</sha1>
+    </revision>
+  </page>
+</mediawiki>

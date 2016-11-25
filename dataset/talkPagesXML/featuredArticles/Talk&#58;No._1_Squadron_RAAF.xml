@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:No. 1 Squadron RAAF</title>
+    <ns>1</ns>
+    <id>5360339</id>
+    <revision>
+      <id>717896170</id>
+      <parentid>717859283</parentid>
+      <timestamp>2016-04-30T11:03:14Z</timestamp>
+      <contributor>
+        <username>Anotherclown</username>
+        <id>8567476</id>
+      </contributor>
+      <comment>header at the head per [[WP:Talkpage layout]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2883">{{talkheader}}
+{{Article history
+|action1=GAN
+|action1date=21:00, 8 April 2014 (UTC)
+|action1link=Talk:No. 1 Squadron RAAF/GA1
+|action1result=listed
+|action1oldid=603357830
+|maindate=12 January 2015
+ 
+|action2=WAR
+|action2date=04:13, 20 May 2014 (UTC)
+|action2link=Wikipedia:WikiProject Military history/Assessment/No. 1 Squadron RAAF
+|action2result=approved
+|action2oldid=609068364
+
+|action3=FAC
+|action3date=2014-11-01
+|action3link=Wikipedia:Featured article candidates/No. 1 Squadron RAAF/archive1
+|action3result=promoted
+|action3oldid=630768957
+
+|action4=FTC
+|action4date=21:24, 18 December 2014 (UTC)
+|action4link=Wikipedia:Featured topic candidates/No. 90 (Composite) Wing RAAF/archive1
+|action4result=promoted
+
+|ftname=No. 90 (Composite) Wing RAAF
+|topic=Warfare
+|currentstatus = FA
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Australia|class=FA|importance=low|military=y|military-importance=mid}}
+{{WikiProject Aviation|class=FA}}
+{{WikiProject Military history|class=FA|A-Class=pass|Australian=y|WWI=y|WWII=y|Cold-War=y|Aviation=y}}
+}}
+
+== Graphic labeled - 'Airco DH.9a at RAAF Point Cook, c. 1926' ==
+The aircraft pictured appears to be an SE-5a.
+
+http://www.bing.com/images/search?q=SE-5a&amp;go=Submit+Query&amp;qs=bs&amp;form=QBIR  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/66.68.47.103|66.68.47.103]] ([[User talk:66.68.47.103|talk]]) 01:31, 12 January 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+*It would appear that the aircraft in question in the article is identified incorrectly. I assume this is from the AWM description being incorrect. The aircraft appears to be a SE-5a. Ian if your patrolling can you confirm and update. Regards [[User:Newm30|Newm30]] ([[User talk:Newm30|talk]]) 05:00, 12 January 2015 (UTC)
+**Gah, yes -- the noses are similar but the second set of struts on a DH.9 give it away! Will email AWM about it but in the meantime have uploaded another shot. Tks guys! Cheers, [[User:Ian Rose|Ian Rose]] ([[User talk:Ian Rose|talk]]) 05:36, 12 January 2015 (UTC)
+
+== Citation style ==
+
+I suggest we change to &lt;nowiki&gt;{{sfn}}&lt;/nowiki&gt; style for referencing as it links between short footnotes and citations for a better user experience. 04:17, 30 April 2016 (UTC)
+
+::One day we will probably adopt a standard style for references (personally I really hope it is NOT &lt;nowiki&gt;{{sfn}}&lt;/nowiki&gt;) but of course which of the various styles currently used for different articles we end up making out &quot;standard&quot; will not be up to either you or me! In the meantime, changing citation styles on individual articles (except perhaps to make them consistent ''within that article'') is a patent waste of time and energy and must be strongly deprecated. --[[User:Soundofmusicals|Soundofmusicals]] ([[User talk:Soundofmusicals|talk]]) 04:35, 30 April 2016 (UTC)</text>
+      <sha1>4rnbh5ozxc5vxrlknvvwjdkcyxz4773</sha1>
+    </revision>
+  </page>
+</mediawiki>

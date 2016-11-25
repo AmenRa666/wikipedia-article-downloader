@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>AN/APG-77</title>
+    <ns>0</ns>
+    <id>3935483</id>
+    <revision>
+      <id>751076429</id>
+      <parentid>751051457</parentid>
+      <timestamp>2016-11-23T06:32:38Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3903">{{Infobox Radar
+|name        = AN/APG-77
+|image       = APG-77-1A.jpg
+|caption     = AN/APG-77
+|country     = [[United States]]
+|introdate   = 
+|number      =
+|type        = [[Solid state (electronics)|Solid-state]] [[Active electronically scanned array|active electronically scanned array (AESA)]]
+|frequency   = 
+|range       = 
+|altitude    =
+|diameter    = 
+|azimuth     = 120°
+|elevation   = 
+|precision   = 
+|power       = 20 kW peak{{Citation needed|date=April 2008}}
+}}
+
+The '''AN/APG-77''' is a multifunction [[Low probability of intercept radar]] installed on the [[F-22 Raptor]] fighter aircraft. The radar is built by  [[Northrop Grumman]].
+
+It is a [[Solid state (electronics)|solid-state]], [[active electronically scanned array]] (AESA) radar. Composed of 1956 [[Transceiver|transmit/receive modules]],&lt;ref&gt;http://www.f-16.net/forum/viewtopic.php?f=22&amp;t=24978&amp;p=267267&lt;/ref&gt;&lt;ref&gt;[http://www.acq.osd.mil/dsb/reports/hfradar.pdf Hfradar.pdf page 19 for number of modules]  {{webarchive |url=https://web.archive.org/web/20060422102714/http://www.acq.osd.mil/dsb/reports/hfradar.pdf |date=April 22, 2006 }}&lt;/ref&gt;&lt;ref&gt;http://www.acq.osd.mil/dsb/reports/ADA391893.pdf&lt;/ref&gt; each about the size of a gum stick, it can perform a near-instantaneous [[beam steering]] (in the order of tens of [[nanosecond]]s).
+
+[[File:AN-APG-77, AESA, Active Electronically Scanned Array, Northrop Grumman, 2001 - National Electronics Museum - DSC00388.jpg|thumb|left|AN/APG-77 in the [[National Electronics Museum]].]]
+
+The APG-77 provides 120° [[field of view]] in azimuth and elevation,{{citation needed|date=April 2013}} which is the highest possible value for a flat [[phased array]] antenna.&lt;ref&gt;[http://www.radartutorial.eu/06.antennas/an14.en.html Physical limitation of the maximum swivel angle of an AESA]&lt;/ref&gt; Unconfirmed sources suggest that APG-77 has an operating range of {{convert|125|-|150|mi|km|abbr=on}},&lt;ref&gt;http://www.webcitation.org/6Qpsm5PUo?url=http%3A%2F%2Fwww.f22-raptor.com%2Fmedia%2Fdocuments%2Faviation_week_010807.pdf&lt;/ref&gt; against a {{convert|1|m2|sqft|abbr=on}} target. A range of 400&amp;nbsp;km, against a {{convert|1|m2|sqft|abbr=on}} target, with the APG-77v1, with newer [[Gallium arsenide|GaAs]] modules, is believed to be possible with the use of more narrow beams.&lt;ref&gt;http://www.f-16.net/forum/viewtopic.php?f=22&amp;t=24978&amp;p=267267&lt;/ref&gt;&lt;ref&gt;http://www.webcitation.org/6Qpsm5PUo?url=http%3A%2F%2Fwww.f22-raptor.com%2Fmedia%2Fdocuments%2Faviation_week_010807.pdf&lt;/ref&gt;&lt;ref&gt;http://www.f-16.net/forum/viewtopic.php?f=33&amp;t=25728&lt;/ref&gt;
+
+More than one hundred APG-77 AESA radars have been produced to date by Northrop Grumman, and much of the technology developed for the APG-77 is being used in the [[APG-81]] radar for the [[F-35 Lightning II]].
+
+The APG-77v1 was installed on [[F-22]] Raptors from Lot 5 and on.&lt;ref&gt;https://defense-update.com/newscast/0407/news_020407.htm#raptor&lt;/ref&gt; This provided full air-to-ground functionality (high-resolution [[synthetic aperture radar]] mapping, [[ground moving target indication]] and track (GMTI/GMTT), automatic cueing and recognition, combat identification, and many other advanced features).&lt;ref&gt;https://www.forecastinternational.com/archive/disp_pdf.cfm?DACH_RECNO=942&lt;/ref&gt;&lt;ref&gt;https://defense-update.com/newscast/0407/news_020407.htm#raptor&lt;/ref&gt;
+
+==See also==
+{{Portal|United States Air Force}}
+* [[Phased array]]
+* [[Active electronically scanned array]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.f-22raptor.com/af_radar.php AN/APG-77 radar technology explained]
+* [http://www.f22fighter.com/radar.htm f22fighter.com: AN/APG-77]
+* http://www.globalsecurity.org/military/systems/aircraft/f-22-avionics.htm
+
+{{DEFAULTSORT:AN APG-77}}
+[[Category:Aircraft radars]]
+[[Category:Military electronics of the United States]]
+[[Category:Equipment of the United States Air Force]]
+[[Category:Synthetic aperture radar]]</text>
+      <sha1>pqax8vftwyq8t5mehy6s0srn89hgssz</sha1>
+    </revision>
+  </page>
+</mediawiki>

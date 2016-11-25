@@ -1,0 +1,727 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Virginia-class submarine</title>
+    <ns>0</ns>
+    <id>32726</id>
+    <revision>
+      <id>749863022</id>
+      <parentid>749400289</parentid>
+      <timestamp>2016-11-16T15:38:41Z</timestamp>
+      <contributor>
+        <ip>142.109.6.1</ip>
+      </contributor>
+      <comment>/* Block III */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="81594">{|{{Infobox ship begin|infobox caption=''Virginia''-class submarine}}
+|+
+{{Infobox ship image
+|Ship image=[[File:US Navy 040730-N-1234E-002 PCU Virginia (SSN 774) returns to the General Dynamics Electric Boat shipyard.jpg|border|300px|alt=USS ''Virginia'' (SSN-774)]]
+|Ship caption=USS ''Virginia'' underway in [[Groton, Connecticut]], July&amp;nbsp;2004.
+}}
+{{Infobox ship class overview
+|Name=''Virginia''
+|Builders=*[[General Dynamics Electric Boat]]
+*[[Newport News Shipbuilding]]
+|Operators={{navy|United States}}
+
+|Class before={{sclass-|Seawolf|submarine|4}}
+|Class after=
+|Subclasses=
+|Cost=$2.688 billion per unit &lt;small&gt;(FY2016)&lt;/small&gt;&lt;ref name=RL32418&gt;{{cite report |last=O'Rourke |first=Ronald |title=Navy Virginia (SSN-774) Class Attack Submarine Procurement: Background and Issues for Congress  |url=https://fas.org/sgp/crs/weapons/RL32418.pdf |format=PDF |date=26 March 2015 |publisher=Congressional Research Service |page=6 |accessdate=4 June 2015}}&lt;/ref&gt;&lt;ref group=note&gt;The US Navy's budget request for two Virginias in financial year 2016 (FY2016) is US$5,376.9 million, including $2,030.4m of advance funding from previous years.&lt;/ref&gt;
+|Built range=2000–present
+|In service range=
+|In commission range=2004–present
+|Total ships building=5&lt;ref name=&quot;ssn787&quot; /&gt;
+|Total ships planned=48
+|Total ships completed=13
+|Total ships cancelled=
+|Total ships active=13
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Nuclear attack submarine]]
+|Ship displacement={{convert|7900|t|LT|sp=us}}
+|Ship length={{convert|377|ft|m|0|abbr=on}}
+|Ship beam={{convert|34|ft|m|0|abbr=on}}
+|Ship height=
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship power=
+|Ship propulsion=[[S9G reactor]] {{convert|40000|shp|abbr=on|lk=in}}
+|Ship speed={{convert|25|kn|km/h}} or over&lt;ref name=&quot;Naval-TechNSSN&quot;/&gt;
+|Ship range=unlimited
+|Ship endurance=Only limited by food and maintenance requirements.
+|Ship test depth= +{{convert|800|ft|m|abbr=on}}
+|Ship complement=135 (15:120)
+|Ship sensors=
+|Ship EW=
+|Ship armament=*12 × [[Vertical launching system|VLS]] ([[Tomahawk (missile)|Tomahawk BGM-109]]) tubes
+*4 × 533 mm [[torpedo tube]]s ([[Mark 48 torpedo|Mk-48 torpedo]])
+*38 × torpedoes &amp; missiles (torpedo room)&lt;ref name=&quot;cbo&quot;&gt;{{cite web |url=http://www.cbo.gov/sites/default/files/cbofiles/attachments/07-25-12-NavyShipbuilding_0.pdf |title=An Analysis of the Navy's Fiscal Year 2013 Shipbuilding Plan |format=PDF |publisher=[[Congressional Budget Office]] |number=Pub. No. 4456 |date=July 2012 |accessdate=26 April 2015}}&lt;/ref&gt;
+|Ship notes=
+}}
+|}
+The '''''Virginia'' class''', also known as the '''SSN-774 class''', is a class of [[Nuclear marine propulsion|nuclear-powered]] fast [[attack submarine|attack]] [[submarine]]s ([[SSK (US Navy)|hull classification symbol]] SSN) in service with the [[United States Navy]]. The submarines are designed for a broad spectrum of [[Blue-water navy|open-ocean]] and [[littoral]] (shallow coastal water) missions. They were conceived as a less expensive alternative to the [[Seawolf-class submarine|''Seawolf''-class attack submarines]], designed during the [[Cold War]] era. They are replacing older {{sclass-|Los Angeles|submarine|1}}s, many of which have already been decommissioned. ''Virginia''-class submarines will be acquired through 2043, and are expected to remain in service past 2060.&lt;ref&gt;{{cite web|url=http://defensetech.org/2014/02/12/navy-considers-future-after-virginia-class-subs/ |title=Navy Considers Future After Virginia-Class Subs |publisher=Defensetech.org |last=Osborn |first=Kris |date=12 February 2014 |accessdate=26 April 2015}}&lt;/ref&gt; Based on recent updates to the designs, some of the ''Virginia''-class submarines are expected to still be in service in 2070.&lt;ref name=&quot;forbes1&quot;&gt;{{cite web |url=http://www.forbes.com/sites/lorenthompson/2014/05/06/five-reasons-virginia-class-subs-are-the-face-of-future-warfare/ |title=Five Reasons Virginia-Class Subs Are The Face Of Future Warfare |last=Thompson |first=Loren |website=Forbes |date=6 May 2014  |accessdate=26 April 2015}}&lt;/ref&gt;
+
+== History ==
+[[File:Virginia class submarine.jpg|thumb|left|Computer-based rendering of Virginia class attack submarine]]
+The class was developed under the codename Centurion, renamed to New Attack Submarine (NAS) later on.&lt;ref&gt;http://www.gdeb.com/about/history/&lt;/ref&gt;&lt;ref name=&quot;SSN-774 Virginia class&quot;&gt;{{cite web|url=http://www.harpoondatabases.com/encyclopedia/Entry1383.aspx |title=SSN-774 Virginia class |accessdate=23 November 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20130910002816/http://www.harpoondatabases.com/encyclopedia/entry1383.aspx |archivedate=10 September 2013 }}&lt;/ref&gt; The &quot;Centurion Study&quot; was initiated in February 1991.&lt;ref&gt;{{cite web |url=https://fas.org/man//dod-101/sys/ship/docs/920721-cr.htm |title=Navy Report on New Attack Submarine (Senate - July 21, 1992) |publisher=[[Federation of American Scientists]] |accessdate=26 April 2015}}&lt;/ref&gt;  ''Virginia''-class submarines were the first US Navy warships designed with the help of [[computer-aided design]] (CAD) and visualization technology.&lt;ref name=&quot;USW W99&quot; /&gt;&lt;ref name=&quot;submarinesuppliers1&quot;&gt;{{cite web|url=http://www.submarinesuppliers.org/programs/index.php |title=Submarine Industrial Base Council |publisher=Submarinesuppliers.org |date=22 December 2008 |accessdate=6 February 2013 |archive-url=https://web.archive.org/web/20120119163338/http://www.submarinesuppliers.org/programs/index.php |archive-date=2012-01-19}}&lt;/ref&gt;
+By 2007 approximately 35 million labor hours were spent on designing the ''Virginia'' class.&lt;ref&gt;{{cite web |url=http://www.dtic.mil/dtic/tr/fulltext/u2/a478587.pdf |title=Sustaining U.S. Nuclear Submarine Design Capabilities |first=John F. |last=Schank |first2=Mark V. |last2=Arena |first3=Paul |last3=DeLuca |first4=Jessie |last4=Riposo |first5=Kimberly |last5=Curry |first6=Todd |last6=Weeks |first7=James |last7=Chiesa |publisher=National Defense Research Institute |date=2007 |isbn=978-0-8330-4160-9 |accessdate=26 April 2015}}&lt;/ref&gt; Around 9 million labor hours are required for the construction and completion of a single ''Virginia''-class submarine.&lt;ref name=&quot;submarinesuppliers1&quot; /&gt;&lt;ref&gt;{{cite web |url=http://www.navalsubleague.com/NSL/default.aspx |title=Naval Submarine League |publisher=Navalsubleague.com |date=27 September 2012 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref name=&quot;navalsubleague1&quot;&gt;[http://www.navalsubleague.com/NSL/documents/Submarine%20Road%20Show%20NSL%2017%20Aug%202011%20NSL.ppsx]  {{webarchive |url=https://web.archive.org/web/20131113065646/http://www.navalsubleague.com/NSL/documents/Submarine%20Road%20Show%20NSL%2017%20Aug%202011%20NSL.ppsx |date=13 November 2013 }}&lt;/ref&gt; Over 4,000 suppliers are involved in the construction of the ''Virginia'' class.&lt;ref&gt;{{cite journal |last=Roberts |first=Jim |date=Winter 2011 |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_43/double_vision.html |title=Double Vision: Planning to Increase Virginia-Class Production |journal=Undersea Warfare |issue=43 |publisher=US Navy |accessdate=26 April 2015}}&lt;/ref&gt; Each submarine is projected to make 14–15 deployments during its 33-year service life.&lt;ref name=Butler&gt;{{cite journal |last=Butler |first=John D., RAdm (ret) |url=http://www.usni.org/magazines/proceedings/2011-06/sweet-smell-acquisition-success |title=The Sweet Smell of Acquisition Success |publisher=U.S. Naval Institute |journal=Proceedings |volume=137 |issue=6/1,300 |date=June 2011 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+The ''Virginia'' class was intended in part as a less expensive alternative to the ''Seawolf''-class submarines ($1.8 billion vs $2.8 billion), whose production run was stopped after just three boats had been completed. To reduce costs, the ''Virginia''-class submarines use many &quot;[[commercial off-the-shelf]]&quot; (COTS) components, especially in their computers and data networks. In practice, they actually cost less than $1.8 billion (in fiscal year 2009 dollars) each, due to improvements in shipbuilding technology.&lt;ref name=&quot;baker1005&quot; /&gt;
+
+In hearings before both [[U.S. House of Representatives|House of Representatives]] and [[U.S. Senate|Senate]] committees, the [[Congressional Research Service]] (CRS) and expert witnesses testified that the procurement plans of the ''Virginia'' class – one per year, accelerating to two per year beginning in 2012 – would result in high unit costs and an insufficient number of attack submarines,  according to some of the witnesses and the committee chairman.&lt;ref name=&quot;fas1&quot;&gt;{{cite web |url=https://fas.org/man/congress/2000/00-06-27hunter.htm |title=Statement of The Honorable Duncan Hunter, Chairman, Subcommittee on Military Procurement, Submarine Force Structure and Modernization |publisher=[[Federation of American Scientists]] Military Analysis Network |date=27 June 2000 |accessdate=26 April 2015}}&lt;/ref&gt; In a 10 March 2005 statement to the House Armed Services Committee, Ronald O'Rourke of the CRS testified that, assuming that the production rate remains as planned, &quot;production economies of scale for submarines would continue to remain limited or poor.&quot;&lt;ref name=&quot;orourke1&quot;&gt;{{cite web |url=http://www.house.gov/hasc/testimony/109thcongress/Projection%20Forces/3-10-05O'RourkeCRS.pdf |format=PDF |title=Statement of Ronald O'Rourke Specialist in National Defense Congressional Research Service before the House Armed Services Committee Subcommittee on Projection Forces Hearing on Navy Force Architecture and Ship Construction |date=10 March 2005 |accessdate=1 March 2008 |archiveurl=http://webarchive.loc.gov/all/20060604000350/http%3A//www%2Ehouse%2Egov/hasc/testimony/109thcongress/Projection%2520Forces/3%2D10%2D05O%27RourkeCRS%2Epdf |archivedate= 4 June 2006 }}&lt;/ref&gt;
+
+In 2001, Newport News Shipbuilding and General Dynamics Electric Boat Company built a quarter-scale version of a ''Virginia''-class submarine dubbed Large Scale Vehicle II (LSV II) ''Cutthroat''. The vehicle was designed as an affordable test platform for new technologies.&lt;ref&gt;{{cite web |url=http://auvac.org/configurations/view/197 |title=AUV System Spec Sheet Cutthroat LSV-2 configuration |publisher=Antonymous Undersea Vehicle Applications Center |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_11/submarine_stealth.html |title=Small Subs Provide Big Payoffs for Submarine Stealth |work=Undersea Warfare |last=Fox |first=David M., CDR |format=PDF |date=Spring 2001 |volume=3 |number=3 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+The ''Virginia'' class is built through an industrial arrangement designed to keep both [[Electric Boat Corporation|GD Electric Boat]] and [[Newport News Shipbuilding]] (the only two U.S. shipyards capable of building nuclear-powered vessels) in the submarine-building business.&lt;ref name=&quot;fas3&quot;&gt;{{cite web|url=https://fas.org/programs/ssp/man/uswpns/navy/submarines/ssn774_virginia.html |title=SSN-774 Virginia-class NSSN New Attack Submarine |publisher=[[Federation of American Scientists]] |date=19 January 2009 |accessdate=6 August 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110707133458/http://www.fas.org/programs/ssp/man/uswpns/navy/submarines/ssn774_virginia.html |archivedate=7 July 2011}}&lt;/ref&gt; Under the present arrangement, the Newport News facility builds the stern, habitability, and machinery spaces, torpedo room, sail, and bow, while Electric Boat builds the engine room and control room. The facilities alternate work on the reactor plant as well as the final assembly, test, outfit, and delivery.
+
+O'Rourke wrote in 2004 that, &quot;Compared to a one-yard strategy, approaches involving two yards may be more expensive but offer potential offsetting benefits.&quot;&lt;ref name=RL32418 /&gt; Among the claims of &quot;offsetting benefits&quot; that O'Rourke attributes to supporters of a two-facility construction arrangement is that it &quot;would permit the United States to continue building submarines at one yard even if the other yard is rendered incapable of building submarines permanently or for a sustained period of time by a catastrophic event of some kind&quot;, including an enemy attack.
+
+In order to get the submarine's price down to $2 billion per submarine in FY-05 dollars, the Navy instituted a cost-reduction program to shave off approximately $400 million of each submarine's price tag. The project was dubbed &quot;2 for 4 in 12,&quot; referring to the Navy's desire to buy two boats for $4&amp;nbsp;billion in FY-12. Under pressure from Congress, the Navy opted to start buying two boats per year in FY-11, meaning that officials would not be able to get the $2&amp;nbsp;billion price tag before the service started buying two submarines per year. However, program manager Dave Johnson said at a conference on 19 March 2008 that the program was only $30&amp;nbsp;million away from achieving the $2&amp;nbsp;billion price goal, and would reach that target on schedule.&lt;ref&gt;{{cite web|url=http://insidedefense.com/secure/defense_docnum.asp?f=defense_2002.ask&amp;docnum=NAVY-21-12-4 |accessdate=25 March 2008 }}{{dead link|date=May 2016|bot=medic}}{{cbignore|bot=medic}}&lt;/ref&gt;
+
+The Virginia Class Program Office received the David Packard Excellence in Acquisition Award in 1996, 1998, 2008, &quot;for excelling in four specific award criteria: reducing life-cycle costs; making the acquisition system more efficient, responsive, and timely; integrating defense with the commercial base and practices; and promoting continuous improvement of the acquisition process&quot;.&lt;ref&gt;{{cite press release |url=http://www.navy.mil/submit/display.asp?story_id=40781 |title=Navy's Virginia Class Program Recognized for Acquisition Excellence |location=Washington, DC |publisher=Team Submarines Public Affairs |date=8 November 2008 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+In December 2008, the Navy signed a $14 billion contract with General Dynamics and Northrop Grumman to supply eight submarines. The contractors will deliver one submarine in each of fiscal 2009 and 2010, and two submarines on each of fiscal 2011, 2012, and 2013.&lt;ref&gt;{{cite news|url=http://www.nytimes.com/reuters/2008/12/22/business/business-us-navy-submarines.html|title=General Dynamics And Northrop Awarded Submarine Deal|work=[[The New York Times]]|date=22 December 2008}}{{dead link|date=September 2010}}&lt;/ref&gt; This contract will bring the Navy's ''Virginia''-class fleet to 18 submarines. And in December 2010, the [[United States Congress]] passed a defense authorization bill that expanded production to two subs per year.&lt;ref&gt;{{cite news|last=McDermott|first=Jennifer|url=http://www.theday.com/article/20101223/NWS09/312239514/-1/nws|title=House, Senate ok defense bill for 2011; sub plan stays on track|work=[[The Day (New London)|The Day]] |location=New London, Connecticut|date=23 December 2010|accessdate=26 April 2015}}&lt;/ref&gt; Two submarine-per-year production resumed on 2 September 2011 with commencement of {{USS|Washington|SSN-787|3}} construction.&lt;ref name=&quot;ssn787&quot;&gt;{{cite press release |url=http://www.navsea.navy.mil/Newswire2011/08SEP11-01.aspx |location=Washington, DC |publisher=NAVSEA – Naval Sea Systems Command|title=Construction Begins on SSN 787; Navy Transitions to Building Two Virginia Class Submarines Per Year|date=8 September 2011 |accessdate=11 November 2011}}&lt;/ref&gt;
+
+On 21 June 2008, the Navy christened {{USS|New Hampshire|SSN-778|3}}, the first Block II submarine. This boat was delivered eight months ahead of schedule and $54&amp;nbsp;million under budget. Block&amp;nbsp;II boats are built in four sections, compared to the ten sections of the Block I boats. This enables a cost saving of about $300 million per boat, reducing the overall cost to $2 billion per boat and the construction of two new boats per year. Beginning in 2010, new submarines of this class will include a software system that can monitor and reduce their [[Electromagnetism|electromagnetic]] signatures when needed.&lt;ref&gt;{{cite web |first=John |last=Pike |url=http://www.globalsecurity.org/military/systems/ship/ssn-774-spiral-1.htm |title=SSN-774 Virginia-class NSSN New Attack Submarine |website=Global Security |accessdate=26 April 2015}}&lt;/ref&gt;
+
+The first full-duration six-month deployment was successfully carried out from 15 October 2009 to 13 April 2010.&lt;ref&gt;{{cite web|last=Communication |first=Mass |url=http://www.public.navy.mil/subfor/csg2/Pages/VARFD.aspx |title=VARFD.aspx |publisher=Public.navy.mil |date= |accessdate=26 July 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20140222101140/http://www.public.navy.mil/subfor/csg2/Pages/VARFD.aspx |archivedate=22 February 2014 }}&lt;/ref&gt; Authorization of full-rate production and the declaration of full operational capability was achieved five months later.&lt;ref&gt;{{cite press release |author=&lt;!-- This story was written by Naval Sea Systems Command Team Submarine Public Affairs  --&gt; |url=http://www.navy.mil/submit/display.asp?story_id=55866 |title=Virginia Class Program Reaches Major Milestone |publisher=United States Navy |location=Washington, DC |date=10 October 2010 |accessdate=26 July 2013}}&lt;/ref&gt; In September 2010, it was found that urethane tiles, applied to the hull to damp internal sound and absorb rather than reflect sonar pulses, were falling off while the subs were at sea.&lt;ref&gt;{{cite web |first=Craig |last=Hooper |url=http://nextnavy.com/virginia-class-when-does-hull-coating-separation-endanger-the-boat/ |title=Virginia Class: When does hull coating separation endanger the boat? |website=Next Navy|date=6 September 2010 |accessdate=30 September 2012}}&lt;/ref&gt; Admiral Kevin McCoy announced that the problems with the Mold-in-Place Special Hull Treatment for the early subs had been fixed in 2011, then ''Minnesota'' was built and found to have the same problem.&lt;ref&gt;{{cite web |url=http://nextnavy.com/the-virginia-peel-why-are-2-billion-dollar-subs-losing-their-skin/ |title=The Virginia Peel: Why are $2 Billion Dollar Subs Losing Their Skin? |last1=Hooper |first1=Craig |date=7 November 2013 |website=Next Navy |accessdate=7 November 2013}}&lt;/ref&gt;
+
+[[Professor Ross Babbage]] of the [[Australian National University]] has called on Australia to buy or lease a dozen ''Virginia''-class submarines from the United States, rather than locally build [[Collins-class submarine replacement project|12 replacements]] for its {{sclass-|Collins|submarine|1}}s.&lt;ref&gt;{{cite journal|last=Mahnken|first=Tom|url=http://shadow.foreignpolicy.com/posts/2011/02/09/growing_concern_down_under|title=Growing concern down under|journal=[[Foreign Policy]]|date=9 February 2011|accessdate=23 November 2012}}&lt;/ref&gt;
+
+In 2013, just as two-per-year sub construction was supposed to commence, Congress failed to resolve the [[United States fiscal cliff]], forcing the Navy to attempt to &quot;de-obligate&quot; construction funds.&lt;ref&gt;{{cite web|author=Christopher Cavas|url=http://archive.defensenews.com/article/20130303/DEFREG02/303030004/U-S-Navy-Sets-Budget-Cutting-Plans-Motion |title=U.S. Navy Sets Budget-cutting Plans in Motion |publisher=Blogs.defensenews.com |date=2 March 2013 |accessdate=22 July 2015}}&lt;/ref&gt;
+
+== Innovations ==
+The ''Virginia'' class incorporates several innovations not found in previous US submarine classes.&lt;ref name=&quot;baker1005&quot;&gt;{{cite book |title=Combat Fleets of the World, 1998–1999 |last= Baker|first=A. D. III |year=1998 |location= USA|isbn= 1-55750-111-4|page=1005}}&lt;/ref&gt;
+
+=== Technology barriers ===
+Because of the low rate of ''Virginia'' production, the Navy entered into a program with [[DARPA]] to overcome technology barriers to lower the cost of attack submarines so that more could be built, to maintain the size of the fleet.&lt;ref&gt;{{cite report |last=O'Rourke |first=Ronald|url=https://fas.org/sgp/crs/weapons/RL32914.pdf|title=Navy Ship Acquisition: Options for Lower-Cost Ship Designs — Issues for Congress|series=RL32914|format=PDF|publisher=Congressional Research Service|date=23 June 2005|accessdate=23 November 2012}}&lt;/ref&gt;
+
+These include:&lt;ref&gt;{{cite web|url=http://www.darpa.mil/Our_Work/STO/Programs/Tango_Bravo.aspx|title=Tango Bravo|work=Strategic Technology Office|publisher=[[DARPA]]|accessdate=17 October 2012}}&lt;/ref&gt;
+* Propulsion concepts not constrained by a centerline shaft.
+* Externally stowed and launched weapons (especially torpedoes).
+* Conformal alternatives to the existing spherical sonar array.
+* Technologies that eliminate or substantially simplify existing submarine hull, mechanical, and electrical systems.
+* Automation to reduce crew workload for standard tasks
+
+=== Unified Modular Masts ===
+For the first time in history the design of the eight [[Radio masts and towers|masts]] in Virginia class has been unified in a Universal Modular Mast (UMM) program led by L-3 KEO&lt;ref&gt;{{cite web|url=http://www2.l-3com.com/keo/products/submarine.htm#o |title=Submarine Imaging |publisher=.l-3com.com |date= |accessdate=26 April 2015}}&lt;/ref&gt; (previously Kollmorgen):&lt;ref&gt;{{cite press release|url=http://www.l-3com.com/media-center/press-releases.html?pr_id=1658097 |title=L-3 Completes Acquisition of Kollmorgen Electro-Optical |number=212-697-1111 |publisher=L-3com.com |date=7 February 2012 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|publisher=SPIE Europe Ltd |url=http://optics.org/news/3/2/7 |title=L-3 completes $210M Kollmorgen acquisition |work=Optics.org |date=8 February 2012 |accessdate=26 April 2015}}&lt;/ref&gt; shared components have been maximised and some design choices are also shared between different masts. The first UMM was first installed on {{USS|Memphis|SSN-691|6}}, a ''Los Angeles''-class submarine.&lt;ref&gt;{{cite web|url=http://www2.l-3com.com/keo/pdfs/AD-16%20PMP%20datasht.pdf |title=Photonics Mast Program |format=PDF |publisher=L-3 KEO |date=20 March 2008 |accessdate=26 April 2015}}&lt;/ref&gt; The UMM is an integrated system for housing, erecting, and supporting submarine mast-mounted antennas and sensors.&lt;ref&gt;{{cite web |url=http://www.navy.mil/navydata/policy/vision/vis98/vis-p10.html |title=U.S. Navy: Vision&amp;nbsp;... Presence&amp;nbsp;... Power |publisher=US Navy |date=30 July 1998 |accessdate=26 April 2015}}&lt;/ref&gt; The UMMs are:&lt;ref name=&quot;seapower-digital1&quot;/&gt;
+*snorkel mast
+*two photonic masts&lt;ref name=&quot;seapower-digital1&quot;/&gt;
+*two (tactical) communication masts&lt;ref name=&quot;seapower-digital1&quot;/&gt;
+*one or two high-data-rate satellite communication (SATCOM) masts,&lt;ref&gt;{{cite speech |url=http://www.navy.mil/navydata/cno/n87/congress/fages062000.html |title=RADM Fages' 2000 Testimony
+|publisher=Chief of Naval Operations,  Submarine Warfare Division |date=27 June 2000 |accessdate=26 April 2015}}&lt;/ref&gt; built by Raytheon,&lt;ref name=&quot;raytheon1&quot;&gt;{{cite press release |url=http://investor.raytheon.com/phoenix.zhtml?c=84193&amp;p=irol-newsArticle&amp;ID=597551 |title=Raytheon to Produce SATCOM System for New Virginia Class Submarine; Contract Valued at $29.4 Million |publisher=Raytheon |date=28 July 2000 |accessdate=26 April 2015}}&lt;/ref&gt; enabling communication at Super High Frequency (for downlink) and Extremely High Frequency (for uplink) range&lt;ref name=&quot;raytheon1&quot;/&gt;&lt;ref&gt;{{cite web |url=http://www.afspc.af.mil/library/factsheets/factsheet.asp?id=7758 |title=Factsheets : Advanced Extremely High Frequency System |publisher=Air Force Space Command |date=25 March 2015 |accessdate=26 April 2015}}&lt;/ref&gt;
+*radar mast (carrying AN/BPS-16 surface search and navigation radar)&lt;ref&gt;{{cite web |url=http://www.navy.mil/navydata/fact_display.asp?cid=2100&amp;tid=309&amp;ct=2 |website=Fact File |title=AN/BPS-15/16 Radar |publisher=US Navy |date=6 December 2013 |accessdate=26 April 2015}}&lt;/ref&gt;
+*electronic warfare mast (AN/BLQ-10 Electronic Support Measures) used to detect, analyze, and identify both radar and communication signals from ships, aircraft, submarines, and land-based transmitters&lt;ref&gt;{{cite journal |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_11/ship_sensors_weapons.html |title=Ships, Sensors, and Weapons |publisher=US Navy |date=Spring 2001 |volume=3 |issue=3 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite conference |url=https://www.myaoc.org/eweb/images/aoc_library/Events/2002/102802_CONV/02CONV_Proceedings/Day3/Track4/Phelps.pdf |title=AN/BLQ-10(V): Submarine Electronic Warfare Support for the 21st Century |last=Phelps |first=William |format=PDF |conference=39th Annual AOC International Symposium and Convention |location=Nashville, Tennessee |publisher=Association of Old Crows |date=29 October 2002 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dote.osd.mil/pub/reports/FY2013/pdf/navy/2013anblq10.pdf |title=AN/BLQ-10 Submarine Electronic Warfare Support System |publisher=dote.osd.mil |format=PDF |accessdate=26 April 2015}}&lt;/ref&gt;
+
+===Photonics masts===
+The ''Virginia'' class is the first to utilize photonic sensors instead of a traditional [[periscope]]: the class is equipped with high-[[image resolution|resolution]] cameras, along with light-intensification and [[thermographic camera|infrared sensors]], an infrared [[laser rangefinder]], and an integrated [[Electronic Support Measures]] (ESM) array. Two redundant sets of these sensors are mounted on two [[AN/BVS-1]] [[photonics mast]]s&lt;ref name=&quot;baker1005&quot; /&gt; located outside the [[pressure hull]]. Signals from the masts' sensors are transmitted through [[optical fiber]] data lines through [[signal processor]]s to the control center.&lt;ref&gt;{{cite web|first=Claudio |last=Paschoa |url=http://www.marinetechnologynews.com/blogs/umm-photonics-mast-for-virginia-class-attack-submarines-700510 |title=UMM Photonics Mast for Virginia-class Attack |publisher=Marinetechnologynews.com |date=11 September 2014 |accessdate=26 April 2015}}&lt;/ref&gt; Visual feeds from the masts are displayed on [[liquid-crystal display]] interfaces in the command center.&lt;ref name=&quot;USW W99&quot;&gt;{{cite journal |last=Graves |first=Barbara |first2=Edward |last2=Whitman |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_02/virginia_class.htm |title=Virginia Class: America's Next Submarine |journal=Undersea Warfare |publisher=US Navy |date=Winter 1999 |volume=1 |number=2 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+The design of earlier optical periscopes required them to penetrate the pressure hull, reducing the structural integrity of the pressure hull as well as increasing the risk of flooding, and also required the submarine's control room to be located directly below the sail/fin.&lt;ref&gt;{{cite journal |last=Holian |first=Thomas |date=Fall 2004 |title=Eyes from the Deep: A History of U.S. Navy Submarine Periscopes |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_24/eyes.htm |work=Undersea Warfare |publisher=US Navy |accessdate=26 April 2015}}&lt;/ref&gt; Implementation of photonics masts (which do not penetrate the pressure hull) enabled the submarine control room to be relocated to a position inside the pressure hull which is not necessarily directly below the sail.&lt;ref name=&quot;seapower-digital1&quot;&gt;{{cite journal |url=http://www.seapower-digital.com/seapower/february_march_2015#pg1 |title=Sea Power |issue=February/March 2015 |publisher=Navy League of the United States |pages=22–25 |date=19 February 2015 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+The current photonics masts have a visual appearance so different from the ordinary periscopes that when the submarine is detected, it can be distinctly identified as a ''Virginia''-class vessel. As a result, current photonic masts will be replaced with Low-Profile Photonics Masts (LPPM) which resemble traditional submarine periscopes more closely.&lt;ref name=&quot;seapower-digital1&quot;/&gt;
+
+In the future, a non-rotational Affordable Modular Panoramic Photonics Mast may be fitted, enabling the submarine to obtain a simultaneous 360° view of the sea surface.&lt;ref&gt;{{cite web|url=http://www.onr.navy.mil/~/media/Files/Fact-Sheets/31/Affordable-Modular-Panoramic-Photonics.ashx |title=Affordable Modular Panoramic Photonics Mast |publisher=Office of Naval Research |date=October 2012 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.onr.navy.mil/en/Media-Center/Fact-Sheets/Affordable-Modular-Panoramic-Photonics-Mast.aspx |title=Affordable Modular Panoramic Photonics |publisher=Office of Naval Research |date= |accessdate=26 April 2015}}&lt;/ref&gt;
+
+=== Propulsor ===
+In contrast to a traditional bladed propeller, the ''Virginia'' class uses [[pump-jet]] propulsors (built by [[BAE Systems]]),&lt;ref&gt;{{cite press release |url=http://www.baesystems.com/article/BAES_049643/bae-systems-delivers-first-us-navy-submarine-propulsor-from-louisville-facility-receives-additional-243-million-contract |title=BAE Systems Delivers First U.S. Navy Submarine Propulsor from Louisville Facility, Receives Additional $24.3 Million Contract |publisher=BAE Systems |date=1 June 2012 |accessdate=26 April 2015}}&lt;/ref&gt; originally developed for the [[Royal Navy]]'s {{sclass-|Swiftsure|submarine|1}}s.&lt;ref&gt;
+{{cite book
+|last=Hool
+|first=Jack
+|last2=Nutter
+|first2=Keith
+|title=Damned Un-English Machines, a history of Barrow-built submarines
+|publisher=Tempus
+|year=2003
+|isbn=0-7524-2781-4
+|page=180
+}}&lt;/ref&gt; The propulsor significantly reduces the risks of [[cavitation]], and allows quieter operation.
+
+=== Improved sonar systems ===
+[[Sonar]] arrays aboard ''Virginia''-class submarines have an &quot;[[Open system (computing)|Open System Architecture]]&quot; (OSA) which enables rapid insertion of new hardware and software as they become available. [[Hardware upgrade]]s (dubbed Technology Insertions) are usually carried out every four years, while [[software update]]s (dubbed Advanced Processor Builds) are carried out every two years. ''Virginia''-class submarines feature several types of sonar arrays.&lt;ref name=&quot;npg13&quot;&gt;{{cite web |url=http://www.navy.mil/navydata/policy/seapower/npg13/top-npg13.pdf |title=US Navy Program Guide 2013 |publisher=US Navy |date=2013 |accessdate=26 April 2015}}&lt;/ref&gt;
+
+* BQQ-10 bow-mounted spherical [[active sonar|active]]/[[Passive sonar|passive]] sonar array&lt;ref name=&quot;npg13&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.soltron.co.kr/data/file/tech1_13/990609174_a5GOlHdf_Sonar_Type_Descriptions.pdf |title=APPENDIX C Exercise and Sonar Type Descriptions |format=PDF |date=December 2008 |accessdate=26 April 2015}}&lt;/ref&gt; (Large Aperture Bow (LAB) sonar array from SSN-784 onwards)
+* A wide aperture lightweight fiber optic sonar array, consisting of three flat panels mounted low along either side of the hull&lt;ref&gt;{{cite web |url=http://www.northropgrumman.com/Capabilities/SubmarineHullArrays/Pages/default.aspx |title=Submarine Hull Arrays |publisher=Northropgrumman.com |date= |accessdate=26 April 2015}}&lt;/ref&gt;
+* Two high frequency active sonars mounted in the sail and bow. The chin-mounted (below the bow) and sail-mounted high frequency sonars supplement the (spherical/LAB) main sonar array, enabling safer operations in coastal waters, enhancing under-ice navigation, and improving [[anti-submarine warfare]] performance.&lt;ref&gt;
+{{cite web
+|url=http://www.ultra-os.com/special.php
+|title=Special Purpose Sonar
+|publisher=Ultra Electronics Ocean Systems
+|accessdate=26 April 2015
+}}&lt;/ref&gt;&lt;ref&gt;{{cite journal
+|url=http://www.navy.mil/navydata/cno/n87/usw/issue_3/uss_asheville.htm
+|title=USS ''Asheville'' Leads the Way in High Frequency Sonar
+|work=Undersea Warfare 
+|volume=1
+|issue=3
+|year=1999
+|first=Leonard, LTJG
+|last=Moreavek
+|first2=T.J
+|last2=Brudner
+|accessdate=26 April 2015
+}}&lt;/ref&gt;
+
+* Low-Cost [[wikt:Conformal|Conformal]] Array (LCCA) [[high frequency]] sonar, mounted on both sides of the submarine's sail. Provides coverage above and behind the submarine.&lt;ref&gt;{{cite web|last=Keller |first=John |url=http://www.militaryaerospace.com/articles/2012/03/lockheed-martin-to-provide-navy-submarines-with-360-degree-situational-awareness-sail-mounted-sonar.html |title=Lockheed Martin to provide Navy submarines with 360-degree situational-awareness sail-mounted sonar |publisher=Military &amp; Aerospace Electronics |date=25 March 2012 |accessdate=26 April 2015}}&lt;/ref&gt;
+ 
+''Virginia''-class submarines are also equipped with a low frequency [[towed array sonar|towed sonar array]] and a high frequency towed sonar array.&lt;ref name=&quot;military.com&quot;&gt;{{cite web |url=http://www.military.com/equipment/virginia-class-attack-submarine-ssn |title=Virginia Class Attack Submarine - SSN |publisher=Military.com |accessdate=26 April 2015}}&lt;/ref&gt; 
+* TB-16 or TB-34 fat line tactical towed sonar array&lt;ref name=&quot;autogenerated3&quot;&gt;{{cite web|url=http://www.dote.osd.mil/pub/reports/FY2013/pdf/navy/2013arci.pdf |title=Acoustic Rapid Commercial Off‑the‑Shelf (COTS) Insertion (A-RCI) and AN/BYG‑1 Combat Control System |publisher=dote.osd.mil |format=PDF |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref name=&quot;globalsecurity1&quot;&gt;{{cite web|url=http://www.globalsecurity.org/military/library/budget/fy2009/dot-e/navy/2009arci.pdf |title=Acoustic Rapid Commercial Off-the-Shelf (COTS) Insertion for Sonar AN/BQQ-10 (V) (A-RCI) |publisher=GlobalSecurity.org |format=PDF |date= |accessdate=26 April 2015}}&lt;/ref&gt;
+* TB-29 or TB-33 thin line long-range search towed sonar array&lt;ref name=&quot;autogenerated3&quot;/&gt;&lt;ref name=&quot;globalsecurity1&quot;/&gt;
+
+=== Rescue equipment ===
+* SEIE MK11 suit(s) – enable ascent from a sunken submarine (maximum ascent depth 600 feet)&lt;ref name=&quot;npg13&quot;/&gt;&lt;ref&gt;{{cite web|author=Crafty Devil - Survitec Group |url=http://www.survitecgroup.com/products/seie-mk11 |title=Products » RFD Beaufort - SEIE MK11 |publisher=Survitec Group |date= |accessdate=26 April 2015}}&lt;/ref&gt;
+* [[lithium hydroxide]] canisters that remove [[carbon dioxide]] from the submarine's atmosphere&lt;ref name=&quot;npg13&quot;/&gt;
+* Submarine Emergency Position Indicating Radio Beacon (SEPIRB)&lt;ref&gt;{{cite web|url=http://www.ultra-os.com/underwater.php |title=Ultra Electronics Ocean Systems - Underwater Communications |publisher=Ultra Electronics |date= |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite book |title=SSN 774 Class Guard Book - Disabled Submarine Survival Guide - Aft Escape Trunk (Logistics Escape Truck) 
+|url=http://www.public.navy.mil/fltfor/insurv3/Getting_Inspected/Documents/Submarine/References/Survivability%20and%20Escape/774_Guard_Book/774CL%20Aft%20Guard%20Book%20S9594-AP-SAR-H10%20Rev00%20with%20ACN%201-1%20ACN%201-2%20ACN%201-3.pdf |format=PDF |at=Card 6I |publisher=US Navy |date=29 March 2012 |access-date=4 June 2015}}&lt;/ref&gt;
+
+=== Virginia Payload Module ===
+[[File:150801-N-EO381-162.JPG|thumb|right|{{USS|John Warner|SSN-785|6}} alongside, with forward Virginia Payload Tube hatch open]]
+The Block III submarines have two multipurpose Virginia Payload Tubes (VPT) replacing the dozen single purpose cruise missile launch tubes.&lt;ref&gt;{{cite news |url=http://breakingdefense.com/2014/04/navy-sub-program-stumbles-ssn-north-dakota-delayed-by-launch-tube-troubles/ |title=Navy Sub Program Stumbles: SSN North Dakota Delayed By Launch Tube Troubles |last1=Freedberg Jr. |first1=Sydney J. |date=16 April 2014 |work=Breaking Defense |publisher=Breaking Media, Inc. |accessdate=16 April 2014}}&lt;/ref&gt;
+
+The Block V submarines built from 2019 onward will have an additional Virginia Payload Module (VPM) mid-body section, increasing their overall length. The VPM will add four more VPTs of the same diameter and greater height, located on the centerline, carrying up to seven Tomahawk missiles apiece, that would replace some of the capabilities lost when the SSGN conversion {{sclass-|Ohio|submarine|1}}s are retired from the fleet.&lt;ref name=RL32418 /&gt;&lt;ref name=&quot;VPM&quot; &gt;{{cite journal |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/issues/archives/issue_47/virginia.html |title=The Virginia Payload Module: A Revolutionary Concept for Attack Submarines |last1=Hasslinger |first1=Karl, CAPT, USN (ret) |last2=Pavlos |first2=John |journal=Undersea Warfare |date=Winter 2012 |issue=47 |publisher=US Navy |accessdate=16 April 2014}}&lt;/ref&gt; Initially eight payload tubes/silos were planned&lt;ref name=&quot;VPM&quot; /&gt; but this was later rejected in favour of 4 tubes installed in a 70-foot long module between the operations compartment and the propulsion spaces.&lt;ref name=&quot;VPM&quot; /&gt;&lt;ref&gt;{{cite news |url=http://news.usni.org/2013/11/04/navy-selects-virginia-payload-module-design-concept |title=Navy Selects Virginia Payload Module Design Concept |work=USNI News |publisher=U. S. Naval Institute |date=4 November 2013 |accessdate=17 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.usni.org/2013/10/24/document-peo-subs-overview-u-s-navy-undersea-programs#more-5177 |title=Document: PEO Subs Overview of U.S. Navy Undersea Programs |work=USNI News |publisher=U.S. Naval Institute |date=24 October 2013 |accessdate=17 November 2013}}&lt;/ref&gt;
+
+The VPM could potentially carry (non-nuclear) medium-range ballistic missiles. Adding the VPM would increase the cost of each submarine by $500 million (2012 prices).&lt;ref&gt;{{cite web |last=Grossman |first=Elaine M. |url=http://www.nti.org/gsn/article/us-senate-panel-limits-navy-effort-add-missiles-attack-submarines/ |title=U.S. Senate Panel Curbs Navy Effort to Add Missiles to Attack Submarines |agency=Global Security Newswire |publisher=Nuclear Threat Initiative |date=1 August 2012 |accessdate=6 February 2013}}&lt;/ref&gt; This additional cost would be offset by reducing the total submarine force by four ships.&lt;ref&gt;{{cite news |last=Cavas |first=Christopher P. |url=http://archive.navytimes.com/article/20130204/NEWS/302040306/Navy-cuts-fleet-goal-to-306-ships |title=Navy cuts fleet goal to 306 ships |work=Navy Times |date=4 February 2013 |accessdate=6 February 2013}}&lt;/ref&gt; More recent reports state that as a cost reduction measure the VPM would carry only Tomahawk SLCM and possibly unmanned undersea vehicles (UUV) with the new price tag now estimated at $360–380 million per boat (in 2010 prices). The VPM launch tubes/silos will reportedly be similar in design to the ones planned for the ''Ohio'' class replacement.&lt;ref&gt;{{cite web |last=Ross |first=Robert T. |url=http://www.ct.gov/oma/cwp/view.asp?a=3422&amp;q=525006 |title=Lower Ohio-Class Replacement Cost Tied To VA-Class Multiyear Deal: Could Achieve 8 To 15 Percent Savings |website=State of Connecticut, Office of Military Affairs |date=17 May 2013 |accessdate=26 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |first=Kris |last=Osborn |url=http://defensetech.org/2014/01/28/navy-electric-boat-test-tube-launched-underwater-vehicle/ |title=Navy, Electric Boat Test Tube-Launched Underwater Vehicle |publisher=Defense Tech |location=Groton, Connecticut |date=28 January 2014 |accessdate=9 February 2014}}&lt;/ref&gt; {{Asof|September 2013}} the [[Chief of Naval Operations]] (CNO) was still hoping to field the VPM from 2027,&lt;ref name=Greenert20130918&gt;{{cite report |url=http://docs.house.gov/meetings/AS/AS00/20130918/101291/HHRG-113-AS00-Wstate-GreenertUSNJ-20130918.pdf |format=PDF |first=Jonathan, Admiral |last=Greenert |authorlink=Jonathan Greenert |title=Statement Before The House Armed Services Committee On Planning For Sequestration In FY 2014 And Perspectives Of The Military Services On The Strategic Choices And Management Review |date=18 September 2013 |publisher=US House of Representatives |accessdate=21 September 2013}}&lt;/ref&gt; but deployment now seems unlikely since the [[Joint Requirements Oversight Council]] (JROC) moved the program in February 2013 from the 'Prompt Strike' budget to the main Navy shipbuilding account, which is already under financial pressure.&lt;ref&gt;{{cite news |url=http://www.nationaljournal.com/global-security-newswire/pentagon-lawmakers-deal-blows-to-navy-fast-strike-missile-effort-20130731 |title=Pentagon, Lawmakers Deal Blows to Navy Fast-Strike Missile Effort |first=Elaine M. |last=Grossman |agency=Global Security Newswire |location=Washington, DC |publisher=National Journal |date=31 July 2013 |access-date=4 June 2015}}&lt;/ref&gt;
+
+=== Other improved equipment ===
+[[File:US Navy 040822-N-2653P-344 One of PCU Virginia's (SSN 774) new components is it's diesel generator, a Caterpillar 3512B V-12 Twin-turbo charged engine.jpg|thumb|''Virginia''-class Diesel Generator Control Panel]]
+
+* [[optical fiber]] [[fly-by-wire]] '''Ship Control System''' replaces electro-hydraulic systems for control surface actuation.
+* [[Command and control]] system module (CCSM) built by Lockheed Martin.&lt;ref name='Naval-TechNSSN'&gt;{{cite web|url=http://www.naval-technology.com/projects/nssn/ |title=NSSN Virginia Class Attack Submarine |publisher=naval-technology |date=15 June 2011 |accessdate=26 April 2015}}{{Unreliable source?|reason=domain on WP:BLACKLIST|date=June 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=Kearney |first=Tom, CDR |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_11/pcu_virginia.html |title=Status Report: PCU Virginia (SSN-774) |journal=Undersea Warfare |publisher=US Navy |date=Spring 2001 |volume=3 |number=3 |accessdate=26 April 2015}}&lt;/ref&gt;
+* Modernized version of the AN/BSY-1 integrated combat system&lt;ref name=&quot;SSN-774 Virginia class&quot;/&gt; designated AN/BYG-1 (previously designated CCS Mk2) and built by [[General Dynamics]] AIS (previously [[Raytheon]]).&lt;ref&gt;{{cite web|url=http://raytheon.mediaroom.com/index.php?s=43&amp;item=360 |title=Raytheon Delivers Submarine Combat System to Royal Australian Navy |publisher=Raytheon |date=30 January 2006 |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.defenseindustrydaily.com/General-Dynamics-To-Upgrade-Submarine-Weapons-Control-Systems-05631/|title=General Dynamics To Upgrade Submarine Weapons Control Systems |date=21 July 2009 |work=Defense Industry Daily |accessdate=26 April 2015}}&lt;/ref&gt; AN/BYG-1 integrates the submarine Tactical Control System (TCS) and Weapon Control System (WCS).&lt;ref&gt;{{cite web|url=http://www.gd-ais.com/Domains/ANBYG-1-Submarine-Tactical-Control-System-(TCS) |title=AN/BYG-1 Submarine Tactical Control System (TCS) |publisher=General Dynamics |date= |accessdate=26 April 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.militaryaerospace.com/articles/2013/06/gd-cots-submarine.html |title=General Dynamics continues project to upgrade submarine electronics with COTS computers |publisher=Military &amp; Aerospace Electronics |date=27 June 2013 |accessdate=26 April 2015}}&lt;/ref&gt;
+* {{USS|California|SSN-781|6}} was the first ''Virginia''-class submarine with the advanced electromagnetic signature reduction system built into it, but this system is being retrofitted into the other submarines of the class.&lt;ref&gt;
+{{cite web
+|url=http://www.gao.gov/new.items/d09326sp.pdf
+|title=GAO-09-326SP
+|format=PDF
+|publisher=[[Government Accounting Office]]
+|date=March 2009
+|accessdate=26 April 2015
+}}&lt;/ref&gt;
+
+* Integral 9-man lock-out chamber.&lt;ref name=&quot;aticourses&quot;&gt;
+{{cite web
+|url=http://www.aticourses.com/blog/index.php/2011/07/19/uss-virginia-ssn-774a-new-steel-shark-at-sea/
+|title=USS Virginia SSN-774-A New Steel Shark at Sea
+|publisher=Applied Technology Institute
+|accessdate=26 April 2015
+}}&lt;/ref&gt;
+
+== Specifications ==
+[[File:USS Texas (SSN-775) christening ceremony.jpg|thumb|The christening of {{USS|Texas|SSN-775|6}}]]
+[[File:774 Virginia construction.jpg|thumb|{{USS|Virginia|SSN-774|6}} under construction]]
+[[File:US Navy 080621-N-8467N-001 Pre-commissioning Unit New Hampshire (SSN 778) sits moored to the pier at General Dynamics Electric Boat shipyard moments before her christening ceremony commenced.jpg|thumb|{{USS|New Hampshire|SSN-778|6}}, the first of the Block II vessels]]
+* Builders: [[Electric Boat Corporation|GD Electric Boat]] and [[Huntington Ingalls Industries|HII Newport News Shipbuilding]]
+* Length: {{convert|377|ft|m|2|abbr=on}}
+* Beam: {{convert|34|ft|m|2|abbr=on}}
+* Displacement: {{convert|7800|LT|sp=us}}
+* Payload: 40 weapons, [[special operations force]]s, [[unmanned undersea vehicle]]s, Advanced [[United States Navy SEALs|SEAL]] Delivery System ([[Advanced SEAL Delivery System|ASDS]])
+* Propulsion: The [[S9G reactor|S9G nuclear reactor]] delivering 40,000 shaft horse power.&lt;ref&gt;{{cite thesis |last=Ragheb |first=M. |title=Nuclear Marine Propulsion |url=http://www.ewp.rpi.edu/hartford/~ernesto/F2010/EP2/Materials4Students/Misiaszek/NuclearMarinePropulsion.pdf |format=PDF |publisher=Rensselaer Polytechnic Institute |date=11 November 2010 |access-date=4 June 2015}}&lt;/ref&gt; Nuclear core life estimated at 33 years.&lt;ref&gt;{{cite web
+ |url=http://www.alternatewars.com/BBOW/Nuclear/US_Naval_Reactors.htm
+ |title=U.S. Naval Reactors
+ |accessdate=4 December 2012
+ }}&lt;/ref&gt;
+* Maximum diving depth: greater than {{convert|800|ft|m|abbr=on}}, allegedly around {{convert|1600|ft}}&lt;ref name=&quot;aticourses&quot; /&gt;
+* Speed: Greater than {{convert|25|kn}},&lt;ref name=&quot;NavyFactFile&quot; &gt;{{cite web|title=Attack Submarines – SSN |url=http://www.navy.mil/navydata/fact_display.asp?cid=4100&amp;tid=100&amp;ct=4 |work=Fact Sheet |publisher=U.S. Navy |date=10 September 2010 |accessdate=5 July 2007}}&lt;/ref&gt; allegedly up to {{convert|34|kn}}&lt;ref name=&quot;aticourses&quot; /&gt;&lt;ref&gt;{{cite web
+  |url=http://www.navalreview.ca/wp-content/uploads/public/vol3num4/vol3num4art11.pdf
+  |title=Submarine Developments: Air-Independent Propulsion
+  |first=Doug  |last=Thomas
+  |work=Canadian Naval Review
+  |year=2008
+  |volume=3  |issue=4
+  |format=PDF
+  |accessdate=15 December 2012
+}}&lt;/ref&gt;
+* Planned cost: about US$1.65 billion each (based on FY95 dollars, 30-ship class and two ship/year build-rate)
+* Actual cost: US$1.5 billion (in 1994 prices), US$2.6 billion (in 2012 prices)&lt;ref&gt;{{cite news  |url=http://www.gao.gov/assets/230/220367.pdf|title=Lessons of Prior Programs May Reduce New Attack Submarine Cost Increases and Delays|author1=[[Ted Kennedy]]|author2=[[John Conyers]]|date=20 October 1994|work=[[Government Accountability Office]]|accessdate=12 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web  |url=http://www.defenseindustrydaily.com/Virginia-Class-Sub-Program-Wins-Acquisition-Award-05167/ |title=Virginia Class Sub Program Wins Acquisition Award |publisher=Defenseindustrydaily.com |date=20 November 2008 |accessdate=23 March 2013}}&lt;/ref&gt;
+* Annual operating cost: $50 million per unit&lt;ref&gt;{{cite web
+ |url=http://www.onlineopinion.com.au/view.asp?article=14311
+ |title=Facts favour nuclear-powered submarines
+ |first=Simon |last=Cowan
+ |date=5 November 2012
+ |accessdate=9 November 2012
+ }}&lt;/ref&gt;
+* Crew: 120 enlisted and 14 officers
+* Armament: 12 [[Vertical Launching System|VLS]] &amp; four [[torpedo]] tubes, capable of launching [[Mark 48 torpedo]]es, [[Tactical Tomahawk|UGM-109 Tactical Tomahawks]], [[Harpoon (missile)]]s&lt;ref&gt;{{cite web
+|url=http://news.usni.org/2016/02/18/west-u-s-navy-anti-ship-tomahawk-set-for-surface-ships-subs-starting-in-2021
+|title=WEST: U.S. Navy Anti-Ship Tomahawk Set for Surface Ships, Subs Starting in 2021
+|accessdate=18 February 2016
+}}&lt;/ref&gt; and the new advanced mobile [[naval mine|mine]] when it becomes available.{{citation needed|date=February 2016}}
+* Decoys: Acoustic Device Countermeasure Mk 3/4&lt;ref&gt;{{cite web
+|url=http://www.ultra-os.com/acoustic.php
+|title=Acoustic Countermeasures
+|publisher=Ultra Electronics Ocean Systems
+|accessdate=15 December 2012
+}}&lt;/ref&gt;
+
+== Boats ==
+
+=== Block I ===
+Modular construction techniques were incorporated during construction.&lt;ref&gt;{{cite web |last=Patani |first=Arif |url=http://navylive.dodlive.mil/2012/09/24/next-generation-ohio-class/ |title=Next Generation Ohio-Class |website=Navy Live |publisher=US Navy |date=24 September 2012 |accessdate=21 April 2013}}&lt;/ref&gt; Earlier submarines (e.g., ''Los Angeles''-class SSNs) were built by assembling the pressure hull and then installing the equipment via cavities in the pressure hull. This required extensive construction activities within the narrow confines of the pressure hull which was time-consuming and dangerous. Modular construction was implemented in an effort to overcome these problems and make the construction process more efficient. Modular construction techniques incorporated during construction include constructing large segments of equipment outside the hull. These segments (dubbed rafts) are then inserted into a hull section (a large segment of the pressure hull). The integrated raft and hull section form a module which, when joined with other modules, forms a ''Virginia''-class submarine.&lt;ref name=Holmander&gt;{{cite news |first1=John D. |last1=Holmander |first2=Thomas |last2=Plante |title=The Four-Module Build Plan: The Second Decade of Virginia-class Construction Gets Better |journal=Undersea Warfare |url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_43/build_plan.html |publisher=US Navy |date=Winter 2011 |issue=43 |access-date=4 June 2015}}&lt;/ref&gt; Block I boats were built in 10 modules with each submarine requiring roughly 7 years (84 months) to build.&lt;ref&gt;{{cite conference |last1=Johnson |first1=David C., RDML (sel.) |first2=George M. |last2=Drakeley |first3=George M. |last3=Smith |title=Engineering the Solution: Virginia-Class Submarine Cost Reduction |conference=Engineering the Total Ship (ETS) 2008 |url=https://www.navalengineers.org/SiteCollectionDocuments/2008%20Proceedings%20Documents/ETS%202008/VA%20Class%20ASNE%20Paper%20FINAL.pdf |format=PDF |location=Falls Church, Virginia |publisher=American Society of Naval Engineers |date=23 September 2008 |accessdate=21 April 2013}}&lt;/ref&gt; 
+{|class=&quot;wikitable&quot;
+|- bgcolor=&quot;#efefef&quot;
+! Name
+! Hull number
+! Builder
+! Ordered
+! Laid down
+! Launched
+! Commissioned 
+! Status
+|-
+|{{USS|Virginia|SSN-774|2}}
+|SSN-774
+|[[General Dynamics Electric Boat]], [[Groton, Connecticut|Groton]]
+|rowspan=4|30 September 1998
+|2 September 1999
+|16 August 2003
+|23 October 2004
+|Active in service&lt;ref&gt;{{cite press release |first=Mark O. |last=Piggott |title=Commissioning of USS Virginia Ushers in New Era of Undersea Warfare |url=http://www.navy.mil/submit/display.asp?story_id=15662 |location=Norfolk, Virginia |publisher=Commander, Submarine Force, U.S. Atlantic Fleet Public Affairs |date=24 October 2004 |access-date=5 June 2015}}&lt;/ref&gt;
+|-
+|{{USS|Texas|SSN-775|2}}
+|SSN-775
+|[[Newport News Shipbuilding]], [[Newport News, Virginia|Newport News]]
+|12 July 2002
+|9 April 2005
+|9 September 2006
+|Active in service&lt;ref&gt;{{cite press release |first=Scott |last=Shoffner |title=Texas Arrives In Galveston |location=Galveston, Texas |publisher=Commander, Naval Submarine Force, Atlantic Fleet Public Affairs |url=http://www.navy.mil/submit/display.asp?story_id=25410 |date=5 September 2006 |access-date=5 June 2015}}&lt;/ref&gt;
+|-
+|{{USS|Hawaii|SSN-776|2}}
+|SSN-776
+|General Dynamics Electric Boat, Groton
+|27 August 2004
+|17 June 2006
+|5 May 2007
+|Active in service&lt;ref&gt;{{cite press release |first=Ira J. |last=Elinson |title=Navy Commissions USS Hawaii |url=http://www.navy.mil/submit/display.asp?story_id=29224  |location=Groton, Connecticut |publisher=Naval Submarine Base New London Public Affairs |date=5 May 2007 |access-date=5 June 2015}}&lt;/ref&gt;
+|-
+|{{USS|North Carolina|SSN-777|2}}
+|SSN-777
+|Newport News Shipbuilding, Newport News
+|22 May 2004
+|5 May 2007
+|3 May 2008
+|Active in service&lt;ref&gt;{{cite press release |first=Jennifer, LT |last=Zeldis |title=USS North Carolina Joins the Fleet |url=http://www.navy.mil/submit/display.asp?story_id=36836 |location=Wilmington, North Carolina |publisher=Fleet Public Affairs Center Atlantic |date=4 May 2008 |access-date=5 June 2015}}&lt;/ref&gt;
+|}
+
+=== Block II ===
+Block II boats were built in four sections rather than ten sections, saving about $300 million per boat. Block II boats (excluding SSN-778) were also built under a multi-year procurement agreement as opposed to a block-buy contract in Block I, enabling savings in the range of $400 million ($80 million per boat).&lt;ref name=RL32418/&gt;&lt;ref name=Butler/&gt; As a result of improvements in the construction process, ''New Hampshire'' was 500 million USD cheaper, required 3.7 million fewer labor hours to build (25% less) thus shortening the construction period by 15 months (20% less) compared to ''Virginia''.&lt;ref name=Holmander/&gt;
+{|class=&quot;wikitable&quot;
+|- bgcolor=&quot;#efefef&quot;
+! Name
+! Hull number
+! Builder
+! Ordered
+! Laid down
+! Launched
+! Commissioned 
+! Status
+|-
+|{{USS|New Hampshire|SSN-778|2}}
+|SSN-778
+|General Dynamics Electric Boat, Groton
+|rowspan=6|14 August 2003
+|30 April 2007
+|21 February 2008
+|25 October 2008&lt;ref&gt;{{cite press release |first=Jennifer, LT |last=Zeldis |title=USS New Hampshire Joins Fleet |url=http://www.navy.mil/submit/display.asp?story_id=40532 |location=Kittery, Maine |publisher=Fleet Public Affairs Center Atlantic |date=26 October 2008 |access-date=5 June 2015}}&lt;/ref&gt;
+|Active in service
+|-
+|{{USS|New Mexico|SSN-779|2}}
+|SSN-779
+|Newport News Shipbuilding, Newport News
+|12 April 2008
+|18 January 2009
+|27 March 2010&lt;ref&gt;{{cite press release |first=Kleynia |last=McKnight |title=Submarine New Mexico Joins the Fleet  |url=http://www.navy.mil/submit/display.asp?story_id=52227 |location=Norfolk, Virginia |publisher=Navy Public Affairs Support Element - East |date=27 March 2010 |access-date=5 June 2015}}&lt;/ref&gt;
+|Active in service
+|-
+|{{USS|Missouri|SSN-780|2}}
+|SSN-780
+|General Dynamics Electric Boat, Groton
+|27 September 2008
+|20 November 2009
+|31 July 2010&lt;ref&gt;{{cite press release |first=T.H. |last=Merritt |title=USS Missouri Joins Commissioned Fleet  |url=http://www.navy.mil/submit/display.asp?story_id=55038 |location=Groton, Connecticut |publisher=Submarine Group 2 Public Affairs |date=1 August 2010 |access-date=5 June 2015}}&lt;/ref&gt;&lt;ref name=&quot;NVR Missouri&quot;&gt;
+{{cite web
+|url={{NVR url|id=SSN780}}
+|title=USS Missouri
+|publisher=United States Navy
+|date=29 August 2010
+|accessdate=29 August 2010
+}}&lt;/ref&gt;
+|Active in service
+|-
+|{{USS|California|SSN-781|2}}
+|SSN-781
+|[[Huntington Ingalls Industries]], Newport News
+|1 May 2009
+|14 November 2010
+|29 October 2011&lt;ref&gt;{{cite press release |first=Eric, ENS |last=Durie |title=Navy's Newest Submarine, California Namesake Joins Fleet in Norfolk  |url=http://www.navy.mil/submit/display.asp?story_id=63550 |location=Norfolk, Virginia |publisher=Commander, Submarine Force, U.S. Atlantic Fleet Public Affairs |date=29 October 2011 |access-date=5 June 2015}}&lt;/ref&gt;
+|Active in service
+|-
+|{{USS|Mississippi|SSN-782|2}}
+|SSN-782
+|General Dynamics Electric Boat, Groton
+|9 June 2010
+|10 December 2011
+|2 June 2012&lt;ref&gt;{{cite press release |first=Hayley, LT |last=Sims |title=USS Mississippi Commissioned in Namesake State |url=http://www.navy.mil/submit/display.asp?story_id=67569 |location=Pascagoula, Mississippi |publisher=Commander, Submarine Force, U.S. Atlantic Fleet Public Affairs  |date=4 June 2012 |access-date=5 June 2015}}&lt;/ref&gt;
+|Active in service
+|-
+|{{USS|Minnesota|SSN-783|2}}
+|SSN-783
+|Huntington Ingalls Industries, Newport News
+|20 May 2011
+|10 November 2012
+|7 September 2013&lt;ref&gt;{{cite press release |title=Navy to Christen Submarine Minnesota  |url=http://www.navy.mil/submit/display.asp?story_id=70343 |location=Washington, DC |publisher=Department of Defense Public Affairs  |date=25 October 2012 |access-date=5 June 2015}}&lt;/ref&gt;&lt;ref name=&quot;Pioneer Press&quot;&gt;
+{{cite news |last=Lindberg |first=Joseph |title=Submarine USS Minnesota to be commissioned Saturday
+|url=http://www.twincities.com/localnews/ci_21844456/uss-minnesota-be-christened-saturday
+|work=[[St. Paul Pioneer Press]] |date=24 October 2012 |access-date=27 October 2012 }}&lt;/ref&gt;
+|Active in service
+|}
+
+=== Block III ===
+[[File:USS North Dakota (SSN-784) at sea in August 2014.JPG|thumb|{{USS|North Dakota|SSN-784|2}} is first of the VPT-equipped Block III ''Virginia''s]]
+[[File:USS North Dakota (SSN-784) overhead photo in August 2014.JPG|thumb|Overhead view of the Block III {{USS|North Dakota|SSN-784|2}}]]
+{{USS|North Dakota|SSN-784|1}} through approximately [[SSN-791]] are planned to make up the Third Block or &quot;Flight&quot; and began construction in 2009. Block III subs feature a revised bow with a Large Aperture Bow (LAB) sonar array, as well as technology from ''Ohio''-class [[SSGN]]s (2 VLS tubes each containing 6 missiles).&lt;ref name=&quot;RevisedBow&quot;&gt;{{cite news |date=21 December 2008 |title=Virginia Block III: The Revised Bow |work=Defense Industry Daily |url=http://www.defenseindustrydaily.com/virginia-block-iii-the-revised-bow-04159/ |accessdate=May 20, 2008 }}&lt;/ref&gt; The horseshoe-shaped LAB sonar array replaces the spherical main sonar array which has been used on all U.S. Navy SSNs since 1960.&lt;ref name=Butler/&gt;&lt;ref&gt;{{cite web |url=http://www.navy.mil/navydata/cno/n87/history/subhistory3.html |title=Submarine Technology Through the Years |website=Chief of Naval Operations, Submarine Warfare Division, Submarine History |publisher=US Navy |date=19 July 1997 |accessdate=March 23, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |first=Paul |last=Lambert |url=http://www.usstullibee.com/tullibeehistory.html |title=Official USS Tullibee (SSN 597) Web Site - USS Tullibee History |date= |accessdate=March 23, 2013}}&lt;/ref&gt; The LAB sonar array is water-backed—as opposed to earlier sonar arrays which were air-backed—and consists of a passive array and a medium-frequency active array.&lt;ref&gt;{{cite web |url=http://www.navsource.org/archives/08/08784.htm |title=North Dakota (SSN-784) |website=NavSource Online: Submarine Photo Archive |date= |accessdate=22 April 2014}}&lt;/ref&gt; Compared to earlier ''Virginia''-class submarines about 40% of the bow has been redesigned.{{clarify|date=January 2015}}&lt;ref&gt;{{cite news |last=LaGrone |first=Sam |url=http://news.usni.org/2014/04/17/navy-delays-commissioning-latest-nuclear-attack-submarine |title=Navy Delays Commissioning of Latest Nuclear Attack Submarine |work=USNI News |publisher=U.S. Naval Institute |date=17 April 2014 |accessdate=22 April 2014}}&lt;/ref&gt;
+
+''South Dakota'' (SSN-790) will be equipped with a new propulsor,&lt;ref name=&quot;seapowermagazine.org&quot;&gt;http://seapowermagazine.org/stories/20160812-sdak.html&lt;/ref&gt; possibly the Hybrid Multi-Material Rotor (HMMR),&lt;ref name=&quot;darpa.mil&quot;&gt;http://www.darpa.mil/attachments/TTOProposersDay2016PresentationFINAL.PDF&lt;/ref&gt;&lt;ref name=&quot;summit-group.com&quot;&gt;http://www.summit-group.com/Projects/Maritime.html&lt;/ref&gt; developed by Defense Advanced Research Projects Agency (DARPA).&lt;ref name=&quot;seapowermagazine.org&quot;/&gt; The Hybrid Multi-Material Rotor program is an attempt to improve the design and manufacturing process of submarine propellers with an aim of reducing the cost and weight of the propeller/rotor as well as improving overall acoustic performance.&lt;ref name=&quot;seapowermagazine.org&quot;/&gt;&lt;ref name=&quot;darpa.mil&quot;/&gt;&lt;ref name=&quot;summit-group.com&quot;/&gt;
+{|class=&quot;wikitable&quot;
+|- bgcolor=&quot;#efefef&quot;
+! Name
+! Hull number
+! Builder
+! Ordered
+! Laid down
+! Launched
+! Commissioned 
+! Status
+|-
+|{{USS|North Dakota|SSN-784|2}}
+|SSN-784
+|General Dynamics Electric Boat, Groton
+|14 August 2003
+|11 May 2012&lt;ref name=&quot;NVR North Dakota&quot;&gt;{{cite web|url={{NVR url|id=SSN784}}|title=USS NORTH DAKOTA (SSN 784) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|15 September 2013&lt;ref name=&quot;NVR North Dakota&quot;/&gt;
+|25 October 2014&lt;ref name=&quot;NVR North Dakota&quot;/&gt;
+|Active in service&lt;ref name=&quot;NVR North Dakota&quot;/&gt;
+|-
+|{{USS|John Warner|SSN-785|2}}
+|SSN-785
+|Huntington Ingalls Industries, Newport News
+|rowspan=7|22 December 2008
+|16 March 2013&lt;ref name=&quot;NVR John Warner&quot;&gt;{{cite web|url={{NVR url|id=SSN785}}|title=USS JOHN WARNER (SSN 785) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|10 September 2014&lt;ref name=&quot;NVR John Warner&quot;/&gt;
+|1 August 2015&lt;ref name=&quot;NVR John Warner&quot;/&gt;
+|Active in service&lt;ref name=&quot;NVR John Warner&quot;/&gt;
+|-
+|{{USS|Illinois|SSN-786|2}}
+|SSN-786
+|General Dynamics Electric Boat, Groton
+|2 June 2014&lt;ref name=&quot;NVR Illinois&quot;&gt;{{cite web|url={{NVR url|id=SSN786}}|title=ILLINOIS (SSN 786) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|8 August 2015&lt;ref name=&quot;NVR Illinois&quot;/&gt;
+|29 October 2016&lt;ref name=&quot;USNI Illinois Delivered&quot;&gt;{{cite news |url=https://news.usni.org/2016/08/29/attack-boat-illinois-delivers-early-navy |title=Attack Boat Illinois Delivers Early to Navy |publisher=USNI News |last=LaGrone |first=Sam |date=29 August 2016 |accessdate=29 August 2016}}&lt;/ref&gt;
+|Active in service&lt;ref name=&quot;USNI Illinois Delivered&quot;/&gt;
+|-
+|{{USS|Washington|SSN-787|2}}
+|SSN-787
+|Huntington Ingalls Industries, Newport News
+|22 November 2014&lt;ref name=&quot;NVR Washington&quot;&gt;{{cite web|url={{NVR url|id=SSN787}}|title=WASHINGTON (SSN 787) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|25 March 2016&lt;ref name=&quot;NVR Washington&quot;/&gt;
+|
+|Launched&lt;ref name=&quot;NVR Washington&quot;/&gt;
+|-
+|{{USS|Colorado|SSN-788|2}}
+|SSN-788
+|General Dynamics Electric Boat, Groton
+|7 March 2015&lt;ref name=&quot;NVR Colorado&quot;&gt;{{cite web|url={{NVR url|id=SSN788}}|title=COLORADO (SSN 788) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|
+|
+|Under construction&lt;ref name=&quot;NVR Colorado&quot;/&gt;
+|-
+|{{USS|Indiana|SSN-789|2}}
+|SSN-789
+|Huntington Ingalls Industries, Newport News
+|16 May 2015&lt;ref name=&quot;NVR Indiana&quot;&gt;{{cite web|url={{NVR url|id=SSN789}}|title=INDIANA (SSN 789) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|
+|
+|Under construction&lt;ref name=&quot;NVR Indiana&quot;/&gt;
+|-
+|{{USS|South Dakota|SSN-790|2}}
+|SSN-790
+|General Dynamics Electric Boat, Groton
+|4 April 2016&lt;ref name=&quot;NVR South Dakota&quot;&gt;{{cite web|url={{NVR url|id=SSN790}}|title=SOUTH DAKOTA (SSN 790) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|
+|
+|Under construction&lt;ref name=&quot;NVR South Dakota&quot;/&gt;
+|-
+|{{USS|Delaware|SSN-791|2}}
+|SSN-791
+|Huntington Ingalls Industries, Newport News
+|30 April 2016&lt;ref name=&quot;NVR Delaware&quot;&gt;{{cite web|url={{NVR url|id=SSN791}}|title=DELAWARE (SSN 791) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;
+|
+|
+|Under construction
+|}
+
+=== Block IV ===
+In 2013 execution of a 10-submarine contract was put in doubt by [[Budget sequestration in 2013]].&lt;ref&gt;{{cite news |url= http://breakingdefense.com/2013/09/navy-to-hasc-were-about-to-sign-sub-deals-we-cant-pay-for/ |title=Navy To HASC: We're About To Sign Sub Deals We Can't Pay For |first=Sydney |last=Freedburg |date=12 September 2013 |work=Breaking Defense |accessdate=12 November 2013}}&lt;/ref&gt;  The most costly shipbuilding contract in history was awarded on 28 April 2014 as prime contractor General Dynamics Electric Boat took on a $17.6 billion contract for ten Block IV ''Virginia''-class attack submarines. The main improvement over the Block III is the reduction of major maintenance periods from four to three, increasing each ship's total lifetime deployments by one.&lt;ref&gt;{{cite news |last=LaGrone |first=Sam |title=U.S. Navy Awards 'Largest Shipbuilding Contract' in Service History |url=http://news.usni.org/2014/04/28/u-s-navy-awards-largest-shipbuilding-contract-service-history |date=28 April 2014 |work=USNI News |publisher=U.S. Naval Institute |accessdate=28 April 2014}}&lt;/ref&gt;
+
+The long-lead-time materials contract for SSN 792 was awarded on 17 April 2012, with SSN 793 and SSN 794 following on 28 December 2012.&lt;ref&gt;{{cite press release |url=http://www.defense.gov/contracts/contract.aspx?contractid=4771 |title=Contracts |date=17 April 2012 |publisher=U.S. Department of Defense |accessdate=26 July 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite press release |url=http://www.defense.gov/contracts/contract.aspx?contractid=4946 |title=Contracts |date=28 December 2012 |publisher=U.S. Department of Defense |accessdate=26 July 2013}}&lt;/ref&gt; the U.S. Navy has awarded General Dynamics Electric Boat a $208.6 million contract modification for the second [[fiscal year]] (FY) 14 ''Virginia''-class submarine, SSN-793, and two FY 15 submarines, SSN-794 and SSN-795. With this modification, the overall contract is worth $595 million.&lt;ref&gt;{{cite press release |title=General Dynamics Awarded $209 Million for Future Virginia-class Submarines |url=http://www.generaldynamics.com/news/press-releases/detail.cfm?customel_dataPageID_1811=18534 |publisher=General Dynamics - Electric Boat |location=Groton, Connecticut |date=1 July 2013 |accessdate=26 July 2013}}&lt;/ref&gt; Block IV consists of 10 submarines and comprises the following hull numbers.&lt;ref&gt;{{cite web |url=http://www.navy.mil/navydata/fact_print.asp?cid=4100&amp;tid=100&amp;ct=4&amp;page=1 |title=U.S. Navy Fact Sheet Attack Submarines - SSN |publisher=Naval Sea Systems Command |date= |accessdate=7 September 2016}}&lt;/ref&gt;
+
+{|class=&quot;wikitable&quot;
+|- bgcolor=&quot;#efefef&quot;
+! Name
+! Hull number
+! Builder
+! Ordered
+! Laid down
+! Launched
+! Commissioned 
+! Status
+|-
+|{{USS|Vermont|SSN-792|2}}
+|SSN-792
+|General Dynamics Electric Boat, Groton
+|rowspan=10|28 April 2014
+|
+|
+|
+|Under Construction&lt;ref name=&quot;NVR Vermont&quot;&gt;{{cite web|url={{NVR url|id=SSN792}}|title=VERMONT (SSN 792) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Navy Secretary: Submarine to be named USS Vermont |url=http://www.wptz.com/news/vermont-new-york/burlington/submarine-to-be-named-for-state/28121904 |agency=Associated Press |location=Burlington, Vermont |work=WPTZ Burlington |date=18 September 2014 |access-date=5 June 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite press release |title=SECNAV Names Virginia-class Submarine, USS Vermont |url= |location=Burlington, Vermont |publisher=Secretary of the Navy Ray Mabus |date=18 September 2014 |access-date=5 June 2015}}&lt;/ref&gt;
+|-
+|{{USS|Oregon|SSN-793|2}}
+|SSN-793
+|General Dynamics Electric Boat, Groton
+|
+| 
+|
+|Under Construction&lt;ref name=&quot;NVR Oregon&quot;&gt;{{cite web|url={{NVR url|id=SSN793}}|title=OREGON (SSN 793) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite press release |url=http://www.navy.mil/submit/display.asp?story_id=83809 |title=Secretary of the Navy Ray Mabus Names Virginia-Class Submarine USS Oregon |publisher=Secretary of the Navy Public Affairs |location=Portland, Oregon |date=10 October 2014 |access-date=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Montana|SSN-794|2}}
+|SSN-794
+|Huntington Ingalls Industries, Newport News
+|
+|
+|
+|Under Construction&lt;ref name=&quot;NVR Montana&quot;&gt;{{cite web|url={{NVR url|id=SSN794}}|title=MONTANA (SSN 794) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Hyman G. Rickover|SSN-795|2}}
+|SSN-795
+|General Dynamics Electric Boat, Groton 
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Hyman G. Rickover&quot;&gt;{{cite web|url={{NVR url|id=SSN795}}|title=HYMAN G. RICKOVER (SSN 795) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |date=9 January 2015 |work=USNI News |publisher=U.S. Naval Institute |first=Sam |last=LaGrone |title=Navy Names Attack Boat After Rickover |url=http://news.usni.org/2015/01/09/navy-names-attack-boat-after-rickover |accessdate=9 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite speech |last=Mabus |first=Ray, Secretary of the Navy |title=60th Anniversary of &quot;Underway on Nuclear Power&quot; Ceremony and Naming Ceremony for USS ''Hyman G. Rickover'' (SSN 795) |url=http://www.navy.mil/navydata/people/secnav/Mabus/Speech/NuclearPower_RickoverNaming%20final.pdf |format=PDF |location=Washington Navy Yard, Washington, DC |date=January 2015 |access-date=5 June 2015}}&lt;/ref&gt;
+|-
+|{{USS|New Jersey|SSN-796|2}}
+|SSN-796
+|Huntington Ingalls Industries, Newport News 
+|
+|
+|
+|On order&lt;ref name=&quot;NVR New Jersey&quot;&gt;{{cite web|url={{NVR url|id=SSN796}}|title=NEW JERSEY (SSN 796) |publisher=[[Naval Vessel Register]]|accessdate=29 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite press release |title=Secretary of the Navy Names Virginia-Class Submarine USS New Jersey |url=http://www.navy.mil/submit/display.asp?story_id=87330 |location=Washington, DC |publisher= U.S. Department of Defense, Office of the Assistant Secretary of Defense (Public Affairs) |date= 26 May 2015 |access-date=22 October 2016}}.&lt;/ref&gt;
+|-
+|{{USS|Iowa|SSN-797|2}}
+|SSN-797 
+|General Dynamics Electric Boat, Groton 
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Iowa&quot;&gt;{{cite web|url={{NVR url|id=SSN797}}|title=IOWA (SSN 797) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Massachusetts|SSN-798|2}}
+|SSN-798
+|Huntington Ingalls Industries, Newport News
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Massachusetts&quot;&gt;{{cite web|url={{NVR url|id=SSN798}}|title=MASSACHUSETTS (SSN 798) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Idaho|SSN-799|2}}
+|SSN-799 
+|General Dynamics Electric Boat, Groton 
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Idaho&quot;&gt;{{cite web|url={{NVR url|id=SSN799}}|title=IDAHO (SSN 799) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Arkansas|SSN-800|2}}
+|SSN-800
+|Huntington Ingalls Industries, Newport News
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Arkansas&quot;&gt;{{cite web|url={{NVR url|id=SSN800}}|title=ARKANSAS (SSN 800) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|-
+|{{USS|Utah|SSN-801|2}}
+|SSN-801
+|General Dynamics Electric Boat, Groton 
+|
+|
+|
+|On order&lt;ref name=&quot;NVR Utah&quot;&gt;{{cite web|url={{NVR url|id=SSN801}}|title=ARKANSAS (SSN 801) |publisher=[[Naval Vessel Register]]|accessdate=22 October 2016}}&lt;/ref&gt;
+|}
+
+===Block V===
+Block V subs may incorporate the Virginia Payload Module (VPM), which would give guided-missile capability when the [[SSGN]]s are retired from service.&lt;ref&gt;{{cite web |title=Virginia Payload Module (VPM) |website=General Dynamics - Electric Boat |url=http://www.gdeb.com/news/advertising/ |accessdate=4 July 2011 }}&lt;/ref&gt;  The Block V subs are expected to triple the capacity of shore targets for each boat.&lt;ref name=&quot;forbes1&quot;/&gt;
+
+* [[SSN-802]] 
+* [[SSN-803]] 
+* [[SSN-804]]
+* [[SSN-805]]
+* [[SSN-806]]
+* [[SSN-807]] 
+* [[SSN-808]] 
+* [[SSN-809]]
+* [[SSN-810]]
+* [[SSN-811]]
+
+=== Future acquisitions ===
+The Navy plans to acquire at least 30 ''Virginia''-class submarines,&lt;ref name=&quot;jeffhead1&quot;&gt;{{cite web|url=http://www.jeffhead.com/usn21/nssn.htm |title=US Navy 21st Century - SSN Virginia Class |publisher=Jeffhead.com |date= |accessdate=25 February 2013}}&lt;/ref&gt;&lt;ref name=&quot;submarinesuppliers2&quot;&gt;{{cite web|url=http://www.submarinesuppliers.org/programs/index.php |title=Submarine Industrial Base Council |publisher=Submarinesuppliers.org |date=22 December 2008 |accessdate=25 February 2013}}&lt;/ref&gt; however, more recent data provided by the Naval Submarine League (in 2011) and the Congressional Budget Office (in 2012) seems to imply that more than 30 may eventually be built. The Naval Submarine League believes that up to 10&amp;nbsp;Block&amp;nbsp;V boats will be built.&lt;ref name=&quot;navalsubleague1&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.navalsubleague.com/NSL/default.aspx |title=Naval Submarine League |publisher=Navalsubleague.com |date= |accessdate=25 February 2013}}&lt;/ref&gt;
+The same source also states that 10 additional submarines could be built after Block&amp;nbsp;V submarines, with 5 in the so-called Block&amp;nbsp;VI and 5 in Block&amp;nbsp;VII, largely due to the delays experienced with the &quot;Improved ''Virginia''&quot;. These 20&amp;nbsp;submarines (10&amp;nbsp;Block&amp;nbsp;V, 5&amp;nbsp;Block&amp;nbsp;VI, 5&amp;nbsp;Block&amp;nbsp;VII) would carry VPM bringing the total number of ''Virginia''-class submarines to 48 (including the 28&amp;nbsp;submarines in Blocks I, II, III and IV). The CBO in its 2012 report states that 33&amp;nbsp;''Virginia''-class submarines will be procured in the 2013–2032 timeframe,&lt;ref name=&quot;cbo&quot;/&gt; resulting in 49&amp;nbsp;submarines in total since 16 were already procured by the end of 2012.&lt;ref name=&quot;FAS Weapons&quot;&gt;{{cite web |url=http://www.aviationweek.com/Article.aspx?id=/article-xml/awx_04_10_2013_p0-567382.xml |title=Funding For U.S. Navy Subs Runs Deep |work=Aviation Week |date=10 April 2013 |accessdate=26 July 2013}}&lt;/ref&gt; Such a long production run seems unlikely but it should be noted that another naval program, the {{sclass|Arleigh Burke|destroyer|1}}, is still ongoing even though the first vessel was procured in 1985.&lt;ref&gt;{{cite news |url= https://fas.org/sgp/crs/weapons/RL32109.pdf |title= Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress|first=Ronald|last=O'Rourke |date=22 October 2013 |work=[[Congressional Research Service]] |accessdate=12 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |last=McCullough III |first=Bernard, VAdm (ret) |url=http://www.usni.org/print/25780 |title=Now Hear This - The Right Destroyer at the Right Time |journal=Proceedings |publisher=U.S. Naval Institute |date=January 2013 |volume=139 |issue=1/1,319 |accessdate=17 November 2013}}&lt;/ref&gt; However, other sources believe that production will end with Block&amp;nbsp;V.&lt;ref&gt;{{cite web |first=John |last=Pike |url=http://www.globalsecurity.org/military/systems/ship/ssn-774.htm |title=SSN-774 Virginia-class NSSN New Attack Submarine |publisher=Globalsecurity.org |date= |accessdate=25 February 2013}}&lt;/ref&gt; In addition, data provided in CBO reports tends to vary considerably compared to earlier editions.&lt;ref name=&quot;cbo&quot;/&gt;
+
+{{Div col|col=2}}
+
+===Block VI===
+* [[SSN-812]] 
+* [[SSN-813]] 
+* [[SSN-814]]
+* [[SSN-815]]
+* [[SSN-816]]
+
+===Block VII===
+* [[SSN-817]] 
+* [[SSN-818]] 
+* [[SSN-819]]
+* [[SSN-820]]
+* [[SSN-821]]
+{{Div col end}}
+
+==SSN(X)/Improved ''Virginia''==
+Initially dubbed Future Attack Submarine&lt;ref&gt;{{cite web|url=https://fas.org/man/dod-101/sys/ship/fas.htm|title=Future Attack Submarine|publisher=Federation of American Scientists}}&lt;/ref&gt; and Improved ''Virginia'' class in Congressional Budget Office (CBO) reports,&lt;ref name=&quot;cbo&quot;/&gt; the SSN(X) or Improved ''Virginia''-class submarines will be an evolved version of the ''Virginia'' class.&lt;ref name=&quot;cbo&quot;/&gt;
+
+In late 2014, the Navy began early preparation work on the SSN(X). It was planned that the first submarine would be procured in 2025. However, their introduction (i.e., procurement of the first submarine) has been pushed back to 2033/2034.&lt;ref name=&quot;cbo&quot;/&gt;&lt;ref&gt;{{cite report |title=An Analysis of the Navy's Fiscal Year 2011 Shipbuilding Plan |url=http://www.cbo.gov/sites/default/files/05-25-navyshipbuilding.pdf |format=PDF |publisher=Congressional Budget Office |number=Pub. No. 4116 |date=May 2010 |access-date=4 June 2015}}&lt;/ref&gt;  The long-range shipbuilding plan is for the new SSN to be authorized in 2034, and become operational by 2044 after the last Block VII ''Virginia'' is built. Roughly a decade will be spent identifying, designing, and demonstrating new technologies before an analysis of alternatives is issued in 2024. An initial small team has been formed to consult with industry and identify the threat environment and technologies the submarine will need to operate against in the 2050-plus timeframe. One area already identified is the need to integrate with off-board systems so future ''Virginia'' boats and the SSN(X) can employ networked, extremely long-ranged weapons. A torpedo propulsion system concept from the [[Pennsylvania State University]] could allow a torpedo to hit a target {{convert|200|nmi|mi km|abbr=on}} away and be guided by another asset during the terminal phase. Targeting information might also come from another platform like a patrol aircraft or an [[unmanned aerial vehicle]] (UAV) launched from the submarine.&lt;ref&gt;{{cite news |first=Dave |last=Majumdar |title=Navy Starting Work on New SSN(X) Nuclear Attack Submarine |url=http://news.usni.org/2014/10/23/navy-starting-work-new-ssnx-nuclear-attack-submarine |work=USNI News |publisher=U.S. Naval Institute |date=23 October 2014 |access-date=4 June 2015}}&lt;/ref&gt; Researchers have identified a quieter advanced propulsion system and the ability to control multiple [[unmanned underwater vehicle]]s (UUVs) at once as key SSN(X) components.  The future submarines will operate through the end of the 21st century, and potentially into the 22nd century.&lt;ref&gt;[http://news.usni.org/2016/03/09/peo-subs-navys-future-attack-sub-will-need-stealthy-electric-drive-controls-for-multiple-uuvs PEO Subs: Navy's Future Attack Sub Will Need Stealthy Advanced Propulsion, Controls for Multiple UUVs] - News.USNI.org, 9 March 2016&lt;/ref&gt; New propulsion technology, moving beyond the use of a rotating mechanical device to push the ship through the water, could come in the form a [[biomimetics|biomimetic]] propulsion system that would eliminate noise-generating moving parts like the drive shaft and the spinning blades of the propulsor.&lt;ref&gt;[http://nationalinterest.org/blog/the-buzz/us-navys-next-submarine-super-stealthy-now-underwater-16978 US Navy's Next Submarine: Super Stealthy and Now Underwater Aircraft Carrier?] - Nationalinterest.org, 14 July 2016&lt;/ref&gt;
+
+== In Humor ==
+Beginning in 2015, [[Dan's Papers]], a weekly lifestyle publication in the Hamptons area of Long Island, New York, initiated satirical news spoofs featuring the &quot;Hamptons Police Submarine Unit&quot; that caricaturized the affluent area's police department acquisition of a &quot;military surplus&quot; Virginia class submarine for routine ocean patrols and law enforcement, with similar tongue-in-cheek overtones of excessive [[militarization of police]].  While perhaps clearly a spoof to an informed reader, the news reports were otherwise realistic and of consequent readership response that the paper later featured a spoof local investigation titled &quot;Area Man Reveals Hamptons Police Submarine Story as Hoax.&quot;&lt;ref&gt;http://www.danspapers.com/2015/06/hamptons-police-submarine-unit-makes-first-arrest/&lt;/ref&gt;&lt;ref&gt;http://www.danspapers.com/2015/06/area-man-reveals-hamptons-police-submarine-story-as-hoax/&lt;/ref&gt;  The satire was also of sufficient quality to eventually lead to the creation of a [[Snopes.com]] refutation of the existence of such an expensive ($2.688 Billion) military surplus acquisition for local police department usage.&lt;ref&gt;http://www.snopes.com/fake-news-hampton-sub/&lt;/ref&gt;
+
+== See also ==
+{{Portal|United States Navy}}
+* [[Type 095 submarine|095-class submarine]], the latest for China's People's Liberation Army Navy, first launched in 2010
+* {{sclass|Astute|submarine|1}}, in service with the UK's Royal Navy since 2010
+* {{sclass2|Yasen|submarine|1}}, the latest for the Russian Navy, first launched in 2010
+* [[French Barracuda-class submarine|Barracuda-class submarine]], the latest for the French Navy, with the first to be launched in 2017
+
+== References ==
+;Notes
+{{reflist |group=note}}
+
+;Citations
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last=Clancy |first=Tom |date=2002 
+|title=Submarine: A Guided Tour Inside A Nuclear Warship |location=New York |publisher=Berkley Books |isbn=0-425-18300-9 |oclc=48749330}}
+* {{cite book |last=Christley |first=J. L. |date=2000 
+|title=United States Naval Submarine Force Information Book |location=Marblehead, Massachusetts |publisher=Graphic Enterprises of Marblehead |oclc=53364278}}  
+* {{cite book |last=Christley |first=Jim |title=US Nuclear Submarines: The Fast Attack |location=Oxford, UK |date=2007 |isbn=1-84603-168-0 |oclc=141383046}}
+* {{cite book |last1=Cross |first1=Wilbur |first2=George W. |last2=Feise 
+ |title=Encyclopedia of American Submarines |location=New York |publisher=Facts on File |date=2003 |isbn=0-8160-4460-0 |oclc=48131805}}
+* {{cite book |last1=Gresham |first1=John |last2=Westwell |first2=Ian |title=Seapower |location=Edison, New Jersey |publisher=Chartwell Books |date=2004 |isbn=0-7858-1792-1 |oclc=56578494}}
+* {{cite journal |last=Holian |first=Thomas
+|url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_33/virginia.html
+|title=Voices from ''Virginia'': Early Impressions from a First-in-Class
+|work=Undersea Warfare |date=Winter 2007 |volume=9 |issue=2 }} 
+* {{cite journal |last=Johnson |first=Dave, CAPT |last2=Muniz |first2=Dustin, LTJG
+|url=http://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_33/more.html
+|title=More for Less: The Navy's Plan to Reduce Costs on ''Virginia''-class Submarines While Increasing Production
+|work=Undersea Warfare |date=Winter 2007 |volume=9 |issue=2 }}
+* {{cite journal |last=Little |first=Molly
+|url=http://www.navy.mil/navydata/cno/n87/usw/usw_summer_08/elements.html
+|title=The Elements of ''Virginia'' |work=Undersea Warfare Magazine |date=Summer 2008 |issue=38 
+}} Updates on the boats of the ''Virginia''-class
+* {{cite journal |last=Little |first=Molly
+|url=http://www.navy.mil/navydata/cno/n87/usw/usw_summer_08/q&amp;a.html
+|title=A Snapshot of the ''Virginia''-class With Rear Adm. (sel.) Dave Johnson
+|work=Undersea Warfare |date=Summer 2008 |issue=38 }} Q&amp;A on the ''Virginia''-class program since the Winter 2007 article
+* {{cite book |last=Parker |first=John |title=The World Encyclopedia of Submarines 
+|location=London |publisher=Lorenz |date=2007 |isbn=0-7548-1707-5 |oclc=75713655}}
+* {{cite book |last=Polmar |first=Norman |title=The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet 
+|location=Annapolis, Maryland |publisher=Naval Institute Press |date=2001 |isbn=1-55750-656-6 |oclc=47105698}}
+* {{cite web |title=The Virginia Class Submarine Program 
+|location=Fort Belvoir, Virginia 
+|publisher=Defense Standardization Program Office |date=2007 |oclc=427536804}}
+
+{{Library resources box}}
+
+== External links ==
+{{Commons category|Virginia class submarines}}
+* [http://www.history.navy.mil/ Naval History &amp; Heritage Command]
+* [http://www.military.com/equipment/virginia-class-attack-submarine-ssn VIRGINIA CLASS ATTACK SUBMARINE - SSN]
+* [http://www.public.navy.mil/subfor/hq/Pages/VirginiaClass.aspx Stealth, Endurance, and Agility Under the Sea]
+* [http://xpda.com/virginiasubs/ Virginia Class Submarines] Some U.S. Navy Photos of Virginia Class Submarines
+* [http://www.submarinesuppliers.org/ Submarine Industrial Base Resources] Information about the Submarine Industrial Base
+
+{{Virginia class submarine}}
+{{Current SSN}}
+{{ColdwarUSSubmarines}}
+
+{{Use dmy dates|date=October 2012}}
+
+{{DEFAULTSORT:Virginia Class Submarine}}
+[[Category:Submarine classes]]
+[[Category:Active naval ships of the United States]]
+[[Category:Virginia-class submarines| ]]
+[[Category:Submarines of the United States Navy]]
+[[Category:Submarines of the United States]]</text>
+      <sha1>6paffund5piehqr7jz4tbomy2x1a588</sha1>
+    </revision>
+  </page>
+</mediawiki>

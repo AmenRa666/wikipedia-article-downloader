@@ -1,0 +1,121 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mowag Pirat</title>
+    <ns>0</ns>
+    <id>39253767</id>
+    <revision>
+      <id>730201121</id>
+      <parentid>730200843</parentid>
+      <timestamp>2016-07-17T12:26:44Z</timestamp>
+      <contributor>
+        <ip>79.6.135.16</ip>
+      </contributor>
+      <comment>/* History and Development */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2274">{{Infobox Weapon
+|name= MOWAG Pirat IFV
+|image= [[File:Mowag 3M1 Pirat 18.jpg|300px]] 
+|caption= MOWAG Pirat at Military Museum Thun
+|origin={{flagcountry|Switzerland}}
+|type= [[Infantry fighting vehicle]] / [[Armored Personnel Carrier]]
+&lt;!-- Type selection --&gt;
+|is_vehicle=yes
+&lt;!-- Service history --&gt;
+|service= 
+|used_by=
+|wars=
+&lt;!-- Production history --&gt;
+|designer= 
+|design_date= 
+|manufacturer= [[MOWAG]] factory  Kreuzlingen
+|unit_cost=
+|production_date= 1960 - 1975
+|number= 11
+|variants= Military version, Police version
+&lt;!-- General specifications --&gt;
+|weight= {{convert|18000|kg|lb|abbr=on}} 
+|length= {{convert|6.10|m|in|abbr=on}} 
+|part_length= 
+|width= {{convert|2.90|m|in|abbr=on}}
+|height= {{convert|1.80|m|in|abbr=on}} 
+|diameter=
+|crew= 12: driver, commander, gunner and 9 grenadier troopers
+&lt;!-- Vehicle/missile specifications --&gt;
+|armour= 
+|primary_armament= 1x 20mm automatic cannon Oerlikon
+|secondary_armament= 48mm rocket launcher.
+|engine= Ford 4 cylinder gasoline Displacement 8750 cm³
+|engine_power= 225 kW
+|transmission= Manual gearbox 6 forward gears 2 reverse gears
+|payload_capacity= 
+|fuel_capacity= 
+|pw_ratio=
+|suspension= 
+|clearance=
+|vehicle_range= {{convert|500|km|mi|abbr=on}}
+|speed= {{convert|70|km/h|mi/h|0|abbr=on}}
+|guidance=
+}}
+ 
+The '''MOWAG Pirat''' is an [[armored]] Infantry tank made by the company [[Mowag]].
+
+==History and Development==
+Eleven prototypes in different versions of the MOWAG pirate were built from 1960 - 1975. Together with the [[Saurer Tartaruga]] the MOWAG Pirat have been tested by the [[Swiss Army]]. But the Swiss Army decided to buy the American [[M113]] who was originally not seen as candidate of this evaluation. The  MOWAG Pirat was the prototype of the later [[Mowag 3M1 Pirat]].  
+
+One of these tanks is now in the [[Schweizerisches Militärmuseum Full|Full Military museum]] and in a tank museum in Thun.
+&lt;ref name=&quot;jaa87 Militärmuseum Full Switzerland&quot;&gt;Militärmuseum Full Switzerland&lt;/ref&gt;
+&lt;ref name=&quot;jaa87 Marcus Bauer&quot;&gt;Marcus Bauer, Nutzfahrzeuge der MOWAG Motorwagenfabrik AG, Fachpresse Goldach, Hudson &amp; Company, 1996 ISBN 9783857380563&lt;/ref&gt;
+
+== References ==
+{{Reflist}}
+
+[[Category:Armoured fighting vehicles of Switzerland]]
+[[Category:Abandoned military projects of Switzerland]]</text>
+      <sha1>j5h0zjs114oyq52un36spm038dy3pqf</sha1>
+    </revision>
+  </page>
+</mediawiki>

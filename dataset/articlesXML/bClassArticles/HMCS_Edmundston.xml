@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Edmundston</title>
+    <ns>0</ns>
+    <id>40244548</id>
+    <revision>
+      <id>744908346</id>
+      <parentid>739739579</parentid>
+      <timestamp>2016-10-18T05:25:01Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Background */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10302">{{Use dmy dates|date=October 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:HMCS Edmundston.jpg|300px]]
+|Ship caption= HMCS ''Edmundston''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag= {{shipboxflag|Canada|naval-1911}}
+|Ship name= ''Edmundston''
+|Ship namesake= [[Edmundston|Edmundston, New Brunswick]]
+|Ship ordered= 14 February 1940
+|Ship awarded=
+|Ship builder= [[Yarrows Ltd.]], [[Esquimalt, British Columbia]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down= 23 August 1940
+|Ship launched= 22 February 1941
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned= 21 October 1941
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service= 16 June 1945
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=[[Pennant number]]: K106
+|Ship motto=
+|Ship nickname=
+|Ship honours= Atlantic 1942–45, Biscay 1943-44&lt;ref name=Britain&gt;{{cite web |title= Battle Honours |url=http://www.britainsnavy.co.uk/Battle%20Honours/A%20Battle%20Honour%20Date.htm#1900 |website=Britain's Navy |accessdate=8 March 2014}}&lt;/ref&gt;
+|Ship honors=
+|Ship captured=
+|Ship fate= Sold for mercantile use
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass2-|Flower|corvette}} (original)&lt;ref name=lenton&gt;{{cite book|last=Lenton |first=H.T. |last2=Colledge |first2=J.J |year=1968 |title=British and Dominion Warships of World War II |publisher=Doubleday &amp; Company |pages=201, 212 |isbn=}}&lt;/ref&gt;
+|Ship displacement={{convert|925|LT|t ST|lk=in}}
+|Ship length={{convert|205|ft|m|2|abbr=on}}[[Length overall|o/a]]
+|Ship beam={{convert|33|ft|m|2|abbr=on}}
+|Ship height=
+|Ship draught={{convert|11.5|ft|m|2|abbr=on}}
+|Ship power={{convert|2750|ihp|lk=in|abbr=on}}
+|Ship propulsion=
+* Single shaft
+* 2 × fire tube Scotch boilers
+* 1 × 4-cycle triple-expansion reciprocating steam engine
+|Ship sail plan=
+|Ship speed={{convert|16|kn|km/h|1}}
+|Ship range={{convert|3500|nmi|km|0}} at {{convert|12|kn|km/h|1}}
+|Ship endurance=
+|Ship complement=85
+|Ship sensors=
+* 1 × SW1C or 2C radar
+* 1 × Type 123A or Type 127DV sonar
+|Ship EW=
+|Ship armament=
+* 1 × [[BL 4 inch Mk IX naval gun|BL {{convert|4|in|mm|sing=on|sigfig=4}} Mk.IX]] single gun
+* 2 × twin .50 cal machine guns
+* 2 × twin [[Lewis gun|Lewis .303 cal machine gun]]s
+* 2 × Mk.II depth charge throwers
+* 2 × depth charge rails with 40 depth charges
+* Originally fitted with minesweeping gear, later removed
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+'''HMCS ''Edmundston''''' was a {{sclass2-|Flower|corvette}} that served with the [[Royal Canadian Navy]] during the [[World War II|Second World War]]. She served primarily in the [[Battle of the Atlantic]] as a convoy escort. She was named for [[Edmundston|Edmundston, New Brunswick]].
+
+==Background==
+{{main|Flower-class corvette}}
+Flower-class corvettes like ''Edmundston'' serving with the Royal Canadian Navy during the Second World War were different from earlier and more traditional sail-driven corvettes.&lt;ref&gt;{{cite web |last=Ossian |first=Robert |url=http://www.thepirateking.com/ships/ship_types.htm |title=Complete List of Sailing Vessels |website=The Pirate King |accessdate=13 April 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite book |editor-last=Fitzsimons |editor-first=Bernard |title=The Illustrated Encyclopedia of 20th Century Weapons &amp; Warfare |location=London |publisher=Phoebus |date=1978 |volume=11 |pages=1137–1142 |isbn=}}&lt;/ref&gt;&lt;ref name=Jane&gt;{{cite book |title=Jane's Fighting Ships of World War II |location=New Jersey |publisher=Random House |date=1996 |isbn=0-517-67963-9 |page=68}}&lt;/ref&gt; The &quot;corvette&quot; designation was created by the French for classes of small warships; the Royal Navy borrowed the term for a period but discontinued its use in 1877.&lt;ref&gt;{{cite book |last=Blake |first=Nicholas |last2=Lawrence |first2=Richard |title=The Illustrated Companion to Nelson's Navy |url=https://books.google.com/books?id=I59v6rkg8egC&amp;pg=PA39 |publisher=Stackpole Books |date=2005 |pages=39–63 |isbn=0-8117-3275-4}}&lt;/ref&gt; During the hurried preparations for war in the late 1930s, [[Winston Churchill]] reactivated the corvette class, needing a name for smaller ships used in an escort capacity, in this case based on a [[whaling ship]] design.&lt;ref&gt;{{cite book |last=Chesneau |first=Roger |last2=Gardiner |first2=Robert |title=Conway's All the World's Fighting Ships (1922–1946) |url=https://books.google.com/books?id=bJBMBvyQ83EC&amp;pg=PA62 |publisher=Naval Institute Press |date=June 1980 |page=62 |isbn=0-87021-913-8}}&lt;/ref&gt; The generic name &quot;flower&quot; was used to designate the class of these ships, which – in the Royal Navy – were named after flowering plants.&lt;ref name=Milner&gt;{{cite book |title=North Atlantic Run |last=Milner |first=Marc |publisher=Naval Institute Press |year=1985 |pages=117–119, 142–145, 158, 175–176, 226, 235, 285–291 |isbn=0-87021-450-0}}&lt;/ref&gt;
+
+Corvettes commissioned by the Royal Canadian Navy during the Second World War were named after communities for the most part, to better represent the people who took part in building them. This idea was put forth by Admiral [[Percy W. Nelles]]. Sponsors were commonly associated with the community for which the ship was named. Royal Navy corvettes were designed as open sea escorts, while Canadian corvettes were developed for coastal auxiliary roles which was exemplified by their minesweeping gear. Eventually the Canadian corvettes would be modified to allow them to perform better on the open seas.&lt;ref name=Macpherson2&gt;{{cite book |last=Macpherson |first=Ken |last2=Milner |first2=Marc |year=1993 |title=Corvettes of the Royal Canadian Navy 1939–1945|publisher=Vanwell Publishing |location=St. Catharines |pages=|isbn=1-55125-052-7}}&lt;/ref&gt;
+
+==Construction==
+''Edmundston'' was ordered on 14 February 1940 as part of the 1939–1940 Flower-class building program. She was laid down 23 August 1940 by [[Yarrows Ltd.]] at [[Esquimalt, British Columbia]] and launched 22 February 1941.&lt;ref name=uboat&gt;{{cite web | url = http://uboat.net/allies/warships/ship/817.html | work = Uboat.net | title = HMCS ''Edmundston'' (K 106) | accessdate = 14 August 2013}}&lt;/ref&gt; ''Edmundston'' was commissioned at Esquimalt on 21 October 1941.&lt;ref name=Macpherson&gt;{{cite book |last=Macpherson |first=Ken |last2=Burgess |first2=John |year=1981 |title=The ships of Canada's naval forces 1910–1981 : a complete pictorial history of Canadian warships |publisher=Collins |location=Toronto|pages=75, 157, 231 |isbn=0-00216-856-1}}&lt;/ref&gt;
+
+During her career, ''Edmundston'' underwent two significant refits. The first took place beginning in January 1943 at [[Halifax, Nova Scotia]] where her [[fo'c'sle]] was extended. The refit was finished in May 1943. The second major refit was done at [[Liverpool, Nova Scotia]] from May to July 1944.&lt;ref name=Macpherson/&gt;
+
+==War service==
+After workups, ''Edmundston'' was assigned to Esquimalt Force. On 20 June 1942, she rescued 31 crew of {{SS|Fort Camosun}}, which had been torpedoed off [[Cape Flattery]] by the Japanese submarine {{Jsub|I-25||2}}. The ship itself was towed into [[Victoria, British Columbia|Victoria Harbour]] by {{HMCS|Quesnel|K133|6}}.&lt;ref name=&quot;Webber&quot;&gt;{{cite book |last=Webber |first=[[Ebbert Webber|Bert]]|year=1975|title= Retaliation: Japanese Attacks and Allied Countermeasures on the Pacific Coast in World War II |publisher=Oregon State University Press |location= |pages= |isbn= 0-87071-076-1}}&lt;/ref&gt;&lt;ref name=Macpherson/&gt;
+
+On 13 September 1942, ''Edmundston'' was reassigned to the Atlantic. She arrived at Halifax in October. Upon arrival she was assigned to the [[Western Local Escort Force]]. After workups following her first major refit, she joined the [[Royal Navy]]-controlled escort group EG 5, which protected convoys in the Atlantic and on routes to and from [[Gibraltar]] and [[Sierra Leone]]. She spent the next ten months as an ocean escort.&lt;ref name=Macpherson/&gt;
+
+On 25 August 1943 EG 5, consisting of the British frigates {{HMS|Nene|K270|2}} and {{HMS|Tweed|K250|2}} and the Canadian corvettes {{HMCS|Calgary|K231|2}}, {{HMCS|Snowberry|K166|2}} and ''Edmundston'' were sent to relieve the 40th Escort Group which had been deployed on a [[U-boat]] hunt off [[Cape Ortegal]]. While this was in progress the ships were attacked at 14:15 by 14 [[Dornier Do 217]]s and 7 [[Junkers Ju 88]]s with the new German [[glide bomb]] weapon, the [[Henschel Hs293 A-1]]. The sloops {{HMS|Landguard|Y56|2}} and {{HMS|Bideford|L43|2}}, who were part of the 40th Escort Group, were the first of the Allied and Royal Navy ships to be attacked and damaged by them. Several sailors were injured in ''Bideford'' and one sailor was killed. Two days later the force sent to relieve ''Edmundston''{{'}}s group was also attacked and suffered losses.&lt;ref name=uboat/&gt;
+
+After her second refit and workups in [[Bermuda]], she joined [[Mid-Ocean Escort Force]] escort group C-8 in August 1944. She served with this group until the end of the war.&lt;ref name=Macpherson/&gt;
+
+==Post-war service==
+''Edmundston'' was paid off at [[Sorel, Quebec]] on 16 June 1945. She was sold for mercantile use in 1948 and converted to a cargo ship of {{GRT|939}}.&lt;ref name=miramar&gt;{{csr|register=MSI|id=6111788|shipname=Edmundston|accessdate=13 July 2016}}&lt;/ref&gt; Under the new name ''Amepala'' she was last on [[Lloyd's Register]] in 1961–62.&lt;ref name=Macpherson/&gt; The ship was [[Ship breaking|broken up]] in 1961.&lt;ref name=miramar/&gt;
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commonscat|HMCS Edmundston (K106)}}
+*{{Cite web|url=http://www.hazegray.org/navhist/canada/ww2/flower/ |title= Flower Class Corvette|author=Sandy McClearn | publisher=Hazegray |website= Canadian Navy of Yesterday and Today |accessdate= 14 August 2013}}
+*{{Cite news|url=http://www.readyayeready.com/ships/shipview.php?id=1125&amp;ship=EDMUNDSTON |title= HMCS ''Edmundston'' |author=Ready, Aye, Ready |date=|work= |accessdate= 14 August 2013}}
+
+{{Flower class corvette|original}}
+
+{{DEFAULTSORT:Edmundston, HMCS}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:Flower-class corvettes of the Royal Canadian Navy]]
+[[Category:1941 ships]]</text>
+      <sha1>lsflwfrvbq2d5u9qzp5xohp6tj45ik7</sha1>
+    </revision>
+  </page>
+</mediawiki>

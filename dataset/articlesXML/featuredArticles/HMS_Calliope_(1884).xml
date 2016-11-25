@@ -1,0 +1,342 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Calliope (1884)</title>
+    <ns>0</ns>
+    <id>15814171</id>
+    <revision>
+      <id>708501395</id>
+      <parentid>698647804</parentid>
+      <timestamp>2016-03-05T23:26:39Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>/* Sources */[[WP:CHECKWIKI]] error fixes / ISSN syntax fixes using [[Project:AWB|AWB]] (11964)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="32491">{{other ships|HMS Calliope}}
+{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Calliope in port.jpg|alt=Broadside view of a metal ship, quiet at anchor in a port. Two small boats are alongside. There are three masts but no sails are set. There is a large smokestack amidships. Guns are sponsoned out from the sides, with gunports between them.|300px]]
+|Ship caption=HMS ''Calliope''
+}}
+{{Infobox ship career
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=HMS ''Calliope''
+|Ship builder=HM Dockyard Portsmouth
+|Ship original cost=Hull: £82,000; machinery: £38,000&lt;ref name=Winfield273/&gt;
+|Ship laid down=1 October 1881
+|Ship launched=24 June 1884
+|Ship sponsor=Lady [[Geoffrey Hornby|Phipps Hornby]]
+|Ship completed=25 January 1887
+|Ship commissioned=25 January 1887&lt;ref name=Winfield273/&gt;
+|Ship maiden voyage=1 March 1887
+|Ship renamed=*''Helicon'' (June 1915 – October 1931)
+*''Calliope'' (October 1931 - 1951)
+|Ship nickname=&quot;Hurricane Jumper&quot;
+|Ship fate=Sold for [[Ship breaking|breaking]] 1951
+}}
+{{Infobox ship characteristics
+|Header caption=&lt;ref name=Winfield273&gt;Winfield (2004), p. 273&lt;/ref&gt;
+|Ship class={{Sclass-|Calypso|corvette}}
+|Ship displacement=2,770 [[long ton]]s
+|Ship length={{convert|235|ft|m|1|abbr=on}} [[Length between perpendiculars|pp]]
+|Ship beam={{convert|44|ft|6|in|m|1|abbr=on}}
+|Ship draught={{convert|19|ft|11|in|m|1|abbr=on}}
+|Ship sail plan=Barque rig&lt;ref group=Note name = sail/&gt;
+|Ship power=*6 boilers
+*{{convert|4023|ihp|abbr=on|lk=in}}
+|Ship propulsion=4-cylinder compound-expansion [[J. and G. Rennie]] steam engine, driving a single screw
+|Ship speed=13.75&amp;nbsp;[[knot (unit)|kn]] (25.5&amp;nbsp;km/h) powered; 14.75&amp;nbsp;[[knot (unit)|kn]] (27.3&amp;nbsp;km/h) [[Mechanical draft#Controlling draft|forced draught]]
+|Ship range={{convert|4000|nmi|km|abbr=on}} @ {{convert|10|kn|km/h|adj=on}}
+|Ship complement=293 (later 317)
+|Ship armament=
+* 4 × [[BL 6&amp;nbsp;inch gun Mk I - VI|BL {{convert|6|in|mm|sing=on|sigfig=4}} Mark II 26 calibre guns]]
+* 12 × [[BL 5&amp;nbsp;inch gun Mk I - V|BL {{convert|5|in|mm|sing=on|sigfig=4}} guns]]
+* 6 QF [[Nordenfelt gun]]s
+* 4 [[Gardner gun|Gardner machine guns]]
+* 2 {{convert|14|in|adj=on}} torpedo carriages
+|Ship armour=[[Deck (ship)|Deck]]: {{convert|1.5|in|mm|abbr=on}} over engines&lt;ref&gt;[https://archive.org/stream/brasseysannuala00brasgoog#page/n9/mode/2up Brassey (1896)], p. 262 of digitized copy&lt;/ref&gt;
+}}
+|}
+'''HMS ''Calliope''''' was a {{sclass-|Calypso|corvette|1}} (later classified as a [[cruiser|third-class cruiser]]) of the [[Royal Navy]] which served from 1887 until 1951. Exemplifying the transitional nature of the late Victorian navy, ''Calliope'' was a sailing corvette – last such ship built for the Royal Navy – but supplemented the full sail rig with a powerful engine. Steel was used for the hull, and like the earlier iron-hulled corvettes, ''Calliope'' was cased with timber and coppered below the waterline, in the same manner as wooden ships.&lt;ref name=Archibald43&gt;Archibald, ''The Metal Fighting Ship in the Royal Navy'' (1970), p. 43.&lt;/ref&gt;
+
+''Calliope'' was known for &quot;one of the most famous episodes of seamanship in the 19th century&quot;, when the vessel was the only one present to avoid being sunk or stranded in the [[1889 Apia cyclone|tropical cyclone]] that struck [[Apia]], [[Samoa]] in 1889.&lt;ref&gt;Lyon, ''Steam, Steel, and Torpedoes'' (1980), p. 39.&lt;/ref&gt; After retirement from active service, ''Calliope'' served as a [[training ship]] until 1951, when the old corvette was sold for [[Ship breaking|breaking]].
+
+==Design and construction==
+{{main|Calypso-class corvette#Design}}
+''Calliope'' and [[sister ship]] {{HMS|Calypso|1883|2}} comprised the ''Calypso'' class of corvettes designed by [[Nathaniel Barnaby]]. Part of a long line of cruiser classes built for protecting trade routes and colonial police work,&lt;ref&gt;Lyon (1980), pp. 21–22, 35–40.&lt;/ref&gt; they were the last two sailing corvettes built for the Royal Navy. Corvettes had been built of iron since the {{sclass-|Volage|corvette|4}} of 1867, but the ''Calypso''s and the preceding {{sclass-|Comus|corvette|4}} were instead built of steel. Corvettes were designed to operate across the vast distances of Britain's maritime empire, and could not rely on dry docks for maintenance. Since iron (and steel) hulls were subject to [[biofouling]], and they could not easily be cleaned, the established practice of [[copper sheathing]] was extended to protect them; the metal plating of the hull was timber-cased and coppered below the waterline.&lt;ref name=Archibald43/&gt; The only armour was a 1.5-inch (38-mm) armoured deck covering the machinery spaces, but coal bunkers along the sides gave some protection to the machinery spaces.&lt;ref&gt;Osbon (1963), pp. 196, 206.&lt;/ref&gt;
+
+''Calypso'' and ''Calliope'' differed from their nine predecessors of the ''Comus'' class in armament; they were also slightly longer, had a deeper [[Draft (hull)|draught]], and displaced 390 tons more.&lt;ref name=Archibald49&gt;Archibald, ''The Metal Fighting Ship in the Royal Navy'' (1970), p. 49.&lt;/ref&gt; Originally planned as a ten-gun corvette, ''Calliope'' was completed with four [[BL 6&amp;nbsp;inch gun Mk II – VI|{{convert|6|in|mm|sing=on|sigfig=4}} breechloaders]] in [[sponson]]s fore and aft on each side, twelve [[BL 5&amp;nbsp;inch gun Mk I - V|{{convert|5|in|mm|sing=on|sigfig=4}} breechloaders]] in [[broadside]] between the 6-inch guns, and six quick-firing [[Nordenfelt gun|Nordenfelts]].&lt;ref name = Osb207-08&gt;Osbon (1963), pp. 207–08.&lt;/ref&gt;
+
+The compound-expansion steam engine was supplied with steam by 6 boilers and developed {{convert|4023|ihp|lk=in}}. This was 50% more powerful than the predecessor class, which gave the corvette one more [[knot (unit)|knot]] of speed, a difference that would be crucial in the disaster that made ''Calliope'' famous.&lt;ref&gt;Archibald, ''The Metal Fighting Ship in the Royal Navy'' (1970), p. 49; Gray, ''Amerika Samoa'' (1960), p. 89.&lt;/ref&gt; Driving a single feathering screw,&lt;ref name=Winfield273/&gt; the engine could achieve a speed of 13¾&amp;nbsp;knots, or 14¾&amp;nbsp;knots with forced draught.&lt;ref name = NHS/&gt; The vessel nevertheless was a [[full rigged ship|fully rigged sailing ship]],&lt;ref group=Note name = sail&gt;The [[sail plan]] likely varied during the ship's career. Published sources states that Calliope has a [[barque]] rig, and some photographs, show a barque rig. ''E.g.'',Paine, [https://books.google.com/books?id=Xh7CSxFeK-IC&amp;pg=PA29&amp;lpg=PA29&amp;dq=%22hms+calliope%22+%22warships+of+the+world+to+1900%22&amp;source=web&amp;ots=_lgvmBCbT5&amp;sig=vS1I8aTj64vGgXPZfy7wjaLoctc ''Warships of the World to 1900''] (2000), p. 29; Rousmaniere, ''After the Storm'' (2002), p. 96. Other images however show a [[ship rig]], with [[Yard (sailing)|yards]] and square sails on the mizzenmast. Archibald, ''The Metal Fighting Ship in the Royal Navy'' (1970), p. 49; J.S. Virtue &amp; Co., [http://www.nmm.ac.uk/collections/prints/viewRepro.cfm?reproID=PU6293 &quot;HMS ''Calliope'', 3rd class cruiser&quot;] (retrieved 1 February 2010); ''see also'' the &quot;Starboard bow quarter view&quot; on this page, which shows yards on the mizzen. A full-rigged ship has square sails on the mizzenmast, while a barque has fore-and-aft sails.&lt;/ref&gt; allowing sustained service in areas where coaling stations were far apart. ''Calliope'' was well-suited to distant cruising service for the [[British Empire]] at its [[Victorian era|Victorian]] peak.&lt;ref name = NHS/&gt;
+
+Although laid down in 1881, ''Calliope'' was not launched until 1884, and was placed in reserve at [[Portsmouth Dockyard|Portsmouth]] before completion. The ship was not activated until 25 January 1887, when the vessel was placed in commission for the [[China Station]],&lt;ref&gt;Evans, p. 1.&lt;/ref&gt;&lt;ref name = Osbon207&gt;Osbon (1963), p. 207.&lt;/ref&gt; the sort of distant service for which the class had been designed.&lt;ref name=Paine29&gt;Paine, [https://books.google.com/books?id=Xh7CSxFeK-IC&amp;pg=PA29&amp;lpg=PA29&amp;dq=%22hms+calliope%22+%22warships+of+the+world+to+1900%22&amp;source=web&amp;ots=_lgvmBCbT5&amp;sig=vS1I8aTj64vGgXPZfy7wjaLoctc ''Warships of the World to 1900''] (2000), p. 29.&lt;/ref&gt; The same year, all corvettes and frigates were re-classified as &quot;cruisers&quot;, with ''Calliope'' and ''Calypso'' falling into the &quot;third-class cruiser&quot; category.&lt;ref name=Winfield265&gt;Winfield (2004), p.265&lt;/ref&gt;
+
+==Service with the fleet==
+{{See also|Samoan crisis|1889 Apia cyclone}}
+[[File:HMS Calliope stbd quarterdeck.jpg|alt=The deck of a sailing ship, viewed from slightly above. Naval cannons protrude through embrasures on this ship's side. About two dozen sailors are on deck. Standing rigging runs from the gunwales to the unseen masts overhead. A raised deck is at the rear, with a boat on davits extended outboard. The ship appears to be in a port, with hills in the background.|left|thumb|Starboard quarterdeck, while at [[Port Chalmers]], New Zealand&lt;br&gt;''De Maus Collection,'' [[Alexander Turnbull Library#Alexander Turnbull Library|''Alexander Turnbull Library'']]]]
+The British Empire was the largest on Earth, and Britain protected that empire and its trade routes with the world's largest navy. Great Britain assumed the role of peacekeeper on the world's oceans, and the Royal Navy was the instrument by which the ''[[Pax Britannica]]'' was kept.&lt;ref&gt;[[Robert K. Massie|Massie, Robert K.]], ''[[Dreadnought (book)|Dreadnought: Britain, Germany, and the Coming of the Great War]]'' (1991), pp. xx–xxii. New York: [[Random House]], 1991. ISBN 0-394-52833-6; Lyon (1980), pp. 7–12.&lt;/ref&gt; The global reach of the Royal Navy included the western Pacific Ocean, patrolled by the Australia Station. In 1887 Captain [[Henry Coey Kane]] took ''Calliope'' to the Pacific.&lt;ref&gt;Wilson (1996), pp. 51–52.&lt;/ref&gt; At first assigned to the [[China Station]], the vessel was reassigned to the Australia Station later in 1887. The cruiser was in New Zealand at the end of that year, and was the first vessel to enter the new [[Calliope Dock]].&lt;ref name = ENZ/&gt; In early 1888 ''Calliope'' was sent north to watch over a looming diplomatic crisis and potential military confrontation in [[Samoa]].&lt;ref name = ENZ&gt;[http://www.teara.govt.nz/en/1966/ships-famous/8 &quot;Calliope&quot;], ''Encyclopedia of New Zealand''.&lt;/ref&gt;
+
+This crisis had its roots in the [[Great Power]]s' competition for colonies in the last decades of the 19th century. The [[German Empire]], invigorated by its victory over [[Second French Empire|France]] in the [[Franco-Prussian War]] and by its [[Unification of Germany|unification]] under the [[Kingdom of Prussia|Prussian monarchy]], had newfound imperial ambitions that stretched beyond Europe. It had shared in the [[scramble for Africa|division of Africa]], and in the 1880s looked to the Pacific as well. Ships of its [[Kaiserliche Marine|Imperial Navy]] were sent to [[Apia]] in Samoa, where German agents had fomented rebellion against the indigenous government. They were countered there by the [[Asiatic Squadron]] of the [[United States Navy]]. The United States had nearly completed establishing control over its territories on the North American continent, leading American ambitions to stretch beyond its shores. The squadron was at Samoa to assert US interests in the Pacific and to watch the Germans.&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), pp. 88–91.&lt;/ref&gt;
+
+[[File:HMS Calliope 1880s.jpg|alt=Starboard broadside view of a metal sailing ship in port at anchor. The three masts are rigged with yards and furled sails. A smokestack is amidships, and ventilators rise above the top deck. Guns are visible protruding through the sides of the ship.|thumb|left|Starboard bow quarter view]]
+In March 1889, the new corvette ''Calliope''—sent to keep the peace and protect Britain's interests in Samoa—joined the competing squadrons of the Imperial German and United States navies at Apia.&lt;ref&gt;Wilson (1996), p. 51.&lt;/ref&gt; The harbour there was primitive, small and nearly surrounded by reefs. Perhaps fit for four ships, the anchorage held seven warships and six merchant vessels on 14 March.&lt;ref&gt;Wilson (1996), p. 52. While Wilson gives the number of merchantmen as eight, Stevenson states there were six in Chapter X of [http://ebooks.adelaide.edu.au/s/stevenson/robert_louis/s848fh/s848fh10.html ''A Footnote to History''], a number consistent with Paine's total at page 29 of [https://books.google.com/books?id=Xh7CSxFeK-IC&amp;pg=PA29&amp;lpg=PA29&amp;dq=%22hms+calliope%22+%22warships+of+the+world+to+1900%22&amp;source=web&amp;ots=_lgvmBCbT5&amp;sig=vS1I8aTj64vGgXPZfy7wjaLoctc ''Warships of the World to 1900'']. Other sources give even higher numbers, (Lind, in [http://www.navyhistory.org.au/the-epic-of-hms-calliope/ &quot;The Epic of HMS Calliope&quot;] gives a total of 20); the difference appears to lie in whether small [[coastal trading vessel]]s are included.&lt;/ref&gt;
+
+The barometer began to fall that day and a [[tropical cyclone]] began to form. The [[1889 Apia cyclone]] increased in ferocity over the next two days.&lt;ref&gt;Gray, ''Amerika Samoa'' (1960), pp. 88–89.&lt;/ref&gt; Rain fell in sheets, cutting visibility. Winds of 70 to 100&amp;nbsp;knots (130–185&amp;nbsp;km/h) blew directly into the anchorage, trapping the ships in the V-shaped harbour.&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), pp. 93–94.&lt;/ref&gt; The harbour bottom was scoured by currents and anchors lost their purchase. Operating their engines at full speed to resist the wind and waves, ships nevertheless dragged their anchors and were inexorably driven landward. Vessels collided and were thrown on the reefs or ashore, and some sank.&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), pp. 94–95, 97.&lt;/ref&gt; By 09:00 on the 16th, ''Calliope'', although still riding at anchor, had been hit by one ship and narrowly missed by another, and Captain Kane decided to attempt to escape.&lt;ref&gt;Wilson (1996), pp. 52–53.&lt;/ref&gt; To relieve the strain on the five anchor cables, ''Calliope''{{'}}s boilers were producing maximum pressure; the engines were being worked &quot;red hot&quot;, and the propeller was making 74&amp;nbsp;[[revolutions per minute]], sufficient for 15&amp;nbsp;knots (28&amp;nbsp;km/h) in calmer waters. In spite of this titanic effort, the ship was barely able to make headway against the winds and the seas in the harbour, and anchor cables began to part.&lt;ref name = Kimberly&gt;Kimberly, [http://www.history.navy.mil/faqs/faq102-3.htm#anchor265850 &quot;Report&quot;]; Rousmaniere, ''After the Storm'' (2002), p. 96.&lt;/ref&gt;
+
+[[File:Illustrated London News.jpg|alt=Front page of a newspaper, with a full-page drawing of two ships fighting a storm, with strong winds and violent seas. In the foreground waves are washing over the gunwales of a ship. Members of the crew are cheering another ship steaming past. The other ship is a sailing vessel, but no sails are set.|thumb|right|''[[Illustrated London News]]'' for 27 April 1889; artist's conception of HMS ''Calliope'' being cheered on by the crew of USS ''Trenton'' as ''Calliope'' escapes from Apia Harbour. ''Calliope'' actually passed to ''Trenton's'' port sdie.]]
+[[File:WinchesterCathedral HenryPerson 1936.jpg|thumb|Memorial tablet to Henry Pearson (died 1936) in [[Winchester Cathedral]], with a reference to HMS ''Calliope'' and the storm]]
+To port and only 20&amp;nbsp;feet (6&amp;nbsp;m) away was the coral reef. Ahead were the US ships {{USS|Vandalia|1876|6}} and {{USS|Trenton|1876|6}}; to starboard were other warships. There was only a narrow opening between the vessels to one side and the ground to the other.&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), pp. 96–97.&lt;/ref&gt; Hemmed in by these obstacles and with the rudder at times within 6&amp;nbsp;feet (2&amp;nbsp;m) of the reef, ''Calliope'' manoeuvred while still attached to the anchor cables, which began to give way. When Captain Kane saw an opening, he slipped the anchors and drove forward.&lt;ref&gt;Wilson (1996), pp. 52–53. Captain Kane's account of the escape is quoted by Admiral Kimberly in [http://www.history.navy.mil/library/online/samoan.htm &quot;Samoan Hurricane&quot;.]&lt;/ref&gt; Avoiding the helpless ''Vandalia'', he approached the sinking ''Trenton'', coming so close that ''Calliope''{{'}}s fore yard-arm passed over the American's deck. As ''Calliope'' rolled to port, the yard lifted over ''Trenton''. The crew of the helpless and doomed American ship cheered ''Calliope'' as the corvette slipped past. The British ship's drive for the open sea was called by the American commander on the scene &quot;one of the grandest sights a seaman or anyone else ever saw; the lives of 250 souls depended on the hazardous adventure.&quot;&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), p. 87.&lt;/ref&gt;
+
+Making for the harbour mouth, the British ship's bow and stern alternately rose and plunged into the incoming waves; the propeller at times was spinning in air, requiring a careful hand on the throttle to keep the shaft from [[Overspeed (engine)|running away]] to destruction. Green seas were boarding the vessel and running the length of the deck. There were ten men on the wheel and more below handling [[relieving tackle]] on the tiller to assist in maintaining control of the rudder.&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), p. 96; Account of Captain Kane, quoted in [http://www.history.navy.mil/library/online/samoan.htm ''Samoan Hurricane''.]&lt;/ref&gt; Taking two hours to travel four [[Cable length|cables]],&lt;ref&gt;Wilson (1996), p. 53&lt;/ref&gt;&lt;ref group=Note&gt;A cable is one-tenth of a nautical mile; hence ''Calliope'' had moved only about 2400&amp;nbsp;feet (740&amp;nbsp;m) in two hours.&lt;/ref&gt; the cruiser finally escaped the anchorage into the open sea, an achievement not known to ''Calliope''{{'}}s crew for some time, as sea spray and spume had reduced visibility to nothing.&lt;ref name = Kimberly/&gt;
+
+The storm kept ''Calliope'' at sea the next two days. Re-entering the harbour on 19 March to search for the missing anchors, the crew discovered that all of the other ships—twelve in all—had been wrecked or sunk,&lt;ref group=Note&gt;The three German and the three American warships were wrecked, as were all six merchant ships. Paine, [https://books.google.com/books?id=Xh7CSxFeK-IC&amp;pg=PA29&amp;lpg=PA29&amp;dq=%22hms+calliope%22+%22warships+of+the+world+to+1900%22&amp;source=web&amp;ots=_lgvmBCbT5&amp;sig=vS1I8aTj64vGgXPZfy7wjaLoctc ''Warships of the World to 1900''] (2000), p. 29.&lt;/ref&gt; and nearly every crew had been diminished by the loss of men killed by the storm.&lt;ref&gt;Wilson (1996), p. 53.&lt;/ref&gt; Unable to find the anchor amidst the wreckage,&lt;ref&gt;Gray, ''Amerika Samoa'' (1960), p. 91.&lt;/ref&gt; and his ship having sustained significant damage, Captain Kane decided to return to Australia. He turned over ''Calliope''{{'}}s diving outfit to the US Navy to assist it in salvage, and received in return boats from the wrecked American ships to replace the boats which had been stripped from ''Calliope'' by the storm.&lt;ref name = Kimberly/&gt;
+
+Captain Kane then took his ship to Sydney, where they received a hero's welcome.&lt;ref name=Rous103&gt;Rousmaniere, ''After the Storm'' (2002), p. 103.&lt;/ref&gt; The narrowness of ''Calliope''{{'}}s escape; the excellence of the engines and the dedication of the crew, who kept the power plant in operation for many hours during the ordeal;&lt;ref group=Note&gt;The reciprocating engines had been run at full power for almost twelve hours. [http://www.teara.govt.nz/1966/S/ShipsFamous/Calliope/en &quot;Calliope&quot;], ''Encyclopedia of New Zealand''.&lt;/ref&gt; the seamanship of Captain Kane and officers; their bravery in letting go of their anchor and facing the storm, trusting only in their ship and themselves; and the respect and encouragement given to them by the crew of ''Trenton''; made ''Calliope'' famous.&lt;ref&gt;Wilson (1996), p. 54; Lind, [http://www.navyhistory.org.au/the-epic-of-hms-calliope/ The Epic of HMS Calliope].&lt;/ref&gt;
+
+The engineer of ''Calliope'', [[Henry George Bourke]], was specially promoted from staff engineer to fleet engineer on 28 May 1889, &quot;for his services in Her Majesty's ship 'Calliope,' during the recent hurricane at Samoa.&quot;&lt;ref&gt;{{LondonGazette|issue=25943|startpage=3114|date=7 June 1889|accessdate=1 February 2010}}&lt;/ref&gt; He attributed his success to the superior properties of West Coast coal from New Zealand used to fire the ship's boilers; this statement attracted the custom of the British Admiralty when fuelling its ships in those waters.&lt;ref&gt;[http://www.teara.govt.nz/EarthSeaAndSky/MineralResources/CoalAndCoalMining/3/en &quot;Coal and Coal Mining&quot;] (sidebar: &quot;The best coal&quot;), ''Te Ara:  The Encyclopedia of New Zealand'' (2009). Retrieved 1 February 2010.&lt;/ref&gt;
+
+Captain Kane was made [[Companion of the Order of the Bath]] (CB) in the [[1891 Birthday Honours|1891 Queen's Birthday Honours]].&lt;ref&gt;{{LondonGazette |issue=26167 |startpage=2921 |date=30 May 1891|accessdate=1 February 2010}}&lt;/ref&gt; He was cited by the Admiralty for his &quot;nerve and decisions&quot;, given the command of {{HMS|Victory}} in 1892, and in 1897 was promoted to [[Rear-Admiral of the United Kingdom|rear-admiral]].&lt;ref&gt;Rousmaniere, ''After the Storm'' (2002), p. 102; [http://www.hms-victory.com/index.php?option=com_content&amp;task=view&amp;id=48&amp;Itemid=68 &quot;Commanding Officers, 1778–1900, HMS Victory&quot;], The National Museum, Royal Navy; {{LondonGazette|issue=26924|startpage=7854|date=31 December 1897}}  Retrieved 1 February 2010.&lt;/ref&gt;
+
+''Calliope'' returned to service on the Australian station after repairs were complete. At the end of 1889 the cruiser was recalled to the United Kingdom.
+
+==In reserve==
+[[File:Calliope at Blyth.JPG|thumb|right|''Calliope'' at [[Blyth, Northumberland|Blyth]] in Northumberland c. 1920]]
+Arriving back home in early 1890, ''Calliope'' was placed in reserve and remained there for the next seven years.&lt;ref name=&quot;Osbon207&quot; /&gt; In June 1897 the cruiser was present at [[Victoria of the United Kingdom|Queen Victoria]]'s [[Diamond Jubilee]] [[Fleet Review|Review of the Fleet]] at [[Spithead]].&lt;ref&gt;{{cite news  | title = Ships Nearly All New; Only Four of the 21 Battleships in the Jubilee Display of 1887 | work = [[New York Times]] | page = 2 | date = 27 June 1897  | url = http://query.nytimes.com/mem/archive-free/pdf?res=9D06E6D91630E132A25754C2A9609C94669ED7CF  | accessdate = 15 December 2008 | format=PDF}}  A photograph taken at Spithead in the same month and year shows ''Calliope'' anchored and [[dressed overall]]. ''Calliope 60.30 1884''.&lt;/ref&gt; That same year ''Calliope'' became a tender to {{HMS|Northampton|1876|6}}, an older and larger [[armored cruiser|armoured cruiser]] used as seagoing training ship for boys.&lt;ref name=&quot;Osbon207&quot;/&gt; ''Calliope'' also was occasionally used as a training cruiser herself, and toured the [[Mediterranean Sea|Mediterranean]] from February to April in 1900,&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Wednesday |date=24 January 1900 |page_number=7 |issue=36047|}}&lt;/ref&gt; and again in March 1901,&lt;ref name=TT01031901&gt;{{Cite newspaper The Times |articlename=Naval and Military intelligence |day_of_week=Friday |date=1 March 1901 |page_number=11 |issue=36391}}&lt;/ref&gt; and in March 1902.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Monday |date=17 March 1902 |page_number=10 |issue=36717| }}&lt;/ref&gt; During the summer 1902 she undertook a training cruise in home waters May–June 1902 under the command of Captain E. D. St. A. Ommanney, visiting [[Campbeltown]], [[Belfast Lough]], [[Portishead, Somerset|Portishead]], [[Dartmouth, Devon|Dartmouth]], [[Lyme Regis]] and [[Guernsey]];&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Friday |date=9 May 1902 |page_number=10 |issue=36763| }}&lt;/ref&gt; before she took part in the [[Fleet review (Commonwealth realms)|Coronation Naval Review]].&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence|day_of_week=Friday |date=2 May 1902 |page_number=8 |issue=36757| }}&lt;/ref&gt;
+
+Relieved of tender duty in 1905, ''Calliope'' was returned to reserve and promptly stricken from the effective list. The cruiser laid up at [[Portsmouth]],&lt;ref&gt;A [[National Maritime Museum]] photograph from 1905–06 shows ''Calliope'' laid up at Portsmouth in a partially dismantled state. ''Calliope 60.30 1884''.&lt;/ref&gt; and in 1906 was listed for sale for a time. The next year ''Calliope'' was moved to [[North East England]] for a new career.&lt;ref name=&quot;Osbon207&quot;/&gt;
+
+==Training ship==
+[[File:Christ Church N. Shields organ case 1.jpg|thumb|right|Panelling from ''Calliope''{{'}}s [[wardroom]] in organ casing at [[Christ Church, North Shields]]]]
+On 29 October 1907 ''Calliope'' became a drill ship at [[Newcastle upon Tyne]] for the [[Royal Naval Reserve|Royal Naval Volunteer Reserve]], Tyne Division, and served there for over four decades.&lt;ref name=Paine29/&gt; The cruiser surrendered the name &quot;Calliope&quot; to a {{sclass2-|C|cruiser|1}} between 1915 and 1931, and became ''Helicon''.&lt;ref name = Colledge&gt;Colledge, ''Ships of the Royal Navy'' (2006), p. [https://books.google.com/books?id=642j0xXqrYwC&amp;pg=PA57&amp;dq=isbn:9781861762818#PPA57,M1 57].&lt;/ref&gt; After the newer {{HMS|Calliope|1914|2}} was paid off in the 1930s, ''Helicon'' reverted to ''Calliope'' and retained that name until sold in 1951.&lt;ref name = NHS&gt;Naval Historical Center, [http://www.history.navy.mil/photos/sh-fornv/uk/uksh-c/caliop3.htm &quot;HMS ''Calliope'' (1884–1951)&quot;.]&lt;/ref&gt; When finally scrapped in 1953, the steering wheel was presented to the government of Western Samoa.&lt;ref name=Rous103/&gt; The mahogany panelling from the officers' wardroom was reclaimed in 1953 and now forms the wings to the 18th century organ in the west gallery of [[Christ Church, North Shields]], Tyne and Wear.&lt;ref&gt;Scott, Michael (1996).  ''The History of Christ Church, North Shields'', p. 23. ISBN 0 9528931 0 X.&lt;/ref&gt;
+
+The name &quot;Calliope&quot; also lives on in the Royal Navy. In 1951 the ship's successor as training ship on the Tyne took that name, and now the [[shore establishment]] itself bears the title and honours the memory of {{HMS|Calliope|shore establishment|6}}.&lt;ref&gt;''Units in Time'', [http://www.royalnavy.mod.uk/The-Fleet/Maritime-Reserves/Royal-Naval-Reserves/RNR-Units/Tyneside-HMS-Calliope Tyneside – HMS Calliope], Royal Navy (retrieved 23 February 2012).&lt;/ref&gt;
+{{Clear}}
+
+==Notes==
+{{Reflist|group=Note}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+* {{cite book
+| last =Archibald
+| first =E.H.H.
+| others = Ray Woodward (illustrator)
+| title =The Metal Fighting Ship in the Royal Navy 1860–1970
+| publisher =Arco Publishing Co.
+| year =1971
+| location =New York
+| isbn =0-668-02509-3 }}
+* {{cite book | last = Brassey | first = T.A. | title = The Naval Annual | year = 1896 | publisher = J. Griffin and Co. | location = Portsmouth | url = https://archive.org/stream/brasseysannuala00brasgoog#page/n9/mode/2up }}
+* {{cite web
+| title = Calliope
+| work = An Encyclopedia of New Zealand
+| publisher = Ministry for Culture and Heritage / Te Manatū Taonga
+| origyear = 1966| year = 2007
+| url = http://www.teara.govt.nz/en/1966/ships-famous/8 }} (A. H. McLintock, ed.). ISBN 978-0-478-18451-8. Retrieved 1 February 2010.
+* {{cite web | title = Calliope 60.30 1884 | work = Historic Photograph Record | publisher = [[National Maritime Museum]] | url = http://www.nmm.ac.uk/cgi-bin/empower?DB=ShipsPlansAndPhotos#search }}  Retrieved 1 February 2010. Descriptions of photographs are reached at this search page by entering ''Calliope'' in the search field and selecting ''CALLIOPE 60.30 1884 Steel screw corvette (HMS)'' from the results.
+* [[J. J. Colledge|Colledge, J.J.]]; Warlow, Ben (2006) [1969] ''[[Ships of the Royal Navy]]'' (Rev. ed.) London: Chatham. ISBN 978-1-86176-281-8.
+* {{cite book
+| last = Evans
+| first = Arthur Cornwallis
+| title = The Cruise of H.M.S. &quot;Calliope&quot; in China, Australian and East African Waters 1887–1890
+| publisher = Griffin and Co.
+| year = 1890
+| location = Portsmouth
+}}
+* {{cite book
+| last =Gray
+| first =J.A.C.
+| title =Amerika Samoa:  A History of American Samoa and Its United States Naval Administration
+| publisher = U. S. Naval Institute
+| year =1960
+| location =Annapolis
+| isbn = 0-405-13038-4
+}}
+* {{cite web
+| title = HMS Calliope (Corvette, 1884–1951)
+| work = Online Library of Selected Images: Ships of the British Navy
+| publisher = (US) Naval Historical Center (now Naval History and Heritage Command)
+| year = 2002
+| url = http://www.history.navy.mil/photos/sh-fornv/uk/uksh-c/caliop3.htm
+| doi =
+| accessdate = 1 February 2010}}
+* {{cite web
+| title = Hurricane at Apia, Samoa, 15–16 March 1889
+| work = Events of the 1880s
+| publisher = Naval Historical Center (now Naval History and Heritage Command)
+| year = 2002
+| url = http://www.history.navy.mil/photos/events/ev-1880s/ev-1889/sam-hur.htm
+| accessdate = 1 February 2010 }}
+* {{cite web
+| last = Kimberly
+| first = L.A.
+| authorlink = Lewis Kimberly
+| title = Samoan Hurricane
+| work = Events of the 1880s
+| publisher = Naval Historical Center (now Naval History and Heritage Command)
+| url = http://www.history.navy.mil/library/online/samoan.htm
+| accessdate =  1 February 2010}}
+* {{cite web
+| last = Kimberly
+| first = L.A.
+| authorlink = Lewis Kimberly
+| title = Report of Rear-Admiral L.A. Kimberly
+| work =
+| publisher = Naval Historical Center (now Naval History and Heritage Command)
+| date = 19 March 1889
+| url = http://www.history.navy.mil/faqs/faq102-3.htm#anchor265850
+| accessdate =  1 February 2010}}
+* {{cite web
+| last = Lind
+| first = L.J
+| title = The Epic of HMS Calliope
+| publisher = Naval Historical Society of Australia
+| url =  http://www.navyhistory.org.au/the-epic-of-hms-calliope/
+| accessdate = 1 February 2010 }}
+* {{cite book
+| last =Lyon
+| first =David
+| title =Steam, Steel and Torpedoes
+| work = The Ship
+| publisher =W.S. Cowell, Ltd. for HM Stationery Office
+| year =1980
+| location =Ipswich
+| page =39
+| isbn =0-11-290318-5 }}
+* Lyon, David and Winfield, Rif (2004), ''[[The Sail and Steam Navy List]] 1815–1889''. Chatham Publishing. ISBN 1-86176-032-9.
+* {{cite journal
+| last = Osbon
+| first = G. A.
+| title = Passing of the Steam and Sail Corvette:  the ''Comus'' and ''Calliope'' Classes
+| journal = [[Mariner's Mirror]]
+| volume = 49
+| issue =3
+| pages = 193–208
+| publisher = [[Society for Nautical Research]]
+| location = London
+| year = 1963
+| issn = 0025-3359
+| doi=10.1080/00253359.1963.10657732}}
+* {{cite book
+| last = Paine
+| first = Lincoln P.
+| title = Warships of the World to 1900
+| work = Warships of the World: An Historical Encyclopedia
+| location = New York
+| publisher = Houghton Mifflin
+| year = 2000
+| isbn = 0-395-98414-9}}
+* {{cite book
+| last = Rousmaniere
+| first = John
+| title = After the Storm: True Stories of Disaster and Recovery at Sea
+| publisher = International Marine/McGraw-Hill
+| year = 2002
+| location = Camden, MN
+| pages = 87–106
+| isbn = 0-07-137795-6}}
+* {{cite book
+| last =Stevenson
+| first =Robert Louis
+| authorlink =Robert Louis Stevenson
+| title = A Footnote to History, Eight Years of Trouble in Samoa
+| publisher =
+| year =1892
+| location =
+| pages =
+| url = http://ebooks.adelaide.edu.au/s/stevenson/robert_louis/s848fh/
+| accessdate = 1 February 2010}}
+* {{Cite journal
+| last = Wilson
+| first = Graham
+| title = Glory for the Squadron: HMS Calliope in the Great Hurricane at Samoa 1889
+| journal = Journal of the Australian Naval Institute
+| volume = 22
+| issue = 2
+| pages = 51–54
+| date = May–July 1996
+| year =
+}}
+
+== External links ==
+{{Commons category|HMS Calliope (ship, 1884)}}
+* {{Cite web
+| title = Samoa Hurricane
+| url = http://www.scaramouche.homecall.co.uk/samoahurricane.htm
+| accessdate = 12 July 2013
+}} Comprehensive website of descendant of a petty officer of HMS ''Calliope'', with sections devoted to background, ship, officers and crew, hurricane and aftermath, and bibliography.
+
+* {{Cite web
+| title = Calypso Class Corvettes
+| date = 27 May 2007
+| url = http://www.battleships-cruisers.co.uk/calypso_class.htm
+| accessdate = 29 February 2008
+| archiveurl = https://web.archive.org/web/20081010124135/http://www.battleships-cruisers.co.uk/calypso_class.htm
+| archivedate = 10 October 2008
+}} Photographs of HMS ''Calliope'' in port and in dock, and activities on deck.
+
+{{Calypso class corvette}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Calliope (1884)}}
+[[Category:Calypso-class corvettes]]
+[[Category:Portsmouth-built ships]]
+[[Category:1884 ships]]
+[[Category:Victorian-era corvettes of the United Kingdom]]
+[[Category:Victorian-era cruisers of the United Kingdom]]</text>
+      <sha1>7bqbembu2djiqm6my7akibsotmeoe6w</sha1>
+    </revision>
+  </page>
+</mediawiki>

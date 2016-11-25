@@ -1,0 +1,162 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>De Lisle carbine</title>
+    <ns>0</ns>
+    <id>681813</id>
+    <revision>
+      <id>748898943</id>
+      <parentid>746863123</parentid>
+      <timestamp>2016-11-11T01:32:51Z</timestamp>
+      <contributor>
+        <username>Hohum</username>
+        <id>134766</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11813">{{Infobox Weapon
+|name=De Lisle Commando Carbine 
+|image=[[Image:De Lisle Rifle.jpg|300px]][[Image:De Lisle Carbine Folding Stock.jpg|left|300px]]
+|caption=De Lisle Carbine. Top, with wooden stock. Bottom, with folding stock from a [[Sterling submachine gun]]
+|origin=United Kingdom
+|type=[[Carbine]]
+&lt;!-- Type selection --&gt;
+|is_ranged=yes
+|is_UK=yes
+&lt;!-- Service history --&gt;
+|service=1943-1965 
+|used_by=See [[#Users|users]]
+|wars=[[World War II]], [[Korean War]], [[Malayan Emergency]]
+&lt;!-- Production history --&gt;
+|designer=William G. De Lisle 
+|design_date=1942
+|manufacturer=Ford Dagenham (17 prototypes)&lt;br&gt; [[Sterling Armaments Company]]
+|production_date=1942–1945
+|number= 129
+|variants= Ford Dagenham Prototypes &lt;br/&gt; Folding stock Parachute Carbine, only one example produced
+&lt;!-- General specifications --&gt;
+|weight=7 lb 8 oz (3.74 kg), unloaded &lt;ref name=&quot;Peterson2011&quot;&gt;{{cite book|last=Peterson|first=Philip |title=Standard Catalog of Military Firearms: The Collector's Price and Reference Guide|url=https://books.google.com/books?id=aftMDn2bd14C&amp;pg=PA220|accessdate=29 July 2013|year= 2011|publisher=F+W Media|location=Iola, Wisconsin|isbn=978-1-4402-2881-0|page=220}}&lt;/ref&gt;
+|length=35.3 in  &lt;ref name=&quot;rome28&quot;/&gt;
+|part_length= 8.27 in (210 mm) &lt;ref name=&quot;Peterson2011&quot;/&gt;
+&lt;!-- Ranged weapon specifications --&gt; 
+|cartridge=[[.45 ACP]] (11.43×23mm)
+|caliber=.45
+|action= [[Bolt action]]
+|rate= 20–30 rounds/minute
+|velocity= about  {{convert|830|ft/s|m/s|abbr=on}}
+|range= 200 yd (185 m)
+|max_range=400 yd (365 m)
+|feed=7 or 11-round detachable magazine 
+|sights=Ford Dagenham: [[Winchester rifle]] sight at rear, simple ramp with modified P-14 front sight protector at front. &lt;br/&gt; Sterling models: [[Lanchester submachine gun|Lanchester Mk I]] rear sight (later changed to Lanchester Mk I*), [[windage]] adjustable front sight. &lt;br/&gt; Airborne model: Lanchester Mk I rear sight, windage adjustable front sight}}
+
+The '''De Lisle carbine''' or '''De Lisle [[British Commandos|Commando]] carbine''' was a [[United Kingdom|British]] firearm used during [[World War II]] that was designed with an integrated [[suppressor]]. That, combined with its use of subsonic ammunition, made it extremely quiet in action, possibly one of the quietest firearms ever made.&lt;ref&gt;Special Service Lee Enfields: Commando and Auto Models by Ian Skennerton. Published by Ian D Skennerton, PO Box 80, Labrador 4215, Australia, 2001. ISBN 0-949749-37-0. Paperback, 48 pp, 50 plus b &amp; w drawings and photos, 210 x 274 mm&lt;/ref&gt;
+
+Few were manufactured as their use was limited to specialist military units.
+
+==History==
+The weapon was designed as a private venture by William Godfray de Lisle (known as Godfray), an engineer who worked for the [[Air Ministry]].&lt;ref&gt;Rome, p.31&lt;/ref&gt; He made the first prototype in [[.22 Long Rifle|.22 calibre]]; this he tested by shooting rabbits and other small game for the table, near his home on the [[Berkshire Downs]].&lt;ref name=&quot;rome27&quot;&gt;Rome, p.27&lt;/ref&gt; In 1943, he approached Major [[Sir Malcolm Campbell]] of [[Combined Operations Headquarters|Combined Operations]] with his prototype; this was informally tested by firing the weapon into the River Thames from the roof of the New Adelphi building in London. This was chosen to discover if people in the street below heard it firing &amp;ndash; they did not.&lt;ref name=&quot;rome27&quot;/&gt; Combined Operations officials were impressed with the weapon and requested De Lisle produce a [[9×19mm Parabellum|9mm]] version. However, this was a failure. A third prototype, using the [[.45 ACP]] cartridge that was favoured by de Lisle, was much more successful. Tests of this showed the weapon had adequate accuracy, produced no visible [[muzzle flash]] and was inaudible at a distance of {{convert|50|yd|m}}.&lt;ref name=&quot;rome28&quot;&gt;Rome, p.28&lt;/ref&gt;
+
+Subsequent official firing tests recorded the De Lisle produced 85.5&amp;nbsp;dB of noise when fired.&lt;ref name=&quot;rome29&quot;/&gt; As a comparison, modern testing on a selection of handguns has shown that they produce 156 to 168&amp;nbsp;dB when firing without a suppressor, and 117 to 140&amp;nbsp;dB when firing with one fitted.&lt;ref name=&quot;results&quot;&gt;{{cite web |url=http://silencertalk.com/results.htm|title=Results |first=Robert|last=Silvers|year=2005|accessdate=2009-03-09}}&lt;/ref&gt; The de Lisle's quietness was found to be comparable to the British [[Welrod]] pistol. However, the Welrod was useful only at very short range and used fabric and rubber components in the suppressor that required replacement after a few shots. The de Lisle was able to fire hundreds of rounds before the suppressor required disassembly for cleaning.&lt;ref name=&quot;rifleman&quot;/&gt;
+
+Combined Operations requested a small production run of De Lisle carbines and an initial batch of 17 were hand–made by [[Ford Dagenham]], with Godfray De Lisle himself released from his Air Ministry duties so he could work full-time on the project; this initial batch was immediately put into combat use by the [[British Commandos]].&lt;ref name=&quot;rome29&quot;&gt;Rome, p.29&lt;/ref&gt; In 1944, the [[Sterling Armaments Company]] was given an order for 500 De Lisle carbines, but eventually only produced around 130.&lt;ref name=&quot;rome29&quot;/&gt; The Sterling version differed in a number of details from the earlier, Ford Dagenham model. Two prototypes of a further version, for [[Airborne forces]], were made. These had folding stocks, similar to those fitted to the [[Sterling submachine gun]].&lt;ref name=&quot;rome30&quot;&gt;Rome, p.30&lt;/ref&gt;
+
+During the remainder of World War II, the De Lisle carbine was mainly used by the Commandos, although they also saw some use by the [[Special Operations Executive]] (SOE).&lt;ref name=&quot;rome32&quot;/&gt; [[E. Michael Burke]], the American former commander of a [[Operation Jedburgh|Jedburgh Team]], stated that a De Lisle was used by them to assassinate two senior German officers in 1944.&lt;ref name=&quot;rome32&quot;/&gt;
+
+A number of De Lisles were shipped to the Far East and used during the [[Burma Campaign]]. The De Lisle would also be used during the [[Korean War]] and the [[Malayan Emergency]].&lt;ref name=&quot;rome32&quot;/&gt; It has been claimed the weapon was also used by the [[Special Air Service]] during the [[Northern Irish Troubles]].&lt;ref name=&quot;rome32&quot;&gt;Rome, p.32&lt;/ref&gt;
+
+==Description==
+[[Image:Evers De Lisle carbine.PNG|thumb|left|The initial wooden-[[Stock (firearms)|stocked]] De Lisle with a fitted [[suppressor]]]]
+
+The De Lisle was based on a [[Lee–Enfield#Short Magazine Lee–Enfield Mk III|Short, Magazine, Lee–Enfield Mk III*]] converted to [[.45 ACP]] by modifying the [[Receiver (firearms)|receiver]], altering the [[Bolt (firearm)|bolt]]/bolthead, replacing the [[Gun barrel|barrel]] with a modified [[Thompson submachine gun]] barrel (6 grooves, RH twist), and using modified [[Magazine (firearms)|magazines]] from the [[M1911 pistol]]. The primary feature of the De Lisle was its extremely effective [[suppressor]], which made it very quiet in action. So quiet, in fact, that working the [[bolt action|bolt]] (to chamber the next round), makes a louder noise than firing a cartridge.&lt;ref&gt;{{cite book 
+  | last = Hogg
+  | first = Ian
+  |author2=John Weeks
+  | title = Military Small Arms of the 20th Century
+  | publisher = Arms &amp; Armour Press
+  | year = 1977
+  | page = 128
+  | isbn = 0-85368-301-8 }}&lt;/ref&gt;
+
+The .45 ACP cartridge was selected as its muzzle velocity is subsonic for typical barrel lengths. As such, it would both retain its full lethality and not require custom-loaded ammunition to use with a suppressor.  Most rifle rounds are supersonic, where the bullet generates a &quot;[[sonic boom]]&quot; like any other object traveling at supersonic velocities, making them unsuitable for covert purposes.  The Thompson gun barrel was ''ported'' (i.e. drilled with holes) to provide a controlled release of high pressure gas into the suppressor that surrounds it before the bullet leaves the barrel. The suppressor, {{convert|2|in|cm}} in diameter, went all the way from the back of the barrel to well beyond the [[Muzzle (firearms)|muzzle]], making up half the overall length of the weapon. The suppressor provided a very large volume to contain the gases produced by firing; this was one of the keys to its effectiveness.&lt;ref name=&quot;Bishop2002&quot;&gt;{{cite book|last=Bishop|first=Chris|title=The Encyclopedia of Weapons of World War II|year=2002|publisher=Sterling Publishing Company, Inc.|isbn=978-1-58663-762-0|pages=220–221}}&lt;/ref&gt; The [[MP5SD]] and [[AS Val]] are among other modern firearms that use the same concept.
+
+The Lee–Enfield bolt was shortened to feed the .45 ACP rounds; the Lee–Enfield's magazine set-up was replaced with a new assembly that held a modified M1911 magazine. The single-shot, bolt operation offered an advantage in that the shooter could refrain from chambering the next round if absolute silence was required after firing. A [[Semi-automatic firearm|semi-automatic]] weapon would not have offered this option as the cycling of the bolt coupled with rearward escaping propellant gas and the clink of the empty case against any hard surface would produce a noise with each shot.&lt;ref name=&quot;blindcat&quot;&gt;{{cite web |url=http://lrdg.hegewisch.net/unlikely_weapons.html |title=LRDG Weapons |author= |work=The LRDG, Long Range Desert Group|publisher=BlindKat Publishers|accessdate=5 June 2011}}&lt;/ref&gt; As silent as the carbine was, it was not very accurate.&lt;ref name=&quot;Dockery2007&quot;&gt;{{cite book|last=Dockery|first=Kevin|title=Stalkers and Shooters: A History of Snipers|year=2007|publisher=BERKLEY Publishing Group|isbn=978-0-425-21542-5|pages=226–227}}&lt;/ref&gt;
+
+De Lisle's own .22 prototype was given to the [[National Army Museum]] in London, but it was subsequently lost and its present whereabouts are unknown.&lt;ref name=&quot;rifleman&quot;&gt;{{cite web |url=http://www.rifleman.org.uk/The_DeLisle_carbine.htm|title=The De Lisle &quot;Commando&quot; carbine|author=|work=|publisher=U.K. N.R.A. Historic Arms Resource Centre|accessdate=22 September 2012}}&lt;/ref&gt; A reproduction of the carbine is manufactured by the American company, Valkyrie Arms.&lt;ref&gt;{{cite web|url=http://www.valkyriearms.com/delisle.html|title=DeLisle Commando Carbine|author=|date=22 September 2011|work=|publisher=Valkyrie Arms}}&lt;/ref&gt; Another company, Special Interest Arms, has announced limited production of a De Lisle replica which incorporates an improved magazine adapter system that allows the use of unmodified M1911 magazines and also fully supports the barrel chamber in the action.&lt;ref&gt;{{cite web| url=http://www.specialinterestarms.com/index.php?page=enfield_conversions|title=Enfield .45 Carbine and kits.|publisher=Special Interest Arms|accessdate=February 21, 2012}}&lt;/ref&gt;
+
+==Users==
+* {{flag|United Kingdom}}
+* {{flag|United States}}
+* {{flag|Free France}}
+
+==See also==
+*[[Sten#Suppressed models|Sten]]—there were also suppressed versions of the Sten, used for similar work.
+*[[Welrod]] pistol
+
+== Notes ==
+{{reflist|30em}}
+
+==References==
+*{{cite journal |last=Rome |first=Robert|date=June 1984|title=WWII Silent Killer Still Lives|journal=Gung Ho |volume= |issue= |pages=26–32 |publisher= |doi= |url=http://www.valkyriearms.com/images/delisle.pdf |accessdate= }}
+* Skennerton, Ian, ''SAIS No. 13: Special Service Lee-Enfields... Commando &amp; Auto Models'', Arms &amp; Militaria Press, 2001, ISBN 0-949749-37-0
+
+==External links==
+{{commons|De Lisle}}
+*http://www.rifleman.org.uk/The_DeLisle_carbine.htm
+*[http://www.youtube.com/watch?v=AMei19G_hqA&amp;feature=fvsr Delisle Carbine in use on YouTube]
+*[http://www.rifleman.org.uk/Images/deLisle_patent.gif De Lisle suppressor schematic]
+
+{{WW2 Brit Comm Infantry Guns}}
+{{BritishEmpireWeapons}}
+
+{{DEFAULTSORT:De Lisle Carbine}}
+[[Category:.45 ACP firearms]]
+[[Category:Bolt-action rifles]]
+[[Category:Rifles of the United Kingdom]]
+[[Category:Silenced firearms]]
+[[Category:World War II infantry weapons of the United Kingdom]]</text>
+      <sha1>jsbqzz0v5f6dcim06qykvoswzgbga5p</sha1>
+    </revision>
+  </page>
+</mediawiki>

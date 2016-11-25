@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USCGC Kiska (WPB-1336)</title>
+    <ns>0</ns>
+    <id>22703114</id>
+    <revision>
+      <id>743602314</id>
+      <parentid>730921236</parentid>
+      <timestamp>2016-10-10T10:30:55Z</timestamp>
+      <contributor>
+        <username>Finlay McWalter</username>
+        <id>22619</id>
+      </contributor>
+      <comment>/* Design */ fix link to [[Paxman Valenta]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4880">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United States]]
+|Ship flag={{shipboxflag|United States|coast guard}}
+|Ship name=USCGC ''Kiska''
+|Ship namesake=Kiska Island, Alaska
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=[[Hilo, Hawaii]]
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status=Active in service
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Island class cutter]]
+|Ship type=
+|Ship tonnage=
+|Ship displacement=164 tons
+|Ship tons burthen=
+|Ship length={{convert|110|ft|m|abbr=on}} 
+|Ship beam={{convert|21|ft|m|abbr=on}} 
+|Ship height=
+|Ship draught=
+|Ship draft={{convert|6.5|ft|m|abbr=on}} 
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=Twin [[Paxman Valenta]] 16-CM RP-200M
+|Ship sail plan=
+|Ship speed=30+ knots
+|Ship range=9,900 miles
+|Ship endurance=6 days
+|Ship test depth=
+|Ship boats=1 - RHI (90 HP outboard engine)
+|Ship capacity=
+|Ship troops=
+|Ship complement=18 personnel (2 officers, 16 enlisted)
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*25 mm [[Mk 38 machine gun]]
+*2 × [[M2 Browning machine gun|.50 caliber Machine Gun]]
+*Various Small Arms|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=International radio call sign: NUSF
+Communications: VHF and HF}}
+|}
+
+'''USCGC ''Kiska'' (WPB-1336)''' is an [[Island class cutter]] of the [[United States Coast Guard]], named for the island of [[Kiska]], Alaska.
+
+==Design==
+The [[Island-class patrol boat]]s were constructed in [[Bollinger Shipyards]], [[Lockport, Louisiana]]. ''Kiska'' has an overall length of {{convert|110|ft|m}}. It had a [[beam (ship)|beam]] of {{convert|21|ft|m}} and a [[draft (ship)|draft]] of {{convert|7|ft|m}} at the time of construction. The patrol boat has a displacement of {{convert|154|t|LT ST}} at full load and {{convert|137|t|LT ST}} at half load. It is powered two [[Paxman Valenta]] 16 CM diesel engines or two Caterpillar 3516 diesel engines. It has two {{convert|99|kW|PS shp}} 3304T diesel generators made by Caterpillar; these can serve as [[motor–generator]]s. Its hull is constructed from highly strong steel, and the superstructure and major deck are constructed from aluminium.&lt;ref name=&quot;uscg&quot;&gt;{{cite web|url=http://www.uscg.mil/d13/docs/factsheets/110.pdf|title=110-foot Island Class Patrol
+Boat (WPB)|publisher=United States Coast Guard|accessdate=24 August 2015}}&lt;/ref&gt;&lt;ref name=&quot;bollinger&quot;&gt;{{cite web|url=http://www.bollingershipyards.com/Portfolio/Military--Government-Vessels/USCG-110-34Island-Class34-Patrol-Boats-WPB|title=USCG 110' &quot;Island Class&quot; Patrol Boats (WPB)|publisher=Bollinger Shipyards|accessdate=24 August 2015}}&lt;/ref&gt;
+
+The Island-class patrol boats have maximum sustained speeds of {{convert|29.5|kn|km/h mph}}. It is fitted with one {{convert|25|mm}} machine gun and two {{convert|7.62|mm}} M60 light machine guns; it may also be fitted with two Browning [[M2 Browning|.50 Caliber Machine Guns]]. It is fitted with satellite navigation systems, collision avoidance systems, surface radar, and a Loran C system. It has a range of {{convert|3330|mi|nmi km}} and an endurance of five days. Its complement is sixteen (two officers and fourteen crew members). Island-class patrol boats are based on Vosper Thornycroft {{convert|33|m}} patrol boats and have similar dimensions.&lt;ref name=&quot;uscg&quot;/&gt;&lt;ref name=&quot;bollinger&quot;/&gt;
+
+==History==
+On March 19, 2002 the ''Kiska'' intercepted the Taiwanese fishing vessel ''Full Means II'' (富明二號), which [[Lei Shi|had been taken over by its cook, who had murdered the captain and first mate]].
+&lt;ref&gt;{{cite journal |first= Robert D. |last= McFadden|authorlink= |title= Tales of Mutiny and Murder Unfold After a Missing Taiwanese Ship Is Found|url=http://www.nytimes.com/2002/03/23/us/tales-of-mutiny-and-murder-unfold-after-a-missing-taiwanese-ship-is-found.html?scp=3&amp;sq=%22Full%20Means%22&amp;st=cse
+ |format= |agency= |work=[[New York Times]] |date= 2002-03-23|accessdate=May 6, 2009 |language= |quote= |archiveurl= |archivedate= }}&lt;/ref&gt;
+
+==References==
+{{Reflist}}
+{{Island class patrol boat}}
+
+{{DEFAULTSORT:Kiska}}
+[[Category:Ships of the United States Coast Guard]]
+[[Category:Island-class patrol boats]]</text>
+      <sha1>2l8e5sy0q1w9bgpd66mmsw97p0l7aa9</sha1>
+    </revision>
+  </page>
+</mediawiki>

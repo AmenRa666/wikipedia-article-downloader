@@ -1,0 +1,202 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Swiftsure (1903)</title>
+    <ns>0</ns>
+    <id>5344543</id>
+    <revision>
+      <id>708926685</id>
+      <parentid>687895619</parentid>
+      <timestamp>2016-03-08T06:12:52Z</timestamp>
+      <contributor>
+        <username>Hazard-Bot</username>
+        <id>12923076</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots|Bot]]: Adding {{Research help|Mil}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16356">{{Other ships|HMS Swiftsure}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMSSwiftsure-IWM-Q40256.jpg|300px]]
+|Ship caption=''Swiftsure'' at anchor
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Chile
+|Ship flag={{shipboxflag|Chile}}
+|Ship name=''Constitución''
+|Ship ordered=1901
+|Ship builder=[[Armstrong Whitworth]], [[Elswick, Tyne and Wear|Elswick]]
+|Ship yard number=733
+|Ship laid down=26 February 1902
+|Ship launched=12 January 1903
+|Ship renamed=HMS ''Swiftsure''
+|Ship fate=Sold to the United Kingdom, 3 December 1903
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Swiftsure''
+|Ship namesake=
+|Ship acquired=3 December 1903
+|Ship completed=June 1904
+|Ship commissioned=21 June 1904
+|Ship decommissioned=April 1917
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Sold for [[ship breaking|scrap]], 18 June 1920
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Swiftsure|battleship|0}} [[pre-dreadnought]] [[battleship]]
+|Ship displacement=*{{convert|12175|LT|t}} (normal load)
+*{{convert|13840|LT|t}} ([[Full-load displacement|deep load]])
+|Ship length={{convert|475|ft|3|in|m|abbr=on|1}} ([[Length overall|o/a]])
+|Ship beam={{convert|71|ft|1|in|m|abbr=on|1}} 
+|Ship draught={{convert|27|ft|4|in|m|abbr=on|1}} (deep)
+|Ship power={{convert|12500|ihp|lk=in|abbr=on}}
+|Ship propulsion=*2 shafts
+*2 × 4-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]]
+*12 × [[Yarrow boiler]]s
+|Ship speed={{convert|19|kn|lk=in}}
+|Ship range={{convert|6210|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship armament=*2 × 2 - [[EOC 10 inch /45 naval gun|BL 10-inch Mk VI guns]]
+*14 × 1 - [[BL 7.5 inch Mk II - V naval gun|BL 7.5-inch guns]]
+*14 × 1 - QF 14-pounder Mk I guns
+*4 × 1 - QF 6-pounder guns
+*2 × 1 - [[British 18 inch torpedo|18-inch (450 mm)]] submerged [[torpedo tube]]s
+|Ship armour=*[[Belt armor|Belt]]: {{convert|3|–|7|in|mm|0}}
+*[[Bulkhead (partition)|Bulkheads]]: {{convert|2|–|6|in|mm|0}}
+*[[Deck (ship)|Deck]]s: {{convert|1|–|3|in|mm|0}}
+*[[Conning tower]]: {{convert|11|in|mm|0}}
+*[[Turret]]s: {{convert|8|–|10|in|mm|0}}
+*[[Barbette]]s: {{convert|2|–|10|in|mm|0}}
+*[[Casemate]]s: {{convert|7|in|mm|0}}
+|Ship crew=729 (1906)
+|Ship notes=
+}}
+|}
+'''HMS ''Swiftsure''''', originally known as '''''Constitución''''', was the lead ship of the {{sclass-|Swiftsure|battleship|0}} [[pre-dreadnought]] [[battleship]]s. The ship was ordered by the Chilean Navy, but she was purchased by the United Kingdom as part of ending the [[Argentine–Chilean naval arms race]]. In British service, ''Swiftsure'' was initially assigned to the [[Home Fleet]] and [[Channel Fleet]]s before being transferred to the [[Mediterranean Fleet]] in 1909. She rejoined Home Fleet in 1912 and was transferred to the [[East Indies Station]] in 1913, to act as its [[flagship]].
+
+After the beginning of [[World War I]] in August 1914, ''Swiftsure'' escorted troop convoys in the [[Indian Ocean]] until she was transferred to the [[Suez Canal]] Patrol in December. After defending the Canal in early 1915 from [[Ottoman Empire|Ottoman]] attacks, the ship was then transferred to the [[Dardanelles]] in February and saw action in the [[Naval operations in the Dardanelles Campaign|Dardanelles Campaign]] bombarding Ottoman fortifications. ''Swiftsure'' was assigned to convoy escort duties in the [[Atlantic Ocean|Atlantic]] from early 1916 until she was [[Ship decommissioning|paid off]] in April 1917 to provide crews for [[anti-submarine warfare|anti-submarine]] vessels. In mid-1918, the ship was disarmed to be used as a [[blockship]] during a proposed second raid on [[Ostend]]. ''Swiftsure'' was sold for [[ship breaking|scrap]] in 1920.
+
+==Design and description==
+{{see also|Argentine–Chilean naval arms race}}
+''Swiftsure'' was ordered by Chile, with the name of ''Constitución'', in response to the Argentine purchase of two [[armoured cruiser]]s from Italy during a time of heightened tensions with Argentina. After the crisis subsided, financial problems forced Chile put the ship up for sale in early 1903; concerned that [[Russian Empire|Russia]] might buy them, the United Kingdom stepped in and purchased the still-incomplete ships from Chile on 3 December 1903 for £2,432,000. The ship was designed to Chilean specifications, particularly the requirement to fit in the [[graving dock]] at [[Talcahuano]], and was regarded by the British as a second-class battleship.&lt;ref&gt;Burt, pp. 259, 261–62&lt;/ref&gt;
+
+===General characteristics===
+''Swiftsure'' had an [[length overall|overall length]] of {{convert|475|ft|3|in|m|1}}, a [[Beam (nautical)|beam]] of {{convert|71|ft|1|in|m|1}},&lt;ref name=b2/&gt; and a [[Draft (hull)|draught]] of {{convert|28|ft|6|in|m|1}} at [[deep load]]. She displaced {{convert|12175|LT|t}} at [[Standard displacement#Standard displacement|standard load]] and {{convert|13840|LT|t}} at deep load.&lt;ref&gt;Parkes, pp. 436, 438&lt;/ref&gt; At deep load she had a [[metacentric height]] of {{convert|4.01|ft}}.&lt;ref&gt;Burt, p. 267&lt;/ref&gt; In 1906, the crew numbered 729 officers and enlisted men.&lt;ref name=b2/&gt;
+
+===Propulsion===
+The ship was powered by two four-cylinder inverted [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]], each driving one propeller. A dozen [[Yarrow boiler|Yarrow water-tube boiler]]s provided steam to the engines which produced a total of {{convert|12500|ihp|lk=in}} which was intended to allow them to reach a speed of {{convert|19.5|kn|lk=in}}. The engines proved to be more powerful than anticipated and ''Swiftsure'' exceeded {{convert|20|kn}} during [[sea trial]]s.&lt;ref&gt;Burt, pp. 271–272&lt;/ref&gt; She carried a maximum of {{convert|2048|LT|t}} of coal, enough to steam {{convert|6210|nmi|lk=in}} at {{convert|10|knots}}.&lt;ref name=b2/&gt; In service she and her sister proved to be more economical than first thought with an estimated range of {{convert|12000|nmi}} at 10 knots.&lt;ref&gt;Parkes, p. 439&lt;/ref&gt;
+
+===Armament===
+[[File:HMS Swiftsure LOC ggbain 16800.jpg|thumb|left|''Swiftsure'' at anchor after about 1908]]
+The ship was armed with four 45-[[caliber (artillery)|calibre]] [[EOC 10 inch /45 naval gun|BL 10-inch Mk VI guns]] in two twin [[gun turret]]s, one each fore and aft of the [[superstructure]].&lt;ref name=b2/&gt; The guns fired {{convert|500|lb|kg|adj=on|0}} projectiles at a [[muzzle velocity]] of {{convert|2656|ft/s|m/s|abbr=on}}; this provided a maximum range of {{convert|14800|yd|m}} at the gun's maximum elevation of 13.5°. The firing cycle of the Mk VI guns was claimed to be 15 seconds.&lt;ref&gt;Friedman, pp. 66–67&lt;/ref&gt; Each gun was provided with 90 shells.&lt;ref name=b2&gt;Burt, p. 262&lt;/ref&gt;
+
+''Swiftsure''{{'}}s secondary armament consisted of fourteen 50-calibre [[BL 7.5 inch Mk II – V naval gun|7.5-inch Mk III guns]]. Ten of the guns were mounted in a central [[Artillery battery#Naval usage|battery]] on the main deck; the other four were in [[casemate]]s abreast the fore- and [[mainmast]]s on the upper deck.&lt;ref&gt;Burt, pp. 267–68&lt;/ref&gt; A major problem with the guns on the main deck was that they were mounted low in the ship—only about {{convert|10|ft|0}} above water at deep load—and were unusable at high speed or in heavy weather as they dipped their muzzles in the sea when rolling more than 14°.&lt;ref&gt;Parkes, p. 438&lt;/ref&gt; The guns fired {{convert|200|lb|kg|adj=on|0}} projectiles at a [[muzzle velocity]] of {{convert|2781|ft/s|m/s|abbr=on}} at a rate of four rounds per minutes. At their maximum elevation of 15° they had a maximum range of about {{convert|14000|yd|m}}.&lt;ref&gt;Friedman, pp. 77–78&lt;/ref&gt; The ship carried 150 rounds per gun.&lt;ref name=b2/&gt;
+
+Defence against [[torpedo boat]]s was provided by fourteen QF 14-pounder Mk I guns, the guns were modified  to use the standard {{convert|12.5|lb|adj=on|1}} shell used by the [[QF 12 pounder 12 cwt naval gun|QF 12 pounder 18 cwt]]&lt;ref group=Note&gt;&quot;cwt&quot; is the abbreviation for [[hundredweight]], 64 cwt referring to the weight of the gun.&lt;/ref&gt; gun in British service.&lt;ref name=b2/&gt; They fired {{convert|3|in|adj=on|0}}, 12.5-lb projectiles at a [[muzzle velocity]] of {{convert|2548|ft/s|m/s|abbr=on}}. Their maximum range and rate of fire is unknown.&lt;ref&gt;Friedman, p. 111&lt;/ref&gt; 200 rounds per gun was carried by ''Swiftsure''.&lt;ref name=b2/&gt; The ship also mounted four [[QF 6 pounder Hotchkiss|QF 6-pounder]] [[Hotchkiss gun]]s in the [[Top (sailing ship)|fighting tops]], although these were removed in 1906–08.&lt;ref name=b4/&gt;
+
+The ship was also armed with a pair of [[British 18 inch torpedo|18-inch (450 mm)]] submerged [[torpedo tube]]s, one on each [[broadside]]. She was provided with nine [[torpedo]]es.&lt;ref name=b2/&gt;
+
+===Armour===
+The ''Swiftsure''s{{'}} armour scheme was roughly comparable to that of the [[Duncan-class battleship|''Duncan'' class]]. The [[waterline]] [[armor belt|main belt]] was composed of [[Krupp armour|Krupp cemented armour]] (KCA) {{convert|7|in|mm|0}} thick. It was {{convert|8|ft|m|1}} high of which {{convert|5|ft|3|in|1}} was below the waterline at normal load. Fore and aft of the {{convert|2|-|6|in|mm|0|adj=on}} oblique [[Bulkhead (partition)|bulkheads]] that connected the belt armour to the [[barbette]]s, the belt continued, but was reduced in thickness. It was six inches thick abreast the barbettes, but was reduced to two inches fore and aft of the barbettes. It continued forward to the bow and supported the ship's spur-type [[naval ram|ram]]. It continued aft to the steering gear compartment and terminated in {{convert|3|in|adj=on|0}} transverse bulkhead. The upper strake of 7-inch armour covered the ship's side between the rear of the barbettes up to the level of the upper deck. The upper deck casemates were also protected by 7-inch faces and sides, but were enclosed by rear 3-inch plates. The 7.5-inch guns on the main deck were separated by {{convert|1|in|mm|adj=on}} screens with {{convert|.5|in|1}} plating protecting the [[funnel (ship)|funnel]] uptakes to their rear. A longitudinal 1-inch bulkhead divided the [[Artillery battery#Naval usage|battery]] down its centreline.&lt;ref name=b1&gt;Burt, pp. 269–71&lt;/ref&gt;
+
+The turret faces were {{convert|9|in|mm|0}} thick and their sides and rear were {{convert|8|in|mm|0}} thick. Their roofs were two inches thick and the sighting hood protecting the gunners was {{convert|1.5|in|mm}} thick. Above the upper deck the barbettes were {{convert|10|in|mm|0}} thick on their faces and eight inches on the rear. Below this level they thinned to three and two inches respectively. The conning tower was protected by {{convert|11|in|mm|0}} of armour on its face and eight inches on its rear. The [[Deck (ship)|deck]] armour inside the central citadel ranged from 1 to 1.5&amp;nbsp;inches in thickness. Outside the citadel, the lower deck was three inches thick and sloped to meet the lower side of the belt armour.&lt;ref name=b1/&gt;
+
+==Construction and service==
+
+===Pre-World War I===
+''Swiftsure'' was ordered by Chile as ''Constitución'' and laid down by [[Armstrong Whitworth]] at [[Elswick, Tyne and Wear|Elswick]] on 26 February 1902 and launched on 12 January 1903. She was completed in June 1904&lt;ref name=b2/&gt; and commissioned at [[Chatham Dockyard]] on 21 June 1904 for service in the Home Fleet. Under a fleet reorganization in January 1905, the Home Fleet became the Channel Fleet. She collided with her [[sister ship]] {{HMS|Triumph|1903|2}} on 3 June 1905 and suffered damage to her propellers, [[sternwalk]] and aft hull. The ship was refitted at Chatham Dockyard in June–July 1906. ''Swiftsure'' was briefly placed in [[Reserve fleet|reserve]] at [[Portsmouth Dockyard]] from 7 October 1908 until 6 April 1909 when she was recommissioned for service with the Mediterranean Fleet. The ship was reassigned to Home Fleet on 8 May 1912 until she was given a lengthy refit from September 1912 to March 1913. ''Swiftsure'' was recommissioned on 26 March and assigned as the flagship of the East Indies Station.&lt;ref name=b4&gt;Burt, p. 274&lt;/ref&gt;
+
+===World War I===
+[[File:HMS Swiftsure (1903) firing at the Dardanelles 1915.jpg|thumb|300px|left|''Swiftsure'' firing on Ottoman positions while covering the landings at West Beach, [[Cape Helles]], 25 April 1915.]] 
+During World War I, the ship escorted Indian troop convoys from [[Bombay]] to [[Aden]] from September–November 1914, when the destruction of the German [[light cruiser]] {{SMS|Emden|1906|6}}, which had been raiding in the Indian Ocean, made this escort duty unnecessary. She was then transferred to the Suez Canal Patrol on 1 December to help defend the Canal, although she remained East Indies Station flagship while at Suez. From 27 January to 4 February 1915, the ship helped to defend the Canal near [[Al Qantarah El Sharqiyya|Kantara]] during the [[First Suez Offensive]] by Ottoman forces.&lt;ref&gt;Burt, pp. 274–75&lt;/ref&gt;
+
+''Swiftsure'' was relieved as East Indies Station flagship by the armored cruiser {{HMS|Euryalus|1901|2}} later in February 1915 and transferred to the [[Dardanelles]] for service in the [[Dardanelles Campaign]]. She joined the [[Dardanelles Squadron]] on 28 February 1915 and took part in the attack on [[Fort Dardanos]] on 2 March 1915. She and ''Triumph'' were detached from the Dardanelles on 5 March 1915 for operations against forts at [[Izmir|Smyrna]] and returned to the Dardanelles on 9 March 1915. She participated in the main attack on the Narrows forts on 18 March 1915 and supported the main landings at West Beach at Cape Helles on 25 April and subsequent landings, including the attack on [[Achi Baba]] on 4 June. On 18 September, a German [[submarine]] unsuccessfully attacked her while she was on a voyage from [[Mudros]] to [[Suvla Bay]]. She took part in the bombardment of [[Dedeagatch]] on 18 January 1916.&lt;ref name=&quot;Burt, p. 275&quot;&gt;Burt, p. 275&lt;/ref&gt;
+
+''Swiftsure'' left the Dardanelles in February 1916, departing [[Kephale]] on 7 February 1916 for [[Gibraltar]], where she was attached to the [[9th Cruiser Squadron (United Kingdom)|9th Cruiser Squadron]] for service on the [[Atlantic Patrol]] and convoy escort duty in the Atlantic. She transferred out of the 9th Cruiser Squadron in March 1917, departing [[Sierra Leone]] on 26 March and arriving at [[Plymouth, England|Plymouth]] on 11 April. ''Swiftsure'' was paid off at Chatham on 26 April to provide crews for anti-submarine vessels. She then went into reserve, undergoing a refit at Chatham in mid-1917 and being employed as an [[accommodation ship]] beginning in February 1918. In the autumn of 1918 she was disarmed and stripped for use as a blockship in a proposed second attempt to block the entrance to the harbor at Ostend, but the war ended before this operation could take place. The ship was briefly used as a [[target ship]] before she was listed for sale in March 1920. ''Swiftsure'' was sold for scrap on 18 June 1920 to the Stanlee Shipbreaking Company.&lt;ref name=&quot;Burt, p. 275&quot;/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|2}}
+
+==References==
+* {{cite book|last=Burt|first=R. A.|title=British Battleships 1889–1904|year=1988|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-061-0}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4}}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}}
+* {{cite book|last=Parkes|first=Oscar|title=British Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|edition=reprint of the 1957|isbn=1-55750-075-4}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|HMS Swiftsure (1903)}}
+
+{{Swiftsure class battleship}}
+
+{{Good article}}
+
+{{DEFAULTSORT:Swiftsure (1903)}}
+[[Category:Swiftsure-class battleships]]
+[[Category:Armstrong Whitworth ships]]
+[[Category:Tyne-built ships]]
+[[Category:1903 ships]]
+[[Category:World War I battleships of the United Kingdom]]
+[[Category:Battleships of the Chilean Navy]]</text>
+      <sha1>29iy1t97zrfa57v48b0ftqsalr1acaj</sha1>
+    </revision>
+  </page>
+</mediawiki>

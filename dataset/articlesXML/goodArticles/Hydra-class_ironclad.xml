@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hydra-class ironclad</title>
+    <ns>0</ns>
+    <id>10362698</id>
+    <revision>
+      <id>685252775</id>
+      <parentid>682269578</parentid>
+      <timestamp>2015-10-11T19:53:05Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11649">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Idra2b.jpg|300px]] 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Name=''Hydra'' class
+|Builders=France
+|Operators={{navy|Greece|royalnavy}}
+|Class before=
+|Class after=
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=   
+|In commission range=  
+|Total ships building=1885&amp;ndash;1892 
+|Total ships planned=
+|Total ships completed=3 
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=3
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Ironclad warship|Ironclad]]
+|Ship displacement={{convert|4808|MT|abbr=on}}
+|Ship length={{convert|334|ft|8|in}}
+|Ship beam={{convert|51|ft|10|in|abbr=on}}
+|Ship draft={{convert|18|ft|abbr=on}}
+|Ship propulsion=*2 steam engines
+*4 cylindrical boilers
+*2 shafts
+*{{convert|6700|ihp|lk=in}}
+|Ship speed={{convert|17|kn|lk=in}}
+|Ship range=
+|Ship endurance=
+|Ship boats=
+|Ship crew=400
+|Ship armament=*2 × {{convert|10.8|in|adj=on|0}} L34 guns
+*1 × {{convert|10.8|in|adj=on|0}} L28 gun
+*5 × {{convert|5.9|in|adj=on|0}} L36 guns
+*4 × {{convert|3.4|in|adj=on|0}} L22 guns
+*4 × 3-pdr guns
+*4 × 1-pdr guns
+*6 × 1-pdr revolver cannons
+*3 × {{convert|14|in|adj=on|0}} [[torpedo tube]]s
+|Ship armor=*Belt: {{convert|12|in|abbr=on}}
+*Barbettes: {{convert|14|in|abbr=on}}
+*Deck: {{convert|1.9|in|abbr=on}} (''Hydra'')
+*{{convert|2.3|in|abbr=on}} (''Spetsai'' and ''Psara'')
+
+|Ship notes=
+}}
+|}
+
+The '''''Hydra'' class''' of [[ironclad warship|ironclads]] composed three ships, {{ship|Greek ironclad|Hydra||2}}, {{ship|Greek ironclad|Spetsai||2}}, and {{ship|Greek ironclad|Psara||2}}. The ships were ordered from France in 1885 during the premiership of [[Charilaos Trikoupis]], as part of a wider reorganization and modernization of the Greek armed forces, which had proved themselves inadequate during the [[Cretan uprising]] of 1866. Launched in 1889 and 1890, the ships were ready for service with the [[Greek Navy]] by 1892. They were armed with a main battery of three {{convert|10.8|in|adj=on|0}} guns and five {{convert|5.9|in|adj=on|0}} guns, and had a top speed of {{convert|17|kn}}.
+
+The ships frequently served together throughout their careers. Their participation in the [[Greco-Turkish War (1897)|Greco&amp;ndash;Turkish War]] in 1897 was limited due to intervention by the [[Concert of Europe|Great Powers]]. Modernizations in the 1890s and 1900s upgraded the ships' armament, but by the [[First Balkan War]], they were too slow to keep up with newer vessels in the Greek fleet, particularly the [[armored cruiser]] {{ship|Greek cruiser|Georgios Averof||2}}. They saw action at the [[Naval Battle of Elli|Battle of Elli]] but were left behind due to their slow speed at the [[Naval Battle of Lemnos|Battle of Lemnos]]. Thoroughly obsolete, the ships were reduced to secondary duties after the war and did not see active duty during [[World War I]]. The ships were intended to be sold in 1919, but were retained out of active service until 1929.
+
+==Design==
+[[File:Hydra Brasseis1902.png|thumb|left|Armour and armament sketch of ''Hydra'' class]]
+The Balkan crisis that started with the [[Serbo-Bulgarian War]], coupled with Ottoman naval expansion in the 1860s and 1870s, prompted the Greek Navy to begin a rearmament program. In addition, the Greek fleet had proved to be too weak to effectively challenge Ottoman naval power during the 1866 [[Cretan Revolt (1866–1869)|Cretan Revolt]]. In 1885, Greece ordered three new ironclads of the ''Hydra'' class.&lt;ref name=GG382&gt;Gardiner &amp; Gray, p. 382&lt;/ref&gt; The ships were ordered from the Graville and St. Nazaire shipyards in France during the premiership of [[Charilaos Trikoupis]].&lt;ref name=&quot;Brassey, p. 25&quot;&gt;Brassey, p. 25&lt;/ref&gt;&lt;ref name=G387&gt;Gardiner, p. 387&lt;/ref&gt;
+
+The ships were {{convert|334|ft|8|in}} [[length between perpendiculars|long between perpendiculars]] and had a [[beam (nautical)|beam]] of {{convert|51|ft|10|in|abbr=on}} and a mean [[draft (hull)|draft]] of {{convert|18|ft|abbr=on}}. They displaced {{convert|4808|MT|sp=us}} as built. By 1910, their displacement had increased slightly, to {{convert|4885|MT|abbr=on}}. Approximately 400 officers and men crewed each ship. The ships were powered by a pair of triple expansion steam engines with four double-ended cylindrical boilers; they were rated at {{convert|6700|ihp|lk=in}} and provided a top speed of {{convert|17|kn|lk=in}}. Coal storage amounted to {{convert|500|MT|abbr=on}} The boilers were trunked into two funnels.&lt;ref name=G387/&gt;&lt;ref name=GG383&gt;Gardiner &amp; Gray, p. 383&lt;/ref&gt;&lt;ref&gt;''Journal of the American Society of Naval Engineers'', p. 427&lt;/ref&gt; The hull was divided into 118 [[watertight compartment]]s.&lt;ref name=L348/&gt;
+
+The ''Hydra'' class was armed with a main battery of three {{convert|10.8|in|adj=on|0}} [[Canet guns]].&lt;ref name=L348/&gt; Two guns were mounted forward in [[barbette]]s on either side of the forward [[superstructure]]; these were L/34 guns.&lt;ref group=Note&gt;L/34 refers to the length of the gun in terms of [[Caliber (artillery)|calibers]]. An L/34 gun is 34 times long as it is in diameter.&lt;/ref&gt; The third gun, a L/28 gun, was placed in a [[gun turret|turret]] aft. The secondary battery consisted of four {{convert|5.9|in|adj=on|0}} L/36 guns in [[casemate]]s were mounted below the forward main battery, and a fifth 5.9-inch gun was placed on the [[centerline (ship marking)|centerline]] on the same deck as the main battery. A number of smaller guns were carried for defense against [[torpedo boat]]s. These included four {{convert|3.4|in|adj=on|0}} L/22 guns, four 3-pounder guns, four 1-pounder guns, and six 1-pounder revolver cannons. The ships were also armed with three {{convert|14|in|abbr=on|0}} [[torpedo tube]]s.&lt;ref name=G387/&gt; Two tubes were placed on the [[broadside]] and one was mounted in the bow.&lt;ref name=L348/&gt;
+
+The ships were armored with a mix of [[Schneider Electric|Creusot]] and [[Compound armour|compound steel]]. The [[belt armor|main belt]] was {{convert|12|in|abbr=on}} thick [[amidships]] and reduced to {{convert|4|in|abbr=on}} on either end of the hull. At a normal displacement, the main belt extended for {{convert|3|in|abbr=on}} above the [[waterline]]. Under a full load, however, the belt was completely submerged below the waterline. Above the belt, a [[strake]] of 3&amp;nbsp;in of armor covered the side of the vessels amidships. The main battery was protected by {{convert|12|to|14|in|abbr=on}} of armor with 12-inch thick [[barbette]]s.&lt;ref name=G387/&gt;&lt;ref&gt;Brassey, p. 233&lt;/ref&gt; ''Hydra'' had an armored deck {{convert|1.9|in|abbr=on}} thick; the decks of ''Spetsai'' and ''Psara'' were increased to {{convert|2.3|in|abbr=on}}.&lt;ref name=L348/&gt;
+
+==Construction and modernization==
+[[File:Canet naval guns for the Greek ironclads.jpg|thumb|200px|The 10 cm and 6.5 cm [[Canet guns]] installed on the ''Hydra''-class vessels in their first modernization]]
+''Hydra'' was built by the ''[[Ateliers et Chantiers de la Loire]]'' dockyard in St. Nazaire, while ''Spetsai'' and ''Psara'' were built at the ''[[Société Nouvelle des Forges et Chantiers de la Méditerranée]]'' shipyard in Graville.&lt;ref&gt;''The Chinese Times'', p. 488&lt;/ref&gt; ''Hydra'' was [[Ship naming and launching|launched]] on 15 May 1889.&lt;ref name=L348&gt;Laughton, p. 348&lt;/ref&gt; ''Spetsai'' was launched on 26 October 1889 and ''Psara'' followed on 20 February 1890.&lt;ref&gt;Neal, p. 603&lt;/ref&gt; All three ships were transferred to [[Piraeus]] and in service by 1892.&lt;ref name=&quot;Brassey, p. 25&quot;/&gt; In 1897&amp;ndash;1900, the three ships were partially rearmed. Their small-caliber guns were replaced with one {{convert|3.9|in|abbr=on}} gun forward, eight 9-pounder guns, four 3-pounders, and ten 1-pounder revolver cannon. One of the 14-inch torpedo tubes was replaced with a {{convert|15|in|abbr=on}} weapon.&lt;ref name=G387/&gt;&lt;ref&gt;Mason, p. 293&lt;/ref&gt; In 1908&amp;ndash;1910, the ships' armament was again revised. The old 5.9&amp;nbsp;in guns were replaced with new, longer L/45 models.&lt;ref name=GG383&gt;Gardiner &amp; Gray, p. 383&lt;/ref&gt;
+
+==Service history==
+Throughout their careers, the three ''Hydra''-class ships generally operated together. The ships saw limited action in the [[Greco-Turkish War (1897)|Greco&amp;ndash;Turkish War]] in 1897, as the Royal Hellenic Navy was unable to make use of its superiority over the Ottoman Navy. The [[Ottoman Navy]] had remained in port during the conflict, but a major naval intervention of the [[Concert of Europe|Great Powers]] prevented the Greeks from capitalizing on their superiority.&lt;ref name=GG382/&gt; The three ships saw action during the [[First Balkan War]] at the [[Naval Battle of Elli|Battle of Elli]], alongside the powerful [[armored cruiser]] {{ship|Greek cruiser|Georgios Averof||2}}. At the subsequent [[Naval Battle of Lemnos|Battle of Lemnos]], the ships were left behind due to their slow speed and did not engage the Ottoman flotilla.&lt;ref&gt;Fotakis, p. 50&lt;/ref&gt;
+
+By 1914, ''Hydra'' and ''Psara'' had been reduced to secondary duties: ''Hydra'' became a gunnery [[training ship]] while ''Psara'' was used to train engine-room personnel.&lt;ref&gt;Fotakis, p. 78&lt;/ref&gt; During [[World War I]], Greece belatedly entered the war on the side of the [[Triple Entente]] and the ''Hydra''-class ships served as coastal defense. They were already obsolete and were decommissioned immediately after the war, although their hulks survived as naval training facilities and accommodation space for a decade.&lt;ref&gt;Paizis-Paradellis, pp. 78, 153, 166&lt;/ref&gt; All three ships were broken up for scrap in 1929.&lt;ref name=GG383/&gt;
+
+==Notes==
+;Footnotes
+{{Reflist|group=Note}}
+
+;Citations
+{{Reflist|colwidth=20em}}
+
+==References==
+* {{cite journal|last1=Brassey|first1=Thomas A.|year=1892|journal=Brassey's Annual|volume=|publisher=Praeger Publishers|location=London, UK}}
+*{{Cite book |last=Fotakis|first=Zisis|title=Greek Naval Strategy and Policy, 1910–1919|year=2005|location=New York, NY|publisher=[[Routledge]]|isbn=978-0-415-35014-3}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor=Gardiner, Robert |publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4}}
+*{{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+* {{cite journal|editor-last=Laughton|editor-first=L. G. Carr|year=1900|journal=The Naval Pocketbook|volume=|publisher=W. Thacker &amp; Co.|location=London}}
+*{{cite book|last=Mason|first=Herbert B.|title=Encyclopaedia of Ships and Shipping| location=London, UK|publisher=The Shipping Encyclopaedia|year=1908|oclc=11857976}}
+* {{cite journal|editor-last=Neal|editor-first=William George|year=April 1891 &amp;ndash; March 1892|journal=Marine Engineer and Naval Architect|volume=XIII|publisher=American Society of Naval Engineers|location=London}}
+*{{cite book|last=Paizis-Paradellis|first=C.|title=Hellenic Warships 1829–2001 (3rd Edition)| location=Athens|publisher=The Society for the study of Greek History|year=2002| isbn=960-8172-14-4}}
+* {{cite journal|date=February 1897|journal=Journal of the American Society of Naval Engineers|volume=IX| issue =  1|publisher=Office for Advertisements and Publication|location=Washington, DC}}
+* {{cite journal|year=1889|journal=The Chinese Times|volume=III|publisher=The Tientsin Printing Co.|location=Tientsin, CN}}
+
+{{Hydra class battleship}}
+
+{{DEFAULTSORT:Hydra Class Battleships}}
+[[Category:Hydra-class ironclads| ]]
+[[Category:Ironclad classes]]</text>
+      <sha1>7p0zin2uoda245zai6g0jq4cpxpew0i</sha1>
+    </revision>
+  </page>
+</mediawiki>

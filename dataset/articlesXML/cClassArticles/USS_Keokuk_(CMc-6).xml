@@ -1,0 +1,197 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Keokuk (CMc-6)</title>
+    <ns>0</ns>
+    <id>11822524</id>
+    <revision>
+      <id>743619503</id>
+      <parentid>737801444</parentid>
+      <timestamp>2016-10-10T12:21:57Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Philadelphia, Pennsylvania to [[:Category:Ships built in Philadelphia]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8370">{{Other ships|USS Keokuk}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[Image:USS Keokuk (AKN 4).jpg|300px]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag= {{USN flag|1941}}
+|Ship name= SS ''Henry M. Flagler''
+|Ship namesake=[[Henry Morrison Flagler]]
+|Ship owner=
+|Ship operator=[[Florida East Coast Railway|Florida East Coast Car Ferry Company]]
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship builder= [[William Cramp and Sons]], [[Philadelphia]], [[Pennsylvania]]
+|Ship laid down= 1914
+|Ship launched=
+|Ship in service=
+|Ship out of service=
+|Ship homeport=
+|Ship fate= Requisitioned by US Navy, 28 July 1941
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United States
+|Ship flag= {{USN flag|1945}}
+|Ship name= USS ''Keokuk''
+|Ship acquired= by requisition, 28 July 1941
+|Ship commissioned= 28 February 1942
+|Ship decommissioned= 5 December 1945
+|Ship in service=
+|Ship out of service=
+|Ship reclassified=*Coastal Minelayer, CMc-6, 1941
+*Net Layer, AN-5, 1941
+*Minelayer, CM-8, 18 May 1942
+*Net Cargo Ship, AKN-4, 1943
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate= Sold, 7 March 1947
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type= Commercial cargo carrier
+|Ship displacement= {{convert|6150|LT|t|0|abbr=on}}
+|Ship length={{convert|353|ft|m|abbr=on}}
+|Ship beam={{convert|57|ft|m|abbr=on}}
+|Ship draft= {{convert|17|ft|m|abbr=on}}
+|Ship hold depth=
+|Ship propulsion=*2 × Cramp [[Compound engine#Stationary uses|vertical triple expansion engine]]s, {{convert|2700|shp|0|abbr=on}} each
+*4 × Scotch single-ended cylindrical [[boiler]]s
+*2 [[Driveshaft|shaft]]s
+|Ship speed= {{convert|12|kn|lk=in}}
+|Ship range=
+|Ship complement=278
+|Ship armament=*3 ×  [[3&quot;/50 caliber gun|3&quot;/50 dual purpose gun mounts]]
+*2 ×  twin 40 mm AA guns
+*4 ×  .50 cal. [[machine guns]]
+*2 ×  .30 cal. machine guns
+|Ship armor=
+|Ship notes=
+}}
+{{Infobox service record
+|is_ship=yes
+|label=
+|partof=
+|codes=
+|commanders=
+|operations=*[[World War II]]
+*[[Allied invasion of Sicily|Invasion of Sicily]]
+*[[Battle of Saipan]]
+*[[Battle of Okinawa]]
+|victories=
+|awards=5 [[battle star]]s
+}}
+|}
+'''USS ''Keokuk'' (AN-5/CM-8/CMc-6/AKN-4)''' was a  [[minelayer|mine]] and [[net laying ship]] of the [[United States Navy]] during World War II.
+
+Laid down in 1914 as the {{SS|Henry M. Flagler}} by [[William Cramp &amp; Sons]], [[Philadelphia]], and renamed {{SS|Columbia Heights}} in 1940, she was acquired by the U.S. Navy on 28 July 1941 for conversion to a Coastal Minelayer, CMc-6. Reclassified as a Net Layer, AN-5, and named USS ''Keokuk'' on 15 August 1941, she was commissioned on 28 February 1942. Reclassified as a Minelayer, CM-8, on 18 May 1942, and again as a Net Cargo Ship, AKN-4, in November 1943.
+
+==Service history==
+
+=== Atlantic Coast operations ===
+''Keokuk'' cleared [[Delaware Bay]] on 7 March 1942 and arrived [[Norfolk, Virginia]], the same day to commence service as a net layer. She operated out of Norfolk and [[Key West, Florida]], for two months before she was reclassified as Minelayer CM-8 on 18 May 1942. Based at [[Yorktown, Virginia]], mine depot that summer, ''Keokuk'' engaged in high priority mine laying along the Atlantic coast.
+
+=== World War II North Africa operations ===
+As the war in Europe intensified, the mine layer made preparations for service in the [[Mediterranean]]. Departing [[Brooklyn, New York]] on 13 November, ''Keokuk'' crossed the [[submarine]]-infested Atlantic and arrived at [[Casablanca]] on 1 December. She remained in [[North Africa]]n waters for seven weeks laying mines off the harbor of Casablanca. She sailed on 20 January 1943 with [[convoy]] GUS-8, arriving [[New York City|New York]] on 7 February. Following repairs at [[Hoboken, New Jersey]], ''Keokuk'' sailed on 1 March to commence net-laying exercises out of [[Melville, Rhode Island]].
+
+=== Invasion of Sicily ===
+During April and May, the minelayer operated with the mine warfare school at Yorktown, Virginia; then sailed to Brooklyn, New York, to join a convoy bound for [[Algeria]]. ''Keokuk'' departed [[Brooklyn]] on 13 June, arriving [[Oran]], Algeria, 4 July. Two days later she steamed toward [[Gela]], [[Sicily]], to lay [[antisubmarine]] minefields prior to the landing there. During these operations, on 11 July, ''Keokuk'' was attacked by six enemy planes; but [[Anti-aircraft warfare|anti-aircraft fire]] drove the raiders off. After the successful conclusion of the Sicilian campaign, she operated out of Algeria until sailing for Norfolk, Virginia, 7 October.
+
+=== World War II Pacific Theatre operations ===
+Upon completion of a short overhaul, ''Keokuk'' was converted to a net layer and, reclassified AKN-4, departed Norfolk, Virginia, on 23 November for the [[Pacific Ocean|Pacific]]. She arrived at [[Tarawa]] on 3 February 1944 after a month's stay at [[Pearl Harbor]], and immediately commenced net laying operations in the [[Marshall Islands]]. She continued this service until 12 April when she cleared [[Eniwetok]] to load new net at [[San Francisco, California]]. ''Keokuk'' returned to Kwajalein on 9 June, and departed two days later to engage in the [[Battle of Saipan|amphibious assault on Saipan]]. She arrived in Saipan waters on 19 June and began laying antisubmarine net off [[Tanapag]] Harbor.
+
+Following the Saipan campaign the net-cargo ship operated out of Eniwetok until 17 July when she once again sailed for San Francisco, California. Upon her return to [[Guadalcanal]] on 1 September, ''Keokuk'' readied herself for the assault on [[Peleliu]] which was needed as a base for the subsequent invasion in the [[Philippines]]. She arrived off [[Kossol Passage]] on 17 September and continued net laying operations for a month before arriving at [[Manus Island|Manus]] on 17 October. The next day ''Keokuk'' sailed for San Francisco, California, to undergo repair and overhaul.
+
+The net-cargo ship returned to Eniwetok on 6 February 1945 as the war was approaching its climax. ''Keokuk'' departed [[Guam]] on 16 February, bound for the [[Empire of Japan|Japanese]]-held volcano fortress, [[Iwo Jima]]. She commenced net laying operations four days later, as she played her key role in this courageous undertaking.
+
+=== Struck by a kamikaze ===
+On 21 February just prior to sunset while cruising in formation with a group of [[Landing Ship, Tank|LST]]s, an enemy [[Nakajima B6N|&quot;Jill&quot;]] dived out of the clouds and hit ''Keokuk'' on the [[starboard]] side, knocking out most of the starboard 20&amp;nbsp;mm battery. The fires were extinguished by 18:50; the ship had 17 killed and 44 wounded in the action.&lt;ref&gt;[http://usskeokuk.googlepages.com/damageatiwojima Damage at Iwo Jima]&lt;/ref&gt;
+
+Upon completion of repairs at [[Leyte]], the net-cargo ship sailed on 19 March toward the last great hurdle - [[Okinawa]]. ''Keokuk'' arrived off [[Kerama Retto]] on 26 March to lay antisubmarine nets prior to the invasion. With the invasion well under way, she cleared the battle area 4 April, arriving Saipan 10 April. Then after a two-month overhaul at Pearl Harbor, ''Keokuk'' returned to Eniwetok on 2 July to unload net material. As the war entered its final month she sailed from [[Ulithi]] on 25 July, and, after a stop at Pearl Harbor, arrived San Francisco, California, 10 September.
+
+The veteran ship remained there until she decommissioned on 5 December 1945 at San Francisco, California. She was transferred to the [[War Shipping Administration]] on 1 July 1946 for disposal; and sold on 7 March 1947 to the [[West India Fruit and Steamship Company]] of [[Florida]].
+
+''Keokuk'' received five [[battle star]]s for [[World War II]] service.
+
+== References ==
+{{Reflist}}
+*{{DANFS|http://www.history.navy.mil/danfs/k3/keokuk-ii.htm}}
+
+==External links==
+* [http://www.navsource.org/archives/11/0608.htm NavSource Online: Mine Warfare Vessel Photo Archive - ''Keokuk'' (AKN 4) - ex-CM-8 - ex-AN-5 - ex-CMc-6]
+* [http://usskeokuk.googlepages.com/ USS KEOKUK CM-8 / AKN-4 ANNUAL REUNION]
+
+{{Use dmy dates|date=February 2011}}
+
+{{DEFAULTSORT:Keokuk}}
+[[Category:Ships built in Philadelphia]]
+[[Category:United States Navy Iowa-related ships]]
+[[Category:World War II minesweepers of the United States]]
+[[Category:1941 ships]]</text>
+      <sha1>khdyo3uiodda7j5b47ff1009ytx1nqd</sha1>
+    </revision>
+  </page>
+</mediawiki>

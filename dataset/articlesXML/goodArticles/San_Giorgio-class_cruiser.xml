@@ -1,0 +1,200 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>San Giorgio-class cruiser</title>
+    <ns>0</ns>
+    <id>40929483</id>
+    <revision>
+      <id>745796535</id>
+      <parentid>685354653</parentid>
+      <timestamp>2016-10-23T10:22:53Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19783">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Ta3slz.jpg|300px]]
+|Ship caption=''San Marco'' underway, 18 August 1910}}
+{{Infobox ship class overview
+|Name=''San Giorgio''
+|Builders=[[Regio Cantieri di Castellammare di Stabia]], [[Castellammare di Stabia]]
+|Operators={{navy|Kingdom of Italy}}
+|Class before={{sclass-|Pisa|cruiser|4}}
+|Class after=None
+|Cost=
+|Built range=1905–11
+|In service range=1910–43
+|In commission range=
+|Total ships completed=2
+|Total ships lost=1
+|Total ships scrapped=1
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Armored cruiser]]
+|Ship displacement={{convert|10167|-|10969|t|LT|0|abbr=on}} 
+|Ship length={{convert|140.89|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|21.03|m|ftin|abbr=on}}
+|Ship draft={{convert|7.35|-|7.76|m|ftin|abbr=on}}
+|Ship power=*{{convert|19500|-|23000|hp|lk=in|abbr=on}}
+*14 [[water-tube boiler]]s 
+|Ship propulsion=*2 shafts, 2 [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]] (''San Giorgio'')
+*4 shafts, 4 [[steam turbine]]s (''San Marco'')
+|Ship speed={{convert|23|kn|lk=in}}
+|Ship range={{convert|4800|-|6270|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=32 officers, 666–73 enlisted men
+|Ship armament=*2 twin {{convert|254|mm|abbr=on}}/45 guns
+*4 twin {{convert|190|mm|abbr=on}}/45 guns
+*18 single {{convert|76|mm|abbr=on}}/40 guns
+*2 single {{convert|47|mm|in|abbr=on}}/50 guns
+*3 × {{convert|450|mm|in|1|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|200|mm|abbr=on|1}}
+*[[Gun turret]]s: {{convert|160|-|200|mm|abbr=on|1}}
+*[[Deck (ship)|Deck]]: {{convert|50|mm|abbr=on}}
+*[[Conning tower]]: {{convert|254|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+The '''''San Giorgio'' class''' consisted of two [[armored cruiser]]s built for the Royal Italian Navy (''[[Regia Marina]]'') in the first decade of the 20th century. The second ship, {{ship|Italian cruiser|San Marco||2}}, was used to evaluate recently invented [[steam turbine]]s in a large ship and incorporated a number of other technological advances. The ships participated in the [[Italo-Turkish War]] of 1911–12, although {{ship|Italian cruiser|San Giorgio||2}} was under repair for most of the war. ''San Marco'' supported ground forces in [[Libya]] with [[Naval gunfire support|naval gunfire]] and helped them to occupy towns in Libya and islands in the [[Dodecanese]]. During World War I, the ships' activities were limited by the threat of [[Austro-Hungarian]] submarines, although they did [[Battle of Durazzo (1918)|bombard Durazzo, Albania]] in 1918.
+
+''San Giorgio'' spent several years in the Far East and Italian Somaliland after the war and became a [[training ship]] in 1931. After a brief deployment to Spain in 1936, she was reconstructed to better serve her role as a training ship. The ship's [[anti-aircraft warfare|anti-aircraft armament]] was augmented when she was deployed to [[Tobruk]], Libya to reinforce the port's defenses after Italy declared war on Britain in May 1940. ''San Giorgio'' was [[scuttled]] in early 1941 when Allied forces were poised to capture the port. Her wreck was [[Marine salvage|salvaged]] in 1952, but sank while under tow. ''San Marcos'' was converted into a [[target ship]] in the early 1930s and was found sunk at the end of the war. She was [[ship breaking|scrapped]] in 1949.
+
+==Design and description==
+[[File:San Giorgio Brasseys 1912.jpg|thumb|left|Right elevation and deck plan from [[Brassey's Naval Annual]] 1912]]
+The ''San Giorgio'' class was ordered almost immediately after the preceding {{sclass-|Pisa|cruiser|0}} ships, and was an improved version of that design. The [[forecastle]] was extended to improve seaworthiness, [[gun turret|turret]] armor was increased, habitability was improved and the propulsion machinery was redistributed. ''San Marco'' was given the first steam turbines fitted in a large Italian ship for comparative purposes with ''San Giorgio'', which retained the traditional [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]] (VTE). ''San Marco'' was a very innovative ship as she was the first turbine-powered ship in any navy to have four [[propeller shaft]]s, the first with a [[gyroscopic compass]], the first with [[antiroll tanks]], and the first not to use wood in any way.&lt;ref&gt;Gardiner &amp; Gray, pp. 252, 261&lt;/ref&gt;
+
+The ''San Giorgio''-class ships had a [[length between perpendiculars]] of {{convert|131.04|m|ftin|sp=us}} and an [[length overall|overall length]] of {{convert|140.89|m|ftin|sp=us}}. They had a [[beam (nautical)|beam]] of {{convert|21.03|m|ftin|sp=us}} and a [[draft (hull)|draft]] of {{convert|7.35|-|7.76|m|ftin|sp=us}}. The ships displaced {{convert|10167|-|10969|t|LT|sp=us}} at normal load, and {{convert|11300|-|11900|t|LT|sp=us}} at [[deep load]]. The ships had a complement of 32 officers and 666 to 673 enlisted men.&lt;ref name=f8&gt;Fraccaroli, p. 33&lt;/ref&gt;
+
+===Propulsion===
+The machinery installation of this class was changed in comparison to that of the ''Pisa'' class, with the engines [[amidships]] with the 14 mixed-firing [[water-tube boiler]]s fore and aft of the engines. Their exhausts were trunked together into two widely spaced pairs of [[funnel (ship)|funnel]]s. Designed for a maximum speed of {{convert|23|kn|lk=in}},&lt;ref name=s8&gt;Silverstone, p. 290&lt;/ref&gt; the two ships were given different types of propulsion machinery for evaluation. ''San Giorgio''{{'}}s two shafts, pair of {{convert|19500|ihp|lk=in
+adj=on}} VTE steam engines and [[Blechynden boiler]]s differed only slightly from those used by the ''Pisa''s. In contrast, ''San Marco''{{'}}s four shafts, each driven by a license-built [[Parsons Marine Steam Turbine Company|Parsons]] steam turbine, was a first for the ''Regia Marina''. The turbines used steam provided by [[Babcock &amp; Wilcox boiler]]s at a working pressure of {{convert|210|psi|kPa kg/cm2|0|abbr=on|lk=on}}&lt;ref name=a7&gt;Attilio, p. 477&lt;/ref&gt; to reach their designed output of {{convert|23000|shp|abbr=on}}. Both ships exceeded their designed speeds, with ''San Giorgio'' reaching {{convert|23.2|kn}} and ''San Marco'' {{convert|23.75|kn}} during their [[sea trial]]s. The biggest difference between the sisters was that the turbines of ''San Marco'' proved to be significantly less economical in service (a range of {{convert|4800|nmi|lk=in}} at a speed of {{convert|10|kn}} and {{convert|2480|nmi|lk=in}} at {{convert|21.25|kn}}) compared to ''San Giorgio''{{'}}s VTE steam engines ({{convert|6270|nmi|lk=in}} at {{convert|10|kn}} and {{convert|2640|nmi|lk=in}} at {{convert|21.25|kn}}.&lt;ref name=g0&gt;Gardiner &amp; Gray, p. 261&lt;/ref&gt;
+
+===Armament===
+The main armament of the ''San Giorgio''-class ships consisted of four [[EOC 10-inch /45 naval gun|Cannone da 254/45 A Modello 1907]]&lt;ref group=Note&gt;The ''/45'' denotes the length of the gun barrels; in this case, the gun is 45 [[Calibers#Caliber as measurement of length|caliber]], meaning that the gun is 45 times long as it is in diameter.&lt;/ref&gt; guns in electrically powered, twin-[[gun turret]]s fore and aft of the [[superstructure]].&lt;ref name=g0/&gt; The turrets had an arc of fire of 260°.&lt;ref name=a7/&gt; The {{convert|254|mm|abbr=on}} gun fired {{convert|450|-|500|lb|kg|adj=on|disp=flip|1}} [[armor-piercing shot and shell|armor-piercing (AP)]] projectiles at a [[muzzle velocity]] of {{convert|2850|ft/s|m/s|sp=us|disp=flip}}. At maximum elevation of +25°, the guns had a range of about {{convert|25000|m|yd|sp=us}}.&lt;ref&gt;Campbell, p. 324; Friedman, pp. 68, 238&lt;/ref&gt; The ships mounted eight [[Cannone da 190/45 A Modello 1908]] in four electrically powered twin-gun turrets, two in each side amidships, as their secondary armament. Their arc of fire was 160°.&lt;ref name=a7/&gt; These [[Armstrong Whitworth]] {{convert|190|mm|abbr=on}} guns fired
+{{convert|90.9|kg|adj=on}} AP shells at {{convert|2835|-|2927|ft/s|m/s|disp=flip|abbr=on}}. At maximum elevation of +25°, the guns had a range of about {{convert|22000|m|yd|sp=us}}.&lt;ref&gt;Campbell, p. 329; Friedman, pp. 79, 239&lt;/ref&gt;
+
+For defense against [[torpedo boat]]s, the ''San Giorgio''s mounted 18 [[List of British ordnance terms#QF|quick-firing (QF)]] 40-caliber {{convert|76|mm|abbr=on}} guns. Eight of these were mounted in [[embrasure]]s in the sides of the hull and the rest in the superstructure.&lt;ref name=g0/&gt; The ships were also fitted with a pair of QF 40-caliber {{convert|47|mm|abbr=on}} guns. The ''San Giorgio''-class ships were equipped with three submerged {{convert|450|mm|in|abbr=on|1}} [[torpedo tube]]s. During World War I, eight of the 76&amp;nbsp;mm guns were replaced by six 76&amp;nbsp;mm [[anti-aircraft gun|anti-aircraft (AA) guns]]&lt;ref name=g0/&gt; and one torpedo tube was removed.&lt;ref name=s8/&gt;
+
+===Protection===
+The ships were protected by an [[belt armor|armored belt]] that was {{convert|200|mm|in|1|abbr=on}} thick amidships and reduced to {{convert|80|mm|abbr=on|1}} at the bow and stern.&lt;ref name=s8/&gt; The belt was {{convert|7|ft|3|in|m|1|disp=flip|abbr=on}} high, of which {{convert|4|ft|11|in|m|1|disp=flip|abbr=on}} was below the [[waterline]].&lt;ref name=a7/&gt; The armored [[deck (ship)|deck]] was {{convert|50|mm|abbr=on}} thick and the [[conning tower]] armor was 254&amp;nbsp;mm thick. The 254&amp;nbsp;mm gun turrets were protected by 200&amp;nbsp;mm of armour while the 190&amp;nbsp;mm turrets had {{convert|160|mm|abbr=on|1}}.&lt;ref name=g0/&gt;
+
+== Ships ==
+{| class=&quot;wikitable&quot;
+!Name!!Builder&lt;ref name=f8/&gt;!!Laid down&lt;ref name=g0/&gt;!!Launched&lt;ref name=g0/&gt;!!Completed&lt;ref name=g0/&gt;!!Fate
+|-
+|{{ship|Italian cruiser|San Giorgio||2}}
+|rowspan=2 valign=center|[[Regio Cantieri di Castellammare di Stabia]], [[Castellammare di Stabia]]
+| 4 July 1905
+| 27 July 1908
+| 1 July 1910
+| [[Scuttled]], 22 January 1941;&lt;br/&gt;Sank under tow, 1952&lt;ref name=s5&gt;Silverstone, p. 305&lt;/ref&gt;
+|-
+|{{ship|Italian cruiser|San Marco||2}}
+| 2 January 1907
+| 20 December 1908
+| 7 February 1911
+| Sunk, 1945;&lt;br/&gt;[[ship breaking|Scrapped]], 1949&lt;ref name=g2&gt;Gardiner &amp; Gray, p. 262&lt;/ref&gt;
+|}
+
+==Service==
+[[File:RN San Giorgio (1908) stranded 1913.jpg|thumb|left|''San Giorgio'' aground in 1913]]
+''San Giorgio'' [[Ship grounding|ran aground]] in August 1911 off [[Naples]]-[[Posillipo]];&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000206/19110909/090/0006|title=Stranded Italian Cruiser|date=9 September 1911|work=Manchester Courier and Lancashire General Advertiser|page=6|accessdate=28 February 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt; heavily damaged, she was under repair until June 1912, missing most of the Italo-Turkish War. ''San Marco'' supported the occupations of [[Benghazi]] and [[Derna, Libya]] during the war and bombarded the fortifications defending the entrance to the [[Dardanelles]].&lt;ref&gt;Beehler, pp. 30, 49, 84; Stephenson, pp. 217, 262–65&lt;/ref&gt; She also supported the forces occupying the island of [[Rhodes]] in May 1912. In February 1913, ''San Giorgio'' cruised the [[Aegean Sea]] and made a port visit to [[Salonica]], Greece, the next month.&lt;ref&gt;Marchese&lt;/ref&gt; She ran aground again on 21 November in the [[Strait of Messina]], but was only slightly damaged.&lt;ref name=s5/&gt;
+
+During World War I, the activities of the ships were restricted by the threat of submarine attack after the armored cruisers {{ship|Italian cruiser|Giuseppe Garibaldi|1899|2}} and {{ship|Italian cruiser|Amalfi||2}} were sunk by submarines shortly after Italy joined the war in May 1915, although the ships did participate in the bombardment of Durazzo, Albania in late 1918.&lt;ref&gt;Halpern, pp. 148, 151, 176; Sondhaus, p. 289&lt;/ref&gt;
+
+After the war, ''San Giorgio'' was deployed to the [[Far East]]&lt;ref name=s6/&gt; while ''San Marcos'' played a minor role in the [[Corfu incident]] in 1923.&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000687/19230922/295/0009|title=Greek Reparations: Evacuation of Corfu Begun|date=22 September 1923|work=Yorkshire Post and Leeds Intelligencer|page=9|accessdate=1 March 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000320/19231001/040/0002|title=Italy and Greece: Indemnity Paid Over|date=1 October 1923|work=Gloucestershire Echo|page=2|accessdate=1 March 2015| via = [[British Newspaper Archive]]|subscription=yes}}&lt;/ref&gt; ''San Giorgio'', escorted by ''San Marco'', ferried [[Crown Prince]] [[Umberto II of Italy|Umberto]] to South America in July–September 1924,&lt;ref&gt;{{cite news|title=Prince Humbert Sails|date=2 July 1924|work=The New York Times|page=31|accessdate=3 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Humbert Sails Home from Brazil|date=20 September 1924|work=The New York Times|page=22|accessdate=3 March 2015}}&lt;/ref&gt; and then supported operations in [[Italian Somaliland]] in 1925–26.&lt;ref name=s6/&gt; The ship was disarmed and converted into a radio-controlled target ship in 1931–35; her old boilers were replaced by four oil-burning ones which reduced her maximum speed to {{convert|18|kn}}. She was captured by the Germans when they occupied [[La Spezia]] on 9 September 1943; ''San Marcos'' was found at the end of the war half-sunk in the harbor there and was broken up in 1949.&lt;ref name=g2/&gt;
+
+From 1930 to 1935, ''San Giorgio'' was based in [[Pula|Pola]] as a training ship, and was sent to Spain after the [[Spanish Civil War]] began in 1936 to protect Italian interests.&lt;ref name=s6&gt;Sicurezza, p. 46&lt;/ref&gt; In 1937–38 she was reconstructed to serve as a dedicated training ship for [[naval cadet]]s at the [[Arsenale di La Spezia]]: six boilers were removed and the remaining eight were converted to burn fuel oil which reduced her speed to {{convert|16|-|17|kn}}. Each pair of funnels was trunked together and her 76/40 guns were replaced by 47-caliber {{convert|100|mm|abbr=on|1}} guns in four twin turrets abreast the funnels. Her torpedo tubes were also removed while she received a light AA suite for the first time, with the addition of six 54-caliber Breda {{convert|37|mm|abbr=on}} guns, a dozen {{convert|20|mm|abbr=on}} [[Breda Model 35]] autocannon and four {{convert|13.2|mm|abbr=on}} [[Breda Model 31]] machine guns in two twin mounts.&lt;ref name=g2/&gt;&lt;ref name=b4&gt;Brescia, p. 104&lt;/ref&gt;
+
+[[File:Italian cruiser San Giorgio scuttled at Tobruk 1941.jpg|thumb|left|Aerial view of ''San Giorgio'' on fire after being scuttled]] 
+Prior to her being sent to reinforce the defenses of Tobruk in early May 1940, a fifth 100/47 gun turret was added on the forecastle and five more twin 13.2&amp;nbsp;mm machine gun mounts were added to better suit her new role as a floating battery.&lt;ref name=b4/&gt; Two days after Italy declared war on Britain on 10 June, the British [[light cruiser]]s {{HMS|Gloucester|62|2}} and {{HMS|Southampton|83|2}} bombarded Tobruk and attacked ''San Giorgio'', which was not hit during the engagement.&lt;ref&gt;Rohwer, p. 28&lt;/ref&gt; A British submarine fired two torpedoes at ''San Giorgio'' on 19 June, but these detonated before reaching the ship.&lt;ref&gt;[http://uboat.net/allies/warships/ship/3400.html &quot;HMS Parthian (N 75)&quot;]. ''uboat.net''. Retrieved 2 March 2015.&lt;/ref&gt; The ship's guns engaged [[Allies of World War II|Allied]] aircraft attacking Tobruk many times, destroying several. She was scuttled in shallow water on 22 January 1941 to prevent her capture during the [[Battle of Tobruk (1941)|Battle of Tobruk]].&lt;ref name=b4/&gt; ''San Giorgio'' was awarded the [[Gold Medal of Military Valour]] (''Medaglia d'Oro al Valore Militare'') for her performance at Tobruk.&lt;ref&gt;San Giorgio&lt;/ref&gt; Her wreck was refloated in 1952, but sank under tow en route to Italy.&lt;ref name=b4/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|30em}}
+
+==Bibliography==
+*{{cite journal|last=Attilio|first=Dagnino|title=Italy's First Turbine-Driven Cruiser, the San Marco|journal=International Marine Engineering|date=December 1911|volume=16|pages=477–480|url=https://books.google.com/books?id=n27mAAAAMAAJ&amp;pg=PA477&amp;dq=san+marco+cruiser&amp;hl=en&amp;sa=X&amp;ei=XLFMUcecGKrA4AOG2YHIDQ&amp;ved=0CFUQ6AEwBQ#v=snippet&amp;q=San%20Marco&amp;f=false|accessdate=2 March 2015}}
+*{{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false|oclc=1408563}}
+*{{cite book|last=Brescia|first=Maurizio|title=Mussolini's Navy: A Reference Guide to the Regina Marina 1930–45|year=2012|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-544-8}}
+*{{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+*{{cite book|last=Fraccaroli|first=Aldo |title=Italian Warships of World War I|location=London|publisher=Ian Allan|year=1970|isbn=0-7110-0105-7}}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}}
+*{{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+*{{cite book|last=Halpern|first=Paul S.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1994|isbn=1-55750-352-4}}
+*{{cite journal|last=Marchese|first=Giuseppe|date=February 1996|title=La Posta Militare della Marina Italiana 8^ puntata|journal=La Posta Militare|issue=72|url=http://www.giuseppemarchese.it/articoli/art_56/art56_8.html|language=Italian}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+*{{cite web|url=http://www.marina.difesa.it/storiacultura/storia/almanacco/Pagine/PQRS/san_giorgio_incrociatore.aspx|title=San Giorgio: Incrociatore corazzato|work=Storia e Cultura: La nostra Storia: Almanacco storico navale|publisher=Marina Militare|accessdate=1 March 2015|language=Italian}}
+*{{cite journal|last=Sicurezza|first=Renato|title=Il Regio Incrociatore Corazzato San Giorgio|journal=Yacht World|publisher=Scode|location=Milan|pages=44–47|issn=0394-3143|url=http://www.pietrocristini.com/ric_s_giorgio.htm|language=Italian}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book | last = Sondhaus | first = Lawrence | title = The Naval Policy of Austria-Hungary, 1867–1918: Navalism, Industrial Development, and the Politics of Dualism | location = [[West Lafayette, Indiana]] | publisher = [[Purdue University Press]] | year = 1994 | isbn = 978-1-55753-034-9 | oclc = 59919233 }}
+*{{cite book|last=Stephenson|first=Charles|title=A Box of Sand: The Italo-Ottoman War 1911–1912: The First Land, Sea and Air War|year=2014|publisher=Tattered Flag Press|location=Ticehurst, UK|isbn=978-0-9576892-7-5}}
+
+==External links==
+{{Commons category|San Giorgio class cruiser}}
+*[http://www.maritimequest.com/warship_directory/italy/pages/cruisers/san_giorgio_class_cruisers.htm The ''San Giorgio'' class on Maritimequest.com]
+
+{{San Giorgio-class armored cruisers}}
+{{WWIItalianShips}}
+
+{{Good article}}
+
+[[Category:San Giorgio-class cruisers| ]]
+[[Category:Cruisers of the Regia Marina]]
+[[Category:World War I cruisers of Italy]]
+[[Category:Cruiser classes]]
+[[Category:1900s ships]]</text>
+      <sha1>pco43cn1kay9rni10zwtjzys0ppzocg</sha1>
+    </revision>
+  </page>
+</mediawiki>

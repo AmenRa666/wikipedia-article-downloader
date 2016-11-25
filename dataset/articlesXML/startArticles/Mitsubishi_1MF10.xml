@@ -1,0 +1,244 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mitsubishi 1MF10</title>
+    <ns>0</ns>
+    <id>39093146</id>
+    <revision>
+      <id>678987940</id>
+      <parentid>668348274</parentid>
+      <timestamp>2015-09-01T20:48:03Z</timestamp>
+      <contributor>
+        <username>Andreas Philopater</username>
+        <id>11155033</id>
+      </contributor>
+      <minor/>
+      <comment>/* Design and development */ not Pb</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7088">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=1MF10
+ | image=Mitsubishi 1MF10.jpg
+ | caption=Mitsubishi 1MF10
+}}{{Infobox Aircraft Type
+ | type=Fighter aircraft
+ | national origin=[[Japan]]
+ | manufacturer=[[Mitsubishi|Mitsubishi Kokuki KK]]
+ | designer=[[Jiro Horikoshi]]
+ | first flight=March 1933
+ | introduced=
+ | retired=
+ | status=Prototype
+ | primary user=
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=2
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= &lt;!--Incremental or flyaway cost for military or retail price for commercial aircraft--&gt;
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+The '''Mitsubishi 1MF10''' or '''Mitsubishi Experimental ''7-Shi'' Carrier Fighter''' (七試艦上戦闘機) was a prototype Japanese monoplane single-seat carrier-based fighter aircraft of the 1930s. Two were built for the [[Imperial Japanese Navy]], but both were lost in crashes, with no production following.
+
+==Design and development==
+In April 1932, the [[Imperial Japanese Navy]] issued a specification for a replacement for its current carrier-based fighter, the [[Nakajima A2N]], asking for designs from both [[Mitsubishi]] and [[Nakajima Aircraft Company|Nakajima]]. Unlike the [[biplane]] which was to be replaced, both competitors submitted [[monoplane]]s, with Nakajima offering a version of its [[Nakajima Army Type 91 Fighter|Type 91]] [[parasol-wing]] fighter, already in production for the [[Imperial Japanese Army Air Force|Japanese Army]]. Mitsubishi assigned design of its contestant to a team led by [[Jiro Horikoshi]], which created the first low-wing [[Cantilever#Aircraft|cantilever]] monoplane to be designed in Japan, the Mitsubishi 1MF10.&lt;ref name=&quot;Mikesh p170&quot;&gt;Mikesh and Abe 1990, p. 170.&lt;/ref&gt;&lt;ref name=&quot;complete p407&quot;&gt;Green and Swanborough 1994, p. 407.&lt;/ref&gt;
+
+The 1MF10 was of all-metal construction, with a [[monocoque]] [[duralumin]] [[fuselage]], with duralumin wing structure covered in fabric, with the pilot accommodated in an open cockpit. The aircraft was powered by a [[Mitsubishi A4]] two-row 14-cylinder [[radial engine]] driving a two-bladed propeller. It had a fixed [[conventional landing gear|tailwheel undercarriage]].&lt;ref name=&quot;Mikesh p170&quot;/&gt;&lt;ref name=&quot;complete p407&quot;/&gt;
+
+The first prototype 1MF10, with the Navy designation Experimental ''7-shi'' Carrier Fighter{{#tag:ref|In the Japanese Navy designation system, specifications were given a ''Shi'' number based on the year of the Emperor's reign it was issued.  In this case 7-''Shi'' stood for 1932, the 7th year of the [[Shōwa period|Shōwa era]].&lt;ref name=&quot;Mikesh p2,286&quot;&gt;Mikesh and Abe 1990, pp. 2, 286.&lt;/ref&gt;|group=lower-alpha}} made its maiden flight in March 1933.&lt;ref name=&quot;Mikesh p170&quot;/&gt; It was destroyed in July 1933 when its tail broke up during diving tests, although the pilot escaped by parachute. The second prototype had a revised undercarriage, with the main wheels and undercarriage legs faired into streamlined spats. It was also destroyed in a crash, when it could not be recovered from a flat [[Spin (flight)|spin]] in June 1934.&lt;ref name=&quot;Mikesh p170&quot;/&gt;&lt;ref name=&quot;complete p407&quot;/&gt;
+
+Although the design was advanced, it was rejected by the Japanese Navy, having poor handling&lt;ref name=&quot;Mikesh p170&quot;/&gt; and not meeting the performance requirements of the specification.&lt;ref name=&quot;complete p407&quot;/&gt; It did form the basis of more advanced designs, however, with Horikoshi using elements of it such as the box-[[Spar (aviation)|spar]] in the later successful [[Mitsubishi A5M]] fighter of similar layout.&lt;ref name=&quot;Mikesh p170-1&quot;&gt;Mikesh and Abe 1990, pp. 170–171.&lt;/ref&gt;
+
+==Specifications==
+{{Aircraft specs
+|ref=Japanese Aircraft 1910–1941&lt;ref name=&quot;Mikesh p171&quot;&gt;Mikesh and Abe 1990, p. 171.&lt;/ref&gt;
+|prime units?=met
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=1
+|capacity=
+|length m=6.92
+|length ft=
+|length in=
+|length note=
+|span m=10
+|span ft=
+|span in=
+|span note=
+|height m=3.31
+|height ft=
+|height in=
+|height note=
+|wing area sqm=17.70
+|wing area sqft=
+|wing area note=
+|aspect ratio=&lt;!-- give where relevant eg sailplanes  --&gt;
+|airfoil=
+|empty weight kg=1225
+|empty weight lb=
+|empty weight note=
+|gross weight kg=1578
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Mitsubishi A4]]
+|eng1 type=14-cylinder air-cooled [[radial engine]]
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=780&lt;!-- prop engines --&gt;
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=
+|max speed mph=
+|max speed kts=173
+|max speed note=at {{convert|3000|m|ft|-2|abbr=on}}
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=&lt;!-- aerobatic --&gt;
+|stall speed mph=&lt;!-- aerobatic --&gt;
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|combat range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=3 hr&lt;!-- if range unknown --&gt;
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|power/mass=
+|thrust/weight=
+
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|guns= 2× 7.7 mm machine guns&lt;ref name=&quot;complete p407&quot;/&gt;
+|bombs= 
+|rockets= 
+|missiles= 
+|avionics=
+}}
+
+==See also==
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=*[[Nakajima Army Type 91 Fighter]]&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+
+'''Appearances in media'''
+*''[[The Wind Rises]]''
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+{{reflist}}
+
+==References==
+{{commons category|Mitsubishi military aircraft}}
+{{refbegin}}
+*{{cite book|last1=Green|first1=William|last2=Swanborough|first2=Gordon|title=The Complete Book of Fighters|year=1994|publisher=Smithmark|location=New York|isbn=0-8317-3939-8}}
+*{{cite book|last1=Mikesh|first1=Robert C.|last2=Abe|first2=Shorzoe|title=Japanese Aircraft 1910–1941|year=1990|publisher=Putnam Aeronautical Books|location=London|isbn=0-85177-840-2}}
+{{refend}}
+&lt;!-- ==Further reading== --&gt;
+&lt;!-- ==External links== --&gt;
+
+&lt;!-- Navboxes go here --&gt;
+
+{{Mitsubishi aircraft}}
+
+[[Category:Mitsubishi aircraft|1MF10]]
+[[Category:Japanese fighter aircraft 1930–1939]]
+[[Category:Single-engined tractor aircraft]]
+[[Category:Low-wing aircraft]]</text>
+      <sha1>8jr2myqkl2sttaawqziccst2e08tmzh</sha1>
+    </revision>
+  </page>
+</mediawiki>

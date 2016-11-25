@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Aboukir (1900)</title>
+    <ns>0</ns>
+    <id>3026504</id>
+    <revision>
+      <id>742969150</id>
+      <parentid>737684279</parentid>
+      <timestamp>2016-10-06T23:41:14Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13574">{{other ships|HMS Aboukir}}
+{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Aboukir.jpg|right|300px]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Aboukir''
+|Ship ordered=
+|Ship namesake=[[Battle of Aboukir Bay]]
+|Ship builder=[[Fairfield Shipbuilding]], [[Govan]], Scotland
+|Ship laid down=9 November 1898
+|Ship launched=16 May 1900
+|Ship christened=
+|Ship completed=3 April 1902
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship refit=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship struck=
+|Ship fate=Sunk by [[SM U-9|''U-9'']], 22 September 1914
+|Ship status=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Cressy|cruiser|0}} [[armoured cruiser]]
+|Ship displacement={{convert|12000|LT|t}} (normal)
+|Ship length={{convert|472|ft|m|1|abbr=on}} ([[Length overall|o/a]]) 
+|Ship beam={{convert|69|ft|6|in|m|1|abbr=on}} 
+|Ship draught={{convert|26|ft|9|in|m|1|abbr=on}} (maximum)
+|Ship power=*{{convert|21000|ihp|lk=in|abbr=on}}
+*30 [[Belleville boiler]]s
+|Ship propulsion=*2 × shafts
+*2 × 4-cylinder [[triple-expansion steam engine]]s
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range=
+|Ship complement=725–760
+|Ship armament=*2 × single [[BL 9.2 inch gun Mk IX - X|BL 9.2-inch Mk X guns]]
+*12 × single [[BL 6 inch Mk VII naval gun|BL 6-inch Mk VII guns]]
+*12 × single [[QF 12-pounder 12 cwt naval gun|QF 12-pounder 12-cwt guns]]&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 12 cwt referring to the weight of the gun.&lt;/ref&gt;
+*3 × [[QF 3-pounder Hotchkiss|3-pounder Hotchkiss guns]]
+*2 × single submerged [[British 18 inch torpedo|18-inch torpedo tubes]]
+
+|Ship armour=*[[Belt armor|Belt]]: {{convert|2|-|6|in|mm|abbr=on|0}}
+*[[Deck (ship)|Deck]]s: {{convert|1|-|3|in|mm|abbr=on}}
+*[[Barbette]]s: 6&amp;nbsp;in
+*[[Turret]]s: 6&amp;nbsp;in
+*[[Conning tower]]: {{convert|12|in|mm|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|5|in|mm|abbr=on|0}} 
+}}
+|}
+
+'''HMS ''Aboukir''''' was a {{sclass-|Cressy|cruiser|0}} [[armoured cruiser]] built for the [[Royal Navy]] around 1900. Upon completion she was assigned to the [[Mediterranean Fleet]] and spent most of her career there. Upon returning home in 1912, she was placed in [[Reserve fleet|reserve]]. [[Ship commissioning|Recommissioned]] at the start of the First World War, she played a minor role in the [[Battle of Heligoland Bight (1914)|Battle of Heligoland Bight]] a few weeks after the beginning of the war. ''Aboukir'' was sunk by the German [[submarine]] [[SM U-9|''U-9'']], together with two of her [[sister ship]]s, [[Action of 22 September 1914|on 22 September 1914]]; 527 men of her complement died.
+
+==Design and description==
+''Aboukir'' was designed to [[Displacement (ship)|displace]] {{convert|12000|LT|t}}. The ship had an [[length overall|overall length]] of {{convert|472|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|69|ft|9|in|m|1}} and a deep [[draft (ship)|draught]] of {{convert|26|ft|9|in|m|1}}.&lt;ref&gt;Friedman 2012, pp. 335–36&lt;/ref&gt; She was powered by two 4-cylinder [[triple-expansion steam engine]]s, each driving one shaft, which produced a total of {{convert|21000|ihp|lk=in}} and gave a maximum speed of {{convert|21|kn|lk=in}}. The engines were powered by 30 [[Belleville boiler]]s. On their [[sea trial]]s all of the ''Cressy''-class cruisers, except the [[lead ship]], exceeded their designed speed.&lt;ref&gt;Chesneau &amp; Kolesnik, p. 69&lt;/ref&gt; She carried a maximum of {{convert|1600|LT|t}} of coal and her complement ranged from 725&lt;ref name=f6&gt;Friedman 2012, p. 336&lt;/ref&gt; to 760 officers and enlisted men.&lt;ref name=ck8&gt;Chesneau &amp; Kolesnik, p. 68&lt;/ref&gt;
+
+Her main armament consisted of two [[List of British ordnance terms#BL|breech-loading]] (BL) [[BL 9.2 inch gun Mk IX - X|{{convert|9.2|in|mm|sing=on|sigfig=3}} Mk X guns]] in single [[gun turret]]s, one each fore and aft of the superstructure.&lt;ref name=f6/&gt; They fired {{convert|380|lb|adj=on}} shells to a range of {{convert|15500|yd}}.&lt;ref&gt;Friedman 2011, pp. 71–72&lt;/ref&gt; Her secondary armament of twelve [[BL 6-inch Mk VII naval gun|BL 6-inch Mk VII guns]] was arranged in [[casemate]]s amidships. Eight of these were mounted on the main deck and were only usable in calm weather.&lt;ref&gt;Friedman 2012, pp. 243, 260–61&lt;/ref&gt; They had a maximum range of approximately {{convert|12200|yd}} with their {{convert|100|lb|adj=on}} shells.&lt;ref&gt;Friedman 2011, pp. 80–81&lt;/ref&gt; A dozen [[quick-firing gun|quick-firing (QF)]] [[QF 12-pounder 12 cwt naval gun|12-pounder 12 cwt guns]] were fitted for defence against [[torpedo boat]]s, eight on casemates on the upper deck and four in the superstructure.&lt;ref&gt;Friedman 2012, pp. 243, 336&lt;/ref&gt; The ship also carried three [[QF 3-pounder Hotchkiss|3-pounder]] [[Hotchkiss gun]]s and two submerged [[British 18 inch torpedo|18-inch]] [[torpedo tube]]s.&lt;ref name=ck8/&gt;
+
+The ship's [[waterline]] [[Belt armor|armour belt]] ranged in thickness from {{convert|2|to|6|in|0}} and was closed off by {{convert|5|in|adj=on|0}} transverse [[bulkhead (partition)|bulkhead]]s. The armour of the gun turrets and their barbettes was 6 inches thick while the casemate armour was 5 inches thick. The protective [[deck (ship)|deck]] armour ranged in thickness from {{convert|1|-|3|in|mm|0}} and the conning tower was protected by {{convert|12|in|0}} of armour.&lt;ref name=ck8/&gt;
+
+==Construction and service==
+''Aboukir'' was [[Keel|laid down]] by [[Fairfield Shipbuilding &amp; Engineering]] at their shipyard in [[Govan]], [[Scotland]] on 9 November 1898 and [[Ship naming and launching|launched]] on 16 May 1900.&lt;ref name=s7&gt;Silverstone, p. 207&lt;/ref&gt; In March 1901 she arrived at [[Portsmouth Dockyard]] for [[fitting out]].&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Tuesday |date=12 March 1901 |page_number=10 |issue=36400| }}&lt;/ref&gt; She was completed early the following year, and commissioned on 3 April 1902&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Friday |date=4 April 1902 |page_number=8 |issue=36733| }}&lt;/ref&gt;&lt;ref&gt;Friedman 2012, p. 342&lt;/ref&gt; by Captain [[Charles John Graves-Sawle]].&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Thursday |date=13 March 1902 |page_number=10 |issue=36714| }}&lt;/ref&gt; The ship was assigned to the [[Mediterranean Fleet]] upon commissioning, and left [[Portsmouth]] in early May,&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence|day_of_week=Saturday |date=3 May 1902 |page_number=14 |issue=36758| }}&lt;/ref&gt; arriving at [[Malta]] later that month.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Tuesday |date=13 May 1902 |page_number=10 |issue=36766| }}&lt;/ref&gt; She made two deployments to the [[Mediterranean Sea|Mediterranean]], 1902–05 and 1907–12.&lt;ref name=s7/&gt; She was reduced to reserve when she returned home in 1912 and was assigned to the [[7th Cruiser Squadron (United Kingdom)|7th Cruiser Squadron]] shortly after the outbreak of the First World War in August 1914.&lt;ref&gt;Friedman 2012, p. 241; Silverstone, p. 239&lt;/ref&gt;
+
+The squadron was tasked with patrolling the [[Broad Fourteens]] of the [[North Sea]] in support of a force of [[destroyer]]s and [[submarine]]s based at [[Harwich Dockyard|Harwich]] which protected the eastern end of the [[English Channel]] from German warships attempting to attack the supply route between [[United Kingdom|England]] and [[France]]. During the Battle of Heligoland Bight on 28 August, the ship was part of Cruiser Force 'C', in reserve off the Dutch coast, and saw no action.&lt;ref&gt;Corbett, pp. 100, 171–72&lt;/ref&gt;
+
+===Fate===
+{{Main|Action of 22 September 1914}}
+[[File:Action of 22 September 1914 - EN.svg|thumb|left|Scheme]]
+[[File:SM U9 Postcard.jpg|thumb|left|&quot;Victories of ''U-9''&quot; — a contemporary German postcard showing the sinking ''Aboukir'' and ''Hogue'' with the photo of Weddigen in the corner]]
+
+On the morning of 22 September, ''Aboukir'' and her sisters, {{HMS|Cressy|1899|2}} and {{HMS|Hogue|1900|2}}, were on patrol without any escorting destroyers as they had been forced to seek shelter from bad weather. The three sisters in [[line abreast]], about {{convert|2000|yd}} apart, at a speed of {{convert|10|kn}}. They were not expecting submarine attack, but they had lookouts posted and had one gun manned on each side to attack any submarines sighted. The weather had moderated earlier that morning and Tyrwhitt was en route to reinforce the cruisers with eight destroyers.&lt;ref&gt;Corbett, pp. 172–75&lt;/ref&gt;
+
+''U-9'', commanded by ''[[Kapitänleutnant]]'' [[Otto Weddigen]], had been ordered to attack British transports at [[Ostend]], but had been forced to dive and take shelter from the storm. On surfacing, she spotted the British ships and moved to attack. She fired one torpedo at 06:20 at ''Aboukir'' that struck her on the starboard side; [[Captain (Royal Navy)|Captain]] John Drummond thought he had struck a [[naval mine|mine]] and ordered the other two ships to close to transfer his wounded men. ''Aboukir'' quickly began [[list (watercraft)|listing]] and [[capsized]] around 06:55 despite counterflooding compartments on the opposite side to right her. By the time that Drummond ordered &quot;abandon ship&quot; only one boat was available because the others had either been smashed or could not be lowered as no steam was available to power the [[winch]]es for the boats.&lt;ref&gt;Massie, p. 133&lt;/ref&gt;
+
+As ''Hogue'' approached her sinking sister, the ship's [[captain (nautical)|captain]], [[Wilmot Nicholson]], realized that it had been a submarine attack and signalled ''Cressy'' to look for a periscope although his ship continued to close on ''Aboukir'' as her crew threw overboard anything that would float to aid the survivors in the water. Having stopped and lowered all her boats, ''Hogue'' was struck by two torpedoes around 06:55. The sudden weight loss of the two torpedoes caused ''U-9'' to broach the surface and ''Hogue''{{'}}s gunners opened fire without effect before the submarine could submerge again. The cruiser capsized about ten minutes after being torpedoed as all of her watertight doors had been open, and she sank at 07:15.&lt;ref&gt;Massie, pp. 133–35&lt;/ref&gt;
+
+''Cressy'' attempted to ram the submarine, but did not hit anything and resumed her rescue efforts until she too was torpedoed at 07:20. She too took on a heavy list and then capsized, before sinking at 07:55. Several Dutch ships began rescuing survivors at 08:30 and were joined by British fishing trawlers before Tyrwhitt and his ships arrived at 10:45. The combined total from all three ships was 837 men rescued and 62 officers and 1,397 enlisted men lost.&lt;ref&gt;Massie, p. 135&lt;/ref&gt; Of these, ''Aboukir'' lost a total of 527 men.&lt;ref name=s7/&gt;
+
+In 1954 the British government sold the salvage rights to all three ships to a German company and they were subsequently sold again to a Dutch company which began salvaging the wrecks' metal in 2011.&lt;ref&gt;{{cite journal|year=2011 |title=Booty Trawl |journal=Private Eye |issue=1302 |page=31 |publisher=Pressdram}}{{subscription required}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://uk.reuters.com/article/2011/10/12/uk-britain-ships-graves-idUKTRE79B50320111012|title=Scrap metal hunt is wrecking UK warship graves - veterans|last=Ambrogi|first=Stefano|date=12 October 2011|work=Reuters|publisher=Thomson Reuters|accessdate=20 February 2014}}&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|2}}
+
+== Bibliography ==
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+* {{cite book|last=Corbett|first=Julian|authorlink=Julian Corbett|title=Naval Operations to the Battle of the Falklands|edition=2nd, reprint of the 1938|series=History of the Great War: Based on Official Documents|volume=I|publisher=Imperial War Museum and Battery Press|location=London and Nashville, Tennessee|isbn=0-89839-256-X}}
+*{{cite book|last=Friedman|first=Norman|title=British Cruisers of the Victorian Era|year=2012|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|isbn=978-1-59114-068-9}}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}}
+* {{cite book|title=[[Castles of Steel: Britain, Germany, and the Winning of the Great War at Sea]] |last=Massie|first=Robert K.|authorlink=Robert K. Massie|publisher=Jonathan Cape|year=2004|location= London|isbn=0-224-04092-8}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+
+==External links==
+{{Commons category|HMS Aboukir (ship, 1902|HMS Aboukir)}}
+*[http://www.wrecksite.eu/wreck.aspx?57 HMS ''Aboukir'' on wrecksite]
+
+{{Cressy class cruiser}}
+{{September 1914 shipwrecks}}
+{{coord missing|North Sea}}
+
+{{DEFAULTSORT:Aboukir (1900)}}
+[[Category:Cressy-class cruisers]]
+[[Category:World War I cruisers of the United Kingdom]]
+[[Category:Ships sunk by German submarines in World War I]]
+[[Category:World War I shipwrecks in the North Sea]]
+[[Category:Govan-built ships]]
+[[Category:1900 ships]]
+[[Category:Maritime incidents in 1914]]</text>
+      <sha1>qnzmc1r15k9kcoxf1kstj17syd124i6</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,266 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Courageous-class battlecruiser</title>
+    <ns>0</ns>
+    <id>628446</id>
+    <revision>
+      <id>708846173</id>
+      <parentid>705331773</parentid>
+      <timestamp>2016-03-07T22:47:16Z</timestamp>
+      <contributor>
+        <username>Hazard-Bot</username>
+        <id>12923076</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots|Bot]]: Adding {{Research help|Mil}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33347">
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image = [[File:HMS Courageous WWI.jpg|300px]]
+| Ship caption = ''Courageous'' as battlecruiser during World War I
+}}
+{{Infobox ship class overview
+| Name = ''Courageous'' class
+| Builders = 
+| Operators = {{navy|UK}}
+| Class before = {{sclass-|Renown|battlecruiser|4}}
+| Class after = {{sclass2-|Admiral|battlecruiser|4}}
+| Subclasses = {{HMS|Furious|47|6}}
+| Cost = £2,038,225 (''Courageous'')
+| Built range = 1915–17
+| In service range = 1916–44
+| In commission range = 1916–44
+| Total ships planned = 3
+| Total ships completed = 3
+| Total ships lost = 2
+| Total ships scrapped = 1
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = (''Courageous'')
+| Ship type = Large [[light cruiser]]/battlecruiser
+| Ship displacement =* {{convert|19180|LT|t|0|abbr=on}}
+* {{convert|22560|LT|t|0|abbr=on}} ([[deep load]])
+  
+| Ship length = {{convert|786|ft|9|in|m|abbr=on|1}}
+| Ship beam = {{convert|81|ft|m|abbr=on|1}}
+| Ship draught = {{convert|25|ft|10|in|m|abbr=on|1}}
+| Ship power = {{convert|90000|shp|0|abbr=on}}
+| Ship propulsion =* 4 shafts
+* 4 geared [[steam turbine]]s
+* 18 [[Yarrow Shipbuilders|Yarrow]] small-tube [[water-tube boiler|boilers]]
+  
+| Ship speed = {{convert|32|kn|lk=in}}
+| Ship complement = 842 officers and men
+| Ship armament =* 2 × 2&amp;nbsp;– [[BL 15 inch Mk I naval gun|{{convert|15|inch|0|adj=on}} guns]]
+* 6 × 3&amp;nbsp;– [[BL 4 inch Mk IX naval gun|{{convert|4|inch|0|adj=on}} guns]]
+* 2 × 1&amp;nbsp;– [[QF 3 inch 20 cwt|{{convert|3|inch|0|adj=on}} anti-aircraft guns]]
+* 2 × 1&amp;nbsp;– submerged [[British 21 inch torpedo|{{convert|21|in|mm|0|abbr=on}} torpedo]] [[Torpedo tube|tubes]]
+  
+| Ship armour =* [[Belt armor|Belt]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+* [[Deck (ship)|Decks]]: {{convert|.75|-|3|in|mm|0|abbr=on}}
+* [[Barbette]]s: {{convert|3|-|7|in|mm|0|abbr=on}}
+* [[Gun turret]]s: {{convert|7|-|9|in|mm|0|abbr=on}}
+* [[Conning tower]]: {{convert|10|in|mm|0|abbr=on}}
+* [[Torpedo bulkhead]]s: {{convert|1|-|1.5|in|mm|0|abbr=on}}
+  
+| Ship notes=
+}}
+|}
+
+The '''''Courageous'' class''' consisted of three [[battlecruisers]] known as &quot;large light cruisers&quot; built for the [[Royal Navy]] during [[World War I]]. The class was nominally designed to support the [[Baltic Project]], a plan by [[Admiral of the Fleet]] [[John Fisher, 1st Baron Fisher|Lord Fisher]] that was intended to land troops on the German Baltic Coast.  Ships of this [[ship class|class]] were fast but very lightly armoured, with only a few heavy guns. They were given a shallow [[draft (nautical)|draught]], in part to allow them to operate in the shallow waters of the Baltic but also reflecting experience gained earlier in the war. To maximize their speed, the ''Courageous''-class battlecruisers were the first [[capital ship]]s of the Royal Navy to use geared [[steam turbine]]s and [[water-tube boiler|small-tube boilers]].
+
+The first two ships, {{HMS|Courageous|50|2}} and {{HMS|Glorious||2}}, were commissioned in 1917 and spent the war patrolling the North Sea. They participated in the [[Second Battle of Heligoland Bight]] in November 1917 and were present when the [[High Seas Fleet]] surrendered a year later. Their [[sister ship|half-sister]] {{HMS|Furious|47|2}} was designed with a pair of {{convert|18|in|0|adj=on}} guns, the largest guns ever fitted on a ship of the Royal Navy, but was modified during construction to take a flying-off deck and hangar in lieu of her forward [[gun turret|turret]] and [[barbette]]. After some patrols in the North Sea, her rear turret was removed and another flight deck added. Her aircraft attacked the [[Zeppelin]] sheds during the [[Tondern raid]] in July 1918.
+
+All three ships were [[Reserve Fleet (United Kingdom)|laid up]] after the war, but were rebuilt as [[aircraft carrier]]s during the 1920s. ''Glorious'' and ''Courageous'' were sunk early in [[World War II]] and ''Furious'' was sold for [[scrap]] in 1948.
+
+== Design and description ==
+[[File:Glorious class cruiser diagram Brasseys 1923.jpg|thumb|left|Right elevation and plan view of the ''Courageous'' class from [[Brassey's Naval Annual]] 1923]]
+
+The first two ''Courageous''-class battlecruisers were designed in 1915 to meet a set of requirements laid down by the [[First Sea Lord]], Admiral Fisher, with his Baltic Project in mind. They were to be large enough to ensure that they could maintain their speed in heavy weather, have a powerful armament and a speed of at least {{convert|32|kn}} to allow them to outrun enemy [[light cruiser]]s. Their protection was to be light for a cruiser, with {{convert|3|in|0}} of armour between the waterline and the forecastle deck, [[anti-torpedo bulge]]s amidships and the machinery as far inboard as possible, protected by triple [[torpedo bulkhead]]s. Shallow draught was of the utmost importance and all other factors were to be subordinated to this. The [[Director of Naval Construction]] (DNC), Sir [[Eustace Tennyson-d'Eyncourt]], responded on 23 February 1915 with a smaller version of the {{sclass-|Renown|battlecruiser|2}}s with one less gun turret and reduced armour protection. The [[Chancellor of the Exchequer]] had forbidden any further construction of ships larger than light cruisers in 1915, so Fisher designated the ships as large light cruisers to evade this prohibition. If this restriction had not been in place, the ships would have been built as improved versions of the preceding ''Renown'' class. The two ships were laid down a few months later under a veil of secrecy, so they became known in the [[Royal Navy]] as &quot;Lord Fisher's [[wikt:hush-hush|hush-hush]] cruisers&quot; and their odd design also earned them the nickname of the ''Outrageous'' class.&lt;ref name=b03&gt;Burt, p. 303.&lt;/ref&gt;
+
+Their half-sister ''Furious'' was designed a few months later to meet a revised requirement specifying an armament of two [[BL 18 inch Mk I naval gun|BL 18-inch Mk I]] guns, the largest guns ever fitted on a Royal Navy ship, in single turrets with the ability to use twin {{convert|15|in|0|adj=on}} gun turrets if the 18-inch guns were unsatisfactory. Gunnery experts criticized this decision because the long time between [[salvo]]es would make spotting corrections useless and reduce the rate of fire and thus the probability of a direct hit. Her secondary armament was upgraded to [[BL 5.5 inch Mark I naval gun|BL 5.5-inch Mk I]] guns, rather than the {{convert|4|in|0|adj=on}} guns used by the first two ships, to compensate for the weakness of the two main guns against fast-moving targets like [[destroyer]]s. Her displacement and beam were increased over that of her half-sisters with slightly less draught.&lt;ref name=b03/&gt;
+
+The Baltic Project was only one justification for the ships.  Admiral Fisher wrote in a letter to the DNC on 16 March 1915: &quot;I've told the First Lord that the more that I consider the qualities of your design of the Big Light Battle Cruisers, the more that I am impressed by its exceeding excellence and simplicity—all the three vital requisites of gunpower, speed and draught so well balanced!&quot;&lt;ref&gt;Roberts, p. 51.&lt;/ref&gt; In fact they could be considered the epitome of Fisher's belief in the paramount importance of speed over everything else. Fisher's adherence to this principle is highlighted in a letter he wrote to Churchill concerning the battleships of the 1912–13 Naval Estimates. In the letter, dated April 1912, Fisher stated: &quot;There must be sacrifice of armour ... There must be further VERY GREAT INCREASE IN SPEED ... your speed must vastly exceed [that of] your possible enemy!&quot;&lt;ref&gt;Roberts, p. 46.&lt;/ref&gt;
+
+Fisher's desire for a shallow draught was not merely based on the need to allow for inshore operations; ships tended to operate closer to [[deep load]] than anticipated and were often found lacking in [[freeboard (nautical)|freeboard]], reserve buoyancy and safety against underwater attack. This experience led the DNC to reconsider the proportions of the hull to rectify the problems identified thus far. The ''Courageous''-class ships were the first products of that re-evaluation.&lt;ref&gt;Roberts, p. 53.&lt;/ref&gt;
+
+=== General characteristics ===
+The ''Courageous''-class ships had an [[length overall|overall length]] of {{convert|786|ft|9|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|81|ft|m|1}}, and a [[draft (ship)|draught]] of {{convert|25|ft|10|in|m|1}} at deep load. They displaced {{convert|19180|LT|t}} normally and {{convert|22560|LT|t|0}} at deep load. They had a [[metacentric height]] of {{convert|6|ft|1}} at deep load and a complete [[double bottom]].&lt;ref name=r65&gt;Roberts, pp. 64–65.&lt;/ref&gt;
+
+Their half-sister ''Furious'' was the same length, but had a beam of {{convert|88|ft|m|1}} and a [[draft (ship)|draught]] of {{convert|24|ft|11|in|m|1}} at deep load. She displaced {{convert|19513|LT|t|0}} at load and {{convert|22890|LT|t|0}} at deep load. She had a metacentric height of {{convert|5.33|ft|1}} at deep load.&lt;ref name=r65/&gt;
+
+=== Propulsion ===
+To save weight and space the ''Courageous''-class ships were the first large warships in the Royal Navy to have geared [[steam turbine]]s and [[water-tube boiler|small-tube boilers]] despite the latter's significantly heavier maintenance requirements. Furthermore, to save design time, the turbine installation used in the light cruiser {{HMS|Champion|1915|2}}, the navy's first cruiser with geared turbines, was simply doubled. The [[Parsons Marine Steam Turbine Company|Parsons]] turbines were arranged in two engine rooms and each of the turbines drove one of the four propeller shafts. ''Furious''{{'}}s propellers were {{convert|11|ft|6|in|m|1}} in diameter. The turbines were powered by eighteen [[Yarrow Shipbuilders|Yarrow]] boilers equally divided among three boiler rooms. They were designed to produce a total of {{convert|90000|shp|lk=in|0}} at a working pressure of {{convert|235|psi|kPa kg/cm2|0|abbr=on|lk=on}}, but achieved slightly more than that during ''Glorious''{{'}}s trials, although she did not reach her designed speed of {{convert|32|knots}}.&lt;ref&gt;Roberts, pp. 71, 74, 76, 79.&lt;/ref&gt;
+
+They were designed to normally carry {{convert|750|LT|t|0}} of [[fuel oil]], but could carry a maximum of {{convert|3160|LT|t|0}}. At full capacity, they could steam for an estimated {{convert|6000|nmi|-1}} at a speed of {{convert|20|knots}}.&lt;ref name=b06&gt;Burt, p. 306.&lt;/ref&gt;
+
+=== Armament ===
+The ''Courageous''-class ships mounted four [[BL 15 inch Mk I naval gun|BL 15-inch Mark I]] guns in two twin hydraulically powered Mark I* turrets, one each fore (designated the 'A' turrets) and aft (the 'Y' turrets).&lt;ref name=b06/&gt; These turrets were originally intended for a {{sclass-|Revenge|battleship|2}} that was canceled shortly after the war began.&lt;ref&gt;Burt, pp. 291, 308.&lt;/ref&gt; The guns could be depressed to −3° and elevated to 20°; they could be loaded at any angle up to 20°, although loading at high angles tended to slow the gun's return to battery (firing position). The ships carried 120 shells per gun. They fired {{convert|1910|lb|kg|adj=on|0}} projectiles at a [[muzzle velocity]] of {{convert|2575|ft/s|m/s|abbr=on}}; this provided a maximum range of {{convert|23734|yd|abbr=on|0}} with [[Armor-piercing shot and shell|armour-piercing]] shells.&lt;ref&gt;{{cite web | url = http://www.navweaps.com/Weapons/WNBR_15-42_mk1.htm | title = British 15&quot;/42 (38.1 cm) Mark I | date = 1 April 2010 | accessdate = 4 May 2010 | publisher = NavWeaps.com }}&lt;/ref&gt;
+
+[[File:HMS_Furious-1.jpg|thumb|''Furious'' had a single 18-inch gun fitted.]]
+The ''Courageous''-class ships were designed with 18 [[BL 4 inch Mk IX naval gun|BL 4-inch Mark IX guns]], fitted in six triple mounts. These were manually powered and quite cumbersome in use as they required a crew of thirty-two men to load and train the guns. The gun's rate of fire was only 10 to 12 rounds per minute as the loaders kept getting in each other's way. They had a maximum depression of −10° and a maximum elevation of 30°. They fired a {{convert|22|lb|kg|adj=on}} [[Explosive material#High explosives|high explosive]] shell at a muzzle velocity of {{convert|2625|ft/s|m/s|abbr=on}}. At maximum elevation the guns had a maximum range of {{convert|13500|yd|m|0}}.&lt;ref&gt;{{cite web | url = http://www.navweaps.com/Weapons/WNBR_4-45_mk9.htm | title = Britain 4&quot;/45 (10.2 cm) BL Marks IX and X | date = 25 January 2010 | accessdate = 7 May 2010 | publisher = NavWeaps.com }}&lt;/ref&gt; The ships carried 120 rounds for each gun.&lt;ref name=b06/&gt;
+
+Each ship mounted a pair of [[QF 3 inch 20 cwt]]&lt;ref group=&quot;Note&quot;&gt;&quot;cwt&quot; is the abbreviation for [[hundredweight]], 30 cwt referring to the weight of the gun.&lt;/ref&gt; [[Anti-aircraft warfare|anti-aircraft]] guns on single high-angle Mark II mountings. These were mounted abreast the mainmast in the ''Courageous''-class ships and before the funnel on ''Furious''.&lt;ref name=b06/&gt; The gun had a maximum depression of 10° and a maximum elevation of 90°. It fired a {{convert|12.5|lb|kg|adj=on}} shell at a muzzle velocity of {{convert|2500|ft/s|m/s|abbr=on}} at a rate of fire of 12–14 rounds per minute. They had a maximum effective ceiling of {{convert|23500|ft|m|abbr=on}}.&lt;ref&gt;{{cite web | url = http://www.navweaps.com/Weapons/WNBR_3-45_mk1.htm | title = British 12-pdr &lt;nowiki&gt;[3&quot;/45 (76.2 cm)]&lt;/nowiki&gt; 20 cwt QF HA Marks I, II, III and IV | date = 27 February 2007 | accessdate = 11 November 2009 | publisher = NavWeaps.com }}&lt;/ref&gt; All three ships carried ten [[torpedo]]es and mounted two [[British 21 inch torpedo|{{convert|21|in|adj=on|0}}]] submerged side-loading [[torpedo tube]]s fitted near 'A' turret. They were loaded and traversed by hydraulic power, but fired by compressed air.&lt;ref&gt;Roberts, p. 83.&lt;/ref&gt;
+
+The [[BL 18 inch Mk I naval gun|18-inch BL Mark I gun]] carried by ''Furious'' was derived from the 15-inch Mark I gun used in her half-sisters. It was intended to be mounted in two single-gun turrets derived from the twin-gun 15-inch Mark I/N turret, and her barbettes were designed to accommodate either turret in case problems arose with the 18-inch gun's development, but only one turret was actually fitted. The gun could depress to −3° and elevate to a maximum of 30°. It fired a {{convert|3320|lb|kg|adj=on}}, 4 [[List of British ordnance terms#C.R.H.|crh]] [[Armor-piercing shot and shell|armour-piercing, capped]] shell at a [[muzzle velocity]] of {{convert|2270|ft/s|m/s|abbr=on}} to a distance of {{convert|28900|yd|m}}. It could fire one round per minute and the ship carried sixty rounds of ammunition. The turret's revolving mass was {{convert|826|LT|0}}, only slightly more than the {{convert|810|LT|0}} of its predecessor.&lt;ref&gt;{{cite web | url = http://www.navweaps.com/Weapons/WNBR_18-40_mk1.htm | title = British 18&quot;/40 (45.7 cm) Mark I | date = 22 October 2009 | accessdate = 10 May 2010 | publisher = NavWeaps.com }}&lt;/ref&gt;
+
+''Furious''{{'}}s secondary armament consisted of 11 [[BL 5.5 inch Mark I naval gun|BL 5.5-inch Mk I]] guns. The guns had a maximum elevation of 25° on their pivot mounts. They fired {{convert|82|lb|kg|adj=on}} projectiles at a muzzle velocity of {{convert|2790|ft/s|m/s|abbr=on}} at a rate of 12 rounds per minute. Their maximum range was {{convert|16000|yd|m|abbr=on}} at 25° elevation.&lt;ref name=nav&gt;{{cite web | url = http://www.navweaps.com/Weapons/WNBR_55-50_mk1.htm | title = British 5.5&quot;/50 (14 cm) BL Mark I | date = 23 January 2009 | accessdate = 7 May 2010 | publisher = NavWeaps.com }}&lt;/ref&gt;
+
+=== Fire control ===
+The main guns of the ''Courageous''-class ships could be controlled from either of the two [[Fire-control system#Naval fire control|fire-control directors]]. The primary director was mounted above the [[conning tower]] in an armoured hood and the other was in the [[Top (sailing ship)|fore-top]] on the foremast.&lt;ref&gt;Roberts, p. 93.&lt;/ref&gt; The secondary armament was also director-controlled.&lt;ref&gt;McBride, p. 106.&lt;/ref&gt; Each turret was provided with a 15-foot rangefinder in an armoured housing on the turret roof. The fore-top was equipped with a {{convert|9|ft|m|adj=on|1}} rangefinder as was the torpedo control tower above the rear superstructure. The anti-aircraft guns were controlled by a simple {{convert|2|m|ftin|adj=on}} rangefinder mounted on the aft superstructure.&lt;ref&gt;Burt, p. 307.&lt;/ref&gt;
+
+=== Protection ===
+Unlike on other British battlecruisers, the bulk of the armour of the ''Courageous''-class ships was made from high-tensile steel, a type of steel used structurally in other ships. Their waterline [[Belt armor|belt]] consisted of {{convert|2|in|0}} covered by a {{convert|1|in|0|adj=on}} skin. It ran from barbette to barbette with a one-inch extension forward to the two-inch forward [[bulkhead (partition)|bulkhead]] well short of the bow. The belt had a height of {{convert|23|ft|m|1}}, of which {{convert|18|in|m|1}} was below the designed waterline. From the forward barbette a three-inch bulkhead extended out to the ship's side between the upper and lower decks and a comparable bulkhead was in place at the rear barbette as well. Four decks were armoured with thicknesses varying from {{convert|.75|to|3|in}}, with the greatest thicknesses over the magazines and the steering gear. After the loss of three battlecruisers to magazine explosions during the [[Battle of Jutland]], {{convert|110|LT|t|0}} of extra protection was added to the deck around the magazines.&lt;ref&gt;Burt, pp. 308, 313.&lt;/ref&gt;
+
+The turrets, barbettes and conning tower were made from [[Krupp cemented armour]]. The turret faces were {{convert|9|in|0}} thick while their sides ranged from {{convert|7|to|9|in|0}} in thickness and the roof was {{convert|4.5|in|0}} thick. The barbettes had a maximum thickness of {{convert|6|to|7|in|0}} above the main deck, but reduced in thickness to {{convert|3|to|4|in|0}} between the lower and main decks. The conning tower armour was {{convert|10|in|0}} thick and it had a three-inch roof. The primary fire-control director atop the conning tower was protected by an armoured hood. The face of the hood was six inches thick, its sides were two inches thick and its roof was protected by three inches of armour. A communications tube with three-inch sides ran from the conning tower down to the lower conning position on the main deck. The [[torpedo bulkhead]]s were increased during building from {{convert|.75|in}} to {{convert|1.5|in}} in thickness.&lt;ref&gt;Roberts, pp. 54, 106, 113.&lt;/ref&gt;
+
+All three ships were fitted with a shallow [[anti-torpedo bulge]] integral to the hull which was intended to explode the torpedo before it hit the hull proper and vent the underwater explosion to the surface rather than into the ship. However, later testing proved that it was not deep enough to accomplish its task as it lacked the layers of empty and full compartments that were necessary to absorb the force of the explosion.&lt;ref&gt;Roberts, p. 111.&lt;/ref&gt;
+
+== Ships ==
+{| class=&quot;wikitable plainrowheaders&quot; style=&quot;margin-right: 0;&quot;
+! scope=&quot;col&quot; | Ship
+! scope=&quot;col&quot; | Builder
+! scope=&quot;col&quot; | Laid down
+! scope=&quot;col&quot; | Launched
+! scope=&quot;col&quot; | Completed
+! scope=&quot;col&quot; | Fate
+|-
+!colspan=6| ''Courageous'' subgroup
+|-
+! scope=&quot;row&quot; | {{HMS|Courageous|50|2}}
+| [[Armstrong Whitworth]], [[Elswick, Tyne and Wear|Elswick]]&lt;ref name=&quot;r63&quot;&gt;Roberts, p. 63.&lt;/ref&gt;
+| 28 March 1915&lt;ref name=&quot;r63&quot; /&gt;
+| 5 February 1916&lt;ref name=&quot;r63&quot; /&gt;
+| 28 October 1916&lt;ref name=&quot;r63&quot; /&gt;
+| Taken for conversion to aircraft carrier, June 1924
+|-
+! scope=&quot;row&quot; | {{HMS|Glorious||2}}
+| [[Harland and Wolff]], [[Belfast]], [[Northern Ireland]]&lt;ref name=&quot;r63&quot; /&gt;
+| 1 May 1915&lt;ref name=&quot;r63&quot; /&gt;
+| 20 April 1916&lt;ref name=&quot;r63&quot; /&gt;
+| 14 October 1916&lt;ref name=&quot;r63&quot; /&gt;
+| Taken for conversion to aircraft carrier, February 1924
+|-
+!colspan=6| ''Furious'' subgroup
+|-
+! scope=&quot;row&quot; | {{HMS|Furious|47|2}}
+| [[Armstrong Whitworth]], [[Elswick, Tyne and Wear|Elswick]]&lt;ref name=&quot;r63&quot; /&gt;
+| 8 June 1915&lt;ref name=&quot;r63&quot; /&gt;
+| 18 August 1916&lt;ref name=&quot;r63&quot; /&gt;
+| 26 June 1917&lt;ref name=&quot;r63&quot; /&gt;
+| Taken for conversion to aircraft carrier, November 1917
+|}
+
+== Service ==
+During her [[sea trial]]s in November 1916 off the [[River Tyne]], ''Courageous'' sustained structural damage while running at full speed in a rough [[Glossary of nautical terms#H|head sea]]. The forecastle deck was deeply buckled in three places between the breakwater and the forward turret.&lt;ref&gt;Burt, p. 309.&lt;/ref&gt; In addition, the side plating was visibly buckled between the forecastle and upper decks. Water had entered the submerged torpedo room and rivets had sheared in the vertical flange of the angle iron securing the deck armour in place.&lt;ref&gt;Burt, pp. 309, 313.&lt;/ref&gt; The exact cause remains uncertain, but ''Courageous'' received {{convert|130|LT|t|0}} of stiffening in response; ''Glorious'' did not receive her stiffening until 1918.&lt;ref&gt;Roberts, p. 54.&lt;/ref&gt; ''Courageous'' also was temporarily fitted as a minelayer in April 1917, but never actually laid any mines. In mid-1917 both ships received a dozen torpedo tubes in pairs: one mount on each side of the mainmast on the upper deck and two mounts on each side of the rear turret on the quarterdeck.&lt;ref&gt;McBride, p. 109.&lt;/ref&gt;&lt;ref name=b14&gt;Burt, p. 314.&lt;/ref&gt; ''Courageous'' and ''Glorious'' served together throughout the war. Both ships were initially assigned to the 3rd Light Cruiser Squadron and later reconstituted the 1st Cruiser Squadron (CS).&lt;ref name=p21&gt;Parkes, p. 621.&lt;/ref&gt;
+
+[[File:FuriousSP 89.jpg|250px|thumb|left|''Furious'' as originally completed]]
+
+Even as she was being built, ''Furious'' was modified with a large hangar capable of housing ten aircraft on her forecastle replacing the forward turret. A 160-foot (49&amp;nbsp;m) flight deck was built along its roof. Aircraft were flown off and, less successfully, landed on this deck. Although the aft turret was fitted and the gun trialled, it was not long before ''Furious'' returned to her builders for further modifications. In November 1917 the rear turret was replaced by a 300-foot (91&amp;nbsp;m) deck for landing aircraft over another hangar.&lt;ref&gt;Parkes, p. 622.&lt;/ref&gt; Her funnel and superstructure remained intact, with a narrow strip of decking around them to connect the fore and aft flight decks.&lt;ref name=b14/&gt; [[Turbulence]] from the funnel and superstructure was severe enough that only three landing attempts were successful before further attempts were forbidden.&lt;ref&gt;Parkes, p. 624.&lt;/ref&gt; Her 18-inch guns were reused on the {{sclass-|Lord Clive|monitor|0|warship}} [[Monitor (warship)|monitors]] {{HMS|General Wolfe|1915|2}} and {{HMS|Lord Clive|1915|2}} during the war.&lt;ref&gt;Buxton, p. 73.&lt;/ref&gt;
+
+All three ships were in the 1st CS of which ''Courageous'' was [[flagship]] when the Admiralty received word of German ship movements on 16 October 1917, possibly indicating some sort of raid. [[Admiral]] [[David Beatty, 1st Earl Beatty|Beatty]], commander of the [[Grand Fleet]], ordered most of his light cruisers and destroyers to sea in an effort to locate the enemy ships. ''Furious'' was detached from the 1st CS and ordered to sweep along the 56th parallel as far as 4° East and to return before dark. The other two ships were not initially ordered to sea, but were sent to reinforce the 2nd Light Cruiser Squadron patrolling the central part of the [[North Sea]] later that day.&lt;ref&gt;Newbolt, pp. 150–51.&lt;/ref&gt; Two German {{sclass-|Brummer|cruiser|0}} light cruisers managed to slip through the gaps in the British patrols and destroyed a convoy headed to Scandinavia during the morning of 17 October, but no word was received of the engagement until that afternoon. The 1st CS was ordered to attempt to intercept the German ships, but they proved to be too fast and the British ships were unsuccessful.&lt;ref&gt;Newbolt, pp. 156–57.&lt;/ref&gt;
+
+=== Second Battle of Heligoland Bight ===
+{{main|Second Battle of Heligoland Bight}}
+
+Over the course of 1917 the Admiralty was becoming more concerned about German efforts in the North Sea to sweep paths through the British-laid minefields intended to restrict the actions of the [[High Seas Fleet]] and German [[submarine]]s. A preliminary raid on German minesweeping forces on 31 October by light forces destroyed ten small ships and the Admiralty decided on a larger operation to destroy the [[minesweeper (ship)|minesweepers]] and their escorting light cruisers. Based on intelligence reports the Admiralty decided on 17 November 1917 to allocate two light cruiser squadrons, the 1st CS covered by the reinforced [[1st Battlecruiser Squadron (United Kingdom)|1st Battlecruiser Squadron]] and, more distantly, the [[battleship]]s of the [[1st Battle Squadron]] to the operation.&lt;ref&gt;Newbolt, pp. 164–65.&lt;/ref&gt;
+
+The German ships, four light cruisers of II Scouting Force, eight destroyers, three divisions of minesweepers, eight ''Sperrbrecher''s (cork-filled trawlers, used to detonate mines without sinking) and two trawlers to mark the swept route, were spotted at 7:30 a.m.,&lt;ref group=&quot;Note&quot;&gt;The times used in this article are in [[Coordinated Universal Time|UTC]], which is one hour behind [[Central European Time|CET]], which is often used in German works.&lt;/ref&gt; silhouetted by the rising sun. ''Courageous'' and the light cruiser {{HMS|Cardiff|D58|2}} opened fire with their forward guns seven minutes later. The Germans responded by laying an effective [[smoke screen]]. The British continued in pursuit, but lost track of most of the smaller ships in the smoke and concentrated fire on the light cruisers as opportunity permitted. One 15-inch hit was made on a gun shield of {{SMS|Pillau}}, but it did not affect her speed. At 8:33 the left-hand gun in ''Glorious''{{'}}s forward turret was wrecked when a shell detonated inside the gun barrel. At 9:30 the 1st CS broke off their pursuit so they would not enter a [[minefield]] marked on their maps; the ships turned south, playing no further role in the battle. The German ships had too much of a lead to be caught by the British ships before they had to turn to avoid the minefield.&lt;ref&gt;McBride, pp. 110–12.&lt;/ref&gt;
+
+Both ships had taken minor damage from their own [[muzzle blast]]s, and ''Glorious'' required five days of repairs.&lt;ref&gt;McBride, p. 115.&lt;/ref&gt; ''Courageous'' fired 92 rounds of 15-inch while ''Glorious'' fired 57, scoring only the single hit on ''Pillau'' between them. They also fired 180 and 213 four-inch shells respectively.&lt;ref&gt;Campbell, p. 67.&lt;/ref&gt; ''Courageous''{{'}}s mine fittings were removed after the battle and both ships received flying-off platforms on top of their turrets in 1918. A [[Sopwith Camel]] was carried on the rear turret and a [[Sopwith 1½ Strutter]] on the forward turret.&lt;ref&gt;Campbell, p. 66.&lt;/ref&gt;
+
+''Furious'' was recommissioned on 15 March 1918 and her embarked aircraft were used on anti-[[Zeppelin]] patrols in the North Sea after May. In July 1918 she flew off seven [[Sopwith Camel]]s which participated in the [[Tondern raid]], attacking the Zeppelin sheds at [[Tondern]] with moderate success.&lt;ref&gt;Newbolt, p. 347.&lt;/ref&gt; All three ships were present at the surrender of the German fleet on 21 November 1918.&lt;ref name=b14/&gt;&lt;ref&gt;{{cite web | url = http://www.gwpda.org/naval/opzz.htm | title = Operation ZZ | publisher = World War One: The Great War at Sea | accessdate = 13 May 2010 }}&lt;/ref&gt;
+
+=== Post-war history ===
+{{main|Courageous-class aircraft carrier}}
+
+''Courageous'' was reduced to [[Wikt:mothball|reserve]] at [[Rosyth]] on 1 February 1919 before being assigned to the Gunnery School at [[HMNB Devonport|Devonport]] the following year as a turret drill ship. She became flagship of the Rear-Admiral Commanding the Reserve at Devonport in March 1920. ''Glorious'' was also reduced to reserve at Rosyth on 1 February and served as a turret-drill ship, but succeeded her sister as flagship between 1921 and 1922. ''Furious'' was placed in reserve 21 November 1919 before beginning reconstruction as an aircraft carrier in 1921.&lt;ref name=&quot;Burt, p. 315&quot;&gt;Burt, p. 315.&lt;/ref&gt;
+
+The [[Washington Naval Treaty]] of 1922 required the signatory nations to severely curtail their plans for new warships and scrap many existing warships to meet its tonnage limits. Up to {{convert|66000|LT|t}} of existing ships, however, could be converted into aircraft carriers, and the Royal Navy chose to convert the ''Courageous''-class ships because of their high speed. Each ship was reconstructed with a full-length flight deck during the 1920s. Their 15-inch turrets were placed into storage and later reused during [[World War II]] for {{HMS|Vanguard|23|6}}, the Royal Navy's last battleship.&lt;ref&gt;Parkes, p. 647.&lt;/ref&gt;
+
+As the first large, or &quot;fleet&quot;, carrier completed by the Royal Navy, ''Furious'' was extensively used to evaluate aircraft handling and landing procedures, including the first ever carrier night-landing in 1926.&lt;ref&gt;Jenkins, p. 274.&lt;/ref&gt; ''Courageous'' became the first warship lost by the Royal Navy in [[World War II]] when she was torpedoed in September 1939.&lt;ref&gt;Rohwer, pp. 1–3.&lt;/ref&gt; ''Glorious'' unsuccessfully hunted the {{ship|German cruiser|Admiral Graf Spee||2}} in the [[Indian Ocean]] in 1939. She participated in the [[Norwegian Campaign]] in 1940, but was sunk by the German battleships {{ship|German battleship|Scharnhorst||2}} and {{ship|German battleship|Gneisenau||2}} on 8 June 1940 in the North Sea.&lt;ref&gt;Rohwer, p. 26.&lt;/ref&gt; ''Furious'' spent the first months of the war hunting for German raiders and escorting convoys before she began to support British forces in Norway. She spent most of 1940 in Norwegian waters making attacks on German installations and shipping, and most of 1941 ferrying aircraft to West Africa, [[Gibraltar]] and [[Malta]] before refitting in the United States. She ferried aircraft to Malta during 1942 and provided air support to British forces during [[Operation Torch]]. ''Furious'' spent most of 1943 training with the Home Fleet, but made numerous air strikes against the {{ship|German battleship|Tirpitz||2|up=yes}} and other targets in Norway in 1944. She was worn out by late 1944 and was reduced to reserve in September before being decommissioned the following year. ''Furious'' was sold in 1948 for [[Ship breaking|scrap]].&lt;ref&gt;Jenkins, pp. 277–88.&lt;/ref&gt;
+
+== Notes ==
+{{Portal|Battleships}}
+{{reflist|group=Note}}
+
+== Footnotes ==
+{{Research help|Mil}}
+{{reflist|30em}}
+
+== References ==
+* {{cite book | last = Burt | first = R. A. | title = British Battleships of World War One | publisher = Naval Institute Press | location = Annapolis, MD | year = 1986 | isbn = 0-87021-863-8 }}
+* {{cite book | last = Buxton | first = Ian | title = Big Gun Monitors: Design, Construction and Operations 1914–1945 | publisher = Naval Institute Press | location = Annapolis, MD | year = 2008 | edition = 2nd, revised and expanded | isbn = 978-1-59114-045-0 }}
+* {{cite book | last = Campbell | first = N. J. M. | title = Battle Cruisers: The Design and Development of British and German Battlecruisers of the First World War Era | publisher = Conway Maritime Press | location = Greenwich | year = 1978 | series = Warship Special | volume = 1 | isbn = 0-85177-130-0 }}
+* {{cite book | last = Jenkins | first = C. A., Commander | title = HMS Furious/Aircraft Carrier 1917–1948: Part II: 1925–1948 | series = Warship Profile | volume = 24 | year = 1972 | publisher = Profile Publications | location = Windsor, Berkshire|oclc=10154565 }}
+* {{cite book | last = McBride | first = Keith | title = Warship | editor-last = Gardiner | editor-first = Robert | publisher = Naval Institute Press | location = Annapolis, Maryland | year = 1990 | volume = 1990 | pages = 102–117 | chapter = The Weird Sisters | isbn = 1-55750-903-4 }}
+* {{cite book | last = Newbolt | first = Henry | title = Naval Operations | edition = reprint of the 1931 | series = History of the Great War Based on Official Documents | volume = V | year = 1996 | publisher = Battery Press | location = Nashville, TN | isbn = 0-89839-255-1 }}
+* {{cite book | last = Parkes | first = Oscar | title = British Battleships | publisher = Naval Institute Press | location = Annapolis, MD | year = 1990 |edition = reprint of the 1957 | isbn = 1-55750-075-4 }}
+* {{cite book | last = Roberts | first = John | title = Battlecruisers | publisher = Naval Institute Press | location = Annapolis, MD | year = 1997 | isbn = 1-55750-068-1 }}
+* {{cite book | last = Rohwer | first = Jürgen | title = Chronology of the War at Sea 1939-1945: The Naval History of World War Two | publisher = Naval Institute Press | location = Annapolis, MD | year = 2005 | edition = Third Revised | isbn = 1-59114-119-2 }}
+
+== External links ==
+{{Commons category|Glorious class cruiser/aircraft carrier }}
+* [http://dreadnoughtproject.org/tfs/index.php/Courageous_Class_Battlecruiser_(1916) Dreadnought Project] Technical material on the weaponry and fire control for the ships
+* [http://www.battleships-cruisers.co.uk/courageous_class.htm Photo gallery of ''Courageous'' and ''Glorious'']
+* [http://www.battleships-cruisers.co.uk/hms_furious.htm Photo gallery for ''Furious'' as both battlecruiser and aircraft carrier]
+
+{{Courageous class aircraft carrier}}
+{{WWIBritishShips}}
+
+{{Featured article}}
+
+{{DEFAULTSORT:Courageous Class Battlecruiser}}
+[[Category:Battlecruiser classes]]
+[[Category:Ship classes of the Royal Navy]]
+[[Category:World War I battlecruisers of the United Kingdom| ]]</text>
+      <sha1>4zjlcrwn274f8x4g73t42ufggdq0a9a</sha1>
+    </revision>
+  </page>
+</mediawiki>

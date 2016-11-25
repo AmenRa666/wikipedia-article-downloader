@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Kerrison Predictor</title>
+    <ns>1</ns>
+    <id>757277</id>
+    <revision>
+      <id>560763697</id>
+      <parentid>488783720</parentid>
+      <timestamp>2013-06-20T15:37:45Z</timestamp>
+      <contributor>
+        <username>PINTofCARLING</username>
+        <id>4022252</id>
+      </contributor>
+      <comment>updated b-class criteria, focus on b5 (article contains supporting materials)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1450">{{WPMILHIST|class=start|B1=n|B2=y|B3=y|B4=y|B5=y|Land-vehicles=yes|WWII=yes}}
+{{WikiProject Computing| image-needed=yes|class=start|importance=low}}
+
+==Initial post==
+Problem in page:
+
+&quot;However in February 1941 the US Navy decided to use the Bofors gun as well, and the Army then agreed to in order to simplify production.&quot;
+
+This sentence has a missing word or phrase, but I am not sufficiently knowlegeble to provide it.
+
+... Army then agreed to xxx in order to ...
+
+Logic would dictate that the army converted its M7 orders to additional M5 orders - is this what happened?
+
+[[User:Leonard G.|Leonard G.]] 05:03, 27 Jun 2004 (UTC)
+
+----
+
+Good point, I've re-worded it. BTW, it' not entirely clear what the timeline is. The part about Sperry comes from an article on Singer's war-time work. How it is that Sperry would have an &quot;M7&quot; ''before'' an M5 existed seems a little odd. It's also not clear what happened to the M7, it appears that the Army planned on using the M5 on their 37s and then Bofors, so what exactly was the M7 going to be used for? Looking at the only mention I can find for it on the web, it appears the M7 was in fact a much simpler device, but there's little to go on.
+
+==whats in a name==
+looks like were having competing articles. the U.S. army manuals use the name [[Director (military)]], predictor sounds british or naval [[User:Brian in denver|Brian in denver]] ([[User talk:Brian in denver|talk]]) 23:39, 5 June 2009 (UTC)</text>
+      <sha1>gq1ldnl7o32m4c0rx05gajlg6ucusrm</sha1>
+    </revision>
+  </page>
+</mediawiki>

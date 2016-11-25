@@ -1,0 +1,272 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Joseph Rotblat</title>
+    <ns>0</ns>
+    <id>315742</id>
+    <revision>
+      <id>751286848</id>
+      <parentid>751217204</parentid>
+      <timestamp>2016-11-24T16:39:22Z</timestamp>
+      <contributor>
+        <username>Mr Stephen</username>
+        <id>863017</id>
+      </contributor>
+      <comment>clean up, ellipsis format, dashes in year ranges, ISBN format, fixed dashes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34996">{{Infobox scientist
+| name = Sir Joseph Rotblat
+| honorific_suffix          = {{postnominals|country=GBR|KCMG|CBE|FRS}}
+| image = Josef Rotblat ID badge.png
+| image_size = 220px
+| caption = [[Los Alamos, New Mexico|Los Alamos]] badge photograph,&amp;nbsp;1944
+| birth_name = Józef Rotblat
+| birth_date = {{birth date|1908|11|4|mf=y}}
+| birth_place = [[Warsaw]], [[Congress Poland|Poland]]
+| death_date = {{death date and age|2005|8|31|1908|11|4|mf=yes}}
+| death_place = [[London]], [[United Kingdom]]
+| residence = Poland&lt;br /&gt;United Kingdom
+| nationality = [[Poles in the United Kingdom|British-Polish]]
+| field = [[Physics]]
+| work_institution = &lt;div class=&quot;plainlist&quot;&gt;
+* Scientific Society of Warsaw
+* [[Free Polish University|Free University of Poland]]
+* [[University of Liverpool]]
+* [[St Bartholomew's Hospital]]
+* [[Los Alamos National Laboratory]]
+* [[University of London]]&lt;ref&gt;{{Cite journal | last1 = Freemantle | first1 = R. | last2 = Prowse | first2 = D. | last3 = Rotblat | first3 = J. | doi = 10.1103/PhysRev.96.1268 | title = Scattering of 9.5-Mev Protons by Nitrogen | journal = Physical Review | volume = 96 | issue = 5 | pages = 1268 | year = 1954 | pmid =  | pmc = }}&lt;/ref&gt;
+&lt;/div&gt;
+| alma_mater = &lt;div class=&quot;plainlist&quot;&gt;
+* [[Free Polish University|Free University of Poland]]
+* [[University of Warsaw]]
+* [[University of Liverpool]]
+* [[University of London]]
+&lt;/div&gt;
+| thesis_title = Determination of a number of neutrons emitted from a source
+| thesis_url = http://search.proquest.com/docview/301122892
+| thesis_year = 1950
+| known_for = &lt;div class=&quot;plainlist&quot;&gt;
+* [[Medical physics]]
+* Campaigning for [[nuclear disarmament]]&lt;ref name=&quot;natureobit&quot; /&gt;
+* [[Manhattan Project]]
+* [[Hippocratic Oath for scientists]]&lt;ref name=&quot;oath&quot;&gt;{{Cite journal | last1 = Rotblat | first1 = Joseph| authorlink1 =Joseph Rotblat| title = A Hippocratic Oath for Scientists | doi = 10.1126/science.286.5444.1475 | journal = Science | volume = 286 | issue = 5444 | pages = 1475 | year = 1999 | url = https://www.uio.no/studier/emner/matnat/ifi/MNSES9100/h11/undervisningsmateriale/literature/RotblatHippocraticOathforScientists_000.pdf| pmid =  10610545| pmc = }}&lt;/ref&gt;
+&lt;/div&gt;
+| societies =
+ {{unbulleted list
+  | Co-founder and member of [[SIPRI|Stockholm International Peace Research Institute]] governing board
+  | Member of the Advisory Committee on Medical Research of the [[World Health Organization]]
+ }}
+| prizes = &lt;div class=&quot;plainlist&quot;&gt;
+* [[Knight Commander of the Order of St Michael and St George]] (1998)
+* [[Nobel Peace Prize]] (1995)
+* [[Fellow of the Royal Society]] (1995) 
+* [[Albert Einstein Peace Prize]] (1992)
+* [[Commander of the Order of the British Empire]] (1965)
+&lt;/div&gt;
+| spouse = Tola Rotblat
+| module = {{Listen | embed=yes | filename=Joseph Rotblat in Great Lives b0194mxs.flac | title=Rotblat's voice | type=speech | description=from the [[BBC Radio 4]] programme ''[[Great Lives]]'' broadcast 13 January 2012&lt;ref name=&quot;b0194mxs&quot;&gt;{{cite episode|title=Joseph Rotblat|series=Great Lives|serieslink=Great Lives|url=http://www.bbc.co.uk/programmes/b0194mxs|accessdate=2014-01-18|station=BBC Radio 4|date=13 January 2012|season=|seriesno=26|number=6|transcript=|transcripturl=}}&lt;/ref&gt; }}
+}}
+
+'''Sir Joseph Rotblat''' {{postnominals|country=GBR|KCMG|CBE|FRS}} (November 4, 1908 – August 31, 2005) was a Polish  [[physicist]], a self-described &quot;Pole with a British passport&quot;.&lt;ref name=&quot;passport&quot;&gt;{{cite web |url=http://kalendarium.polska.pl/wydarzenia/article.htm?id=395480 |archive-url=http://wayback.archive.org/web/20110721232415/http://kalendarium.polska.pl/wydarzenia/article.htm?id=395480 |archive-date=July 21, 2011 |title=Decyzja o przyznaniu pokojowej Nagrody Nobla Lechowi Wałęsie |publisher=wydarzenia |language=Polish |date=October 5, 1983 }}&lt;/ref&gt; Rotblat was the only physicist to leave the [[Manhattan Project]] on the grounds of conscience. His work on [[nuclear fallout]] was a major contribution toward the ratification of the 1963 [[Partial Nuclear Test Ban Treaty]].  A signatory of the 1955 [[Russell–Einstein Manifesto]], he was secretary-general of the [[Pugwash Conferences on Science and World Affairs]] from their founding until 1973, and shared, with the Pugwash Conferences, the 1995 [[Nobel Peace Prize]] &quot;for efforts to diminish the part played by nuclear arms in international affairs and, in the longer run, to eliminate such arms.&quot;&lt;ref name=&quot;Nobel Prize&quot; /&gt;
+
+== Early life and education ==
+Józef Rotblat was born on November 4, 1908, to a [[Polish-Jewish]] family in [[Warsaw]],&lt;ref name=&quot;obit&quot; /&gt;  in what was then [[Russian Poland]].{{sfn|Brown|2012|pp=1–5}} He was one of seven children, two of whom died in infancy.&lt;ref name=&quot;odnb&quot;&gt;{{Cite journal| title = Rotblat, Sir Joseph (1908–2005)| journal = The Oxford Dictionary of National Biography |first=Brian |last=Cathcart |author-link=Brian Cathcart  | doi = 10.1093/ref:odnb/96004 | year = 2004 | pmid =  | pmc = }}&lt;/ref&gt; His father, Zygmunt Rotblat, built up and ran a nationwide [[Carriage|horse-drawn carriage]] business, owned land and bred horses. Józef's early years were spent in what was a prosperous household but circumstances changed at the outbreak of [[World War I]]. Borders were closed and horses requisitioned, leading to the failure of the business and poverty for their family.{{sfn|Brown|2012|pp=1–5}} Despite having a religious background, by the age of ten he doubted the existence of God,{{sfn|Brown|2012|pp=5–6}} and later became an agnostic.{{sfn|Brown|2012|p=151}}&lt;ref&gt;{{harvnb|Rotblat|Ikeda|2007|p=94}}. &quot;I have to admit, however, that there are really many things that I do not know. I am not a particularly religious person, and this is the reason for my agnosticism. To be an agnostic simply means that I do not know and will keep seeking the answer for eternity. This is my response to questions about religion.&quot;&lt;/ref&gt;
+
+After the end of World War I, he worked as a domestic [[electrician]] in Warsaw and had a growing ambition to become a physicist.&lt;ref name=&quot;odnb&quot;/&gt; His talent was recognized by {{illm|Ludwik Wertenstein|Pl}}, the head of the Radiological Laboratory in the physics department of the [[Free Polish University|Free University of Poland]], who had studied in Paris under [[Marie Curie]] and at the [[Cavendish Laboratory]] at the [[University of Cambridge]][ under [[Ernest Rutherford]]. Despite Rotblat having no formal education, Wertenstein awarded him a place,{{sfn|Brown|2012|pp=7–9}} earning a [[Master of Arts]] there in 1932. He then became a Doctor of Physics in 1938 from [[University of Warsaw]]. He held the position of Research Fellow in the Radiation Laboratory of the Scientific Society of Warsaw and became assistant Director of the Atomic Physics Institute of the Free University of Poland in 1938.&lt;ref name=&quot;Curriculum Vitae&quot;/&gt; During this period, he married a literature student, Tola Gryn, whom he had met in 1930.&lt;ref name=&quot;obit&quot;&gt;{{cite journal |last=Noble |first=Holcomb B.|title=Joseph Rotblat, 96, Dies; Resisted Nuclear Weapons |journal= The New York Times |url=http://www.nytimes.com/2005/09/02/obituaries/joseph-rotblat-96-dies-resisted-nuclear-weapons.html |date= September 2, 2005|=|accessdate= June 3, 2016}}&lt;/ref&gt;
+
+Before the outbreak of [[World War II]], he had conducted experiments which showed that in the [[Nuclear fission|fission process]], [[neutron]]s were emitted.&lt;ref&gt;{{cite journal |journal=[[Nature (journal)|Nature]] |date=May 20, 1939 |title=Emission of Neutrons accompanying the Fission of Uranium Nuclei |first=J. |last=Rotblat |volume=143 |issue=470 |p=852 |doi=10.1038/143852a0 }}&lt;/ref&gt; In early 1939 he envisaged that a large number of fissions could occur and if this happened within a sufficiently short time, then considerable amounts of energy could be released. He went on to calculate that this process could occur in less than a [[microsecond]], and as a consequence would result in an explosion.&lt;ref name=&quot;retro&quot;&gt;{{Cite journal
+ | last1 = Holdren | first1 = J. P.
+ | doi = 10.1126/science.1121081
+ | title = Retrospective: Joseph Rotblat (1908–2005)
+ | journal = Science
+ | volume = 310
+ | issue = 5748
+ | pages = 633
+ | year = 2005
+ | pmid = 16254178
+}}&lt;/ref&gt;&lt;ref name=&quot;dida&quot;&gt;{{cite web |url=http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/04f8ac96 |title= Joseph Rotblat BBC Radio 4 Desert Island Discs Castaway 1998-11-08|publisher=BBC |archivedate=2013-12-17|archiveurl=http://www.webcitation.org/6Lw9gUBAh}}&lt;/ref&gt;
+
+In 1939, through Wertenstein's connections, Rotblat was invited to study in Paris and at the [[University of Liverpool]] under [[James Chadwick]], winner of the 1932 [[Nobel Prize]] for  discovering the neutron. Chadwick was building a particle accelerator called a &quot;[[cyclotron]]&quot; to study fundamental nuclear reactions, and Rotblat wanted to build a similar machine in Warsaw, so he decided to join Chadwick in Liverpool. He traveled to England alone because he could not afford to support his wife there.{{sfn|Brown|2012|pp=12–14}}
+
+Before long, Chadwick gave Rotblat a [[Research fellow#United Kingdom|fellowship]] (the [[Oliver Lodge]] Fellowship), doubling his income, and in that summer of 1939 the young Pole returned home, intending to bring Tola back with him.{{sfn|Brown|2012|pp=23–24}} When the time came to leave Warsaw in late August, however, she was ill following an operation for appendicitis, and remained behind, expecting to follow within days; but the outbreak of war brought calamity.{{sfn|Brown|2012|pp=25–27}} Tola was trapped, and all of Joseph's desperate efforts in the ensuing months to bring her out through Belgium, Denmark (with the help of [[Niels Bohr]]) and finally Italy came to nothing, as each country in turn was closed off by the war.{{sfn|Brown|2012|pp=32–33}} She later perished in [[the Holocaust]] at [[Belzec concentration camp]],{{sfn|Brown|2012|p=65}} and Rotblat never saw her again. This affected him deeply for the rest of his life, and he never remarried.&lt;ref&gt;{{cite web|last1=Underwood|first1=Martin|title=Liverpool University (1939–43)|year=2011|url=http://www.josephrotblat.com/nuclear-physics.html|publisher=Joseph Rotblat: The bomb, peace, and his archive|accessdate=October 13, 2015|archiveurl=https://web.archive.org/web/20110713121201/http://www.josephrotblat.com/nuclear-physics.html|archivedate=July 13, 2011}}&lt;/ref&gt;
+
+== Manhattan Project ==
+While still in Poland, Rotblat had realised that [[nuclear fission]] might possibly be used to produce an [[atomic bomb]]. He first thought that he should &quot;put the whole thing out of my mind&quot;,&lt;ref name=Abe&gt;{{cite web|url=http://www.irwinabrams.com/books/excerpts/annual95.html|first=Irwin |last=Abrams|publisher=|title=The 1995 Nobel Peace Prize For Joseph Rotblat And The Pugwash Conference On Science And World Affairs}}&lt;/ref&gt; but he continued because he thought the only way to prevent Nazi Germany from using a nuclear bomb was if Britain had one to act as a deterrent. He worked with Chadwick on [[Tube Alloys]], the British atomic bomb project.&lt;ref name=Abe /&gt;
+
+Early in 1944, Rotblat joined Chadwick's [[British contribution to the Manhattan Project|British Mission]] to the [[Manhattan Project]] to build the first atomic bombs. The usual condition for people to work on the Manhattan Project was that they had to become [[U.S. citizen]]s or [[British subject]]s. Rotblat declined and the condition was waived.&lt;ref name=telegraph&gt;{{cite news|url=http://www.telegraph.co.uk/news/obituaries/1497409/Professor-Sir-Joseph-Rotblat.html|newspaper=[[The Daily Telegraph]]|title=Professor Sir Joseph Rotblat |date= September 2, 2005}}&lt;/ref&gt; At the secret [[Los Alamos Laboratory]], he was befriended by [[Stan Ulam]], a fellow Polish-Jewish scientist. Rotblat worked in [[Egon Bretscher]]'s group, investigating whether high-energy [[gamma rays]] produced by nuclear fission would interfere with the [[nuclear chain reaction]] process, and then with [[Robert R. Wilson]]'s cyclotron group.{{sfn|Brown|2012|pp=47–49}}
+
+Rotblat continued to have strong reservations about the use of science to develop such a devastating weapon and was shocked in March 1944, at a private dinner at the Chadwicks' at Los Alamos, to hear the director of the Manhattan Project, [[Major General (United States)|Major General]] [[Leslie R. Groves, Jr.]], say words to the effect that the real purpose in making the bomb was to subdue the Soviets.&lt;ref name=&quot;Leaving the Bomb Project&quot; /&gt; However, historians, notably [[Barton Bernstein]], have cast doubt on this story.{{sfn|Brown|2012|p=295}}
+
+By the end of 1944 it was also apparent that Germany had abandoned the development of its own bomb and Rotblat asked to leave the project. Chadwick was then shown a security dossier in which Rotblat was accused of being a [[Soviet Union|Soviet]] spy and that, having learnt to fly at Los Alamos, he was suspected of wanting to join the [[Royal Air Force]] so that he could fly to Poland and defect to the Soviet Union.&lt;ref name=&quot;natureobit&quot;&gt;{{Cite journal 
+| last1 = Milne | first1 = S.
+| last2 = Hinde | first2 = R. 
+| doi = 10.1038/437634a 
+| title = Obituary: Joseph Rotblat (1908–2005) Physicist who committed his life to the cause of nuclear disarmament
+| journal = Nature 
+| volume = 437 
+| issue = 7059 
+| pages = 634–634 
+| year = 2005 
+| pmid = 16193034 
+| pmc = 
+}}&lt;/ref&gt; In addition, he was accused of visiting someone in [[Santa Fe, New Mexico|Santa Fe]] and leaving them a blank cheque to finance the formation of a communist cell.&lt;ref name=Abe /&gt;
+
+Rotblat was able to show that much of the information within the dossier had been fabricated.&lt;ref name=Abe /&gt; In addition, FBI records show that in 1950, Rotblat's friend in Santa Fe was tracked down in California, and she flatly denied the story; the cheque had never been cashed and had been left to pay for items not available in the U.K. during the war. In his 1985, Rotblat told how a box containing &quot;all my documents&quot; went missing on a train ride from Washington D.C. to New York as he was leaving the country,&lt;ref name=&quot;Leaving the Bomb Project&quot;&gt;{{cite journal |last=Rotblat |first=Joseph |title=Leaving the Bomb Project |journal=Bulletin of the Atomic Scientists |date=August 1985 |url=https://books.google.com/?id=uwYAAAAAMBAJ&amp;pg=PA16#v=onepage&amp;q&amp;f=false |volume=41 |pages=16–19}}&lt;/ref&gt; but the presence of large numbers of Rotblat's personal papers from Los Alamos now archived at the [[Churchill Archives Centre]] &quot;is totally at odds with Rotblat's account of events&quot;.&lt;ref name&gt;{{cite journal |last=Underwood |first=Martin |title=Joseph Rotblat's Archive: Some Anomalies and Difficulties |journal=AIP History Newsletter |year=2011 |volume=43 |pages=5–7}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal 
+| last1 = Underwood | first1 = M. C. 
+| title = Joseph Rotblat, the Bomb and Anomalies from His Archive 
+| doi = 10.1007/s11948-011-9345-4 
+| journal = Science and Engineering Ethics 
+| volume = 19 
+| issue = 2 
+| pp = 487–490 
+| year = 2011 
+| pmid = 22190230 
+| pmc = 
+}}&lt;/ref&gt; Rotblat was not permitted to re-enter the United States until 1964.&lt;ref name=Abe /&gt; He was the only physicist to leave the Manhattan Project on the grounds of conscience during the war.&lt;ref name=&quot;The Guardian&quot;&gt;{{cite news |url=http://www.guardian.co.uk/science/2005/sep/02/obituaries.obituaries |title=Obituary - Sir Joseph Rotblat |newspaper=[[The Guardian]] |date=September 2, 2005 |access-date=November 24, 2016}}&lt;/ref&gt;
+
+== Nuclear fallout ==
+Rotblat returned to Britain to become senior lecturer and acting director of research in nuclear physics at the [[University of Liverpool]].&lt;ref name=&quot;Curriculum Vitae&quot;&gt;{{cite web |url=http://www.nobelprize.org/nobel_prizes/peace/laureates/1995/rotblat-bio.html |publisher=Nobel Media |title=Joseph Rotblat - Biographical - Curriculum Vitae |access-date=November 24, 2016}}&lt;/ref&gt;&lt;ref&gt;{{London Gazette|issue=37461|date=8 February 1946 |startpage=865}}&lt;/ref&gt; Most of his family had miraculously survived the war. With the help of a Polish man, his brother-in-law Mieczslaw (Mietek) Pokorny had created false Polish catholic identities for Rotblat's sister Ewa and niece Halina. Ewa, taking advantage of the fact that she was an ash blonde who, like Rotblat, spoke fluent Polish as well as [[Yiddish]], smuggled the rest of the family out of the [[Warsaw Ghetto]]. Mietek, Rotblat's brother Mordecai (Michael) and Michael's wife Manya, Rotblat's mother Scheindel, and two Russian soldiers lived in a concealed bunker underneath a house near [[Otwock]], in which Ewa and Halina lived with a Polish family. Displays of Polish anti-semitism that she witness during the [[Warsaw Ghetto Uprising]] embittered Ewa towards Poland, and she petitioned Rotblat to help the family emigrate to England. He therefore now accepted Chadwick's offer of British citizenship so he could help them escape from Poland.{{sfn|Brown|2012|pp=65–69}} They lived with him in London for some time before becoming established.{{sfn|Brown|2012|p=97}} Halina would go on to graduate from [[Somerville College, Oxford]] and [[University College London]], and become an editor of the ''[[Dictionary of National Biography]]''.&lt;ref&gt;{{cite news |url=https://www.theguardian.com/theguardian/2009/aug/12/obituary-halina-sand |title=Obituary - Halina Sand |newspaper=[[The Guardian]] |last=Sand |first=Katherine  |date=August 13, 2009 |access-date=November 24, 2016 }}&lt;/ref&gt;
+
+Rotblat felt betrayed by the use of atomic weapons against Japan, and campaigned for a three-year moratorium on all atomic research.&lt;ref name=Abe /&gt; Rotblat was determined that his research should have only peaceful ends, and so became interested in the medical and biological uses of radiation. In 1949, he became Professor of Physics at [[St Bartholomew's Hospital]] (&quot;Barts&quot;), London,&lt;ref&gt;{{Cite journal | last1 = Burrows | first1 = H. | last2 = Gibson | first2 = W. | last3 = Rotblat | first3 = J. | doi = 10.1103/PhysRev.80.1095 | title = Angular Distributions of Protons from the Reaction O16(d,p)O17 | journal = Physical Review | volume = 80 | issue = 6 | pages = 1095 | year = 1950 | pmid =  | pmc = }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.qmul.ac.uk/alumni/alumninetwork/notablealumni/index.html |archiveurl=https://web.archive.org/web/20081222045836/http://www.qmul.ac.uk/alumni/alumninetwork/notablealumni/index.html |archivedate=December 22, 2008 |title=Queen Mary, University of London Notable Alumni and Staff |accessdate=September 23, 2007}}&lt;/ref&gt; shortly before receiving his [[PhD]] from Liverpool in 1950, having written his thesis on the &quot;Determination of a number of neutrons emitted from a source&quot;.&lt;ref name=&quot;rotblatphd&quot;&gt;{{cite thesis |degree=PhD |first=Joseph|last=Rotblat |title=Determination of a number of neutrons emitted from a source |publisher=University of Liverpool |date=1950 |url=http://search.proquest.com/docview/301122892 |access-date=November 24, 2016 }}&lt;/ref&gt; He also worked on several official bodies connected with nuclear physics, and arranged the ''Atom Train'', a major travelling exhibition for schools on civil nuclear energy.&lt;ref name=&quot;Leaving the Bomb Project&quot; /&gt;
+
+At St Bartholomew's, Rotblat worked on the effects of radiation on living organisms, especially on aging and fertility. This led him to an interest in [[nuclear fallout]], especially [[strontium]]-90 and the safe limits of ionising radiation. In 1955, he demonstrated that the contamination caused by the [[Nuclear fallout|fallout]] after the [[Castle Bravo]] test at [[Bikini Atoll]] [[Nuclear testing|nuclear test]] by the United States would have been far greater than that stated officially.  Until then the official line had been that the growth in the strength of atomic bombs was not accompanied by an equivalent growth in radioactivity released.  Japanese scientists who had collected data from a fishing vessel, the ''[[Daigo Fukuryū Maru|Lucky Dragon]]'', which had inadvertently been exposed to fallout, disagreed with this. Rotblat was able to deduce that the bomb had three stages and showed that the fission phase at the end of the explosion increased the amount of radioactivity a thousandfold. Rotblat's paper was taken up by the media and contributed to the public debate that resulted in the ending of atmospheric tests by the [[Partial Nuclear Test Ban Treaty]].{{sfn|Brown|2012|pp=107–118}}
+
+== Peace work ==
+Rotblat believed that scientists should always be concerned with the ethical consequences of their work.&lt;ref&gt;{{Cite journal 
+| doi = 10.1126/science.286.5444.1475 
+| last1 = Rotblat | first1 = J.
+| authorlink = Joseph Rotblat
+| title = A Hippocratic Oath for scientists 
+| journal = Science 
+| volume = 286 
+| issue = 5444 
+| pages = 1475–1475 
+| year = 1999 
+| pmid = 10610545
+}}&lt;/ref&gt;  He became one of the most prominent critics of the [[nuclear arms race]], was the youngest signatory of the [[Russell-Einstein Manifesto]] in 1955, and chaired the press conference that launched it.  After the positive coverage of the manifesto, [[Cyrus S. Eaton|Cyrus Eaton]] offered to fund the influential [[Pugwash Conferences on Science and World Affairs]]. With [[Bertrand Russell]] and others, Rotblat organised the first of these in 1957 and continued to work within their framework until his death. Despite the [[Iron Curtain]] and the [[Cold War]], he advocated establishing links between scientists from the West and East. For this reason, the Pugwash conferences were viewed with suspicion. Initially the British government thought them little more than &quot;Communist front gatherings&quot;.&lt;ref name=witt&gt;{{cite web |url=http://hnn.us/articles/14428.html |title=The Political Rehabilitation of Józef Rotblat |first=Lawrence S. |last=Wittner |year=2005 |access-date=November 24, 2016}}&lt;/ref&gt;
+
+However, he persuaded  [[John Cockcroft]], a member of the [[United Kingdom Atomic Energy Authority]], to suggest who might be invited to the 1958 conference.  He successfully resisted a subsequent attempt to take over the conferences,&lt;ref name=witt /&gt; causing a [[Foreign and Commonwealth Office|Foreign Office]] official to write that &quot;the difficulty is to get Prof. Rotblat to pay any attention to what we think&amp;nbsp;... He is no doubt jealous of his independence and scientific integrity&quot;, and that securing &quot;a new organizer for the British delegation seems to be the first need, but I do not know if there is any hope of this.&quot;&lt;ref name=witt /&gt;  By the early 1960s the [[Ministry of Defence (United Kingdom)|Ministry of Defence]] thought that the Pugwash Conferences were &quot;now a very respectable organization&quot;, and the [[Foreign and Commonwealth Office|Foreign Office]] stated that it had &quot;official blessing&quot; and that any breakthrough may well originate at such gatherings.&lt;ref name=witt /&gt; The Pugwash Conferences are credited with laying the ground work for the [[Partial Test Ban Treaty]] of 1963, the [[Nonproliferation Treaty]] of 1968, the [[Anti-Ballistic Missile Treaty]] of 1972, the [[Biological Weapons Convention]] of 1972 and the [[Chemical Weapons Convention]] of 1993.&lt;ref name=&quot;obit&quot; /&gt; In parallel with the Pugwash Conferences, he  joined with [[Albert Einstein]], [[Robert Oppenheimer]], [[Bertrand Russell]] and other concerned scientists to found the [[World Academy of Art and Science]], which was proposed by them in the mid-1950s and formally constituted in 1960.&lt;ref&gt;{{cite web |url=http://www.worldacademy.org/content/history |title=History |publisher= World Academy of Art and Science |access-date=November 24, 2016 }}&lt;/ref&gt;
+
+== Later life ==
+Rotblat retired from St Bartholomew's in 1976. In 1975–1976, he was Montague Visiting Professor of International Relations at the [[University of Edinburgh]].&lt;ref&gt;{{cite web|title=Joseph Rotblat – Biographical|url=http://www.nobelprize.org/nobel_prizes/peace/laureates/1995/rotblat-bio.html|publisher=Nobelprize.org|accessdate=8 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Sir Joseph Rotblat|url=http://www.scotsman.com/news/obituaries/sir-joseph-rotblat-1-1093890|publisher=The Scotsman|date= 5 September 2005 |accessdate=8 October 2013}}&lt;/ref&gt; He believed that scientists have an individual [[moral responsibility]] and, just as the [[Hippocratic Oath]] provides a [[code of conduct]] for physicians, he thought that scientists should have their own [[Moral core|code of moral conduct]], a [[Hippocratic Oath for scientists]].&lt;ref name=&quot;oath&quot; /&gt; During his tenure as president of the Pugwash conferences, Rotblat nominated Israeli nuclear technician [[Mordechai Vanunu]] for the [[Nobel Peace Prize]] every year from 1988 to 2004. Vanunu had disclosed the extent of [[Nuclear weapons and Israel|Israel's nuclear weapons programme]] and consequently spent 18 years in prison, including more than 11 years in [[solitary confinement]].{{sfn|Brown|2012|pp=267–268}}
+
+Rotblat campaigned ceaselessly against nuclear weapons. In an interview shortly before the 2004 U.S. presidential election, he expressed his belief that the Russell-Einstein Manifesto still had &quot;great relevance today, after 50 years, particularly in connection with the election of a president in the United States&quot;, and above all, with respect to the potential pre-emptive use of nuclear weapons.&lt;ref&gt;[http://wayback.archive.org/web/20110716225715/http://www.thecommunity.com/rotblat_full.html Interview] with TheCommunity.com (2004)&lt;/ref&gt;&lt;ref&gt;[http://wayback.archive.org/web/20051103050902/http://www.medact.org/article_wmd.php?articleID=324] New Year message 2005&lt;/ref&gt;  Central to his view of the world were the words of the Russell-Einstein Manifesto with which he concluded his acceptance lecture for the [[Nobel Prize]] in 1995:&lt;ref&gt;{{cite web|url=http://nobelprize.org/peace/laureates/1995/rotblat-lecture.html|title=Nobel Prize lecture|publisher=}}&lt;/ref&gt;  [[Russell-Einstein Manifesto#Synopsis|''&quot;Above all, remember your humanity&quot;'']].&lt;ref name=&quot;humanity&quot;&gt;{{Cite journal | last1 = Rotblat | first1 = J.| authorlink1 = Joseph Rotblat| title = Remember your humanity* | doi = 10.1080/13623699608409284 | journal = Medicine and War | volume = 12 | issue = 3 | pages = 195–201 | year = 1996 | pmid =  | pmc = }}&lt;/ref&gt; He also served as editor-in-chief of the journal ''[[Physics in Medicine and Biology]]'' from 1960 to 1972.&lt;ref name=&quot;Curriculum Vitae&quot;/&gt; He was the president of several institutions and professional associations and also a co-founder and member of the governing board of the [[Stockholm International Peace Research Institute]],  as well as a member of the Advisory Committee on Medical Research of the [[World Health Organization]].&lt;ref name=&quot;Curriculum Vitae&quot;/&gt;
+
+Rotblat suffered a stroke in 2004, and his health declined. He died of septicaemia at the [[Royal Free Hospital]] in [[London Borough of Camden|Camden]], London on August 31, 2005.&lt;ref name=&quot;odnb&quot; /&gt;
+
+== Awards and honours ==
+Rotblat was made a [[Commander of the Order of the British Empire]] in 1965.&lt;ref&gt;{{London Gazette|issue=43529|date=1 January 1965 |startpage=11|supp=yes}}&lt;/ref&gt; He won the [[Albert Einstein Peace Prize]] in 1992, and was elected a [[List of Fellows of the Royal Society elected in 1995|Fellow of the Royal Society]] (FRS) in 1995.&lt;ref name=&quot;frs&quot;&gt;{{Cite journal | last1 = Hinde | first1 = R. A. | authorlink1 = Robert Hinde| last2 = Finney | first2 = J. L. | doi = 10.1098/rsbm.2007.0023 | title = Joseph (Józef) Rotblat 4 November 1908&amp;nbsp;– 31 August 2005: Elected FRS 1995 | journal = [[Biographical Memoirs of Fellows of the Royal Society]] | volume = 53 | pages = 309 | year = 2007 | pmid =  | pmc = }}&lt;/ref&gt; He was created a [[Knight Commander of the Order of St Michael and St George]] in 1998.&lt;ref&gt;{{London Gazette|issue=55155|date=15 June 1998 |startpage=3|supp=yes}}&lt;/ref&gt; His certificate of election to the [[Royal Society]] read: {{quote|He made important contributions to nuclear physics, both before and after working during the war on atomic energy problems at Liverpool and at Los Alamos. This included observations on the angular distribution of protons from the (d,p) reaction, which led to an important tool for determining the spin and parity of nuclear levels. He worked on the medical applications of nuclear physics, and later on the biological effects of radiation. His outstanding distinction is in his work for the Pugwash Conference on Science and World Affairs. He was one of the founders of these conferences, and for the past 37 years has been untiring in his support and enthusiasms [sic] for the conferences, which have enabled scientists from all over the world and with opposing ideologies to talk objectively about the issues dividing them. His untiring devotion to this cause and his inspiration have been vital for the development and continuing existence of the conferences.&lt;ref name=&quot;royal&quot;&gt;{{cite web|url=http://royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&amp;dsqApp=Archive&amp;dsqDb=Catalog&amp;dsqCmd=show.tcl&amp;dsqSearch=(RefNo==%27EC%2F1995%2F28%27)|title = Library and Archive Catalogue Rotblat|publisher=The Royal Society|archivedate=December 17, 2013 |archiveurl=http://www.webcitation.org/6Lw9FoGJW|location=London}}&lt;/ref&gt;}}
+Rotblat shared, with the Pugwash Conferences, the 1995 [[Nobel Peace Prize]] for efforts toward nuclear disarmament, with a citation that read:
+&quot;for efforts to diminish the part played by nuclear arms in international affairs and, in the longer run,to eliminate such arms.&quot;&lt;ref name=&quot;Nobel Prize&quot;&gt;{{cite web |url=https://www.nobelprize.org/nobel_prizes/peace/laureates/1995/ |title=The Nobel Peace Prize 1995 |publisher=Nobel Media |access-date=November 24, 2016}}&lt;/ref&gt; Towards the end of his life, he was also elected honorary member of the [[International Association of Physics Students]],&lt;ref&gt;{{cite web |url=http://www.iaps.info/members/list-of-iaps-members |title= List of IAPS Members |publisher= International Association of Physics Students |accessdate=November 30, 2014}}&lt;/ref&gt; and the [[Jamnalal Bajaj]] Foundation of India awarded him the [[Jamnalal Bajaj Award]] in 1999.&lt;ref&gt;{{cite web |url=http://www.jamnalalbajajfoundation.org/awards/archives/1999/international/sir-joseph-rotblat |title=Prof. Sir Joseph Rotblat - 1999 - Jamnalal Bajaj Award for Promoting Gandhian Values Outside India |publisher=Jamnalal Bajaj Foundation |access-date=November 24, 2016}}&lt;/ref&gt;
+
+== Notes ==
+{{reflist|30em}}
+
+== References ==
+* {{cite book |last=Brown |first=Andrew |year=2012 |title=Keeper of the Nuclear Conscience: The Life and Works of Joseph Rotblat |publisher=
+Oxford University Press |location=Oxford |isbn=978-0-19-958658-5 |oclc=963830214 |ref=harv }}
+* {{cite book |last=Rotblat |first=Joseph  |first2=Daisaku |last2=Ikeda |title=A Quest for Global Peace: Rotblat and Ikeda on War, Ethics and the Nuclear Threat |year=2007 |location= London |publisher=I.B.Tauris |isbn=978-1-84511-278-3 |oclc= 123195789 |ref = harv }}
+
+== External links ==
+{{Wikinews|Józef Rotblat, 1995 Nobel Peace Prize winner, dies}}
+*[http://manhattanprojectvoices.org/oral-histories/joseph-rotblats-interview 1989 Audio Interview with Joseph Rotblat by Martin Sherwin] Voices of the Manhattan Project.
+*[http://alsos.wlu.edu/qsearch.aspx?browse=people/Rotblat,+Józef Annotated Bibliography for Józef Rotblat] from the [[Alsos Digital Library for Nuclear Issues]].
+*[http://wayback.archive.org/web/20130307204929/http://www.nfb.ca/film/strangest_dream ''The Strangest Dream''], a [[National Film Board of Canada]] film that tells Rotblat's life story.
+*[http://openvault.wgbh.org/wapina/barcode9411rotblat_4/index.html/ Interview about the Manhattan Project] for the [[WGBH-TV]] series [http://openvault.wgbh.org/series/War+and+Peace+in+the+Nuclear+Age/ ''War and Peace in the Nuclear Age''].
+*[http://www.vega.org.uk/video/programmeset/2 Series 1 video interviews (recorded in 2002) with Sir Józef Rotblat] by the [[Vega Science Trust]].
+*[http://vega.org.uk/video/programme/153 Series 2 video interview (recorded in 2005) with Sir Józef Rotblat] by the Vega Science Trust.
+* [http://www.nobel.se/peace/laureates/1995/ Nobel Committee information on Józef Rotblat]
+* [http://www.nytimes.com/2005/05/17/opinion/17Rotblat.html?ex=1270785600&amp;en=37bef79604f97228&amp;ei=5090&amp;partner=rssuserland Op-Ed: The 50-Year Shadow] by Józef Rotblat, ''[[The New York Times]]'', May 17, 2005.
+*[http://nobelprize.org/nobel_prizes/peace/laureates/1995/rotblat-lecture.html Józef Rotblat – Nobel Lecture]
+*[http://wayback.archive.org/web/20110805081548/http://www.commondreams.org/headlines05/0902-03.htm Man of Peace Dies: Scientist Who Turned Back on A-bomb Project] ''[[The Guardian]]'' September 2, 2005.
+* The Papers of Professor Sir Joseph Rotblat (292 boxes) are held by the [[Churchill Archives Centre]] [http://janus.lib.cam.ac.uk/db/node.xsp?id=EAD%2FGBR%2F0014%2FRTBT].  As of 2009 [http://wayback.archive.org/web/20130901131815/http://www.chu.cam.ac.uk/archives/about/Annual_report_09_highlights.pdf] some has been catalogued by National Cataloguing Unit for Archives of Contemporary Scientists (NCUACS, Bath, England).
+*[http://vega.org.uk/video/programme/153 Interview with Józef Rotblat] recorded in 2005 a few months before he died.
+*[http://www.josephrotblat.com/ Józef Rotblat: A site dedicated to his life, work, and archive], assembled by Dr Martin Underwood.
+*[http://sounds.bl.uk/View.aspx?item=021M-C0464X0017XX-0100V0.xml Listen to a life story oral history interview with Sir Joseph Rotblat], recorded for [http://www.bl.uk/nls National Life Stories] at the [[British Library]].
+*{{C-SPAN|Joseph Rotblat}}
+
+{{Nobel Peace Prize laureates}}
+{{1995 Nobel Prize winners}}
+{{Anti-nuclear movement}}
+{{Jamnalal Bajaj Award winners}}
+{{portal bar|History of science|International relations|Medicine|Nuclear technology|Physics|Poland|World War II}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rotblat, Joseph}}
+[[Category:1908 births]]
+[[Category:2005 deaths]]
+[[Category:Academics of the Medical College of St Bartholomew's Hospital]]
+[[Category:British agnostics]]
+[[Category:British humanists]]
+[[Category:British Jews]]
+[[Category:British people of Polish-Jewish descent]]
+[[Category:British physicists]]
+[[Category:British Nobel laureates]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Jewish agnostics]]
+[[Category:Jewish physicists]]
+[[Category:Knights Commander of the Order of St Michael and St George]]
+[[Category:Manhattan Project people]]
+[[Category:Nobel Peace Prize laureates]]
+[[Category:People associated with the University of Liverpool]]
+[[Category:Polish agnostics]]
+[[Category:Polish Jews]]
+[[Category:Polish Nobel laureates]]
+[[Category:Polish physicists]]
+[[Category:Radiation health effects researchers]]
+[[Category:University of Warsaw alumni]]
+[[Category:Polish refugees]]
+[[Category:Jewish refugees]]
+[[Category:Jews who immigrated to the United Kingdom to escape Nazism]]
+[[Category:British anti–nuclear weapons activists]]
+[[Category:Polish emigrants to the United Kingdom]]
+[[Category:Naturalised citizens of the United Kingdom]]
+[[Category:Pugwash Conferences on Science and World Affairs]]
+[[Category:People from Liverpool]]</text>
+      <sha1>6op4rqws7v19qiv5yo92enux7x7iws6</sha1>
+    </revision>
+  </page>
+</mediawiki>

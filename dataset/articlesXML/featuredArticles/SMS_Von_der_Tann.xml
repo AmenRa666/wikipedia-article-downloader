@@ -1,0 +1,553 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Von der Tann</title>
+    <ns>0</ns>
+    <id>1628688</id>
+    <revision>
+      <id>750616906</id>
+      <parentid>736889660</parentid>
+      <timestamp>2016-11-20T21:28:32Z</timestamp>
+      <contributor>
+        <ip>207.98.198.84</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="55742">{|{{Infobox ship begin}}
+|+ SMS ''Von der Tann''
+{{Infobox ship image
+| Ship image   = [[File:SMS von der Tann LOC 16927u.jpg|300px|SMS ''Von der Tann'']]
+| Ship caption = 
+}}
+{{Infobox ship class overview
+| Operators = {{Navy|German Empire}}
+| Class before = None
+| Class after = {{sclass-|Moltke|battlecruiser|4}}
+|Built range=1907–10
+|In commission range=1910–19
+|Total ships completed=1
+|Total ships lost=1
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name = SMS ''Von der Tann''
+| Ship namesake = [[Ludwig Freiherr von und zu der Tann-Rathsamhausen|Ludwig von der Tann]]
+| Ship ordered = 26 September 1907
+| Ship builder = [[Blohm &amp; Voss]], [[Hamburg]]
+| Ship laid down = 21 March 1908
+| Ship launched = 20 March 1909
+| Ship commissioned = 1 September 1910
+| Ship fate = Scuttled at [[Scapa Flow]] on 21&amp;nbsp;June 1919, wreck raised 1930s and scrapped at Rosyth.
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = Unique [[battlecruiser]]
+| Ship displacement =* Design: {{convert|19,370|t|LT|abbr=on}}
+* Full load: {{convert|21,300|t|LT|abbr=on}}
+  
+| Ship length = {{convert|171.7|m|ftin|abbr=on}}
+| Ship beam = {{convert|26.6|m|ftin|abbr=on}}
+| Ship draft =* Designed: {{convert|8.91|m|ftin|abbr=on}}
+* Full load: {{convert|9.17|m|ftin|abbr=on}}
+  
+| Ship propulsion =*18 [[Three-drum boiler#Thornycroft-Schulz boiler|Schulz-Thornycroft boilers]],
+*4 Parsons [[steam turbine]]s,4 [[screw propeller|screws]]
+*{{convert|30,891|kW|shp|lk=in|abbr=on|order=flip}}
+| Ship speed =* Design: {{convert|24.8|kn|lk=in}}
+* Maximum: {{convert|27.75|kn}}
+  
+| Ship range = {{convert|4,400|nmi|abbr=on|lk=in}} at {{convert|14|kn}}
+| Ship complement =* 41 officers
+* 882 men
+  
+| Ship armament =* 8 × [[28 cm SK L/45 gun|{{convert|28|cm|in|2|abbr=on}} SK L/45]] guns
+* 10 × [[15 cm SK L/45|{{convert|15|cm|in|2|abbr=on}} SK L/45 guns]]
+* 16 × [[8.8 cm SK L/45 naval gun|{{convert|8.8|cm|in|2|abbr=on}} SK L/45 guns]]
+* 4 × {{convert|45|cm|in|abbr=on}} [[torpedo tube]]s
+  
+| Ship armor =* [[belt armor|Belt]]: 
+*{{convert|80|to|250|mm|abbr=on}}
+* [[Gun turret|Turret]] faces: 
+*{{convert|230|mm|abbr=on}}
+* [[Conning tower]]: 
+*{{convert|250|mm|in|abbr=on}}
+* [[Torpedo bulkhead]]: 
+*{{convert|25|mm|in|abbr=on}}
+  
+}}
+|}
+
+'''SMS ''Von der Tann''''' {{efn|name=SMS}} was the first [[battlecruiser]] built for the German [[Kaiserliche Marine]], as well as Germany's first major [[Steam turbine|turbine]]-powered warship. At the time of her construction, ''Von der Tann'' was the fastest [[dreadnought]]-type warship afloat, capable of reaching speeds in excess of {{convert|27|kn|lk=in}}. She was designed in response to the British {{sclass-|Invincible|battlecruiser|4}}. While the German design had slightly lighter guns—28&amp;nbsp;cm&amp;nbsp;(11&amp;nbsp;in),{{efn|The measurements used here and elsewhere in the article refer to the diameter of the [[Caliber|bore]] of the gun.}} compared to the 30.5&amp;nbsp;cm&amp;nbsp;(12&amp;nbsp;in) [[BL 12 inch Mk X naval gun|Mark X]] mounted on the British ships—''Von der Tann'' was faster and significantly better-armored. She set the precedent of German battlecruisers carrying much heavier armor than their British equivalents, albeit at the cost of smaller guns.
+
+''Von der Tann'' participated in a number of fleet actions during the First World War, including several bombardments of the English coast. She was present at the [[Battle of Jutland]], where she destroyed the British battlecruiser {{HMS|Indefatigable|1909|6}} in the opening minutes of the engagement. ''Von der Tann'' was hit several times by large-caliber shells during the battle, and at one point in the engagement, the ship had all of her main battery guns out of action either due to damage or malfunction. Nevertheless, the damage was quickly repaired and the ship returned to the fleet in two months.
+
+Following the end of the war in November 1918, ''Von der Tann'', along with most of the High Seas Fleet, was interned at [[Scapa Flow]] pending a decision by the Allies as to the fate of the fleet. The ship met her end in 1919 when German caretaker crews [[Scuttling of the German fleet in Scapa Flow|scuttled their ships]] to prevent their division among Allied navies. The wreck was raised in 1930, and scrapped at [[Rosyth]] from 1931 to 1934.
+
+== Development ==
+The preceding German large cruiser design, {{SMS|Blücher||2}}, was an incremental increase over previous [[armored cruiser]]s. ''Blücher'' was armed with twelve 21&amp;nbsp;cm&amp;nbsp;(8.3&amp;nbsp;in) guns, and designed to counter what the Germans knew about the British {{sclass-|Invincible|battlecruiser|4}}, which were assumed to be larger iterations of the basic armored cruiser type.{{sfn|Staff|pp=3–4}} Once sufficient information about the new British cruisers became available, it was obvious that they were not simply an enlargement on previous designs but a whole new type of warship—the [[battlecruiser]]—to which ''Blücher'' was quite inferior. However, there were insufficient funds to alter ''Blücher''{{'}}s layout, so the cruiser assigned for 1907 would have to be an entirely new design.{{sfn|Staff|p=4}}
+
+Design of ''Von der Tann'' began in August 1906, under the name &quot;Cruiser ''F''&lt;span style=&quot;padding-left:0.2em;&quot;&gt;&quot;&lt;/span&gt;&lt;!-- avoid crashing of italics with double quote--&gt;, amid disagreements over the intended role of the new ship. [[Alfred von Tirpitz|Admiral Tirpitz]] advocated a ship similar to the new British battlecruisers of the ''Invincible'' class: heavier guns, lighter armor, and higher speed with the intention of using the ship as a fleet scout and to destroy the opposing fleet's cruisers. Tirpitz had no intention of using the ship in the main battle line.{{sfn|Staff|p=3}} [[Kaiser Wilhelm II]] however, along with most of the ''[[Reichsmarineamt]]'' (Imperial Navy Office), was in favor of incorporating the ship into the battle line after initial contact was made, which necessitated much heavier armor.{{sfn|Staff|p=5}} This insistence upon the capability to fight in the battle line was a result of the numerical inferiority of the German High Seas fleet compared to the British [[Royal Navy]].{{sfn|Staff|p=3}}
+
+Several design proposals were submitted, all calling for heavy main guns, between 30.5&amp;nbsp;cm&amp;nbsp;(12&amp;nbsp;in) and 34.3&amp;nbsp;cm&amp;nbsp;(13.5&amp;nbsp;in) calibers.{{sfn|Staff|p=4}} However, financial limitations dictated that smaller, less expensive weaponry would be used instead. The final design therefore used the same 28&amp;nbsp;cm&amp;nbsp;(11&amp;nbsp;in) double turret introduced for the last two {{sclass-|Nassau|battleship|2}}s{{sfn|Weir|p=82}}&amp;nbsp;— hydraulic elevated Drh LC/1907{{sfn|Staff|p=5}} instead of electrical elevated Drh LC/1906.{{sfn|Gardiner &amp; Gray|p=145}}{{efn|{{SMS|Rheinland||2}} and {{SMS|Posen||2}}, the last two ''Nassau''-class ships, used Drh LC/1907 mounts for their centerline turrets. See: {{harvnb|Gardiner &amp; Gray|p=145}}.}} In compensation, the design was given a relatively heavy secondary armament.{{sfn|Breyer|p=270}}
+
+At a conference in September 1906, many of the disagreements over the ship's design were resolved. The Naval Constructor, von Eickstedt, argued that since the explosive trials for the proposed protection systems for the new battlecruiser had not been completed, the construction should be postponed, to allow for any alterations to the design.{{sfn|Philbin|p=66}} He also argued that guns of 21&amp;nbsp;cm&amp;nbsp;(8.3&amp;nbsp;in) or 24&amp;nbsp;cm&amp;nbsp;(9.4&amp;nbsp;in) caliber would be sufficient to penetrate the armor of the new British battlecruisers. However, Admiral [[August von Heeringen]], of the General Navy Department, stated that for the ship to be able to engage battleships, the 28&amp;nbsp;cm&amp;nbsp;(11&amp;nbsp;in) caliber guns were necessary.{{sfn|Philbin|p=67}}
+
+Admiral Capelle, the deputy director of the ''Reichsmarineamt'', stated that by mid November 1906, the testing for the underwater protection designs would be complete. He suggested that if the torpedo bulkhead needed to be strengthened, the ship might be too heavy for the 28&amp;nbsp;cm&amp;nbsp;(11&amp;nbsp;in) guns, if the displacement of around 19,000&amp;nbsp;t&amp;nbsp;(21,000&amp;nbsp;short tons) was to be retained. Tirpitz refused to consider using smaller guns, even if it meant increasing the displacement of the ship. Von Eickstedt proposed employing a secondary battery of 17&amp;nbsp;cm&amp;nbsp;(6.7&amp;nbsp;in) guns instead of the 15&amp;nbsp;cm&amp;nbsp;(5.9&amp;nbsp;in) the design called for, but the increased weight would have made it impossible to mount eight main battery guns.{{sfn|Philbin|p=67}}
+
+On 22 June 1907, the Kaiser authorized construction of Cruiser ''F'', to be named ''Von der Tann'', after [[Ludwig Freiherr von und zu der Tann-Rathsamhausen]], a Bavarian general who fought in the [[Franco-Prussian War]] of 1870. The contract was awarded to the Blohm &amp; Voss shipyard in Hamburg, on 26 September 1907. The [[keel]] was laid on 21 March 1908, and the ship was launched nearly a year later, on 20 March 1909.{{sfn|Staff|p=5}} The source of the ship's name was the subject of much gratitude from the Bavarian aristocracy. Newspapers at the time reported that [[Luitpold, Prince Regent of Bavaria|Luitpold]], the prince regent and ''de facto'' ruler of Bavaria, telegraphed a message of thanks to the German emperor, and the launch ceremony was overseen by one of Von der Tann's descendants, also a general. He spoke to the assembled crowd, stating his hope that ''Von der Tann'' would, in his words, &quot;go out to protect Germany's might world-trade, or, at the command of his Majesty the Emperor, to ward off an enemy who attacked the vital interests or the honour of the Empire. Might the ship acquit herself upon the ocean as the General whose name she bore had acquitted himself upon the blood-drenched battlefield and bring her flag victorious out of the fight for the greatness and the honour of Germany.&quot;{{sfn|&quot;The First German Invincible&quot;|p=7b}} The ship cost 36.523&amp;nbsp;million [[German gold mark|Marks]].{{sfn|Staff|p=5}}
+
+== Design ==
+
+=== Armament ===
+[[File:SMS Von der Tann.png|thumb|CG-rendering of ''Von der Tann'']]
+
+''Von der Tann'' carried eight [[28 cm SK L/45 gun|{{convert|28|cm|in|2|abbr=on}} SK L/45]]{{efn|name=gun nomenclature}} guns, mounted in four twin [[Gun turret|turrets]]: one fore, one aft, and two staggered [[Gun turret#Wing turrets|wing turrets]]. The guns were emplaced in the Drh.L&amp;nbsp;C/1907 turntable mount, which was traversed electrically, while the guns themselves used hydraulics to change elevation.{{sfn|Staff|p=5}} The guns could be elevated up to 20&amp;nbsp;degrees, which enabled a maximum range of 18,900&amp;nbsp;m&amp;nbsp;(20,700&amp;nbsp;yd). A refit in 1915 increased this to 20,400&amp;nbsp;m&amp;nbsp;(22,300&amp;nbsp;yd). The main guns fired a 302&amp;nbsp;kg&amp;nbsp;(670&amp;nbsp;lb) armored-piercing shell that had a [[muzzle velocity]] of 875&amp;nbsp;m/s; the main [[propellant]] charges were encased in a brass [[Cartridge (firearms)|cartridge]]. A total of 660 projectiles were stored in four shell rooms, each containing 165 shells.{{sfn|Staff|p=5}} The wing turrets were staggered in such a way that all eight guns were able to fire on broadside on a very wide arc.{{sfn|Hough|p=87}}
+
+Unlike her British contemporaries, ''Von der Tann'' also carried a heavy secondary battery, consisting of ten [[15 cm SK L/45|{{convert|15|cm|in|2|abbr=on}} SK&amp;nbsp;L/45 guns]], [[casemate]]d in MPL&amp;nbsp;C/06 pivot mounts, each with 150 [[high explosive]] and [[Armour-piercing shot and shell|armor-piercing]] shells. At construction, these guns could fire their 45.3&amp;nbsp;kg&amp;nbsp;(100&amp;nbsp;lb) shells at targets up to 13,500&amp;nbsp;m&amp;nbsp;(14,800&amp;nbsp;yd) away; after the 1915 refit, their maximum range was extended to 16,800&amp;nbsp;m&amp;nbsp;(18,400&amp;nbsp;yd).{{sfn|Staff|p=6}} She was also armed with sixteen [[8.8 cm SK L/45 naval gun]] {{convert|8.8|cm|in|2|abbr=on}} SK&amp;nbsp;L/45 guns, to defend against [[torpedo boat]]s and [[destroyer]]s. These were also emplaced in pivot mounts, of the MPL&amp;nbsp;C/01-06 type, with a total of 3,200 shells for these guns. These guns fired a 9&amp;nbsp;kg&amp;nbsp;(20&amp;nbsp;lb) shell at the high rate of 15&amp;nbsp;rounds per minute, up to a range of 10,694&amp;nbsp;m&amp;nbsp;(11,695&amp;nbsp;yd), which was quite long for a smaller caliber weapon.{{sfn|Staff|p=6}} In late 1916, following repair work after the damage sustained during the Battle of Jutland, ''Von der Tann'' had her 8.8&amp;nbsp;cm&amp;nbsp;(3.5&amp;nbsp;in) guns removed and the firing ports welded shut. Two 8.8&amp;nbsp;cm flak guns were installed on the aft superstructure.{{sfn|Staff|p=8}}
+
+As was customary for capital ships of the time, ''Von der Tann'' was equipped with four {{convert|45|cm|in|2|abbr=on}} [[torpedo tube]]s, with a total of 11 torpedoes. These were located in the bow, the stern, and two on the [[broadside]]. The torpedoes carried a 110&amp;nbsp;kg&amp;nbsp;(240&amp;nbsp;lb) warhead, and had an effective range of 2&amp;nbsp;km&amp;nbsp;(1.04&amp;nbsp;nmi) when set for a speed of 32&amp;nbsp;kn&amp;nbsp;(59&amp;nbsp;km/h), and 1.5&amp;nbsp;km&amp;nbsp;(0.81&amp;nbsp;nmi) at 36&amp;nbsp;kn&amp;nbsp;(67&amp;nbsp;km/h).{{sfn|Staff|p=6}}
+
+=== Armor ===
+[[File:SMS Von der Tann Brassey's 1913.jpg|thumb|''Von der Tann'' as depicted in Brassey's ''Naval Annual'' in 1913; shaded areas represent armor protection.]]
+
+Because the ''Von der Tann'' was designed to fight in the [[Line of battle|battle line]], her armor was much thicker than that of the British battlecruisers. ''Von der Tann'' weighed over 2,000&amp;nbsp;tonnes more than the {{sclass-|Indefatigable|battlecruiser|4}},{{sfn|Butler|p=50}} and used 10% more of her weight for armor than the battlecruisers she faced at the [[Battle of Jutland]].{{sfn|Staff|p=6}}
+
+''Von der Tann''{{'}}s armor consisted of [[Krupp]] [[Krupp cemented armour|cemented and nickel steel]]. The main [[belt armor]] was 80–120&amp;nbsp;mm &amp;nbsp;(3.1–4.7&amp;nbsp;in) thick forward, 250&amp;nbsp;mm&amp;nbsp;(9.8&amp;nbsp;in) thick over the ship's citadel, and was 100&amp;nbsp;mm&amp;nbsp;(3.9&amp;nbsp;in) thick aft. The forward [[conning tower]] was protected by 250&amp;nbsp;mm&amp;nbsp;(9.8&amp;nbsp;in), while the aft conning tower by 200&amp;nbsp;mm&amp;nbsp;(7.9&amp;nbsp;in). The four turrets had 230&amp;nbsp;mm&amp;nbsp;(9.1&amp;nbsp;in) faces, 180&amp;nbsp;mm&amp;nbsp;(7.1&amp;nbsp;in) sides, and 90&amp;nbsp;mm&amp;nbsp;(3.5&amp;nbsp;in) on the roofs. The horizontal armor measured 25&amp;nbsp;mm&amp;nbsp;(0.98&amp;nbsp;in) thick, and the sloping deck armor was 50&amp;nbsp;mm&amp;nbsp;(2.0&amp;nbsp;in) thick.{{sfn|Staff|pp=6–7}} Like the armored cruiser ''Blücher'' before her, she was protected by a [[torpedo bulkhead]], 25&amp;nbsp;mm&amp;nbsp;(0.98&amp;nbsp;in) thick. It was set back a distance of 4&amp;nbsp;meters&amp;nbsp;(13&amp;nbsp;ft) from the outer hull skin, the space in between being used to store coal.{{sfn|Staff|p=7}}
+
+=== Machinery ===
+''Von der Tann'' was powered by 18 naval coal-fueled double boilers, separated into five boiler rooms. The boilers produced steam at a pressure of 235&amp;nbsp;[[Pounds per square inch|psi]] (16&amp;nbsp;[[Atmosphere (unit)|atmospheres]]).{{sfn|Staff|p=7}} ''Von der Tann'' was the first large German warship to use [[steam turbine|turbine]] propulsion. The ship used two sets of turbines: high pressure turbines, which ran the outer two shafts, and low pressure turbines, which powered the inner two shafts. Each shaft had a propeller 3.6 m&amp;nbsp;(12&amp;nbsp;ft) in diameter. The ship was designed to have a power output of {{convert|30,891|kW|shp|lk=in|order=flip}} at a speed of 300&amp;nbsp;[[Revolutions per minute|rpm]], which enabled a rated top speed of 24.8&amp;nbsp;kn&amp;nbsp;(45.9&amp;nbsp;km/h). However, as was the case with all later German battlecruisers, the ship could be run dramatically higher. During [[sea trial]]s, the turbines provided {{convert|58,111|kW|shp|order=flip|abbr=on}} at 339&amp;nbsp;rpm for a top speed of 27.757&amp;nbsp;kn&amp;nbsp;(51.39&amp;nbsp;km/h).{{sfn|Staff|p=8}} In one instance during a cruise from [[Tenerife]] to Germany, the ship averaged 27&amp;nbsp;kn&amp;nbsp;(50&amp;nbsp;km/h), and reached a maximum speed of 28&amp;nbsp;kn&amp;nbsp;(52&amp;nbsp;km/h). At the time of her launch, she was the fastest [[dreadnought]] afloat.{{sfn|Staff|p=4}} The ship had two parallel rudders, which were controlled by steam-powered engines. ''Von der Tann''{{'}}s electrical plant consisted of six steam turbo generators that had a total output of 1,200-kW&amp;nbsp;(1,600-hp).{{sfn|Staff|p=8}}
+
+Like many German capital ships,{{efn|name=coal quality}} ''Von der Tann'' had chronic problems with the often low-quality coal available for the ship's boilers. Following the end of the raid on Scarborough, ''Von der Tann''{{'}}s commander, Captain Max von Hahn, remarked that &quot;the inadequacy of our coal and its burning properties results in heavy smoke clouds and signals our presence.&quot;{{sfn|Philbin|p=56}} During the battle of Jutland, the ship was unable to maintain fires in all of her boilers after 16:00, due to the poor quality coal.{{sfn|Philbin|p=56–57}} Many other German ships suffered the same difficulties during the battle, including {{SMS|Derfflinger||2}} and {{SMS|Seydlitz||2}}.{{sfn|Philbin|p=57}} After 1916, the coal firing in the boilers was supplemented by spraying [[Coal tar|tar-oil]] on the coal, which made the coal burn better.{{sfn|Staff|p=8}}
+
+=== Other characteristics ===
+[[File:SMS Von der Tann 1911.png|thumb|''Von der Tann'' in 1911]]
+
+Frahm [[Antiroll Tanks|anti-roll tanks]] were fitted during construction, but these proved to be ineffective;{{sfn|Staff|p=7}} the tanks only reduced rolling by 33%.{{sfn|Staff|p=45}} [[Bilge keel]]s were later added to improve stability, and the space previously used for the anti-roll tanks was instead used as extra fuel storage.{{sfn|Hore|p=71}} The ship was able to carry an additional 180 t&amp;nbsp;(200 [[short ton]]s) of coal in the anti-roll tanks.{{sfn|Gardiner &amp; Gray|p=151}} ''Von der Tann''{{'}}s hull consisted of 15 watertight compartments, and a [[double bottom]] extended for 75% of the ship's length.{{sfn|Staff|p=5}} The ship was known to have good maneuvering characteristics, with a speed loss of 60% and a [[Sailing#Heeling|heel]] of 8&amp;nbsp;degrees at full rudder.{{sfn|Staff|p=7}}
+
+The ship's crew compartments were arranged such that the officers were accommodated in the [[forecastle]]. This arrangement was found to be unsatisfactory, and not repeated in later classes.{{sfn|Staff|p=45}} ''Von der Tann'' was designed to be fitted with a [[lattice mast]], but the ship received standard masts instead. In 1914, spotting posts were attached to the masts in order to observe the fall of artillery fire. In 1915, [[seaplane]] trials were conducted on ''Von der Tann'', and a crane was attached on the aft deck to lift the seaplane aboard the ship. ''Von der Tann'' had originally been equipped with anti-torpedo nets, but these were removed towards the end of 1916.{{sfn|Staff|p=8}}
+
+== Service history ==
+[[File:Bundesarchiv DVM 10 Bild-23-61-52, Großer Kreuzer &quot;SMS von der Tann&quot;.jpg|thumb|''Von der Tann'' in 1911|alt=A large gray warship with four large gun turrets and two tall funnels sits idly in harbor.]]
+
+In May 1910, ''Von der Tann'' sailed from the Blohm &amp; Voss shipyard in Hamburg to receive her final fitting-out in the [[Kaiserliche Werft Kiel|Imperial Dockyard]] at [[Kiel]]. The German Navy was chronically short of crews at the time, so dockyard workers had to bring the ship to Kiel. On 1 September 1910, the ship was commissioned into the German Navy, with a crew composed largely of crewmembers from the dreadnought {{SMS|Rheinland||2}}.{{sfn|Staff|p=9}} During trials, an average speed of 27&amp;nbsp;kn&amp;nbsp;(50 &amp;nbsp;km/h) was attained over a six-hour period, with a top speed of 28.124&amp;nbsp;kn&amp;nbsp;(52.086&amp;nbsp;km/h) with the engines at maximum output.{{sfn|Staff|p=9}}
+
+''Von der Tann'' made several long-distance voyages after completion. She visited [[Rio de Janeiro]], [[Puerto Belgrano|Puerto Militar]], and [[Bahía Blanca]] in South America in early 1911, and returned to Kiel on 6 May 1911.{{sfn|Staff|p=9}} The primary purpose of the cruise was to obtain armament contracts from South American countries by impressing them with what was &quot;widely advertised as the fastest and most powerful warship then afloat.&quot;{{sfn|Livermore|p=41}} On 8 May 1911, ''Von der Tann'' joined the Unit of Reconnaissance Ships. In June 1911 ''Von der Tann'' attended the [[Fleet Review]] at [[Spithead]], for the coronation of [[George V of the United Kingdom|King George V]].{{sfn|Staff|p=9}}
+
+=== First World War ===
+[[File:SMS Mainz sinking (photo).jpg|thumb|SMS ''Mainz'' sinking, with the British destroyer HMS ''Lurcher'' alongside, picking up survivors|alt=A large, burning warship rolling over and sinking; a smaller, black ship is nearby with two small boats.]]
+
+At the outbreak of the [[World War I|First World War]], ''Von der Tann'' was serving as the [[flagship]] of the 3rd Admiral of Reconnaissance Forces, ''Konteradmiral'' Tapken. The ship was assigned to the I Scouting Group of the [[High Seas Fleet]], under the command of [[Franz von Hipper|Rear Admiral Franz Hipper]]. ''Von der Tann''{{'}}s first major sortie during the war occurred when the ship took part in the unsuccessful search for British battlecruisers, after the [[Battle of Heligoland Bight (1914)|Battle of Heligoland Bight]], in August 1914.{{sfn|Hore|p=71}} During the Battle of Heligoland Bight, ''Von der Tann'' had been stationed in [[Wilhelmshaven]] Roads, and had been ordered to raise steam as early as 08:20, to assist the German cruisers under attack in the [[Heligoland Bight]]. At 08:50, Rear Admiral Hipper requested permission from Admiral [[Friedrich von Ingenohl|von Ingenohl]], the commander in chief of the High Seas Fleet, to send ''Von der Tann'' and {{SMS|Moltke||2}} to relieve the beleaguered German cruisers.{{sfn|Massie|p=107}}
+
+''Von der Tann'' was ready to sail by 10:15, more than an hour before the British battlecruisers arrived on the scene. However, the ship was held up by low tide, which prevented the battlecruisers from crossing the [[Shoal|bar]] at the mouth of the [[Jadebusen|Jade Estuary]]. At 14:10, ''Von der Tann'' and ''Moltke'' were able to cross the Jade bar, and Hipper ordered the German [[light cruiser]]s to fall back on the two heavy ships, while Hipper himself was about an hour behind in the battlecruiser {{SMS|Seydlitz||2}}. At 14:25, the remaining light cruisers, {{SMS|Strassburg||2}}, {{SMS|Stettin||2}}, {{SMS|Frauenlob||2}}, {{SMS|Stralsund||2}}, and {{SMS|Ariadne||2}}, rendezvoused with the battlecruisers.{{sfn|Strachan|p=417}} ''Seydlitz'' arrived on the scene by 15:10; ''Ariadne'' succumbed to battle damage and sank. Hipper ventured forth cautiously to search for the two missing light cruisers, {{SMS|Mainz||2}} and {{SMS|Cöln|1909|2}}. By 16:00, the German flotilla began returning to the Jade Estuary, arriving at approximately 20:23.{{sfn|Massie|p=114}}
+
+==== Bombardments of the English coast ====
+Later that year ''Von der Tann'' was present at the [[Raid on Yarmouth]], on 2–3&amp;nbsp;November. At 16:30 on the 2nd, ''Von der Tann'', along with ''Seydlitz'' (Hipper's flagship), ''Moltke'', the armored cruiser ''Blücher'', and the four light cruisers ''Strassburg'', {{SMS|Graudenz||2}}, {{SMS|Kolberg||2}}, and ''Stralsund'', departed the Jade Estuary, bound for the English coast with the intent to lay minefields in British sea lanes. At 18:00, two dreadnought battle squadrons of the High Seas Fleet departed to provide support. Hipper's force veered north in an arc to avoid [[Heligoland]] and the British submarines stationed there, and then increased speed to 18&amp;nbsp;knots.{{sfn|Massie|p=310}} At approximately 06:30 the following morning, Hipper's battlecruisers spotted the British minesweeper {{HMS|Halcyon|1894|2}} and opened fire, which drew the attention of the destroyer {{HMS|Lively|1901|2}}. Hipper realized that he was wasting time, and that further pursuit would run his ships into a known minefield, so he ordered his ships back to sea. As the flotilla was turning away, the battlecruisers fired several salvos at Great Yarmouth, to little effect. By the time the British Admiralty was fully aware of the situation, the German force had retreated back to home waters.{{sfn|Massie|pp=311–312}}
+
+''Von der Tann'' also participated in the [[raid on Scarborough, Hartlepool and Whitby]], on 15–16&amp;nbsp;December.{{sfn|Hore|p=71}} The raid was another attempt to lure out a portion of the Grand Fleet and destroy it, with the whole of the High Seas Fleet standing by in support. ''Von der Tann'' delayed the raid itself by several days, because Admiral Ingenohl was unwilling to send forth the I&amp;nbsp;Scouting Group at anything less than full strength, and ''Von der Tann'' was undergoing routine repairs in early December.{{sfn|Strachan|p=428}} The I Scouting Group, along with the II Scouting Group, composed of the four light cruisers ''Kolberg'', ''Strassburg'', ''Stralsund'', and ''Graudenz'', and two [[torpedo boat]] flotillas, left the Jade at 03:20.{{sfn|Scheer|p=68}} Hipper's ships sailed north, through the channels in the minefields, past Heligoland to the Horns Reef light vessel, at which point the ships turned westward, towards the English coast.{{sfn|Tarrant|p=31}} The main battle squadrons of the High Seas Fleet left in the late afternoon of the 15th. During the night of 15 December, the main body of the High Seas Fleet encountered British destroyers, and fearing the prospect of a night-time torpedo attack, Admiral Ingenohl ordered the ships to retreat.{{sfn|Tarrant|p=32}}
+
+[[File:Scheer's illustration of I SG disposition 16 Dec. 1916 en.SVG|thumb|left|The High Seas Fleet's disposition on the morning of 16 December|alt=Map showing the locations of the British and German fleets; the German light cruisers pass between the British battleship and battlecruiser forces while the German battlecruisers steam to the northeast. The German battleships lie to the east of the other ships.]]
+
+Upon nearing the British coast, Hipper's battlecruisers split into two groups. ''Seydlitz'', ''Moltke'', and ''Blücher'' went north to shell Hartlepool, while ''Von der Tann'' and ''Derfflinger'' went south to shell Scarborough and Whitby. The two ships destroyed the coast guard stations in both towns, along with the signalling station in Whitby. By 09:45 on the 16th, the two groups had reassembled, and began to retreat eastward.{{sfn|Scheer|p=70}} Hipper was unaware of Ingenohl's withdrawal, and following the bombardment of the target cities, turned back to rendezvous with the German fleet. By this time, [[David Beatty, 1st Earl Beatty|David Beatty's]] battlecruisers were in position to block Hipper's chosen egress route, while other forces were en route to complete the encirclement. At 12:25, the light cruisers of the II&amp;nbsp;Scouting Group began to pass the British forces searching for Hipper. One of the cruisers in the [[Grand Fleet#2nd Light Cruiser Squadron|2nd Light Cruiser Squadron]] spotted ''Stralsund'', and signaled a report to Beatty. At 12:30, Beatty turned his battlecruisers towards the German ships. Beatty presumed that the German cruisers were the advance screen for Hipper's ships, however, those were some 50&amp;nbsp;km&amp;nbsp;(31&amp;nbsp;mi) ahead. The 2nd Light Cruiser Squadron, which had been screening for Beatty's ships, detached to pursue the German cruisers, but a misinterpreted signal from the British battlecruisers sent them back to their screening positions.{{efn|Beatty had intended on retaining only the two rearmost light cruisers from [[William Goodenough|Goodenough's]] squadron; however, {{HMS|Nottingham|1913|2}}{{'}}s signalman misinterpreted the signal, thinking that it was intended for the whole squadron, and thus transmitted it to Goodenough, who ordered his ships back into their screening positions ahead of Beatty's battlecruisers.}} This confusion allowed the German light cruisers to escape, and alerted Hipper to the location of the British battlecruisers. The German battlecruisers wheeled to the northeast of the British forces and made good their escape.{{sfn|Tarrant|p=34}}
+
+''Von der Tann'' was being refitted at the time of the [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]], and so she missed this action. She was replaced by the armored cruiser ''Blücher'', which was sunk during the battle.{{sfn|Hawkins|p=73}} A detachment of men from ''Von der Tann'' had been sent to ''Blücher'' and went down with the ship.{{sfn|Goldrick|pp=279, 285}} In 1915 the ship took part in operations in the North and Baltic Seas. On 10 August 1915, ''Von der Tann'' shelled the island fortress at [[Utö, Finland|Utö]], in the eastern Baltic,{{sfn|Tucker|p=180}} during which she took part in an artillery duel with the Russian armored cruiser {{ship|Russian cruiser|Admiral Makarov||2}}.{{sfn|Thomas|p=40}} ''Von der Tann'' also engaged the Russian armored cruiser {{ship|Russian cruiser|Bayan|1911|2}} and five destroyers, during which ''Von der Tann'' was struck by a shell through the funnel, which caused no casualties.{{sfn|Staff|p=10}} On 3–4&amp;nbsp;February 1916, ''Von der Tann'' participated in the fleet advance to welcome home the commerce raider {{SMS|Möwe||2}}. The ship was also present during the fleet sorties of 5–7&amp;nbsp;March, 17&amp;nbsp;April, 21–22&amp;nbsp;April, and 5&amp;nbsp;May.{{sfn|Hore|p=71}}
+
+[[File:SMS Von der Tann illustration.jpg|thumb|left|Illustration of ''Von der Tann'' underway]]
+
+''Von der Tann'' also took part in the [[bombardment of Yarmouth and Lowestoft]] on 24–25&amp;nbsp;April. Hipper was away on sick leave, so the German ships were under the command of Konteradmiral [[Friedrich Boedicker]]. The German battlecruisers ''Derfflinger'', ''Lützow'', ''Moltke'', ''Seydlitz'' and ''Von der Tann'' left the Jade Estuary at 10:55 on 24&amp;nbsp;April, and were supported by a screening force of 6 light cruisers and two torpedo boat flotillas.{{sfn|Tarrant|p=52}} The heavy units of the High Seas Fleet sailed at 13:40, with the objective to provide distant support for Boedicker's ships. The British Admiralty was made aware of the German sortie through the interception of German [[wireless]] signals, and deployed the Grand Fleet at 15:50.{{sfn|Tarrant|p=52}}
+
+By 14:00, Boedicker's ships had reached a position off [[Norderney]], at which point he turned his ships northward to avoid the Dutch observers on the island of [[Terschelling]]. At 15:38, ''Seydlitz'' struck a [[Naval mine|mine]], which tore a 50-ft&amp;nbsp;(15-m) hole in her hull, just abaft of the starboard broadside torpedo tube, which allowed 1,400-t&amp;nbsp;(1,500-short tons) of water to enter the ship.{{sfn|Tarrant|p=52}} ''Seydlitz'' turned back, with the screen of light cruisers, at a speed of 15&amp;nbsp;knots. The four remaining battlecruisers turned south immediately in the direction of Norderney to avoid further mine damage. By 16:00, ''Seydlitz'' was clear of imminent danger, so the ship stopped to allow Boedicker to disembark. The torpedo boat {{SMS|V28||2}} brought Boedicker to ''Lützow''.{{sfn|Tarrant|p=53}}
+
+At 04:50 on 25 April, the German battlecruisers were approaching Lowestoft when the light cruisers {{SMS|Rostock||2}} and {{SMS|Elbing||2}}, which had been covering the southern flank, spotted the light cruisers and destroyers of Admiral [[Reginald Tyrwhitt|Tyrwhitt's]] [[Harwich Force]].{{sfn|Tarrant|p=53}} Boedicker refused to be distracted by the British ships, and instead trained his ships' guns on Lowestoft. The two 6&amp;nbsp;in&amp;nbsp;(15&amp;nbsp;cm) shore batteries were destroyed, along with other damage to the town. [[Kapitän zur See|KzS]] [[Hans Zenker|Zenker]], ''Von der Tann''{{'}}s commanding officer, later wrote:
+
+{{quote |
+Mist over the sea and the smoke from the ships ahead made it difficult for us to make out our targets as we steered for Lowestoft. But after we turned [to the north], the Empire Hotel offered us an ample landmark for effective bombardment. At 05:11 we opened fire with our heavy and medium calibers on the harbor works and swing bridges. After a few &quot;shorts&quot; the shooting was good. From the after-bridge a fire in the town, and from another vantage point a great explosion at the entry [to the harbor] were reported.{{sfn|Tarrant|p=53}}
+}}
+
+At 05:20, the German raiders turned north, towards Yarmouth, which they reached by 05:42. The visibility was so poor that the German ships fired one [[salvo]] each, with the exception of ''Derfflinger'', which fired fourteen rounds from her main battery. The German ships turned back south, and at 05:47, encountered for the second time the Harwich Force, which had by then been engaged by the six light cruisers of the screening force. Boedicker's ships opened fire from a range of 13,000&amp;nbsp;yd&amp;nbsp;(12,000&amp;nbsp;m).{{sfn|Tarrant|p=54}} Tyrwhitt immediately turned his ships around and fled south, but not before the cruiser {{HMS|Conquest|1915|2}} sustained severe damage. Due to reports of British submarines and torpedo attacks, Boedicker broke off the chase, and turned back east towards the High Seas Fleet. At this point, Scheer, who had been warned of the Grand Fleet's sortie from Scapa Flow, turned back towards Germany.{{sfn|Tarrant|p=54}}
+
+==== Battle of Jutland ====
+[[File:HMS Indefatigable sinking.jpg|thumb|HMS ''Indefatigable'' sinking after having been struck by shells from ''Von der Tann''|alt=A large ship is sinking in the distance; a large dense cloud of smoke emanates from the wreck.]]
+
+''Von der Tann'' participated in the [[Battle of Jutland]], as part of Hipper's First Scouting Group. ''Von der Tann'' was the rearmost of five battlecruisers in Hipper's line.{{sfn|Bennett|p=183}} Shortly before 16:00&amp;nbsp;[[Central European Time|CET]],{{efn|name=CET}} Hipper's force encountered Vice Admiral [[David Beatty, 1st Earl Beatty|Beatty's]] battlecruiser squadron. The German ships were the first to open fire, at a range of approximately 15,000&amp;nbsp;yd&amp;nbsp;(14,000&amp;nbsp;m).{{sfn|Bennett|p=183}} At 16:49, ''Von der Tann'' fired her first shot at {{HMS|Indefatigable|1909|2}}. Fourteen minutes of firing later,{{sfn|Hough|p=xiv}} ''Von der Tann'' had scored five hits on ''Indefatigable'' out of 52 heavy shells fired,{{sfn|Staff|p=10}} one of which caused ''Indefatigable'' to explode and sink.{{sfn|Hore|p=71}} An observer on the battlecruiser {{HMS|New Zealand|1911|2}}, which was directly ahead of ''Indefatigable'', later remarked that he saw &quot;the ''Indefatigable'' hit by two shells from the ''Von der Tann'', one on the fore turret. Both appeared to explode on impact. After an interval of thirty seconds, the ship blew up. Sheets of flame were followed by dense smoke which obscured her from view.&quot;{{sfn|Bennett|pp=184–185}}
+
+Following the destruction of ''Indefatigable'', Beatty turned his force away, while the British 5th&amp;nbsp;Battle Squadron closed in on the German battlecruisers, opening fire from approximately 19,000&amp;nbsp;yd&amp;nbsp;(17,000&amp;nbsp;m).{{sfn|Bennett|p=185}} ''Von der Tann'' and ''Moltke'', the two rearmost of Hipper's squadron, came under fire from the three lead British battleships of the 5th&amp;nbsp;BS: {{HMS|Barham|04|2}}, {{HMS|Valiant|1914|2}}, and {{HMS|Malaya||2}}.{{sfn|Massie|p=594}} The German battlecruisers began zig-zagging to avoid the gunfire from the British ships. At 17:09,{{sfn|Staff|p=10}} six minutes after sinking ''Indefatigable'', ''Von der Tann'' was hit by one 15&amp;nbsp;in&amp;nbsp;(38&amp;nbsp;cm) shell from ''Barham'', which struck beneath the waterline and dislodged a section of the belt armor, causing ''Von der Tann'' to take in 600&amp;nbsp;tons of water.{{sfn|Bennett|p=185}} This hit temporarily damaged the ship's steering gear, and combined with ''Von der Tann''{{'}}s zig-zagging cause her to fall out of line to port. The German Official History commented that &quot;the greatest calamity of a complete breakdown of the steering gear was averted, otherwise, ''Von der Tann'' would have been delivered into the hands of the oncoming battleships as in the case of ''Blücher'' during the Dogger Bank action.&quot;{{sfn|Tarrant|p=97}}
+
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|350px|left|Maps showing the maneuvers of the British (blue) and German (red) fleets on 31 May&amp;nbsp;– 1 June 1916]]
+
+At 17:20, a 13.5&amp;nbsp;in&amp;nbsp;(34&amp;nbsp;cm) shell from the battlecruiser {{HMS|Tiger|1913|2}} struck the barbette of ''Von der Tann''{{'}}s A&amp;nbsp;turret. A chunk of armor plate was dislodged from inside the turret, and struck the turret training gear, which jammed the turret at 120&amp;nbsp;degrees. This put the turret out of action for the duration of the engagement.{{sfn|Tarrant|p=99}} At 17:23, the ship was hit again by a 13.5&amp;nbsp;in&amp;nbsp;(34&amp;nbsp;cm) shell from ''Tiger'', which struck near the C&amp;nbsp;turret and killed 6 men. The shell holed the deck and created enough wreckage that the turret was unable to traverse, and the starboard rudder engine room was damaged. The C&amp;nbsp;turret was out of action until the wreckage could be cut away. Smoke from a fire caused by burning practice targets that had been stowed below the turret obscured the ship. Sections of the torpedo nets were knocked loose and trailed behind the ship. However, they were cut loose before they could catch in the propellers.{{sfn|Tarrant|p=100}} ''New Zealand'', which had been engaging ''Von der Tann'' following ''Indefatigable''{{'}}s destruction, lost sight of her target and shifted fire to ''Moltke''.{{sfn|Brooks|p=244}} At 17:18, the range to ''Von der Tann'' from ''Barham'' had closed to 17,500&amp;nbsp;yd&amp;nbsp;(16,000&amp;nbsp;m), at which point ''Von der Tann'' opened fire on the British battleship. Shortly thereafter, at 17:23, ''Von der Tann'' registered a hit on ''Barham''.{{sfn|Brooks|p=246}} However, after firing only 24 shells, ''Von der Tann'' had to return to her earlier target, ''New Zealand'', because her fore and aft turrets had since been disabled, and her amidships turrets were no longer able to target ''Barham''.{{sfn|Tarrant|p=102}}
+
+At 18:15, the guns of the last active turret jammed in their mountings, leaving ''Von der Tann'' without any working main armament.{{sfn|Tarrant|p=119}} Regardless, she remained in the battle line to distract the British gunners.{{sfn|Staff|p=10}} Because she was no longer firing her main guns, ''Von der Tann'' was able to maneuver in an erratic manner, such that she could avoid British gunfire.{{sfn|Tarrant|p=119}} By 18:53, the ship's speed fell from 26&amp;nbsp;kn&amp;nbsp;(48&amp;nbsp;km/h) to 23&amp;nbsp;kn&amp;nbsp;(43&amp;nbsp;km/h). Over an hour and a half after having failed due to mechanical difficulties, D&amp;nbsp;turret was repaired and again ready for action. ''Von der Tann'' sustained her fourth and final heavy shell hit at 20:19, when one 15&amp;nbsp;in&amp;nbsp;(38&amp;nbsp;cm) shell from {{HMS|Revenge|06|2}} struck the aft conning tower. Shell splinters penetrated the [[conning tower]], killing the Third Gunnery Officer and both rangefinder operators and wounding every other crewman in the tower. Shell fragments and other debris fell through the ventilating shaft and onto the condenser, which put out all the lights in the ship.{{sfn|Tarrant|p=179}} Eleven minutes later, at 20:30, B&amp;nbsp;turret was again clear for action, and by 21:00, C&amp;nbsp;turret was also in working order.{{sfn|Staff|p=11}} However, both of the amidships turrets suffered further mechanical difficulties that put them out of action later during the battle.{{sfn|Tarrant|p=188}}
+
+At approximately 22:15, Hipper, with his flag now in ''Moltke'', ordered his battlecruisers to increase speed to 20&amp;nbsp;knots, and to fall into the rear of the main German line. Neither ''Derfflinger'', due to battle damage, nor ''Von der Tann'', due to the dirtiness of her boiler fires, could steam at more than 18&amp;nbsp;knots.{{sfn|Tarrant|p=205}} ''Derfflinger'' and ''Von der Tann'' took up positions astern of the II&amp;nbsp;Squadron, and were later joined by the old [[Pre-dreadnought battleship|pre-dreadnoughts]] {{SMS|Schlesien||2}} and {{SMS|Schleswig-Holstein||2}} at 00:05.{{sfn|Tarrant|p=240}} At 03:37, the British destroyer ''Moresby'' fired a torpedo at the rear of the German line; this passed closely across ''Von der Tann''{{'}}s bow, and forced the ship to turn sharply to starboard to avoid being hit.{{sfn|Tarrant|p=244}} Close to the end of the battle, at 03:55, Hipper transmitted a report to Admiral Scheer, informing him of the tremendous damage his ships had suffered. By that time, ''Derfflinger'' and ''Von der Tann'' each had only two guns in operation, ''Moltke'' was flooded with 1,000&amp;nbsp;tons of water, and ''Seydlitz'' was severely damaged. Hipper reported: &quot;I Scouting Group was therefore no longer of any value for a serious engagement, and was consequently directed to return to harbor by the Commander-in-Chief, while he himself determined to await developments off Horns Reef with the battlefleet.&quot;{{sfn|Tarrant|p=255}}
+
+During the course of the battle, two of ''Von der Tann''{{'}}s main turrets were knocked out by British gunfire, while her other two turrets suffered mechanical failures.{{sfn|Gardiner &amp; Gray|p=152}} The ship was firing so fast that several of the main guns in the amidships turrets became overheated and jammed in their recoil slides, and could not be returned to working order.{{sfn|Massie|p=604}} ''Von der Tann'' was without her main battery for 11&amp;nbsp;hours, although three turrets were restored to working order before the end of the battle;{{sfn|Staff|pp=10–11}} D&amp;nbsp;turret only after much cutting away of bent metal with [[oxyacetylene torch]]es—afterwards the guns could be worked only by hand.{{sfn|Tarrant|p=188}} Her casualties amounted to 11 dead and 35 wounded.{{sfn|Staff|p=11}} During the battle ''Von der Tann'' fired 170 heavy shells and 98 secondary caliber shells.{{sfn|Tarrant|p=292}}
+
+==== Later actions ====
+After Jutland, she underwent repairs from 2 June until 29 July.{{sfn|Staff|p=11}} After returning to the fleet, ''Von der Tann'' took part in several unsuccessful raids into the North Sea in 1916, including the advances on 18–19&amp;nbsp;August, 25–26&amp;nbsp;September, 18–19&amp;nbsp;October, 23–24&amp;nbsp;October, as well as the advance on 23–24&amp;nbsp;March 1917.{{sfn|Staff|p=11}}
+
+During the fleet advance on 18–19&amp;nbsp;August, ''Von der Tann'' was one of two remaining German battlecruisers still in fighting condition (along with ''Moltke''), so three dreadnoughts were assigned to the I&amp;nbsp;Scouting Group for the operation: {{SMS|Markgraf||2}}, {{SMS|Grosser Kurfürst|1913|2}}, and {{SMS|Bayern||2}}. The I&amp;nbsp;Scouting Group was to bombard the coastal town of [[Sunderland, Tyne and Wear|Sunderland]], in an attempt to draw out and destroy Beatty's battlecruisers. Admiral Scheer and the rest of the High Seas Fleet, with 15 dreadnoughts of its own, would trail behind, providing cover.{{sfn|Massie|p=682}} The British were aware of the German plans, and sortied the Grand Fleet to meet them. By 14:35, Scheer had been warned of the Grand Fleet's approach and, unwilling to engage the whole of the Grand Fleet just 11&amp;nbsp;weeks after the decidedly close call at Jutland, turned his forces around and retreated to German ports.{{sfn|Massie|p=683}}
+
+''Von der Tann'' served as the flagship of Rear Admiral [[Ludwig von Reuter|von Reuter]] during the fleet advance to Norway on 23–25&amp;nbsp;April 1918, as well as in the sortie on 8–9&amp;nbsp;July.{{sfn|Staff|p=11}}
+
+=== Fate ===
+
+[[File:German battlecruisers steaming to Scapa.jpg|thumb|The German battlecruisers sailing into Scapa Flow. ''Von der Tann'' is the fifth ship in the line, behind ''Seydlitz'', ''Moltke'', ''Hindenburg'', and ''Derfflinger''.|alt=A line of large warships. Thick black smoke pours from their funnels as they steam through choppy seas.]]
+
+''Von der Tann'' was to have taken part in a [[Naval order of 24 October 1918|final fleet action]] at the end of October 1918, days before the [[Armistice with Germany|Armistice]] was to take effect. The bulk of the High Seas Fleet was to have sortied from their base in Wilhelmshaven to engage the British Grand Fleet; Scheer—by now the [[Grand Admiral]] (''Grossadmiral'') of the fleet—intended to inflict as much damage as possible on the British navy, in order to retain a better bargaining position for Germany, despite the expected casualties. However, many of the war-weary sailors felt the operation would disrupt the peace process and prolong the war.{{sfn|Tarrant|pp=280–281}} While the High Seas Fleet was consolidating in Wilhelmshaven, sailors began deserting en masse. As ''Von der Tann'' and {{SMS|Derfflinger||2}} passed through the locks that separated Wilhelmshaven's inner harbor and roadstead, some 300 men from both ships climbed over the side and disappeared ashore.{{sfn|Massie|p=775}} On the morning of 29 October 1918, the order was given to sail from Wilhelmshaven the following day. Starting on the night of 29 October, sailors on {{SMS|Thüringen||2}} and then on several other battleships [[Wilhelmshaven mutiny|mutinied]].{{sfn|Tarrant|pp=281–282}} The unrest ultimately forced Hipper and Scheer to cancel the operation.{{sfn|Tarrant|p=282}} Informed of the situation, the Kaiser stated &quot;I no longer have a navy.&quot;{{sfn|Herwig|p=252}}
+
+[[File:Glocke des BV im Marine-Ehrenmal in Laboe.jpg|thumb|left|upright|''Von der Tann''{{'}}s [[Ship's bell|bell]], at the [[Laboe Naval Memorial]]|alt=A large brass bell, engraved with the words &quot;S.M.S. Von Der Tann&quot;, suspended on a white brick wall.]]
+
+Following the capitulation of Germany in November 1918, most of the High Seas Fleet, under the command of Rear Admiral [[Ludwig von Reuter]], were interned in the British naval base in [[Scapa Flow]].{{sfn|Tarrant|p=282}} Prior to the departure of the German fleet, Admiral [[Adolf von Trotha]] made clear to von Reuter that he could not allow the Allies to seize the ships, under any conditions.{{sfn|Herwig|p=256}} The fleet rendezvoused with the British [[light cruiser]] {{HMS|Cardiff|D58|2}}, which led the ships to the Allied fleet that was to escort the Germans to Scapa Flow. The massive flotilla consisted of some 370 British, American, and French warships.{{sfn|Herwig|pp=254–255}} Once the ships were interned, their guns were disabled through the removal of their [[breech block]]s, and their crews were reduced to 200 officers and enlisted men.{{sfn|Herwig|p=255}} ''Von der Tann'' was interned at [[Scapa Flow]] under the command of ''Kapitän-Leutnant'' Wollante.{{sfn|Reuter|p=154}} While in Scapa Flow, a soldiers' council was formed aboard the ship; the council took complete, dictatorial control of the vessel for the duration of the interment.{{sfn|van der Vat|p=147}}
+
+The fleet remained in captivity during the negotiations that ultimately produced the [[Treaty of Versailles]]. Von Reuter believed that the British intended to seize the German ships on 21 June 1919, which was the deadline for Germany to have signed the peace treaty. Unaware that the deadline had been extended to the 23rd, Reuter [[Scuttling of the German fleet in Scapa Flow|ordered the ships to be sunk]] at the next opportunity. On the morning of 21 June, the British fleet left Scapa Flow to conduct training maneuvers, and at 11:20 Reuter transmitted the order to his ships.{{sfn|Herwig|p=256}} The ship sank in two hours and fifteen minutes.{{sfn|Reuter|p=153}} The task of raising ''Von der Tann'' was secured by [[Ernest Cox]]'s salvage company. During preparation work, three workers were nearly killed when their oxy-acetylene cutters set off a major explosion. The blast tore holes in the still submerged vessel and allowed water into the compartment that had been emptied with compressed air; by the time the men were rescued, the compartment had refilled almost completely and the men were up to their necks.{{sfn|van der Vat|p=208}} Nevertheless, the ship was successfully brought up on 7 December 1930,{{sfn|Staff|p=11}} and scrapped at [[Rosyth]] by the [[Alloa Shipbreaking Company]] between 1931 and 1934.{{sfn|Hore|p=71}}{{sfn|''The Times'', &quot;Salvage at Scapa&quot;}}
+{{clear}}
+
+== Notes ==
+
+'''Footnotes'''
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]'' &quot;, or &quot;His Majesty's Ship&quot; in German.
+}}
+
+{{efn
+| name = gun nomenclature
+| In Imperial German Navy gun nomenclature, &quot;SK&quot; (Schnelladekanone) denotes that the gun is quick firing, while the L/45 denotes the length of the gun. In this case, the L/45 gun is 45 [[Caliber (artillery)|caliber]], meaning that the gun is 45 times long as it is in diameter.
+}}
+
+{{efn
+| name = coal quality
+| The higher quality coal was generally reserved for the smaller craft, whose crews were less able to clean the boilers at the increased rate demanded by the low-quality coal. As a result, German capital ships were often supplied with poor coal, in the knowledge that their larger crews were better able to perform the increased maintenance.
+}}
+
+{{efn
+| name = CET
+| It should be noted that the times mentioned in this section are in [[Central European Time|CET]], which is congruent with the German perspective. This is one hour ahead of [[Coordinated Universal Time|UTC]], the time zone commonly used in British works.
+}}
+
+}}
+
+'''Citations'''
+
+{{reflist|20em}}
+
+== References ==
+
+{{Portal|Battleships}}
+{{Commons|SMS von der Tann}}
+{{Wikipedia books|Battlecruisers of Germany }}
+
+* {{cite book
+  | last = Bennett
+  | first = Geoffrey
+  | authorlink = Geoffrey Bennett
+  | year = 2005
+  | title = Naval Battles of the First World War
+  | publisher = Pen &amp; Sword Military Classics
+  | location = [[London]]
+  | isbn = 978-1-84415-300-8
+  | ref = {{sfnRef|Bennett}}
+  }}
+* {{cite book
+  | last = Breyer
+  | first = Siegfried
+  | year = 1973
+  | title = Battleships and Battlecruisers of the World
+  | publisher = McDonald &amp; Jane's
+  | location = London
+  | isbn = 978-0-356-04191-9
+  | ref = {{sfnRef|Breyer}}
+  }}
+* {{cite book
+  | last = Brooks
+  | first = John
+  | year = 2005
+  | title = Dreadnought Gunnery and the Battle of Jutland
+  | publisher = [[Routledge]]|location=London
+  | isbn = 978-0-7146-5702-8
+  | ref = {{sfnRef|Brooks}}
+  }}
+* {{cite book
+  | last = Butler
+  | first = Daniel Allen
+  | authorlink = Daniel Allen Butler
+  | year = 2006
+  | title = Distant Victory
+  | publisher = Greenwood Publishing Group
+  | isbn = 978-0-275-99073-2
+  | ref = {{sfnRef|Butler}}
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships: 1906–1921
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-907-8
+  | ref = {{sfnRef|Gardiner &amp; Gray}}
+  }}
+* {{cite book
+  | last = Goldrick
+  | first = James
+  | year = 1984
+  | title = The King's Ships Were at Sea: The War in the North Sea August 1914&amp;nbsp;– February 1915
+  | location = Annapolis
+  | publisher = Naval Institute Press
+  | isbn = 978-0-87021-334-2
+  | ref = {{sfnRef|Goldrick}}
+  }}
+* {{cite book
+  | last = Hawkins
+  | first = Nigel
+  | year = 2002
+  | title = Starvation Blockade: The Naval Blockades of WWI
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-85052-908-1
+  | ref = {{sfnRef|Hawkins}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = [[Amherst, New York]]
+  | isbn = 978-1-57392-286-9
+  | oclc = 57239454
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last = Hore
+  | first = Peter
+  | year = 2006
+  | title = Battleships of World War I
+  | publisher = Southwater Books
+  | location = [[London]]
+  | isbn = 978-1-84476-377-1
+  | ref = {{sfnRef|Hore}}
+  }}
+* {{cite book
+  | last = Hough
+  | first = Richard
+  | authorlink = Richard Hough
+  | year = 2003
+  | title = Dreadnought: A History of the Modern Battleship
+  | publisher = Periscope Publishing
+  | location = 
+  | isbn = 978-1-904381-11-2
+  | ref = {{sfnRef|Hough}}
+  }}
+* {{cite journal
+  | last = Livermore
+  | first = Seward
+  | year = 1944
+  | title = Battleship Diplomacy in South America: 1905–1925
+  | journal = The Journal of Modern History
+  | volume = 16
+  | issue = 1
+  | pages = 31–44
+  | issn = 0022-2801
+  | jstor = 1870986
+  | ref = {{sfnRef|Livermore}}
+  | doi = 10.1086/236787
+  }}
+* {{cite book
+  | last = Massie
+  | first = Robert K.
+  | authorlink = Robert K. Massie
+  | year = 2003
+  | title = [[Castles of Steel]]
+  | publisher = Ballantine Books
+  | location = [[New York City]]
+  | isbn = 978-0-345-40878-5
+  | ref = {{sfnRef|Massie}}
+  }}
+* {{cite book
+  | last = Philbin
+  | first = Tobias R. III
+  | year = 1982
+  | title = Admiral von Hipper: The Inconvenient Hero
+  | publisher = John Benjamins Publishing Company
+  | isbn = 978-90-6032-200-0
+  | ref = {{sfnRef|Philbin}}
+  }}
+* {{cite book
+  | last = Reuter
+  | first = Ludwig von
+  | authorlink = Ludwig von Reuter
+  | year = 1921
+  | language = German
+  | title = Scapa Flow: Das Grab Der Deutschen Flotte
+  | location = [[Leipzig]]
+  | publisher = von Hase and Koehler
+  | ref = {{sfnRef|Reuter}}
+  }}
+* {{cite news
+  | title = Salvage at Scapa
+  | newspaper = [[The Times]]
+  | date = 5 November 1931
+  | page = 9
+  | ref = {{sfnRef|''The Times'', &quot;Salvage at Scapa&quot;}}
+  }}
+* {{cite book
+  | last = Scheer
+  | first = Reinhard
+  | authorlink = Reinhard Scheer
+  | year = 1920
+  | title = Germany's High Seas Fleet in the World War
+  | publisher = Cassell and Company
+  | location = 
+  | isbn = 
+  | ref = {{sfnRef|Scheer}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2006
+  | title = German Battlecruisers: 1914–1918
+  | publisher = Osprey Books
+  | location = [[Oxford]]
+  | isbn = 978-1-84603-009-3
+  | oclc = 64555761
+  | ref = {{sfnRef|Staff}}
+  }}
+* {{cite book
+  | last = Strachan
+  | first = Hew
+  | year = 2001
+  | title = The First World War: Volume 1: To Arms
+  | publisher = Oxford University Press
+  | location = Oxford
+  | isbn = 978-0-19-926191-8
+  | ref = {{sfnRef|Strachan}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | oclc = 48131785
+  | ref = {{sfnRef|Tarrant}}
+  }}
+* {{cite news
+  | title=The First German Invincible
+  | newspaper=The Times
+  | location=London
+  | date=22 March 1909
+  | page=7b
+  | ref={{sfnRef|&quot;The First German Invincible&quot;}}
+  }}
+* {{cite book
+  |  last = Thomas
+  |  first = Lowell
+  |  title = Raiders of the Deep
+  |  year = 1928
+  |  location = Annapolis
+  |  publisher = Naval Institute Press
+  |  isbn = 978-1-55750-722-8
+  | ref = {{sfnRef|Thomas}}
+  }}
+* {{cite book
+  | last = Tucker
+  | first = Spencer E.
+  | year = 2005
+  | title = The Encyclopedia of World War I
+  | publisher = ABC-CLIO
+  | isbn = 978-1-85109-420-2
+  | ref = {{sfnRef|Tucker}}
+  }}
+* {{cite book
+  | last = van der Vat
+  | first = Dan
+  | title = The Grand Scuttle
+  | year = 1986
+  | publisher = Billing &amp; Sons Ltd
+  | isbn = 978-0-86228-099-4
+  | location = Worcester
+  | ref = {{sfnRef|van der Vat}}
+  }}
+* {{cite book
+  | last = Weir
+  | first = Gary E.
+  | year = 1992
+  | title = Building the Kaiser's Navy
+  | location = Annapolis
+  | publisher = Naval Institute Press
+  | isbn = 978-1-55750-929-1
+  | ref = {{sfnRef|Weir}}
+  }}
+
+{{WWIGermanShips}}
+{{Blohm + Voss}}
+{{1919 shipwrecks}}
+{{Featured article}}
+
+{{DEFAULTSORT:Von Der Tann}}
+[[Category:Battlecruisers of the Imperial German Navy]]
+[[Category:Ships built in Hamburg]]
+[[Category:1909 ships]]
+[[Category:World War I battlecruisers of Germany]]
+[[Category:World War I warships scuttled in Scapa Flow]]
+[[Category:Maritime incidents in 1919]]</text>
+      <sha1>6atuui6ri97072qex37j284ne3wte8w</sha1>
+    </revision>
+  </page>
+</mediawiki>

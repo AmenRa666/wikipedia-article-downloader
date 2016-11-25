@@ -1,0 +1,220 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Engadine (1911)</title>
+    <ns>0</ns>
+    <id>365647</id>
+    <revision>
+      <id>745043205</id>
+      <parentid>745042484</parentid>
+      <timestamp>2016-10-19T00:00:26Z</timestamp>
+      <contributor>
+        <username>Blaylockjam10</username>
+        <id>7038407</id>
+      </contributor>
+      <comment>/* Construction and service */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21802">{{other ships|HMS Engadine}}
+{{good article}}
+{{EngvarB|date=February 2014}}
+{{Use dmy dates|date=February 2014}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:HMS Engadine.jpg|300px]]
+|Ship caption=''Engadine'' at anchor, 1915, with a [[Short Brothers]] [[seaplane]] on her stern
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|civil}}
+|Ship name= SS ''Engadine''
+|Ship owner=[[London, Chatham and Dover Railway|South East and Chatham Railway]]
+|Ship builder=[[William Denny and Brothers]], [[Dumbarton]], Scotland
+|Ship laid down=
+|Ship launched=23 September 1911
+|Ship in service=
+|Ship completed=1911
+|Ship fate=Leased to Royal Navy, 11 August 1914
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|naval}}
+|Ship name=HMS ''Engadine''
+|Ship namesake=
+|Ship acquired=*11 August 1914
+*February 1915 (purchased)
+|Ship commissioned=1 September 1914
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship honours=
+|Ship fate=Sold back to owners, December 1919
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|United Kingdom|civil}}
+|Ship name= SS ''Engadine''
+|Ship owner=South East and Chatham Railway/[[Southern Railway (UK)|Southern Railway]]
+|Ship acquired=December 1919
+|Ship reclassified=
+|Ship completed=
+|Ship fate=Sold, 1932
+|Ship notes=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United States
+|Ship flag={{shipboxflag|United States|1912}}
+|Ship renamed=SS ''Corregidor''
+|Ship owner= Fernandez Hermanos, Inc.
+|Ship fate=Sunk by [[naval mine|mine]], 17 December 1941
+|Ship acquired=1933
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as of 1918)
+|Ship type=[[Seaplane carrier]]
+|Ship displacement={{convert|2550|LT|t}} ([[deep load]])
+|Ship tonnage={{GRT|1676|disp=long}}
+|Ship length={{convert|323|ft|1|m|abbr=on}}
+|Ship beam={{convert|41|ft|1|m|abbr=on}} 
+|Ship draught={{convert|13|ft|8|in|1|m|abbr=on}}
+|Ship power=*{{convert|13800|shp|kW|lk=in|abbr=on}}
+*6 [[water-tube boiler]]s
+|Ship propulsion=*3 shafts
+*3 [[steam turbine]]s
+|Ship speed={{convert|21.5|kn|lk=in}}
+|Ship range={{convert|1250|nmi|lk=in|abbr=on}} at {{convert|15|kn}}
+|Ship complement=197
+|Ship armament=*4 × [[QF 12 pounder 12 cwt naval gun|12-pounder 12 cwt guns]]
+*2 × [[Ordnance QF 3 pounder Vickers|QF 3-pounder]] [[anti-aircraft gun]]s
+|Ship aircraft=4 × [[seaplane]]s
+}}
+|}
+'''HMS ''Engadine''''' was a [[seaplane tender]] which served in the Royal Navy (RN) during [[World War I]]. Converted from the cross-[[English Channel|Channel]] [[packet ship]] SS ''Engadine'', she was initially fitted with temporary [[hangar]]s for three [[seaplane]]s for [[aerial reconnaissance]] and bombing missions in the [[North Sea]]. She participated in the unsuccessful [[Cuxhaven Raid]] in late 1914 before she began a more thorough conversion in 1915 that increased her capacity to four aircraft. ''Engadine'' was transferred to the [[Battle Cruiser Fleet]] in late 1915 and participated in the [[Battle of Jutland]] in 1916 when one of her aircraft flew the first heavier-than-air reconnaissance mission during a naval battle. She was transferred to the [[Mediterranean]] in 1918.
+
+She was sold back to her original owners in 1919 and resumed her prewar role. ''Engadine'' was sold in 1933 to a Philippine company and renamed SS ''Corregidor''. She was sunk with heavy loss of life by a [[naval mine|mine]]{{#tag:ref|The mine might have been laid by the Japanese submarine [[Japanese submarine I-124|''I-124'']].&lt;ref&gt;Rohwer, p. 258&lt;/ref&gt;|group=Note}} in December 1941 during the [[Philippines Campaign (1941–42)|invasion of the Philippines]] at the beginning of the [[Pacific War]].
+
+==Description==
+''Engadine'' had an [[length overall|overall length]] of {{convert|323|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|41|ft|m|1}}, and a mean [[draft (hull)|draught]] of {{convert|13|ft|8|in|1|m}}.&lt;ref name=f4/&gt; She [[displacement (ship)|displaced]] {{convert|2550|LT|t}} at [[deep load]]&lt;ref name=f4&gt;Friedman, p. 364&lt;/ref&gt; and was rated at {{GRT|1676|disp=long}}. Each of the ship's three sets of direct-drive [[steam turbine]]s drove one [[propeller shaft]]. The ship's six [[boiler (steam generator)|boiler]]s generated enough steam to produce {{convert|13800|shp|kW|lk=in}} from the turbines,&lt;ref name=l8/&gt; enough for a designed speed of {{convert|21.5|kn|lk=in}}.&lt;ref name=f0&gt;Friedman, p. 30&lt;/ref&gt; ''Engadine'' carried {{convert|400|t|LT}} of coal,&lt;ref name=l8&gt;Layman 1989, p. 38&lt;/ref&gt; enough to give her a range of {{convert|1250|nmi|lk=in}} at {{convert|15|kn}}.&lt;ref name=&quot;Hobbs 22&quot;&gt;Hobbs, p. 22&lt;/ref&gt;
+
+==Construction and service==
+SS ''Engadine'' was [[Keel|laid down]] by [[William Denny and Brothers]] at their [[Dumbarton]], [[Scotland]] shipyard as a [[packet ship|fast packet]] for the [[London, Chatham and Dover Railway|South East and Chatham Railway]]'s [[Folkestone]]-[[Boulogne-sur-Mer|Boulogne]] run. The ship was [[Ship naming and launching|launched]] on 23 September 1911 and completed later that year. She was requisitioned for service by the [[Admiralty]] on 11 August 1914,&lt;ref&gt;Hobbs, pp. 21, 31; Layman 1989, p. 38&lt;/ref&gt; and was [[Ship commissioning|commissioned]] on 1 September after she was modified to handle [[seaplane]]s by [[Chatham Dockyard]]. Three canvas [[hangar]]s were installed, one forward and two aft, and there was no flight deck, the aircraft being lowered onto the sea for takeoff and recovered again from the sea after landing by newly installed [[derrick]]s.&lt;ref&gt;Friedman, pp. 30, 32, Hobbs, p. 21&lt;/ref&gt; In 1918 her crew numbered 197 officers and enlisted men, including 53 aviation personnel.&lt;ref name=l8/&gt;
+
+Upon completion of the modifications on 1 September, ''Engadine'' was assigned to the [[Harwich Force]] along with the seaplane tenders {{HMS|Empress|1914|2}} and {{HMS|Riviera||2}}.&lt;ref name=l80&gt;Layman 1989, pp. 38, 40&lt;/ref&gt; On Christmas Day 1914, nine aircraft from all three ships took part in the Cuxhaven Raid on hangars housing [[Zeppelin]] airships.&lt;ref name=f2/&gt; Seven of the nine seaplanes successfully took off for the attack, but they inflicted little damage. Only three of the aircraft returned to be recovered, but the crews of the other three [[Water landing|ditched]] safely&lt;ref name=f2&gt;Friedman, p. 32&lt;/ref&gt; and were recovered by a British submarine&lt;ref&gt;Barnes &amp; James, p. 98&lt;/ref&gt; and the Dutch trawler ''Marta van Hattem''.&lt;ref&gt;{{cite magazine|date=8 January 1915|title=The Rescue of Flight Commander Hewlett|magazine=Flight|volume=No. 315|issue=8 January 1915|page=24|url=http://www.flightglobal.com/PDFArchive/View/1915/1915%20-%200024.html|accessdate=7 February 2014}}&lt;/ref&gt; A notable member of her crew was [[Robert Erskine Childers]] who served an instructor in coastal navigation to newly trained pilots. He managed to extend his duties to include flying as a navigator and observer and participated in the raid, for which he was [[mentioned in despatches]].&lt;ref&gt;Piper, p. 153&lt;/ref&gt;
+
+''Engadine'' was purchased in February 1915 by the Admiralty&lt;ref&gt;Hobbs, p. 31&lt;/ref&gt; and she was modified by [[Cunard Line|Cunard]] at [[Liverpool]] from 10 February to 23 March 1915 with a permanent, four-aircraft, hangar in the rear [[superstructure]] and a pair of [[crane (machine)|crane]]s were mounted at the rear of the hangar to hoist the seaplanes in and out of the water.&lt;ref name=l8/&gt; Four [[quick-firing gun|quick-firing (QF)]] [[QF 12 pounder 12 cwt naval gun|12-pounder 12 cwt guns]],&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 12 cwt referring to the weight of the gun.&lt;/ref&gt; each with 130 rounds, and two [[Vickers]] [[Ordnance QF 3 pounder Vickers|QF 3-pounder]] [[anti-aircraft gun]]s, each with 65 rounds, were fitted for self-defence.&lt;ref name=f2/&gt; She also carried a [[pigeon loft]] that housed [[carrier pigeon]]s to be used by her aircraft if their [[wireless]] was broken.&lt;ref name=&quot;Hobbs 22&quot;/&gt;
+
+Upon completion of the conversion, she rejoined the Harwich Force; on 3 July, ''Engadine'' and ''Riviera'' attempted to launch aircraft to reconnoitre the [[Ems (river)|River Ems]] and lure out a Zeppelin so that it could be attacked. Of ''Engadine''{{'}}s three [[Sopwith Schneider]] [[floatplane]]s that she attempted to launch, two wrecked on take off and the third was badly damaged. She was transferred to [[Vice Admiral]] [[David Beatty, 1st Earl Beatty|David Beatty]]'s Battlecruiser Fleet (BCF), based at [[Rosyth]] in October. Later that month ''Engadine'' carried out trials on high-speed towing of [[kite balloon]]s for gunnery observations, although she generally served as a base ship for the fleet's seaplanes.&lt;ref name=f34&gt;Friedman, p. 34&lt;/ref&gt;
+
+===Battle of Jutland===
+{{main|Battle of Jutland}}
+On 30 May 1916, ''Engadine'' was attached to the [[3rd Light Cruiser Squadron]], commanded by Rear Admiral [[Trevylyan Napier]], and carried two [[Short Type 184]] and two [[Sopwith Baby]] floatplanes aboard. The two-seat Type 184s were intended for observation and were fitted with a low-power wireless while the Babys were intended to shoot down Zeppelins. ''Engadine'' accompanied the cruisers when the Battlecruiser Fleet sortied from Rosyth that evening to intercept the German High Seas Fleet. For a time on 31 May she was actually leading the BCF and may have been one of the first ships to spot the oncoming Germans. Her position in the [[vanguard]] was dictated by the requirement for smooth water to successfully launch her aircraft; turbulent water from ships' [[wake]]s was enough to ruin a take off attempt. She would also have to come to a complete stop to hoist her aircraft over the side and prepare it for launch, a process that took at least 20 minutes at anchor. Thus she could launch her floatplane in unruffled water and then fall back among the main body of the fleet.&lt;ref&gt;Layman 1990, pp. 94–95&lt;/ref&gt;
+
+Beatty ordered ''Engadine'' to make a search to the north-northeast at 14:40 and she sailed through the BCF before turning north-east to find calmer water. At 15:07 Lieutenant [[Frederick Rutland]] took off in his Type 184 and his observer signalled ''Engadine'' that they had spotted three German [[cruiser]]s and five [[destroyer]]s at 15:30. These were ships from the [[II Scouting Group]], leading the battlecruisers of Vice Admiral [[Franz von Hipper]]. This was the first time that a heavier-than-air aircraft had carried out a reconnaissance of an enemy fleet in action. After a few other spot reports were transmitted, the aircraft's fuel line ruptured around 15:36 and Rutland was forced to put his aircraft down. He was able to repair it and signalled that he was ready to take off again, but he was ordered to [[Taxiing|taxi]] to the carrier on the surface. The aircraft reached the ship at 15:47 and it was hoisted aboard by 16:04. By this time, a pair of destroyers, {{HMS|Moresby|1915|2}} and {{HMS|Onslow|1916|2}}, that had been ordered to protect ''Engadine'' while she was stationary had reached her. ''Engadine'' attempted to relay the spot reports to Beatty's [[flagship]] and the flagship of the [[5th Battle Squadron (United Kingdom)|5th Battle Squadron]], but was unsuccessful. She trailed Beatty's force during the &quot;Run to the South&quot;, during which time her two escorts were detached and again when they reversed course during the &quot;Run to the North&quot;.&lt;ref&gt;Layman 1990, pp. 96–98&lt;/ref&gt;
+
+The {{convert|14000|LT|t|adj=on}} [[armoured cruiser]] [[HMS Warrior (1905)|''Warrior'']] had been crippled by numerous hits by German [[battleship]]s around 18:30 and fell in with ''Engadine'' 10 minutes later. The former's [[rudder]] had been jammed full over and she continued to turn in tight circles until her steam was exhausted. At 19:45 ''Engadine'' attempted to take her in tow, but the jammed rudder prevented that until it was trained amidships. By 21:30 she was making {{convert|8|kn}} while her turbines were making revolutions for {{convert|19|kn}}. Early the following morning ''Warrior''{{'}}s progressive flooding had worsened and she was sinking. [[Captain (Royal Navy)|Captain]] [[Vincent Molteno]] ordered his ship abandoned after ''Engadine'' came alongside to take them off at 08:00. One of ''Warrior''{{'}}s guns punctured ''Engadine''{{'}}s hull below the [[waterline]] as the former ship [[ship motions|rolled]] in the moderate seas, but this was quickly patched. About 675 officers and enlisted men successfully made it to the much smaller ''Engadine'' which had to quickly distribute them to prevent her from [[capsizing]]. Among these were about 30 seriously wounded men who were transferred across in their stretchers; one man fell off his stretcher between the ships, but was rescued by Rutland against orders. For his bravery he was awarded the First Class [[Albert Medal (lifesaving)|Albert Medal for Lifesaving]] in gold and briefly became the only living recipient. The transfer was completed before 09:00 and ''Warrior'' sank shortly afterwards.&lt;ref&gt;Layman 1990, pp. 98–99, 101&lt;/ref&gt; ''Engadine'' remained with the BCF until early 1918 when she was transferred to the [[Mediterranean Fleet]]. She was based out of [[Malta]], conducting anti-submarine patrols, for the remainder of the war.&lt;ref&gt;Friedman, p. 43; Layman 1989, p. 40&lt;/ref&gt;
+
+===Postwar career===
+She was sold back to her original owners, the South Eastern and Chatham Railway, in December 1919 and resumed her former role as a cross-Channel ferry. ''Engadine'' was transferred to the [[Southern Railway (UK)|Southern Railway]] in 1923 when the British railroads were consolidated. Passing through the hands of a ship broker, she was sold to Fernandez Hermanos, Inc. in the [[Philippines]] in 1933 and renamed SS ''Corregidor''.&lt;ref&gt;Hobbs, p. 32; Layman 1989, p. 40&lt;/ref&gt;
+
+==== Sinking====
+At 22:00 on 16 December 1941, ''Corregidor'' left its dock in [[Manila]] in total darkness, loaded to overcapacity with Filipino civilians seeking to escape to the southern Philippines after the war had started. It has been estimated that between 1,200 and 1,500 people were on board, including approximately 150 Philippine soldiers, 7 Americans, 5 Philippine legislators, and hundreds of college students who were traveling home after their schools had closed. Also aboard were military supplies as well the entire artillery complement of the [[Visayan-Mindanao Force]] of the [[Philippine Army]]. The owners of the ship failed to inform the Navy's Inshore Patrol of the ship's plan to leave [[Manila Bay]].&lt;ref name&gt;Cressman; Gordon, pp. 73–76&lt;/ref&gt;
+
+Although Captain Apolinar Calvo of the ''Corregidor'' had prior experience navigating the mined entrance to Manila Bay (the mines had been in place since July), the Navy had changed its procedures on that day. Rather than post a [[gunboat]] near the safe channel as they had in days previous, lighted [[buoy]]s were used to guide boats through.&lt;ref&gt;Cressman; Gordon, p. 73&lt;/ref&gt; As the ''Corregidor'' sailed close to the [[Corregidor Island|island of Corregidor]] to pass through the channel at around 01:00, the ship was observed turning toward the electrically-controlled [[minefield]]. Some officers posted at the Army's Seaward Defense Command headquarters on the island recommended that the mines be temporarily disarmed so that the ship could pass through the minefield. A number of accounts state that Seaward Defense Commander [[Colonel]] [[Paul Bunker]] ordered that the mines be kept active.&lt;ref&gt;Cressman; Gordon, p. 74&lt;/ref&gt;
+{{Quote box |quote = &quot;The Army and the Filipino skippers had long been butting heads. All the channels out of Manila Bay had been mined for many months. At this time, the mining was strictly up to date and operational. At 1 AM on 16 December, the SS ''Corregidor'', carrying 760 refugees, attempted to go thru the minefield without asking clearance. This request would have been granted. The Lieutenant who was on watch in the mine casement, on sighting the SS ''Corregidor'' called his superior, who in turn, called the seaward defense commander, Col. Bunker, requesting information as to whether he should de-activate the contact mines in the channel. With a lifetime of experience with the Filipino, going back to the '98 Insurrection, Col. Bunker said 'No!' My first knowledge of this affair came when my duty watch called me at 12:55 AM. The Corregidor had struck one of our mines and in the four or five minutes it took to reach my battery command post, the vessel had sunk.&amp;nbsp;... Thereafter, we had no trouble with unauthorized Filipino boats attempting to traverse the channel&quot; |source =  Captain George Steiger: A POW Diary [http://www.fsteiger.com/gsteipow.html] |width = 50% |align = right }}
+When the ''Corregidor'' entered the minefield, there was a large explosion on the starboard side of the vessel. The overcrowded ship quickly began to sink, with many people trapped below-deck. Survivors stated that the ship sank so quickly that there was no time for large-scale panic to set in. Searchlights from Corregidor Island illuminated the scene which aided the rescue effort.&lt;ref&gt;Cressman; Gordon, p. 74–75&lt;/ref&gt; Sailors of [[Motor Torpedo Boat Squadron Three|MTB Squadron 3]] posted at [[Sisiman Cove]] heard the explosion and left on three [[PT boat]]s ([[Motor Torpedo Boat PT-32|''PT-32'']], [[Motor Torpedo Boat PT-34|''PT-34'']] and [[Motor Torpedo Boat PT-35|''PT-35'']]) to investigate. When the boats arrived they found survivors in the water and were able to retrieve 282 survivors.&lt;ref&gt;Cressman; Gordon, p. 75&lt;/ref&gt; Seven of the rescued passengers later died from their injuries.&lt;ref name=USNChron1941&gt;Cressman&lt;/ref&gt;{{#tag:ref|Gordon gives 296 survivors.&lt;ref&gt;Gordon, p. 75&lt;/ref&gt;|group=Note}}
+
+The incident was never investigated due to the Japanese invasion. Later, some Army officers reported that the remote-controllable mines were set to the safety position immediately after the explosion occurred. The total number of victims is unknown. It has been estimated that 900–1,200 lost their lives.&lt;ref&gt;Cressman; Gordon, pp.&amp;nbsp;75–76&lt;/ref&gt; Among the dead were the captain and most of the crew, two of the legislators, and one of the American passengers. At the time, the sinking of the ''Corregidor'' was the most [[List of maritime disasters in the Philippines|significant maritime disaster in Philippine history]], and one of the greatest maritime disasters in the world that did not occur as a result of military or naval action.&lt;ref&gt;Hartendorp, p. 350&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|2}}
+
+==References==
+*{{cite book|last1=Barnes|first1=Christopher H.|last2=James|first2=Derek N. |title=Shorts Aircraft Since 1900|publisher=Putnam|location=London|year=1989|isbn=0-85177-819-4|last-author-amp=yes}}
+*{{cite book | url = http://www.ibiblio.org/hyperwar/USN/USN-Chron/| title = The Official Chronology of the U.S. Navy in World War II | chapter = Chapter III: 1941 | chapterurl = http://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html | first = Robert | last = Cressman | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2000 | isbn = 978-1-55750-149-3 | oclc = 41977179}}
+*{{cite book|last=Friedman|first=Norman|title=British Carrier Aviation: The Evolution of the Ships and Their Aircraft|year=1988|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-054-8}}
+*{{cite book|last=Gordon|first=John|title=Fighting for MacArthur: The Navy and Marine Corps' Desperate Defense of the Philippine|year=2011|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-61251-062-0}}
+*{{cite journal| last = Hartendorp| first = A.V.H.|year = 1953| title = The Sinking of the SS Corregidor|journal= The American Chamber of Commerce Journal| publisher = Manila| volume = | issue = September | pages= 350–352| doi =}}
+*{{cite book|last=Hobbs|first=David|title=British Aircraft Carriers: Design, Development and Service Histories|year=2013|publisher=Seaforth Publishing|location=Barnsley, UK|isbn=978-1-84832-138-0}}
+*{{cite book|last=Layman|first=R. D.|title=Before the Aircraft Carrier: The Development of Aviation Vessels 1859–1922|year=1989|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-210-9}}
+* {{cite book|title=Warship 1990|editor=Gardiner, Robert|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|isbn=1-55750-903-4|chapter=Engadine at Jutland|last=Layman|first=R. D.}}
+* {{cite book | last = Piper | first = Leonard | title = Dangerous Waters: The Life and Death of Erskine Childers (aka The Tragedy of Erskine Childers) | publisher=Hambledon | year = 2003 | isbn = 1-85285-392-1}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Axis Submarine Successes of World War Two: German, Italian, and Japanese Submarine Successes, 1939 – 1945|year=1999|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-029-0}}
+
+==External links==
+{{Commonscat-inline|HMS Engadine (ship, 1911)|HMS Engadine}}
+
+{{SECR Ships}}
+{{SR ships}}
+{{WWIBritishShips}}
+{{December 1941 shipwrecks}}
+{{coord missing|Pacific Ocean}}
+
+{{DEFAULTSORT:Engadine}}
+[[Category:Seaplane carriers of the Royal Navy]]
+[[Category:Clyde-built ships]]
+[[Category:1911 ships]]
+[[Category:Ships of the South Eastern and Chatham Railway]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:World War I aircraft carriers of the United Kingdom]]
+[[Category:Ships of the Southern Railway (Great Britain)]]
+[[Category:Steamships of the United States]]
+[[Category:World War II merchant ships of the United States]]
+[[Category:World War II shipwrecks in the South China Sea]]
+[[Category:Maritime incidents in December 1941]]
+[[Category:Ships sunk by mines]]</text>
+      <sha1>mk3t6r6ca0xf2uuvwq46zx9izct0ydn</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,252 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Tupolev MTB-1</title>
+    <ns>0</ns>
+    <id>14788810</id>
+    <revision>
+      <id>720733620</id>
+      <parentid>668325207</parentid>
+      <timestamp>2016-05-17T17:00:48Z</timestamp>
+      <contributor>
+        <username>Frietjes</username>
+        <id>13791031</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5856">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ |name=MDR-4 and MTB-1
+ |image=
+ |caption=
+}}{{Infobox Aircraft Type
+ |type=Patrol flying boat
+ |manufacturer=[[Tupolev]]
+ |designer=
+ |first flight=[[1934 in aviation|1934]]
+ |introduced=
+ |retired=1942
+ |status=
+ |primary user=
+ |more users=
+ |produced=
+ |number built=15&lt;ref name=Gunston&gt;{{cite book |last=Gunston |first=Bill |title=The Osprey Encyclopaedia of Russian Aircraft 1875–1995 |publisher=Osprey Publishing |location=London |year=1995 |edition=1st |isbn=978-1-85532-405-3|page=400}}&lt;/ref&gt;
+ |variants with their own articles=
+}}
+|}
+
+The '''Tupolev MTB-1''' (known originally as the '''MDR-4''' and internally to Tupolev as the '''ANT-27''') was a patrol flying boat built in the Soviet Union in the mid-1930s. It was a refined version of the unsuccessful [[Chetverikov MDR-3]]. The revised design retained the MDR-3's hull, but added a newly designed, fully cantilever wing, a new tail, and a new engine installation featuring two tractor and one pusher unit. Trials began in March 1934 but the prototype was destroyed during one take-off.
+
+A second prototype was constructed the following year, and redesignated '''MTB-1''' to reflect a new torpedo-carrying role. Despite its poor performance in trials, the aircraft was urgently needed to fill a niche in the Soviet Navy, and it was accepted for production before flight testing was complete. Despite some early structural failures, 25 of these machines were eventually produced and saw service in the Navy for several years, remaining in service until 1942.&lt;ref name=&quot;Gunston&quot;/&gt;
+&lt;!-- ==Development== --&gt;
+&lt;!-- ==Operational history== --&gt;
+&lt;!-- ==Variants== --&gt;
+
+==Operators==
+; {{USSR}}
+* [[Soviet Naval Aviation]]
+&lt;!-- ==Units using this aircraft/Operators (choose)== --&gt;
+
+==Specifications (MTB-1)==
+{{Aircraft specs
+|ref=The Osprey Encyclopaedia of Russian Aircraft 1875–1995&lt;ref name=Gunston/&gt;
+|prime units?=met
+&lt;!--
+        General characteristics
+--&gt;
+|crew=ca 8
+|capacity=
+|length m=21.9
+|length ft=
+|length in=
+|length note=
+|span m=39.4
+|span ft=
+|span in=
+|span note=
+|wing area sqm=
+|wing area sqft=177.5
+|wing area note=
+|airfoil=
+|empty weight kg=10521
+|empty weight lb=
+|empty weight note=
+|gross weight kg=16250
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity={{convert|3746|kg|lb|abbr=on}} fuel + {{convert|370|kg|lb|abbr=on}} oil
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=3
+|eng1 name=[[Mikulin M-34]]
+|eng1 type=V-12 liquid-cooled piston engine
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=800
+|eng1 shp=&lt;!-- prop engines --&gt;
+|eng1 kn=&lt;!-- jet/rocket engines --&gt;
+|eng1 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng1 note=
+|power original=
+|thrust original=
+|eng1 kn-ab=&lt;!-- afterburners --&gt;
+|eng1 lbf-ab=&lt;!-- afterburners --&gt;
+
+|prop blade number=&lt;!-- propeller aircraft --&gt;
+|prop name=
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop dia note=
+
+&lt;!--
+        Performance
+--&gt;
+|max speed kmh=225
+|max speed mph=
+|max speed kts=
+|max speed note=at sea level {{convert|200|km/h|mph kn|abbr=on}} at {{convert|3000|m|ft|abbr=on}}
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=2000
+|range miles=
+|range nmi=
+|range note=
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|combat range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=11 hours
+|ceiling m=4470
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=3.1
+|climb rate ftmin=
+|climb rate note=
+|time to altitude={{convert|1000|m|ft|abbr=on}} 5.4 minutes
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|disk loading kg/m2=
+|disk loading lb/sqft=
+|disk loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=
+
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|guns= {{bulleted list
+|1x {{convert|20|mm|in|abbr=on|3}} [[Oerlikon cannon]] in a Tur-9 dorsal turret
+|4x {{convert|7.62|mm|in|abbr=on|3}} [[ShKAS]] machine-guns in twin mountings nose and tail
+ }}
+|bombs= {{convert|500|kg|lb|abbr=on}}
+|rockets= 
+|missiles= 
+|hardpoints=
+|hardpoint capacity=
+|hardpoint rockets=
+|hardpoint missiles=
+|hardpoint bombs=
+|hardpoint other=
+
+|avionics=
+}}
+
+==Notes==
+{{reflist}}
+
+==Bibliography==
+
+* {{Cite book|author=Gunston, Bill|authorlink =Bill_Gunston|title=The Osprey Encyclopedia of Russian Aircraft from 1875 – 1995|publisher=Osprey Aerospace |location=London|year=1995|pages=400–401|isbn= 1-85532-405-9}}
+
+==Further reading==
+* {{cite book |last= Shavrov |first= V. B. |script-title=ru:История конструкций самолетов в СССР |year=1985 |publisher=Машиностроение |location=Moscow |language= Russian |pages=Vol 1 p.526 }}
+* {{cite book |last= Taylor |first= Michael J. H. |title=Jane's Encyclopedia of Aviation |year=1989 |publisher=Studio Editions |location=London |pages=254 }}
+
+{{Tupolev aircraft}}
+{{Soviet bomber aircraft}}
+
+[[Category:Soviet patrol aircraft 1930–1939]]
+[[Category:Flying boats]]
+[[Category:Three-engined push-pull aircraft]]
+[[Category:High-wing aircraft]]</text>
+      <sha1>duzqhw5px39g13cvydradagr7h7z3jg</sha1>
+    </revision>
+  </page>
+</mediawiki>

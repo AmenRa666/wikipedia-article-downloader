@@ -1,0 +1,339 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Nagato-class battleship</title>
+    <ns>0</ns>
+    <id>14308159</id>
+    <revision>
+      <id>740821157</id>
+      <parentid>738075761</parentid>
+      <timestamp>2016-09-23T14:14:29Z</timestamp>
+      <contributor>
+        <username>Magioladitis</username>
+        <id>1862829</id>
+      </contributor>
+      <minor/>
+      <comment>/* External links */clean up, replaced: WWIIJapaneseShips → WWII Japanese Ships using [[Project:AWB|AWB]] (12084)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="49782">{{Use dmy dates|date=September 2013}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Mutsu33903u.tif|300px]]
+| Ship caption = ''Mutsu'' at sea about 1922
+}}
+{{Infobox ship class overview
+| Name                  = ''Nagato'' class
+| Builders              =
+| Operators             = {{navy|Empire of Japan}}
+| Class before          = {{sclass-|Ise|battleship|4}}
+| Class after           = {{sclass-|Tosa|battleship|4}}
+| Cost                  =
+| Built range           = 1917–21
+| In service range      = 1920–45
+| Total ships completed = 2
+| Total ships lost      = 1
+}}
+{{Infobox ship characteristics
+| Hide header       =
+| Header caption    = (as built)
+| Ship type         = [[Dreadnought battleship]]
+| Ship displacement = {{convert|32720|t|LT|abbr=on}} ([[Standard displacement#Standard displacement|standard]])
+| Ship length       = {{convert|215.8|m|ftin|abbr=on}} ([[o/a]])
+| Ship beam         = {{convert|29.02|m|ftin|abbr=on}}
+| Ship draft        = {{convert|9.08|m|ftin|abbr=on}}
+| Ship power        =*{{convert|80000|shp|lk=in|abbr=on}}
+*21 × [[water-tube boiler]]s
+| Ship propulsion   =*4 shafts
+*4 × geared [[steam turbine]]s
+| Ship speed        = {{convert|26|kn|lk=in}}
+| Ship range        = {{convert|5500|nmi|lk=in|abbr=on}} at {{convert|16|kn}}
+| Ship complement   = 1,333
+| Ship armament     =*4 × twin [[41 cm/45 3rd Year Type naval gun|41&amp;nbsp;cm guns]]
+*20 × single [[14 cm/50 3rd Year Type naval gun|14&amp;nbsp;cm guns]]
+*4 × single [[8&amp;nbsp;cm/40 3rd Year Type naval gun|76&amp;nbsp;mm]] [[AA gun]]s
+*8 × {{convert|533|mm|in|abbr=on}} [[torpedo tube]]s
+| Ship armor =*[[Belt armor|Waterline belt]]: {{convert|305|-|100|mm|in|abbr=on|0}}
+*[[Deck (ship)|Deck]]: {{convert|144|mm|in|abbr=on|1}}
+*[[Gun turret]]s: {{convert|305|-|190|mm|in|abbr=on|1}}
+*[[Barbette]]s: {{convert|305|mm|in|abbr=on|0}}
+*[[Conning tower]]: {{convert|369|mm|in|abbr=on|1}}
+
+| Ship notes =
+}}
+{{Infobox ship characteristics
+| Hide header       =
+| Header caption    = (1944)
+| Ship displacement = {{convert|39130|t|LT|abbr=on}} ([[Standard displacement#Standard displacement|standard]])
+| Ship length       = {{convert|224.94|m|ftin|abbr=on}} ([[o/a]])
+| Ship beam         = {{convert|34.6|m|ftin|abbr=on}}
+| Ship draft        = {{convert|9.49|m|ftin|abbr=on}}
+| Ship power        =*{{convert|82300|shp|abbr=on}}
+*10 × water-tube boilers
+| Ship speed        = {{convert|25|kn}}
+| Ship range        = {{convert|8650|nmi|abbr=on}} at {{convert|16|kn}}
+| Ship complement   = 1,734
+| Ship sensors      =*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]]
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 13]] [[early warning radar]]s
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 22]] surface search radars
+| Ship armament     =*4 × twin 41&amp;nbsp;cm guns
+*18 × single 14&amp;nbsp;cm guns
+*4 × twin {{convert|127|mm|in|0|abbr=on}} [[dual-purpose gun]]s
+*98 × {{convert|25|mm|in|0|abbr=on}} AA guns 
+| Ship armor =*Belt: {{convert|305|-|100|mm|in|abbr=on|0}}
+*Deck: {{convert|152|-|51|mm|in|abbr=on|0}}
+*Barbettes: {{convert|376|mm|in|abbr=on|0}} 
+| Ship aircraft            = 3 × [[floatplane]]s
+| Ship aircraft facilities = 1 × [[aircraft catapult|catapult]]
+| Ship notes               =
+}}
+|}
+
+The {{nihongo|'''''Nagato''-class battleships'''|長門型戦艦|Nagato-gata senkan}} were a pair of [[dreadnought battleship]]s built for the [[Imperial Japanese Navy]] (IJN) during [[World War I]], although they were not completed until after the end of the war. {{ship|Japanese battleship|Nagato||2}}, the [[lead ship]] of the [[ship class|class]], frequently served as a [[flagship]]. Both ships carried supplies for the survivors of the [[1923 Great Kantō earthquake|Great Kantō earthquake]] in 1923. They were modernized in 1933–36 with improvements to their armor and machinery and a rebuilt superstructure in the [[pagoda mast]] style. ''Nagato'' and her [[sister ship]] {{ship|Japanese battleship|Mutsu||2}} briefly participated in the [[Second Sino-Japanese War]] in 1937 and ''Nagato'' was the flagship of [[Admiral]] [[Isoroku Yamamoto]] during the [[attack on Pearl Harbor]] on 7 December 1941 that began the [[Pacific War]].
+
+The sisters participated in the [[Battle of Midway]] in June 1942, although they did not see any combat. ''Mutsu'' saw more active service than her sister because she was not a flagship and participated in the [[Battle of the Eastern Solomons]] in August before returning to Japan in early 1943. One of ''Mutsu''{{'}}s aft [[magazine (artillery)|magazine]]s detonated in June, killing 1,121 crew and visitors and destroying the ship. The IJN conducted a perfunctory investigation into the cause of her loss and concluded that it was the work of a disgruntled crewmember. They dispersed the survivors in an attempt to conceal the sinking to keep up morale in Japan. Much of the wreck was [[marine salvage|salvaged]] after the war and many artifacts and relics are on display in Japan.
+
+''Nagato'' spent most of the first two years of the war training in home waters. She was transferred to [[Chuuk Lagoon|Truk]] in mid-1943, but did not see any combat until the [[Battle of the Philippine Sea]] in mid-1944 when she was attacked by American aircraft. ''Nagato'' did not fire her main armament against enemy vessels until the [[Battle of Leyte Gulf]] in October 1944. She was lightly damaged during the battle and returned to Japan the following month for repairs. The IJN was running out of fuel by this time and decided not to fully repair her. ''Nagato'' was converted into a floating [[anti-aircraft warfare|anti-aircraft]] platform and assigned to coastal defense duties. After the war, the ship was a target for U.S. [[nuclear weapon]] tests during [[Operation Crossroads]] in mid-1946. She survived the first test with little damage, but was sunk by the second test.
+
+==Background==
+The IJN considered a battle fleet of eight modern battleships and eight modern [[armored cruiser]]s necessary for the defense of Japan, and the government adopted that policy in 1907.&lt;ref&gt;Evans &amp; Peattie, p. 150&lt;/ref&gt; This was the genesis of the [[Eight-Eight Fleet Program]], the development of a cohesive battle line of 16 [[capital ship]]s less than eight years old.&lt;ref name=stille7&gt;Stille, p. 7&lt;/ref&gt; Advances in naval technology like the British battleship {{HMS|Dreadnought|1906|6}} and the [[battlecruiser]] {{HMS|Invincible|1907|6}} forced the IJN to several times re-evaluate the ships that it counted as modern. By 1910, the IJN considered none of its current ships to be modern and restarted the program in 1911 with orders for the {{sclass-|Fusō|battleship|0}} dreadnoughts and the {{sclass-|Kongō|battlecruiser|2}}s. By 1915, the IJN was halfway to its goal and wanted to order four more dreadnoughts, but the [[Diet of Japan|Diet]] rejected its plan, and the 1916 budget authorized only one dreadnought, later named {{ship|Japanese battleship|Nagato||2}}, and two battlecruisers. Later that year, American President [[Woodrow Wilson]] announced plans for 10 additional battleships and six battlecruisers, and the following year the Diet authorized three more dreadnoughts in response, one of which would later be named {{ship|Japanese battleship|Mutsu||2}}.&lt;ref&gt;Evans &amp; Peattie, pp. 160, 166–67&lt;/ref&gt;
+
+==Design==
+[[File:ONI-Nagato-class.jpg|thumb|left|[[Office of Naval Intelligence]] recognition drawing of the ''Nagato'' class.]]
+Allocated project number A-102, the ''Nagato'' class was designed before [[Commander]] [[Yuzuru Hiraga]] was reassigned to the Navy Technical Department (NTD) responsible for ship design, although Hiraga is often credited with the design of these ships.{{#tag:ref|''Nagato'' was ordered on 12 May 1916 and Hiraga returned to the NTD three days later.&lt;ref&gt;Lengerer, footnote 3&lt;/ref&gt;|group=Note}} In contrast to earlier designs, the ''Nagato'' class used the American &quot;all or nothing&quot; armor scheme that maximized the armor thickness protecting the core of the ship by eliminating armor elsewhere.&lt;ref name=gg1/&gt; The design had two armored [[deck (ship)|deck]]s of medium thickness rather than the single thicker deck used formerly. The ships also used a new type of underwater protection system that successfully resisted penetration by {{convert|200|kg|sp=us|adj=on}} [[torpedo]] [[warhead]]s in full-scale trials. It consisted of a deep water-tight compartment adjacent to the hull, backed by a thick [[torpedo bulkhead]] that connected to the side and deck armor plates, with a deep fuel oil tank behind it.&lt;ref&gt;Lengerer, pp. 4–5; Skwiot 2008, pp. 3, 8&lt;/ref&gt;
+
+Although the [[United States Navy]] planned to arm its {{sclass-|Colorado|battleship|4}} with {{convert|16|in|mm|adj=on|0}} guns before the ''Nagato'' class was designed, ''Nagato''{{'}}s {{convert|410|mm|adj=on|sp=us|1}} guns made her the first dreadnought that was [[Ship naming and launching|launched]] armed with guns larger than {{convert|15|in|0}}.&lt;ref&gt;Lengerer, p. 4&lt;/ref&gt;
+
+On 12 June 1917, well before ''Mutsu'' was [[laid down]], Hiraga proposed a revised design for the ship that reflected the lessons from the [[Battle of Jutland]] that had occurred the previous year, and incorporated advances in [[boiler (steam generator)|boiler]] technology. Given project number A-125, his design added an extra twin main-gun turret, using space and weight made available by the reduction of the number of boilers from 21 to 12, while the power remained the same. He reduced the [[Battleship secondary armament|secondary armament]] from 20 guns to 16, although they were raised in height to improve their ability to fire during heavy weather and to improve their arcs of fire. To increase the ship's protection he proposed angling the belt armor outwards to improve its resistance to horizontal fire, and increasing the thickness of the lower deck armor and the torpedo bulkhead. Hiraga also planned to add [[anti-torpedo bulge]]s to improve underwater protection. He estimated that his ship would [[Displacement (ship)|displace]] as much as ''Nagato'', although it would cost about a million yen more. Hiraga's changes would have considerably delayed ''Mutsu''{{'}}s completion and were rejected by the Navy Ministry.&lt;ref&gt;Lengerer, pp. 3, 6–7&lt;/ref&gt;
+
+==Description==
+The ships had a length of {{convert|201.17|m|ftin|sp=us}} [[Length between perpendiculars|between perpendiculars]] and {{convert|215.8|m|ftin|sp=us}} [[length overall|overall]]. They had a [[beam (nautical)|beam]] of {{convert|29.02|m|ftin|sp=us}} and a [[draft (ship)|draft]] of {{convert|9.08|m|ftin|sp=us}}.&lt;ref name=sk24&gt;Skwiot 2008, p. 4&lt;/ref&gt; The ''Nagato''-class ships displaced {{convert|32720|t|LT|sp=us}} at [[Standard displacement#Standard displacement|standard load]] and {{convert|39116|t|LT|sp=us}} at [[Full-load displacement|full load]].&lt;ref name=w0&gt;Whitley, p. 200&lt;/ref&gt; Their crew consisted of 1,333 officers and enlisted men as built and 1,368 in 1935.&lt;ref name=j8&gt;Jentschura, Jung &amp; Mickel, p. 28&lt;/ref&gt; In 1944, the crew totaled around 1,734 men.&lt;ref name=s4&gt;Stille, p. 34&lt;/ref&gt;
+
+The ''Nagato'' class was equipped with a unique heptapodal (seven-legged) mast designed to maximize rigidity for range-finding purposes and survivability under shellfire. It consisted of a thick vertical leg in the center surrounded by six outer legs. The central leg was large enough to accommodate an electric elevator running between the foretop and main deck.&lt;ref name=gg1&gt;Gardiner &amp; Gray, p. 231&lt;/ref&gt; In November 1944, the tops of ''Nagato''{{'}}s [[mainmast]] and [[funnel (ship)|funnel]] were removed to improve the arcs of fire for her anti-aircraft guns.&lt;ref name=han/&gt;
+
+In 1927, ''Mutsu''{{'}}s bow was remodeled to reduce the amount of spray produced when steaming into a [[head sea]]. This increased her overall length by {{convert|1.59|m|ftin|sp=us}} to {{convert|217.39|m|ftin|sp=us}}. This proved successful and her sister's bow was rebuilt in 1930. During their 1934–36 reconstruction, the ships' sterns were lengthened by {{convert|7.55|m|ft|sp=us}} to improve their speed and their forward [[superstructure]]s were rebuilt into a [[pagoda mast]]. They were given [[torpedo bulge]]s to improve their underwater protection and to compensate for the weight of the additional armor and equipment. These changes increased their overall length to {{convert|224.94|m|ft|abbr=on}}, their beam to {{convert|34.6|m|ftin|abbr=on}} and their draft to {{convert|9.49|m|ftin|sp=us}}. Their displacement increased over {{convert|7000|t|LT|sp=us}} to {{convert|46690|t|LT|sp=us}} at deep load.&lt;ref&gt;Skwiot 2008, pp. 6, 9–10, 34, 71–72&lt;/ref&gt;
+
+===Propulsion===
+The ships were equipped with four Gihon geared [[steam turbine]]s, each of which drove one {{convert|4.191|m|ftin|adj=on|sp=us|0}} propeller. The turbines were designed to produce a total of {{convert|80000|shp|lk=in}}, using steam provided by 21 Kampon [[water-tube boiler]]s; 15 of these were oil-fired while the remaining half-dozen used [[fuel oil]] that was sprayed on the coal to increase its burn rate. The boilers had a working pressure of {{convert|286|psi|kPa kg/cm2|0|abbr=on|lk=on}}.&lt;ref&gt;Skwiot 2008, pp. 43–44&lt;/ref&gt;
+
+The ships had a stowage capacity of {{convert|1600|LT|t|abbr=on|0}} of coal and {{convert|3400|LT|t|abbr=on|0}} of oil,&lt;ref name=&quot;w0&quot;/&gt; giving them a range of {{convert|5500|nmi|lk=in}} at a speed of {{convert|16|kn|lk=in}}. ''Nagato'' exceeded her designed speed of {{convert|26.5|knots}} during her [[sea trial]]s, reaching {{convert|26.7|kn}} at {{convert|85500|shp|abbr=on}} and ''Mutsu'' reached the same speed with {{convert|87500|shp|abbr=on}}.&lt;ref name=j8/&gt; The US Navy did not learn their actual speed capability until about 1937; previously it had believed that the ships were capable of only {{convert|23|kn}}.&lt;ref name=gg1/&gt;
+
+During refits in 1923–25, the fore funnel was rebuilt in a serpentine shape in an unsuccessful effort to prevent smoke interference with the [[bridge (nautical)|bridge]] and [[fire-control system]]s.&lt;ref name=j8/&gt; The rebuilt fore funnel was eliminated during the ships' 1930s reconstructions when their boilers were replaced by 10 oil-fired Kampon boilers, which had a working pressure of {{convert|313|psi|kPa kg/cm2|0|abbr=on}} and temperature of {{convert|300|°C}}.&lt;ref&gt;Skwiot 2008, pp. 73, 76–77&lt;/ref&gt; The turbines were also replaced by lighter, more modern, units&lt;ref name=s2/&gt; and their propellers were replaced by larger {{convert|4.3|m|ftin|adj=on|sp=us|0}} ones. When the ships conducted their post-reconstruction trials, they reached a speed of {{convert|24.98|kn}} with {{convert|82300|shp|abbr=on}}.&lt;ref name=s8&gt;Skwiot 2008, pp. 43, 78&lt;/ref&gt; Additional fuel oil was stored in the bottoms of the newly added [[torpedo bulge]]s, which increased their capacity to {{convert|5560|LT|t}} and thus their range to {{convert|8560|nmi|abbr=on}} at 16 knots.&lt;ref name=&quot;w0&quot;/&gt;
+
+===Armament===
+[[File:41cm-45 3rd Year Type naval gun outside the Yamato Museum during October 2008.jpg|thumb|left|A gun from ''Mutsu'' on display at the [[Yamato Museum]] in [[Kure, Japan]]]]
+The [[Main battery|main armament]] of the ''Nagato''-class ships consisted of eight 45-[[caliber (artillery)|caliber]] [[41 cm/45 3rd Year Type naval gun|41-centimeter]] guns, mounted in two pairs of twin-gun, [[superfire|superfiring]] turrets fore and aft. Numbered one through four from front to rear, the hydraulically powered turrets gave the guns an elevation range of −2 to +35 degrees. The rate of fire for the guns was around two rounds per minute. Their turrets were replaced in the mid-1930s using the turrets stored from the unfinished {{sclass-|Tosa|battleship|2}}s. While in storage they were modified to increase their range of elevation to −3 to +43 degrees,&lt;ref name=s19&gt;Skwiot 2008, p. 19&lt;/ref&gt; which increased the gun's maximum range from {{convert|30200|to|37900|m|yd|sp=us}}.&lt;ref name=f9&gt;Friedman, p. 269&lt;/ref&gt;
+
+By World War II, the guns used Type 91 [[Armour-piercing capped#Armor-piercing|armor-piercing, capped shells]]. Each of these shells weighed {{convert|1020|kg|lb|sp=us}} and had a [[muzzle velocity]] of {{convert|780|m/s|ft/s|sp=us}}. Also available was a {{convert|936|kg|lb|sp=us|adj=on}} [[Armour-piercing capped#High-explosive|high-explosive shell]] that had a muzzle velocity of {{convert|805|m/s|ft/s|sp=us}}. A special Type 3 ''Sankaidan'' incendiary [[shrapnel shell]] was developed in the 1930s for anti-aircraft use.&lt;ref&gt;Campbell, pp. 175, 181–82&lt;/ref&gt;
+
+The ships' secondary armament of twenty 50-caliber [[14 cm/50 3rd Year Type naval gun|14-centimeter guns]] was mounted in [[casemate]]s on the upper sides of the hull and in the superstructure. The latter guns had a maximum elevation of +20 degrees and the former could elevate to +25 degrees which gave them ranges of {{convert|15800|m|yd|sp=us}} and {{convert|17000|m|yd|sp=us}} respectively.&lt;ref&gt;Skwiot 2008, pp. 24, 73&lt;/ref&gt; Each gun could fire a {{convert|38|kg|lb|adj=on}} high-explosive projectile at a rate up to 10 rounds per minute.&lt;ref&gt;Campbell, p. 190&lt;/ref&gt; [[Anti-aircraft defense]] was provided by four 40-caliber [[8&amp;nbsp;cm/40 3rd Year Type naval gun|3rd Year Type 3-inch]]{{#tag:ref|These guns were license-built British [[quick-firing gun|quick-firing (QF)]] [[QF 12 pounder 12 cwt naval gun|QF 12-pounder guns]]. While the Japanese designated them as 8&amp;nbsp;cm, their actual caliber was 76.2&amp;nbsp;millimeters.&lt;ref name=c8/&gt;|group=Note}} [[AA gun]]s in single mounts. The {{convert|3|in|adj=on}} high-angle guns had a maximum elevation of +75 degrees, and had a rate of fire of 13 to 20 rounds per minute. They fired a {{convert|6|kg|lb|abbr=on}} projectile with a muzzle velocity of {{convert|680|m/s|ft/s|abbr=on}} to a maximum height of {{convert|7500|m|ft|sp=us}}.&lt;ref name=c8&gt;Campbell, p. 198&lt;/ref&gt; The ship was also fitted with eight {{convert|53.3|cm|in|adj=on|sp=us}} [[torpedo tube]]s, four on each [[broadside]], two above water and two submerged. They used the [[6th Year Type torpedo]] which had a {{convert|203|kg|adj=on|sp=us}} warhead of [[Shimose powder]]. It had three settings for range and speed: {{convert|15500|m|yd|sp=us}} at {{convert|26|kn}}, {{convert|10000|m|yd|sp=us}} at {{convert|32|kn}}, or {{convert|7000|m|yd|sp=us}} at {{convert|37|kn}}.&lt;ref&gt;Skwiot 2008, p. 31&lt;/ref&gt;
+
+[[File:Fusō-class battleship.jpg|thumb|right|A twin 127&amp;nbsp;mm gun mount aboard ''Nagato'']]
+Around 1926, the four above-water torpedo tubes were removed and the ships received three additional 76-millimeter AA guns that were situated around the base of the foremast.&lt;ref name=&quot;Skwiot&quot;&gt;Skwiot 2008, p. 70&lt;/ref&gt; They were replaced by eight 40-caliber [[12.7 cm/40 Type 89 naval gun|12.7-centimeter Type 89]] [[dual-purpose gun]]s in 1932,&lt;ref name=han&gt;Hackett, Kingsepp &amp; Ahlberg, ''Nagato''&lt;/ref&gt; fitted on both sides of the fore and aft superstructures in four twin-gun mounts.&lt;ref name=w2&gt;Whitley, p. 202&lt;/ref&gt; When firing at surface targets, the guns had a range of {{convert|14700|m|yd|sp=us}}. Their maximum rate of fire was 14 rounds a minute, but their sustained rate of fire was around eight rounds per minute.&lt;ref&gt;Campbell, pp. 192–93&lt;/ref&gt; Two twin-gun mounts for license-built [[Vickers]] [[QF 2 pounder naval gun|2-pounder]] light AA guns were also added to the ship that same year.&lt;ref name=han/&gt;{{#tag:ref|Skwiot says two single mounts in 1932–34 and another pair, mounted near the aft funnel, were added in 1934.&lt;ref&gt;Skwiot 2008, pp. 26, 72&lt;/ref&gt;|group=Note}} They had a rate of fire of 200 rounds per minute.&lt;ref&gt;Campbell, p. 74&lt;/ref&gt;
+
+When the ships were reconstructed in 1934–36, the remaining torpedo tubes and the two forward 14-centimeter guns were removed from the hull. All of the remaining 14-centimeter guns had their elevation increased to +35 degrees which increased their range to {{convert|20000|m|yd|sp=us}}. An unknown number of license-built [[13.2 mm Hotchkiss machine gun|13.2-millimeter Hotchkiss machine gun]]s in twin mounts were also added. The maximum range of these guns was {{convert|6500|m|yd|sp=us}},&lt;ref&gt;Skwiot 2008, pp. 33, 72–73&lt;/ref&gt; but the effective range against aircraft was {{convert|700|-|1500|m|yd|sp=us}}. The cyclic rate was adjustable between 425 and 475 rounds per minute, but the need to change 30-round [[magazine (firearms)|magazines]] reduced the effective rate to 250 rounds per minute.&lt;ref&gt;Campbell, p. 202&lt;/ref&gt;
+
+The 2-pounders were replaced in 1939 by 20 license-built [[25 mm Hotchkiss anti-aircraft gun|Hotchkiss]] [[Type 96 25 mm AT/AA Gun|25-millimeter Type 96]] light AA guns in a mixture of twin-gun and single mounts.&lt;ref&gt;Hackett, Kingsepp &amp; Ahlberg, ''Mutsu'' and ''Nagato''&lt;/ref&gt; This was the standard Japanese light AA gun during World War II, but it suffered from severe design shortcomings that rendered it a largely ineffective weapon. According to historian Mark Stille, the twin and triple mounts &quot;lacked sufficient speed in train or elevation; the gun sights were unable to handle fast targets; the gun exhibited excessive vibration; the magazine was too small, and, finally, the gun produced excessive muzzle blast&quot;.&lt;ref name=stille11&gt;Stille, p. 11&lt;/ref&gt; These {{convert|25|mm|in|adj=on|sp=us}} guns had an effective range of {{convert|1500|-|3000|m|yd|sp=us}}. The maximum effective rate of fire was only between 110 and 120 rounds per minute because of the frequent need to change the 15-round magazines.&lt;ref&gt;Campbell, p. 200&lt;/ref&gt; As far as is known, no additional AA guns were installed aboard ''Mutsu'' before her loss.&lt;ref name=wi9/&gt; Additional 25-millimeter guns were installed aboard ''Nagato'' during the war; on 10 July 1944, she was reported to have 98 guns on board. An additional 30 guns were added during a refit in Yokosuka in November. Two more twin 127-millimeter gun mounts were added at the same time abreast the funnel&lt;ref&gt;Skwiot 2008, p. 80&lt;/ref&gt; and all of her 14-centimeter guns were removed as she was now a floating anti-aircraft battery.&lt;ref name=han/&gt;
+
+===Armor===
+[[File:Nagatoarmor.svg|thumb|300px|right|Cross-section of the armor scheme after reconstruction]]
+The ''Nagato''-class ships' [[waterline]] [[belt armor|armor belt]] was made from [[Vickers cemented armor]] and protected {{convert|137.14|m|ft|sp=us}} of the hull between the [[barbette]]s of the end turrets. The lower [[strake]] was {{convert|305|mm|in|0|abbr=on}} thick, {{convert|2.7|m|ftin|sp=us}} high, and tapered to a thickness of {{convert|100|mm|in|abbr=on}} at its bottom edge; above it was a strake of {{convert|229|mm|in|abbr=on|0}} armor that was {{convert|1.7|m|ftin|sp=us}} high. Approximately {{convert|1.77|m|ftin|sp=us}} of the armor belt was below the waterline. The turrets were protected with an armor thickness of 305&amp;nbsp;mm on the face, {{convert|230|-|190|mm|in|abbr=on|1}} on the sides, and {{convert|152|-|127|mm|in|abbr=on}} on the roof.&lt;ref name=f9/&gt; The barbettes were protected by armor 305&amp;nbsp;mm thick, while the casemates of the 140&amp;nbsp;mm guns were protected by 25&amp;nbsp;mm armor plates. The sides of the [[conning tower]] were {{convert|369|mm|in|abbr=on}} thick.&lt;ref name=&quot;w0&quot; /&gt;
+
+The main deck armor consisted of three layers of high-tensile steel (HTS) {{convert|69|mm|in|abbr=on|1}} thick that connected to the top of the upper strake of side armor. The flat portion of the lower deck had one layer of Ducol steel 25&amp;nbsp;mm thick with two layers of HTS of equal thickness above it. About {{convert|3|m|ftin|sp=us}} from the side of the hull, this deck, now composed of three layers of HTS, totaling {{convert|75|mm|in|abbr=on|0}} in thickness, sloped downwards where it met a short horizontal armored (three layers of HTS with a total thickness of {{convert|66|mm|in|abbr=on|0}}) deck that connected to the main armored belt and the torpedo bulkhead. This was also made up of three 25&amp;nbsp;mm layers of HTS{{#tag:ref|This was intended to be a single plate of New Vickers non-cemented armor of equal thickness, but it could not be formed into the required shape.&lt;ref&gt;Lengerer, footnote 8&lt;/ref&gt;|group=Note}} and curved up and outwards to meet the short horizontal armored deck. It enclosed a water-tight compartment that was {{convert|3.05|m|ftin|sp=us}} from the side of the ship. It was backed by fuel oil tanks {{convert|3.13|m|ftin|sp=us}} deep.&lt;ref&gt;Skwiot 2008, pp. 3, 10–11&lt;/ref&gt; The outermost void was designed to allow the explosive force of a torpedo's warhead to dissipate as much as possible while the oil tank was supposed to stop any fragments from penetrating the innermost [[Bulkhead (partition)|bulkhead]] protecting the ship's vital areas.&lt;ref&gt;Lengerer, pp. 4–5&lt;/ref&gt;
+
+The new 41&amp;nbsp;cm turrets installed during their reconstruction were more heavily armored than the original ones. Face armor was increased to {{convert|460|mm|in|abbr=on|0}}, the sides to {{convert|280|mm|in|abbr=on|0}}, and the roof to {{convert|230|-|250|mm|in|abbr=on|0}}.&lt;ref&gt;Campbell, p. 182&lt;/ref&gt; The armor over the machinery and magazines was increased by {{convert|38|mm|in|abbr=on|1}} on the upper deck and 25&amp;nbsp;mm on the upper armored deck.&lt;ref name=s2/&gt; The torpedo bulges added at the same time were {{convert|13.5|m|ftin|sp=us}} high and {{convert|2.84|m|ftin|sp=us}} deep. They were divided into four compartments, the lower two of which were filled with oil and the others remained empty.&lt;ref&gt;Skwiot 2008, pp. 9, 73&lt;/ref&gt; These additions increased the weight of each ship's armor to {{convert|13032|t|LT|sp=us}},&lt;ref name=s8/&gt; 32.6 percent of their displacement.&lt;ref name=s2&gt;Stille, p. 32&lt;/ref&gt; In early 1941, as a preparation for war, the uppermost compartment of the bulges was filled with sealed steel crushing tubes&lt;ref name=han/&gt; and the barbette armor of both ships was reinforced with 100&amp;nbsp;mm armor plates above the main deck and {{convert|215|mm|in|abbr=on}} plates below it.&lt;ref&gt;Chesneau, p. 172&lt;/ref&gt;
+
+===Fire control and sensors===
+[[File:Nagato1924.jpg|thumb|''Nagato'' at anchor, around 1924]]
+The ''Nagato''-class ships were fitted with a {{convert|10|m|ftin|adj=on|sp=us}} [[rangefinder]] in the forward superstructure; {{convert|6|m|ftin|adj=on|sp=us|spell=in}} and {{convert|3|m|ftin|adj=on|sp=us|spell=in}} anti-aircraft rangefinders were added in the early 1920s. The rangefinders in the two superfiring turrets were replaced by 10-meter units in 1932–33.&lt;ref&gt;Skwiot 2008, pp. 34, 72&lt;/ref&gt;
+
+They were initially fitted with a Type 13 fire-control system derived from Vickers equipment received during [[World War I]], but this was replaced by an improved Type 14 system around 1925. It controlled the main and secondary guns; no provision was made for anti-aircraft fire until the Type 31 [[fire-control director]] was introduced in 1932. A modified Type 14 fire-control system was tested aboard ''Nagato'' in 1935, and later approved for service as the Type 34. A new anti-aircraft director, designated the Type 94, used to control the 127&amp;nbsp;mm AA guns, was introduced in 1937, although it is unknown when they were installed on the ships. The 25&amp;nbsp;mm AA guns were controlled by a Type 95 director that was also introduced in 1937.&lt;ref&gt;Skwiot 2008, pp. 33–37&lt;/ref&gt;
+
+As far as is known, no [[radar]]s were installed aboard ''Mutsu'' before her loss.&lt;ref name=wi9/&gt; While in [[drydock]] in May 1943, a [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air-search radar was installed aboard ''Nagato'' on the roof of the 10-meter rangefinder at the top of the pagoda mast. On 27 June 1944, two Type 22 surface-search radars were installed on the pagoda mast and two Type 13 [[early warning radar]]s were fitted on her mainmast.&lt;ref name=han/&gt;
+
+===Aircraft===
+''Nagato'' was briefly fitted with an {{convert|18|m|ftin|sp=us|adj=on}}&lt;ref&gt;Skwiot 2008, p. 47&lt;/ref&gt; aircraft [[Flight deck#Early flight decks|flying-off platform]] on No. 2 turret in August 1925. [[Yokosuka Ro-go Ko-gata]] and [[Heinkel HD 25]] [[floatplane]]s were tested from it before it was removed early the following year.&lt;ref name=han/&gt; An additional boom was added to the mainmasts of both ships in 1926 to handle the [[Yokosuka E1Y]] then assigned to them.&lt;ref name=&quot;Skwiot&quot; /&gt; A [[Hansa-Brandenburg W.33]] floatplane was tested aboard ''Nagato'' that same year.&lt;ref name=han/&gt; A [[aircraft catapult|catapult]] was fitted between the mainmast and No. 3 turret&lt;ref&gt;Skwiot 2008, p. 57&lt;/ref&gt; in mid-1933,&lt;ref name=han/&gt; a collapsible [[crane (machine)|crane]] was installed in a portside [[sponson]], and the ships were equipped to operate two or three floatplanes, although no [[hangar]] was provided. The sisters began to operate [[Nakajima E4N]]2 biplanes until they were replaced by [[Nakajima E8N]]2 biplanes in 1938. A more powerful catapult was installed in November 1938 to handle heavier aircraft like the one [[Kawanishi E7K]] that was added in 1939–40. [[Mitsubishi F1M]] biplanes replaced the E8Ns on 11 February 1943.&lt;ref&gt;Skwiot 2008, pp. 54, 57&lt;/ref&gt;
+
+==Ships==
+{| class=&quot;wikitable&quot;
+|-
+! Name
+!Builder&lt;ref name=&quot;w0&quot; /&gt;
+!Laid down&lt;ref name=&quot;w0&quot;/&gt;
+!Launched&lt;ref name=&quot;w0&quot;/&gt;
+! Completed&lt;ref name=&quot;w0&quot;/&gt;
+! Fate
+|-
+|{{ship|Japanese battleship|Nagato||2}}&lt;br/&gt;(長門)
+|[[Kure Naval Arsenal]]
+|28 August 1917
+|9 November 1919
+|25 November 1920
+|Sunk during [[Operation Crossroads]], 29/30 July 1946&lt;ref name=tu&gt;Tully&lt;/ref&gt;
+|-
+|{{ship|Japanese battleship|Mutsu||2}}&lt;br/&gt;(陸奥)
+|[[Yokosuka Naval Arsenal]]
+|1 June 1918
+|31 May 1920
+|24 October 1921
+|Sunk by internal explosion, 8 June 1943&lt;ref name=wi9&gt;Williams, p. 129&lt;/ref&gt;
+|}
+
+==Construction and service==
+[[File:Mutsu1921.jpg|thumb|right|''Mutsu'' at sea, 19 October 1921]]
+While ''Mutsu'' was still [[fitting out]], the American government decided to call a conference in Washington, D.C. to forestall the massively expensive naval arms race between the United States, the United Kingdom and the Empire of Japan that was developing. The [[Washington Naval Conference]] convened on 12 November, and the Americans proposed to [[ship breaking|scrap]] virtually every capital ship under construction or fitting out among the participating nations. ''Mutsu'' was specifically listed among those to be scrapped even though she had been commissioned a few weeks earlier. This was unacceptable to the Japanese delegation and they agreed to a compromise that allowed them to keep ''Mutsu'' in exchange for scrapping the obsolete [[dreadnought]] {{ship|Japanese battleship|Settsu||2}} and a similar arrangement for several American ''Colorado''-class dreadnoughts that were fitting out.&lt;ref&gt;Skwiot 2008, pp. 17–19, 21&lt;/ref&gt;
+
+Upon commissioning, the [[sister ship]]s were assigned to the 1st Battleship Division, although ''Nagato'' became the flagship of [[Rear Admiral]] [[Sōjirō Tochinai]], a role she often fulfilled during her career. The ships hosted [[Edward VIII|Edward]], [[Prince of Wales]], and his [[aide-de-camp]] Lieutenant [[Louis Mountbatten]] in 1922 during the prince's visit to Japan.&lt;ref name=han/&gt; After the 1923 Great Kantō earthquake, both ships loaded supplies from [[Kyushu]] for the victims on 4 September. They sank the [[hulk (ship)|hulk]] of the obsolete battleship {{ship|Japanese battleship|Satsuma||2}} on 7 September 1924 during gunnery practice in [[Tokyo Bay]] in accordance with the [[Washington Naval Treaty]]. ''Nagato'' became flagship of the Combined Fleet on 1 December 1925, flying the flag of Admiral [[Keisuke Okada]]. The sisters were placed in reserve several times during the 1920s while they were being modernized. ''Mutsu'' served as flagship of [[Emperor of Japan|Emperor]] [[Hirohito]] during the 1927 naval maneuvers and fleet review and again in 1933.&lt;ref name=han/&gt;&lt;ref name=ham&gt;Hackett, Kingsepp &amp; Ahlberg, ''Mutsu''&lt;/ref&gt;
+
+[[File:NagatoFiring1936.jpg|thumb|''Nagato'' firing her main armament, 21 May 1936]]
+The ships were reconstructed from late 1933 to mid-1936. In August 1937, the sisters transported 3,749 men of the [[11th Division (Imperial Japanese Army)|11th Infantry Division]] to Shanghai during the Second Sino-Japanese War.&lt;ref name=han/&gt;&lt;ref name=ham/&gt; Their floatplanes bombed targets in Shanghai on 24 August before they returned to [[Sasebo Naval District|Sasebo]] the following day.&lt;ref&gt;Skwiot 2007, pp. 36, 81&lt;/ref&gt; ''Nagato'' became a training ship on 1 December 1937 until she again became the flagship of the Combined Fleet on 15 December 1938. The ship participated in an Imperial Fleet Review on 11 October 1940.&lt;ref name=han/&gt; The sisters were refitted in 1941 in preparation for war, which included the fitting of external [[degaussing]] coils and additional armor for their barbettes.&lt;ref name=han/&gt;&lt;ref name=ham/&gt;
+
+===World War II===
+Admiral Isoroku Yamamoto issued the code phrase &quot;Niitaka yama nobore&quot; (Climb [[Mount Niitaka]]) on 2 December 1941 from ''Nagato'' at anchor at [[Hashirajima]] to signal the [[1st Air Fleet (Imperial Japanese Navy)#Kido Butai|1st Air Fleet]] (''Kido Butai'') to proceed with its attack on Pearl Harbor. When Japan began the Pacific War on 8 December,&lt;ref group=Note&gt;[[Japan Standard Time]] is 19 hours ahead of [[Hawaiian Standard Time]], so in Japan, the [[attack on Pearl Harbor]] happened on 8 December.&lt;/ref&gt; the sisters [[sortie]]d for the [[Bonin Islands]], along with the four ships of Battleship Division 2 and the [[light carrier]] {{ship|Japanese aircraft carrier|Hōshō||2}} as distant cover for the fleet attacking [[Pearl Harbor]], and returned six days later. Yamamoto transferred his flag to the new battleship {{ship|Japanese battleship|Yamato||2}} on 12 February 1942.&lt;ref name=han/&gt;
+
+In June 1942, ''Mutsu'' and ''Nagato'' were assigned to the Main Body of the [[1st Fleet (Imperial Japanese Navy)|1st Fleet]] during the Battle of Midway, together with ''Yamato'', ''Hōshō'', the [[light cruiser]] {{ship|Japanese cruiser|Sendai||2}} and nine destroyers.&lt;ref&gt;Rohwer, pp. 168–69&lt;/ref&gt;&lt;ref&gt;Parshall &amp; Tully, p. 453&lt;/ref&gt; Following the loss of all four fleet carriers of the &quot;Kido Butai&quot; on 4 June, Yamamoto attempted to lure the American forces west to within range of the Japanese air groups at [[Wake Island]], and into a night engagement with his surface forces, but the American forces withdrew and ''Mutsu'' saw no action. After rendezvousing with the remnants of the Striking Force on 6 June, over half of the survivors from the sunken aircraft carriers of the 1st Air Fleet were transferred to ''Mutsu'' and ''Nagato''.&lt;ref&gt;Parshall &amp; Tully, pp. 382–83&lt;/ref&gt; They arrived at Hashirajima on 14 June.&lt;ref name=ham/&gt;
+
+On 14 July, both ships were reassigned to Battleship Division 2 and ''Nagato'' became the flagship of the 1st Fleet. She remained in Japanese waters training until August 1942.&lt;ref name=han/&gt; ''Mutsu'' was transferred to the Advance Force of the [[2nd Fleet (Imperial Japanese Navy)|2nd Fleet]] on 9 August, and departed [[Yokosuka]] two days later to support operations during the [[Guadalcanal Campaign]]. She arrived at [[Chuuk State|Truk]] on 17 August. On 20 August, while sailing from Truk to rendezvous with the main body of [[Vice Admiral]] [[Chūichi Nagumo]]'s [[3rd Fleet (Imperial Japanese Navy)|3rd Fleet]], ''Mutsu'', the [[heavy cruiser]] {{ship|Japanese cruiser|Atago||2}}, and escorting destroyers unsuccessfully attempted to locate the [[escort carrier]] {{USS|Long Island|CVE-1|6}} in response to a flying boat detection of the American ship.&lt;ref name=ham/&gt;
+
+During the Battle of the Eastern Solomons on 27 August, ''Mutsu'', assigned to the Support Force,&lt;ref&gt;Rohwer, p. 190&lt;/ref&gt; fired four shells at enemy [[reconnaissance aircraft]] during what was her first, and only, action of the war.&lt;ref&gt;Williams, p. 125&lt;/ref&gt; On 7 January 1943, ''Mutsu'' returned to Japan together with the carrier {{ship|Japanese aircraft carrier|Zuikaku||2}}, the heavy cruiser {{ship|Japanese cruiser|Suzuya||2}} and four destroyers. The ship prepared to sortie on 13 April to reinforce the Japanese garrisons in the [[Aleutian Islands]] in response to the [[Battle of the Komandorski Islands]], but the operation was cancelled the next day and ''Mutsu'' resumed training.&lt;ref name=ham/&gt;
+
+====''Mutsu''{{'}}s loss====
+On 8 June 1943, ''Mutsu'' was moored at Hashirajima when the magazine of her No. 3 turret exploded at 12:13, cutting the ship in half. The forward section [[capsized]] almost immediately, but the rear section remained afloat until the early morning of the next day. Nearby ships were able to rescue 353 survivors from the 1,474 crew members and visitors aboard ''Mutsu'', meaning that 1,121 men were killed in the explosion. To avert the potential damage to morale from the loss of a battleship, ''Mutsu''{{'}}s loss was declared a state secret. To further prevent rumors from spreading, many survivors were reassigned to various garrisons in the Pacific Ocean.&lt;ref&gt;Williams, pp. 132–33&lt;/ref&gt;
+
+The IJN convened a commission three days after the sinking to investigate the loss. It issued its preliminary conclusions on 25 June, well before the investigation of the wreck was completed, and decided that the explosion was the result of a disgruntled seaman. The commission failed to consider the possibility of fire, which historian Mike Williams considers to be a possible cause, as a number of observers noted smoke coming from the vicinity of No. 3 turret. The truth, however, will never be known.&lt;ref&gt;Williams, pp. 135, 142&lt;/ref&gt;
+
+====''Nagato''====
+[[File:Nagato1944.png|thumb|right|Drawing of ''Nagato'' as she appeared in 1944]]
+''Nagato'' transferred to [[Chuuk Lagoon|Truk]] in the [[Caroline Islands]] in August 1943. Together with the bulk of the 1st Fleet, she sortied in September and October in unsuccessful searches for American carriers. On 1 February 1944, ''Nagato'' departed Truk to avoid an American air raid, and arrived at [[Palau]] three days later. The ship arrived on 21 February at [[Lingga Island]], near Singapore, and she became the flagship of Vice Admiral [[Matome Ugaki]], commander of Battleship Division 1, on 25 February until he transferred his flag to ''Yamato'' on 5 May. ''Nagato'' remained at Lingga until 11 May when she was transferred to [[Tawitawi]] on 12 May, and assigned to the [[1st Mobile Fleet (Imperial Japanese Navy)|1st Mobile Fleet]], under the command of Vice Admiral [[Jisaburō Ozawa]].&lt;ref name=han/&gt;
+
+Battleship Division 1 rendezvoused with Ozawa's main force on 16 June near the [[Mariana Islands]], and ''Nagato'' escorted three aircraft carriers during the [[Battle of the Philippine Sea]]. She was only lightly engaged during the battle, was not damaged, and suffered no casualties.&lt;ref name=han/&gt; After the battle, the ship returned to Japan where she was refitted with additional radars and light AA guns. ''Nagato'' loaded a regiment of the [[28th Division (Imperial Japanese Army)|28th Infantry Division]] and delivered them at Okinawa on 11 July before continuing on to Lingga.&lt;ref&gt;Skwiot 2007, p. 46&lt;/ref&gt;
+
+[[File:Japanese Battleship Nagato 1944.jpg|thumb|right|''Nagato'' lies at anchor in [[Brunei Bay]], 21 October 1944, shortly before the [[Battle of Leyte Gulf]]]]
+In October 1944, the ship took part in &quot;Operation ''Sho''-1&quot;, an attack on the [[Allies of World War II|Allied]] landings on [[Battle of Leyte Gulf|Leyte]]. Assigned to Vice Admiral [[Takeo Kurita]]'s 1st Diversion Force (also known as the Center Force), ''Nagato'' was attacked by multiple waves of American [[dive bombers]] and [[fighter aircraft|fighters]] during the [[Battle of the Sibuyan Sea]] on 24 October en route to [[Leyte Gulf]]. She was struck twice by bombs that killed 52 crewmen, but was not seriously damaged.&lt;ref&gt;Skwiot 2007, p. 51&lt;/ref&gt;
+
+The next morning, the 1st Diversion Force attacked the American forces supporting the invasion in the [[Battle off Samar]]. ''Nagato'' engaged the escort carriers and destroyers of [[Task Group]] 77.4.3, codenamed &quot;Taffy 3&quot;. She opened fire on three escort carriers, the first time she had fired her guns at an enemy ship, but missed. One of the defending destroyers fired a spread of torpedoes that missed their intended target and headed for ''Yamato'' and ''Nagato'' which were on a parallel course. The two battleships were forced to turn away north to avoid the torpedoes, and were 10&amp;nbsp;miles (16&amp;nbsp;km) away from the engagement before the torpedoes ran out of fuel. Turning back, ''Nagato'' engaged the American ships, claiming damage to one [[cruiser]].{{#tag:ref|No cruisers were present, only destroyers and [[destroyer escort]]s.&lt;ref name=han/&gt;|group=Note}} Later in the day, ''Nagato'' was hit in the bow by two bombs, but the damage was not severe.&lt;ref name=han/&gt;
+
+The ship returned to Japan for repairs in mid-November. Lack of fuel and materials meant that she could not be brought back into service and she was turned into a [[floating battery|floating anti-aircraft battery]]. Her funnel and mainmast were removed to improve the arcs of fire of her AA guns, which were increased by two Type 89 mounts and nine triple 25&amp;nbsp;mm gun mounts. Her forward secondary guns were removed in compensation.&lt;ref name=han/&gt; A coal-burning [[donkey boiler]] was installed on the [[pier]] for heating and cooking purposes and a converted [[submarine chaser]] was [[wikt:moor|moored]] alongside to provide steam and electricity;&lt;ref name=&quot;tu&quot; /&gt; her anti-aircraft guns lacked full power and were only partially operational. On 20 April ''Nagato'' was reduced to reserve. In June 1945, all of her secondary guns and about half of her anti-aircraft armament was moved ashore, together with her rangefinders and [[searchlight]]s. Her crew was therefore reduced to less than 1,000 officers and enlisted men. On 18 July 1945, the heavily camouflaged ship [[Attack on Yokosuka|was attacked]] by carrier-based fighter bombers and torpedo bombers. ''Nagato'' was hit by two bombs and a [[rocket]] that killed 35 men and damaged four 25&amp;nbsp;mm guns. On 30 August, a few days before the [[Surrender of Japan|formal surrender]], American sailors took control of the ship.&lt;ref name=han/&gt;&lt;ref name=&quot;tu&quot;/&gt;
+
+==After the war==
+[[File:Crossroads Baker Base Surge.jpg|thumb|left|''Nagato'', left, at the beginning of the blast surge during the second atomic bomb test at Bikini Atoll]]
+''Nagato'' was selected to participate as a target ship in [[Operation Crossroads]], a series of U.S. nuclear weapon tests held at [[Bikini Atoll]] in mid-1946. In mid-March, ''Nagato'' departed Yokosuka for [[Eniwetok]], but her hull had not been repaired from the underwater damage sustained during the attack on 18 July and she leaked enough that her pumps could not keep up. The ship had a [[list (watercraft)|list]] of seven degrees to port by the time [[tugboat]]s from Eniwetok arrived. She reached the [[atoll]] on 4 April and Bikini in May.&lt;ref name=han/&gt;
+
+Operation Crossroads began with the first blast (Test Able), an [[air burst]] on 1 July 1946; ''Nagato'' was not close to [[ground zero]] and was only lightly damaged. For Test Baker, an [[underwater explosion]], the ship was positioned closer to ground zero. ''Nagato'' rode out the [[tsunami]] of water from the explosion with little apparent damage; she had a slight starboard list of two degrees after the tsunami dissipated. A more thorough assessment could not be made because she was dangerously [[radioactive]]. Her list gradually increased over the next five days and she capsized during the night of 29/30 July.&lt;ref name=&quot;tu&quot;/&gt; Opened to divers in 1996,&lt;ref&gt;{{cite web|url=http://www.bikiniatoll.com/divetour.html|title=Bikini Atoll Dive Tourism Information|publisher=Bikini Atoll Divers|accessdate=8 January 2014}}&lt;/ref&gt; ''[[The Times]]'' has named ''Nagato'' as one of the top 10 [[wreck diving]] sites in the world.&lt;ref&gt;{{cite news|url=http://www.timesonline.co.uk/tol/travel/holiday_type/winter_sports/article1461444.ece|title=World's Best Wreck Diving|publisher=''The Times''|date=3 March 2007|accessdate=11 September 2009 | location=London | first=Tim | last=Ecott}}{{subscription required}}&lt;/ref&gt;
+
+In 1970, salvage operations began on ''Mutsu''{{'}}s wreck that lasted until 1978 and recovered about 75% of the ship. The salvagers recovered bodies of 849 crewmen killed during the explosion. In 1995, the Mutsu Memorial Museum declared that no further salvage operations were planned. The only significant portion of the ship that remains is a {{convert|35|m|ftin|adj=on|sp=us}} long section running from the bridge structure forward to the vicinity of No. 1 turret. The highest portion of the ship is {{convert|12|m|ftin|sp=us}} below the surface. Many, but not all, artifacts are displayed at the Mutsu Memorial Museum in [[Tōwa, Yamaguchi|Tōwa-Cho]]. Since 1963, a memorial service has been held there every year on 8 June in honor of the crew.&lt;ref&gt;Williams, pp. 138–41&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{reflist|30em}}
+
+==References==
+*{{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+*{{cite book
+| last        = Evans
+| first       = David C.
+| last2       = Peattie
+| first2      = Mark R.
+| title       = Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941
+| location    = Annapolis, Maryland
+| publisher   = Naval Institute Press
+| year        = 1997
+| isbn        = 0-87021-192-7
+| authorlink2 = Mark Peattie|lastauthoramp=y
+}}
+*{{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}} 
+*{{cite book |editor1-last=Gardiner |editor1-first=Robert |editor2-last=Gray |editor2-first=Randal |title=Conway's All the World's Fighting Ships: 1906–1921 |year=1984 |location=Annapolis, Maryland|publisher=Naval Institute Press |isbn=0-87021-907-3|lastauthoramp=y }}
+*{{cite web|url=http://www.combinedfleet.com/Mutsu.html|title=IJN Mutsu: Tabular Record of Movement|last1=Hackett|first1=Bob|last2=Kingsepp|first2=Sander|last3=Ahlberg|first3=Lars|year=2009|publisher=Combinedfleet.com|accessdate=15 May 2013|lastauthoramp=y}}
+*{{cite web|url=http://www.combinedfleet.com/nagatrom.htm|title=IJN Nagato: Tabular Record of Movement|last1=Hackett|first1=Bob|last2=Kingsepp|first2=Sander|last3=Ahlberg|first3=Lars|year=2009|publisher=Combinedfleet.com|accessdate=15 May 2013|lastauthoramp=y}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869–1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X|lastauthoramp=y}}
+* {{cite journal
+| last1         = Lengerer
+| first1        = Hans
+| editor1-last  = Ahlberg
+| editor1-first = Lars
+| title         = Battleships of the ''Kaga'' Class and the So-called ''Tosa'' Experiments
+| date          = June 2010
+| journal       = Contributions to the History of Imperial Japanese Warships
+| issue         = Special Paper I
+| pages         = 1–26}}
+*{{cite book |last1=Parshall|first1= Jonathan|last2= Tully|first2=Anthony |title=Shattered Sword: The Untold Story of the Battle of Midway |publisher=Potomac Books |location=Washington, D. C. |year=2007 |isbn=1-57488-924-9|lastauthoramp=y }}
+*{{cite book |author=Rohwer, Jurgen |title=Chronology of the War at Sea, 1939–1945: The Naval History of World War Two |publisher=Naval Institute Press |location=Annapolis, Maryland |year=2005 |isbn=1-59114-119-2 }}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Skwiot|first=Miroslaw|title=Nagato Mutsu, Part I|series=Encyklopedua Okretów Wojennych|volume=51|year=2007|publisher=AJ-Press|location=Gdansk, Poland|isbn=978-83-7237-184-3}}
+*{{cite book|last=Skwiot|first=Miroslaw|title=Nagato Mutsu, Part II|series=Encyklopedia Okretów Wojennych|volume=52|year=2008|publisher=AJ-Press|location=Gdansk, Poland|isbn=978-83-7237-202-4}}
+*{{cite book |last=Stille |first=Mark |title=Imperial Japanese Navy Battleships 1941–45| series =New Vanguard|volume=146 |publisher=Osprey Publishing |location=Botley, Oxford, UK |year=2008 |isbn=1-84603-280-6 }}
+* {{cite web|last=Tully|first=A.P.|title=Nagato's Last Year: July 1945 – July 1946|url=http://www.combinedfleet.com/picposts/Nagatostory.html|work=Mysteries/Untold Sagas of the Imperial Japanese Navy|publisher=Combinedfleet.com|accessdate=26 May 2013|year=2003}}
+*{{Cite book |last=Whitley|first=M. J.|title=Battleships of World War II|year=1998|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=1-55750-184-X}}
+* {{cite book|last=Williams| first=Mike
+| chapter   = Mutsu&amp;nbsp;– An Exploration of the Circumstances Surrounding her Loss
+| editor    = Jordan, John
+| publisher = Conway| location=London
+| year      = 2009
+| title     = Warship 2009
+| pages     = 125–142| isbn=978-1-84486-089-0
+}}
+
+==External links==
+{{Portal|Battleships}}
+{{Commons category|Nagato class battleship|''Nagato''-class battleship}}
+*[http://www.maritimequest.com/warship_directory/japan/battleships/mitsu_page_1.htm Maritimequest.com: ''Mutsu'' photo gallery]
+*[http://www.maritimequest.com/warship_directory/japan/battleships/nagato_page_1.htm Maritimequest.com: ''Nagato'' photo gallery]
+
+{{Nagato class battleship}}
+{{WWIJapaneseShips}}
+{{WWII Japanese Ships}}
+
+{{featured article}}
+
+{{DEFAULTSORT:Nagato Class Battleship}}
+[[Category:Battleship classes]]
+[[Category:Nagato-class battleships|Nagato-class battleships]]</text>
+      <sha1>rnvco36ap0d41qlt80827bm2krx2zxz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,324 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Habsburg-class battleship</title>
+    <ns>0</ns>
+    <id>21101861</id>
+    <revision>
+      <id>740811123</id>
+      <parentid>733393857</parentid>
+      <timestamp>2016-09-23T12:53:35Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16920">{| {{Infobox ship begin}}
+|+ ''Habsburg''-class battleship
+{{Infobox ship image
+| Ship image   = [[File:Habsburg class battleship.jpg|300px|alt=A large gray warship steams through the water, creating a large wave at the front.]]
+| Ship caption = A ship of the ''Habsburg'' class
+}}
+{{Infobox ship class overview
+| Name= ''Habsburg'' class
+| Builders = 
+| Operators = {{navy|Austria-Hungary}}
+| Class before = 
+| Class after ={{sclass-|Erzherzog Karl|battleship|4}}
+| Subclasses = 
+| Built range = 
+| In commission range = 1900–1921
+| Total ships building = 
+| Total ships planned = 
+| Total ships completed = 3
+| Total ships scrapped = 3
+| Total ships preserved = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship type = [[Pre-dreadnought battleship]]
+| Ship displacement =
+*{{convert|8232|LT|t|0}}
+*{{convert|8823|LT|t|0}} full load
+  
+| Ship length ={{convert|375|ft|10|in|m|1|abbr=on}}
+| Ship beam   ={{convert|65|ft|m|1|abbr=on}}
+| Ship power  ={{convert|15063|ihp|0|lk=in|abbr=on}}
+| Ship draft  ={{convert|24|ft|6|in|m|1|abbr=on}}
+| Ship propulsion =
+*2 shafts
+*4-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple expansion steam engines]]
+*16 Belleville [[boiler (steam generator)|boiler]]s
+| Ship speed  ={{convert|19|kn|lk=in}}
+| Ship range = 
+| Ship complement = 638
+| Ship armament =
+*3 × {{convert|24|cm|1|abbr=on}}/40 [[Krupp]] C97 guns
+*12 × [[15 cm SK L/40 naval gun|{{convert|15|cm|1|abbr=on}}/40]] Krupp C96 guns
+*10 × {{convert|6.6|cm|1|abbr=on|sp=us|1}}/45 Skoda guns
+*6 × {{convert|4.7|cm|1|abbr=on|sp=us}}/44 Skoda QF guns
+*2 × 4.7 cm/33 cal Skoda QF guns
+*2 × {{convert|45|cm|1|abbr=on|sp=us|1}} torpedo tubes
+| Ship armor =
+*[[Belt armor|Waterline belt]]: {{convert|180|-|220|mm|in|abbr=on|1}}
+*[[Deck (ship)|Deck]]:          {{convert|40|mm|in|abbr=on|1}}
+*[[Turret]]s &amp; [[Casemates]]:   {{convert|210|-|280|mm|in|abbr=on|1}}
+*[[Conning tower]]:             {{convert|150|mm|in|abbr=on|1}}
+| Ship notes = 
+}}
+|}
+
+The '''''Habsburg'' class''' was a group of [[pre-dreadnought battleship]]s built by [[Austria-Hungary]] at the turn of the 20th century. They were the first sea-going battleship built by Austria-Hungary since the center-battery ship {{SMS|Tegetthoff|1878|2}} in 1876.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}} The class was composed of three ships: {{SMS|Habsburg||2}}, {{SMS|Árpád||2}}, and {{SMS|Babenberg||2}}. They were armed with three 24&amp;nbsp;cm (9.4&amp;nbsp;in) guns in two turrets and were capable of slightly better than {{convert|19.5|kn}} at full speed. ''Habsburg'' and ''Árpád'' were modernized in 1910–11.
+
+''Habsburg'' was launched on 9 September 1900, ''Árpád'' just over a year later on 11 September 1901, and ''Babenberg'' on 4 October 1902. The ships saw limited service during [[World War I]] in the IV Division of the Austro-Hungarian fleet. ''Babenberg'' and ''Árpád'' bombarded the Italian port of [[Ancona]] in 1915, but the three battleships were largely inactive for the remainder of their service. They were decommissioned in 1916 to free up the majority of their crews for service in the submarine and air forces. All three ships were ultimately ceded to Great Britain following the end of the war; they were sold to Italian ship-breakers and scrapped in 1921.
+
+== Design ==
+
+=== General characteristics and machinery ===
+
+The ships of the ''Habsburg'' class were 113.11&amp;nbsp;m (371&amp;nbsp;ft) [[length at the waterline|long at the waterline]] and 114.55&amp;nbsp;m (375&amp;nbsp;ft 10&amp;nbsp;in) [[length overall|long overall]].{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}} They had a [[beam (nautical)|beam]] of 19.8&amp;nbsp;m (65&amp;nbsp;ft) and a [[Draft (hull)|draft]] of 7.5&amp;nbsp;m (24&amp;nbsp;ft 6&amp;nbsp;in).{{sfn|Hore|p=91}} [[Freeboard (nautical)|Freeboard]] was approximately {{convert|5.80|m|ft|abbr=on}} forward and about {{convert|5.50|m|ft|abbr=on}} aft.{{sfn|''Naval Institute Proceedings''|p=152}} They displaced  {{convert|8364|MT|LT|lk=on}}. The ships had a crew of 638 officers and enlisted men.{{sfn|Hore|p=91}} The ships had a flush main deck that was planked with wood, while the upper decks were covered with [[linoleum]] or [[corticine]].{{sfn|''Naval Institute Proceedings''|p=151}}
+
+The hulls for each ship were constructed from transverse and longitudinal steel frames, over which the outer hull plates were [[rivet]]ed. The hull incorporated a [[double bottom]] that ran for 63% of its length. A series of watertight bulkheads extended from the [[keel]] to the gun deck; there were a total of 174 [[watertight compartment]]s in each ship.{{sfn|Phelps|p=25}} The ships had a [[metacentric height]] of between {{convert|.82|m|ft|abbr=on}} and {{convert|1.02|m|ft|abbr=on}}. [[Bilge keel]]s were mounted on either side of the hull to reduce rolling.{{sfn|Phelps|p=26}}
+
+Their machinery system consisted of 2-shaft 4-cylinder vertical [[triple expansion engine]]s. They were supplied with steam by 16 Belleville [[boiler]]s. ''Habsburg''{{'}}s powerplant was rated at {{convert|15,063|ihp|kW|lk=in}}, which produced a top speed of {{convert|19.62|kn|lk=in}}. ''Árpád''{{'}}s system was slightly less efficient, at {{convert|14,307|ihp|kW|abbr=on}}, though it achieved a comparable speed of {{convert|19.65|kn}} on trials. ''Babenberg'' had the most powerful engines of the three, which ran at {{convert|16,000|ihp|kW|abbr=on}} and provided a top speed of {{convert|19.85|kn}}.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}}
+
+=== Armament ===
+
+The ships' primary armament was three {{convert|24|cm|in|abbr=on}} L/40 guns, with two mounted in a twin [[Gun turret|turret]] forward and one mounted in a single turret aft of the main superstructure. The guns were manufactured by [[Krupp]] in Germany, and were the C&amp;nbsp;97 type.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}}
+
+Secondary armament included twelve [[15 cm SK L/40 naval gun|{{convert|15|cm|in|abbr=on}} SK L/40]] guns in [[casemate]]s. They were mounted in an unusual arrangement: there were two decks of three guns each on either side amidships.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}} These guns could fire armor-piercing shells at a rate of 4–5 per minute. The guns could depress to −7&amp;nbsp;degrees and elevate to 20&amp;nbsp;degrees, for a maximum range of {{convert|13,700|m|yd}}. They were manually elevated and trained.{{sfn|DiGiulian (15 cm/40)}}
+
+The ships carried a wide array of smaller weapons, for defense against torpedo boats. These included ten {{convert|7|cm|in|abbr=on}} L/45 guns, six {{convert|4.7|cm|in|abbr=on}} L/44 quick-firing (QF) guns, and two {{convert|4.7|cm|in|abbr=on}} L/33 QF guns. All of these guns were emplaced in single mounts, either on the upper decks and superstructure, or in casemates at the bow and stern.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}} With the exception of the main battery 24&amp;nbsp;cm weapons, all of the guns carried on the ships were manufactured by [[Škoda Works]] in [[Plzeň|Pilsen]]. The ships also carried two [[Robert Whitehead|Whitehead]] {{convert|17.7|in|cm|abbr=on|order=flip|0}} submerged [[torpedo tube]]s.{{sfn|''Naval Institute Proceedings''|p=152}}
+
+=== Armor ===
+
+[[File:Habsburg class linedrawing2.jpg|thumb|Line-drawing of the ''Habsburg''-class ships; shaded areas show the extent of the armor layout]]
+
+''Habsburg'' and her sisters were protected by [[Case hardening|face-hardened]] chrome-nickel steel.{{sfn|''Naval Institute Proceedings''|p=152}} The main [[belt armor|armored belt]] was {{convert|220|mm|in|abbr=on}} in the central portion of each ship, where the ammunition magazines, machinery spaces, and other critical areas were located. The belt tapered slightly to {{convert|180|mm|in|abbr=on}} on either end of the central section.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}} Past the barbettes, the hull was protected by about {{convert|50|mm|in|abbr=on}} of armor plate, up to the bow and stern. The entire belt, including the thinner portions forward and aft of the main battery barbettes, extended for {{convert|1.30|m|ft|abbr=on}} below the [[waterline]] and {{convert|1.06|m|ft|abbr=on}} above. The belt was widened at the bow to cover the [[naval ram|ram]]. Side protection was supplemented by {{convert|100|mm|in|abbr=on}} thick armor above the main belt; this section of armor extended up to meet the gun deck.{{sfn|''Naval Institute Proceedings''|p=152}} The armored deck was {{convert|40|mm|in|abbr=on}} thick.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}}
+
+The main battery turrets were protected by armor plate that was {{convert|210|mm|in|abbr=on}} thick on the sides and faces of the gun mounts. The armored barbettes that held the turrets, working chambers, and shell rooms were protected with {{convert|183|mm|in|abbr=on}} of armor. The casemates for the 15&amp;nbsp;cm guns were {{convert|137|mm|in|abbr=on}} on the outboard side and {{convert|88|mm|in|abbr=on}} on the less vulnerable inboard side. The forward [[conning tower]] was armored with sides that were {{convert|200|mm|in|abbr=on}} thick and contained a {{convert|150|mm|in|abbr=on}} thick communications tube; the aft conning tower was less well-protected. Its sides were 100&amp;nbsp;mm thick, and its communication tube was only 50&amp;nbsp;mm thick.{{sfn|''Naval Institute Proceedings''|p=152}}
+
+== Construction ==
+
+''Habsburg'' was laid down at the [[Stabilimento Tecnico Triestino]] shipyard in [[Trieste]] on 13 March 1899. She was [[Ship naming and launching|launched]] on 9 September 1900, after which [[fitting-out]] work was conducted. The ship was finally finished by December 1902; she was [[Ship commissioning|commissioned]] into the Austro-Hungarian fleet on the 31st of that month. ''Árpád'' followed ''Habsburg'' three months later; she was laid down at the STT shipyard on 10 June 1899 and launched on 11 September 1901. She was commissioned into the fleet on 15 June 1903. ''Babenberg'', the last ship of the three, was laid down at the STT dockyard on 19 January 1901. She was launched on 4 October 1902 and completed on 15 April 1904, when she joined her sisters in the fleet.{{sfn|Gardiner Chesneau &amp; Kolesnik|p=272}}
+
+== Service history ==
+
+=== Peacetime ===
+
+[[File:SMS Arpad (1901), Modell.jpg||thumb||A 1:50 scale model of SMS ''Árpád'']]
+
+''Habsburg'' and ''Árpád'' took part in their first fleet maneuvers in mid 1903. By the following summer, ''Babenberg'' was ready for active service, and she too participated in fleet drills. During the 1904 training exercises, the three ''Habsburg''s engaged the three {{sclass-|Monarch|coastal defense ship|0}} battleships in simulated combat; the maneuver marked the first time two homogeneous squadrons consisting of modern battleships operated in the Austro-Hungarian navy.{{sfn|Sondhaus|p=158}} The three ''Habsburg''-class ships formed the I Division while the ''Monarch''s formed the II Division.{{sfn|Blatchford|p=437}} The ships were also active in the Mediterranean. ''Habsburg'' conducted a training cruise with the three ''Monarch''-class battleships in January 1903. She was joined by ''Árpád'' the following year.{{sfn|Sondhaus|p=158}} With the commissioning of the {{sclass-|Erzherzog Karl|battleship|3}}s in 1906–1907, the three ''Habsburg''-class ships were transferred to the II Division, and the three ''Monarch''s went to the III Division.{{sfn|Littell &amp; Littell|p=140}}
+
+=== World War I ===
+
+At the outbreak of [[World War I]] in late July 1914, ''Habsburg'' was serving as the [[flagship]] of the III Battleship Division of the Austro-Hungarian fleet, under the command of [[Captain (naval)|Captain]] [[Miklós Horthy]], alongside her two sisters.{{sfn|Tucker|p=560}} They were later transferred to the IV Division after the new {{sclass-|Tegetthoff|battleship|3}}s came into service. At around the same time, she was mobilized along with her sister ships {{SMS|Árpád||2}} and {{SMS|Babenberg||2}} and the remainder of the Austro-Hungarian Navy to support the flight of {{SMS|Goeben}} and {{SMS|Breslau||2}}. The two German ships were stationed in the Mediterranean and were attempting to break out of the strait of [[Messina]], which was surrounded by British troops and vessels and make their way to Turkey. After the Germans successfully broke out of Messina, the navy was recalled. The fleet had by that time advanced as far south as [[Brindisi]] in south eastern Italy.{{sfn|Halpern|p=54}} After Italy entered the war on the side of France and England, the Austro-Hungarian navy bombarded several Italian installations; ''Babenberg'' took part in the attack on [[Ancona]] in 1915.{{sfn|Hore|p=91}} They were later decommissioned and served as harbor defense ships for the latter portion of the conflict.{{sfn|Sieche|p=330}} Their crews were then transferred to man new [[U-boat]]s and aircraft.{{sfn|Hore|p=91}} By 1918, ''Árpád'' was converted into a [[training ship]].{{sfn|Koburger|p=98}} Following the end of the war, the ships were awarded to Great Britain as [[war prize]]s, but were instead sold and broken up for scrapping in Italy in 1921.{{sfn|Sieche|p=330}}
+
+== Footnotes ==
+{{Research help|Mil}}
+
+{{reflist|25em}}
+
+== References ==
+
+{{Commons category|Habsburg class battleship}}
+{{portal|Battleships}}
+
+*{{cite book
+  | last = Blatchford
+  | first = Robert
+  | year = 1904
+  | chapter = Sundries: A Socialist editor on conscription
+  | title = The United Service Magazine
+  | volume = 150
+  | publisher = H. Colburn
+  | location = 
+  | isbn =
+  | ref ={{sfnRef|Blatchford}}
+  }}
+*{{cite web
+  | last = DiGiulian
+  | first = Tony
+  | date = 20 October 2008
+  | title = German 15&amp;nbsp;cm/40 (5.9&quot;) SK L/40
+  | publisher = NavWeaps.com
+  | url = http://www.navweaps.com/Weapons/WNGER_59-40_skc96.htm
+  | accessdate = 27 September 2009
+  | ref ={{sfnRef|DiGiulian (15 cm/40)}}
+  }}
+*{{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Chesneau
+  | editor2-first = Roger
+  | editor3-last = Kolesnik
+  | editor3-first = Eugene M.
+  | year = 1979
+  | title = Conway's All the World's Fighting Ships: 1860–1905
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-0-85177-133-5
+  | oclc = 
+  | ref ={{sfnRef|Gardiner Chesneau &amp; Kolesnik}}
+  }}
+*{{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1995
+  | title = A Naval History of World War I
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-352-7
+  | oclc = 57447525
+  | ref ={{sfnRef|Halpern}}
+  }}
+*{{cite book
+  | last = Hore
+  | first = Peter
+  | year = 2006
+  | title = The Ironclads
+  | publisher = Southwater Publishing
+  | location = London
+  | isbn = 978-1-84476-299-6
+  | oclc = 
+  | ref ={{sfnRef|Hore}}
+  }}
+*{{cite book
+  | last = Koburger
+  | first = Charles
+  | year = 2001
+  | title = The Central Powers in the Adriatic, 1914–1918: War in a Narrow Sea
+  | publisher = Greenwood Publishing Group
+  | location = Westport, CT
+  | isbn = 978-0-275-97071-0
+  | oclc = 44550580
+  | url = https://books.google.com/books?id=FYqLUs2rzIAC
+  | ref ={{sfnRef|Koburger}}
+  }}
+*{{cite book
+  | last1 = Littell
+  | first1 = Charles W.
+  | last2 = Littell
+  | first2 = Robert S.
+  | title = The Living Age
+  | volume = 262
+  | year = 1909
+  | location =
+  | publisher = Living Age
+  | isbn = 
+  | ref ={{sfnRef|Littell &amp; Littell}}
+  }}
+*{{cite book
+  | title = Naval Institute Proceedings
+  | volume = 27
+  | year = 1901
+  | location = Annapolis
+  | publisher = United States Naval Institute
+  | isbn = 
+  | ref ={{sfnRef|''Naval Institute Proceedings''}}
+  }}
+*{{cite book
+  | last = Phelps
+  | first = Harry
+  | year = 1901
+  | chapter = Notes on ships and torpedo boats, Section 2
+  | title = Notes on the Year's Naval Progress, Issue 20
+  | publisher = Office of Naval Intelligence, Government Printing Office
+  | location = 
+  | isbn = 
+  | ref ={{sfnRef|Phelps}}
+  }}
+*{{cite book
+  | last = Sieche
+  | first = Erwin
+  | chapter = Austria-Hungary
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships: 1906–1921
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-907-8
+  | ref ={{sfnRef|Sieche}}
+  }}
+*{{cite book
+  | last = Sondhaus
+  | first = Lawrence
+  | year = 1994
+  | title = The Naval Policy of Austria-Hungary, 1867–1918
+  | publisher = Purdue University Press
+  | location = West Lafayette, IN
+  | isbn = 978-1-55753-034-9
+  | oclc = 28112077
+  | ref ={{sfnRef|Sondhaus}}
+  }}
+*{{cite book
+  | last = Tucker
+  | first = Spencer E.
+  | year = 2005
+  | title = The Encyclopedia of World War I
+  | publisher = ABC-CLIO
+  | isbn = 978-1-85109-420-2
+  | ref ={{sfnRef|Tucker}}
+  }}
+
+{{Habsburg class battleship}}
+{{Austro-Hungarian Navy classes}}
+{{Good article}}
+
+{{DEFAULTSORT:Habsburg-class battleship}}
+[[Category:Battleship classes]]
+[[Category:World War I battleships of Austria-Hungary]]
+[[Category:Habsburg-class battleships| ]]</text>
+      <sha1>f1iuegj4gphmnzcnc5r15gh3maueifa</sha1>
+    </revision>
+  </page>
+</mediawiki>

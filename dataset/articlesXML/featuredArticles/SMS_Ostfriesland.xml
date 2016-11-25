@@ -1,0 +1,459 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Ostfriesland</title>
+    <ns>0</ns>
+    <id>30246742</id>
+    <revision>
+      <id>736296948</id>
+      <parentid>733987412</parentid>
+      <timestamp>2016-08-26T14:29:19Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39403">{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Bundesarchiv DVM 10 Bild-23-61-25, Linienschiff &quot;SMS Ostfriesland&quot;.jpg|300px]]
+| Ship caption = SMS ''Ostfriesland''
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country = [[German Empire]]
+| Ship flag = {{shipboxflag|German Empire|naval}}
+| Ship name= ''Ostfriesland''
+| Ship namesake = [[East Frisia]]
+| Ship ordered = 
+| Ship awarded = 
+| Ship builder = [[Kaiserliche Werft Wilhelmshaven|''Kaiserliche Werft'']], Wilhelmshaven
+| Ship original cost = 
+| Ship yard number = 
+| Ship way number = 
+| Ship laid down = 19 October 1908
+| Ship launched = 30 September 1909
+| Ship sponsor = 
+| Ship christened = 
+| Ship completed = 
+| Ship acquired = 
+| Ship commissioned = 1 August 1911
+| Ship recommissioned = 
+| Ship decommissioned = 
+| Ship maiden voyage = 
+| Ship in service = 22 September 1911
+| Ship out of service = 5 November 1919
+| Ship renamed = 
+| Ship reclassified = 
+| Ship refit = 
+| Ship struck = 
+| Ship reinstated = 
+| Ship homeport = 
+| Ship identification = 
+| Ship motto = 
+| Ship nickname = 
+| Ship honours = 
+| Ship honors = 
+| Ship captured = 
+| Ship fate = Sunk as a target by aircraft, 21 July 1921
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = 
+| Ship class = {{sclass-|Helgoland|battleship}}
+| Ship displacement =* {{convert|22,808|t|LT|sp=us|lk=out}} (designed)
+* {{convert|24,700|t|LT|abbr=on}} (full load)
+  
+| Ship length = {{convert|167.20|m|ftin|abbr=on}}
+| Ship beam =  {{convert|28.50|m|ftin|abbr=on}}
+| Ship draft = {{convert|8.94|m|ftin|abbr=on}}
+| Ship power = {{convert|28000|PS|ihp kW|lk=on|abbr=on|-1}}
+| Ship propulsion =* 3 shaft
+* 4-cylinder vertical triple-expansion steam engines
+* 15 boilers
+  
+| Ship speed = {{convert|21.2|kn|lk=in}}
+| Ship range = {{convert|5500|nmi|-1|lk=in}} at {{convert|10|kn}}
+| Ship complement =*   42 officers
+* 1027 enlisted
+  
+| Ship armament =* 12 × 30.5&amp;nbsp;cm (12&amp;nbsp;in) guns
+* 14 × 15&amp;nbsp;cm (5.9&amp;nbsp;in) guns
+* 14 × 8.8&amp;nbsp;cm (3.5&amp;nbsp;in) guns
+* 6 × 50&amp;nbsp;cm (19.7&amp;nbsp;in) torpedo tubes
+  
+| Ship armor =* Belt: {{convert|300|mm|in|abbr=on|1}} [[Krupp cemented armour|KCA]]
+* Turrets: 300&amp;nbsp;mm KCA
+* Barbettes: 300&amp;nbsp;mm KCA
+* Deck: {{convert|63.5|mm|in|abbr=on}} KCA
+  
+| Ship notes = 
+}}
+|}
+
+'''SMS ''Ostfriesland'''''{{efn|name=SMS}} was the second vessel of the {{sclass-|Helgoland|battleship|4}} of [[battleship]]s of the [[Imperial German Navy]]. Named for the region of [[East Frisia]], ''Ostfriesland''{{'}}s keel was laid in October 1908 at the [[Kaiserliche Werft Wilhelmshaven|''Kaiserliche Werft'']] dockyard in [[Wilhelmshaven]]. She was launched on 30 September 1909 and was commissioned into the fleet on 1 August 1911. The ship was equipped with twelve {{convert|30.5|cm|in|sp=us|adj=on}} guns in six twin turrets, and had a top speed of {{convert|21.2|kn}}. ''Ostfriesland'' was assigned to the [[I Battle Squadron]] of the [[High Seas Fleet]] for the majority of her career, including [[World War I]].
+
+Along with her three sister ships, {{SMS|Helgoland||2}}, {{SMS|Thüringen||2}}, and {{SMS|Oldenburg||2}}, ''Ostfriesland'' participated in all of the major fleet operations of World War I in the [[North Sea]] against the British [[Grand Fleet]]. This included the [[Battle of Jutland]] on 31 May&amp;nbsp;– 1 June 1916, the largest naval battle of the war. The ship also saw action in the [[Baltic Sea]] against the [[Russian Navy]]. She was present during the unsuccessful [[Battle of the Gulf of Riga|first incursion into the Gulf of Riga]] in August 1915.
+
+After the German collapse in November 1918, most of the High Seas Fleet was interned in [[Scapa Flow]] during the peace negotiations. The four ''Helgoland''-class ships were allowed to remain in Germany, however, and were therefore spared the [[scuttling of the German fleet in Scapa Flow|destruction of the fleet in Scapa Flow]]. ''Ostfriesland'' and her sisters were eventually ceded to the victorious [[Allies of World War I|Allied powers]] as [[war reparations]]; ''Ostfriesland'' was transferred to the [[United States Navy]]. She was sunk during air power trials off the Virginia Capes in July 1921.
+
+== Construction ==
+{{main|Helgoland-class battleship}}
+[[File:Helgoland linedrawing.png|thumb|left|Line drawing of the ''Helgoland'' class]]
+
+''Ostfriesland'' was ordered by the German Imperial Navy (''Kaiserliche Marine'') under the provisional name ''Ersatz Oldenburg'', as a replacement for the old [[coastal defense ship]] {{SMS|Oldenburg|1884|2}}. The contract for the ship was awarded to the [[Kaiserliche Werft Wilhelmshaven|''Kaiserliche Werft'']] (Imperial Dockyard) in [[Wilhelmshaven]] under construction number 31.{{sfn|Gröner|p=24}}{{efn|name=provisional names}} Work began on 19 October 1908 with the laying of her [[keel]], and the ship was launched less than a year later, on 30 September 1909.{{sfn|Staff (Volume 1)|p=42}} She was [[Ship naming and launching|christened]] by the Princess of Innhausen and Knyphausen, a representative of the oldest East Frisian nobility.{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=200}} [[Fitting-out]], including completion of the superstructure and the installation of armament, lasted until August 1911. ''Ostfriesland'', named for the [[Ostfriesland|north-western coastal area]] of Germany, was commissioned into the High Seas Fleet on 1 August 1911, just under three years from when work commenced,{{sfn|Gröner|p=25}} at a cost of 43.579&amp;nbsp;million [[German gold mark|gold marks]].{{sfn|Gröner|p=24}}
+
+The ship was {{convert|167.2|m|ftin|abbr=on}} long, had a [[beam (nautical)|beam]] of {{convert|28.5|m|ftin|abbr=on}} and a [[draft (ship)|draft]] of {{convert|8.94|m|ftin|abbr=on}}, and displaced {{convert|24700|MT|LT|-1}} at full load. She was powered by three 4-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple expansion steam engines]] with 15&amp;nbsp;boilers; each engine drove a four-bladed screw. The ship's engines were rated at {{convert|28000|PS|ihp kW|lk=on|abbr=on}} and produced a top speed of {{convert|21.2|kn}}. ''Ostfriesland'' stored up to {{convert|3,200|t|LT|sp=us}} of coal, which allowed her to steam for {{convert|5,500|nmi|lk=in}} at a speed of {{convert|10|kn}}. After 1915 the boilers were modified to spray oil on the coal; the ship could carry up to {{convert|197|t|LT|sp=us}} of fuel oil.{{sfn|Gröner|p=24}} She had a crew of 42&amp;nbsp;officers and 1,071&amp;nbsp;enlisted men.{{sfn|Gröner|p=25}}
+
+''Ostfriesland'' was armed with a main battery of twelve [[30.5 cm SK L/50 gun|30.5&amp;nbsp;cm SK L/50]]{{efn|name=gun nomenclature}} guns in six twin [[gun turret]]s, with one turret fore, one aft, and two on each flank of the ship.{{sfn|Gardiner &amp; Gray|p=146}} The ship's secondary armament consisted of fourteen {{convert|15|cm|in|abbr=on}} SK L/45 guns and fourteen  {{convert|8.8|cm|in|abbr=on}} SK L/45 guns.{{sfn|Gröner|p=24}} After 1914, two of the 8.8&amp;nbsp;cm guns were removed and replaced by 8.8&amp;nbsp;cm anti-aircraft guns. ''Ostfriesland'' was also armed with six {{convert|50|cm|in|abbr=on|1}} submerged [[torpedo tube]]s.{{sfn|Gröner|p=25}} Her main [[belt armor|armored belt]] was {{convert|300|mm|abbr=on}} thick in the central portion, and was composed of [[Krupp cemented armour|Krupp cemented armor]] (KCA). Her main battery gun turrets were protected by the same thickness of KCA armor on the sides and faces, as well as the barbettes that supported the turrets. ''Ostfriesland''{{'}}s deck was {{convert|63.5|mm|abbr=on}} thick.{{sfn|Gröner|p=24}}
+
+== Service history ==
+After commissioning, ''Ostfriesland'' conducted [[sea trials]], which were completed by 15 September.{{sfn|Staff (Volume 1)|p=43}} ''[[Kapitän zur See]]'' (''KzS'') Walter Engelhardt served as the ship's first commanding officer.{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=200}} On the 22nd, the ship was formally assigned to the [[I Battle Squadron]] of the [[High Seas Fleet]]. She then conducted individual ship training exercises, which were followed by I&amp;nbsp;Squadron, and then fleet maneuvers in November. ''Ostfriesland'' became the new squadron [[flagship]] on 24 April 1912, replacing {{SMS|Westfalen||2}}.{{sfn|Staff (Volume 1)|p=43}} The annual summer cruise in July–August, which typically went to Norway, was interrupted by the [[Agadir Crisis]]. As a result, the cruise only went into the Baltic.{{sfn|Staff (Volume 1)|p=8}} ''Ostfriesland'' and the rest of the fleet then fell into a pattern of individual ship, squadron, and full fleet exercises over the next two years of peacetime.{{sfn|Staff (Volume 1)|p=43}} ''Ostfriesland'' won the 1912/1913 ''Kaiserschiesspreis''—the Kaiser's artillery shooting prize—for I&amp;nbsp;Squadron. ''[[Kapitänleutnant]]'' Friedrich Beesel was the ship's gunnery officer at the time and, as such, was responsible for the accuracy of the ship's shooting.{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=201}}
+
+On 14 July 1914, the annual summer cruise to Norway began.{{sfn|Staff (Volume 1)|p=11}} During the last peacetime cruise of the Imperial Navy, the fleet conducted drills off [[Skagen]] before proceeding to the Norwegian fjords on 25 July. The following day the fleet began to steam back to Germany, as a result of Austria-Hungary's [[July Ultimatum|ultimatum to Serbia]]. On the 27th, the entire fleet assembled off [[Cape Skadenes]] before returning to port, where it remained at a heightened state of readiness.{{sfn|Staff (Volume 2)|p=14}} War between Austria-Hungary and Serbia broke out on the 28th, and in the span of a week all of the major European powers had joined the conflict.{{sfn|Heyman|p=xix}} By 29 July ''Ostfriesland'' and the rest of I&amp;nbsp;Squadron was back in Wilhelmshaven.{{sfn|Staff (Volume 1)|pp=11, 43}}
+
+=== World War I ===
+The first major naval action in the North Sea, the [[Battle of Helgoland Bight]], took place on 28 August 1914.{{sfn|Osborne|p=41}} At 04:30, ''Helgoland'', which was stationed off the heavily fortified island of [[Wangerooge]],{{sfn|Osborne|p=41}} received the order to join ''Ostfriesland'' and sail out of the harbor. At 05:00, the two battleships met the battered cruisers {{SMS|Frauenlob||2}} and {{SMS|Stettin||2}}.{{sfn|Stumpf|pp=40–41}} By 07:30, the ships had returned to port for the night.{{sfn|Stumpf|p=42}} On the afternoon of 7 September, ''Ostfriesland'' and the rest of the High Seas Fleet conducted a training cruise to the island of [[Heligoland]].{{sfn|Stumpf|p=46}} In October, ''Ostfriesland'' was equipped with a pair of 8.8&amp;nbsp;cm flak guns for anti-air defense.{{sfn|Staff (Volume 1)|p=43}}
+
+[[File:SMS Helgoland illustration.jpg|thumb|left|A British recognition drawing of a ''Helgoland''-class battleship|alt=A large gray warship steams at full speed; thick black smoke pours from its three smoke stacks.]]
+
+''Ostfriesland'' was present during the first sortie by the German fleet into the North Sea, which took place on 2–3 November 1914. No British forces were encountered during the operation. A second operation followed on 15–16 December.{{sfn|Staff (Volume 1)|p=43}} This sortie was the initiation of a strategy adopted by Admiral [[Friedrich von Ingenohl]], the commander of the High Seas Fleet. Admiral von Ingenohl intended to use the [[battlecruiser]]s of ''[[Konteradmiral]]'' (Rear Admiral) [[Franz von Hipper]]'s [[I Scouting Group]] to raid British coastal towns to lure out portions of the [[Grand Fleet]] where they could be destroyed by the High Seas Fleet.{{sfn|Herwig|pp=149–150}} Early on 15 December the fleet left port to [[raid on Scarborough, Hartlepool and Whitby|raid the towns of Scarborough, Hartlepool, and Whitby]]. That evening, the German battle fleet of some twelve dreadnoughts—including ''Ostfriesland'' and her three [[sister ship|sisters]]—and eight pre-dreadnoughts came to within {{convert|10|nmi|abbr=on}} of an isolated squadron of six British battleships. However, skirmishes between the rival [[destroyer]] screens in the darkness convinced von Ingenohl that he was faced with the entire Grand Fleet. Under orders from [[Kaiser Wilhelm II]] to avoid risking the fleet unnecessarily, von Ingenohl broke off the engagement and turned the battle fleet back toward Germany.{{sfn|Tarrant|pp=31–33}}
+
+The [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]], in which Vice Admiral [[David Beatty, 1st Earl Beatty|David Beatty's]] [[1st Battlecruiser Squadron (United Kingdom)|1st]] and [[2nd Battlecruiser Squadron (United Kingdom)|2nd Battlecruiser Squadrons]] ambushed the battlecruisers of I&amp;nbsp;Scouting Group, occurred on 24 January 1915.{{sfn|Tarrant|p=38}} ''Ostfriesland'' and the rest of I&amp;nbsp;Squadron sortied to reinforce the outnumbered German battlecruisers; I&amp;nbsp;Squadron left port at 12:33&amp;nbsp;[[Central European Time|CET]],{{efn|name=CET times}} along with the [[pre-dreadnought]]s of II&amp;nbsp;Squadron. They were too late, however, and failed to locate any British forces. By 19:05, the fleet had returned to the [[Schillig Roads]] outside Wilhelmshaven.{{sfn|Staff (Volume 1)|p=43}} In the meantime, the [[armored cruiser]] {{SMS|Blücher||2}} had been overwhelmed by concentrated British fire and sunk, while the battlecruiser {{SMS|Seydlitz||2}} was severely damaged by a fire in one of the ammunition magazines. As a result, [[Kaiser Wilhelm II]] removed von Ingenohl from his post and replaced him with Admiral [[Hugo von Pohl]] on 2 February.{{sfn|Tarrant|p=43}}
+
+[[File:SMS Ostfriesland(2).jpg|thumb|''Ostfriesland'' in 1915 with a zeppelin overhead]]
+
+The eight I&amp;nbsp;Squadron ships went into the Baltic on 22 February 1915 for unit training, which lasted until 13 March. Following their return to the North Sea, the ships participated in a series of uneventful fleet sorties on 29–30 March, 17–18 April, 21–22 April, 17–18 May, and 29–30 May. ''Ostfriesland'' and the rest of the fleet remained in port until 4 August, when I&amp;nbsp;Squadron returned to the Baltic for another round of training maneuvers.{{sfn|Staff (Volume 1)|p=43}} That month, ''KzS'' Ernst-Oldwig von Natzmer replaced Engelhardt as the ship's commanding officer.{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=200}} From the Baltic, the squadron was attached to the naval force that attempted to sweep the [[Gulf of Riga]] of Russian naval forces in August 1915.{{sfn|Staff (Volume 1)|p=43}} The assault force included the eight I&amp;nbsp;Squadron battleships, the battlecruisers {{SMS|Von der Tann||2}}, {{SMS|Moltke||2}}, and ''Seydlitz'', several [[light cruiser]]s, 32 [[destroyer]]s and 13 [[Minesweeper (ship)|minesweepers]]. The plan called for channels in Russian minefields to be swept so that the Russian naval presence, which included the [[pre-dreadnought battleship]] {{ship|Russian battleship|Slava||2}}, could be eliminated. The Germans would then lay minefields of their own to prevent Russian ships from returning to the Gulf.{{sfn|Halpern|p=196}} ''Ostfriesland'' and the majority of the other big ships of the High Seas Fleet remained outside the Gulf for the entirety of [[Battle of the Gulf of Riga|the operation]]. The dreadnoughts {{SMS|Nassau||2}} and {{SMS|Posen||2}} were detached on 16 August to escort the minesweepers and to destroy ''Slava'', though they failed to sink the old battleship. After three days, the Russian minefields had been cleared, and the flotilla entered the Gulf on 19 August, but reports of Allied submarines in the area prompted a German withdrawal from the Gulf the following day.{{sfn|Halpern|pp=197–198}} By 26 August, I&amp;nbsp;Squadron had returned to Wilhelmshaven.{{sfn|Staff (Volume 1)|p=43}}
+
+On 23–24 October, the High Seas Fleet undertook its last major offensive operation under the command of Admiral von Pohl, though it ended without contact with British forces.{{sfn|Staff (Volume 1)|p=43}} By January 1916 [[hepatic cancer]] had weakened von Pohl to the point where he was no longer able to carry out his duties, and he was replaced by ''[[Vizeadmiral]]'' (Vice Admiral) [[Reinhard Scheer]] in January.{{sfn|Herwig|p=161}} Scheer proposed a more aggressive policy designed to force a confrontation with the British Grand Fleet; he received approval from the Kaiser in February.{{sfn|Tarrant|p=50}} Scheer's first operation was a sweep into the North Sea on 5–7 March, followed by two more on 21–22 March and 25–26 March.{{sfn|Staff (Volume 1)|p=43}} During Scheer's next operation, ''Ostfriesland'' supported [[Bombardment of Yarmouth and Lowestoft|a raid on the English coast]] on 24 April 1916 conducted by the German battlecruiser force. The battlecruisers left the [[Jade Estuary]] at 10:55 and the rest of the High Seas Fleet followed at 13:40. The battlecruiser {{SMS|Seydlitz||2}} struck a mine while en route to the target, and had to withdraw.{{sfn|Tarrant|p=53}} The other battlecruisers bombarded the town of Lowestoft unopposed but, during the approach to Yarmouth, encountered the British cruisers of the [[Harwich Force]]. A short gun duel ensued before the Harwich Force withdrew. Reports of British submarines in the area prompted I&amp;nbsp;Scouting Group to retreat. At this point, Scheer, who had been warned of the sortie of the Grand Fleet from its base in Scapa Flow, also withdrew to safer German waters.{{sfn|Tarrant|p=54}}
+
+==== Battle of Jutland ====
+{{main|Battle of Jutland}}
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|350px|Maps showing the maneuvers of the British (blue) and German (red) fleets on 31 May&amp;nbsp;– 1 June 1916|alt=The British fleet sailed from northern Britain to the east while the Germans sailed from Germany in the south; the opposing fleets met off the Danish coast]]
+
+''Ostfriesland'' was present during the fleet operation that resulted in the battle of [[Jutland]], which took place on 31 May and 1 June 1916. The German fleet again sought to draw out and isolate a portion of the Grand Fleet and destroy it before the main British fleet could retaliate. During the operation, ''Ostfriesland'' was the lead ship in I&amp;nbsp;Squadron's I&amp;nbsp;Division and the ninth ship in the line, directly astern of the fleet flagship {{SMS|Friedrich der Grosse|1911|2}} and ahead of her sister ''Thüringen''. I&amp;nbsp;Squadron was the center of the German line, behind the eight ''König''- and ''Kaiser''-class battleships of [[III Battle Squadron|III&amp;nbsp;Squadron]]. The six elderly [[pre-dreadnought]]s of the III and IV&amp;nbsp;Divisions—[[II Battle Squadron]]—formed the rear of the formation. ''Ostfriesland'' flew the flag of ''Vizeadmiral'' (Vice Admiral) Erhardt Schmidt, the squadron commander during the battle and Scheer's deputy commander.{{sfn|Tarrant|p=286}}{{sfn|Campbell|p=200}}
+
+Shortly before 16:00, the battlecruisers of I&amp;nbsp;Scouting Group encountered the British 1st Battlecruiser Squadron under the command of [[David Beatty, 1st Earl Beatty|David Beatty]]. The opposing ships began an artillery duel that saw the destruction of {{HMS|Indefatigable|1909|2}}, shortly after 17:00,{{sfn|Tarrant|pp=94–95}} and {{HMS|Queen Mary||2}}, less than half an hour later.{{sfn|Tarrant|pp=100–101}} By this time, the German battlecruisers were steaming south to draw the British ships toward the main body of the High Seas Fleet. At 17:30, the crew of the leading German battleship, ''König'', spotted both I&amp;nbsp;Scouting Group and the 1st Battlecruiser Squadron approaching. The German battlecruisers were steaming to starboard, while the British ships steamed to port. At 17:45, Scheer ordered a [[Boxing the compass|two-point]] turn to port to bring his ships closer to the British battlecruisers and, a minute later, the order to open fire was given.{{sfn|Tarrant|p=110}}{{efn|name=compass points}}
+
+While the leading battleships engaged the British battlecruiser squadron, ''Ostfriesland'' and ten other battleships fired on the British 2nd Light Cruiser Squadron. ''Ostfriesland'', {{SMS|Kaiser|1911|2}}, and {{SMS|Nassau||2}} engaged the cruiser {{HMS|Southampton|1912|2}}, though only ''Nassau'' scored a hit.{{sfn|Campbell|p=54}} After about 15 minutes, ''Ostfriesland'' shifted fire to {{HMS|Birmingham|1913|2}} and {{HMS|Nottingham|1913|2}}, though again failed to hit her targets.{{sfn|Campbell|p=99}} Shortly after 19:15, the British dreadnought {{HMS|Warspite|03|2}} came into range; ''Ostfriesland'' opened fire at 19:25 with her main battery guns, at ranges of {{convert|10800|to|15000|yd|m|abbr=on}}. ''Ostfriesland'' claimed hits from her third and fourth salvos. ''Warspite'' was hit by a total of thirteen heavy shells during this period.{{sfn|Campbell|p=154}}
+
+By 20:15, the German battle line had faced the entire deployed Grand Fleet a second time. Scheer ordered a 180-degree turn at 20:17, which was covered by a charge by the battlecruiser squadron and a torpedo-boat attack. In order to hasten the maneuver, Schmidt ordered ''Ostfriesland'' to turn immediately without waiting for ''Thüringen'' behind him. This move caused some difficulty for the III&amp;nbsp;Squadron ships ahead, though the ships quickly returned to their stations.{{sfn|Campbell|pp=200–201}} At around 23:30, the German fleet reorganized into the night cruising formation. ''Ostfriesland'' was the eighth ship, stationed toward the front of the 24-ship line.{{sfn|Campbell|p=275}} An hour later, the leading units of the German line encountered British light forces and a violent firefight at close range ensued. Sometime around 01:10, the armored cruiser {{HMS|Black Prince|1904|2}} stumbled into the German line. ''Thüringen'' illuminated the vessel with her spotlights and poured salvos of 30.5&amp;nbsp;cm rounds into the ship. ''Ostfriesland'' fired with her 15&amp;nbsp;cm guns and ''Kaiser'' fired both 30.5&amp;nbsp;cm and 15&amp;nbsp;cm guns. In the span of less than a minute, two massive explosions tore the cruiser apart and killed the entire 857-man crew.{{sfn|Campbell|p=290}}
+
+Despite the ferocity of the night fighting, the High Seas Fleet punched through the British destroyer forces and reached [[Horns Reef]] by 4:00 on 1&amp;nbsp;June.{{sfn|Tarrant|pp=246–247}} At 06:20, however, ''Ostfriesland'' struck a mine, previously laid by the destroyer {{HMS|Abdiel|1915|6}} on 4 May,{{sfn|Smith|p=21}} on her starboard side. The ship hauled out of line, as the explosion was initially thought to have been a torpedo fired by a submarine. ''Ostfriesland'' fell behind the fleet and steamed at slow speed, screened by the destroyers {{SMS|V3||2}}, {{SMS|V5||2}}, and briefly by {{SMS|G11||2}}. By 10:40, the battleship had increased speed to {{convert|15|kn}}.{{sfn|Campbell|p=314}} Her anti-submarine escort was eventually reinforced by a floatplane, which spotted what it believed to be a British submarine at 12:20. ''Ostfriesland'' turned away, which caused the [[torpedo bulkhead]], damaged slightly by the mine explosion, to tear open. More water entered the ship and caused a 4.75&amp;nbsp;degree list to starboard, forcing ''Ostfriesland'' to reduce speed again. The ship requested assistance from a pumping ship at 14:20, but by 14:45 the flooding was under control and the ship passed the Outer Jade Lightship. She was able to increase speed gradually to {{convert|10|kn}}, and at 18:15 she reached port in Wilhelmshaven.{{sfn|Campbell|p=320}} The mine tore a hole that measured {{convert|40|x|16|ft|m|abbr=on}} and allowed {{convert|500|t|LT|abbr=on}} of water into the ship. Further flooding occurred after the torpedo bulkhead damage at 12:20, though the full damage report has not survived.{{sfn|Campbell|pp=334–335}} ''Ostfriesland'' was drydocked in Wilhelmshaven for repairs, which lasted until 26 July.{{sfn|Campbell|p=336}} In the course of the battle, ''Ostfriesland'' fired 111 rounds from her main battery, 101 shells from her 15&amp;nbsp;cm guns, and a single 8.8&amp;nbsp;cm shell.{{sfn|Tarrant|p=292}} The only damage sustained was the mine that was struck on the morning of 1 June, which killed one man and wounded ten.{{sfn|Tarrant|pp=296, 298}}
+
+==== Later operations ====
+On 18 August 1916, Admiral Scheer attempted a repeat of the 31 May operation. The two serviceable German battlecruisers, ''Moltke'' and ''Von der Tann'', supported by three dreadnoughts, were to bombard the coastal town of [[Sunderland, Tyne and Wear|Sunderland]] in an attempt to draw out and destroy Beatty's battlecruisers.{{efn|name=Derfflinger, Seydlitz &amp; Lützow}} The rest of the fleet, including ''Ostfriesland'', would trail behind and provide cover.{{sfn|Massie|p=682}} On the approach to the English coast, Scheer turned north after receiving a false report from a [[zeppelin]] about a British unit in the area.{{sfn|Staff (Volume 2)|p=15}} As a result, the bombardment was not carried out, and by 14:35, Scheer had been warned of the Grand Fleet's approach and so turned his forces around and retreated to German ports.{{sfn|Massie|p=683}}
+
+On 25–26 September, ''Ostfriesland'' and the rest of I&amp;nbsp;Squadron provided support for a sweep out to the [[Terschelling]] Bank conducted by the II ''Führer der Torpedoboote'' (Leader of Torpedo Boats). Scheer conducted another fleet operation on 18–20 October in the direction of the Dogger Bank. For the majority of 1917, ''Ostfriesland'' was assigned to guard duty in the [[German Bight]]. During [[Operation Albion]], the amphibious assault on the Russian-held islands in the Gulf of Riga, ''Ostfriesland'' and her three sisters were moved to the [[Danish straits]] to block any possible British attempt to intervene. On 28 October the four ships arrived in [[Bay of Puck|Putzig Wiek]], and from there steamed to [[Kuressaare|Arensburg]] on the 29th. On 2 November the operation was completed and ''Ostfriesland'' and her sisters began the voyage back to the North Sea.{{sfn|Staff (Volume 1)|p=43}} In March 1918, Natzmer was replaced as the ship's commander by ''KzS'' Hans Herr.{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=200}} A final abortive fleet sortie took place on 23–24 April 1918.{{sfn|Staff (Volume 1)|p=43}} ''Ostfriesland'', ''Thüringen'', and ''Nassau'' were formed into a special unit for Operation ''Schlußstein'', a planned occupation of [[St. Petersburg]]. The three ships reached the Baltic on 10 August, but the operation was postponed and eventually canceled.{{sfn|Staff (Volume 1)|pp=43–44}} The special unit was dissolved on 21 August and the battleships were back in Wilhelmshaven on the 23rd.{{sfn|Staff (Volume 1)|p=44}}
+
+=== Fate ===
+''Ostfriesland'' and her three sisters were to have taken part in a [[Naval order of 24 October 1918|final fleet action]] at the end of October 1918, days before the [[Armistice with Germany|Armistice]] was to take effect. The bulk of the High Seas Fleet was to have sortied from its base in Wilhelmshaven to engage the British Grand Fleet; Scheer—by now the ''[[Großadmiral]]'' (Grand Admiral) of the fleet—intended to inflict as much damage as possible on the British navy, to improve Germany's bargaining position, despite the expected casualties. But many of the war-weary sailors felt that the operation would disrupt the peace process and prolong the war.{{sfn|Tarrant|pp=280–281}} On the morning of 29 October 1918, the order was given to sail from Wilhelmshaven the following day. Starting on the night of the 29th, sailors on ''Thüringen'' and then on several other battleships [[Wilhelmshaven mutiny|mutinied]].{{sfn|Tarrant|pp=281–282}} The unrest ultimately forced Hipper and Scheer to cancel the operation.{{sfn|Tarrant|p=282}} Informed of the situation, the Kaiser stated &quot;I no longer have a navy&quot;.{{sfn|Herwig|p=252}} On 16 December, ''Ostfriesland'' was decommissioned and used as a barracks ship.{{sfn|Staff (Volume 1)|p=44}}
+
+[[File:SMS Ostfriesland bomb exploding near bow 1921.jpg|thumb|left|A bomb explodes off ''Ostfriesland''{{'}}s port bow]]
+
+Following the capitulation of Germany in November 1918, most of the High Seas Fleet, under the command of Rear Admiral [[Ludwig von Reuter]], was interned in the British naval base in [[Scapa Flow]]. Only the most modern ships were sent for internment; the four ''Helgoland''-class ships were left in Germany.{{sfn|Tarrant|p=282}} On the morning of 21 June, the British fleet left Scapa Flow to conduct training maneuvers, and at 11:20 Reuter transmitted the order to [[scuttling|scuttle]] his ships. In the span of a few hours, ten battleships and five battlecruisers sank in the shallow waters of Scapa Flow.{{sfn|Herwig|p=256}} ''KzS'' Karl Windmüller served as ''Ostfriesland''{{'}}s final commander,{{sfn|Hildebrand, Röhr &amp; Steinmetz|p=200}} until she was stricken from the [[naval register|navy list]] on 5 November 1919. She was then surrendered to the [[Allies of World War I|Allies]] as &quot;''H''&quot; as a replacement for the ships that had been scuttled. The ship remained in Germany until 7 April 1920, when a German crew took her to [[Rosyth]]. She was ceded to the United States as war reparations, and on 9 April an American crew arrived to bring her to the US.{{sfn|Staff (Volume 1)|p=44}}
+
+In July 1921, the [[United States Army Air Service|Army Air Service]] and the US Navy conducted a series of bombing tests off [[Cape Hatteras]], led by General [[Billy Mitchell (general)|Billy Mitchell]]. The targets included demobilized American and former German warships, including the old battleship {{USS|Iowa|BB-4|2}}, the cruiser {{SMS|Frankfurt||2}}, and finally ''Ostfriesland'' on 20 July. At 13:30&amp;nbsp;[[Eastern Time Zone|ET]], the first attack wave, armed with {{convert|230|lb|kg|abbr=on}} bombs, struck the stationary ship. Eight of thirty-three bombs found their mark, after which the ship was inspected. The second wave was also armed with 230&amp;nbsp;lb bombs, and the third and fourth carried {{convert|600|lb|kg|abbr=on}} bombs. Five 600&amp;nbsp;lb bombs found their mark, but little damage was done to the ship's topside. The bombs that nearly missed the ship, however, had done significant underwater damage to the hull, which allowed some flooding and created a list of five degrees to port and three additional feet of draft at the stern. The bombing schedule was interrupted by a storm in the late afternoon.{{sfn|Naval Bombing Experiments}}
+
+[[File:SMS Ostfriesland sinking close.jpg|thumb|''Ostfriesland'' sinking by the stern]]
+
+Early on the morning of 21 July, the fifth wave of bombers began their attack. At 08:52, the first Army bomber dropped a {{convert|1000|lb|kg|abbr=on}} bomb that hit the ship; four more bombers followed and scored two further hits. Inspectors again went aboard ''Ostfriesland'' following the fifth attack and noted that the hits had not seriously damaged the ship, though one had created a large hole on her starboard side that allowed further flooding. By noon, she was down five feet at the stern and one foot at the bow. At 12:19, the next attack wave, equipped with {{convert|2000|lb|kg|abbr=on}} bombs, struck. Six bombs were dropped, none of which hit, though three detonated very close to the hull. At 12:30, ''Ostfriesland'' began to sink rapidly by the stern and the list to port increased dramatically. At 12:40, the ship rolled over and sank. The results of the tests were widely publicized and Mitchell became both a national hero and the &quot;infallible prophet of aviation&quot;.{{sfn|Naval Bombing Experiments}}
+
+The leadership of the US Navy, however, was outraged by Mitchell's handling of the tests; the 2,000&amp;nbsp;lb bombs had not been sanctioned by the Navy, which had set the rules for the engagement. Mitchell's bombers had also not allowed inspectors aboard the ship between bombing runs as stipulated by the Navy. The joint Army–Navy report on the tests, issued a month later and signed by General [[John Pershing]], stated that &quot;the battleship is still the backbone of the fleet.&quot;{{sfn|Budiansky|p=149}} Mitchell wrote his own, contradictory account of the tests, which was then leaked to the press. The sinking of the battleship sparked great controversy in the American public sphere; Mitchell's supporters exaggerated the significance of the tests by falsely claiming ''Ostfriesland'' to be an unsinkable &quot;super-battleship&quot; and that &quot;old sea dogs&amp;nbsp;... wept aloud.&quot;{{sfn|Budiansky|p=149}} Senator [[William Borah]] argued that the tests had rendered battleships obsolete. Mitchell was widely supported in the press, though his increasingly combative tactics eventually resulted in a court-martial for insubordination that forced him to retire from the military.{{sfn|Budiansky|pp=149–151}}
+
+== Notes ==
+
+{{portal|Battleships}}
+{{Commons category|SMS Ostfriesland}}
+
+'''Footnotes'''
+
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot; ({{lang-de|His Majesty's Ship}}).
+}}
+
+{{efn
+| name = provisional names
+| German ships were ordered under provisional names; new additions to the fleet were given a letter designation, while those ordered as replacements for older vessels were named &quot;Ersatz (ship name).&quot; Once the ship was finished, the vessel would be commissioned with its intended name. For example, {{SMS|Derfflinger||2}} was ordered as a new addition to the fleet, and so was given the provisional designation &quot;K.&quot; {{SMS|Hindenburg||2}}, was ordered to replace the old cruiser {{SMS|Hertha||2}}, and so was named ''Ersatz Hertha'' before she was formally commissioned. See {{harvnb|Gröner|p=56}}.
+}}
+
+{{efn
+| name = gun nomenclature
+| In Imperial German Navy gun nomenclature, &quot;SK&quot; (Schnelladekanone) denotes that the gun is quick firing, while the L/50 denotes the length of the gun. In this case, the L/50 gun is 50 [[Caliber (artillery)|calibers]], meaning that the gun is 50 times as long as its diameter.
+}}
+
+{{efn
+| name = CET times
+| The Germans were on Central European Time, which is one hour ahead of [[Coordinated Universal Time|UTC]], the time zone commonly used in British works.
+}}
+
+{{efn
+| name = Derfflinger, Seydlitz &amp; Lützow
+| {{SMS|Derfflinger||2}} and {{SMS|Seydlitz||2}} had been seriously damaged at the Battle of Jutland, and {{SMS|Lützow||2}} had been sunk. See {{harvnb|Gröner|pp=56, 57}} and {{harvnb|Tarrant|p=277}}.
+}}
+
+{{efn
+| name = compass points
+| The compass can be divided into 32 points, each corresponding to 11.25 degrees. A two-point turn to port would alter the ships' course by 22.5 degrees.
+}}
+
+}}
+
+'''Citations'''
+
+{{reflist|20em}}
+
+== References ==
+
+* {{cite book
+  | last = Budiansky
+  | first = Stephen
+  | year = 1998
+  | title = Air Power: The Men, Machines, and Ideas That Revolutionized War, from Kitty Hawk to Iraq
+  | publisher = Penguin Books
+  | location = New York, NY
+  | isbn = 978-0-14-303474-2
+  | ref = {{sfnRef|Budiansky}}
+  }}
+* {{cite book
+  | last = Campbell
+  | first = John
+  | year = 1998
+  | title = Jutland: An Analysis of the Fighting
+  | publisher = Conway Maritime Press
+  | location = London
+  | isbn = 978-1-55821-759-1
+  | ref = {{sfnRef|Campbell}}
+  }}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships: 1906–1921
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-907-8
+  | oclc = 12119866
+  | ref = {{sfnRef|Gardiner &amp; Gray}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-790-6
+  | oclc = 22101769
+  | ref = {{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last = Halpern
+  | first = Paul G.
+  | year = 1995
+  | title = A Naval History of World War I
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-352-7
+  | oclc = 57447525
+  | ref = {{sfnRef|Halpern}}
+  }}
+* {{cite book
+  | last = Herwig
+  | first = Holger
+  | year = 1998
+  | origyear = 1980
+  | title = &quot;Luxury&quot; Fleet: The Imperial German Navy 1888–1918
+  | publisher = Humanity Books
+  | location = [[Amherst, New York]]
+  | isbn = 978-1-57392-286-9
+  | oclc = 57239454
+  | ref = {{sfnRef|Herwig}}
+  }}
+* {{cite book
+  | last = Heyman
+  | first = Neil M.
+  | year = 1997
+  | title = World War I
+  | publisher = Greenwood Publishing Group
+  | location = Westport, CT
+  | isbn = 978-0-313-29880-6
+  | ref = {{sfnRef|Heyman}}
+  }}
+* {{cite book
+  | last1 = Hildebrand
+  | first1 = Hans H.
+  | last2 = Röhr
+  | first2 = Albert
+  | last3 = Steinmetz
+  | first3 = Hans-Otto
+  | year = 1993
+  | title = Die Deutschen Kriegsschiffe
+  | volume = 6
+  | publisher = Mundus Verlag
+  | location = [[Ratingen]]
+  | isbn = 978-3-8364-9743-5
+  | oclc = 
+  | ref = {{sfnRef|Hildebrand, Röhr &amp; Steinmetz}}
+  }}
+* {{cite book
+  | last = Massie
+  | first = Robert K.
+  | authorlink = Robert K. Massie
+  | year = 2003
+  | title = [[Castles of Steel]]
+  | publisher = Ballantine Books
+  | location = [[New York City]]
+  | isbn = 978-0-345-40878-5
+  | oclc = 57134223
+  | ref = {{sfnRef|Massie}}
+  }}
+* {{cite book
+  | last = Osborne
+  | first = Eric W.
+  | year = 2006
+  | title = The Battle of Heligoland Bight
+  | publisher = Indiana University Press
+  | location = Bloomington
+  | isbn = 978-0-253-34742-8
+  | oclc = 145747783
+  | ref = {{sfnRef|Osborne}}
+  }}
+* {{cite book
+  | last = Smith
+  | first = Peter C.
+  | year = 2005
+  | title = Into the Minefields: British Destroyer Minelaying 1918–1980
+  | publisher = Pen &amp; Sword Books
+  | location = Barnsley, South Yorkshire
+  | isbn = 978-1-84415-271-1
+  | ref = {{sfnRef|Smith}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2010
+  | title = German Battleships: 1914–1918
+  | volume = 1
+  | publisher = Osprey Books
+  | location = Oxford
+  | isbn = 978-1-84603-467-1
+  | oclc = 705750106
+  | ref = {{sfnRef|Staff (Volume 1)}}
+  }}
+* {{cite book
+  | last = Staff
+  | first = Gary
+  | year = 2010
+  | title = German Battleships: 1914–1918
+  | volume = 2
+  | publisher = Osprey Books
+  | location = Oxford
+  | isbn = 978-1-84603-468-8
+  | oclc = 
+  | ref = {{sfnRef|Staff (Volume 2)}}
+  }}
+* {{cite book
+  | last = Stumpf
+  | first = Richard
+  | year = 1967
+  | editor1-last = Horn
+  | editor1-first = Daniel
+  | title = War, Mutiny and Revolution in the German Navy: The World War I Diary of Seaman Richard Stumpf
+  | publisher = Rutgers University Press
+  | location = New Brunswick, New Jersey
+  | isbn = 
+  | ref = {{sfnRef|Stumpf}}
+  }}
+* {{cite book
+  | last = Tarrant
+  | first = V. E.
+  | year = 2001
+  | origyear = 1995
+  | title = Jutland: The German Perspective
+  | publisher = Cassell Military Paperbacks
+  | location = London
+  | isbn = 978-0-304-35848-9
+  | oclc = 48131785
+  | ref = {{sfnRef|Tarrant}}
+  }}
+
+'''Online sources'''
+
+* {{cite web
+  | title = The Naval Bombing Experiments: Bombing Operations
+  | date = 3 April 2007
+  | publisher = [[Naval History &amp; Heritage Command]]
+  | url = http://www.history.navy.mil/library/online/navybomb2.htm
+  | accessdate = 31 December 2010
+  | ref = {{sfnRef|Naval Bombing Experiments}}
+  }}
+
+{{Helgoland class battleship}}
+{{1921 shipwrecks}}
+{{coord|37|09|08|N|74|34|03|W|display=title}}
+{{Featured article}}
+
+{{DEFAULTSORT:Ostfriesland}}
+[[Category:1909 ships]]
+[[Category:Battleships sunk by aircraft]]
+[[Category:Helgoland-class battleships]]
+[[Category:Ships built in Kiel]]
+[[Category:Ships sunk as targets]]
+[[Category:Shipwrecks of the Virginia coast]]
+[[Category:World War I battleships of Germany]]
+[[Category:Ships sunk by US aircraft]]
+[[Category:Maritime incidents in 1921]]</text>
+      <sha1>r1i3i31fe4jbgg38a1l2xzwbji0retf</sha1>
+    </revision>
+  </page>
+</mediawiki>

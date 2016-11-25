@@ -1,0 +1,269 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Helianthus (SP-585)</title>
+    <ns>0</ns>
+    <id>52184485</id>
+    <revision>
+      <id>751274524</id>
+      <parentid>751231592</parentid>
+      <timestamp>2016-11-24T14:40:32Z</timestamp>
+      <contributor>
+        <username>Kablammo</username>
+        <id>1432370</id>
+      </contributor>
+      <minor/>
+      <comment>ce</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9414">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:USC&amp;GS Helianthus.jpg|300px]]
+|Ship caption=USC&amp;GS ''Helianthus'' in northern waters, outfitted with an antenna wire for [[radio acoustic ranging]] operations
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States Navy
+|Ship flag={{USN flag|1917}}
+|Ship name=USS ''Helianthus''
+|Ship namesake=''[[Helianthus]]'', the genus to which [[sunflower]]s belong (previous name retained)
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Herreshoff Manufacturing Company]], [[Bristol, Rhode Island|Bristol]], [[Rhode Island]] 
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship sponsor=
+|Ship christened=
+|Ship completed=1912
+|Ship acquired=11 June 1917
+|Ship commissioned=6 July 1917
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=Transferred to [[United States Coast and Geodetic Survey]] 28 March 1919
+|Ship status=
+|Ship notes=In use as private [[motorboat]] ''Helianthus'' 1912–1917
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=U.S. Coast and Geodetic Survey
+|Ship flag={{USN flag|1919}} [[File:Flag of the United States Coast and Geodetic Survey.svg|60 px]]
+|Ship name=USC&amp;GS ''Helianthus''
+|Ship namesake=Previous name retained
+|Ship acquired=28 March 1919
+|Ship commissioned=1919
+|Ship recommissioned=
+|Ship decommissioned=1939
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=Sold 1939
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as U.S. Navy vessel)
+|Ship class=
+|Ship type=[[Patrol vessel]]
+|Ship tonnage=
+|Ship displacement=37 [[Displacement ton|tons]]
+|Ship tons burthen=
+|Ship length={{convert|64|ft|m|abbr=on}} 
+|Ship beam={{convert|13|ft|6|in|m|abbr=on}} 
+|Ship height=
+|Ship draught= 
+|Ship draft={{convert|3|ft|3|in|m|abbr=on}} 
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=[[Gasoline engine]]
+|Ship sail plan=
+|Ship speed=10 [[Knot (unit)|knots]]
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=1 × 1-pounder gun
+|Ship armour= 
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as U.S. Coast and Geodetic Survey vessel)
+|Ship class=
+|Ship type=[[Survey ship|Survey]] [[Launch (boat)|launch]]
+|Ship tonnage=
+|Ship displacement=
+|Ship tons burthen=
+|Ship length={{convert|64|ft|m|abbr=on}} 
+|Ship beam={{convert|13|ft|6|in|m|abbr=on}} 
+|Ship height=
+|Ship draught= 
+|Ship draft={{convert|4|ft|m|abbr=on}} 
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=
+|Ship sail plan=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour= 
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''USS ''Helianthus'' (SP-585)''' was a [[patrol vessel]] in commission in the [[United States Navy]] from 1917 to 1919, seeing service in [[World War I]]. After her U.S. Navy service, she was in commission in the [[United States Coast and Geodetic Survey]] as the [[Survey ship|survey]] [[Launch (boat)|launch]] '''USC&amp;GS ''Helianthus''''' from 1919 to 1939. She was named after the [[Helianthus]], the genus to which the sunflower belongs.&lt;ref&gt;''Sunset Western Garden Book.'' Leisure Arts. 1995. pp. 606–607.&lt;/ref&gt;
+
+==Construction==
+''Helianthus'' was built as a private [[motorboat]] of the same name in 1912 at [[Bristol, Rhode Island|Bristol]], [[Rhode Island]], by the [[Herreshoff Manufacturing Company]]. She was delivered on the 11th of June, 1917.&lt;ref name=&quot;Nav source&quot;/&gt;
+
+==United States Navy service, 1917–1919==
+[[File:USC&amp;GS Helianthus ca. 1925.jpg|200px|left|thumb|USC&amp;GS ''Helianthus'' in [[Alaska]]n waters, ca. 1925. She flies the [[Flag of the United States Coast and Geodetic Survey|U.S. Coast and Geodetic Survey flag]] from her [[Mast (ship)|mast]] and the [[national ensign]] at her stern.]]
+The U.S. Navy acquired ''Helianthus'' from her owner, N. A. Herreshoff, on 11 June 1917 for [[World War I]] service as a [[patrol vessel]] and [[Ship commissioning|commissioned]] her on 6 July 1917 as USS ''Helianthus'' (SP-585) with [[Boatswain's mate (United States Navy)|Boatswain]] T. H. Rich in command.&lt;ref name=&quot;Navy&quot;&gt;{{cite web|title=Helianthus (S. P. 585)|url=https://www.history.navy.mil/research/histories/ship-histories/danfs/h/helianthus.html|website=www.history.navy.mil|accessdate=6 November 2016}}&lt;/ref&gt;
+
+''Helianthus'' was assigned to [[section patrol]] duty in the [[2nd Naval District]] during World War I. She operated on harbor patrol and harbor entrance patrol in [[Narragansett Bay]] and at [[Newport, Rhode Island|Newport]], Rhode Island.&lt;ref name=&quot;Navy&quot;/&gt;
+
+''Helianthus'' collided with the [[fishing vessel]] ''T.H.C.'' on 12 June 1918 off [[Warren, Rhode Island|Warren]], [[Rhode Island]]. The owner of ''T.H.C.'', the Warren Oyster Company, filed for $3,840.56 in damages, but was granted only $50.00 in compensation by the [[United States Congress]].&lt;ref&gt;{{cite book|title=Congressional Edition, Volume 7645|date=1919|publisher=U.S. Government Printing Office|location=University of California}}&lt;/ref&gt;&lt;ref name=&quot;collision&quot; group=&quot;note&quot;&gt;A message was sent to the [[United States House of Representatives]] saying:
+{{Quote|text=SIR: I have the honor to transmit herewith, for the consideration of [[United States Congress|Congress]], in accordance with the provisions of the act of June 24, 1910 (Stat., p. 607), a communication from the [[United States Secretary of the Navy|acting secretary of the Navy]] of the 20th instant, submitting an estimate of appropriation, in the sum of $3,840.56, to pay for claims of damages by naval vessels adjusted by the [[United States Department of the Navy|Navy Department]].|author=Carter Glass|source=Congressional Edition Volume 7645}}
+
+The [[Speaker of the United States House of Representatives|Speaker of the House of Representatives]] responded, writing:
+{{Quote|text=SIR: This department has considered, ascertained, adjusted, and determined the respective amounts due to claimants on account of damages for which vessels of the United States Navy were found to be responsible in the following described instances: 
+*1. The owner of the boat ''T. H. C.'' for damages sustained by said boat as a result of a collision with the U. S. S. ''Helianthus'' S. P. 585, at Warren, R.I. on June 12, 1918, $50. The correspondence in the department indicates that the owner of the boat ''T. H. C.'' is the Warren Oyster Co. of Warren R. I.|author=Frederick H. Gillett|source=Congressional Edition Volume 7645}}&lt;/ref&gt;
+
+==United States Coast and Geodetic Survey service, 1919–1939==
+The U.S. Navy transferred ''Helianthus'' to the [[United States Coast and Geodetic Survey]] on 28 March 1919.&lt;ref name=&quot;Nav source&quot;/&gt;&lt;ref&gt;{{cite book|last1=Silverstone|first1=Paul|title=The New Navy, 1883–1922|date=2013|publisher=Routledge|isbn=9781135865436|page=217}}&lt;/ref&gt; Commissioned as '''USC&amp;GS ''Helianthus''''', she served as a [[survey ship|survey]] [[Launch (boat)|launch]] during her years with the Coast and Geodetic Survey, conducting [[hydrographic survey]] work primarily in the waters of the [[Territory of Alaska]].&lt;ref name=&quot;NOAA&quot;&gt;{{cite web|title=NOAA History –  Tools of the Trade/Ships/C&amp;GS Ships/HELIANTHUS|url=http://www.history.noaa.gov/ships/helianthus.html|website=www.history.noaa.gov|accessdate=6 November 2016}}&lt;/ref&gt; The Survey sold her in 1939, and her subsequent fate is unknown.&lt;ref name=&quot;Nav source&quot;&gt;{{cite web|title=Helianthus (SP 585)|url=http://www.navsource.org/archives/12/170585.htm|website=www.navsource.org|accessdate=6 November 2016}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*{{DANFS|https://www.history.navy.mil/research/histories/ship-histories/danfs/h/helianthus.html}}
+*[http://www.navsource.org/archives/12/170585.htm NavSource Online: Patrol Yacht Photo Archive: USC&amp;GS Helianthus ex-USS (SP 585)]
+*[http://www.history.noaa.gov/ships/helianthus.html NOAA History, A Science Odyssey: Tools of the Trade: Ships: Coast and Geodetic Survey Ships: Helianthus]
+
+{{June 1918 shipwrecks}}
+
+{{DEFAULTSORT:Helianthus (SP-585)}}
+[[Category:Patrol vessels of the United States Navy]]
+[[Category:World War I patrol vessels of the United States]]
+[[Category:Ships of the United States Coast and Geodetic Survey]]
+[[Category:Survey ships of the United States]]
+[[Category:Ships built in Rhode Island]]
+[[Category:1912 ships]]
+[[Category:Maritime incidents in 1918]]</text>
+      <sha1>epyydiwcaqazgugjsjgbyvdkk09k6ma</sha1>
+    </revision>
+  </page>
+</mediawiki>

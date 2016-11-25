@@ -1,0 +1,171 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>General-Admiral-class cruiser</title>
+    <ns>0</ns>
+    <id>29753974</id>
+    <revision>
+      <id>720065861</id>
+      <parentid>711328266</parentid>
+      <timestamp>2016-05-13T14:16:43Z</timestamp>
+      <contributor>
+        <username>WereSpielChequers</username>
+        <id>4071608</id>
+      </contributor>
+      <comment>/* Service */clean up, replaced: at in  →  in using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9525">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:General-Admiral armored cruiser.jpg|300px]]
+|Ship caption=''General-Admiral''
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators={{navy|Russian Empire}}
+|Class before=None
+|Class after={{ship|Russian cruiser|Minin||2}}
+|Built range=1870–1877
+|In commission range=1875–1938
+|Total ships completed=2
+|Total ships scrapped=2
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(''General-Admiral'' as completed)
+|Ship type=[[Armored cruiser]]
+|Ship displacement={{convert|5031|LT|t|0}} 
+|Ship length={{convert|285|ft|10|in|m|1|abbr=on}}
+|Ship beam={{convert|48|ft|m|1|abbr=on}}
+|Ship draft={{convert|24|ft|5|in|m|1|abbr=on}}
+|Ship power=*{{convert|4772|ihp|lk=in|abbr=on}}
+*4 [[Scotch marine boiler|Cylindrical boilers]]
+|Ship propulsion=1 Shaft, 1 [[Marine steam engine#Compound|compound steam engine]]
+|Ship speed={{convert|12|kn|lk=in}}
+|Ship range={{convert|5900|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=482 officers and crewmen
+|Ship armament=*6 × single {{convert|8|in|adj=on|0}}/22 guns
+*2 × single {{convert|6|in|adj=on|0}}/23 guns
+*2 × single {{convert|3.4|in|adj=on|0}} guns
+*8 × single {{convert|37|mm|adj=on|1|sp=us}}/23 guns
+*1 × {{convert|15|in|adj=on|0}} submerged [[torpedo tube]]
+|Ship armor=[[Belt armor|Belt]]: {{convert|5|-|6|in|mm|0|abbr=on}}
+|Ship notes=
+}}
+|}
+
+The '''''General-Admiral''-class''' ships were a pair of [[armored cruiser]]s built for the [[Imperial Russian Navy]] in the early 1870s. They are generally considered as the first true [[armored cruiser]]s.&lt;ref&gt;Beeler, p. 222&lt;/ref&gt;
+
+==Design and description==
+Originally classified as armored [[corvette]]s, the ''General-Admiral''s were redesignated as semi-[[armored frigate]]s on 24 March 1875. They were laid out as [[Central battery ship|central battery ironclads]] with the armament concentrated amidships.&lt;ref name=w68/&gt;
+
+The ''General-Admiral''-class ships were {{convert|285|ft|10|in|m|1}} [[overall length|long overall]]. They had a [[Beam (nautical)|beam]] of {{convert|48|ft|m|1}} and a [[Draft (hull)|draft]] of {{convert|24|ft|5|in|m|1}}. The ships were designed to [[Displacement (ship)|displace]] {{convert|4604|LT|MT}}, but displaced {{convert|5031|LT|MT|}} as built, an increase of over {{convert|400|LT|t}}. The iron-hulled ships were not fitted with a [[Naval ram|ram]] and their crew numbered approximately 482 officers and men.&lt;ref name=w68&gt;Watts, p. 72&lt;/ref&gt;
+
+The ships had a [[Marine steam engine#Compound|vertical compound steam engine]] driving a single two-bladed, {{convert|6.25|m|ftin|adj=on|disp=flip}} propeller, using steam provided by [[Scotch marine boiler|cylindrical boilers]]. The number of boilers differed between the sisters. ''General-Admiral'' had five that generated a working pressure of {{convert|60|psi|kPa kg/cm2|0|abbr=on|lk=on}} so that the engine produced {{convert|4772|ihp|lk=in}}. This gave her during a maximum speed around {{convert|12.3|kn|lk=in}} during her [[sea trial]]s. ''Gerzog Edinburgski'' had four boilers and her engine made {{convert|5590|ihp|abbr=on}} that propelled her at {{convert|11.5|kn}}.&lt;ref name=w44&gt;Wright, pp. 44–45&lt;/ref&gt;
+
+The ''General-Admiral'' class carried a maximum of {{convert|1000|LT|t}} of coal which gave them an economical range of {{convert|5900|nmi|lk=in}} at a speed of {{convert|10|kn}}. They were [[ship rig|ship]]-rigged with three [[mast (sailing)|mast]]s. To reduce [[drag (physics)|drag]] while under sail, the single [[funnel (ship)|funnel]] was retractable and the propeller could be hoisted into the hull.&lt;ref name=w5&gt;Wright, p. 45&lt;/ref&gt;
+
+The sisters also differed in their armament. ''General-Admiral'' had six {{convert|8|in|adj=on|0}}, two {{convert|6|in|adj=on|0}} and four {{convert|87|mm|adj=on|1|sp=us}} [[Rifled breech loader|rifled breech-loading guns]] (RBL). ''Gerzog Edinburgski'' had four 8-inch, five 6-inch and six {{convert|107|mm|adj=on|1|sp=us}} guns.&lt;ref name=s9&gt;Silverstone, p. 359&lt;/ref&gt;
+
+The ships had a complete [[waterline]] [[Belt armor|belt]] of [[wrought iron]] that ranged in thickness from 6 inches amidships to {{convert|5|in|0}} at the ends of the ships. The armor had a total height of {{convert|2.15|m|ftin|disp=flip}}, of which {{convert|1.55|m|ftin|disp=flip}} was below the waterline. The central [[Artillery battery#Naval usage|battery]] was also protected by 6-inch armor plates.&lt;ref&gt;Wright, p. 44&lt;/ref&gt;
+
+==Ships==
+{|class=wikitable
+|- valign=top
+!  | Name
+!  | Namesake&lt;ref name=m3&gt;Silverstone, p. 375&lt;/ref&gt;
+!  | Builder&lt;ref name=ck6&gt;Chesneau &amp; Kolesnik, p. 186&lt;/ref&gt;
+!  | [[keel laying|Laid down]]&lt;ref name=w68/&gt;
+!  | [[Ship naming and launching|Launched]]&lt;ref name=w68/&gt;
+!  | Entered service&lt;ref name=ck6/&gt;
+|- valign=middle
+|  | {{ship|Russian cruiser|General-Admiral||2}}
+|align=center|[[Grand Duke Konstantin Nikolayevich of Russia]]
+| align=center| [[Sredne-Nevskiy Shipyard|Nevskiy Works]], [[Saint Petersburg]]
+|align=center| 27 November 1870&lt;ref group=Note&gt;All dates used in this article are [[Old Style and New Style dates|New Style]]&lt;/ref&gt;
+|align=center| 2 September 1873
+|align=center| 1875
+|- valign=middle
+|  | {{ship|Russian cruiser|Gerzog Edinburgski||2}}
+|align=center|[[Alfred, Duke of Saxe-Coburg and Gotha]]
+|align=center|[[Baltic Shipyard|Baltic Works]], Saint Petersburg
+|align=center| 27 September 1870 
+|align=center| 10 September 1875
+|align=center| 1877
+|}
+
+==Service==
+''General-Admiral'' had was blown ashore during a heavy storm at [[Kronstadt]] in 1875, shortly after being completed.&lt;ref name=m3/&gt; She did not participate in the Russo-Turkish War of 1877–78 and made one cruise in the [[Pacific]] in the early 1880s. The ship spent 1884–85 in the [[Mediterranean]] before beginning a refit in 1886 during which she was partially re-boilered. ''General-Admiral'' had her boilers replaced, her funnel was replaced by two non-retractable funnels, and a fixed propeller was installed in 1892. The ship was reclassified as a 1st-class cruiser on 13 February 1892 and participated the Columibian Naval Review in [[Hampton Roads]], Virginia, the following year. Afterwards she became a training ship. She became a school ship in 1906 and her armament was reduced accordingly.&lt;ref&gt;Wright, pp. 48–49&lt;/ref&gt;
+
+''Gerzog Edinburgski'' was initially assigned to the Baltic Fleet, but made a lengthy Pacific cruise in 1881–84. She was refitted about 1890 in the same type as her sister's 1892 refit, although her engine and boilers were replaced in 1897. The ship became a training ship for [[petty officer]]s and was formally reclassified as a school ship like her sister in 1906.&lt;ref&gt;Wright, p. 51&lt;/ref&gt;
+
+The sisters were converted into minelayers in 1908–11 and renamed after lakes near Saint Petersburg, ''General-Admiral'' became ''Narova'' and ''Gerzog Edinburgski'' was renamed ''Onega''. Their rigging was reduced to pole masts, their armament was reduced to four {{convert|75|mm|adj=on|1|sp=us}} guns, and they could carry 600–800 mines. They both participated in numerous minelaying missions in the early years of World War I, but ''Onega'' was [[hulk (ship)|hulked]] in 1915 as ''Blokshiv No. 9'' and became a mine storage ship in Helsinki. ''Narova'', however, continued to lay mines throughout the war. The [[Treaty of Brest-Litovsk]] required the Soviets to evacuate their base in March 1918 or have them interned by newly independent [[Finland]], even though the [[Gulf of Finland]] was still frozen over. The sisters were not included in the initial group of evacuated ships and were only permitted to leave in May for Kronstadt after lengthy negotiations with the Germans. Narova's crew joined the Soviets and she was used to mine the approaches to Petrograd later that year against the British forces operating in the [[Gulf of Finland]] against the Soviets. She was renamed ''Dvadsatpyatavo Oktyabrya'' (25 October) in 1922&lt;ref&gt;Wright, pp. 44, 49, 51&lt;/ref&gt;
+
+The ultimate fates of the sisters are not exactly known. ''Blokshiv No. 9'' was apparently broken up in the 1920s while ''Dvadsatpyatavo Oktyabrya'' became a mine storage hulk in 1938 before being sunk as a [[breakwater (structure)|breakwater]] in the [[Neva River]] around 1959.&lt;ref name=m3/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|30em}}
+
+==Bibliography==
+*{{cite book |last=Beeler|first=John Francis|title=British Naval Policy in the Gladstone-Disraeli Era|year=1997|location=[[San Francisco]]|publisher=Stanford University Press|isbn=0-8047-2981-6}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Watts|first=Anthony J.|title=The Imperial Russian Navy|publisher=Arms and Armour|location=London|year=1990|isbn=0-85368-912-1}}
+*{{cite journal|last=Wright|first=Christopher C.|year=1972|title=Cruisers of the Imperial Russian Navy, Part I|journal=Warship International|publisher=Naval Records Club|location=Toledo, Ohio|volume=IX|issue=1|pages=28–52}}
+
+{{General-Admiral class cruisers}}
+{{Cruisers of the Imperial Russian Navy}}
+
+[[Category:General-Admiral-class cruisers| ]]
+[[Category:Cruisers of the Imperial Russian Navy]]
+[[Category:1870s ships]]</text>
+      <sha1>f5l611lq3pooem7p9hgjssdmi179cl4</sha1>
+    </revision>
+  </page>
+</mediawiki>

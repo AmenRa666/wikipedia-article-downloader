@@ -1,0 +1,329 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS New Mexico (BB-40)</title>
+    <ns>0</ns>
+    <id>191146</id>
+    <revision>
+      <id>750763101</id>
+      <parentid>750763015</parentid>
+      <timestamp>2016-11-21T18:07:41Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <comment>trim down the box a bit</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27182">{{Other ships|USS New Mexico}}
+{{good article}}
+{{Use dmy dates|date=October 2012}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+|Ship image = [[File:USS New Mexico BB-40 1921.jpg|300px]]
+|Ship caption = ''New Mexico'' in 1921
+}}
+{{Infobox ship career
+|Ship country = United States
+|Ship flag = {{USN flag|1946}}
+|Ship name = ''New Mexico''
+|Ship namesake = [[New Mexico]]
+|Ship builder = [[Brooklyn Navy Yard]]
+|Ship laid down = 14 October 1915
+|Ship launched = 13 April 1917
+|Ship commissioned = 20 May 1918
+|Ship decommissioned = 19 July 1946
+|Ship struck = 25 February 1947
+|Ship honors = 6 × [[Battle star#Navy warships|battle stars]], [[World War II]]
+|Ship fate = Sold 9 November 1947 
+|Ship status = Broken up for scrap in Newark, NJ
+|Ship notes =
+|Ship badge =
+}}
+{{Infobox ship characteristics
+|Header caption = 
+|Ship class = {{sclass-|New Mexico|battleship|1}}
+|Ship displacement = {{convert|32000|LT|t|0|lk=on|abbr=on}}
+|Ship length = {{convert|624|ft|m|abbr=on}}
+|Ship beam = {{convert|97|ft|5|in|m|abbr=on}}
+|Ship draft = {{convert|30|ft|m|abbr=on}}
+|Ship power =* 9 × [[Babcock &amp; Wilcox boiler]]s
+* {{convert|27500|shp|lk=in|abbr=on}}
+|Ship propulsion =
+* [[turbo-electric transmission]]
+*4 × [[Propeller|screw]]s
+|Ship speed = {{convert|21|kn|mph km/h|abbr=on}}
+|Ship complement = 1,084 officers and men
+|Ship armament =
+*12 × [[14&quot;/50 caliber gun|{{cvt|14|in|mm|0}}/50 cal guns]]
+*14 × [[5&quot;/51 caliber gun|{{cvt|5|in|0}}/51 cal guns]]
+* 8 × [[3&quot;/50 caliber gun|{{cvt|3|in|0}}/50 cal guns]]
+* 2 × [[Mark 15 torpedo|Mark 15 {{cvt|21|in|0}}]] [[torpedo tube]]s
+ |Ship armor =*[[Belt armor|Belt]]: {{convert|8|-|13.5|in|abbr=on|0}}
+*[[Barbette]]s: {{convert|13|in|abbr=on|0}}
+*[[Gun turret#Warships|Turret]] face: {{convert|18|in|abbr=on|0}}
+*Turret sides: {{convert|9|-|10|in|abbr=on|0}}
+*Turret top: {{convert|5|in|abbr=on|0}}
+*Turret rear {{convert|9|in|abbr=on|0}}
+*[[Conning tower]]: {{convert|11.5|in|abbr=on|0}}
+*[[Deck (ship)|Decks]]: {{convert|3.5|in|abbr=on|0}}
+ 
+|Ship aircraft =
+|Ship notes =
+}}
+|}
+'''USS ''New Mexico'' (BB-40)''' was a [[battleship]] in service with the [[United States Navy]] from 1918 to 1946. She was the [[lead ship]] of [[New Mexico-class battleship|a class]] of three battleships, and the first ship to be named for the state of [[New Mexico]]. Her keel was laid down on 14 October 1915 at the [[New York Navy Yard]], she was launched on 23 April 1917, and was commissioned on 20 May 1918. She was the first ship with a [[turbo-electric transmission]], which helped her reach a cruising speed of {{convert|10|kn}}. Shortly after completing initial training, ''New Mexico'' escorted the ship that carried President [[Woodrow Wilson]] to [[Brest, France]] to sign the [[Treaty of Versailles]]. The interwar period was marked with repeated exercises with the [[United States Pacific Fleet|Pacific]] and [[United States Fleet Forces Command|Atlantic Fleets]], use as a trial ship for [[PID controller]]s, and a major modernization between March 1931 and January 1933.
+
+The ship's first actions during [[World War II]] were neutrality patrols in the [[Atlantic Ocean]]. She returned to the Pacific after the Japanese [[attack on Pearl Harbor]], and participated in shore bombardments during operations at  [[Aleutian Islands Campaign|Attu and Kiska]], [[Battle of Tarawa|Tarawa]], the [[Marshall Islands Campaign|Marshall Islands]], the [[Mariana and Palau Islands campaign|Mariana and Palau islands]], [[Battle of Leyte|Leyte]], [[Battle of Luzon|Luzon]], and [[Battle of Okinawa|Okinawa]]. These were interspersed with escort duties, patrols, and refits. The ship was attacked by [[kamikaze]]s on several occasions. ''New Mexico'' was present in Tokyo Bay for the signing of the [[Japanese Instrument of Surrender]] on 2 September 1945. Four days later, she sailed for the United States, and arrived in Boston on 17 October.
+
+''New Mexico'' was decommissioned in Boston on 19 July 1946, and struck from the [[Naval Vessel Register]] on 25 February 1947. The ship was sold for [[ship breaking|scrapping]] to the Lipsett Division of Luria Bros in November 1947, but attempts to bring the ship to [[Newark, New Jersey]] for breaking up were met by resistance from city officials. City [[fireboat]]s were sent to block the passage of the battleship and the Lipsett tugboats, while the [[United States Coast Guard]] declared intentions to guarantee safe passage. The Under Secretary of the [[Navy Department]] was sent to defuse what the media began to call the &quot;Battle of Newark Bay&quot;, with the city agreeing to the breaking up of ''New Mexico'' and two other battleships before scrapping operations in Newark Bay ceased, and Lipsett under instructions to dismantle the ships in a set timeframe or suffer financial penalties. Scrapping commenced in November and was completed by July 1948.
+
+== Description ==
+{{Main|New Mexico-class battleship}}
+
+''New Mexico'' was {{convert|624|ft}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|97|ft|5|in|abbr=on}} and a [[draft (nautical)|draft]] of {{convert|30|ft|abbr=on}}. She displaced {{convert|32000|LT}} as designed and up to {{convert|33000|LT}} at full combat load. Unlike the other members of her class, ''New Mexico'' was powered by four-shaft [[General Electric]] [[steam turbine]]s fitted with [[turbo-electric transmission]] and nine oil-fired [[Babcock &amp; Wilcox]] [[boiler]]s rated at {{convert|27500|shp|lk=on}}, generating a top speed of {{convert|21|kn|lk=in}}. The ship had a cruising range of {{convert|8000|nmi|lk=in}} at a speed of {{convert|10|kn|abbr=on}}. Her crew numbered 1,084&amp;nbsp;officers and enlisted men. As built, she was fitted with two [[lattice mast]]s with [[spotting top]]s for the main gun battery. The main [[armored belt]] was {{convert|13.5|in|abbr=on|0}} thick, while the main armored deck was up to {{convert|3.5|in|abbr=on}} thick. The main battery gun turrets had {{convert|18|in|abbr=on|0}} thick faces on {{convert|13|in|mm|abbr=on}} [[barbette]]s. The [[conning tower]] had {{convert|16|in|abbr=on|0}} thick sides.{{sfn|Gardiner &amp; Gray|p=117}}
+
+The ship was armed with a [[main battery]] of twelve [[14&quot;/50 caliber gun|{{convert|14|in|adj=on|0}}/50 caliber guns]] in four, three-[[gun turret]]s on the centerline, placed in two [[superfire|superfiring pairs]] forward and aft of the [[superstructure]]. Unlike earlier American battleships with triple turrets, these mounts were true three-gun barrels, in that each barrel could elevate independently. The secondary battery consisted of fourteen [[5&quot;/51 caliber gun|{{convert|5|in|adj=on|0}}/51 caliber guns]] mounted in individual [[casemate]]s clustered in the superstructure [[amidships]]. Initially, the ship was fitted with twenty-two of the guns, but experiences in the [[North Sea]] during [[World War I]] demonstrated that the additional guns, which were placed in the hull, would have been unusable in anything but calm seas. As a result, these guns were removed and the casemates were plated over to prevent flooding. The secondary battery was augmented with four [[3″/50 caliber gun|{{convert|3|in|adj=on|0}}/50 caliber guns]]. In addition to her gun armament, ''New Mexico'' was also fitted with two {{convert|21|in|adj=on}} [[torpedo tube]]s, mounted submerged in the hull, one on each [[broadside]].{{sfn|Gardiner &amp; Gray|p=117}}
+
+== Service history ==
+[[File:New mexico BB-40.jpg|thumb|left|USS ''New Mexico'' (BB-40), c. 1935, in [[Pearl Harbor, Hawaii]].]]
+
+On 30 June 1914, ''New Mexico'' was authorized by the [[United States Congress]]. Work on the new ship began on 14 October 1915, with her [[keel laying]] at the [[New York Navy Yard]]. She was launched on 13 April 1917, and commissioned into the fleet on 20 May 1918.{{sfn|Wiper|p=2}} Captain [[Ashley Herman Robertson]] was her first commanding officer.{{sfn|DANFS USS New Mexico (BB-40)}} The ship thereafter began [[sea trial]]s and a [[shakedown cruise]] before formally joining the [[United States Fleet Forces Command|Atlantic Fleet]]. In September, she was transferred to Boston. She was present during a [[naval review]] held on 26 December in New York City. She escorted the passenger ship {{SS|George Washington||2}} as she carried President [[Woodrow Wilson]] to France for the [[Versailles Peace Conference]], departing the United States on 15 January 1919. On 22 February, ''New Mexico'' encountered a foundering [[schooner]]; after taking off the sinking ship's crew, ''New Mexico''{{'}}s secondary battery used the vessel for target practice. On 27 February, the ship reached New York, and in mid-July, she had moved to [[Hampton Roads]], Virginia. On 16 July, she became the [[flagship]] of the [[United States Pacific Fleet|Pacific Fleet]]. Three days later, she left for California, passing through the [[Panama Canal]] and arriving in [[San Pedro, California|San Pedro]] on 9 August.{{sfn|Wiper|p=2}}
+
+Two of her {{convert|5|in|adj=on}}/51 caliber guns were removed in a later overhaul, in 1922.{{sfn|Breyer|1973|p=219}}
+
+The next twelve years consisted of training exercises and maneuvers in the Pacific and the Caribbean, with the Pacific and the [[United States Atlantic Fleet|Atlantic Fleets]]. She also took several cruises to South American ports and was used for the early development of [[PID controller]]s. Invented by the Russian-American engineer [[Nicolas Minorsky]] for the automated steering of ships, the devices have since become widespread in [[control engineering]].{{sfn|Bennett|1986|pp=[https://books.google.com/books?id=1gfKkqB_fTcC&amp;pg=PA142 142–148]}} After that, in 1925, she took a cruise to [[Australia]] and [[New Zealand]].{{sfn|Driscoll|2009|p=97}}
+
+After her training exercises in the Atlantic and the Pacific were finished, ''New Mexico'' was overhauled and modernized at the Philadelphia Harbor by the Navy from March 1931 to January 1933. The overhaul included the replacement of her turbo-electric drive with more conventional geared turbines, which were made by Curtis. In addition, ''New Mexico'' received eight {{convert|5|in|adj=on|0}}/25 caliber anti-aircraft guns, replacing the four {{convert|3|in|adj=on|0}} guns that had been previously installed. After the overhaul, she returned the Pacific to continue training exercises and the development of tactical operations.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|p=16}}
+
+Even in 1936 during Fleet Problem XVII,{{efn|A &quot;fleet problem&quot; was an annual large-scale training exercise, where the &quot;battle fleet&quot; would be divided up into two opposing sides, and test doctrine and tactics.{{sfn|DANFS West Virginia (BB-48)}}}} she was one of the fastest battleships in the Navy, having a maximum speed of {{convert|21|kn}}, higher than most U.S. battleships, but only {{convert|1.5|kn}} faster than Japan's slowest battleships. This led to the development of the {{sclass-|North Carolina|battleship}} and [[South Dakota-class battleship (1939)|''South Dakota''-class]] [[battleship]].{{sfn|Nofi|2010|p=37}} In 1937, she arrived in Hawaii to sail to [[Dutch Harbor]], Alaska, where she and several other ships were sent to help the Navy evaluate fighting in sub-arctic conditions.{{sfn|Nofi|2010|p=220}}
+
+=== World War II ===
+
+==== 1940–43 ====
+As the prospect of war grew, ''New Mexico''{{'}}s was based at [[Pearl Harbor]], Hawaii, from 6 December 1940 to 20 May 1941. She then left Pearl Harbor to join the Atlantic fleet at [[Norfolk, Virginia|Norfolk]] on 16 June for [[neutrality patrol]] duty along the Atlantic coast.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|p=16}} In the Atlantic, she  served on three 7- to 14-day &quot;shifts&quot; following destroyers to [[military escort|escort]] convoys across the Atlantic.{{sfn|Rowher|2005|p=79}} On 10 December, while headed to Hampton Roads (en route to the west coast after the Japanese [[attack on Pearl Harbor|attacked Pearl Harbor]]), she accidentally rammed and sank the U.S. freighter ''Oregon'' south of the [[Nantucket Lightship]] off Boston Harbor.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Cressman|2000|p=97}} She managed to reach the Panama Canal by 17 January 1942.{{sfn|Rowher|2005|p=135}}
+
+During an overhaul in May 1942, at the [[Puget Sound Navy Yard]], she had her secondary battery of twelve 5&amp;nbsp;in/51 guns removed to make space for more anti-aircraft guns.{{sfn|Breyer|1973|p=219}} After the overhaul, which was completed on 1 August, she departed [[San Francisco]] to Hawaii to prepare for action. From 6 December to 22 March 1943, she escorted convoys and transports to the [[Fiji|Fiji Island]]s. After that, she patrolled the southwestern Pacific, before returning to Pearl Harbor to get ready for the [[Aleutian Islands Campaign]]. After her training, on 17 May, she steamed to [[Adak Island|Adak]], which would be her base for the attack on [[Attu Island|Attu]]. She later participated in the shelling of [[Kiska Island|Kiska]] on 21 July, which led to the Japanese evacuation of the island a week later.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|p=18}}
+
+After the Aleutian Islands Campaign, a refit was undertaken at the Puget Sound Navy Yard. On 25 October, ''New Mexico'' returned to Pearl Harbor to practice for the invasion of the [[Gilbert Islands]]. On 20 November, while the invasion was underway, she shelled [[Makin Atoll]]. During the fighting on the islands the ship was tasked with guarding transports at night when they retreated from the islands, providing anti-aircraft fire for the unloading of supplies and troops, and providing screening fire for the [[aircraft carrier]]s. After U.S. troops captured the Gilbert Islands on 5 December, ''New Mexico'' returned to Pearl Harbor.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|p=18}}{{sfn|Rowher|2005|p=289}}
+
+==== 1944 ====
+''New Mexico'' was part of the [[Marshall Islands]] invasion force on 12 January 1944. She shelled [[Kwajalein]] and [[Ebeye]] from 31 January to 1 February. Replenishing at [[Majuro]], on 20 February the ship shelled [[Wotje]], and then the following month also shelled [[New Ireland (island)|New Ireland]] and [[Kavieng]]. After that, she sailed to the [[Solomon Islands]] to practice the attack on the [[Mariana Islands]], stopping at [[Sydney]], in Australia, on the way.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|pp=21–23}}
+
+In mid-June, ''New Mexico'' joined the shelling of [[Tinian]], and also bombarded [[Saipan]] and [[Guam]]. On 18 June, she helped drive away two air attacks. Later, on 20 June, she escorted transports off the Mariana Islands. Meanwhile, the carrier task force destroyed the Japanese carrier force at the [[Battle of the Philippine Sea]]. Later, she escorted troop transports to the naval base of [[Eniwetok]]. On 9 July, she sailed to guard [[escort carrier]]s until 12 July. Her guns later hit Guam on 21 July and kept on shelling the island until 30 July.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|pp=21–23}}
+
+After the invasion of the Mariana Islands, she received an overhaul at [[Bremerton, Washington]], from October to November. After the overhaul, she arrived in [[Leyte Gulf]] to escort reinforcement and supply transports and convoys. She dealt with daily air attacks, as the Japanese put up heavy resistance to the liberation of the Philippines. She departed Leyte Gulf on 2 December to the [[Palau Islands|Palaus]], where she later joined a [[Mindoro]]-bound convoy. She provided anti-aircraft fire for the convoy and provided cover fire for invading forces. She provided cover for two more days before retiring to the Palaus.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Driscoll|2009|p=138}}
+
+==== 1945 ====
+[[File:Uss new mexico bb.jpg|thumb|''New Mexico'', with Mt. Fuji in the background, August 1945.]]
+''New Mexico''{{'}}s next task in the Philippines was the liberation of [[Luzon]]. She took part in the pre-invasion shelling of [[Invasion of Lingayen Gulf|Lingayen Gulf]] on 6 January. During the bombardment she came under heavy [[kamikaze]] attack, one of which hit her [[bridge (nautical)|bridge]], killing her commanding officer, Captain [[Robert Walton Fleming]], and 29 others. The dead included Lieutenant General [[Herbert Lumsden]], the British representative to [[General of the Army]] [[Douglas MacArthur]]. A further 87 of her crew were wounded. [[Bruce Fraser, 1st Baron Fraser of North Cape|Bruce Fraser]], the commander of the [[British Pacific Fleet]], narrowly escaped death while on her bridge, although his secretary was killed. The guns remained in action as the ship's crew repaired the damage while the invasion troops were landing on the beaches.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|pp=21–23}}
+
+More extensive repairs were completed at Pearl Harbor, after which ''New Mexico'' sailed to the island of [[Ulithi]] to rehearse the [[invasion of Okinawa]] as part of a large fire-support group. Her heavy guns opened up on [[Okinawa]] on 26 March, and for the next month she continued to support the US troops ashore. On 11 May, she destroyed eight [[Shinyo (suicide boat)|''Shinyo'' suicide boats]].{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|pp=21–23}}
+
+While she was approaching her berth in the [[Hagushi]] anchorage, just after sunset on 12 May, she was attacked by two kamikazes. One of them plunged into her, the other managed to hit her with its bomb. She was set on fire and 54 members of ''New Mexico''{{'}}s crew were killed, while a further 119 were wounded. Swift action led to the fires being extinguished within 30 minutes. On 28 May, she departed for repairs at [[Leyte (island)|Leyte]], followed by rehearsals for the planned [[Operation Downfall|invasion of the Japan]]. Word of the war's end reached her when she was at Saipan on 15 August. The next day she sailed for Okinawa to join the occupation force. She entered [[Sagami Wan]] on 27 August to support the airborne occupation of [[Naval Air Facility Atsugi|Atsugi Airfield]]. The next day ''New Mexico'' passed into [[Tokyo Bay]] to witness the [[Japanese Instrument of Surrender|Japanese surrender]], which took place on 2 September. She departed Tokyo Bay on 6 September, passing Okinawa, Hawaii, and the Panama Canal, before arriving at Boston on 17 October.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Turner Publishing|2002|pp=21–23}}{{sfn|Rowher|2005|p=431}}
+
+=== Postwar ===
+''New Mexico'' was decommissioned in Boston on 19 July 1946, and was struck from the [[Naval Vessel Register]] on 25 February 1947. On 9 November 1947, she was sold for scrapping to the Lipsett Division of Luria Bros, for $381,600.{{sfn|DANFS USS New Mexico (BB-40)}}{{sfn|Bonner|1997|p=[https://books.google.com/books?id=53l3ebkpCjcC&amp;lpg=PP1&amp;pg=PA109 109]}}
+
+Lipsett decided to tow ''New Mexico'' for scrapping at [[Newark, New Jersey]]. The proximity of Newark to rail lines made it an ideal location for dismantling the ship and hauling away the steel. In early November 1947 ''New Mexico'' departed Boston, towed by two tugs. On 12 November, while off the coast of New York, the tugs pulling the battleship encountered heavy weather and were forced to cut the tow lines. Running lights were kept on aboard ''New Mexico'' along with three crewmembers, but the tugs eventually lost sight of the battleship.{{sfn|The Evening Independent|1947}} ''New Mexico'' then drifted as a derelict until spotted by a Coast Guard plane the next day, 35 miles off the coast. The two tugs then secured tow lines and continued the journey to the scrapyard.{{sfn|Bonner|1997|p=[https://books.google.com/books?id=53l3ebkpCjcC&amp;lpg=PP1&amp;pg=PA114#v=onepage&amp;q&amp;f=false 114]}}{{sfn|Ellensburg Daily Record|1947}}
+
+Newark city officials decided they did not want any more ships scrapped along the city's waterfront. Newark was implementing a beautification plan for the waterfront, and had allocated $70 million for improvements.{{sfn|Bonner|1997|p=[https://books.google.com/books?id=53l3ebkpCjcC&amp;lpg=PP1&amp;pg=PA114#v=onepage&amp;q&amp;f=false 114]}} As such, the city declared that any attempt to bring ''New Mexico'' to Newark would be blocked. Two city [[fireboat]]s, ''Michael P. Duffy'' and ''William T. Brennan'', were dispatched and were prepared to use their fire hoses and chemical sprayers to halt Lipsett and ''New Mexico''.{{sfn|Bonner|1997|p=[https://books.google.com/books?id=53l3ebkpCjcC&amp;lpg=PP1&amp;pg=PA114#v=onepage&amp;q&amp;f=false 114]}} In response, Lipsett organized its own force of four tugs, and the [[United States Coast Guard]] declared it would guarantee safe passage of ''New Mexico'', provided legal entry was permitted. This showdown was dubbed by the press as the &quot;Battle of Newark Bay&quot;, while the [[Santa Fe, New Mexico|Santa Fe]] [[Chamber of commerce|Chamber of Commerce]] announced it would protest Newark's &quot;slur&quot; of ''New Mexico's'' namesake, through its refusal to admit the battleship.{{sfn|The Evening Independent|1947}}
+
+As ''New Mexico'' awaited suitable tidal conditions to make the final tow into Newark, the [[Navy Department]] sent Under Secretary [[W. John Kenney]] to negotiate. After several sessions, he arranged a tenuous agreement between the City of Newark and Lipsett. Newark would allow ''New Mexico'' and two other battleships, {{USS|Idaho|BB-42|2}} and {{USS|Wyoming|BB-32|2}}, to be scrapped at Newark, but there would be no permanent ship dismantling facility. Lipsett had nine months to dispose of the three ships, or would be subjected to a fine of $1,000 per day after the deadline.{{sfn|Bonner|1997|p=[https://books.google.com/books?id=53l3ebkpCjcC&amp;lpg=PP1&amp;pg=PA114#v=onepage&amp;q&amp;f=false 114]}}
+
+''New Mexico'' finally entered Newark Channel on 19 November, and was greeted by the same Newark fireboats that had earlier been sent to oppose the ship. Newark also arranged to have school children honor the old battleship dockside, with a marching band. ''New Mexico'' was subsequently joined by ''Idaho'' and ''Wyoming'', where all three were finally dismantled. Scrapping of ''New Mexico'' began on 24 November and was completed by July 1948.{{sfn|NavSource|2009}}
+
+== Awards ==
+The following awards were presented to the ship for its service during World War II:{{sfn|Driscoll|2009|pp=492&amp;ndash;494}}
+*[[American Defense Service Medal]] with &quot;Fleet&quot; clasp
+*[[American Campaign Medal]]
+*[[Asiatic-Pacific Campaign Medal]] with six [[battle star]]s
+*[[World War II Victory Medal]]
+*[[Navy Occupation Medal]] with &quot;Asia&quot; clasp
+*[[Philippine Liberation Medal]] with two stars
+
+== Footnotes ==
+{{reflist | colwidth = 15em }}
+
+===Notes===
+{{notelist}}
+== References ==
+* {{cite web |url= http://www.navsource.org/archives/01/40a.htm |work=Battleship Photo Archive |title=BB-40 USS New Mexico 1915–20 |accessdate=15 October 2009 |publisher=NavSource |ref={{sfnRef|NavSource|2009}}}}
+* {{cite book
+ |last = Bennett
+ |first = Stuart
+ |date=June 1986
+ |title = A History of Control Engineering, 1800–1930
+ |publisher = IET
+ |isbn = 978-0-86341-047-5
+ |ref = harv
+ }}
+* {{cite book
+ |title = Final Voyages
+ |last = Bonner
+ |first = Kermit
+ |year = 1997
+ |publisher = Turner Publishing Company
+ |url = https://books.google.com/books?id=53l3ebkpCjcC
+ |ref = harv
+ |isbn = 978-1-56311-289-8
+ }}
+* {{cite book
+ |last = Breyer
+ |first = Siegfried
+ |year = 1973
+ |title = Battleships and Battle Cruisers 1905–1970
+ |publisher = Doubleday and Company
+ |isbn = 0-385-07247-3
+ |ref = harv
+ }}
+* {{cite book
+ |last = Cressman
+ |first = Robert
+ |year = 2000
+ |title = The Official Chronology of the U.S. Navy in World War II
+ |chapter = Chapter III: 1941
+ |location = Annapolis, Maryland
+ |publisher = Naval Institute Press
+ |isbn = 978-1-55750-149-3
+ |url = http://www.ibiblio.org/hyperwar/USN/USN-Chron/
+ |chapterurl = http://www.ibiblio.org/hyperwar/USN/USN-Chron/USN-Chron-1941.html
+ |accessdate = 14 December 2007
+ |ref = harv
+ }}
+* {{cite book
+ |last=Driscoll
+ |first=John C.
+ |year=2009
+ |title=USS New Mexico (BB-40): The Queen's Story in the Words of Her Men
+ |publisher=Agincourt Research Services
+ |isbn=978-0-9840784-0-0
+ |ref=harv
+}}
+* {{cite book
+  | editor1-last = Gardiner
+  | editor1-first = Robert
+  | editor2-last = Gray
+  | editor2-first = Randal
+  | year = 1985
+  | title = Conway's All the World's Fighting Ships: 1906–1921
+  | location = Annapolis
+  | publisher = Naval Institute Press
+  | isbn = 0-87021-907-3
+  | ref = {{sfnRef|Gardiner &amp; Gray}}
+  }}
+* {{cite DANFS
+  | title = New Mexico
+  | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/n/new-mexico.html
+  | accessdate = 15 September 2011
+  | ref = {{sfnRef|DANFS USS New Mexico (BB-40)}}
+  }}
+* {{cite book
+|last=Nofi
+|first=Albert
+|date=2010
+|title=To Train The Fleet For War: The U.S. Navy Fleet Problems, 1923–40
+|location=Washington D.C.
+|publisher=Government Printing Office
+|isbn=978-1-884733-87-1
+|ref=harv
+}}
+* {{cite book
+|title=Chronology of the War at Sea, 1939–1945: The Naval History of World War II
+|publisher=Naval Institute Press
+|last1=Rowher
+|first1=Jurgen
+|location=Washington D.C.
+|isbn=978-1-59114-119-8
+|date=2005
+|ref=harv
+}}
+* {{cite news |author=Staff Writer |url= https://news.google.com/newspapers?nid=860&amp;dat=19471113&amp;id=0kwKAAAAIBAJ&amp;sjid=6koDAAAAIBAJ&amp;pg=5210,3542341 |title=Pact To Stave Off Battle In Newark Sought |newspaper=[[Ellensburg Daily Record]] |location=[[Ellensburg, Washington]] |date=13 November 1947 |accessdate=15 October 2009 |ref={{sfnRef|Ellensburg Daily Record|1947}}|oclc=17308766}}
+* {{cite news |author=Staff Writer |url= https://news.google.com/newspapers?id=6K0LAAAAIBAJ&amp;sjid=WlUDAAAAIBAJ&amp;pg=5733,6304630&amp;hl=en |title=Two Tugs Lose, Then Find ''New Mexico'' En Route. City Would Stop Salvage of Vessel In City's Harbor |newspaper=[[The Evening Independent]] |location=[[St. Petersburg, Florida]] |date=13 November 1947 |accessdate=15 October 2009 |ref={{sfnRef|The Evening Independent|1947}} |oclc=	2720408}}
+* {{cite book
+ |author=Turner Publishing
+ |year=2002
+ |title=USS New York
+ |location=Nashville, Tennessee
+ |publisher=Turner Publishing
+ |isbn=1-56311-809-2
+ |ref=harv
+}}
+* {{cite DANFS
+  | title = West Virginia
+  | url = http://www.history.navy.mil/danfs/w6/west_virginia-ii.htm
+  | accessdate = 15 September 2011
+  | ref = {{sfnRef|DANFS West Virginia (BB-48)}}
+  }}
+* {{cite book
+  |last=Wiper
+  |first=Steve
+  |title=Warship Pictorial 18: USS New Mexico BB-40
+  |year=2003
+  |location=Tuscon
+  |publisher=Classic Warship Publishing
+  |isbn=0-9710687-8-X
+  |ref={{sfnRef|Wiper}}
+  }}
+
+== External links ==
+{{Commons category|USS New Mexico (BB-40)}}
+*[http://www.maritimequest.com/warship_directory/us_navy_pages/uss_new_mexico_bb40.htm ''New Mexico'' BB-40 Photo Gallery] at Maritimequest
+
+{{New Mexico class battleship}}
+
+{{DEFAULTSORT:New Mexico (Bb-40)}}
+[[Category:New Mexico-class battleships]]
+[[Category:Ships built in Brooklyn, New York]]
+[[Category:1917 ships]]
+[[Category:World War I battleships of the United States]]
+[[Category:World War II battleships of the United States]]
+[[Category:Maritime incidents in December 1941]]
+[[Category:Turbo-electric steamships]]
+[[Category:United States Navy New Mexico-related ships]]</text>
+      <sha1>466iq7r0tfu6xk83nzmrp2b6y3k2ihr</sha1>
+    </revision>
+  </page>
+</mediawiki>

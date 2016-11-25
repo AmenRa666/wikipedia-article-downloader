@@ -13,14 +13,18 @@ var time = require('node-tictoc')
 const randomArticleByCategoryUrl = 'https://en.wikipedia.org/wiki/Special:RandomInCategory/'
 const specialExportUrl = 'https://en.wikipedia.org/wiki/Special:Export/'
 
+// const classUrls = [
+//   'FA-Class_',
+//   'A-Class_',
+//   'GA-Class_',
+//   'B-Class_',
+//   'C-Class_',
+//   'Start-Class_',
+//   'Stub-Class_',
+// ]
+
 const classUrls = [
-  'FA-Class_',
-  'A-Class_',
-  'GA-Class_',
-  'B-Class_',
-  'C-Class_',
-  'Start-Class_',
-  'Stub-Class_',
+  'Start-Class_'
 ]
 // const categories = [
 //   'biography_(military)_articles',
@@ -32,15 +36,17 @@ const classUrls = [
 
 const category = 'military_history_articles'
 
-const datasetPath = 'dataset/'
+const datasetPath = 'dataset'
 
-const pathXML = datasetPath + 'articlesXML/'
-const pathClasses = ['featuredArticles/', 'aClassArticles/', 'goodArticles/', 'bClassArticles/', 'cClassArticles/', 'startArticles/', 'stubArticles/']
+const pathXML = path.join(datasetPath, 'articlesXML')
+// const pathClasses = ['featuredArticles', 'aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
+const pathClasses = ['startArticles']
 
-const pathTalkPageXML = datasetPath + 'talkPagesXML/'
+const pathTalkPageXML = path.join(datasetPath, 'talkPagesXML')
 
-const pathLists = datasetPath + 'articlesLists/'
-const lists = ['featuredArticles.txt', 'aClassArticles.txt', 'goodArticles.txt', 'bClassArticles.txt', 'cClassArticles.txt', 'startArticles.txt', 'stubArticles.txt']
+const pathLists = path.join(datasetPath, 'articlesLists')
+// const lists = ['featuredArticles.txt', 'aClassArticles.txt', 'goodArticles.txt', 'bClassArticles.txt', 'cClassArticles.txt', 'startArticles.txt', 'stubArticles.txt']
+const lists = ['startArticles.txt']
 
 let index = 0
 let articleCount = 0
@@ -58,23 +64,24 @@ let stubArticles = []
 
 const writeList = (title, cb) => {
   // REPLACE SLASH and COLON
-  title =  decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
-  let list = pathLists + lists[index]
+  let _title = decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
+  let list = path.join(pathLists, lists[index])
   mkdirp(pathLists, (err) => {
     if (err) throw err
-    fs.appendFileSync(list, title + '\n')
+    fs.appendFileSync(list, _title + '\n')
     articleCount++
     cb(null, 'Article Saved in List')
   })
 }
 
-const writeFile = (path, title, contents, cb) => {
+const writeFile = (folder, title, contents, cb) => {
   // REPLACE SLASH and COLON
-  title =  decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
-  mkdirp(path + pathClasses[index], (err) => {
+  let _title = decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
+  let _path = path.join(folder, pathClasses[index])
+  mkdirp(_path, (err) => {
     if (err) throw err
-    fs.writeFileSync(path + pathClasses[index] + title + '.xml', contents)
-    articles.push(title)
+    _path = path.join(folder, pathClasses[index], (_title + '.xml'))
+    fs.writeFileSync(_path, contents)
     console.log(j +' SAVED: '+ title);
     cb(null, 'Article Saved')
   })
@@ -86,8 +93,7 @@ const downloadTalkPage = (title, cb) => {
   request(urlTalkPage, (error, response, body) => {
     console.log('Download Talk Page: OK');
     if (!error && response.statusCode == 200) {
-      let path = pathTalkPageXML
-      writeFile(path, title, body, cb)
+      writeFile(pathTalkPageXML, title, body, cb)
     }
     else {
       console.log('- - - - - - - - - -');
@@ -99,38 +105,41 @@ const downloadTalkPage = (title, cb) => {
 }
 
 const downloadXML = (title, cb) => {
-  // let urlXML = 'https://en.wikipedia.org/wiki/Special:Export/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o'
+  if (title[0] == '.') {
+    cb(null, 'Article downloaded')
+  }
+  else {
+    let urlXML = specialExportUrl + title
 
-  let urlXML = specialExportUrl + title
-
-  request(urlXML, (error, response, body) => {
-    console.log('Download XML: OK');
-    if (!error && response.statusCode == 200) {
-      if (articles.indexOf(title) > 0) {
-        console.log('Article already downloaded: ' + title);
-        console.log('- - - - - - - - - -');
-        cb(null, 'Article already downloaded')
+    request(urlXML, (error, response, body) => {
+      console.log('Download XML: OK');
+      if (!error && response.statusCode == 200) {
+        if (articles.indexOf(title) > 0) {
+          console.log('Article already downloaded: ' + title);
+          console.log('- - - - - - - - - -');
+          cb(null, 'Article already downloaded')
+        }
+        else {
+          async.series([
+            async.apply(writeFile, pathXML, title, body),
+            async.apply(writeList, title),
+            async.apply(downloadTalkPage, title)
+          ], (err, res) => {
+            console.log('- - - - - - - - - -');
+            articles.push(title)
+            j++
+            cb(null, 'Article downloaded')
+          })
+        }
       }
       else {
-        let path = pathXML
-        async.series([
-          async.apply(writeFile, path, title, body),
-          async.apply(writeList, title),
-          async.apply(downloadTalkPage, title)
-        ], (err, res) => {
-          console.log('- - - - - - - - - -');
-          j++
-          cb(null, 'Article downloaded')
-        })
+        console.log('- - - - - - - - - -');
+        console.log(error);
+        console.log(response.statusCode);
+        cb('Error downloading: ' + title, null)
       }
-    }
-    else {
-      console.log('- - - - - - - - - -');
-      console.log(error);
-      console.log(response.statusCode);
-      cb('Error downloading: ' + title, null)
-    }
-  })
+    })
+  }
 }
 
 const getRandomArticle = (cb) => {
@@ -151,7 +160,7 @@ const getRandomArticle = (cb) => {
   })
 }
 
-const download100Articles = (_class, cb) => {
+const downloadArticles = (_class, cb) => {
   async.whilst(
     () => { return articleCount < 400; },
     getRandomArticle,
@@ -169,7 +178,7 @@ time.tic()
 
 async.eachSeries(
   classUrls,
-  download100Articles,
+  downloadArticles,
   (err, res) => {
     if (err) throw err
     console.log('All articles have been downloaded!');

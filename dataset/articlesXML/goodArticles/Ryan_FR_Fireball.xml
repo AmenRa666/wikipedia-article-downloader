@@ -1,0 +1,240 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ryan FR Fireball</title>
+    <ns>0</ns>
+    <id>612826</id>
+    <revision>
+      <id>747678766</id>
+      <parentid>747678720</parentid>
+      <timestamp>2016-11-03T19:13:49Z</timestamp>
+      <contributor>
+        <username>JWNoctis</username>
+        <id>19212762</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/193.54.196.227|193.54.196.227]] ([[User talk:193.54.196.227|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.22)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16609">{{good article}}
+{|{{Infobox Aircraft Begin
+  |name = FR-1 Fireball
+  |image = File:Ryan FR-1 Fireball VF-66 North Island 1945.jpg
+  |caption =An FR-1 Fireball of [[VF-66]] at [[NAS North Island]], 1945  
+}}{{Infobox Aircraft Type
+  |type = Fighter
+  |manufacturer = [[Ryan Aeronautical]]
+  |designer = 
+  |first flight =  25 June 1944
+  |introduced = March 1945
+  |retired = 1 August 1947
+  |primary user = [[United States Navy]]
+  |produced = 1944–1945
+  |number built = 71
+  |unit cost = 
+  |variants with their own articles = [[XF2R Dark Shark]]
+}}
+|}
+
+The '''Ryan FR Fireball''' was a mixed-power ([[Reciprocating engine|piston]] and [[jet aircraft|jet-powered]]) [[fighter aircraft]] designed by [[Ryan Aeronautical]] for the [[United States Navy]] during [[World War II]]. It was the Navy's first aircraft with a [[jet engine]].&lt;ref name=s1/&gt; Only 66 aircraft were built before [[Surrender of Japan|Japan surrendered]] in August 1945. The FR-1 Fireball equipped a single [[Squadron (aviation)|squadron]] before the end of the war, but did not see combat. The aircraft ultimately proved to lack the structural strength required for operations aboard [[aircraft carrier]]s and was withdrawn in mid-1947.
+{{TOC limit|limit=2}}
+
+==Design and development==
+Design of the FR-1 began in 1943 to a proposal instigated by [[Admiral]] [[John S. McCain, Sr.]] for a mixed-powered fighter because early jet engines had sluggish acceleration that was considered unsafe and unsuitable for [[aircraft carrier|carrier]] operations. Ryan received a contract for three XFR-1 [[prototype]]s and one static test airframe on 11 February 1943 with the first two prototypes delivered in 14 months.&lt;ref&gt;Ginter 1995, p. 2.&lt;/ref&gt; Another contract was placed for 100 aircraft on 2 December 1943 and a later contract on 31 January 1945 increased the total of FR-1s on order to 700.&lt;ref name=s1&gt;Swanborough and Bowers 1990, p. 402.&lt;/ref&gt;
+
+The XFR-1 was a single-seat, low-wing [[monoplane]] with [[tricycle landing gear]]. A {{convert|1350|hp|adj=on}} [[Wright R-1820|Wright R-1820-72W]] Cyclone [[radial engine]] was mounted in the fighter's nose while a {{convert|1600|lbf|abbr=on}} [[General Electric J31|General Electric I-16]] (later redesignated as the J-31) [[turbojet]] was mounted in the rear [[fuselage]]. It was fed by ducts in each [[wing root]] which meant that the wing had to be relatively thick to house the ducts and the outward-retracting main landing gear. To simplify the fuel system, both engines used the same grade of [[avgas]]. Two [[self-sealing fuel tank]]s were housed in the fuselage, one of {{convert|130|USgal}} and the other of {{convert|50|USgal}}. The [[cockpit]] was positioned just forward of the leading edge of the wing and the pilot was provided with a [[bubble canopy]] which gave him excellent visibility. The XFR-1 had the first [[laminar flow]] [[airfoil]] in a navy carrier aircraft.&lt;ref name=g5&gt;Ginter 1995, pp. 5, 30.&lt;/ref&gt;
+
+The Fireball was armed with four [[.50 BMG|.50&amp;nbsp;in]] (12.7&amp;nbsp;mm) [[M2 Browning machine gun]]s with 300 [[Cartridge (firearms)|rounds]] per gun. They were mounted in the center section of the wing, immediately outboard of the air intakes for the jet engine. Four 5-inch (127&amp;nbsp;mm) rockets could be carried under each outer wing panel and two [[hardpoint]]s were provided under the center section for 1,000&amp;nbsp;lb (454&amp;nbsp;kg) bombs or {{convert|100|USgal|abbr=on}} [[drop tank]]s. Armor plates were provided in front and behind the pilot's seat and for the oil cooler.&lt;ref name=g5/&gt;
+
+[[File:FR-1 trials CV-4 May1945.jpg|thumb|left|FR-1 trials aboard {{USS|Ranger|CV-4|2}}, May 1945]]
+
+The first XFR-1 made its first flight on 25 June 1944 without its jet engine, but that was installed shortly afterward. The second prototype first flew on 20 September 1944. Test flights confirmed [[wind tunnel]] tests that revealed a lack of [[Flight dynamics|longitudinal stability]] because the [[Center of gravity of an aircraft|center of gravity]] had been miscalculated. In addition, the circular rear fuselage of the FR-1 gave less stability than the slab-style fuselage of the [[Grumman F4F Wildcat]] that was used as a model for the stability calculations. A new tail with enlarged [[vertical stabilizer|vertical]] and [[horizontal stabilizer]]s was designed and retrofitted to the prototypes. The original Douglas double-slotted [[flap (aircraft)|flap]]s proved to be unsatisfactory during flight testing, but all three prototypes and the first 14 production aircraft were built with them before they were replaced with a single-slotted flap.&lt;ref&gt;Ginter 1995, pp. 3, 5.&lt;/ref&gt;
+
+The first prototype was lost in a crash at [[Naval Air Weapons Station China Lake|NAS China Lake]] on 13 October 1944. Investigation showed that the wing structure was not strong enough to resist [[Compressibility#Aeronautical dynamics|compressibility effects]]. This was cured by doubling the number of rivets in the outer wing panels. The second prototype crashed on 25 March 1945 when the pilot failed to recover from a dive from {{convert|35000|ft|-1}}, probably also due to compressibility effects. The third prototype crashed on 5 April when the canopy blew off during a high-speed pass over [[Lindbergh Field]].&lt;ref&gt;Ginter 1995, p. 31.&lt;/ref&gt;
+
+Operational testing by the [[Naval Air Test Center]] at [[Naval Air Station Patuxent River]] that included carrier acceptability tests revealed additional problems. The piston engine tended to overheat until electrically operated [[cowling|cowl]] flaps were installed, the [[aircraft catapult|catapult]] hooks had to be moved and the nosewheel [[Oleo (shock absorber)|oleo shock]] strut had to be lengthened by {{convert|3|in}}. Carrier suitability tests began aboard the [[escort carrier]] {{USS|Charger|CVE-30|2}} in early January 1945. The aircraft successfully made five catapult takeoffs using the piston engine as well as three takeoffs using both engines. No problems were reported when landing aboard the carrier.&lt;ref&gt;Ginter 1995, pp. 32–33.&lt;/ref&gt;
+ 
+The FR-1 Fireball was further developed into the XFR-2 which utilized a 1,425&amp;nbsp;hp (1,063&amp;nbsp;kW) Wright R-1820-74W in place of the -72W. One single airframe was converted to this configuration. No prototypes were built for the next proposed variant, the FR-3, which would have used a General Electric I-20 turbojet. Both of these projects were canceled with the end of the war.&lt;ref name=g7/&gt; The fastest Fireball was the XFR-4, which had a [[Westinghouse J34]] turbojet and was approximately 100&amp;nbsp;mph (161&amp;nbsp;km/h) faster than the FR-1.&lt;ref&gt;McDowell 1995, p. 39.&lt;/ref&gt; The turbojet's air intakes were moved from the wing roots to the fuselage in front of the wing; they were covered by electrically powered doors to lessen [[drag (physics)|drag]] when the aircraft was flying only on its piston engine. The Fireball's fuselage was lengthened by {{convert|8|in|0}} to accommodate the larger engine and the [[leading edge extension]] of the wing root that housed the air intakes was also removed. The XFR-4 was intended to serve as a testbed for the turbojet installation on the [[XF2R Dark Shark|XF2R-1 Dark Shark]].&lt;ref name=g7&gt;Ginter 1995, pp. 32, 57.&lt;/ref&gt; This was the final variant; the piston engine was replaced with a [[General Electric T31|General Electric XT31-GE-2]] [[turboprop]], but only one prototype was built.&lt;ref name=m5&gt;McDowell 1995, p. 45.&lt;/ref&gt;
+
+On 2 December 1943, orders for 100 production FR-1s were placed, with a follow-up order of 1,000 additional fighters in January 1945. All of the contracts were contingent on the aircraft successfully completing carrier trials. Only 66 Fireballs were completed by November 1945 as orders for 1,044 FR-1s were canceled on [[Victory over Japan Day|VJ Day]].&lt;ref&gt;Green 1969, p. 186.&lt;/ref&gt;
+
+==Operational history==
+[[File:FR-1 launches from USS Badoeng Strait 1947.jpg|thumb|An FR-1 launching from {{USS|Badoeng Strait|CVE-116|2}}, 1947]]
+
+One squadron, [[VF-66]], received its first Fireballs in March 1945, but they never saw combat. On 1 May, three of the squadron's aircraft were craned aboard the carrier {{USS|Ranger|CV-4|2}} to attempt to qualify seven pilots, but two of the fighters were damaged while landing. One missed the arresting gear and hit the crash barrier while the other aircraft's nose gear collapsed. The following month the pilots qualified and were on pre-[[wikt:embarkment|embarkation]] leave when the Japanese surrendered. The squadron was [[wikt:decommission|decommission]]ed on 18 October with all pilots and aircraft transferred to [[VF-1 (1945-8)|VF-41]].&lt;ref&gt;Ginter 1995, pp. 45–47, 51.&lt;/ref&gt;
+
+On 6 November 1945, a Fireball of VF-41 became the first aircraft to land under jet power on an aircraft carrier, albeit unintentionally.&lt;ref name=g2&gt;Ginter 1995, p. 52.&lt;/ref&gt; After the radial engine of an FR-1 failed on final approach to the escort carrier {{USS|Wake Island|CVE-65|2}}, the pilot managed to start the jet engine and land, barely catching the last [[Arresting gear|arrestor wire]] before hitting the ship's crash barrier.&lt;ref&gt;&quot;First Jet Landing.&quot; ''Naval Aviation News'', United States Navy, March 1946, p. 6.&lt;/ref&gt;{{#tag:ref|A month later on 4 December 1945, a [[de Havilland Vampire|Sea Vampire]] piloted by [[Royal Navy]] [[Captain (naval)|Captain]] [[Eric Brown (pilot)|Eric &quot;Winkle&quot; Brown]] was the first aircraft to perform an intentional and planned jet-powered landing on an aircraft carrier.&lt;ref&gt;Brown 2006, p. 136.&lt;/ref&gt;|group=N}} The squadron was attempting to qualify its pilots for carrier operations during this time, but only 14 of its 22 pilots made the six required takeoffs and landings. A number of accidents occurred when the nose gear failed on landing, but the pilots were at least partly responsible as they were slamming the nose gear onto the deck after landing on the main gear.&lt;ref name=g2/&gt;
+
+The squadron qualified on the escort carrier {{USS|Bairoko|CVE-115|2}} in March 1946, but nose gear problems persisted and cut the cruise short. Ryan installed a steel fork for the nosewheel, but inspections also revealed evidence of partial wing failures so the aircraft was limited to maneuvers not to exceed 5 [[g-force|Gs]]. VF-41 suffered three fatal accidents in 1946 before being redesignated as VF-1E on 15 November 1946. One [[Ensign (rank)|Ensign]] collided with the target banner during gunnery practice and [[spin (flight)|spun]] into the water. A few months later, the squadron commander was performing a [[barrel roll]] when his wing broke off and he struck another Fireball, killing both pilots.&lt;ref&gt;Ginter 1995, pp. 52–53.&lt;/ref&gt;
+
+VF-1E conducted carrier qualification in March 1947 aboard the escort carrier {{USS|Badoeng Strait|CVE-116|2}} and only eight pilots successfully qualified, not least because the FR-1s were proving to be too fragile to endure repeated carrier landings. During one brief deployment in June aboard {{USS|Rendova|CVE-114|2}}, one aircraft broke in two during a hard landing. Subsequent inspections of the squadron's aircraft showed signs of structural failure and all the Fireballs were withdrawn by 1 August 1947.&lt;ref&gt;Ginter 1995, pp. 54–55.&lt;/ref&gt;
+
+After the withdrawal of the type from service, except for a few examples retained for modifications and testing, the FR-1s were scrapped.&lt;ref&gt;Green 1969, p. 187.&lt;/ref&gt;
+[[File:Ryan FR-1 VF-66 underside 1945.jpg|thumb|Underside of a VF-66 aircraft, 1945. This view illustrates the wing planform and the wing root air intakes.]]
+
+{{ external media
+| align  = right
+| width  = 
+| video1 = [http://www.youtube.com/watch?v=3woaZmAkBMU Footage of the FR-1 being tested]
+}}
+
+==Variants==
+;XFR-1
+:Military designation of the Prototype Model 28 aircraft, three built.&lt;ref name=s2/&gt;
+;FR-1 Fireball
+:Single-seat fighter aircraft, 66 built.&lt;ref name=s2/&gt;
+;FR-2
+:Conversion with a Wright R-1820-74W replacing earlier piston engine, one aircraft modified.&lt;ref name=g7/&gt;
+;FR-3
+:Proposed variant with a General Electric I-20 replacing earlier jet engine; never built.&lt;ref&gt;Ginter 1995, p. 57.&lt;/ref&gt;
+;XFR-4
+:Variant with Westinghouse J34; one built.&lt;ref name=g7/&gt;
+
+==Operators==
+;{{USA}}
+* [[United States Navy]]
+
+The &quot;Firebirds&quot; squadron was known under three names:
+* VF-66 (March 1945 – 15 October 1945)&lt;ref&gt;Ginter 1995, pp. 45–46.&lt;/ref&gt;
+* VF-41 (15 October 1945 – 1 August 1947), redesignated VF-1E on 15 November 1946.&lt;ref&gt;Ginter 1995, pp. 52–55.&lt;/ref&gt;
+[[File:Fireballfrontquarter.jpg|thumb|FR-1 Fireball at the [[Planes of Fame]] Museum in Chino, California]]
+
+==Survivors==
+Only a single example, FR-1 BuNo 39657, still survives. Deployed first to the [[Ames Research Center|NASA Ames Research Center]], the aircraft served as an instructional airframe at a technical school before being acquired by the [[Planes of Fame|Planes of Fame Air Museum]] at [[Chino, California]] in the 1960s. After restoration to static display condition, 39657 was rolled out at Chino on 13 June 2009.&lt;ref&gt;Mormillo, Frank B. &quot;Prop-and-Jet Fireball rolled out.&quot; ''Flypast'', No. 338, September 2009.&lt;/ref&gt;
+
+==Specifications (FR-1)==
+[[File:Ryan FR-1 Fireball.svg|300px|right]]
+{{aircraft specifications
+|plane or copter?=plane
+|jet or prop?=both
+|ref=''United States Navy Aircraft since 1911''&lt;ref name=s2&gt;Swanborough and Bowers 1990, p. 403.&lt;/ref&gt; and ''Ryan FR-1 Fireball and XF2R-1 Darkshark''&lt;ref&gt;Ginter 1995, p. 1.&lt;/ref&gt;
+|crew=one
+|length main= 32 ft 4 in  
+|length alt= 12.19 m
+|span main= 40 ft 0 in  
+|span alt= 12.19 m
+|height main= 13 ft 11 in  
+|height alt= 4.24 m
+|area main= 275 ft² 
+|area alt= 25.6 m²
+|empty weight main= 7,689 lb  
+|empty weight alt= 3,488 kg
+|loaded weight main= 11,652 lb  
+|loaded weight alt= 5,285 kg
+|engine (jet)= [[General Electric J31]]-GE-3
+|type of jet= [[turbojet]]
+|number of jets=1
+|thrust main= 1,600 lbf   
+|thrust alt= 7.1 kN, 700 kgf
+|engine (prop)= [[Wright R-1820|Wright R-1820-72W]] Cyclone 
+|type of prop= [[radial engine]]
+|number of props=1 
+|power main= 1,350 hp   
+|power alt= 1,060 kW
+|max speed main= 404 mph (276 mph with piston engine alone)  
+|max speed alt= 650 km/h (444 km/h)
+|cruise speed main= 152 mph (piston engine alone)
+|cruise speed alt= 246 km/h 
+|range main= 1,620 mi 
+|range alt= 2,610 km
+|range more=(with 2 drop tanks)
+|ceiling main= 43,100 ft  
+|ceiling alt= 13,137 m
+|climb rate main= 29.7 ft/s 
+|climb rate alt= 9 m/s
+|climb rate more=(Piston engine only, with 1 drop tank) 
+|armament=
+* 4 × [[.50 BMG|.50&amp;nbsp;in]] (12.7&amp;nbsp;mm) [[M2 Browning machine gun]] with 300 rpg
+* 2 × 1,000&amp;nbsp;lb (454&amp;nbsp;kg) bombs
+* 8 × 5-inch (127&amp;nbsp;mm) rockets under wings
+|avionics=
+}}
+
+==See also==
+{{aircontent|
+|related=
+* [[Ryan XF2R Dark Shark]]
+|similar aircraft=
+* [[Caproni Campini Ca.183bis]]
+* [[Curtiss XF15C]]
+|lists=
+* [[List of military aircraft of the United States]]
+|see also=
+}}
+
+==References==
+
+===Notes===
+{{Reflist|group=N}}
+
+===Citations===
+{{Reflist|25em}}
+
+===Bibliography===
+{{Refbegin}}
+* Brown, Eric. ''Wings on My Sleeve: The World's Greatest Test Pilot tells his Story.'' London: Orion Books, 2006. ISBN 0-297-84565-9.
+* Ginter, Steve. ''Ryan FR-1 Fireball and XF2R-1 Darkshark, Naval Fighters Number 28''. Simi Valley, California: Ginter Books, 1995. ISBN 0-942612-28-0.
+* Green, William. &quot;Ryan FR-1 Fireball&quot;. '''War Planes of the Second World War, Volume Four: Fighters''. London: Macdonald &amp; Co. (Publishers) Ltd., Sixth impression 1969, First edition 1961, pp.&amp;nbsp;186–187. ISBN 0-356-01448-7.
+* Green, William and Gordon Swanborough. &quot;Ryan FR-1 Fireball&quot;. ''WW2 Fact Files: US Navy and Marine Corps Fighters''. London: Macdonald and Jane's, 1976, pp.&amp;nbsp;66–68. ISBN 0-356-08222-9.
+* McDowell, Ernest. ''FR-1 Fireball  (Mini in action number 5)''. Carrollton, Texas: Squadron/Signal Publications Inc., 1995. ISBN 0-89747-344-2.
+* Swanborough, Gordon and Peter M. Bowers. ''United States Navy Aircraft since 1911.'' London: Putnam Aeronautical Books, Third edition 1990. ISBN 0-85177-838-0.
+{{Refend}}
+
+==External links==
+{{Commons category|Ryan FR Fireball}}
+* [http://tanks45.tripod.com/Jets45/Histories/Ryan-FR-1_XF2R-1/FR-1_XF2R-1.htm Ryan FR-1 &quot;Fireball&quot; / XF2R-1 &quot;DarkShark&quot; page on Jets45 website]
+* [https://books.google.com/books?id=p98DAAAAMBAJ&amp;pg=PA8&amp;dq=1954+Popular+Mechanics+January&amp;hl=en&amp;sa=X&amp;ei=ZmJQT7OaDMOvgweLhcjPDQ&amp;ved=0CFAQ6AEwBzgU#v=onepage&amp;q&amp;f=true &quot;Prop+Jet=Fireball.&quot;] ''Popular Mechanics'', November 1945, pp.&amp;nbsp;8–9.
+
+{{Ryan aircraft}}
+{{USN fighters}}
+
+[[Category:Carrier-based aircraft]]
+[[Category:Mixed-power aircraft]]
+[[Category:United States fighter aircraft 1940–1949|Ryan F1R]]
+[[Category:Ryan aircraft]]</text>
+      <sha1>s9pa3i5r8cp4zcg88cc7aaj9xqz5wht</sha1>
+    </revision>
+  </page>
+</mediawiki>

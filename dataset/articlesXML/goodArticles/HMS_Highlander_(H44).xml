@@ -1,0 +1,156 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Highlander (H44)</title>
+    <ns>0</ns>
+    <id>14445409</id>
+    <revision>
+      <id>688366828</id>
+      <parentid>687112971</parentid>
+      <timestamp>2015-10-31T12:56:26Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>|Ship country= fixes; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12034">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Highlander(H44).jpg|300px]]
+|Ship caption=Aerial view of ''Highlander''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Brazil
+|Ship flag={{shipboxflag|Brazil|1889}}
+|Ship name=''Jaguaribe''
+|Ship ordered=16 December 1937
+|Ship laid down=28 September 1938
+|Ship builder=[[John I. Thornycroft &amp; Company]], [[Woolston, Hampshire|Woolston]]
+|Ship fate=Purchased by the United Kingdom, 5 September 1939
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Highlander''
+|Ship launched=	19 October 1939
+|Ship identification=[[Pennant number]]: H44&lt;ref name=w2&gt;Whitley, p. 112&lt;/ref&gt;
+|Ship acquired=5 September 1939
+|Ship commissioned=18 March 1940
+|Ship fate=Sold for [[ship breaking|scrap]], 27 May 1946
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class=[[G and H-class destroyer|Brazilian H-class]] [[destroyer]]
+|Ship displacement=*{{convert|1350|LT|t}} ([[Standard displacement|standard]])
+*{{convert|1883|LT|t}} ([[deep load]])
+|Ship length={{convert|323|ft|m|1|abbr=on}}
+|Ship beam={{convert|33|ft|m|1|abbr=on}}
+|Ship draught={{convert|12|ft|5|in|m|1|abbr=on}}
+|Ship power={{convert|34000|shp|lk=in|abbr=on}}
+|Ship propulsion=*2 shafts
+*[[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s
+*3 Admiralty [[water-tube boiler]]s
+|Ship speed={{convert|36|kn|lk=in}}
+|Ship range={{convert|5530|nmi|lk=in|abbr=on}} at {{convert|15|kn}}
+|Ship complement=152
+|Ship sensors=[[ASDIC]]
+|Ship armament=*3 × 1 - {{convert|4.7|in|mm|adj=on}} guns
+*2 × 4 - {{convert|0.5|in|mm|adj=on|1}} machine guns
+*2 × 4 - 21-inch (533 mm) [[torpedo tubes]]
+*110 × [[depth charge]]s, 3 rails and 8 throwers
+|Ship notes=
+}}
+|}
+'''HMS ''Highlander''''' was an [[G and H-class destroyer|H-class]] [[destroyer]] that had originally been ordered by the [[Brazilian Navy]] with the name ''Jaguaribe'' in the late 1930s, but was bought by the [[Royal Navy]] after the beginning of [[World War II]] in September 1939 and later renamed. When completed in March 1940, she was assigned to the [[9th Destroyer Flotilla]] of the [[Home Fleet]]. The ship was assigned to convoy escort duties in June with the [[Western Approaches Command]], sinking one German [[submarine]] in October. ''Highlander'' was transferred to [[Freetown]], [[Sierra Leone]] in mid-1941 to escort convoys off [[West Africa]], but returned to the United Kingdom in August. She became [[flotilla leader]] of [[Escort Group (naval)|Escort Group]] B-4 of the [[Mid-Ocean Escort Force]] in early 1942 and continued to escort convoys in the [[North Atlantic]] for the rest of the war. The ship became a [[target ship]] after the war ended and was sold for [[ship breaking|scrap]] in mid-1946.
+
+==Description==
+''Highlander'' displaced {{convert|1350|LT|t}} at [[Displacement (ship)|standard]] load and {{convert|1883|LT|t}} at [[deep load]]. The ship had an [[length overall|overall length]] of {{convert|323|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|33|ft|m|1}} and a [[draft (hull)|draught]] of {{convert|12|ft|5|in|m|1}}. She was powered by [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s, driving two shafts, which developed a total of {{convert|34000|shp|lk=in}} and gave a maximum speed of {{convert|36|kn|lk=in}}. Steam for the turbines was provided by three Admiralty 3-drum [[water-tube boiler]]s. ''Highlander'' carried a maximum of {{convert|470|LT|t}} of fuel oil, giving her a range of {{convert|5530|nmi|lk=in}} at {{convert|15|kn}}.&lt;ref name=w78&gt;Whitley, pp. 109, 112&lt;/ref&gt; The ship's complement was 152 officers and men.&lt;ref name=l3&gt;Lenton, p. 163&lt;/ref&gt;
+
+The vessel was designed for four 45-[[caliber (artillery)|calibre]] [[4.7 inch QF Mark XII|4.7-inch Mk IX guns]] in single mounts, designated 'A', 'B', 'X', and 'Y' from front to rear, but 'Y' gun was removed to compensate for the additional depth charges added. For [[Anti-aircraft warfare|anti-aircraft]] (AA) defence, ''Highlander'' had two quadruple Mark I mounts for the [[Vickers .50 machine gun|0.5&amp;nbsp;inch Vickers Mark III]] [[machine gun]]. She was fitted with two above-water quadruple [[torpedo tube]] mounts for [[British 21 inch torpedo|{{convert|21|in|adj=on|0}}]] torpedoes.&lt;ref name=w78/&gt; One [[depth charge]] rail and two throwers were originally fitted, but this was increased to three sets of rails and eight throwers while [[fitting-out]]. The ship's load of depth charges was increased from 20 to 110 as well.&lt;ref&gt;English, p. 141&lt;/ref&gt;&lt;ref&gt;Friedman, p. 226&lt;/ref&gt;
+
+''Highlander'' was completed without a [[List of British ordnance terms#DCT|director-control tower]] (DCT) so the three remaining 4.7-inch low-angle guns fired in local control using ranges provided by a [[rangefinder]].&lt;ref name=w2/&gt; She was fitted with an [[ASDIC]] set to detect [[submarine]]s by reflections from sound waves beamed into the water.&lt;ref&gt;Brown, p. 164&lt;/ref&gt;
+
+===Wartime modifications===
+Little data on ''Highlander''{{'}}s modifications during the war has survived, although it is known that she had her rear torpedo tubes replaced by a [[QF 12 pounder 12 cwt naval gun|12-pounder]] AA gun in July 1940.&lt;ref name=e2/&gt; The ship's short-range AA armament was later augmented by two [[Oerlikon 20 mm cannon|Oerlikon 20&amp;nbsp;mm]] guns on the wings of the ship's [[bridge (nautical)|bridge]] and the .50-calibre machine gun mounts were replaced by a pair of Oerlikons. It is uncertain if the ship's [[List of British ordnance terms#DCT|director-control tower]] was installed before a [[Type 271 radar|Type 271]] target indication [[radar]] was installed above the [[bridge (nautical)|bridge]]. At some point, the ship was converted to an [[escort destroyer]]. 'A' gun was replaced by a [[Hedgehog (weapon)|Hedgehog]] anti-submarine [[spigot mortar]] and additional depth charge stowage replaced the 12-pounder high-angle gun. A [[Type 286 radar|Type 286]] short-range surface search radar was fitted as well as a [[HF/DF]] [[radio direction finder]] mounted on a pole [[mainmast]].&lt;ref name=l3/&gt;
+
+==History==
+She was originally ordered as ''Jaguaribe'' on 16 December 1937 by the [[Brazilian Navy]]. The ship was [[Keel|laid down]] by [[John I. Thornycroft and Company]] at [[Woolston, Hampshire]] on 28 September 1938 and was purchased by the British on 5 September 1939 after the beginning of World War II. Renamed HMS ''Highlander'', she was [[Ship naming and launching|launched]] on 16 October and commissioned on 18 March 1940.&lt;ref&gt;English, p. 127&lt;/ref&gt; After [[Glossary of nautical terms#W|working up]] at [[Portland Harbour]], she was assigned to the 9th Destroyer Flotilla of the Home Fleet and began escort duty on 11 April. Six days later, the ship ran aground in the [[Shetland Islands]] and was moderately damaged. Re-floated, ''Highlander'' was repaired at [[Kingston upon Hull|Hull]] between 20 April and 19 May. She escorted the [[battlecruiser]] {{HMS|Renown|1916|2}} to [[Scapa Flow]] and arrived there on 24 May. The flotilla was transferred to the Western Approaches Command in mid-June and ''Highlander'' rescued survivors of the torpedoed [[armed merchant cruiser]] {{HMS|Scotstoun||2}} en route to [[Plymouth]].&lt;ref&gt;English, p. 131&lt;/ref&gt; Later in the month, the ship escorted ships evacuating Allied troops from French ports on the Atlantic coast ([[Operation Ariel]]).&lt;ref&gt;Winser, p. 146&lt;/ref&gt;
+
+''Highlander'' then rejoined the 9th Destroyer Flotilla on convoy escort duties until January 1941. During this time, she was briefly refitted in mid-July with a 12-pounder AA gun replacing her rear set of torpedo tubes and, together with her [[sister ship|sister]] {{HMS|Harvester|H19|2}}, the ship sank the {{GS|U-32|1937|6}} on 30 October. On 1 December, she escorted the torpedoed Canadian destroyer {{HMCS|Saguenay|D79|6}} to [[Barrow-in-Furness]] for repairs. ''Highlander'' began a longer refit at [[Hawthorn Leslie and Company|Hawthorn Leslie]]'s shipyard at [[Hebburn]] from 30 January to 23 March 1941.&lt;ref name=e2&gt;English, p. 132&lt;/ref&gt; After its completion, the ship was briefly assigned to [[Force H]] at [[Gibraltar]],&lt;ref&gt;Rohwer, p. 67&lt;/ref&gt; before continuing on to Freetown to begin escort duties with the [[18th Destroyer Flotilla]] there. She remained there until August when she was transferred to [[Derry|Londonderry]] where she was later assigned to the 28th Escort Group of Western Approaches Command.&lt;ref name=e2/&gt;
+
+''Highlander'' was refitted and rearmed from 2 February–18 March 1942 at [[Tilbury]]. She became flotilla leader for Escort Group B4 and was assigned to the Mid-Ocean Escort Force when her refit was completed.&lt;ref name=e2/&gt; The ship and her consorts escorted [[Convoy SC 122]] through the largest convoy battle of the war in March 1943; ''Highlander'' was unsuccessfully attacked by {{GS|U-441||2}} and {{GS|U-608||2}} during the battle.&lt;ref&gt;Rohwer, p. 238&lt;/ref&gt; The ship was given an extensive overhaul at [[Troon]] from 28 December–12 April 1944 that was lengthened when she was damaged in a collision with a [[tugboat]]. Upon its completion, she rejoined her group and remained with them until September when she was transferred to Escort Group B2 and became its flotilla leader. ''Highlander'' crushed her bow on 15 April 1945 when she struck some ice; she had to be towed to [[Bay Bulls, Newfoundland and Labrador|Bay Bulls, Newfoundland]], for temporary repairs. She received permanent repairs at nearby [[St. John's, Newfoundland and Labrador|St. John's]] from 17 April to 24 July. The ship reached [[HMNB Portsmouth|Portsmouth]] five days later and later sailed to [[Rosyth]] for service as a target ship for aircraft. ''Highlander'' was placed in Category C [[Reserve fleet|reserve]] on 19 January 1946 and was approved for scrapping on 19 February 1946. She was sold on 27 May, but demolition did not begin until May 1947.&lt;ref name=e2/&gt;
+
+==Notes==
+{{reflist|2}}
+
+==References==
+*{{cite book|last=Brown|first=David K.|title=Atlantic Escorts: Ships, Weapons &amp; Tactics in World War II|publisher=Naval Institute Press|location=Annapolis, Maryland|date=2007|isbn=978-1-59114-012-2}}
+* {{cite book|last=English|first=John|title=Amazon to Ivanhoe: British Standard Destroyers of the 1930s|year=1993|publisher=World Ship Society|location=Kendal, UK|isbn=0-905617-64-9}}
+* {{cite book|last=Friedman|first=Norman|title=British Destroyers From Earliest Days to the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|date=2009|isbn=978-1-59114-081-8}}
+* {{cite book|last=Lenton|first=H. T.|title=British &amp; Empire Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|date=1998|isbn=1-55750-048-7}}
+* {{cite book|last=Rayner|first=Denys|title=Escort: The Battle of the Atlantic|publisher=Kimber|year=1955|location=London&lt;!-- reprinted, bu the freaking cite template doesn't seem to be able to deal with that |publisher=U.S. Naval Institute Press|year=1999|Location=Annapolis --&gt;}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite book|last=Whitley|first=M. J.|title=Destroyers of World War Two: An International Encyclopedia|publisher=Naval Institute Press|year=1988|isbn=0-87021-326-1|location=Annapolis, Maryland}}
+* {{cite book|last=Winser|first=John de D.|title=B.E.F. Ships Before, At and After Dunkirk|publisher=World Ship Society|location=Gravesend, Kent|date=1999|isbn=0-905617-91-6}}
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{G and H class destroyer}}
+
+{{DEFAULTSORT:Highlander (H44)}}
+[[Category:Jurua-class destroyers]]
+[[Category:Southampton-built ships]]
+[[Category:1939 ships]]
+[[Category:G and H-class destroyers of the Royal Navy]]
+[[Category:World War II destroyers of the United Kingdom]]</text>
+      <sha1>7rwr4oy6ctjoxn5y3eu9kzp0amqrrrw</sha1>
+    </revision>
+  </page>
+</mediawiki>

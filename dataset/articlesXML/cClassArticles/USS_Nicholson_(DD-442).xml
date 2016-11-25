@@ -1,0 +1,218 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Nicholson (DD-442)</title>
+    <ns>0</ns>
+    <id>2361770</id>
+    <revision>
+      <id>743323482</id>
+      <parentid>723175476</parentid>
+      <timestamp>2016-10-09T03:27:07Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Boston, Massachusetts‎ to [[:Category:Ships built in Boston]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8975">{{Other ships|USS Nicholson}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+ | Ship image =  [[File:USS Nicholson (DD-442) off Boston in April 1942.jpg|300px|USS Nicholson (DD-442) off Boston in April 1942.]]
+ | Ship caption =  
+}}
+{{Infobox ship career
+|Ship country=United States
+ | Ship flag =   {{USN flag|1951}}
+ | Ship name =  ''Nicholson''
+ | Ship namesake =  
+ | Ship ordered =  
+ | Ship builder =  [[Boston Navy Yard]]
+ | Ship laid down =  1 November 1939
+ | Ship launched =  31 May 1940
+ | Ship commissioned =  3 June 1941
+ | Ship decommissioned =  15 January 1951
+|Ship honors=10 battle stars
+ | Ship fate =*Transferred to [[Italy]],
+*15 January 1951
+}}
+{{Infobox ship career
+ | Hide header =  yes
+ | Ship struck =  22 January 1951
+ | Ship honours =  
+ | Ship notes =  
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Italy
+|Ship flag={{shipboxflag|Italy|naval}}
+ | Ship name =  ''Aviere''
+ | Ship namesake =  
+ | Ship acquired =  15 January 1951
+ | Ship commissioned =  
+ | Ship decommissioned =  
+ | Ship struck =  1975
+ | Ship honours =  
+ | Ship fate =  Sunk as a target, 1975
+ | Ship notes =  
+}}
+{{Infobox ship characteristics
+ | Hide header =  
+ | Header caption =  
+ | Ship class =  {{Sclass-|Gleaves|destroyer}}
+ | Ship displacement =  1,630 tons
+ | Ship length =      {{convert|348|ft|4|in|abbr=on}}
+ | Ship beam =  &amp;nbsp; {{convert|36|ft|1|in|abbr=on}}
+ | Ship draft = &amp;nbsp; {{convert|13|ft|2|in|abbr=on}}
+ | Ship propulsion =*{{convert|50,000|shp|abbr=on}};
+*4 boilers;
+*2 propellers
+ | Ship speed =  {{convert|35|kn|km/h|0}}
+ | Ship range =*{{convert|6,500|nmi|abbr=on}} at {{convert|12|kn|abbr=on}}
+ | Ship complement =  16 officers, 260 enlisted
+ | Ship sensors =  
+ | Ship EW =  
+ | Ship armament =*4 × [[5&quot;/38 caliber gun|{{convert|5|in|mm|abbr=on|0}}]] [[dual purpose gun|DP]] guns,
+* 6 × [[.50 caliber machine gun|{{convert|0.5|in|mm|abbr=on|sigfig=3}}]] guns,
+*10 × [[Mark 15 torpedo|{{convert|21|in|mm|abbr=on|0}}]] [[torpedo tube]]s,
+* 2 × [[depth charge]] projectors,
+* 1 × depth charge tracks
+ | Ship notes =  
+}}
+|}
+
+'''USS ''Nicholson'' (DD-442)''', a {{sclass-|Gleaves|destroyer}}, was the third ship of the [[United States Navy]] to be named for the Nicholson family, which was prominent in the early history of the Navy. The destroyer saw service during [[World War II]] in the Atlantic, Mediterranean and Pacific theaters. Following the war, the ship was placed in reserve and used as a training ship. In 1951, the destroyer was transferred to Italy and renamed '''''Aviere'''''. In service with the [[Marina Militare]] until 1975, ''Aviere'' was sunk as a target ship in 1975. 
+
+==Construction and career==
+''Nicholson'' was [[Keel laying|laid down]] on 1 November 1939 by [[Boston Naval Shipyard]]. The ship was [[Ship naming and launching|launched]] on 31 May 1940; sponsored by Mrs. S.&amp;nbsp;A. Bathriek, a great-granddaughter of [[Samuel Nicholson]] (1743–1811). The destroyer was [[ship commissioning|commissioned]] on 3 June 1941, Commander J.&amp;nbsp;S. Keating in command.
+
+After a shakedown cruise in the eastern Atlantic, ''Nicholson'' escorted [[convoy]]s through the [[U-boat]]-infested [[North Atlantic]] first from [[Boston, Massachusetts|Boston]] to [[Dominion of Newfoundland|Newfoundland]] and then to [[Scotland]] and [[England]] until fall 1942. In a brief training period off the [[Virginia]] coast, she prepared for the [[Operation Torch|Casablanca invasion]], but a turbine casualty prevented her participation in the initial landings. She arrived four days later, 12 November, to assist in the consolidation of the beachhead and to patrol. She took part in the [[Tunisia Campaign|Bizerte campaign]] and the [[Operation Avalanche (World War II)|initial assaults on Salerno]], coming under heavy air attack from the [[Luftwaffe]] at both [[Bizerte]] and [[Salerno]].
+
+===Convoys escorted===
+{|class=&quot;wikitable&quot;
+!Convoy
+!Escort Group
+!Dates
+!Notes
+|-
+|[[HX convoys|HX 160]]
+|
+|17-25 Nov 1941&lt;ref name=&quot;hxconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/hx/index.html|title=HX convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-19}}&lt;/ref&gt;
+|from [[Dominion of Newfoundland|Newfoundland]] to [[Iceland]] prior to US declaration of war
+|-
+|[[ON convoys|ON 41]]
+|
+|4-10 Dec 1941&lt;ref name=&quot;onconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/on/index.html|title=ON convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-19}}&lt;/ref&gt;
+|from Iceland to Newfoundland; war declared during convoy
+|-
+|[[HX convoys|HX 173]]
+|
+|3-10 Feb 1942&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|from Newfoundland to Iceland
+|-
+|[[Convoy ON 67|ON 67]]
+|
+|19-28 Feb 1942&lt;ref name=&quot;onconvoy&quot;/&gt;
+|from Iceland to Newfoundland
+|-
+|AT 17
+|
+|1–12 July 1942&lt;ref name=&quot;atconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/at/index.html|title=AT convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-20}}&lt;/ref&gt;
+|troopships from [[New York City]] to [[Firth of Clyde]]
+|-
+|AT 18
+|
+|6-17 Aug 1942&lt;ref name=&quot;atconvoy&quot;/&gt;
+|troopships from New York City to Firth of Clyde
+|}
+
+=== Pacific service ===
+After five months in the Mediterranean, ''Nicholson'' returned to the United States for overhaul in preparation for [[Pacific Ocean theater of World War II|Pacific]] deployment, for which she sailed from Boston early in January 1944. When she reached [[New Guinea]] in February, she was assigned to escort [[Tank landing ship|LST]]s in the [[Cape Gloucester]] campaign, already under way.
+
+Throughout the long [[New Guinea campaign]], a matter of successive assaults on coastal points and nearby islands, ''Nicholson'' gave gunfire support to troops ashore. She had similar duty in the [[Admiralties]]; when, during the conquest of [[Seeadler Harbor]], she was assigned to draw fire from an enemy battery on [[Hauwei Island]]. Here she was hit by a {{convert|4|in|mm|adj=on|0}} shell which struck in No.&amp;nbsp;2 ammunition handling room, killing three and wounding four. She eliminated the enemy position.
+
+In August 1944 ''Nicholson'' joined the [[U.S. 3rd Fleet|3rd Fleet]] in the [[Marshall Islands|Marshalls]]. She screened [[Aircraft carrier|fast carriers]] in raids on the [[Bonin Islands|Bonins]], [[Taiwan|Formosa]], and the [[Philippines]], supporting the [[Battle of Peleliu|invasion of the Palaus]] and the neutralization of [[Yap]]. Returning to the Philippines, her group assisted the [[U.S. 7th Fleet|7th Fleet]] during the [[Battle of Leyte|invasion of Leyte]] and the decisive [[Battle for Leyte Gulf]], from which ''Nicholson'' sailed for a [[Seattle, Washington|Seattle]] overhaul.
+
+Returning to the western Pacific in February 1945, ''Nicholson'' escorted ships passing between [[Guam]] and [[Ulithi]], and arrived off [[Okinawa]] for its invasion late in March. Serving in the exposed [[radar picket]] line, ''Nicholson'' came through untouched by [[kamikaze]]s, but rescued survivors from stricken destroyers {{USS|Little|DD-803|2}} and {{USS|Morrison|DD-560|2}}.
+
+Rejoining the 3rd Fleet for the final air operations against the Japanese home islands, ''Nicholson'' was off [[Honshū]] at the war's end. She entered [[Sagami Wan]] on 29 August and [[Tokyo Bay]] on 15 September. Returning to [[San Diego]] on 6 November, she sailed for [[Panama]] and [[Charleston, South Carolina]], arriving on 23 November to join the [[Atlantic Reserve Fleet]]. She [[Ship decommissioning|decommissioned]] on 26 February 1946 and was assigned as a Naval Reserve [[training ship]] in the 3d Naval District on 30 November 1948.
+
+''Nicholson'' received 10 [[battle star]]s for World War II service.
+
+== Post-war service ==
+
+While serving as reserve training ship at the [[Brooklyn Navy Yard]], Nicholson served as the backdrop for the big-screen musical ''[[On the Town (film)|On the Town]]'' starring Frank Sinatra, Gene Kelly, Vera Ellen, Ann Miller and Betty Garret. The ship was shown in the beginning of the movie and also in the last scene.
+
+''Nicholson'' was recommissioned on 17 July 1950, then decommissioned once more and transferred to the [[Italian Navy]] 15 January 1951.
+
+==''Aviere'' ==
+
+''Nicholson'' was sold to the Italian Navy 15 January 1951 and renamed ''Aviere''. She was converted to an experimental gun ship in 1970. She was stricken and sunk as a target in 1975.
+
+== References ==
+*{{DANFS|http://www.history.navy.mil/research/histories/ship-histories/danfs/n/nicholson-iii.html}}
+{{reflist}}
+
+== External links ==
+*[http://www.navsource.org/archives/05/442.htm navsource.org: USS ''Nicholson'']
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Gleaves class destroyer|others}}
+{{1975 shipwrecks}}
+
+{{DEFAULTSORT:Nicholson (DD-442)}}
+[[Category:Gleaves-class destroyers of the United States Navy]]
+[[Category:Ships built in Boston]]
+[[Category:1940 ships]]
+[[Category:World War II destroyers of the United States]]
+[[Category:Gleaves-class destroyers of the Italian Navy]]
+[[Category:Ships sunk as targets]]
+[[Category:Maritime incidents in 1975]]</text>
+      <sha1>ggvy9boiilbslzdc8n121v7s642f1fd</sha1>
+    </revision>
+  </page>
+</mediawiki>

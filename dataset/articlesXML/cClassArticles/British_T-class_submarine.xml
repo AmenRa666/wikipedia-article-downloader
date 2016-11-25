@@ -1,0 +1,280 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>British T-class submarine</title>
+    <ns>0</ns>
+    <id>874075</id>
+    <revision>
+      <id>750186237</id>
+      <parentid>748575895</parentid>
+      <timestamp>2016-11-18T06:24:06Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19988">{|{{Infobox ship begin|sclass=2}}
+{{Infobox ship image
+|Ship image=[[File:HMS Thorn.jpg|300px]] 
+|Ship caption=HMS ''Thorn''
+}}
+{{Infobox ship class overview
+|Name=T class
+|Builders=
+|Operators={{navy|UK}}
+|Class before={{sclass-|Grampus|submarine|4}}
+|Class after=[[British U-class submarine|U class]]
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=   
+|In commission range=  
+|Total ships building= 
+|Total ships planned=
+|Total ships completed=53
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship class=
+|Ship type=[[Submarine]]
+|Ship tonnage=
+|Ship displacement=*1,290 [[long ton|tons]] surfaced
+*1,560 tons submerged
+|Ship tons burthen=
+|Ship length={{convert|276|ft|6|in|m|abbr=on}} 
+|Ship beam={{convert|25|ft|6|in|m|abbr=on}} 
+|Ship height=
+|Ship draught=*{{convert|12|ft|9|in|m|abbr=on}} forward
+*{{convert|14|ft|7|in|m|abbr=on}} aft
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=*Two shafts
+*Twin diesel engines, 2,500 hp (1.86 MW) each
+*Twin electric motors 1,450 hp (1.08 MW) each
+|Ship sail plan=
+|Ship speed=*{{convert|15.5|kn|km/h mph|abbr=on|lk=on}} surfaced
+*{{convert|9|kn|km/h mph|abbr=on}} submerged
+|Ship range={{convert|8000|nmi|mi km|abbr=on|lk=on}} at {{convert|10|kn|km/h mph|abbr=on}} surfaced with 131 tons of fuel&lt;ref name=&quot;Warship III p125&quot;&gt;Warship III, T Class Submarines, Lambert, p125&lt;/ref&gt;
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=48
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*6 bow [[torpedo tube]]s
+*4 external torpedo tubes
+*16 [[torpedo]]es
+*[[QF 4 inch naval gun Mk IV, XII, XXII|QF 4 inch (100 mm)]] deck gun
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+The [[Royal Navy]]'s '''T class''' (or '''''Triton'' class''') of diesel-electric [[submarine]]s was designed in the 1930s to replace the [[Odin class submarine|O]], [[Parthian class submarine|P]], and [[Rainbow class submarine|R]] classes. Fifty-three members of the class were built just before and during the [[World War II|Second World War]], where they played a major role in the Royal Navy's submarine operations. Four boats in service with the [[Royal Netherlands Navy]] were known as the '''''Zwaardvisch'' class'''.
+
+In the decade following the war, the oldest surviving boats were scrapped and the remainder converted to anti-submarine vessels to counter the growing [[Cold War|Soviet submarine threat]].  The Royal Navy disposed of its last operational boat in 1969, although it retained one permanently moored as a static training submarine until 1974. The last surviving boat, serving in the [[Israeli Navy|Israel Sea Corps]], was scrapped in 1977.
+
+==Design and development==
+Design began in 1934 but was constrained by the 1930 [[London Naval Treaty]] restricting the total British submarine fleet to 52,700 [[Long ton|tons]], a maximum of 2,000 tons for any boat, and maximum armament of one {{convert|5.1|in|mm|abbr=on}} gun. The &quot;Repeat P&quot;s, as the design was originally called, were intended to be large and powerful enough to operate against Japan in the absence of other British naval units. Britain was in a financial crisis and would have difficulty affording enough boats to meet their allowance.
+
+It was expected from British work on [[ASDIC]] that other nations would develop something similar. To that end a smaller vessel around 1,100 tons would avoid detection. In the face of expected enemy [[Anti-submarine warfare|anti-submarine]] measures any attack would probably have to be made at long range without the aid of the periscope but on ASDIC. To counter the resultant inaccuracy a large salvo of at least eight torpedoes would be needed.&lt;ref&gt;Brown, D.K. ''Nelson to Vanguard'',&lt;!--publisher &amp; place?--&gt; p.112.&lt;/ref&gt;
+
+The eventual design had 8 bow [[torpedo tube]]s (two external), two external tubes amidships angled to fire forward, and a single {{convert|4|in|mm|adj=on}}/50 [[Caliber (artillery)|caliber]] deck gun.&lt;!--fore or aft?--&gt; Maximum operational diving depth was {{convert|300|ft|m|abbr=on}} with an estimated crush depth of {{convert|626|ft|m|abbr=on}}.&lt;ref&gt;''Nelson to Vanguard'', D. K. Brown, Chatham Publishing, 2000, ISBN 1-86176-136-8, P.119&lt;/ref&gt;  The design was finalised in 1935 and on June 24 the decision was made to drop the &quot;Repeat P&quot; designation and give all boats names starting with &quot;T&quot;.
+
+The ten-torpedo salvo was the largest ever fitted to an operational submarine.&lt;ref&gt;McCartney, I., ''British Submarines 1939–1945'' (2006) Osprey Publishing, ISBN 978-1-84603-007-9, p8&lt;/ref&gt; British operational planning at the time assumed international treaties would prevent unrestricted submarine warfare, and the main purpose of the submarine would be to attack enemy warships.  In such a situation, a commander may have only one chance to attack, so a large salvo was essential.&lt;!--del &quot;perfect cylindrical shape&quot;, since no sub hulls built at the time were perfect cylinders--&gt; T-class boats built later in the war changed the two amidships tubes to fire astern.
+
+The lead boat, ''[[HMS Triton (N15)|Triton]]'', was ordered on 5 March 1936 and ran her first-of-class trials in December 1938. Fifty-three T-class submarines were built before and during the war in three distinct groups, although there were minor differences between boats within the same group. The second and third groups had the fuel capacity increased on many boats to 230 tons, giving a range of {{convert|11000|nmi|km mi|abbr=on}} at {{convert|10|kn|km/h mph|abbr=on}}.&lt;ref name=&quot;Warship III p125&quot;/&gt;&lt;ref&gt;Bishop, in ''The Complete Encyclopedia of Weapons of WW2'', p.450, gives 12665nm at 10 knots.&lt;/ref&gt;
+
+==Service history==
+T-class submarines fought in all theatres in the Second World War and suffered around 25 percent losses. They were particularly vulnerable in the [[Mediterranean]], where their large size made them easily visible from the air in the clear waters, but they had much more success elsewhere.
+
+After the war, all surviving Group One and Two boats were scrapped and the remainder fitted with [[Submarine snorkel|snorts]].
+
+In the late 1940s and 1950s, most were streamlined for quiet and higher-speed underwater operation against [[Soviet Union|Soviet]] submarines, in place of the anti-surface-ship role that they had been designed for. In January 1948, it was formally acknowledged that the main operational function of the British submarine fleet would now be to intercept Soviet submarines slipping out of their bases in Northern [[Russia]] to attack British and Allied merchant vessels. The following April, the Assistant Chief of Naval Staff, Rear-Admiral [[Geoffrey Oliver]], circulated a paper in which he proposed that British submarines take a more offensive role by attacking Soviet submarines off the Northern Russian coast and mining the waters in the area. With the dramatically reduced surface fleet following the end of the Second World War, he commented that this was one of the few methods the Royal Navy had for &quot;getting to the enemy on his home ground.&quot;&lt;ref&gt;{{cite book | title = The T-Class submarine – The Classic British Design | isbn = 0-85368-958-X | publisher = Arms and Armour | author = Paul Kemp | year = 1990 | page = 127}}&lt;/ref&gt;
+
+Much of the work carried out on the submarines was underpinned by results of measurements made using ''[[HMS Tradewind|Tradewind]]'', which had been modified in July 1945 – September 1946 to become an acoustic trials submarine, with external tubes and guns removed, the bridge faired, the hull streamlined and some internal torpedo tubes blanked over.
+
+[[File:On Board HM Submarine Tribune, 1942 TR491.jpg|thumb|On board submarine HMS ''[[HMS Tribune (N76)|Tribune]]'' in 1942]]
+
+Starting in 1948, eight newer all-welded boats underwent extensive &quot;Super-T&quot; conversion at [[Chatham Dockyard]]. The modifications included the removal of deck guns and the replacement of the conning tower with a &quot;sail&quot;, a smooth-surfaced and far more symmetrical and streamlined tower. An extra battery was installed, and a new section of hull inserted to accommodate an extra pair of motors and switchgear.  This varied between 14&amp;nbsp;ft (4.3 m) in the earlier conversions and 17&amp;nbsp;ft 6 in (5.33 m) in the later ones. These changes allowed an underwater speed of 15 knots (28&amp;nbsp;km/h) or more and increased the endurance to around 32 hours at 3 knots (6&amp;nbsp;km/h). The first boats to undergo this modification were ''[[HMS Taciturn (P314)|Taciturn]]'' in November 1948 – March 1951, followed by  ''[[HMS Turpin (P354)|Turpin]]'' in June 1949 – September 1951. The programme was completed with the conversion of ''[[HMS Trump (P333)|Trump]]'' in February 1954 – June 1956.
+
+The conversion was not entirely successful since the [[metacentric height]] was reduced, making the boats roll heavily on the surface in rough weather.  This was alleviated in 1953 in those conversions which had been completed by increasing the buoyancy by raising the capacity of a main ballast tank by 50 tons. This was done by merging it with an existing emergency oil fuel tank. For the four boats remaining to be converted, increase in buoyancy was achieved by lengthening the extra hull section to be inserted from 14&amp;nbsp;ft (4.3 m) to 17&amp;nbsp;ft 6 in (5.33 m). The effect was to lengthen the control room and strict instructions were issued that this space was not to be used for extra equipment otherwise the improved buoyancy would be affected.
+
+In the meantime, in December 1950, approval was made for the streamlining of five riveted boats. This was a much less extensive process, with the removal of deck guns and external torpedo tubes, the replacement of the conning tower by a &quot;sail&quot; and replacement of the batteries by more modern versions providing a 23 percent increase in power.  The work was much more straightforward than the conversion of the welded boats and was undertaken during normal refit. The first riveted boat to undergo this modification was ''[[HMS Tireless (P327)|Tireless]]'' in 1951.
+
+The last operational Royal Navy boat of the class was ''[[HMS Tiptoe (P332)|Tiptoe]]'', which was decommissioned on 29 August 1969.  The last T class boat in service with Royal Navy, albeit non-operationally, was ''[[HMS Tabard (P342)|Tabard]]'' which was permanently moored as a static training submarine at the [[HMS Dolphin (shore establishment)|HMS ''Dolphin'' shore-establishment]] from 1969 until 1974, when she was replaced by [[HMS Alliance (P417)|HMS ''Alliance'']].
+
+The last operational boat anywhere was the INS ''Dolphin'', formerly [[HMS Truncheon (P353)|HMS ''Truncheon'']], one of three T-class boats (and two S-class ones) sold to the [[Israeli Navy]];&lt;ref&gt;{{cite web | url= http://submarines.dotan.net/tclasse/ | title = Israeli T-class submarines | work = Israeli Submarines | accessdate = 2006-10-29}}&lt;/ref&gt; it was decommissioned in 1977.
+
+Another submarine sold to Israel, ''[[HMS Totem (P352)|Totem]]'' renamed [[INS Dakar|INS ''Dakar'']], was lost in the Mediterranean in 1969 while on passage from [[Scotland]] to [[Haifa]].  Although the wreck was discovered in 1999, the cause of the accident remains uncertain.
+
+==Group One boats==
+These fifteen pre-war submarines were ordered under the Programmes of 1935 (''[[HMS Triton (N15)|Triton]]''), 1936 (next four), 1937 (next seven) and 1938 (last three). The boats originally had a bulbous bow covering the two forward external torpedo tubes, which quickly produced complaints that they reduced surface speed in rough weather. These external tubes were therefore removed from ''Triumph'' during repairs after she was damaged by a [[naval mine|mine]] and ''Thetis'' during the extensive repairs following her sinking and subsequent salvage.  Only six survived the war, less than half.
+
+* ''[[HMS Triton (N15)|Triton]]'' (sunk in the [[Adriatic]] on 18 December 1940)
+* ''[[HMS Thetis (N25)|Thetis]]'' (sank during trials, was salvaged and recommissioned as ''[[HMS Thunderbolt (N25)|Thunderbolt]]''; sunk by the Italian corvette ''[[Italian corvette Cicogna|Cicogna]]'' off [[Messina Strait]] on 14 March 1942)
+* ''[[HMS Tribune (N76)|Tribune]]''
+* ''[[HMS Trident (N52)|Trident]]''
+* ''[[HMS Triumph (N18)|Triumph]]'' (lost, probably to Italian mines, on 14 January 1942)
+* ''[[HMS Taku (N38)|Taku]]''
+* ''[[HMS Tarpon (N17)|Tarpon]]'' (probably sunk by German minesweeper ''M-6'' on 14 April 1940)
+* ''[[HMS Thistle (N24)|Thistle]]'' (torpedoed by ''[[German submarine U-4 (1935)|U-4]]'' on 10 April 1940)
+* ''[[HMS Tigris (N63)|Tigris]]'' (probably sunk by German ship ''[[German warship Uj-2210|UJ-2210]]'' on 27 February 1943)
+* ''[[HMS Triad (N53)|Triad]]'' (sunk by gunfire from the [[Italian submarine Enrico Toti|Italian submarine ''Enrico Toti'']] in the [[Gulf of Taranto]] on 15 October 1940)
+* ''[[HMS Truant (N68)|Truant]]''
+* ''[[HMS Tuna (N94)|Tuna]]''
+* ''[[HMS Talisman (N78)|Talisman]]'' (lost, probably to Italian mines, on 17 September 1942)
+* ''[[HMS Tetrarch (N77)|Tetrarch]]'', the only boat completed with mine laying equipment (lost, probably to Italian mines, on 2 November 1941)
+* ''[[HMS Torbay (N79)|Torbay]]''
+
+==Group Two boats==
+These seven vessels were all ordered under the 1939 War Emergency Programme. The first, ''Thrasher'', was launched on 5 November 1940. The external bow torpedo tubes were moved seven feet aft to help with sea keeping. The two external forward-angled tubes just forward of conning tower were repositioned aft of it and angled backwards to fire astern, and a stern external torpedo tube was also fitted.  This gave a total of eight forward-facing tubes and three rear-facing ones. All Group Two boats were sent to the [[Mediterranean]], only ''Thrasher'' and ''Trusty'' returned.
+
+* ''[[HMS Tempest (N86)|Tempest]]'' (sunk by the Italian [[Spica class torpedo boat]] [[Italian torpedo boat Circe|''Circe'']] on 13 February 1942)
+* ''[[HMS Thorn (N11)|Thorn]]'' (sunk by the Italian [[Orsa class torpedo boat]] ''Pegaso'' on 6 August 1942)
+* ''[[HMS Thrasher (N37)|Thrasher]]''
+* ''[[HMS Traveller (N48)|Traveller]]'' (lost, probably to Italian mines, on 12 December 1942)
+* ''[[HMS Trooper (N91)|Trooper]]'' (lost, probably to German mines, on 14 October 1943)
+* ''[[HMS Trusty (N45)|Trusty]]''
+* ''[[HMS Turbulent (N98)|Turbulent]]'' (Possibly sunk by an Italian torpedo boat, or a mine in March 1943&lt;ref&gt;[http://uboat.net/allies/warships/ship/3505.html &quot;HMS Turbulent (N 98)&quot;]&lt;/ref&gt;) During her career, she sank over 90,000 tons of enemy shipping.&lt;ref&gt;[http://www.royalnavy.mod.uk/server/show/nav.2558 Submarine History : Submarine Service : Operations and Support : Royal Navy&lt;!-- Bot generated title --&gt;] {{webarchive |url=https://web.archive.org/web/20070220000000/http://www.royalnavy.mod.uk/server/show/nav.2558 |date=February 20, 2007 }}&lt;/ref&gt;
+
+==Group Three boats==
+[[File:HMS Totem Sep 17 1945 SLV.jpg|thumb|HMS ''Totem'' in September, 1945]]
+Wartime austerity meant that they lacked many refinements such as [[jackstaff]]s and guardrails, and had only one anchor. Much of the internal pipework was steel rather than copper.  The first Group Three boat was ''P311'', launched on 10 June 1942.  Welding gradually replaced riveting and some boats were completely welded, which gave them an improved rated maximum diving depth of 350&amp;nbsp;ft (107 m).&lt;ref&gt;Barrow-in-Furness Branch of the Submariners Association. HMS Tabard.&lt;/ref&gt;
+
+*Nine submarines were ordered under the 1940 Programme.
+* ''[[HMS P311|P311]]'' (lost, probably to Italian mines, before her name ''Tutankhamen'' was formally assigned)
+* ''[[HMS Trespasser (P312)|Trespasser]]''
+* ''[[HMS Taurus (P399)|Taurus]]'' (To the Royal Netherlands Navy as ''[[HNLMS Dolfijn (1948)|Dolfijn]]'')
+* ''[[HMS Tactician (P314)|Tactician]]''
+* ''[[HMS Truculent (P315)|Truculent]]'' (sunk in collision on 12 January 1950)
+* ''[[HMS Templar (P316)|Templar]]''
+* ''[[HMS Tally-Ho (P317)|Tally-Ho]]''
+* ''[[HMS Tantalus (P318)|Tantalus]]''
+* ''[[HMS Tantivy (P319)|Tantivy]]''
+*Seventeen submarines were ordered under the 1941 Programme.
+* ''[[HMS Telemachus (P321)|Telemachus]]''
+* [[HMS Talent (P322)|''Talent'' (P322)]] (to the [[Royal Netherlands Navy]] as ''[[HNLMS Zwaardvisch (P322)|Zwaardvisch]]'')
+* ''[[HMS Terrapin (P323)|Terrapin]]''
+* ''[[HMS Thorough (P324)|Thorough]]''
+* ''[[HMS Thule (P325)|Thule]]''
+* ''[[HMS Tudor (P326)|Tudor]]''
+* ''[[HMS Tireless (P327)|Tireless]]''
+* ''[[HMS Token (P328)|Token]]''
+* ''[[HMS Tradewind|Tradewind]]''
+* ''[[HMS Trenchant (P331)|Trenchant]]''
+* ''[[HMS Tiptoe (P332)|Tiptoe]]''
+* ''[[HMS Trump (P333)|Trump]]''
+* ''[[HMS Taciturn (P314)|Taciturn]]''
+* ''[[HMS Tapir (P335)|Tapir]]'' (to the Royal Netherlands Navy as ''[[HNLMS Zeehond (2)(P335)|Zeehond (2)]]'')
+* ''[[HMS Tarn (P336)|Tarn]]'' (to the Royal Netherlands Navy as ''[[HNLMS Tijgerhaai (P336)|Tijgerhaai]]'')
+* [[HMS Talent (P337)|''Talent'' (P337)]]
+* ''[[HMS Teredo (P338)|Teredo]]''
+*Fourteen submarines were ordered under the 1942 Programme, but only five were completed.
+* ''[[HMS Tabard (P342)|Tabard]]''
+* ''[[HMS Totem (P352)|Totem]]'' (lost in accident on passage to Israel as [[INS Dakar|INS ''Dakar'']])
+* ''[[HMS Truncheon (P353)|Truncheon]]'' (later the Israeli INS ''Dolphin'')
+* ''[[HMS Turpin (P354)|Turpin]]'' (later the Israeli INS ''Leviathan'')
+* ''[[HMS Thermopylae (P355)|Thermopylae]]''
+The other nine were ordered but cancelled on October 29, 1945 following the end of hostilities:
+* ''Thor'' (P349) (laid down at [[Portsmouth|Portsmouth Dockyard]] on 5 April 1943 and launched on 18 April 1944. However, the [[Second World War|war]] ended before she was completed and she was sold for scrapping to Rees Shipbreaking Co Ltd of [[Llanelli]], [[Wales]] in July 1946.  She would have been the only ship of the Royal Navy to bear the name ''Thor'', after the mythological [[Thor|Norse god of thunder]].&lt;ref&gt;[http://uboat.net/allies/warships/ship/3380.html HMS Thor], Uboot.net&lt;/ref&gt;)
+* ''[[HMS Tiara (P351)|Tiara]]'' (also launched on 18 April 1944 at Portsmouth but not completed)
+* ''Theban'' (P341)
+* ''Talent'' (P343)
+* ''Threat'' (P344)
+* also four unnamed submarines (P345, P346, P347 and P348).
+
+==Transfers to Royal Netherlands Navy==
+* ''[[HNLMS Tijgerhaai (P336)|Tijgerhaai]]'' (ex-''[[HMS Tarn (P336)|Tarn]]'')
+* ''[[HNLMS Zwaardvisch (P322)|Zwaardvisch]]'' (ex-''[[HMS Talent (P322)|Talent]]'')
+* ''[[HNLMS Zeehond (2)(P335)|Zeehond (2)]]'' (ex-''[[HMS Tapir (P335)|Tapir]]'')
+* ''[[HNLMS Dolfijn (1948)|Dolfijn]]'' (ex-''[[HMS Taurus (P399)|Taurus]]'')
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* {{cite book|last=Akermann|first=Paul|title=Encyclopaedia of British Submarines 1901–1955|edition=reprint of the 1989|year=2002|publisher=Periscope Publishing|location=Penzance, Cornwall|isbn=1-904381-05-7}}
+*{{cite book|last=Bagnasco |first=Erminio |title=Submarines of World War Two |year=1977 |publisher=Naval Institute Press |location=Annapolis, Maryland |isbn=0-87021-962-6}} 
+*{{Colledge}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+*{{cite book|last=Kemp|first=Paul J.|title=The T-class Submarine: The Classic British Design|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1990|isbn=1-55750-826-7}}
+*{{cite book|last=McCartney|first=Innes|location=Oxford, UK|title=British Submarines 1939–1945|series=New Vanguard|volume=129|year=2006|publisher=Osprey|isbn=1-84603-007-2}}
+
+==External links==
+{{commons|British T class submarine}}
+
+{{T class submarine}}
+{{WWIIBritishShips}}
+
+{{DEFAULTSORT:British T Class Submarine}}
+[[Category:Submarine classes|T]]
+[[Category:British T-class submarines| ]]</text>
+      <sha1>mq1uva94jt91656rsztg61zk2oppg8d</sha1>
+    </revision>
+  </page>
+</mediawiki>

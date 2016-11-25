@@ -1,0 +1,203 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Thames (1885)</title>
+    <ns>0</ns>
+    <id>14095750</id>
+    <revision>
+      <id>751272962</id>
+      <parentid>750973448</parentid>
+      <timestamp>2016-11-24T14:22:02Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>Adding Good Article icon</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="14454">{{good article}}
+{{EngvarB|date=July 2016}}
+{{Use dmy dates|date=July 2016}}
+{{Redirect|General Botha|the political and military leader|Louis Botha}}
+{{other ships|HMS Thames}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Thames as sub tender.jpg|300px]]
+|Ship caption=''Thames'' at anchor with what is probably an [[A-class submarine (1903)|A-class submarine]] berthed next to her
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Thames''
+|Ship namesake=[[River Thames]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Pembroke Dockyard]]
+|Ship laid down=14 April 1884
+|Ship launched=3 December 1885
+|Ship christened=
+|Ship completed=July 1888
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=[[Submarine tender|Submarine depot ship]], 1903
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=Sold, 13 November 1920
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=South Africa
+|Ship flag={{shipboxflag|South Africa|naval-1922}}
+|Ship name=SATS ''General Botha''
+|Ship namesake=[[Louis Botha]]
+|Ship christened=1 April 1922
+|Ship acquired=13 November 1920
+|Ship commissioned=March 1922
+|Ship recommissioned=
+|Ship decommissioned=1942
+|Ship in service=
+|Ship out of service=
+|Ship renamed=''Thames'', 1942
+|Ship reclassified=*[[Training ship]], 1922
+*[[Accommodation ship]], 1942
+|Ship struck=
+|Ship reinstated=
+|Ship fate=[[Scuttling|Scuttled]], 13 May 1947
+|Ship status=Diveable wreck
+|Ship homeport=[[Simon's Town]]
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Mersey|cruiser|0}} second-class [[cruiser]]
+|Ship displacement={{convert|4050|LT|t}}
+|Ship length={{Convert|300|ft|m|1|abbr=on}} ([[Length between perpendiculars|p/p]])
+|Ship beam={{Convert|46|ft|m|1|abbr=on}}
+|Ship draught={{Convert|20|ft|2|in|m|1|abbr=on}}
+|Ship power=*{{convert|6000|ihp|lk=in|abbr=on}}
+*12 × [[Scotch marine boiler|cylindrical boilers]] 
+|Ship propulsion=*2 × shafts
+*2 × [[Marine steam engine#Compound engine|horizontal, direct-acting, compound-expansion steam engine]]s
+|Ship speed={{convert|18|kn|lk=in|abbr=on}}
+|Ship range={{convert|8750|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=300–50
+|Ship armament=*2 × single [[BL 8 inch Mk I - VII naval gun|BL {{convert|8|in|mm|abbr=on|0}} guns]]
+*10 × single [[BL 6 inch gun Mk III IV VI|BL {{convert|6|in|mm|abbr=on|0}} guns]]
+*3 × single [[QF 6-pounder Hotchkiss|QF 6-pounder (57&amp;nbsp;mm) Hotchkiss guns]]
+*3 × single [[QF 3-pounder Hotchkiss|QF 3-pounder (47&amp;nbsp;mm) Hotchkiss guns]]
+*2 × single {{convert|14|in|0|abbr=on}} [[torpedo tube]]s, 2 × 14 in torpedo launchers
+|Ship armour=*[[Deck (ship)|Deck]]: {{convert|2|-|3|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|9|in|mm|0|abbr=on}}
+|Ship notes=
+}}
+|}
+
+'''HMS ''Thames''''' was a {{sclass-|Mersey|cruiser|0}} [[protected cruiser]] built for the [[Royal Navy]] (RN) in the 1880s. The ship was placed in [[Reserve fleet|reserve]] upon her completion in 1888 and was converted into a [[Submarine tender|submarine depot ship]] in 1903. She was sold out of the navy in 1920 and was purchased by a [[South African]] businessman to serve as a training ship for [[naval cadet]]s under the name SATS ''General Botha''. The ship arrived in [[South Africa]] in 1921 and began training her first class of cadets in [[Simon's Town]] the following year. ''General Botha'' continued to train cadets for the first several years of [[World War II]], but the RN took over the ship in 1942 for use as an [[accommodation ship]] under her original name. She was [[scuttling|scuttled]] by gunfire in 1947 and is now a diveable wreck.
+
+==Design and description==
+The ''Mersey''-class cruisers were improved versions of the [[Leander-class cruiser (1882)|''Leander'' class]] with more armour and no sailing rig on a smaller [[Displacement (ship)|displacement]]. Like their predecessors, they were intended to protect British shipping.&lt;ref&gt;Gardiner, pp. 106–07&lt;/ref&gt; The cruisers had a [[length between perpendiculars]] of {{convert|300|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|46|ft|m|1}} and a [[draft (ship)|draught]] of {{convert|20|ft|2|in|m|1}}.&lt;ref name=f3&gt;Friedman, p. 333&lt;/ref&gt; They displaced {{convert|4050|LT|t}}. The ships were powered by a pair of two-cylinder [[Marine steam engine#Compound engine|horizontal, direct-acting, compound-expansion steam engine]]s, each driving one shaft, which were designed to produce a total of {{convert|6000|ihp|lk=in}} and a maximum speed of {{convert|18|kn|lk=in}} using steam provided by a dozen [[Scotch marine boiler|cylindrical boilers]] with [[forced draught]]. The ''Mersey'' class carried enough coal to give them a range of {{convert|8750|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=lw9/&gt; The ships' complement was 300&lt;ref name=ck5&gt;Chesneau &amp; Kolesnik, p. 75&lt;/ref&gt; to 350 officers and [[naval rating|ratings]].&lt;ref name=f3/&gt;
+
+Their main armament consisted of two [[List of British ordnance terms#BL|breech-loading]] (BL) [[BL 8 inch Mk I - VII naval gun|{{convert|8|in|mm|adj=on|0}} guns]], one each fore and aft on [[pivot gun|pivot mounts]]. Their secondary armament was ten [[BL 6 inch gun Mk III IV VI|BL {{convert|6|in|mm|adj=on|0}} guns]], five on each [[broadside]] in [[sponson]]s. Protection against [[torpedo boat]]s was provided by three [[quick-firing gun|quick-firing (QF)]] [[QF 6-pounder Hotchkiss|6-pounder Hotchkiss]] guns and three [[QF 3-pounder Hotchkiss]] guns. The ship was also armed with a pair of submerged 14-inch (356&amp;nbsp;mm) [[torpedo tube]]s and carried a pair of 14-inch torpedo carriages. The ''Mersey''-class ships were protected by a lower armoured [[deck (ship)|deck]] that was {{convert|2|in|0}} on the flat and {{convert|3|in|0}} on the slope. It sloped down at the [[bow (ship)|bow]] to reinforce the [[naval ram|ram]]. The armoured sides of the [[conning tower]] were {{convert|9|in|0}} thick.&lt;ref name=ck5/&gt;
+
+==Construction and career==
+''Thames'' was the sixth ship of her name to serve in the Royal Navy.&lt;ref&gt;Colledge, p. 348&lt;/ref&gt; She was [[laid down]] on 14 April 1884 by [[Pembroke Dockyard]] in No. 4 [[slipway]]. The ship was [[Ship naming and launching|launched]] on 3 December 1885 by the Hon. Mrs. Algernon Littleton&lt;ref name=p4/&gt; and completed in July 1889&lt;ref name=lw9&gt;Winfield &amp; Lyon, p. 271&lt;/ref&gt; at a cost of [[pound sterling|£]]204,952. The ship went straight into reserve at [[HMNB Devonport|Devonport]] after completion.&lt;ref name=p4&gt;Phillips, p. 230&lt;/ref&gt; On 21 March 1902 she was temporarily [[Ship commissioning|commissioned]] by Captain H. L. Fleet, with crewmen from the [[battleship]] {{HMS|Empress of India|1891|6}}, to serve as a port [[guard ship]] at [[Queenstown, Ireland|Queenstown]], while the latter ship was undergoing alterations.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Saturday |date=22 March 1902 |page_number=14 |issue=36722| }}&lt;/ref&gt; In 1903, the ship was converted to a submarine tender and served at [[Sheerness]] from 1907 to 1917 and then briefly at [[HMNB Portsmouth|Portsmouth]] and [[Campbeltown]], [[Scotland]], before being [[paid off]] in 1919 at [[Chatham Dockyard]].&lt;ref name=p4/&gt;
+
+===South Africa===
+[[File:SATS General Botha 1925 2.jpg|left|thumb|''General Botha'' in 1925]]
+She was sold for £8,000 in November 1920 to the [[Jersey]]-born South African entrepreneur T. B. Davis as a memory to his son who died during World War I. Later that month, the ship steamed to [[Port of Tilbury|West India Dock, Tilbury]], for a brief refit and ''Thames'' was renamed Training Ship (TS) ''General Botha'', after [[Louis Botha]], the first [[Prime Minister of South Africa|Prime Minister]] of the [[Union of South Africa]]. Before departing for Plymouth for extra crewmen on 6 January 1921, the ship was visited by Sir [[Reginald Blanckenberg]], [[High Commission of South Africa, London|High Commissioner for South Africa]], and his wife. She set sail from Plymouth on 18 January and ran into a heavy storm in the [[English Channel]] that smashed in the inadequately boarded-up sponsons and forced the ship to turn about for [[Plymouth]] for repairs where ''General Botha'' arrived two days later. The ship departed on 8 February and arrived in [[Cape Town]] on 26 March where she was greeted by the [[Minister of Defence (South Africa)|Minister of Defence]], [[Colonel]] [[Hendrik Mentz]] and other notables.&lt;ref&gt;Grutter, pp. 7–9&lt;/ref&gt; 
+
+Davis donated it to a trust on 9 May, with the stipulation that it be used exclusively for the nautical training of British and South African boys, so that they could subsequently serve in ships of the [[British Empire]]. The Admiralty agreed to cover the cost to convert ''General Botha'' into a training ship at [[Naval Base Simon's Town|Simon's Town Naval Dockyard]] and to tow her there from Cape Town in early September. It also agreed to grant the ship a [[wikt:mooring|mooring]] in Simon's Town. The first class of 75 boys reported aboard on 15 March 1922 on a two-year programme and the ship was formally christened as South African Training Ship (SATS) ''General Botha'' on 1 April by the wife of the [[Prime Minister of South Africa|Prime Minister]], [[Jan Smuts]]. On 15 December, King [[George V]] agreed to become the ship's patron and sponsored a annual gold medal for the best cadet aboard. On 2 May 1924, [[Edward VIII|Edward]], [[Prince of Wales]], inspected the boys and the ship. About a month later, she was docked to have her engines and [[funnel (ship)|funnel]] removed and her interior remodelled to create new [[messdeck]]s, [[galley (kitchen)|galley]]s and recreation spaces, returning to her moorings in August. In March 1935, Davis offered to sponsor a rowing competition between the cadets of ''General Botha'' and the British training ships, [[Thames Nautical Training College|HMS ''Worcester'']], and [[HMS Conway (school ship)|HMS ''Conway'']] in Britain and paid for their expenses to and from South Africa. King George V received the cadets in [[Buckingham Palace]] on 29 June shortly before the race during which they beat the cadets from ''Conway'', but lost to ''Worcester''. By the late 1930s, ''General Botha''{{'}}s guns and boilers had been removed and the former engine and boiler rooms converted into a [[gymnasium]].&lt;ref&gt;Grutter, pp. 10–27, 31, 73–75, 77&lt;/ref&gt;
+
+[[File:WWII SATS General Botha Memorial Plaque, Cape Town.jpg|left|thumb|Memorial in Cape Town for SATS ''General Botha'' graduates who died during World War II]]
+The trust's [[Board of directors|Board of Control]] offered the ship to the RN with 30 days notice on 7 September 1939, the day after South Africa declared war on Germany, but the offer was declined. Nevertheless, they decided to build accommodations for the cadets ashore if the RN did decide to take them up on their offer. The RN did so in July 1942 and the boys and staff went ashore on the 28th and the ship resumed her former name shortly afterwards. She served as an accommodation ship and was used as a [[prison ship]] for at least part of her time in RN service. By the time that the RN returned her to the Board of Control, the ship was deemed uneconomical to repair and she was scuttled by gunfire from one of the local [[Coastal artillery|coast defence]] [[battery (artillery)|battery]] on 13 May 1947 in [[False Bay]] at coordinates {{coord|34|13|48|S|18|37|48|E|display=inline,title|type:landmark_source:dewiki}}.&lt;ref&gt;Grutter, pp. 81, 86–87&lt;/ref&gt;
+
+There exists an [[alumni association]] for those who served aboard ''General Botha'', which has the [[Prince Philip, Duke of Edinburgh|Duke of Edinburgh]] as her patron.&lt;ref&gt;{{cite web|title=Charities and Patronages|url=https://www.royal.uk/charities-and-patronages?name=general+botha&amp;mrf=4&amp;field_themes_target_id=&amp;field_world_region_value=|website=The Royal Family|accessdate=20 November 2016}}&lt;/ref&gt; The [[South African Naval Museum]] in Simon's Town has an exhibit dedicated to the ship.&lt;ref&gt;{{cite web|title=South African Naval Museum|url=http://www.simonstown.com/navalmuseum/index.htm|website=www.simonstown.com|accessdate=20 November 2016}}&lt;/ref&gt;
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+*{{cite book|title=Conway's All the World's Fighting Ships 1860-1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{colledge}}
+*{{cite book|last=Friedman|first=Norman|title=British Cruisers of the Victorian Era|year=2012|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|isbn=978-1-59114-068-9}}
+*{{cite book|editor=Gardiner, Robert|title=Steam, Steel and Shellfire: The Steam Warship 1815–1905|series=Conway's History of the Ship|year=1992|publisher=Conway Maritime Press|location=London|isbn=1-55750-774-0}}
+* {{cite book|title=A Name Among Seafaring Men: A history of the training ship General Botha|publisher=T. B. F. Davis Memorial Sailing Trust|isbn=0-620-01151-3|last=Grutter|first=Wilhelm|year=1973|location=Cape Town}}
+*{{cite book|last=Phillips|first=Lawrie; Lieutenant Commander|title=Pembroke Dockyard and the Old Navy: A Bicentennial History|date=2014|publisher=The History Press|location=Stroud, Gloucestershire, UK|isbn=978-0-7509-5214-9}}
+*{{winfield}}
+
+==External links==
+* {{wikivoyage-inline|Diving the Cape Peninsula and False Bay/SATS General Botha|SATS General Botha dive site}}
+* [http://www.battleships-cruisers.co.uk/depot_ships.htm Photographs of HMS Thames]
+* [http://www.generalbotha.co.za/ General Botha (Old Boys Association)]
+* [http://www.simonstown.com/navalmuseum/index.htm The South African Naval Museum]
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Mersey class cruisers}}
+{{1947 shipwrecks}}
+
+{{DEFAULTSORT:Thames (1885)}}
+[[Category:Mersey-class cruisers]]
+[[Category:Pembroke-built ships]]
+[[Category:1885 ships]]
+[[Category:World War I naval ships of the United Kingdom]]&lt;!-- served as a submarine depot ship --&gt;
+[[Category:Ships of the South African Navy]]
+[[Category:Shipwrecks of the South African Atlantic coast]]
+[[Category:Monuments and memorials in South Africa|HMS Thames]]
+[[Category:Maritime history of South Africa]]
+[[Category:Maritime incidents in 1947]]</text>
+      <sha1>rtotahj5ffgiqb65nc25lelc5cncfsb</sha1>
+    </revision>
+  </page>
+</mediawiki>

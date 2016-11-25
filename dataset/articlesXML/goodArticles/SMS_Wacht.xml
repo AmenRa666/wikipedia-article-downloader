@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Wacht</title>
+    <ns>0</ns>
+    <id>39450434</id>
+    <revision>
+      <id>747643897</id>
+      <parentid>713018720</parentid>
+      <timestamp>2016-11-03T14:54:14Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>Added template and categories.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8904">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SMS Wacht 1899.jpg|300px]]
+|Ship caption=''Wacht'' in 1899
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= German Empire
+|Ship flag= {{Shipboxflag|German Empire|naval}}
+|Ship name= SMS ''Wacht''
+|Ship builder=[[AG Weser]]
+|Ship laid down=1886
+|Ship launched=27 August 1887
+|Ship commissioned=9 August 1888
+|Ship struck=
+|Ship fate=Sunk in collision 4 September 1901
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Wacht|aviso}}
+|Ship displacement= {{Convert|1499|MT|0|lk=on}} 
+|Ship length= {{Convert|85.8|m|ftin|abbr=on}} [[Length overall|o/a]]
+|Ship beam= {{Convert|9.66|m|ftin|abbr=on}}
+|Ship draft=  {{Convert|3.74|m|ftin|abbr=on}}
+|Ship propulsion=2 × 3-cylinder [[double expansion engine]]s, 2 shafts
+|Ship speed= {{Convert|19|kn|lk=in}}
+|Ship range= {{Convert|2440|nmi|abbr=on}} at {{Convert|9|kn|abbr=on}} 
+|Ship complement=* 7 officers
+*134 enlisted men
+
+|Ship armament=* 3 × {{Convert|10.5|cm|in|abbr=on}} K L/35 guns
+* 3 × {{convert|35|cm|abbr=on}} [[torpedo tube]]s
+
+|Ship armor=* Deck: {{convert|10|mm|abbr=on}}
+* [[Conning tower]]: {{convert|25|mm|abbr=on}}
+
+|Ship notes=
+}}
+|}
+
+'''SMS ''Wacht''''' was an [[aviso]] of the [[Imperial German Navy]], the [[lead ship]] of [[Wacht-class aviso|her class]]. She had one sister ship, {{SMS|Jagd||2}}. ''Wacht'' was built by the [[AG Weser]] shipyard; she was laid down in 1886, launched in August 1887, and commissioned in August 1888. She served in the active fleet through the 1890s and participated in numerous training exercises. Her career was cut short on 4 September 1901, when she collided with the old [[ironclad warship|ironclad]] {{SMS|Sachsen|1877|6}}. The latter's [[ram bow]] holed ''Wacht'' under the waterline and caused her to rapidly sink. Her crew was safely rescued, however, and there were no casualties.
+
+==Design==
+{{main|Wacht-class aviso}}
+
+''Wacht'' was {{convert|85.5|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|9.66|m|abbr=on}} and a maximum [[draft (hull)|draft]] of {{convert|3.74|m|abbr=on}} forward. She displaced {{convert|1499|MT}} at full combat load. Her propulsion system consisted of two angled 3-cylinder [[triple expansion engine]]s. Steam for the engines was provided by four coal-fired [[locomotive boiler]]s. The ship's propulsion system provided a top speed of {{convert|19|kn|abbr=on}} and a range of approximately {{convert|2860|nmi|lk=in}} at {{convert|10|kn|abbr=on}}.&lt;ref name=G95&gt;Gröner, p. 95&lt;/ref&gt; ''Wacht'' had a crew of 7&amp;nbsp;officers and 134&amp;nbsp;enlisted men.&lt;ref name=G96&gt;Gröner, p. 96&lt;/ref&gt;
+
+As built, the ship was armed with three [[10.5 cm K L/35 gun|{{convert|10.5|cm|abbr=on}} K L/35]] guns placed in single pivot mounts. The guns were supplied with a total of 180 rounds of ammunition. ''Wacht'' also carried three {{convert|35|cm|abbr=on}} [[torpedo tube]]s, one mounted submerged in the bow and the other two in deck-mounted launchers on the [[broadside]]. In 1891, four [[8.8 cm SK L/30 gun]]s in single mounts were added. The ship was the first German aviso to carry armor: a {{convert|10|mm|abbr=on}} thick deck, along with {{convert|25|mm|abbr=on}} of armor plating for the [[conning tower]].&lt;ref name=G956&gt;Gröner, pp. 95&amp;ndash;96&lt;/ref&gt;
+
+==Service history==
+[[File:SMS Wacht 1888.jpg|thumb|left|''Wacht'' in 1888]]
+''Wacht'' was laid down in 1886 at the [[AG Weser]] shipyard in [[Bremen]]. She was launched on 27 August 1887 and commissioned into the German fleet on 9 August 1888.&lt;ref&gt;Gardiner, p. 257&lt;/ref&gt; In 1889, [[Franz von Hipper]] served aboard the ship as her watch officer.&lt;ref&gt;Philbin, p. 57&lt;/ref&gt; In early 1889, ''Wacht'' was assigned to the Maneuver Squadron, which at the time consisted of the old ironclads {{SMS|Baden|1880|2}}, {{SMS|Bayern|1878|2}}, and {{SMS|Oldenburg|1884|2}} and the [[protected cruiser]] {{SMS|Irene||2}}. The Squadron was commanded by [[Prince Henry of Prussia (1862–1929)|Prince Heinrich]]. In May, the Maneuver Squadron conducted mock combat exercises with the Training Squadron in the [[Baltic Sea]].&lt;ref&gt;Rodgers, p. 203&lt;/ref&gt;
+
+In late 1889, ''Wacht'' joined a squadron of four old [[ironclad warship|ironclads]]&amp;mdash;{{SMS|Kaiser|1874|2}}, {{SMS|Deutschland|1874|2}}, {{SMS|Friedrich der Grosse|1874|2}}, and {{SMS|Preussen|1873|2}}&amp;mdash;that cruised the [[Mediterranean Sea]] along with Kaiser [[Wilhelm II]]'s [[yacht]] [[SMY Hohenzollern|''Hohenzollern'']] and the [[protected cruiser]] {{SMS|Irene||2}}, which carried Prince Heinrich. The squadron visited numerous ports in the Mediterranean, including state visits to Italy and the Ottoman Empire. Wilhelm II also stopped in Greece, where he attended the wedding of his sister [[Sophia of Prussia|Sophie]] to the Greek crown prince [[Constantine I of Greece|Constantine]]. The squadron remained in the Mediterranean until April 1890, when it returned to Germany.&lt;ref&gt;Sondhaus, p. 179&lt;/ref&gt; ''Wacht'', meanwhile, was forced to remain in [[Trieste]] for six months due to a serious problem with her boiler tubes, which required lengthy repairs.&lt;ref&gt;&quot;Notes on Ships&quot;, p. 49&lt;/ref&gt; The ship led the torpedo boat flotilla in the Maneuver Squadron in 1893.&lt;ref&gt;''Naval and Military Notes'', p. 814&lt;/ref&gt; In early 1894, ''Wacht'' was assigned to the II Division of the Maneuver Squadron as the divisional dispatch vessel. The division was commanded by Rear Admiral [[Otto von Diederichs]].&lt;ref&gt;Cleveland, p. 663&lt;/ref&gt; During the 1896 annual maneuvers, ''Wacht'' was assigned to the I Division.&lt;ref&gt;''Notes on Naval Progress'', p. 128&lt;/ref&gt;
+
+On 4 September 1901, ''Wacht'' collided with the [[ironclad warship|ironclad]] {{SMS|Sachsen|1877|2}} while on extensive training maneuvers with the rest of the fleet. ''Wacht'' was sunk, but the crew was safely evacuated and neither ship suffered casualties. During the maneuvers, ''Wacht'' attempted to pass between  ''Sachsen'' and {{SMS|Württemberg|1878|2}}. However, ''Wacht''{{'}}s helmsman misjudged the distance and passed too closely in front of ''Sachsen''. ''Sachsen'' immediately attempted to reverse course to avoid ramming the ship, but the two vessels collided. ''Sachsen''{{'}}s ram bow tore a large hole in ''Wacht'', which began to slowly sink. The battleship {{SMS|Weissenburg||2}} attempted to tow ''Wacht'' to shallow water, but several of ''Wacht''{{'}}s internal bulkheads collapsed under the strain and the ship quickly sank. Nevertheless, her crew was taken off safely; neither ship suffered any casualties.&lt;ref&gt;''Naval Notes: Germany'', pp. 1505&amp;ndash;1506&lt;/ref&gt;
+
+==Notes==
+{{reflist|20em}}
+
+==References==
+* {{cite journal|editor-last=Cleveland|editor-first=H. F.|journal=Journal of the Royal United Service Institution|date=June 1894|volume=XXXVIII|publisher=Harrison and Sons|location=London}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+*{{Cite book |last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|publisher=Naval Institute Press|isbn=0-87021-790-9|location=Annapolis, MD}}
+*{{Cite journal|title=Naval and Military Notes|journal=Journal of the Royal United Service Institution|volume=XXXVII|number=185|publisher=Royal United Services Institute for Defence Studies|date=July 1893|pages=811&amp;ndash;823|location=London|doi=10.1080/03071849309416563}}
+*{{Cite journal|title=Naval Notes: Germany|journal=Journal of the Royal United Service Institution|volume=45|publisher=Royal United Services Institute for Defence Studies|year=1908|pages=1501&amp;ndash;1508|location=London}}
+*{{Cite journal|journal=Notes Naval Progress|publisher=Office of Naval Intelligence|date=October 1896|location=Washington, DC}}
+* {{cite journal|title=Notes on Ships|journal=The Year's Naval Progress|year=1891|location=Washington, DC|publisher=Government Printing Office|pages=7&amp;ndash;70}}
+*{{cite book |last=Philbin |first=Tobias R., III|title=Admiral von Hipper: The Inconvenient Hero|year=1982 |publisher=B. R. Grüner Publishing Co. |location=Amsterdam |isbn=90-6032-200-2 }}
+* {{cite journal|last=Rodgers|first=Charles C.|title=The Naval Maneuver of 1889|pages=149&amp;ndash;206|journal=A Year's Naval Progress|date=June 1890|publisher=Office of Naval Intelligence|location=Washington, DC}}
+*{{Cite book |last=Sondhaus|first=Lawrence|title=Preparing for Weltpolitik: German Sea Power Before the Tirpitz Era|year=1997|publisher=Annapolis|location=Naval Institute Press|isbn=1-55750-745-7}}
+
+{{Wacht class aviso}}
+{{1901 shipwrecks}}
+
+{{coord|54.6833|N|13.5167|E|source:wikidata|display=title}}
+
+{{DEFAULTSORT:Wacht}}
+[[Category:Avisos of the Imperial German Navy]]
+[[Category:1887 ships}}
+[[Category:Ships built in Bremen (state)]]
+[[Category:Maritime incidents in 1901]]
+[[Category:Shipwrecks of Germany]]</text>
+      <sha1>id588uj3ohjdw1yzvre8kr5fnpev2g8</sha1>
+    </revision>
+  </page>
+</mediawiki>

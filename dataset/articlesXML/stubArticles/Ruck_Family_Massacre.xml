@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ruck Family Massacre</title>
+    <ns>0</ns>
+    <id>41031387</id>
+    <revision>
+      <id>666188735</id>
+      <parentid>654218538</parentid>
+      <timestamp>2015-06-09T14:17:01Z</timestamp>
+      <contributor>
+        <username>Colonies Chris</username>
+        <id>577301</id>
+      </contributor>
+      <minor/>
+      <comment>minor fixes, replaced: 888 - 195 → 888–195 (2), location=Adelaide, SA → location=Adelaide, newspaper=[[Barrier Miner|Barrier Miner (Broken Hill, NSW : 1888–1954)] → newspaper=[[The Barrier Miner]], newspaper=[[The using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1804">{{Infobox military conflict|
+conflict=Ruck Family Massacre|
+image=|
+caption=|
+partof=[[Mau Mau Uprising]]|
+date=January 1953|
+place=[[Great Rift Valley, Kenya|Rift Valley]], [[Kenya]]|
+result=|
+combatant1={{flag|United Kingdom}}|
+combatant2=[[Mau Mau]]|
+commander1=|
+commander2=|
+strength1=3 Europeans &lt;br/&gt; 1 African Servant|
+strength2=30|
+casualties1=4 killed|
+casualties2=|
+}}
+{{Campaignbox Mau Mau Uprising}}
+'''The Ruck Family Massacre''' took place during the [[Mau Mau Uprising]]. Farmer Roger Ruck, his wife Esme and six-year-old son Michael, along with their African servants, were massacred by Mau Mau.&lt;ref&gt;[http://www.dailymail.co.uk/news/article-1375967/Kenya-Mau-Mau-atrocities-1950s-dossier.html Tony Rennell, &quot;Justifiably the British are accused of brutality in 1950s Kenya. But why aren't the Mau Mau butchers also in the dock?&quot;, ''Daily Mail'', 12 April 2011] accessed 9 November 2013&lt;/ref&gt; The massacre shocked the European community in Kenya and led to 1,500 European settlers marching on the Governor demanding action.&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article49251428 |title=MAU TERRORISTS MURDER FAMILY. |newspaper=[[The Barrier Miner]] |location=Broken Hill, NSW |date=27 January 1953 |accessdate=9 November 2013 |page=4 |publisher=National Library of Australia}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://nla.gov.au/nla.news-article47525510 |title=30 Africans Held In Killer Hunt. |newspaper=[[The Advertiser (Adelaide)|The Advertiser]] |location=Adelaide |date=27 January 1953 |accessdate=9 November 2013 |page=1 |publisher=National Library of Australia}}&lt;/ref&gt;
+
+The massacre was fictionalised in the novel ''[[Something of Value]]'' by [[Robert Ruark]], and in the 1957 film version.
+
+==References==
+{{reflist}}
+
+[[Category:History of Kenya]]
+[[Category:Mau Mau Uprising]]</text>
+      <sha1>no38tuwapva9l2qe4wnh5vpvdyvxevu</sha1>
+    </revision>
+  </page>
+</mediawiki>

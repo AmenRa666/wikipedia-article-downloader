@@ -1,0 +1,389 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Rogožarski PVT</title>
+    <ns>0</ns>
+    <id>26902473</id>
+    <revision>
+      <id>739010328</id>
+      <parentid>729072986</parentid>
+      <timestamp>2016-09-12T08:00:34Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Speedily moving category Rogozarski aircraft to [[:Category:Rogožarski aircraft]] per [[WP:CFDS|CFDS]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12695">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ | name=Rogožarski PVT
+ | image=Rogozarski PVT-H1.JPG
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=[[Trainer (aircraft)|Advanced trainer]]
+ | national origin=[[Kingdom of Yugoslavia|Yugoslavia]]
+ | manufacturer=[[Rogožarski]], Belgrade
+ | designer= R. Fizir; [[Sima Milutinović - Aircraft constructor|Sima Milutinović]]; K. Sivčev and A.Biščević
+ | first flight=c.1934
+ | introduced=1936
+ | retired=1945
+ | status=inactive
+ | primary user=[[Yugoslav Royal Air Force]]
+ | more users= &lt;!--Limited to three in total; separate using &lt;br /&gt; --&gt;
+ | produced= &lt;!--years in production--&gt;
+ | number built=61&lt;ref name=&quot;ReferenceA&quot;&gt;Петровић, O. (2004). Војни аероплани Краљевине СХС/Југославије (Део II: 1931–1941.). Београд: МВЈ Лет 3.&lt;/ref&gt;
+ | program cost= &lt;!--Total program cost--&gt;
+ | unit cost= &lt;!--Incremental or flyaway cost for military or retail price for commercial aircraft--&gt;
+ | developed from= 
+ | variants with their own articles=
+}}
+|}
+The '''Rogožarski PVT''' ({{lang-sr-Cyrl|Рогожарски ПВТ}}; transliterated as Rogozarski PWT in German and as Rogojarsky PVT in some older English sources) was a single-engined, two-seat [[parasol wing]]ed aircraft designed as an advanced and fighter [[Trainer (aircraft)|trainer]] in [[Kingdom of Yugoslavia|Yugoslavia]] before World War II.  Over 60 were built, serving with the [[Yugoslav Royal Air Force]] (YAF) until the fall of Yugoslavia in 1941.  After that, some PVTs were used by the newly formed [[Air Force of the Independent State of Croatia]], sometimes as ground attack aircraft.
+
+==Design and development==
+
+The ''Prva Srpska Fabrika Aeroplana Živojin [[Rogožarski]]'' was the first [[Serbia]]n aircraft manufacturer in [[Kingdom of Yugoslavia|Yugoslavia]], founded in 1924.  In about 1933 its team of Rudolf Fizir, [[Sima Milutinović]], Kosta Sivčev and Adem Biščević designed the PVT, a training aircraft with tandem open cockpits in an oval wooden monocoque fuselage.  Its wooden, canvas covered wings were swept and [[Parasol wing|parasol]] mounted well above the fuselage with pairs of lift struts to the lower fuselage and a central inverted V [[Cabane strut|cabane]].  They carried long narrow chord ailerons, with prominent [[Aileron#Spades|spades]] well clear of the upper surfaces.&lt;ref name=&quot;JAWA38&quot;&gt;{{harvnb|Grey|1938|page=314–5c}}&lt;/ref&gt;
+
+The PVT was powered by a 420&amp;nbsp;hp (313&amp;nbsp;kW) 7-cylinder radial [[Gnome-Rhône 7K]] [[radial engine]], housed with its cylinder heads exposed and driving a two-bladed [[propeller (aircraft)|propeller]].  The fixed, divided type undercarriage had on each side a main shock absorber leg, its upper end attached to a steel pyramid protruding from the mid-fuselage keeping the leg closer to the vertical whilst providing a wide track.  Each wheel was connected to the lower fuselage with a swinging V-strut.  A simple tail skid completed the undercarriage. The horizontal tail and fixed fin were both canvas covered wooden structures, though the moving surfaces, also canvas covered, had metal frames.  The tailplane was strut braced to the fuselage from below and wire braced above to the fin.  It carried elevators which were spade assisted like the ailerons but also horn balanced.  The unbalanced rudder was broad and rounded.&lt;ref name=&quot;JAWA38&quot;/&gt;
+
+==Operational history==
+
+The PVT prototype probably first flew in 1934.  An initial production batch of 20 aircraft was delivered to the YAF during 1936.&lt;ref name=&quot;aeroflight&quot;&gt;[http://www.aeroflight.co.uk/waf/yugo/jkrv/types/rog_pvt.htm Aeroflight: Rogosarski PVT]&lt;/ref&gt;  Another 40 were delivered during 1938-9, of which the last 10 had fixed 7.7&amp;nbsp;mm (0.303&amp;nbsp;in) forward firing machine guns fitted and were powered by a licence built version of the Gnôme-Rhône 7K engine, the IAM K7.&lt;ref name=&quot;aeroflight&quot;/&gt;&lt;ref&gt;{{harvnb|Grey|1938|page=42d}}&lt;/ref&gt;  More PVTs were under construction at the time of the [[Invasion of Yugoslavia|Italo-German invasion of Yugoslavia]] in April 1941. Fifteen PVTs captured by the Germans as a result were presented to the newly formed [[Croatian Air Force (Independent State of Croatia)|Air Force of the Independent State of Croatia]].&lt;ref name=&quot;aeroflight&quot;/&gt;  Later some of these were fitted with bomb racks and used as attack aircraft until 1945.
+
+A few PVTs, designated '''PVT-H''', (the H from ''hidro'') were configured as seaplanes on standard [[EDO Corporation|Edo]] (EDO Float Model 38) floats mounted on N-shaped struts. During 1938 and 1939, four PVT-H aircraft were delivered to the [[Yugoslav Royal Navy]].&lt;ref name=&quot;ReferenceA&quot;/&gt;&lt;ref&gt;Janić, Čedomir (7.01.1983.). &quot;Akrobatski Hidroavion&quot; (in (Serbian)). Front (-{YU}--Београд: Narodna armija) 1276.&lt;/ref&gt;
+
+==Operators==
+;{{flag|Kingdom of Yugoslavia}}
+*[[Royal Yugoslav Air Force]] 61 aircraft
+*[[Yugoslav Royal Navy]]
+;{{flagcountry|Independent State of Croatia}}
+*[[Air Force of the Independent State of Croatia]]   15 ex-Royal Yugoslav Air Force
+&lt;!-- ==Variants== --&gt;
+&lt;!-- ==Units using this aircraft/Operators (choose)== --&gt;
+
+==Specifications==
+{{Aircraft specs
+|ref={{harvnb|Grey|1938|page=314–5c}}&lt;!-- for giving the reference for the data --&gt;
+|prime units?=met&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+|crew=2
+|capacity=
+|length m=8.54
+|length ft=
+|length in=
+|length note=
+|span m=11.20
+|span ft=
+|span in=
+|span note=
+|upper span m=
+|upper span ft=
+|upper span in=
+|upper span note=
+|mid span m=
+|mid span ft=
+|mid span in=
+|mid span note=
+|lower span m=
+|lower span ft=
+|lower span in=
+|lower span note=
+|swept m=&lt;!-- swing-wings --&gt;
+|swept ft=&lt;!-- swing-wings --&gt;
+|swept in=&lt;!-- swing-wings --&gt;
+|swept note=
+|dia m=&lt;!-- airships etc --&gt;
+|dia ft=&lt;!-- airships etc --&gt;
+|dia in=&lt;!-- airships etc --&gt;
+|dia note=
+|width m=&lt;!-- if applicable --&gt;
+|width ft=&lt;!-- if applicable --&gt;
+|width in=&lt;!-- if applicable --&gt;
+|width note=
+|height m=2.81
+|height ft=
+|height in=
+|height note=
+|wing area sqm=22.1
+|wing area sqft=
+|wing area note=
+|swept area sqm=&lt;!-- swing-wings --&gt;
+|swept area sqft=&lt;!-- swing-wings --&gt;
+|swept area note=
+|volume m3=&lt;!-- lighter-than-air --&gt;
+|volume ft3=&lt;!-- lighter-than-air --&gt;
+|volume note=
+|aspect ratio=&lt;!-- give where relevant eg sailplanes  --&gt;
+|airfoil=
+|empty weight kg=967
+|empty weight lb=
+|empty weight note=
+|gross weight kg=1213
+|gross weight lb=
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|lift kg=&lt;!-- lighter-than-air --&gt;
+|lift lb=&lt;!-- lighter-than-air --&gt;
+|lift note=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Gnome-Rhône 7K]]
+|eng1 type=7-cylinder radial
+|eng1 kw=&lt;!-- prop engines --&gt;
+|eng1 hp=420&lt;!-- prop engines --&gt;
+|eng1 kn=&lt;!-- jet/rocket engines --&gt;
+|eng1 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng1 note=
+|power original=
+|thrust original=
+|eng1 kn-ab=&lt;!-- afterburners --&gt;
+|eng1 lbf-ab=&lt;!-- afterburners --&gt;
+|eng2 number=
+|eng2 name=
+|eng2 type=
+|eng2 kw=&lt;!-- prop engines --&gt;
+|eng2 hp=&lt;!-- prop engines --&gt;
+|eng2 kn=&lt;!-- jet/rocket engines --&gt;
+|eng2 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng2 note=
+|eng2 kn-ab=&lt;!-- afterburners --&gt;
+|eng2 lbf-ab=&lt;!-- afterburners --&gt;
+|eng3 number=
+|eng3 name=
+|eng3 type=
+|eng3 kw=&lt;!-- prop engines --&gt;
+|eng3 hp=&lt;!-- prop engines --&gt;
+|eng3 kn=&lt;!-- jet/rocket engines --&gt;
+|eng3 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng3 note=
+|eng3 kn-ab=&lt;!-- afterburners --&gt;
+|eng3 lbf-ab=&lt;!-- afterburners --&gt;
+|more power=
+|prop blade number=&lt;!-- propeller aircraft --&gt;
+|prop name=
+|prop dia m=&lt;!-- propeller aircraft --&gt;
+|prop dia ft=&lt;!-- propeller aircraft --&gt;
+|prop dia in=&lt;!-- propeller aircraft --&gt;
+|prop note=
+|rot number=&lt;!-- helicopters --&gt;
+|rot dia m=&lt;!-- helicopters --&gt;
+|rot dia ft=&lt;!-- helicopters --&gt;
+|rot dia in=&lt;!-- helicopters --&gt;
+|rot area sqm=&lt;!-- helicopters --&gt;
+|rot area sqft=&lt;!-- helicopters --&gt;
+|rot area note=
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+|max speed kmh=240
+|max speed mph=
+|max speed kts=
+|max speed note=at sea level
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=&lt;!-- aerobatic --&gt;
+|stall speed mph=&lt;!-- aerobatic --&gt;
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|combat range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=&lt;!-- if range unknown --&gt;
+|ceiling m=7000
+|ceiling ft=
+|ceiling note=
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=6.54
+|climb rate ftmin=
+|climb rate note=to 2,000 m (6,562 ft)
+|time to altitude=
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2
+|wing loading lb/sqft=
+|wing loading note=
+|disk loading kg/m2=
+|disk loading lb/sqft=
+|disk loading note=
+|power/mass=
+|thrust/weight=
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|armament=&lt;!-- add (bulleted list) here or if you want to use the following specific parameters, remove this parameter--&gt;
+|guns= 
+|bombs= 
+|rockets= 
+|missiles= 
+|hardpoints=
+|hardpoint capacity=
+|hardpoint rockets=
+|hardpoint missiles=
+|hardpoint bombs=
+|hardpoint other=
+|other armament= 
+|avionics=
+}}
+
+==See also==
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+*[[Rogožarski AZR]]
+*[[Rogožarski SIM-Х]]
+*[[Rogožarski R-100]]
+
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|lists=&lt;!-- related lists --&gt;
+}}
+&lt;!-- see template:Aircontent for a useful way of formatting this section--&gt;
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{cite book |title= Jane's All the World's Aircraft 1938|last= Grey |first= C.G. |coauthors= |edition= |year=1972|publisher= David &amp; Charles|location= London|isbn=0-7153-5734-4|ref=harv }}
+*{{cite book |title= Short History of Aviation in Serbia|last= Janić |first= Čedomir |coauthors= O. Petrović |edition= |year=2011|publisher= Aerokomunikacije|location= Beograd|isbn=978-86-913973-2-6|ref=harv }}
+*{{cite journal
+ | last        = Петровић
+ | first       = Огњан М.
+ | date        = 3/2004.
+ | title       = Војни аероплани Краљевине СХС/Југославије (Део II: 1931–1941.)
+ | journal     = Лет - Flight
+ | volume      = 3
+ | publisher   = Музеј југословенског ваздухопловства
+ | location    = -{YU}--Београд
+ | language    = sr| id          = ISSN 1450-684X
+ | pages       = 42–44
+ | chapter     = 
+}}
+*{{cite journal
+ | last        = Станојевић
+ | first       = Драгољуб.
+ |author2=Чедомир Јанић
+ | date        = 12/1982.
+ | title       = Животни пут и дело једног великана нашег ваздухопловства - светао пример и узор нараштајима
+ | journal     = Машинство
+ | volume      = 31
+ | publisher   = Савез инжењера и техничара Југославије
+ | location    = -{YU}--Београд
+ | language    = sr| id          = 
+ | pages       = 1867–1876
+ | chapter = 
+}}
+*{{cite journal
+ | last        = Janić
+ | first       = Čedomir
+ | date        = 7.01.1983.
+ | title       = Akrobatski Hidroavion
+ | journal     = Front
+ | volume      = 1276
+ | publisher   = Narodna armija
+ | location    = -{YU}--Београд
+ | language    = sr| id          = 
+ | pages       = 
+ | chapter = 
+}}
+{{refend}}
+&lt;!-- ==Further reading== --&gt;
+
+==External links==
+{{commons category|Rogozarski aircraft}}
+*[http://panzercentral.com/forum/viewtopic.php?f=102&amp;t=17183&amp;start=0 Rogozarski PVT]
+*[http://crimso.msk.ru/Site/Crafts/Craft26726.htm Rogozarski PVT]
+
+{{Rogozarski}}
+
+{{DEFAULTSORT:Rogozarski PVT}}
+[[Category:Rogožarski aircraft|PVT]]
+[[Category:Yugoslav military aircraft 1930–1939]]
+[[Category:Trainer aircraft]]
+[[Category:Floatplanes]]
+[[Category:Propeller aircraft]]
+[[Category:Single-engine aircraft]]
+[[Category:Parasol-wing aircraft]]</text>
+      <sha1>k5ktu43rdgvyvt8zbqqv152pvxhm44s</sha1>
+    </revision>
+  </page>
+</mediawiki>

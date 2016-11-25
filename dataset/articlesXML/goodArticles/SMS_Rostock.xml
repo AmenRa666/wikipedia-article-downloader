@@ -1,0 +1,160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Rostock</title>
+    <ns>0</ns>
+    <id>15815513</id>
+    <revision>
+      <id>740590862</id>
+      <parentid>735923355</parentid>
+      <timestamp>2016-09-22T01:16:24Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12646">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SMS Rostock.jpg|300px]]
+|Ship caption=SMS ''Rostock''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[German Empire]]
+|Ship flag={{shipboxflag|German Empire|naval}}
+|Ship name=''Rostock''
+|Ship namesake=[[Rostock]]
+|Ship ordered=
+|Ship builder=[[Howaldtswerke-Deutsche Werft|Howaldtswerke]], [[Kiel]]
+|Ship laid down=1911
+|Ship launched=12 November 1912
+|Ship acquired=
+|Ship commissioned=4 February 1914
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship fate=Scuttled at the [[Battle of Jutland]], 31 May &amp;ndash; 1 June 1916 
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Karlsruhe|cruiser}}
+|Ship displacement=*Design: {{convert|4900|t|LT|abbr=on}}
+*Full load: {{convert|6191|t|LT|abbr=on}}
+|Ship length={{convert|142.2|m|ftin|abbr=on}}
+|Ship beam={{convert|13.7|m|ftin|abbr=on}}1
+|Ship draft={{convert|5.38|m|ftin|abbr=on}}
+|Ship power={{convert|26000|shp|kW|lk=in|abbr=on}}
+|Ship propulsion=*2 × [[steam turbine]]s
+*2 × shafts
+|Ship speed={{convert|29.3|kn|lk=in|abbr=on}}
+|Ship range=
+|Ship complement=*18 officers
+*355 enlisted men
+|Ship armament=*12 × [[10.5 cm SK L/45 naval gun|10.5&amp;nbsp;cm SK L/45 guns]]
+*2 × {{convert|50|cm|abbr=on}} [[torpedo tube]]s
+*120 mines
+|Ship armor=*[[Belt armor|Belt]]: {{convert|60|mm|abbr=on}}
+*Deck: 60&amp;nbsp;mm
+*[[Conning tower]]: {{convert|100|mm|abbr=on}}
+|Ship aircraft=
+|Ship notes=
+}}
+|}
+
+'''SMS ''Rostock''''' was a [[light cruiser]] of the {{sclass-|Karlsruhe|cruiser|4}} built by the German ''[[Kaiserliche Marine]]'' (Imperial Navy). She had one [[sister ship]], {{SMS|Karlsruhe}}; the ships were very similar to the previous {{sclass-|Magdeburg|cruiser|1}}s. The ship was laid down in 1911, launched in November 1912, and completed by February 1914. Armed with twelve [[10.5 cm SK L/45 naval gun|10.5&amp;nbsp;cm SK L/45 guns]], ''Rostock'' had a top speed of {{convert|28.5|kn}} and displaced {{convert|6191|t|abbr=on}} at full load.
+
+''Rostock'' served with the [[High Seas Fleet]] as a leader of [[torpedo boat]] flotillas for the duration of her career. She served with the screens for both the battlecruisers of the [[I Scouting Group]] during operations against the British coast and the [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]]. She was assigned to the screen for the battle fleet during the [[Battle of Jutland]] on 31 May &amp;ndash; 1 June 1916. She saw major action at Jutland and frequently engaged British light forces, culminating in her being torpedoed by destroyers shortly after midnight. She was taken under tow by German torpedo boats, but the following morning the cruiser {{HMS|Dublin|1912|6}} came upon the retreating ships. The Germans set scuttling charges aboard ''Rostock'' and took off the crew before ''Dublin'' arrived on the scene.
+
+==Construction==
+{{main|Karlsruhe-class cruiser}}
+''Rostock'' was ordered under the contract name &quot;''[[Ersatz]]'' {{SMS|Geier||2}}&quot; and was laid down at the [[Howaldtswerke]] shipyard in [[Kiel]] in 1911. She was launched on 12 November 1912;&lt;ref name=G109/&gt; at her launching, she was christened by the mayor of [[Rostock]], Dr. [[Magnus Maßmann]].&lt;ref name=HRS/&gt; After completing [[Fitting-out]] work, the ship was commissioned into the [[High Seas Fleet]] on 5 February 1914. The ship was {{convert|142.2|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|13.7|m|abbr=on}} and a [[draft (hull)|draft]] of {{convert|5.38|m|abbr=on}} forward. She displaced {{convert|6191|t|abbr=on}} at full combat load. Her propulsion system consisted of two sets of Marine [[steam turbine]]s driving two {{convert|3.5|m|adj=on|sp=us}} propellers. They were designed to give {{convert|26000|shp|lk=in}}, but reached {{convert|43628|shp|abbr=on}} in service. These were powered by twelve coal-fired Marine-type [[water-tube boiler]]s and two oil-fired double-ended boilers. These gave the ship a top speed of {{convert|29.3|kn}}. ''Rostock'' carried {{convert|1300|t|LT}} of coal, and an additional {{convert|200|t|LT}} of oil that gave her a range of approximately {{convert|5000|nmi|lk=in}} at {{convert|12|kn}}. ''Rostock'' had a crew of 18 officers and 355 enlisted men.&lt;ref name=G109&gt;Gröner, p. 109&lt;/ref&gt;
+
+The ship was armed with twelve [[10.5 cm SK L/45 naval gun|10.5&amp;nbsp;cm SK L/45 guns]] in single pedestal mounts. Two were placed side by side forward on the [[forecastle]], eight were located amidships, four on either side, and two were side by side aft.&lt;ref name=C160&gt;Gardiner &amp; Gray, p. 160&lt;/ref&gt; The guns had a maximum elevation of 30&amp;nbsp;degrees, which allowed them to engage targets out to {{convert|12700|m|abbr=on}}.&lt;ref&gt;Gardiner &amp; Gray, p. 140&lt;/ref&gt; They were supplied with 1,800 rounds of ammunition, for 150 shells per gun. She was also equipped with a pair of {{convert|50|cm|abbr=on|1}} [[torpedo tube]]s with five [[torpedo]]es submerged in the hull on the [[broadside]]. She could also carry 120 [[naval mine|mines]]. The ship was protected by a waterline [[armored belt]] that was {{convert|60|mm|abbr=on}} thick amidships. The [[conning tower]] had {{convert|100|mm|abbr=on}} thick sides, and the deck was covered with up to 60&amp;nbsp;mm thick armor plate.&lt;ref name=G109/&gt;
+
+==Service history==
+Following her commissioning in February 1914, ''Rostock'' was assigned as a [[torpedo boat]] flotilla leader with the High Seas Fleet.&lt;ref name=G109/&gt; On 24 January 1915, ''Rostock'' formed part of the support for Admiral [[Franz von Hipper]] [[battlecruiser]]s in the [[I Scouting Group]] during a sortie to destroy British light forces known to be operating near the [[Dogger Bank]]. The ship steamed with three other light cruisers and nineteen torpedo boats. ''Rostock'' and several of the torpedo boats were tasked with screening the port flank of the battlecruiser squadron.&lt;ref&gt;Tarrant, p. 36&lt;/ref&gt; The German group encountered five British battlecruisers, resulting in the [[Battle of Dogger Bank (1915)|Battle of Dogger Bank]], during which the [[armored cruiser]] {{SMS|Blücher||2}} was sunk.&lt;ref&gt;Tarrant, pp. 38&amp;ndash;42&lt;/ref&gt; ''Rostock'' participated in the [[bombardment of Yarmouth and Lowestoft]] on 24 April 1916, and as part of the screen for the I Scouting Group. While the battlecruisers bombarded Lowestoft, ''Rostock'' and five other cruisers engaged the [[Harwich Force]]. Shortly thereafter, the battlecruisers intervened and forced the Harwich Force to withdraw. The German squadron then broke off and returned to port.&lt;ref&gt;Tarrant, pp. 53&amp;ndash;54&lt;/ref&gt;
+
+[[File:Map of the Battle of Jutland, 1916.svg|thumb|Maps showing the maneuvers of the British (blue) and German (red) fleets on 30&amp;ndash;31 May 1916]]
+''Rostock'' also participated in the [[Battle of Jutland]], on 31 May 1916. She served as the leader of the torpedo boat flotillas, flying the flag of ''[[Kommodore]]'' Andreas Michelsen.&lt;ref&gt;Tarrant, p. 287&lt;/ref&gt; The flotilla was tasked with screening for the battle squadrons of the High Seas Fleet.&lt;ref&gt;Tarrant, p. 70&lt;/ref&gt; As the German fleet reached the engagement between the British and German battlecruiser squadrons at 17:30, a pair of destroyers, {{HMS|Nestor|1915|6}} and {{HMS|Nicator||2}} attempted to attack the German battle line. ''Rostock'' and a number of the battleships engaged the destroyers, which were both disabled by the heavy German fire.&lt;ref&gt;Tarrant, p. 114&lt;/ref&gt; The battleships destroyed ''Nestor'' and ''Nicator'' and their crews were picked up by German torpedo boats.&lt;ref&gt;Campbell, p. 101&lt;/ref&gt;
+
+At 19:32, ''Rostock'' and several torpedo boats crossed through the German line and began to lay a smoke screen to cover the withdrawal of the German fleet. Some twenty minutes later, Michelsen detached several torpedo boats to assist the badly damaged battlecruiser {{SMS|Lützow||2}}.&lt;ref&gt;Tarrant, p. 157&lt;/ref&gt; By the time the German fleet had assumed its night cruising formation, ''Rostock'' fell in with the light cruisers of the IV Scouting Group on the port side of the fleet.&lt;ref&gt;Tarrant, p. 211&lt;/ref&gt; Shortly before midnight, ''Rostock'' and the IV Scouting Group came into contact with the [[2nd Light Cruiser Squadron]].&lt;ref&gt;Tarrant, p. 213&lt;/ref&gt; Shortly after midnight, the British 4th Destroyer Flotilla attacked the German line, where ''Rostock'' was positioned. She joined the cannonade directed against the destroyers as they pressed home their attack.&lt;ref&gt;Tarrant, p. 218&lt;/ref&gt; The destroyers launched several torpedoes at the Germans, forcing ''Rostock'' and the other cruisers to turn away to avoid them; this pointed the ships directly at the battleships in the I Battle Squadron. ''Rostock'' successfully passed through the formation, but the cruiser {{SMS|Elbing||2}} was rammed by one of the battleships and disabled.&lt;ref&gt;Tarrant, p. 220&lt;/ref&gt;
+
+In the chaos of the night engagement, ''Rostock''{{'}}s search lights illuminated the destroyer {{HMS|Broke|1914|2}}. Gunfire from ''Rostock'' and the battleships {{SMS|Westfalen||2}} and {{SMS|Rheinland||2}} smothered the British destroyer; although heavily damaged, she managed to limp back to port.&lt;ref&gt;Tarrant, p. 221&lt;/ref&gt; The ship was attacked by the destroyers {{HMS|Ambuscade|1913|2}} and {{HMS|Contest|1913|2}}; the two ships each fired a single torpedo at high-speed settings at a range of about {{convert|1000|yd|m|abbr=on}}.&lt;ref name=C288/&gt; One torpedo struck ''Rostock'' at 1:30,&lt;ref name=HRS/&gt; though it is unknown which destroyer launched it. ''Rostock'' was also hit by three {{convert|4|in|mm|abbr=on}} shells, probably from the destroyer ''Broke''.&lt;ref name=C288&gt;Campbell, p. 288&lt;/ref&gt; The disabled ''Rostock'' called the destroyer ''S54'' to join her;&lt;ref&gt;Campbell, p. 291&lt;/ref&gt; ''S54'' took ''Rostock'' in tow, at times making up to {{convert|10|kn|abbr=on}}. The pair was subsequently joined by the destroyers ''V71'' and ''V73'', which had been detached from the flotilla to escort ''Rostock'' back to port.&lt;ref&gt;Campbell, p. 295&lt;/ref&gt;
+
+At around 03:55 on 1 June, the four German ships encountered the British cruiser {{HMS|Dublin|1912|2}}. The three destroyers went alongside the crippled cruiser and evacuated her crew, while flashing the first two letters of the British signal challenge. Smoke screens were laid to obscure the identity of the German warships. After about ten minutes, ''S54'' departed with ''Rostock''{{'}}s crew aboard, while ''V71'' and ''V73'' remained. Scuttling charges had been set in the cruiser, but to ensure ''Rostock'' sank faster, the two destroyers fired a total of three torpedoes into the ship.&lt;ref&gt;Campbell, p. 316&lt;/ref&gt; ''Rostock'' sank bow-first at approximately 04:25, after which ''V71'' and ''V73'' made for [[Horns Reef]] at high speed.&lt;ref&gt;Campbell, p. 317&lt;/ref&gt; Of ''Rostock''{{'}}s crew, 14 men were killed and 6 were wounded during the battle.&lt;ref&gt;Campbell, p. 339&lt;/ref&gt; In the course of the battle, ''Rostock'' fired some 500&amp;nbsp;rounds of 10.5&amp;nbsp;cm ammunition, more than any other German ship.&lt;ref name=HRS&gt;Hildebrand, Röhr and Steinmetz, pp. 84&amp;ndash;87&lt;/ref&gt; A second ''Rostock'', of the {{sclass-|Cöln|cruiser|4}}, was launched in April 1918, but was not completed before the end of the war.&lt;ref&gt;Gröner, p. 114&lt;/ref&gt;
+
+==Notes==
+{{Reflist|colwidth=20em}}
+
+==References==
+*{{cite book |last=Campbell|first=John|title=Jutland: An Analysis of the Fighting|year=1998|location=London|publisher=Conway Maritime Press|isbn=1-55821-759-2}}
+*{{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906-1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+*{{Cite book |last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|publisher=Naval Institute Press|isbn=0-87021-790-9|location=Annapolis, MD}}
+*{{Cite book |last1=Hildebrand|first1=Hans H.|last2=Röhr|first2=Albert|last3=Steinmetz|first3=Hans-Otto|title=Die Deutschen Kriegsschiffe|volume=7|year=1993|location=[[Ratingen]]|publisher=Mundus Verlag|asin=B003VHSRKE |asin-tld=de|oclc=}}
+*{{cite book |last=Tarrant|first=V. E.|title=Jutland: The German Perspective|year=1995|location=London|publisher=Cassell Military Paperbacks|isbn=0-304-35848-7}}
+
+{{Karlsruhe class light cruiser}}
+{{June 1916 shipwrecks}}
+{{Good article}}
+
+{{DEFAULTSORT:Rostock}}
+[[Category:Karlsruhe-class cruisers]]
+[[Category:Ships built in Kiel]]
+[[Category:1912 ships]]
+[[Category:World War I cruisers of Germany]]
+[[Category:Ships sunk at the Battle of Jutland]]
+[[Category:Maritime incidents in 1916]]</text>
+      <sha1>4ghw5zsh6xfp16wgsgdp9sf33918998</sha1>
+    </revision>
+  </page>
+</mediawiki>

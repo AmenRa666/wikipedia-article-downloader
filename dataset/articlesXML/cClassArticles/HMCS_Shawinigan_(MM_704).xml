@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Shawinigan (MM 704)</title>
+    <ns>0</ns>
+    <id>2647768</id>
+    <revision>
+      <id>742223397</id>
+      <parentid>742223280</parentid>
+      <timestamp>2016-10-02T12:05:29Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <minor/>
+      <comment>/* Operational history */ spelling</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10230">{{otherships|HMCS Shawinigan}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:(MM 704)NCSM Shawinigan.jpg|300px]]
+|Ship caption=HMCS ''Shawinigan'' at Rimouski in 2009
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval}}
+|Ship name=''Shawinigan''
+|Ship namesake=[[Shawinigan, Quebec]]
+|Ship ordered=
+|Ship builder=[[Halifax Shipyards|Halifax Shipyards Ltd.]], [[Halifax Regional Municipality|Halifax]]
+|Ship laid down=26 April 1996
+|Ship launched=15 November 1996
+|Ship acquired=
+|Ship commissioned=14 June 1997
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship identification = 704
+|Ship homeport=[[CFB Halifax]]
+|Ship honours=Atlantic, 1942-44; Gulf of St. Lawrence, 1942, 1944&lt;ref name=lineage&gt;{{cite web|url=http://www.cmp-cpm.forces.gc.ca/dhh-dhp/his/ol-lo/vol-tom-2/par1/shawinig-eng.asp |title=Volume 2, Part 1: Extant Commissioned Ships - HMCS Shawinigan |work=National Defence and the Canadian Forces |date=7 July 2006 |accessdate=23 August 2014}}&lt;/ref&gt;
+|Ship fate=
+|Ship status={{ship in active service}}
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption= 
+|Ship class={{sclass-|Kingston|coastal defence vessel|1}}
+|Ship displacement={{convert|970|LT|t|abbr=on}}
+|Ship length={{convert|55.3|m|ftin|abbr=on}}
+|Ship beam={{convert|11.3|m|ftin|abbr=on}}
+|Ship height=
+|Ship draught={{convert|3.4|m|ftin|abbr=on}}
+|Ship power=
+|Ship propulsion=*4 × [[Jeumont-Schneider|Jeumont]] ANR-53-50 alternators, 4 × 600VAC [[Wärtsilä]] UD 23V12 diesel engines, {{convert|7.2|MW|abbr=on}}
+*2 × Jeumont CI 560L motors, {{convert|3000|hp|abbr=on}} 
+*2 × LIPS Z drive azimuth thrusters
+|Ship speed={{convert|15|kn}}
+|Ship range={{convert|5000|nmi|abbr=on}} at {{convert|8|kn|abbr=on}}
+|Ship endurance=
+|Ship complement=37
+|Ship sensors=*Kelvin Hughes navigation radar (I-band)
+*Kelvin Hughes 6000 surface search radar (E-F band)
+*[[Global Positioning System]]
+*AN/SQS-511 towed side scan sonar
+*Remote-control Mine Hunting System (RMHS)
+|Ship EW=
+|Ship armament=*1 × [[Bofors 40 mm gun|Bofors 40 mm/60 Mk 5C gun]]
+*2 × [[M2 Browning machine gun|M2 machine gun]]s
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+'''HMCS ''Shawinigan''''' is a {{sclass-|Kingston|coastal defence vessel|1}} that has served in the [[Canadian Forces]] and the [[Royal Canadian Navy]] since 1997. ''Shawinigan'' is the fifth ship of her class which is the name for the [[Maritime Coastal Defence Vessel Project]]. She is the second vessel to use the designation {{HMCS|Shawinigan}}. The ship is assigned to [[Maritime Forces Atlantic]] (MARLANT) and is homeported at [[CFB Halifax]].
+
+==Design and description==
+The ''Kingston'' class was designed to fill the [[minesweeper]], coastal patrol and reserve training needs of the Canadian Forces, replacing the {{sclass2-|Bay|minesweeper|1}}s, {{sclass2-|Porte|gate vessel}}s and [[Royal Canadian Mounted Police]] coastal launches in those roles.&lt;ref name=mac299&gt;Macpherson and Barrie, p. 299&lt;/ref&gt; In order to perform these varied duties the ''Kingston''-class vessels are designed to carry up to three {{convert|6.1|m|ft|adj=on}} [[Intermodal container|ISO containers]] with power hookups on the open deck aft in order to embark mission-specific payloads.&lt;ref name=Janes08.09&gt;Saunders (2008), p. 95&lt;/ref&gt; The seven module types available for embarkation include four route survey, two mechanical minesweeping and one bottom inspection modules.&lt;ref name=mac299/&gt;
+
+The ''Kingston'' class [[Displacement (ship)|displace]] {{convert|970|LT|t}} and are {{convert|55.3|m|ftin}} [[Length overall|long overall]] with a [[Beam (nautical)|beam]] {{convert|11.3|m|ftin}} and a [[Draft (hull)|draught]] of {{convert|3.4|m|ftin}}.&lt;ref name=mac299/&gt; The coastal defence vessels are powered by four [[Jeumont-Schneider|Jeumont]] ANR-53-50 alternators coupled to four [[Wärtsilä]] UD 23V12 [[diesel engine]]s creating {{convert|7.2|MW}}. Two LIPS Z-drive [[azimuth thruster]]s are driven by two Jeumont CI 560L motors creating {{convert|3000|hp|lk=in}} and the Z drives can be rotated 360°. This gives the ships a maximum speed of {{convert|15|kn|lk=in}} and a range of {{convert|5000|nmi|lk=in}} at {{convert|8|kn}}.&lt;ref name=saunders2004&gt;Saunders (2004), p. 92&lt;/ref&gt; 
+
+The ''Kingston'' class is equipped with a [[Kelvin Hughes]] navigational radar using the I band and a Kelvin Hughes 6000 surface search radar scanning the E and F bands. The vessels carry an AN/SQS-511 towed side scan sonar for minesweeping and a Remote-control Mine Hunting System (RMHS). The vessels are equipped with one [[Bofors 40 mm gun|Bofors 40 mm/60 calibre Mk 5C gun]] and two [[M2 Browning machine gun|M2 machine gun]]s.&lt;ref name=saunders2004/&gt;{{efn| name = gun nomenclature}} The ''Kingston''-class coastal defence vessels have a complement of 37.&lt;ref name=mac299/&gt;
+
+==Operational history==
+[[File:HMCS Shawinigan (MM 704) in Boston Harbor.jpg|thumb|left|The ship in [[Boston Harbor]]]]
+''Shawinigan'' was laid down on 26 April 1996 by [[Halifax Shipyards|Halifax Shipyards Ltd.]] at [[Halifax, Nova Scotia]] and was [[Ship naming and launching|launched]] on 15 November 1996. The ship was [[Ship commissioning|commissioned]] into the Canadian Forces on 14 June 1997 at [[Trois Rivières]], Quebec and carries the [[Hull classification symbol (Canada)|hull number]] MM 704.&lt;ref name=m1&gt;Macpherson and Barrie, p. 303&lt;/ref&gt;
+
+After commissioning she was assigned to Atlantic fleet. On 28 June 1998 ''Shawinigan'' took part in the 75th anniversary of the naval reserves at Halifax and was featured on a commemorative stamp issued for the event.&lt;ref name=m1/&gt;
+
+In August 2014, ''Shawinigan'' took part in [[Operation Nanook (2014)|Operation Nanook]], an annual joint military exercise performed in northern Canada.&lt;ref name=oc1&gt;{{cite news|url=http://ottawacitizen.com/news/national/defence-watch/operation-nanook-14-scenario-includes-response-to-grounding-of-cruise-ship |title=Operation NANOOK 14 scenario includes response to grounding of cruise ship |last=Pugliese |first=David |work=Ottawa Citizen |date=21 August 2014 |accessdate=23 August 2014}}&lt;/ref&gt; During that deployment, ''Shawinigan'' set the record for traveling the furthest north of any ship in the history of the [[Royal Canadian Navy]], reaching a maximum latitude of 80 degrees and 28 minutes north. In March 2015, as part of [[Operation Caribbe]], ''Shawinigan'', along with [[sister ship]] {{HMCS|Goose Bay|MM 707|2}} and the US [[frigate]] {{USS|Kauffman|FFG-59|6}}, intercepted a vessel in the [[Caribbean Sea]] carrying {{convert|1017|kg}} of [[cocaine]].&lt;ref&gt;{{cite news|url=http://www.business-standard.com/article/pti-stories/canada-us-navies-seize-1-000-kg-cocaine-in-caribbean-115031000045_1.html |title=Canada, US navies seize 1,000 kg cocaine in Caribbean |work=Business Standard |date=10 March 2015 |accessdate=10 March 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://ottawacitizen.com/news/national/defence-watch/hmcs-goose-bay-and-hmcs-shawinigan-take-part-in-drug-bust-in-caribbean-sea |title=HMCS Goose Bay and HMCS Shawinigan take part in drug bust in Caribbean Sea |work=Defence Watch |publisher=Ottawa Citizen |last=Pugliese |first=David |date=9 March 2015 |accessdate=10 March 2015}}&lt;/ref&gt;
+
+In August 2016, the ship sailed with {{HMCS|Moncton|MM 708|2}} to the Arctic to take part in Operation Nanook.&lt;ref&gt;{{cite news |url=http://thechronicleherald.ca/trident/1390949-hmc-ships-depart-for-northern-operations |title=HMC Ships depart for Northern Operations |newspaper=The Chronicle Herald |date= |accessdate=25 August 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://ottawacitizen.com/news/national/defence-watch/royal-canadian-navy-sending-hmcs-shawinigan-and-moncton-to-arctic |title=Royal Canadian Navy sending HMCS Shawinigan and HMCS Moncton to Arctic |newspaper=Ottawa Citizen |last=Pugliese |first=David |date=11 August 2016 |accessdate=25 August 2016}}&lt;/ref&gt; Once the operation is over, ''Shawinigan'' partnered with the [[Canadian Coast Guard]] vessel {{ship|CCGS|Sir Wilfrid Laurier}} to continue the archaeological examination of the sunken vessel {{HMS|Erebus|1826|6}} and to aid in the search for {{HMS|Terror|1813|6}}.&lt;ref&gt;{{cite magazine |url=http://www.canadiangeographic.ca/article/archaeologists-resume-search-sir-john-franklins-hms-terror |title=Archaeologists to resume search for Sir John Franklin's HMS Terror |last=Kylie |first=Aaron |magazine=Canadian Geographic |date=23 August 2016 |accessdate=25 August 2016}}&lt;/ref&gt; ''Shawinigan'' and ''Moncton'' returned to Halifax on 30 September.&lt;ref&gt;{{cite news |url=http://globalnews.ca/news/2974453/two-navy-vessels-return-to-halifax-from-arctic-mission/ |title=Two navy vessels return to Halifax from Arctic mission |work=Global News |agency=The Canadian Press |date=30 September 2016 |accessdate=2 October 2016}}&lt;/ref&gt;
+
+==References==
+===Notes===
+{{notes
+| notes =
+
+{{efn
+| name = gun nomenclature
+| The 60 [[Caliber (artillery)|calibre]] denotes the length of the gun. This means that the length of the gun barrel is 60 times the bore diameter.
+}}
+}}
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+* {{cite book |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |date=2002 |title=The Ships of Canada's Naval Forces 1910—2002  |edition=Third |publisher=Vanwell Publishing |location=St. Catharines, Ontario |isbn=1-55125-072-1}}
+* {{cite book |editor-last=Saunders |editor-first=Stephen |date=2004 |title=Jane's Fighting Ships 2004—2005 |publisher=Jane's Information Group Inc. |edition=107 |location=Alexandria, Virginia |isbn=0-7106-2623-1}}
+* {{cite book |title=Jane's Fighting Ships 2008—2009 |editor-last=Saunders |editor-first=Stephen |publisher=Jane's Information Group |location=Surrey |year=2008 |edition=111th |series=Jane's Fighting Ships |isbn=978-0-7106-2845-9 |oclc=225431774}}
+
+==External links==
+* [http://www.navy.forces.gc.ca/shawinigan/0/0-s_eng.asp HMCS ''Shawinigan'' (MM 704) - official website]
+
+{{Kingston class coastal defence vessel}}
+
+{{DEFAULTSORT:Shawinigan, HMCS}}
+[[Category:Fleet of the Royal Canadian Navy]]
+[[Category:Kingston-class coastal defence vessels]]
+[[Category:1996 ships]]
+[[Category:Ships built in Nova Scotia]]</text>
+      <sha1>42gyceig1n9e6pfomiqse0jft3us8i0</sha1>
+    </revision>
+  </page>
+</mediawiki>

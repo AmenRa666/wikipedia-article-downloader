@@ -1,0 +1,185 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Admiral Hardy</title>
+    <ns>0</ns>
+    <id>41686276</id>
+    <revision>
+      <id>694615382</id>
+      <parentid>684959638</parentid>
+      <timestamp>2015-12-10T11:01:48Z</timestamp>
+      <contributor>
+        <username>Davidcannon</username>
+        <id>36171</id>
+      </contributor>
+      <minor/>
+      <comment>clean up; Formatted references; replaced hyphen with n-dash using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10137">{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image=
+| Ship caption=
+}}
+{{Infobox ship career
+| Hide header              =
+| Ship name                =*''Michael Ferdinand'' (1944–45)
+*''Empire Farrar'' (1945–49)
+*''Admiral Hardy'' (1949–55)
+*''Dumai Trader'' (1955–67)
+| Ship owner               =*Hugo Ferdinand Dampschiffs Reederi (1944–45)
+*Ministry of War Transport (1945)
+*Ministry of Transport (1945–47)
+*Stratton Steamship Co Ltd (1947–49)
+*Stanley Steamship Co (1949–55)
+*Sig S Årstads Rederi A/S (1955–65)
+*Scanship Corporation (1965–67)
+| Ship operator            =*Hugo Ferdinand Dampschiffs Reederi (1944–45)
+*Indo-China Steam Navigation Corporation (1945–47)
+*Stratton Steamship Co Ltd (1947–49)
+*Stanley Steamship Co (1949–55)
+*A/S Victor Müller Rederi (1955–65)
+*Panama Sea Express Line (1965–67)
+*Manchester Navigation Ltd (1967)
+| Ship registry            =*{{flagicon|Germany|Nazi}} [[Rostock]], Germany (1944–45)
+*{{Flagicon|United Kingdom|civil}} [[London]], United Kingdom (1945–49)
+*{{flag|Hong Kong|1910}} (1949–55)
+*{{flagicon|Norway}} [[Bergen]], Norway (1955–65)
+*{{flagicon|Panama}} Panama (1965-67) 
+| Ship route=
+| Ship ordered             =
+| Ship builder             = Stettiner Oderwerke
+| Ship original cost       = ℛℳ1,700,000
+| Ship yard number         = 851
+| Ship way number          = 
+| Ship laid down           = 
+| Ship launched            = 26 May 1944
+| Ship completed           = July 1944
+| Ship christened          = 
+| Ship acquired            =
+| Ship maiden voyage       = 
+| Ship in service          =
+| Ship out of service      = 
+| Ship identification      =*United Kingdom Official Number 180444 (1945–49)
+*Code Letters GDQG (1945–49)
+*{{ICS|Golf}}{{ICS|Delta}}{{ICS|Quebec}}{{ICS|Golf}}
+*Code Letters LAJQ (1955–65)
+*{{ICS|Lima}}{{ICS|Alpha}}{{ICS|Juliet}}{{ICS|Quebec}}
+| Ship fate                = Scrapped
+| Ship status              =
+| Ship notes               = 
+}}
+{{Infobox ship characteristics
+| Hide header              =
+| Header caption           =
+| Ship class               = Hansa A type [[cargo ship]]
+| Ship tonnage             =*{{GRT|1,929}}
+*{{NRT|935}}
+*{{DWT|3,120}}
+| Ship displacement        = 
+| Ship length              =*{{convert|301|ft|3|in|m|2}} overall
+*{{convert|279|ft|7|in|m|2|abbr=on}} between perpendiculars
+| Ship beam                = {{convert|44|ft|3|in|m|2|abbr=on}}
+| Ship height              = &lt;!--{{convert|xx|ft|x|in|m|2|abbr=on}}{{convert|xxx.xx|m|ftin|abbr=on}}--&gt;
+| Ship draught             = {{convert|18|ft|5|in|m|2|abbr=on}}
+| Ship depth               = {{convert|18|ft|8|in|m|2|abbr=on}}
+| Ship decks               =
+| Ship deck clearance      =
+| Ship ramps               =
+| Ship ice class           =
+| Ship sail plan           =
+| Ship power               = {{convert|1400|hp|kW}}
+| Ship propulsion          = Steam engine, Single screw propeller
+| Ship speed               = {{convert|11|kn|km/h}}
+| Ship capacity            =
+| Ship crew                = 
+| Ship armament            = 
+| Ship notes               =
+}}
+|}
+
+'''''Admiral Hardy''''' was a {{GRT|1,929}} Hansa A type [[cargo ship]] that was built in 1944 by [[Stettiner Oderwerke]], [[Stettin]], Germany as '''''Michael Ferdinand''''' for Hugo Ferdinand Dampschiffs Reederi. She was seized in 1045 as a [[prize (law)|war prize]] and taken over by the [[Ministry of War Transport]] (MoWT) as '''''Empire Farrar'''''. In 1949, she was sold to Hong Kong and renamed ''Admiral Hardy''. She was sold to Norway in 1955. In 1965, she was sold to Panama and renamed '''''Dumai Trader''''', serving until 1967 when she was scrapped.
+
+==Description==
+The ship was a Hansa A type cargo ship built in 1944 by [[Stettiner Oderwerke]], [[Stettin]], Germany.&lt;ref name=Ships&gt;{{cite book |last1= Mitchell |first1=W.H. |last2=Sawyer |first2=L.A. |year=1995 |title=The Empire Ships |page=not cited |publisher= Lloyd's of London Press Ltd |location= London, New York, Hamburg, Hong Kong |isbn=1-85044-275-4}}&lt;/ref&gt;&lt;ref name=Hansa&gt;{{cite web |url=http://www.skipet.no/skipsbygging/skipstyper/hansa-a-type-1944-46/hansa-a-type/view |title=HANSA A Type |language=Norwegian |publisher=Norsk Skipsfartshistorisk Selskap |accessdate=19 January 2014}}&lt;/ref&gt; She was yard number 851.&lt;ref name=Skipet&gt;{{cite web |url=http://www.skipet.no/skipsbygging/skipstyper/hansa-a-type-1944-46/ds-admiral-hardy-1944/view |title=DS ADMIRAL HARDY 1944 |language=Norwegian |publisher=Norsk Skipsfartshistorisk Selskap |accessdate=19 January 2014}}&lt;/ref&gt;
+
+The ship was {{convert|301|ft|3|in|m|2}} long overall ({{convert|279|ft|7|in|m|2}} between perpendiculars), with a beam of {{convert|44|ft|3|in|m|2}}. She had a depth of {{convert|18|ft|8|in|m|2}} and a draught of {{convert|18|ft|5|in|m|2}}. She was assessed at {{GRT|1,929}},&lt;ref name=Farrar45&gt;{{cite web |url=http://www.plimsollshipdata.org/pdffile.php?name=45a1204.pdf |title=LLOYD'S REGISTER, STEAMERS AND MOTORSHIPS |publisher=Plimsoll Ship Data |accessdate=19 January 2014}}&lt;/ref&gt; {{NRT|935}},&lt;ref name=Schwadtke2627&gt;{{cite book |last1=Schwadtke |first1=Karl-Heinz |year=1974 |title=Deutschlands Handelsschiffe 1939&amp;ndash;1945 |pages=26–27 |publisher=Verlag Gerhard Stalling AG |location=Oldenburg |isbn=3-7979-1840-2 |language=German}}&lt;/ref&gt; 3,120 [[deadweight tonnage|DWT]].&lt;ref name=Skipet/&gt; The ship was propelled by a {{convert|1400|hp|kW}} steam engine.&lt;ref name=Schwadtke2627/&gt; She could make {{convert|11|kn|km/h}}.&lt;ref name=Skipet/&gt;
+
+==History==
+''Michael Ferdinand'' was built at a cost of approximately [[Reichsmark|ℛℳ1,700,000]] by [[Stettiner Oderwerke]], [[Stettin]], Germany. She was launched on 26 May 1944 and completed in July 1944. She was built for Hugo Ferdinand Dampschiffs Reederei, [[Rostock]].&lt;ref name=Hansa/&gt;&lt;ref name=Skipet/&gt;
+
+Following her participation in the [[Flight and evacuation of German civilians during the end of World War II|evacuation of east Germany]] at the end of [[World War II]], ''Michael Ferdinand'' was at [[Sønderborg]], Denmark in May 1945.&lt;ref name=Skipet/&gt; She was seized by the Allies as a [[prize (law)|war prize]],&lt;ref name=Times051146&gt;{{Cite newspaper The Times |articlename=PRIZE COURTS |day_of_week=Tuesday |date=5 November 1946 |page_number=1 |issue=50600 |column=F }}&lt;/ref&gt; passed to the MOWT and renamed ''Empire Farrar''.&lt;ref name=Ships/&gt; She was placed under the management of the Indo-China Steam Navigation Co Ltd. The United Kingdom Official Number 180644 and [[Code Letters]] GDQG were allocated. Her port of registry was [[London]].&lt;ref name=Farrar45/&gt; In 1947, management passed to the Stratton Steamship Co Ltd.&lt;ref name=Ships/&gt;
+
+In 1949, ''Empire Farrar'' was sold to the Stanley Steamship Co Ltd, [[Hong Kong]] and was named ''Admiral Hardy''.&lt;ref name=Ships/&gt; On 29 July 1953, ''Admiral Hardy'' was fired on by a [[Chinese Navy]] warship whilst leaving [[Foochow]]. She was subsequently boarded by a party from the ship.&lt;ref name=Times300753&gt;{{Cite newspaper The Times |articlename=BRITISH SHIP FIRED ON AND BOARDED |day_of_week=Thursday |date=30 July 1955 |page_number=6 |issue=52687 |column=A }}&lt;/ref&gt; Her cargo of timber was seized by [[Chinese Nationalist]]s.&lt;ref name=Times050853&gt;{{Cite newspaper The Times |articlename=BRITISH SHIP RELEASED |day_of_week=Wednesday |date=5 August 1953 |page_number=5 |issue=52692 |column=A }}&lt;/ref&gt; In September, her captain fell overboard and was drowned whilst the ship was off [[Wenchow]], [[China]] during a voyage from Foochow to [[Tsingtao]], China.&lt;ref name=Times011053&gt;{{Cite newspaper The Times |articlename=(untitled) |day_of_week=Thursday |date=1 October 1953 |page_number=5 |issue=52741 |column=F }}&lt;/ref&gt; On 8 October, she was stopped in the [[Straits of Formosa]] by an unidentified [[gunboat]] but was allowed to continue her voyage.&lt;ref name=Times091053&gt;{{Cite newspaper The Times |articlename=BRITISH SHIP STOPPED |day_of_week=Friday |date=9 October 1953 |page_number=8 |issue=52748 |column=F }}&lt;/ref&gt; On November 13, 1954, four Chinese crew members were detained and interrogated by police whilst the ship was at [[Shanghai]] over a missing Chinese crew member. Her captain was told by the [[Chinese police]] that as captain of the ship he was held responsible for the death of the crew member. He considered this as intimidation by the Chinese authorities. He and his four officers resigned their posts upon the ship returning to [[Kobe]], Japan.&lt;ref name=Times091254&gt;{{Cite newspaper The Times |articlename=CREW 'INTIMIDATED' BY COMMUNISTS |day_of_week=Thursday |date=9 December 1954 |page_number=6 |issue=53110 |column=D }}&lt;/ref&gt;
+
+In November 1955, ''Admiral Hardy'' was sold to Sig S Årstads Rederi, [[Bergen]], Norway for [[Pound Sterling|£115,000]]. She was placed under the management of Victor Müller Rederi AS. The Code Letters LAJQ were allocated. On 9 August 1964, ''Admiral Hardy'' ran aground on Arena Island ({{coord|9|14|00|N|12|0|45|E}}) whilst on a voyage from [[North Borneo]] to [[Shanghai]], China. She had been refloated by 15 August.&lt;ref name=Skipet/&gt;
+
+In October 1965, ''Admiral Hardy'' was sold for £67,500 to the Scanship Corporation,&lt;ref name=Skipet/&gt; Panama and was renamed ''Dumai Trader''. She was placed under the management of the Panama Sea Express Line, Norway.  Management passed to Manchester Navigation Ltd, Panama in 1967. She was scrapped in March 1967 at [[Kaohsiung]], Taiwan,&lt;ref name=Ships/&gt; and removed from [[Lloyd's Register]] in 1971.&lt;ref name=Schwadtke2627/&gt;
+
+==References==
+{{reflist|2}}
+
+{{Hansa A type ships}}
+{{Empire F ships}}
+
+{{DEFAULTSORT:Admiral Hardy}}
+[[Category:1944 ships]]
+[[Category:Ships built in Stettin]]
+[[Category:World War II merchant ships of Germany]]
+[[Category:Steamships of Germany]]
+[[Category:Empire ships]]
+[[Category:Ministry of War Transport ships]]
+[[Category:Merchant ships of the United Kingdom]]
+[[Category:Steamships of the United Kingdom]]
+[[Category:Merchant ships of Hong Kong]]
+[[Category:Steamships of Hong Kong]]
+[[Category:Merchant ships of Norway]]
+[[Category:Steamships of Norway]]
+[[Category:Merchant ships of Panama]]
+[[Category:Steamships of Panama]]</text>
+      <sha1>d7z0vo89yb6comngmuy3q23os1ztqh0</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese battleship Fusō</title>
+    <ns>0</ns>
+    <id>521205</id>
+    <revision>
+      <id>749028906</id>
+      <parentid>749006032</parentid>
+      <timestamp>2016-11-11T22:30:35Z</timestamp>
+      <contributor>
+        <username>Sturmvogel 66</username>
+        <id>5808430</id>
+      </contributor>
+      <comment>/* Battle of Surigao Strait */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="33217">{{for|the ironclad  battleship of the same name|Japanese ironclad Fusō}}
+{{featured article}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Fuso Trial Heading Left.jpg|300px]]
+|Ship caption=''Fusō'' undergoing trials on 10 May 1933 after a major renovation
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Empire of Japan]]
+|Ship flag={{shipboxflag|Empire of Japan|naval}}
+|Ship name=''Fusō'' ([[Japanese language|Japanese]]: 扶桑)
+|Ship namesake=[[Names of Japan|Classical name]] for Japan
+|Ship ordered=
+|Ship builder=[[Kure Naval Arsenal]]
+|Ship laid down=11 March 1912
+|Ship launched=28 March 1914
+|Ship commissioned=8 November 1915
+|Ship struck=31 August 1945
+|Ship fate=Sunk during the [[Battle of Surigao Strait]], 25 October 1944
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Fusō|battleship}}
+|Ship displacement=*{{convert|29330|LT|t}} ([[Displacement (ship)#Standard displacement|standard]])
+*{{convert|35900|LT|t}} ([[Full-load displacement|full load]])
+|Ship length=*{{convert|192.024|m|ft|sp=us}} ([[Length between perpendiculars|p.p.]])
+*{{convert|205.13|m|ft|sp=us}} ([[Length overall|o.a.]])
+|Ship beam={{convert|28.65|m|ft|sp=us}}
+|Ship draft={{convert|8.69|m|ftin|sp=us}}
+|Ship power=*{{convert|40000|shp|lk=in|abbr=on}}
+*24 × Miyahara [[water-tube boiler]]s
+|Ship propulsion=*4 × shafts
+*2 × Brown-Curtis [[steam turbine]] sets
+|Ship speed={{convert|23|kn|lk=in}}
+|Ship range={{convert|8000|nmi|lk=in|abbr=on}} at {{convert|14|kn}}
+|Ship complement=1,198
+|Ship armament=*6 × 2 - [[Vickers 14 inch/45 naval gun|{{convert|356|mm|in|0|abbr=on}} guns]]
+*16 × 1 -  [[15 cm/50 41st Year Type|{{convert|152|mm|in|0|abbr=on}} guns]]
+*6 × submerged {{convert|533|mm|in|0|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|305|mm|in|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|32|-|51|mm|in|abbr=on}}
+*[[Barbette]]s: {{convert|203|-|305|mm|in|1|abbr=on}}
+*[[Gun turret|Turret]]s: {{convert|228.6|to|279|mm|in|1|abbr=on}}
+*[[Conning tower|Conning Tower]]: {{convert|351|mm|in|1|abbr=on}} 
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Header caption=(1944)
+|Ship displacement={{convert|34700|LT|t}}
+|Ship length={{convert|212.75|m|ft|abbr=on}} (o.a.)
+|Ship beam={{convert|33.1|m|ftin|abbr=on}}
+|Ship draft={{convert|9.69|m|ftin|abbr=on}}
+|Ship power=*{{convert|75000|shp|abbr=on}}
+*6 × water-tube boilers
+|Ship propulsion=4 × steam turbines
+|Ship speed={{convert|24.5|kn}}
+|Ship range={{convert|11800|nmi|abbr=on}} at {{convert|16|kn}}
+|Ship complement=approximately 1,900
+|Ship sensors=*1 × [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]]
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 13]] [[early warning radar]]
+*2 × [[List of Japanese World War II radar#Shipborne Radar|Type 22]] surface search radar
+|Ship armament=*6 × 2 - 356 mm guns
+*14 × 1 - 152 mm guns
+*4 × 2 - [[12.7 cm/40 Type 89 naval gun|Type 89 {{convert|127|mm|in|0|abbr=on}}]] [[dual-purpose gun]]s
+*95 × [[Type 96 25 mm AT/AA Gun|Type 96 {{convert|25|mm|in|0|abbr=on}}]] AA guns 
+|Ship armor=Deck: {{convert|152|-|51|mm|in|abbr=on|0}}
+|Ship aircraft=3 × [[floatplane]]s
+|Ship aircraft facilities=1 × [[aircraft catapult|catapult]]}}
+|}
+{{nihongo|'''''Fusō'''''|扶桑||a [[Names of Japan|classical name]] for Japan|}} was the [[lead ship]] of the two {{sclass-|Fusō|battleship|0}} [[dreadnought battleship]]s built for the [[Imperial Japanese Navy]]. Launched in 1914 and commissioned in 1915, she initially patrolled off the coast of China, playing no part in [[World War I]]. In 1923, she assisted survivors of the [[1923 Great Kantō earthquake|Great Kantō earthquake]].
+
+''Fusō'' was modernized in 1930–35 and again in 1937–41, with improvements to her armor and machinery and a rebuilt superstructure in the [[pagoda mast]] style. With only [[Vickers 14 inch/45 naval gun|14-inch guns]], she was outclassed by other Japanese battleships at the beginning of [[World War II]], and played auxiliary roles for most of the war.
+
+''Fusō'' was part of [[Vice-Admiral]] [[Shōji Nishimura]]'s Southern Force at the [[Battle of Leyte Gulf]]. She was sunk in the early hours of 25 October 1944 by [[torpedo]]es and naval gunfire during the [[Battle of Surigao Strait]]. Some reports claimed that ''Fusō'' broke in half, and that both halves remained afloat and burning for an hour, but according to survivors' accounts, the ship sank after 40 minutes of flooding. Of the few dozen crewmen who escaped, only 10 survived to return to Japan.
+
+==Description==
+[[File:Fuso trial.jpg|thumb|left|''Fusō'' on her sea trials, 24 August 1915]]
+The ship had a length of {{convert|192.024|m|ft|sp=us|sigfig=3}} [[Length between perpendiculars|between perpendiculars]] and {{convert|202.7|m|ft|sp=us}} [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|28.7|m|ftin|sp=us}} and a [[draft (ship)|draft]] of {{convert|8.7|m|sp=us}}.&lt;ref name=conways229&gt;Gardiner &amp; Gray, p. 229&lt;/ref&gt; ''Fusō'' [[displacement (ship)|displaced]] {{convert|29326|LT|t}} at [[Standard displacement#Standard displacement|standard load]] and {{convert|35900|LT|t}} at [[Full-load displacement|full load]].&lt;ref&gt;Jentschura, Jung and Mickel, p. 25&lt;/ref&gt; Her crew consisted of 1,198 officers and enlisted men in 1915 and 1,396 in 1935. During World War II, the crew probably totalled around 1,800–1,900 men.&lt;ref name=skulski30&gt;Skulski, p. 30&lt;/ref&gt;
+
+During the ship's first modernization during 1930–33, her forward superstructure was enlarged with multiple platforms added to her tripod foremast. Her rear superstructure was rebuilt to accommodate mounts for {{convert|127|mm|adj=on|sp=us}} [[anti-aircraft]] (AA) guns and additional [[Fire-control system#Naval fire control|fire-control directors]]. ''Fusō'' was also given [[torpedo bulge]]s to improve her underwater protection and to compensate for the weight of the additional armor and equipment. During the second phase of her first reconstruction in 1934–35, ''Fusō''{{'}}s torpedo bulge was enlarged and her stern was lengthened by {{convert|7.62|m|ft|sp=us}}. These changes increased her overall length to {{convert|212.75|m|ft|abbr=on}}, her beam to {{convert|33.1|m|ftin|abbr=on}} and her draft to {{convert|9.69|m|ftin|sp=us}}. Her displacement increased by nearly {{convert|4000|LT|t}} to {{convert|39154|LT|t}} at deep load.&lt;ref&gt;Skulski, pp. 11, 29&lt;/ref&gt;
+
+===Propulsion===
+The ship had two sets of [[John Brown and Company|Brown-Curtis]] direct-drive [[steam turbine]]s, each of which drove two propeller shafts. The turbines were designed to produce a total of {{convert|40000|shp|lk=in}}, using steam provided by 24 Miyahara-type [[water-tube boiler]]s, each of which consumed a mixture of coal and oil. ''Fusō'' had a stowage capacity of {{convert|4000|LT|t|abbr=on}} of coal and {{convert|1000|LT|t|abbr=on}} of [[fuel oil]],&lt;ref name=skulski17&gt;Skulski, p. 17&lt;/ref&gt; giving her a range of {{convert|8000|nmi|lk=in}} at a speed of {{convert|14|kn|lk=in}}. The ship exceeded her design speed of {{convert|22.5|knots}} during her [[sea trial]]s, reaching {{convert|23|kn}} at {{convert|46500|shp|abbr=on}}.&lt;ref&gt;Jentschura, Jung and Mickel, pp. 25–26&lt;/ref&gt;
+
+During her first modernization, the Miyahara boilers were replaced by six new [[Imperial Japanese Navy Technical Department|Kampon]] oil-fired boilers fitted in the former aft boiler room, and the forward [[funnel (ship)|funnel]] was removed. The Brown-Curtis turbines were replaced by four geared Kanpon turbines with a designed output of {{convert|75000|shp|abbr=on}}.&lt;ref name=skulski17/&gt; During her 1933 trials, ''Fusō'' reached a top speed of {{convert|24.7|kn}} from {{convert|76889|shp|abbr=on}}.&lt;ref name=conways229/&gt; The fuel storage of the ship was increased to a total of {{convert|5100|LT|t}} of fuel oil that gave her a range of {{convert|11800|nmi}} at a speed of {{convert|16|kn}}.&lt;ref name=skulski17/&gt;
+
+===Armament===
+The twelve 45-[[caliber (artillery)|caliber]] [[Vickers 14 inch/45 naval gun|14-inch]] guns of ''Fusō'' were mounted in six twin-gun turrets, numbered one through six from front to rear, each with an elevation range of −5 to +30 degrees.&lt;ref name=skulski18&gt;Skulski, p. 18&lt;/ref&gt; The turrets were arranged in an uncommon 2-1-1-2 style with [[superfire|superfiring]] pairs of turrets fore and aft; the middle turrets were not superfiring, and had a funnel between them. The main guns and their turrets were modernized during the ship's 1930 reconstruction; the elevation of the main guns was increased to +43 degrees, increasing their maximum range from {{convert|27800|to|35450|yd|m}}. Initially, the guns could fire at a rate of 1.5 [[Cartridge (firearms)|rounds]] per minute, and this was also improved during her first modernization.&lt;ref name=skulski18&gt;Skulski, p. 18&lt;/ref&gt; The orientation of Turret No. 3 was reversed during the modernization; it now faced forward.&lt;ref&gt;Chesneau, p. 171&lt;/ref&gt;
+
+Originally, ''Fusō'' was fitted with a secondary armament of sixteen 50-caliber [[15 cm/50 41st Year Type|six-inch guns]] mounted in [[casemate]]s on the upper sides of the hull. The gun had a maximum range of {{convert|22970|yd|m}}&lt;ref name=skulski20&gt;Skulski, p. 20&lt;/ref&gt; and fired at a rate of up to six shots per minute.&lt;ref&gt;Campbell, p. 189&lt;/ref&gt; She was fitted with five 40-caliber [[8&amp;nbsp;cm/40 3rd Year Type naval gun|three-inch]] AA guns in 1918. The high-angle guns were in single mounts on both sides of the forward superstructure and both sides of the second funnel, as well as on the port side of the aft superstructure.&lt;ref name=skulski20/&gt; These guns had a maximum elevation of +75 degrees, and could fire a {{convert|5.99|kg|lb|adj=on|1|sp=us}} shell at a rate of 13 to 20 rounds per minute to a maximum height of {{convert|7200|m|ft|sp=us}}.&lt;ref&gt;Campbell, p. 198&lt;/ref&gt; The ship was also fitted with six submerged {{convert|533|mm|in|adj=on|sp=us}} [[torpedo tube]]s, three on each [[broadside]].&lt;ref name=skulski30&gt;Skulski, p. 30&lt;/ref&gt;
+
+During the first phase of ''Fusō''{{'}}s modernization of the early 1930s, all five three-inch guns were removed and replaced with eight 40-caliber [[12.7 cm/40 Type 89 naval gun|127-millimeter]] [[dual-purpose gun]]s, fitted on both sides of the fore and aft superstructures in four twin-gun mounts.&lt;ref name=skulski21&gt;Skulski, p. 21&lt;/ref&gt; When firing at surface targets, the guns had a range of {{convert|14700|m|yd|sp=us}}; they had a maximum ceiling of {{convert|9440|m|ft|sp=us}} at their maximum elevation of +90 degrees. Their maximum rate of fire was 14 rounds a minute, but their sustained rate of fire was around eight rounds per minute.&lt;ref&gt;Campbell, pp. 192–93&lt;/ref&gt; At this time, the ship was also provided with four quadruple mounts for the license-built [[13.2 mm Hotchkiss machine gun|Type 93 13.2 mm machine gun]]s, two on the [[pagoda mast]] and one on each side of the funnel. The maximum range of these guns was {{convert|6500|m|yd|sp=us}}, but the effective range against aircraft was only {{convert|1000|m|yd|sp=us}}. The cyclic rate was adjustable between 425 and 475 rounds per minute, but the need to change 30-round [[magazine (firearms)|magazines]] reduced the effective rate to 250 rounds per minute.&lt;ref&gt;Skulski, pp. 21–22&lt;/ref&gt;
+
+The improvements made during the first reconstruction increased ''Fusō''{{'}}s draft by {{convert|1|m|ftin|sp=us}}, soaking the two foremost six-inch guns, so they were removed during the first phase of the ship's second modernization in 1937 and 1938.&lt;ref&gt;Skulski, pp. 20, 30&lt;/ref&gt; During this same phase, the Type 93 {{convert|13.2|mm|adj=on|sp=us}} machine guns were replaced by eight [[Type 96 25 mm AT/AA Gun|25&amp;nbsp;mm Type 96 light AA gun]]s in twin-gun mounts. Four of these mounts were fitted on the forward superstructure, one on each side of the funnel and two on the rear superstructure.&lt;ref name=skulski30/&gt; This was the standard Japanese light AA gun during World War II, but it suffered from severe design shortcomings that rendered it a largely ineffective weapon. According to historian Mark Stille, the twin and triple mounts &quot;lacked sufficient speed in train or elevation; the gun sights were unable to handle fast targets; the gun exhibited excessive vibration; the magazine was too small, and, finally, the gun produced excessive muzzle blast&quot;.&lt;ref name=stille11&gt;Stille, p. 11&lt;/ref&gt; The configuration of the AA guns varied significantly; in July 1943, 17 single and two twin-mounts were added for a total of 37.&lt;ref name=stille23&gt;Stille, p. 23&lt;/ref&gt; In July 1944, the ship was fitted with additional AA guns: 23 single, six twin and eight triple-mounts, for a total of 95 in her final configuration.&lt;ref name=skulski22&gt;Skulski, p. 22&lt;/ref&gt; These {{convert|25|mm|in|adj=on|sp=us}} guns had an effective range of {{convert|1500|-|3000|m|yd|sp=us}}, and an effective ceiling of {{convert|5500|m|ft|sp=us}} at an elevation of +85 degrees. The maximum effective rate of fire was only between 110 and 120 rounds per minute because of the frequent need to change the fifteen-round magazines.&lt;ref&gt;Campbell, p. 200&lt;/ref&gt;
+
+===Armor===
+The ship's [[waterline]] [[belt armor|armor belt]] was {{convert|305|to|229|mm|in|0|sp=us}} thick; below it was a [[strake]] of {{convert|102|mm|in|abbr=on|0}} armor. The [[deck (ship)|deck]] armor ranged in thickness from {{convert|32|to|51|mm|in|abbr=on|1}}. The turrets were protected with an armor thickness of {{convert|279.4|mm|in|abbr=on|1}} on the face, {{convert|228.6|mm|in|abbr=on|1}} on the sides, and {{convert|114.5|mm|in|abbr=on}} on the roof. The [[barbette]]s of the turrets were protected by armor 305&amp;nbsp;mm thick, while the casemates of the 152&amp;nbsp;mm guns were protected by 152&amp;nbsp;mm armor plates. The sides of the [[conning tower]] were {{convert|351|mm|in|sp=us}} thick. The vessel contained 737 watertight compartments (574 underneath the armor deck, 163 above) to preserve buoyancy in the event of battle damage.&lt;ref&gt;Skulski, pp. 16, 101, 163&lt;/ref&gt;
+
+During her first reconstruction ''Fusō''{{'}}s armor was substantially upgraded. The deck armor was increased to a maximum thickness of {{convert|114|mm|in|abbr=on|1}}. A longitudinal [[bulkhead (partition)|bulkhead]] of {{convert|76|mm|in|abbr=on}} of high-tensile steel was added to improve underwater protection.&lt;ref&gt;Skulski, pp. 16, 101&lt;/ref&gt;
+
+===Aircraft===
+''Fusō'' was briefly fitted with an aircraft [[flight deck|flying-off platform]] on Turret No. 2 in 1924. During the first phase of her first modernization, a [[aircraft catapult|catapult]] was fitted on the roof of Turret No. 3 and the ship was equipped to operate three [[floatplane]]s, although no [[hangar]] was provided. The initial [[Nakajima E4N|Nakajima E4N2]] biplanes were replaced by [[Nakajima E8N|Nakajima E8N2]] biplanes in 1938. ''Fusō''{{'}}s ability to operate her aircraft was greatly improved during the second phase of her second modernization in 1940–41 when the aircraft handling equipment was moved to the stern and a new catapult was installed. [[Mitsubishi F1M]] biplanes replaced the E8Ns from 1942 on.&lt;ref&gt;Skulski, pp. 25–26&lt;/ref&gt;
+
+===Fire control and sensors===
+When completed in 1915, ''Fusō'' had two {{convert|3.5|m|ftin|adj=on|sp=us}} and two {{convert|1.5|m|ftin|adj=on|sp=us}} [[rangefinder]]s in her forward superstructure, a {{convert|4.5|m|ftin|adj=on|sp=us}} rangefinder on the roof of Turret No. 2, and 4.5-meter rangefinders in Turrets 3, 4, and 5. In late 1917 a [[fire-control director]] was installed on a platform on the [[foremast]]. The 4.5-meter rangefinders were replaced by {{convert|8|m|ftin|adj=on|sp=us}} instruments in 1923. During the ship's first modernization, four directors for the 12.7&amp;nbsp;mm AA guns were added, one each on each side of the fore and aft superstructures, and an eight-meter rangefinder was installed at the top of the pagoda mast. This was replaced by a {{convert|10|m|ftin|adj=on|sp=us}} rangefinder during 1938. At this same time, the two 3.5-meter rangefinders on the forward superstructure were replaced by directors for the 25&amp;nbsp;mm AA guns. Additional 25&amp;nbsp;mm directors were installed on platforms on each side of the funnel.&lt;ref&gt;Skulski, pp. 28–29, 82, 84&lt;/ref&gt;
+
+While in [[drydock]] in July 1943, [[List of Japanese World War II radar#Shipborne Radar|Type 21]] air search [[radar]] was installed on the roof of the 10-meter rangefinder at the top of the pagoda mast. In August 1944, two Type 22 surface search radar units were installed on the pagoda mast and two Type 13 [[early warning radar]] units were fitted on the funnel. ''Fusō'' was the only Japanese battleship to mount radar on her funnel.&lt;ref&gt;Skulski, p. 26&lt;/ref&gt;
+
+==Construction and service==
+[[File:Fuso Yokohama.jpg|thumb|left|''Fusō'' at anchor in [[Yokohama]], 3 February 1928]]
+[[File:Fuso Mitajiri.jpg|thumb|left|Battleship ''Fusō'' off Mitajiri, 1928. In the background are ''Nagato'' and ''Mutsu''.]]
+Given a [[Names of Japan#Classical flowery names|classical name for Japan]],&lt;ref&gt;Silverstone, p. 328&lt;/ref&gt; ''Fusō'' was [[Keel|laid down]] at the [[Kure Naval Arsenal]] on 11 March 1912 and [[Ship naming and launching|launched]] on 28 March 1914. She was [[Ship commissioning|commissioned]] on 8 November 1915 and assigned to the 1st Division, &lt;ref group=Note&gt;Skulski and Preston use Squadron while Hackett uses BatDiv, presumably Battleship Division.&lt;/ref&gt; of the [[1st Fleet (Imperial Japanese Navy)|1st Fleet]] on 13 December.&lt;ref name=s12&gt;Skulski, p. 12&lt;/ref&gt; under the command of Captain [[Kōzō Satō]].&lt;ref&gt;{{cite web|last=Nishida|first=Hiroshi|url= http://homepage2.nifty.com/nishidah/e/px18.htm#v002 |title=Sato, Kozo, Vice admiral (Naval Academy 18th)|work=Imperial Japanese Navy|accessdate= }}&lt;/ref&gt;&lt;ref name=&quot;Combined&quot;&gt;{{cite web | last = Parshall | first = Jon |author2=Bob Hackett |author3=Sander Kingsepp |author4=Allyn Nevitt  | url = http://www.combinedfleet.com/Fuso.htm |title=''Fuso'' Tabular record of movements | work = Imperial Japanese Navy Page |publisher=Combinedfleet.com | accessdate =}}&lt;/ref&gt; The ship did not take part in any combat during World War I, as there were no longer any forces of the [[Central Powers]] in Asia by the time she was completed; she patrolled off the coast of China during that time. The ship served as the flagship of the 1st Division during 1917 and 1918.&lt;ref&gt;Preston, p. 199&lt;/ref&gt; During the ship's period in reserve in 1918, five 76.2&amp;nbsp;mm anti-aircraft guns were installed. She aided survivors of the Great Kantō earthquake between 9 and 22 September 1923. [[Captain (naval)|Captain]] [[Mitsumasa Yonai]] assumed command on 1 July 1924 and was relieved on 1 November by Captain [[Sankichi Takahashi]]&lt;ref&gt;{{cite web|last=Nishida|first=Hiroshi|url= http://homepage2.nifty.com/nishidah/e/px29.htm#a001 |title=Takahashi, Sankichi, Admiral (Naval Academy 29th)|work=Imperial Japanese Navy|accessdate= }}&lt;/ref&gt;&lt;ref&gt;Skulski, pp. 12&lt;/ref&gt; In the 1920s, ''Fusō'' conducted training off the coast of China and was often placed in reserve.&lt;ref&gt;Skulski, pp. 12, 28&lt;/ref&gt;
+
+The first phase of the ship's first modernization began on 12 April 1930 at the [[Yokosuka Naval Arsenal]]; machinery was replaced, armor was reinforced, and torpedo bulges were fitted. ''Fusō'' arrived on 26 September 1932 at Kure Naval Arsenal, where her armament was upgraded and her torpedo tubes were removed. Her sea trials began on 12 May 1933, and the second phase of her modernization began less than a year later. The ship's stern was lengthened and work was completed in March 1935. Captain [[Jinichi Kusaka]]&lt;ref&gt;{{cite web|last=Nishida|first=Hiroshi|url= http://homepage2.nifty.com/nishidah/e/px37.htm#v008|title=Kusaka Jinchi, Vice admiral (Naval Academy 37th)|work=Imperial Japanese Navy|accessdate= }}&lt;/ref&gt;&lt;ref name=&quot;Skulski, pp. 13&quot;&gt;Skulski, pp. 13&lt;/ref&gt; was assigned command from November 1935 to December 1936. After sporadic use for training for the next two years, ''Fusō'' was assigned as a training ship in 1936 and 1937.&lt;ref&gt;Skulski, pp. 12–13, 29&lt;/ref&gt;
+
+''Fusō'' began the first phase of her second modernization on 26 February 1937, and Captain [[Hiroaki Abe]] assumed command on 1 December. He was relieved by Captain [[Ruitaro Fujita]] on 1 April 1938, the day after this phase of her modernization was completed. The ship was again assigned to the 1st Division of the 1st Fleet on 15 November. She briefly operated in Chinese waters in early 1939 before the second phase of her second modernization began on 12 December 1940. This was completed on 10 April 1941, and ''Fusō'' was assigned to the 2nd Division of the 1st Fleet.&lt;ref&gt;Skulski, pp. 13, 29&lt;/ref&gt; Captain [[Mitsuo Kinoshita]] assumed command on 15 September, when the division consisted of the two ''Fusō''-class and the two {{sclass-|Ise|battleship}}s.&lt;ref name=ha&gt;Hackett&lt;/ref&gt;
+
+===World War II===
+[[File:Fuso flooding test.jpg|thumb|''Fuso'' listing to port during an onboard flooding/drainage test at Kure, April 20, 1941.]]
+[[File:Japanese battleships Yamashiro, Fuso and Haruna.jpg|thumb|left|''Fusō'' (middle), with {{Ship|Japanese battleship|Yamashiro||2}} (foreground) and {{Ship|Japanese battleship|Haruna||2}} (more distant), [[Tokyo Bay]], 1930s]]
+
+On 10 April 1941, ''Fusō'' was attached to the 2nd Division of the 1st Fleet.&lt;ref&gt;Skulski, p. 13&lt;/ref&gt; When the war started for Japan on 8 December,&lt;ref group=Note&gt;[[Japan Standard Time]] is 19 hours ahead of [[Hawaiian Standard Time]], so in Japan, the [[attack on Pearl Harbor]] happened on 8 December.&lt;/ref&gt; the division, reinforced by the battleships {{ship|Japanese battleship|Nagato||2}} and {{ship|Japanese battleship|Mutsu||2}} and the light carrier {{ship|Japanese aircraft carrier|Hōshō||2}}, [[sortie]]d from [[Hashirajima]] to the [[Bonin Islands]] as distant support for the [[1st Air Fleet (Imperial Japanese Navy)|1st Air Fleet]] attacking [[Pearl Harbor]], and returned six days later. On 21 February 1942, the ship returned to the shipyard at Kure to replace her gun barrels, departing on 25 February. Together with the rest of the 2nd Battleship Division, she pursued but did not catch the American carrier force that had launched the [[Doolittle Raid]] on 18 April 1942.&lt;ref name=ha/&gt;
+
+''Fusō'' and the rest of the 2nd Battleship Division set sail on 28 May 1942 with the Aleutian Support Group at the same time that most of the Imperial Fleet began an attack on [[Midway Island]] ([[Operation MI]]).&lt;ref&gt;Rohwer, pp. 168–69&lt;/ref&gt;&lt;ref&gt;Parshall &amp; Tully, p. 454&lt;/ref&gt; Commanded by Vice-Admiral [[Shirō Takasu]], the division was composed of Japan's four oldest battleships, including ''Fusō'', accompanied by two [[light cruiser]]s, 12 [[destroyer]]s, and two [[oiler (ship)|oiler]]s. Official records do not show the division as part of the larger Midway operation, known as [[Operation AL]]; they were to accompany the fleet under Admiral [[Isoroku Yamamoto]], but were only to provide support to the Aleutian task force if needed.&lt;ref&gt;Parshall &amp; Tully, p. 46&lt;/ref&gt;
+
+[[File:Fuso1944-nowatermark.png|thumb|left|Line drawing of ''Fuso'' as she appeared in 1944]]
+On 14 June, ''Fusō'' returned to Yokosuka and arrived back at Hashirajima on 24 June. In an effort to replace the aircraft carriers lost at the Battle of Midway, the navy made plans to convert the two ''Fusō''-class ships to hybrid battleship-carriers, but the two Ise-class battleships were chosen instead. The ship was assigned to the [[Imperial Japanese Naval Academy]] at [[Etajima, Hiroshima]], for use as a training ship between 15 November 1942 and 15 January 1943. Captain [[Keizō Komura]] assumed command on 5 December, and was relieved by Captain [[Nobumichi Tsuruoka]]&lt;ref name=&quot;Skulski, pp. 13&quot;/&gt;&lt;ref&gt;{{cite web|last=Nishida|first=Hiroshi|url= http://homepage2.nifty.com/nishidah/e/px43.htm#r027|title=Tsuruoka, Nobukichi, Rear admiral (Naval Academy 43rd)|work=Imperial Japanese Navy|accessdate= }}&lt;/ref&gt; on 1 June the next year. Seven days later, ''Fusō'' rescued 353 survivors from ''Mutsu'' when that ship exploded at Hashirajima.&lt;ref name=ha/&gt;
+
+Between 18 and 24 July 1943, the ship was at the Kure drydock for fitting of radar and additional 25&amp;nbsp;mm AA guns. ''Fusō'' sailed from the [[Seto Inland Sea|Inland Sea]] on 18 August for [[Chuuk Lagoon|Truk]] Naval Base, carrying supplies, and arrived five days later. The Japanese had intercepted American radio traffic that suggested an attack on [[Wake Island]], and on 17 October,  ''Fusō'' and the bulk of the 1st Fleet sailed for [[Eniwetok]] to be in a position to intercept any such attack. The fleet arrived on the 19th, departed four days later, and arrived back at Truk on 26 October.&lt;ref name=ha/&gt;
+
+On 1 February 1944, ''Fusō'' departed Truk with ''Nagato'' to avoid an American air raid, and arrived at Palau on 4 February. They left on 16 February to escape another air raid. The ships arrived on 21 February at [[Lingga Island]], and ''Fusō'' was employed there as a training ship.&lt;ref&gt;Skulski, p. 14&lt;/ref&gt; A week later, Captain [[Masami Ban]] relieved Tsuruoka. The ship was refitted at Singapore between 13 and 27 April, and returned to Lingga. She was transferred to [[Tawi-Tawi]] on 11 May&lt;ref name=ha/&gt; and provided cover for the convoy that failed to [[Battle of Biak|reinforce Biak Island]] at the end of the month.&lt;ref name=&quot;stille23&quot;/&gt;&lt;ref&gt;Rohwer, p. 325&lt;/ref&gt; ''Fusō'' transferred to [[Tarakan Island]] off [[Borneo]] to refuel in early July before returning to Japan and escaping an attack by the submarine {{USS|Pomfret|SS-391|2}}. In early August at Kure, she was refitted with additional radars and light AA guns. ''Fusō'' and her sister ship were transferred to Battleship Division 2 of the [[2nd Fleet (Imperial Japanese Navy)|2nd Fleet]] on 10 September, and ''Fusō'' became the flagship of the division under the command of Vice-Admiral [[Shōji Nishimura]] on 23 September. They departed Kure on 23 September for Lingga, escaping an attack by the submarine {{USS|Plaice|SS-390|2}} the next day, and arrived on 4 October, where Nishimura transferred his flag to ''Yamashiro''. The ships then transferred to Brunei to refuel in preparation for Operation ''Shō-Gō'', the attempt to destroy the American fleet conducting the [[invasion of Luzon]].&lt;ref name=ha/&gt;
+
+====Battle of Surigao Strait====
+[[File:Fuso Surigao Strait.jpg|thumb|''Fuso'' and ''Mogami'' under air attack during the Battle of Surigao Strait]]
+[[File:Surigao straight.jpg|left|thumb|250px|The Battle of Surigao Strait]]
+
+Commanded by Rear Admiral Masami Ban, ''Fusō'' left [[Brunei]] at 15:30 on 22 October 1944 as part of Nishimura's Southern Force, heading east into the [[Sulu Sea]] and then northeast into the [[Mindanao Sea]]. Intending to join Vice-Admiral [[Takeo Kurita]]'s force in [[Leyte Gulf]], the force passed west of [[Mindanao Island]] into Surigao Strait, where it met a large force of battleships and cruisers lying in wait. The [[Battle of Surigao Strait]] became the southernmost action in the Battle of Leyte Gulf.&lt;ref&gt;Tully, pp. xi, 43, 56&lt;/ref&gt;
+
+At 09:08 on 24 October, ''Fusō'', ''Yamashiro'', and the [[heavy cruiser]] [[Japanese cruiser Mogami (1934)|''Mogami'']] spotted a group of  27 planes, including [[Grumman TBF Avenger]] [[torpedo bomber]]s and [[Curtiss SB2C Helldiver]] [[dive bomber]]s escorted by [[Grumman F6F Hellcat]] [[fighter (aircraft)|fighter]]s from the carrier {{USS|Enterprise|CV-6|2}}. A bomb from one of them destroyed the catapult and both floatplanes. Another bomb hit the ship near Turret No. 2 and penetrated the decks, killing everyone in No. 1 secondary battery; the ship began to [[list (watercraft)|list]] 2 degrees to starboard. Early the next morning, ''Fusō'' opened fire around 01:05 after a shape was spotted off the port bow; it turned out to be ''Mogami''; ''Fusō''{{'}}s fire killed three sailors in that ship's [[sick bay]].&lt;ref&gt;Tully, pp. 66, 120&lt;/ref&gt;
+
+One or two torpedoes, possibly fired by the destroyer {{USS|Melvin|DD-680|2}}, hit ''Fusō'' [[amidships]] on the starboard side at 03:09 on the 25th; she listed to starboard, slowed down, and fell out of formation.&lt;ref&gt;Tully, p. 152&lt;/ref&gt; Some Japanese and American eyewitnesses later claimed that ''Fusō'' broke in half, and that both halves remained afloat and burning for an hour, but they specifically mentioned only the size of the fire on the water, and not any details of the ship.&lt;ref&gt;Tully, pp. 275–77&lt;/ref&gt; Historian [[John Toland (author)|John Toland]] agreed in 1970 that ''Fusō'' had broken in two,&lt;ref&gt;Toland, pp. 697–98&lt;/ref&gt; but according to historian Anthony Tully in 2009:&lt;ref&gt;Tully, p. 179&lt;/ref&gt;
+
+{{blockquote|[Survivors' accounts] and the {{USS|Hutchins|DD-476|6}} report are describing a sinking and event at odds with the conventional record—one that seems far removed from the spectacle of the invariably alleged huge magazine explosion and blossom of light at 0338 that supposedly blew the battleship in half! ... ''Fuso'' was torpedoed, and as a result of progressive flooding, upended and capsized within forty minutes.}}
+
+''Fusō'' sank between 03:38 and 03:50; only a few dozen men survived the rapid foundering and oil fire. There is evidence that some of these were rescued by the destroyer {{ship|Japanese destroyer|Asagumo|1938|2}}, which was itself sunk a short time later; it is also possible that some who escaped the sinking reached Leyte only to be killed by Filipinos, as is known to have happened to survivors from other Japanese warships sunk in the Battle of Surigao Strait. Ten crew members are known to have survived, all of whom returned to Japan.&lt;ref&gt;Tully, pp. 178, 179, 261&lt;/ref&gt; The total number of casualties is estimated at 1,620 sailors.&lt;ref name=Combined/&gt; ''Fusō'' was removed from the [[navy list]] on 31 August 1945.&lt;ref name=ha/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{Reflist|15em}}
+
+==References==
+*{{cite book|last=Campbell|first=John|title=Naval Weapons of World War II|year=1985|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-459-4}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+*{{cite book |editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis, Maryland|publisher=Naval Institute Press|isbn=0-85177-245-5}}
+*{{cite web|url=http://www.combinedfleet.com/Fuso.html|title=IJN FUSO: Tabular Record of Movement|last=Hackett|first=Bob|year=2003|publisher=Combinedfleet.com|accessdate=16 February 2013}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869–1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn =0-87021-893-X}}
+*{{cite book |author1=Parshall, Jonathan |author2=Tully, Anthony |title=Shattered Sword: The Untold Story of the Battle of Midway |publisher=Potomac Books Inc |location=Washington, DC |year=2007 |pages= |isbn=1-57488-924-9 }}
+*{{cite book|last=Preston|first=Antony|title=Battleships of World War I: An Illustrated Encyclopedia of the Battleships of All Nations 1914–1918|publisher=Galahad Books|location=New York|year=1972|isbn=0-88365-300-1}}
+*{{cite book |author=Rohwer, Jurgen |title=Chronology of the War at Sea, 1939–1945: The Naval History of World War Two |publisher=US Naval Institute Press |location=Annapolis, Maryland |year=2005 |isbn=1-59114-119-2 }}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Skulski|first=Janusz|title=The Battleship Fuso|year=1998|series=Anatomy of the Ship|publisher=Conway Maritime Press|location=London|isbn=0-85177-665-5}}
+*{{cite book |last=Stille |first=Mark |title=Imperial Japanese Navy Battleships 1941–45| series =New Vanguard|volume=146 |publisher=Osprey Publishing |location=Botley, Oxford, UK |year=2008 |isbn=1-84603-280-6 }}
+*{{cite book|last=Toland |first=John | authorlink=John Toland (author) |title=[[The Rising Sun]]|location=New York |publisher=Random House |year=1970 |oclc=944111 }}
+*{{cite book|title=Battle of Surigao Strait |last=Tully|first=Anthony P. |publisher=Indiana University Press|location=Bloomington, Indiana |year=2009 |isbn=978-0-253-35242-2}}
+
+==External links==
+{{Commons category|Fuso (ship, 1915)|''Fusō''}}
+{{Portal|Battleships}}
+* [http://www.combinedfleet.com/atully06.htm Anthony Tully, &quot;Shell Game at Surigao: The entangled fates of battleships Fuso and Yamashiro&quot;, 1999]
+{{Fusō class battleship}}
+
+{{DEFAULTSORT:Fuso}}
+[[Category:Fusō-class battleships]]
+[[Category:Shipwrecks in the Surigao Strait]]
+[[Category:World War I battleships of Japan]]
+[[Category:World War II battleships of Japan]]
+[[Category:World War II shipwrecks in the Pacific Ocean]]
+[[Category:1914 ships]]
+[[Category:Maritime incidents in October 1944]]</text>
+      <sha1>0ny4ayr9xa0bos59plo0fb3p5zuivck</sha1>
+    </revision>
+  </page>
+</mediawiki>

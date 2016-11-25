@@ -1,0 +1,326 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Kempenfelt (I18)</title>
+    <ns>0</ns>
+    <id>15872822</id>
+    <revision>
+      <id>745518034</id>
+      <parentid>745039693</parentid>
+      <timestamp>2016-10-21T16:02:51Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>/* External links */ added template</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22824">{{other ships|HMS Kempenfelt|HMCS Assiniboine}}
+{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:HMS Kempenfelt (I18).jpg|300px]]
+|Ship caption=HMS ''Kempenfelt'' in August 1933
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship class=[[C and D-class destroyer|C-class]] [[destroyer]]
+|Ship name=''Kempenfelt''
+|Ship namesake=Rear Admiral [[Richard Kempenfelt]]
+|Ship ordered=
+|Ship awarded=15 July 1930
+|Ship builder=[[J. Samuel White]], [[Cowes]]
+|Ship laid down=18 October 1930
+|Ship launched=29 October 1931
+|Ship christened=
+|Ship completed=30 May 1932
+|Ship commissioned=
+|Ship fate=Transferred to [[Royal Canadian Navy]], 19 October 1939
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Canada
+|Ship flag= {{shipboxflag|Canada|naval-1911}}
+|Ship class=[[Canadian River-class destroyer|River-class destroyer]]
+|Ship name=''Assiniboine''
+|Ship namesake=[[Assiniboine River]]
+|Ship acquired=
+|Ship commissioned=19 October 1939
+|Ship decommissioned=8 August 1945
+|Ship fate=*Sold for scrapping but wrecked en route to breakers on 10 November 1945
+*Wreck broken up in situ in 1952
+|Ship motto=''Fideliter'' (Latin:&amp;nbsp;“Faithfully”)
+|Ship nickname=&quot;Bones&quot;
+|Ship honours=Atlantic 1939-45, Biscay 1944, English Channel 1944-45&lt;ref name=Britain&gt;{{cite web|title= Battle Honours | url=http://www.britainsnavy.co.uk/Battle%20Honours/A%20Battle%20Honour%20Date.htm#1900|work=Britain's Navy|accessdate=18 Sep 2013}}&lt;/ref&gt;
+
+|Ship notes=
+|Ship badge=Badge: On a field Black a Sword proper between two wings greenover two wavelets Silver and Blue.
+}}
+{{Infobox ship characteristics
+|Ship displacement=*{{convert|1390|LT|t|abbr=on}} (standard)
+*{{convert|1901|LT|t|abbr=on}} (deep)
+|Ship length={{convert|329|ft|m|1|abbr=on}} [[Length overall|o/a]]
+|Ship beam={{convert|33|ft|m|1|abbr=on}}
+|Ship draught={{convert|12|ft|6|in|m|1|abbr=on}}
+|Ship power={{convert|36000|shp|kW|lk=in|abbr=on}}
+|Ship propulsion=*2 × shafts
+*2 × [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s
+*3 × [[Yarrow Shipbuilders|Yarrow]] [[water-tube boiler]]s
+|Ship speed={{convert|36|kn|lk=in}}
+|Ship range={{convert|5500|nmi|lk=in|abbr=on}} at {{convert|15|kn}}
+|Ship complement=145
+|Ship sensors= 
+|Ship armament=*4 × 1 - [[4.7 inch QF Mark XII|QF 4.7-inch Mark IX gun]]s
+*1 × 1 - [[QF 3 inch 20 cwt|QF 3-inch 20 cwt]] [[Anti-aircraft warfare|anti-aircraft]] gun
+*2 × 1 - [[QF 2 pounder naval gun|QF 2-pounder Mk II]] AA guns
+*2 × 4 - 21-inch (533&amp;nbsp;mm) [[torpedo tube]]s
+*6 × [[depth charge]]s, 3 chutes
+}}
+|}
+
+'''HMS ''Kempenfelt''''' was a [[C and D-class destroyer|C-class]] [[destroyer]] built for the [[Royal Navy]] in the early 1930s.  A [[flotilla leader]], she saw service in the [[Home Fleet]] before [[World War II]] and the ship made several deployments to Spanish waters during the [[Spanish Civil War]], enforcing the arms blockade imposed by Britain and France on both sides of the conflict. ''Kempenfelt'' was transferred to the [[Royal Canadian Navy]] (RCN) in 1939 and renamed HMCS ''Assiniboine''. During [[World War II]], she served as a convoy escort in the [[battle of the Atlantic]], sinking one German submarine by [[ramming]], on anti-submarine patrols during the [[invasion of Normandy]], and was employed as a troop transport after [[Victory in Europe Day|VE Day]] for returning Canadian servicemen, before being decommissioned in mid-1945. ''Assiniboine'' was sold for [[ship breaking|scrap]] in 1945, but she ran aground while being towed to the breakers and was not broken up until 1952.
+
+==Design and construction==
+''Kempenfelt'' displaced {{convert|1390|LT|t}} at [[Displacement (ship)|standard]] load and {{convert|1901|LT|t}} at [[deep load]]. The ship had an [[length overall|overall length]] of {{convert|329|ft|m|1}}, a [[beam (nautical)|beam]] of {{convert|33|ft|m|1}} and a [[draft (hull)|draught]] of {{convert|12|ft|6|in|m|1}}. She was powered by [[Parsons Marine Steam Turbine Company|Parsons]] geared [[steam turbine]]s, driving two shafts, which developed a total of {{convert|36000|shp|lk=in}} and gave a maximum speed of {{convert|36|kn|lk=in}}. Steam for the turbines was provided by three [[Yarrow Shipbuilders|Yarrow]] [[water-tube boiler]]s. ''Kempenfelt'' carried a maximum of {{convert|473|LT|t}} of [[fuel oil]] that gave her a range of {{convert|5500|nmi|lk=in}} at {{convert|15|kn}}. The ship's complement was 175 officers and men.&lt;ref name=w78&gt;Whitley, p. 27&lt;/ref&gt;
+
+[[File:QF 2 pounder HMCS Assiniboine a104060-v6.jpg|thumb|left|Unidentified personnel firing a two-pounder anti-aircraft gun aboard ''Assiniboine'', which is escorting a troop convoy from Halifax to Britain, 10 July 1940.]]
+The ship mounted four 45-[[caliber (artillery)|calibre]] [[4.7 inch QF Mark XII|4.7-inch Mark IX guns]] in single mounts, designated 'A', 'B', 'X', and 'Y' from front to rear. For [[Anti-aircraft warfare|anti-aircraft]] (AA) defence, ''Kempenfelt'' had a single [[QF 3 inch 20 cwt|QF 3-inch 20 cwt]]&lt;ref group=Note&gt;&quot;cwt&quot; is the abbreviation for [[hundredweight]], 30 cwt referring to the weight of the gun.&lt;/ref&gt; AA gun between her [[funnel (ship)|funnel]]s, and two {{convert|40|mm|adj=on|1}} [[QF 2 pounder naval gun|QF 2-pounder Mk II]] AA guns mounted on the aft end of her [[forecastle]] deck. The {{convert|3|in|adj=on}} AA gun was removed in 1936 and the 2-pounders were relocated to between the funnels. She was fitted with two above-water quadruple [[torpedo tube]] mounts for [[British 21 inch torpedo|21-inch torpedoes]].&lt;ref&gt;Lenton, p. 154&lt;/ref&gt; Three depth-charge chutes were fitted, each with a capacity of two [[depth charge]]s. After World War II began this was increased to 33 depth charges, delivered by one or two rails and two throwers.&lt;ref&gt;Friedman, pp. 209, 236, 298–99&lt;/ref&gt;
+
+[[File:HMCS Assiniboine IKMD-03388.jpg|thumb|left|Late-war picture of ''Assiniboine''. Note the Type 271 radar above the bridge, the Hedgehog mortar shells to the right of 'A' gun and the 20&amp;nbsp;Oerlikon mount on the bridge wing.]]
+The changes made to ''Assiniboine''{{'}}s armament during the war (dates can only be roughly assigned) were first the replacement of the ship's rear torpedo tube mount by a 12-pounder AA gun and the 2-pounders were exchanged for quadruple Mark I mounts for the [[Vickers .50 machine gun|QF 0.5-inch Vickers Mk III]] [[machine gun]]. Later, 'Y' gun was also removed to allow her depth charge stowage to be increased to at least 60 depth charges. 'X' gun was later removed and the 12-pounder was resited in its place to further increased her depth charge capacity. Later changes included fitting a split [[Hedgehog (weapon)|Hedgehog]] anti-submarine [[spigot mortar]] on each side of 'A' gun, exchanging her two quadruple .50-calibre Vickers machine guns mounted between her funnels for two Oerlikon 20&amp;nbsp;mm AA guns, and the addition of two Oerlikon guns to her [[searchlight]] platform. The ship's [[List of British ordnance terms#DCT|director-control tower]] and [[rangefinder]] above the [[bridge (nautical)|bridge]] were removed in exchange for a [[Type 271 radar|Type 271]] target indication [[radar]]. A [[Type 286 radar|Type 286]] short-range surface search radar was also added as was an [[High frequency direction finding|HF/DF]] [[radio direction finder]] on a short [[mainmast]].&lt;ref&gt;Lenton, pp. 154–55&lt;/ref&gt;
+
+The ship was ordered on 15 July 1930 from [[J. Samuel White]] at [[Cowes]] under the 1929 Programme. ''Kempenfelt'' was [[Keel|laid down]] on 18 October 1930, [[Ship naming and launching|launched]] on 30 September 1931,&lt;ref name=e45&gt;English, p. 45&lt;/ref&gt; as the 2nd ship to carry the name,&lt;ref&gt;Colledge, p. 184&lt;/ref&gt; and completed on 30 May 1932.&lt;ref name=e45/&gt; Built as a flotilla leader, she displaced 15 long tons more than the rest of her class and carried an extra 30 personnel. These personnel formed the staff of the Captain (D) of the flotilla.&lt;ref name=w78/&gt;
+
+==Service==
+''Kempenfelt'' was assigned to the [[2nd Destroyer Flotilla]], of the Home Fleet, after her commissioning.&lt;ref name=e45/&gt; The ship briefly mounted an experimental {{convert|5.1|in|adj=on}} gun on 'B' mount for evaluation purposes during this time; it was replaced by the standard 4.7-inch gun.&lt;ref&gt;Friedman, p. 215&lt;/ref&gt; She was based at [[Rosyth]] for most of the rest of 1932, but visited the Mediterranean between January and March 1933 before returning home. The ship was given a refit at [[HMNB Devonport|Devonport]] that ended in January 1934. Shortly afterwards, ''Kempenfelt'' participated in the Home Fleet's tour of the [[West Indies]] that ended in March. The ship visited various Scandinavian ports during the remainder of the year.&lt;ref name=e45/&gt; She participated in [[King George V]]'s [[Silver Jubilee]] [[Fleet review (Commonwealth realms)|Fleet Review]] at [[Spithead]] on 16 July 1935.&lt;ref&gt;{{cite news|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;cl=search&amp;d=EP19350516.2.60&amp;srpos=8&amp;e=-------10--1----0Kempenfelt--|title=Spithead Review|date=16 May 1935|publisher=Wellington Evening Post|accessdate=29 August 2011}}&lt;/ref&gt; Following the [[Second Italo-Abyssinian War|Italian invasion of Abyssinia]], ''Kempenfelt'' was sent in August to the [[Red Sea]] with the other ships of the 2nd Flotilla to monitor Italian warship movements until April 1936. She was given a brief refit at Devonport that lasted until June upon her return to the UK. During the first stages of the [[Spanish Civil War]] in late 1936, the ship evacuated British nationals from several different Spanish ports.&lt;ref name=e6&gt;English, p. 46&lt;/ref&gt;
+
+In December, ''Kempenfelt'' began a more thorough refit at Devonport that lasted until 10 April 1937 and returned to Spanish waters afterwards to intercept shipping carrying contraband goods to Spain and to protect British-flagged ships.&lt;ref name=e6/&gt; On 6 March, the ship and the destroyer {{HMS|Boreas|H77|2}}, rescued survivors from the [[National faction (Spanish Civil War)|Nationalist]] [[heavy cruiser]] {{ship|Spanish cruiser|Baleares||2}} after she had been sunk by [[Spanish Republican|Republican]] destroyers during the [[Battle of Cape Palos]].&lt;ref&gt;{{cite news|url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;cl=search&amp;d=EP19380307.2.63&amp;srpos=4&amp;e=-------10--1----0Kempenfelt--|title=Reported Sunk|date=7 March 1936|publisher=Wellington Evening Post|accessdate=29 August 2011}}&lt;/ref&gt; She was refitted at [[Chatham Dockyard|Chatham]] in May–June 1938 and made a number of port visits in Scandinavia the following month. ''Kempenfelt'' was transferred to the Portsmouth Local Flotilla and remained there until the war began in September 1939.&lt;ref name=e6/&gt;
+
+===Wartime service and transfer===
+The ship was transferred to the [[18th Destroyer Flotilla]], based at the Isle of Portland, where she escorted shipping and conducted anti-submarine patrols.&lt;ref name=e6/&gt; ''Kempenfelt'' had been purchased before the war began by the Canadian government, but it agreed to allow the British to retain her until the Royal Navy could compensate for her loss by requisitioning enough auxiliary anti-submarine vessels. By the time that the British were ready to turn her over to the RCN, the ship was under repair after a collision and the hand over was delayed until 19 October. She was renamed ''Assiniboine'' and arrived at [[City of Halifax|Halifax]], [[Nova Scotia]] on 17 November. The ship had not yet been fitting with the steam heating necessary to operate in a Canadian winter and she was transferred to the Caribbean in exchange for the destroyer {{HMCS|Saguenay|D79|6}}. ''Assiniboine'' arrived at [[Kingston, Jamaica]] on 8 December.&lt;ref&gt;Douglas, p. 65&lt;/ref&gt;
+
+Assigned to the [[North America and West Indies Station]], the highlight of the ship's service in the Caribbean was the capture of the German [[blockade runner]] {{MV|Hannover||6}} in the [[Mona Passage]] between the islands of [[Hispaniola]] and [[Puerto Rico]] on the night of 8/9 March 1940. Initially intercepted by the light cruiser {{HMS|Dunedin||2}}, the crew of ''Hannover'' disabled their steering gear and set the ship on fire. ''Assiniboine'' took the burning ship under tow to prevent her from entering the waters of the neutral [[Dominican Republic]] while the cruiser sprayed water on the fire. The two ships swapped roles in the morning and the destroyer put some of her crew aboard ''Hannover'' to help ''Dunedin''{{'}}s [[boarding party]] fight the fire while the cruiser towed the freighter to Kingston. ''Assiniboine'' arrived in Halifax on 31 March for a refit.&lt;ref&gt;Douglas, pp. 70–71&lt;/ref&gt;
+
+After the completion of her refit, the ship escorted local convoys in and around Halifax until 15 January 1941 when she was transferred to [[Greenock]] and assigned to the 10th [[Escort Group (naval)|Escort Group]] of the [[Mid-Ocean Escort Force]] that was based there. ''Assiniboine'' rescued survivors from {{SS|Anchises}} on 28 February and was damaged in a collision with {{MV|Lairdswood}} on 5 April. Her repairs were not completed until 22 May and she was transferred to [[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]] in June to reinforce escort forces in the Western Atlantic.&lt;ref name=e6/&gt; In early August, ''Assiniboine'', her [[sister ship|sister]] {{HMCS|Restigouche|H00|2}} and the ex-American destroyer {{HMS|Ripley|G79|6}}, escorted the [[battleship]] {{HMS|Prince of Wales|53|2}} to [[Placentia Bay]] where Prime Minister [[Winston Churchill]] met President [[Franklin Roosevelt]] for the first time.&lt;ref&gt;Rohwer, p. 90&lt;/ref&gt;
+
+[[File:U-210 PA-037443.jpg|thumb|right|''U-210'' photographed from ''Assiniboine''{{'}}s deck, 6 August 1942]]
+Whilst escorting [[Convoy SC 94]] in early August 1942 as part of Escort Group C1, ''Assiniboine''{{'}}s Type 286 radar spotted {{GS|U-210||2}} in a heavy fog on 6 August. The destroyer closed on the contact and briefly spotted the submarine twice before losing her in the fog. The submarine reappeared crossing the destroyer's bow at a range of {{convert|50|yd}}, and both ships opened fire. The range was too close for ''Assiniboine''{{'}}s 4.7-inch guns to engage, but her .50-calibre machine guns shot up the submarine's deck and [[conning tower]]. This kept the Germans from manning their {{convert|88|mm|adj=on}} [[deck gun]], but the {{convert|20|mm|adj=on}} flak gun was already manned and firing. The gun punched holes through the destroyer's plating that set some petrol tanks on the deck afire and disabled 'A' gun. It also claimed the only Canadian casualty during the engagement: Ordinary Seaman Kenneth &quot;Wiley&quot; Watson from Revelestoke, BC.  The destroyer was unable to ram ''U-210'' until the rear 4.7-inch gun hit the conning tower, killing the entire bridge crew and the .50-caliber machine guns were able to silence the flak gun. This caused Lieutenant Sorber, the senior surviving officer, to order the submarine to dive, but this meant that she had to hold a straight course while doing so. ''Assiniboine'' was able to take advantage of this and rammed ''U-210'' abaft the conning tower whilst she was diving. This caused the electric motors to fail, damaged her propellers and led to water entering the submarine, as a result of which Sorber ordered the [[ballast tank]]s to be blown and the submarine abandoned. The destroyer rammed her again when ''U-210'' resurfaced, dropped a pattern of depth charges set to detonate at shallow depth and hit her one more time with a 4.7-inch shell before the submarine finally sank.&lt;ref name=d7/&gt; A number of survivors were rescued by ''Assiniboine'' and the British [[corvette]] {{HMS|Dianthus|K95|2}}, before the former ship had to head home for repairs as she was taking on water below the [[waterline]].&lt;ref name=d7&gt;Douglas, pp. 505–07&lt;/ref&gt; She required nearly two months of repairs at Halifax and was assigned to Escort Group C3 when they were completed on 20 December.&lt;ref name=e6/&gt;&lt;ref&gt;Rohwer, p. 222&lt;/ref&gt;
+
+Whilst en route to Londonderry, ''Assiniboine'' dropped a shallow pattern of depth charges on a submarine contact and badly damaged her stern on 2 March 1943. The ship was repaired at Liverpool between 7 March and 13 July and then assigned to Escort Group C1. She continued her escort work until April 1944 when she began a refit at [[Shelburne, Nova Scotia]]. Upon its completion in July, ''Assiniboine'' was assigned to the [[Western Approaches Command]].&lt;ref name=e6/&gt; The following month, the 12th Support Group, including ''Assiniboine'', engaged three German [[minesweeper (ship)|minesweeper]]s on 12 August, without sinking any.&lt;ref&gt;Rohwer, p. 347&lt;/ref&gt; She remained in British waters for the rest of the war; the ship was damaged in a collision with {{SS|Empire Bond}} on 14 February 1945 and was under repair until early March.&lt;ref name=e6/&gt;
+
+''Assiniboine'' returned to Canada in June and was briefly used as a troop transport before a [[boiler room (ship)|boiler room]] fire on 4 July effectively ended her career. She was paid off on 8 August and placed on the disposal list. Whilst on tow to the breakers in [[Baltimore]], she ran aground near [[East Point, Prince Edward Island]]. Attempts to get her off failed, and she was left to rust until eventually being broken up in place in 1952.&lt;ref name=e6/&gt;
+
+===Trans-Atlantic convoys escorted===
+{|class=&quot;wikitable&quot;
+!Convoy
+!Escort Group
+!Dates
+!Notes
+|-
+|[[SC convoys|SC 62]]
+|
+|30 Dec 1941-8 Jan 42&lt;ref name=&quot;scconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/sc/index.html|title=SC convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-19}}&lt;/ref&gt;
+|[[Newfoundland (island)|Newfoundland]] to [[Iceland]]
+|-
+|[[SC convoys|SC 69]]
+|
+|13-23 Feb 1942&lt;ref name=&quot;scconvoy&quot;/&gt;
+|Newfoundland to [[Northern Ireland]]
+|-
+|[[ON convoys|ON 74]]
+|
+|10–20 March 1942&lt;ref name=&quot;onconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/on/index.html|title=ON convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-19}}&lt;/ref&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[SC convoys|SC 77]]
+|
+|3–12 April 1942&lt;ref name=&quot;scconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 88]]
+|
+|22 April-3 May 1942&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 189]]
+|[[Mid-Ocean Escort Force|MOEF group C1]]
+|14–20 May 1942&lt;ref name=&quot;hxconvoy&quot;&gt;{{cite web|url=http://www.convoyweb.org.uk/hx/index.html|title=HX convoys|publisher=Andrew Hague Convoy Database|accessdate=2011-06-19}}&lt;/ref&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 100]]
+|MOEF group C1
+|3–13 June 1942&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 195]]
+|MOEF group C1
+|24 June-1 July 1942&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 112]]
+|MOEF group C1
+|14–25 July 1942&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[Convoy SC 94]]
+|MOEF group C1
+|2-6 Aug 1942&lt;ref name=&quot;scconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[HX convoys|HX 221]]
+|[[Mid-Ocean Escort Force|MOEF group C3]]
+|5-13 Jan 1943&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 163]]
+|MOEF group C3
+|25 Jan-8 Feb 1943&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[ON convoys|ON 195]]
+|
+|1-8 Aug 1943&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 252]]
+|
+|20-27 Aug 1943&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 201]]
+|
+|10-18 Sept 1943&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 258]]
+|
+|28 Sept-5 Oct 1943&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 207]]
+|
+|19-28 Oct 1943&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 264]]
+|
+|6-16 Nov 1943&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 213]]
+|
+|28 Nov-7 Dec 1943&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 270]]
+|
+|15-25 Dec 1943&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 219]]
+|
+|9-20 Jan 1944&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[HX convoys|HX 276]]
+|
+|28 Jan-6 Feb 1944&lt;ref name=&quot;hxconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ON 224]]
+|
+|15-26 Feb 1944&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|-
+|[[SC convoys|SC 154]]
+|
+|2–15 March 1944&lt;ref name=&quot;scconvoy&quot;/&gt;
+|Newfoundland to Northern Ireland
+|-
+|[[ON convoys|ONS 32]]
+|
+|29 March-13 April 1944&lt;ref name=&quot;onconvoy&quot;/&gt;
+|Northern Ireland to Newfoundland
+|}
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{reflist|2}}
+
+==References==
+* {{Colledge}}
+* {{cite book |last1=Douglas |first1=W. A. B.|last2=Sarty |first2=Roger |author3=Michael Whitby |author4=Robert H. Caldwell |author5=William Johnston |author6=William G. P. Rawling |title=No Higher Purpose|series=The Official Operational History of the Royal Canadian Navy in the Second World War, 1939–1943 |volume=2, pt. 1 |year=2002|publisher=Vanwell |location=St. Catharines, Ontario |isbn=978-1-55125-061-8}}
+* {{cite book|last=English|first=John|title=Amazon to Ivanhoe: British Standard Destroyers of the 1930s|year=1993|publisher=World Ship Society|location=Kendal, England|isbn=0-905617-64-9}}
+* {{cite book|last=Friedman|first=Norman|title=British Destroyers From Earliest Days to the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2009|isbn=978-1-59114-081-8}}
+* {{cite book|last=Lenton|first=H. T.|title=British &amp; Commonwealth Warships of the Second World War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1998|isbn=1-55750-048-7}}
+* {{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2}}
+* {{cite book|last=Whitley|first=M. J.|title=Destroyers of World War 2|publisher=Naval Institute Press|year=1988|isbn=0-87021-326-1|location=Annapolis, Maryland}}
+
+==External links==
+* [http://www.navy.gc.ca/project_pride/ships/ship_e.asp?shipNumber=212 HMCS ''Assiniboine'' at The Canadian Navy Heritage Project]
+*[http://www.naval-history.net/xGM-Chrono-10DD-16C-Kempenfelt1AssiniboineRCN.htm HMS ''Kempenfelt''{{'}}s career at NavalHistory.net]
+*[http://uboat.net/allies/warships/ship/6206.html HMS ''Kempenfelt'' at Uboat.net]
+
+{{C and D class destroyer}}
+{{Canadian River class destroyer}}
+{{November 1945 shipwrecks}}
+
+{{DEFAULTSORT:Kempenfelt}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:C and D-class destroyers]]
+[[Category:World War II destroyers of the United Kingdom]]
+[[Category:1931 ships]]
+[[Category:Maritime incidents in November 1945]]
+[[Category:Shipwrecks of the Prince Edward Island coast]]
+
+[[de:HMCS Assiniboine (D18)]]</text>
+      <sha1>9ygex8mhx901qd5247123zg5uf5y2s1</sha1>
+    </revision>
+  </page>
+</mediawiki>

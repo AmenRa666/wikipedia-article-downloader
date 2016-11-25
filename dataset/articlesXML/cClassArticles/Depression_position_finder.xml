@@ -1,0 +1,86 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Depression position finder</title>
+    <ns>0</ns>
+    <id>27268689</id>
+    <revision>
+      <id>708849891</id>
+      <parentid>577511083</parentid>
+      <timestamp>2016-03-07T23:14:46Z</timestamp>
+      <contributor>
+        <username>Hazard-Bot</username>
+        <id>12923076</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Bots|Bot]]: Adding {{Research help|Mil}}; please leave feedback/comments at [[Wikipedia talk:Research help]] #ResHelp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5723">[[Image:DPF_and_Azimuth_Scope.jpg|thumb|left|A DPF (left) and an azimuth scope (right) in use.]]A '''depression position finder''' (DPF) is an observation instrument that was used in the [[Coast Artillery Fire Control System|fire control system]] of the U.S. Coast Artillery to locate targets in range and/or [[azimuth]] as part of the process of directing the fire of a battery of coast defense guns or mortars.  These instruments, which contained telescopes on massive, finely geared mountings, were located variously in [[base end station]]s, DPF bunkers or pillboxes, or built into concrete gun emplacements. To measure range correctly, a DPF instrument had to be configured for the specific site at which it was emplaced, and had to be adjusted during the day for the level of the tide at that site. DPF instruments were used beginning in the 1890s and continuing through WW2.&lt;ref&gt;A description of one of the earliest operational DPF instruments can be found in &quot;The Service of Coast Artillery,&quot; Frank T. Hines and Franklin W. Ward, Goodenough &amp; Woglom Co., New York, 1910, p. 305.&lt;/ref&gt;
+
+==How It Worked==
+
+A depression position finder (DPF) measured the range to a distant target (such as a ship) by solving a right triangle in which the short side was the height the instrument above mean low water, one angle was the constant right angle between the short side and the plane of the  ocean, and the second angle was the depression angle from the horizontal of the instrument as it sighted down from a [[fire control tower]] or a [[base end station]] at the target. These calculations were &quot;built into&quot; the scales and gearing of the instrument, which also corrected for the curvature of the earth and for optical parallax, so the horizontal range to the target could be read off of a dial on the DPF.&lt;ref&gt;For an explanation of the use of several more modern types of DPF, see &quot;FM 4-15: Coast Artillery Field Manual, Seacoast Artillery Fire Control and Position Finding, War Department, U.S. Government Printing Office, Washington, 1940, pp. 46-58.&lt;/ref&gt; [[Image:Warner-Swasey DPF.jpg|thumb|border|right]][[Image:DPF Angles-18.jpg|thumb|border|left|'''O''' represents the observer, at a distance '''OM''' above sea level (and the target on the sea). The range to the target is determined by taking the cotangent of the depression angle '''d''' times the height of the instrument '''OM''', to yield the range '''MP'''. But due to the curvature of the earth, the true range is '''MT''''. To achieve this, the DPF instrument adjusts the observer's height from '''OM''' to '''ON''', and then correctly measures the range as '''NT'''. Alternatively, the depression angle could be adjusted to '''d'''', but this method was not used.]]
+
+One soldier looked through the telescope (a 12 or 20-power instrument) and &quot;waterlined&quot; the target ship, putting a vertical cross hair on the ship's forward stack and a horizontal crosshair on the ship's waterline. By turning a geared crank, he attempted to hold the ship in his sights as it passed through his field of view.  A second soldier read azimuth and range data from the instrument at designated intervals.  These intervals (usually set at 20 or 30 seconds) were indicated by the ringing of a '''time-interval bell''' or buzzer (shown in the image at right on the ceiling over the instrument).  This information was then called in by telephone to a fire control center or [[plotting room]] for the gun battery that had been selected to fire upon the designated target.
+
+The DPF instrument was meant to be used to locate targets at ranges of between 1,500 and 12,000 yards. Its effective range depended upon its height above mean low water,&lt;ref&gt;The DPF was considered to give accurate ranges for a distance equal to 1,000 yards for each 10 feet of its height above mean low water. See Hines and Ward, ''op cit''., p. 311.&lt;/ref&gt; the viewing conditions (lighting, weather, fog or smoke) and upon the skill of its operators in holding a &quot;sight&quot; on a target. From about 1900 to 1925, DPF instruments were often mounted for stability on massive, octagonal concrete columns perhaps two feet across and buried deeply in the ground. A wooden or lath and plaster fire control tower or base end station was then built up around, but not connected to, the column.&lt;ref&gt;The remains of three base end stations with their concrete DPF mounting columns can be seen [[:File:MY0016-Area.jpg|here]]. These columns date to about 1910.&lt;/ref&gt;&lt;ref&gt;A section drawing of another fire control building with a DPF mounting column roughly 19 ft. tall is shown [[:File:East Side WW2 Plan.jpg|here]].&lt;/ref&gt;
+
+The DPF could be used as part of a ''vertical'' base system of [[triangulation]] to compute the range to the target. It could also be used as part of a ''horizontal'' base system, in which it served as one of two base end stations, both of which measured an observing angle to the target, with the range and azimuth of the target being calculated from their joint observations.
+
+During the early part of the 20th Century, DPF instruments were often installed in the Battery Commanders' stations for coast artillery batteries and were used by the Battery Commander or a member of his staff to yield firing data (range and azimuth, or direction) for the guns. This system was generally much less accurate than the horizontal base system (based on observations from two widely separated base end stations), and became a back-up system that was used only in emergencies (such as damage to other observation stations).
+
+==See also==
+* [[List of U.S. Army fire control and sighting material by supply catalog designation]]
+
+==References==
+{{Research help|Mil}}
+&lt;references/&gt;
+
+[[Category:Coastal artillery]]</text>
+      <sha1>q61y4apd4e49eo2rm82lqbv2y4cmd4n</sha1>
+    </revision>
+  </page>
+</mediawiki>

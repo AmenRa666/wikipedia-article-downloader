@@ -1,0 +1,338 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Castra Albana</title>
+    <ns>0</ns>
+    <id>41764781</id>
+    <revision>
+      <id>748412907</id>
+      <parentid>742845289</parentid>
+      <timestamp>2016-11-08T02:36:19Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Republican Era to Domitian */clean up; http&amp;rarr;https for [[Google Books]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="51741">{{Infobox castrum
+| name                   = Castra Albana
+| image                  = Albano Laziale - Porta pretoria da Palazzo Savelli.JPG
+| caption                = The central arch of the ''porta Praetoria'' of the ''castra''
+| alt_names              =
+| known_as               =
+| built_during_reign_of  = [[Septimius Severus]]
+| founded                =
+| abandoned              =
+| attested_by            =
+| previous_fortification =
+| type                   =
+| robust_struct_material = stone
+| robust_struct_built_during_reign_of =
+| robust_struct_built    =
+| robust_struct_abandoned =
+| robust_struct_dim1     = 437
+| robust_struct_dim2     = 239 
+| robust_struct_area     = 9.5
+| robust_struct_shape    =
+| robust_struct_thickness =
+| robust_struct_technique =
+| robust_struct_towers   =
+| weak_struct_material   =
+| weak_struct_built_during_reign_of =
+| weak_struct_built      =
+| weak_struct_abandoned  =
+| weak_struct_dim1       =
+| weak_struct_dim2       =
+| weak_struct_area       =
+| weak_struct_shape      =
+| weak_struct_thickness  =
+| weak_struct_technique  =
+| weak_struct_towers     =
+| activity               =
+| commanders             =
+| legions                = ''[[Legio II Parthica]]''
+| cohorts                =
+| alae                   =
+| classis                =
+| numberi                =
+| events                 =
+| province               = [[Roman Italy|Italia]]
+| capital_of             =
+| admin_unit_1           =
+| admin_unit_2           =
+| limes                  =
+| nearby_water           =
+| links                  =
+| latitude               =
+| longitude              =
+| latd                   =
+| latm                   =
+| lats                   =
+| latNS                  =
+| longd                  =
+| longm                  =
+| longs                  =
+| longEW                 =
+| altitude_m             =
+| altitude_ref           =
+| map                    = &lt;!-- Location name used for Template:Location map --&gt;
+| map_alt                = &lt;!-- Alternative text for map, see WP:ALT for details --&gt;
+| map_caption            = &lt;!-- Text displayed below map, overrides default caption --&gt;
+| map_size               = &lt;!-- Width of map image, overrides default of 250 --&gt;
+| map_relief             = &lt;!-- Any non-blank value to display relief map, if available --&gt;
+
+| place_name             =
+| location_town          = [[Albano Laziale]]
+| location_county        = [[Province of Rome|Roma]]
+| location_state         = [[Lazio]]
+| location_country       = [[Italy]]
+| iso_region             =
+
+| ref:UK:OSNG            =
+| ref:RO:LMI             =
+| ref:RO:RAN             =
+| ref:UNESCO             =
+
+| coins_found            =
+| discovery_year         =
+| condition              =
+| controlled_by          =
+| excavations            =
+| archaeologists         =
+| exhibitions            =
+| website                =
+| notes                  =
+| commons                =
+}}
+
+The '''Castra Albana''' {{IPA-it|ˈkastra alˈbaːna|}} was a [[castrum|permanent fortified camp]] of the ''[[Legio II Parthica]]'', founded in [[Roman Italy|Italy]] by the Emperor [[Septimius Severus]] (193-211) on the modern site of [[Albano Laziale]]. Today, the ruins of the structures inside the castra, such as the [[Baths of Caracalla (Albano)|Baths of Caracalla]] and the [[Roman Amphitheatre of Albano Laziale]] represent one of the largest collections of Roman archaeological remains in [[Latium]], outside of [[Rome]].
+
+== History ==
+
+{{see also|Albano Laziale#History}}
+
+=== The origin of the name ===
+
+The castrum of Legio II Parthica was named ''Albana'' after the western part of the [[Colli Albani]], making reference to the mythic capital of the [[Latin League]], [[Alba Longa]], founded by [[Ascanius]], the son of [[Aeneas]], thirty years after the foundation of [[Lavinium]], &quot;Near a mountain and a lake, sitting in the space between the two&lt;ref&gt;{{cite web|url=http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Dionysius_of_Halicarnassus/1C*.html|title=Dionysius of Halicarnassus, ''Roman Antiquities'' 1.66|accessdate=2009-07-21}}&lt;/ref&gt; The most common location suggested for this ancient mothercity of Rome today is the south side of [[Lake Albano]], between Colle dei Cappuccini in the [[comune]] of [[Albano Laziale]] and the [[Convent of St Mary ad Nives of Palazzolo]] in [[Rocca di Papa]].&lt;ref name=&quot;notaIIB&quot;&gt;{{cite journal|last=Chiarucci|first=Pino|title=La civiltà laziale e gli insediamenti albani in particolare|page=39}}&lt;/ref&gt;
+
+Related names in the area included ''[[Lake Albano|Lacus Albanus]]'', ''[[Monte Cavo|Mons Albanus]]'', ''aqua Albana'' (perhaps an aqueduct on the south side of the lake), the ''rivus Albanus'' (probably the modern [[marana delle Pietrare]] near [[Marino, Lazio|Marino]]) and &quot;''Albani Longani Bovillenses''&quot;, the official name of the inhabitants of the [[municipium]] of [[Bovillae]] (located on the [[Appian Way]] near the modern village of [[Frattocchie]]),&lt;ref name=Torquati&gt;{{cite book|first=Girolamo|last=Torquati|title=Studi storico-archeologici sulla città e sul territorio di Marino ordinati in tre volumi per Girolamo Torquati|page=vol. 1 cap. 20 p. 180}}.&lt;/ref&gt; The [[adjective]] ''Albanus'' was also used as a poetic synonym for ''Romanus''.
+
+It is no coincidence, therefore, that the ''legio II Parthica'' came to be known as ''legio Albana'' and its legionaries as ''Albani'',&lt;ref name=nota261&gt;{{cite book|last=Lugli|first=Giuseppe|title=Studi e ricerche su Albano archeologica 1914-1967, Second Edition.|year=1969|location=Albano Laziale|page=265|authorlink=Giuseppe Lugli}}&lt;/ref&gt; even though the whole legion did not remain at the ''Castra Albana'', but had other encampments in [[Mesopotamia]].
+
+=== Republican Era to Domitian ===
+
+{{See also|Villa of Domitian (Castel Gandolfo)}}
+In the [[Roman Republic|Republican period]], the area of the later ''castra'' was occupied only by some fortifications which were razed to the ground in the time of Severus during the construction of the encampment; remains have been found at various points in central Albano Laziale. Several [[Roman villa|suburban villas]] of Roman nobiles have been found in the general area, including the villas of [[Publius Clodius Pulcher]] (near Ercolano in [[Castel Gandolfo]]),&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=Le antiche ville dei Colli Albani prima dell'occupazione domizianea|year=1915|publisher=Loescher|location=Roma|pages=15–32}}&lt;/ref&gt; and perhaps of [[Pompey the Great]] (in the [[Villa Doria (Albano Laziale)|Villa Doria]])&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=Le antiche ville dei Colli Albani prima dell'occupazione domizianea|year=1915|publisher=Loescher|location=Roma|pages=33–47}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Coarelli|first=Filippo|title=Guide archeologhe Laterza - Dintorni di Roma, First Edition.|year=1981|publisher=Casa editrice Giuseppe Laterza &amp; figli|location=Roma-Bari|page=83}}&lt;/ref&gt; and an anonymous villa discovered near the railway station.&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=Le antiche ville dei Colli Albani prima dell'occupazione domizianea|year=1915|publisher=Loescher|location=Roma|pages=54–55}}&lt;/ref&gt;
+
+The great abundance of villas and farms in the area must result from the ease of direct communication with [[Rome]] thanks to the [[Appian Way]], built in 312 BC by the [[Roman Censor|Censor]] [[Appius Claudius Caecus]] to connect the city of Rome with [[Capua]],&lt;ref name=notaappia&gt;{{cite book|last=Coarelli|first=Filippo|title=Guide archeologhe Laterza - Dintorni di Roma, First Edition.|year=1981|publisher=Casa editrice Giuseppe Laterza &amp; figli|location=Roma-Bari|page=10}}&lt;/ref&gt; in [[Campania]]. In 293 BC the road was paved in ''saxum quadratum'' up to [[Bovillae]].&lt;ref name=notaappia/&gt; Later it was extended to [[Benevento]] and then to the Greek port of [[Brindisi]].&lt;ref name=notaappia/&gt;
+
+In the eighteenth century, Giovanni Antonio Ricci suggested the existence of a [[municipium]] which he called &quot;Alba Media&quot; on the site of Albano.,&lt;ref&gt;{{cite book|last=Ricci|first=Giovanni Antonio|title=Memorie Storiche dell' antichissima Città di Alba-Longa|year=1787|publisher=Giovanni Zempel|location=Rome|url=https://books.google.com/books?id=t4kHAAAAQAAJ&amp;printsec=frontcover&amp;hl=it&amp;source=gbs_atb#v=onepage&amp;q&amp;f=false|page=2.100}}&lt;/ref&gt; but this theory conflated the evidence from another localities of the same name: Alba Pompeia (modern [[Alba, Piedmont|Alba]]) and [[Alba Fucens]]. Ricci was thoroughly confuted in the following centuries,&lt;ref&gt;Emanuele Lucidi, part 1, chapter 3, page 23&lt;/ref&gt; and it is now established that until the time of [[Domitian]], the stretch of the Appian Way between Bovillae and [[Ariccia|Aricia]] (modern [[Frattocchie]] in [[Marino, Lazio|Marino]] and [[Ariccia]]) was completely free of buildings, as shown by [[Tacitus]] ''[[Histories (Tacitus)|Histories]]'' 4.2 on the [[Year of the Four Emperors]] (69) and the final phase of the civil war between [[Vitellius]] and [[Vespasian]], which states that the army of Vitellius was camped partially at Bovillae and partially at Aricia, indicating that there was nothing in between the two centres&lt;ref&gt;Emanuele Lucidi, part 1, chapter 3, page 29&lt;/ref&gt; which were themselves in decline.
+
+[[Domitian]], second son of [[Vespasian]] became Emperor in 81 and immediately dedicated himself to an ambitious project: the construction of an imposing Imperial villa in the [[Alban Hills]] to replace the villa previously used by various Emperors (dating to [[Tiberius]]), which is probably the same as the villa attributed to Pompey the Great and located in the Villa Doria, now a part of the imperial patrimony.&lt;ref name=&quot;notaimpero&quot;&gt;{{cite book|last=Lugli|first=Giuseppe|title=Le antiche ville dei Colli Albani prima dell'occupazione domizianea|year=1915|publisher=Loescher|location=Roma|pages=57–69}}&lt;/ref&gt; The new villa, the [[Villa of Domitian (Castel Gandolfo)|Villa of Domitian]] was a true palace, located inside the modern Villa Barberini, near [[Castel Gandolfo]], in the extraterritorial zone of the [[Papal Palace of Castel Gandolfo]],&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=La villa di Domiziano sui Colli Albani - parte II|year=1920|publisher=Maglione &amp; Strini|location=Roma|pages=57–68}}&lt;/ref&gt; on an estate containing a series of villas, already Imperial property for various reasons, with an area of 13 or 14 square kilometres, abutting [[Lake Albano]] and perhaps also [[Lake Nemi]].&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=La villa di Domiziano sui Colli Albani - parte I|year=1918|publisher=Maglione &amp; Strini|location=Roma|page=6}}&lt;/ref&gt; The villa was frequently used by Domitian, but it later fell into disuse, on account of the construction of the more famous [[Hadrian's Villa|Villa of Hadrian]] at [[Tivoli, Lazio|Tivoli]] by [[Hadrian]] (117-136), who also began a policy of selling surplus Imperial property, including some of the villas on the edge of &quot;Albanum Caesarum&quot;.&lt;ref name=notaimpero/&gt;
+
+=== Septimius Severus to Elagabalus ===
+
+{{see also|Legio II Parthica}}
+
+[[File:Facciata san Pietro.JPG|thumb|200px|left|The gate of [[San Pietro, Albano Laziale|San Pietro]] in the quarter of Cellomaio in the centre of Albano Laziale: La porta della [[Chiesa di San Pietro (Albano)|chiesa di San Pietro]] nel quartiere di Cellomaio al [[centro di Albano Laziale]]: the church is formed from a room of the [[Baths of Caracalla (Albano)|Baths of Caracalla]].]]
+
+The [[Villa of Domitian (Castel Gandolfo)|Villa of Domitian]] at Castel Gandolfo was probably garrisoned by a detachment of the [[Praetorian Guard]] when the Emperor was in residence,&lt;ref&gt;{{cite book|last=Nibby|first=Antonio|title=Analisi storico-topografico-antiquaria della carta de' dintorni di Roma, Second Edition|year=1848|publisher=Tipografia delle Belle Arti|location=Roma|page=1.95}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Giorni|first=Francesco|title=Storia di Albano|year=1842|publisher=tip. Puccinelli|page=68}}&lt;/ref&gt; although documents, archaeology, and epigraphy provide no explicit testimony of this residence.&lt;ref name=nota257&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=257}}&lt;/ref&gt; The archaeologist [[Giuseppe Lugli]] has, moreover, confuted all attempts to move the date of the ''castra'' structure which is now visible in the historic centre of Albano back. These attempts included the aforementioned Giovanni Antonio Ricci, who dated the encampment to the [[Second Punic War]] (219 BC-202 BC),&lt;ref&gt;{{cite book|last=Ricci|first=Giovanni Antonio|title=Memorie storiche dell'antichissima città di Alba Longa e dell'Albano moderno|year=1787|publisher=Giovanni Zempel|location=Roma|page=2.1.105}}&lt;/ref&gt; the [[Jesuit]] priest Giuseppe Rocco Volpi who thought it dated to [[Augustus]] and Tocco who decided that it was the acropolis of [[Alba Longa]].&lt;ref name=nota257/&gt;
+
+The date universally considered correct for the ''castra'' is the reign of [[Septimius Severus]] (193-211), who came to the throne after the [[Year of the Five Emperors]] and a violent civil war and thought it best to temporarily dissolve the Praetorian Guard and bring the [[Legio II Parthica]] near Rome for his personal and political security.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=258}}&lt;/ref&gt; This [[Roman legion|legion]] had been created in 197 for the (successful) campaign against [[Parthian Empire|Parthia]] which ended in 198 with the sack of [[Ctesiphon]] (near modern [[Baghdad]], [[Iraq]]).
+
+The site chosen for the foundation of the ''castra'', which might seem unsuitable due to the steep slope of the terrain, was actually an excellent position with a panoramic view - ideal for the point of observation of the [[Ager Romanus]] which the camp was to be.&lt;ref name=nota261/&gt;
+
+An interesting historical incident related to the ''castra'' occurred in the [[Principate]] of [[Caracalla]] (211-217), who came to power after assassinating his brother and co-emperor, [[Publius Septimius Geta|Geta]]. This fraticide angered the Legio Parthica, which insisted that it had sworn fialty to both the sons of Septimius Severus and refused to accept Caracalla as sole Emperor.&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=Gli Archeologi italiani in onore di Amedeo Maiuri: a cura del Centro studi Ciociaria|year=1965|publisher=Di Mauro|location=Napoli|page=222|chapter=La legione II partica e il suo sepolcreto nell'Agro Albano}}&lt;/ref&gt; He went in person to Castra Albana and after a long meeting with the legionaries he convinced them to remain loyal, by promising to increase their stipend by fifty percent&lt;ref&gt;[http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Caracalla*.html#ref12 ''Historia Augusta: Caracalla'' 2.7-8]&lt;/ref&gt; and to improve the camp by having the imposing [[Baths of Caracalla (Albano)|Baths of Caracalla]] erected.&lt;ref name=&quot;nota261&quot;/&gt;
+
+The legion is mentioned in the ancient literary sources again in the 3rd century in the reign of [[Macrinus]] (217-218), [[Elagabalus]] (218-222), [[Alexander Severus]] (222-235), [[Maximinus Thrax]] (235-238), [[Philip the Arab]] (244-249).&lt;ref name=&quot;nota263&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=263}}&lt;/ref&gt; The construction of the [[Roman Amphitheatre of Albano Laziale]] can be dated to the middle of this century and marks the end of the period of highest prosperity for the Legio II Parthica.&lt;ref name=&quot;notadataanfiteatro&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte II: l'anfiteatro dopo i recenti scavi|journal=Ausonia|year=1921|volume=10|page=253}}&lt;/ref&gt;
+
+=== Decline of the ''castra'' after Constantine ===
+
+{{see also|Albano Cathedral}}
+
+Legio II Parthica is mentioned for the last time at the beginning of the 5th century, near the camp of Cepha (modern [[Hasankeyf]], [[Turkey]]). Thereafter it disappears from history. But even at the beginning of the 4th century, the legion had abandoned Castra Albana to settle in the strategic city of [[Bezabde]] (modern [[Cizre]], [[Turkey]]) on the river [[Tigris]], at the ever troubled eastern border of the Roman Empire.
+
+In the [[Liber Pontificalis]] it is stated that the Emperor [[Constantine I]] (306-337) founded the [[Albano Cathedral|Cathedral of San Giovanni Battista]] at Albano Laziale during the pontificate of [[Pope Silvester I]] (314-335), providing the cathedral with decorations and substantial property in the [[Alban Hills]],&lt;ref&gt;[http://www.thelatinlibrary.com/liberpontificalis1.html ''Liber Pontificalis'' 34.30]&lt;/ref&gt; including the ''sceneca deserta vel domos civitatis'' (the abandoned tents or the houses of the city).&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=265}}&lt;/ref&gt; It can thus be deduced that modern [[Albano Laziale]] was born on the remains of the ''castra'', which explains the fact that the historic centre of Albano Laziale is literally founded atop the ancient encampment, whose remains are generally found only 50-200 centimetres below the modern ground level.
+
+== Description ==
+
+=== Archaeological remains ===
+
+==== Circuit wall ====
+
+[[File:Mura-Castra Albana lato est.jpg|thumb|200px|right|Northeast side: stretch of the wall at the border between the episcopal seminary and the [[Missionaries of the Precious Blood|Precious Blood]]. The decumana gate must have been in this section]]
+[[File:Mura Castra Foscolo Albano.JPG|thumb|200px|right|Southeast side: stretch of the wall on the grounds of the modern Ugo Foscolo state [[Liceo classico]].]]
+[[File:Albano Laziale - Porta Pretoria.jpg|thumb|200px|right|''Porta Praetoria'': left side]]
+
+Like all Roman [[castrum|castra]], the Castra Albana followed a strict civic design, forming a large fortified rectangle with four gates (''praetoria'', ''decumana'', ''principalis sinistra'' and ''principalis dextra''), with rounded corners reinforced by circular turrets (an unusual feature, but similar to the ''castra'' of [[Hadrian's Wall]] in [[Roman Britain|Britain]]).&lt;ref name=&quot;notatorretonda&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=227}}&lt;/ref&gt; The construction technique is [[Opus quadratum]] - one of its latest appearances in the [[Ager Romanus]]&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=217}}&lt;/ref&gt; (it was supplanted by [[Opus latericium]]). The construction material is [[Peperino]], extracted ''in situ'' from the volcanic soil on which the ''castra'' was built, which would have saved time and money.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=215}}&lt;/ref&gt; The construction was made difficult by the position of the encampment on an 11 degree slope, a situation which required a technical solution - a differing placement of blocks depending on the slope at different points on the wall.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=213}}&lt;/ref&gt; The perimeter of the wall circuit is 1334 metres; the northwest side measures 434 metres, while the parallel southeast side measures 437 metres and of the short sides, the northeast measures 224 metres, while the southwest measures 239 metres.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=214}}&lt;/ref&gt; The total area, therefore, is around 95,000 square metres.
+
+===== Northeast side =====
+
+At the end of the northeastern side of the circuit wall, probable traces of a circular turret were found within the building of the [[Society of the Sacred Heart]] near [[San Paolo (Albano)|San Paolo]] until the building's complete destruction by [[Allies of World War II|Allied]] [[aerial warfare|aerial bombardment]] during the [[Second World War]]. Today, this is the site of an episcopal seminary and a centre for vocational training. The circular room inside the convent, described before the war, had a diameter of 3.63 metres and was covered by a low dome of very poor workmanship, probably a modern repair.
+
+Going along the Roman wall, it is better preserved stretch for about fifty metres, because it serves as the boundary wall between the property of the episcopal seminary and the [[Missionaries of the Precious Blood]], which govern the church of San Paulo.&lt;ref name=&quot;notatrattonord-est&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=220}}&lt;/ref&gt; This stretch was built with very great care, because it had to function as the external retaining wall as well, to a depth of four metres.&lt;ref name=notatrattonord-est/&gt; For this reason it is also very monumental and robust.&lt;ref name=&quot;notachiaruccitorre&quot;&gt;{{cite book|last=Chiarucci|first=Pino|title=Albano Laziale, Second Edition|year=1988|publisher=Museo Civico di Albano Laziale|location=Albano Laziale|page=34}}&lt;/ref&gt; No trace remains of the ''porta decumana'' which must have been around the middle of this stretch and was probably accessed by a staircase of a ramp.&lt;ref name=notatrattonord-est/&gt;
+
+Past the Via San Francesco d'Assisi, on which the Medieval gate of the Cappuchins opened until the second half of the Nineteenth century,&lt;ref name=notatrattonord-est/&gt; the wall follows the Via Tacito, on the property of the [[Daughters of Immaculate Mary]]. At the corner of their property, the rounded corner of the ancient wall is still visible, but the circular turret is not, though the need for the wall to bear its weight is reflected in the stronger structure of the wall.&lt;ref name=&quot;notatrattosud-est&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=221}}&lt;/ref&gt;
+
+===== Southeast side =====
+
+This is the best preserved side, including the remains of a rectangular guard tower and of the ''porta principalis sinistra'' as well as a long stretch of wall, preserved for 142 metres on the Via Castro Partico.&lt;ref name=notachiaruccitorre/&gt;
+
+Turning onto the Via Castro Partico, still on the property of the Daughters of Immaculate Mary, sixty metres from the rounded corner,&lt;ref name=notatrattosud-est/&gt; the wall contains a rectangular guard tower, currently put to use as a farmhouse. The internal space measures 5.90 x 3.85 metres and the walls are 0.90 metres thick (except the exterior wall which is inexplicably only 0.59 metres thick). The entrance is still that used in antiquity, facing the inside of the ''castra'' and is 1.78 metres wide.&lt;ref name=notatrattosud-est/&gt; The wall then continues on the property of the modern [[Liceo classico statale Ugo Foscolo]] and around two hundred metres further on,&lt;ref name=&quot;notaprincipalisinixtra&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=222}}&lt;/ref&gt; the remains of the ''porta principalis sinistra'' are found - the only one of the two ''portae principales'' which can still be seen.
+
+The gate, considered one of the most beautiful remnants of the ''castra'' by the archaeologist [[Giuseppe Lugli]],&lt;ref name=notaprincipalisinixtra/&gt; consisted of a single archway where the ashlar blocks meter with the horizontal ones of the wall. It is 3.85 metres wide and no traces of guard towers have been found on either side.&lt;ref name=notaprincipalisinixtra/&gt; Along from the gate, next to the old civic hospital building (now the municipal police station) traces of the wall can no longer be made out.&lt;ref name=notaprincipalisinixtra/&gt; Nor do any traces remain of the rounded corner fortified with a circular tower, which must have been located at the end of the modern Via San Francesco d'Assisi.
+
+===== Southwest side =====
+
+Some remains of the wall on this side were found in 1913, during the construction of the modern piazza Giosuè Carducci ({{IPA-it|dʒoˈzwɛ karˈduttʃi}}), and more have been incorporated into the foundations of modern houses.&lt;ref name=&quot;notaporta&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|pages=223–225}}&lt;/ref&gt; The most substantial remains on this side, however, are those of the ''porta praetoria'', right in front of the [[Palazzo Savelli (Albano)|Palazzo Savelli]]. Located at the midpoint of the wall, the gate was incorporated into a later building, preventing the &quot;liberation&quot; of Roman monument, until the devastating Anglo-American aerial bombardment of 1 February 1944.&lt;ref name=&quot;notapretoria&quot;&gt;{{cite book|last=Chiarucci|first=Pino|title=Albano Laziale, Second Edition|year=1988|publisher=Museo Civico di Albano Laziale|location=Albano Laziale|page=31}}&lt;/ref&gt; The central archway measure around 3 x 5 metres with a height of 14 metres&lt;ref name=notaporta/&gt;&lt;ref name=notapretoria/&gt; while the two side archways were a little over 1 x 5 metres. The two side chambers each measure 5.40 x 5 metres.&lt;ref name=notaporta/&gt;&lt;ref name=notapretoria/&gt;
+
+Further to the north, the wall is visible for stretches on local land, facing Via San Pancrazio. On the same street, the well-conserved remains of a circular guard tower can be accessed, 3.40 metres below the modern ground level of the Via Alcide de Gasperi.&lt;ref name=notatorretonda/&gt; The construction poses a problem: the vault of the single room is only 1.60 metres above the level of the ''intervallum'' and even allowing for the existence of a second story (per Giuseppe Lugli), the tower would not have reached a plausible height to be a guard tower.&lt;ref name=notatorretonda/&gt; The conclusion is that this was a special construction, perhaps only for symmetry with the now-destroyed tower of the southeast corner.&lt;ref name=notatorretonda/&gt; At any rate, it has a diameter of 1.2 metres, a height of 2.10 metres and its walls are 0.90 metres thick.&lt;ref name=notatorretonda/&gt;
+
+===== Northwest side =====
+
+The greater part of the wall of this side, after the aforementioned circular tower is buried under modern houses. Presumably, the ''porta principalis dextra'' was located on the location of a courtyard off the Via Don Giovanni Minzoni.&lt;ref name=&quot;notanord-ovest&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=228}}&lt;/ref&gt; The wall then proceeded along the line of the facades of the houses on the south side of the modern Via San Gaspare del Bufalo, passing the sixteenth century [[Tridente (Albano Laziale)|Trident of the streets]], and ending at the modern [[piazza San Paolo]], where some remains were found during some hydraulic work in 1904, arranged in horizontal layers to deal with the steep slope of the terrain.&lt;ref name=notanord-ovest/&gt; There the wall meets the corner described above in the section on the northeast side.
+
+==== Road network ====
+
+[[File:Albano Laziale, il tridente da San Paolo.JPG|thumb|200px|left|The [[Tridente (Albano Laziale)|Trident of streets in Albano]] at the end of the [[Piazza San Paolo]]: The middle street (the Via San Gaspare de Bufalo) is the ''circumductio'', which ran around the walls of the ''castra''.]]
+[[File:Albano Laziale - Corso Matteotti (Corso di sotto).JPG|thumb|200px|left|Giacomo Matteotti Road, the ancient [[Appian Way]].]]
+The road system of a Roman [[castra]] was extremely organised and regular and consisted of a basic system of two perpendicular main streets with smaller streets running parallel to them. The main streets were the ''via praetoria'' ([[Praetorium|Headquarters]] Street) and the ''via principalis'' (Parade Ground Street). The former ran the whole length of the ''castra'', connecting the ''porta praetoria'' (Headquarters Gate) with the ''porta decumana'' (Tenth Gate), passing through the ''praetorium'' (Headquarters), while the ''via principalis'' crossed the camp in the other direction, connecting the two ''portae principales'' (Parade Ground Gates), distinguished as ''sinistra'' (Left) and ''dextra'' (Right).
+
+At Albano, stretches of both of these streets have been excavated - only a short stretch of the ''via praetoria'', near the homonymous gate on the modern Alcide De Gasperi Street, while two stretches of the ''via principalis'' survive: one near the ''porta principalis sinistra'' and the other on San Francesco d'Assisi Street, which was discovered during the archaeological excavations of 1915-1916, 1.10 metres below the modern ground level. This stretch is very important because so much of ''crepido'' (sidewalk) facing the gutter was found.&lt;ref name=&quot;notacelle&quot;/&gt; In the 1980s some excavations carried out by the [[Museo civico (Albano Laziale)|Museo civico of Albano Laziale]] and the Ramacci company on the site of a demolished seminary on Castro Pretorio Street discovered the intersection between the ''via principalis'' and one of roads running parallel to the ''via praetoria''. Interestingly, this street had been blocked with [[peperino]] pilasters in the Medieval period - a sign of the contraction of the inhabited area at the time.&lt;ref name=&quot;notacisterne&quot;&gt;{{cite book|last=Chiarucci|first=Pino|title=Albano Laziale, Second Edition|year=1988|publisher=Museo Civico di Albano Laziale|location=Albano Laziale|page=35}}&lt;/ref&gt;
+
+It has also been possible to identify the location of another street within the ''castra'': the ''via quintana'' (Fifth Street), which connected the rectangular guard towers. Given the location of one of these towers in Castro Partico Street, the remains of a perpendicular street were found on the part of the ''via principalis'' in San Francesco d'Asisi Street, a little past Liceo classico statale Ugo Foscolo.
+
+Pretty abundant remains of the ''circumductio'', the street which encircled the walls on the outside, and of the ''intervallum'', the street which ran around the inside of the walls.
+
+With respect to the ''circumductio'', portions have been discovered along the north east side under the modern Tacito Street;&lt;ref name=notatrattosud-est/&gt; along the southwest side near the aforementioned rectangular guard tower on Castro Partico Street,&lt;ref name=notatrattosud-est/&gt; 1.5 metres below ground level at a spot 18 metres from the ''porta principalis sinistra'', and a little further along in the public carpark; along the southeast side 0.5 metres below San Pancrazio Street;&lt;ref name=notatorretonda/&gt; and along the northwest side in the piazza della Rotonda, on San Gaspare del Bufalo Street and in the [[piazza San Paolo]].&lt;ref name=&quot;notacelle2&quot;/&gt; A terrace from the ''intervallum'' remains on the northeast side, as well as a good stretch near the ''porta praetoria'' and at the end of Aurelio Saffi Street on the southeast side, and also some bits on the northwest side.&lt;ref name=notanord-ovest/&gt;
+
+Outside the ''castra'', under the modern Giacomo Matteotti Road, many remains of the foundations of the [[Appian Way]] have been found.&lt;ref name=&quot;notapianta&quot;&gt;Pino Chiarucci, ''Le origini del cristianesimo e le catacombe di San Senatore'', p. 5.&lt;/ref&gt; There are also some remains at the end of Risorgimento Ave&lt;ref name=&quot;notavie&quot;&gt;{{cite book|last=Chiarucci|first=Pino|title=Albano Laziale, Second Edition|year=1988|publisher=Museo Civico di Albano Laziale|location=Albano Laziale|page=38}}&lt;/ref&gt; and Europe Ave.&lt;ref name=notapianta/&gt;
+
+The ''porta praetoria'' is six metres above the Appian Way and twenty metres away from it.&lt;ref name=notavie/&gt; It is unknown how this gap was bridged - presumably there was a stairway for pedestrians as well as one or two paths for vehicular traffic which descended from the gate to the ''regina viarum'' (Queen of Roads). Part of such a stairway, running in a north-south direction, was thought to have been discovered in the 1980s under [[Palazzo Savelli (Albano)|Palazzo Savelli]], during the construction of public toilets.&lt;ref name=notavie/&gt;
+
+==== Internal buildings ====
+
+[[File:Santuario Rotonda Albano 01.JPG|thumb|250px|right|Facade of [[Santuario di Santa Maria della Rotonda]].]]
+
+===== The &quot;Round Building&quot; =====
+
+The &quot;Round Building&quot;, today known as the [[Santa Maria della Rotonda]] is the best preserved Roman structure in Albano. The circular interior has a circumference of 49.10 metres&lt;ref name=&quot;Castra Albana p. 237&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=237}}&lt;/ref&gt; and mimicks the [[Pantheon, Rome|Pantheon]] in [[Rome]] on a reduced scale. However, the building is not contemporary with the ''castra'', but earlier, dating to the time of Domitian. It was probably a [[nymphaeum]] of the [[Villa of Domitian (Castel Gandolfo)|Villa of Domitian]] at Castel Gandolfo.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|pages=244–245}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Galieti|first=Alberto|title=Contributi alla storia della diocesi suburbicaria di Albano Laziale|year=1948|page=29}}&lt;/ref&gt; Later it was restored and incorporated into the Severan complex and used as a public baths or cult site. The first theory would explain the paviment of white and black [[mosaic]] [[tessera]]e with mythological figures, today located in the portico of the church.&lt;ref&gt;{{cite book|last=Coarelli|first=Filippo|title=Guide archeologhe Laterza - Dintorni di Roma, First Edition.|year=1981|publisher=Casa editrice Giuseppe Laterza &amp; figli|location=Roma-Bari|page=88}}&lt;/ref&gt; The second theory is supported by a peperino pagan altar and by some tombs found during archaeological excavations in 1935-38.&lt;ref&gt;{{cite book|last=Galieti|first=Alberto|title=Contributi alla storia della diocesi suburbicaria di Albano Laziale|year=1948|pages=32–33}}&lt;/ref&gt; After the Severan period, the structure was used as a granary or cult building, before conversion to a Christian building around the eighth century.&lt;ref&gt;{{cite book|last=Galieti|first=Alberto|title=Contributi alla storia della diocesi suburbicaria di Albano Laziale|year=1948|page=34}}&lt;/ref&gt;
+
+===== The &quot;thermae parvae&quot; =====
+
+Some individual ruins in the ground near the piazza della Rotonda and Don Giovanni Minzoni Street have been called &quot;''thermae parvae''&quot; (Small Baths) in some reconstructions of the ''castra'', to distinguish them from the &quot;''thermae magnae''&quot; (Large Baths), the [[Baths of Caracalla (Albano)|Baths of Caracalla]].&lt;ref&gt;Pino Chiarucci, ''L'esercito romano'', p. 52.&lt;/ref&gt; These remains are under some houses on Don Giovanni Minzoni Street and are made up of two corridors, about a metre deep, one 2.70 metres long and the other 3.29 metres, with a series of niches along the walls. The construction was entirely carried out in [[opus reticulatum]] using [[peperino]] in the Severan period - it was the last building to use this technique in the [[Ager Romanus]].&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|pages=233–234}}&lt;/ref&gt; These corridors are probably the [[Cryptoporticus|cryptoportici]] of the bath, connected to other bathing rooms located in Piazza della Rotonda,&lt;ref name=&quot;nota235&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=235}}&lt;/ref&gt; near the modern Palazzo Vescovile.
+
+===== Soldiers' lodgings =====
+
+Not much remains of the buildings within the ''castra'' - some terraces, probably part of a barracks or soldiers' lodgings, have been found in the ''retentura'' (the part of the ''castra'' located between the ''praetorium'' and the ''porta decumana''), inside the property of the episcopal seminary and the property of the Daughters of Immaculate Mary on San Fracesco d'Assisi Street. These ruins consist of five walls of the substructure arranged on different levels. On the second level, traces of a partition wall were found, which created rooms about 6 metres wide.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=230}}&lt;/ref&gt;
+
+During the archaeological excavations of 1915-1916, they found walls of 4.50 x 4.50 metre rooms in various constructive techniques on top of older walls dating back to the 1st century BC, all along San Francesco d'Assisi Street from the rectangular tower to the ''porta principalis sinistra''.&lt;ref name=&quot;notacelle&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=234}}&lt;/ref&gt;
+
+Further, indecipherable patterns of parallel walls were found in 1914 near the northwest side, in the Piazza della Rotonda. They are not aligned with the grid of the ''castra'' and a [[Bulla (seal)|bulla]] from the time of [[Hadrian]], which suggests that these buildings predated the ''castra'' and were razed to the ground during its construction.&lt;ref name=notacelle/&gt; &quot;An intricate pattern of walls&quot;&lt;ref name=&quot;notacelle2&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=236}}&lt;/ref&gt; was found under the Piazza della Rotonda, where the excavators of 1915-1916 found the remains of the rooms mixed with blocks of peperino fallen from the nearby wall of the northwest side. Other rooms were identified in the Piazza San Paolo from the same period.&lt;ref name=notacelle2/&gt; In general, the lodgings were built in ''[[opus latericium]]'', interspersed with blocks of peperino from the end of the second century.&lt;ref name=notacelle2/&gt; In the 1980s, further remains of lodgings were identified, as well as a building with a portico on Castro Pretorio Street.
+
+===== &quot;The Cisternoni&quot; =====
+
+[[File:Cisternoni Albano dieci.jpg|thumb|300px|right|&quot;The cisterns&quot; in a postcard photographed before their abbandonment in 1912.]]
+The very large cistern of the ''castra'' is found under the property of the episcopal seminary, with access from the [[piazza San Paolo]] and San Francesco d'Assisi Street. It is known to the Albanese as the ''Cisternoni'' (giant cisterns). The long sides measure 45.50 and 47.90 metres, while the short sides are 29.62 and 31.90 metres long, for a surface area of 1436.50 [[square metre]]s and a capacity of 10,132 [[cubic metre]]s of water.&lt;ref name=&quot;notacisterne&quot;/&gt; The structure, with five aisles, was carved into the bedrock as far as possible to a depth of between three and four metres; the height of the vaults is around 6.5 metres, with significant variation.&lt;ref name=&quot;notacisternoni&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|pages=250–256}}.&lt;/ref&gt; On account of some ornamental elements discovered in 1830 and 1884 it is believed that at least the front of the monumental structure was ornate.&lt;ref name=notacisterne/&gt; Until the 1920s only a single supply tunnel of the cistern was known, which is located on the northeastern side. But the archaeologist Giuseppe Lugli discovered a second, more ancient tunnel on the same side, which served the cistern through a complex system until it broke.&lt;ref name=notacisterne/&gt; The water came to the ''Cisternoni'' from the Malafitto and Palazzolo springs, near [[Lake Albano]]. The cistern was still used by the Comune of Albano in 1884, but for hygiene reasons it was restricted to use for irrigation in 1912.&lt;ref name=notacisternoni/&gt;
+
+===== Other cisterns, drains, and sewers =====
+
+One particular cistern of an elongated shape (around 30 metres long and 4.16 metres wide)&lt;ref name=notacelle/&gt; with a [[barrel vault]] was discovered under Aurelio Saffi Street. It was probably part of a larger, no longer identifiable cistern.&lt;ref name=notacisterne/&gt; A decent stretch of the supply tunnel of the cistern survives as well, pointing to the northeast.&lt;ref name=notacelle/&gt;
+
+The sewage network of the ''castra'' must have been extensive and would have followed the slope of the hill, discharging into the main sewer running under the ''intervallum'' in Alcide De Gasperi Street. The first stretch of this main sewer - 0.9 metres wide - was discovered in 1915-6 at the intersection of Alcide De Gasperi Street and San Francesco d'Assisi Street.
+
+===== &quot;Praetorium&quot; =====
+
+Unfortunately, nothing can be discerned of the ''praetorium'', the main building of the ''castra''. All that is known is that, since it must have been found at the intersection of the ''via praetoria'' and the ''via principalis'', it must be under a block of houses at the end of Aurelio Saffi Street.&lt;ref name=&quot;Castra Albana p. 237&quot;/&gt;
+
+==== Roman Amphitheatre ====
+
+[[File:Albano L. Anfieatro Romano.JPG|thumb|200px|left|The Roman Amphitheatre: arena and east ''vomitorium''.]]
+
+The [[Roman Amphitheatre of Albano Laziale]] is one of the most interesting monuments of the ''castra''. For a long time it was believed to have been part of the [[Villa of Domitian (Castel Gandolfo)|Villa of Domitian]], but the archaeologist Giuseppe Lugli dated it to the middle of the third century AD - well after the construction of the ''castra'' and even of the baths.&lt;ref name=notadataanfiteatro/&gt; The building, with a maximum length of 113 metres,&lt;ref name=&quot;notaanfiteatro&quot;&gt;{{cite book|last=Coarelli|first=Filippo|title=Guide archeologhe Laterza - Dintorni di Roma, First Edition.|year=1981|publisher=Casa editrice Giuseppe Laterza &amp; figli|location=Roma-Bari|page=90}}.&lt;/ref&gt; could fit 14,850 seats and contain up to 16,000 people.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte II: l'anfiteatro dopo i recenti scavi|journal=Ausonia|year=1921|volume=10|pages=245–246}}.&lt;/ref&gt; Today, the southern half of the amphitheatre is visible, while the northern part is buried under the retaining walls of San Francesco d'Assisi St and Anfiteatro Romano Street. Among the other remains, partially carved from the [[Rock-cut architecture|living rock]] and partially built of [[opus quadratum]], are the ''pulvinar'' (the Imperial box),&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte II: l'anfiteatro dopo i recenti scavi|journal=Ausonia|year=1921|volume=10|page=242}}.&lt;/ref&gt; some very unusual and &quot;bizarre&quot;&lt;ref name=&quot;notasostruzioni&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte II: l'anfiteatro dopo i recenti scavi|journal=Ausonia|year=1921|volume=10|pages=228–229}}.&lt;/ref&gt; substructural archways, and ''[[vomitorium|vomitoria]]'' (access corridors).&lt;ref name=notaanfiteatro/&gt;&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte II: l'anfiteatro dopo i recenti scavi|journal=Ausonia|year=1921|volume=10|pages=221–222}}.&lt;/ref&gt;
+
+With respect to the wider complex, remains have been found of a paved street which probably followed the course of the modernday Anfiteatro Romano Street to link up with the Appian Way and followed the modern &quot;galleria di sopra&quot; in the other direction to the Villa of Domitian.&lt;ref name=notasostruzioni/&gt; Future excavations might also clarify whether a connection with the ''porta decumana'' of the ''castra'' also existed.
+
+==== Baths of Caracalla ====
+
+[[File:Albano Laziale - Le antiche terme romane di Cellomaio.jpg|thumb|200px|left|View of the Baths of Caracalla.]]
+The [[Baths of Caracalla (Albano)|Baths of Caracalla or of Cellomaio]] are even today the most conspicuous evidence of the ''castra''’s period of greatest splendour. Built by the Emperor [[Caracalla]] for the use of the legion in the period after the construction of the ''castra'' but before the construction of the amphitheatre, they later contained an entire Medieval neighbourhood. The best conserved part of the baths is a rectangular hall, 37 x 12 metres which is home to the [[San Pietro (Albano)|Church of San Pietro]].&lt;ref name=&quot;notachiarucciterme&quot;&gt;{{cite book|last=Chiarucci|first=Pino|title=Albano Laziale, Second Edition|year=1988|publisher=Museo Civico di Albano Laziale|location=Albano Laziale|page=39}}.&lt;/ref&gt;
+
+Underneath the sacristry of the church and near Cellomaio Street, a black and white [[mosaic]] floor from the baths was found.&lt;ref name=notachiarucciterme/&gt; Other notable remains were found in the garden of the Sisters of Jesus and Mary, which is probably planted over the [[hypocaust]] system which was used to heat the water.&lt;ref name=notachiarucciterme/&gt;
+
+The building structure is made up of a core of peperino gravel [[cement]], broken up by stretches of brickwork and faced with mattone bricks.&lt;ref name=notachiarucciterme/&gt;
+
+==== Necropolis of Selvotta ====
+
+The first discoveries near Selvotta, a place on the borders between [[Albano Laziale]] and [[Ariccia]], were made in 1866 by a farmer called Lorenzo Fortunato and were analysed by the young Russian archaeologist Nicola Wendt.&lt;ref name=&quot;sepolcreto1&quot;&gt;{{cite book|last=Lugli|first=Giuseppe|title=Gli archeologi italiani in onore di Amedeo Maiuri|year=1965|publisher=Di Mauro Editore|location=Napoli|pages=1–2|chapter=La Legione II Partica e il suo sepolcreto nell'agro Albano}}&lt;/ref&gt; The German archaeologist [[Wilhelm Henzen]] was the first to suggest that the frequent references to the ''[[Legio II Parthica]]'' found in the inscriptions discovered at Selvotta would have to indicate a necropolis of the legion, located a short distance from the ''castra''.&lt;ref name=sepolcreto1/&gt; A campaign of excavation and surveying in the area was carried out by Henzen, [[Hermann Dessau]], and [[Rodolfo Lanciani]] at the end of the nineteenth century. Further campaigns were carried out by Giuseppe Lugli in 1908, 1910, 1913, 1945, and 1960-2 and by Maria Marchetti Longhi in 1916.&lt;ref name=&quot;notasepolcretoscavi&quot;&gt;{{cite book|last=Lugli|first=Giuseppe|title=Gli archeologi italiani in onore di Amedeo Maiuri|year=1965|publisher=Di Mauro Editore|location=Napoli|pages=6–7|chapter=La Legione II Partica e il suo sepolcreto nell'agro Albano}}&lt;/ref&gt;
+
+In the 1960s about fifty tombs were discovered, of which two thirds had mortuary inscriptions. All were made in the same way, with the graves dug into the living rock and covered by a monolithic block of peperino in the form of a roof or a lid.&lt;ref&gt;{{cite book|last=Lugli|first=Giuseppe|title=Gli archeologi italiani in onore di Amedeo Maiuri|year=1965|publisher=Di Mauro Editore|location=Napoli|page=5|chapter=La Legione II Partica e il suo sepolcreto nell'agro Albano}}&lt;/ref&gt; In the excavations of 1960-2 two unusual graves were found: a [[cippus]] grave with a broken column, characteristic of eastern tombs and a tomb with a cremation - the only one in the necropolis.&lt;ref name=notasepolcretoscavi/&gt; Wives and children were buried alongside the soldiers and there was no order to the arrangement of the tombs, although they were often grouped together.&lt;ref name=notasepolcretoscavi/&gt; From analysis of the grave inscriptions it is clear that the greater part of the soldiers bore the ''praenomen'' Aurelius and therefore it is deduced that they served in the time of the legion's greatest prosperity, during the reigns of Caracalla (211-217) and Elgabalus (218-222).&lt;ref name=&quot;notasepolcretonomi&quot;&gt;{{cite book|last=Lugli|first=Giuseppe|title=Gli archeologi italiani in onore di Amedeo Maiuri|year=1965|publisher=Di Mauro Editore|location=Napoli|page=8|chapter=La Legione II Partica e il suo sepolcreto nell'agro Albano}}&lt;/ref&gt; The women, on the other hand, have [[Italic peoples|Italic]] names.&lt;ref name=notasepolcretonomi/&gt;
+
+=== Epigraphic documentation ===
+
+There is little epigraphic testimony of the [[Legio II Parthica]] and a large amount of what there is was discovered around the necropolis in Selvotta. This large concentration of inscriptions ({{CIL|14|3367}}, {{CIL|14|3368}}, {{CIL|14|3369}}, {{CIL|14|3370}}, {{CIL|14|3371}}, {{CIL|14|3372}}, {{CIL|14|3373}}, {{CIL|14|3374}}, {{CIL|14|3375}}, {{CIL|14|3376}}, {{CIL|14|3377}}, {{CIL|14|3400}} and many others)&lt;ref name=notasepolcretoscavi/&gt; permitted archaeologists from Wilhelm Henzen onwards to identify ''Castra Albana'' with the modern Albano Laziale for certain.&lt;ref&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=259}}.&lt;/ref&gt;
+
+Among the inscriptions referring to the legion and the ''castra'', the most notable is {{CIL|14|2255}},&lt;ref name=nota261/&gt; while {{CIL|14|2257}} is a prediction of the &quot;eternal victory&quot; of Elgabalus, in which the legion is called &quot;''Antoniana''&quot; after the full name of the reigning emperior. The same phenomenon is seen also in the reign of [[Septimius Severus]] or [[Alexander Severus]], when the legion was called &quot;''Severiana''&quot; ({{CIL|14|2274}}, {{CIL|14|2276}}, {{CIL|14|2285}}, {{CIL|14|2290}}, {{CIL|14|2291}}, {{CIL|14|2293}}, {{CIL|14|2294}}, {{CIL|14|2296}}), and under [[Philip the Arab]] when the legion was called &quot;''Philippiana''&quot; ({{CIL|14|2258}}).&lt;ref name=nota263/&gt;
+
+In {{CIL|14|2255}} a temple consecrated to [[Minerva]] is mentioned and a shrine to [[Jupiter]] appears in {{CIL|14|2253}} and {{CIL|14|2254}}, while there is an altar dedicated to the Sun and the Moon in {{CIL|14|2256}}. The last epigraphic evidence regarding the Legio II Parthica at Albano is a series of little terracotta bricks which report the names of fome legionaries ({{CIL|14|2267}}, {{CIL|14|2268}}, {{CIL|14|2293}}) - the oldest of these dates to 226, the latest was reused in the foundations of [[Albano Cathedral]] in the reign of Constantine.&lt;ref name=&quot;Castra Albana p. 264&quot;&gt;{{cite journal|last=Lugli|first=Giuseppe|title=Castra Albana - parte I: un accampamento fortificato al XV miglio della via Appia|journal=Ausonia|year=1919|volume=9|page=264}}.&lt;/ref&gt;
+
+Only three mentions of the ''[[Legio II Parthica]]'' have been found in [[Italia]] outside of the area of Albano. The first of these is a tile dedicated by the legion to the goddess ({{CIL|14|4090}}), which was found near the temple of Diana Aricina on [[Lake Nemi]], in the nearby community of [[Nemi]] in 1884. The other two ({{CIL|5|865}}, {{CIL|5|866}}) were found near [[Aquileia]] in the [[Regio X Venetia et Histria]]. In the east, inscriptions relating to the legion are found in [[Mesopotamia (Roman province)|Mesopotamia]] and [[Syria (Roman province)|Syria]].&lt;ref name=&quot;nota263&quot;/&gt;
+
+== Notes ==
+{{reflist|2}}
+
+== External links ==
+* [http://www.comune.albanolaziale.roma.it/ Official site of the Comune of Albano Laziale]
+* [http://www.museicivicialbano.it/ Official site of the Municipal Museum of Albano Laziale]
+
+[[Category:Roman towns and cities in Italy]]
+[[Category:Ancient Roman forts in Italy]]
+[[Category:Roman legionary fortresses in Italy]]</text>
+      <sha1>kzvhio3gtumo3qcp856uxm4o1bsytpk</sha1>
+    </revision>
+  </page>
+</mediawiki>

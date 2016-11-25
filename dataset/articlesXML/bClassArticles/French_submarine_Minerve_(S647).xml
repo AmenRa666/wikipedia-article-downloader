@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French submarine Minerve (S647)</title>
+    <ns>0</ns>
+    <id>2951642</id>
+    <revision>
+      <id>717301508</id>
+      <parentid>715606311</parentid>
+      <timestamp>2016-04-26T22:01:13Z</timestamp>
+      <contributor>
+        <ip>86.163.222.12</ip>
+      </contributor>
+      <comment>/* Service history */ Port</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6358">{{For|the town in France|Minerve, Hérault}}
+{{Other ships|French ship Minerve}}
+ 
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:Sous-marin-Flore.jpg|300px|''Flore'', sister ship of ''Minerve'']]
+|Ship caption=''Flore'', [[sister ship]] of ''Minerve''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{Shipboxflag|France|naval}}
+|Ship name= ''Minerve''
+|Ship namesake=[[Minerva]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=''Chantiers Dubigeon'', [[Nantes]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=May 1958
+|Ship launched=31 May 1961
+|Ship sponsor=
+|Ship christened=
+|Ship completed=31 May 1961
+|Ship acquired=
+|Ship commissioned=10 June 1964
+|Ship decommissioned=
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=[[Toulon]]
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Sank 27 January 1968
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref&gt;{{cite web |url= http://www.netmarine.net/bat/smarins/minerve/caracter.htm |title=Sous-marin Minerve : Caractéristiques principales |first=Jean-Michel |last=Roche |work=netmarine.net |year=2012  |accessdate=6 February 2013|language=fr}}&lt;/ref&gt;
+|Ship class={{Sclass-|Daphné|submarine}} 
+|Ship type=
+|Ship tonnage=
+|Ship displacement=*{{Convert|860|t|LT|0|lk=on}} surfaced
+*{{Convert|1038|t|LT|0}} submerged
+|Ship length= {{Convert|57.75|m|ftin|abbr=on}}
+|Ship beam= {{Convert|6.74|m|ftin|abbr=on}}
+|Ship height=
+|Ship draught=
+|Ship depth={{Convert|5.25|m|ftin|abbr=on}}
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship power=
+|Ship propulsion=* 2 × {{Convert|450|kW|0|abbr=on}} SEMT Pielstick-Jeumont-Schneider Type 12 diesel engines
+* 2 × {{Convert|1000|hp|0|abbr=on}} electric motors
+* 2 shafts
+
+|Ship speed=*{{Convert|12|kn|lk=in}} surfaced
+*{{Convert|8|kn}} snorkeling
+*{{Convert|15|kn}} submerged
+|Ship range={{Convert|10000|nmi|abbr=on}} at {{Convert|7|kn}} surfaced
+|Ship endurance=30 days
+|Ship test depth={{Convert|300|m|abbr=on}}
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=*6 officers
+*24 non-commissioned officers
+*20 sailors
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=*DRUA 31 radar
+*DUUA 2B sonar
+*DSUV 2 passive sonar
+*DUUX acoustic telemeter
+|Ship EW=ARUR 10B radar detector
+|Ship armament=* 12 × {{Convert|550|mm|in|0|abbr=on}} [[torpedo tube]]s (8 bow, 4 stern)
+* 12 × torpedoes or missiles
+
+|Ship armour=
+|Ship notes=
+}}
+|}
+'''''Minerve''''' was a [[France|French]] [[submarine]], one of nine of the {{sclass-|Daphné|submarine|4}}. The relatively small submarine was an experimental missile-carrying submarine with a diesel engine. She had a maximum speed of {{convert|15|kn}}.
+
+==Service history==
+''Minerve'' was laid down in May 1958 at the ''Chantiers Dubigeon'' shipyard in [[Nantes]], and launched on 31 May 1961. After a [[shakedown cruise]] to [[Londonderry Port]], [[Bergen]], and [[Gothenburg]] in November 1962, the submarine sailed from [[Cherbourg]] to [[Toulon]], arriving on 22 December 1962. She was commissioned into the 1st Submarine Squadron on 10 June 1964. ''Minerve'' operated solely in the Mediterranean, and was refitted at Missiessy Quay, Toulon, in 1967.&lt;ref&gt;{{cite web |url= http://www.netmarine.net/bat/smarins/minerve/index.htm |title=Sous-marin ''Minerve'' |first=Jean-Michel |last=Roche |work=netmarine.net |year=2012 |accessdate=6 February 2013|language=fr}}&lt;/ref&gt;
+
+===Loss===
+On 27 January 1968 at 07:55 hrs, ''Minerve'' was travelling just under the surface using her [[submarine snorkel|snorkel]], roughly {{Convert|25|nmi|km}} from her base in [[Toulon]], when she advised an accompanying [[Breguet Atlantic]] aircraft that she would be at her berth in about an hour; 52 crew, including six officers, were on board. She was never heard from again. She was lost in waters between {{Convert|1000|m|ft}} and {{Convert|2000|m|ft}} deep.&lt;ref name=&quot;disparitionssousmarins&quot;&gt;{{cite web |url= http://s.m.minerve.free.fr/circons.html |title=La tragédie de la Minerve |accessdate=22 September 2013|language=fr}}&lt;/ref&gt;
+
+[[Commander]] Philipe Bouillot later said that ''Minerve''{{'}}s new captain [[Lieutenant]] André Fauve had spent 7,000 hours submerged over four years on submarines of the same class and never had a problem. The only factor known that could have caused her to sink was the weather, which was extremely bad at the time of her loss.&lt;ref name=&quot;disparitionssousmarins&quot;/&gt;
+
+The French Navy promptly launched a search for the missing submarine mobilizing numerous ships, including the aircraft carrier {{Ship|French aircraft carrier|Clemenceau|R98|2}} and the submersible ''[[SP-350 Denise]]'' under the supervision of [[Jacques Cousteau]], but found nothing, and the operation was called off on 2 February. However, the search for ''Minerve'', under the name ''Operation Reminer'' continued into 1969 and utilized the submersible ''[[Archimède]]'' and the US survey ship {{USNS|Mizar|T-AGOR-11|6}}. To this day no trace of the vessel has been found.&lt;ref&gt;{{cite web |url= http://www.netmarine.net/bat/smarins/minerve/histoire.htm |title=Historique du sous-marin ''Minerve'' |first=Jean-Michel |last=Roche |work=netmarine.net |year=2012  |accessdate=6 February 2013|language=fr}}&lt;/ref&gt;
+
+''Minerve'' was lost at about the same time as the {{Ship|INS|Dakar}} (a few days apart), over {{Convert|1450|mi|km}} away. Two more submarines were lost to unknown causes in the same year, the [[Soviet submarine K-129 (1960)|Soviet submarine ''K-129'']] and the US submarine {{USS|Scorpion|SSN-589|6}}.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{cite web |url= http://www.britishpathe.com/video/submarine-minerve-lost-in-mediterranean |title=SUBMARINE MINERVE LOST IN MEDITERRANEAN |work=[[British Pathé]] }}
+
+{{Daphné class submarines}}
+{{1968 shipwrecks}}
+
+{{coord missing|Mediterranean}}
+
+{{DEFAULTSORT:Minerve (S647)}}
+[[Category:Daphné-class submarines of the French Navy]]
+[[Category:Ships built in France]]
+[[Category:1961 ships]]
+[[Category:Maritime incidents in 1968]]
+[[Category:Lost submarines of France]]
+[[Category:Shipwrecks in the Mediterranean]]
+[[Category:Ships lost with all hands]]
+[[Category:Missing ships]]</text>
+      <sha1>qu7dycgj7zepy92w8ioqhpo9xxynbab</sha1>
+    </revision>
+  </page>
+</mediawiki>

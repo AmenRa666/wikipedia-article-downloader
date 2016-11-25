@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>45315201</id>
     <revision>
-      <id>751287130</id>
-      <parentid>751103823</parentid>
-      <timestamp>2016-11-24T16:41:54Z</timestamp>
+      <id>751341698</id>
+      <parentid>751341421</parentid>
+      <timestamp>2016-11-25T01:22:15Z</timestamp>
       <contributor>
-        <username>Mr Stephen</username>
-        <id>863017</id>
+        <username>Maury Markowitz</username>
+        <id>2175</id>
       </contributor>
-      <comment>clean up,fixed dashes using [[Project:AWB|AWB]]</comment>
+      <comment>/* Reentry testing */</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="79999">[[File:Sprint missile maneuvering after launch.jpg|thumb|The Sprint missile was the main weapon in the Nike-X system, intercepting enemy ICBM warheads only seconds before they exploded.]]
+      <text xml:space="preserve" bytes="80020">[[File:Sprint missile maneuvering after launch.jpg|thumb|The Sprint missile was the main weapon in the Nike-X system, intercepting enemy ICBM warheads only seconds before they exploded.]]
 
 '''Nike-X''' was an [[anti-ballistic missile]] (ABM) system designed in the 1960s by the [[US Army]] to protect major cities in the [[United States]] from attacks by the [[Soviet Union]]'s [[intercontinental ballistic missile]] (ICBM) fleet during the [[Cold War]]. The X in the name referred to its experimental basis, and was supposed to be replaced by a more appropriate name when the system was put into production. This never came to pass; the Nike-X program was canceled and replaced by a much lighter defense system known as [[Sentinel program|Sentinel]].
 
@@ -173,7 +173,7 @@ Although initially supportive of the Hardsite concept, by 1966 the Air Force cam
 
 During the project's development phase, the siting and size of the Nike-X bases became a major complaint of smaller cities.{{sfn|Bell Labs|1975|p=I-36}} Originally intended to protect only the largest urban areas, Nike-X was designed to be built at a very large size with many missiles controlled by an expensive computer and radar network. Smaller sites were to be left undefended in the original Nike-X concept, since the system was simply too expensive to build with only a few interceptors. These cities complained that they were not only being left open to attack, but that their lack of defenses might make them primary targets. This led to a series of studies on the Small City Defense (SCD) concept. By 1964 SCD had become part of the baseline Nike-X deployment plans, with every city with a population over 100,000 being provided some level of defensive system.{{sfn|Bell Labs|1975|pp=26}}
 
-SCD would consist primarily of a single autonomous battery centered on a cut-down MAR called TACMAR (TACtical MAR), along with a simplified data processing system known as the Local Data Processor (LDP). This was essentially the DCDP with fewer modules installed, reducing the number of tracks it could compile and the amount of decluttering it could handle.{{sfn|Bell Labs|1975|pp=2–6}} To further reduce costs, Bell later replaced the cut-down MAR with an upgraded MSR, TACMSR.{{sfn|Bell Labs|1975|p=I-38}} They studied a wide variety of potential deployments, starting with systems like the original Nike-X proposal with no SCDs, to deployments offering complete continental US protection with a large number of SCD modules of various types and sizes. The deployments were arranged to be able to be built in phases, working up to complete coverage.{{sfn|Bell Labs|1975|pp=2–7}}
+SCD would consist primarily of a single autonomous battery centered on a cut-down MAR called TACMAR (TACtical MAR), along with a simplified data processing system known as the Local Data Processor (LDP). This was essentially the DCDP with fewer modules installed, reducing the number of tracks it could compile and the amount of decluttering it could handle.{{sfn|Bell Labs|1975|pp=2–6}} To further reduce costs, Bell later replaced the cut-down MAR with an upgraded MSR, TACMSR.{{sfn|Bell Labs|1975|p=I-38}} They studied a wide variety of potential deployments, starting with systems like the original Nike-X proposal with no SCDs, to deployments offering complete continental US protection with a large number of SCD modules of various types and sizes. The deployments were arranged so that they could be built in phases, working up to complete coverage.{{sfn|Bell Labs|1975|pp=2–7}}
 
 One issue that emerged from these studies was the problem of providing early warning to the SCD sites. MAR had been carefully tuned to provide just enough warning for their systems to complete the interception, and did not offer any sort of early warning. The SCD's MSR radars provided detection at perhaps {{convert|100|miles}}, which meant targets would appear on their radars only seconds before launches would have to be carried out. In a sneak attack scenario there would not be enough time to receive command authority for the release of nuclear weapons.  This meant the bases would require [[launch on warning]] authority, which was politically unacceptable.&lt;ref&gt;{{cite book |first= John |last= Holst |title=Missile Defense: Implications for Europe |url=https://books.google.ca/books?id=lNlsBQAAQBAJ&amp;pg=PA192 |publisher=Elsevier |year=2013 |pages=191–192 |isbn=978-1-4831-4573-0 }}&lt;/ref&gt;
 
@@ -268,7 +268,7 @@ One of the reasons for the move from Zeus to Nike-X was concern that the Zeus ra
 
 The reentry phenomenology was of interest both to the Army, as it might allow long-range decluttering to be carried out, as well as to the Air Force, whose own ICBMs might be at risk of long-range interception if the Soviets exploited a similar concept.{{sfn|Reed|1991|pp=1–13}} A program to test these concepts was a major part of ARPA's Project Defender, especially Project PRESS, which started in 1960. This led to the construction of a number of high-power radar systems on [[Roi-Namur]], the northernmost point of the Kwajalein atoll. Although the results remain classified, a number of sources mention the failure to find a reliable signature of this sort.{{sfn|Reed|1991|pp=1–13}}{{efn|Bell's history makes several mentions of PRESS and later efforts' failures in this regard.}}
 
-In 1964, Bell Labs formulated their own set of requirements for radar work in relation to Nike-X. Working with the Army, Air Force, Lincoln Labs and ARPA, the Nike-X Reentry Measurements Program (RMP) ran a long series of reentry measurements with the PRESS radars, especially TRADEX.{{sfn|Reed|1991|pp=1–16}} Additionally, a [[Lockheed EC-121 Warning Star]] aircraft was refit with optical and [[infrared]] telescopes for optical tracking tests. The first series of tests, RMP-A, focused on modern conical reentry vehicles, and conceded on 30 June 1966. These demonstrated that these vehicles were difficult to discriminate because of their low drag. RMP-B ran between 1967 and 1970, supported by 17 launches from Vandenberg, with a wide variety of vehicle shapes and penetration aids.&lt;ref&gt;{{cite web |title= Nike-X reentry measurement program |first= Sharon |last= Lang |date=9 June 2016 |url=https://www.army.mil/article/169555/SMDC_History__Nike_X_reentry_measurement_program/ |website=US Army }}&lt;/ref&gt;
+In 1964, Bell Labs formulated their own set of requirements for radar work in relation to Nike-X. Working with the Army, Air Force, Lincoln Labs and ARPA, the Nike-X Reentry Measurements Program (RMP) ran a long series of reentry measurements with the [[Project PRESS]] radars, especially [[TRADEX]].{{sfn|Reed|1991|pp=1–16}} Additionally, a [[Lockheed EC-121 Warning Star]] aircraft was refit with optical and [[infrared]] telescopes for optical tracking tests. The first series of tests, RMP-A, focused on modern conical reentry vehicles, and conceded on 30 June 1966. These demonstrated that these vehicles were difficult to discriminate because of their low drag. RMP-B ran between 1967 and 1970, supported by 17 launches from Vandenberg, with a wide variety of vehicle shapes and penetration aids.&lt;ref&gt;{{cite web |title= Nike-X reentry measurement program |first= Sharon |last= Lang |date=9 June 2016 |url=https://www.army.mil/article/169555/SMDC_History__Nike_X_reentry_measurement_program/ |website=US Army }}&lt;/ref&gt;
 
 The program ran until the 1970s, but by the late 1960s it was clear that discrimination of decoys was an unsolved problem, although some of the techniques developed might still be useful against less sophisticated decoys. This work appears to be one of the main reasons that the thin defense of I-67 was considered worthwhile. At that time, in 1967, ARPA passed the PRESS radars to the Army.{{sfn|Reed|1991|pp=1–17}}
 
@@ -352,7 +352,7 @@ Two warheads were designed for Sprint starting in 1963, the [[W65]] at [[Lawrenc
 [[Category:Anti-ballistic missiles]]
 [[Category:Missile defense]]
 [[Category:Cold War surface-to-air missiles of the United States]]</text>
-      <sha1>66w5xldu91w0pq27gc9rq6luedjyj9f</sha1>
+      <sha1>4gcj1r2pdde7ury5bo25dsfz225l3pv</sha1>
     </revision>
   </page>
 </mediawiki>

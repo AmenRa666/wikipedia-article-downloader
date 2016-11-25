@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Fort William (J311)</title>
+    <ns>0</ns>
+    <id>52250969</id>
+    <revision>
+      <id>749121001</id>
+      <parentid>748997878</parentid>
+      <timestamp>2016-11-12T15:11:14Z</timestamp>
+      <contributor>
+        <username>Llammakey</username>
+        <id>21878292</id>
+      </contributor>
+      <comment>/* Operational history */ missing word</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11605">{{other ships|HMCS Fort William}}
+{{Use dmy dates|date=November 2016}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox Ship Career
+|Hide header=
+|Ship country=Canada
+|Ship flag= {{shipboxflag|Canada|naval-1911}} 
+|Ship name= ''Fort William''
+|Ship namesake=[[Fort William, Ontario|Fort William]], [[Ontario]]
+|Ship ordered= 
+|Ship awarded=
+|Ship builder= [[Port Arthur Shipbuilding Company|Port Arthur Shipbuilding Co]], [[Port Arthur, Ontario|Port Arthur]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down= 18 August 1941
+|Ship launched= 30 December 1941
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=25 August 1942
+|Ship recommissioned=
+|Ship decommissioned= 23 October 1945
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification= [[Pennant number]]: J311 
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Transferred to [[Turkish Navy]] 1957
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Turkey
+|Ship flag={{shipboxflag|Turkey|naval}}
+|Ship name=''Bodrum''
+|Ship namesake=
+|Ship acquired=29 November 1957
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship fate=Discarded 1971
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Bangor|minesweeper|1|ship}}
+|Ship displacement={{convert|672|LT|t|abbr=on}}
+|Ship length={{convert|180|ft|m|1|abbr=on}} [[Length overall|oa]]
+|Ship beam={{convert|28|ft|6|in|m|1|abbr=on}}
+|Ship draught={{convert|9|ft|9|in|m|1|abbr=on}}
+|Ship propulsion=2 Admiralty 3-drum water tube boilers, 2 shafts, vertical triple-expansion reciprocating engines, {{convert|2400|ihp|kW|-1|abbr=on}}
+|Ship speed={{convert|16.5|kn|km/h|0}}
+|Ship complement=83
+|Ship armament=*1 × [[QF 12-pounder 12 cwt naval gun|12-pounder ({{convert|3|in|mm|abbr=on|0}}) 12 cwt HA gun]]
+*1 x [[QF 2 pounder naval gun|QF 2 pdr Mark VIII]]
+*2 × [[Oerlikon 20 mm cannon|QF 20 mm Oerlikon]] guns
+*40 [[depth charge]]s as escort
+}}
+|}
+
+'''HMCS ''Fort William''''' ([[Pennant number|pennant]] J311) was a {{sclass-|Bangor|minesweeper||ship}} that served with the [[Royal Canadian Navy]] during the [[World War II|Second World War]]. Entering service in 1942, the minesweeper participated in the [[Battle of the Atlantic]] as a [[convoy]] escort and in the [[invasion of Normandy]]. Following the war, the ship was laid up, but was reacquired during the [[Korean War]]. ''Fort William'' never re-entered service with the Royal Canadian Navy and in 1957, was sold to Turkey. Renamed '''''Bodrum''''' by the [[Turkish Navy]], the ship was discarded in 1971.
+
+==Design and description==
+A British design, the ''Bangor''-class minesweepers were smaller than the preceding {{sclass-|Halcyon|minesweeper|1}}s in British service, but larger than the {{sclass-|Fundy|minesweeper|4}} in Canadian service.&lt;ref name=chesneau&gt;Chesneau, p. 64&lt;/ref&gt;&lt;ref name=mac167&gt;Macpherson and Barrie (2002), p. 167&lt;/ref&gt; They came in two versions powered by different engines; those with a [[diesel engine]]s and those with [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam]] engines.&lt;ref name=chesneau/&gt; ''Fort William'' was of the latter design and was larger than her diesel-engined cousins. The minesweeper was {{convert|180|ft|m|1}} [[Length overall|long overall]], had a [[Beam (nautical)|beam]] of {{convert|28|ft|6|in|m|1}} and a [[Draft (hull)|draught]] of {{convert|9|ft|9|in|m|1}}.&lt;ref name=chesneau/&gt;&lt;ref name=mac180&gt;Macpherson and Barrie (2002), p. 180&lt;/ref&gt; ''Fort William'' had a [[Displacement (ship)|displacement]] of {{convert|672|LT|t}}. She had a complement of 6 officers and 77 enlisted.&lt;ref name=mac180/&gt;
+
+''Fort William'' had two vertical triple-expansion steam engines, each driving one shaft, using steam provided by two [[Admiralty three-drum boiler]]s. The engines produced a total of {{convert|2400|ihp|lk=in}} and gave a maximum speed of {{convert|16.5|kn|lk=in}}. The minesweeper could carry a maximum of {{convert|150|LT|t|0}} of [[fuel oil]].&lt;ref name=chesneau/&gt;
+
+''Fort William'' was armed with a single [[Quick-firing gun|quick-firing]] (QF) [[QF 12-pounder 12 cwt naval gun|12-pounder ({{convert|3|in|mm|abbr=on|0}}) 12 cwt HA gun]] mounted forward.&lt;ref name=chesneau/&gt;&lt;ref name=mac70&gt;Macpherson (1997), p. 70&lt;/ref&gt;{{efn|name=gun nomenclature}} The ship was also fitted with a [[QF 2 pounder naval gun|QF 2-pounder Mark VIII]] aft and were eventually fitted with single-mounted [[Oerlikon 20 mm cannon|QF 20 mm Oerlikon]] guns on the [[Bridge (nautical)|bridge]] wings.&lt;ref name=mac&gt;Macpherson (1997), p. 58&lt;/ref&gt; The 2-pounder gun was later replaced with a twin 20 mm Oerlikon mount.&lt;ref name=mac70/&gt; Those ships assigned to convoy duty had two [[depth charge]] launchers and four chutes to deploy the 40 depth charges they carried.&lt;ref name=chesneau/&gt;&lt;ref name=mac70/&gt;
+
+==Operational history==
+The minesweeper was ordered as part of the 1941-1942 construction programme.&lt;ref name=mac70/&gt; The ship's [[keel]] was laid down on 18 August 1941 by [[Port Arthur Shipbuilding Company|Port Arthur Shipbuilding Co]] at their yard in [[Port Arthur, Ontario|Port Arthur]], [[Ontario]]. Named for a [[Fort William, Ontario|community]] in [[Ontario]], ''Fort William'' was [[Ship naming and launching|launched]] on 30 December 1941. The ship was [[Ship commissioning|commissioned]] on 25 August 1942 at Port Arthur.&lt;ref name=mac190&gt;Macpherson and Barrie (2002), p. 190&lt;/ref&gt;
+
+The ship arrived at [[Halifax, Nova Scotia]] on 24 September 1942 and underwent further dockyard work after a number of defects were found in ''Fort William''{{'}}s construction. The repairs took until October to complete, when the minesweeper began her [[Shakedown (testing)|work ups]]. In November, ''Fort William'' was assigned to Halifax Force as a local convoy escort and patrol vessel. On 11 January 1943 the minesweeper collided with ''Lisgar'' in [[Halifax Harbour]], suffering significant damage. ''Fort William'' underwent repairs at Halifax that took a month to complete.&lt;ref name=mac190/&gt;
+
+In June 1943, the minesweeper transferred to Newfoundland Force, the local escort and patrol unit based at [[St. John's, Newfoundland and Labrador|St. John's, Newfoundland]]. ''Fort William'' remained with that group until February 1944, when the minesweeper returned to Halifax to undergo a refit. Following the completion of the refit, the ship then sailed to Europe as part of Canada's contribution to the [[invasion of Normandy]].&lt;ref name=mac190/&gt;
+
+Upon arrival in March, ''Fort William'' was assigned to the 31st Minesweeping Flotilla. During the invasion, ''Fort William'' and her fellow minesweepers swept and marked channels through the German minefields leading into the invasion beaches in the American sector.&lt;ref&gt;Schull, pp. 233-34&lt;/ref&gt; The 31st Minesweeping Flotilla swept channel 3 on 6 June.&lt;ref&gt;Schull, pp. 270-73&lt;/ref&gt; While operating off [[Port-en-Bessin-Huppain|Port-en-Bessin]], ''Fort William'' and [[sister ship]] {{HMCS|Caraquet||2}} fouled their sweeps on a wreck. While recovering their sweeps they came under fire from a [[Coastal artillery|shore battery]] near [[Saint-Laurent-sur-Mer|Saint-Laurent]]. The shore battery was silenced by naval gunfire from the [[battleship]] {{USS|Arkansas|BB-33|6}}.&lt;ref&gt;Douglas et al., ''A Blue Water Navy'', p. 255&lt;/ref&gt; The Canadian ''Bangor''s spent most of June sweeping Channel 14, the widened area that combined assault channels 1 to 4.&lt;ref&gt;Douglas et al., ''A Blue Water Navy'', pp. 290-291&lt;/ref&gt;
+
+The minesweepers spent the following months clearing the shipping lanes between the United Kingdom and mainland Europe. Towards the end of 1944, the minesweepers were also being used as a cross channel convoy escorts.&lt;ref&gt;Douglas et al., ''A Blue Water Navy'', p. 334&lt;/ref&gt; In March 1945, ''Fort William'' returned to Canada to undergo another refit. The vessel rejoined the 31st Minesweeping Flotilla and remained in European waters until 21 September 1945.&lt;ref name=mac190/&gt;
+
+After returning to Canada, the minesweeper was [[Ship decommissioning|paid off]] at [[Sydney, Nova Scotia]] on 23 October 1945. ''Fort William'' was placed in strategic reserve at [[Sorel, Quebec]] in 1946. In June 1951 the minesweeper was reacquired by the Royal Canadian Navy during the [[Korean War]] and modernized.&lt;ref name=mac190/&gt; The vessel was taken to Sydney, Nova Scotia and given the new [[Hull classification symbol (Canada)|hull number]] FSE 195 and re-designated a coastal escort.&lt;ref name=mac190/&gt;&lt;ref&gt;Blackman, p. 99&lt;/ref&gt; However, the ship never recommissioned and remained in reserve at Sydney until 29 November 1957 when ''Fort William'' was formally transferred to the [[Turkish Navy]].&lt;ref name=mac190/&gt;&lt;ref&gt;Colledge, p. 244&lt;/ref&gt; Renamed ''Bodrum'' by the Turkish Navy, the vessel remained in service until 1971 when it was discarded.&lt;ref name=mac190/&gt; The vessel was [[Ship breaking|broken up]] in Turkey in 1971.&lt;ref&gt;{{csr|register=MSI|id=6113059|shipname=Fort William|accessdate=11 November 2016}}&lt;/ref&gt;
+
+==References==
+===Notes===
+{{notes
+| notes =
+
+{{efn
+| name = gun nomenclature
+| &quot;Cwt&quot; is the abbreviation for [[hundredweight]], 20 cwt referring to the weight of the gun.
+}}
+}}
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+* {{cite book |editor-last=Blackman |editor-first=Raymond V.B. |date=1953 |title=Jane's Fighting Ships 1953—54 |publisher= Sampson Low, Marston &amp; Co. Ltd |location=London |isbn= }}
+* {{cite book |editor-last=Chesneau |editor-first=Roger |date=1980 |title=Conway's All the World's Fighting Ships 1922—1946 |publisher=Conway Maritime Press |location=Greenwich, UK |isbn=0-85177-146-7}}
+* {{colledge}}
+* {{cite book |last=Douglas |first=W.A.B. |last2=Sarty |first2=Roger |last3=Whitby |first3=Michael |title=A Blue Water Navy: The Official Operational History of the Royal Canadian Navy in the Second World War, 1943-1945 Volume II, Part II |publisher=Vanwell Publishing |location=St. Catharines, Ontario |date=2007 |isbn=1-55125-069-1}}
+* {{cite book |last=Macpherson |first=Ken |date=1997 |title=Minesweepers of the Royal Canadian Navy 1938—1945 |publisher=Vanwell Publishing Limited |location=St. Catharines, Ontario |isbn=0-920277-55-1}}
+* {{cite book |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |date=2002 |title=The Ships of Canada's Naval Forces 1910—2002  |edition=Third |publisher=Vanwell Publishing |location=St. Catharines, Ontario |isbn=1-55125-072-1}}
+* {{cite book |last=Schull |first=Joseph |date=1961 |title=The Far Distant Ships: An Official Account of Canadian Naval Operations in the Second World War |publisher=Queen's Printer |location=Ottawa}}
+
+==External links==
+* {{cite web |url=http://www.hazegray.org/navhist/canada/ww2/bangor/ |title= Bangor Class |publisher=Hazegray.org |work= Canadian Navy of Yesterday and Today}}
+* {{cite web | url = http://www.uboat.net/allies/warships/ship/2690.html | work = Uboat.net | title = HMCS ''Fort William'' (J 311)}}
+
+{{Bangor class minesweeper}}
+
+{{DEFAULTSORT:Fort William (J311)}}
+[[Category:Bangor-class minesweepers of the Royal Canadian Navy]]
+[[Category:Ships built in Ontario]]
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:1941 ships]]
+[[Category:World War II minesweepers of Canada]]</text>
+      <sha1>nigp2wsbt24lu6enqnf9vkq6k6bbd3s</sha1>
+    </revision>
+  </page>
+</mediawiki>

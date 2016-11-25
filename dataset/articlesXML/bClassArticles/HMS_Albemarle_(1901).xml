@@ -1,0 +1,218 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Albemarle (1901)</title>
+    <ns>0</ns>
+    <id>1001237</id>
+    <revision>
+      <id>745747242</id>
+      <parentid>743501610</parentid>
+      <timestamp>2016-10-23T02:07:38Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16499">{{Other ships|HMS Albemarle}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:HMS Albemarle LOC ggbain.17993.jpg|300px|HMS Albemarle]]
+|Ship caption=HMS ''Albemarle''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Albemarle''
+|Ship namesake=[[George Monck, 1st Duke of Albemarle]].
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Chatham Dockyard]]
+|Ship original cost=£1,078,395&lt;ref name=&quot;Burt p198&quot;&gt;Burt 1988, p. 198.&lt;/ref&gt;
+|Ship laid down=1 January 1900
+|Ship launched=5 March 1901
+|Ship sponsor=
+|Ship christened=[[William Kennedy (Royal Navy officer)|Lady Kennedy]]
+|Ship completed=November 1903
+|Ship acquired=
+|Ship commissioned=12 November 1903
+|Ship recommissioned=
+|Ship decommissioned=April 1919
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=The ''Duncan''-class battleships were informally called &quot;The Admirals&quot;&lt;ref name=&quot;Burt p198&quot;/&gt;
+|Ship honours=
+|Ship captured=
+|Ship fate=Sold for scrapping 19 November 1919; scrapped 1920
+|Ship status=
+|Ship notes=Became accommodation ship in reserve 1917
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Duncan|battleship|0}} [[pre-dreadnought]] [[battleship]]
+|Ship displacement=*13,270 to 13,745 tons load
+*14,900 to 15,200 tons deep&lt;ref name=&quot;Conway 1860 p37&quot;&gt;''Conway's All the World's Fighting Ships, 1860–1905'' 1979, p. 37.&lt;/ref&gt;
+|Ship length={{convert|432|ft|m|abbr=on}}
+|Ship beam={{convert|75|ft|6|in|m|abbr=on}}
+|Ship draught={{convert|25|ft|9|in|m|abbr=on}}
+|Ship depth=
+|Ship decks=
+|Ship power={{convert|18,000|ihp|kW|abbr=on}}
+|Ship propulsion=*24 [[Belleville (boiler)|Belleville]] water tube [[boilers]]
+*4-cylinder triple expansion
+*2 shafts&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+|Ship speed= {{convert|19|kn|0}}
+|Ship range={{convert|7,000|nmi|abbr=on}} at {{convert|10|kn|abbr=on}}
+|Ship endurance=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=720
+|Ship crew=
+|Ship time to activate=
+|Ship armament=*4 × [[BL 12 inch Mk IX naval gun|BL {{convert|12|in|mm|sing=on|sigfig=4}} 40-caliber Mk IX guns]]&lt;ref&gt;Tony DiGiulian, [http://www.navweaps.com/Weapons/WNBR_12-40_mk9.htm British 12&quot;/40 (30.5 cm) Mark IX]&lt;/ref&gt;
+*12 × [[BL 6 inch Gun Mk 7|BL 6-inch (152 mm) 45-caliber Mk VII guns]]&lt;ref&gt;Tony DiGiulian, [http://www.navweaps.com/Weapons/WNBR_6-45_mk7.htm British 6&quot;/45 (15.2 cm) BL Mark VII]&lt;/ref&gt;
+*10 × [[QF 12-pounder 12 cwt naval gun|12-pounder guns]]
+*6 × [[QF 3-pounder Hotchkiss|3-pounder guns]]
+*2 × machine guns
+*4 × [[British 18 inch torpedo|18-inch (450 mm) torpedo]] tubes (submerged)&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+|Ship armour=*Belt: {{convert|7|in|mm|abbr=on|0}}
+*Bulkheads: {{convert|11|-|7|in|mm|abbr=on|0}}
+*Decks: {{convert|2|-|1|in|mm|abbr=on}}
+*Gun houses: {{convert|10|-|8|in|mm|0|abbr=on}}
+*[[Barbettes]]: {{convert|11|-|4|in|mm|0|abbr=on}}
+*[[Casemates]]: {{convert|6|in|mm|abbr=on|0}}
+*[[Conning tower]]: {{convert|12|in|mm|abbr=on|0}} &lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+|Ship notes=
+}}
+|}
+'''HMS ''Albemarle''''' was a [[pre-dreadnought]] {{sclass-|Duncan|battleship}} of the [[Royal Navy]], named after [[George Monck, 1st Duke of Albemarle]].  She was amongst the fastest battleships of her time when she was commissioned, but she became superseded by the new [[dreadnought]]s which began entering service from 1906. Despite this, she served with the [[Grand Fleet]] on the [[Northern Patrol]] during the early stages of [[World War I]]. She was dispatched to [[Murmansk]] in [[Russia]] for guard and icebreaking duties for most of 1916.  On her return to England, she underwent a refit and was in reserve for the remainder of the war. Decommissioned in April 1919, she was scrapped in 1920.
+
+==Technical Description==
+HMS ''Albemarle'' was [[Keel laying|laid down]] on 1 January 1900 at [[Chatham Dockyard]],&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Wednesday |date=3 January 1900 |page_number=4 |issue=36029| }}&lt;/ref&gt; and [[Ship naming and launching|launched]] on 5 March 1901, when Lady Kennedy, wife of [[William Kennedy (Royal Navy officer)|Admiral Sir William Kennedy]], [[Commander-in-Chief, The Nore|Commander-in-Chief of the Nore]], performed the christening.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Wednesday |date=6 March 1901 |page_number=10 |issue=36395| }}&lt;/ref&gt;
+She was completed in November 1903.&lt;ref name=&quot;Burt p198&quot;/&gt;
+
+''Albemarle'' and her five [[sister ship|sisters]] of the ''Duncan''-class were ordered in response to large [[French Navy|French]] and [[Russian Navy|Russian]] building programmes,&lt;ref name=&quot;Conway 1860 p37&quot;/&gt; including an emphasis on fast battleships in the Russian programme;&lt;ref name=&quot;Gibbons p159&quot;&gt;Gibbons 1983, p. 159&lt;/ref&gt; they were designed as smaller, more lightly armored, and faster versions of the preceding {{sclass-|Formidable|battleship|4}}.&lt;ref name=&quot;Conway 1860 p37&quot;/&gt; As it turned out, the Russian ships were not as heavily armed as initially feared, and the ''Duncan''s proved to be quite superior in their balance of speed, firepower, and protection.&lt;ref name=&quot;Gibbons p159&quot;/&gt; Although they were designed before the ships of the ''London'' subclass of the ''Formidable'' class, the first two ''London''s were laid down before the first ''Duncan''.&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+
+The armour layout was similar to that of {{HMS|London|1899|2}}, with reduced thickness in the [[barbette]]s  and belt.&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+
+''Albemarle'' and her sisters had machinery capable of {{convert|3,000|ihp|kW|lk=in}} more than the ''Formidable''s and ''London''s and were the first British battleships with 4-cylinder [[triple-expansion engine]]s. They also had a modified hull form to improve speed. ''Albemarle'' and her sister ships had a reputation as good steamers, with a designed speed of {{convert|19|kn|lk=in}} and an operational speed of {{convert|18|kn}},&lt;ref name=&quot;Conway 1860 p37&quot;/&gt; good steering at all speeds, and an easy roll. They were the fastest battleships in the Royal Navy when completed, and the fastest [[pre-dreadnought]]s ever built other than the {{sclass-|Swiftsure|battleship|0}} {{HMS|Swiftsure|1903|6}} and {{HMS|Triumph|1903|6}}.&lt;ref&gt;Burt 1988, p. 202&lt;/ref&gt; ''Albemarle'' herself was viewed as the best steamer under service conditions among the ''Duncan''s.&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+
+''Albemarle'' and her sisters had the same armament as and a smaller displacement than the ''Formidable''s and ''London''s.&lt;ref name=&quot;Conway 1860 p37&quot;/&gt;
+
+Like all pre-dreadnoughts, ''Albemarle'' was outclassed by the [[dreadnought]] battleships that began to appear in 1906, but she nonetheless continued to perform front-line duties up through the early part of [[World War I]].
+
+==Operational history==
+===Pre-World War I===
+HMS ''Albemarle'' [[Ship commissioning|commissioned]] at [[Chatham Dockyard]] on 12 November 1903 for service as Flag extra, [[Rear Admiral]], in the [[Mediterranean Fleet]]. In February 1905 she transferred to the [[Channel Fleet]] to serve as 2nd [[Flagship]]. She transferred to the [[British Atlantic Fleet|Atlantic Fleet]] on 31 January 1907, serving as 2nd Flagship there as well. Under [[Captain (Royal Navy)|Captain]] [[ Robert Falcon Scott]]{{'}}s command, she collided with the battleship {{HMS|Commonwealth|1903|6}} on 11 February 1907, suffering minor [[Bow (ship)|bow]] damage.&lt;ref name=&quot;Burt 211&quot;&gt;Burt 1988, p. 211.&lt;/ref&gt; She became Flagship, Rear Admiral, at [[Gibraltar]] in January 1909&lt;ref name=&quot;Conway 06p8&quot;&gt;''Conway's All the World's Fighting Ships, 1906–1921'' 1985, p. 8.&lt;/ref&gt; and underwent a refit at [[Malta]] from May through August 1909. Her Atlantic Fleet service ended in February 1910.&lt;ref name=&quot;Burt 211&quot;/&gt;
+
+On 25 February 1910, ''Albemarle'' recommissioned for service in the 3rd Division, [[Home Fleet]], at [[Portsmouth, England|Portsmouth]]. She paid off at [[Portsmouth Dockyard]] for a refit on 30 October 1911; the refit lasted from January to December 1912.&lt;ref name=&quot;Burt 211&quot;/&gt;
+
+Her refit complete, ''Albemarle'' recommissioned at Portsmouth to serve in the [[British 4th Battle Squadron|4th Battle Squadron]] in the First Fleet there. On 15 May 1913, she was reduced to a nucleus crew and assigned to the [[British 6th Battle Squadron|6th Battle Squadron]], Second Fleet, to serve as a gunnery training ship.&lt;ref name=&quot;Burt 211&quot;/&gt;
+
+===World War I===
+When World War I began in August 1914, plans originally called for ''Albemarle'' and battleships {{HMS|Agamemnon|1906|2}}, {{HMS|Cornwallis|1901|2}}, {{HMS|Duncan|1901|2}}, {{HMS|Exmouth|1901|2}}, {{HMS|Russell|1901|2}}, and {{HMS|Vengeance|1899|2}} to form the 6th Battle Squadron and serve in the Channel Fleet, where it was to patrol the [[English Channel]] and cover the movement of the [[British Expeditionary Force (World War I)|British Expeditionary Force]] to [[France]]. However, plans also existed for the 6th Battle Squadron to be assigned to the [[Grand Fleet]], and, when the war began, the Commander-in-Chief, Grand Fleet, [[Admiral (United Kingdom)|Admiral]] Sir [[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]], requested that ''Albemarle'' and her four surviving sister ships of the ''Duncan'' class (''Cornwallis'', ''Duncan'', ''Exmouth'', and ''Russell'') be assigned to the [[British 3rd Battle Squadron|3rd Battle Squadron]] in the Grand Fleet for patrol duties to make up for the Grand Fleet's shortage of [[cruiser]]s. Accordingly, the 6th Battle Squadron was abolished temporarily, and ''Albemarle'' joined the 3rd Battle Squadron at [[Scapa Flow]] on 8 August 1914, and worked with Grand Fleet cruisers on the [[Northern Patrol]].&lt;ref&gt;Burt 1988, pp. 211–212.&lt;/ref&gt;
+
+''Albemarle'' and her four ''Duncan''-class sisters, as well as the battleships of the {{sclass-|King Edward VII|battleship|4}}, temporarily were transferred to the Channel Fleet on 2 November 1914 to reinforce that fleet in the face of [[Imperial German Navy]] activity in the Channel Fleet's area. On 13 November 1914, the ''King Edward VII''-class ships returned to the Grand Fleet, but ''Albemarle'' and the other ''Duncan''s stayed in the Channel Fleet, where they reconstituted the 6th Battle Squadron on 14 November 1914. This squadron was given a mission of bombarding German [[submarine]] bases on the coast of [[Belgium]], and was based at [[Portland, England|Portland]], although it transferred to [[Dover, England|Dover]] immediately on 14 November 1914. However, due to a lack of [[antisubmarine]] defenses at Dover, the squadron returned to Portland on 19 November 1914.&lt;ref name=&quot;Burt 212&quot;&gt;Burt 1988, p. 212.&lt;/ref&gt;
+
+The 6th Battle Squadron returned to Dover in December 1914, then transferred to [[Sheerness]] on 30 December 1914 to relieve the [[British 5th Battle Squadron|5th Battle Squadron]] there in guarding against a German invasion of the [[United Kingdom]].&lt;ref&gt;Burt 1988, pp. 170, 212.&lt;/ref&gt;
+
+Between January and May 1915, the 6th Battle Squadron was dispersed. ''Albemarle'' left the squadron in April 1915 and rejoined the 3rd Battle Squadron in the Grand Fleet. She underwent a refit at [[Chatham Dockyard]] in October 1915.&lt;ref name=&quot;Burt 212&quot;/&gt;
+
+In November 1915, ''Albemarle'' was ordered to move to the [[Mediterranean Sea|Mediterranean]] with a division of the 3rd Battle Squadron that also included the battleships {{HMS|Hibernia|1905|2}} (the flagship), [[HMS New Zealand (1904)|''Zealandia'']], and ''Russell''. The ships left Scapa Flow on 6 November 1915, but encountered extremely heavy weather that night in the [[Pentland Firth]].&lt;ref&gt;Burt 1988, p. 212., but according to ''Conway's All the World's Fighting Ships, 1906–1921'' 1985, p. 8., this damage occurred on 11 November 1915&lt;/ref&gt;  ''Albemarle'', heavily loaded with spare ammunition,&lt;ref name=&quot;Conway 06p8&quot;/&gt; suffered severe damage early on 7 November when two large waves struck her in rapid succession, wrecking her forebridge and chart house, shifting the roof of her [[conning tower]], and flooding her forward main gun turret, mess decks, and flats. An officer and rating were washed overboard and lost, another rating was killed, and three officers and 16 ratings suffered serious injuries; two of the injured ratings later died.&lt;ref&gt;[http://oldweather.s3.amazonaws.com/ADM53-33201/ADM53-33201-010_1.jpg oldweather.com Log entries of HMS ''Albemarle''.]&lt;/ref&gt;&lt;ref name=&quot;navalhistory&quot;&gt;[http://www.naval-history.net/OWShips-WW1-01Albemarle.htm naval-history.net Royal Navy Logbooks of the World War I Era: HMS ALBEMARLE - March 1915 to November 1916, 3rd BS, Grand Fleet, damaged in gale Nov 1915, North Russia (icebreaker)]&lt;/ref&gt; In an 8 November 1915 letter to [[First Sea Lord]] Admiral [[Henry Jackson (Royal Navy officer)|Henry B. Jackson]], Commander-in-Chief of the Grand Fleet Admiral John Jellicoe described what had happened, saying that ''Albemarle'' had been making {{convert|16|kn}} when water from the two waves had risen as high as the bottom of her lower foretop, filling the foretop with water, sweeping her forward deck clear and smashing the forebridge, most of which was found in pieces on her upper deck.&lt;ref&gt;Jackson Papers, National Museum of the Royal Navy, Portsmouth, U.K. 255/4/31.&lt;/ref&gt;&lt;ref name=&quot;Burt 212&quot;/&gt; Accompanied by ''Zealandia'', ''Hibernia'' assisted her in proceeding for repairs to Scapa Flow, where she arrived later on 7 November and transferred 24 injured ratings on stretchers and three officers to the [[hospital ship]] ''Plassey'' for further treatment.&lt;ref name=&quot;navalhistory&quot;/&gt;
+
+When her repairs were complete in December 1915, ''Albemarle'' was ordered to rejoin the Grand Fleet. She thus became the only ''Duncan''-class ship (other than {{HMS|Montagu|1901|2}}, which had been wrecked before the war) with no wartime Mediterranean service.&lt;ref name=&quot;Burt 212&quot;/&gt;
+
+In January 1916, ''Albemarle'' was detached from the Grand Fleet to serve in North [[Russia]] at [[Murmansk]] as guard ship and as an [[icebreaker]] in the approaches to [[Arkhangelsk]]. At Murmansk, she also served as flagship of Senior Naval Officer, Murmansk.&lt;ref&gt;Burt 1988, p. 212.; ''Conway's All the World's Fighting Ships, 1906–1921'' 1985, p. 8.&lt;/ref&gt;
+
+====Decommissioning====
+''Albemarle'' returned to the United Kingdom in September 1916, paying off at Portsmouth to provide crews for antisubmarine vessels. She began a refit at [[Liverpool]] in October 1916, and upon its completion in March 1917 she went into reserve at [[HMNB Devonport|Devonport Dockyard]];&lt;ref name=&quot;Burt 212&quot;/&gt; her main-deck [[casemate]] 6-inch (152 mm) guns were removed and replaced with four 6-inch (152 mm) guns on her battery deck between September 1916 and May 1917.&lt;ref name=&quot;Conway 06p8&quot;/&gt;
+
+===Post-World War I===
+''Albemarle'' was in reserve until April 1919, used as an overflow [[accommodation ship]] for the naval barracks at Devonport, and was attached to the Gunnery School in 1919.&lt;ref name=&quot;Burt 212&quot;/&gt;
+
+==Disposal==
+''Albemarle'' was placed on the disposal list in April 1919 and on the sale list in August 1919. She was sold for scrapping to [[Cohen Shipbeaking Company]] on 19 November 1919 and arrived at [[Swansea]] for scrapping in April 1920.&lt;ref name=&quot;Burt 212&quot;/&gt;
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* Burt, R. A. ''British Battleships 1889–1904''. Annapolis, Maryland: Naval Institute Press, 1988. ISBN 0-87021-061-0.
+* Chesneau, Roger, and Eugene M. Kolesnik, eds. ''Conway's All The World's Fighting Ships, 1860–1905''. New York: Mayflower Books, Inc., 1979. ISBN 0-8317-0302-4.
+* Gibbons, Tony. ''The Complete Encyclopedia of Battleships and Battlecruisers: A Technical Directory of All the World's Capital Ships From 1860 to the Present Day''. London: Salamander Books Ltd., 1983.
+* Gray, Randal, Ed. ''Conway's All The World's Fighting Ships 1906–1921.'' Annapolis, Maryland: Naval Institute Press, 1985. ISBN 0-87021-907-3.
+
+{{Commonscat|HMS Albemarle (1901)}}
+{{Portal|Battleships}}
+{{Duncan class battleship}}
+{{1907 shipwrecks}}
+{{November 1915 shipwrecks}}
+
+{{DEFAULTSORT:Albemarle (1901)}}
+[[Category:Duncan-class battleships]]
+[[Category:Chatham-built ships]]
+[[Category:1901 ships]]
+[[Category:World War I battleships of the United Kingdom]]
+[[Category:Maritime incidents in 1907]]
+[[Category:Maritime incidents in 1915]]
+[[Category:Rogue wave incidents]]</text>
+      <sha1>s7ddzfr2gi2ai9bfaqyraxfptz27rul</sha1>
+    </revision>
+  </page>
+</mediawiki>

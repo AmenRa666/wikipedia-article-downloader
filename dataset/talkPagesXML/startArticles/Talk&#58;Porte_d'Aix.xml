@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Porte d'Aix</title>
+    <ns>1</ns>
+    <id>16791302</id>
+    <revision>
+      <id>738001286</id>
+      <parentid>687751874</parentid>
+      <timestamp>2016-09-06T09:48:50Z</timestamp>
+      <contributor>
+        <username>Molestash</username>
+        <id>13349072</id>
+      </contributor>
+      <comment>Assessed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2554">{{WikiProjectBannerShell|1=
+{{WikiProject France|class=start |importance= }}
+{{WikiProject Historic sites|class=start|importance=}}
+{{WikiProject Architecture|class=start|importance=}}
+{{WikiProject Military history|class=start|French=y|Memorials=y
+| B1 &lt;!-- Referencing and citations --&gt; = n
+| B2 &lt;!-- Coverage and accuracy --&gt; = n
+| B3 &lt;!-- Structure --&gt; = y
+| B4 &lt;!-- Grammar and style --&gt; = y
+| B5 &lt;!-- Supporting materials --&gt; = y}}
+}}
+
+
+[[Image:PiranesiArchTrajanBenevento.jpg|thumb|It may be worth discussing the architecture and its models later, when the article is less thoroughly &quot;owned&quot; [[User:Wetman|Wetman]] ([[User talk:Wetman|talk]]) 07:47, 8 April 2008 (UTC)]]
+==Complete rewrite required==
+Despite the claimed sources, this article is just an attempted translation of the French WP article with the same title. The translation is appalling: many contradictions, inaccuracies and misunderstandings have been introduced into the article. A lot of work is required and I doubt that an article of this length is merited by the monument: only half of the eight planned [[caryatid]]s were completed. Why does the article say that two different triumphal arches were taken as the model? Why is the architect listed as Pinchaud when he was called Penchaud? Why is Louis XIV mentioned and not Louis XVI? This is extremely careless editing and I would like to see a better source provided. The worst complaint is that this is a &quot;royal arch&quot;, whose erection was delayed by the French revolution and Napoleonic rule. This is not at all what the first version of the lead said. [[User:Mathsci|Mathsci]] ([[User talk:Mathsci|talk]]) 08:47, 6 April 2008 (UTC)
+:I have retranslated the French WP article (where appropriate). However, it would be nice to find a source text on the architecture of Marseille as a reference (probably in French). The originator of the article claimed various travel guides as sources; however his/her text was quite clearly a word-for-word translation/mistranslation of the corresponding French WP article, and not one of these travel texts (it is impossible to [[WP:AGF|assume good faith]] when an editor makes absurd errors like this - just like a bad thief). I was able to check some details in my own source documents on Marseille and I have read the sign put up by the City of Marseille explaining the history of the monument (one of my most often used bus stops). However, there must be a good French book on the monuments of Marseille. [[User:Mathsci|Mathsci]] ([[User talk:Mathsci|talk]]) 11:36, 6 April 2008 (UTC)</text>
+      <sha1>hg326zr0prjfm0fpw5x1zqwcqfh8rve</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,91 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Landing Craft Tank (Rocket)</title>
+    <ns>0</ns>
+    <id>29800500</id>
+    <revision>
+      <id>697831439</id>
+      <parentid>689037472</parentid>
+      <timestamp>2016-01-02T05:58:55Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>cap, punct</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1828">{{refimprove|date=October 2011}}
+[[File:LCT Launching Rockets.jpg|thumb|right|300px|LCT(R), T125 launching a rocket salvo (1943)]]
+[[File:Loading landing craft rocket WWII IWM A 23729.jpg|thumb|right|300px|Rockets being loaded on LCT(R)s at Southampton]]
+[[File:LCT(R) 459.png|thumb|300px|LCT (R) 459]]
+
+The '''Landing Craft Tank (Rocket)''' or '''LCT(R)''' was developed from the British Mk.2 and Mk.3 [[Landing Craft Tank]] (LCT) during the Second World War. It was designed to saturate beaches with up to 1,066 [[RP-3]] 60&amp;nbsp;lb rockets prior to the landing of troops. Used by both British and U.S. forces, the craft saw service in the [[Normandy landings]], the Mediterranean and the Far East.
+
+==Design==
+
+The front loading door was welded shut and an additional deck installed above the tank storage bay to provide a mounting for the rocket launching racks. The resulting storage space below the deck (formerly the tank deck) was used as a magazine for storage of rockets, with up to 5,000 being able to be carried. The craft was also fitted with a Type 970 radar set whose primary use was for rangefinding, but was also successfully used for navigation. Generally propulsion was provided by [[Paxman (engines)|Paxman]] diesel engines. However, others were used due to availability.  Some U.S. craft were fitted with petrol (gasoline) engines.
+
+==External links==
+{{Commons category|Landing Craft Tank (Rocket)}}
+* {{Cite web
+ |url= http://www.navyhistory.org.au/british-landing-craft-of-world-war-ii/
+ |title=British Landing Craft of World War II
+ |work=navyhistory.org.au
+ |accessdate=14 January 2011
+}}
+* {{Cite web
+ |url= http://www.combinedops.com/US%20LANDING%20CRAFT%20ROCKET.htm
+ |title=U.S. Navy Landing Craft Tank (Rocket) 
+ |work=combinedops.com
+ |accessdate=14 January 2011
+}}
+
+[[Category:Landing craft|LCT]]</text>
+      <sha1>kd7ff4d1dr78mxnd8m0e9osuwhsmmeu</sha1>
+    </revision>
+  </page>
+</mediawiki>

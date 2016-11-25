@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>George E. Ranney</title>
+    <ns>0</ns>
+    <id>48658045</id>
+    <revision>
+      <id>745501382</id>
+      <parentid>725831247</parentid>
+      <timestamp>2016-10-21T13:54:19Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>CHECKWIKI error #22 (clean double space in category) / other fixes using [[Project:AWB|AWB]] (12095)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2027">{{Infobox military person
+|name=George E. Ranney
+|birth_date={{Birth date|1839|6|13}}
+|birth_place=[[Batavia, New York]]
+|death_date={{Death date and age|1915|11|10|1839|6|13}}
+|placeofburial=Mount Hope Cemetery, [[Lansing, Michigan]]
+|placeofburial_label=Place of burial
+|image=
+|caption=
+|nickname=
+|death_place= 
+|allegiance= [[United States of America]]
+|branch= [[United States Army]]&lt;br/&gt;[[Union Army]]
+|rank=[[Military medicine|Assistant Surgeon]]
+|unit=[[2nd Michigan Volunteer Cavalry Regiment]]
+|battles=[[Battle of Resaca]]
+|awards=[[File:Medal of Honor ribbon.svg|60px]] [[Medal of Honor]]
+}}
+'''George E. Ranney''' (June 13, 1839 &amp;ndash; November 10, 1915) was an [[United States|American]] [[military medicine|assistant surgeon]] who received the [[Medal of Honor]] for valor for his service with the [[Union Army]] during the [[American Civil War]].
+
+==Biography==
+Ranney served in the [[American Civil War]] in the [[2nd Michigan Volunteer Cavalry Regiment]]. He received the Medal of Honor on April 24, 1901 for his actions at the [[Battle of Resaca]] on May 14, 1864.
+
+==Medal of Honor citation==
+
+'''Citation:'''
+
+&lt;blockquote&gt;At great personal risk, went to the aid of a wounded soldier, Pvt. Charles W. Baker, lying under heavy fire between the lines, and with the aid of an orderly carried him to a place of safety.&lt;ref&gt;[http://www.cmohs.org/recipient-detail/1104/ranney-george-e.php Congressional Medal of Honor Society]&lt;/ref&gt;&lt;/blockquote&gt;
+
+==See also==
+{{Portal|Biography|United States Army|American Civil War}}
+*[[List of American Civil War Medal of Honor recipients: Q-S]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Find a Grave|7684370}}
+*[http://projects.militarytimes.com/citations-medals-awards/recipient.php?recipientid=1068 Military Times]
+
+{{DEFAULTSORT:Ranney, George E.}}
+[[Category:1839 births]]
+[[Category:1915 deaths]]
+[[Category:United States Army Medal of Honor recipients]]
+[[Category:American Civil War recipients of the Medal of Honor]]
+[[Category:American Civil War surgeons]]</text>
+      <sha1>1kasearliw22eeudeq5nl2hdryz0tlz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,750 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Operation Barbarossa</title>
+    <ns>0</ns>
+    <id>22618</id>
+    <revision>
+      <id>751248631</id>
+      <parentid>751247044</parentid>
+      <timestamp>2016-11-24T09:32:16Z</timestamp>
+      <contributor>
+        <ip>2A00:23C4:6388:7300:7D51:97BA:3FA1:4B10</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="133518">{{good article}}
+{{Use dmy dates|date=April 2016}}
+{{Infobox military conflict
+|conflict=Operation Barbarossa
+|image=[[File:Operation Barbarossa Infobox.jpg|300px]]
+|caption= Clockwise from top left: German soldiers advance through Northern Russia, German flamethrower team in the [[Soviet Union]], Soviet planes flying over German positions near [[Battle of Moscow|Moscow]], Soviet prisoners of war on the way to German prison camps, Soviet soldiers fire at German positions.
+|partof= the [[Eastern Front (World War II)|Eastern Front]] of [[World War II]]
+|place= [[Eastern Europe|Eastern]] and [[Northern Europe|Northern]] [[Europe]]
+|date= 22 June – 5 December 1941&lt;br/&gt;({{Age in years, months, weeks and days|month1=06|day1=22|year1=1941|month2=12|day2=05|year2=1941}})
+|result= See [[#Aftermath|Aftermath]]
+
+|combatant1={{unbulleted list|{{flagcountry|Nazi Germany}}
+|{{flag|Finland}}
+|{{flagcountry|Kingdom of Romania}}
+|{{flagcountry|Kingdom of Italy}}
+|{{flagcountry|Kingdom of Hungary}}
+|{{flagcountry|Slovak Republic (1939–1945)}}
+|{{flag|Independent State of Croatia|name=Croatia}}}}
+|combatant2={{flag|Soviet Union|1923}}
+|commander1={{unbulleted list|{{flagicon|Nazi Germany}} '''[[Adolf Hitler]]'''
+|{{flagicon|Nazi Germany}} [[Walther von Brauchitsch]]
+|{{flagicon|Nazi Germany}} [[Franz Halder]]
+|{{flagicon|Nazi Germany}} [[Wilhelm Ritter von Leeb]]
+|{{flagicon|Nazi Germany}} [[Fedor von Bock]]
+|{{flagicon|Nazi Germany}} [[Gerd von Rundstedt]]
+|{{flagicon|Kingdom of Romania}} [[Ion Antonescu]]
+|{{flagicon|Finland}} [[Carl Gustaf Emil Mannerheim|Gustaf Mannerheim]]}}
+|commander2={{unbulleted list|{{flagicon|Soviet Union|1923}} '''[[Joseph Stalin]]'''
+|{{flagicon|Soviet Union|1923}} [[Georgy Zhukov]]
+|{{flagicon|Soviet Union|1923}} [[Aleksandr Vasilevsky|Aleksandr Vasilyevskiy]]
+|{{flagicon|Soviet Union|1923}} [[Semyon Budyonny]]
+|{{flagicon|Soviet Union|1923}} [[Kliment Voroshilov]]
+|{{flagicon|Soviet Union|1923}} [[Semyon Timoshenko]]
+|{{flagicon|Soviet Union|1923}} [[Markian Popov]]
+|{{flagicon|Soviet Union|1923}} [[Fyodor Kuznetsov]]
+|{{flagicon|Soviet Union|1923}} [[Dmitry Pavlov (general)|Dmitry Pavlov]]{{Executed}}
+|{{flagicon|Soviet Union|1923}} [[Ivan Tyulenev]]
+|{{flagicon|Soviet Union|1923}} [[Mikhail Kirponos]]{{KIA}}}}
+|units1=
+{{Collapsible list
+|title = Axis armies
+|'''{{flagicon|Nazi Germany|1935}} [[Army Group North]]'''
+|[[16th Army (Wehrmacht)|16th Army]]
+|[[18th Army (Wehrmacht)|18th Army]]
+|[[4th Panzer Army]]
+|'''{{flagicon|Nazi Germany|1935}} [[Army Group Center]]'''
+|[[4th Army (Wehrmacht)|4th Army]]
+|[[9th Army (Wehrmacht)|9th Army]]
+|[[2nd Panzer Army]]
+|[[3rd Panzer Army]]
+|[[2nd Army (Wehrmacht)|2nd Army]]
+|'''{{flagicon|Nazi Germany|1935}} [[Army Group South]]'''
+|[[6th Army (Wehrmacht)|6th Army]]
+|[[11th Army (Wehrmacht)|11th Army]]
+|[[17th Army (Wehrmacht)|17th Army]]
+|[[1st Panzer Army]]
+|{{flagicon|ROU}} [[Third Army (Romania)|Romanian 3rd Army]]
+|{{flagicon|ROU}} [[Fourth Army (Romania)|Romanian 4th Army]]
+----
+|{{flagicon|Nazi Germany|1935}} [[Army Norway (Wehrmacht)|Army Norway]]
+|{{flagicon|Finland}} [[Finnish Army]]{{ref label|aaa|a}}
+}}
+|units2=
+{{Collapsible list
+|title = Soviet armies
+|'''{{flagicon|Soviet Union|1923}} [[Northern Front (Soviet Union)|Northern Front]]'''
+|[[7th Army (Soviet Union)|7th Army]]
+|[[8th Army (Soviet Union)|8th Army]]
+|[[List of Soviet armies|48th Army]]
+|[[52nd Army (Soviet Union)|52nd Army]]
+|[[List of Soviet armies|54th Army]]
+|[[List of Soviet armies|55th Army]]
+|'''{{flagicon|Soviet Union|1923}} [[Northwestern Front]]'''
+|[[11th Army (Soviet Union)|11th Army]]
+|[[List of Soviet armies|27th Army]]
+|[[List of Soviet armies|34th Army]]
+|'''{{flagicon|Soviet Union|1923}}  [[Western Front (Soviet Union)|Western Front]]'''
+|[[3rd Army (Soviet Union)|3rd Army]]
+|[[10th Army (Soviet Union)|10th Army]]
+|[[13th Army (Soviet Union)|13th Army]]
+|[[16th Army (Soviet Union)|16th Army]]
+|[[19th Army (Soviet Union)|19th Army]]
+|[[20th Army (Soviet Union)|20th Army]]
+|[[22nd Army (Soviet Union)|22nd Army]]
+|[[List of Soviet armies|24th Army]]
+|[[28th Army (Soviet Union)|28th Army]]
+|[[40th Army (Soviet Union)|40th Army]]
+|[[List of Soviet armies|50th Army]]
+|'''{{flagicon|Soviet Union|1923}} [[Southwestern Front (Soviet Union)|Southwestern Front]]'''
+|[[5th Army (Soviet Union)|5th Army]]
+|[[6th Army (Soviet Union)|6th Army]]
+|[[12th Army (Soviet Union)|12th Army]]
+|[[21st Army (Soviet Union)|21st Army]]
+|[[26th Army (Soviet Union)|26th Army]]
+|[[List of Soviet armies|37th Army]]
+|'''{{flagicon|Soviet Union|1923}} [[Southern Front (Soviet Union)|Southern Front]]'''
+|[[9th Army (Soviet Union)|9th Army]]
+|[[18th Army (Soviet Union)|18th Army]]
+|[[Separate Coastal Army|Coastal Army]]
+}}
+|strength1= '''Frontline strength (initial)'''
+{{plainlist|* 3.8 million personnel{{sfn|Clark|2012|p=73}}{{sfn|Glantz|2001|p=9}}
+*3,350 tanks{{sfn|Glantz|2010a|p=20}}{{sfn|Clark|2012|p=73}}
+*2,770 aircraft{{sfn|Glantz|2010a|p=20}}
+*7,200 artillery pieces{{sfn|Clark|2012|p=73}}{{sfn|Glantz|2010a|p=20}}}}
+|strength2='''Frontline strength (initial)'''
+{{plainlist|
+*2.6–2.9 million personnel{{sfn|Glantz|2001|p=9|loc=2.68 million}}{{sfn|Glantz|1998|pp=10–11, 101, 293|loc=2.9 million}}{{sfn|Taylor|1974|p=98|loc=2.6 million}}
+*11,000 tanks{{sfn|Mercatante|2012|p=64}}{{sfn|Clark|2012|p=76}}
+*7,133–9,100 military aircraft{{sfn|Glantz|2010a|p=28|loc=7,133 aircraft}}{{sfn|Mercatante|2012|p=64|loc=9,100 aircraft}}{{sfn|Clark|2012|p=76|loc=9,100 aircraft}}}}
+|casualties1='''Total military casualties:'''&lt;br/&gt;1,000,000+
+{{Collapsible list
+|title = Breakdown
+|'''Casualties of 1941:'''
+----
+According to [[German Army (Wehrmacht)|German Army]] medical reports (including [[Army of Norway (Wehrmacht)|Army Norway]]):{{sfn|Askey|2014|p=178}}{{sfn|&quot;Heeresarzt 10-Day Casualty Reports per Theater of War, 1941&quot;}}
+* {{flagicon|Nazi Germany|1935}} 186,452 killed  
+* {{flagicon|Nazi Germany|1935}} 40,157 missing
+* {{flagicon|Nazi Germany|1935}} 655,179 wounded in action{{Efn|Excludes an additional 395,799 who were deemed unfit for service due to non-combat causes, transported out of their Army Group sectors for treatment, and treated in divisional/local medical facilities. 98% of those 395,799 eventually returned to active duty service, usually after relatively short treatment, meaning about 8,000 became permanent losses.{{cn|date=October 2016}}}}
+According to Red Army reports:{{sfn|&quot;Red Army and NKVD figures, 1941–1945&quot;}}
+* {{flagicon|Nazi Germany|1935}} 11,000 captured by the Soviets
+----
+* {{flagicon|Nazi Germany|1935}} 2,827 aircraft destroyed{{sfn|Bergström|2007|p=117}}
+* {{flagicon|Nazi Germany|1935}} 2,839 tanks destroyed{{sfn|Askey|2014|p=185}}
+----
+'''Other Axis losses'''
+* {{flagicon|ROU}} 114,000+ casualties (at least 39,000 dead or missing)&lt;ref&gt;Axworthy, Mark. Third Axis Fourth Ally: Romanian Armed Forces in the European War, 1941–1945. pages 58 and 286.&lt;/ref&gt;
+Jump up ^{{Efn|Mostly from the [[Siege of Odessa (1941)]] and [[Operation München]].}}
+* {{flagicon|Kingdom of Italy}} 8,700 casualties{{Efn|See:Robert Kirchubel. ''Operation Barbarossa: The German Invasion of Soviet Russia''. Bloomsbury Publishing. Chapter: &quot;Opposing Armies&quot;.}}
+* {{flagicon|Finland}} 5,000 casualties{{Efn|See: Ziemke, Earl F. (1960). ''The German Northern Theater of Operations, 1940–1945'' Washington: Headquarters, Department of the US Army, p. 184.}}
+}}
+|casualties2='''Total military casualties:'''&lt;br/&gt;4,973,820
+{{Collapsible list
+|title = Breakdown
+|'''Casualties of 1941:'''
+----
+Based on Soviet archives:{{sfn|Krivosheev|1997|pp=95–98}}
+* 566,852 killed in action
+* 235,339 died from non-combat causes
+* 1,336,147 sick or wounded via combat and non-combat causes
+* 2,335,482 missing in action or captured
+* c. 500,000 Soviet [[reservist]]s captured while still mobilizing
+According to [[Armeeoberkommando|AOK]] [[Wehrmacht]] reports:{{sfn|&quot;AOK POW Reports&quot;}}
+* 3,355,499 captured by the Germans
+----
+* 21,200 aircraft lost{{sfn|Bergström|2007|p=117}}
+* 20,500 tanks destroyed{{sfn|Sharp|2010|p=89}}
+}}
+|notes=
+}}
+{{Campaignbox Axis–Soviet War}}
+
+'''Operation Barbarossa''' (German: ''Unternehmen Barbarossa'') was the [[code name]] for [[Nazi Germany]]'s [[World War II]] invasion of the [[Soviet Union]], which was launched on 22 June 1941. The operation was driven by [[Adolf Hitler]]'s ideological desire to destroy the Soviet Union and [[Communism]], as outlined in his 1925 manifesto ''[[Mein Kampf]]''.
+
+In the two years leading up to the invasion, the two countries signed political and economic pacts for strategic purposes. Nevertheless, the [[Oberkommando des Heeres|German High Command]] began planning an invasion of the Soviet Union in July 1940 (under the codename [[Operation Otto]]), which Hitler authorized on 18 December 1940. Over the course of the operation, about four million [[Axis powers|Axis]] personnel invaded the western Soviet Union along a {{convert|2900|km|mi|sp=us|adj=on}} front, the largest invasion force in the history of warfare. In addition to troops, the Wehrmacht employed some 600,000 motor vehicles and between 600,000 and 700,000 horses. The offensive marked the beginning of the  escalation of the war, both geographically and in the formation of the [[Allies of World War II|Allied coalition]].
+
+Operationally, the German forces achieved surprising victories and occupied some of the most important economic areas of the Soviet Union, mainly in [[Ukrainian Soviet Socialist Republic|Ukraine]], and inflicted, as well as sustained, heavy casualties. Despite their successes, the German offensive stalled in the [[Battle of Moscow]] and was subsequently pushed back by the [[Battle of Moscow#Soviet counteroffensive|Soviet winter counteroffensive]]. The [[Red Army]] repelled the [[Wehrmacht]]'s strongest blows and forced the unprepared Germans into a [[Attrition warfare|war of attrition]]. The Wehrmacht would never again mount a simultaneous offensive along the entire strategic [[Eastern Front (World War II)|Soviet–Axis front]]. The failure of the operation drove Hitler to demand further operations of increasingly limited scope inside the Soviet Union, all of which eventually failed, such as [[Case Blue]] and [[Operation Citadel]].
+
+The failure of Operation Barbarossa was a turning point in the fortunes of the Third Reich. Most importantly, the operation opened up the [[Eastern Front (World War II)|Eastern Front]], to which more forces were committed than in any other theater of war in world history. The Eastern Front became the site of some of the largest battles, most horrific atrocities, and highest casualties for Soviets and Germans alike, all of which influenced the course of both World War II and the subsequent history of the 20th century. The German armies captured 5,000,000 Soviet prisoners of war who were not granted protections stipulated in the [[Geneva Conventions]]. A majority of them [[Nazi crimes against Soviet prisoners of war|never returned alive]]. The Nazis deliberately starved 3.1 million of the prisoners to death as part of a &quot;[[Hunger Plan]]&quot; that aimed to reduce the population of Eastern Europe and then [[Lebensraum|re-populate]] it with ethnic Germans.{{sfn|Snyder|2010|pp=175–186}} Over a million Soviet [[Jew]]s were murdered by ''[[Einsatzgruppen]]'' death squads and gassing as part of the [[Holocaust]].{{sfn|United States Holocaust Memorial Museum|1996|pp=50–51}}
+{{TOC limit}}
+
+==Background==
+
+===Racial policies of Nazi Germany===
+{{Main article|Racial policy of Nazi Germany}}
+As early as 1925, [[Adolf Hitler]] vaguely declared in his political manifesto and autobiography ''[[Mein Kampf]]'' that he would invade the [[Soviet Union]], asserting that the German people needed to secure ''[[Lebensraum]]'' (&quot;living space&quot;) to ensure the survival of Germany for generations to come.{{sfn|Stackelberg|2002|p=188}} On 10 February 1939, Hitler told his army commanders that the next war would be &quot;purely a war of ''Weltanschauungen''... totally a people's war, a racial war.&quot; On 23 November, once World War II had already started, Hitler declared that &quot;racial war has broken out and this war shall determine who shall govern Europe, and with it, the world.&quot;{{sfn|Förster|1988|p=21}} [[Racial policy of Nazi Germany]] viewed the Soviet Union (and all of Eastern Europe) as populated by non-Aryan ''[[Untermenschen]]'' (&quot;sub-humans&quot;), ruled by [[Jewish Bolshevism|Jewish Bolshevik]] conspirators.{{sfn|Hillgruber|1972|p=140}} Hitler claimed in ''Mein Kampf'' that Germany's destiny was to &quot;turn to the East&quot; as it did &quot;six hundred years ago&quot;.{{sfn|Shirer|1990|p=716}} Accordingly, it was stated Nazi policy to kill, deport, or enslave the majority of Russian and other Slavic populations and repopulate the land with Germanic peoples, under the [[Generalplan Ost]].{{sfn|Stackelberg|2007|p=271}} The Germans' belief in their ethnic superiority is discernible in official German records and by [[pseudoscientific]] articles in German periodicals at the time, which covered topics such as &quot;how to deal with alien populations&quot;.{{sfn|Fahlbusch|1999|pp=241–264}}
+
+While older historiography tended to emphasize the notion of a &quot;clean&quot; Wehrmacht, the historian {{illm|Jürgen Förster|de|Jürgen Förster (Historiker)}} notes that &quot;In fact, the military commanders were caught up in the ideological character of the conflict, and involved in its implementation as willing participants.&quot;{{sfn|Förster|1988|p=21}} Before and during the invasion of the Soviet Union, German troops were heavily indoctrinated with anti-Bolshevik, anti-Semitic and anti-Slavic ideology via movies, radio, lectures, books and leaflets.{{sfn|Evans|1989|p=59}} Likening the Soviets to the forces of [[Genghis Khan]], Hitler told [[Croatia]]n military leader [[Slavko Kvaternik]] that the &quot;Mongolian race&quot; threatened Europe.{{sfn|Breitman|1990|pp=340–341}} Following the invasion, Wehrmacht officers told their soldiers to target people who were described as &quot;Jewish Bolshevik subhumans&quot;, the &quot;Mongol hordes&quot;, the &quot;Asiatic flood&quot; and the &quot;Red beast&quot;.{{sfn|Evans|1989|pp=59–60}} Nazi propaganda portrayed the war against the Soviet Union as both an ideological war between German National Socialism and Jewish Bolshevism and a racial war between the Germans and the Jewish, Gypsies and Slavic ''Untermenschen''.{{sfn|Burleigh|2001|p=512}}  German army commanders cast the Jews as the major cause behind the &quot;partisan struggle&quot;.{{sfn|Kershaw|2001|p=466}} The main guideline policy for German troops was &quot;Where there's a partisan, there's a Jew, and where there's a Jew, there's a partisan,&quot; or &quot;The partisan is where the Jew is.&quot;{{sfn|Kershaw|2001|p=467}}{{sfn|Förster|1988|p=28}} Many German troops viewed the war in Nazi terms and regarded their Soviet enemies as sub-human.{{sfn|Förster|2005|p=127}}
+
+After the war began, the Nazis issued a ban on sexual relations between Germans and foreign slave workers.{{sfn|Majer|2003|p=180}} There were regulations enacted against the ''[[Ost-Arbeiter]]'' (&quot;Eastern Workers&quot;) that included the death penalty for sexual relations with a German person.{{sfn|Gellately|1990|p=224}} [[Heinrich Himmler]], in his secret memorandum, ''Reflections on the Treatment of Peoples of Alien Races in the East,'' (dated 25 May 1940) outlined the future plans for the non-German populations in the East.{{sfn|Himmler|1940|pp=147–150}} Himmler believed the Germanization process in Eastern Europe would be complete when &quot;in the East dwell only men with truly German, Germanic blood&quot;.{{sfn|Mazower|2009|p=181}}
+[[File:Greater Germanic Reich.png|thumb|300px|right|In their plan to create the [[Greater Germanic Reich]] the Nazi leadership aimed to conquer Eastern European territories, Germanise those seen as part of the Aryan race, subjugate and exterminate the Soviet populations, and colonise the territory with ethnic German settlers.]]
+The Nazi secret plan ''[[Generalplan Ost]]'' (&quot;General Plan for the East&quot;), which was prepared in 1941 and confirmed in 1942, called for a &quot;new order of ethnographical relations&quot; in the territories occupied by Nazi Germany in Eastern Europe. The plan envisaged [[ethnic cleansing]], executions and enslavement of the overwhelming majority of the populations of conquered counties with very small differing percentages of the various conquered nations undergoing Germanization, expulsion into the depths of Russia and other fates. The net effect of this plan would be to ensure that the conquered territories would be Germanized. It was divided into two parts: the ''Kleine Planung'' (&quot;Small Plan&quot;), which covered actions to be taken during the war, and the ''Große Planung'' (&quot;Large Plan&quot;), which covered actions to be undertaken after the war was won, and to be implemented gradually over a period of 25 to 30 years.{{sfn|Rössler|Schleiermacher|1996|pp=270–274}}
+
+Evidence from a speech given by General [[Erich Hoepner]] indicates the disposition of Operation Barbarossa and the Nazi racial plan, as he informed the [[4th Panzer Group]] that the war against the Soviet Union was &quot;an essential part of the German people's struggle for existence&quot; (''Daseinkampf''), also referring to the imminent battle as the &quot;old struggle of Germans against Slavs&quot; and even stated, &quot;the struggle must aim at the annihilation of today's Russia and must therefore be waged with unparalleled harshness.&quot;{{sfn|Ingrao|2013|p=140}} Hoepner also added that the Germans were fighting for &quot;the defense of European culture against Moscovite-Asiatic inundation, and the repulse of Jewish Bolshevism... No adherents of the present Russian-Bolshevik system are to be spared.&quot; [[Walther von Brauchitsch]] also told his subordinates that troops should view the war as a &quot;struggle between two different races and [should] act with the necessary severity.&quot;{{sfn|Förster|1988|p=23}} Racial motivations were central to Nazi ideology and played a key role in planning for Operation Barbarossa since both [[Jewish Bolshevism|Jews and communists]] were considered equivalent enemies of the Nazi state. Nazi imperialist ambitions were exercised without moral consideration for either group in their ultimate struggle for ''Lebensraum''.{{sfn|Ingrao|2013|pp=138–142}} In the eyes of the Nazis, the war against the Soviet Union would be a ''Vernichtungskrieg'', a war of annihilation.{{sfn|Förster|1988|p=21}}
+
+===German-Soviet relations of 1939–40===
+{{Main article|Germany–Soviet Union relations before 1941}}
+[[File:Europe before Operation Barbarossa, 1941 (in German).png|thumb|right|270px|The geopolitical disposition of Europe in 1941, immediately before the start of Operation Barbarossa. The grey area represents Nazi Germany, its allies, and countries under its firm control.]]
+In August 1939, Germany and the Soviet Union signed a non-aggression pact in Moscow known as the [[Molotov–Ribbentrop Pact]] shortly before the [[German invasion of Poland]] that triggered the outbreak of [[World War II in Europe]]. A secret protocol to the pact outlined an agreement between Germany and the Soviet Union on the division of the eastern European [[Border states (Eastern Europe)|border states]] between their respective &quot;[[spheres of influence]]&quot;: the Soviet Union and Germany would partition Poland in the event of an invasion by Germany, and the Soviets would be allowed to overrun the Baltic states and [[Finland]].{{sfn|Kirby|1980|p=120}} On 23 August 1939 the rest of the world learned of the pact between the Nazis and the Soviets but were unaware of the provisions to partition Poland.{{sfn|Hildebrand|1973|p=89}} The conclusion of this pact was followed by a [[Soviet invasion of Poland]] that led to the annexation of the eastern part of the country.{{sfn|Bellamy|2007|pp=56–59}} The pact stunned the world because of the parties' earlier mutual hostility and their conflicting [[Ideology|ideologies]].{{sfn|Roberts|2006|p=30}} As a result of the pact, Germany and the Soviet Union maintained reasonably strong diplomatic relations for two years and fostered [[Nazi–Soviet economic relations (1934–41)|an important economic relationship]]. The countries entered a [[German-Soviet Commercial Agreement (1940)|trade pact in 1940]] by which the Soviets received German military equipment and trade goods in exchange for raw materials, such as oil and wheat, to help the Nazis circumvent a British [[Blockade of Germany (1939–45)|blockade of Germany]].{{sfn|Shirer|1990|pp=668–669}}
+
+Despite the parties' ostensibly cordial relations, each side was highly suspicious of the other's intentions. For instance, the Soviet invasion of [[Bukovina]] in June 1940 went beyond their sphere of influence as agreed with Germany.{{sfn|Brackman|2001|p=341}} After Germany entered the [[Tripartite Pact|Axis Pact]] with Japan and Italy, it began [[German–Soviet Axis talks|negotiations about a potential Soviet entry into the pact]].{{sfn|Roberts|2006|p=57}} After two days of negotiations in Berlin from 12 to 14 November 1940, Germany presented a written proposal for a Soviet entry into the Axis. On 25 November 1940, the Soviet Union offered a written counter-proposal to join the Axis if Germany would agree to refrain from interference in the Soviet Union's sphere of influence, but Germany did not respond.{{sfn|Roberts|2006|p=57}} As both sides began colliding with each other in Eastern Europe, conflict appeared more likely, although they did sign a [[German–Soviet Border and Commercial Agreement|border and commercial agreement]] addressing several open issues in January 1941. Historian Robert Service avows that Soviet leader [[Joseph Stalin]] was convinced that the overall military strength of the USSR was such that he had nothing to fear and anticipated an easy victory should Germany attack; moreover, Stalin believed that since the Germans were still fighting the British in the west, Hitler would be unlikely to open up a two front war and subsequently delayed the reconstruction of defensive fortifications in the border regions.{{sfn|Service|2005|p=259}} When German soldiers swam across the Bug River to warn the Red Army of an impending attack, they were treated like enemy agents and shot.{{sfn|Service|2005|pp=259–260}} Some historians believe that Stalin, despite providing an amicable front to Hitler, did not wish to remain allies with Germany. Rather, Stalin might have had intentions to break off from Germany and proceed with his own campaign against Germany to be followed by one against the rest of Europe.{{sfn|Weeks|2002|p=98}}
+
+===German invasion plans===
+{{See also|A-A line|The Ural mountains in Nazi planning|Lossberg study}}
+[[File:Marcks Plan for Operation Barbarossa.jpg|right|thumb|upright=2.0|The [[Erich Marcks|Marcks Plan]] ({{small|published 5 August 1940}}) showing the [[A-A line]] objective of any invasion of the Soviet Union.]]
+Stalin's reputation as a brutal dictator contributed both to the Nazis' justification of their assault and their faith in success; many competent and experienced military officers were killed in the [[Great Purge]] of the 1930s, leaving the Red Army with a relatively inexperienced leadership compared to that of their German counterparts. The Nazis often emphasized the Soviet regime's brutality when targeting the Slavs with propaganda.{{sfn|Hartmann|2013|pp=9–24}}  They also claimed that the Red Army was [[Soviet offensive plans controversy|preparing to attack the Germans]], and their own invasion was thus presented as a [[pre-emptive war|pre-emptive]] strike.{{sfn|Hartmann|2013|pp=9–24}}
+
+In the middle of 1940, following the rising tension between the Soviet Union and Germany over territories in the Balkans, an eventual invasion of the Soviet Union seemed to Hitler to be the only solution.{{sfn|Ericson|1999|p=127}} While no concrete plans were made yet, Hitler told one of his generals in June that the victories in Western Europe finally freed his hands for his important real task: the showdown with Bolshevism.{{sfn|Ericson|1999|pp=129–130}} With the successful end to the [[Battle of France|campaign in France]], General [[Erich Marcks]] was assigned to the working group drawing up the initial invasion plans of the [[Soviet Union]]. The first battle plans were entitled ''Operation Draft East'' (but colloquially it was known as the ''Marcks Plan'').{{sfn|Kay|2006|p=31}} His report advocated the [[A-A line]] to be the operational objective of any invasion of the Soviet Union. This goal would extend from northern city of [[Arkhangelsk]] on the [[Arctic Sea]] through [[Nizhny Novgorod|Gorky]] and [[Rostov-on-Don|Rostov]] to the port city of [[Astrakhan]] at the mouth of the [[Volga]] on the [[Caspian Sea]]. The report concluded that this military border would reduce the threat to Germany (and the [[Third Reich]]) from attacks by enemy [[bombers]].{{sfn|Kay|2006|p=31}}
+
+Although Hitler was warned by his general staff that occupying &quot;[[Western Russia]]&quot; would create &quot;more of a drain than a relief for Germany's economic situation&quot;, he anticipated compensatory benefits, such as the [[demobilization]] of entire divisions to relieve the acute [[labor shortage]] in German industry; the exploitation of [[Ukraine]] as a reliable and immense source of agricultural products; the use of [[forced labor]] to stimulate Germany's overall economy; and the expansion of territory to improve Germany's efforts to isolate the [[United Kingdom]].{{sfn|Roberts|2011|pp=147–148}} Hitler was convinced that Britain would sue for peace once the Germans triumphed in the Soviet Union.{{sfn|Hildebrand|1973|p=105}}
+
+On 5 December 1940, Hitler received the final military plans for the invasion on which the [[Oberkommando der Wehrmacht|German High Command]] had been working since July 1940 under the codename &quot;Operation Otto&quot;. Hitler, however, was dissatisfied with these plans and on 18 December issued [[s:Führer Directive 21|Führer Directive 21]],{{Efn|The first sentence of Directive 21 read, &quot;The German Wehrmacht must be prepared to crush Soviet Russia in a quick campaign even before the end of the war against England.&quot;{{sfn|Hartmann|2013|p=13}} }} which called for a new battle plan, now code-named &quot;Operation Barbarossa&quot;.{{sfn|Fritz|2011|p=51}} The operation was named after medieval Emperor [[Frederick Barbarossa]] of the [[Holy Roman Empire]], a leader of the [[Third Crusade]] in the 12th century.{{sfn|Stackelberg|2007|p=258}} The invasion was set for 15 May 1941, though it was delayed for about 7 weeks in favor of further time for preparation{{sfn|Brackman|2001|p=344}} because of the [[Balkan Campaign (World War II)|war in the Balkans]] and bad weather.
+
+According to a 1978 essay by German historian [[Andreas Hillgruber]], the invasion plans drawn up by the German military elite were coloured by hubris stemming from the rapid defeat of France at the hands of the &quot;invincible&quot; Wehrmacht and by ignorance tempered by traditional German stereotypes of Russia as a primitive, backward &quot;Asiatic&quot; country.{{Efn|It is additionally important that considerable portions of the German General Staff thought of Russia as a &quot;colossus of clay&quot; which was &quot;politically unstable, filled with discontented minorities, ineffectively ruled, and militarily weak.&quot;{{sfn|Megargee|2000|p=110}} }} Red Army soldiers were considered brave and tough, but the officer corps was held in contempt. The leadership of the Wehrmacht paid little attention to politics, culture and the considerable industrial capacity of the Soviet Union, in favour of a very narrow military view.{{sfn|Wette|2007|pp=21–22}} Hillgruber argued that because these assumptions were shared by the entire military elite, Hitler was able to push through with a &quot;war of annihilation&quot; that would be waged in the most inhumane fashion possible with the complicity of &quot;several military leaders&quot;, even though it was quite clear that this would be in violation of all accepted norms of warfare.{{sfn|Wette|2007|pp=21–22}}
+
+In autumn 1940, high-ranking German officials drafted a memorandum on the dangers of an invasion of the Soviet Union. They said Ukraine, Belorussia and the Baltic States would end up as only a further economic burden for Germany.{{sfn|Gorodetsky|2001|pp=69–70}} It was argued that the Soviets in their current bureaucratic form were harmless and that the occupation would not benefit Germany.{{sfn|Gorodetsky|2001|pp=69–70}} Hitler disagreed with economists about the risks and told his right-hand man [[Hermann Göring]], the chief of the Luftwaffe, that he would no longer listen to misgivings about the economic dangers of a war with Russia.{{sfn|Ericson|1999|p=162}} It is speculated that this was passed on to General [[Georg Thomas]], who had produced reports that predicted a net economic drain for Germany in the event of an invasion of the Soviet Union unless its economy was captured intact and the Caucasus oilfields seized in the first blow, and he consequently revised his future report to fit Hitler's wishes.{{sfn|Ericson|1999|p=162}} The [[Red Army]]'s ineptitude in the [[Winter War]] against Finland in 1939–40 convinced Hitler of a quick victory within a few months. Neither Hitler nor the General Staff anticipated a long campaign lasting into the winter, and therefore adequate preparations, such as the distribution of warm clothing and [[winterization]] of vehicles and lubricants, were not made.{{sfn|Palmer|2010|pp=187–188}}
+
+Beginning in March 1941, [[Göring's Green Folder]] laid out details for the disposal of the Soviet economy after conquest. The [[Hunger Plan]] outlined how the entire urban population of conquered territories was to be starved to death, thus creating an agricultural surplus to feed Germany and urban space for the German upper class.{{sfn|Patterson|2003|p=562}} Nazi policy aimed to destroy the Soviet Union as a political entity in accordance with the [[geopolitics|geopolitical]] ''Lebensraum'' ideals for the benefit of future generations of the &quot;[[Nordicism|Nordic]] [[master race]]&quot;.{{sfn|Hartmann|2013|pp=9–24}} In 1941, Nazi ideologue [[Alfred Rosenberg]], later appointed Reich Minister of the Occupied Eastern Territories, suggested that conquered Soviet territory should be administered in the following ''[[Reichskommissar]]iate'' (&quot;Reich Commissionerships&quot;):
+
+{|width=&quot;70%&quot; class=&quot;wikitable collapsible&quot;
+! colspan=&quot;3&quot; |Administration of conquered Soviet territory by Alfred Rosenberg{{sfn|Handrack|1981|p=40}}{{sfn|Klemann|Kudryashov|2013|p=33}}
+|-
+!scope=&quot;col&quot; style=&quot;width:10em;&quot;|Name
+!scope=&quot;col&quot; style=&quot;width:13em;&quot; class=&quot;unsortable&quot;|Notes
+!scope=&quot;col&quot; style=&quot;width:8em;&quot; class=&quot;unsortable&quot;|Map
+|-
+! scope=&quot;row&quot; |[[Reichskommissariat Ostland]]
+|The [[Baltic countries]] and [[Belarus]]
+|{{center|[[File:Reichskommissariat Ostland (1942).svg|65px]]}}
+|-
+! scope=&quot;row&quot; |[[Reichskommissariat Ukraine]]
+|[[Ukraine]], enlarged eastwards to the [[Volga]]
+|{{center|[[File:Reichskommissariat Ukraine (1942).svg|65px]]}}
+|-
+! scope=&quot;row&quot; |[[Reichskommissariat Kaukasus]]
+|[[North Caucasus|Southern Russia]] and the [[Caucasus]] region
+|{{center|Unrealized}}
+|-
+! scope=&quot;row&quot; |[[Reichskommissariat Moskowien]]
+|[[Moscow metropolitan area]] and the rest of [[European Russia]]
+|{{center|Unrealized}}
+|-
+! scope=&quot;row&quot; |[[Reichskommissariat Turkestan]]
+|[[Soviet Central Asia|Central Asian republics]] and territories
+|{{center|Unrealized}}
+|-
+|}
+
+German military planners also researched [[French invasion of Russia|Napoleon's failed invasion of Russia]]. In their calculations, they concluded that there was little danger of a large-scale retreat of the Red Army into the Russian interior, as it could not afford to give up the Baltic states, Ukraine, or the Moscow and Leningrad regions, all of which were vital to the Red Army for supply reasons and would thus have to be defended.{{sfn|Rich|1973|p=212}} Hitler and his generals disagreed on where Germany should focus its energy.{{sfn|Megargee|2000|pp=131–134}}{{sfn|Seaton|1972|pp=59–63}} Hitler, in many discussions with his generals, repeated his order of &quot;Leningrad first, the [[Donbass]] second, Moscow third&quot;;{{sfn|Higgins|1966|pp=11–59}} but he consistently emphasized the destruction of the Red Army over the achievement of specific terrain objectives.{{sfn|Glantz|2010a|p=18}} Hitler believed Moscow to be of &quot;no great importance&quot; in the defeat of the Soviet Union{{Efn|Concerning this strategic mistake, historian David Stone asserts that, &quot;If Hitler's decision to invade Russia in 1941 was his greatest single error of judgement, then his subsequent decision not to strike hard and fast against Moscow was surely a close second.&quot;{{sfn|Stone|2011|p=195}} }} and instead believed victory would come with the destruction of the Red Army west of the capital, especially west of the [[Daugava (river)|Western Dvina]] and [[Dnieper River|Dnieper]] rivers, and this pervaded the plan for Barbarossa.{{sfn|Glantz|2010b|pp=19, 60}}{{sfn|Clark|2012|p=72}} This belief later led to disputes between Hitler and several German senior officers, including [[Heinz Guderian]], [[Gerhard Engel]], [[Fedor von Bock]] and [[Franz Halder]], who believed the decisive victory could only be delivered at Moscow.{{sfn|Glantz|2010b|pp=55–60}} Hitler had grown overconfident in his own military judgment as a result of the rapid successes in Western Europe.{{sfn|Seaton|1972|pp=32–36}}
+
+==German preparations==
+[[File:Bundesarchiv Bild 146-1974-099-19, Russland, Angriff auf ein Dorf.jpg|thumb|left|200px|German soldiers (Flamethrower team) in the Soviet Union, June 1941]]
+The Germans had begun massing troops near the Soviet border even before the [[Balkans Campaign (World War II)|campaign in the Balkans]] had finished. By the third week of February 1941, 680,000 German soldiers were gathered in assembly areas on the Romanian-Soviet border.{{sfn|Shirer|1990|p=822}} In preparation for the attack, Hitler moved more than 3.2 million German and about 500,000 Axis soldiers to the Soviet border, launched many [[Reconnaissance|aerial surveillance]] missions over Soviet territory, and stockpiled [[war materiel]] in the East.
+
+Although the Soviet High Command was alarmed by this, Stalin's belief that the Third Reich was unlikely to attack only two years after signing the [[Molotov–Ribbentrop Pact]] resulted in a slow Soviet preparation.{{sfn|Hastings|2012|p=141}} This fact aside, the Soviets did not entirely overlook the threat of their German neighbor as well before the German invasion, Marshal Semyon Timoshenko referred to the Germans as the Soviet Union's &quot;most important and strongest enemy&quot; and as early as July 1940, Red Army Army Chief of Staff, Boris Shaposhnikov, produced a preliminary three-pronged plan of attack for what German invasion might look like, remarkably similar to the actual attack.{{sfn|Overy|2006|pp=490–491}} Since April 1941, the Germans had begun setting up [[Operation Haifisch]] and [[Operation Harpune]] to substantiate their claims that Britain was the real target. These simulated preparations in [[Norway]] and the [[English Channel]] coast included activities such as ship concentrations, reconnaissance flights and training exercises.{{sfn|Ziemke|1959|p=138}}
+
+{{quote box |width = 22em |quote = We only have to kick in the door and the whole rotten structure will come crashing down.{{sfn|Hardesty|2012|p=6}}|source = —Adolf Hitler}}
+The postponement of Barbarossa from the initially planned date of 15 May to the actual invasion date of 22 June 1941 (a 38-day delay) occurred for a number of reasons. Most importantly, an unusually wet winter kept rivers at full flood until late spring.{{Efn|Flooding was so bad that Guderian wrote: &quot;The Balkans Campaign had been concluded with all the speed desired, and the troops there engaged which were now needed for Russia were withdrawn according to plan and very fast. But all the same there was a definite delay in the opening of our Russian Campaign. Furthermore we had had a very wet spring; the Bug and its tributaries were at flood level until well into May and the nearby ground was swampy and almost impassable.&quot;{{sfn|Guderian|2002|p=145}} }} The full floods could have discouraged an earlier attack, even if it was unlikely to have happened before the end of the Balkans Campaign.{{sfn|Bradley|Buell|2002|pp=35–40}}
+
+The importance of the delay is still debated.{{sfn|Bradley|Buell|2002|pp=35–40}} [[William Shirer]] argued that Hitler's Balkans Campaign had delayed the commencement of Barbarossa by several weeks and thereby jeopardized it. He cited the deputy chief of the German General Staff in 1941 [[Friedrich Paulus]], who claimed the campaign resulted in a delay of &quot;about five weeks.&quot; This figure is corroborated by both the German Naval War Diary and [[Gerd von Rundstedt]].{{sfn|Shirer|1990|pp=829–830}} [[Antony Beevor]] names a variety of factors that delayed Barbarossa, including the delay in distributing motor transport, problems with fuel distribution, and the difficulty in establishing forward airfields for the Luftwaffe.{{sfn|Beevor|2012|p=163}}
+
+The Germans deployed one independent regiment, one separate motorized training brigade and 153 divisions for Barbarossa, which included 104 infantry, 19 [[panzer]] and 15 [[motorized infantry]] divisions in three army groups, nine [[Security Division (Wehrmacht)|security division]]s to operate in conquered territories, four divisions in Finland and two divisions as reserve under the direct control of [[OKH]].{{sfn|Glantz|2010a|pp=20, 34}} These were equipped with about 3,350 tanks, 7,200 artillery pieces, 2,770 aircraft (that amounted to 65 percent of the Luftwaffe), about 600,000 motor vehicles and 625,000–700,000 horses.{{sfn|Glantz|2010a|pp=20, 25}}{{sfn|Clark|2012|pp=73–74}} Finland slated 14 divisions for the invasion, and Romania offered 13 divisions and eight brigades over the course of Barbarossa.{{sfn|Glantz|2010a|p=20}} The entire Axis forces, 3.8 million personnel,{{sfn|Glantz|2001|p=9}} deployed across a front extending from the [[Arctic Ocean]] southward to the [[Black Sea]],{{sfn|Glantz|2010a|p=18}} were all controlled by the OKH and organized into [[Army Norway (Wehrmacht)|Army Norway]], [[Army Group North]], [[Army Group Center]] and [[Army Group South]], alongside three [[luftflotte|''luftflotten'']] (air fleets, the air force equivalent of army groups) that supported the army groups: [[Luftflotte 1]] for North, [[Luftflotte 2]] for Center and [[Luftflotte 4]] for South.{{sfn|Glantz|2010a|p=20}}
+
+Army Norway was to operate in far northern [[Scandinavia]] and bordering Soviet territories.{{sfn|Glantz|2010a|p=20}} Army Group North was to march through the [[Baltic states]] into northern Russia, either take or destroy the city of [[Leningrad]] and link up with Finnish forces.{{sfn|Glantz|2012|p=36}}{{sfn|Baker|2013|pp=26–27}}{{sfn|Higgins|1966|pp=11–59}} Army Group Center, the army group equipped with the most armour and air power,{{sfn|Glantz|2012|p=14}} was to strike from Poland into [[Belorussia]] and the west-central regions of Russia proper, and advance to [[Smolensk]] and then Moscow.{{sfn|Baker|2013|pp=26–27}}{{sfn|Higgins|1966|pp=11–59}} Army Group South was to strike the heavily populated and agricultural heartland of [[Ukraine]], taking [[Kiev]] before continuing eastward over the [[steppe]]s of southern USSR to the [[Volga]] with the aim of controlling the oil-rich [[Caucasus]].{{sfn|Baker|2013|pp=26–27}}{{sfn|Higgins|1966|pp=11–59}} Army Group South was deployed in two sections separated by a {{convert|198|mi|km|adj=on}} gap. The northern section, which contained the army group's only panzer group, was in southern Poland right next to Army Group Center, and the southern section was in Romania.{{sfn|Glantz|2012|p=40}}
+
+The German forces in the rear (mostly ''[[Waffen-SS]]'' and ''Einsatzgruppen'' units) were to operate in conquered territories to counter any [[Soviet partisans|partisan]] activity in areas they controlled, as well as to [[Commissar Order|execute captured Soviet political commissars]] and Jews.{{sfn|Hartmann|2013|pp=9–24}} On 17 June, [[Reich Main Security Office]] (RSHA) chief [[Reinhard Heydrich]] briefed around thirty to fifty ''Einsatzgruppen'' commanders on &quot;the policy of eliminating Jews in Soviet territories, at least in general terms.&quot;{{sfn|Breitman|1991|p=434}} While the ''Einsatzgruppen'' were assigned to the Wehrmacht's units, which provided them with supplies such as gasoline and food, they were controlled by the RSHA.{{sfn|Hilberg|1961|pp=177–183}} The official plan for Barbarossa assumed that the army groups would be able to advance freely to their primary objectives simultaneously, without spreading thin, once they had won the border battles and destroyed the Red Army's forces in the border area.{{sfn|Glantz|2010a|p=21}}
+
+==Soviet preparations==
+
+In 1930, [[Mikhail Tukhachevsky]], a prominent military theorist in [[armoured warfare|tank warfare]] in the [[interwar period]] and later [[Marshal of the Soviet Union]], forwarded a memo to the Kremlin that lobbied for colossal investment in the resources required for the mass production of weapons, pressing the case for &quot;40,000 aircraft and 50,000 tanks&quot;.{{sfn|Clark|2012|p=56}} In the early 1930s, a very modern operational [[doctrine]] for the Red Army was developed and promulgated in the 1936 Field Regulations in the form of the [[Soviet deep battle|Deep Battle Concept]]. Defense expenditure also grew rapidly from just 12 percent of the [[gross national product]] in 1933 to 18 percent by 1940.{{sfn|Clark|2012|p=55}}
+
+However, during Stalin's [[Great Purge]] in the late 1930s, which was still partially ongoing at the start of the war in June 1941,{{sfn|Glantz|1998|p=26}}{{sfn|Glantz|2012|p=55}} the officer corps of the Red Army was decimated and their replacements, appointed by Stalin for political reasons, often lacked military competence.{{sfn|Clark|2012|p=57}}{{sfn|Glantz|1998|p=26}}{{sfn|Glantz|2012|p=55}} Of the five [[Marshal of the Soviet Union|Marshals of the Soviet Union]] appointed in 1935, only two survived Stalin's purge. 15 out of 16 army commanders, 50 out of the 57 corps commanders, 154 out of the 186 divisional commanders and 401 out of 456 colonels were killed, and many other officers were dismissed.{{sfn|Clark|2012|p=57}} In total, about 30,000 Red Army personnel were executed.{{sfn|Rayfield|2004|p=315}} Stalin further underscored his control by reasserting the role of political commissars at the divisional level and below to oversee the political loyalty of the Army to the regime. The commissars held a position equal to that of the commander of the unit they were overseeing.{{sfn|Clark|2012|p=57}} But in spite of efforts to ensure the political subservience of the armed forces, in the wake of Red Army's poor performance [[Soviet invasion of Poland|in Poland]] and in the [[Winter War]], about 80 percent of the officers dismissed during the Great Purge were reinstated by 1941. Also, between January 1939 and May 1941, 161 new divisions were activated.{{sfn|Glantz|2012|p=22}}{{sfn|Clark|2012|p=58}} Therefore, although about 75 percent of all the officers had been in their position for less than one year at the start of the German invasion of 1941, many of the short tenures can be attributed not only to the purge, but also to the rapid increase in creation of military units.{{sfn|Clark|2012|p=58}}
+
+In the Soviet Union, speaking to his generals in December 1940, Stalin mentioned Hitler's references to an attack on the Soviet Union in ''Mein Kampf'' and Hitler's belief that the Red Army would need four years to ready itself. Stalin declared &quot;we must be ready much earlier&quot; and &quot;we will try to delay the war for another two years&quot;.{{sfn|Berthon|Potts|2007|p=47}} As early as August 1940, British intelligence had received hints of German plans to attack the Soviets only a week after Hitler informally approved the plans for ''Barbarossa'' and warned the Soviet Union accordingly.{{sfn|Waller|1996|p=192}} But Stalin's distrust of the British led him to ignore their warnings in the belief that they were a trick designed to bring the Soviet Union into the war on their side.{{sfn|Waller|1996|p=192}}  He had an ill-founded confidence in the Molotov–Ribbentrop Pact and suspected the British of trying to spread false rumours in order to trigger a war between Germany and the USSR.{{sfn|Roberts|1995|p=1293}}  In early 1941, Stalin's own [[intelligence service]]s and American intelligence gave regular and repeated warnings of an impending German attack.{{sfn|Waller|1996|pp=196–198}} Soviet spy [[Richard Sorge]] also gave Stalin the exact German launch date, but Sorge and other informers had previously given different invasion dates that passed peacefully before the actual invasion.{{sfn|Roberts|2011|p=155}}{{sfn|Hastings|2016|pp=110–113}} Stalin acknowledged the possibility of an attack in general and therefore made significant preparations, but decided not to run the risk of provoking Hitler.{{sfn|Waller|1996|p=202}}
+
+[[File:RIAN archive 2410 Marshal Zhukov speaking.jpg|thumb|left|180px|Marshal Zhukov speaking at a military conference in Moscow, September 1941]]
+
+Beginning in July 1940, the Red Army General Staff developed war plans that identified the Wehrmacht as the most dangerous threat to the Soviet Union, and that in the case of a war with Germany, the Wehrmacht's main attack would come through the region north of the [[Pripyat Marshes]] into Belorussia,{{sfn|Glantz|2012|p=15}}{{sfn|Glantz|2010a|p=21}} which later proved to be correct.{{sfn|Glantz|2012|p=15}} But Stalin disagreed, and in October he authorized the development of new plans that assumed a German attack would focus on the region south of Pripyat Marshes towards the economically vital regions in Ukraine. This became the basis for all subsequent Soviet war plans and the deployment of their armed forces in preparation for the German invasion.{{sfn|Glantz|2012|p=15}}{{sfn|Glantz|2010a|pp=21–22}}
+
+In early 1941 Stalin authorized the State Defense Plan 1941 (DP-41), which along with the Mobilization Plan 1941 (MP-41), called for the deployment of 186 divisions, as the first strategic echelon, in the four [[Military districts of the Soviet Union|military districts]]{{efn|name=western military districts Soviet Union}} of the western Soviet Union that faced the Axis territories; and the deployment of another 51 divisions along the Dvina and Dnieper rivers as the second strategic echelon under [[Stavka]] control, which in the case of a German invasion was tasked to spearhead a Soviet counteroffensive along with the remaining forces of the first echelon.{{sfn|Glantz|2010a|pp=21–22}} But on 22 June 1941 the first echelon only contained 171 divisions,{{efn|name=171 divisions}} numbering 2.6–2.9 million;{{sfn|Glantz|2001|p=9}}{{sfn|Glantz|1998|pp=10–11, 101, 293}}{{sfn|Taylor|1974|p=98}} and the second strategic echelon contained 57 divisions that were still mobilizing, most of which were still seriously understrength.{{sfn|Glantz|2010a|pp=22–23, 51}} The second echelon was undetected by German intelligence until days after the invasion commenced, in most cases only when the German ground forces bumped into them.{{sfn|Glantz|2010a|pp=22–23, 51}}
+
+At the start of the invasion, the manpower of the Soviet military force that had been mobilized was 5.3–5.5 million,{{sfn|Glantz|2001|p=9}}{{sfn|Glantz|1998|p=293}} and it was still increasing as the Soviet [[military reserve force|reserve force]] of 14 million, with at least basic military training, continued to mobilize.{{sfn|Glantz|1998|p=107}}{{sfn|Glantz|House|1995|p=68}} The Red Army was dispersed and still preparing when the invasion commenced. Their units were often separated and lacked adequate transportation.{{sfn|Sakwa|2005|pp=225–227}}
+
+The Soviet Union had some 23,000 tanks in service of which about 11,000 were in the western military districts that faced the German invasion force.{{sfn|Mercatante|2012|p=64}} Hitler later declared to some of his generals, &quot;If I had known about the Russian tank strength in 1941 I would not have attacked&quot;.{{sfn|Macksey|1989|p=456}} However, maintenance and readiness standards were very poor; ammunition and radios were in short supply, and many armoured units lacked the trucks for supplies.{{sfn|Seaton|1972|pp=91–93}}{{sfn|Hastings|2012|p=140}} The most advanced Soviet tank models – the [[KV-1]] and [[T-34]] – which were superior to all current German tanks, as well as all designs still in development as of the summer 1941,{{sfn|Glantz|2012|p=23}} were not available in large numbers at the time the invasion commenced.{{sfn|Seaton|1972|p=93}} Furthermore, in the autumn of 1939, the Soviets disbanded their [[Mechanised corps (Soviet Union)|mechanized corps]] and partly dispersed their tanks to infantry divisions;{{sfn|Glantz|1998|p=109}} but following their observation of the German campaign in France, in late 1940 they began to reorganize most of their armored assets back into mechanized corps with a target strength of 1,031 tanks each.{{sfn|Glantz|2012|p=22}} But these large armoured formations were unwieldy, and moreover they were spread out in scattered garrisons, with their subordinate divisions up to {{convert|100|km|abbr=off}} apart.{{sfn|Glantz|2012|p=22}} Furthermore, the reorganization was still in progress and incomplete when Barbarossa commenced.{{sfn|Dunnigan|1978|p=82}}{{sfn|Glantz|1998|p=109}} Soviet tank units were rarely well equipped, and they lacked training and logistical support. Units were sent into combat with no arrangements in place for refueling, ammunition resupply, or personnel replacement. Often, after a single engagement, units were destroyed or rendered ineffective.{{sfn|Sakwa|2005|pp=225–227}} The Soviet numerical advantage in heavy equipment was thoroughly offset by the superior training and organization of the Wehrmacht.{{sfn|Rayfield|2004|p=315}}
+
+The Soviet Air Force ([[Voenno-Vozdushnye Sily|VVS]]) held the numerical advantage with a total of approximately 19,533 aircraft, which made it the largest air force in the world in the summer of 1941.{{sfn|Glantz|2010a|p=28}} About 7,133–9,100 of these were deployed in the five western military districts,{{efn|name=western military districts Soviet Union}}{{sfn|Glantz|2010a|p=28}}{{sfn|Mercatante|2012|p=64}}{{sfn|Clark|2012|p=76}} and an additional 1445 were under Naval control.{{sfn|Glantz|1998|p=13}}
+
+{|class=&quot;wikitable&quot;  style=&quot;float:right; margin:1em auto 1.5em 2.5em; text-align:right;&quot;
+|+'''Development of the Soviet Armed Forces''' – Compiled by Russian military historian [[Mikhail Meltyukhov]] from various sources{{sfn|Russian Military Library}}
+!
+!1 January 1939
+!22 June 1941
+!Increase
+|-
+|Divisions calculated ||131.5 ||316.5 ||140.7%
+|-
+|Personnel ||2,485,000 ||5,774,000 ||132.4%
+|-
+|Guns and mortars ||55,800 ||117,600 ||110.7%
+|-
+|Tanks ||21,100 ||25,700 ||21.8%
+|-
+|Aircraft ||7,700 ||18,700 ||142.8%
+|}
+
+Historians [[Soviet offensive plans controversy|have debated]] whether Stalin was planning an invasion of German territory in the summer of 1941. The debate began in the late 1980s when [[Viktor Suvorov]] published a journal article and later the book ''[[Icebreaker (Suvorov)|Icebreaker]]'' in which he stated that Stalin had seen the outbreak of war in western Europe as an opportunity to spread communist revolutions throughout the continent, and that the Soviet military was being deployed for an imminent attack at the time of the German invasion.{{sfn|Uldricks|1999|pp=626–627}} This view had also been advanced by former German generals following the war.{{sfn|Smelser|Davies|2008|p=243}} Suvorov's thesis was fully or partially accepted by some historians, including [[Valeri Danilov]], [[Joachim Hoffmann]], [[Mikhail Meltyukhov]] and [[Vladimir Nevezhin]], and attracted public attention in Germany, Israel and Russia.{{sfn|Uldricks|1999|pp=631, 633, 636}}{{sfn|Bar-Joseph|Levy|2009|p=476}} However, it has been strongly rejected by most historians of this period,{{sfn|Uldricks|1999|p=630}}{{sfn|Humpert|2005|p=72}} and ''Icebreaker'' is generally considered to be an &quot;anti-Soviet tract&quot; in western countries.{{sfn|Roberts|1995|p=1326}} [[David Glantz]] and [[Gabriel Gorodetsky]] wrote books to rebut Suvorov's arguments,{{sfn|Mawdsley|2003|pp=819–820}} and most historians believe that Stalin was seeking to avoid war in 1941 as he believed that his military was not ready to fight the German forces.{{sfn|Bar-Joseph|Levy|2009|p=477}} 
+{{Clear}}
+
+==Order of battle==
+{{main article|Order of battle for Operation Barbarossa}}
+
+{|class=&quot;wikitable&quot; style=&quot;font-size:95%; width:100%&quot;
+|+'''Order of battle – June 1941{{sfn|Kirchubel|2005|p=26,29}}{{sfn|Kirchubel|2003|p=31}}{{sfn|Kirchubel|2007|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+|-
+! scope=&quot;col&quot; |Axis forces
+! scope=&quot;col&quot; |Soviet Forces{{efn|name=western military districts Soviet Union}}
+|-
+|valign=&quot;top&quot; |
+'''Northern Theatre'''{{sfn|Glantz|2012|pp=290–303}}{{sfn|Kirchubel|2005|p=26}}
+* [[Army Norway (Wehrmacht)|Army Norway]]
+* [[Finnish Army#Continuation War|Finnish Army]]
+** [[Army of Karelia]]
+
+'''[[Army Group North]]'''{{sfn|Kirchubel|2005|p=26}}{{sfn|Glantz|2012|pp=290–303}}
+* [[18th Army (Wehrmacht)|18th Army]]
+* [[4th Panzer Group]]
+* [[16th Army (Wehrmacht)|16th Army]]
+* [[Luftflotte 1|Air Fleet 1]]
+
+'''[[Army Group Centre|Army Group Center]]'''{{sfn|Kirchubel|2007|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+* [[3rd Panzer Group]]
+* [[9th Army (Wehrmacht)|9th Army]]
+* [[4th Army (Wehrmacht)|4th Army]]
+* [[2nd Panzer Group]]
+* [[Luftflotte 2|Air Fleet 2]]
+
+'''[[Army Group South]]'''{{sfn|Kirchubel|2003|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+* [[6th Army (Wehrmacht)|6th Army]]
+* [[1st Panzer Group]]
+* [[17th Army (Wehrmacht)|17th Army]]
+** [[Slovak Republic (1939–1945)#Slovak forces during the campaign against the Soviet Union|Slovak Expeditionary Force]]
+** [[Gyorshadtest|Royal Hungarian Army Mobile Corps]]
+* [[11th Army (Wehrmacht)|11th Army]]
+** [[Italian Expeditionary Corps in Russia]]
+* [[Third Army (Romania)|Romanian 3rd Army]]
+* [[4th Territorial Army Corps (Romania)|Romanian 4th Army]]
+* [[Luftflotte 4|Air Fleet 4]]
+|width=&quot;55%&quot; |
+'''[[Northern Front (Soviet Union)|Northern Front]]'''{{sfn|Kirchubel|2005|p=29}}{{sfn|Glantz|2012|pp=290–303}}
+* [[7th Army (Soviet Union)|7th Army]]
+* [[14th Army (Soviet Union)|14th Army]]
+* [[23rd Army (Soviet Union)|23rd Army]]
+** [[10th Mechanized Corps (Soviet Union)|10th Mechanized Corps]]
+* [[1st Mechanized Corps (Soviet Union)|1st Mechanized Corps]]
+* Northern [[Soviet Air Defence Forces|PVO]]
+
+'''[[North-Western Front]]'''{{sfn|Kirchubel|2007|p=30}}{{sfn|Glantz|2012|pp=290–303}}
+* [[27th Army (Soviet Union)|27th Army]]
+* [[8th Army (Soviet Union)|8th Army]]
+** [[12th Mechanized Corps (Soviet Union)|12 Mechanized Corps]]
+* [[11th Army (Soviet Union)|11th Army]]
+** [[3rd Mechanized Corps (Soviet Union)|3rd Mechanized Corps]]
+* 5th Airborne Corps
+* Baltic [[Soviet Air Forces|VVS]]
+* [[Northern Fleet]]
+* [[Baltic Fleet]]
+
+'''[[Western Front (Soviet Union)|Western Front]]'''{{sfn|Kirchubel|2005|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+* [[3rd Army (Soviet Union)|3rd Army]]
+** 11th Mechanized Corps
+* [[10th Army (Soviet Union)|10th Army]]
+** [[6th Mechanized Corps (Soviet Union)|6th Mechanized Corps]]
+** 13th Mechanized Corps
+* [[4th Army (Soviet Union)|4th Army]]
+** 14th Mechanized Corps
+* [[13th Army (Soviet Union)|13th Army]]
+* [[17th Mechanized Corps (Soviet Union)|17th]] and [[20th Mechanized Corps (Soviet Union)|20th]] Mechanized Corps
+* [[2nd Rifle Corps|2nd Rifle]], 21st Rifle, 44th Rifle, 47th Rifle, 50th Rifle and [[4th Airborne Corps (Soviet Union)|4th Airborne]] Corps
+* Western [[Soviet Air Forces|VVS]]
+
+'''[[Soviet Southwestern Front|South-Western Front]]'''{{sfn|Kirchubel|2003|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+* [[5th Army (Soviet Union)|5th Army]]
+** [[9th Mechanized Corps (Soviet Union)|9th Mechanized Corps]]
+** 22nd Mechanized Corps
+* [[6th Army (Soviet Union)|6th Army]]
+** [[4th Mechanized Corps (Soviet Union)|4th Mechanized Corps]]
+** 15th Mechanized Corps
+* [[26th Army (Soviet Union)|26th Army]]
+** [[8th Mechanized Corps (Soviet Union)|8th Mechanized Corps]]
+* [[12th Army (Soviet Union)|12th Army]]
+** 16th Mechanized Corps
+* 31 Rifle, 36th Rifle, 49th Rifle, 55th Rifle and 1st Airborne Corps
+* Kiev [[Soviet Air Forces|VVS]]
+
+'''[[Southern Front (Soviet Union)|Southern Front]]'''{{sfn|Kirchubel|2003|p=31}}{{sfn|Glantz|2012|pp=290–303}}
+* [[9th Army (Soviet Union)|9th Independent Army]]
+** [[2nd Mechanized Corps (Soviet Union)|2nd Mechanized Corps]]
+** 18th Mechanized Corps
+* 7th Rifle, 9th Rifle and 3rd Airborne Corps
+* Odessa [[Soviet Air Forces|VVS]]
+* [[Black Sea Fleet]]
+----
+'''[[Reserve of the Supreme High Command|''Stavka'' Reserve]] Armies (second strategic echelon)'''{{sfn|Glantz|2012|pp=302–303}}
+* [[16th Army (Soviet Union)|16th Army]]
+** [[5th Mechanised Corps (Soviet Union)|5th Mechanized Corps]]
+* [[19th Army (Soviet Union)|19th Army]]
+** [[26th Mechanized Corps (Soviet Union)|26th Mechanized Corps]]
+* [[20th Army (Soviet Union)|20th Army]]
+** [[7th Mechanized Corps (Soviet Union)|7th Mechanized Corps]]
+* [[21st Army (Soviet Union)|21st Army]]
+** [[25th Mechanized Corps (Soviet Union)|25th Mechanized Corps]]
+* [[22nd Army (Soviet Union)|22nd Army]]
+* [[24th Army (Soviet Union)|24th Army]]
+* 20th Rifle, 45th Rifle, 67th Rifle and 21st Mechanized Corps.
+|}
+
+==Invasion==
+[[File:German troops crossing the Soviet border.jpg|thumb|left|315px|German troops at the Soviet state [[border marker]], 22 June 1941]]
+At around 1:00&amp;nbsp;am on 22 June 1941, the Soviet military districts in the border area{{efn|name=western military districts Soviet Union}} were alerted by NKO Directive No. 1, which was issued late on night of 21 June.{{sfn|Clark|2012|p=81}} It called on them to &quot;bring all forces to combat readiness,&quot; but to &quot;avoid provocative actions of any kind.&quot;{{sfn|Glantz|2012|p=287}} It took up to 2 hours for several of the units subordinate to the Fronts to receive the order of the directive,{{sfn|Glantz|2012|p=287}} and the majority did not receive it before the invasion commenced.{{sfn|Clark|2012|p=81}}
+
+At around 3:15&amp;nbsp;am on 22 June 1941, the Axis Powers commenced the invasion of the Soviet Union with the bombing of major cities in Soviet-occupied Poland{{sfn|Kirchubel|2007|pp=33–34}} and an artillery barrage on Red Army defences on the entire front.{{sfn|Clark|2012|p=81}} The heavy air-raids reached as far as Kronstadt near Leningrad, Ismail in Bessarabia, and Sevastopol in the Crimea. Meanwhile, ground troops crossed the border, accompanied in some locales by Lithuanian and Ukrainian [[fifth column]]ists.{{sfn|Seaton|1972|p=98}}  Roughly three million soldiers of the Wehrmacht went into action and faced slightly fewer Soviet troops at the border.{{sfn|Kirchubel|2007|pp=33–34}}
+
+At around noon, the news of the invasion was broadcast to the population by Soviet foreign minister [[Vyacheslav Molotov]]: &quot;... Without a declaration of war, German forces fell on our country, attacked our frontiers in many places... The Red Army and the whole nation will wage a victorious Patriotic War for our beloved country, for honour, for liberty ... Our cause is just. The enemy will be beaten. Victory will be ours!&quot;{{sfn|Clark|2012|p=70}}{{sfn|Braithwaite|2010|p=74}} By calling upon the population's devotion to their nation rather than the Party, Molotov struck a patriotic chord that helped a stunned people absorb the shattering news.{{sfn|Clark|2012|p=70}} Within the first few days of the invasion, the Soviet High Command and Red Army were extensively reorganized so as to place them on the necessary war footing.{{sfn|Seaton|1972|p=99}} Stalin did not address the nation about the German invasion until 3 July, when he also called for a &quot;Patriotic War ... of the entire Soviet people&quot;.{{sfn|Clark|2012|p=92}}
+
+In Germany, on the morning of 22 June, [[Nazi propaganda]] minister [[Joseph Goebbels]] announced the invasion to the waking nation in a radio broadcast, &quot;At this moment a march is taking place that, for its extent, compares with the greatest the world has ever seen. I have decided today to place the fate and future of the Reich and our people in the hands of our soldiers. May God aid us, especially in this fight!&quot;{{sfn|Clark|2012|p=82}} Later the same morning, Hitler proclaimed to his colleagues, &quot;Before three months have passed, we shall witness a collapse of Russia, the like of which has never been seen in history.&quot;{{sfn|Clark|2012|p=82}}
+
+==Phase one==
+[[File:Invasion1941.jpg|300px|thumb|right|German advances from June to August 1941]]
+
+The initial momentum of the German ground and air attack completely destroyed the Soviet organizational [[command and control]] within the first few hours, paralyzing every level of command from the infantry platoon to the Soviet High Command in Moscow.{{sfn|Glantz|2012|pp=31–33}} Moscow not only failed to grasp the magnitude of the catastrophe that confronted the Soviet forces in the border area but Stalin's first reaction was disbelief.{{sfn|Roberts|2011|p=156}} At around 7:15&amp;nbsp;am, Stalin issued NKO Directive No. 2, which announced the invasion to the Soviet Armed Forces, and called on them to attack Axis forces wherever they had violated the borders and launch air strikes into the border regions of German territory.{{sfn|Clark|2012|p=83}} At around 9:15&amp;nbsp;pm, Stalin issued NKO Directive No. 3, signed by Marshal [[Semyon Timoshenko]], which now called for a general counteroffensive on the entire front &quot;without any regards for borders&quot; that both men hoped would sweep the enemy from Soviet territory.{{sfn|Glantz|2010a|p=31}}{{sfn|Glantz|2012|p=287}} Timoshenko's order was not based on a realistic appraisal of the military situation at hand, and it resulted in devastating casualties.{{citation needed|date=October 2016}}
+
+===Air war===
+{{Main article|Axis and Soviet air operations during Operation Barbarossa}}
+Luftwaffe reconnaissance units worked frantically to plot Soviet troop concentration, supply dumps, and airfields, and mark them down for destruction.{{sfn|Askey|2014|p=253}} Additional Luftwaffe attacks were carried out against Soviet command and control centers so as to &quot;turn the Red Army into a disorganized and chaotic mob.&quot;{{sfn|Fritz|2011|p=85}} In contrast, Soviet artillery observers based at the border area had been under the strictest instructions not to open fire on German aircraft prior to the invasion.{{sfn|Hastings|2012|p=141}} One plausible reason given for the Soviet hesitation to return fire was Stalin's initial belief that the assault was launched without Hitler's authorization. Significant amounts of Soviet territory were lost along with Red Army forces as a result; it took several days before Stalin comprehended the magnitude of the calamity.{{sfn|Fritz|2011|pp=85–86}} The Luftwaffe reported to have destroyed 1,489 aircraft on the first day of the invasion{{sfn|Bergström|2007|p=20}} and over 3,100 over the first three days.{{sfn|Bergström|2007|p=23}} Hermann Göring, [[Ministry of Aviation (Nazi Germany)|Minister of Aviation]] and [[Oberkommando der Luftwaffe|Commander-in-Chief of the Luftwaffe]], distrusted the reports and ordered the figure checked. Luftwaffe staffs surveyed the wreckage on Soviet airfields, and their original figure proved conservative, as over 2,000 Soviet aircraft were estimated to have been destroyed on the first day of the invasion.{{sfn|Bergström|2007|p=20}} In reality, Soviet losses were likely higher; a Soviet archival document recorded the loss of 3,922 Soviet aircraft in the first three days against an estimated loss of 78 German aircraft.{{sfn|Bergström|2007|p=23}}{{sfn|Hardesty|2012|p=9}} The Luftwaffe reported the loss of only 35 aircraft on the first day of combat.{{sfn|Bergström|2007|p=23}} A document from the [[German Federal Archives]] puts the Luftwaffe's loss at 63 aircraft for the first day.{{sfn|Hardesty|2012|p=8, 390}}
+
+By the end of the first week, the Luftwaffe had achieved [[air supremacy]] over the battlefields of all the army groups,{{sfn|Hardesty|2012|p=9}} but was unable to effect this air dominance over the vast expanse of the western Soviet Union.{{sfn|Glantz|2012|p= 19}}{{sfn|Hardesty|2012|p=54}} According to the [[war diary|war diaries]] of the [[OKW|German High Command]], the Luftwaffe by 5 July had lost 491 aircraft with 316 more damaged, leaving it with only about 70 percent of the strength it had at the start of the invasion.{{sfn|Glantz|2010a|p=54}}
+
+===Baltic states===
+{{Main article|Baltic Operation}}
+On 22 June, Army Group North attacked the Soviet Northwestern Front and broke through its 8th and 11th Armies.{{sfn|Glantz|2012|p=37}} The Soviets immediately launched a [[Battle of Raseiniai|powerful counterattack]] against the German [[4th Panzer Group]] with the Soviet 3rd and 12th Mechanized Corps, but the Soviet attack was defeated.{{sfn|Glantz|2012|p=37}} On 25 June, the 8th and 11th Armies were ordered to withdraw to the Western Dvina River, where it was planned to meetup with the 21st Mechanized Corps and the 22nd and 27th Armies. However, on 26 June, [[Erich von Manstein]]'s LVI Panzer Corps reached the river first and secured a bridgehead across it.{{sfn|Glantz|2012|p=38}} The Northwestern Front was forced to abandon the river defenses, and on 29 June Stavka ordered the Front to withdraw to the [[Stalin Line]] on the approaches to Leningrad.{{sfn|Glantz|2012|p=38}} On 2 July, Army Group North began its attack on the Stalin Line with its 4th Panzer Group, and on 8 July captured [[Pskov]], devastating the defenses of the Stalin Line and reaching [[Leningrad oblast]].{{sfn|Glantz|2012|p=38}} The 4th Panzer Group had advanced about {{convert|450|km|mi}} since the start of the invasion and was now only about {{convert|250|km|mi}} from its primary objective [[Leningrad]]. On 9 July it began its attack towards the Soviet defenses along the [[Luga River]] in Leningrad oblast.{{sfn|Glantz|2012|p=93}}
+
+===Ukraine and Moldavia===
+{{See also|Operation München|Battle of Brody (1941)}}
+The northern section of Army Group South faced the Southwestern Front, which had the largest concentration of Soviet forces, and the southern section faced the Southern Front. In addition, the Pripyat Marshes and the [[Carpathian Mountains]] posed a serious challenge to the army group's northern and southern sections respectively.{{sfn|Fritz|2011|pp=89, 140}} On 22 June, only the northern section of Army Group South attacked, but the terrain impeded their assault, giving the Soviet defenders ample time to react.{{sfn|Fritz|2011|pp=89, 140}} The German [[1st Panzer Group]] and 6th Army attacked and broke through the Soviet 5th Army.{{sfn|Glantz|2012|p=41}} Starting on the night of 23 June, the Soviet 22nd and 15th Mechanized Corps attacked the flanks of the 1st Panzer Group from north and south respectively. Although intended to be concerted, Soviet tank units were sent in piecemeal due to poor coordination. The 22nd Mechanized Corp ran into the 1st Panzer Army's III Motorized Corps and was decimated, and its commander killed. The 1st Panzer Group bypassed much of the 15th Mechanized Corps, which engaged the German 6th Army's 297th Infantry Division, where it was defeated by antitank fire and Luftwaffe attacks.{{sfn|Glantz|2012|p=42}} On 26 June, the Soviets launched another counterattack on the 1st Panzer Group from north and south simultaneously with the 9th, 19th and 8th Mechanized Corps, which altogether fielded 1649 tanks, and supported by the remnants of the 15th Mechanized Corps. The battle lasted for four days, ending in the defeat of the Soviet tank units.{{sfn|Glantz|2012|pp=43–44, 225}} On 30 June Stavka ordered the remaining forces of the Southwestern Front to withdraw to the Stalin Line, where it would defend the approaches to Kiev.{{sfn|Glantz|2012|pp=21, 43–44}}
+
+On 2 July, the southern section of Army Group South – the Romanian 3rd and 4th Armies, alongside the German 11th Army – invaded [[Moldavian Soviet Socialist Republic|Soviet Moldavia]], which was defended by the Southern Front.{{sfn|Glantz|2012|p=45}} Counterattacks by the Front's 2nd Mechanized Corps and 9th Army were defeated, but on 9 July the Axis advance stalled along the defenses of the Soviet 18th Army between the [[Prut River|Prut]] and [[Dniester River|Dniester]] Rivers.{{sfn|Glantz|2012|pp=45, 112}}
+
+===Belorussia===
+{{Main article|Battle of Białystok–Minsk}}
+In the opening hours of the invasion, the Luftwaffe destroyed the Western Front's air force on the ground, and with the aid of [[Abwehr]] and their supporting anti-communist fifth columns operating in the Soviet rear paralyzed the Front's communication lines, which particularly cut off the Soviet 4th Army headquarters from headquarters above and below it.{{sfn|Glantz|2010a|pp=29–33}} On the same day, the [[2nd Panzer Group]] crossed the [[Bug River]], broke through the 4th Army, bypassed [[Brest Fortress]], and pressed on towards [[Minsk]], while the [[3rd Panzer Group]] bypassed most of the 3rd Army and pressed on towards [[Vilnius]].{{sfn|Glantz|2010a|pp=29–33}} Simultaneously, the German 4th and 9th Armies engaged the Western Front forces in the environs of [[Białystok]].{{sfn|Seaton|1972|pp=119–125}} On the order of [[Dmitry Pavlov (general)|Dmitry Pavlov]], the commander of the Western Front, the 6th and 11th Mechanized Corps and the 6th Cavalry Corps launched a strong counterstrike towards [[Grodno]] on 24–25 June in hopes of destroying the 3rd Panzer Group. However, the 3rd Panzer Group had already moved on, with its forward units reaching Vilnius on the evening of 23 June, and the Western Front's armoured counterattack instead ran into infantry and antitank fire from the V Army Corps of the German 9th Army, supported by Luftwaffe air attacks.{{sfn|Glantz|2010a|pp=29–33}} By the night of 25 June, the Soviet counterattack was defeated, and the commander of the 6th Cavalry Corps was captured. The same night, Pavlov ordered all the remnants of the Western Front to withdraw to Slonim towards Minsk.{{sfn|Glantz|2010a|pp=29–33}} Subsequent counterattacks to buy time for the withdrawal were launched against the German forces, but all of them failed.{{sfn|Glantz|2010a|pp=29–33}} On 27 June, the 2nd and 3rd Panzer Groups met near Minsk and captured the city the next day, completing the encirclement of almost all of the Western Front in two pockets: one around Białystok and another west of Minsk.{{sfn|Glantz|2010a|pp=29–33, 56}} The Germans destroyed the Soviet 3rd and 10th Armies while inflicting serious losses on the 4th, 11th and 13th Armies, and reported to have captured 324,000 Soviet troops, 3,300 tanks, 1,800 artillery pieces.{{sfn|Murray|Millett|2000|pp=122–123}}{{sfn|Fritz|2011|pp=88, 509}} 
+
+A Soviet directive was issued on 29 June to combat the mass panic rampant among the civilians and the armed forces personnel. The order stipulated swift, severe measures against anyone inciting panic or displaying cowardice. The [[NKVD]] worked with commissars and military commanders to scour possible withdrawal routes of soldiers retreating without military authorization. Field expedient general courts were established to deal with civilians spreading rumours and military deserters.{{sfn|Seaton|1972|p=111}} On 30 June, Stalin relieved Pavlov of his command, and on 22 July tried and executed him along with many members of his staff on charges of &quot;cowardice&quot; and &quot;criminal incompetence&quot;.{{sfn|Glantz|2010a|pp=56–57}}{{sfn|Forczyk|2014|p=253}}
+
+On 29 June, Hitler, through the Commander-in-Chief of the [[Heer (Wehrmacht)|German Army]] Walther von Brauchitsch, instructed the commander of Army Group Center [[Fedor von Bock]] to halt the advance of his panzers until the infantry formations liquidating the pockets catch up.{{sfn|Glantz|2010a|pp=54–56}} But the commander of the 2nd Panzer Group [[Heinz Guderian]], with the tacit support of Fedor von Bock and the chief of OKH [[Franz Halder]], ignored the instruction and attacked on eastward towards Bobruisk, albeit reporting the advance as a [[reconnaissance-in-force]]. He also personally conducted an aerial inspection of the Minsk-Białystok pocket on 30 June and concluded that his panzer group was not needed to contain it, since [[Hermann Hoth]]'s 3rd Panzer Group was already involved in the Minsk pocket.{{sfn|Glantz|2010a|pp=60–62}} On the same day, some of the infantry corps of the 9th and 4th Armies, having sufficiently liquidated the Białystok pocket, resumed their march eastward to catch up with the panzer groups.{{sfn|Glantz|2010a|pp=60–62}} On 1 July, Fedor von Bock ordered the panzer groups to resume their full offensive eastward on the morning of 3 July. But Brauchitsch, upholding Hitler's instruction, and Halder, unwillingly going along with it, opposed Bock's order. However, Bock insisted on the order by stating that it would be flatly irresponsible to reverse orders already issued. The panzer groups, however, resumed their offensive on 2 July before the infantry formations had sufficiently caught up.{{sfn|Glantz|2010a|pp=60–62}}
+
+==Phase two==
+{{Further information|Battle of Smolensk (1941)|Leningrad Operation (1941)}}
+[[File:OperationBarbarossa.PNG|thumb|270px|German advances during the opening phases of Operation Barbarossa, August 1941]]
+
+On 2 July and through the next six days, a rainstorm typical of Belarusian summers slowed the progress of the panzers of Army Group Center, and Soviet defenses stiffened.{{sfn|Glantz|2010a|p=63}} The delays gave the Soviets time to organize a massive counterattack against Army Group Center. The army group's ultimate objective was [[Smolensk]], which commanded the road to Moscow. Facing the Germans was an [[Stalin line|old Soviet defensive line]] held by six armies. On 6 July, the Soviets launched a massive counter-attack using the V and VII Mechanized Corps of the 20th Army,{{sfn|Glantz|House|2015|p=70}} which collided with the German 39th and 47th Panzer Corps where the Red Army lost 832 tanks of the 2000 employed in five days of ferocious fighting.{{sfn|Bellamy|2007|p=240}} The Germans defeated this counterattack thanks largely to the coincidental presence of the Luftwaffe's only squadron of tank-busting aircraft.{{sfn|Bellamy|2007|p=240}} The 2nd Panzer Group crossed the Dnieper River and closed in on Smolensk from the south while the 3rd Panzer Group, after defeating the Soviet counterattack, closed on Smolensk from the north. Trapped between their pincers were three Soviet armies. Guderian's 29th Panzer Division captured Smolensk on 16 July yet a gap remained between Army Group Center.{{sfn|Murray|Millet|2001|pp=123–124}} On 18 July, the Panzer Groups came to within {{convert|10|km|mi|spell=in}} of closing the gap, but the trap did not snap shut until early August. When the Panzer Groups finally closed the gap on 5 August, upwards of 300,000 Red Army soldiers had been captured and 3,205 Soviet tanks were destroyed.{{sfn|Murray|Millet|2001|pp=123–124}} Large numbers of Red Army soldiers escaped however to stand between the Germans and Moscow as resistance continued unabated.{{sfn|Murray|Millet|2001|p=124}} 
+
+Four weeks into the campaign, the Germans realized they had grossly underestimated Soviet strength.{{sfn|Dear|Foot|1995|p=88}} The German troops had used their initial supplies and General Bock quickly came to the conclusion that not only had the Red Army offered stiff opposition, but German difficulties were also due to the logistical problems with reinforcements and provisions.{{sfn|Keegan|1989|p=189}} Operations were now slowed down to allow for resupply; the delay was to be used to adapt strategy to the new situation.{{sfn|''Battle for Russia'', 1996}} Hitler by now had lost faith in battles of encirclement as large numbers of Soviet soldiers had escaped the pincers.{{sfn|''Battle for Russia'', 1996}} He now believed he could defeat the Soviet state by economic means, depriving them of the industrial capacity to continue the war. That meant seizing the industrial center of [[Kharkov]], the [[Donbass]] and the oil fields of the [[Caucasus]] in the south and the speedy capture of Leningrad, a major center of military production, in the north.{{sfn|Keegan|1989|p=195}}
+
+Chief of the OKH, General [[Franz Halder]], [[Fedor von Bock]], the commander of Army Group Center, and almost all the German generals involved in Operation Barbarossa argued vehemently in favor of continuing the all-out drive toward Moscow.{{sfn|Keegan|1989|pp=192–194}}{{sfn|Wright|1968|p=38}} Besides the psychological importance of capturing the enemy's capital, the generals pointed out that Moscow was a major center of arms production, the center of the Soviet communications system and an important transportation hub. More significantly, intelligence reports indicated that the bulk of the Red Army was deployed near Moscow under [[Semyon Timoshenko]] for an all-out defense of the capital.{{sfn|''Battle for Russia'', 1996}} Panzer commander [[Heinz Guderian]] was sent to Hitler by Bock and Halder to argue their case for continuing the assault against Moscow, but Hitler remained undeterred and instead, issued a direct order through Guderian (bypassing both Bock and Halder) to send Army Group Center's tanks to the north and south, temporarily halting the drive to Moscow.{{sfn|Seaton|1982|pp=177–178}} Convinced by Hitler's argument, Guderian returned to his commanding officers as a convert to the Führer's plan, which earned him their disdain.{{sfn|Seaton|1982|p=178}}
+
+==Phase three==
+{{Further information|Battle of Uman|Battle of Kiev (1941)|Siege of Leningrad}}
+By mid-July, the German forces had advanced within a few kilometers of [[Kiev]] below the [[Pripyat Marshes]]. The 1st Panzer Group then went south while the 17th Army struck east and trapped three Soviet armies near [[Uman]].{{sfn|Thomas|2012|p=13}} As the Germans eliminated the pocket, the tanks turned north and crossed the Dnieper. Meanwhile, the 2nd Panzer Group, diverted from Army Group Center, had crossed the Desna River with 2nd Army on its right flank. The two Panzer armies now trapped four Soviet armies and parts of two others.{{sfn|Thomas|2012|pp=12–14}}
+
+By August, as the serviceability and the quantity of the Luftwaffe's inventory steadily reduced due to combat, while demand for air support only increased as the VVS stubbornly resurged, the Luftwaffe found itself struggling to maintain local air superiority in the front lines.{{sfn|Hardesty|2012|p=84}} Also with the onset of bad weather in October, the Luftwaffe was on several occasions forced to halt nearly all aerial operations. The VVS, although faced with the same weather difficulties, had a clear advantage thanks to the prewar experience with cold-weather flying techniques, and the fact that they were operating from intact airbases and airports.{{sfn|Hardesty|2012|p=83–85}} By December, the VVS had matched the Luftwaffe and was even pressing to achieve air supremacy over the battlefields.{{sfn|Hardesty|2012|p=103}}
+
+For its final attack on Leningrad, the 4th Panzer Group was reinforced by tanks from Army Group Center. On 8 August, the Panzers broke through the Soviet defenses. By the end of August, 4th Panzer Group had penetrated to within {{convert|48|km|abbr=off}} of Leningrad. The Finns{{Efn|Significant planning for Finnish participation in the campaign against the Soviet Union was conducted well-before the plan’s actual implementation.{{sfn|Ueberschär|1998|pp=455–470}} }} had pushed southeast on both sides of [[Lake Ladoga]] to reach the old Finnish-Soviet frontier.{{sfn|Klink|1998|pp=631–641}}
+[[File:Bundesarchiv Bild 183-L19885, Russland, Heinz Guderian vor Gefechtsstand.jpg|thumb|280x280px|General [[Heinz Guderian|Guderian]] at a forward command post of a Panzer regiment near Kiev, 1941]]
+
+The Germans attacked Leningrad in August 1941; in the following three &quot;black months&quot; of 1941, 400,000 residents of the city worked to build the city's fortifications as fighting continued, while 160,000 others joined the ranks of the Red Army. On 7 September, the German [[20th Infantry Division (Wehrmacht)|20th Motorized Division]] seized [[Shlisselburg]], cutting off all land routes to Leningrad. The Germans severed the railroads to Moscow and captured the railroad to [[Murmansk]] with Finnish assistance to inaugurate the start of a siege that would last for over two years.{{sfn|Miller|Commager|2001|pp=68–69}}{{sfn|Beevor|2012|p=204}}
+
+At this stage, Hitler ordered the final destruction of Leningrad with no prisoners taken, and on 9 September, Army Group North began the final push. Within ten days it had advanced within {{convert|11|km|abbr=off}} of the city.{{sfn|''Hitler Strikes East'', 2009}} However, the push over the last {{convert|10|km|mi|abbr=on}} proved very slow and casualties mounted. Hitler, now out of patience, ordered that Leningrad should not be stormed, but rather starved into submission. Along these lines, the OKH issued Directive No. la 1601/41 on 22 September 1941, which accorded Hitler’s plans.{{sfn|Forczyk|2009|p=11}} Deprived of its Panzer forces, Army Group Center remained static and was subjected to numerous Soviet counterattacks, in particular the [[Yelnya Offensive]], in which the Germans suffered their first major tactical defeat since their invasion began. These attacks prompted Hitler to concentrate his attention back to Army Group Center and its drive on Moscow. The Germans ordered the 3rd and 4th Panzer Armies to break off their [[Siege of Leningrad]] and support Army Group Center in its attack on Moscow.{{sfn|''Hitler Strikes East'', 2009}}
+
+Before it could begin, operations in Kiev needed to be finished. Half of Army Group Center had swung to the south in the back of the Kiev position, while Army Group South moved to the north from its Dniepr [[bridgehead]].{{sfn|Glantz|House|1995|p=77}} The encirclement of Soviet forces in Kiev was achieved on 16 September. A savage battle ensued in which the Soviets were hammered with tanks, artillery, and aerial bombardment. After ten days of vicious fighting, the Germans claimed 665,000 Soviet soldiers captured, although the real figure is probably around 220,000 prisoners.{{sfn|Glantz|House|2015|p=94}} Actual losses were 452,720 men, 3,867 artillery pieces and mortars from 43 divisions of the 5th, 21st, 26th, and 37th Soviet Armies.{{sfn|Glantz|House|1995|p=77}}
+
+==Phase four==
+{{Main article|Battle of Moscow}}
+[[File:RIAN archive 2564 Soviet planes flying over Nazi positions near Moscow.jpg|thumb|280x280px|Soviet planes flying over German positions near Moscow]]
+After Kiev, the Red Army no longer outnumbered the Germans and there were no more trained reserves directly available. To defend Moscow, Stalin could field 800,000 men in 83 divisions, but no more than 25 divisions were fully effective. [[Operation Typhoon]], the drive to Moscow, began on 30 September 1941.{{sfn|Stone|2011|p=215}}{{sfn|Stahel|2009|p=440}} In front of Army Group Center was a series of elaborate defense lines, the first centered on [[Vyazma]] and the second on [[Mozhaysk]].{{sfn|Thomas|2012|pp=12–14}} Russian peasants began fleeing ahead of the advancing German units, burning their harvested crops, driving their cattle away, and destroying buildings in their villages as part of a scorched-earth policy designed to deny the Nazi war machine of needed supplies and foodstuffs.{{sfn|Gilbert|1989|pp=241–242}} 
+
+The first blow took the Soviets completely by surprise when the 2nd Panzer Group, returning from the south, took [[Oryol]], just {{convert|121|km|mi|abbr=on}} south of the Soviet first main defense line.{{sfn|Thomas|2012|pp=12–14}} Three days later, the Panzers pushed on to [[Bryansk]], while the 2nd Army attacked from the west.{{sfn|Gilbert|1989|p=242}}  The Soviet 3rd and 13th Armies were now encircled. To the north, the 3rd and 4th Panzer Armies attacked [[Vyazma]], trapping the 19th, 20th, 24th and 32nd Armies.{{sfn|Thomas|2012|pp=12–14}} Moscow's first line of defense had been shattered. The pocket eventually yielded over 500,000 Soviet prisoners, bringing the tally since the start of the invasion to three million. The Soviets had now only 90,000 men and 150 tanks left for the defense of Moscow.{{sfn|Glantz|House|1995|p=343}}
+
+The German government now publicly predicted the imminent capture of Moscow and convinced foreign correspondents of a pending Soviet collapse.{{sfn|Smith|2000|pp=83–91}} On 13 October, the 3rd Panzer Group penetrated to within {{convert|140|km|mi|abbr=on}} of the capital.{{sfn|Thomas|2012|pp=12–14}} [[Martial law]] was declared in Moscow. Almost from the beginning of Operation Typhoon, however, the weather worsened. Temperatures fell while there was a continued rainfall. This turned the unpaved road network [[Rasputitsa|into mud]] and steadily slowed the German advance on Moscow to as little as {{convert|3.2|km|mi|abbr=on}} a day.{{sfn|''Hitler Strikes East'', 2009}} Additional snows fell which were followed by more rain, creating a glutinous mud that even the German tanks had difficulty traversing, whereas the Soviet T-34 with its wider tread was better suited to operate.{{sfn|Gilbert|1989|p=244}} At the same time, the supply situation for the Germans rapidly deteriorated.{{sfn|Shepherd|2016|pp=178–179}} On 31 October, the German Army High Command ordered a halt to Operation Typhoon while the armies were reorganized. The pause gave the Soviets, who were in a far better supply situation, time to consolidate their positions and organize formations of newly activated reservists.{{sfn|Gilbert|1989|pp=245–246}}{{sfn|''Hitler Strikes East'', 2009}} In little over a month, the Soviets organized eleven new armies that included 30 divisions of Siberian troops. These had been freed from the Soviet Far East after [[Richard Sorge|Soviet intelligence]] assured Stalin that there was no longer a threat from the Japanese.{{sfn|Gilbert|1989|p=245}} Over 1,000 tanks and 1,000 aircraft arrived along with the Siberian forces.{{sfn|''Hitler Strikes East'', 2009}}
+
+With the ground hardening due to the cold weather,{{Efn|On 12 November 1941 the temperature around Moscow was -12° degrees centigrade.{{sfn|Gilbert|1989|p=255}} }} the Germans once again began the attack on Moscow on 15 November.{{sfn|Roberts|2011|pp=174–175}} Although the troops themselves were now able to advance again, there had been no delay allowed to improve the supply situation. Facing the Germans were the 5th, 16th, 30th, 43rd, 49th, and 50th Soviet armies. The Germans intended to let the 3rd and 4th Panzer Armies cross the [[Moscow Canal]] and envelop Moscow from the northeast. The 2nd Panzer Group would attack [[Tula, Russia|Tula]] and then close in on Moscow from the south.{{sfn|Roberts|2011|pp=175–176}} As the Soviets reacted to the flanks, the 4th Army would attack the center. In two weeks of desperate fighting, lacking sufficient fuel and ammunition, the Germans slowly crept towards Moscow. However, in the south, the 2nd Panzer Group was being blocked. On 22 November, Soviet Siberian units, augmented with the 49th and 50th Soviet Armies, attacked the 2nd Panzer Group and inflicted a shocking defeat on the Germans. The 4th Panzer Group pushed the Soviet 16th Army back, however, and succeeded in crossing the Moscow canal to begin the attempted encirclement of Moscow.{{sfn|''Hitler Strikes East'', 2009}}{{sfn|Glantz|House|2015|pp=104–108}}
+[[File:Eastern Front 1941-06 to 1941-09.png|right|270px|thumb|The German position of advances before the start of Operation Typhoon, September 1941]]
+
+On 2 December, part of the 258th Infantry Division advanced to within {{convert|24|km|mi|abbr=on}} of Moscow; they were so close that German officers claimed they could see the spires of the [[Moscow Kremlin|Kremlin]],{{sfn|Glantz|House|2015|p=106}} but by then the first blizzards had already begun.{{sfn|Shirer|1990|p=1032}} A reconnaissance battalion also managed to reach the town of [[Khimki#History|Khimki]], only about {{convert|8|km|mi|abbr=on}} away from the Soviet capital. It captured the bridge over the Moscow-Volga Canal as well as the railway station, which marked the farthest eastern advance of German forces.{{sfn|Commager|1991|p=144}} But in spite of the progress made, the Wehrmacht was not equipped for winter warfare, and the bitter cold caused severe problems for their guns and equipment. Furthermore, weather conditions grounded the Luftwaffe from conducting any large-scale operations.{{sfn|''Soviet Storm: Operation Barbarossa'' 2011}} Newly created Soviet units near Moscow now numbered over 500,000 men, and on 5 December, they launched a massive counterattack as part of the [[Battle of Moscow#Soviet counteroffensive|Soviet winter counteroffensive]] that pushed the Germans back over {{convert|320|km|mi|abbr=on}}. By late December 1941, the Wehrmacht  had lost the Battle for Moscow, and the invasion had cost the German army over 830,000 casualties in killed, wounded, captured or missing in action.{{sfn|''Soviet Storm: Operation Barbarossa'' 2011}}
+
+==Aftermath==
+With the failure of the [[Battle of Moscow]], all German plans for a quick defeat of the Soviet Union had to be revised. The Soviet counteroffensives in December 1941 caused heavy casualties on both sides, but ultimately eliminated the German threat to Moscow.{{sfn|''Soviet Storm: Operation Barbarossa'' 2011}}
+
+In addition to this devastating setback for Germany, the Soviet Union also suffered heavily from the conflict, losing huge tracts of territory, and vast losses in men and material. Despite the rapid relocation of Red Army armaments installations east of the Urals and a dramatic increase of production in 1942, especially of armour, new aircraft types and artillery, the Wehrmacht was able to mount another large-scale offensive in July 1942. Hitler, having realized that Germany's oil supply was &quot;severely depleted,&quot;{{sfn|Hayward|2000|p=769}} aimed to capture the [[oil field]]s of [[Baku]] in an offensive, codenamed [[Case Blue]].{{sfn|Symonds|2014|p=70}} Once again, the Germans quickly overran great expanses of Soviet territory, but they failed to achieve their ultimate goals in the wake of their decisive defeat at the [[Battle of Stalingrad]].{{sfn|''Hitler Strikes East'', 2009}}
+
+By 1943, Soviet armaments production was fully operational and increasingly outproducing the German war economy.{{sfn|''Battle for Russia'', 1996}} The Red Army through steadily more ambitious and tactically sophisticated offensives was able to liberate the areas previously occupied by the German invasion by the summer of 1944. The war ended with the total defeat and occupation of Nazi Germany in May 1945, which was quickly followed by Allied efforts to denazify the German people and military tribunals against the surviving members of the Nazi government.{{sfn|Burleigh|2000|pp=794–812}}
+
+===War crimes===
+{{Main article|Einsatzgruppen|German mistreatment of Soviet prisoners of war|The Holocaust in Russia}}
+While the Soviet Union had not signed the Geneva convention, this did not mean their soldiers were entirely exempted from the protection it afforded; Germany had signed the treaty and was thus obligated to offer Soviet POWs treatment according to its provisions (as they generally did with other Allied POWs).&lt;ref&gt;[http://digitalcommons.law.uga.edu/cgi/viewcontent.cgi?article=1863&amp;context=gjicl UGA Digital Commons]&lt;/ref&gt;&lt;ref&gt;[http://www.historynet.com/soviet-prisoners-of-war-forgotten-nazi-victims-of-world-war-ii.htm Soviet POWs: Forgotten Nazi Victims]&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.history.co.uk/study-topics/history-of-ww2/prisoners-of-war |title=Prisoners of War |work=HISTORY}}&lt;/ref&gt; According to the Soviets, they had not signed the Geneva Conventions in 1929 due to article 9 which specified that POWs be segregated into different camps based on racial backgrounds; something which they claimed contravened the Soviet constitution.{{sfn|Bellamy|2007|p=20}}  Article 82 of the convention specified that &quot;In case, in time of war, one of the belligerents is not a party to the Convention, its provisions shall nevertheless remain in force as between the belligerents who are parties thereto.&quot;&lt;ref&gt;[https://www.icrc.org/ihl.nsf/WebART/305-430083?OpenDocument ICRC-Geneva Convention]&lt;/ref&gt; Despite this Hitler called for the battle against the Soviet Union to be a &quot;struggle for existence&quot; and accordingly authorized [[German mistreatment of Soviet prisoners of war|crimes against Soviet prisoners of war]]. A Nazi memorandum from 16 July 1941, recorded by [[Martin Bormann]], quotes Hitler saying, &quot;The giant [occupied] area must naturally be pacified as quickly as possible; this will happen at best if anyone who just looks funny should be shot&quot;.{{sfn|Browning|1998|p=10}}{{sfn|Förster|1988|p=31}} Conveniently for the Nazis, the fact that the Soviets failed to sign the convention played into their hands as they justified their behavior accordingly. Even if the Soviets had signed, it is highly unlikely that this would have stopped the Nazis' genocidal policies towards combatants, civilians, and prisoners-of-war.{{sfn|Bellamy|2007|pp=20–21}}  
+[[File:Himmler besichtigt die Gefangenenlager in Russland. Heinrich Himmler inspects a prisoner of war camp in Russia, circa... - NARA - 540164.jpg|thumb|left|230px|Himmler inspecting a prisoner of war camp]]
+
+Before the war, Hitler issued the notorious [[Commissar Order]], which called for all Soviet [[political commissar]]s taken prisoner at the front to be shot immediately without trial.{{sfn|Kershaw|2001|pp=357–359}} German soldiers participated in these mass killings along with members of the ''SS-Einsatzgruppen'', sometimes reluctantly but nevertheless under the auspices of &quot;military necessity.&quot;.{{sfn|Wette|2007|pp=198–199}}{{sfn|Förster|1998|pp=507–513}} On the eve of the invasion, German soldiers were informed that their battle &quot;demands ruthless and vigorous measures against Bolshevik inciters, guerrillas, saboteurs, Jews and the complete elimination of all active and passive resistance.&quot; Collective punishment was authorized against partisan attacks; if a perpetrator could not be quickly identified, then burning villages and mass executions were considered acceptable reprisals.{{sfn|Förster|1988|p=26}} An estimated two million Soviet [[prisoner of war|prisoners of war]] died of starvation during Barbarossa alone.{{sfn|Hartmann|2013|pp=89–94}} The famished prisoners of war were hardly able to walk by themselves.{{sfn|Beevor|2012|p=213}} By the end of the war, 58 percent of all Soviet prisoners of war died in German captivity.{{sfn|Glantz|2012|p=48}}
+
+Organized crimes against civilians, including women and children, were carried out on a huge scale by the German police and military forces, as well as the [[Collaboration with the Axis Powers during World War II|local collaborators]].{{sfn|Glantz|House|1995|pp=56–57}}{{sfn|Browning|1998|pp=10–12}} Under the command of the [[Reich Main Security Office]], the ''[[Einsatzgruppen]]'' killing squads conducted large-scale [[massacre]]s of [[Jews]] and [[Communism|communists]] in conquered Soviet territories. [[Holocaust]] historian [[Raul Hilberg]] puts the number of Jews murdered by &quot;mobile killing operations&quot; at 1,400,000.{{sfn|Hilberg|1961|p=767}} The original instructions to kill &quot;Jews in party and state positions&quot; was broadened to include &quot;all male Jews of military age&quot; and was expanded once more to &quot;all male Jews regardless of age.&quot; By the end of July, the Germans were regularly killing women and children.{{sfn|Beevor|2012|p=213}} On 18 December 1941, Himmler and Hitler discussed the &quot;Jewish question&quot;, and Himmler noted the meeting's result in his appointment book: &quot;To be annihilated as partisans.&quot; According to [[Christopher Browning]], this represented the Nazi decision of &quot;annihilating Jews and solving the so-called 'Jewish question' under the cover of killing partisans.&quot;{{sfn|Browning|2000}} In accordance with Nazi policies against &quot;inferior&quot; Asian peoples, [[Turkmens]] were also persecuted; according to a post-war report by Prince Veli Kajum Khan, they were imprisoned in concentration camps in terrible conditions, where those deemed to have &quot;Mongolian&quot; features were murdered daily. Asians were also targeted by the ''Einsatzgruppen'' and were the subjects of lethal medical experiments and murder at a &quot;pathological institute&quot; in Kiev.{{sfn|Breitman|1990|pp=341–343}} Hitler received situational activity reports over the mass killings perpetrated by the ''Einsatzgruppen'' which were first conveyed to the RSHA, where they were aggregated into a summary report by [[Gestapo]] Chief [[Heinrich Müller (Gestapo)|Heinrich Müller]].{{sfn|Langerbein|2003|pp=33–34}}
+
+Burning houses suspected of being partisan meeting places and poisoning water wells became common practice for soldiers of the German [[9th Army (Wehrmacht)|9th Army]]. At [[Kharkov]], the fourth largest city in the Soviet Union, food was provided only to the small number of civilians who worked for the Germans, with the rest designated to slowly starve.{{sfn|''Soviet Storm: Operation Barbarossa'' 2011}} Thousands of Soviets were [[Forced labour under German rule during World War II|deported to Germany to be used as slave labor]], notably from 1942, forward.{{sfn|Glantz|House|1995|p=57}}
+
+The citizens of Leningrad were subjected to heavy bombardment and [[Siege of Leningrad|a siege]] that would last 872 days and starve more than a million people to death, of whom approximately 400,000 were children below the age of 14.{{sfn|''Siege of Leningrad'' 2011}}{{sfn|Miller|Commager|2001|p=69}}{{sfn|Beevor|2012|p=289}} The German-Finnish blockade cut off access to food, fuel and raw materials, and rations reached a low, for the non-working population, of four ounces (five thin slices) of bread and a little watery soup per day.{{sfn|Miller|Commager|2001|p=68}} Starving Soviet civilians began to eat their domestic animals, along with hair tonic and [[Vaseline]]. Some desperate citizens resorted to cannibalism; Soviet records list 2,000 people arrested for &quot;the use of human meat as food&quot; during the siege, 886 of them during the first winter of 1941–42.{{sfn|Beevor|2012|p=289}} The Wehrmacht planned to seal off Leningrad, starve out the population, and then demolish the city entirely.{{sfn|Beevor|2012|p=204}}
+
+===Historical significance===
+Operation Barbarossa was the largest military operation in human history—more men, tanks, guns and aircraft were committed than had ever been deployed before in a single offensive.{{sfn|''Soviet Storm: Operation Barbarossa'' 2011}}  A total of 75 percent of the entire [[Wehrmacht|German military]] participated.{{sfn|''Battle for Russia'', 1996}} The invasion opened up the [[Eastern Front of World War II]], the largest theater of war during that conflict, and it witnessed titanic clashes of unprecedented violence and destruction for four years that resulted in the deaths of more than 26 million Soviet people.{{sfn|Moskoff|2002|p=236}} More people died fighting on the Eastern Front than in all other fighting across the globe during World War II.{{sfn|Weinberg|2005|p=243}} Damage to both the economy and landscape was enormous for the Soviet Union as approximately 1,710 towns and 70,000 villages were raised to the ground.{{sfn|Hartmann|2013|p=160}}
+
+More than just ushering-in untold death and devastation, Operation Barbarossa and the subsequent German failure to achieve their objectives changed the political landscape of Europe dividing it into eastern and western blocs.{{sfn|Hartmann|2013|pp=152–153}} The gaping political vacuum left in the eastern half of the continent was filled by the USSR when Stalin secured his territorial prizes of 1944–45 and firmly placed his Red Army in Bulgaria, Romania, Hungary, Poland, Czechoslovakia, and the eastern half of Germany.{{sfn|Hartmann|2013|p=153}} As a consequence, eastern Europe became Communist in political disposition and western Europe fell under the democratic sway of the United States, a nation uncertain about its future policies in Europe.{{sfn|Hartmann|2013|pp=154–155}} Instead of profiting the German people, Operation Barbarossa's failure instigated untold suffering when an estimated 1.4 million ethnic Germans died as a result of their forced flight from the East to the West, whether during the German retreat or later following the surrender.{{sfn|Hartmann|2013|p=158}} Another often overlooked consequence of Hitler's massive attack on the Soviet Union, was that it provoked the greatest displacement and migration of German people in human history; by 1950 for example, nearly 7.7 million ethnic Germans migrated from the their former homelands in the East to what was West Germany, while another 4.1 million of them arrived in the former [[East Germany|DDR]].{{sfn|Hartmann|2013|pp=161–163}}{{Efn|There are noteworthy studies on this topic. See for instance: Douglas, R. M. ''Orderly and Humane: The Expulsion of the Germans after the Second World War''. New Haven and London: Yale University Press, 2012. For a German language scholarly work on this subject, see: Kossert, Andreas. ''Kalte Heimat: Die Geschichte der deutschen Vertriebenen nach 1945''. München: Pantheon Verlag, 2009.}}
+
+==See also==
+* [[Black Sea Campaigns (1941-44)|Black Sea campaigns]]
+* [[Operation Silver Fox]]
+* [[Timeline of the Eastern Front of World War II]]
+{{portal bar|Military of Germany|Nazi Germany|Soviet Union|World War II}}
+
+==References==
+
+===Informational notes===
+{{notes
+|notes =
+
+{{efn
+|name=western military districts Soviet Union
+|The four Soviet military districts facing the Axis, the [[Baltic Military District]], the [[Western Special Military District]], the [[Kiev Special Military District]] and the [[Odessa Military District]], at the outbreak of the war were renamed the [[Northwestern Front]], the [[Western Front (Soviet Union)|Western Front]], the [[Soviet Southwestern Front|Southwestern Front]] and the [[Southern Front (Soviet Union)|Southern Front]], respectively. A fifth military district, the [[Leningrad military district]], became the [[Northern Front (Soviet Union)|Northern Front]].{{harv|Glantz|2012|pp=11, 16, 208}}.
+}}
+
+{{efn
+|name= 171 divisions
+|170 divisions and 2 independent brigades, along with 12 airborne brigades. {{harv|Glantz|2012|pp=16, 219}}.
+}}
+
+}}
+
+===Citations===
+{{Reflist|25em}}
+{{reflist|group=nb}}
+
+===Bibliography===
+
+====Printed====
+{{Refbegin|25em}}
+* {{cite book |last=Askey |first=Nigel |title= Operation Barbarossa: The Complete Organisational and Statistical Analysis, and Military Simulation |volume=(II B) |year=2014 |location= U.S. |publisher= Lulu Publishing |isbn=978-1-31241-326-9|ref=harv}}
+* {{cite book |last=Baker |first=Lee |title=The Second World War on the Eastern Front |publisher=Routledge |year=2013 |isbn=978-1317865049 |ref=harv}}
+* {{cite journal |last1=Bar-Joseph |first1=Uri |last2=Levy |first2=Jack S. |title=Conscious Action and Intelligence Failure |journal=Political Science Quarterly |date=Fall 2009 |volume=124 |issue=3 |pages=461–488 |doi=10.1002/j.1538-165X.2009.tb00656.x |ref=harv}}
+* {{cite book |last=Bartov |first=Omer |authorlink=Omer Bartov |title=The Eastern Front, 1941–45: German Troops and the Barbarisation of Warfare |location=London |publisher=Palgrave Macmillan |year=2001 |isbn=978-0-333-94944-3 |ref=harv}}
+* {{cite book |last=Beevor |first=Antony |authorlink=Antony Beevor |title=The Second World War |location=New York |publisher=Back Bay Books |year=2012 |isbn=978-0-316-02374-0 |ref=harv}}
+* {{cite book |last=Bellamy |first=Chris |title=Absolute War: Soviet Russia in the Second World War |publisher=Vintage Books |year=2007 |isbn=978-0-375-72471-8 |ref=harv}}
+* {{cite book |last=Bergström |first=Christer |title=Barbarossa – The Air Battle: July–December 1941 |publisher=Classic Publications |year=2007 |isbn=978-1-85780-270-2 |ref=harv}}
+* {{cite book |author1-last = Berthon |author1-first = Simon |author2-last = Potts |author2-first = Joanna |title=Warlords: An Extraordinary Re-creation of World War II Through the Eyes and Minds of Hitler, Churchill, Roosevelt, and Stalin |publisher=Da Capo Press |year=2007 |isbn=0-306-81538-9 |ref=harv}}
+* {{cite book |last=Brackman |first=Roman |title=The Secret File of Joseph Stalin: A Hidden Life |place=Portland and London| publisher=Frank Cass Publishing |year=2001 |isbn=0-7146-5050-1 |ref=harv}}
+* {{cite book |author1-last = Bradley |author1-first = John |author2-last = Buell |author2-first = Thomas |title=Why Was Barbarossa Delayed? The Second World War: Europe and the Mediterranean |publisher=Square One Publishing |year=2002 |isbn=0-7570-0160-2 |ref=harv}}
+* {{cite book |last=Braithwaite |first=Rodric |authorlink=Rodric Braithwaite |title=Moscow 1941: A City and Its People at War |publisher=Profile Books |year=2010 |isbn=978-1-86197774-8 |ref=harv}}
+* {{cite journal | jstor=260654 | title=Himmler and the 'Terrible Secret' among the Executioners | last=Breitman |first=Richard | journal=Journal of Contemporary History | year=1991 | volume=26 | issue=3/4 | pages=431–451 | doi=10.1177/002200949102600305 | ref = harv }}
+* {{cite journal | jstor=260736 | title=Hitler and Genghis Khan | last=Breitman |first=Richard | journal=Journal of Contemporary History | year=1990 | volume=25 | issue=2/3 | pages=337–351 | doi=10.1177/002200949002500209 | ref = harv }}
+* {{cite book |last1=Browning |first1=Christopher R. |authorlink=Christopher Browning |title=Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland |year=1998 |publisher=HarperCollins |location=New York |isbn=0-06-099506-8 |edition=1 |ref=harv}}
+* {{cite book |last=Burleigh |first=Michael |title=The Third Reich: A New History |year=2001 |publisher=Pan Macmillan |isbn=978-0-330-47550-1 |ref=harv}}
+* {{cite book |last=Clark |first=Lloyd |title=Kursk: The Greatest Battle: Eastern Front 1943 |publisher=Headline Review |year=2012 |isbn=978-0755336395 |ref=harv}}
+* {{cite book |last=Commager |authorlink=Henry Steele Commager |first=Henry |title=The Story of the Second World War |publisher=Brassey's Publishing |year=1991 |isbn=978-0080410661 |ref=harv}}
+* {{cite book | editor1-last = Dear | editor1-first = Ian | editor2-last = Foot | editor2-first = M.R.D. | editor2-link = M. R. D. Foot | year = 1995 | title = The Oxford Guide to World War II | publisher = Oxford University Press | place = Oxford; New York | isbn = 978-0-19-534096-9 | ref = harv}}
+* {{cite book |last=Dunnigan |first=James |authorlink=Jim Dunnigan |title=The Russian Front |publisher=Arms &amp; Armour Press |year=1978 |isbn=-0-85368-152-X |ref=harv}}
+* {{cite book |last=Ericson |first=Edward |title=Feeding the German Eagle: Soviet Economic Aid to Nazi Germany, 1933–1941 |publisher=Praeger Publishing |year=1999 |isbn=978-0275963378 |ref=harv}}
+* {{Cite book |last=Evans |first=Richard J. |authorlink=Richard J. Evans |year=1989 |title=In Hitler's Shadow |location=New York,&amp;nbsp;NY |publisher=Pantheon |ref=harv}}
+* {{cite book |last=Evans |first=Richard J. |year=2008 |title=The Third Reich at War |location=London |publisher=Allen Lane |isbn=978-0-7139-9742-2 |ref=harv}}
+* {{cite book |last=Fahlbusch |first=Michael |title=Die Südostdeutsche Forschungsgemeinschaft |publisher=German Historical Institute |language=German |year=1999 |isbn=978-0-375-41086-4 |ref=harv}}
+* {{cite book | last= Forczyk | first=Robert | year=2009 | title= Leningrad 1941–44: The Epic Siege | location= Oxford, UK | publisher= Osprey | isbn= 978-1-84908-107-8 | ref=harv}}
+* {{cite journal|last1=Förster|first1=Jürgen|title=Barbarossa Revisited: Strategy and Ideology in the East|journal=Jewish Social Studies|date=Winter 1988|volume=50|issue=1/2|pages=21–36|url=http://www.mconway.net/page1/page5/files/Barbarossa%20Strategy.pdf|ref=harv}}
+* {{cite book |last1=Förster |first1=Jürgen|chapter=Operation Barbarossa as a War of Conquest and Annihilation |editor1=Boog, Horst |editor2=Förster, Jürgen |editor3=Hoffmann, Joachim |editor4=Klink, Ernst |editor5=Müller, Rolf-Dieter |editor6=Ueberschär, Gerd R. |year=1998 |editor-link=Military History Research Office (Germany) |others=Translated by Dean S. McMurry, Ewald Osers, Louise Willmot |title=[[Germany and the Second World War]] |volume=IV (Attack on the Soviet Union) |location= Oxford and New York |publisher=Clarendon Press |isbn=0-19-822886-4 |ref=harv}}
+* {{cite book |last=Förster |first=Jürgen |contribution=The German Military's Image of Russia |title=Russia War, Peace and Diplomacy |publisher=Weidenfeld &amp; Nicolson |location=London |year=2005 |isbn= |ref=harv}}
+* {{cite book |last=Forczyk |first=Robert |title=Tank Warfare on the Eastern Front 1941–1942 |publisher=Pen and Sword |year=2014 |isbn=978-1781590089 |ref=harv}}
+* {{cite book |last=Fritz |first=Stephen |title=Ostkrieg: Hitler's War of Extermination in the East |publisher=University Press of Kentucky |year=2011 |isbn=978-0813134161 |ref=harv}}
+* {{cite book |last=Gellately |first=Robert |title=The Gestapo and German Society: Enforcing Racial Policy, 1933–1945 |year=1990 |publisher=Clarendon Press |isbn=978-0-19-820297-4 |ref=harv}}
+* {{cite book | last = Gilbert | first = Martin | title = The Second World War: A Complete History | year = 1989 | place = New York |publisher = Henry Holt and Company | isbn = 0-8050-0534-X | ref = harv}} 
+* {{Cite conference |last=Glantz |first=David |authorlink=David Glantz |title=The Soviet-German War 1941–1945: Myths and Realities: A Survey Essay |url=http://sti.clemson.edu/index.php?option=com_docman&amp;task=doc_details&amp;gid=189&amp;Itemid=310 |publisher=Clemson University |conference=A Paper Presented as the 20th Anniversary Distinguished Lecture at the Strom Thurmond Institute of Government and Public Affairs |year=2001 |ref=harv}}
+* {{cite book |last=Glantz |first=David |title=Stumbling Colossus: The Red Army on the Eve of World War |publisher=University Press of Kansas |year=1998 |isbn=978-0700617890 |ref=harv}}
+* {{cite book |last=Glantz |first=David |title=Barbarossa Derailed: The Battle for Smolensk, Volume 1 |publisher=Helion &amp; Company |year=2010a |isbn=978-1906033729 |ref=harv}}
+* {{cite book |last=Glantz |first=David |title=Barbarossa Derailed: The Battle for Smolensk, Volume 2 |publisher=Helion &amp; Company |year=2010b |isbn=978-1906033903 |ref=harv}}
+* {{cite book |author1-last = Glantz |author1-first = David |author2-last = House |author2-first = Jonathan |title=When Titans Clashed: How the Red Army Stopped Hitler |publisher=University Press of Kansas |year=1995 |isbn=978-1906033729 |ref=harv}}
+* {{cite book |author1-last = Glantz |author1-first = David |author2-last = House |author2-first = Jonathan |title=When Titans Clashed: How the Red Army Stopped Hitler |publisher=University Press of Kansas |year=2015 | volume=Revised and Expanded Edition|isbn=978-0-70062-121-7 |ref=harv}}
+* {{cite book |last = Glantz |first = David |title=Operation Barbarossa: Hitler's invasion of Russia 1941 |publisher=The History Press |year=2012 |isbn=978-0752460703 |ref=harv}}
+* {{cite book |last=Gorodetsky |first=Gabriel |authorlink=Gabriel Gorodetsky |title=Grand Delusion: Stalin and the German Invasion of Russia |publisher=Yale University Press |year=2001 |isbn=978-0300084597 |ref=harv}}
+* {{cite book |last = Guderian |first = Heinz |title=Panzer Leader |place=Cambridge, MA |publisher=Da Capo Press |year=2002 |isbn=978-0-30681-101-2|ref=harv}}
+* {{cite book |last=Handrack |first=Hans-Dieter |title=Das Reichskommissariat Ostland: Die Kulturpolitik Der Deutschen Verwaltung Zwischen Autonomie Und Gleichschaltung 1941–1944 |publisher=Gauke |location=Hann. Münden |language=German |year=1981 |isbn=978-3879980383 |ref=harv}}
+* {{cite book |last=Hartmann |first=Christian |authorlink=Christian Hartmann (historian)|title=Operation Barbarossa: Nazi Germany's War in the East, 1941–1945 |publisher=Oxford University Press |year=2013 |isbn=978-0-19-966078-0 |ref=harv}}
+* {{cite book |last=Hardesty |first=Von |title=Red Phoenix Rising: The Soviet Air Force in World War II |publisher=University Press of Kansas |year=2012 |isbn=978-0700618286 |ref=harv}}
+* {{cite book| last=Hastings | first=Max | year=2012 | title= Inferno: The World at War, 1939–1945 | place= New York | publisher=Vintage | isbn=978-0-30747-553-4| ref=harv}}
+* {{cite book| last=Hastings | first=Max | year=2016 | title= The Secret War: Spies, Ciphers, and Guerrillas, 1939–1945| place= New York | publisher=Harper | isbn=978-0-06225-927-1| ref=harv}}
+* {{cite journal |last1=Hayward |first1=Joel |title=Too Little, Too Late: An Analysis of Hitler's Failure in August 1942 to Damage Soviet Oil Production |url=http://www.joelhayward.org/Too-Little-Too-Late.2.pdf |journal=The Journal of Military History |date=July 2000 |volume=64 |issue=3 |pages=769–794 |doi=10.2307/120868 |ref=harv |jstor=120868}}
+* {{cite book |last=Higgins |first=Trumbull |title=Hitler and Russia: The Third Reich in a Two-Front War, 1937–1943 |publisher=Macmillan Publishing |year=1966 |asin=B0000CNOQU |ref=harv}}
+* {{cite book |last=Hilberg |first=Raul |authorlink=Raul Hilberg |title=The Destruction of the European Jews |location=Chicago |publisher=Quadrangle Books |year=1961 |ref=harv}}
+* {{cite book |last=Hildebrand |first=Klaus |year=1973 |title= The Foreign Policy of the Third Reich |location= Berkeley and Los Angeles |publisher= University of California Press |isbn= 0-520-02528-8 |ref = harv}}
+* {{cite journal | last = Hillgruber | first = Andreas | title = Die “Endlösung“ und das deutsche Ostimperium als Kernstück des rassenideologischen Programms des Nationalsozialismus | language = German | journal = Vierteljahrshefte für Zeitgeschichte | date = 1972 | volume = 20 | issue = 2 | pages = 133–153 | publisher = Oldenbourg Wissenschaftsverlag GmbH | location = Munich | url = http://www.jstor.org/stable/30197201| ref = harv}} 
+* {{cite book |last=Himmler |first=Heinrich |chapter=Reflections on the Treatment of Peoples of Alien Races in the East |year=1940 |isbn=978-0-333-94944-3 |title=Trials of War Criminals Before the Nuernberg Military Tribunals Under Control Council Law No. 10 |pages=147–150 |volume=13 |publisher=US Government Printing Office |location=District of Columbia |ref=harv}}
+* {{cite journal|last1=Humpert|first1=David|title=Viktor Suvorov and Operation Barbarossa: Tukhachevskii Revisited|journal=Journal of Slavic Military Studies|date=2005|volume=18|issue=1|pages=59–74|doi=10.1080/13518040590914136|url=http://www.tandfonline.com/doi/abs/10.1080/13518040590914136?journalCode=fslv20|ref=harv}}
+* {{cite book |last=Ingrao |first=Christian |title=Believe and Destroy: Intellectuals in the SS War Machine |location=Malden, MA. |publisher=Polity |year=2013 |isbn=978-0745660264 |ref=harv}}
+* {{cite book |last=Kay |first=Alex J. |authorlink=Alex J. Kay |year=2006 |title=Exploitation, Resettlement, Mass Murder: Political and Economic Planning for German Occupation Policy in the Soviet Union, 1940–1941 |url=https://books.google.com/books?id=l20PlJtfk0IC&amp;pg=PA31 |publisher=Berghahn Books |location=New York |isbn=9781845451868 |ref=harv}}
+* {{cite book | last=Keegan | first=John | year=1989 | title= The Second World War | place=New York | publisher=Viking | isbn=978-0-67082-359-8|ref=harv}}
+* {{cite book |last=Kershaw |first=Ian |title=Hitler 1889–1936: Hubris |publisher=Penguin |year=2000 |isbn=978-0140133639 |ref=harv}}
+* {{cite book |last=Kershaw |first=Ian |title=Hitler, 1936–1945: Nemesis |location=New York; London |publisher=W. W. Norton &amp; Company |year=2001 |isbn=978-0-393-32252-1 |ref=harv}}
+* {{cite book |author1-last = Klemann|author1-first = Hein |author2-last = Kudryashov|author2-first = Sergei |title=Occupied Economies: An Economic History of Nazi-Occupied Europe, 1939–1945 |publisher=Business &amp; Economics |year=2013 |isbn=978-0-857850607 |ref=harv}}
+* {{cite book |last=Kirby |first=D.G. |title=Finland in the Twentieth Century: A History and an Interpretation |publisher=University of Minnesota Press |year=1980 |isbn=0-8166-5802-1 |ref=harv}}
+* {{cite book |last=Kirchubel |first=Robert |title=Operation Barbarossa 1941: Army Group North |publisher=Osprey Publishing |year=2005 |isbn=978-1-84176-857-1 |ref=harv}}
+* {{cite book |last=Kirchubel |first=Robert |title=Operation Barbarossa 1941: Army Group Center |publisher=Osprey Publishing |year=2007 |isbn=978-1-84603-107-6 |ref=harv}}
+* {{cite book |last=Kirchubel |first=Robert |title=Operation Barbarossa 1941: Army Group South |publisher=Osprey Publishing |year=2003 |isbn=978-1782004257 |ref=harv}}
+* {{cite book | last1=Klink| first1=Ernst| chapter=The Conduct of Operations | editor1=Boog, Horst | editor2=Förster, Jürgen | editor3=Hoffmann, Joachim | editor4=Klink, Ernst | editor5=Müller, Rolf-Dieter | editor6=Ueberschär, Gerd R. | year=1998 | editor-link=Military History Research Office (Germany) | others=Translated by Dean S. McMurry, Ewald Osers, Louise Willmot | title=[[Germany and the Second World War]] | volume=IV (Attack on the Soviet Union) | location= Oxford and New York | publisher=Clarendon Press |isbn=0-19-822886-4 | ref=harv}}
+* {{cite book |last=Krivosheev |first=G. F. |title=Soviet Casualties and Combat Losses in the Twentieth Century |publisher=Greenhill Books |year=1997 |isbn=978-1853672804 |ref=harv}}
+* {{cite book |last = Langerbein |first = Helmut |title = Hitler's Death Squads: The Logic of Mass Murder |year = 2003|place = College Station |publisher = Texas A &amp; M University Press |isbn = 978-1-58544-285-0|ref = harv}} 
+* {{cite book |last=Macksey |first=Kenneth |authorlink=Kenneth Macksey |title=Hitler's Generals |chapter=Guderian |editor-last = Barnett |editor-first = Correlli |editor-link=Correlli Barnett |publisher=Weidenfeld &amp; Nicolson |year=1989 |isbn=0-297-79462-0 |ref=harv}}
+* {{cite journal |last1=Mawdsley |first1=Evan |title=Crossing the Rubicon: Soviet Plans for Offensive War in 1940–1941 |journal=The International History Review |date=2003 |volume=25 |issue=4 |pages=818–865 |issn=1618-4866 |ref=harv}}
+* {{cite book |last=Majer |first=Diemut |title=&quot;Non-Germans&quot; Under the Third Reich: The Nazi Judicial and Administrative System in Germany and Occupied Eastern Europe with Special Regard to Occupied Poland, 1939–1945 |publisher=Johns Hopkins University Press |year=2003 |isbn=978-0-8018-6493-3 |ref=harv}}
+* {{cite book |last=Mazower |first=Mark |title=Hitler's Empire: Nazi Rule in Occupied Europe |publisher=Penguin |year=2009 |isbn=0141011920 |ref=harv}}
+* {{cite book | last = Megargee | first = Geoffrey | title = Inside Hitler’s High Command | place=Lawrence, KS | publisher = University Press of Kansas| year = 2000 | isbn = 978-0-70061-015-0 | ref = harv }}
+* {{cite book |last=Mercatante |first=Steven |title=Why Germany Nearly Won: A New History of the Second World War in Europe |publisher=Praeger |year=2012 |isbn=978-0313395925 |ref=harv}}
+* {{cite book |last=Meltyukhov |first=Mikhail |title=Упущенный шанс Сталина. Советский Союз и борьба за Европу: 1939–1941 |language=Russian |publisher=Вече |year=2000 |isbn=5-7838-0590-4 |ref=harv}}
+* {{cite book |last1=Miller |first1=Donald L. |last2=Commager |first2=Henry Steele |title=The Story of World War II |year=2001 |publisher=Simon and Schuster |location=New York |isbn=9780743227186 |ref=harv}}
+* {{cite book |last=Moskoff |first=William |title=The Bread of Affliction: The Food Supply in the USSR During World War II |publisher=Cambridge University Press |year=2002 |isbn=978-0521522830 |ref=harv}}
+* {{cite book |last1=Murray |first1=Williamson |last2=Millett |first2=Allan R. |title=A War To Be Won: Fighting the Second World War |year=2000 |location=Cambridge, MA: |publisher=Belknap Press of Harvard University Press |isbn=978-0674001633 |ref=harv}}
+* {{cite book | last = Overy | first = Richard | year = 2006 | title = The Dictators: Hitler’s Germany, Stalin’s Russia | location = London and New York | publisher = W.W. Norton &amp; Company | isbn =978-0-39332-797-7| ref= harv}}
+* {{cite book |last=Palmer |first=Michael A. |year = 2010 |title = The German Wars: A Concise History, 1859–1945 |location = Minneapolis |publisher = Zenith Press |isbn = 978-0-76033-780-6| ref= harv}}
+* {{cite book |last=Patterson |first=David |title=The Complete Black Book of Russian Jewry |publisher=Transaction |year=2003 |isbn=978-1412820073 |ref=harv}}
+* {{cite book |last=Rayfield |first=Donald |title=Stalin and his Hangmen |publisher=Penguin Books |year=2004 |isbn=0-14-100375-8 |ref=harv}}
+* {{cite book |last=Rich |first=Norman |title=Hitler's War Aims Ideology: The Nazi State and the Course of Expansion |year=1973 |publisher=W.W. Norton |isbn=978-0233964768 |ref=harv}}
+* {{cite book| last=Roberts | first=Andrew | year=2011 | title=The Storm of War: A New History of the Second World War | place= New York | publisher= Harper Perrenial | isbn= 978-0-06122-860-5 | ref=harv}}
+* {{cite journal |last=Roberts |first=Cynthia |title=Planning for War: The Red Army and the Catastrophe of 1941 |journal=Europe-Asia Studies |year=1995 |volume=47 |issue=8 |pages=1293 |doi=10.1080/09668139508412322 |ref=harv}}
+* {{cite book |last=Roberts |first=Geoffrey |authorlink=Geoffrey Roberts |title=Stalin's Wars: From World War to Cold War, 1939–1953 |publisher=Yale University Press |year=2006 |isbn=0-300-11204-1 |ref=harv}}
+* {{cite book |last1=Rössler |first1=Mechtild |last2=Schleiermacher |first2=Sabine |title=Der &quot;Generalplan Ost.&quot; Hauptlinien der nationalsozialistischen Planungs- und Vernichtungspolitik |year=1996 |publisher=Akademie-Verlag |language=German |ref=harv}}
+* {{cite book |last=Sakwa |first=Richard |authorlink=Richard Sakwa |title=The Rise and Fall of the Soviet Union |publisher=Routledge Publishing |year=2005 |isbn=978-1134806027 |ref=harv}}
+* {{cite book |last=Seaton |first=Albert |title=The Russo-German War, 1941–45 |publisher=Praeger Publishers |year=1972 |isbn=978-0891414919 |ref=harv}}
+* {{cite book | last = Seaton | first = Albert | title = The German Army, 1933–1945| publisher = Meridian | location = New York | year = 1982 | isbn = 0-452-00739-9| ref = harv}}
+* {{cite book |last=Service |first=Robert |title=A History of Modern Russia: From Nicholas II to Vladimir Putin |place=Cambridge, MA |publisher= Harvard University Press |year=2005 |isbn=978-0-67401-801-3|ref=harv}}
+* {{cite book |last=Sharp |first=Jane |title=Striving for Military Stability in Europe |publisher=Routledge |year=2010 |isbn=978-1134325818 |ref=harv}}
+* {{cite book | last = Shepherd | first = Ben H. | year = 2016 | title = Hitler's Soldiers: The German Army in the Third Reich | location = New Haven and London | publisher = Yale University Press | isbn = 978-0-30017-903-3 | ref= harv}}
+* {{cite book |last=Shirer |first=William |authorlink=William L. Shirer |title=[[The Rise and Fall of the Third Reich|The Rise and Fall of the Third Reich: A History of Nazi Germany]] |publisher=Simon &amp; Schuster |year=1990 |isbn=0-671-72868-7 |ref=harv}}
+*{{cite book |last1=Smelser |first1=Ronald|authorlink1 = Ronald Smelser |last2=Davies |first2=Edward J. II |title=[[The Myth of the Eastern Front]]: The Nazi-Soviet War in American Popular Culture |date=2008 |publisher=Cambridge University Press |location=New York |isbn=9780521712316 |edition=Paperback |ref=harv}}
+* {{cite book |last=Smith |first=Howard |authorlink=Howard K. Smith |title=Last Train from Berlin |publisher=Phoenix Press |year=2000 |isbn=978-1842122143 |ref=harv}}
+* {{cite book | last=Snyder| first=Timothy | year=2010 | title= Bloodlands: Europe between Hitler and Stalin | location= New York | publisher= Basic Books | isbn=978-0-46503-147-4 | ref=harv}}
+* {{cite book | last = Stackelberg | first = Roderick | title = Hitler's Germany: Origins, Interpretations, Legacies | publisher = Taylor &amp; Francis | location = London; New York | year = 2002 | isbn = 978-0-203-00541-5 | ref = harv}}
+* {{cite book| last=Stackelberg | first=Roderick | year=2007 | title= The Routledge Companion to Nazi Germany | place= New York | publisher= Routledge | isbn= 978-0-41530-861-8 | ref=harv}}
+* {{cite book| last=Stahel | first=David | authorlink=David Stahel | year=2009 | title=Operation Barbarossa and Germany's Defeat in the East | location=Cambridge, UK | publisher=Cambridge University Press |isbn=978-0-521-76847-4|ref=harv}}
+* {{cite book | last = Stone | first = David | title = Shattered Genius: The Decline and Fall of the German General Staff in World War II | year = 2011 | publisher = Casemate | location = Philadelphia | isbn = 978-1-61200-098-5 | ref = harv}}
+* {{cite book |last=Symonds |first=Craig |authorlink=Craig Symonds |title=Neptune: The Allied Invasion of Europe and the D-Day Landings |publisher=Oxford University Press |year=2014 |isbn=978-0199986118 |ref=harv}}
+* {{cite book |last=Taylor |first=Alan |title=History of World War II |publisher=Octopus Books |year=1974 |isbn=978-0706403992 |ref=harv}}
+* {{cite book |last=Thomas |first=Nigel |title=The German Army 1939–45: Eastern Front 1941–43 |publisher=Osprey Publishing |year=2012 |isbn=978-1782002192 |ref=harv}}
+* {{cite book | last1= Ueberschär | first1= Gerd R. | chapter= The Involvement of Scandinavia in the Plans for Barbarossa | editor1=Boog, Horst | editor2=Förster, Jürgen | editor3=Hoffmann, Joachim | editor4=Klink, Ernst | editor5=Müller, Rolf-Dieter | editor6=Ueberschär, Gerd R. | year=1998 | editor-link=Military History Research Office (Germany) | others=Translated by Dean S. McMurry, Ewald Osers, Louise Willmot | title=[[Germany and the Second World War]] | volume=IV (Attack on the Soviet Union) | location= Oxford and New York | publisher=Clarendon Press |isbn=0-19-822886-4 | ref=harv}}
+* {{cite journal |last=Uldricks |first=Teddy |title=The Icebreaker Controversy: Did Stalin Plan to Attack Hitler? |journal=Slavic Review |date=Autumn 1999 |doi=10.2307/2697571 |volume=58 |issue=3 |pages= 626–643  |ref=harv |jstor=2697571}}
+* {{cite book | author = United States Holocaust Memorial Museum | title = Historical Atlas of the Holocaust | year = 1996 | location = New York | publisher = Macmillan Publishing | isbn = 978-0-02897-451-4 | ref = harv}}
+* {{cite book |last=Waller |first=John |title=The Unseen War in Europe: Espionage and Conspiracy in the Second World War |publisher=Tauris &amp; Company |year=1996 |isbn=978-1-86064-092-6 |ref=harv}}
+* {{cite book |last=Ward |first=John |title=Hitler's Stuka Squadrons: The Ju 87 at War, 1936–1945 |publisher=MBI Publishing |year=2004 |isbn=978-0760319918 |ref=harv}}
+* {{cite book |last=Weeks |first=Albert |title=Stalin's Other War: Soviet Grand Strategy, 1939–1941 |publisher=Rowman &amp; Littlefield |year=2002 |isbn=978-0-7425-2191-9 |ref=harv}}
+* {{cite book |last=Weinberg |first=Gerhard |authorlink=Gerhard Weinberg |title=A World at Arms: A Global History of World War II |publisher=Cambridge University Press |year=2005 |isbn=978-0521618267 |ref=harv}}
+* {{cite book |last=Wette |first=Wolfram |title=The Wehrmacht: History, Myth, Reality |publisher=Harvard University Press |year=2007 |isbn=978-0674025776 |ref=harv}}
+* {{cite book | last = Wright | first = Gordon | year = 1968 | title = The Ordeal of Total War, 1939–1945 | location = New York | publisher = Harper &amp; Row | isbn = 0061314080 | ref= harv}}
+* {{cite book | last = Ziemke | first = Earl F.| year = 1959 | title = The German Northern Theater of Operations, 1940–1945| url=http://www.history.army.mil/html/books/104/104-23/CMH_Pub_104-23.pdf | location = Washington D.C. | publisher = U.S. Government Printing Office | asin= B0007ETEOM | ref= harv}}
+{{refend}}
+
+====Online====
+* {{cite web|last=Browning|first=Christopher|year=2000|title=Evidence for the Implementation of the Final Solution |url=https://www.phdn.org/archives/www.ess.uwe.ac.uk/genocide/browning1.htm|website= Web Genocide Documentation Center – Resources on Genocide, War Crimes and Mass Killing|publisher= University of the West of England|accessdate=October 1, 2016|ref=harv}}
+* {{cite web |title=European History: Operation Barbarossa |publisher=[[Encyclopædia Britannica]] |author=Graham Royde-Smith, John |url=http://global.britannica.com/EBchecked/topic/52772/Operation-Barbarossa |accessdate=16 May 2015 |ref={{sfnRef|Graham Royde-Smith}}
+}} {{subscription required}}
+* {{cite web |title=Heeresarzt 10-Day Casualty Reports per Theater of War, 1941 |publisher=World War II Stats |url=http://ww2stats.com/cas_ger_okh_tow41.html |accessdate=10 May 2013 |ref={{sfnRef|&quot;Heeresarzt 10-Day Casualty Reports per Theater of War, 1941&quot;}}
+}}
+*{{cite web |title=AOK/Ic POW Summary Reports |publisher=World War II Stats |url=http://ww2stats.com/pow_ger_okh_aok.html |accessdate=3 April 2015 |archive-url=http://web.archive.org/web/20141209093457/http://ww2stats.com/pow_ger_okh_aok.html|archive-date=9 December 2014|ref={{sfnRef|&quot;AOK POW Reports&quot;}}
+}}
+*{{cite web |title=Army vs. NKVD figures |publisher=World War II Stats |url=http://ww2stats.com/pow_sow_tot.html |accessdate=3 April 2015 |ref={{sfnRef|&quot;Red Army and NKVD figures, 1941–1945&quot;}}
+}}
+*{{cite AV media |people=Davidson, Nick (producer) |date=2009 |title=Hitler Strikes East |series=[[World War II in HD Colour]] |medium=television documentary |url=http://www.worldmediarights.com/index.php?hidAction=episode&amp;eid=553&amp;page=Hitler_Strikes_East |time= |publisher=NM Productions (for [[IMG (company)|IMG Media]]) |accessdate=19 March 2015 |ref={{sfnRef|''Hitler Strikes East'', 2009}}
+}}
+* {{cite web |title=Modern History Sourcebook: The Molotov-Ribbentrop Pact, 1939 |publisher=[[Fordham University|University of Fordham]] |url=http://legacy.fordham.edu/halsall/mod/1939pact.html |accessdate=19 March 2015 |ref={{sfnRef|Text of the Nazi-Soviet Non-Aggression Pact, 1939}}
+}}
+* {{cite encyclopedia|editor-first=|editor-last= |encyclopedia=[[Holocaust Encyclopedia|The Holocaust Encyclopedia]] |title=Nazi Persecution of Soviet Prisoners of War |url=http://www.ushmm.org/wlc/en/article.php?ModuleId=10007178|access-date= 24 March 2015 |date=20 June 2014 |publisher=[[United States Holocaust Museum]] |ref={{sfnRef|&quot;Nazi Persecution of Soviet Prisoners of War&quot;}}
+}}
+*{{cite AV media |people=Grazhdan, Anna (director); Artem Drabkin &amp; Aleksey Isaev (writers); Valeriy Babich, Vlad Ryashin, ''et. al'' (producers) |date=2011 |title=Operation Barbarossa |series=Soviet Storm: World War II in the East |medium=television documentary |url=http://www.starmediafilm.com/en/historical/velikaya_vojna |time= |publisher=Star Media |accessdate=19 March 2015 |ref={{sfnRef|''Soviet Storm: Operation Barbarossa'' 2011}}
+}}
+* {{cite web |title=Оценка советским руководством событий Второй мировой войны в 1939–1941 |author=Meltyukhov, Mikhail Ivanovich |language=Russian |publisher=Russian Military Library Moscow |url=http://militera.lib.ru/research/meltyukhov/11.html |accessdate=19 March 2015 |ref={{sfnRef|Russian Military Library}}
+}}
+*{{cite AV media |people=Grazhdan, Anna (director); Artem Drabkin &amp; Aleksey Isaev (writers); Valeriy Babich, Vlad Ryashin, ''et. al'' (producers) |date=2011 |title=Siege of Leningrad |series=Soviet Storm: World War II in the East |medium=television documentary |url=https://www.youtube.com/watch?v=LFx9fk4bbQ8 |time= |publisher=Star Media |accessdate=15 May 2015 |ref={{sfnRef|''Siege of Leningrad'' 2011}}
+}}
+*{{cite AV media |people=Aitken, Andy, Dave Flitton &amp; James Wignall (directors), Dave Flitton (series producer); Dave Flitton, Andy Aitken &amp; James Wignall (writers) 	 |date=1996 |title=The Battle for Russia |medium=television documentary |url=https://www.youtube.com/watch?v=hAfcOYKMPP4 |time= |series=[[Battlefield (TV series)|Battlefield]] |publisher=[[PBS]] |accessdate=19 March 2015 |ref={{sfnRef|''Battle for Russia'', 1996}}
+}}
+
+==External links==
+* {{Commons category-inline|Operation Barbarossa}}
+* {{Commons category-inline|Great Patriotic War}}
+* {{Wikisource-inline|Führer Directive 21}}
+* {{Wikisource-inline|Adolf Hitler's Letter to Benito Mussolini Explaining the Invasion of the Soviet Union}}
+* {{Wikisource-inline|The Führer to the German People: 22 June 1941}}
+* {{Wikisource-inline|Adolf Hitler's Order of the Day to the German Troops on the Eastern Front (2 October 1941)}}
+* {{Wikisource-inline|Adolf Hitler Explains His Reasons for Invading the Soviet Union}}
+* [http://www1.yadvashem.org/yv/en/holocaust/barbarossa/index.asp?WT.mc_id=wiki Marking 70 Years to Operation Barbarossa] on the [[Yad Vashem]] website
+* [http://www.timesonline.co.uk/tol/system/topicRoot/Operation_Barbarossa/ Operation Barbarossa] original reports and pictures from ''[[The Times]]''
+* &quot;Operation Barbarossa&quot;: {{YouTube|KxsdfcgfSS8}}, lecture by [[David Stahel]], author of ''Operation Barbarossa and Germany's Defeat in the East'' (2009); via the official channel of [[Muskegon Community College]]
+
+{{World War II}}
+{{Authority control}}
+
+{{DEFAULTSORT:Barbarossa}}
+[[Category:Operation Barbarossa| ]]&lt;!--leave the empty space as standard--&gt;
+[[Category:Articles containing video clips]]
+[[Category:Code names]]
+[[Category:Military operations involving Finland]]</text>
+      <sha1>5xsgpqiim9bvvt9pjo6jp0rcsx3zwxf</sha1>
+    </revision>
+  </page>
+</mediawiki>

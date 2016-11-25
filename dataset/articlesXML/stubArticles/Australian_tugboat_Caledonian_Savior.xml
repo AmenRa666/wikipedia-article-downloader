@@ -1,0 +1,151 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Australian tugboat Caledonian Savior</title>
+    <ns>0</ns>
+    <id>35142397</id>
+    <revision>
+      <id>685183040</id>
+      <parentid>682556716</parentid>
+      <timestamp>2015-10-11T10:47:34Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2560">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Ship country=Australia
+|Ship flag={{shipboxflag|Australia|naval-1913}}{{shipboxflag|Australia|civil}}
+|Ship name=''Caledonian Salvor''
+|Ship builder=[[Basalt Rock Company]], Napa 
+|Ship laid down=19 February 1942
+|Ship launched=22 August 1942
+|Ship completed=20 May 1943
+|Ship struck=
+|Ship motto=
+|Ship identification=
+|Ship honours=
+|Ship fate=Sold in 1958
+|Ship notes=
+}}
+{{Infobox ship career
+|Ship country=
+|Ship flag=
+|Ship name=*''Sudbury II'' (1958-1981)
+*''Lady Pacific'' (1981-1982)
+|Ship namesake=
+|Ship owner=Island Tug and Barge, [[Vancouver]]
+|Ship operator=
+|Ship registry=Fiji
+|Ship identification=
+|Ship fate=
+|Ship sunk=Sank after catching fire in 1982.
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Ship type=Rescue and Salvage tug boat
+|Ship tonnage=1,334 [[gross tonnage|gross tons]]
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship depth=
+|Ship power=
+|Ship propulsion=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship complement=
+|Ship armament=
+|Ship armour=
+|Ship notes=
+}}
+|}
+
+The '''''Sudbury II''''' was a salvage and rescue tug that served during [[World War II]] with the [[Royal Australian Navy]] as '''''Caledionian Salvor''''', however was never commissioned. She was sold in 1958 to Island Tug &amp; Barge Ltd, [[Vancouver]], renamed ''Sudbury II'', and [[ship registry|registered]] as a Fijian vessel. ''Sudbury II'' undertook numerous salvage jobs in the Pacific Ocean. She was sold in 1981 and became a fishing vessel and renamed ''Lady Pacific''.&lt;ref&gt;Wilson, p.75.&lt;/ref&gt;
+
+==Fate==
+She caught fire and sank off [[Prince Rupert, British Columbia|Prince Rupert]] on 31 October 1982.
+
+==Citations==
+{{reflist}}
+
+==References==
+*{{Cite book
+  | title=Royal Australian Navy : Profile No. 4. Royal Australian Navy 21st century warships: naval auxiliaries 1911-1999 (including Defence Maritime Services)
+  | author1=Wilson, Michael
+  | author2=Australia. Navy Office. Naval Historical Records Section
+  | author3=Australia. Navy Office. Public Affairs
+  | year=1994
+  | publisher=Topmill, Marrickville
+  | isbn=1876270721
+  }}
+
+==Further reading==
+*Norris, Pat Wastell; ''High Seas, High Risk: The Story of the Sudburys''. ISBN 9781550172089
+
+{{australia-mil-ship-stub}}
+
+{{Use dmy dates|date=January 2011}}
+
+{{DEFAULTSORT:Sudbury II}}
+
+[[Category:1942 ships]]
+[[Category:Ships built in Napa, California]]
+[[Category:Tugboats of the Royal Australian Navy|Caledonian Savior]]
+[[Category:Tugboats of Canada]]</text>
+      <sha1>25p1xcof1nwwa5pmmjsj12497w4xg1e</sha1>
+    </revision>
+  </page>
+</mediawiki>

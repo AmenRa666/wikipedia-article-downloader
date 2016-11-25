@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German cruiser Seydlitz</title>
+    <ns>0</ns>
+    <id>3032611</id>
+    <revision>
+      <id>720431902</id>
+      <parentid>687788381</parentid>
+      <timestamp>2016-05-15T21:12:05Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12586">{| {{Infobox ship begin}}
+|+ German cruiser ''Seydlitz''
+{{Infobox ship image
+| Ship image   = [[File:Seydlitz-1.jpg|300px|Launching of Seydlitz]]
+| Ship caption = Launching of ''Seydlitz''
+}}
+{{Infobox ship career
+| Hide header = 
+| Ship country =[[Nazi Germany]]
+| Ship flag ={{shipboxflag|Nazi Germany|naval}}
+| Ship name = ''Seydlitz''
+| Ship namesake = [[Friedrich Wilhelm von Seydlitz]]
+| Ship ordered = 
+| Ship awarded = 
+| Ship builder = [[Deutsche Schiff- und Maschinenbau]], [[Bremen]]
+| Ship original cost = 
+| Ship yard number = 
+| Ship way number = 
+| Ship laid down = 29 December 1936
+| Ship launched = 19 January 1939
+| Ship sponsor = 
+| Ship christened = 
+| Ship completed = 
+| Ship homeport = 
+| Ship captured = 
+| Ship fate = Scuttled incomplete, 29 January 1945
+| Ship notes = 
+| Ship badge = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = (as cruiser)
+| Ship class ={{sclass-|Admiral Hipper|cruiser}}
+| Ship displacement =
+*Design:
+**{{convert|17600|MT|abbr=on}}
+*Full load:
+**{{convert|19800|LT|abbr=on}}
+| Ship length ={{convert|210|m|ftin|0|abbr=on}} [[Length overall|overall]]
+| Ship beam   ={{convert|21.80|m|ftin|0|abbr=on}}
+| Ship draft = Full load: {{convert|7.90|m|abbr=on}}
+| Ship propulsion =
+* 3 × [[Blohm + Voss|Blohm &amp; Voss]] steam turbines
+* 3 × three-blade propellers
+* {{convert|100000|hp|MW|abbr=on}}
+| Ship speed ={{convert|32|kn|lk=in}}
+| Ship range = 
+| Ship complement =
+*    42 officers
+*    1340 enlisted
+| Ship armament =
+*  8 × [[20.3 cm SK C/34 naval gun|{{convert|20.3|cm|in|abbr=on}} guns]]
+* 12 × {{convert|10.5|cm|in|abbr=on}} guns
+* 12 × {{convert|3.7|cm|in|abbr=on}} guns
+*  8 × {{convert|2|cm|in|abbr=on}} guns (20 × 1)
+*  6 × {{convert|53.3|cm|in|0|abbr=on}} [[torpedo tube]]s
+| Ship armor =
+* Belt:         {{convert|70|to|80|mm|abbr=on}}
+* Armor deck:   {{convert|20|to|50|mm|abbr=on}}
+* Turret faces: {{convert|105|mm|abbr=on}}
+| Ship aircraft = 3 aircraft
+| Ship aircraft facilities = 1 catapult
+| Ship notes = 
+}}
+{{Infobox ship characteristics
+| Hide header = 
+| Header caption = (as aircraft carrier)
+|Ship class=none
+| Ship displacement =
+*Design:
+**{{convert|17139|MT|abbr=on}}
+| Ship length ={{convert|216|m|ftin|0|abbr=on}} overall
+| Ship draft = Full load: {{convert|6.65|m|abbr=on}}
+| Ship armament =
+* 10 × 10.5&amp;nbsp;cm guns
+* 10 × 3.7&amp;nbsp;cm guns
+* 24 × 2&amp;nbsp;cm guns
+| Ship aircraft = 20 aircraft
+| Ship aircraft facilities = 
+| Ship notes = 
+}}
+|}
+
+'''''Seydlitz''''' was a [[heavy cruiser]] of [[Nazi Germany]]'s ''[[Kriegsmarine]]'', fourth in the {{sclass-|Admiral Hipper|cruiser|4}}, but was never completed. The ship was laid down in December 1936 and launched in January 1939, but the outbreak of [[World War II]] slowed her construction and fitting-out work was finally stopped in the summer of 1940 when she was approximately 95&amp;nbsp;percent complete. The unfinished ship remained pier-side in the shipyard until March 1942, when the Kriegsmarine decided to pursue aircraft carriers over surface combatants. ''Seydlitz'' was among the vessels chosen for conversion into auxiliary aircraft carriers.
+
+Renamed ''Weser'', the ship was to have had a complement of ten [[Bf 109]] fighters and ten [[Ju 87]] divebombers. Work was not completed, however, and the incomplete vessel was towed to [[Königsberg]] where she was eventually scuttled. The ship was seized by the advancing [[Soviet Army]] and was briefly considered for cannibalization for spare parts to complete her sistership {{ship|German cruiser|Lützow|1939|2}} for the [[Soviet Navy]]. This plan was also abandoned, and the ship was broken up for scrap.
+
+== Construction ==
+
+{{main|Admiral Hipper-class cruiser}}
+[[File:Admiral Hipper ONI.jpg|thumb|left|Recognition drawing of an ''Admiral Hipper''-class cruiser]]
+
+''Seydlitz'' was ordered by the Kriegsmarine from the [[Deschimag]] shipyard in [[Bremen]].{{sfn|Gröner|p=65}} ''Seydlitz'' was originally designed as a [[light cruiser]] version of the {{sclass-|Admiral Hipper|cruiser|4}} [[heavy cruiser]]s, armed with twelve {{convert|15|cm|abbr=on}} guns instead of the ''Admiral Hipper''{{'}}s eight {{convert|20.3|cm|abbr=on}} guns. The Kriegsmarine decided, however, to complete the ship identically to ''Admiral Hipper'' on 14 November 1936.{{sfn|Gröner|p=66}} Her keel was laid on 29 December 1936,{{sfn|Williamson|p=42}} under construction number 940.{{sfn|Gröner|p=65}} The ship was launched on 19 January 1939, but after the outbreak of [[World War II]] in September 1939, work was halted when the ship was approximately 95&amp;nbsp;percent complete.{{sfn|Gröner|p=67}}{{sfn|Evans|p=13}}
+
+''Seydlitz'' was {{convert|210|m|ft|sp=us}} [[length overall|long overall]] and had a beam of {{convert|21.80|m|ft|abbr=on}} and a maximum draft of {{convert|7.90|m|ft|abbr=on}}. The ship had a design displacement of {{convert|17600|MT|abbr=on}} and a full load displacement of {{convert|19800|LT|abbr=on}}. ''Seydlitz'' was powered by three sets of geared [[steam turbine]]s, which were supplied with steam by twelve ultra-high pressure oil-fired [[boiler]]s. The ship's top speed was {{convert|32|kn|lk=in}}, at {{convert|132000|shp|lk=in}}.{{sfn|Gröner|p=65}} As designed, her standard complement consisted of 42 officers and 1,340 enlisted men.{{sfn|Gröner|p=66}}
+
+''Seydlitz''{{'}}s primary armament was eight [[20.3 cm SK C/34 naval gun|{{convert|20.3|cm|in|abbr=on|1}} SK L/60]] guns mounted in four twin [[gun turret]]s, placed in [[superfire|superfiring pairs]] forward and aft.{{efn|name=gun nomenclature}} Her anti-aircraft battery  consisted of twelve {{convert|10.5|cm|abbr=on}} L/65 guns, twelve {{convert|3.7|cm|abbr=on}} guns, and eight {{convert|2|cm|abbr=on}} guns. The ship also carried a pair of triple {{convert|53.3|cm|abbr=on}} torpedo launchers abreast of the rear superstructure. The ship was equipped with three [[Arado Ar 196]] seaplanes and one catapult.{{sfn|Gröner|p=66}} ''Seydlitz''{{'}}s [[belt armor|armored belt]] was {{convert|70|to|80|mm|abbr=on}} thick; her upper deck was {{convert|12|to|30|mm|abbr=on}} thick while the main armored deck was {{convert|20|to|50|mm|abbr=on}} thick. The main battery turrets had {{convert|105|mm|abbr=on}} thick faces and 70&amp;nbsp;mm thick sides.{{sfn|Gröner|p=65}}
+
+== Conversion ==
+[[File:Seydlitz reconnaissance photo.jpg|thumb|upright|left|''Seydlitz'' in May 1942, before conversion work began]]
+
+Following the loss of the battleship {{ship|German battleship|Bismarck||2}} in May 1941, during which British aircraft carriers proved instrumental, and the near torpedoing of her sistership {{ship|German battleship|Tirpitz||2}} in March 1942, the Kriegsmarine became convinced of the necessity of acquiring aircraft carriers.{{sfn|Garzke &amp; Dulin|p=296}} Work on the purpose-built carrier {{ship|German aircraft carrier|Graf Zeppelin||2}}, which had been halted in April 1940, was resumed in March 1942.{{sfn|Gröner|p=72}} The Kriegsmarine also decided to convert a number of vessels into auxiliary aircraft carriers. ''Seydlitz'' was among the ships selected for conversion, along with several passenger liners.{{sfn|Garzke &amp; Dulin|p=296}}
+
+At the same time as construction of ''Graf Zeppelin'' resumed, conversion work began on ''Seydlitz''.{{sfn|Fontenoy|p=75}} The majority of the [[superstructure]] was cut away, with the exception of the funnel, to prepare for the installation of a [[flight deck]] and an aircraft hangar.{{sfn|Gröner|p=67}} In total, approximately {{convert|2400|MT|abbr=on}} of material from the ship was removed.{{sfn|Gröner|p=76}}  The flight deck was to have been {{convert|200|m|abbr=on}} long and {{convert|30|m|abbr=on}} wide. The hangar was {{convert|137.50|m|abbr=on}} long and {{convert|17|m|abbr=on}} wide forward and {{convert|12|m|abbr=on}} wide amidships and aft.{{sfn|Gröner|p=75}} Her armament was reduced to an anti-aircraft battery of ten 10.5&amp;nbsp;cm L/65 guns in twin mounts, two forward of the [[conning tower]] and three aft, ten 3.7&amp;nbsp;cm guns in dual mounts, and twenty-four 2&amp;nbsp;cm guns in quadruple mounts.{{sfn|Gröner|p=76}}
+
+''Seydlitz''{{'}}s air complement was to have consisted of ten [[Bf 109]] fighters and ten [[Ju 87]] Stuka divebombers.{{sfn|Gröner|p=76}} The Bf&amp;nbsp;109 fighters were a [[navalized]] version of the &quot;E&quot; model, designated as Bf 109T. Their wings were longer than the land-based model to allow for shorter take-off.{{sfn|Caldwell &amp; Muller|p=80}} The Ju&amp;nbsp;87s were to have been the &quot;E&quot; variant, which was a navalized version of the Ju&amp;nbsp;87D, and were modified for [[Aircraft catapult|catapult]] launches and were equipped with [[arresting gear]].{{sfn|Kay &amp; Couper|p=157}}
+
+The ship was renamed ''Weser'', but work was ceased in June 1943, before the conversion was completed.{{sfn|Gröner|p=76}} The unfinished vessel was then transferred to [[Königsberg]], where she remained for the rest of the war. On 29 January 1945, the ship was scuttled before the advancing Soviet [[Red Army]] could seize her. The [[Soviet Navy]] nevertheless considered using the wreck for parts to complete the cruiser {{ship|German cruiser|Lützow|1939|2}}, a sister-ship of ''Seydlitz'' the Soviets had purchased unfinished before the outbreak of war. This was not carried out, however, and the ship was broken up for scrap.{{sfn|Gröner|p=67}}
+
+== Footnotes ==
+
+'''Notes'''
+
+{{notes
+| notes =
+
+{{efn
+| name = gun nomenclature
+| &quot;L/60&quot; denotes the length of the gun in terms of [[caliber (artillery)|caliber]]. The length of 60 caliber gun is 60 times greater than it is wide in diameter.
+}}
+
+}}
+
+'''Citations'''
+
+{{reflist|20em}}
+
+== References ==
+
+* {{cite book
+  | last1 = Caldwell
+  | first1 = Donald
+  | last2 = Muller
+  | first2 = Richard
+  | year = 2007
+  | title = The Luftwaffe Over Germany: Defense of the Reich
+  | publisher = MBI Publishing Company
+  | location = London
+  | isbn = 978-1-85367-712-0
+  | ref ={{sfnRef|Caldwell &amp; Muller}}
+  }}
+* {{cite book
+  | last = Evans
+  | first = Mark
+  | year = 1999
+  | title = Great World War II Battles in the Arctic
+  | publisher = Greenwood Press
+  | location = Westport, CT
+  | isbn = 978-0-313-30892-5
+  | ref ={{sfnRef|Evans}}
+  }}
+* {{cite book
+  | last = Fontenoy
+  | first = Paul E.
+  | year = 2006
+  | title = Aircraft Carriers: An Illustrated History of Their Impact
+  | publisher = ABC-CLIO
+  | location = Santa Barbara, CA
+  | isbn = 978-1-85109-573-5
+  | ref ={{sfnRef|Fontenoy}}
+  }}
+* {{cite book
+  | last1 = Garzke
+  | first1 = William H.
+  | last2 = Dulin
+  | first2 = Robert O.
+  | title = Battleships: Axis and Neutral Battleships in World War II
+  | year = 1985
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-101-0
+  | oclc = 
+  | ref ={{sfnRef|Garzke &amp; Dulin}}
+  }}
+* {{cite book
+  | last = Gröner
+  | first = Erich
+  | year = 1990
+  | title = German Warships: 1815–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-790-6
+  | ref ={{sfnRef|Gröner}}
+  }}
+* {{cite book
+  | last1 = Kay
+  | first1 = Antony K.
+  | last2 = Couper
+  | first2 = Paul
+  | year = 2004
+  | title = Junkers Aircraft and Engines, 1913–1945
+  | publisher = Naval Institute Press
+  | location = Annapolis, MD
+  | isbn = 978-0-85177-985-0
+  | ref ={{sfnRef|Kay &amp; Couper}}
+  }}
+* {{cite journal 
+  | last = Schenk
+  | first = Peter
+  | date=2008
+  | title =German Aircraft Carrier Developments
+  | journal = Warship International 
+  | volume = 45
+  | issue= 2
+  | pages = 129–158
+  | location = Toledo, Ohio
+  | publisher = International Naval Research Organization
+  | issn = 0043-0374
+  | oclc = 1647131
+  }}
+* {{cite book
+  | last = Williamson
+  | first = Gordon
+  | year = 2003
+  | title = German Heavy Cruisers 1939–1945
+  | publisher = Osprey Publishing
+  | location = Oxford
+  | isbn = 978-1-84176-502-0
+  | ref ={{sfnRef|Williamson}}
+  }}
+
+==External links==
+* [http://www.admiral-hipper-class.dk/seydlitz_luetzow/seydlitz_ships_design/seydlitz_ships_design.html Illustrations of ''Seydlitz'' as a cruiser and the proposed carrier conversion]
+
+{{Admiral Hipper class cruiser}}
+{{German aircraft carriers}}
+{{April 1945 shipwrecks}}
+{{Good article}}
+
+{{DEFAULTSORT:Seydlitz}}
+[[Category:Admiral Hipper-class cruisers]]
+[[Category:Ships built in Bremen (state)]]
+[[Category:1939 ships]]
+[[Category:World War II cruisers of Germany]]
+[[Category:World War II aircraft carriers of Germany]]
+[[Category:World War II shipwrecks in the Baltic Sea]]
+[[Category:Germany–Soviet Union relations]]
+[[Category:Maritime incidents in April 1945]]
+[[Category:Proposed ships of Germany]]</text>
+      <sha1>p0o6c6pgj4s9ysh28gux75ojyx63ryt</sha1>
+    </revision>
+  </page>
+</mediawiki>

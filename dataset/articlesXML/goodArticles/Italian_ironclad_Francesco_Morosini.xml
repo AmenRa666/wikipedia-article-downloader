@@ -1,0 +1,156 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian ironclad Francesco Morosini</title>
+    <ns>0</ns>
+    <id>27197845</id>
+    <revision>
+      <id>745226464</id>
+      <parentid>722333244</parentid>
+      <timestamp>2016-10-19T23:49:30Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template and category.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="11739">{{For|other battleships named ''Francesco Morosini''|Italian battleship Francesco Morosini}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Italian battleship Francesco Morosini (1885).jpg|300px]]
+|Ship caption=''Francesco Morosini'' underway
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Italy]]
+|Ship flag={{shipboxflag|Kingdom of Italy}}
+|Ship name=''Francesco Morosini''
+|Ship namesake=[[Francesco Morosini]]
+|Ship operator=[[Regia Marina]] 
+|Ship builder=[[Venice]] Navy Yard
+|Ship laid down=4 December 1881
+|Ship launched=30 July 1885
+|Ship completed=21 August 1889
+|Ship struck=August 1909
+|Ship fate=Sunk as target, 15 September 1909
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Ruggiero di Lauria|ironclad|0}}  [[ironclad battleship]]
+|Ship displacement=*{{convert|9886|MT|LT|sp=us|abbr=on}} normal
+*{{convert|11145|MT|LT|sp=us|abbr=on}} full load
+|Ship length={{convert|105.9|m|abbr=on|1}} [[length overall]]
+|Ship beam={{convert|19.84|m|abbr=on|1}}
+|Ship draft={{convert|8.29|m|abbr=on|1}}
+|Ship power=*{{convert|10000|ihp|abbr=on|lk=in}}
+*8 oval [[boiler]]s
+|Ship propulsion=2-shafts, 2 [[compound engine|compound steam engines]] 
+|Ship speed={{convert|16|kn|lk=in}}
+|Ship endurance={{convert|2800|nmi|km|0|lk=in|abbr=on}} at {{convert|10|knots}}
+|Ship complement=507&amp;ndash;509
+|Ship armament=*4 × {{convert|17|in|mm|0|adj=on}}/27 guns (2x2)
+*2 × {{convert|6|in|mm|0|adj=on}}/32 guns
+*4 × {{convert|14|in|mm|0|adj=on}} submerged [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Belt]]: {{convert|17.75|in|0|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|3|in|0|abbr=on}}
+*[[Barbette]]s: {{convert|14.2|in|mm|0|abbr=on}}
+*[[Conning tower]]: {{convert|9.8|in|mm|0|abbr=on}}
+|Ship notes=
+}}
+|}
+'''''Francesco Morosini''''' was an [[ironclad battleship]]  built in the 1880s and 1890s for the Italian ''[[Regia Marina]]'' (Royal  Navy). The ship, named for [[Francesco Morosini]], the 17th-century [[Doge]] of [[Venice]], was the second of three ships in the {{sclass-|Ruggiero di Lauria|ironclad|4}}, along with {{ship|Italian ironclad|Ruggiero di Lauria||2}} and {{ship|Italian ironclad|Andrea Doria||2}}. She was armed with a main battery of four {{convert|17|in|adj=on|0}} guns, was protected with {{convert|17.75|in|adj=on}} thick [[belt armor]], and was capable of a top speed of {{convert|17|kn|lk=in}}.
+
+The ship's construction period was very lengthy, beginning in August 1881 and completing in February 1888. She was quickly rendered obsolescent by the new [[pre-dreadnought battleship]]s being laid down, and as a result, her career was limited. She spent her career alternating between the Active and Reserve Squadrons, where she took part in training exercises each year with the rest of the fleet. The ship was stricken from the [[naval register]] in August 1909; the following month, she was expended as a [[target ship]] for experiments with torpedoes.
+
+==Design==
+[[File:Ruggiero di Lauria class line-drawing.png|thumb|left|Line-drawing of the ''Ruggiero di Lauria'' class]]
+{{main|Ruggiero di Lauria-class ironclad}}
+''Francesco Morosini'' was {{convert|105.9|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|19.84|m|abbr=on}} and an average [[draft (hull)|draft]] of {{convert|8.37|m|abbr=on}}. She displaced {{convert|9886|MT|LT|sp=us}} normally and up to {{convert|11145|MT|LT|sp=us|abbr=on}} at full load. Her propulsion system consisted of a pair of [[compound engine|compound]] [[steam engine]]s each driving a single [[screw propeller]], with steam supplied by eight coal-fired, oval [[boiler]]s. Her engines produced a top speed of {{convert|16|kn|lk=in}} at {{convert|10000|ihp|lk=in}}. She could steam for {{convert|2800|nmi|lk=in}} at a speed of {{convert|10|kn}}. She had a crew of 507&amp;ndash;509&amp;nbsp;officers and men.&lt;ref name=G342&gt;Gardiner, p. 342&lt;/ref&gt;
+
+''Francesco Morosini'' was armed with a [[main battery]] of four {{convert|17|in|abbr=on|0}} 27-[[caliber (artillery)|caliber]] guns, mounted in two pairs ''en echelon'' in a central [[barbette]]. She carried a [[Battleship secondary armament|secondary battery]] of two {{convert|6|in|abbr=on|0}} 32-cal. guns, one at the bow and the other at the stern, and four {{convert|4.7|in|abbr=on|0}} 32-cal. guns. As was customary for [[capital ship]]s of the period, she carried five {{convert|14|in|abbr=on|0}} [[torpedo tube]]s submerged in the hull. She was protected by steel armor; her [[belt armor|armored belt]] was {{convert|17.75|in|abbr=on|0}} thick, and her armored deck was {{convert|3|in|abbr=on|0}} thick. Her [[conning tower]] was armored with {{convert|9.8|in|abbr=on|0}} of steel plate, and the barbette had {{convert|14.2|in|abbr=on|0}} thick sides.&lt;ref name=G342/&gt;
+
+==Service history==
+[[File:MM - Ruggiero di Lauria 1884.jpg|thumb|left|An painting of ''Ruggiero di Lauria'', sister ship to ''Francesco Morosini'']]
+''Francesco Morosini'' was under construction for nearly eight years. She was laid down at the [[Venetian Arsenal]] on 4 December 1881 and launched on 30 July 1885. She was not completed for another four years, her construction finally being finished on 21 August 1889. Because of the rapid pace of naval technological development in the late 19th century, her lengthy construction period meant that she was an obsolete design by the time she entered service.&lt;ref name=G342/&gt; The year she entered service, the British began building the {{sclass-|Royal Sovereign|battleship|4}}; these ships marked a significant advance over previous types of [[capital ship]]s and set the standard for future vessels, which became known as [[pre-dreadnought battleship]]s. In addition, technological progress, particularly in armor production techniques&amp;mdash;first [[Harvey armor]] and then [[Krupp armor]]&amp;mdash;rapidly rendered older vessels like ''Francesco Morosini'' obsolete.&lt;ref&gt;Sondhaus, pp. 107&amp;ndash;108, 111&lt;/ref&gt;
+
+''Francesco Morosini'' took part in the annual fleet maneuvers of 1894 in 2nd [[division (naval)|Division]] of the Active Squadron, along with the [[protected cruiser]] {{ship|Italian cruiser|Ettore Fieramosca||2}}, the [[torpedo cruiser]] {{ship|Italian cruiser|Tripoli||2}}, and four [[torpedo boat]]s.&lt;ref&gt;&quot;Naval and Military Notes &amp;ndash; Italy&quot;, p. 564&lt;/ref&gt; She remained in the 2nd Division the following year, which now included the [[protected cruiser]] {{ship|Italian cruiser|Etruria||2}} and the torpedo cruisers {{ship|Italian cruiser|Euridice||2}} and {{ship|Italian cruiser|Calatafimi||2}}. The Squadron was based at [[La Spezia]] at the time.&lt;ref&gt;Garbett 1895, pp. 89–90&lt;/ref&gt; The following year, she cruised off [[Crete]] as the [[flagship]] of the 2nd Division, under Rear Admiral E. Gaulterio.&lt;ref&gt;Robinson, pp. 184&amp;ndash;185&lt;/ref&gt; During that year's summer maneuvers, held in July, ''Francesco Morosini'' continued as Gaulterio's flagship; the 2nd Division also included her sister {{ship|Italian ironclad|Andrea Doria||2}} and the [[protected cruiser]] {{ship|Italian cruiser|Giovanni Bausan||2}}. The 1st and 2nd Divisions of the Active Squadron were tasked with defending against a hostile fleet, simulated by older ships in reserve.&lt;ref&gt;&quot;The Italian Manoeuvres&quot;, pp. 131&amp;ndash;132&lt;/ref&gt;
+
+In 1898, ''Francesco Morosini'' was transferred to the Reserve Squadron, along with ''Ruggiero di Lauria'' and the ironclad {{ship|Italian ironclad|Lepanto||2}} and five cruisers.&lt;ref&gt;Garbett 1898, p. 200&lt;/ref&gt; The following year, ''Francesco Morosini'' and her two sisters returned to the Active Squadron, which was kept in service for eight months of the year, with the remainder spent with reduced crews. The Squadron also included the ironclads {{ship|Italian ironclad|Re Umberto||2}}, {{ship|Italian ironclad|Sicilia||2}}, and ''Lepanto''.&lt;ref&gt;Brassey 1899, p. 72&lt;/ref&gt; In 1900, ''Francesco Morosini'' and her sisters were significantly modified and received a large number of small guns for defense against torpedo boats. These included a pair of {{convert|75|mm|abbr=on}} guns, ten {{convert|57|mm|abbr=on}} 40-caliber guns, twelve {{convert|37|mm|abbr=on}} guns, five 37&amp;nbsp;mm [[revolver cannon]], and two [[machine gun]]s.&lt;ref name=G342/&gt;
+
+In 1905, ''Francesco Morosini'' and her two sisters were joined in the Reserve Squadron by the three {{sclass-|Re Umberto|ironclad|1}}s and {{ship|Italian ironclad|Enrico Dandolo||2}}, three cruisers, and sixteen torpedo boats. This squadron only entered active service for two months of the year for training maneuvers, and the rest of the year was spent with reduced crews.&lt;ref&gt;Brassey (1905), p. 45&lt;/ref&gt; In 1908, the Italian Navy decided to discard ''Francesco Morosini'' and her sister ''Ruggiero di Lauria''.&lt;ref&gt;Brassey (1908), p. 31&lt;/ref&gt; She was formally stricken from the [[naval register]] in August 1909, and was thereafter used as a [[target ship]] for a torpedo experiment. On 15 September, she was sunk at La Spezia; the experiment was conducted to test the effect of a torpedo hit in order to develop more a more effective hull design. The explosion tore a {{convert|50|m2|adj=on|sp=us}} hole in the hull, causing her to list severely and sink on her side. Her wreck was later scrapped.&lt;ref&gt;&quot;Torpedo Experiments Against the 'Francesco Morosini'&quot;, pp. 304&amp;ndash;305&lt;/ref&gt;&lt;ref&gt;Gardiner &amp; Gray, p. 256&lt;/ref&gt;
+
+==Notes==
+{{Portal|Battleships}}
+{{Reflist|20em}}
+
+==References==
+* Brassey, Thomas A., ed. (1899). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* Brassey, Thomas A., ed. (1905). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* Brassey, Thomas A., ed. (1907). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1898|volume=XLII|pages=199&amp;ndash;204|oclc=8007941}}
+* {{cite journal|editor-last=Garbett|editor-first=H.|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1895|volume=XXXIX|pages=81&amp;ndash;111|oclc=8007941}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3|lastauthoramp=y}}
+* {{cite journal|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1894|volume=XXXVIII|pages=564&amp;ndash;565|oclc=8007941}}
+* Robinson, Charles N., ed. (1897). The Navy and Army Illustrated (London: Hudson &amp; Kearns) III (32).
+* {{cite book|last=Sondhaus|first=Lawrence|title=Navies of Europe|year=2014|location=London|publisher=Routledge|isbn=978-1-317-86978-8}}
+* {{cite journal|title=The Italian Manoeuvres|journal=Notes on Naval Progress|year=1897|publisher=Office of Naval Intelligence|location=Washington, DC|pages=131&amp;ndash;140}}
+* {{cite journal|title=Torpedo Experiments Against the &quot;Francesco Morosini&quot;|journal=Journal of the American Society of Naval Engineers|year=1910|volume=XXII|number=1|location=Washignton, DC|publisher=R. Beresford, Printer|pages=304&amp;ndash;305}}
+
+{{Ruggiero di Lauria class battleship}}
+{{1909 shipwrecks}}
+
+{{DEFAULTSORT:Francesco Morosini (1885)}}
+[[Category:Ruggiero di Lauria-class battleships]]
+[[Category:1885 ships]]
+[[Category:Ships built in Venice]]
+[[Category:Maritime incidents in 1909]]
+[[Category:Ships sunk as targets]]</text>
+      <sha1>4a23wq6j1hdzni3c7o20beenilouq50</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,170 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French cruiser Amiral Charner</title>
+    <ns>0</ns>
+    <id>26268536</id>
+    <revision>
+      <id>744898783</id>
+      <parentid>741282034</parentid>
+      <timestamp>2016-10-18T03:43:01Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13372">{{other ships|French ship Amiral Charner}}
+{{Use dmy dates|date=September 2014}}
+{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Amiral charner.jpg|300px]]
+|Ship caption=''Amiral Charner'' at anchor, c. 1897
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Amiral Charner''
+|Ship namesake=[[Admiral]] [[Léonard Charner]]
+|Ship ordered=
+|Ship builder=[[Arsenal de Rochefort]]
+|Ship laid down=June 1889 
+|Ship launched=18 March 1893
+|Ship completed=
+|Ship commissioned=26 August 1895
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship refit=
+|Ship struck=
+|Ship fate=Sunk, 8 February 1916
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{Sclass-|Amiral Charner|cruiser|0}} [[armored cruiser]]
+|Ship displacement={{convert|4748|t|LT|0|sp=us}}
+|Ship length={{convert|110.2|m|ftin|abbr=on}}
+|Ship beam={{convert|14.04|m|ftin|abbr=on}}
+|Ship draft={{convert|6.06|m|ftin|abbr=on}}
+|Ship power=*16 × [[Belleville boiler]]s
+*{{convert|8300|ihp|0|abbr=on|lk=in}}
+|Ship propulsion=2 screws; 2 × [[Marine steam engine#Triple or multiple expansion|Triple-expansion steam engines]]
+|Ship speed={{convert|17|kn|lk=in}}
+|Ship range={{convert|4000|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=16 officers and 378 enlisted men
+|Ship crew=
+|Ship armament=*2 single Mle 1887 {{convert|194|mm|abbr=on}} guns
+*6 single Mle 1887 {{convert|138|mm|abbr=on}} guns
+*4 × single [[quick-firing gun|QF]] Mle 1891 {{convert|65|mm|abbr=on}} guns
+*4 single QF Mle 1885 {{convert|47|mm|abbr=on}}  [[Hotchkiss gun]]s
+*8 single 5-barreled {{convert|37|mm|abbr=on}} revolver Hotchkiss guns
+*4 × 450 mm (17.7 in) [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|60|-|90|mm|in|abbr=on|1}}
+*[[Deck (ship)|Deck]]: {{convert|40|-|50|mm|in|abbr=on|1}}
+*[[Gun turret]]s: {{convert|92|mm|in|abbr=on|1}}
+*[[Conning tower]]: {{convert|92|mm|in|abbr=on|1}} 
+}}
+|}
+
+'''''Amiral Charner''''' was an [[armored cruiser]] built for the French Navy in the 1890s, the [[name ship]] of [[Amiral Charner-class cruiser|her class]]. She spent most of her career in the Mediterranean, although she was sent to China during the [[Boxer Rebellion]] of 1900–01. The ship was assigned to the [[International Squadron (Greco-Turkish War of 1897)|International Squadron]] off the island of [[Crete]] during the [[Greco-Turkish War (1897)|Greco-Turkish War]] of 1897 to protect French interests and citizens. ''Amiral Charner'' spent most of the first decade of the 20th century as a [[training ship]] or in [[Reserve fleet|reserve]]. The ship was recommissioned when World War I began in 1914 and escorted convoys for several months before she was assigned to the Eastern Mediterranean to [[blockade]] the [[Ottoman Empire|Ottoman]]-controlled coast. During this time, she helped to rescue several thousand Armenians from Syria during the [[Armenian Genocide]] of 1915. ''Amiral Charner'' was sunk in early 1916 by a German [[submarine]], with only a single survivor rescued.
+
+==Design and description==
+[[File:Amiral-Charner Brassey's1902.png|thumb|left|Line drawing from [[Brassey's Naval Annual]] 1902]]
+The ''Amiral Charner''-class ships were designed to be smaller and cheaper than the preceding armored cruiser design, the {{ship|French cruiser|Dupuy de Lôme||2}}. Like the older ship, they were intended to fill the commerce-raiding strategy of the [[Jeune École]].&lt;ref&gt;Feron, pp. 8–9&lt;/ref&gt;
+
+The ship measured {{convert|106.12|m|ftin|sp=us}} [[Length between perpendiculars|between perpendiculars]], with a [[beam (nautical)|beam]] of {{convert|14.04|m|ftin|sp=us}}. ''Amiral Charner'' had a forward [[draft (ship)|draft]] of {{convert|5.55|m|ftin|sp=us}} and drew {{convert|6.06|m|ftin|sp=us}} aft. She [[Displacement (ship)|displaced]] {{convert|4748|t|LT|sp=us}} at normal load and {{convert|4990|t|LT|sp=us}} at [[deep load]].&lt;ref&gt;Feron, p. 15&lt;/ref&gt;
+
+The ''Amiral Charner'' class had two [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engine]]s, each driving a single [[propeller shaft]]. Steam for the engines was provided by 16 [[Belleville boiler]]s and they were rated at a total of {{convert|8300|PS|lk=on}} using [[Mechanical draft|forced draught]]. ''Amiral Charner'' had a designed speed of {{convert|19|knots|lk=in}}, but during [[sea trial]]s on 18 July 1895 the engines produced {{convert|8956|PS}}, but only gave a maximum speed of {{convert|18.4|kn}}. The ship carried up to {{convert|535|t|sp=us}} of coal and could steam for {{convert|4000|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref&gt;Feron, pp. 15, 17&lt;/ref&gt;
+
+The ships of the ''Amiral Charner'' class had a [[Main battery|main armament]] that consisted of two [[Canon de 194 mm Modèle 1887]] guns that were mounted in single [[gun turret]]s, one each fore and aft of the [[superstructure]]. Their secondary armament comprised six [[Canon de 138.6 mm Modèle 1887]] guns, each in single gun turrets on each [[broadside]]. For anti-[[torpedo boat]] defense, they carried four {{convert|65|mm|in|adj=on|sp=us}} guns, four {{convert|47|mm|in|adj=on|sp=us}} and eight {{convert|37|mm|in|adj=on|sp=us}} five-barreled revolving [[Hotchkiss gun]]s. They were also armed with four {{convert|450|mm|in|adj=on|1|sp=us}} pivoting [[torpedo tube]]s; two mounted on each broadside above water.&lt;ref&gt;Feron, pp. 11, 15&lt;/ref&gt;
+
+The side of the ''Amiral Charner'' class was generally protected by {{convert|92|mm|sp=us}} of steel armor, from {{convert|1.3|m|ftin|sp=us}} below the [[waterline]] to {{convert|2.5|m|ftin|sp=us}} above it. The bottom {{convert|20|cm|in|1|sp=us}} tapered in thickness and the armor at the ends of the ships thinned to {{convert|60|mm|sp=us}}. The curved protective [[deck (ship)|deck]] of [[mild steel]] had a thickness of {{convert|40|mm|sp=us}} along its centerline that increased to {{convert|50|mm|sp=us}} at its outer edges. Protecting the boiler rooms, engine rooms, and [[magazine (artillery)|magazine]]s below it was a thin splinter deck. A watertight internal [[cofferdam]], filled with [[cellulose]], ran the length of the ship from the protective deck&lt;ref name=f3&gt;Feron, pp. 12, 15&lt;/ref&gt; to a height of {{convert|4|ft|m|1|disp=flip|sp=us}} above the waterline.&lt;ref&gt;Chesneau &amp; Kolesnik, p. 304&lt;/ref&gt; Below the protective deck the ship was divided by 13 watertight transverse [[bulkhead (partition)|bulkhead]]s with five more above it. The ship's [[conning tower]] and turrets were protected by 92 millimeters of armor.&lt;ref name=f3/&gt;
+
+==Construction and career==
+''Amiral Charner'', named after Admiral [[Léonard Charner]],&lt;ref&gt;Silverstone, p. 88&lt;/ref&gt; was [[keel laying|laid down]] at the [[Arsenal de Rochefort]] with the name of ''Charner'' on 15 June 1889. She was [[Ship naming and launching|launched]] on 18 March 1893 and renamed ''Amiral Charner'' on 25 March 1895 before she was [[Ship commissioning|commissioned]] on 26 August. The ship was initially assigned to the 2nd Light Division of the [[Mediterranean Squadron (France)|Mediterranean Squadron]] before she was briefly detached for service in the Eastern Mediterranean.&lt;ref&gt;Feron, pp. 17–18&lt;/ref&gt;
+
+On 6 January 1896, ''Amiral Charner'' became the flagship of the Higher Naval War College (''École supérieure de guerre de la marine''), commanding her [[sister ship]] {{ship|French cruiser|Latouche-Tréville||2}} and the [[protected cruiser]] {{ship|French cruiser|Suchet||2}}.&lt;ref name=f18&gt;Feron, p. 18&lt;/ref&gt; The mission of the school was to prepare officers for command at sea and for service on staffs.&lt;ref&gt;Naval and Military Notes, pp. 75–76&lt;/ref&gt; Ten months later, she was reassigned back to the active fleet on 20 October. The ship was sent to Crete on 10 February 1897 as part of the French contingent of the International Squadron deployed there during the Greco-Turkish War to protect Western interests and citizens and remained with the squadron until November 1898. ''Amiral Charner'' was reassigned to the college on 1 January 1899 together with the protected cruisers {{ship|French cruiser|Friant||2}} and {{ship|French cruiser|Davout||2}}. She was detached to the Northern Squadron (''Escadre du Nord''), based at [[Brest, France|Brest]], for the first half of the year before returning to Toulon in late June. Three months later, the ship returned to Brest and was temporarily placed in reserve.&lt;ref name=f18/&gt;
+
+In January 1900 she was ordered to [[Rochefort, Charente-Maritime|Rochefort]] for repairs to her steam-piping&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Tuesday |date=23 January 1900 |page_number=12 |issue=36046|}}&lt;/ref&gt; in preparation for her upcoming deployment to the Far East. ''Amiral Charner'' departed Brest on 26 June and arrived in [[Saigon]], [[French Indochina]], on 1 August. She supported [[Eight-Nation Alliance|Allied]] forces during the later stages of the Boxer Rebellion in mid-1901 before returning to Toulon on 8 November. After a brief refit, the ship was assigned to the 3rd Armored Division on 24 January 1902.&lt;ref name=f89&gt;Feron, pp. 18–19&lt;/ref&gt; During the annual naval maneuvers in July–August 1902, ''Amiral Charner'' simulated defending against a force breaking into the Mediterranean from the Atlantic, attacked the fortifications at [[Bizerte]], [[French North Africa]], and [[blockade]]d hostile ports.&lt;ref&gt;French Naval Manoeuvres&lt;/ref&gt; She was placed in reserve in Toulon on 15 January 1903 and later assigned to the gunnery school there until the middle of 1910. ''Amiral Charner'' became the guardship at [[Souda Bay]], Crete on 13 May until relieved by her sister {{ship|French cruiser|Bruix||2}} in July 1912 and was then refitted before being placed in reserve at [[Bizerta]], Tunisia.&lt;ref name=f89/&gt;
+
+When World War I began in August 1914, she was recommissioned and assigned to escort convoys between Morocco and France together with ''Latouche-Tréville'' and ''Bruix''. In November she was assigned to the 3rd Division of the 3rd Squadron based at Port Said, Egypt where she bombarded Ottoman positions on the Syrian coast several times. ''Amiral Charner'' [[Ship grounding|ran aground]] under enemy fire off [[Dedeagatch]], Bulgaria on 3 March 1915 and had to be pulled off by the small Italian [[cargo liner]] {{SS|Bosnia|1898|6}}.&lt;ref name=f19/&gt; Together with the [[predreadnought battleship]] {{ship|French battleship|Jauréguiberry||2}} and the protected cruiser {{ship|French cruiser|Destrées||2}}, she was assigned to blockade the coast between [[Tripoli, Lebanon]] and [[El Arish]], Egypt in late August. On 11–12 September, the ship participated in the rescue of 3,000 [[Armenians]] north of the [[Orontes River]] Delta from pursuing Ottoman troops. The ship supported the occupation of the island of [[Kastelorizo]] on 28 December, along with the armored cruiser {{Ship|French cruiser|Jeanne d'Arc|1899|2}}.&lt;ref name=f19&gt;Feron, p. 19&lt;/ref&gt;
+
+Sailing from [[Ruad Island]], Syria to [[Port Said]], Egypt, ''Amiral Charner'' was torpedoed by the German submarine {{SMU|U-21|Germany|2}} on the morning of 8 February 1916. She sank in only two minutes with the loss of nearly the entire crew. Some 427 men were lost,&lt;ref&gt;Sondhaus, p. 181&lt;/ref&gt; with only a single survivor rescued five days later.&lt;ref name=f19/&gt;
+
+== Notes ==
+{{Reflist|30em}}
+
+==Bibliography==
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{cite book|last=Feron|first=Luc|chapter=The Armoured Cruisers of the ''Amiral Charner'' Class|editor=Jordan, John|publisher=Conway|location=London|year=2014|title=Warship 2014|isbn=978-1-84486-236-8}}
+*{{cite journal|date=November 1902|title=French Naval Manoeuvres of 1902|journal=Journal of the Royal United Services Institute|publisher=Royal United Services Institute|volume=46|issue=297|pages=1436–56|url=https://books.google.com/books?id=RgEOAAAAYAAJ&amp;pg=PA1605&amp;dq=cruiser+amiral+charner}} 
+*{{cite journal|date=January 1896|title=Naval and Military Notes|journal=Journal of the Royal United Services Institute|publisher=Royal United Services Institute|volume=XL|issue=215|pages=69–91|url=https://books.google.com/books?id=IhImAQAAIAAJ&amp;pg=PA189&amp;dq=cruiser+amiral+charner}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book|last=Sondhaus|first=Lawrence|title=The Great War at Sea: A Naval History of the First World War|year=2014|publisher=Cambridge University Press|location=Cambridge|isbn=978-1-107-03690-1}}
+
+{{Amiral Charner-class cruiser}}
+{{February 1916 shipwrecks}}
+{{coord|33|21|N|34|54|E|region:TK_type:landmark_source:kolossus-dewiki|display=title}}
+
+{{DEFAULTSORT:Amiral Charner}}
+[[Category:Amiral Charner-class cruisers]]
+[[Category:Cruisers of the French Navy]]
+[[Category:Ships built in France]]
+[[Category:1893 ships]]
+[[Category:World War I cruisers of France]]
+[[Category:Maritime incidents in 1916]]
+[[Category:Ships sunk by Austro-Hungarian submarines]]
+[[Category:World War I shipwrecks in the Mediterranean]]</text>
+      <sha1>ddglhalgqdq3v6tkdzf9icnlx9hkequ</sha1>
+    </revision>
+  </page>
+</mediawiki>

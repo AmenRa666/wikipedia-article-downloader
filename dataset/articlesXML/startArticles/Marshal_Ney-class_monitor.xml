@@ -1,0 +1,177 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Marshal Ney-class monitor</title>
+    <ns>0</ns>
+    <id>3589590</id>
+    <revision>
+      <id>737412848</id>
+      <parentid>692664867</parentid>
+      <timestamp>2016-09-02T16:24:50Z</timestamp>
+      <contributor>
+        <username>Clpo13</username>
+        <id>469625</id>
+      </contributor>
+      <minor/>
+      <comment>fixed [[MOS:DASH|dashes]] using a [[User:GregU/dashes.js|script]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5086">{{ref improve|date=February 2013}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:HMSMarshalNey.jpg|300px]] 
+|Ship caption=''Marshal Ney'' with guns trained to starboard
+}}
+{{Infobox ship class overview
+|Name=''Marshal Ney''
+|Builders=[[Palmers Shipbuilding and Iron Company]]
+|Operators={{navy|UK}}
+|Class before=
+|Class after=
+|Subclasses=
+|Cost=
+|Built range=
+|In service range= 1915–1957
+|In commission range=1915  
+|Total ships building= 
+|Total ships planned=
+|Total ships completed=2
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref&gt;Conway, ''All The World's Fighting Ships 1906–1921''&lt;/ref&gt;
+|Ship class=
+|Ship type=[[Monitor (warship)|Monitor]]
+|Ship tonnage=
+|Ship displacement=*6,670 tons (Standard)
+*6,900 tons (Full load)
+|Ship tons burthen=
+|Ship length={{convert|355|ft|m|abbr=on}} 
+|Ship beam={{convert|90|ft|m|abbr=on}} 
+|Ship height=
+|Ship draught={{convert|10|ft|5|in|m|abbr=on}} 
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=Diesel engines (MAN for ''Ney'', [[Vickers]] for ''Soult''), 2 shafts, 1,500 hp
+|Ship sail plan=
+|Ship speed=*9 [[knot (unit)|knots]] (17 km/h) designed
+*6 knots (11 km/h) best actual
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=187
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*2 × [[BL 15 inch /42 naval gun|15-inch main guns]] in a single turret
+*8 × 4-inch guns
+*2 × single mount [[QF 3 inch 20 cwt|3 inch (76 mm) guns]]
+*2 × [[12-pounder gun]]s
+|Ship armour=*Turret: 13 inch
+*Barbette: 8 inch
+*Belt: 4 inch
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The '''''Marshal Ney''''' was a class of [[Monitor (warship)|monitor]] built for the [[Royal Navy]] during the [[World War I|First World War]].
+
+==Design and development==
+The need for monitors for shelling enemy positions from the [[English Channel]] had become apparent only at the start of the war and they were designed with some haste. The design of monitors had been given by the [[Director of Naval Construction]], [[Sir Eustace Tennyson d'Eyncourt, 1st Baronet|Eustace Tennyson d'Eyncourt]], to the Assistant Constructor, [[Charles S. Lillicrap]] (later himself to become Director). By the time the ''Marshal Ney''s came about some 33 monitors of various sorts had already been ordered. The redesign of the battlecruisers {{HMS|Renown|1916|2}} and {{HMS|Repulse|1916|2}} meant that there were now two modern 15-inch turrets available. The [[First Sea Lord]] [[John Fisher, 1st Baron Fisher|Jackie Fisher]] and [[Winston Churchill]], [[First Lord of the Admiralty]] decided these should be used for two more monitors, initially ''M 13'' and ''M 14'', but then renamed after the French [[Napoleonic War]] [[Marshal of France|marshal]]s [[Nicolas Jean de Dieu Soult]] and [[Michel Ney]].
+
+For machinery the two monitors received [[diesel engine]]s, which were then a novelty – the majority of ships being steam powered. The use of diesels meant that they had no need of boiler rooms which went well with a low draught, nor of large funnels which reduced the amount of superstructure. These engines were originally designed for much smaller freighters and therefore they proved particularly slow and unreliable. 
+
+The turret was on multi-sided [[barbette]] made of individual flat plates, cutting down on the build time. The {{convert|4|in|mm|0|adj=on}} guns were disposed along her sides for protection from smaller vessels, the {{convert|3|in|mm|0|adj=on}} guns being for anti-aircraft use.
+
+==Ships==
+
+* [[HMS Marshal Soult|''Marshal Soult'']]
+:Built by [[Palmers Shipbuilding and Iron Company Limited|Palmers]], Newcastle
+:Launched June 1915
+:Completed August 1915
+:Served with the Dover Monitor Squadron, after the war became a gunnery training ship. At the start of World War II she was considered for recommissioning but instead her turret was removed for a new monitor, [[HMS Abercrombie (F109)|''Abercrombie'']] and she became a headquarters ship. She was paid off and scrapped in 1946
+* [[HMS Marshal Ney|''Marshal Ney'']]
+:Built by [[Palmers Shipbuilding and Iron Company Limited|Palmers]], Newcastle
+:Launched August 1915
+:Completed November 1915
+:After trials the turret was removed for [[HMS Erebus (I02)|''Erebus'']] and she was regunned with 6- and {{convert|4|in|mm|0|sing=on}} guns and acted as a guardship until the end of the war. She later acted as a depot ship gaining onshore buildings, and was renamed ''Alaunia II'' and was only finally scrapped in 1957
+
+[[Image:HMSMarshalNeyUnderwayPortsideView1915.jpg|thumb|right|''Marshal Ney'' underway August 26 1915]]
+==See also==
+{{Commonscat-inline}}
+
+==Notes and references==
+{{reflist}}
+
+{{Marshal Ney class monitor}}
+{{WWIBritishShips}}
+
+
+[[Category:Monitor classes]]
+[[Category:Marshal Ney-class monitors| ]]</text>
+      <sha1>3na9smjnlxyttiu3tyevak2zqjseqp1</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,139 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:World War II ship camouflage measures of the United States Navy</title>
+    <ns>1</ns>
+    <id>37814569</id>
+    <revision>
+      <id>660729835</id>
+      <parentid>574498925</parentid>
+      <timestamp>2015-05-04T08:20:48Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>clean up using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8397">{{WPMILHIST
+|class=C
+&lt;!-- B-Class 5-criteria checklist --&gt;
+| B1 &lt;!-- Referencing and citations --&gt; = n
+| B2 &lt;!-- Coverage and accuracy --&gt; = n
+| B3 &lt;!-- Structure --&gt; = y
+| B4 &lt;!-- Grammar and style --&gt; = y
+| B5 &lt;!-- Supporting materials --&gt; = y
+|Maritime=y
+|SciTech=yes
+|US=yes
+|WWII=yes
+}}
+{{WikiProject Ships|class=start|B1=n|B2=n|B3=y|B4=y|B5=y}}
+
+
+==More articles==
+someone in the know should make a
+[[Royal Navy Second World War Camouflage Patterns]]
+and a
+[[Kriegsmarine Camouflage Patterns]]  &lt;small&gt;&lt;span class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[User:Fdsdh1|Fdsdh1]] ([[User talk:Fdsdh1|talk]] • [[Special:Contributions/Fdsdh1|contribs]]) 15:33, 11 December 2012 (UTC)&lt;/span&gt;&lt;/small&gt;&lt;!-- Template:Unsigned --&gt; &lt;!--Autosigned by SineBot--&gt;
+:I encourage the effort, but such articles might be formatted differently than this one.  The United States Navy focused official attention on camouflage five years earlier than the Royal Navy; and the Royal Navy's camouflage schemes appear to have been less standardized and heavily influenced by local availability of resources.  In some cases, the individuality of camouflage schemes might be best covered in the individual ship articles.  Navies with fewer ships had less reason for standardized camouflage measures; and might similarly be covered in individual ship articles or in the general [[ship camouflage]] article.[[User:Thewellman|Thewellman]] ([[User talk:Thewellman|talk]]) 22:33, 11 December 2012 (UTC)
+
+==A technicality on paint==
+
+What is the difference between &quot;Bureau of Yards and Docks paint&quot; and &quot;Premixed&quot;?  Perhaps it should be explained in a note just above the table of paints. After all, readers may observe that both mean the paint arrives ready-mixed. [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 18:07, 12 April 2013 (UTC)
+
+==Multiple images for a single Measure==
+
+Oh dear, we'd just reached agreement to remove the multiple images. There are several points to consider on both sides of this.
+
+For multiple images per Measure:
+# it's nice to see different ships of course.
+# there are sub-measures. --- this could be handled by having a row of table per sub-measure.
+# different ships wear a Measure differently. If this is intentional then we need to source it. At the moment the article says of some Measures that shapes of patches were not specified, so in those cases showing variety might be helpful (or not).
+# Measures might be designed to make ships of type A resemble ships of type B, in which case we should have 2 columns, say with the mimic (imitator) on left, and model (the imitated) on right, and captions to explain what is happening and why, with cited source.
+# Measures might be designed to make ships of types A and B both resemble ships of type C; in which case again we need (at least) 2 columns, explanatory captions, and cited source(s).
+
+For single image per Measure:
+# it makes for a clean and simple story: one Measure, one example.
+# it avoids leaving large chunks of whitespace in the table.
+# if multiple images are there just because we like different ships then that's not sufficient reason.
+
+The current situation is basically not very satisfactory, either in terms of visual layout or of explanation. The formatting is starting to look a mess; but obviously the need to communicate the story of the ships is key, so we should be willing to change the format and redesign tables if need be. This is quite tricky as we don't want to duplicate descriptions; equally, we don't want to introduce ([[WP:OR]]) uncited claims by implying things through multiple images (such as &quot;this was designed to make different classes of ship look the same&quot;: that certainly needs a source.
+
+Well, there's the problem: solutions, anyone? -- [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 06:45, 14 April 2013 (UTC)
+:The subject of Measure 32 patterns identifying specific classes of ships is sourced by Sumrall; although it may have been separated from that citation in subsequent edits. The two images of USS ''Duluth'' and USS ''Saratoga'' are uniquely useful in this regard, as it is unusual to find photos from exactly the same perspective. A number of potential solutions come to mind:
+::A) We might reconsider the single image per measure limitation where the measures involved variations.
+::B) We might utilize [[Template:triple image]] comparisons to illustrate the similarities or differences within the table.
+::C) We might utilize [[Template:triple image]] comparisons to illustrate the similarities or differences within the introductory paragraph.
+::D) We might expand the table of 30-series measures into numerical design entries.
+::E) We might break out the 30-series measures (or some larger subset) into a separate article with a ''see main article'' note if this article would be inappropriately large with individual design coverage.
+::F) We might break out the color palettes into a separate article with a ''see main article'' note if expansion of the measures tables would make this article unacceptably large.
+:I'm flexible about this, but I don't consider formatting issues an appropriate reason to omit a significant element of the subject.[[User:Thewellman|Thewellman]] ([[User talk:Thewellman|talk]]) 18:50, 14 April 2013 (UTC)
+
+:: There is such a vast range of 31-32-33 patterns that they really need their own article; it would overwhelm this one to give more than a taste.  OTOH, I do see that 'triple image' might be a good way to give three representative examples of the nonstandardized MS-12 Mod. Unfortunately, color images of 12-mod are scarce, and the one of Alabama (a very atypical striped scheme) the only one I know of that shows the pattern clearly.
+
+:: Yes, I did like the comparison-shots of Saratoga and Duluth.  Perhaps there is a way to format them other than the vertical arrangement which hugely increases white space? 
+
+:: Paras 4 &amp; 5 above: to my knowledge, 'mimic' Measures 6-7-8 were never actually used on any ship.
+--[[User:Solicitr|Solicitr]] ([[User talk:Solicitr|talk]]) 19:16, 14 April 2013 (UTC)
+
+::: Well, why not try a [[Template:triple image]] (or maybe just a double image) in the central text field for Measure 32 and see if it works? (That would leave space in the right hand column for another one, even; btw I doubt having images side-by-side in the right hand column will work.) And then write a separate article on it, if need be... Seems we're all happy with that.
+
+::: I thought Measures 6 and 8 were mimics? Sounds from the text as if 8 was at least briefly in use. Pity, it sounds like one of the few cases where there was unequivocal evidence of ship camouflage's effectiveness... (I do wonder with mil cam on land, sea, and air - seems about 90% of it is just for show, no?).  [[User:Chiswick Chap|Chiswick Chap]] ([[User talk:Chiswick Chap|talk]]) 19:32, 14 April 2013 (UTC)
+
+::::Certainly the USN's stupid new &quot;Aquaflage&quot; or &quot;Battle Dress Oceanic&quot; uniforms are all rather pointless show! (In practice, naturally, fleet sailors just wear practical blue coveralls as before).
+
+:::: I'll have to look for evidence of the use of Measures 6-8.  Remember, most of the Pacific Fleet only got around to repainting in even the simple January 41 measures in the fall, right before they were all abolished! BuShips made the mistake of promulgating Ships-2 before production of the new paints had even begun, and it turned into a bureaucratic/logistic clusterfark. In August Pacific battleships submitted paint requisitions to Mare Island, only to be informed (by boat-mail, and thus weeks later) that those paints had been discontinued, and please submit new requisitions for the new paints for Measures that hadn't yet been announced. [[User:Solicitr|Solicitr]] ([[User talk:Solicitr|talk]]) 20:31, 15 April 2013 (UTC)
+
+:::::OK, a bit of progress- according to Raven, the cruiser Minneapolis wore Measure 8 briefly-- not in 1941, but in 1943! I'll keep digging. [[User:Solicitr|Solicitr]] ([[User talk:Solicitr|talk]]) 20:56, 15 April 2013 (UTC)
+
+== Excellent work on this ==
+
+This should be a [[WP:GA|GA]] and beyond! &lt;span style=&quot;color:red; font-size: smaller; font-weight: bold;&quot;&gt;§[[User:FreeRangeFrog|&lt;span style=&quot;color:#00CA00&quot;&gt;FreeRangeFrog&lt;/span&gt;]]&lt;/span&gt;&lt;sup&gt;[[User talk:FreeRangeFrog|croak]]&lt;/sup&gt; 18:58, 25 September 2013 (UTC)</text>
+      <sha1>nwosjkpmktg0h0dr9vjvjg7tra5up7l</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,77 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:HMS Euryalus (1901)</title>
+    <ns>1</ns>
+    <id>14447989</id>
+    <revision>
+      <id>606683527</id>
+      <parentid>600024357</parentid>
+      <timestamp>2014-05-01T21:13:15Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>BOT: Adding |oldid=599159317 to {{[[Template:GA|GA]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1676">{{GA|17:14, 11 March 2014 (UTC)|topic=Warfare|page=1|oldid=599159317}}
+{{talkheader}}
+{{WikiProject Ships|class=GA|B1=yes|B2=yes|B3=yes|B4=yes|B5=yes}}
+{{WPMILHIST|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=y|British=y|WWI=y}}
+{{dyktalk|17 March|2014|entry= ... that the completion of the [[armoured cruiser]] '''[[HMS Euryalus (1901)|HMS ''Euryalus'']]''' was severely delayed by multiple accidents including a fire, slipping off her blocks in [[drydock]], and colliding with another vessel?}}
+
+The section &quot;Live Bait Squadron&quot; describes an engagement, and gives the day and the month when it took place, but not the year!  &lt;span style=&quot;font-size: smaller;&quot; class=&quot;autosigned&quot;&gt;— Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/92.24.45.86|92.24.45.86]] ([[User talk:92.24.45.86|talk]]) 17:32, 18 February 2012 (UTC)&lt;/span&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+==Comment==
+Last sentence of paragraph 1 under Construction and service needs a citation. In the same section, the sentence that starts, &quot;A month later Wemyss...&quot; may be missing a word. It's interesting how the UK got some useful service out of an obsolete ship that was almost written off before the war began. B2=yes. [[User:Djmaschek|Djmaschek]] ([[User talk:Djmaschek|talk]]) 02:41, 23 February 2014 (UTC)
+:I've added the missing cite. The RN had a need for a lot of cruisers for convoy escort and other second-line duties that didn't require modern ships. If the Cressy-class ships had been in the German Navy, they'd have been relegated to harbor duties by 1916 as they just weren't fast enough for a fleet action.
+
+{{Talk:HMS Euryalus (1901)/GA1}}</text>
+      <sha1>cv31ifym0jhbvq6o3qi9vc9mqq6g7k9</sha1>
+    </revision>
+  </page>
+</mediawiki>

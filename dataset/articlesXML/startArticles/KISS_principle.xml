@@ -1,0 +1,142 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>KISS principle</title>
+    <ns>0</ns>
+    <id>17176</id>
+    <revision>
+      <id>748725969</id>
+      <parentid>745161219</parentid>
+      <timestamp>2016-11-10T00:16:28Z</timestamp>
+      <contributor>
+        <username>GenQuest</username>
+        <id>8240947</id>
+      </contributor>
+      <comment>Reduce SA [[wp:linkfarm|link farm]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6216">{{redirect|K-I-S-S||Kiss (disambiguation)}}
+
+'''KISS''' is an [[Acronym and initialism|acronym]] for &quot;'''Keep it simple, stupid'''&quot; as a design principle noted by the [[U.S. Navy]] in 1960.&lt;ref name=TDal/&gt;&lt;ref name=EPar/&gt; The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore [[simplicity]] should be a key goal in [[design]] and unnecessary complexity should be avoided. The phrase has been associated with aircraft engineer [[Kelly Johnson (engineer)|Kelly Johnson]] (1910&amp;ndash;1990).&lt;ref name=BRich/&gt; The term &quot;KISS principle&quot; was in popular use by 1970.&lt;ref name=Pit/&gt; Variations on the phrase include &quot;Keep it Simple, Silly&quot;, &quot;keep it short and simple&quot;, &quot;keep it simple and straightforward&quot;&lt;ref name=&quot;monash&quot;&gt;{{cite web | url=https://business.monash.edu/marketing/marketing-dictionary/k |title=Kiss principle definition by MONASH Marketing Dictionary| date=1994-11-18 | accessdate=2016-01-24}}&lt;/ref&gt; and &quot;keep it small and simple&quot;.&lt;ref&gt;{{cite web | url=http://people.apache.org/~fhanik/kiss.html| title=Kiss Principle}}&lt;/ref&gt;
+
+==Origin==
+The acronym was reportedly coined by [[Kelly Johnson (engineer)|Kelly Johnson]], lead engineer at the [[Lockheed Martin|Lockheed]] [[Skunk Works]] (creators of the [[Lockheed U-2]] and [[SR-71 Blackbird]] spy planes, among many others).&lt;ref name=BRich/&gt;
+
+While popular usage has transcribed it for decades as &quot;Keep it simple, stupid&quot;, Johnson transcribed it as &quot;Keep it simple stupid&quot; (no comma), and this reading is still used by many authors.&lt;ref name=misra&gt;Ram B. Misra (2004), &quot;Global IT Outsourcing: Metrics for Success of All Parties&quot;, ''Journal of Information Technology Cases and Applications'', volume 6 issue 3, page 21. [http://web.njit.edu/~jerry/Outsourcing/out-JITCA-6-3-2004-2.pdf Online version]. Retrieved 2009-12-19.&lt;/ref&gt; There was no implicit meaning that an engineer was stupid; just the opposite.&lt;ref name=BRich/&gt;
+
+The principle is best exemplified by the story of Johnson handing a team of design engineers a handful of tools, with the challenge that the jet aircraft they were designing must be repairable by an average mechanic in the field under combat conditions with only these tools. Hence, the &quot;stupid&quot; refers to the relationship between the way things break and the sophistication available to repair them.
+
+The acronym has been used by many in the [[List of military slang terms|U.S. military]], especially the [[List of U.S. Navy acronyms and expressions|U.S. Navy]] and [[United States Air Force]], and the field of [[software developer|software development]].
+
+==Variants==
+The principle most likely finds its origins in similar [[Minimalism|minimalist]] concepts, such as [[Occam's razor]], [[Leonardo da Vinci]]'s &quot;Simplicity is the ultimate sophistication&quot;, [[Mies Van Der Rohe]]'s &quot;[[Less is more (architecture)|Less is more]]&quot;, [[Bjarne Stroustrup]]'s &quot;Make Simple Tasks Simple!&quot;, or [[Antoine de Saint Exupéry]]'s &quot;It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away&quot;. [[Colin Chapman]], the founder of [[Lotus Cars]], urged his designers to &quot;Simplify, then add lightness&quot;. [[Heath Robinson]] machines and [[Rube Goldberg machine|Rube Goldberg's machines]], intentionally overly-complex solutions to simple tasks or problems, are humorous examples of &quot;non-KISS&quot; solutions.
+
+An alternative view — &quot;Make everything as simple as possible, but not simpler&quot; — is attributed to [[Albert Einstein]], although this may be an editor's paraphrase of a lecture he gave.&lt;ref&gt;{{cite web|url=http://quoteinvestigator.com/2011/05/13/einstein-simple/#more-2363|title=Everything Should Be Made as Simple as Possible, But Not Simpler|publisher=Quote Investigator}}&lt;/ref&gt;
+
+A variant used in marketing is &quot;keep it simple and straightforward&quot;.&lt;ref name=&quot;monash&quot;/&gt;
+
+==In film animation==
+Master animator [[Richard Williams (animator)|Richard Williams]] explains the KISS principle in his book ''[[The Animator's Survival Kit]]'', and [[Disney's Nine Old Men]] write about it in ''[[Disney Animation: The Illusion of Life]]'', a considerable work of the genre. The problem faced is that inexperienced animators may &quot;over-animate&quot; in their works, that is, a character may move too much and do too much.  Williams urges animators to &quot;KISS&quot;.
+
+==In software development==
+* [[Chartjunk]]
+* [[Don't repeat yourself]] (DRY)
+* [[List of software development philosophies]]
+* [[Minimalism (computing)]]
+* [[Reduced instruction set computing]]
+* [[Rule of least power]]
+* [[There's more than one way to do it]]
+* [[Unix philosophy]]
+* [[Worse is better]] (Less is more)
+* [[You aren't gonna need it]] (YAGNI)
+
+==See also==
+*[[Muntzing]]
+*[[Sturgeon's law]]
+*[[The Fox and the Cat (fable)]]
+*[[W. Heath Robinson]]
+
+==References==
+{{FOLDOC}}
+{{Reflist|2|refs=
+&lt;ref name=&quot;BRich&quot;&gt;
+   [http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/johnson-clarence.pdf ''Clarence Leonard (Kelly) Johnson 1910—1990: A Biographical Memoir''] (PDF),
+   by Ben R. Rich, 1995, National Academies Press,
+   Washington, DC, p. 13.
+&lt;/ref&gt;
+&lt;ref name=&quot;TDal&quot;&gt;
+   ''The Routledge Dictionary of Modern American Slang and Unconventional English'',
+   Tom Dalzell, 2009, 1104 pages, p.595, webpage:
+   [https://books.google.com/books?id=5F-YNZRv-VMC&amp;pg=PA595 BGoogle-5F]:
+   notes U.S. Navy &quot;Project KISS&quot; of 1960, headed by [[Rear Admiral]]
+   Paul D. Stroop, ''[[Chicago Daily Tribune]]'', p.43, 4 December 1960.
+&lt;/ref&gt;
+&lt;ref name=&quot;EPar&quot;&gt;
+   ''The Concise New Partridge Dictionary of Slang'', Eric Partridge,
+   Tom Dalzell, Terry Victor, Psychology Press, 2007, p.384.
+&lt;/ref&gt;
+&lt;ref name=&quot;Pit&quot;&gt;
+   ''Pit &amp; Quarry'', Vol. 63, July 1970, p.172, quote: &quot;as in every
+   other step of the development process, follow the KISS
+   principle — Keep It Simple, Stupid.&quot;
+&lt;/ref&gt;
+}}
+
+==External links==
+* [http://people.apache.org/~fhanik/kiss.html Kiss Principle]
+* [http://www.softwaretree.com/v1/KISSPrinciples.html The KISS Principles for ORM Products]
+
+{{Engineering approaches}}
+{{Design}}
+
+[[Category:Adages]]
+[[Category:Software development philosophies]]
+[[Category:Programming principles]]
+[[Category:Simple living]]
+[[Category:Design]]</text>
+      <sha1>r7gky9ypjanlex9xplhaod30u6wa4h6</sha1>
+    </revision>
+  </page>
+</mediawiki>

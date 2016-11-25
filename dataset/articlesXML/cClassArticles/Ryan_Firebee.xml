@@ -1,0 +1,279 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ryan Firebee</title>
+    <ns>0</ns>
+    <id>6232083</id>
+    <revision>
+      <id>746719802</id>
+      <parentid>745946067</parentid>
+      <timestamp>2016-10-29T03:29:11Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Q-2/KDA-1 Firebee */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16545">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+  |name= Firebee
+  |image= File:Teledyne-Ryan-Firebee-hatzerim-1.jpg
+  |caption=
+}}{{Infobox Aircraft Type
+  |type=[[Unmanned aerial vehicle]]
+  |manufacturer=[[Ryan Aeronautical]]
+  |designer=
+  |first flight=1955
+  |introduced=
+  |retired=
+  |status=
+  |primary user=[[United States Air Force]]
+  |more users= [[Turkish Armed Forces]]&lt;ref&gt;http://www.globalsecurity.org/military/world/europe/tu-army-equipment.htm&lt;/ref&gt;
+  |produced=
+  |number built=
+  |unit cost=Unknown
+  |variants with their own articles=[[Ryan Model 147 Lightning Bug]]
+}}
+|}
+
+The '''Ryan Firebee''' was a series of [[target drone]]s developed by the [[Ryan Aeronautical Company]] beginning in 1951. It was one of the first jet-propelled drones, and one of the most widely used target drones ever built.
+
+==Development==
+
+===Ryan Firebee I===
+
+====Q-2/KDA-1 Firebee====
+The Firebee I was the result of a 1948 [[US Air Force]] request and contract to Ryan for a jet-powered gunnery target. The first flight of the '''XQ-2 Firebee''' prototype took place in early 1951. The drone featured swept flight surfaces and a circular nose inlet. The initial models had distinctive &quot;arrowhead&quot; shaped endplates on the tailplane. The Firebee could be air-launched, specially modified [[Douglas A-26 Invader]] bombers being first used for this, or ground-launched with a single [[RATO]] booster.&lt;ref&gt;[https://books.google.com/books?id=Zt4DAAAAMBAJ&amp;pg=PA105&amp;dq=1954+Popular+Mechanics+January&amp;hl=en&amp;sa=X&amp;ei=twghT4yjN4_tggfElaX9CA&amp;ved=0CEAQ6AEwBA#v=onepage&amp;q=1954%20Popular%20Mechanics%20January&amp;f=true &quot;Bright Colored Fish Flies High Over New Mexico Sands.&quot;] ''Popular Mechanics'', August 1954, p. 105.&lt;/ref&gt;
+
+Following successful evaluation, the target was ordered into production for the USAF as the '''Q-2A''', powered by a [[Teledyne CAE J69|Continental J69-T-19B]] turbojet engine, with {{convert|1060|lb-f|kN|lk=on}} of thrust. The Air Force then obtained small numbers of a '''Q-2B''' with a more powerful engine for high-altitude performance.
+
+The [[US Navy]] bought the Firebee as the '''KDA-1''', with much the same appearance as the Q-2A, differing mainly in that the powerplant was a [[Fairchild J44|Fairchild J44-R-20B]] turbojet, with {{convert|1000|lb-f|kN|abbr=on}} thrust. The KDA-1 could be distinguished from the Q-2A from the fact that the KDA-1 had an inlet centerbody. The [[US Army]] also obtained a version designated the '''XM21''' that differed from the KDA-1 only in minor details.
+
+The Navy obtained several improved variants of the KDA-1, including the '''XKDA-2''' and '''XKDA-3''', which were not built in quantity, and the '''KDA-4''', which was the main production version for the series. These variants were hard to distinguish from the KDA-1, differing mainly in successively uprated J44 engines and minor changes.
+
+====Model 124/BQM-34A====
+In the late 1950s, the USAF awarded Ryan a contract for a substantially improved &quot;second generation&quot; Firebee, the '''Model 124''', originally with the designation '''Q-2C'''. The initial prototype performed its first flight in late 1958 and went into production in 1960. In 1963, it was redesignated the '''BQM-34A'''.
+
+The old first-generation KDA-1 and KDA-4 targets that were still flying with the Navy were then, somewhat confusingly, given the designations '''AQM-34B''' and '''AQM-34C''' respectively.
+
+The BQM-34A emerged as the Firebee as it is recognized today, with a bigger airframe, longer wings, and in particular a &quot;chin&quot;-type inlet under a pointed nose, in contrast to the circular intake of the first-generation Firebees. It was powered by a Continental J69-T-29A turbojet, a copy of the improved Turbomeca Gourdon derivative of the Marbore, with {{convert|1700|lb-f|kN|abbr=on}} thrust. The Navy also adopted the BQM-34A, while the Army obtained a ground-launched version designated '''MQM-34D''', with longer wings and a heavier JATO booster.
+
+One of the puzzling features of the second-generation Firebee is that some photos show it to have triangular endplates on the tailplane, while others show no end plates but feature a ventral fin under the tail, and still others have neither endplates nor ventral fin. Since most modern pictures of Firebees show the ventral fin, this may have been due to production changes of some sort. Sources are not clear on the issue.
+
+In 1960, the first [[stealth technology]] development program was initiated by USAF, by reducing the [[radar cross-section]] of a Q-2C drone. This was achieved through specially designed screens over the air intake, [[radar-absorbent material]] on the fuselage and a special radar-absorbing paint.&lt;ref&gt;{{cite web |url=http://www.pbs.org/wgbh/nova/spiesfly/uavs_09.html |title=1960s AQM-34 Ryan Firebee (USA)|author=&lt;!--Staff writer(s); no by-line.--&gt; |date= |website=pbs |publisher= |accessdate=14 January 2015}}&lt;/ref&gt;
+
+During the 1970s, the Army updated some of their MQM-34Ds for use as targets for &quot;Stinger&quot; man-portable SAMs, refitting these drones with a General Electric J85-GE-7 turbojet, with {{convert|10.9|kN|lb-f|abbr=on}} thrust and salvaged from old [[ADM-20C Quail]] decoys. The modified MQM-34Ds featured a revised forward fuselage with a circular nose intake that gave them an appearance similar to that of a &quot;stretched&quot; first-generation Q-2A target, and were given the designation of MQM-34D Mod II.
+
+In the meantime, the Navy upgraded their BQM-34As with improved avionics, which were then designated '''BQM-34S'''. In the early 1980s, the Navy also began to refit these with the uprated J69-T-41A engine, providing {{convert|1920|lb-f|kN|abbr=on}} thrust. The Air Force began to update their BQM-34As with improved avionics, and fitted them with the J85-GE-7 engine. The new engine was fitted without major changes in the target's airframe, and the improved USAF variants retained the BQM-34A designation.
+
+BQM-34A production ended in 1982, but the production line was reopened in 1986 to produce more BQM-34S targets. Air Force and Navy Firebees have received further upgrades since that time, with most refitted beginning in 1989 with the improved J85-GE-100 engine, also with {{convert|2450|lb-f|kN|abbr=on}} thrust, as well as modernized avionics. In the late 1990s, some Firebees were also fitted with a [[GPS]] navigation receivers.
+
+[[File:DC-130 mounted Firebees DN-SC-85-06043.jpg|right|thumb|[[Lockheed DC-130]] drone control aircraft carrying two BQM-34S Firebee target drones under its wing]]
+The Firebee's main air launch platform is the Lockheed DC-130 Hercules drone controller aircraft, which can carry four drones on underwing pylons. The Firebee is generally snatched out of the air by a helicopter that sweeps up the drone's parachute, simplifying recovery and reducing damage to the target from ground impact. The Firebee can float for an extended period of time if it ditches in water.
+
+The target drone can be fitted with various control systems, some that give it fighter-like maneuverability. It is also equipped with scoring and countermeasures systems, radar enhancement devices to allow it to emulate a wide range of combat aircraft and wingtip thermal flares, which cause heat-seeking missiles to aim for the wingtips rather than the engine exhaust, sparing the target. It can also tow a target sleeve or other types of towed targets.
+
+The Firebee has proven remarkably successful and is still in operation with the US Navy and Air Force. The Firebee has also served with the Canadian Armed Forces and the Japanese Self-Defense Forces, with Japanese Firebees built by Fuji Heavy Industries. A small number were also supplied to NATO programs. More than 7,000 Firebees have been built, with 1,280 of them being the first generation variants.
+
+===Ryan Firebee II===
+[[File:Teledyne-Ryan-Firebee-II-hatzerim-1.jpg|right|thumb|The '''Teledyne Ryan Firebee''' UAV (reconnaissance variant, IDF designation Mabat) at [[Muzeyon Heyl ha-Avir]], [[Hatzerim Airbase]], [[Israel]], 2006.]]
+
+Teledyne-Ryan also developed a third-generation '''Model 166''' Firebee II with supersonic performance, with the US Navy awarding a development contract to the company in 1965. Initial flight was in 1968. Although its external appearance was substantially different from that of the original Firebee, the Firebee II used the same engine and control systems, and confusingly retained the BQM-34 designation. The Navy version was the '''BQM-34E''', while the Air Force version was the '''BQM-34F'''.
+
+The Air Force BQM-34F was slightly heavier, with an additional parachute for midair recovery by helicopter snatch. The Navy BQM-34E was updated with improved avionics in the mid-1970s, with the upgrade redesignated '''BQM-34T'''.
+
+The Firebee II was a sleek dart of an aircraft with swept tailplane and swept mid-body wings. It was powered by a Teledyne CAE J69-T-6 turbojet with {{convert|1840|lb-f|kN|abbr=on}} thrust, with the intake on the belly forward of the wings and the exhaust under the tailfins. Internal fuel capacity was small, but the target could be fitted with a conformal external tank that was dropped before boosting to supersonic speeds. Flight operations were performed much as they are for the Firebee I, with launch from a DC-130. It was also ground launched using RATO for use as a target.
+[[File:BQM-34F launch Tyndall AFB 1982.JPEG|thumb|BQM-34F RATO launch, [[Tyndall AFB]] 1982]]
+In all, 286 Firebee IIs were built, a tiny quantity compared to the massive numbers of Firebee Is. The Firebee II is now out of service, while the Firebee I continues in operation and has been in service for over 50 years, making it one of the longest-lived aircraft in the US military inventory.
+
+===Fire Fly and Lightning Bug===
+The target vehicle was successful enough that Ryan was asked to develop a reconnaissance version of it, which became the highly successful [[Ryan Model 147 Lightning Bug|Model 147 Fire Fly and Lightning Bug series]] which saw extensive service in the [[Vietnam war]].
+
+===Modern use===
+In the late 1990s, Teledyne-Ryan configured two Firebees using company funds with cameras and communications electronics to provide real-time intelligence for battlefield target acquisition and [[Battle damage assessment|damage assessment]]. These two UAVs, which were named Argus, were used in a USAF &quot;Green Flag&quot; exercise to relay images in real-time from the test range in Nevada to USAF officers in Florida.
+
+Five '''BQM-34-53''' Extended Range Firebees were also used to lay [[Chaff (countermeasure)|chaff]] corridors during the [[2003 invasion of Iraq]]. The drones were modernized by [[Northrop Grumman]] in a fast-response program earlier in the year, being fitted with chaff dispensers and other improvements. They had GPS-based programmable waypoint guidance systems, but it is unclear if they were added by the upgrade program. They were delivered for service in charcoal-black colors.
+
+There was only one DC-130 drone launcher aircraft left in the US military's inventory at the time, and since it was grounded due to a malfunction, two Firebees were ground-launched on the first night of the operation. The other three were air-launched by the DC-130 on the second night of the operation. They flew until they ran out of fuel and crashed. Iraqi TV took footage of the wrecks and broadcast it, saying they were wrecks of piloted aircraft.
+
+===WZ-5 UAV===
+The [[People's Republic of China]] is known to have recovered US AQM-34N Firebee units during the Vietnam War era, and [[Reverse engineering|reverse engineered]] it.  The Chinese version is known as Wu Zhen 5 (WZ-5), or Chang Hong 1 (export name).&lt;ref&gt;http://www.sinodefence.com/airforce/uav/wz5.asp&lt;/ref&gt; The WZ-5 entered service in 1981 and is expected to be replaced by newer UAVs in the near future. WZ-5 prototypes were launched from a modified PLAAF [[Tupolev Tu-4]] bomber, later modified [[Shaanxi Y-8|Y-8]] transporters took over the task of launching WZ-5s, which is similar approach as USAF. WZ-5 has a WP-11 turbojet engine. Specs of this engine are close to J85-100. One WZ-5 displayed in China Aviation Museum, Beijing was painted with a few small-size Vietnamese national flag, so it was widely speculated that this particular WZ-5 was sent to Vietnam to carry out missions during 1979 conflict.&lt;ref name=&quot;AirForceWorld.com_WZ5_DR5_UAV&quot;&gt;[http://www.airforceworld.com/pla/dr5-uav-china.htm &quot;Chinese PLAAF WZ5 UAV.&quot;] ''AirForceWorld.com.'' Retrieved: 3 September 2011.&lt;/ref&gt;
+
+==Specifications (BQM-34A)==
+{{Aircraft specs
+|ref=Jane's All The World's Aircraft 1982–83&lt;ref name=&quot;jawa82 p694-5&quot;&gt;Taylor 1982, pp. 694–695.&lt;/ref&gt;
+|prime units?=imp
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+
+|crew=0
+|capacity=
+|length m=6.68
+|length ft=
+|length in=
+|span m=3.93
+|span ft=
+|span in=
+|swept m=&lt;!-- swing-wings --&gt;
+|swept ft=&lt;!-- swing-wings --&gt;
+|swept in=&lt;!-- swing-wings --&gt;
+|height m=2.04
+|height ft=
+|height in=
+|wing area sqm=
+|wing area sqft=36.0
+|wing area note=
+|aspect ratio=&lt;!-- sailplanes --&gt;
+|airfoil=
+|empty weight kg=
+|empty weight lb=1500
+|empty weight note=
+|gross weight kg=
+|gross weight lb=2060
+|gross weight note=
+|max takeoff weight lb=2500
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Continental J69]]-T-29A
+|eng1 type=[[turbojet]]
+|eng1 kn=&lt;!-- jet/rocket engines --&gt;
+|eng1 lbf=1700&lt;!-- jet/rocket engines --&gt;
+|power original=
+|thrust original=
+
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+
+|max speed kmh=
+|max speed mph=690
+|max speed kts=
+|max speed note= at {{convert|6500|ft|m|abbr=on}}
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=&lt;!-- if max speed unknown --&gt;
+|cruise speed mph=630&lt;!-- if max speed unknown --&gt;
+|cruise speed note=at {{convert|50000|ft|m|abbr=on}}
+|never exceed speed kmh=
+|never exceed speed mph=731
+|never exceed speed note=at {{convert|50000|ft|m|abbr=on}}
+|stall speed mph=116
+|range km=
+|range miles=796
+|range nmi=
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|endurance=75 min 30 s
+|ceiling m=
+|ceiling ft=60000
+|ceiling note=+
+|g limits=&lt;!-- aerobatic --&gt;
+|roll rate=&lt;!-- aerobatic --&gt;
+|climb rate ms=
+|climb rate ftmin=16000
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|armament=&lt;!-- add bulletted list here or if you want to use the following 
+specific parameters, remove this parameter--&gt;
+|guns= 
+|bombs= 
+|rockets= 
+|missiles= 
+|hardpoints=
+|hardpoint capacity=
+|hardpoint rockets=
+|hardpoint missiles=
+|hardpoint bombs=
+|hardpoint other=
+
+|avionics=
+}}
+
+==References==
+;Notes
+{{reflist|2}}
+
+*{{cite book|editor-last=Taylor|editor-first=John W. R.|editor-link= John W. R. Taylor|title=Jane's All The World's Aircraft 1982–83|year=1982|location=London|publisher=Jane's Yearbooks|isbn=0-7106-0748-2}}
+This article contains material that originally came from the web article [http://www.vectorsite.net/twuav.html ''Unmanned Aerial Vehicles''] by Greg Goebel, which exists in the Public Domain.
+
+==External links==
+{{Commons|Ryan Firebee}}
+*[http://www.flickr.com/photos/sdasmarchives/tags/firebee/ Ryan Firebee photos and drawings] at [[San Diego Air &amp; Space Museum]] Archives
+*[http://www.airforceworld.com/pla/dr5-uav-china.htm WZ5/DR5 UAV Chinese PLAAF]
+*[http://www.nationalmuseum.af.mil/Visit/MuseumExhibits/FactSheets/Display/tabid/509/Article/195776/ryan-bqm-34f-firebee-ii.aspx RYAN BQM-34F &quot;FIREBEE II&quot; SUPERSONIC AERIAL TARGET]
+*[http://www.nationalmuseum.af.mil/Visit/MuseumExhibits/FactSheets/Display/tabid/509/Article/196055/teledyne-ryan-aqm-34q-combat-dawn-firebee.aspx TELEDYNE-RYAN AQM-34Q COMBAT DAWN FIREBEE]
+*[http://www.nationalmuseum.af.mil/Visit/MuseumExhibits/FactSheets/Display/tabid/509/Article/195747/teledyne-ryan-aqm-34l-firebee.aspx TELEDYNE-RYAN AQM-34L FIREBEE]
+*[http://www.nationalmuseum.af.mil/Visit/MuseumExhibits/FactSheets/Display/tabid/509/Article/198013/ryan-aqm-34n.aspx RYAN AQM-34N]
+*[http://www.nationalmuseum.af.mil/Visit/MuseumExhibits/FactSheets/Display/tabid/509/Article/198026/ryan-bqm-34-firebee.aspx RYAN BQM-34 FIREBEE]
+
+{{USN drones}}
+{{USAF drones}}
+{{US missiles}}
+{{lone designation|system=[[PLAAF]]/[[PLANAF]] UAVs|designation=WZ-5}}
+
+[[Category:Ryan aircraft|Firebee]]
+[[Category:United States special-purpose aircraft 1950–1959]]
+[[Category:Target drones of the United States]]
+[[Category:Single-engined jet aircraft]]
+[[Category:Monoplanes]]</text>
+      <sha1>tupwg5pci1tqwvdqabhqgbwva5lmblt</sha1>
+    </revision>
+  </page>
+</mediawiki>

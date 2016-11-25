@@ -1,0 +1,173 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Macchi M.14</title>
+    <ns>0</ns>
+    <id>26035188</id>
+    <revision>
+      <id>668340600</id>
+      <parentid>633682636</parentid>
+      <timestamp>2015-06-23T19:44:14Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Consensus at [[Template talk:Aviation lists#RfC: Should this navbox be removed from non-mentioned articles?]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3976">{|{{Infobox Aircraft Begin
+  |name = Macchi M.14
+  |image = Macchi M.14.jpg
+  |caption =
+}}{{Infobox Aircraft Type
+  |type = [[Fighter (aircraft)|Fighter]]
+  |national origin=[[Italy]]
+  |manufacturer =[[Macchi]]
+  |designer = [[Alessandro Tonini]]
+  |first flight = [[1918 in aviation|1918]]
+  |introduced = [[1919 in aviation|1919]]
+  |retired = 
+  |status =
+  |primary user = [[Italy]]
+  |more users =
+  |produced =
+  |number built = 11
+  |unit cost =
+  |variants with their own articles = 
+}}
+|}
+
+The '''Macchi M.14''' was an [[Italy|Italian]] [[Fighter (aircraft)|fighter]] of 1918 designed and manufactured by [[Macchi]]. The M.14 was the first non-seaplane fighter Macchi produced, its previous fighter production having focused on [[flying boat]] fighters.&lt;ref&gt;Green and Swanborough, pp. 357.&lt;/ref&gt;
+
+==Design and development==
+
+[[Alessandro Tonini]] designed the M.14, which was a single-seat wooden [[sesquiplane]] with [[Warren truss]] interplane bracing and armed with two fixed, forward-firing 7.7-[[millimeter]] (0.303-[[inch]]) [[Vickers machine gun]]s synchronized to fire through the [[propeller (aircraft)|propeller]]. It had fixed, tailskid [[landing gear]], and its 82-[[kilowatt]] (110-[[horsepower]]) [[Le Rhône 9J]] nine-cylinder [[rotary engine]] drove a two-bladed [[Tractor configuration|tractor]] propeller.&lt;ref&gt;Green and Swanborough, pp. 357.&lt;/ref&gt;
+
+==Operational history==
+Company testing of the M.14 [[prototype]] began in the spring of 1918. It was destroyed in June 1918, but Macchi then constructed 10 production aircraft, which underwent official evaluation at [[Guidonia Montecelio]] in 1919. Although no additional M.14s were ordered, the 10 aircraft saw service as advanced [[Trainer aircraft|trainers]]. At last one of them is known to have become a civilian aircraft with the civil registration I-BADG.&lt;ref&gt;Green and Swanborough, p. 357.&lt;/ref&gt;
+
+==Operators==
+;{{flag|Kingdom of Italy}}
+* [[Corpo Aeronautico Militare]]
+
+==Specifications==
+{{aerospecs
+|met or eng?=met
+|crew=1
+|ref=Green, William, and Gordon Swanborough ''The Complete Book of Fighters: An Illustrated Encyclopedia of Every Fighter Aircraft Built and Flown'', New York: SMITHMARK Publishers, 1994, ISBN 0-8317-3939-8
+|capacity=
+|length m=5.65
+|length ft=18
+|length in=6½
+|span m=8.20
+|span ft=26
+|span in=10.8
+|width m=&lt;!-- if applicable --&gt;
+|width ft=&lt;!-- if applicable --&gt;
+|width in=&lt;!-- if applicable --&gt;
+|height m=2.62
+|height ft=8
+|height in=7⅛
+|wing area sqm=16.60
+|wing area sqft=178.69
+|empty weight kg=440
+|empty weight lb=970
+|gross weight kg=640
+|gross weight lb=1,411
+|eng1 number=1
+|eng1 type=[[Le Rhône 9J]] nine-cylinder [[Rotary engine|rotary]]
+|eng1 kw=82
+|eng1 hp=110
+|max speed kmh=182
+|max speed mph=113
+|cruise speed kmh=&lt;!-- if max speed unknown --&gt;
+|cruise speed mph=&lt;!-- if max speed unknown --&gt;
+|range km=
+|range miles=
+|endurance h=2
+|endurance min=
+|ceiling m=
+|ceiling ft=
+|climb rate ms=
+|climb rate ftmin=
+|armament1=2 × fixed forward-firing synchronized 7.7-[[millimeter]] (0.303-[[inch]]) [[machine gun]]s
+|armament2=
+|armament3=
+|armament4= 
+|armament5=
+|armament6=
+}}
+'''Notes:'''
+*'''Time to 1,000 m (3,281&amp;nbsp;ft):''' 3 min 30 sec
+*Maximum speed figure is at sea level
+
+==See also==
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+*[[Alenia Aermacchi]]
+|related=
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+|sequence=&lt;!-- designation sequence, if appropriate --&gt;
+|lists=&lt;!-- related lists --&gt;* [[List of Interwar military aircraft]]
+}}
+
+==Notes==
+{{reflist}}
+
+==References==
+{{commons category|Macchi M.14}}
+*Green, William, and Gordon Swanborough. ''The Complete Book of Fighters: An Illustrated Encyclopedia of Every Fighter Aircraft Built and Flown''. New York: SMITHMARK Publishers, 1994. ISBN 0-8317-3939-8.
+
+{{Macchi aircraft}}
+
+[[Category:Italian fighter aircraft 1910–1919]]
+[[Category:Macchi aircraft|M.14]]
+[[Category:Sesquiplanes]]</text>
+      <sha1>4wv738zdbggmvxurxbpk0gmz83mhwto</sha1>
+    </revision>
+  </page>
+</mediawiki>

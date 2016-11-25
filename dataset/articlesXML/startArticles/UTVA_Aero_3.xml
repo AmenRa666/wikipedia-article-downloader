@@ -1,0 +1,222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>UTVA Aero 3</title>
+    <ns>0</ns>
+    <id>951276</id>
+    <revision>
+      <id>718379980</id>
+      <parentid>709496717</parentid>
+      <timestamp>2016-05-03T05:14:39Z</timestamp>
+      <contributor>
+        <ip>87.116.189.39</ip>
+      </contributor>
+      <comment>/* Specifications */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5244">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+{|{{Infobox Aircraft Begin
+ |name=Aero 3
+ |image=Aeromiting Grobnik 060708 4.jpg
+ |caption=Aero 3
+}}{{Infobox Aircraft Type
+ |type=Military trainer
+ |national origin=Yugoslavia
+ |manufacturer=[[UTVA]]
+ |designer=
+ |first flight=August 1956
+ |introduced=1958
+ |retired=
+ |status=
+ |primary user=[[SFR Yugoslavia|Yugoslavia]]
+ |more users=
+ |produced=
+ |number built=110
+ |variants with their own articles=
+}}
+|}
+
+The '''UTVA Aero 3''' was a piston-engined military [[trainer aircraft]] built in [[SFRY|Yugoslavia]] to replace the [[Ikarus Aero 2]] then in service. 110 were built, in Yugoslav Air Force service from 1958 to mid-1970s.&lt;ref&gt;[http://www.airwar.ru/enc/other/aero3.html Ugolok Neba]&lt;/ref&gt; It was superseded by the [[Lola Utva 75|UTVA 75]].
+
+==Design and development==
+First flown in 1956&lt;ref name=&quot;Orbis&quot; /&gt; the Aero 3 was designed to meet a Yugoslav Air Force requirement for a primary trainer that could also be used in the army co-operation role.&lt;ref name=&quot;Orbis&quot; /&gt;
+
+The Aero 3 was a low wing cantilever monoplane that seated the student and instructor in tandem under a [[bubble canopy]].&lt;ref name=&quot;Orbis&quot; /&gt; Of all wood construction it had a fixed, tailwheel landing gear and powered by a nose-mounted 190&amp;nbsp;hp (142&amp;nbsp;kW) [[Lycoming O-435|Lycoming O-435-A]] piston engine.&lt;ref name=&quot;Orbis&quot;&gt;Orbis 1985, page 36&lt;/ref&gt;
+
+== Former Military Operators==
+* {{YUG}}
+** [[Yugoslav Air Force]]
+***[[185th Mixed Aviation Regiment|Aviation Technical Group of Aviation Training School]] (1958–1960)
+***[[Light Combat Aviation Squadron of 3rd Air Command]] (1959-1961)
+***[[Light Combat Aviation Squadron of 5th Air Command]] (1959-1961)
+***[[Light Combat Aviation Squadron of 7th Air Command]] (1959-1961)
+***[[463rd Light Combat Aviation Squadron]] (1961-1965)
+***[[464th Light Combat Aviation Squadron]] (1961-1965)
+***[[465th Light Combat Aviation Squadron]] (1961-1965)
+
+==Aircraft On Display==
+;Serbia
+* [[Museum of Aviation (Belgrade)]] in [[Belgrade]]
+A UTVA Aero 3 prototype and UTVa Aero 3 are on display
+[http://www.aviationmuseum.eu/World/Europe/Serbia/Belgrade/Muzej_Ratnog_Vazduhoplovstva.htm]
+
+==Specifications==
+{{aerospecs
+|ref=&lt;ref name=&quot;Orbis&quot; /&gt;
+|met or eng?=&lt;!-- eng for US/UK aircraft, met for all others --&gt;met
+|crew=2 a teacher and student
+|capacity=2
+|length m=8.58
+|length ft=28
+|length in=1
+|span m=10.5
+|span ft=34
+|span in=5
+|swept m=&lt;!-- swing-wings --&gt;
+|swept ft=&lt;!-- swing-wings --&gt;
+|swept in=&lt;!-- swing-wings --&gt;
+|rot number=&lt;!-- helicopters --&gt;
+|rot dia m=&lt;!-- helicopters --&gt;
+|rot dia ft=&lt;!-- helicopters --&gt;
+|rot dia in=&lt;!-- helicopters --&gt;
+|dia m=&lt;!-- airships etc --&gt;
+|dia ft=&lt;!-- airships etc --&gt;
+|dia in=&lt;!-- airships etc --&gt;
+|width m=&lt;!-- if applicable --&gt;
+|width ft=&lt;!-- if applicable --&gt;
+|width in=&lt;!-- if applicable --&gt;
+|height m=2.7
+|height ft=8
+|height in=10
+|wing area sqm=18.9
+|wing area sqft=203
+|swept area sqm=&lt;!-- swing-wings --&gt;
+|swept area sqft=&lt;!-- swing-wings --&gt;
+|rot area sqm=&lt;!-- helicopters --&gt;
+|rot area sqft=&lt;!-- helicopters --&gt;
+|volume m3=&lt;!-- lighter-than-air --&gt;
+|volume ft3=&lt;!-- lighter-than-air --&gt;
+|aspect ratio=&lt;!-- sailplanes --&gt;
+|empty weight kg=
+|empty weight lb=
+|gross weight kg=1198
+|gross weight lb=2646
+|lift kg=&lt;!-- lighter-than-air --&gt;
+|lift lb=&lt;!-- lighter-than-air --&gt;
+|eng1 number=1
+|eng1 type=[[Lycoming O-435|Lycoming O-435-A]] pistson engine
+|eng1 kw=&lt;!-- prop engines --&gt;142
+|eng1 hp=&lt;!-- prop engines --&gt;190
+|eng1 kn=&lt;!-- jet/rocket engines --&gt;
+|eng1 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng1 kn-ab=&lt;!-- afterburners --&gt;
+|eng1 lbf-ab=&lt;!-- afterburners --&gt;
+|eng2 number=
+|eng2 type=
+|eng2 kw=&lt;!-- prop engines --&gt;
+|eng2 hp=&lt;!-- prop engines --&gt;
+|eng2 kn=&lt;!-- jet/rocket engines --&gt;
+|eng2 lbf=&lt;!-- jet/rocket engines --&gt;
+|eng2 kn-ab=&lt;!-- afterburners --&gt;
+|eng2 lbf-ab=&lt;!-- afterburners --&gt;
+|max speed kmh=230
+|max speed mph=143
+|max speed mach=&lt;!-- supersonic aircraft --&gt;
+|cruise speed kmh=&lt;!-- if max speed unknown --&gt;180
+|cruise speed mph=&lt;!-- if max speed unknown --&gt;112
+|range km=680
+|range miles=422
+|endurance h=&lt;!-- if range unknown --&gt;
+|endurance min=&lt;!-- if range unknown --&gt;
+|ceiling m=4300
+|ceiling ft=14,100
+|glide ratio=&lt;!-- sailplanes --&gt;
+|climb rate ms=
+|climb rate ftmin=
+|sink rate ms=&lt;!-- sailplanes --&gt;
+|sink rate ftmin=&lt;!-- sailplanes --&gt;
+|armament1=
+|armament2=
+|armament3=
+|armament4=
+|armament5=
+|armament6=
+}}
+
+==See also==
+{{aircontent|
+|related=
+|similar aircraft=
+*[[de Havilland Chipmunk]]
+*[[Zlin Trener|Zlin Z-226]]
+*[[PZL M-2]]
+|sequence=
+|lists=&lt;!-- related lists --&gt;
+|see also=&lt;!-- other relevant information --&gt;
+}}
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+*{{cite book |last= |first= |authorlink= |coauthors= |title= The [[Illustrated Encyclopedia of Aircraft]] (Part Work 1982-1985)|year= |publisher= Orbis Publishing|location= |issn=|pages=}}
+{{refend}}
+
+==External links==
+{{commons category|UTVA Aero 3}}
+*[http://www.airwar.ru/enc/other/aero3.html Photos and drawings at Ugolok Neba]
+
+{{Utva aircraft}}
+
+{{DEFAULTSORT:Utva Aero 3}}
+[[Category:Yugoslav military trainer aircraft 1950–1959]]
+[[Category:UTVA aircraft|Aero 3]]</text>
+      <sha1>7mjqufs5xhu8apvwxza8mnyk615uvia</sha1>
+    </revision>
+  </page>
+</mediawiki>

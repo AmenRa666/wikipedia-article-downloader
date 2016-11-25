@@ -1,0 +1,226 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French frigate Nivôse</title>
+    <ns>0</ns>
+    <id>1516772</id>
+    <revision>
+      <id>738072650</id>
+      <parentid>687339777</parentid>
+      <timestamp>2016-09-06T19:11:48Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <minor/>
+      <comment>Parsecboy moved page [[French frigate Nivôse (F732)]] to [[French frigate Nivôse]]: no other ships with this name, no need for dab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7448">{{other ships|French ship Nivôse}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:Nivose 1.jpg|300px|Frigate ''Nivôse'']]
+|Ship caption=Frigate ''Nivôse''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Nivôse''
+|Ship namesake=Month of [[Nivôse]]
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=1989
+|Ship awarded=
+|Ship builder=[[Chantiers de l'Atlantique]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=16 January 1991
+|Ship launched=11 August 1991
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=15 October 1992
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage= 
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=[[Port des Galets]], [[La Réunion]]
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Floréal|frigate}}
+|Ship type=
+|Ship tonnage=
+|Ship displacement=2600 tonnes (2950 tonnes full load)
+|Ship tons burthen=
+|Ship length={{convert|93.5|m|abbr=on}}
+|Ship beam={{convert|14|m|abbr=on}}
+|Ship height=
+|Ship draught={{convert|4.4|m|abbr=on}}
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=*Engines : 4 diesel SEMT Pielstick 6PA6 L280
+*Auxiliaries : 1 Ulstein 200 kW beam propulsor (?)
+*Propellers : 2 variable pace &quot;Lips&quot;
+*Propulsive power : 8800 hp (6470 kW)
+*Electric Plant : 3 Baudouin 12P15 2SR diesel alternators and 3 Alsthom AA 49L9 alternators
+*Electric Power : 3 × 590 kW
+|Ship sail plan=
+|Ship speed={{convert|20|kn}}
+|Ship range=*{{convert|10000|nmi}} at {{convert|15|kn}}
+*{{convert|13,000|nmi}} at {{convert|12|kn}}
+|Ship endurance=
+|Ship test depth=
+|Ship boats=*ETN 90 (''Embarcation de Transport en Nombre'')
+*Zodiac Hurricane 530 OB with two Yamaha 2T 140 CV VETOL engines
+*One 10-seat zodiac
+|Ship capacity=
+|Ship troops=
+|Ship complement=*11 officers
+*36 non-commissioned officers
+*42 men
+*(11 men for the helicopter)
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=*'''Radar''':
+* DRBV-21C (Mars) air sentry radar
+* Racal Decca RM1290 navigation radar
+* Racal Decca RM1290 landing radar
+*'''Navigation'''
+* Microcin type intertial navigation system
+* Ben LMN4 loch
+* Furuno depth measure system
+* Navstar GPS system
+* Taiyo gonio VHF radio
+|Ship EW=*ARBG-1A Saïgon
+*2 Dagaie decoy systems
+|Ship armament=*2 [[Exocet]] MM38 missile launchers
+*1 × [[French 100 mm naval gun|100 mm CADAM turret]] with Najir fire control system
+*2 × [[20 mm modèle F2 gun]]s
+|Ship armour=
+|Ship armor=
+|Ship aircraft=1 ''[[Eurocopter Panther|Panther]]'' helicopter
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+The '''''Nivôse''''' is a light surveillance frigate (&quot;''frégate de surveillance''&quot;) of the French ''[[French Navy|Marine Nationale]]''. She is the third ship of the {{sclass-|Floréal|frigate|4}}, and the fourth French vessel named after the 4th month of the [[French Republican Calendar|Republican Calendar]].
+
+== Deployments ==
+* 2001
+In October 2001, she was deployed in the Persian Gulf as part of [[Operation Enduring Freedom|Operation ''Enduring Freedom'']].&lt;ref&gt;[http://www.netmarine.net/bat/fregates/nivose/actu.htm Histoire et actualités de la frégate ''Nivôse''], netmarine.net&lt;/ref&gt;
+*2008
+In late 2008, under [[frigate captain]] Jean-Marc Le Quilliec,&lt;ref&gt;[http://www.lemonde.fr/international/article/2008/12/02/alerte-aux-pirates-a-bord-du-nivose_1125786_3210.html Piraterie : une nuit d'alerte sur le ''Nivôse''], ''[[Le Monde]]'', 2 December 2008&lt;/ref&gt; ''Nivôse'' was deployed as part of a [[European Union]] expeditionary force, [[Operation Atalanta|Operation ''Atalanta'']], in the [[Gulf of Aden]] to fight [[Piracy in Somalia|piracy off Somalia]].&lt;ref&gt;[http://www.cnn.com/2008/WORLD/africa/12/04/yemen.pirates/index.html?iref=topnews Suspected pirates rescued in Gulf of Aden], [[CNN]], 5 December 2008&lt;/ref&gt; 
+*2009 On 15 April  2009, she captured eleven pirates {{convert|900|km|mi|abbr=on}} East of [[Mombasa]], and thwarted an attack on the Liberian-registered merchantman ''[[Safmarine Asia]]''.&lt;ref&gt;[http://news.bbc.co.uk/2/hi/africa/8000447.stm], [[BBC News]], 15 April 2009&lt;/ref&gt;&lt;ref&gt;[http://edition.cnn.com/2009/WORLD/africa/04/15/somalia.pirates/index.html  French capture 11 suspected pirates; Greek ship freed], CNN&lt;/ref&gt;
+
+On 12 April 2009, ''Nivôse'' relieved her sister-ship ''Floréal'' as part of [[European Union Naval Force Somalia – Operation ATALANTA]]. On 3 May 2009, 900&amp;nbsp;km off Somalia, the crew managed to lure pirates to attack the ship by  sailing into the sun to avoid being identified and mistaken for a merchantman; as the pirate closed in, she turned about and launched her on-boarded helicopter and fast outboard vessels. Eleven pirates were captured.&lt;ref&gt;[http://edition.cnn.com/2009/WORLD/africa/05/03/kenya.pirates Pirates seized after threatening French navy ship], CNN, 3 May 2009&lt;/ref&gt;&lt;ref&gt;[http://www.lemonde.fr/afrique/article/2009/05/03/somalie-la-marine-francaise-capture-onze-pirates_1188254_3212.html Somalie : la marine française capture onze pirates], Lemonde.fr&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/africa/8031701.stm  Somali pirate suspects captured], BBC, 3 May 2009&lt;/ref&gt;
+*2010
+From 5 to 7 March 2010, joining mission forces from France, Italy, Luxembourg, Spain and Sweden, ''Nivôse'' secured its &quot;biggest seizure&quot; so far in the vital shipping lane, with 35 pirates arrested and four mother ships seized in three days off Somalia.&lt;ref&gt;
+{{cite web
+|url= http://www.iol.co.za/index.php?set_id=1&amp;click_id=87&amp;art_id=nw20100309020612247C690576
+|title= European naval forces capture more pirates
+|accessdate= 9 Mar 2010
+|date= 9 Mar 2010
+|publisher= [[Independent Online (South Africa)]]
+|quote= Six pirate action groups have been intercepted, mother ships and skiffs have been destroyed and over 40 pirates have been taken into custody
+}}&lt;/ref&gt;
+
+==Fire==
+*On 30 September 2014, ''Nivôse'' was severely damaged by fire which broke out in her engine room. {{ship|French frigate|Floréal|F730|2}} assisted in firefighting operations. ''Nivôse'' was subsequently towed in to ''Port de la Pointe des Galets''.&lt;ref name=Fire&gt;{{cite web |url=http://worldmaritimenews.com/archives/138784/french-frigate-extensively-damaged-by-violent-fire/ |title=French Frigate Extensively Damaged by Violent Fire |publisher=World Maritime News |accessdate=6 October 2014}}&lt;/ref&gt;
+
+==Photo gallery==
+&lt;gallery&gt;
+Image:FNS Nivose Fremantle, Western Australia.jpg|''Nivôse'' at [[Fremantle, Western Australia|Fremantle]], [[Western Australia]].
+Image:Nivose1.jpg|The ''Nivôse'' departing [[Cape Town]], [[South Africa]]
+&lt;/gallery&gt;
+&lt;gallery&gt;
+Image:Nivose2.jpg|Sailors at the rail of the ''Nivôse''
+Image:Nivose3.jpg|Stern of the ''Nivôse'' showing her [[Eurocopter Panther|Panther]] helicopter
+&lt;/gallery&gt;
+
+==Sources and references==
+{{Reflist|2}}
+* [http://www.netmarine.net/bat/fregates/nivose/index.htm Frégate de surveillance ''Nivôse''], netmarine.net
+
+{{Floréal class frigate}}
+
+{{DEFAULTSORT:Nivose}}
+[[Category:Naval ships of France]]
+[[Category:Floréal-class frigates]]
+[[Category:1991 ships]]</text>
+      <sha1>cr4qlm2ur3jab1fh2k9o47unawv0joy</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,167 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Winnebago (1863)</title>
+    <ns>0</ns>
+    <id>3640106</id>
+    <revision>
+      <id>743648552</id>
+      <parentid>702539674</parentid>
+      <timestamp>2016-10-10T15:17:00Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in St. Louis, Missouri‎ to [[:Category:Ships built in St. Louis]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13613">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:Uss Winnebago 1863.JPG|300px]]
+|Ship caption= A contemporary sketch of the USS ''Winnebago''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=[[Image:US Naval Jack 36 stars.svg|48px|Union Navy Jack]] {{USN flag|1861}}
+|Ship name= USS ''Winnebago''
+|Ship namesake=[[Winnebago (tribe)|Winnebago]] Indians
+|Ship ordered= 27 May 1862
+|Ship builder=[[Union Iron Works (St. Louis)|Union Iron Works]], [[Carondelet, St. Louis]]
+|Ship laid down=1862
+|Ship launched= 4 July 1863
+|Ship commissioned=27 April 1864
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship renamed=*''Tornado'', 15 June 1869
+*''Chickasaw'', 10 August 1869
+|Ship motto=
+|Ship nickname= 
+|Ship fate= Sold for [[ship breaking|scrap]], 12 September 1874
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Milwaukee|monitor|0}} [[river monitor]]
+|Ship displacement={{convert|1300|LT|t}}
+|Ship tons burthen=970 [[Builder's Old Measurement|bm]]
+|Ship depth of hold={{convert|8|ft|6|in|m|1|abbr=on}}
+|Ship length={{convert|229|ft|m|1|abbr=on}}
+|Ship beam={{convert|56|ft|m|1|abbr=on}}
+|Ship draft={{convert|6|ft|m|1|abbr=on}}
+|Ship power=7 × Tubular [[boiler (steam generator)|boilers]]
+|Ship propulsion=*4 × Shafts
+*2 × [[Marine steam engine|Non-condensing steam engines]]
+|Ship speed={{convert|9|kn|lk=in}}
+|Ship range=
+|Ship complement=138
+|Ship armament=2 × twin {{convert|11|in|mm|adj=on|0}} [[Smoothbore]] [[Dahlgren gun]]s
+|Ship armor=*[[Gun turret]]s: {{convert|8|in|mm|abbr=on|0}}
+*Side: {{convert|3|in|mm|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|.75|-|1.5|in|mm|abbr=on}}
+*[[Conning tower]]: {{convert|3|in|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+'''USS ''Winnebago''''' was a double-turret {{sclass-|Milwaukee|monitor|0}} [[river monitor]], named for the [[Ho-Chunk|Winnebago]] tribe of [[Siouan languages|Siouan]] [[Indigenous peoples of the Americas|Indians]], built for the [[Union Navy]] during the [[American Civil War]]. The ship participated in the [[Battle of Mobile Bay]] in 1864, during which she was lightly damaged, and the bombardments of [[Fort Gaines (Alabama)|Forts Gaines]] and [[Fort Morgan (Alabama)|Morgan]] as Union troops besieged the fortifications defending the bay. In early 1865, ''Winnebago'' again supported Union forces during the [[Mobile Campaign]] as they attacked Confederate fortifications defending the city of [[Mobile, Alabama]]. She was placed in [[Reserve fleet|reserve]] after the end of the war and sold in 1874.
+
+==Description==
+''Winnebago'' was {{convert|229|ft|m|1}} [[length overall|long overall]] and had a [[Beam (nautical)|beam]] of {{convert|56|ft|m|1}}.&lt;ref name=s9/&gt; The ship had a [[Glossary of nautical terms#D|depth of hold]] of {{convert|8|ft|6|in|m|1}}&lt;ref name=c4&gt;Canney, p. 114&lt;/ref&gt; and a draft of {{convert|6|ft|m|1}}. She was 970 [[Builder's Old Measurement|tons burthen]]&lt;ref name=s9/&gt; and [[displacement (ship)|displaced]] {{convert|1300|LT|t}}.&lt;ref name=ck2&gt;Chesneau &amp; Kolesnik, p. 123&lt;/ref&gt; Her crew numbered 138 officers and enlisted men.&lt;ref name=s9&gt;Silverstone, p. 111&lt;/ref&gt;
+
+The ship was powered by two 2-cylinder horizontal [[Marine steam engine|non-condensing steam engines]], each driving two propellers, using steam generated by seven tubular [[boiler (steam generator)|boilers]]. The engines were designed to reach a top speed of {{convert|9|kn|lk=in}}. ''Chickasaw'' carried {{convert|156|LT|t}} of coal.&lt;ref name=ck2/&gt;
+
+The ship's main armament consisted of four [[smoothbore]], [[muzzle-loading]] 11-inch Dahlgren guns mounted in two twin-[[gun turret]]s.&lt;ref name=s9/&gt; Her forward turret was designed by [[James Eads]] and her rear turret by [[John Ericsson]].&lt;ref name=c4/&gt; Each gun weighed approximately {{convert|16000|lb}} and could fire a {{convert|136|lb|1|adj=on}} shell up to a range of {{convert|3650|yd}} at an elevation of +15°.&lt;ref&gt;Olmstead, et al, p. 90&lt;/ref&gt;
+
+The cylindrical turrets were protected by eight layers of [[wrought iron]] {{convert|1|in|adj=on}} plates. The sides of the hull consisted of three layers of one-inch plates, backed by {{convert|15|in}} of pine. The [[deck (ship)|deck]] was heavily [[Camber (ship)|cambered]] to allow headroom for the crew on such a shallow draft and it consisted of iron plates {{convert|.75|in}} thick. The [[pilothouse]], positioned behind and above the fore turret, was protected by {{convert|3|in}} of armor.&lt;ref&gt;Canney, pp. 114–16&lt;/ref&gt;
+
+==Construction and service==
+James Eads was awarded the contracts for all four of the ''Milwaukee''-class ships. He [[Keel|laid down]] ''Winnebago'' at his [[Union Iron Works (St. Louis)|Union Iron Works]] [[Carondelet, St. Louis]] in 1862.&lt;ref name=s9/&gt; The first U.S. Navy ship to be named after the [[Ho-Chunk|Indian tribe]], she was [[Ship naming and launching|launched]] on 4 July 1863 and [[Ship commissioning|commissioned]] on 27 April 1864.&lt;ref name=win&gt;''Winnebago''&lt;/ref&gt;
+
+Initially assigned to the [[Mississippi River Squadron]], ''Winnebago'' operated on the [[Mississippi River]] defending Union ships against [[Confederate States of America|Confederate]] raids and ambushes for several months. She was transferred to [[Rear Admiral (United States)|Rear Admiral]] [[David Farragut]]'s [[West Gulf Blockading Squadron]] on 9 July, together with her [[sister ship|sister]] {{USS|Chickasaw|1864|2}}. The ship required some time to refit at New Orleans and prepare for the voyage to Mobile across the [[Gulf of Mexico]], so the two sisters did not depart New Orleans until 29 July. On the voyage down the Mississippi to the [[Head of Passes|Pass A Loutre]], ''Chickasaw'' was forced to anchor overnight because of steering problems and the two ships did not cross the [[sandbar]] at the mouth of the pass until the evening of the following day. Once in the Gulf, ''Winnebago'' was taken under tow by the [[Paddlewheel|sidewheel]] [[gunboat]] {{USS|Metacomet|1863|2}} for the voyage across the Gulf. Farragut inspected the monitor after her arrival and was dismayed to learn that one of her turrets had jammed. He also preferred to have a more experienced officer in command and appointed [[Commander (United States)|Commander]] [[Thomas H. Stevens, Jr.]] as her new [[captain (nautical)|captain]].&lt;ref&gt;Friend, pp. 64, 108, 110, 114–18, 198&lt;/ref&gt;
+
+Farragut's plan for the battle was relatively simple. The larger, more heavily armed monitors {{USS|Tecumseh|1863|2}} and {{USS|Manhattan|1863|2}} were to keep the ironclad ram {{Ship|CSS|Tennessee|1863|6}} away from the vulnerable wooden ships while they were passing Fort Morgan and then sink her. ''Chickasaw'' and ''Winnebago'' were to engage the fort until all of the wooden ships had passed. The four monitors would form the starboard column of ships, closest to Fort Morgan, with ''Winnebago'' in the rear, while the wooden ships formed a separate column to port. The eastern side of the channel closest to Fort Morgan was free of obstacles, but &quot;torpedoes&quot;, as [[naval mine|mines]] were called at the time, were known to be present west of a prominent black [[buoy]] in the channel.&lt;ref&gt;Friend, pp. 158, 178&lt;/ref&gt;
+
+The two ''Milwaukee''-class ships bombarded Fort Morgan for about an hour and a half while the wooden ships passed through the mouth of [[Mobile Bay]]; ''Winnebago'' beginning at 07:15 even though her forward turret was still jammed in place. About three-quarters of an hour later, ''Tecumseh'' struck a &quot;torpedo&quot; and sank rapidly. ''Winnebago'' took on board 10 survivors from the ill-fated ''Tecumseh'' who had been rescued by a boat from ''Metacomet'' under heavy fire and passed Ft. Morgan at 08:30.&lt;ref&gt;ORN, vol. 21, pp. 496–7&lt;/ref&gt; After ''Tennessee'' first attacked Stevens' former command, the gunboat {{USS|Oneida|1861|2}}, he was able to interpose ''Winnebago'' between the two ships in case the Confederate ironclad turned around for another attack, but it disengaged and briefly sought the shelter of Ft. Morgan's guns.&lt;ref&gt;Friend, pp. 198–99&lt;/ref&gt; Around 09:10 the traversing gear for the rear turret broke down, only five minutes before ''Winnebago'' received the order to attack the ''Tennessee'' after it had sortied into the middle of Mobile Bay to attack the Union squadron. The monitor was forced to turn the entire ship to bring her guns to bear and did not play a significant part in the second phase of the battle before ''Tennessee'' was forced to surrender at 09:45. During the battle, ''Winnebago'' was hit 19 times, three of which penetrated the deck near her aft turret, although she suffered no casualties. Despite the problems with her turrets, the ship managed to fire 56 shells, a mixture of solid shot, explosive shells, [[grapeshot]], [[canister shot]], and [[shrapnel shell]]s.&lt;ref&gt;ORN, vol. 21, pp. 497–98&lt;/ref&gt;
+
+''Winnebago'' intermittently bombarded Fort Morgan and [[Fort Gaines (Alabama)|Fort Gaines]] until they surrendered, on 24 and 6 August, respectively.&lt;ref&gt;ORN, vol. 21, pp. 825–26&lt;/ref&gt; On the night of 8 August, Commander Stevens sent a boat crew under the command of Acting [[Ensign (rank)|Ensign]] Michael Murphy on a successful mission to cut the telegraph cable between Fort Morgan and the city of Mobile. The fort surrendered on 24 August and the ship remained at Mobile Bay into 1865 supporting Union forces. On 27 March, Union forces advanced on [[Spanish Fort, Alabama|Spanish Fort]] as the first step in capturing Mobile. The Navy's role was to bombard the defenses and to interdict their communications with Mobile, but the defenders had sown mines in great numbers in the waterways. The Navy successfully swept many of these, but could not completely clear the rivers.&lt;ref name=win/&gt;
+
+''Winnebago'' and her sister {{USS|Milwaukee|1864|2}} sailed upriver on 28 March to attack a Confederate transport and forced it to retreat, but ''Milwaukee'' struck a mine, in an area previously swept, as they were returning downriver. She remained afloat forward, which permitted her crew to escape without loss.&lt;ref&gt;ORN, vol. 22, p. 71&lt;/ref&gt; ''Winnebago'' later protected a convoy carrying some 13,000 troops under [[Major General]] [[Frederick Steele]], to [[Selma, Alabama|Selma]] and [[Montgomery, Alabama]] later in April.&lt;ref name=win/&gt; By 28 April, the monitor, together with the gunboats {{USS|Octorara|1861|6}} and {{USS|Sebago|1861|2}}, was blockading the Confederate ironclad [[CSS Nashville (1864)|''Nashville'']] and the gunboat [[CSS Morgan|''Morgan'']] up the [[Tombigbee River]],&lt;ref&gt;ORN, vol. 22, p. 139&lt;/ref&gt; until their surrender.&lt;ref name=win/&gt;
+
+''Winnebago'' was placed [[in ordinary]] on the [[Algiers, New Orleans|Algiers]] side of the Mississippi, across from [[New Orleans]], on 27 September. She was renamed twice during that time, first to ''Tornado'' on 15 June 1869 and then she resumed her original name on 10 August 1869. ''Winnebago'' was sold at auction on 12 September 1874.&lt;ref name=win/&gt;
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{Portal|American Civil War|United States Navy}}
+*{{cite book|last=Canney|first=Donald L.|title=The Old Steam Navy: The Ironclads, 1842–1885|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1993|volume=2|isbn=0-87021-586-8}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4}}
+*{{cite book|last=Friend|first=Jack|title=West Wind, Flood Tide: The Battle of Mobile Bay|year=2004|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=978-1-59114-292-8}}
+* {{cite book|last1=Olmstead|first1=Edwin|last2=Stark|first2=Wayne E.|last3=Tucker|first3=Spencer C.|title=The Big Guns: Civil War Siege, Seacoast, and Naval Cannon|publisher=Museum Restoration Service|location=Alexandria Bay, New York|year=1997|isbn=0-88855-012-X}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Civil War Navies 1855–1883|publisher=Routledge|location=New York|year=2006|series=The U.S. Navy Warship Series|isbn=0-415-97870-X}}
+* {{cite book|last=United States|first=Naval War Records Office|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://digital.library.cornell.edu/cgi/t/text/text-idx?c=moawar;idno=ofre0021|series=Series I|volume=Volume 21: West Gulf Blockading Squadron (January 1, 1864 – December 31, 1864)|year=1914|publisher=Government Printing Office|location=Washington, D. C.}}
+* {{cite book|last=United States|first=Naval War Records Office|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://ebooks.library.cornell.edu/cgi/t/text/text-idx?c=moawar;cc=moawar;view=toc;subview=short;idno=ofre0022|series=Series I|volume=Volume 22: West Gulf Blockading Squadron (January 1, 1865 – January 31, 1866); Naval Forces on Western Waters (May 8, 1861 – April 11, 1862)|year=1908|publisher=Government Printing Office|location=Washington, D. C.}}
+*{{cite DANFS | title = Winnebago | url = http://www.history.navy.mil/danfs/w10/winnebago-i.htm|publisher=Naval History &amp; Heritage Command | accessdate =12 March 2013 }}
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Milwaukee class monitor}}
+
+{{DEFAULTSORT:Winnebago (1863)}}
+[[Category:Milwaukee-class monitors]]
+[[Category:Ships built in St. Louis]]
+[[Category:1863 ships]]
+[[Category:Ships of the Union Navy]]
+[[Category:American Civil War monitors of the United States]]</text>
+      <sha1>s0azdyj8ffs0oxicvxf63hr8xqu67bd</sha1>
+    </revision>
+  </page>
+</mediawiki>

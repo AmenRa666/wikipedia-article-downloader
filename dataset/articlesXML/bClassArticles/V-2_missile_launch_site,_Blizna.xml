@@ -1,0 +1,266 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>V-2 missile launch site, Blizna</title>
+    <ns>0</ns>
+    <id>52119024</id>
+    <revision>
+      <id>751004333</id>
+      <parentid>751003139</parentid>
+      <timestamp>2016-11-22T19:52:17Z</timestamp>
+      <contributor>
+        <username>Marek69</username>
+        <id>1469567</id>
+      </contributor>
+      <comment>/* Sources */ + wikilink</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="34087">{{Use dmy dates|date=November 2016}}
+{{EngvarB|date=November 2016}}
+{{infobox Museum
+|name           =  V-2 Missile launch site [[military base]] [[Blizna]]
+|native_name    = [[Blizna|''Park Historyczny Blizna'']]
+|image          = [[File:008 Blizna.jpg|centre|240px]]
+|established    = 2011
+|location       = [[Blizna]] 68, 39–104 [[Ocieka]],  [[Ropczyce-Sędziszów County|Ropczyce-Sędziszów]]  [[File:POL powiat ropczycko-sędziszowski flag.svg|22px]]  [[Poland]]
+|owner          = [[File:POL gmina Ostrów flag.png|22px]] [[Gmina Ostrów]]
+|website        = {{URL|http://parkhistorycznyblizna.pl/|Park Historyczny Blizna}} [https://www.facebook.com/ParkHistorycznyBlizna/?fref=ts FB]
+|map_type            =
+|map_relief          = y
+|map_size            = 200
+|map_caption         = '''Location of [[Blizna]] in Poland'''
+|latitude            = 50
+|longitude           = 21
+|lat_deg             = 50
+|lat_min             = 11
+|lat_sec             = 0
+|lat_dir             = N
+|lon_deg             = 21
+|lon_min             = 36
+|lon_sec             = 0
+|lon_dir             = E
+|type                =[[Museum|War museum]]
+|car_park            =&lt;!--On site (no charge)--&gt;
+|logo                = 012 Blizna Park.jpg
+|logo_upright        =
+|logo_alt            = Blizna V-2 Musuem
+|logo_caption        = [[Blizna]] [[V-2]] Missile War Museum
+}}
+{{Location map+|Poland
+|relief  = 1
+|width   = 250
+|border colour= black
+|float   = right
+|AlternativeMap = Poland location map.svg
+|overlay_image  = Podkarpackie in Poland (relief).svg
+|caption = Map of Poland with marks showing location of [[Blizna]] and [[Sarnaki]]
+|places =
+  {{Location map~ |Poland
+  |label = '''[[Blizna]]'''
+  |AlternativeMap = Poland location map.svg
+  |overlay_image  = Podkarpackie in Poland (relief).svg
+  |mark    = Red pog.svg &lt;!--blue dot--&gt;
+  |label_size= 125
+  |marksize = 10.5
+  |lat_deg =  50 |lat_min = 11 |lat_dir = N
+  |lon_deg =  21 |lon_min = 36 |lon_dir = E
+}}
+  {{Location map~ |Poland
+  |label = '''[[Sarnaki]]'''
+  |AlternativeMap = Poland location map.svg
+  |overlay_image  = Podkarpackie in Poland (relief).svg
+  |mark    = Green pog.svg  &lt;!--red dot--&gt;
+  |label_size= 106
+  |marksize = 8.5
+  |lat_deg =  52 |lat_min  = 19 |lat_dir = N
+  |lon_deg =  22 |lon_min = 53 |lon_dir = E
+}}
+}}
+{{Infobox concentration camp
+|name   = ''[[SS-Truppenübungsplatz Heidelager]]''&lt;ref name=&quot;Heidelager&quot;&gt;{{cite web |url=http://pustkow.republika.pl/historia.html |title=Historia poligonu Heidelager |language=Polish |trans_title=History of Heidelager military training base |publisher=Republika.pl |deadurl=no |archiveurl=http://web.archive.org/web/20140418040914/http://pustkow.republika.pl/historia.html |archivedate=18 April 2014 |accessdate=5 November 2016 }}&lt;/ref&gt;
+|commandant =''[[SS Oberführer]]'' Bernhardt Voss
+|killed       = 15,000 total: 7,000 Jews, 5,000 Soviets, 3,000 Polish&lt;ref name=&quot;Artilleriezielfeld Blizna&quot;&gt;{{cite web|url=http://blizna.ovh.org/pustkow/pustkow.htm|title= ''Artilleriezielfeld Blizna'' |language=German|trans-title=Blizna (treść tablicy informacyjnej na terenie dawnego poligonu).|archive-url=http://web.archive.org/web/20090329234353/http://blizna.ovh.org/pustkow/pustkow.htm|archivedate=29 March  2009}}&lt;/ref&gt;&lt;ref name=&quot;Traces of War&quot;&gt;{{cite web |url=http://en.tracesofwar.com/article/4776/Concentratiekamp-Pustkow.htm |title=SS-Truppenübungsplatz Heidelager / Concentration Camp Pustkow |last=Metz |first=Kaj |work=TracesofWar.com |publisher=Traces of War |deadurl=no |archiveurl=http://web.archive.org/web/20161105094143/http://en.tracesofwar.com/article/4776/Concentratiekamp-Pustkow.htm |archivedate=5 November 2016 |accessdate=5 November 2016 }}&lt;/ref&gt;
+|liberated by = [[Armia Krajowa]] [[File:Flaga PPP.svg|30px]]
+[[Red Army]] [[File:Red Army flag.svg|28px]]
+}}
+
+The '''V-2 Missile launch site, Blizna''' is the site of the [[World War II]] German [[V-2]] [[missile]] [[military base|firing range]].&lt;ref group=&quot;note&quot; name=&quot;AleMuzea!&quot;&gt;The modern museum is built on the exact site of the former V-2 launch site. Phase II building of the museum was completed in 2011.&lt;/ref&gt; Today there is a small museum located in the ''[[Blizna#History|Park Historyczny Blizna]]'' (‘Historical Park’) in [[Blizna]], Poland.&lt;ref name=&quot;Park&quot;&gt;{{cite web|url=http://parkhistorycznyblizna.pl/|title=Park Historyczny Blizna}}&lt;/ref&gt; After the [[RAF]] [[strategic bombing]] of the [[V-2 rocket|V-2]] rocket launch site in [[Peenemünde]], Germany in August 1943, some of the test and launch facilities were relocated to [[Blizna]], Poland in November 1943.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Middlebrook&quot;&gt;[[#refMiddlebrook1982|Middlebrook 1982]], p.222.&lt;/ref&gt; The first of 139 [[V-2|V-2 missile]] launches was carried out from the Blizna launch site on 5 November 1943.&lt;ref name=&quot;Jena&quot; /&gt;
+
+== History ==
+After the [[Strategic bombing|air raid]] on [[Peenemünde]] on 17 August 1943, German strategic command decided to divide the work on the V-2 rocket between three independently operating centres.&lt;ref name=&quot;AleMuzea!&quot;&gt;{{cite web |url=http://alemuzea.pl/park-historyczny-blizna/ |title=Polska, Blizna – Park Historyczny Blizna |language=Polish |trans_title=Historical Park in Blizna, Poland |last=Jaskólski, |first=Paweł |work=Alemuzea.Pl |publisher=Projekt AleMuzea! |date=3 November 2014 |deadurl=no |archiveurl=https://web-beta.archive.org/web/20141130012837/http://alemuzea.pl/park-historyczny-blizna/ |archivedate=30 November 2014 |accessdate=2 November 2016}}&lt;/ref&gt;&lt;ref name=&quot;Middlebrook&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt;{{sfn|Glass|2000|p=24}}{{sfn|Dornberger|2004|p=18}} Assembly plants were transferred to the underground factories in a massive hollow cave complex in the [[Harz]] mountains in Germany.&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p26-29 (Bogdan Chrzanowski)&lt;/ref&gt; The research, development and design (codenamed ''‘Project Cement’'') would be handled by secret offices in [[Ebensee]], near the banks of [[Traunsee|Lake Traunsee]] in Austria.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]] p.26-29 (Bogdan Chrzanowski)&lt;/ref&gt; The main rocket testing, training and launch site was transferred to [[Blizna]] in southeast Poland, outside of the range of the [[Allies of World War II|Allied]] bombers.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt; An [[Schutzstaffel|SS]] [[military base]] near Blizna was set up on 5 November 1943, from which 139 [[V-2 rocket|A4]] (also known as V-2) rockets were launched for experimental purposes and for training.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Jena&quot;&gt;[[#Jena69|Jena1806.Com]]: 2009&lt;/ref&gt;&lt;ref name=&quot;Heidelager Republika&quot;&gt;{{cite web |url=http://www.heidelager.republika.pl/ |title=Poligon V1/V2 Blizna |language=Polish |trans_title=Blizna V1/V2 facility |last=Puszkin |first=Piotr |date=26 April 2008 |deadurl=no |archiveurl=http://web.archive.org/web/20160304125039/http://www.heidelager.republika.pl/ |archivedate=4 March 2016 |accessdate=2 November 2016}}&lt;/ref&gt;&lt;ref name=&quot;RussianSpaceWeb&quot;&gt;[[#Anatoly69|Zak, Anatoly: RussianSpaceWeb.Com]]: 2011&lt;/ref&gt; The site was operational until early July 1944. Test launches also continued at Peenemünde until 21 February 1945.&lt;ref name=&quot;Middlebrook&quot; /&gt;&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt;
+
+Before the construction began in Blizna there was nothing there but uncleared forest.&lt;ref name=&quot;AleMuzea!&quot; /&gt; The Nazis used [[slavery|slave]] labour from the nearby [[Pustków, Podkarpackie Voivodeship#HL-Heidelager|''SS Truppenübungsplatz Heidelager'']] concentration camp in [[Pustków, Podkarpackie Voivodeship|Pustków]] to build new infrastructure, starting with concrete roads, then a [[narrow-gauge railway]] line linking to the station at [[Kochanówka, Podkarpackie Voivodeship|Kochanówka]] village.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref name=&quot;ReferenceA&quot;&gt;[[#refWiąk2003|Wiąk 2003]], p.435-439.&lt;/ref&gt;&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.35 (Marek Flis, Mirosław Surdej)&lt;/ref&gt; They built barracks, bunkers, buildings and all the specialised equipment needed for the operation and firing of rockets.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref name=&quot;ReferenceB&quot;&gt;[[#refWnuk2012|Wnuk 2012]], p.36 (Marek Flis, Mirosław Surdej)&lt;/ref&gt; In addition, they tried to disguise the site as much as possible. They did this by building an artificial village; cottages and barns were made of plywood, lines hung with clothes and bed-sheets. They even created false people and animals using [[gypsum plaster]].&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref name=&quot;ReferenceB&quot; /&gt;{{sfn|Glass|2000|p=24}}{{sfn|Dornberger|2004|p=18}}
+
+The site was considered to be of such high strategic importance that it attracted personal visits from many of the Nazi régime's ''[[:wikt:crème de la crème|crème de la crème]]'';&lt;ref name=&quot;Dornberger&quot; /&gt; [[Heinrich Himmler]] and ''SS-[[Obergruppenführer]]s'' [[Hans Kammler]] and [[Gottlob Berger]], visited in September 1943,&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.36,37 (Marek Flis, Mirosław Surdej)&lt;/ref&gt; [[Adolf Hitler]] visited in the spring of 1944.&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt; The commander of the site was [[Walter Dornberger|Major-General Dr Walter Dornberger]], leader of Nazi Germany's V-2 rocket program.&lt;ref name=&quot;Dornberger&quot;&gt;[[#Dornberger2004|Dornberger 2004]] p18.&lt;/ref&gt; [[Wernher von Braun]], creator of the V-2, central figure in Germany's pre-war rocket development program, and post-war director of [[NASA]]'s [[Marshall Space Flight Center]],&lt;ref name=&quot;Earth&quot;&gt;{{cite web |url=http://earthobservatory.nasa.gov/Features/vonBraun/ |title=Wernher von Braun : Feature Articles |publisher=earthobservatory.nasa.gov |accessdate=2009-10-24}}&lt;/ref&gt;&lt;ref name=&quot;&quot;NASA&gt;{{cite web |url=http://history.msfc.nasa.gov/vonbraun/bio.html |title=Biography of Wernher Von Braun |publisher=history.msfc.nasa.gov |accessdate=2009-10-24}}&lt;/ref&gt; worked at the Blizna test site and personally visited the test missile impact areas to troubleshoot any problems discovered during trials.&lt;ref name=&quot;AleMuzea!&quot;/&gt;&lt;ref name=&quot;Heidelager Republika&quot; /&gt;{{sfn|Glass|2000|p=24}}{{sfn|Dornberger|2004|p=18}}&lt;ref name=&quot;RussianSpaceWeb&quot;/&gt;&lt;ref name=&quot;Dornberger&quot;/&gt;&lt;ref name=&quot;Gatland&quot;&gt;[[#Gatland69|Gatland, Kenneth William: Project Satellite]]: 1958 p82&lt;/ref&gt;
+
+[[File:Blizna Bunker.JPG|thumb|left|200px|German [[World War II]] [[bunker]] near [[Sadykierz, Ropczyce-Sędziszów County|Sadykierz]], {{convert|5.5|km|mi|lk=out|abbr=off}} from launch site.]]
+British Intelligence were very keen to get information about the new V-2 missile site. The first reports came in October 1943 from the Polish underground Home Army ({{lang|pl|Armia Krajowa}}) Intelligence HQ in Warsaw, stating that a number of villages around [[Dębica]] were being forcibly evacuated.&lt;ref name=&quot;Campbell&quot;&gt;[[#refCampbell2012|Campbell 2012]], p.187&lt;/ref&gt; This area was already known for its SS training centre [[SS-Truppenübungsplatz Heidelager]]. Further reports informed of a new railway line being constructed in the same vicinity leading to [[Blizna]].&lt;ref name=&quot;Campbell&quot; /&gt; A report made on 14 February 1944 gave information about a sighting of a rocket '{{convert|14|m|ft|spell=in|abbr=off}} long and a weight of seven tons'. On  22 February the report was of a projectile '{{convert|12|m|ft|spell=in|abbr=off}} long, [with] a diameter {{convert|1+1/2|m|ft|spell=in|abbr=off}} and a weight of twelve tons'. These missiles were being fired 24 hours a day.&lt;ref name=&quot;Campbell&quot; /&gt; The [[Cryptanalysis|codebreakers]] at [[Bletchley Park]] in England also managed to decrypt vital information from German communications.&lt;ref name=&quot;Campbell 188&quot;&gt;[[#refCampbell2012|Campbell 2012]], p.188&lt;/ref&gt; These made mentions of {{lang|de|''Versuchsstab''}} (experimental staff) {{lang|de|''Komanndostelle''}} Siegfried' and of ''SS-Truppenübungsplatz Heidelager''. Many more communications were intercepted and decrypted, which together with information from the Polish, helped British Intelligence build up a good picture of what was going on.&lt;ref name=&quot;Campbell 188&quot; /&gt;&lt;ref&gt;[[#refAldrich2010|Aldrich 2010]]&lt;/ref&gt;
+
+The missile testing ground at Blizna was quickly located by the Polish resistance movement, the [[Armia Krajowa]] thanks to reports from local farmers.&lt;ref name=&quot;AleMuzea!&quot; /&gt;{{sfn|Glass|2000|p=26}} The site was constantly under observation by Armia Krajowa and the Polish [[Bataliony Chłopskie|Peasant Battalions]].&lt;ref name=&quot;AleMuzea!&quot; /&gt;&lt;ref name=&quot;ReferenceA&quot; /&gt;&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.40. (Marek Flis, Mirosław Surdej)&lt;/ref&gt; Due to Blizna's perceived strategic importance, Armia Krajowa had many field agents operating covertly in the area,&lt;ref name=&quot;ReferenceA&quot; /&gt; these included AK [[Kolbuszowa]] (code name: ''‘Kefir’''), AK [[Dębica]] (code name: ''‘Deser’'') and AK [[Mielec]] (code name: ''‘Mleko’'').&lt;ref name=&quot;ReferenceA&quot; /&gt;&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.40.(Marek Flis, Mirosław Surdej)&lt;/ref&gt; These field agents even managed to obtain pieces of the fired rockets, by arriving on the scene before German patrols.&lt;ref name=&quot;ReferenceA&quot; /&gt;&lt;ref name=&quot;ReferenceC&quot;&gt;[[#refWnuk2012|Wnuk 2012]], p.44.(Marek Flis, Mirosław Surdej)&lt;/ref&gt; These fragments were then smuggled by AK agents to secret labs in Warsaw, where the rocket parts were analysed by specialist teams, headed by Professors [[Janusz Groszkowski]] and [[Marceli Struszyński]], and glider constructor [[Antoni Kocjan]].&lt;ref&gt;{{cite web|url=http://nekropole.info/en/Antoni-Kocjan|title=Antoni Kocjan|last=|first=|date=2011|website=Nekropole|publisher=|access-date=2016-04-15}}&lt;/ref&gt;&lt;ref name=&quot;Silent-Dark&quot;&gt;{{cite web |url=http://polishgreatness.blogspot.co.uk/2011/12/secret-polish-forces-of-ww2-silent-dark_07.html |title=Polish Greatness |publisher=Polish Greatness.com |date=7 December 2011 |deadurl=no |archiveurl=http://web.archive.org/web/20161103074514/http://polishgreatness.blogspot.co.uk/2011/12/secret-polish-forces-of-ww2-silent-dark_07.html |archivedate=3 November 2016 |accessdate=3 November 2016}}&lt;/ref&gt; Vital information about the rocket propellant was discovered when numerous reports came in of a strong smell of [[alcohol]] at the crash sites.&lt;ref name=&quot;ReferenceC&quot; /&gt;&lt;ref name=&quot;Relacja Aleksandra Rusina 2007&quot;&gt;Relacja Aleksandra Rusina, 23 IX 2007, z zbiorach Marka Flisa. {{pl}}&lt;/ref&gt;&lt;ref group=&quot;note&quot; name=&quot;http://www.v2rocket.com/&quot;&gt;The V-2 [[Liquid-propellant rocket|propellant formula]] comprises: [[kerosene|fuel]], [[alcohol]], [[liquid oxygen]], [[hydrogen peroxide]] and [[sodium permanganate]] ([[catalyst]]).&lt;/ref&gt;&lt;ref name=&quot;V2Rocket.com&quot;&gt;{{cite web |url=http://www.v2rocket.com/start/makeup/design.html |title=A-4/V-2 Makeup – Tech Data &amp; Markings |work=V2 Rocket.com |deadurl=no |archiveurl=http://web.archive.org/web/20100424031206/http://www.v2rocket.com/start/makeup/design.html |archivedate=23 March 2010 |accessdate=4 November 2016 }}&lt;/ref&gt; AK agent, Aleksander Rusin (code name: ''‘Rusal’'') was one of these witnesses. A V-2 missile [[:wikt:crash land|crash-land]]ed near to his observation location near [[Mielec]].&lt;ref name=&quot;Relacja Aleksandra Rusina 2007&quot; /&gt; Rusin ran up to the crash site and found an intact working motor, which he managed to measure and sketch shortly before it exploded.&lt;ref name=&quot;ReferenceC&quot; /&gt;&lt;ref name=&quot;Relacja Aleksandra Rusina 2007&quot; /&gt; [[File:V-2 Bug.jpg|thumb|left|[[V-2 rocket]] being recovered from the [[Bug River]] near [[Sarnaki]], about {{convert|129|km|mi|0|lk=out|abbr=on}}  east of Warsaw]]
+
+In early March 1944, [[Secret Intelligence Service|British Intelligence Headquarters]] received a report of an Armia Krajowa agent (code name: ''‘Makara’'') who had covertly surveyed the Blizna [[Rail tracks|railway line]] and observed a [[Railroad car|freight car]] heavily guarded by SS troops containing ''‘an object which, though covered by a [[tarpaulin]], bore every resemblance to a monstrous torpedo’''.&lt;ref name=&quot;ReferenceA&quot; /&gt;&lt;ref name=McGovern&gt;{{cite book |last=McGovern|first=James|authorlink=James &quot;Earthquake McGoon&quot; McGovern Jr.|title=Crossbow and Overcast|year=1964|month= |publisher=W. Morrow|location=New York|page=42}}&lt;/ref&gt; Subsequently, a plan was formed to make an attempt to capture a whole unexploded V-2 rocket and transport it to Britain.&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.48.(Marek Flis, Mirosław Surdej)&lt;/ref&gt;&lt;ref&gt;[[#refŁubieński1976|Łubieński 1976]] p.157.&lt;/ref&gt; The plan was to stop the train in the forested area between Brzeskie and [[Tarnów]].&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.48.(Marek Flis, Mirosław Surdej)&lt;/ref&gt;&lt;ref&gt;[[#refŁubieński1976|Łubieński 1976]] p.157.&lt;/ref&gt;
+[[File:Prisoners of Poligon SS-Truppenübungsplatz Heidelager „Dębica”.jpg|thumb|right|Prisoners of [[SS-Truppenübungsplatz Heidelager]].]]
+
+Despite meticulous planning by Armia Krajowa, the security on the German supply trains had been increased dramatically and  the plan had to be called off at the last minute, as it had become unfeasible.&lt;ref&gt;[[#refWnuk2012|Wnuk 2012]], p.48.(Marek Flis, Mirosław Surdej)&lt;/ref&gt;&lt;ref&gt;[[#refŁubieński1976|Łubieński 1976]] p.157.&lt;/ref&gt; Around 20 May 1944, a relatively undamaged V-2 rocket fell on the swampy bank of the [[Bug River]] near the village of [[Sarnaki]], south of [[Siemiatycze]] and local Poles managed to hide it before German arrival.&lt;ref name=&quot;Wojewódzki&quot; /&gt;  The rocket was then dismantled and smuggled across Poland.&lt;ref name=&quot;Wojewódzki&quot;&gt;{{cite book |last=Wojewódzki|first=Michał|title=Akcja V-1, V-2|year=1984|publisher= |location=Warsaw |language=Polish|isbn=83-211-0521-1|pages=}}&lt;/ref&gt;&lt;ref name=&quot;Breuer&quot; /&gt;  During the night of 25–26 July 1944, the [[Polish resistance movement in World War II|Polish resistance]] ([[Home Army and V1 and V2]]) secretly transported parts of the rocket out of Poland in [[Operation Most III]] (Bridge III or Wildhorn III),&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; for analysis by [[List of intelligence agencies#U|British intelligence]].&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref name=&quot;Breuer&quot; /&gt; The missile fragments were picked by an American [[Douglas C-47 Skytrain|C-47]] Dakota aeroplane from an AK agent (code name: ''‘Motyl’'') in an abandoned airfield between the villages of [[Jadowniki Mokre]] and [[Wał-Ruda]], near [[Żabno]], at the junction of the [[Dunajec]] and [[Wisła]] rivers, Poland.&lt;ref name=&quot;Silent-Dark&quot; /&gt;&lt;ref name=&quot;Breuer&quot;&gt;[[#refBreuer1993|Breuer 1993]], p.55.&lt;/ref&gt;
+
+[[File:Artilleriezielfeld-Blizna, 1943.jpg|thumb||[[V-2 rocket]] at Blizna launch site]]
+On 13 July 1944, the British Prime Minister [[Winston Churchill]] wrote a [[#Sources|letter]] to [[Joseph Stalin]],&lt;ref name=&quot;J. V. Stalin Archive&quot; /&gt; informing him about the German V-2 missiles being tested in Blizna, Poland. In his [[#Sources|letter]], Churchill asked Stalin to instruct his troops, who were about {{convert|50|km|mi|lk=out|abbr=off}} away from Dębica, to search for and preserve safely any apparatus and installations found at the base after it was captured by the advancing [[Red Army|Soviet Army]].&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt;&lt;ref name=&quot;J. V. Stalin Archive&quot;&gt;{{cite web |url=https://www.marxists.org/reference/archive/stalin/works/correspondence/01/44.htm |title=Correspondence between the Chairman of the Council of Ministers of the USSR and the Presidents of the USA and the Prime Ministers of Great Britain during the Great Patriotic War of 1941–1945 |publisher=J. V. Stalin Archive |deadurl=no |archiveurl=http://web.archive.org/web/20100207094607/http://www.marxists.org/reference/archive/stalin/works/correspondence/01/44.htm |archivedate=7 February 2010 |accessdate=3 November 2013}}&lt;/ref&gt; He also asked Stalin to allow British experts to visit Dębica to examine the missile base. Stalin granted Churchill's requests, however, at the same time he instructed his army intelligence and [[USSR State Defense Committee]] [[People's Commissar]] for Aviation Industry, Alexei Shakhurin to get ready for the examination of the German missiles.&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; Shakhurin was ordered to have his weaponry experts in Dębica long before the British arrived.&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; In late July 1944 the advance of Red Army forced the Germans to evacuate the base at Blizna and launch activities were moved to the [[Tuchola Forest]].&lt;ref name=&quot;Heidelager Republika&quot; /&gt;&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; The Red Army reached Blizna on 6 August 1944, about ten days after the Germans had moved out.  Many of the first remnants of V-2 missiles were recovered by troops of the [[60th Army (Soviet Union)|60th army]] commanded by General [[Pavel Kurochkin|Pavel Alekseyevich Kurochkin]].&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; British intelligence agents were eventually granted access to the launch site in September 1944.&lt;ref name=&quot;Heidelager Republika&quot; /&gt; Their mission was to collect as much remaining rocket parts and [[Intelligence assessment|intel]] on the site, as they could.&lt;ref name=&quot;Heidelager Republika&quot; /&gt; By then the Red Army had already cleared out most of what the Germans had left and had shipped it to the Soviet Union, as per Stalin's instructions.&lt;ref name=&quot;RussianSpaceWeb&quot; /&gt; However, the British did manage to fill several crates with some useful V-2 rocket parts, which were then transported to England with the full co-operation of the Soviets.&lt;ref name=&quot;Heidelager Republika&quot; /&gt; When the crates were opened in London, they did not have the expected contents, instead they contained old rusty [[truck]] and [[tank]] parts,&lt;ref name=&quot;Heidelager Republika&quot; /&gt; which had most likely been substituted by Soviet agents.
+
+== See also ==
+* [[List of V-2 test launches#Blizna test launch list|List of Blizna V-2 test launches]]
+* [[Rocket launch site]]
+* ''[[SS-Truppenübungsplatz Heidelager]]''
+* [[Operation Osoaviakhim]]
+{{For|a description of a test explosion|Test Stand VII}}
+
+== References ==
+
+=== Footnotes ===
+{{Reflist|group=note|liststyle=lower-alpha}}
+
+=== Notes ===
+{{reflist|30em}}
+
+=== Bibliography ===
+&lt;!-- Please order books alphabetically by the author's last name --&gt;
+{{Refbegin}}
+* {{cite book |last=Aldrich|first=Richard James |title=GCHQ The Uncensored Story of Britain's Most Secret Intelligence Agency |url=https://people.exeter.ac.uk/mm394/Richard%20James%20Aldrich%20GCHQ%20The%20Uncensored%20Story%20of%20Britains%20Most%20Secret%20Intelligence%20Agency%20%202010.pdf |format=PDF |year=2010 |publisher=HarperPress|accessdate=2016-11-04|ref=refAldrich2010}}
+* {{cite book |last=Breuer |first1=William B. |url=https://books.google.com/books/about/Race_to_the_Moon.html?id=7IFTAAAAMAAJ&amp;redir_esc=y |title=Race to the Moon: America's Duel with the Soviets |location=Westport, CT |publisher=Praeger Publishers |year=1993 |isbn=0-275-94481-6 |deadurl=no |archiveurl=http://web.archive.org/web/20130628160409/http://www.amazon.com/Race-Moon-Americas-Duel-Soviets/dp/0275944816 |archivedate=28 June 2013 |accessdate=3 November 2016|ref=refBreuer1993}}
+* {{cite book |last= Campbell |first=Christy |title= Target London: Under attack from the V-weapons during WWII|url=https://books.google.com/books?id=7gMN_xitcNMC&amp;pg=PT188|accessdate=5 November 2016|date=29 March 2012|publisher=Little, Brown Book Group|isbn=978-0-7481-2201-1|archiveurl=http://web.archive.org/web/20161105161316/https://books.google.com/books?id=7gMN_xitcNMC&amp;pg=PT188&amp;lpg=PT188&amp;dq=ss+truppen%C3%BCbungsplatz+heidelager&amp;source=bl&amp;ots=CYnd7b09GS&amp;sig=eaCTPol5SvHBmGfPiIQXILS07j0&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwihqYfX9pHQAhWHKcAKHQCHD9Y4ChDoAQg7MAY|archivedate=5 November 2016 |ref=refCampbell2012}}
+* {{cite book |last=Dornberger |first=Walter |authorlink=Walter Dornberger |year=2004 |title=V-2 superbroń Trzeciej Rzeszy 1930–1945 |orig-year=1952 V2–Der Schuss ins Weltall |location=Moscow |publisher=Centropoligraf |language=Polish |ref=harv}}
+* {{cite book|last=Gatland|first=Kenneth William|others=John W. Wood|title=Project Satellite|publisher=Wingate|location=[[London]]|year=1958|edition=First|pages=169|oclc=1183846|url=http://openlibrary.org/b/OL6241939M/Project_satellite.|accessdate=24 October 2009|ref=Gatland69}}
+* {{cite book |last1=Glass |first1=A. |last2=Korduczuk |first2=S. |last3=Stępniewska |first3=D. |display-authors=1 |title=Wywiad Armii Krajowej w walce z V-1 i V-2 |trans_title=Interview of the Home Army in the Fight Against the V-1 and V-2 |publisher=Mirage Hobby W-wa |year=2000 |location=Warsaw|language=Polish|ref={{harvid|Glass|2000}}}}
+* {{cite book|last1=King|first1=Benjamin |last2=Kutta|first2=Timothy|title=Impact: The History of Germany's V-Weapons in World War II|url=https://books.google.com/books?id=9WZ_z55WC1MC|accessdate=25 February 2010|date=15 July 2003|publisher=Da Capo Press|isbn=978-0-306-81292-7|ref=King69}}
+* {{cite book |last=Łubieński |first1=Konstanty |url=http://katalog.rajska.info/632001033852/ubieskikonstanty/kartkizwojny |title=Kartki z wojny / Konstanty Łubieński |location=Warsaw |publisher=Ośrodek Dokumentacji i Studiów Społecznych |year=1976 |deadurl=no |archiveurl=http://web.archive.org/web/20161103055118/http://katalog.rajska.info/632001033852/ubieskikonstanty/kartkizwojny |archivedate=3 November 2016 |accessdate=3 November 2016|language=Polish|ref=refŁubieński1976}}
+* {{cite book |last=Middlebrook|first=Martin|authorlink= |title=The Peenemünde Raid: The Night of 17–18 August 1943|year=1982|publisher=Bobs-Merrill|location=New York|url=https://www.amazon.co.uk/Peenemünde-Raid-Cassell-Military-Paperbacks/dp/0304353469|ref=refMiddlebrook1982}}
+* {{cite book |last=Wiąk |first1=W |url=http://www.kwadryga.com/product_info.php/wiak-wieslaw-jozef-struktura-organizacyjna-armii-krajowej-1939-1944-p-7109 |title=Struktura organizacyjna Armii Krajowej 1939–1944 |location=Warsaw |year=2003 |deadurl=no |archiveurl=http://web.archive.org/web/20140220065609/http://www.kwadryga.com/product_info.php/wiak-wieslaw-jozef-struktura-organizacyjna-armii-krajowej-1939-1944-p-7109 |archivedate=20 February 2014 |accessdate=3 November 2016|language=Polish|ref=refWiąk2003}}
+* {{cite book |last1=Wnuk |first1=Rafał |last2=Zapart |first2=Robert |last3=Szkudliński |first3=Jan |url=http://ksiazkihistoryczne.pl/historia-powszechna-xx-w-tajemnice-blizny/p,288431 |title=Tajemnice Blizny. Wywiad Armii Krajowej w walce z rakietami V-2 |trans_title=Secrets of Blizna. Polish ‘Armia Krajowa’ in the fight against V-2 rockets|volume=1 |edition=1 |editor-last=Blińko |editor-first=Beata |work=Wydawnictwo ‘Oskar’ sp. z o.o. (Krzysztof Pałubicki) |location=Gdańsk |publisher=Muzeum II Wojny Światowej w Gdańsku oraz Fundację Armii Krajowej im. Franciszka Miszczaka w Londynie |year=2012 |isbn=978-83-63709-19-8 |deadurl=no |archiveurl=http://web.archive.org/web/20161103005238/http://ksiazkihistoryczne.pl/historia-powszechna-xx-w-tajemnice-blizny/p,288431 |archivedate=3 November 2016 |accessdate=3 November 2016|language=Polish|ref=refWnuk2012}}
+* {{cite book |last=Wojewódzki |first1=M |title=Akcja V-1,V-2 |location=Warsaw |publisher=PAX W-wa |year=1984 |language=Polish|ref=refWojewódzki1984}}
+{{Refend}}
+
+=== Further reading ===
+* Dungan, Tracy D. (2005). ''V-2: A Combat History of the First Ballistic Missile.'' Westholme Publishing. ISBN 1-59416-012-0.
+* {{cite book |last=Góra |first1=Władysław |title=Wojna i okupacja ziemiach na Polskich 1939–1945 |location=Warsaw |publisher=Wydawnictwo Książka i Wiedza |year=1984 |isbn=83-05-11290-X |language=Polish}}
+* Huzel, Dieter K. (ca. 1965). ''Peenemünde to Canaveral''. Prentice Hall Inc.
+* Piszkiewicz, Dennis (1995). ''The Nazi Rocketeers: Dreams of Space and Crimes of War''. Westport, Conn.: Praeger. ISBN 0-275-95217-7.
+
+=== Sources ===
+* '''First Launch:''' 1943-11-05. '''Last Launch:''' 1944-07-24. '''Number:''' 277 . '''Location:''' [[Blizna]], Poland. '''Longitude:''' 21.6162 deg. '''Latitude:''' 50.1819 deg.
+* [[V-1 flying bomb#Countermeasures|Diver]] – a secret British Defence Instruction specified the code name: &quot;Enemy Flying Bombs will be referred to or known as 'Diver' aircraft or pilotless planes&quot; to alert defences of an imminent attack (often called Operation ''Diver'', particularly post-war, without citation).
+*{{cite book |last=Cooksley|first=Peter G|title=Flying Bomb|year=1979 |publisher=Charles Scribner's Sons|location=New York|pages=102, 162, 197 |isbn=0-684-16284-9}}{{Rp|61}}
+* {{cite web |url=http://www.jena1806.com/bli.htm|title=List of V-2 test missile launches from Blizna|publisher=jena1806.com |accessdate=2009-10-24|ref=Jena69}}
+* {{cite web |url=http://www.v2rakete.de/blizna/index.html |title=Eintrag über Blizna |language=German |trans_title=Entry on Blizna |publisher=v2rakete.de |deadurl=no |archiveurl=http://web.archive.org/web/20140417033243/http://www.v2rakete.de/blizna/index.html |archivedate=17 April 2014 |accessdate=4 November 2016 |ref=harv}}
+* {{cite web |url=http://www.russianspaceweb.com/a4_poland.html |title=V-2 tests in Poland |last=Zak |first=Anatoly |publisher=RussianSpaceWeb.com |deadurl=no |archiveurl=http://web.archive.org/web/20110622080547/http://www.russianspaceweb.com/a4_poland.html |archivedate=22 June 2011 |accessdate=3 November 2016|ref=Anatoly69}}
+* The initial version of this article is based upon the history section of article [[Blizna]] of the English edition of Wikipedia.
+* {{cite web |url=https://www.marxists.org/reference/archive/stalin/works/correspondence/01/44.htm |title=Correspondence between the Chairman of the Council of Ministers of the USSR and the Presidents of the USA and the Prime Ministers of Great Britain during the Great Patriotic War of 1941–1945 |publisher=[[Joseph Vissarionovich Stalin]] Archive |deadurl=no |archiveurl=http://web.archive.org/web/20100207094607/http://www.marxists.org/reference/archive/stalin/works/correspondence/01/44.htm |archivedate=7 February 2010 |accessdate=3 November 2013}}:
+
+[[File:V-2 rocket diagram (with English labels).svg|upright|right|thumb|230px|[[V-2]] rocket diagram]]
+{|class=&quot;wikitable&quot; style=&quot;float:center;&quot;
+|- style=&quot;font-size: 85%; colour:black; width:10em; max-width: 10%;&quot; cellspacing=&quot;0&quot;
+!'''PERSONAL AND MOST SECRET MESSAGE FROM MR CHURCHILL TO MARSHAL STALIN'''
+13 July 1944
+ 1. There is firm evidence that the Germans have been conducting the trials of flying rockets from an experimental station at
+ Dębice in Poland for a considerable time. According to our information this missile has an explosive charge of about twelve
+ thousand pounds and the effectiveness of our counter-measures largely depends on how much we can find out about this weapon
+ before it is launched against this country. Dębice is in the path of your victorious advancing armies and it may well be that
+ you will overrun this place in the next few weeks.
+
+ 2. Although the Germans will almost certainly destroy or remove as much of the equipment at Dębice as they can, it is
+ probable that a considerable amount of information will become available when the area is in Russian hands. In particular
+ we hope to learn how the rocket is discharged as this will enable us to locate the launching sites.
+
+ 3. I should be grateful, therefore, Marshal Stalin, if you could give appropriate instructions for the preservation of such
+ apparatus and installations at Dębice as your armies are able to ensure after the area has been overrun, and that thereafter
+ you would afford us facilities for the examination of this experimental station by our experts.
+
+ – '''[[Winston Churchill]]'''
+|}
+
+== Gallery ==
+
+&lt;center&gt;
+&lt;gallery mode=packed&gt;
+File:Artilleriezielfeld-Blizna (Artillery Target Area at Blizna), 1943.jpg|[[V-2]] rocket in Blizna 1943
+File:Aggregat4-Schnitt-engl.jpg|upright|Layout of a [[V-2]] rocket
+File:Blizna 010 - V2 missile.jpg|upright|replica [[V-2]] missile in Blizna V-2 War Museum
+File:Bundesarchiv Bild 141-1880, Peenemünde, Start einer V2.jpg|thumb|right|upright|A [[V-2 rocket|V-2 missile]] being launched in Summer 1943
+File:This boy's dead body, aflame, bears ghastly witness of the horror of the damage done by V-2 on main intersection in... - NARA - 531329.tif|Aftermath of a [[V-2]] rocket attack on the main intersection in [[Antwerp]], [[Belgium]], 27 November 1944
+File:London V2 Frissell2.jpg|Aftermath of [[V-2]] bombing at [[Battersea]], [[London]], 27 January 1945.
+File:Blizna001.jpg|[[World War II]] German vehicle – [[Blizna]], Poland
+File:An-2 at Blizna005.jpg|Post-war 1946 Russian [[Antonov An-2]] aeroplane at Blizna V-2 Museum
+File:V2 missile fragments.jpg|[[V-2]] missile fragments Blizna V-2 War Museum
+File:Esquema de la V-2.jpg|A [[United States Army|US Army]] cut-away of the [[V-2]]
+File:Home Army intelligence on V1 and V2.JPG|[[Armia Krajowa and V-1 and V-2|Home Army]] intelligence reports on [[V-1 flying bomb|V-1]] and [[V-2]] missiles
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+== External links ==
+{{Commons category|Blizna (województwo podkarpackie)|Blizna}}
+* [https://www.facebook.com/ParkHistorycznyBlizna/?fref=ts Park Historyczny Blizna] [http://www.parkhistorycznyblizna.pl/kamera.html live cam]
+* [https://www.youtube.com/watch?v=0_3dz-tZQPw BLIZNA – Poligon rakietowy V-1 V-2] {{pl}} Video on YouTube
+* [https://www.instagram.com/explore/locations/356274832/park-historyczny-blizna/ Instagram photos]
+* [[Wayback Machine|Archived]] ''[https://wayback.archive.org/web/20070808202900/http://astronautix.com/sites/heilager.htm Truppenubungsplatz Heidelager]''. German test range for production V-2 missiles.
+* [http://wsubiektywie.pl/2011-09-20-park-historyczny-blizna-rakiety-v-1-i-v-2.html#more-1471 Zdjęcia Parku Historycznego BLIZNA]
+
+{{V-weapons}}
+{{Armia Krajowa}}
+{{Gmina Ostrów}}
+{{Spaceport}}
+{{Authority control}}
+
+{{DEFAULTSORT:Blizna, V-2 missile launch sites}}
+[[Category:Holocaust locations in Poland]]
+[[Category:V-2 missile launch sites| ]]&lt;!--please leave the empty space as standard--&gt;
+[[Category:Military operations involving Armia Krajowa|V-weapons]]
+[[Category:V-weapons|*]]
+[[Category:Villages in Ropczyce-Sędziszów County]]
+[[Category:Spaceports]]
+[[Category:World War II]]
+[[Category:World War II sites of Nazi Germany]]
+[[Category:Weaponry articles needing attention to structure]]</text>
+      <sha1>azk0yrc0yjl5hn0ge92nwt28x1peq37</sha1>
+    </revision>
+  </page>
+</mediawiki>

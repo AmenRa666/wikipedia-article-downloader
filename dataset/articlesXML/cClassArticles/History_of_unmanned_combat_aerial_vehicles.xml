@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>History of unmanned combat aerial vehicles</title>
+    <ns>0</ns>
+    <id>3525512</id>
+    <revision>
+      <id>741199198</id>
+      <parentid>741198301</parentid>
+      <timestamp>2016-09-26T01:01:09Z</timestamp>
+      <contributor>
+        <username>Jim1138</username>
+        <id>7695475</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contributions/99.194.49.63|99.194.49.63]] ([[User talk:99.194.49.63|talk]]): Unexplained removal of content ([[WP:HG|HG]]) (3.1.21)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="23364">{{one source|date=March 2011}}
+The '''history of unmanned combat aerial vehicles''' ([[unmanned combat aerial vehicle|UCAV]]s) is closely tied to the general [[history of unmanned aerial vehicles]] (UAVs).
+
+==UCAV origins==
+
+=== Cold War era 1945-1990 ===
+During the 1960s the US Navy installed thousands of [[QH-50 DASH]] torpedo-launching helicopter drones on many of their destroyers. They were meant as a stopgap measure to counter the threat of an ever growing fleet of Soviet attack submarines.  The entire fleet was retired when larger destroyers were introduced, permitting the use of manned helicopters to launch the same kind of torpedo, and the use of more powerful rocket-assisted torpedo systems.
+
+If UAVs could be used for [[reconnaissance]] by the army and the air force, it was obvious that they could also be used for active combat missions, at least in principle.  In practice, shooting at a specific ground target is much trickier than flying over an area and taking pictures, and it wasn't until the 1970s that the [[US Air Force]] seriously experimented with the concept. The objective was to study an attack system to perform the dangerous &quot;suppression of enemy air defenses (SEAD)&quot; mission, or in other words to destroy enemy [[anti-aircraft]] gun and [[Surface-to-air missile|SAM]] sites. The project was known as '''HAVE LEMON''', a somewhat odd choice of name, since in US slang a &quot;lemon&quot; is a troublesome and worthless automobile, or similar unwanted machine.
+
+[[File:Teledyne-Ryan-Firebee-hatzerim-1.jpg|thumb|right|Ryan Firebee]]
+HAVE LEMON involved a number of [[Ryan Firebee]]s equipped with a weapons pylon under each wing, a forward-looking TV camera, and a datalink mounted in a pod on top of the vertical tailplane. These UAVs were given the designation &quot;[[BGM-34A]]&quot; and used beginning in late 1971 to perform remote-control strikes on simulated air-defense sites with [[AGM-65 Maverick|Maverick missiles]] and [[HOBOS]] TV-guided [[glide bomb]]s.
+
+The results were good enough to permit follow-on development, resulting in the &quot;[[BGM-34B]]&quot;, which featured an extended nose to accommodate an [[Thermographic camera|infrared imaging system]] (some sources{{who|date=February 2015}} say low-light-level TV) and [[laser designator]] for targeting and control of [[laser-guided bomb]]s. Tests performed in 1973 and 1974 with the BGM-34B were also successful, and led [[Teledyne Ryan]] to develop a &quot;[[BGM-34C]]&quot; as a conversion of existing Lightning Bug airframes. The BGM-34C could be used for reconnaissance or strike missions by swapping out nose modules and other elements.
+
+The concept proved to be a little too far ahead of its time. Nobody in the Air Force hierarchy stepped forward to take ownership of the issue, and the HAVE LEMON exercise faded away. The test squadron was disbanded in 1979 and its roughly 60 UAVs were put into storage. However, in the summer of 2003 a UAV &quot;airshow&quot; of sorts was conducted, in which a Firebee was displayed carrying two [[AGM-114 Hellfire|Hellfire]] anti-armor missiles, as well as a pod for dispensing remote battlefield sensors; apparently [[Northrop Grumman]] was running the idea up a flagpole to see if anyone would salute.
+
+UAV advocates claim the Air Force abandoned UAVs for strike missions because of inclination of &quot;hotshot flyboys&quot; to keep the mission for themselves, but in fact the concept has always suffered from &quot;command and control&quot; problems, such as the vulnerability of communications links to jamming and spoofing, and the need to hit specific targets and not accidentally kill civilians or friendly troops. {{Citation needed|date=April 2012}}
+
+==== Air To Air Combat ====
+As attention focused on the combat capabilities of attack drones, the [[USN]] and [[USAF]] were looking for drones that could turn 6Gs and quickly roll into tight turns.  While at the same time, US designers were wondering if ''dog-fights'' between robot planes were just around the corner.&lt;ref name=&quot;Wagner186&quot;&gt;Wagner p. 186&lt;/ref&gt; The US Navy's [[United States Navy Fighter Weapons School|Fighter Weapons School]] established in 1969 at Miramar Naval Air Station in [[California]], better known as [[Top Gun]], was tasked with supplying the USN with trained jet pilots for aerial combat missions over the skies of [[North Vietnam]].&lt;ref name=&quot;Wagner188&quot;&gt;Wagner p. 188&lt;/ref&gt;
+
+From 25 January through 28 April 1971 a batch of ''Maneuverability Augmentation System for Tactical Air Combat Simulation'' (MASTACS) systems were modified onto existing US Navy ''BQM-34A'' drones (UAVs).  These UAVs were test flown to evaluate their maneuvering characteristics, which were deemed good.&lt;ref name=&quot;Wagner186&quot;/&gt;  On 10 May 1971, the ''MASTACS'' exercise was ready to commence off the coast of California, against two USN [[F4 Phantom]]s flown by Vietnam combat experienced pilots, who had been students at the Top Gun school. 
+The F4s were equipped with both the [[infrared homing]] [[AIM-9 Sidewinder|Sidewinder]] and [[Semi-active radar homing|radar-guided]] [[AIM-7 Sparrow|Sparrow]] air-to-air missiles.&lt;ref name=&quot;Wagner188&quot;/&gt;  As the two F4s approached [[Santa Catalina Island, California|Santa Catalina Island]], a MASTAC-equipped [[Firebee]] was ground-launched.  The F4s were vectored towards the interception and the air-to-air battle was on.  No restrictions were placed on the F4 pilots, the air battle was to be a &quot;no holds barred contest&quot;,&lt;ref name=&quot;Wagner188&quot;/&gt; with the very real possibility of a ''Phantom'' being rammed by a UAV as it maneuvered during the [[dogfight]].  The first action was a head-on maneuver, as the Phantom lined up for the kill, the UAV (drone) pulled a high-G turn and flew over the F4's canopy.  The [[Firebee]] was banking into 100-degree maneuvers, and making 180-degree reversal turns within 12 seconds.&lt;ref name=&quot;Wagner188&quot;/&gt;  The Phantoms were no longer attacking the UAV, they were now the targets!&lt;ref name=&quot;Wagner188&quot;/&gt;
+
+The UAVs had been able to pull and hold 6 Gs within three seconds of receiving the command, and still maintain altitude.  The Phantoms were unable to maintain track on the UAV, but fired their air-to-air missiles anyway, receiving no hits.&lt;ref&gt;Wagner p. 189&lt;/ref&gt;
+
+=== 1990s onward ===
+Over the next two decades, more reliable communications links were developed, automated systems came into much wider use, and the military learned to be much more comfortable with such new technologies. In the late 1990s, the concept of using UAVs for performing actual combat, was revived in the form of various designs generally designated as &quot;uninhabited combat air vehicles&quot;.
+
+One of the initial concepts was to develop a UCAV on a fast track for &quot;air occupation&quot;. The idea was to use unpiloted aircraft to fly continuous patrols over hostile territory, with some of the aircraft fitted with sophisticated sensors to identify enemy activities and target them, and other aircraft following up with attacks. The idea was obviously inspired by USAF air patrols over [[Iraq]] and the [[Balkans]]. [[Lockheed Martin]] suggested rebuilding old [[F-16]]A fighters as UAVs, fitting them with a wide wing to provide additional fuel, and also permit carriage of six or more air-to-surface weapons to provide the air-occupation strike element. The modified F-16As would have had endurance of 8 hours over a target area, and three sets of them could maintain 24-hour coverage.
+
+The [[United States Navy]] also began studies for UCAVs at about the same time. The Navy saw that UCAVs had a number of potential benefits. They promised to be cheaper than manned aircraft, with a lower purchase cost and much lower operating costs, since operators could be given much of their training through simulations. UCAVs would also be smaller and stealthier than manned aircraft, and could perform High-G maneuvers impossible with piloted aircraft, allowing them to dodge missiles and enemy fighters.
+
+Indeed, since the Navy found themselves increasingly committed to the use of expensive cruise missiles to perform punitive strikes and other limited military operations, UCAVs offered a potentially cheaper alternative, a &quot;reusable cruise missile&quot;. One UCAV could carry a number of smart GPS-guided munitions and hit multiple targets on a single sortie, and then return home to be used again. Even with a high combat attrition rate, the cost would be less than that of a barrage of cruise missiles.
+
+Lockheed Martin performed studies that envisioned a number of different naval UCAV configurations, including &quot;short takeoff and landing ([[STOVL]])&quot; aircraft that could be operated off of aircraft carriers, or &quot;vertical attitude takeoff and landing ([[VTOL]])&quot; or &quot;pogo&quot; aircraft that could be operated off destroyers and other surface combat ships, or even submarines.
+
+Piloted pogo aircraft were flight-tested in the 1950s and proved a technological dead end at the time, since they couldn't carry a useful payload and were extremely difficult to land even under benign conditions. The payload limitations can be addressed with lighter materials and RATO-boosted takeoff, and modern digital flight control systems can address the landing issue. The Navy has envisioned using pogo UCAVs to arm a guided-missile destroyer &quot;unmanned air wing&quot; with 20 pogo UCAVs for strike, and five pogo UAVs for reconnaissance.
+
+The [[submarine]] launch concept was even more speculative, since recovery was a problem. The Lockheed Martin UCAV concepts were in the 4.5 tonne (10,000 pound) weight class and carried a warload of 450 kilograms (1,000 pounds). Weapons were carried internally to improve stealth and consisted of 45 kilogram (100 pound) and 115 kilogram (250 pound) small smart bombs, now under development.
+
+Range would be about {{convert|1,100|km|mi|sp=us}}, with capability for probe-and-drogue [[aerial refueling]]. Top speed would be in the high [[subsonic aircraft|subsonic]] range, and ceiling would be about 12.2 kilometers (40,000&amp;nbsp;ft). The UCAVs would be equipped with fairly simple [[radar]] or electro-optical sensors to give the operators imagery of the target. Long-range sensing would be provided by other platforms in air or space.
+
+One Lockheed Martin UCAV concept was an arrowhead-shaped vehicle with no vertical surfaces and the air intake on top. A shaft-driven lift fan would exhaust through the nosewheel door for vertical landings, while the nose sensor array would pivot forward to expose the intakes for the lift fan. The UCAV would have a retractable refueling probe, communications antennas mounted on the aircraft's spine, and lights for navigation and refueling operations. Moveable wingtips and control surfaces along the sawtooth rear edge of the UCAV would eliminate the need for vertical stabilizers.
+
+Another Lockheed-Martin UCAV concept envisioned a diamond-shaped tailless flying wing, with an engine buried down the centerline, and conformal weapons bays flanking the engine. For greater stealth, the UCAV would flip onto its featureless back and fly upside-down.
+
+=== Overview ===
+Such UCAVs could be available in several versions: one with an afterburning engine for maximum performance; one with a non-afterburning engine, but with a thrust-vectoring exhaust for better maneuverability; and one with a conventional non-afterburning engine for low cost.
+
+UCAVs missions would be conducted by an operator in a ground vehicle, warship, or control aircraft over a high speed digital data link. The operator would not really be flying the UCAV directly, however, since the robot would be able to handle the details of flight operations by itself, leaving the operator in a supervisory role. The UCAV would be able to complete its mission autonomously if communications were cut.
+
+==USAF / Boeing X-45 UCAV==
+[[File:X-45A rollout.jpg|thumb|Boeing X-45A]]
+{{main article|Boeing X-45}}
+
+In March 1999, [[DARPA]] awarded a contract to Boeing for two &quot;X-45A&quot; UCAV technology demonstrators ahead of Northrop Grumman and Raytheon. Boeing rolled out the first prototype for public presentation at Saint Louis, Missouri, in September 2000. First flight was on 22 May 2002, from [[Edwards Air Force Base]] in California, and was followed a few months later by the second prototype.
+
+The first demonstrator was built to a &quot;Block 1&quot; standard, with a UHF control link and an L-band telemetry link. The second demonstrator was built to &quot;Block 2&quot; standard, with an added UHF satellite communications link and a &quot;Link 16&quot; fighter data link, and the first machine was updated to that standard. The two demonstrators were then flown on cooperative test missions. The tests investigated operation of multiple UCAVs in military operations; integration of UCAVs with other military operations; and the feasibility of using reservists to fly the robot aircraft.
+
+There has since been X-45B/C versions with greater fuel capacity and hence longer range.
+
+==US Navy / Northrop Grumman X-47A Pegasus UCAV==
+{{main article|X-47 Pegasus}}
+[[File:X-47A rollout.jpg|thumb|right|X-47A Pegasus]]
+
+The US Navy did not commit to practical UCAV efforts until the summer of 2000, when the service awarded contracts of $2 million USD each to Boeing and Northrop Grumman for a 15-month concept-exploration program.
+
+Design considerations for a naval UCAV included dealing with the corrosive salt-water environment, deck handling for launch and recovery, integration with command and control systems, and operation in a carrier's high electromagnetic interference environment. The Navy was also interested in using their UCAVs for reconnaissance missions, penetrating protected airspace to identify targets for the attack waves.
+
+The Navy went on to give Northrop Grumman a contract for a naval UCAV demonstrator with the designation of &quot;X-47A Pegasus&quot;, in early 2001. The Pegasus was rolled out on 30 July 2001 and performed its first flight on 23 February 2003 at the US Naval Air Warfare Center at China Lake, California.
+
+==US Joint Unmanned Combat Air System (J-UCAS)==
+{{main article|Joint Unmanned Combat Air Systems}}
+
+Both the Air Force and the Navy had been developing plans for operational follow-ons to their respective demonstrator programs, but pressures rose for the two services to merge their efforts, resulting in the formation of the &quot;Joint Unmanned Combat Air System (J-UCAS)&quot; program in October 2003 under DARPA direction.
+
+Of course, the candidates for the J-UCAS program include follow-ons to the X-45A and the X-47A. DARPA and Boeing had been working on the &quot;X-45B&quot;, a scaled-up X-45A that was seen as the prototype for an operational machine that would reach service in 2008, and would carry a 1,590 kilogram (3,500 pound) load to a combat radius of 1,665 kilometers (900 nautical miles). Two were to be built, but before any metal could be bent for the two X-45B prototypes planned, the Air Force redirected the effort to an even more capable machine, the &quot;X-45C&quot;.
+
+The goal of the J-UCAS effort was to select a single contractor to provide from 10 to 12 machines for operational evaluation in the 2007:2008 time frame. Current plans are to obtain two X-45Cs and two X-47Bs to perform a comparative evaluation and then select a winner for development in the 2010 time frame.
+
+The USAF envisioned that J-UCAS will feature:
+
+* Stores pylons on the wings for external fuel tanks or additional munitions.
+* Mid-air refueling capability.
+* A narrow field-of-view SAR-MTI system for targeting and post-strike damage assessment.
+
+The Navy is interested in many of the features on the Air Force wish list, though the Navy has put reconnaissance and jamming at the top of the list and strike at the bottom.
+
+In the 2006 [[Quadrennial Defense Review]] it was stated that the J-UCAS program would be terminated and instead a new long-range [[strategic bomber]] program has been launched.&lt;ref&gt;{{cite web|url=http://www.globalsecurity.org/org/news/2006/060113-j-ucas-terminated.htm|title=Pentagon Sets Plan For New Bomber, Terminates J-UCAS Program|author=John Pike|work=globalsecurity.org|accessdate=1 April 2015}}&lt;/ref&gt;
+
+==USAF Hunter-Killer==
+{{main article|USAF Hunter-Killer}}
+
+This is the U.S. Air Force program for which several companies have developed vehicles. In the 2004, the U.S. Air Force, in need of a less expensive short-term UCAV solution with a focus on endurance, opened up a competition for a &quot;Hunter-Killer&quot; UCAV. Specifications include:
+
+* An operating altitude of 10.7 to 15.25 kilometers (35,000 to 50,000 feet).
+* Endurance from 16 to 30 hours or more carrying a load of 1,360 kilograms (3,000 pounds), in specific six 225 kilogram (500 pound) guided bombs.
+* Fit of SAR/MTI or EO/IR sensors and laser target designator. Of course, the Hunter-Killer would be capable of performing surveillance or reconnaissance missions along with its active combat role.
+
+The Air Force wants to field the Hunter-Killer by 2007 and may order up to 60 machines. The program seems on avoiding expensive custom made components (&quot;gold plate&quot;), instead preferring &quot;off-the-shelf&quot; avionics.
+
+==International UCAV development efforts==
+{{Unreferenced section|date=August 2014}}
+There is considerable interest in UCAVs elsewhere, but so far matters have not advanced as far as they have in the US. The British displayed a concept UCAV designated &quot;Proteus&quot;, of no relation to the Scaled Composites Proteus. It was essentially a reusable cruise missile, with a long chisel-shaped fuselage with a hexagonal cross section, pop-out forward-swept wings, and triangular tailfins. It was apparently to be recovered by parachute and can carry a number of different warloads.
+
+The Swedish government has worked with the SAAB company to perform studies for a UCAV designated &quot;SHARC&quot;, for &quot;Swedish Highly Advanced Research Configuration&quot;. The study project was initiated in the late 1990s, and nine different configurations were considered, leading to selection of a single design. Low-speed wind tunnel tests were conducted in 1999, and included drop tests of plausible munitions fits from the SHARC's internal weapons bays. This was followed by a secret flight test of a subscale demonstrator in early 2002.
+
+The French [[Dassault Aviation]] firm has flown a subscale model of a stealthy UAV, designated the [[Dassault AVE-D Petit Duc|&quot;Aeronef de Validation Experimentale (Experimental Air Vehicle / AVE&quot;, or &quot;Petit DUC (Little Demonstrator UAV)&quot;]]. The AVE is intended to demonstrate Dassault's expertise in stealthy aircraft design, and could lead to UCAVs, reconnaissance UAVs, and high-speed expendable targets.
+
+First flight of the Petit DUC was in July 2000. The Petit DUC is a manta-ray-like black diamond of an aircraft, with twin tails and an engine intake on the back of the aircraft. It has retractable tricycle landing gear and is powered by twin AMT engines. Wingspan and length are both 2.4 meters (7.9&amp;nbsp;ft), empty weight is 35 kilograms (77 pounds), loaded weight is 60 kilograms (132 pounds), operational radius is about {{convert|150|km|mi|sp=us}}, and top speed is about 600&amp;nbsp;km/h (350&amp;nbsp;mph).
+
+The Petit Duc was to be followed by a &quot;Moyen (Medium) DUC&quot; demonstrator, and then a &quot;Grand DUC&quot; demonstrator. However, in late 2004 the direction of the effort changed somewhat. The French DGA defense procurement agency initiated a government effort to fly a UCAV demonstrator by 2008 and stated that a contract would be awarded to Dassault in early 2004. This led to interest from a number of European countries, including Italy, Belgium, Switzerland, Spain, Sweden, and Greece, in creating a joint effort with France to develop an operational UCAV, named &quot;Neuron&quot;. Germany is interested but has not moved to sign up just yet.
+
+==Israel==
+{{Unreferenced section|date=August 2014}}
+The first time UAVs drones were used as proof-of-concept of super-agility post-stall controlled flight in combat flight simulations was with tailless, Stealth-Technology-based three-dimensional Thrust Vectoring flight control jet steering was in Israel in 1987.
+[[Israel]] is interested in armed UAVs and it is believed that [[Israel Defense Forces|IDF]] drones have been used to perform precision strikes in [[Lebanon]] and the [[Gaza Strip]]. Israel has customized the [[Elbit Hermes 450]] UAV to carry two [[AGM-114 Hellfire|Hellfire]] missiles and this UCAV has been fully operational for several years.
+
+[[Israel Aerospace Industries|IAI]] recently rolled out the [[IAI Eitan]], a huge UCAV with anti-ballistic and assault capabilities. The Eitan has a wingspan of 26 meters and a takeoff weight of four tons, about four times the weight of the largest UAV now in the [[Israel Air Force]]. According to the Israeli Air Force, the aircraft has advanced avionics on a level similar to that of systems that operate on fighter-jets, operates with complete autonomy and allows the operator to focus more on performing the mission and less on flying the air platform. Industry sources have said that the Eitan would be a multi-purpose UCAV that could carry out reconnaissance and attack missions, including the ability to locate and destroy mobile ballistic missile launchers.
+
+Israeli officials have for several years been interested in a large, piston-powered UCAV that would loiter at high altitude and dispense smart munitions as required by ground or other forces, acting basically as a flying fire-support base.
+
+At present the Israelis are keeping very quiet about specifics. The Israelis are very enthusiastic about UAVs, seeing them as the way of the future, since they will permit Israel to perform surveillance, strike, and other missions with much less risk to personnel and at a fraction of the acquisition and operational cost of manned aircraft.
+
+==Other==
+{{Unreferenced section|date=August 2014}}
+In the spring of 2003, [[Alenia Aeronautica]] of Italy unveiled a non-flying ground-test prototype of a half-scale UCAV demonstrator, known as an &quot;[[Alenia Aeronautica ITV|Integration Technology Vehicle (ITV)]]&quot;, with a flight prototype to follow. Other UCAV efforts have included the stealthy [[Kentron Seraph|Seraph]] proposed by Kentron of South Africa; a number of UCAV design concepts proposed by the European Aerospace &amp; Defense Systems (EADS) conglomerate, a merger of Matra-Aerospatiale of France, DaimlerChrysler of Germany, and CASA of Spain; and a number of vague proposals from the Russians.
+
+==External links==
+*[http://www.worldtribune.com/worldtribune/07/front2454229.238888889.html Israel sets combat drones against missile launchers in Gaza], World Tribune, May 8, 2007
+*[http://www.aviationweek.com/aw/generic/story_generic.jsp?channel=awst&amp;id=news/aw082106p2.xml Israel Starts Reexamining Military Missions and Technology], Aviation Week, August 20, 2006 {{Dead link|date=August 2014}}
+
+==References==
+&lt;4/ref&gt; ^ Benjamin Gal-Or, &quot;Vectored Propulsion, Supermaneuverability &amp; Robot Aircraft&quot;, Springer Verlag, 1990, ISBN 0-387-97161-0, ISBN 3-540-97161-0
+{{Reflist}}
+*Wagner, William. ''Lighting Bugs and Other Reconnaissance Drones.'' 1982; Armed Forces Journal International in cooperation with Aero Publishers, Inc.
+This article contains material that originally came from the web article [http://www.vectorsite.net/twuav.html ''Unmanned Aerial Vehicles''] by Greg Goebel, which exists in the Public Domain.
+
+[[Category:Unmanned military aircraft|*]]
+[[Category:History of military aviation|Unmanned combat aerial vehicles]]</text>
+      <sha1>1ml3xp0wcf6717rylxmgr1xm8u7nqma</sha1>
+    </revision>
+  </page>
+</mediawiki>

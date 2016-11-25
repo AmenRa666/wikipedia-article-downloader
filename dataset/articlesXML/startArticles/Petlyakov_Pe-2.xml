@@ -1,0 +1,318 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Petlyakov Pe-2</title>
+    <ns>0</ns>
+    <id>548190</id>
+    <revision>
+      <id>751127055</id>
+      <parentid>750319282</parentid>
+      <timestamp>2016-11-23T15:05:00Z</timestamp>
+      <contributor>
+        <username>Chris the speller</username>
+        <id>525927</id>
+      </contributor>
+      <minor/>
+      <comment>/* Design and development */per [[WP:HYPHEN]], sub-subsection 3, points 3,4,6, replaced: electrically- → electrically using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="22842">{{Use dmy dates|date=August 2014}}
+{|{{Infobox aircraft begin
+  |name =Pe-2
+  |image = Pe-2-2004.jpg
+  |caption =
+}}{{Infobox aircraft type
+  |type =[[Bomber]]
+  |manufacturer =[[Petlyakov]]
+  |designer =[[Vladimir Petlyakov]]
+  |first flight =22 December 1939
+  |introduced = 1941
+  |retired = 1954 ([[SFR Yugoslav Air Force]])
+  |status =
+  |primary user =[[Soviet Air Force]]
+  |more users = [[SFR Yugoslav Air Force]]&lt;br&gt;[[Air Force of the Polish Army]]&lt;br&gt;[[Czechoslovakian Air Force]]
+  |produced = |number built =11 427&lt;ref&gt;[[Mark Solonin]] – &quot;Разгром 1941. На мирно спящих аэродромах&quot;, ISBN 978-5-699-37348-2.&lt;/ref&gt;
+  |unit cost =
+  |variants with their own articles = [[Petlyakov Pe-3]]
+}}
+|}
+
+The '''Petlyakov Pe-2''' ({{lang-ru|Петляков Пе-2}}) was a [[Soviet Union|Soviet]] [[light bomber]] used during [[World War II]]. It was regarded as one of the best ground attack aircraft of the war&lt;ref name=&quot;Ethell  pp. 152-153.&quot;&gt;Ethell 1996, pp. 152–153.&lt;/ref&gt; and it was successful in the roles of heavy fighter, reconnaissance and night fighter.&lt;ref name=&quot; Angelucci and Matricardi p. 234.&quot;&gt;Angelucci and Matricardi  1978,  p. 234.&lt;/ref&gt; It was similar in many respects to the British [[de Havilland Mosquito]]. Pe-2s were manufactured in greater numbers (11,427 built) during the war than any other twin-engined combat aircraft except for the German [[Junkers Ju 88]] and British [[Vickers Wellington]].&lt;ref name=&quot; Angelucci and Matricardi p. 234.&quot;/&gt;&lt;ref name=&quot;Guston p. 173.&quot;&gt;Guston 1980, p. 173.&lt;/ref&gt; The Pe-2 was fast, maneuverable and durable. Several Communist nations flew the type after the war, when it became known by the [[NATO reporting name]] '''''Buck'''''. Six captured Pe-2s were also transferred from the Germans to the Finnish Air Force during the [[Great Patriotic War|German invasion to the Soviet Union]], with the serial code ''PE-'' and the unofficial nickname ''Pekka-Eemeli''.
+
+==Design and development==
+The Pe-2 was designed in a [[sharashka|prison design bureau]] (''sharashka''); [[Vladimir Petlyakov]] had been arrested and imprisoned in 1937 for allegedly deliberately delaying design work on the [[Petlyakov Pe-8|Tupolev ANT-42]] bomber. In the sharashka, Petlyakov was put in charge of a team to develop a high-altitude fighter escort for the ANT-42 under the designation '''VI-100'''. The first of two prototypes flew on December 22, 1939 and was a very sophisticated aircraft for its time, featuring a pressurised cabin, all-metal construction, [[supercharger]]s and many electrically actuated systems. The prototypes proved so pleasing that production was ordered almost immediately. It is said that Petlyakov and his team could see the VI-100 prototype from their prison as it was put through its paces for the crowds watching the annual [[May Day]] parade in 1940.&lt;ref&gt;Pe-2 Guards Units of World War 2, Dmitriy Khazanov, Andrey Yurgenson, Aleksander Medved page 7&lt;/ref&gt;
+
+Just as production was ready to begin, the air force ordered a re-design of the aircraft. The value of tactical bombing had just been displayed by the ''[[Luftwaffe]]'' in the [[Blitzkrieg]], and the need for such an aircraft suddenly became much more important than the need for a high-altitude escort fighter. Petlyakov's team was given 45 days to redesign their aircraft as a [[dive bomber]]. Cabin pressurization and superchargers were deleted, [[dive brake]]s and a bombardier's position were added, and other aerodynamic refinements. A fuselage bomb-bay was added, along with smaller bays in each engine nacelle. The aircraft was initially designated '''PB-100''', but [[Joseph Stalin]] was impressed enough with Petlyakov to free him, and his name was permitted to be used in the aircraft's designation. The first aircraft flew on December 15, 1940, rushed through production without a prototype under severe threats from Stalin if a Pe-2 did not fly by the end of the year. Deliveries to combat units began the following Spring.
+
+While the Pe-2's flying characteristics were generally favorable once it was airborne, it took a good amount of force to pull the elevators up to rotate the plane for takeoff. Russian night bombing missions often flew with female pilots and some of the women were not strong enough to get the airplane airborne by themselves. When such a situation occurred, the procedure was to have the navigator get behind the pilot's seat and wrap her arms around the control wheel and help the pilot pull the wheel back. Once the aircraft was airborne, the navigator returned to her duties and the pilot continued to fly the plane without assistance.&lt;ref name=&quot;popova&quot;&gt;{{cite web|url=http://www.airforce.ru/history/ww2/popova/page_05.htm|title=Interview with L. L. Popova, Navigator of the 125th Guards Bomb Air Regiment|language=Russian|accessdate=2008-09-12}}&lt;/ref&gt;
+Its armament was great, and the aircraft was ahead of its time. The dorsal [[ShKAS]] machine gun had a very high rate of fire; but its 7.62&amp;nbsp;mm rounds began to become slightly less effective against the heavy armor protection seen on a few rare modern fighters as the war progressed, but was still quite effective, when armor-piercing rounds became standard, and had better armor-piercing capabilities than a larger-caliber gun. The mounting for the ventral [[Berezin UB]] had a somewhat limited field of view. To give more protection, another ShKAS was added that could be moved between sockets on both sides of the fuselage and, in an emergency, the gunner could fire upwards, but in this case he had to be quite strong to keep it in his arms, though this was never a huge concern for the Russian gunners. To improve the bomber's defences, a dorsal  [[Berezin UB]]T 12,7&amp;nbsp;mm was mounted. This modification was reported to increase the life expectancy of a Pe-2 greatly.&lt;ref&gt;http://www.militaryfactory.com/aircraft/detail-page-2.asp?aircraft_id=298&lt;/ref&gt;
+
+==Operational service==
+[[File:Petlyakov Pe-2 at Poltava, Russia.jpg|thumb|right|Soviet pilots and ground crew pose in front of a Pe-2 light bomber at [[Poltava]], June 1944.]]
+
+The aircraft did not show its true potential until the end of 1941, after the [[Soviet Air Force]] had a chance to regroup after the German onslaught during the Winter. The Pe-2 quickly proved itself to be a highly capable aircraft, able to elude the ''Luftwaffe''{{'}}s interceptors and allowing their crews to develop great accuracy with their bombing.
+
+The records of the 16th and 39th BAPs of the Western Front Air Force note that the Pe-2s crews had the greatest success in repelling the attacks of enemy fighters in June and July 1941.  On 1 July, for example, six Pe-2s fended off attacks by four [[Messerschmitt Bf 109]]s, shooting down two of them. A week later a group of Pe-2s was attacked by four Bf 109 and again brought down two of the attackers. On both occasions the Petlyakovs suffered no losses. On the southern front, a bombing mission against Ploiești, in [[Romania]], by six Pe-2s, led by Capt. A. Tsurtsulin, was a great success: 552,150&amp;nbsp;lb of petroleum were burnt in the raid. The Romanian information agency claimed that at least 100 Soviet planes had bombed [[Ploiești]].  A German pilot shot down by a Petlyakov over Bobruysk, Maj. A. Mudin of JG 51, affirmed that the Pe-2 was one of the many great Soviet aircraft: &quot;It is a fast aircraft, with good armament, and it is dangerous to enemy fighters.&quot;
+&lt;ref name=&quot;Gordon  p. 368.&quot;&gt;Gordon 2006, p. 368.&lt;/ref&gt;
+The Pe-2 regiments' operations were not always successful and crews complained about insufficient defensive armament and survivability: there was a great risk of fire and insufficient armour protection, especially for the navigators  and gunners.
+&lt;ref name=&quot;Gordon  pp. 368-369.&quot;&gt;Gordon 2006, pp. 368–369.&lt;/ref&gt;
+German pilots soon discovered the limited sighting angles of the ventral gun mounting.&lt;ref name=&quot;Gordon  p. 369.&quot;&gt;Gordon 2006, p. 369.&lt;/ref&gt; The navigator and the  radio operator were poorly protected.
+On average, ten Pe-2 gunners were wounded for every pilot, and two or three were killed for the loss of one pilot.&lt;ref name=&quot;Gordon  p. 369.&quot;&gt;Gordon 2006, p. 369.&lt;/ref&gt;
+Throughout 1942 the design was steadily refined and improved, in direct consultation with pilots who were actually flying them in combat. Improved armour protection and a fifth ShKAS machine-gun were installed and fuel tanks modified.&lt;ref name=&quot;Gordon  p. 369.&quot;&gt;Gordon 2006, p. 369.&lt;/ref&gt;
+Pe-2s were a daylight bomber, and sometimes took significant losses, but generally fared quite well when well protected by fighters. In December 1942 General Turkel of the Soviet Air Force estimated the life expectancy of a Pe-2 was 30 combat flights, however, most of these aircraft and crewmen survived much longer. Most of the losses were at the hands of the very well equipped German fighter groups, which, however, were only able to inflict minor damage most of the time, while suffering huge losses.&lt;ref&gt;http://www.militaryfactory.com/aircraft/detail-page-2.asp?aircraft_id=298&lt;/ref&gt;
+Western sources use mark '''Pe-2FT''' for production series after 83 (where FT stands for ''Frontovoe Trebovanie'' (Frontline Request)), although Soviet documents do not use this identification.
+
+===Finnish Air Force===
+In 1941, after the outbreak of [[Continuation War]] Finland purchased six war booty Pe-2 aircraft from Germany, because it was a highly valued and effective aircraft, especially when it was seen in the hands of the skilled soviet pilots. These arrived at [[Valtion lentokonetehdas|State Aircraft Factory]] facilities at Härmälä in January 1942, where the airframes were overhauled and given Finnish serial numbers. The seventh Pe-2 was bought from the Germans in January 1944, and it was flown to Finland at the end of the month.
+
+It was initially planned to use these planes as dive bombers in the 1st flight of [[No. 48 Squadron, Finnish Air Force|LeLv 48]], which began to receive its aircraft in July 1942, but during the training it was decided that the aircraft were too valuable to risk in such a role. Thus, the role of Pe-2s was changed to fly long-range photographic and visual reconnaissance missions for the Army General Headquarters. These sorties began in late 1942, and were often flown with two 250&amp;nbsp;kg (551&amp;nbsp;lb) bombs for harassment bombing and in order to cover the true purpose of missions.
+
+By the time the Soviet [[Fourth strategic offensive]] started in June 1944, the secondary bombing role had already ended and the surviving Pe-2s began to be used solely at [[Karelian Isthmus]] in escorted (normally by four FiAF [[Messerschmitt Bf 109|Bf-109 Gs]]) photographic reconnaissance flights in order to find out enemy troop concentrations. These vital missions were flown successfully, allowing artillery and [[Finnish Air Force]] and ''Luftwaffe''{{'}}s [[Detachment Kuhlmey|Gefechtsverband Kuhlmey]]'s bombers to make their strikes against the formations preparing for attack, which had an important impact on the outcome of the [[Battle of Tali-Ihantala]], where the Soviet advance was halted, clearly showing that the aircraft was a successful one, even in their hands.
+
+During the Continuation War, five Pe-2s were shot down by Soviet fighters and one went missing in action. In the [[Lapland War]] the only remaining machine flew a single reconnaissance sortie in October 1944. However, these aircraft were used very sparingly due to difficulties with obtaining spare parts.
+
+PE-301 and PE-215 were destroyed when Soviet aircraft bombed the Lappenranta airfield on 2 July 1944. PE-212 was shot down in 1943, PE-213 was destroyed in an emergency landing caused by soviet fire in 1942. PE-214 was destroyed in a failed take-off attempt at Härmälä on 21 May 1942: Soviet fighters shot the plane as it was in a futile attempt to take off and counter the soviet fighters. PE-217 along with fighter support managed to shoot down a lone Soviet fighter that was already heavily damaged in 1944, the pilot escaped unharmed. PE-216 was destroyed in a forced landing due to crippling fire from soviet aircraft in 1944. PE-211 survived the war and was removed from FAF lists in 1946. It was still standing beside the Kauhava airfield in 1952, but further information on its fate is unknown.&lt;ref&gt;Jukka Raunio: ''Lentäjän näkökulma IV''. Forssan kirjapaino Oy, 1998. ISBN 951-96866-2-2.&lt;/ref&gt;&lt;ref&gt;http://www.militaryfactory.com/aircraft/detail.asp?aircraft_id=298&lt;/ref&gt;
+
+==Variants==
+[[File:Petlyakov Pe-2 (early production) two-view silhouette.png|thumb|right|Top view of an early production prototype Pe-2.]]
+In total, around 11,400 Pe-2s were built; a large number of minor variants were also developed.
+
+;PB-100
+:Prototype of the Pe-2 modified from the [[Petlyakov VI-100|VI-100]] in {{avyear|1940}}.
+;Pe-2
+:First production variant.
+[[File:Pe-2 SilhU.jpg|thumb|right|Top view of a Production Prototype Pe-2.]]
+;Pe-2B
+[[File:Petlyakov Pe-2 (M-82FN engines) top-view silhouette.png|thumb|right|Top View of a Pe-2 with the M-82FN engines.]]
+:Standard bomber version from 1944.
+;Pe-2D
+:Three-seat bomber version, powered by two VK-107A piston engines.
+;Pe-2FT
+:Main production variant. In Czechoslovakia known as the '''B-32'''. Improved defensive armament (7.62&amp;nbsp;mm machine gun in dorsal turret), removal of the dive brakes, and an uprated engine. Nose glazing was also reduced.
+;Pe-2FZ
+:Built in small numbers.
+;Pe-2I
+:Improved version designed by Vladimir Myasishchev. VK-107 engines; revised wing profile; remote-controlled tail gun. Top speed 656&amp;nbsp;km/h (408&amp;nbsp;mph). Could carry 1,000&amp;nbsp;kg (2,204&amp;nbsp;lb) bombs. Five examples built.
+;Pe-2K
+:Radial-engined version, small number built.
+;Pe-2K RD-1
+:One Pe-2K equipped with additional RD-1 rocket engine. The 300&amp;nbsp;kg (661&amp;nbsp;lb) Glushko RD-1 rocket engine was installed in the tail of the aircraft.
+;Pe-2M
+:Variant of Pe-2I with heavier armament.
+;Pe-2MV
+:This version was armed with 20&amp;nbsp;mm ShVAK cannons and two 12.7&amp;nbsp;mm (0.5&amp;nbsp;in) in an underfuselage gondola, it also had one 7.62&amp;nbsp;mm (0.3&amp;nbsp;in) machine gun in the dorsal turret.
+;Pe-2R
+:Three-seat photo reconnaissance version, with a larger fuel tanks and extended range. small number built.
+;Pe-2S
+:Two-seat training version.
+;Pe-2Sh
+:The PB-100 prototype was fitted with two 20&amp;nbsp;mm ShVAK cannons, and a single 12.7&amp;nbsp;mm (0.5&amp;nbsp;in) machine gun was fitted beneath the fuselage.
+;Pe-2VI
+:High altitude fighter version.
+;Pe-2UTI (UPe-2)
+:Dedicated [[Trainer (aircraft)|trainer]] version, small number built. In Czechoslovakia known as the '''CB-32'''.
+;Pe-2 Paravan
+:Anti-barrage balloon version.
+;[[Petlyakov Pe-3|Pe-3]]
+:Long-range night fighter version.
+;Pe-4
+:As Pe-2 except with Klimov VK-105PF engines.
+
+==Operators==
+;World War II
+;{{CZS}}
+*[[Czechoslovakian Air Force]] operated some Pe-2FT aircraft in the 1st Czechoslovakian Mixed Air Division in Soviet Union (1. československá smíšená letecká divize v SSSR). Aircraft were used operationally from 14 April 1945.
+;{{FIN}}
+*[[Finnish Air Force]] operated seven captured aircraft (given the Finnish serial numbers PE-211 to PE-217).
+;{{USSR}}
+*[[Soviet Air Force]]
+
+;Postwar
+;{{BUL}}
+*[[Bulgarian Air Force]]
+;{{PRC}}
+*[[People's Liberation Army Air Force]]
+;{{CZS}}
+*[[Czechoslovakian Air Force]] operated 32 Pe-2FT and 3 UPe-2 between May 1946 and mid 1951. First aircraft arrived to Prague-Kbely airfield in April 1946 and formed two squadrons of the 25 Air Regiment in [[Havlíčkův Brod]]. Czechoslovakian aircraft were known under designation B-32 (Pe-2FT) and CB-32 (UPe-2).
+;{{HUN}}
+*[[Hungarian Air Force]]
+;{{POL}}
+[[File:PL MWP Pe-2FT.JPG|thumb|Pe-2]]
+*[[Air Force of the Polish Army]] (after 1947 [[Polish Air Force]])
+*[[Polish Navy]]
+;{{USSR}}
+*[[Soviet Air Force]]
+;{{YUG}}
+*[[SFR Yugoslav Air Force]] operated 123 Pe-2FT and 9 UPe-2 between 1945 and 1954.
+**[[41st Bomber Aviation Regiment]] (1945–1948)
+**[[42nd Bomber Aviation Regiment]] (1945–1948)
+**[[43rd Bomber Aviation Regiment]] (1947–1948)
+**[[Night Bomber Aviation Regiment]] (1948)
+**[[88th Bomber Aviation Regiment]] (1948–1952)
+**[[97th Bomber Aviation Regiment]] (1948–1952)
+**[[109th Bomber Aviation Regiment]] (1948–1952)
+**[[185th Mixed Aviation Regiment]] (1949–1952)
+**[[715th Independent Reconnaissance Squadron]] (1949–1952)
+
+==In museums==
+*[[Bulgaria]]
+**[[Bulgarian National Aviation Museum]] in [[Krumovo]]
+*[[Norway]]
+**[[Norwegian Aviation Museum]] in [[Bodø]].&lt;ref&gt;[http://www.luftfart.museum.no/Utstillinger/petlyakov_pe2_snute.htm ] {{webarchive |url=https://web.archive.org/web/20111019102241/http://www.luftfart.museum.no/Utstillinger/petlyakov_pe2_snute.htm |date=19 October 2011 }}&lt;/ref&gt;
+*[[Poland]]
+**[[Museum of the Polish Army]] in [[Warsaw]] – Pe-2FT
+*[[Russia]]
+**[[Central Air Force Museum]] in [[Monino]]
+
+==Specifications (Petlyakov Pe-2)==
+[[File:Petljakov Pe-2.svg|right|300px]]
+{{aircraft specifications
+&lt;!-- if you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]] --&gt;
+&lt;!-- please answer the following questions --&gt;
+|plane or copter?=plane
+|jet or prop?=prop
+&lt;!-- Now, fill out the specs. Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply, like capacity, leave it blank. For instructions on using |ref=, |more general=, |more performance=, |power original=, and |thrust original= see [[Template talk:Airtemp]]. --&gt;
+|ref={{Citation needed|date=November 2008}}
+|crew=Three – pilot, navigator, gunner
+|length main=12.66 m
+|length alt=41 ft 6 in
+|span main=17.16 m
+|span alt=56 ft 3 in
+|height main=3.5 m
+|height alt=11 ft 6 in
+|area main=40.5 m²
+|area alt=436 ft²
+|empty weight main=5,875 kg
+|empty weight alt=12,952 lb
+|loaded weight main=7,563 kg
+|loaded weight alt=16,639 lb
+|max takeoff weight main=8,495 kg
+|max takeoff weight alt=18,728 lb
+|more general=
+|engine (prop)=[[Klimov M-105]]PF
+|type of prop=liquid-cooled [[V engine|V-12]]
+|number of props=2
+|power main=903 kW
+|power alt=1,210 hp
+|max speed main=580 km/h
+|max speed alt=360 mph
+|range main=1,160 km
+|range alt=721 miles
+|ceiling main=8,800 m
+|ceiling alt=28,870 ft
+|climb rate main=7.2 m/s
+|climb rate alt=1,410 ft/min
+|loading main=186 kg/m²
+|loading alt=38 lb/ft²
+|power/mass main=250 W/kg
+|power/mass alt=0.15 hp/lb
+|more performance=
+|avionics=
+|guns=&lt;br/&gt;
+**2 × 7.62 mm (0.3 in) fixed [[ShKAS machine gun]]s in the nose, one replaced by a 12.7 mm (0.5 in) [[Berezin UB]] on later versions.
+**2 × rearward firing 7.62 mm (0.3 in) ShKAS.
+**From the middle of 1942 defensive armament included 1 Berezin UB machine gun in the upper bombardier's turret, 1 Berezin UB in gunner's ventral hatch and 1 ShKAS which could be fired by a gunner from port, starboard or upper mountings&lt;ref&gt;switching between the mountings was accomplished in flight in less than a minute&lt;/ref&gt;
+**Some planes were also equipped with a DAG-10 launcher, firing AG-2 parachute timed grenades.
+|bombs=1,600 kg (3,520 lb) of bombs
+}}
+
+==See also==
+{{aircontent
+|related=
+*[[Petlyakov Pe-3|Pe-3]]
+|similar aircraft=
+*[[de Havilland Mosquito]]
+*[[Junkers Ju 88]]
+*[[Messerschmitt Bf 110]]
+*[[Lockheed P-38 Lightning]]
+*[[Tupolev Tu-2]]
+|lists=
+*[[List of aircraft of World War II]]
+*[[List of bomber aircraft]]
+*[[List of military aircraft of the Soviet Union and the CIS]]
+}}
+
+==References==
+
+===Notes===
+{{Reflist|2}}
+
+===Bibliography===
+{{refbegin}}
+* And'al, Jozef, Hans-Heiri Stapfer &amp; Peter Novorol'ník. ''Petljakov Pe-2 a Pe-3 (HT Model Speciál no.911)'' (in Slovak with four-page English summary sheet). Bratislava, Slovakia: Magnet Press s.r.o., 2005. ISSN 1335-3667.
+* Angelucci, Enzo and Paolo Matricardi. ''World Aircraft: World War II, Volume II'' (Sampson Low Guides). Maidenhead, UK: Sampson Low, 1978. ISBN 0-562-00096-8.
+* &quot;From Sotka to Peshka:The Story of Petlyakov's Pe-2, Its Origins and its Derivatives&quot;. ''[[Air International]]''. August 1979, Vol. 17 No. 2. pp.&amp;nbsp;76–83, 93–94.
+* Drabkin, Artem. ''The Red Air Force at War: Barbarossa and the Retreat to Moscow – Recollections of Fighter Pilots on the Eastern Front''. Barnsley, South Yorkshire, UK: Pen &amp; Sword Military, 2007. ISBN 1-84415-563-3.
+* Gordon, Yefim and Khazanov, Dmitri. ''Soviet Combat Aircraft of the Second World War, Volume 2: Twin-Engined Fighters, Attack Aircraft and Bombers''. Earl Shilton, UK: Midland Publishing Ltd., 2006. ISBN 1-85780-084-2.
+* Gunston, Bill. ''Aircraft of World War 2''. London, Octopus book limited, 1980. ISBN 0-7064-1287-7.
+* Gustin, Emmanuel and Anthony G. Williams. ''Flying guns: The development of aircraft guns, ammunition and installations 1933–45''. Ramsbury (MA), Airlife, 2003. ISBN 978-1-84037-227-4.
+* Jackson, Robert. ''Aircraft of World War II – Development – Weaponry – Specifications'' Enderby Le, Silverdale Books, 2003. ISBN 1-85605-751-8.
+* Keskinen, Kalevi; Stenman, Kari and Niska, Klaus. ''Suomen Ilmavoimien Historia 9, Venäläiset Pommittajat (Soviet Bombers)'' (in Finnish with English summary). Espoo, Finland: Tietoteos, 1982. ISBN 952-99432-7-X.
+* Karhunen, Joppe. ''Taistelulentäjien Jatkosota'' (in Finnish). Tammi, Finland: Kirjat, 1994. ISBN 951-31-0132-0.
+* Khazanov, Dimitry; Vladimir Kotelnikov and Aleksandr Medved. ''Le Petlyakov Pe-2'' (in French). Outreau, France: Lela Presse, 2007. ISBN 2-914017-38-3.
+* Medved, Aleksandr Nikolaevich. ''Pikiruiushchii bombardirovshchik Pe-2: &quot;Peshka&quot;, stavshaia ferzem'' (in Russian). Moskva, 2007. ISBN 978-5-699-24361-7.
+* Medved, Aleksandr Nikolaevich and Dmitrij B. Khazanov. ''Pe-2, part 1 (Armada no.13)'' (in Russian). M-Hobby Publishing, 1999.
+* Medved, Aleksandr Nikolaevich and Dmitrij B. Khazanov. ''Pe-2, part 2 (Armada no.18)'' (in Russian). M-Hobby Publishing, 2000.
+* Passingham, Malcolm and Klepacki, Waclaw. ''Petlyakov Pe-2 and Variants (Aircraft in Profile No. 216)''. Windsor, Berkshire, UK: Profile Publications Ltd., 1971.
+* Smith, Peter C. ''Petlyakov Pe-2 'Peshka'''. Ramsbury, Marlborough, Wiltshire, UK: The Crowood Press, 2003. ISBN 1-86126-588-3.
+* Stapfer, Hans-Heiri. ''Petlyakov Pe-2 in Action (Aircraft number 181)''. Carrollton, Texas: Squadron/Signal Publications, Inc., 2002. ISBN 0-89747-439-2.
+{{refend}}
+
+==External links==
+{{Commons category}}
+*[http://www.flightglobal.com/pdfarchive/view/1944/1944%20-%200282.html ''Flight'' 10 February 1944 p142-144 &quot;A Russian Dive Bomber&quot;]
+*[http://www.ctrl-c.liu.se/misc/RAM/pe-2.html Pe-2 variants, by V.M. Petlyakov, V.M. Myasichev, A.M. Izakson and A.I. Putilov]
+*[http://www.plastikowe.pl/galerie/lotnictwo/petlakow-pe-2ft Photo gallery of Polish Petlyakov Pe-2FT]
+
+{{WWIIUSSRAF}}
+
+[[Category:Soviet bomber aircraft 1930–1939]]
+[[Category:World War II Soviet medium bombers]]
+[[Category:World War II dive bombers]]
+[[Category:Petlyakov aircraft]]</text>
+      <sha1>pnof4ndqij9v6fvjug0734er4icn1fr</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,108 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Westall</title>
+    <ns>0</ns>
+    <id>34028046</id>
+    <revision>
+      <id>731293718</id>
+      <parentid>720950986</parentid>
+      <timestamp>2016-07-24T11:54:04Z</timestamp>
+      <contributor>
+        <username>Abraham, B.S.</username>
+        <id>4540583</id>
+      </contributor>
+      <minor/>
+      <comment>tweaks/corrections + remove flags from infobox per [[WP:INFOBOXFLAG]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2614">{{Use dmy dates|date=April 2012}}
+{{Infobox military person
+|name= Sir John Westall
+|image= 
+|caption= 
+|nickname= 
+|birth_date= 1901
+|death_date= 1986
+|birth_place= [[Napier, New Zealand|Napier]], New Zealand
+|death_place= 
+|allegiance= United Kingdom
+|branch= [[Royal Marines]]
+|serviceyears= 1919–55
+|rank= [[General (United Kingdom)|General]]
+|battles= [[Second World War]]
+|unit= 
+|commands= [[Commandant General Royal Marines]]
+|awards= [[Knight Commander of the Order of the Bath]]&lt;br/&gt;[[Commander of the Order of the British Empire]]
+|relations= 
+|laterwork= 
+}}
+[[General (United Kingdom)|General]] '''Sir John Chaddesley Westall''', {{postnominals|country=GBR|size=100%|sep=,|KCB|CBE}} (1901–1986) was a [[Royal Marines]] officer who served as [[Commandant General Royal Marines]] from 1952 to 1955.
+
+==Military career==
+Born in [[Napier, New Zealand|Napier]], New Zealand,&lt;ref&gt;[http://www.royalmarinesassociation.org/nz/dox/rmanz_history.pdf A brief history of the Royal Marines and New Zealand]&lt;/ref&gt; Westall joined the Royal Marines in 1919.&lt;ref name=lh&gt;[http://www.kcl.ac.uk/lhcma/locreg/WESTALL.shtml Liddell Hart Centre for Military Archives]&lt;/ref&gt; He served in the [[Second World War]] as a Staff Officer in intelligence activities in Singapore and [[British Malaya|Malaya]] from 1939 and as a Staff Officer in intelligence activities in India and Burma from 1942 before becoming a Staff Officer at the Director of Naval Intelligence Department in the [[Admiralty]] in 1944.&lt;ref name=lh/&gt; After the war he became Commander of Infantry Training Centre, Royal Marines and then a Staff Officer in intelligence activities in [[Cape Town]] from 1947.&lt;ref name=lh/&gt; He was appointed Chief Staff Officer at [[Plymouth]] in 1948, Commander of the Royal Marine Barracks at Plymouth in 1949 and Commander of the Royal Marine Barracks at [[Deal, Kent|Deal]] in 1950.&lt;ref name=lh/&gt; He went on to be Chief of Staff to the Commandant General Royal Marines in 1951, and [[Commandant General Royal Marines]] in 1952 before retiring in 1955.&lt;ref name=lh/&gt;
+
+==References==
+{{reflist|30em}}
+
+{{s-start}}
+{{s-mil}}
+{{s-bef|before=[[Leslie Hollis|Sir Leslie Hollis]]}}
+{{s-ttl|title=[[Commandant General Royal Marines]]|years=1952–1955}}
+{{s-aft|after=[[Campbell Hardy|Sir Campbell Hardy]]}}
+{{s-end}}
+{{RM Commandant General}}
+
+{{DEFAULTSORT:Westall, John}}
+[[Category:1901 births]]
+[[Category:1986 deaths]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Knights Commander of the Order of the Bath]]
+[[Category:Royal Marines generals]]
+[[Category:Royal Marines personnel of World War II]]</text>
+      <sha1>spy80auj16djr6yi8ablze840708mhk</sha1>
+    </revision>
+  </page>
+</mediawiki>

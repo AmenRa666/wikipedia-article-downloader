@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SAS Isandlwana</title>
+    <ns>0</ns>
+    <id>1167841</id>
+    <revision>
+      <id>749502215</id>
+      <parentid>687723999</parentid>
+      <timestamp>2016-11-14T17:53:53Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <minor/>
+      <comment>Parsecboy moved page [[SAS Isandlwana (F146)]] to [[SAS Isandlwana]]: no other ships with this name, no need for dab</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6698">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[Image:SAS Isandlwana.jpg|300px|SAS Isandlwana]]
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= South Africa
+|Ship flag= {{shipboxflag|South Africa|naval}}
+|Ship name= SAS ''Isandlwana''
+|Ship namesake= [[Battle of Isandlwana]]
+|Ship ordered=3 December 1999
+|Ship builder= [[Howaldtswerke-Deutsche Werft]], [[Kiel]]
+|Ship operator=[[South African Navy]]
+|Ship laid down= 28 October 2001
+|Ship launched= 5 December 2002
+|Ship acquired=
+|Ship commissioned= 20 July 2006
+|Ship decommissioned=  
+|Ship in service=
+|Ship out of service=
+|Ship struck= 
+|Ship reinstated=
+|Ship homeport=Simonstown
+|Ship motto= 
+|Ship nickname=
+|Ship honours=
+|Ship status={{Ship in active service}}
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= {{sclass2|Valour|frigate}}
+|Ship displacement= {{convert|3700|LT|t|0|lk=in|abbr=on}}
+|Ship length={{convert|121|m|ftin|abbr=on}}
+|Ship beam= {{convert|16.34|m|ftin|abbr=on}}
+|Ship draught= {{convert|5.95|m|ftin|abbr=on}}
+|Ship propulsion=*[[Combined diesel and gas#CODAG WARP|CODAG WARP]]
+*2 × Diesels {{convert|5920|kW|hp|0|abbr=on}} each
+*2 shafts
+*1 × Gas turbine {{convert|20000|kW|hp|0|abbr=on}}
+*1 Waterjet
+|Ship speed= {{convert|30|kn|lk=in}}
+|Ship range= {{convert|8000|nmi|km|lk=in|abbr=on}} at {{convert|16|kn}} 
+|Ship complement=152
+|Ship sensors=* '''Surveillance Radar''': Thales Naval France MRR-3D NG G-band multi-role radar
+* '''Optical Radar Tracker''': 2 Reutech RTS 6400 monopulse X-band (I/J bands) combined radar and optronics trackers
+* '''Electro-optical Tracker''': Reutech Electro-optical tracker
+* '''Identification Friend or Foe''': Tellumat Integrated Naval IFF system
+* '''Target Designation Sights''': M-Tek Target Designation Sights
+* '''Sonar''': Thales UMS4132 Kingklip sonar
+* '''Obstacle avoidance sonar''': MDS 3060
+|Ship EW=* '''ESM/ECM''': Saab Grintek Avitronics SME 100/200 ESM (Intercept and Jammer) &amp; ELINT
+* '''Decoys''': 2 Saab Grintek Avitronics MRL Super Barricade chaff launchers (96 decoys)
+|Ship armament=*1 × [[Otobreda 76 mm]] gun
+*1 × twin barreled 35 mm [[Denel 35mm Dual Purpose Gun|(Denel) dual purpose gun]]
+*2 × [[Oerlikon 20 mm cannon]] Mk1
+*8 × [[MBDA]] MM40 [[Exocet]] Block 2 [[Surface-to-surface missile|SSM]] (2 × 4-cell launchers)
+*16 × [[Umkhonto (missile)|Umkhonto]] [[Surface-to-air missile|SAM]] (2 × 8-cell vertical launchers)
+
+|Ship aircraft=1 × [[Westland Lynx|SuperLynx 300]] (can carry 2)
+|Ship aircraft facilities=* Flight deck
+* Enclosed [[hangar]]
+|Ship notes=
+}}
+|}
+'''SAS ''Isandlwana'' (F146)''' is the second of four [[Valour class frigate|Valour class]] [[frigate]]s for the [[South African Navy]] built by the European South African Corvette Consortium. SAS Isandlwana was named after the [[Battle of Isandlwana]] at a ceremony held in Kiel in December 2002, by Deputy Defence Minister [[Nozizwe Madlala-Routledge]].&lt;ref&gt;[http://www.allatsea.co.za/sanavyships.htm South African Navy Ships&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==Construction==
+SAS Isandlwana was manufactured by the European South African Corvette Consortium (ESACC), consisting of the German Frigate Consortium (Blohm+Voss, Thyssen Rheinstahl and [[Howaldtswerke]] Deutsche Werft), African Defence Systems (part of the French [[Thales Group|Thales]] defense group) and a number of South African companies.&lt;ref&gt;[http://www.naval-technology.com/projects/meko/ MEKO A Class Combat Ship Family - Naval Technology&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+The ships were built to the [[MEKO]] modular design concept, and are designated by the manufacturer as the '''MEKO A-200SAN''' class. Some controversy exists as to the class type of the vessel, with both the manufacturer and the South African Navy referring to her as a &quot;[[corvette]]&quot;, but other similar vessels in other navies being referred to as frigates. Some have claimed the use of the word &quot;corvette&quot; was a political decision made by the South African government to ease criticism of the procurement of the vessels.
+
+The SAS ''Isandlwana'' was built at the [[Howaldtswerke]]-Deutsche Werft shipyards in [[Kiel]], [[Germany]], and she arrived in [[South Africa]] on 25 February 2004.&lt;ref&gt;[http://www.navy.mil.za/equipment/valour.htm Valour-class Frigates&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+In 2007, the SAS ''Isandlwana'' took part in the Atlasur Exercise in cooperation with the fleets of [[Brazil]] and [[Chile]].&lt;ref&gt;{{cite news|publisher=News24|url=http://www.news24.com/Regional_Papers/Components/Category_Article_Text_Template/0,2430,433-441-444_2076963~E,00.html|title=First black commander for frigate|date=2007-03-01|accessdate=2009-02-08}}&lt;/ref&gt;
+
+==Namesake==
+As with all the other ships of the Valour class, the ''Isandlwana'' is named after a famous South African battle or instance of great valour. In this case the famous [[Battle of Isandlwana]] between the [[Zulu Kingdom|Zulu nation]] and the [[British Empire]], at the beginning of the [[Anglo-Zulu War]].
+
+==Notable Deployments==
+*Exercise Atlasur VI&lt;ref&gt;[http://english.peopledaily.com.cn/200610/12/eng20061012_311064.html People's Daily Online - South African navy joins exercise with South American nations&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Expo Naval in [[Chile]]&lt;ref&gt;[http://ports.co.za/navalnews/article_2007_03_12_1952.html SAS Isandlwana on her way home from South America&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Exercise Amazolo&lt;ref&gt;[http://ports.co.za/news/article_2007_08_29_5828.html Ports &amp; Ships Maritime News&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Exercise Red Lion&lt;ref&gt;[http://ports.co.za/navalnews/article_2008_02_16_4913.html Navy uses ex German minesweeper for target practice&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Exercise Good Hope III&lt;ref&gt;[http://ports.co.za/navalnews/article_2008_02_19_5429.html German ships here for joint exercise Operation Good Hope III&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Exercise Ibsamar I&lt;ref&gt;[http://www.mar.mil.br/menu_v/operacoes_navais/OperacaoIBISAMAR.htm Operação IBSAMAR I&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+*Exercise Atlasur VII&lt;ref&gt;[http://marinebiztv.wordpress.com/2008/07/30/ 30 « July « 2008 « Marine BizTV&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|SAS Isandlwana (F146)}}
+* [http://www.navy.mil.za/vtour/amatola/specs.htm Valour class specifications]
+* [http://www.navy.mil.za/vtour/amatola/index.htm Valour class homepage]
+
+{{Howaldtswerke-Deutsche Werft}}
+{{Valour_class_frigate}}
+
+
+
+{{DEFAULTSORT:Isandlwana}}
+[[Category:Valour-class frigates]]
+[[Category:Ships built in Kiel]]
+[[Category:2002 ships]]
+[[Category:Frigates of the South African Navy]]</text>
+      <sha1>r418m2shnj1kyqwkwnm4vhzue7e1tys</sha1>
+    </revision>
+  </page>
+</mediawiki>

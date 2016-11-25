@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Drake (1901)</title>
+    <ns>0</ns>
+    <id>11834969</id>
+    <revision>
+      <id>747508186</id>
+      <parentid>737886135</parentid>
+      <timestamp>2016-11-02T19:50:15Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="16621">{{good article}}
+{{other ships|HMS Drake}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:HMS Drake 1909.jpg|300px]]
+|Ship caption=''Drake'' at anchor in New York Harbor in 1909
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United Kingdom
+|Ship flag={{shipboxflag|UK|naval}}
+|Ship name=HMS ''Drake''
+|Ship ordered=
+|Ship namesake=Sir [[Francis Drake]]
+|Ship builder=[[Pembroke Dock]]
+|Ship original cost=approx. £800 000
+|Ship laid down=24 April 1899
+|Ship launched=5 March 1901
+|Ship christened=Mrs. Lort Phillips
+|Ship completed=13 January 1903
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship refit=
+|Ship struck=
+|Ship fate=Sunk by ''U-79'', 2 October 1917
+|Ship status=Diveable wreck
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Drake|cruiser|0}} [[armoured cruiser]]
+|Ship displacement={{convert|14150|LT|t}} (normal)
+|Ship length={{convert|533|ft|6|in|m|1|abbr=on}} ([[Length overall|o/a]]) 
+|Ship beam={{convert|71|ft|4|in|m|1|abbr=on}} 
+|Ship draught={{convert|26|ft|m|1|abbr=on}}
+|Ship power=*{{convert|30000|ihp|lk=in|abbr=on}}
+*43 [[Belleville boiler]]s
+|Ship propulsion=*2 × shafts
+*2 × 4-cylinder [[triple-expansion steam engine]]s
+|Ship speed={{convert|23|kn|lk=in}}
+|Ship range=
+|Ship complement=900
+|Ship armament=
+*2 × single [[BL 9.2 inch gun Mk IX - X|BL {{convert|9.2|inch|mm|sing=on|0}} Mk X guns]]
+*16 × single [[BL 6 inch Mk VII naval gun|BL {{convert|6|inch|mm|sing=on|0}} Mk VII guns]]
+*12 × single [[QF 12 pounder 12 cwt naval gun|QF 12-pounder (76 mm) guns]]&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 12 cwt referring to the weight of the gun.&lt;/ref&gt;
+*3 × [[QF 3 pounder Hotchkiss|QF 3-pounder (47 mm) Hotchkiss guns]]
+*2 × single [[British 18 inch torpedo|18-inch (450 mm) torpedo]] tubes
+|Ship armour=*[[Belt armor|Belt]]: {{convert|2|-|6|in|mm|abbr=on|0}}
+*[[Deck (ship)|Deck]]s: {{convert|1|-|2.5|in|mm|abbr=on}}
+*[[Barbette]]s: {{convert|6|in|mm|abbr=on|0}}
+*[[Turret]]s: {{convert|6|in|mm|abbr=on}}
+*[[Conning tower]]: {{convert|12|in|mm|abbr=on|0}}
+*[[Bulkhead (partition)|Bulkhead]]s: {{convert|5|in|mm|abbr=on|0}} 
+}}
+|}
+
+'''HMS ''Drake''''' was the [[lead ship]] of [[Drake-class cruiser|her class]] of [[Armored cruiser|armoured cruisers]] built for the [[Royal Navy]] around 1900. She was assigned to several different [[cruiser]] [[squadron (naval)|squadron]]s in home waters upon completion, sometimes as [[flagship]], until 1911 when she became the flagship of the [[Australia Station]]. Upon her return home, she was assigned to the [[6th Cruiser Squadron (United Kingdom)|6th Cruiser Squadron]] of the 2nd Fleet and became the squadron's flagship when the fleet was incorporated into the [[Grand Fleet]] upon the outbreak of the [[World War I|First World War]].
+ 
+She remained with the Grand Fleet until refitted in late 1915, when she was transferred to the [[North America and West Indies Station]] for convoy escort duties. In 1916 she participated in the unsuccessful search for the German [[commerce raider]] {{SMS|Möwe}}. In late 1917 ''Drake'' was torpedoed by a German submarine off Northern Ireland and sank in shallow water with the loss of eighteen lives. The wreck was partly salvaged, beginning in 1920; a [[fishing trawler]] collided with the remainder of the wreck in 1962 and sank the next day. The wrecks of the two ships were demolished during the 1970s, but their remnants remain a popular dive site.
+
+==Design and description==
+The ''Drake''-class ships were designed as faster and larger versions of the preceding {{sclass-|Cressy|cruiser|4}} with a slightly more powerful armament. They [[Displacement (ship)|displaced]] {{convert|14100|LT|t|lk=on}}, over {{convert|2000|LT|t|0}} more than the earlier ships.&lt;ref&gt;Friedman 2012, pp. 243–52, 336&lt;/ref&gt; The ''Drake''s had an [[length overall|overall length]] of {{convert|553|ft|6|in|m|1}}, a [[beam (nautical)|beam]] of {{convert|71|ft|4|in|m|1}} and a deep [[draft (ship)|draught]] of {{convert|26|ft|9|in|m|1}}. They was powered by two 4-cylinder [[triple-expansion steam engine]]s, each driving one shaft, which produced a total of {{convert|30000|ihp|lk=in}} and gave a maximum speed of {{convert|23|kn|lk=in}} using steam provided by 43 [[Belleville boiler]]s. On her [[sea trial]]s, ''Drake'' reached a speed of {{convert|24.11|kn}}.&lt;ref name=ck8&gt;Chesneau &amp; Kolesnik, p. 69&lt;/ref&gt; She carried a maximum of {{convert|2500|LT|t}} of coal and her complement consisted of 900 officers and [[naval rating|ratings]].&lt;ref name=f6&gt;Friedman 2012, p. 336&lt;/ref&gt;
+
+The main armament of the ''Drake'' class consisted of two [[List of British ordnance terms#BL|breech-loading]] (BL) [[BL 9.2 inch gun Mk IX–X|9.2-inch (234&amp;nbsp;mm) Mk X gun]]s in single [[gun turret|turret]]s, one each fore and aft of the [[superstructure]].&lt;ref name=f6/&gt; Her secondary armament of sixteen [[BL 6-inch Mk VII naval gun|BL 6-inch (152&amp;nbsp;mm) Mk VII guns]] was arranged in [[casemate]]s [[amidships]]. Eight of these were mounted on the lower deck and were only usable in calm weather.&lt;ref&gt;Friedman 2012, pp. 243, 260–61&lt;/ref&gt; A dozen [[quick-firing gun|quick-firing (QF)]] [[QF 12 pounder 12 cwt naval gun|12-pounder (76&amp;nbsp;mm) 12-cwt guns]] were fitted for defence against [[torpedo boat]]s. Two additional [[QF 12-pounder 8-cwt Mk I naval gun|12-pounder 8-cwt guns]] could be dismounted for service ashore.&lt;ref&gt;Friedman 2012, pp. 250, 336&lt;/ref&gt; The ships also carried three [[QF 3-pounder Hotchkiss|3-pounder (47&amp;nbsp;mm)]] [[Hotchkiss gun]]s and two submerged [[British 18 inch torpedo|18-inch (450&amp;nbsp;mm)]] [[torpedo tube]]s.&lt;ref name=ck8/&gt;
+
+By February 1916, all of the lower casemates for her six-inch guns had been plated over and six of them had been remounted on the upper deck so they could be used in heavy weather. Several twelve-pounders had to be removed to make room for the six-inch guns.&lt;ref&gt;Friedman 2012, p. 247&lt;/ref&gt;
+
+The ship's [[waterline]] [[Belt armor|armour belt]] had a maximum thickness of 6 inches and was closed off by {{convert|5|in|adj=on|0}} transverse [[bulkhead (partition)|bulkhead]]s. The armour of the gun turrets and their barbettes was 6 inches thick while that of the casemates was 5 inches thick. The protective [[deck (ship)|deck]] armour ranged in thickness from {{convert|1|-|2.5|in|mm|0}} and the conning tower was protected by {{convert|12|in|0}} of armour.&lt;ref name=ck8/&gt;
+
+==Construction and service==
+HMS ''Drake'', named after the Elizabethan adventurer Sir [[Francis Drake]],&lt;ref&gt;Silverstone, p. 225&lt;/ref&gt; was [[Keel|laid down]] at [[Pembroke Dock]] on 24 April 1899,&lt;ref&gt;{{Cite newspaper The Times |articlename=The Launch of Four Warships |day_of_week=Tuesday |date=5 March 1901 |page_number=8 |issue=36394| }}&lt;/ref&gt; and [[Ship naming and launching|launched]] on 5 March 1901, when she was christened by Mrs. Lort Phillips, wife of local landowner F. Lort Phillips, of [[Lawrenny]].&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Wednesday |date=6 March 1901 |page_number=10 |issue=36395| }}&lt;/ref&gt; She was completed on 13 January 1903 and assigned to the Cruiser Squadron of the Channel Fleet,&lt;ref name=f4&gt;Friedman 2012, p. 244&lt;/ref&gt; under the command of the future [[First Sea Lord]], Captain [[Francis Bridgeman (Royal Navy officer)|Francis Bridgeman]].&lt;ref&gt;Ross, p. 116&lt;/ref&gt;
+
+[[John Jellicoe, 1st Earl Jellicoe|John Jellicoe]], also a future First Sea Lord and commander of the Grand Fleet, was her next captain in 1903–04.&lt;ref&gt;Heathcote, p. 129&lt;/ref&gt; In 1907 the ship was commanded by Captain [[Arthur Hayes-Sadler]] and serving as the flagship of the [[2nd Cruiser Squadron (United Kingdom)|2nd Cruiser Squadron]] under the command of [[Rear Admiral]] [[Charles Henry Adair]].&lt;ref&gt;[http://www.worldnavalships.com/navy_list_1908_ship_d_to_g.htm Navy List 1908]&lt;/ref&gt; The following year, ''Drake'' became the flagship of [[1st Cruiser Squadron]] of the [[Channel Fleet]] (attending the [[Hudson-Fulton Celebration]] during this time) and then was assigned to the [[5th Cruiser Squadron (United Kingdom)|5th Cruiser Squadron]] of the [[Atlantic Fleet (United Kingdom)|Atlantic Fleet]] of the Channel Fleet from 1910–11. She served as the flagship of the Australia Station from 1911–13 before returning home and joined the 6th Cruiser Squadron of the 2nd Fleet in reserve.&lt;ref name=f4/&gt;
+
+That fleet was merged into the Grand Fleet upon mobilization in mid-1914 and ''Drake'' became flagship of Rear Admiral [[William Lowther Grant|William Grant]], commander of the squadron. The squadron was briefly deployed at the beginning of the war to blockade the northern exit from the [[North Sea]].&lt;ref&gt;Goldrick, p. 25&lt;/ref&gt; In October 1914, under the command of [[Aubrey Smith]], the ship was used to carry Russian bullion worth eight million [[Pound sterling|pounds]]  to Britain; on arrival, ''Drake'' lay thirty miles off [[Arkhangelsk|Archangel]], and the gold was brought to her at night.&lt;ref&gt;P. S. King, ed., ''The Russian Economist'', vol. 1 (1920), p. 347: &quot;The first shipment of gold from Russia to England, called for by the agreement between the British and Russian governments, and amounting to £8,000,000 sterling, took place in October 1914. The secrecy of this shipment was guarded by all possible precautions. The cruiser ''Drake'' and the military transport ''Mantois'', upon reaching Archangel, were kept in the open sea at a distance of thirty miles from the land, and the gold was transhipped during the night from [[lighter (barge)|lighter]]s.&quot;&lt;/ref&gt; The ship was refitted in October 1915&lt;ref name=tr&gt;Transcript&lt;/ref&gt; and then transferred to the North America and West Indies Station for convoy escort duties.&lt;ref name=f4/&gt; She participated in the unsuccessful search in the [[West Indies]] for the German commerce raider [[SMS Möwe|SMS ''Möwe'']] in December 1916.&lt;ref&gt;Newbolt, Vol. IV, pp. 181, 184&lt;/ref&gt;
+
+''Drake'' was [[torpedo]]ed by the German submarine {{SMU|U-79||2}}, commanded by ''[[Kapitänleutnant]]'' Otto Rohrbeck,&lt;ref&gt;{{cite Uboat.net
+|id=1713
+|name=HMS Drake
+|type=1ship
+|accessdate=28 February 2014
+}}&lt;/ref&gt; on 2 October 1917 after her Convoy HH24 had dispersed for its several destinations. The ship was about {{convert|5|mi|sp=in}} off [[Rathlin Island]] at the tip of Northern Ireland when she was hit. The torpedo struck the No. 2 Boiler Room and caused two of her engine rooms and the boiler room to flood, killing 18 crewmen. These gave her a [[list (watercraft)|list]] and knocked out her steam-powered steering. Her [[captain (nautical)|captain]] decided to steam for Church Bay on Rathlin Island and accidentally collided with the [[merchant ship]] {{SS|Mendip Range}} before she dropped anchor. The collision did not damage ''Drake'' much, but ''Mendip Range'' was forced to [[Beaching (nautical)|beach]] herself lest she sink. ''Drake''{{'}}s crew was taken off before she capsized later that afternoon.&lt;ref&gt;Aspinall, pp. 554–59; Newbolt, Vol. V, p. 162; Wessex Archaeology, p. 18&lt;/ref&gt;
+
+Her wreck at {{Coord|55|17.1084|N|06|12.5136|W|display=inline,title}} in Church Bay is a favourite site for divers because the wreck is only at a depth between {{convert|15|-|19|m}} and generally has good visibility. Salvage of the wreck began in 1920 and continued for several years. On the night of 3 November 1962, the steam [[trawler (fishing)|trawler]] ''Ella Hewett'' struck the wreck and subsequently sank almost atop ''Drake''. Ammunition and ordnance was salvaged during the 1970s and the wrecks were demolished with [[depth charge]]s to reduce the chance of any other ships coming to grief on the wrecks. In 1978, the remaining fuel oil was salvaged to reduce pollution from leaking oil.&lt;ref&gt;Wessex Archaeology, pp. 3, 9–10&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{Research help|Mil}}
+{{reflist|2}}
+
+== Bibliography ==
+*{{cite book|editor=Aspinwall, John Bridge|title=Reports of Cases Relating to Maritime Law; Containing all the Decisions of the Courts of Law and Equity in the United Kingdom|url=https://books.google.com/books?id=w-AzAAAAIAAJ&amp;pg=PA557&amp;dq=hms+drake+rathlin&amp;hl=en&amp;sa=X&amp;ei=ppwRU8THDJK8oQSCxIL4CQ&amp;ved=0CD8Q6AEwBA#v=onepage&amp;q=hms%20drake%20rathlin&amp;f=false|edition=Reprint|volume=XIV, New Series: From 1918 to 1920|year=1921|publisher=The Field Press|location=London}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{cite book|last=Corbett|first=Julian|title=Naval Operations|edition=reprint of the 1929 second|series=History of the Great War: Based on Official Documents|volume=II|year=1997|publisher=Imperial War Museum in association with the Battery Press|location=London and Nashille, Tennessee|isbn=1-870423-74-7}}
+*{{cite book|last=Corbett|first=Julian|title=Naval Operations|edition=reprint of the 1940 second|series=History of the Great War: Based on Official Documents|volume=III|year=1997|publisher=Imperial War Museum in association with the Battery Press|location=London and Nashille, Tennessee|isbn=1-870423-50-X}}
+*{{cite book|last=Friedman|first=Norman|title=British Cruisers of the Victorian Era|year=2012|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|isbn=978-1-59114-068-9}}
+* {{cite book|last=Friedman|first=Norman|title=Naval Weapons of World War One|publisher=Seaforth|location=Barnsley, South Yorkshire, UK|year=2011|isbn=978-1-84832-100-7}}
+*{{cite book|last=Goldrick|first=James|title=The King's Ships Were at Sea: The War in the North Sea August 1914 – February 1915|year=1984|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-334-2}}
+* {{cite book|last=Heathcote |first=Tony |title=The British Admirals of the Fleet 1734 – 1995 |publisher=Leo Cooper|location=Barnsley, UK|year=2002 |isbn=0-85052-835-6}}
+* {{cite book|title=[[Castles of Steel: Britain, Germany, and the Winning of the Great War at Sea]] |last=Massie|first=Robert K.|authorlink=Robert K. Massie|publisher=Jonathan Cape|year=2004|location= London|isbn=0-224-04092-8}}
+* {{cite book|last=Newbolt|first=Henry|title=Naval Operations|edition=reprint of the 1928|series=History of the Great War Based on Official Documents|volume=IV|year=1996|publisher=Battery Press|location=Nashville, Tennessee|isbn=0-89839-253-5}}
+* {{cite book|last=Newbolt|first=Henry|title=Naval Operations|edition=reprint of the 1931|series=History of the Great War Based on Official Documents|volume=V|year=1996|publisher=Battery Press|location=Nashville, Tennessee|isbn=0-89839-255-1}}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+*{{cite book | title= Admiral Sir Francis Bridgeman|first= Stewart|last= Ross|location=Cambridge, UK| year= 1998|publisher= Baily's| isbn=0-9523628-8-0}}
+*{{cite web|url=http://www.naval-history.net/OWShips-WW1-05-HMS_Drake.htm|title=Transcript: HMS DRAKE – June 1916 to August 1917, North America &amp; West Indies Station, North Atlantic convoys|work=Royal Navy Log Books of the World War 1 Era|publisher=Naval-History.net|accessdate=28 February 2014}}
+*{{cite web|url=http://www.wessexarch.co.uk/files/splash-import/wp-content/uploads/2007/10/hms-drake-undesignated-site-assessment-final-version-with-figs.pdf|title=HMS Drake, Church Bay, Rathlin Island: Undesignated Site Assessment.pdf|last=Wessex Archaeology|date=December 2006|work=Wessex Archaeology Online|publisher=Wessex Archaeology|accessdate=1 March 2014|location=Salisbury, Wiltshire, UK}}
+
+==Further reading==
+*Wilson, Ian (2011) ''HMS Drake: Rathlin Island Shipwreck''. Rathlin Island: Rathlin Island Books. ISBN 978-0-9568942-0-5
+
+==External links==
+{{Commons category|HMS Drake (ship, 1901)}}
+*[http://dreadnoughtproject.org/tfs/index.php/H.M.S._Drake_(1901) The ship in the Dreadnought Project]
+*[http://www.battleships-cruisers.co.uk/hms_drake.htm Photos of Drake, plus a transcript of a cruise book for 1905–07]
+
+{{Drake class cruiser}}
+{{October 1917 shipwrecks}}
+
+{{DEFAULTSORT:Drake (1901)}}
+[[Category:Drake-class cruisers]]
+[[Category:Pembroke-built ships]]
+[[Category:1901 ships]]
+[[Category:World War I cruisers of the United Kingdom]]
+[[Category:Ships sunk by German submarines in World War I]]
+[[Category:Shipwrecks of Northern Ireland]]
+[[Category:World War I shipwrecks in the Atlantic Ocean]]
+[[Category:Maritime incidents in 1917]]</text>
+      <sha1>jzdopafqfg0oeyg2tcjel1mf82iww4l</sha1>
+    </revision>
+  </page>
+</mediawiki>

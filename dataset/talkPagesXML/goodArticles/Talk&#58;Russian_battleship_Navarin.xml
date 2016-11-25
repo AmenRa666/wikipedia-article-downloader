@@ -1,0 +1,89 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Russian battleship Navarin</title>
+    <ns>1</ns>
+    <id>9388582</id>
+    <revision>
+      <id>519599559</id>
+      <parentid>518085911</parentid>
+      <timestamp>2012-10-24T17:01:32Z</timestamp>
+      <contributor>
+        <username>GimmeBot</username>
+        <id>3188459</id>
+      </contributor>
+      <minor/>
+      <comment>Bot updating {{ArticleHistory}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1708">{{Talkheader}}
+{{ArticleHistory
+|action1=GAN
+|action1date=17:00, 15 October 2012
+|action1link=Talk:Russian battleship Navarin/GA1
+|action1result=listed
+|action1oldid=517652445
+|currentstatus=GA
+|topic=war
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Ships|class=GA|B1=yes|B2=yes|B3=yes|B4=yes|B5=yes}}
+{{ShipwrecksWikiProject|importance=|class=GA}}
+{{WikiProject Russia|class=GA|importance=Low|hist=yes|mil=yes|tech=yes}}
+{{WPMILHIST|class=GA|B1=y|B2=y|B3=y|B4=y|B5=y|Maritime=yes|Russian=y|OMT=1}}
+}}
+
+== Raised for scrap from the bottom of the sea ? ==
+
+The last sentence says the ship was sold for scrap in 1922.    How was this ship raised from the bottom of the sea of japan ?   Was it really sunk in the first place ?
+Or was the 1922 reference to it being sold for scrap, actually refering to a completely different ship ?[[User:Eregli bob|Eregli bob]] ([[User talk:Eregli bob|talk]]) 06:41, 21 July 2012 (UTC)
+:[http://books.google.com/books?id=xxRlzgYz2eoC&amp;printsec=frontcover&amp;dq=isbn:0714648957&amp;source=bl&amp;ots=FUPRG4mYls&amp;sig=0TXinMoDVWAupEqpYkm2pMYokug&amp;hl=en&amp;sa=X&amp;ei=52IKUPi_MY2I8QSH2rDVCg&amp;ved=0CDEQ6AEwAA#v=onepage&amp;q=Navarin&amp;f=false The reference is pretty clear that the ship was the Navarin. Notice how most of the other ships listed were in the Second Pacific Squadron.] --&lt;font face=&quot;Kristen ITC&quot;&gt;'''[[User:Ceradon|&lt;font color=&quot;0000FF&quot;&gt;Ce&lt;/font&gt;&lt;font color=&quot;318CE7&quot;&gt;ra&lt;/font&gt;&lt;font color=&quot;BCD4E6&quot;&gt;don&lt;/font&gt;]]'''  &lt;sup&gt;[[User talk:Ceradon|&lt;font color=&quot;00FF00&quot;&gt;talk&lt;/font&gt;]]&lt;/sup&gt;&lt;sub style=&quot;margin-left:-3.5ex&quot;&gt;[[Special:Contributions/Ceradon|&lt;font color=&quot;#036&quot;&gt;contribs&lt;/font&gt;]]&lt;/sub&gt;&lt;/font&gt; 08:11, 21 July 2012 (UTC)
+::Well until today it said &quot;Navaro&quot;.
+
+{{Talk:Russian battleship Navarin/GA1}}</text>
+      <sha1>1oq8qhjc231p4zqoq1fq5fg4a55rg5n</sha1>
+    </revision>
+  </page>
+</mediawiki>

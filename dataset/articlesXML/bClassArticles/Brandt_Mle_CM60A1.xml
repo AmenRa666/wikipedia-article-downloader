@@ -1,0 +1,243 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Brandt Mle CM60A1</title>
+    <ns>0</ns>
+    <id>52197292</id>
+    <revision>
+      <id>748118564</id>
+      <parentid>748118479</parentid>
+      <timestamp>2016-11-06T12:52:11Z</timestamp>
+      <contributor>
+        <username>Katangais</username>
+        <id>15503141</id>
+      </contributor>
+      <comment>/* Development history */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21486">{{infobox weapon
+| name               = Brandt Mle CM60A1
+| image              = [[File:CM60A1 mortar Gendarmerie.jpg|300px]]
+| caption            = Muzzle of a Brandt Mle CM60A1 gun-mortar (left) on an HE-60-7 turret
+| origin             = France
+| type               = [[Mortar (weapon)|Mortar]]
+&lt;!-- Type selection --&gt;
+| is_ranged          = y
+| is_explosive       = 
+| is_artillery       = y
+&lt;!-- Service history --&gt;
+| service            = 
+| used_by            = 
+| wars               = 
+&lt;!-- Production history --&gt;
+| designer           = [[Edgar Brandt]]
+| design_date        = 1959&lt;ref name=&quot;Update&quot;&gt;''[https://books.google.com/books?ei=moGOVNHAE4ikgwT4w4CIAw&amp;id=3RgxAQAAIAAJ&amp;dq=IDF+Panhard+airborne&amp;focus=searchwithinvolume&amp;q=Damiya Defence Update (International)]''. Defence Update G.m.b.H., 1984, 1984–85 Volume Collected Issues 48–58.&lt;/ref&gt;
+| manufacturer       = 
+| unit_cost          = 
+| production_date    = 
+| number             = 1,600+&lt;ref name=&quot;Jane1&quot;&gt;{{cite book | last = Pretty| first = Ronald|title = Jane's Weapon Systems, 1979–80|edition= 1979|pages= 313–368 | publisher = Macdonald and Jane's Publishers Ltd| isbn= 978-0-531-03299-2}}&lt;/ref&gt;
+| variants           = [[Brandt 60 mm LR Gun-mortar]]
+&lt;!-- General specifications --&gt;
+| spec_label         = 
+| weight             = 
+| length             = 
+| part_length        = 
+| width              = 
+| height             = 
+| diameter           = 
+| crew               = 
+| passengers         =
+&lt;!-- Ranged weapon specifications --&gt; 
+| cartridge          = 
+| cartridge_weight   = 
+| caliber            = {{Convert|60|mm|in}}
+| barrels            = 
+| action             = 
+| rate               = 
+| velocity           = 
+| range              = {{convert|300|m|yd}} - direct fire&lt;ref name=&quot;Jane1&quot;/&gt;
+| max_range          = {{convert|2,000|m|yd}} - indirect fire&lt;ref name=&quot;Jane2&quot;&gt;{{cite book | last = Christopher F. Foss| title = Jane's World Armoured Fighting Vehicles|edition= 1976|pages= 211–218 | publisher = Macdonald and Jane's Publishers Ltd| isbn= 0-354-01022-0}}&lt;/ref&gt;
+| feed               = 
+| sights             = 
+&lt;!-- Artillery specifications --&gt;
+| breech             = 
+| recoil             = 
+| carriage           = 
+| elevation          = -15° to +80°&lt;ref name=&quot;Jane1&quot;/&gt;
+| traverse           = Depends on mounting; up to 360°&lt;ref name=&quot;Jane2&quot;/&gt;
+&lt;!-- Explosive specifications --&gt; 
+| filling            = 
+| filling_weight     = 
+| detonation         = 
+| yield              = 
+}}
+
+The '''Brandt Mle CM60A1''', also known as the ''Brandt HB 60LP'', ''MCB-60 HB'', or simply as the Brandt 60mm LP Gun-Mortar,&lt;ref name=&quot;AW&quot;&gt;''[https://books.google.com/books?id=A23fAAAAMAAJ&amp;source=gbs_book_other_versions Interconair Armies &amp; Weapons, Collected Issues 40-49]''. Interconair Media Group, 1978 p. 45-60.&lt;/ref&gt; is a 60mm (2.36 in.) gun-mortar.&lt;ref name=&quot;Jane2&quot;/&gt; Unlike conventional infantry mortars, it was not designed to be mounted on a bipod and a baseplate, but rather in the turrets of [[armoured fighting vehicles]].&lt;ref name=&quot;Knox&quot;&gt;{{cite journal| author = &lt;!--Staff writer(s); no by-line.--&gt;| title = Cavalry Mortars — A Better Way| journal = [[Armor magazine]]| pages = 17–22| publisher = US Army Armor Center| location = Fort Knox, Kentucky| date = September–October 1995}}&lt;/ref&gt; The CM60A1 could be fired at a very low angle of elevation, giving it the dual purpose of direct fire artillery. Its hydraulic recoil mechanism reduces peak loads, allowing it to be mounted in very light [[Armored car (military)|armoured cars]] such as the [[Panhard AML|Panhard AML-60]] or wheeled [[armoured personnel carrier]]s like the [[Panhard M3]].&lt;ref name=&quot;Jane2&quot;/&gt;
+
+==Development history==
+
+The Brandt Mle CM60A1 was developed as a result of French [[counter-insurgency]] experiences during the [[Algerian War]].&lt;ref name=&quot;AFV39&quot;&gt;Ogorkiewicz, R. M. ''AFV Weapons Profile 039 Panhard Armoured Cars'' (Windsor, Berks:  Profile Publications).&lt;/ref&gt; France had initially favoured the deployment of swift, lightly armoured cars against the [[National Liberation Front (Algeria)|Algerian National Liberation Front]] (FLN), including the [[M8 Greyhound]] and [[Panhard EBR]].&lt;ref name=&quot;Orange&quot;&gt;{{cite web|url=http://histoire-militaire.pagesperso-orange.fr/infanterie/autopanhard.htm|title=L'AUTOMITRAILLEUSE LEGERE PANHARD|publisher=|accessdate=15 November 2014}}&lt;/ref&gt; However, these vehicles had been designed for conventional combat on European battlefields and proved poorly suited to Algerian conditions; their heavy anti-tank armament also risked collateral damage and was of limited usefulness in fighting off guerrilla raids. The French Army wanted a much lighter, more efficient vehicle that was easier to maintain and initially adopted the [[Ferret armoured car|Daimler Ferret]] for this purpose.&lt;ref name=&quot;Knox2&quot;&gt;{{cite journal| last = Henry| first = Michel| title = French Armor in Algeria| journal = [[Armor magazine]]| pages = 12–15| publisher = US Army Armor Center| location = Fort Knox, Kentucky| date = July–December 1972}}&lt;/ref&gt; Nevertheless, Ferrets could only be armed with a single general-purpose machine gun, and were regarded as inadequate for offensive purposes. A number of French defence contractors took up the challenge of creating yet another new vehicle of similar dimensions to the Ferret but carrying a mortar, which was regarded as more effective than a large gun system at breaking up ambushes and suppressing dispersed FLN positions.&lt;ref name=&quot;Orange&quot;/&gt; The result, the [[Panhard AML|Panhard AML-60]], entered service in 1961.&lt;ref name=&quot;Swiss&quot;&gt;{{cite journal| last = Perret-Gentil| first = J.| title = Une nouvelle auto-mitrailleuse Panhard (A.M.L. 245)| journal = Revue Militaire Suisse| pages = 42–46| publisher = Imprimeries Reunies SA| location = Lausanne| date = September 1961}}&lt;/ref&gt; AML-60s were fitted with an HE-60-7 turret developed by the ''Compagnie Normande de Mécanique de Précision'' (CNMP), which mated the CM60A1 mortar to twin co-axial machine guns or a single co-axial 20mm autocannon.&lt;ref name=&quot;Jane1&quot;/&gt; This turret could store about 43 mortar projectiles.&lt;ref name=&quot;Compendium&quot;&gt;{{cite book | last = Chant |first =Christopher | title = A Compendium of Armaments and Military Hardware | location = New York | publisher = Routledge &amp; Kegan Paul | year = 1987 | isbn = 0-7102-0720-4 | oclc = 14965544 | pages = 158–59 }}&lt;/ref&gt; The CM60A1 was unique in that it was the first turret-mounted, breech-loading, dual-purpose mortar to be mass produced.&lt;ref name=&quot;Knox&quot;/&gt; Its turret mount gave it continuous traverse, and unlike muzzle-loading infantry mortars it could engage targets of opportunity at close range that could not otherwise be suppressed with indirect fire.&lt;ref name=&quot;Knox&quot;/&gt;
+
+The CM60A1 had a hydraulic recoil system and could be loaded with standard mortar ammunition for indirect fire support, as well as specialized direct fire ammunition.&lt;ref name=&quot;Knox&quot;/&gt; Ranging was visual and conducted through the turret sights. Due to the lack of a modern fire control system in the HE-60-7 turrets, range to target had to be estimated by the vehicle crew.&lt;ref name=&quot;Jane4&quot;&gt;{{cite book | last = Pretty| first = Ronald|title = Jane's Weapon Systems, 1983–84|edition= 1983|pages= 269–713 | publisher = Macdonald and Jane's Publishers Ltd| isbn= 978-0-7106-0776-8}}&lt;/ref&gt; This required a series of precise but time-consuming calculations to be made by the crew commander for ascertaining firing angles.&lt;ref name=&quot;Mannall&quot;&gt;{{cite book | first = David | last = Mannall| title = Battle on the Lomba 1987: The Day a South African Armoured Battalion shattered Angola's Last Mechanized Offensive|edition= 2014|pages=48&amp;mdash;92 | publisher = Helion and Company| isbn= 978-1-909982-02-4}}&lt;/ref&gt;
+
+Brandt's Mle CM60A1 design proved to be an immediate export success, as [[South Africa]] placed an order for 350 AML-60s in 1961, over half of which were to be assembled locally with French technical assistance.&lt;ref name=trade&gt;{{cite web|url=http://armstrade.sipri.org/armstrade/page/trade_register.php |title=Trade Registers |publisher=Armstrade.sipri.org |date= |accessdate=2014-11-20}}&lt;/ref&gt; A South African military delegation visited France between November 22 and 28 that year to discuss the manufacture of the HE-60-7 turrets and armament under licence.&lt;ref name=&quot;Moukambi&quot;&gt;{{cite journal|title=Relations between South Africa and France with special reference to military matters, 1960-1990|last=Moukambi|first=Victor|editor-last=Grundlingh|editor-first=A.M.|url=http://scholar.sun.ac.za/handle/10019.1/1228|location=Stellenbosch|publisher=Stellenbosch University|year=December 2008|accessdate=27 September 2016}}&lt;/ref&gt; By 1965 South Africa had purchased 450 CM60A1s for the future production of its modified [[Eland Mk7|Eland-60]] armoured cars, along with a licence for both the mortar and its associated ammunition, which was granted by the French government's ''Direction technique des armements terrestres'' (DTAT).&lt;ref name=&quot;Moukambi&quot;/&gt; CM60A1s manufactured in South Africa under licence were designated ''K1''.&lt;ref name=&quot;Raboukh&quot;&gt;{{cite web|title=Ratel|author=&lt;!--Staff writer(s); no by-line.--&gt;|url=http://raboukh.com/pdf/ratel.pdf|location=Amman
+|publisher=Raboukh Trading Company|date=2012|accessdate=20 September 2016|archiveurl=https://web.archive.org/web/20160311215303/http://raboukh.com/pdf/ratel.pdf|archivedate=11 March 2016}}&lt;/ref&gt;
+
+Throughout the 1960s, CM60A1s were exported with the AML-60 to [[Algeria]], [[Burundi]], [[Cambodia]], [[Côte d'Ivoire]], [[Iraq]], [[Ireland]], [[Morocco]], [[Nigeria]], [[Portugal]], [[Rwanda]], [[Saudi Arabia]], [[Senegal]], and [[Spain]].&lt;ref name=trade/&gt; Some governments favoured the purchase of the lightly armed AML-60 model as opposed to the heavier [[Panhard AML#AML-90|AML-90]] due to its comparatively attractive cost.&lt;ref name=&quot;Irish&quot;&gt;{{cite book | last = Adrian English| title = Irish Army Orders of Battle 1923–2004 |edition= 2005|pages= 56–78 | publisher = Tiger Lily Books| isbn= 978-0-9720296-7-4}}&lt;/ref&gt;&lt;ref name=Ishizuka&gt;{{cite book|last=Ishizuka|first=Katsumi|title=Ireland and International Peacekeeping Operations 1960–2000: A Study of Irish Motivation|date=2004|pages=81–82|publisher=Routledge Books|location=Philadelphia|isbn=978-0-7146-8440-6}}&lt;/ref&gt;
+
+By the mid to late 1970s, the CM60A1 had been largely superseded by the similar Cloche Spéciale (CS) 60 which was distinguished by its ribbed barrel.&lt;ref name=&quot;Jane1&quot;/&gt; The CS 60 utilized more ergonomic ammunition, which allowed for up to 56 mortar projectiles to be stored in the HE-60-7 turret, as opposed to the CM60A1's 43.&lt;ref name=&quot;Jane1&quot;/&gt; Nevertheless, both mortar types continued to marketed in a wide range of commercial turrets for the export market.&lt;ref name=&quot;Knox&quot;/&gt; In the late 1970s, the CM60A1 was successfully mounted on a variant of the [[Panhard M3]] designated ''M3 VTT 60B''.&lt;ref name=&quot;Jane2&quot;/&gt; It was also offered for export with the [[Berliet VXB-170]].&lt;ref name=&quot;Jane2&quot;/&gt; South Africa later mounted K1 mortars on its fleet of [[Ratel IFV|Ratel]] infantry fighting vehicles, which were designated ''Ratel-60''.&lt;ref name=lesakeng&gt;{{cite web|url=http://www.saarmourmuseum.co.za/lesakeng.html |title=Lesakeng |publisher=South African Armour Museum |date=2012-12-06 |accessdate=2013-06-18}}&lt;/ref&gt; A gun-mortar almost identical to the CM60A1 was produced by [[FN Herstal]] for the FN 4RM/62F AB armoured cars of the [[Belgian Gendarmerie]].&lt;ref name=&quot;Jane2&quot;/&gt;
+
+The CM60A1 was the topic of some controversy in the [[Irish Army]] following a series of accidents and misfires. At some point prior to 1980 incidents involving the mortar type had become so common that its use was prohibited. The mortars were removed from Irish AML-60s shortly afterwards and replaced with a single heavy machine gun.&lt;ref name=&quot;Irish&quot;/&gt;
+
+As of 1980 over 1,600 CM60A1 mortars had been produced.&lt;ref name=&quot;Jane1&quot;/&gt; A much larger, long-ranged variant of the CM60A1 and CS 60, with a barrel extension incorporated onto the existing armament, was known as the ''[[Brandt 60 mm LR Gun-mortar|Brandt LR Gun-mortar]]''.&lt;ref name=&quot;Knox&quot;/&gt;
+
+==Combat history==
+
+CM60A1s have seen extensive combat, primarily with the AML-60 and Eland-60 light armoured cars. French forces deployed AML-60s armed with CM60A1 mortars during [[Operation Tacaud]] in [[Chad]].&lt;ref name=&quot;Jordan&quot;&gt;{{cite book | last = David Jordan| title = The History of the French Foreign Legion: From 1831 to Present Day|edition= 2005|pages= 181&amp;mdash;185 | publisher = Amber Books Ltd| isbn= 1-59228-768-9}}&lt;/ref&gt;&lt;ref name=&quot;Libya&quot;&gt;{{cite book |author1=Tom Cooper  |author2=Albert Grandolini |lastauthoramp=yes | title = Libyan Air Wars: Part 1: 1973–1985|edition= 2015|pages= 39&amp;mdash;37 | publisher = Helion &amp; Co. Ltd| isbn= 978-1-909982-39-0}}&lt;/ref&gt; South African Eland-60s were used for counter-insurgency and frequently engaged militants of the [[People's Liberation Army of Namibia]] (PLAN) during the [[South African Border War]].&lt;ref name=&quot;Heitman2&quot;&gt;Heitman, Helmoed-Römer. ''South African Arms and Armour - A concise guide to armaments of the South African Army, Navy, and Air Force.'' Struik Publishers 1988. ISBN 0-86977-637-1 p 44-45.&lt;/ref&gt; Throughout the [[Portuguese Colonial Wars]], the AML-60 equipped Portuguese reconnaissance platoons, mainly deployed for convoy escort.&lt;ref name=&quot;Abbott&quot;&gt;{{cite book | last = Peter Abbot| title = Modern African Wars (2): Angola and Mozambique 1961–74|edition= 1988|page=  | publisher = Osprey Publishing| isbn= 978-0-85045-843-5}}&lt;/ref&gt; [[Zaire]] donated some of its AML-60s to the [[UNITA|National Union for the Total Independence of Angola]] (UNITA), where they saw action as part of the [[Angolan Civil War]], often manned by French or Portuguese mercenaries.&lt;ref name=&quot;Nortje&quot;&gt;{{cite book|last=Nortje|first=Piet|title=32 Battalion |publisher=Zebra Press|year=2003|isbn=978-1-86872-914-2|pages=97–98}}&lt;/ref&gt; Nigerian AML-60s were exposed to considerable combat during the [[Nigerian Civil War]], with one being captured by [[Biafra]]n forces.&lt;ref name=Biafra&gt;{{cite book|last=Jowett|first=Philip|title=Modern African Wars (5): The Nigerian-Biafran War 1967-70|date=2016|page=24|publisher=[[Osprey Publishing]] Press|location=Oxford|isbn=978-1472816092}}&lt;/ref&gt;
+
+AML-60s have been deployed as part of three [[United Nations]] peacekeeping missions since 1964: [[UNOSOM]], [[UNIFIL]], and [[UNFICYP]].&lt;ref name=&quot;Wheels&quot;&gt;{{cite journal| last = Malmassari| first = Paul| title = UN Armored Cars/Reconnaissance Vehicles (since the beginning)| journal = Armored Car: The Wheeled Fighting Vehicle Journal| pages = 8–9| publisher = David Haugh Publisher| location = Salem, Oregon| date = August 1996}}&lt;/ref&gt;
+
+==Ammunition==
+
+Two different models of high explosive ammunition were produced for the CM60A1: the ''M35/47'', which had a range of 1,600 metres, and the ''M61'', which has a range of 2,000 metres.&lt;ref name=&quot;Jane2&quot;/&gt; Other specialized projectiles included [[Canister shot|canister]] and illumination rounds.&lt;ref name=&quot;Jane2&quot;/&gt; South Africa manufactured its own range of high explosive, canister, and illumination rounds for the K1, as well as a unique smoke projectile.&lt;ref name=lesakeng/&gt;
+
+At some point France did develop an armour-piercing shell for the CM60A1, but it is unclear whether this entered production.&lt;ref name=&quot;AW&quot;/&gt;
+
+==Operators==
+[[File:Brandt 60mm operators.png|thumb|350px|Map with Brandt 60mm operators in blue with former operators in red]]
+[[File:43 Charlie Eland.PNG|thumb|240px|[[Eland Mk7|Eland-60]] armoured car with its K1 mortar at full elevation.]]
+CM60A1 mortars have been exported widely with AML-60, Eland-60, and Ratel-60 armoured fighting vehicles.
+&lt;!--READ FIRST: This section is for cited entries only. Please do not add entries into this list without a citation from a reliable source. All entries without a citation will be removed. Thank you.--&gt;
+*{{flag|Algeria}}&lt;ref name=trade/&gt;
+*{{flag|Burkina Faso}}&lt;ref name=trade/&gt;
+*{{flag|Burundi}}&lt;ref name=trade/&gt;
+*{{flag|Côte d'Ivoire}}&lt;ref name=trade/&gt;
+*{{flag|Democratic Republic of the Congo}}&lt;ref name=&quot;JaneAA&quot;&gt;{{cite book | last = Christopher F. Foss| title = Jane's Armour and Artillery|edition= 2002|page= 209 | publisher = Macdonald and Jane's Publishers Ltd| isbn= 978-0710623096}}&lt;/ref&gt;
+*{{flag|Ecuador}}&lt;ref name=trade/&gt;
+*{{flag|Mauritania}}&lt;ref name=trade/&gt;
+*{{flag|Morocco}}&lt;ref name=trade/&gt;
+*{{flag|Niger}}&lt;ref name=trade/&gt;
+*{{flag|Nigeria}}&lt;ref name=trade/&gt;
+*{{flag|Pakistan}}&lt;ref&gt;{{cite web|url=http://www.terminalx.org/2013/08/pakistan-military-takes-security-zirports-prisons-defence-installations.html|title=Pakistan: Military takes security of Airports, Prisons and Defence Installations|publisher=|accessdate=15 November 2014}}&lt;/ref&gt;
+*{{flag|Rwanda}}&lt;ref name=trade/&gt;
+*{{flag|Saudi Arabia}}&lt;ref name=trade/&gt;&lt;ref name=&quot;Focus&quot;&gt;{{cite web|title=Eurosatory 2016 - Regional Focus: Middle East and Africa [ES2016D1]|author=&lt;!--Staff writer(s); no by-line.--&gt;|url=http://www.janes.com/article/61175/regional-focus-middle-east-and-africa-es2016d1|location=London
+|publisher=Jane's Information Group|date=13 June 2016|accessdate=29 September 2016|archiveurl=https://web.archive.org/web/20160614120441/http://www.janes.com/article/61175/regional-focus-middle-east-and-africa-es2016d1|archivedate=14 June 2016}}&lt;/ref&gt;
+*{{flag|Senegal}}&lt;ref name=trade/&gt;
+*{{flag|South Africa}}: Eland-60 retired, Ratel-60 still in service&lt;ref name=lesakeng/&gt;
+*{{flag|Togo}}&lt;ref name=trade/&gt;
+*{{flag|Yemen}}&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Zimbabwe}}&lt;ref name=&quot;Baynham&quot;&gt;{{cite book | last = Simon Baynham| authorlink = | title = Zimbabwe in transition|edition= October 1992|page= 240 | publisher = Almqvist &amp; Wiksell International| isbn= 978-9122015086}}&lt;/ref&gt;
+
+===Former operators===
+&lt;!--READ FIRST: This section is for cited entries only. Please do not add entries into this list without a citation from a reliable source. All entries without a citation will be removed. Thank you.--&gt;
+*{{flag|Angola}}: Some retained from Portugal; all retired.&lt;ref name=trade/&gt;&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Cambodia}}: Retired prior to 2002.&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Ethiopia}}: Retired prior to 2002.&lt;ref name=trade/&gt;&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Iraq}}&lt;ref name=trade/&gt;
+*{{flag|Ireland}}: Retired in the 1980s.&lt;ref name=&quot;Irish&quot;/&gt; 
+*{{flag|France}}: Retired prior to 2002.&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Malaysia}}&lt;ref name=trade/&gt;
+*{{flag|Rhodesia}}&lt;ref name=trade/&gt;&lt;ref name=&quot;Pathologist&quot;&gt;{{cite book |first=Alan |last=Mills |title=A Pathologist Remembers|year=2013 |page=203 |publisher= Author House |location= Bloomington|isbn= 978-1-4918-7882-8}}&lt;/ref&gt;
+*{{flag|Spain}}: Retired prior to 2002.&lt;ref name=&quot;JaneAA&quot;/&gt;
+*{{flag|Zaire}}&lt;ref name=Cooper&gt;{{cite book|last=Cooper|first=Tom|title=Great Lakes Holocaust: First Congo War, 1996–1997|date=2013|pages=14–16|publisher=Helion &amp; Company|location=Solihull|isbn=978-1-909384-65-1}}&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot; border=0 cellspacing=0 cellpadding=3 style=&quot;border-collapse:collapse; text-align:left;&quot; summary=&quot;Brandt LP Gun-Mortar Use&quot;
+|+ Use of Brandt's Mle CM60A1 Gun-Mortar
+|- style=&quot;vertical-align:bottom; border-bottom:1px solid #999;&quot;
+! style=&quot;text-align:left;&quot; | Vehicle
+! style=&quot;text-align:left;&quot; | Designer
+! style=&quot;text-align:left;&quot; | Country
+! style=&quot;text-align:left;&quot; | Gun
+! style=&quot;text-align:left;&quot; | Users
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Berliet VXB-170|Berliet VXB]]&lt;ref name=&quot;Jane2&quot;/&gt;
+| [[Berliet]]
+| {{Flagu|France}}
+| Mle CM60A1
+| None (prototype)
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Eland Mk7|Eland-60]]&lt;ref name=Sandstone&gt;{{cite web|url=http://www.sandstone-estates.com/index.php/military-vehicles/40-military-vehicles/2829-restoration-of-the-eland-60 |title=Restoration of the Eland-60 |publisher=Sandstone Estates |date=2012-12-06 |accessdate=2013-06-18 |deadurl=yes |archiveurl=https://web.archive.org/web/20140201210340/http://www.sandstone-estates.com/index.php/military-vehicles/40-military-vehicles/2829-restoration-of-the-eland-60 |archivedate=February 1, 2014 }}&lt;/ref&gt;
+| [[Sandock-Austral]]
+| {{Flagu|South Africa}}
+| [[Denel]] K1
+| South Africa, Côte d'Ivoire, Zimbabwe
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Panhard AML|Panhard AML-60]]&lt;ref name=&quot;Swiss&quot;/&gt;
+| [[Panhard]]
+| {{Flagu|France}}
+| Mle CM60A1
+| Algeria, Burundi, Cambodia, Côte d'Ivoire, Ethiopia, Iraq, Ireland, Mauritania, Niger, Nigeria, Portugal, Saudi Arabia, Senegal, Spain, Zaire, others
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Panhard M3|Panhard M3 VTT 60B]]&lt;ref name=&quot;Jane2&quot;/&gt;
+| Panhard
+| {{Flagu|France}}
+| Mle CM60A1
+| None (prototype)
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Ratel IFV|Ratel-60]]&lt;ref name=SurviveRide&gt;{{cite book|last1=Camp|first1=Steve|last2=Helmoed-Römer|first2=Heitman|title=Surviving the Ride: A pictorial history of South African Manufactured Mine-Protected vehicles|date=November 2014|pages=172-184|publisher=30 Degrees South|location=Pinetown|isbn=978-1928211-17-4}}&lt;/ref&gt;
+| Sandock-Austral
+| {{Flagu|South Africa}}
+| Denel K1
+| South Africa, Rwanda
+|- style=&quot;vertical-align:top; &quot;
+! style=&quot;text-align:right;&quot; | [[Rooikat]]&lt;ref name=SurviveRide/&gt;
+| Sandock-Austral
+| {{Flagu|South Africa}}
+| Denel K1
+| None (prototype)
+|}
+
+==References==
+{{reflist}}
+
+[[Category:60 mm artillery]]
+[[Category:Vehicle weapons]]
+[[Category:Cold War artillery of France]]
+[[Category:Mortars of France]]
+[[Category:Gun-mortars]]</text>
+      <sha1>fb4888dm5fol4bb5u0vjuh5oh6zvsdd</sha1>
+    </revision>
+  </page>
+</mediawiki>

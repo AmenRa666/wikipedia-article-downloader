@@ -1,0 +1,75 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Convoy OB 318</title>
+    <ns>1</ns>
+    <id>31948892</id>
+    <revision>
+      <id>714743818</id>
+      <parentid>509357050</parentid>
+      <timestamp>2016-04-11T15:59:33Z</timestamp>
+      <contributor>
+        <username>Thewellman</username>
+        <id>5877653</id>
+      </contributor>
+      <comment>information transferred from action of 9 May 1941 article</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="790">{{MILHIST|class=C|b1=no|b2=yes|b3=yes|b4=yes|b5=yes|British=yes|German=yes|Maritime=yes|WWII=yes}}
+{{Copied
+|from       =Action of 9 May 1941
+|from_oldid =508864702
+|to         =Convoy OB 318
+|diff       =https://en.wikipedia.org/w/index.php?title=Convoy_OB_318&amp;type=revision&amp;diff=509356920&amp;oldid=496060359
+|date       =27 August 2012
+}}
+
+==Suggested merger==
+I suggest information from the article [[Action of 9 May 1941]] should be merged into this article and replaced by a redirect to this article.  The action on 9 May was a small (but significant) part of the defense of convoy OB 318.[[User:Thewellman|Thewellman]] ([[User talk:Thewellman|talk]]) 01:27, 24 August 2012 (UTC)
+:Merger completed.[[User:Thewellman|Thewellman]] ([[User talk:Thewellman|talk]]) 02:58, 27 August 2012 (UTC)</text>
+      <sha1>rc714r158u8ym84qst2m14qqcuh8xnm</sha1>
+    </revision>
+  </page>
+</mediawiki>

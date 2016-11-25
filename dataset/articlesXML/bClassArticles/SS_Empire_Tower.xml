@@ -1,0 +1,202 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Empire Tower</title>
+    <ns>0</ns>
+    <id>31938380</id>
+    <revision>
+      <id>730787693</id>
+      <parentid>725583367</parentid>
+      <timestamp>2016-07-21T03:08:48Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="8242">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= 
+|Ship caption= 
+}}
+{{Infobox ship career
+|Ship name           = '''SS ''Roxburgh'''''&lt;ref name=WreckSite&gt;{{cite web |url= http://www.wrecksite.eu/wreck.aspx?15392 |title=SS Empire Tower [+1943] |last1=Allen |first1=Tony |last2=Vleggeert |first2=Nico |date=29 January 2010 |work=The Wreck Site |publisher= |accessdate=31 May 2011}}&lt;/ref&gt;
+|Ship namesake       = [[Roxburgh]], Scotland
+|Ship country        = [[United Kingdom]]
+|Ship flag           = {{shipboxflag|UK|civil}}
+|Ship owner          = [[Arthur Sutherland|B.J. Sutherland &amp; Co.]]&lt;ref name=WreckSite/&gt;
+|Ship operator       = 
+|Ship registry       = {{flagicon|UK|civil}} Newcastle-upon-Tyne
+|Ship route          = 
+|Ship ordered        = 
+|Ship builder        = [[Burntisland Shipbuilding Company]] Ltd, [[Fife]], Scotland&lt;ref name=LR&gt;{{cite book |url= http://www.plimsollshipdata.org/pdffile.php?name=43b0322.pdf |year=1943 |title=Lloyd's Register, Steamships and Motorships |location=London |publisher=[[Lloyd's Register]] |accessdate=30 March 2013}}&lt;/ref&gt;
+|Ship original cost  = 
+|Ship yard number    = 
+|Ship way number     = 
+|Ship laid down      = 
+|Ship launched       = March 1935&lt;ref name=LR/&gt;
+|Ship completed      = 
+|Ship christened     = 
+|Ship acquired       = 
+|Ship maiden voyage  = 
+|Ship in service     = 
+|Ship out of service = 
+|Ship identification =*UK [[official number]] 161579&lt;ref name=LR/&gt;
+*[[Call sign#Ships and boats|call sign]] GYFP&lt;ref name=LR/&gt;
+*{{ICS|Golf}}{{ICS|Yankee}}{{ICS|Foxtrot}}{{ICS|Papa}}
+|Ship fate           = sold 1937&lt;ref name=LR/&gt;
+|Ship status         = 
+|Ship notes          = 
+}}
+{{Infobox ship career
+|Hide header         =
+|Ship name           = '''SS ''Tower Field'''''&lt;ref name=WreckSite/&gt;
+|Ship namesake       = 
+|Ship owner          = Tower Steamship Co.
+|Ship operator       = [[Counties Ship Management]], London&lt;ref name=WreckSite/&gt;
+|Ship registry       = {{flagicon|UK|civil}} London
+|Ship route          = 
+|Ship christened     = 
+|Ship acquired       = 
+|Ship in service     = 
+|Ship out of service = 19 October 1941&lt;ref name=WreckSite/&gt;
+|Ship identification =*UK [[official number]] 161579&lt;ref name=LR/&gt;
+*[[Call sign#Ships and boats|call sign]] GYFP&lt;ref name=LR/&gt;
+*{{ICS|Golf}}{{ICS|Yankee}}{{ICS|Foxtrot}}{{ICS|Papa}}
+|Ship fate           = ran aground &amp; broke in two&lt;ref name=U2717&gt;{{cite web |url= http://www.uboat.net/allies/merchants/ships/2717.html |title=Empire Tower |last=Helgason |first=Guðmundur |date=1995–2010 |work=uboat.net |publisher=Guðmundur Helgason |accessdate=31 May 2011}}&lt;/ref&gt;
+|Ship status         = 
+|Ship notes          = 
+}}
+{{Infobox ship career
+|Hide header         =title
+|Ship name           = '''SS ''Empire Tower'''''&lt;ref name=WreckSite/&gt;
+|Ship namesake       = 
+|Ship owner          = [[Ministry of War Transport]]&lt;ref name=WreckSite/&gt;
+|Ship operator       = [[Counties Ship Management]], London&lt;ref name=WreckSite/&gt;
+|Ship registry       = {{flagicon|UK|civil}} London
+|Ship route          = 
+|Ship christened     = 
+|Ship acquired       = 
+|Ship in service     = December 1942&lt;ref name=WreckSite/&gt;
+|Ship out of service = 5 March 1943&lt;ref name=WreckSite/&gt;
+|Ship identification = UK [[official number]] 161579&lt;ref name=LR/&gt;
+|Ship fate           = sunk by torpedo 5 March 1943&lt;ref name=WreckSite/&gt;
+|Ship status         = 
+|Ship notes          = 
+}}
+{{Infobox ship characteristics
+|Hide header          = 
+|Header caption       = 
+|Ship class           =
+|Ship type            = [[cargo ship]]&lt;ref name=LR/&gt;
+|Ship tonnage         =*{{GRT|4378}}&lt;ref name=LR/&gt;
+*tonnage under deck 3,927&lt;ref name=LR/&gt;
+*{{NRT|2,636}}&lt;ref name=LR/&gt;
+|Ship displacement    = 
+|Ship length          = {{convert|372.0|ft|abbr=on}}&lt;ref name=LR/&gt;
+|Ship beam            = {{convert|52.4|ft|abbr=on}}&lt;ref name=LR/&gt;
+|Ship height          = 
+|Ship draught         = {{convert|24|ft|5|in|abbr=on}}&lt;ref name=LR/&gt;
+|Ship depth           = {{convert|25.2|ft|abbr=on}}&lt;ref name=LR/&gt;
+|Ship decks           = 
+|Ship deck clearance  = 
+|Ship power           = 335 [[Horsepower#Nominal horsepower|NHP]]
+|Ship propulsion      =  [[Marine steam engine#Triple or multiple expansion|triple expansion steam engine]];&lt;ref name=LR/&gt; single [[Propeller (marine)|screw]]
+|Ship speed           = 
+|Ship capacity        = 
+|Ship crew            = 39 plus 6 [[Defensively equipped merchant ships|DEMS]] gunners&lt;ref name=WreckSite/&gt;
+|Ship notes           = 
+}}
+|}
+
+'''SS ''Empire Tower''''' was a British {{GRT|4378}} [[cargo ship]] built in 1935 and sunk by enemy action in 1943.
+
+She was built by the [[Burntisland Shipbuilding Company]] Ltd. in [[Fife]], Scotland. The North Eastern Marine Engineering Co. Ltd. of [[City of Sunderland|Sunderland]] built her 335 [[Horsepower#Nominal horsepower|NHP]] three-cylinder [[Marine steam engine#Triple or multiple expansion|triple expansion steam engine]].&lt;ref name=LR/&gt; She had six corrugated furnaces with a combined heating surface of {{convert|117|sqft|0}} heat to heat her three 180 [[Pounds per square inch|lb&lt;sub&gt;f&lt;/sub&gt;/in&lt;sup&gt;2&lt;/sup&gt;]] single-ended boilers, which had a combined heating surface of {{convert|5445|sqft|0}}.&lt;ref name=LR/&gt; She was fitted with [[direction finding]] equipment.&lt;ref name=LR/&gt;
+
+She was launched as '''SS ''Roxburgh''''' for [[Arthur Sutherland|B.J. Sutherland and Company]] of [[Newcastle-upon-Tyne]].&lt;ref name=WreckSite/&gt; In 1937 the Tower Hill Steamship Company, an offshoot of [[Counties Ship Management]], bought her and renamed her '''SS ''Tower Field'''''.&lt;ref name=WreckSite/&gt;
+
+==Damage and repair==
+On 10 May 1941 ''Tower Field'' was steaming in ballast from London to Newcastle when a German aircraft attacked and damaged her off the Outer Dowsing Buoy in the [[Thames Estuary]].&lt;ref name=U2717/&gt; She was repaired and returned to service.&lt;ref name=U2717/&gt;
+
+On 19 October 1941 she was entering [[Workington]] Channel off [[Kingston upon Hull|Hull]] with a cargo of iron ore when she ran aground and fractured her hull.&lt;ref name=U2717/&gt; She broke in two but her cargo was discharged and she was refloated and repaired.&lt;ref name=U2717/&gt;
+
+The [[Ministry of War Transport]] took her over and renamed her '''SS ''Empire Tower''''' but kept her under CSM management.&lt;ref name=LR/&gt; She returned to service in December 1942.&lt;ref name=U2717/&gt;
+
+{{location map|North Atlantic|width=304
+|lat= 43.50
+|long= -14.46
+|caption=Approximate position of ''Empire Tower''{{'}}s wreck
+|relief= yes
+}}
+
+==Sinking==
+Early in 1943 ''Empire Tower'', under Captain David John Williams OBE, joined [[List of convoy codes#X|Convoy XK-2]] from [[Gibraltar]] to the UK.&lt;ref name=U2717/&gt; On 5 March the [[German Type IX submarine]]&lt;ref name=U130&gt;{{cite web |url= http://www.uboat.net/boats/u130.htm |title=U-130 |last=Helgason |first=Guðmundur |date=1995–2010 |work=uboat.net |publisher=Guðmundur Helgason |accessdate=31 May 2011}}&lt;/ref&gt; {{GS|U-130|1941|2}} attacked the convoy and sank ''Empire Tower'', {{SS|Fidra||2}}, {{SS|Ger-y-Bryn||2}} and {{SS|Trefusis||2}}.&lt;ref name=U2717/&gt;&lt;ref&gt;{{cite book |last=Slader |first=John |title=The Red Duster at War |year=1988 |publisher=William Kimber &amp; Co Ltd |location=London |isbn=0-7183-0679-1 |page=253}}
+&lt;/ref&gt; ''Empire Tower'' sank within a minute and Captain Williams, six gunners and 35 crew were lost.&lt;ref name=U2717/&gt; The [[Royal Navy]] [[naval trawler|armed trawler]] {{HMS|Loch Oskaig|FY 175|6}} rescued three survivors and landed them at [[Derry|Londonderry]],&lt;ref name=U2717/&gt; [[Northern Ireland]].
+
+One week later, on 12 March, a [[depth charge]] attack by [[United States Navy|US Navy]] destroyer {{USS|Champlin|DD-601|6}} west of the [[Azores]] sank ''U-130'' with the loss of all 53 hands.&lt;ref name=U130/&gt;
+
+==References==
+{{reflist}}
+
+{{Empire T ships}}
+{{October 1941 shipwrecks}}
+{{March 1943 shipwrecks}}
+{{coord|43.50|N|14.46|W|display=title}}
+
+{{DEFAULTSORT:Empire Tower}}
+[[Category:1935 ships]]
+[[Category:Ships built in Scotland]]
+[[Category:Water transport in the United Kingdom]]
+[[Category:Ships of Counties Ship Management]]
+[[Category:Empire ships]]
+[[Category:Maritime incidents in October 1941]]
+[[Category:Maritime incidents in March 1943]]
+[[Category:Ships sunk by German submarines in World War II]]
+[[Category:Shipwrecks in the Atlantic Ocean]]</text>
+      <sha1>fjgedgih7xto68i4ynh58r0u92wnlh9</sha1>
+    </revision>
+  </page>
+</mediawiki>

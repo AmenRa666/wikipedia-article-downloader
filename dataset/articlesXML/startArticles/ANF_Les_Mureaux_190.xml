@@ -1,0 +1,194 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ANF Les Mureaux 190</title>
+    <ns>0</ns>
+    <id>30835104</id>
+    <revision>
+      <id>741369277</id>
+      <parentid>668328632</parentid>
+      <timestamp>2016-09-27T02:10:16Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3578">{|{{Infobox aircraft begin
+ |name=ANF Les Mureaux 190
+}}{{Infobox aircraft type
+ |type=[[Light fighter]]
+ |national origin=France
+ |manufacturer=[[ANF Les Mureaux]]
+ |first flight=July 1936
+ |number built=1
+}}
+|}
+
+The '''ANF Les Mureaux 190''' was a [[France|French]] prototype light [[fighter aircraft]]. In response to a program created by the French Minister of Air, the ANF Les Mureaux 190 was designed by André Brunet as a light fighter. The ANF Les Mureaux 190 was an all-metal [[monoplane]], and was first tested in July 1936, then taken to the 15th [[Paris Air Show]] in late November,&lt;ref&gt;Institute of the Aeronautical Sciences, 1937. ''Journal of the Aeronautical Sciences'', Volume 4, [https://books.google.com/books?ei=87hZTfu1O4HAtgfZh72cDQ&amp;ct=result&amp;id=MT1YAAAAMAAJ&amp;dq=ANF+Les+Mureaux+190&amp;q=%22Mureaux+190%22#search_anchor p.170].&lt;/ref&gt; where it was asserted to be very manoeuvrable. However, less than a year later, the project was abandoned due to the poor quality of its engine.
+
+The ANF Les Mureax 190 was powered by a 450&amp;nbsp;hp [[Salmson 12 Vars]] [[V12 engine|inverted V-12]] engine. its proposed armament consisted of a {{convert|20|mm|abbr=on}} engine-mounted [[cannon]], and two 7.7mm (.30-caliber) wing-mounted [[machine gun]]s.&lt;ref&gt;{{cite book|title=The complete book of fighters: an illustrated encyclopedia of every fighter aircraft built and flown|year=2001|publisher=Salamander|isbn=978-1-84065-269-7|author=Green, William|author2=Gordon Swanborough|page=19}}&lt;/ref&gt;
+
+==Specifications==
+{{Aircraft specs
+|ref=&lt;!-- reference --&gt;
+|prime units?=met
+&lt;!--
+        General characteristics
+--&gt;
+|genhide=
+|crew=1
+|capacity=
+|length m=7.2
+|length note=
+|span m=8.38
+|span note=
+|height m=3
+|height note=
+|wing area sqm=10
+|wing area note=
+|airfoil=
+|empty weight kg=850
+|empty weight note=
+|gross weight kg=1290
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+&lt;!--
+        Powerplant
+--&gt;
+|eng1 number=1
+|eng1 name=[[Salmson 12 Vars]]
+|eng1 type=12-cylinder inverted-V air-cooled
+|eng1 hp=450
+|eng1 note=
+|power original=
+|thrust original=
+|prop blade number=
+|prop name=
+|prop dia m=
+|prop dia ft=
+|prop dia in=
+|prop note=
+&lt;!--
+        Performance
+--&gt;
+|perfhide=
+|max speed kmh=500
+|max speed note=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|range km=
+|range miles=
+|range nmi=
+|range note=
+|combat range km=
+|combat range miles=
+|combat range nmi=
+|combat range note=
+|ferry range km=
+|ferry range miles=
+|ferry range nmi=
+|ferry range note=
+|endurance=
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|time to altitude=
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2=
+|wing loading lb/sqft=
+|wing loading note=
+|disk loading kg/m2=
+|disk loading lb/sqft=
+|disk loading note=
+|fuel consumption kg/km=
+|fuel consumption lb/mi=
+|power/mass=
+|thrust/weight=
+|more performance=
+&lt;!--
+        Armament
+--&gt;
+|guns=1×20mm cannon, 2×7.7mm machine guns  
+|avionics=
+}}
+
+==References==
+{{reflist}}
+
+{{ANF Les Mureaux aircraft}}
+
+[[Category:ANF Les Mureaux aircraft|190]]
+[[Category:French fighter aircraft 1930–1939]]
+[[Category:Cancelled military aircraft projects of France]]
+[[Category:Single-engine aircraft]]</text>
+      <sha1>q5fwo2n03peuoiiytokinjwo9a41k6w</sha1>
+    </revision>
+  </page>
+</mediawiki>

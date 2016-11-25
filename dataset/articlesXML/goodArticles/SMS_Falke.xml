@@ -1,0 +1,183 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SMS Falke</title>
+    <ns>0</ns>
+    <id>40854084</id>
+    <revision>
+      <id>749816619</id>
+      <parentid>743354196</parentid>
+      <timestamp>2016-11-16T08:49:36Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{Interlanguage link}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21597">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Bundesarchiv Bild 146-2008-0171, Kleiner Kreuzer &quot;SMS Falke&quot;.jpg|300px]]
+|Ship caption=SMS ''Falke'' in 1892
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[German Empire]]
+|Ship flag={{shipboxflag|German Empire|naval}}
+|Ship name=''Falke''
+|Ship laid down=1890
+|Ship launched=4 April 1891
+|Ship commissioned=14 September 1891
+|Ship fate=Scrapped, 1913
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Bussard|cruiser|0}} [[unprotected cruiser]] 
+|Ship type=
+|Ship displacement={{convert|1868|MT|abbr=on}}
+|Ship length={{convert|82.6|m|ftin|abbr=on}}
+|Ship beam={{convert|12.5|m|ftin|abbr=on}}
+|Ship draft={{convert|4.45|m|ftin|abbr=on}}
+|Ship propulsion= 3-cylinder triple expansion engines, 2 screws
+|Ship speed={{convert|15.5|kn|km/h}}
+|Ship range={{convert|2990|nmi|km|-1|abbr=on}} at {{convert|9|kn|km/h}}
+|Ship complement=*9 officers
+*152 enlisted men
+|Ship armament=*8 × {{convert|10.5|cm|in|abbr=on}} SK L/35 guns
+*5 × revolver cannon
+*2 × {{convert|35|cm|in|abbr=on}} [[torpedo tube]]s
+|Ship notes=
+}}
+|}
+
+'''SMS ''Falke''''' (&quot;His Majesty's Ship ''Falke''—''Falcon''&quot;){{efn|name=SMS|}} was an [[unprotected cruiser]] of the {{sclass-|Bussard|cruiser|4}}, built for the [[Imperial German Navy]]. She was the second member of the class of six vessels. The cruiser was laid down in 1890, launched in April 1891, and commissioned into the fleet in September of that month. Designed for overseas service, she carried a main battery of eight {{convert|10.5|cm|adj=on|sp=us}} guns and had a top speed of {{convert|15.5|kn|lk=in}}.
+
+''Falke'' served abroad for the majority of her career, seeing duty in East Asia, the Central Pacific, and the Americas. She assisted in the suppression of a revolt in [[Samoa]] in 1893, and was damaged in a later uprising there in 1899. In 1901, ''Falke'' was transferred to the American Station, and the following year she took part in the [[Venezuela Crisis of 1902–03]], during which she helped enforce an Anglo-German blockade of the Venezuelan coast. In 1907, ''Falke'' was recalled to Germany. She was stricken from the [[naval register]] in late 1912 and subsequently broken up for scrap.
+
+==Design==
+[[File:SMS Geier.jpg|thumb|left|Illustration of the ''Bussard''-class cruiser {{SMS|Geier||2}}]]
+{{main|Bussard-class cruiser}}
+''Falke'' was {{convert|82.6|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|12.5|m|abbr=on}} and a [[draft (hull)|draft]] of {{convert|4.45|m|abbr=on}} forward. She displaced {{convert|1868|MT|abbr=on}} at full combat load. Her propulsion system consisted of two horizontal 3-cylinder triple-expansion [[steam engine]]s powered by four coal-fired cylindrical boilers. These provided a top speed of {{convert|15.5|kn|abbr=on}} and a range of approximately {{convert|2990|nmi|lk=in}} at {{convert|9|kn|abbr=on}}. She had a crew of 9 officers and 152 enlisted men.&lt;ref name=G97&gt;Gröner, p. 97&lt;/ref&gt;
+
+The ship was armed with eight [[10.5 cm SK L/35|10.5&amp;nbsp;cm SK L/35]] quick-firing guns in single pedestal mounts, supplied with 800&amp;nbsp;rounds of ammunition in total. They had a range of {{convert|10800|m|abbr=on}}.&lt;ref name=G97/&gt; Two guns were placed side by side forward, two on each [[broadside]] in [[sponson]]s, and two side by side aft. The gun armament was rounded out by five revolver cannon.&lt;ref name=G253&gt;Gardiner, p. 253&lt;/ref&gt; She was also equipped with two {{convert|35|cm|abbr=on}} [[torpedo tube]]s with five torpedoes, both of which were mounted on the deck.&lt;ref name=G97/&gt;
+
+==Service history==
+''Falke'' was laid down at the [[Kaiserliche Werft Kiel|''Kaiserliche Werft'']] (Imperial Shipyard) in [[Kiel]] in January 1890 under the contract name &quot;D&quot;. She was launched on 4 April 1891; at the ceremony, [[Prince Heinrich]] gave a speech and his wife, [[Princess Irene of Hesse and by Rhine|Princess Irene]], christened the ship. ''Falke'' was commissioned on 14 September of that year for [[sea trials]]. While steaming off [[Bornholm]], the ship ran aground but was pulled free by other vessels. She was temporarily decommissioned in Kiel on 31 October.&lt;ref&gt;Gröner, pp. 97&amp;ndash;98&lt;/ref&gt;&lt;ref name=HRS78&gt;Hildebrand, Röhr &amp; Steinmetz, p. 78&lt;/ref&gt; ''Falke'' was recommissioned on 14 August 1892 in order to participate in the annual fleet training maneuvers that began that month and continued into September. She was assigned to the III Division, along with the [[coastal defense ship]] {{SMS|Siegfried||2}}.&lt;ref name=HRS78/&gt;&lt;ref&gt;''Naval Manoeuvres of 1892'', p. 112&lt;/ref&gt;
+
+===Deployment to West Africa===
+[[File:Colonial Africa 1913 Germany map.svg|thumb|Germany's African colonies]]
+''Falke'' was transferred to Germany's West African colonies in western Africa after the conclusion of the maneuvers, departing Kiel on 16 October to replace the [[gunboat]] {{SMS|Habicht||2}}. After arriving in western Africa, ''Falke'' went to [[Dahomey]], where the [[Second Franco-Dahomean War]] had recently broken out. In December, her captain unsuccessfully attempted to negotiate the release of two German merchants who were being held by Dahomean soldiers. On 31 December, ''Falke'' returned to [[Douala|Duala]], the main German port in [[Kamerun]], where she joined the second warship stationed in the colony, the gunboat {{SMS|Hyäne||2}}.&lt;ref name=HRS78/&gt;
+
+The borders of [[German South-West Africa]] had been settled via treaties with Portugal (1886) and Britain (1890), but the coast line had not been surveyed in detail. ''Falke'' was tasked with locating a suitable port to connect to the capital at [[Windhoek|Windhuk]]. She departed [[Luanda]] on 23 January 1893 and arrived in [[Cape Cross]] four days later. The ship surveyed the area thoroughly, and discovered a Portuguese ''[[padrão]]''.&lt;ref name=HRS78/&gt; It had been placed there by the Portuguese explorer [[Diogo Cão]] in the late 15th century. ''Falke''{{'}}s crew removed it to protect it from further weathering and placed a wooden cross to mark the location. The ship's crew received a period of rest from 14 to 16 March, after which time ''Falke'' steamed back to Kamerun, stopping in several ports along the way and arriving in Duala on 29 April. There, the stone monument was unloaded and later transported back to Berlin for preservation by the steamer {{SS|Stettin||2}}, which departed Duala on 29 October. A granite copy, carried by the cruiser {{SMS|Sperber||2}}, was installed in its place in 1895.&lt;ref name=HRS78/&gt;&lt;ref&gt;Schoeman, p. 82&lt;/ref&gt;
+
+In the meantime, ''Falke'' had been sent to [[Liberia]] on 27 May in response to unrest in the country. She arrived in [[Monrovia]] on 9 June, and temporarily took [[Joseph James Cheeseman]], the President of Liberia, aboard to protect him from the rebels. ''Falke'' wa back in Duala by 22 July. She was sent to [[Cape Town]] in South Africa for an overhaul that began on 30 November, but a rebellion among the [[Khoikhoi]] in German South-West Africa forced a postponement of the work; by 5 December the ship was in the colony to join the effort to suppress the rebels. Her presence proved to be unnecessary, and so she was sent back to Cape Town later in the month.&lt;ref name=HRS78/&gt; After she arrived, the ''[[Admiralstab]]'' (Admiralty Staff) transferred ''Falke'' to the colony in [[German New Guinea]]. ''Falke'' departed on 23 December, arriving in [[Melbourne]] via [[Sydney]].&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, pp. 78–79&lt;/ref&gt;
+
+===Deployment to the Pacific===
+[[File:German warship in Apia Harbour 1900s, photo AJ Tattersall Timeframes NZ.jpg|thumb|left|''Falke'' in Samoa]]
+
+Upon arriving in Melbourne on 8 February 1894, ''Falke'' met her [[sister ship]] {{SMS|Bussard||2}} and the gunboat {{SMS|Möwe|1879|2}}. The three ships then departed for [[Apia]] in the [[Caroline Islands]], arriving on 16 April, where they conducted gunnery training. ''Falke'' remained in Samoa until early October when she returned to Sydney for repair work; at the time, Sydney possessed the only shipyard with the facilities necessary for major repairs, which meant that the Germans were dependent on the Australian port to keep their warships operational. A lengthy overhaul took place in Sydney from March to July 1895. From 29 July to 10 November, ''Falke'' was again in Samoa. During this period, the ship surveyed the port at [[Salua]], north of the main island of [[Upolu]]. In mid-November, the governor of the Marshall Islands requested the presence of ''Falke'', and in late December she left the Marshalls for [[Kaiser-Wilhelmsland]], arriving in [[Matupi Harbour|Matupi Harbor]] in January 1896. There she met ''Möwe''; ''Falke''{{'}}s tour of Germany's Pacific colonies ended that month.&lt;ref name=HRS79&gt;Hildebrand, Röhr &amp; Steinmetz, p. 79&lt;/ref&gt;
+
+Another overhaul in Sydney followed from 4 February to 4 April. On 15 April, ''Falke'' dropped anchor once again in Apia. At the end of August, the ship steamed to [[Auckland]], New Zealand, where she met ''Bussard'' and ''Möwe''. The threat of rebellion in the Marshalls forced ''Falke'' to make another trip there in early November. Her cruise through the colonies ended with a stop in Sydney on 18 February 1897. She departed for another visit to Auckland on 23 April. She also stopped in [[Tonga]] before continuing on to Apia, arriving on 16 May. The following month, three Germans, including Curt von Hagen, the governor of the colony, were murdered in Kaiser-Wilhelmsland. ''Falke'' was sent to {{Interlanguage link multi|Stephansort|de}} (south of modern [[Madang]]) on 24 June to apprehend the murderers; she transported a police detachment from the capital at [[Herbertshöhe]] to [[Ali Island]] and contributed a landing party from her crew. On 10 November ''Falke'' returned to Apia, but two days later she departed for Sydney via Auckland for repairs. A new crew had also arrived in Sydney from Germany. On 24 April 1898, she departed Sydney for a tour of the colonies. After the conclusion of the cruise, ''Falke'' returned to Sydney, where her new commander, ''[[Korvettenkapitän]]'' (Corvette Captain) [[Victor Schönfelder]] had arrived; he formally took control of the ship on 1 September.&lt;ref name=HRS79/&gt;
+
+[[File:SMS Falke in Samoa.png|thumb|''Falke'' c. 1899]]
+
+On 1 October, ''Falke'' left Sydney for Apia before making visits to the [[New Hebrides]], [[Fiji]], and Tonga on the 15th. Four weeks later, ''Bussard'' departed the central Pacific, bound for Germany; ''Falke'' was now alone in the region, despite the rising international tensions concerning a succession crisis in Samoa.&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, pp. 79&amp;ndash;80&lt;/ref&gt; In March 1899, ''Falke'' was in the harbor at Apia. Unrest on the island, instigated by [[Mata'afa Iosefo]], prompted the American cruiser {{USS|Philadelphia|C-4|6}} and the British [[sloop]] {{HMS|Royalist|1883|6}} and [[torpedo cruiser]] {{HMS|Porpoise|1886|6}} to shell the rebel positions. Their gunfire was poorly aimed, however, and several shells hit ''Falke''.&lt;ref&gt;Beede, p. 310&lt;/ref&gt; Schönfelder kept his crew from escalating the situation to prevent a more serious diplomatic crisis from developing. Eventually, the [[Second Samoan Civil War]] was resolved by splitting the islands into German and American colonies, while Britain received concessions elsewhere. By June, the fighting was over and the situation had calmed.&lt;ref name=HRS80&gt;Hildebrand, Röhr &amp; Steinmetz, p. 80&lt;/ref&gt;
+
+''Falke''{{'}}s sister ship {{SMS|Cormoran|1892|2}} arrived at that time to relieve her. ''Falke'' then began the journey back to Germany on 1 July, stopping in Sydney, [[Jakarta|Batavia]], [[Colombo]], [[Mahé, Seychelles|Mahé]], and Lisbon. She reached [[Hamburg]] on 14 October. Her crew conducted a landing exercise to demonstrate how they had practiced it during their tour abroad. [[Kaiser Wilhelm II]] greeted Schönfelder and congratulated him for his skillful and levelheaded handling of the crisis in Samoa. On 27 October, ''Falke'' steamed to [[Danzig]], where she was decommissioned on 3 November. The [[Kaiserliche Werft Danzig|''Kaiserliche Werft'']] in Danzig conducted a lengthy overhaul and modernization.&lt;ref name=HRS80/&gt;
+
+===Deployment to the Americas===
+On 2 October 1901, ''Falke'' was recommissioned for another tour abroad, this time to the Americas. She was sent to reinforce the [[protected cruiser]] {{SMS|Vineta|1897|2}} due to unrest in the Caribbean and South America. Three days later, she departed [[Neufahrwasser]] and crossed the Atlantic, arriving in [[Castries]] on [[Saint Lucia]] on 14 November. ''Falke'' visited several ports in the area before joining the [[training ship]]s {{SMS|Moltke|1877|2}} and {{SMS|Stein||2}} and the [[light cruiser]] {{SMS|Gazelle||2}}. ''Falke'' was then ordered to steam up the [[Amazon River]]; she entered the Amazon via the [[Pará River]] on 7 March 1902 and reached [[Manaus]] by 23 March. There, she met several [[HAPAG]] and [[Norddeutscher Lloyd|NDL]] steamers. ''Falke'' continued upriver, her voyage hampered by a lack of accurate maps and insufficiently knowledgeable river pilots. She finally reached [[San Ignacio, Peru|San Ignacio]] in Peru on 17 April. By this point, the river was {{convert|114|m|abbr=on}} above sea level and only {{convert|400|nmi|abbr=on}} from the Pacific coast; ''Falke'' had travelled around {{convert|5200|nmi|abbr=on}} up the river; a shortage of coal prevented her from proceeding further. On 30 April, she arrived back at the mouth of the river.&lt;ref name=HRS80/&gt;
+
+[[File:CIA map of the Caribbean.png|thumb|Map of the Caribbean showing many of the ports ''Falke'' visited during her deployment]]
+On 8 May, ''Falke'' arrived in [[Port of Spain]] in [[Trinidad]] before being ordered to the coast of [[Venezuela]] to safeguard German interests during a period of unrest there. While en route, she stopped in [[Fort-de-France]], [[Martinique]] to pick up a load of food and medical supplies for the people living around [[Mont Pelee]], which had recently erupted.&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, pp. 80&amp;ndash;81&lt;/ref&gt; She then proceeded to [[Carúpano]] in Venezuela to protect German nationals from expected fighting. She was based out of the port of [[Charlotte Amalie, United States Virgin Islands|Charlotte Amalie]] in the [[Virgin Islands]]. During this period, she made stops in Carúpano, [[La Guaira]], and [[Puerto Cabello]], along with a visit to [[Willemstad]] in [[Curaçao]]. On 30 September, she was sent to [[Port-au-Prince]], Haiti, to protect German nationals there during a revolution in the country. At times, landing parties had to be sent ashore to protect the German [[consulate]] in [[Gonaïves]].&lt;ref name=HRS81&gt;Hildebrand, Röhr &amp; Steinmetz, p. 81&lt;/ref&gt;
+
+By this time, the situation in Venezuela had worsened, necessitating foreign warships to remain of the coast to protect foreign nationals in the country. In December, ''Falke'' ran aground while leaving Willemstad; the training ship {{SMS|Stosch||2}} pulled her free only with great difficulty. The ship was nevertheless not damaged in the accident. On 16 December, the East American Cruiser Division was formally established by the German Navy, led by the [[flagship]] ''Vineta''. ''Falke'' was thereafter occupied with operations during the [[Venezuela Crisis of 1902–1903]].&lt;ref name=HRS81/&gt; The Germans operated in concert with the British [[Royal Navy]] and the Italian ''[[Regia Marina]]''; they sought to compel the Venezuelan government to make reparations for grievances related to internal conflicts in the over the previous decade.&lt;ref&gt;Forbes, p. 325&lt;/ref&gt; The crisis began when a British merchant ship was boarded and its crew arrested by Venezuelan forces on 13 December; in response, British forces bombarded the forts at Puerto Cabello, and enlisted the German squadron to assist them in punishing the Venezuelans. ''Falke'' and ''Gazelle'' were tasked with blockading the Venezuelan coast, in cooperation with the British squadron.&lt;ref&gt;Marley, pp. 924&amp;ndash;925&lt;/ref&gt;
+
+On 28 February 1903, ''Falke'' went to the [[Bermudas]], where she stayed from 8 to 13 March.&lt;ref name=HRS81/&gt; From October 1903 to November 1905, [[Paul Behncke]] served as the ship's commander.&lt;ref name=HRS77&gt;Hildebrand, Röhr &amp; Steinmetz, p. 77&lt;/ref&gt; In January 1904, the ship visited [[New Orleans]] with the rest of the American Squadron, which at that time included ''Vineta'', ''Gazelle'', and the [[gunboat]] {{SMS|Panther||2}}.&lt;ref&gt;Witte, pp. 230&amp;ndash;231&lt;/ref&gt; She stopped in [[Newport News]] in the United States from 26 May to 16 June 1904. She then cruised south to visit several Brazilian ports, starting on 17 July. On 23 September, she stopped in [[Buenos Aires]], and four weeks later, continued south around [[Cape Horn]] via the [[Strait of Magellan]]. She continued as far north as Peru by the end of 1904 and stopped in several Argentinian and Chilean ports along the way, including [[Valparaiso]] on 20 December. In the meantime, the East American Cruiser Division was disbanded. Starting on 6 January 1905, ''Falke'' resumed her voyage up the Pacific coast of the Americas, stopping in Peru, Colombia, and several Central American countries. On 15 June she reached [[San Francisco]], where she stayed for three weeks. On 10 July she resumed her cruise northward and visited harbors in Canada and southern Alaska.&lt;ref name=HRS81/&gt;
+
+On the return voyage, she steamed up the [[Columbia River]] and toured the [[Gulf of California]]. She spent Christmas and New Year's Day in [[Mazatlán]] in Mexico and also stopped in [[Callao]]. While cruising off the coast of Chile in August, she was damaged by a severe storm. Repairs were effected in [[Talcahuano]]; while she was being repaired, an earthquake struck Valparaiso. Once she was ready for sea, ''Falke'' carried food and medical supplies to the city between 28 August and 2 September.&lt;ref name=HRS81/&gt; The ship returned to Chile to be present during the inauguration ceremony for President [[Pedro Montt]] on 18 September. She then returned to Talcahuano to complete her repairs. On 4 September, she departed and steamed down to [[Punta Arenas]], where she stayed from 2 to 15 December. ''Falke'' then crossed back to the Atlantic and steamed up to [[Montevideo]] in January 1907; there, she received the order to return to Germany.&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, pp. 81&amp;ndash;82&lt;/ref&gt;
+
+''Falke'' departed Montevideo and crossed the Atlantic to [[Dakar]], proceeding to [[Las Palmas]] and then Lisbon. There she was visited by [[Frederick Augustus III of Saxony]]. She arrived in Danzig on 15 April, after five and a half years abroad. The ship was decommissioned on 20 January, and an evaluation determined that she was not worth overhauling. She was accordingly stricken from the [[naval register]] on 25 October 1912 and broken up the following year at the [[Kaiserliche Werft Danzig|''Kaiserliche Werft'']] in [[Danzig]].&lt;ref name=G98&gt;Gröner, p. 98&lt;/ref&gt;&lt;ref&gt;Hildebrand, Röhr &amp; Steinmetz, p. 82&lt;/ref&gt;
+
+== Notes ==
+
+=== Footnotes ===
+{{notes
+| notes =
+
+{{efn
+| name = SMS
+| &quot;SMS&quot; stands for &quot;''[[Seiner Majestät Schiff]]''&quot; ({{lang-de|link=no|His Majesty's Ship}}).
+}}
+
+}}
+
+=== Citations ===
+{{Reflist|colwidth=20em}}
+
+==References==
+*{{cite book|last=Beede|first=Benjamin R.|title=The War of 1898, and U.S. Interventions, 1898&amp;ndash;1934: An Encyclopedia|year=1994|publisher=Garland|location=New York, NY|isbn=0-8240-5624-8}}
+*{{Cite journal|last=Forbes|first=Ian L. D.|title=The German Participation in the Allied Coercion of Venezuela 1902–1903|journal=Australian Journal of Politics &amp; History|volume=24|issue=3|publisher=Royal United Services Institute for Defence Studies|year=1978|pages=317–331|location=Brisbane|ISSN=0004-9522|oclc=1518826|doi=10.1111/j.1467-8497.1978.tb00261.x}}
+*{{cite book|editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships 1860–1905|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4}}
+*{{cite book|last=Gröner|first=Erich|title=German Warships 1815–1945|year=1990|publisher=Naval Institute Press|location=Annapolis, MD|isbn=0-87021-790-9}}
+* {{cite book| last1 = Hildebrand| first1 = Hans H.| last2 = Röhr| first2 = Albert| last3 = Steinmetz| first3 = Hans-Otto| year = 1993| title = Die Deutschen Kriegsschiffe| volume = 3|location = [[Ratingen]], DE|publisher = Mundus Verlag|isbn = 3-7822-0211-2}}
+*{{Cite book |last=Marley|first=David|title=Wars of the Americas: A Chronology of Armed Conflict in the Western Hemisphere, 1492 to the Present|year=2008|location=Santa Barbara, CA|publisher=ABC-CLIO|isbn=978-1-59884-100-8}}
+* {{cite journal|title=Naval Manoeuvres of 1892|journal=General Information Series: Information From Abroad|pages=55&amp;ndash;126|year=1893|volume=XII|publisher=Government Printing Office|location=Washington, DC|oclc=145338985}}
+* {{cite journal|title=Naval Notes|pages=73&amp;ndash;91|journal=Journal of the Royal United Service Institution|year=1899|volume=XLIII|publisher=J. J. Keliher &amp; Co.|location=London, UK|ISSN=	0035-9289|oclc=723657282|doi=10.1080/03071849909417612}}
+*{{Cite book |last=Schoeman|first=Amy|title=Skeleton Coast|year=2003|location=Cape Town, SA|publisher=Struik|isbn=1-86872-891-9}}
+*{{Cite book |last=Witte|first=Emil|title=Revelations of a German Attaché: Ten Years of German-American Diplomacy|year=1916|location=New York, NY|publisher=George H. Doran Company|oclc=889317}}
+
+{{Bussard class cruisers}}
+
+{{DEFAULTSORT:Falke}}
+[[Category:Bussard-class cruisers]]
+[[Category:1891 ships]]</text>
+      <sha1>bxcxnfc0vakgrh5lle1pvkuuwnwqp3p</sha1>
+    </revision>
+  </page>
+</mediawiki>

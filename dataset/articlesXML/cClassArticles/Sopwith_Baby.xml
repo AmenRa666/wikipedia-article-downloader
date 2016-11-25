@@ -1,0 +1,249 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Sopwith Baby</title>
+    <ns>0</ns>
+    <id>8308605</id>
+    <revision>
+      <id>699478663</id>
+      <parentid>685055342</parentid>
+      <timestamp>2016-01-12T16:00:36Z</timestamp>
+      <contributor>
+        <username>Trappist the monk</username>
+        <id>10289486</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */cleanup extra text in page/pages/at/edition/ref parameters; convert some cite journal to cite magazine or news; using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9801">{|{{Infobox Aircraft Begin
+ |name=Baby
+ |image=Sopwith Baby WW1 aircraft.jpg
+ |caption=Sopwith Baby in use with the [[Royal Norwegian Navy Air Service]]
+}}{{Infobox Aircraft Type
+ |type=Single-seat [[Scout (aircraft)|scout]] and bomber biplane seaplane
+ |manufacturer=[[Sopwith Aviation Company]]
+ |designer=
+ |first flight=September {{avyear|1915}}&lt;ref name=&quot;Holmes&quot;&gt;Holmes, 2005. p 44.&lt;/ref&gt;
+ |introduced=1915
+ |retired=
+ |status=retired
+ |primary user=[[Royal Naval Air Service]]
+ |more users=[[Regia Marina|Aviazione della Regia Marina]]
+ |produced=
+ |developed from=[[Sopwith Schneider]]
+ |number built=386&lt;ref group=note&gt;100 by Sopwith, 186 by Blackburn and 100 by Ansaldo&lt;/ref&gt;
+ |variants with their own articles=[[Fairey Hamble Baby]]
+}}
+|}
+
+The '''Sopwith Baby''' was a [[United Kingdom|British]] single-seat tractor [[seaplane]] used by the [[Royal Naval Air Service]] (RNAS) from 1915.
+
+==Development and design==
+The Baby (also known as the Admiralty 8200 Type) was a development of the two-seat [[Sopwith Tabloid|Sopwith Schneider]]. Although the Schneider had won the [[Schneider trophy]] in 1914, the RNAS did not place a formal order until January 1915. Sopwith's initial production version of the Baby differed little from the Schneider Trophy winner.&lt;ref&gt;Lamberton, 1960. p 58.&lt;/ref&gt;
+
+The Baby utilized a wooden structure with fabric covering. A [[Lewis Gun]] was fitted, either above the fuselage [[Synchronization gear#Unsynchronized guns and the &quot;deflector wedge&quot; concept|firing through the propeller arc without the benefit of synchronization]], or over the top wing, firing above it.&lt;ref&gt;Woodman 1989, p. 173&lt;/ref&gt; To meet the more demanding conditions of 1916–18, Further modifications were made on aircraft built by [[Blackburn Aircraft]] at Leeds, [[United Kingdom]]. A modified variant of the Baby, the [[Fairey Hamble Baby]] was built by [[Fairey Aviation Company|Fairey]] and [[Parnall]].
+
+The Royal Naval Air Service ordered 286 Sopwith Babies of which 100 were built by Sopwith at Kingston and 186 by [[Blackburn Aircraft]] at Leeds with others for export. License manufacture was also undertaken in [[Italy]] by [[Gio. Ansaldo &amp; C.|SA Aeronautica Gio Ansaldo]] of [[Turin]], who built 100 examples for the Italian [[Regia Marina|Aviazione della Regia Marina]].&lt;ref&gt;Alegi, 2001, pp.3-4&lt;/ref&gt;
+
+==Operational history==
+The Baby was used as a shipborne [[Scout (aircraft)|reconnaissance]] and [[bomber aircraft]] operating from [[seaplane carrier]]s and [[cruisers]], as well as [[naval trawler]]s and [[minelayers]]. &lt;!--sub trials were with Schneider, not Baby--&gt; Many Babies were attached to RNAS coastal air stations located in England and Scotland and RNAS stations in Egypt, Greece and Italy.&lt;ref&gt;Thetford, 1878, p. 291&lt;/ref&gt;
+
+A major role of the Baby was to intercept [[Germany|German]] [[Zeppelin]] raids as far from [[United Kingdom of Great Britain and Ireland|Britain]] as possible, along with tracking German naval movements.
+
+Babies saw service with the [[United States]], [[France]], [[Chile]], [[Greece]] and [[Norway]]. In Norway additional Babies were built as replacements, with some seeing service until 1930. Two of the 10 Sopwith Baby floatplanes that were acquired by the [[Royal Norwegian Navy Air Service]] were brought to Svalbard in the summer of 1928 to participate in the search for the lost Norwegian polar explorer [[Roald Amundsen]], but were not used for the search.
+
+==Surviving aircraft==
+[[File:Sopwith Baby N2078 1 YVTN 17.07.71.jpg|thumb|right|Composite Baby with original parts displayed at the [[Fleet Air Arm Museum]]]]
+The original components of two Babies built by Sopwith, Nos. 8214 and 8215, have been utilized to complete a composite aircraft for display at the [[Fleet Air Arm Museum]] at [[RNAS Yeovilton (HMS Heron)|RNAS Yeovilton]], Somerset.  The exhibit has been marked with the serial ''N-2078'', which was a Blackburn-built aircraft, and has been named ''Jabberwock''.&lt;ref&gt;Ellis, 1977, p. 48&lt;/ref&gt;
+
+==Operators==
+;{{AUS}}
+*[[Royal Australian Navy]] operated 1 example in 1917 from cruiser [[HMAS Brisbane (1915)|HMAS Brisbane]].&lt;ref&gt;[http://www.worldairforces.com/Countries/australia/aus.html World Air Forces - Australia] accessdate: March 2014&lt;/ref&gt;
+&lt;!--so called Canadian examples were operated by the RNAS and RAF--&gt;
+;{{CHI}}
+*[[Chilean Navy]] operated 3 examples from 1919-1923&lt;ref name=&quot;aifeb84 p73–4&quot;&gt;Huertas ''Air International'' February 1984, pp. 73–74.&lt;/ref&gt;
+
+;{{FRA}}
+*[[French Navy]] operated 33 examples from 1916-1919&lt;ref&gt;[http://www.worldairforces.com/Countries/france/fra.html World Air Forces - France] accessdate: March 2014&lt;/ref&gt;
+
+;{{flag|Greece|old}}
+*[[Hellenic Navy]] operated 19 from 1918-1919&lt;ref&gt;[http://www.worldairforces.com/Countries/greece/gre.html World Air Forces - Greece] accessdate: March 2014&lt;/ref&gt;
+
+;{{flag|Kingdom of Italy}}
+:[[Regia Marina|Aviazione della Regia Marina]] 102 examples from 1917-1923 (including 2 trials aircraft from the UK)&lt;ref&gt;Alegi, 2001, pp.2-4 &amp; 8&lt;/ref&gt;
+
+;{{JPN}}
+:[[Imperial Japanese Navy Air Service]] operated 1 example from 1916&lt;ref&gt;[http://www.worldairforces.com/Countries/japan/jpn.html World Air Forces - Japan] accessdate: March 2014&lt;/ref&gt;
+
+;{{NLD}}
+*[[Dutch Naval Aviation Service]] 1 example from 1916-1919&lt;ref&gt;[http://www.worldairforces.com/Countries/netherlands/net.html World Air Forces - Netherlands] accessdate: March 2014&lt;/ref&gt; An RNAS aircraft force landed forty miles off the Dutch coast and was towed in and interned.
+
+;{{NOR}}
+*[[Royal Norwegian Navy Air Service]] operated 10 examples from 1917-1931&lt;ref&gt;[http://www.worldairforces.com/Countries/norway/nor.html World Air Forces - Norway] accessdate: March 2014&lt;/ref&gt; 
+;{{UK}}
+*[[Royal Naval Air Service]]
+**
+*[[Royal Air Force]]
+**[[No. 219 Squadron RAF]]
+**[[No. 229 Squadron RAF]]
+**[[No. 246 Squadron RAF]]
+**[[No. 248 Squadron RAF]]
+**[[No. 249 Squadron RAF]]
+**[[No. 263 Squadron RAF]]
+**[[No. 269 Squadron RAF]]
+**[[No. 270 Squadron RAF]]
+;{{USA}}
+*[[United States Navy]]
+
+==Specifications==
+[[File:Sopwith Baby dwg.jpg|thumb|Sopwith Baby drawing (shown on beaching gear)]]
+{{aircraft specifications
+|plane or copter?=&lt;!-- options: plane/copter --&gt; plane
+|jet or prop?=&lt;!-- options: jet/prop/both/neither --&gt; prop
+|ref=Holmes, 2005. p 44.
+|crew= one
+|capacity=
+|length main= 23 ft 0 in
+|length alt= 7.01 m
+|span main=  25 ft 8 in
+|span alt= 7.82 m
+|height main= 10 ft 0 in
+|height alt= 3.05 m
+|area main=  240 ft²
+|area alt= 22.30 m²
+|airfoil=
+|empty weight main= 1,226 lb
+|empty weight alt= 557 kg
+|loaded weight main= 1,715 lb
+|loaded weight alt= 779 kg
+|useful load main= &lt;!--lb--&gt;
+|useful load alt= &lt;!--kg--&gt;
+|max takeoff weight main= &lt;!--lb--&gt;
+|max takeoff weight alt= &lt;!--kg--&gt;
+|more general=
+|engine (prop)=[[Clerget]]
+|type of prop=[[rotary engine]], driving a two blade wooden propeller
+|number of props=1
+|power main= 110 hp
+|power alt= 82 kW
+|power original=
+
+|max speed main= 87 knots
+|max speed alt= 100 mph, 162 km/h
+|max speed more= at sea level
+|cruise speed main= &lt;!--knots--&gt;
+|cruise speed alt= &lt;!--mph,km/h--&gt;
+|never exceed speed main= &lt;!--knots--&gt;
+|never exceed speed alt= &lt;!--mph,km/h--&gt;
+|stall speed main= &lt;!--knots--&gt;
+|stall speed alt= &lt;!--mph,km/h--&gt;
+|range main= &lt;!--nm--&gt;
+|range alt= &lt;!--mi,km--&gt;
+|ceiling main= 10,000 ft
+|ceiling alt= 3,050 m
+|climb rate main= 285 ft/min
+|climb rate alt= 1.45 m/s
+|loading main= &lt;!--lb/ft²--&gt;
+|loading alt= &lt;!--kg/m²--&gt;
+|thrust/weight= &lt;!--a unitless ratio--&gt;
+|power/mass main= &lt;!--hp/lb--&gt;
+|power/mass alt= &lt;!--W/kg--&gt;
+|more performance=
+* '''Endurance:'''  2.25 hrs
+|armament=
+* 1 × [[Lewis gun]]
+* 2 × 65 lb (28 kg) bombs
+|avionics=
+}}
+
+==References==
+
+===Notes===
+{{Reflist|group=note}}
+
+===Footnotes===
+{{Reflist|2}}
+
+===Bibliography===
+*{{cite book|last=Alegi|first=Gregory|title=Ansaldo Baby|series=Windsock Mini Datafile 15|publisher=Albatros Publications|location=Hertfordshire, UK|year=2001|isbn=978-1902207308}}
+*{{cite book|last=Bruce|first=J.M.|title=Sopwith Baby|series=Windsock Datafile 60|publisher=Albatros Publications|location=Hertfordshire, UK|year=1996|isbn=978-0948414794}}
+* {{cite book |last=Ellis|first=Ken|title=British Museum Aircraft|publisher=Merseyside Aviation Society|location=Liverpool|year=1977|isbn=0-902420-15-1}}
+* {{cite book |last= Holmes |first= Tony |title=Jane's Vintage Aircraft Recognition Guide |year=2005 |publisher=Harper Collins |location=London |isbn = 0-00-719292-4 |page= 44}}
+* {{cite magazine|last=Huertas|first=Salvador Mafé|title=The Chilean Air Force...an air arm with a problem|magazine=[[Air International]]|date=February 1984|volume= 26|issue= 2|pages=69–74, 91, 98–101|issn=0306-5634}}
+* {{cite book |last= Lamberton |first= W.M. |title=Fighter Aircraft of the 1914–1918 War |year=1960 |publisher=Harleyford Publications|location=Herts, UK}}
+* {{cite book |last=Thetford|first=Owen|title=British Naval Aircraft since 1912|year=1978|publisher=Putnam and Company Limited|isbn=0-370-30021-1}}
+* {{cite book |last=Woodman|first=Harry|title=Early Aircraft Armament|year=1989|publisher=Arms and Armour|location=London|isbn= 0-85368-990-3}}
+
+==See also==
+{{Commons category|Sopwith Baby}}
+{{aircontent|
+|related=
+* [[Sopwith Tabloid]]
+* [[Fairey Hamble Baby]]
+* [[Port Victoria P.V.2|Port Victoria P.V.1]]
+|similar aircraft=
+|sequence=
+|lists=
+* [[List of seaplanes and flying boats]]
+* [[List of aircraft of the Royal Naval Air Service]]
+|see also=
+}}
+
+{{Sopwith Aviation Company aircraft}}
+{{Admiralty aircraft type numbers}}
+
+[[Category:British military reconnaissance aircraft 1910–1919]]
+[[Category:British bomber aircraft 1910–1919]]
+[[Category:Norwegian fighter aircraft 1920–1929]]
+[[Category:Floatplanes]]
+[[Category:Rotary-engined aircraft]]
+[[Category:Biplanes]]
+[[Category:Single-engine aircraft]]
+[[Category:Sopwith aircraft|Baby]]</text>
+      <sha1>j82ejj61v67aly2tfzr29e6eq0pfmby</sha1>
+    </revision>
+  </page>
+</mediawiki>

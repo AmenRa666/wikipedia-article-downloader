@@ -1,0 +1,115 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kerrison Predictor</title>
+    <ns>0</ns>
+    <id>179779</id>
+    <revision>
+      <id>748892171</id>
+      <parentid>727600855</parentid>
+      <timestamp>2016-11-11T00:39:59Z</timestamp>
+      <contributor>
+        <username>Mild Bill Hiccup</username>
+        <id>5202324</id>
+      </contributor>
+      <comment>Cleaned up using [[WP:AutoEd|AutoEd]]; Fixing style/layout errors</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9618">&lt;!-- Deleted image removed: [[Image:M5 director.jpg|thumb|right|1944 version of the M5 gun director, the US-made version of the Kerrison Predictor]] --&gt;
+The '''Kerrison Predictor''' was one of the first fully automated [[anti-aircraft]] [[fire-control system]]s. The predictor could aim a gun at an aircraft based on simple inputs like the observed speed and the angle to the target. Such devices had been used on ships for gunnery control for some time, and versions such as the [[Vickers range clock|Vickers Predictor]] were available for larger anti-aircraft guns intended to be used against high-altitude bombers, but the Kerrison's [[electromechanical]] [[analog computer]] was the first to be fast enough to be used in the demanding high-speed low-altitude role, which involved very short engagement times and high angular rates.
+
+==History==
+{{Unreferenced  section|date=November 2016}}By the late 1930s, both [[Vickers]] and [[Sperry Corporation|Sperry]] had developed predictors for use against high-altitude bombers. However, low-flying aircraft presented a very different problem, with very short engagement times and high angular rates of motion, but at the same time less need for ballistic accuracy. Machine guns had been the preferred weapon against these targets, aimed by eye and swung by hand, but these no longer had the performance needed to deal with the larger and faster aircraft of the 1930s.
+
+The [[British Army]]'s new [[Bofors 40 mm gun]]s were intended as their standard low-altitude anti-aircraft weapons. However, existing gunnery control systems were inadequate for the purpose; the range was too far to &quot;guess&quot; the lead, but at the same time close enough that the angle could change faster than the gunners could turn the traversal handles. Trying to operate a calculating gunsight at the same time was an added burden on the gunner. Making matters worse was that these ranges were exactly where the ''[[Luftwaffe]]''{{'}}s [[dive bomber]]s, which were quickly proving to be a decisive weapon in the ''[[Blitzkrieg]]'', were attacking from.
+
+The Kerrison Predictor was a relatively simple device compared to high-altitude predictors and was designed to meet these particular requirements. It was designed by Major A.V. Kerrison at the [[Admiralty Research Laboratory]], [[Teddington]], in the late 1930s. After the war, Kerrison went on to become Director of Aeronautical and Engineering Research at the British Admiralty.
+
+The Predictor solved the problem by doing all of the calculations mechanically through a complex system of gears. Inputs to its calculations included wind speed, gravity, [[ballistics]] of the gun and the rounds it fired, angle to the target in [[azimuth]] and [[altitude]], and a user-input estimated target speed. Some of these inputs were fed in by dials, which turned gearing inside the Predictor to calculate the range (from the change in angle and estimated speed) and direction of motion. The &quot;output&quot; of the device drove hydraulic servo-motors attached to the traversal and elevation gears of the otherwise unmodified Bofors gun, allowing it to follow the predictor's indications automatically without manual intervention. The gunners simply kept the gun loaded, while the three aimers simply had to point the Predictor, mounted on a large [[tripod]], at the target. The Kerrison predictor did not calculate fuse settings, as the shells fired by the 40&amp;nbsp;mm Bofors gun, with which it was designed to work, were contact-fused.
+
+The Predictor proved to be able to hit practically anything that flew in a straight line, and it was particularly effective against dive bombers. However, it was also very complex, including over 1,000 precision parts and weighing over {{convert|500|lb|abbr=on}}, even though much of it was made of [[aluminium]] to reduce weight. With the demands of the [[Royal Air Force|RAF]] for almost all light metals and machinists, the Predictor was far too difficult for the Army to produce in any quantity.
+
+While the Predictor proved to be an excellent addition to the Bofors, it was not without its faults. The main problem was that the system required a fairly large [[The Scott Motorcycle Company#Stationary engines|electrical generator]] in order to drive the gun, increasing the [[logistics]] load in supplying the generators with fuel. Setting the system up was also a fairly complex task, and not something that could be done &quot;on the fly&quot;. In the end they were used almost entirely for static emplacements, field units continuing to rely on their original iron sights or the simple [[Stiffkey-Stick]] sights that were introduced in late 1943.
+
+The No.7 anti-aircraft composite predictor, also designed by Kerrison was similar in some ways. It was originally developed for the 6-pounder naval gun, for close-in defence and also against targets at intermediate altitudes of {{convert|6000|to|14000|ft|m|abbr=on}}. It was later adapted for use with the 40&amp;nbsp;mm Bofors.
+
+==US service==
+Because the [[U.S. Army Coast Artillery Corps]] was not satisfied with the Army's [[37mm Gun M1]], in September 1940 [[George Marshall|General George C. Marshall]] asked the British for the loan of four Bofors 40&amp;nbsp;mm guns with Kerrison Predictors for testing.
+
+During testing the Kerrison Predictor provided accurate fire control to a range in excess of {{convert|1500|m|abbr=on}}, and the Bofors gun was reliable, and in fall 1940, the [[Ordnance Department]] standardized the Kerrison Predictor for use with the 37&amp;nbsp;mm gun. By February 1941, the U.S. Navy had adopted the Bofors for use on their ships. To ease production problems, the Army reluctantly standardized on the 40&amp;nbsp;mm in February 1941; the U.S. was building the Bofors for the British under the [[Lend-Lease]] Program.
+
+The Predictor's plans were passed to [[Sperry Corporation]], who were just commencing production of their own complex high-altitude system, the [[M7 Computing Sight]], and had no excess capacity to produce the new design as well. Instead, they completed changes needed to adapt the Predictor to U.S. production and sent the plans back to the Army for production elsewhere. In December 1940 the [[Singer Corporation]] was contracted to produce 1,500 predictors per month to equip the Army's existing 37&amp;nbsp;mm guns while production of the 40&amp;nbsp;mm Bofors was ramped up. Singer implemented massive changes in the company, including building new factories and the switching of a foundry from steel to aluminium. Production did not begin until January 1943, but the entire order was filled for the M5 Antiaircraft Director by the middle of 1944. For a brief time, some of the U.S. Army's Bofors guns were equipped with the Sperry M7, but these were replaced in the field as soon as M5s became available.&lt;ref&gt;http://home.roadrunner.com/~featherweight/m5direct.htm&lt;/ref&gt;&lt;ref&gt;http://web.mit.edu/STS.035/www/PDFs/sperry.pdf&lt;/ref&gt;
+
+With aircraft speeds increasing dramatically during the war, even the speed of the Kerrison Predictor proved lacking by the end. Nevertheless, the Predictor demonstrated that effective gunnery required some sort of reasonably powerful computing support, and in 1944 [[Bell Labs]] started delivery of a new system based around an [[analog computer]]. The timing proved excellent. Late in the summer the Germans started attacking [[London]] with the [[V-1 flying bomb]], which flew at high speeds at low altitudes. After a month of limited success against them, every available anti-aircraft gun was moved to the strip of land on the approach to London, and the new sights proved to be more than capable against them. Daytime attacks were soon abandoned.
+
+Long after the war, U.S. M5s started appearing in surplus shops in the late 1950s. [[John Whitney (animator)|John Whitney]] purchased one (and later a Sperry M7) and connected the electrical outputs to [[Servomechanism|servos]] controlling the positioning of small lit targets and light bulbs. He then modified the &quot;mathematics&quot; of the system to move the targets in various mathematically controlled ways, a technique he referred to as ''incremental drift''. As the power of the systems grew, they eventually evolved into what is today known as [[motion control photography]], a widely used technique in [[special effects]] filming.
+
+==See also==
+* [[Director (military)]]
+* [[Rangekeeper]]
+* [[Battery Computer System]]
+* [[Fire-control system]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* Bromley, Allan G. &quot;Analog Computing Devices&quot; (in {{cite book | last = Aspray | first = William | authorlink = | coauthors = | title = Computing Before Computers | publisher = Iowa State University Press | date = 1990 | location = | nopp = | pages = 188–189 | url = | isbn = 0-8138-0047-1 }})
+* {{cite web | last = Bromley | first = Allan G. | authorlink = | coauthors = | title = BRITISH MECHANICAL GUNNERY COMPUTERS OF WORLD WAR II | work = | publisher = | date = January 1984 | url = http://www.it.usyd.edu.au/research/tr/tr223.pdf | format = | doi = | accessdate = }}
+* {{cite book | last = Routledge | first = N.W. | authorlink = | coauthors = | title = A History of the Royal Regiment of Artillery: Anti-aircraft Artillery, 1914-55 | publisher = Brassey's (UK) Ltd | date = 1994 | location = | nopp = | pages = 52–55 | url = | isbn = 1-85753-099-3 }}
+
+==External links==
+* [http://www.bbc.co.uk/ww2peopleswar/stories/98/a7120298.shtml Memories of Frank Yates]
+
+[[Category:Military computers]]
+[[Category:Analog computers]]
+[[Category:Electro-mechanical computers]]
+[[Category:Anti-aircraft guns]]
+[[Category:Artillery components]]
+[[Category:Artillery operation]]</text>
+      <sha1>e17kkilpr5hkg6xwahsrk07b3yirxhk</sha1>
+    </revision>
+  </page>
+</mediawiki>

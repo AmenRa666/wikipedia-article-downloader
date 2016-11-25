@@ -1,0 +1,422 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SM U-14 (Austria-Hungary)</title>
+    <ns>0</ns>
+    <id>8102404</id>
+    <revision>
+      <id>749716873</id>
+      <parentid>742751774</parentid>
+      <timestamp>2016-11-15T20:37:40Z</timestamp>
+      <contributor>
+        <username>GreenC bot</username>
+        <id>27823944</id>
+      </contributor>
+      <minor/>
+      <comment>1 archive template merged to {{[[template:webarchive|webarchive]]}} ([[User:Green_Cardamom/Webarchive_template_merge|WAM]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29363">{{hatnote|French submarine Curie (Q87) redirects here. For other ships of the same name, see {{ship|French submarine|Curie}}}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:SM U-14 (Austria-Hungary).jpg|300px|An Austro-Hungarian wartime postcard of the submarine in [[Austro-Hungarian Navy]] service as SM ''U-14''.]]
+|Ship caption= An Austro-Hungarian wartime postcard of the submarine in [[Austro-Hungarian Navy]] service as SM ''U-14''.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{Shipboxflag|France|naval}}
+|Ship name=''Curie'' 
+|Ship namesake=[[Pierre Curie|Pierre]] and [[Marie Curie]]
+|Ship ordered=1906
+|Ship builder=[[Arsenal de Toulon]], [[Toulon]]
+|Ship original cost=
+|Ship yard number=
+|Ship laid down=
+|Ship launched=18 July 1912
+|Ship completed=1914
+|Ship commissioned=
+|Ship identification=Q 87
+|Ship captured=20 December 1914
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship acquired=Returned from Austria-Hungary, 17 July 1919&lt;ref name=Con-343 /&gt;
+|Ship struck=March 1928&lt;ref name=Con-209 /&gt;
+|Ship fate=scrapped 1929&lt;ref name=Con-343 /&gt;
+}}
+{{Infobox ship career
+|Hide header=title
+|Ship country=Austria-Hungary
+|Ship flag={{Shipboxflag|Austria-Hungary|naval}}
+|Ship name=SM ''U-14''
+|Ship acquired=Captured, 20 December 1914&lt;ref name=Con-343 /&gt;
+|Ship commissioned=June 1915&lt;ref name=BS&gt;Baumgartner and Sieche, as excerpted [http://www.gwpda.org/naval/ahsubs.htm here] (reprinted and translated into English by Sieche). Retrieved 8 January 2009. {{webarchive |url=https://web.archive.org/web/20061021171618/http://www.gwpda.org/naval/ahsubs.htm |date=October 21, 2006 }}&lt;/ref&gt;
+|Ship decommissioned=
+|Ship refit=February–November 1916
+|Ship fate=Returned to France, 17 July 1919&lt;ref name=Con-343 /&gt;
+}}
+{{Infobox service record
+|is_ship=yes
+|is_multi=yes
+|label=Service record as SM ''U-14''
+|commanders=
+* Otto Zeidler (June – October 1915)&lt;ref name=KUK-U-14&gt;{{cite Uboat.net
+|name=KUK U14
+|id=KUK+U14
+|type=1sub
+|accessdate=8 January 2009
+}}&lt;/ref&gt;
+* [[Georg Ritter von Trapp]] (October 1915 – January 1918)
+* Friedrich Schlosser (January – June 1918)
+* Hugo Pistel (June – November 1918)
+|victories=11 ships ({{GRT|47,653}}) sunk&lt;ref name=KUK-U-14 /&gt;
+}}
+{{Infobox ship characteristics
+|Header caption=as ''Curie''
+|Ship class={{sclass|Brumaire|submarine|1}}&lt;ref name=Con-209&gt;{{harvnb|Gardiner|1985|pp=209–10}}&lt;/ref&gt;
+|Ship displacement=*{{convert|397|MT|LT|abbr=on}}, surfaced
+*{{convert|551|MT|LT|abbr=on}} submerged&lt;ref name=Con-209 /&gt;
+|Ship length={{convert|170|ft|11|in|m|abbr=on}}&lt;ref name=Con-209 /&gt;
+|Ship beam={{convert|17|ft|9|in|m|abbr=on}}&lt;ref name=Con-209 /&gt;
+|Ship draft={{convert|10|ft|2|in|m|abbr=on}}, surfaced&lt;ref name=Con-209 /&gt;
+|Ship propulsion=*2 × [[propeller shaft]]s&lt;ref name=Con-209 /&gt;
+*2 × license-built [[MAN SE|MAN]] 6-cylinder [[diesel engine]]s, surfaced, {{convert|840|bhp|abbr=on|lk=in}} total
+*2 × [[electric motor]]s, submerged, {{convert|660|shp|abbr=on|lk=in}} total
+|Ship speed=*{{convert|13|kn}}, surfaced
+*{{convert|8.8|kn}}, submerged&lt;ref name=Con-209 /&gt;
+|Ship range=*{{convert|1700|nmi|km|abbr=on}} at {{convert|10|kn|km/h}}, surfaced&lt;ref name=Con-209 /&gt;
+*{{convert|84|nmi|km|abbr=on}} at {{convert|5|kn|km/h}}, submerged
+|Ship test depth=
+|Ship complement=29&lt;ref name=Con-209 /&gt;
+|Ship armament=1 × {{convert|17.7|in|mm|0|abbr=on}} bow torpedo tube, up to 8 torpedoes&lt;ref name=Con-209 /&gt;
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=as SM ''U-14''
+|Ship displacement=*{{convert|397|MT|LT|abbr=on}}, surfaced
+*{{convert|551|MT|LT|abbr=on}} submerged&lt;ref name=Con-343&gt;{{harvnb|Gardiner|1985|p=343}}&lt;/ref&gt;
+|Ship length={{convert|170|ft|1|in|m|abbr=on}}&lt;ref name=Con-343 /&gt;
+|Ship beam={{convert|17|ft|1|in|m|abbr=on}}&lt;ref name=Con-343 /&gt;
+|Ship draft={{convert|10|ft|6|in|m|abbr=on}}, surfaced&lt;ref name=Con-343 /&gt;
+|Ship propulsion=*2 × [[propeller shaft]]s&lt;ref name=Con-343 /&gt;
+*2 × [[diesel engine]]s, surfaced, {{convert|480|bhp|abbr=on}} total
+*2 × [[electric motor]]s, submerged, {{convert|660|shp|abbr=on}} total
+*''After modernization'':
+*2 × [[diesel engine]]s, surfaced, {{convert|840|bhp|abbr=on}} total
+*2 × [[electric motor]]s, submerged, {{convert|660|shp|abbr=on}} total
+|Ship speed=*{{convert|12.2|kn}}, surfaced&lt;ref name=Con-343 /&gt;
+*{{convert|8.8|kn}}, submerged
+*''After modernization'':
+*{{convert|12.6|kn}}, surfaced
+|Ship range=*{{convert|1700|nmi|km|abbr=on}} at {{convert|10|kn|km/h}}, surfaced&lt;ref name=Con-343 /&gt;
+*{{convert|84|nmi|km|abbr=on}} at {{convert|5|kn|km/h}}, submerged
+*''After modernization'':
+*{{convert|6500|nmi|km|abbr=on}} at {{convert|10|kn|km/h}}, surfaced
+|Ship test depth=
+|Ship complement=28&lt;ref name=Con-343 /&gt;
+|Ship armament=*1 × {{convert|53.3|cm|in|0|abbr=on}} bow torpedo tube&lt;ref name=Con-343 /&gt;
+*6 × externally mounted {{convert|53.3|cm|in|0|abbr=on}} torpedo launchers
+*7 × torpedoes
+}}
+|}
+'''SM ''U-14''''' or '''''U-XIV''''' was a [[U-boat]] or [[submarine]] of the [[Austro-Hungarian Navy]] during the [[First World War]]. She was [[launch (ship)|launch]]ed in 1912 as the French {{sclass|Brumaire|submarine|1}} ''Curie'' (Q 87), but captured and rebuilt for service in the Austro-Hungarian Navy. At war's end, the submarine was returned to France and restored to her former name.
+
+''Curie'' was launched in July 1912 at [[Toulon]] and completed in 1914. She measured just under {{convert|171|ft|m}} long and [[displacement (ship)|displaced]] nearly {{convert|400|MT|LT}} on the surface and just over {{convert|550|MT|LT}} when submerged. At the outbreak of the First World War in August 1914, ''Curie'' was assigned to duty in the [[Mediterranean]]. In mid-December, ''Curie''{{'}}s commander conceived a plan to infiltrate the Austro-Hungarian Navy's main base at [[Pula|Pola]], but during the 20 December attempt, the vessel became ensnared in harbor defenses. Two Austro-Hungarian ships sank ''Curie'', killing three of her crew; the remainder were taken prisoner.
+
+The Austro-Hungarian Navy, which had a small and largely obsolete U-boat fleet, immediately began salvage efforts and succeeded in raising the lightly damaged submarine in early February 1915. After a refit, the boat was [[commission (ship)|commission]]ed as SM ''U-14'' in June, but had little success early in her career. When her commander fell ill in October, he was replaced by [[Georg Ritter von Trapp]]. ''U-14'' was damaged by a [[depth charge]] attack in February 1916, and underwent an extensive modernization through November. Resuming duty under von Trapp, ''U-14'' sank her first ship in April 1917, but had her most successful patrol in August, when she sank five ships—including {{SS|Milazzo||2}}, reportedly the largest [[cargo ship]] in the world—in a six-day span.
+
+In January 1918, von Trapp was replaced as commander, but neither of his two successors were able to match his accomplishments. In all, ''U-14'' sank 11 ships with a combined [[gross register tonnage]] of nearly 48,000 tons. Returned to France at the end of the war, she rejoined the French Navy in July 1919 under her former name of ''Curie''. She remained in service until 1928 and was scrapped in 1929.
+
+== Design and construction ==
+''Curie'' was a part of the 16-boat {{sclass|Brumaire|submarine|4}} authorized under the 1906 program. The ''Brumaire''-class boats were [[diesel engine|diesel]]-powered versions of the [[steam engine|steam]]-powered {{sclass|Pluviôse|submarine|4}} submarines (which had been authorized the year before), and, like the ''Pluviôse'' boats, were named after either months of the [[French Republican Calendar]] or scientists. ''Curie'' was named after [[Pierre Curie|Pierre]] and [[Marie Curie]].&lt;ref name=Con-209 /&gt;
+
+The ''Bruimaire''-class was designed by French naval designer [[Maxime Laubeuf]] and featured a [[hull (submarine)|double hull]]. The boats were {{convert|170|ft|11|in|m}} long, {{convert|17|ft|9|in|m}} [[beam (ship)|abeam]], with a [[draft (hull)|draft]] of {{convert|10|ft|2|in|m}} when surfaced. They had a [[displacement (ship)|displacement]] of {{convert|397|MT|LT}} surfaced and {{convert|551|MT|LT}} submerged. ''Curie'', like the other 15 submarines of the class, featured one {{convert|17.7|in|mm|adj=on}} bow [[torpedo tube]] and could carry as many as eight [[torpedo]]es. As built, ''Curie'' did not have a [[deck gun]].&lt;ref name=Con-209 /&gt;
+
+The ''Brumaire''-class featured twin [[propeller shaft]]s driven by two French license-built [[MAN SE|MAN]] 6-cylinder diesel engines on the surface, or by two [[electric motor]]s when submerged. ''Curie''{{'}}s diesel engines generated a total of {{convert|840|bhp}} and could move the submarine at up to {{convert|13|kn}} on the surface; her electric motors generated {{convert|660|shp}} and could propel the boat up to {{convert|8.8|kn}} submerged. While traveling on the surface at {{convert|10|kn}}, ''Curie'' had a range of {{convert|1700|nmi}}; the submarine's range while submerged was {{convert|84|nmi}} at {{convert|5|kn}}.&lt;ref name=Con-209 /&gt;
+
+''Curie'' was [[keel laying|laid down]] at the [[Arsenal de Toulon]] and [[launch (ship)|launched]] on 18 July 1912, completed by 1914, and [[commission (ship)|commissioned]] into the [[French Navy]].&lt;ref name=Con-209 /&gt;
+
+== French career and sinking ==
+Like all the ''Brumaire''-class submarines, ''Curie'' began her First World War service in the [[Mediterranean]],&lt;ref name=Con-209 /&gt; and was one of the first French submarines to appear in the [[Adriatic]].&lt;ref name=BS /&gt;
+
+On 17 December 1914, ''Curie'', at the insistence of her French-Irish commander Gabriel O'Byrne, departed her base in the [[Ionian Sea]] under tow by the French [[armored cruiser]] {{ship|French armoured cruiser|Jules Michelet||2}}.&lt;ref name=Comp-224&gt;{{harvnb|Compton-Hall|2004|p=224}}&lt;/ref&gt; Depositing her charge {{convert|150|nmi}} from [[Pula|Pola]],&lt;ref name=Comp-224 /&gt; the site of the [[Austro-Hungarian Navy]]'s main base,&lt;ref name=BS /&gt; ''Jules Michelet'' departed, leaving ''Curie'' to proceed to the Austro-Hungarian base. ''Curie'' arrived the next day and began reconnoitering the entrance to the harbor. O'Byrne observed the entrance and exit paths of Austro-Hungarian vessels and plotted a course through the deployed defensive [[mine (naval)|mine]]s. On 19 December, O'Byrne took ''Curie'' in to observe the [[anti-submarine net]] that ran across the opening in a long, defensive [[breakwater (structure)|breakwater]] built to keep submarines from infiltrating the naval base.&lt;ref name=Comp-224 /&gt;&lt;ref&gt;{{harvnb|von Trapp|2007|p=66}}&lt;/ref&gt;&lt;!-- description of breakwater --&gt;
+
+Believing that he had accounted for all of the defensive measures, ''O'Byrne'' took ''Curie'' to a depth of {{convert|65|ft|m}} early on 20 December and, attempting an incursion into the harbor, heard the sounds of chains and wires dragging on the submarine's hull. When the sounds stopped after half a minute, O'Byrne brought ''Curie'' up to periscope depth to discover that he had only penetrated the outer net.&lt;ref name=Comp-224 /&gt; ''Curie''{{'}}s forward momentum carried her into the second net where she became &quot;inextricably entangled&quot;.&lt;ref name=Gib-69&gt;{{harvnb|Gibson|Prendergast|2003|p=69}}&lt;/ref&gt; When the submarine, still trapped in the net, was forced to surface for fresh air, ''Curie'' came under fire from the Austro-Hungarian destroyer {{SMS|Magnet||2}} and [[torpedo boat]] ''Tb 63 T'' which quickly sank her. Three of the twenty-six men on board were killed in the attack; the survivors — who included ''Curie''{{'}}s commander, O'Byrne — were all taken prisoner.&lt;ref name=Sieche&gt;{{cite web | last = Sieche | first = Erwin | title = French naval operations, engagements and ship losses in the Adriatic in World War One | url = http://www.gwpda.org/naval/fadri.htm | date = 30 December 2000 | publisher = Great War Primary Documents Archive, Inc. | accessdate = 9 January 2008
+}}&lt;/ref&gt;{{Ref label|1|Note 1}}
+
+== Salvage and Austro-Hungarian career ==
+At the beginning of the First World War, the [[Austro-Hungarian Navy]]'s U-boat fleet consisted of six largely experimental submarines of three classes.&lt;ref name=Con-341&gt;{{harvnb|Gardiner|1985|p=341}}&lt;/ref&gt;{{Ref label|2|Note 2}} The Navy had five larger, more modern submarines (what would have been the [[U-7 class submarine (Austria-Hungary)|''U-7'' class]]) under construction in Germany at the outbreak of war, but when the Navy became convinced that delivery of the ''U-7'' boats would be impossible, they were sold to Germany in November 1914.&lt;ref name=Con-177&gt;{{harvnb|Gardiner|1985|p=177}}&lt;/ref&gt;{{Ref label|3|Note 3}}
+
+Amidst Austro-Hungarian efforts to replace the now-unavailable ''U-7'' boats,&lt;ref name=BS /&gt;{{Ref label|4|Note 4}} the largely intact ''Curie'', resting at a depth of {{convert|39|m|ft}}, became the focus of salvage efforts. Beginning on 21 December, the day after ''Curie''{{'}}s sinking, salvage crews raised the submarine in stages, finally bringing her to the surface on 2 February 1915.&lt;ref name=BS /&gt;
+
+[[File:Georgvontrapp.gif|thumb|150px|left|[[Georg Ritter von Trapp]] was the most successful commander of ''U-14''.]]
+The former ''Curie'', now assigned the designation ''U-14'', was reconditioned and [[commission (ship)|commission]]ed into the Austro-Hungarian Navy under the command of ''[[Korvettenkapitän]]'' Otto Zeidler on 1 June.&lt;!-- all except commander --&gt;&lt;ref name=BS /&gt;&lt;ref name=KUK-U-14 /&gt;&lt;!-- commander's name --&gt; Zeidler remained in command until he fell ill,&lt;ref&gt;{{harvnb|von Trapp|2007|p=67}}&lt;/ref&gt; and was replaced in mid-October by ''[[Linienschiffsleutnant]]'' [[Georg Ritter von Trapp]].&lt;ref name=KUK-U-14 /&gt;{{Ref label|5|Note 5}} Under Zeidler's command and the first months of von Trapp's command, ''U-14'' had no successes.&lt;ref name=KUK-U-14 /&gt;
+
+In early February 1916, ''U-14'' joined {{SMU|U-4|Austria-Hungary|2}} for a patrol near [[Durazzo]].&lt;ref&gt;{{harvnb|von Trapp|2007|p=68}}&lt;/ref&gt; ''U-4'' came closest to scoring a success when she narrowly missed hitting {{HMS|Lowestoft|1913|6}}, a British {{sclass|Birmingham|cruiser}} on 7 February.&lt;ref name=Sieche-20&gt;{{harvnb|Sieche|1980|p=20}}&lt;/ref&gt; ''U-14'' survived a depth charge attack, but made it back to port with all of her externally mounted torpedoes crushed and both fuel tanks leaking.&lt;ref&gt;{{harvnb|von Trapp|2007|p=76}}&lt;/ref&gt;
+
+When she put in for repairs, ''U-14'' was extensively modernized in a refit that kept her in port from February to November. The submarine was given a German-style [[conning tower]] that replaced the French-designed wet lookout platform. She was equipped with more powerful diesel engines, which increased her power output from {{convert|480|to|840|bhp}}. ''U-14''{{'}}s fighting potential was further enhanced by the installation of larger fuel tanks, which nearly quadrupled her range to {{convert|6500|nmi|km}}, up from her former maximum of {{convert|1700|nmi|km}}.&lt;ref name=Con-343 /&gt;
+
+On 28 April 1917, ''U-14'' was patrolling off the coast of Greece when she scored her first success, ''Teakwood'', a 5,315-ton British [[tanker (ship)|tanker]] headed from [[Port Arthur, Texas]], to [[Port Said]].&lt;ref name=teak&gt;{{cite Uboat.net
+|name=Teakwood
+|id=5925
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; On 3 May, on patrol in the same vicinity, von Trapp and ''U-14'' sank another ship, this one the 1,905-ton Italian steamer ''Antonio Sciesa''.&lt;ref name=anto&gt;{{cite Uboat.net
+|name=Antonio Sciesa
+|id=375
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt;
+
+In another patrol in July, ''U-14'' sailed on the north side of the island of [[Corfu]] while headed for [[Santi Quaranta]], [[Albania]]. Because the harbor at Corfu was occupied by the French fleet at the time, ''U-14'' conducted a ''[[ruse de guerre]]'' by flying the submarine's former national flag, the [[French tricolor]], in order to pass unmolested.&lt;ref&gt;{{harvnb|von Trapp|2007|p=77}}&lt;/ref&gt; Even though ''U-14''{{'}}s new conning tower made her look unlike any other ''Brumaire''-class boat,&lt;ref name=Con-343 /&gt; one French patrol plane was successfully fooled by the ruse. When ''U-14''{{'}}s crew first spotted the aircraft, flying towards them from the direction of the sun, there was not enough time to submerge. As the aircraft drew near, its French markings—and its cargo of bombs—became apparent to the crew. With no other course of action possible, ''U-14''{{'}}s crew waved their hats and handkerchiefs at the plane. As the French pilot passed overhead, he returned the waves, apparently unaware of the U-boat's true nationality.&lt;ref&gt;{{harvnb|von Trapp|2007|p=81}}&lt;/ref&gt; The only success by ''U-14'' on this cruise was the sinking of ''Marionga Goulandris'', a Greek steamer, near [[Cape Matapan]].&lt;ref name=mari&gt;{{cite Uboat.net
+|name=Marionga Goulandris
+|id=3972
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt;
+
+''U-14''{{'}}s next war patrol was very successful, sinking five ships with a combined tonnage of 24,814, over half of her total tonnage sunk.&lt;ref name=U14-ships /&gt; ''U-14'' departed from the submarine base at [[Cattaro]] on 20 August and headed through the [[Straits of Otranto]], successfully evading the [[Otranto Barrage]], and [[Allies of World War I|Allied]] blockade of the passageway between Italy and [[Albania]].&lt;ref name=Trapp-80&gt;{{harvnb|von Trapp|2007|p=80}}&lt;/ref&gt; Heading into the [[Ionian Sea]],&lt;ref name=Trapp-80 /&gt; von Trapp and ''U-14'' sank the French steamer ''Constance'' on 23 August {{convert|142|nmi}} northeast of [[Malta]].&lt;ref name=cons&gt;{{cite Uboat.net
+|name=Constance
+|id=6731
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; The following day, ''U-14'' sank ''Kilwinning'', a British steamer loaded with coal and a general cargo headed for [[Port Said]].&lt;ref name=kilw&gt;{{cite Uboat.net
+|name=Kilwinning
+|id=3324
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; Two days after that, the British steamer ''Titian'' was sunk by ''U-14'' while on en route to [[Alexandria]].&lt;ref name=titi&gt;{{cite Uboat.net
+|name=Titian
+|id=6033
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; ''U-14''{{'}}s next victim was the British  steamer ''Nairn''. The 3,627-ton [[turret deck ship]], on her way from Malta to Port Said with coal, was sunk on the night of 27/28 August {{convert|125|nmi}} from [[Benghazi]].&lt;ref name=nair&gt;{{cite Uboat.net
+|name=Nairn
+|id=4305
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt;
+
+[[File:SS Milazzo.jpg|thumb|The Italian [[cargo ship]] ''Milazzo'' was the largest ship sunk by ''U-14'']]
+On 29 August, von Trapp sank the Italian steamer {{SS|Milazzo||2}} {{convert|250|nmi}} east of Malta.&lt;ref name=mila&gt;{{cite Uboat.net
+|name=Milazzo
+|id=4150
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; ''Milazzo'', at 11,744 tons,&lt;ref name=mila /&gt; was the largest ship sunk by ''U-14'',&lt;ref name=U14-ships /&gt; and among the largest ships sunk by a U-boat in World War I.&lt;ref name=large&gt;{{cite Uboat.net
+|name=Ships over 10.000 tons hit by U-boat during WWI
+|id=largest
+|type=1ship
+|accessdate=12 January 2009
+}}&lt;/ref&gt; ''Milazzo'', reported by ''[[The New York Times]]'' in 1916 as the largest [[cargo ship]] in the world,&lt;ref name&gt;{{cite web | title = Largest cargo ship here | url = http://query.nytimes.com/mem/archive-free/pdf?res=9907E6DF1E3FE233A25751C0A9619C946796D6CF | format = pdf | work = The New York Times | date = 2 July 1916 | accessdate = 12 January 2009
+}}&lt;/ref&gt; was the second-largest ship sunk by an Austro-Hungarian submarine.&lt;ref name=large /&gt;{{Ref label|6|Note 6}} ''U-14'' concluded her patrol on 1 September, when she returned to Cattaro.&lt;ref name=Trapp-80 /&gt;
+
+''U-14'' sank three more ships during a five-day span in October. On 19 October, ''U-14'' sank the British ship ''Elsiston'' {{convert|150|nmi}} from Malta. One person aboard ''Elsiston'', which was carrying military stores between Malta and [[Suda Bay]], was killed in the attack.&lt;ref name=elsi&gt;{{cite Uboat.net
+|name=Elsiston
+|id=1922
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; Nearby, and on the same day, von Trapp sank the 3,618-ton ''Good Hope'', a British ship laden with iron ore for [[Middlesbrough]].&lt;ref name=good&gt;{{cite Uboat.net
+|name=Good Hope
+|id=2570
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt; The next ship sunk by ''U-14'' was the Italian steamer ''Capo di Monte'', sunk {{convert|100|nmi}} from [[Candia (Crete)|Candia]] while on her way from [[Karachi]] to Malta.&lt;ref name=capo&gt;{{cite Uboat.net
+|name=Capo Di Monte
+|id=1101
+|type=1ship
+|accessdate=9 January 2009
+}}&lt;/ref&gt;
+
+In January 1918, Friedrich Schlosser replaced von Trapp as commander of ''U-14''. Schlosser was, in turn, replaced in June by Hugo Pistel, who remained in command until the end of the war.&lt;ref name=KUK-U-14 /&gt; Neither of the later commanders was able to duplicate von Trapp's success in ''U-14''; the U-boat sank no more ships through the rest of the war.&lt;ref name=U14-ships /&gt;
+
+After Austria-Hungary's surrender and the end of the First World War, ''U-14'' was returned to France and on 17 July 1919 rejoined the French Navy under her former name of ''Curie''. She was stricken in 1928 and scrapped in 1929.&lt;ref name=Con-343 /&gt;
+
+== Ships sunk by ''U-14'' ==
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:right;&quot;
+|+Ships sunk by SM ''U-14''&lt;ref name=U14-ships&gt;{{cite Uboat.net
+|name=KUK U14
+|id=KUK+U14
+|type=1boat
+|accessdate=8 January 2009
+}}&lt;/ref&gt;
+! Date !! Name !! Tonnage !! Nationality
+|-
+|{{dts|1917|April|28|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in April 1917#28 April|''Teakwood'']]
+|align=&quot;right&quot;|5,315
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|May|3|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in May 1917#3 May|''Antonio Sciesa'']]
+|align=&quot;right&quot;|1,905
+|align=&quot;left&quot; |{{flag|Kingdom of Italy}}
+|-
+|{{dts|1917|July|5|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in July 1917#5 July|''Marionga Goulandris'']]
+|align=&quot;right&quot;|3,191
+|align=&quot;left&quot; |{{flag|Greece|old}}
+|-
+|{{dts|1917|August|23|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in August 1917#23 August|''Constance'']]
+|align=&quot;right&quot;|2,469
+|align=&quot;left&quot; |{{flag|France}}
+|-
+|{{dts|1917|August|24|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in August 1917#24 August|''Kilwinning'']]
+|align=&quot;right&quot;|3,071
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|August|26|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in August 1917#26 August|''Titian'']]
+|align=&quot;right&quot;|4,170
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|August|28|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in August 1917#28 August|''Nairn'']]
+|align=&quot;right&quot;|3,627
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|August|29|format=dmy}}
+|align=&quot;left&quot; |{{SS|Milazzo||2}}
+|align=&quot;right&quot;|11,477
+|align=&quot;left&quot; |{{flag|Kingdom of Italy}}
+|-
+|{{dts|1917|October|19|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in October 1917#19 October|''Elsiston'']]
+|align=&quot;right&quot;|2,908
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|October|19|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in October 1917#19 October|''Good Hope'']]
+|align=&quot;right&quot;|3,618
+|align=&quot;left&quot; |{{flag|United Kingdom|civil}}
+|-
+|{{dts|1917|October|23|format=dmy}}
+|align=&quot;left&quot; |[[List of shipwrecks in October 1917#23 October|''Capo Di Monte'']]
+|align=&quot;right&quot;|5,902
+|align=&quot;left&quot; |{{flag|Kingdom of Italy}}
+|-class=&quot;sortbottom&quot; style=&quot;background: #f2f2f2&quot;
+| || align=right | '''Total:''' || '''47,653''' ||
+|}
+
+== Notes ==
+{{Note|1|Note 1|The French submarine {{ship|French submarine|Pierre Chailley||2}}, laid down in May 1917 and launched in December 1922, was named in honor of ''Curie''{{'}}s [[Second Officer (nautical)|second officer]], one of the three men killed in the sinking.&lt;ref name=&quot;Pierre_Chailley&quot;&gt;
+{{cite web
+|url=http://www.miramarshipindex.org.nz/ship/list?search_op=OR&amp;IDNo=6129404
+|title=''Pierre Chailley''
+|work=Miramar Ship Index
+|publisher=R.B. Haworth
+|accessdate=9 January 2009
+}}{{Registration required|date=2011 November 01}}&lt;/ref&gt; A second submarine, {{ship|French submarine|O'Byrne|SC 5|2}}, was named for ''Curie''{{'}}s late commander, who had died in France in 1917 after being released from Austro-Hungarian captivity.&lt;ref name=BS /&gt;
+}}&lt;!-- end of Note 1 --&gt;
+
+{{Note|2|Note 2|There were two submarines each of the [[U-1 class submarine (Austria-Hungary)|''U-1'']], [[U-3 class submarine (Austria-Hungary)|''U-3'']], and [[U-5 class submarine (Austria-Hungary)|''U-5'']] classes.}}
+
+{{Note|3|Note 3|In April 1915, just five months later, the German {{SMU|U-21|Germany|2}} successfully entered the Mediterranean through the [[Straits of Gibraltar]], proving that delivery would have been possible after all.&lt;ref name=Con-343 /&gt;}}
+
+{{Note|4|Note 4|During this time, Austria-Hungary was engaged in protracted negotiations with Germany in efforts to secure purchase of German [[German Type UB 1 submarine|Type UB 1]] boats.}}
+
+{{Note|5|Note 5|Later known as the patriarch of the von Trapp family made famous in the musical ''[[The Sound of Music]]'' and its subsequent [[The Sound of Music (film)|film adaptation]], von Trapp was already known by name in newspapers for the sinking the French armored cruiser {{ship|French armoured cruiser|Léon Gambetta||2}} in April while in command of {{SMU|U-5|Austria-Hungary|2}}.&lt;ref name=&quot;nyt_1&quot;&gt;
+{{cite news
+|title=Vienna confirms disaster
+|url=http://query.nytimes.com/mem/archive-free/pdf?res=9406E1DA1539E333A2575AC2A9629C946496D6CF
+|format=pdf
+|date=29 April 1915
+|page=1
+|work=[[The New York Times]]
+|accessdate=9 January 2009
+}}&lt;/ref&gt;&lt;ref name=&quot;nyt_2&quot;&gt;
+{{cite news
+|title=How he sank a cruiser
+|url=http://query.nytimes.com/mem/archive-free/pdf?res=9906E4D9123FE233A25752C0A9639C946496D6CF
+|format=pdf
+|date=1 May 1915
+|page=1
+|work=The New York Times
+|accessdate=9 January 2009
+}}&lt;/ref&gt;
+}}&lt;!-- end of Note 5 --&gt;
+
+{{Note|6|Note 6|The largest, the French armored cruiser {{ship|French armoured cruiser|Léon Gambetta||2}}, was, coincidentally, sunk by von Trapp while in command of {{SMU|U-5|Austria-Hungary|2}} in April 1915.}}
+
+== References ==
+{{Reflist|2}}
+
+== Bibliography ==
+* {{cite book | last = Baumgartner | first = Lothar |author2=Erwin Sieche  | title = Die Schiffe der k.(u.)k. Kriegsmarine im Bild = Austro-Hungarian warships in photographs | language = German | location = Vienna | publisher = Verlagsbuchhandlung Stöhr | year = 1999 | isbn = 978-3-901208-25-6 | oclc = 43596931 }}
+* {{cite book | last = Compton-Hall | first = Richard | title = Submarines at war, 1914–18 | location = Penzance | publisher= Periscope Publishing | year = 2004 | origyear = 1991 | isbn = 978-1-904381-21-1 | oclc = 57639764 | ref = harv}}
+*{{cite book|last=Couhat|first=Jean Labayle|title=French Warships of World War I|year=1974|publisher=Ian Allen|location=London|isbn=0-7110-0445-5}}
+* {{cite book | last = Gardiner | first = Robert, ed. | title = Conway's All the World's Fighting Ships, 1906–1921 | location = Annapolis, Maryland | publisher = [[Naval Institute Press]] | year = 1985 | isbn = 978-0-87021-907-8 | oclc = 12119866 |ref = harv}}
+*{{cite book|last=Garier|first=Gérard|title=A l'épreuve de la Grande Guerre|series=L'odyssée technique et humaine du sous-marin en France|volume=3–2|year=2002|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-81-5|language=French}}
+*{{cite book|last=Garier|first=Gérard|title=Des ''Émeraude'' (1905-1906) au ''Charles Brun'' (1908–1933)|series=L'odyssée technique et humaine du sous-marin en France|volume=2|year=1998|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-34-3|language=French}}
+* {{cite book | last = Gibson | first = R. H. | last2 = Prendergast | first2 = Maurice  &lt;!-- not the American painter --&gt; | title = The German Submarine War, 1914–1918 | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2003 | origyear = 1931 | isbn = 978-1-59114-314-7 | oclc = 52924732 | ref = harv}}
+* {{cite book | last = Sieche | first = Erwin F. | chapter = Austro-Hungarian Submarines | title = Warship, Volume 2 | publisher = Naval Institute Press | year = 1980 | isbn = 978-0-87021-976-4 | oclc = 233144055 | ref = harv}}
+* {{cite book | last = Stern | first = Robert Cecil | title = The Hunter Hunted: Submarine versus Submarine: Encounters from World War I to the Present | location = Annapolis, Maryland | publisher = Naval Institute Press | year = 2007 | isbn = 1-59114-379-9 | oclc = 123127537 | ref = harv }}&lt;!--{{harvnb|Stern|2007|p=}}--&gt;
+* {{cite book | last = von Trapp | first = Georg | authorlink = Georg Ritter von Trapp | title = To the Last Salute: Memories of an Austrian U-Boat Commander | location = Lincoln, Nebraska  | publisher = [[University of Nebraska Press]] | origyear = 1935 | year = 2007 | isbn = 0-8032-4667-6 | oclc = 70866865 | ref = harv}}
+&lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Brumaire class submarines}}
+{{Austro-Hungarian Navy classes}}
+{{December 1914 shipwrecks}}
+{{Good article}}
+
+{{DEFAULTSORT:U0014}}
+[[Category:1912 ships]]
+[[Category:Brumaire-class submarines]]
+[[Category:Ships built in France]]
+[[Category:Maritime incidents in 1914]]
+[[Category:World War I shipwrecks in the Adriatic]]
+[[Category:Lost submarines of France]]
+[[Category:Captured ships]]
+[[Category:Submarines of the Austro-Hungarian Navy]]
+[[Category:U-boats commissioned in 1915]]
+[[Category:World War I submarines of Austria-Hungary]]
+[[Category:World War I submarines of France]]</text>
+      <sha1>9npw581fc7rwfth3nr02zgoj1zc154q</sha1>
+    </revision>
+  </page>
+</mediawiki>

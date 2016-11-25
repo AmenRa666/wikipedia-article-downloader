@@ -1,0 +1,207 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS New Ironsides</title>
+    <ns>0</ns>
+    <id>1240783</id>
+    <revision>
+      <id>747458789</id>
+      <parentid>743619713</parentid>
+      <timestamp>2016-11-02T14:13:31Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */[[:Category:Templates not safe for use in citation templates]] fixes using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24111">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:New ironsides sails.jpg|300px|''New Ironsides'' with sails]]
+|Ship caption=USS ''New Ironsides'' under steam and sail
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=United States
+|Ship flag={{USN flag|1864}}
+|Ship name=USS ''New Ironsides''
+|Ship namesake={{USS|Constitution}}
+|Ship ordered=15 October 1861
+|Ship awarded=
+|Ship builder=[[William Cramp &amp; Sons]], [[Philadelphia]], [[Pennsylvania]]
+|Ship original cost=$780,000
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=10 May 1862
+|Ship sponsor=[[Commodore (rank)|Commodore]] [[Charles Stewart (1778–1869)|Charles Stewart]]
+|Ship completed=
+|Ship commissioned=21 August 1862
+|Ship recommissioned=
+|Ship decommissioned=6 April 1865
+|Ship nickname=
+|Ship fate=Destroyed by fire, 16 December 1865
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Broadside ironclad]]&lt;ref name=&quot;g1&quot;/&gt;
+|Ship displacement= {{convert|4120|LT|t}}
+|Ship length={{convert|230|ft|m|1|abbr=on}} [[Length between perpendiculars|p.p.]]
+|Ship beam={{convert|57|ft|6|in|m|1|abbr=on}}
+|Ship draft= {{convert|15|ft|8|in|m|1|abbr=on}}
+|Ship power={{convert|1800|ihp|lk=in|abbr=on}}
+|Ship propulsion=* 1 × shaft, 2 × [[Marine steam engine#Direct acting|Direct-acting steam engines]]
+* 4 × [[water-tube boiler]]s
+ 
+|Ship speed= {{convert|7|kn|lk=in}}
+|Ship range=
+|Ship complement=449 officers and enlisted
+|Ship armament=* 14 × {{convert|11|in|mm|adj=on|0}} [[smoothbore]] [[Dahlgren gun]]s
+* 2 × 150-pounder [[Parrott rifle]]s
+* 2 × 50-pounder Dahlgren rifles
+ 
+|Ship armor=* [[Belt armor|Belt]]: {{convert|4.5|in|mm|0|abbr=on}}
+* [[Artillery battery#Naval usage|Battery]]: {{convert|4.5|in|mm|0|abbr=on}}
+* [[Deck (ship)|Deck]]: {{convert|1|in|mm|0|abbr=on}}
+* [[Bulkhead (partition)|Bulkhead]]s: {{convert|2.5|in|mm|0|abbr=on}}
+ 
+|Ship notes=
+}}
+|}
+	
+'''USS ''New Ironsides''''' was a wooden-hulled [[broadside ironclad]] built for the [[United States Navy]] during the [[American Civil War]]. The ship spent most of her career [[blockade|blockading]] the [[Confederate States of America|Confederate]] ports of [[Charleston, South Carolina]], and [[Wilmington, North Carolina]], in 1863–65. ''New Ironsides'' bombarded the fortifications defending Charleston in 1863 during the [[First Battle of Charleston Harbor|First]] and [[Second Battle of Charleston Harbor|Second Battles of Charleston Harbor]]. At the end of 1864 and the beginning of 1865 she bombarded the defenses of Wilmington in the [[First Battle of Fort Fisher|First]] and [[Second Battle of Fort Fisher|Second Battles of Fort Fisher]].
+
+Although she was struck many times by Confederate shells, gunfire never significantly damaged the ship or injured the crew.&lt;ref&gt;Roberts 1999, p. 108&lt;/ref&gt; Her only casualty in combat occurred when she was struck by a [[spar torpedo]] carried by the {{ship|CSS|David}}. Eight crewmen were awarded the [[Medal of Honor]] for their actions during the Second Battle of Fort Fisher in 1865. The ship was destroyed by fire in 1865 after she was placed in [[reserve fleet|reserve]].
+
+==Design and description==
+After the United States received word of the construction of the Confederate [[casemate ironclad]], {{ship|CSS|Virginia}}, [[United States Congress|Congress]] appropriated $1.5 million on 3 August to build one or more armored steamships. It also ordered the creation of a board to inquire into armored ships. The U.S. Navy advertised for proposals for &quot;iron-clad steam vessels of war&quot;&lt;ref name=r5&gt;Roberts 1999, p. 5&lt;/ref&gt; on 7 August and [[Gideon Welles]], the [[United States Secretary of the Navy|Secretary of the Navy]], appointed the three members of the [[Ironclad Board]] the following day. Their task was to &quot;examine plans for the completion of iron-clad vessels&quot;.&lt;ref name=r5/&gt; They evaluated 17 different designs, but recommended only three on 16 September.&lt;ref&gt;Roberts 1999, pp. 7, 16&lt;/ref&gt;
+
+The three ironclad ships differed substantially in design and degree of risk. The {{USS|Monitor}} was the most innovative design by virtue of its low [[freeboard (nautical)|freeboard]], shallow[[draft (hull)|-draft]] iron hull, and total dependence on steam power. The riskiest element of its design was its rotating [[gun turret]],&lt;ref name=r711/&gt; something that had not previously been tested by any navy.{{efn|British trials of a turret designed by [[Cowper Phipps Coles|Cowper Coles]] on board the [[floating battery]] [[Aetna class ironclad floating battery|HMS ''Trusty'']] did not begin until the same month.&lt;ref&gt;Brown, pp. 41–43&lt;/ref&gt;}} Its designer [[John Ericsson]]'s guarantee of delivery in 100 days proved to be decisive in choosing his design despite the risk involved. The wooden-hulled {{USS|Galena|1862|6}}'s most novel feature was her armor of interlocking iron rails. The ''New Ironsides'' was much influenced by the {{ship|French ironclad|Gloire}} and was the most conservative design of the three, which copied many of the features of the French ship.&lt;ref name=r711&gt;Roberts 1999, pp. 7–11&lt;/ref&gt; The well-known [[Philadelphia]] engine-building firm of Merrick &amp; Sons made the proposal for ''New Ironsides'', but they did not have a [[slipway]] so they subcontracted the ship to [[William Cramp and Sons]].&lt;ref name=r0&gt;Roberts 1989, p. 110&lt;/ref&gt; William Cramp claimed credit for the detailed design of the ship's hull, but the general design work was done by Merrick &amp; Sons.&lt;ref&gt;Roberts 1999, pp. 9, 11&lt;/ref&gt;
+
+''New Ironsides'' was {{convert|230|ft|m|1}} [[Length between perpendiculars|long between perpendiculars]] and {{convert|249|ft|6|in|m|1}} long [[length overall|overall]].&lt;ref&gt;Emerson, p. 21&lt;/ref&gt; She had a [[Beam (nautical)|beam]] of {{convert|57|ft|6|in|m|1}} and a draft of {{convert|15|ft|8|in|m|1}}. The ship displaced {{convert|4120|LT|t}},&lt;ref name=g1&gt;Chesneau and Kolesnik, p. 118&lt;/ref&gt; {{convert|495|LT|t}} more than her designed displacement.&lt;ref name=r4/&gt; To minimize her draft, ''New Ironsides'' was given a wide beam and a flat bottom. She had a rectangular [[Naval ram|ram]] that projected {{convert|6|ft|1}} forward from her bow.&lt;ref&gt;Canney, p. 15&lt;/ref&gt; The ship's crew consisted of 449 officers and men.&lt;ref name=g1/&gt;
+
+A two-piece [[wikt:articulated|articulated]] [[rudder]] was fitted to ''New Ironsides'', but it proved unsatisfactory in service as the ship became more unmanageable as her speed increased. The rudder was blamed at the time, but the very full shape of the ship's hull aft was the most likely cause as it screened the rudder from the flow of water behind the hull. The ship's hull was coppered to reduce [[biofouling|fouling]].&lt;ref name=r4&gt;Roberts 1989, p. 114&lt;/ref&gt;
+
+===Propulsion===
+''New Ironsides'' had two simple horizontal two-cylinder [[Marine steam engine#Direct acting|direct-acting steam engines]] driving a single [[brass]] {{convert|13|ft|m|1|adj=on}} [[propeller]].&lt;ref&gt;Emerson, pp. 28–29&lt;/ref&gt; Steam was provided by four horizontal [[fire-tube boiler]]s at a working pressure of {{convert|20|-|25|psi|kPa kg/cm2|0|abbr=on|lk=on}}.&lt;ref name=r1&gt;Roberts 1989, p. 111&lt;/ref&gt; The engines produced {{convert|1800|ihp|lk=in}} which gave the ship a maximum speed around {{convert|6|kn|lk=in}}. ''New Ironsides'' carried {{convert|350|LT|t}}&lt;ref name=e9&gt;Emerson, p. 29&lt;/ref&gt; of coal and her propeller could be disengaged to reduce drag while under sail alone.&lt;ref name=r0/&gt; The ship was barque-rigged with three masts that were used only for long-distance voyages, and were removed, with their rigging, once [[Glossary of nautical terms#O|on station]]. The best speed under sail and steam together was only about {{convert|7|kn}}.&lt;ref&gt;Emerson, pp. 24, 29&lt;/ref&gt;
+
+===Armament===
+The ship's main armament was originally going to consist of 16 [[smoothbore]], [[muzzle-loading]] {{convert|9|in|mm|adj=on|0}} [[Dahlgren gun]]s mounted on the gun deck. However, the navy was less than impressed by the performance of 9-inch Dahlgrens during the [[Battle of Hampton Roads]] and wanted more powerful {{convert|11|in|mm|adj=on|0}} guns. Accordingly, the design changed while the ship was under construction to accommodate fourteen 11-inch Dahlgren guns and two muzzle-loading {{convert|8|in|mm|adj=on|0}}, 150-pounder [[Parrott rifle]]s.&lt;ref name=r0/&gt;&lt;ref&gt;Canney, p. 17&lt;/ref&gt; Two {{convert|5.1|in|mm|adj=on|0}}, 50-pound Dahlgren rifles were fitted on the upper deck as [[chase gun]]s. They were replaced by 60-pound Dahlgren rifles by October 1864.&lt;ref&gt;Official Records, p. 159&lt;/ref&gt;
+
+Each 11-inch gun weighed approximately {{convert|16000|lb}}. They could fire a {{convert|136|lb|1|adj=on}} shell at a range of {{convert|3650|yd}} at an elevation of 15°.&lt;ref&gt;Olmstead, et al., p. 90&lt;/ref&gt; The muzzle-loading Parrott rifles fired a {{convert|152|lb|1|adj=on}} shell at a [[muzzle velocity]] of {{convert|1200|ft/s|m/s|abbr=on}}. The 17-[[caliber (artillery)|caliber]] guns weighed {{convert|16300|lb}} each.&lt;ref&gt;Holley, pp. 54–55&lt;/ref&gt; The 50-pounder Dahlgren rifles weighed approximately {{convert|5600|lb}}.&lt;ref&gt;Olmstead, et al., p. 194&lt;/ref&gt; The small size of the [[Glossary of nautical terms#G|gun ports]] limited the guns, however, to a maximum elevation of 4.5° which reduced their range to less than {{convert|2000|yd}}.&lt;ref&gt;Roberts 1989, p. 125&lt;/ref&gt;
+
+The existing wooden carriages for 11-inch guns were too long to fit in ''New Ironsides''{{'}}s cramped [[Artillery battery#Naval usage|battery]]. A new iron carriage was built where the gun rode in a cradle that slid on iron rails. The new carriages pivoted at the [[Glossary of nautical terms#G|gun ports]] to minimize the size of the ports. Two compressors, or clamps, were fitted to squeeze the rails and increase friction between the rails and the cradle, but these were not strong enough to handle the [[recoil]] force when the gun was fired. Two more compressors were fitted as well as rope [[wikt:breeching|breechings]] to restrain the guns, but neither was entirely satisfactory. The problem was not resolved until December 1862 when strips of [[Fraxinus|ash]] wood were placed underneath the compressors; the friction of iron on wood was double that of iron on iron and the increased friction solved the problem.&lt;ref&gt;Roberts 1999, pp. 25, 35–37&lt;/ref&gt;
+
+===Armor===
+''New Ironsides'' had a complete [[waterline]] [[Belt armor|belt]] of [[wrought iron]] that was {{convert|4.5|in|mm|0}} thick. Below the waterline it was reduced to {{convert|3|in|mm|0}}. It reached {{convert|3|ft|m|1}} above the waterline and {{convert|4|ft|m|1}} below. Above the belt the {{convert|170|ft|m|1|adj=on}} [[Artillery battery#Naval usage|battery]] was protected by 4.5-inch armor, but the bow and stern were left unprotected. Although not initially part of the design, transverse [[Bulkhead (partition)|bulkhead]]s were added during construction to protect the ends of the battery. They consisted of {{convert|2.5|in|mm|0}} of wrought iron backed by {{convert|12|in|0}} of [[white oak]]. The [[Deck (ship)|deck]] was three inches of [[Southern Yellow Pine|yellow pine]] beneath {{convert|1|in}} of wrought iron. Mirroring French practice, the armor plates were secured to the ship's hull and deck by [[Countersink|countersunk]] screws. The armor plates were cut with a groove on each side and an iron bar was inserted between each plate to better distribute the shock of impact. The side armor was backed by {{convert|21|in|mm|0}} of wood. A [[conning tower]] with three-inch sides was also added during construction. It was placed behind the funnel and the mainmast, and had no visibility directly forward. It was small and could only fit three people.&lt;ref&gt;Roberts 1989, pp. 110–11, 114, 119&lt;/ref&gt;
+
+Each of the ship's gun ports was protected by two armored shutters, each {{convert|4|in|0}} thick. Each shutter rotated on an axle at its top operated from inside the battery.&lt;ref name=r1/&gt; In combat these shutters frequently cracked or broke when hit; rarely was a shutter jammed in either the open or closed position.&lt;ref&gt;Roberts 1989, pp. 121, 123&lt;/ref&gt;
+
+==Construction==
+''New Ironsides'' was named in honor of {{USS|Constitution}}, which earned the nickname &quot;Old Ironsides&quot; during her engagement with {{HMS|Guerrière}} in the [[War of 1812]]. As ''Constitution'' herself was still in commission, the name was unavailable for a new ship.&lt;ref&gt;Roberts 1999, p. 23&lt;/ref&gt;
+
+Merrick &amp; Sons was awarded a $780,000 contract for the ship on 15 October 1861 for delivery in nine months. A $500 [[liquidated damages|penalty]] was imposed for each day past 15 July 1862 that the ship was delayed. [[Commodore (rank)|Commodore]] [[Charles Stewart (1778–1869)|Charles Stewart]] sponsored the ship as she was launched on 10 May 1862. She was [[Ship commissioning|commissioned]] on 21 August, but the navy did not invoke the penalty for late delivery. On 27 September the navy paid Merrick &amp; Sons $34,322.06 for &quot;extras&quot;, presumably the armored bulkheads, shutters, and conning tower not included in the original specifications.&lt;ref&gt;Roberts 1999, pp. 9, 17, 23, 37&lt;/ref&gt;
+
+==Service==
+The day after ''New Ironsides'' was commissioned, she sailed for [[Hampton Roads]] where [[Louis M. Goldsborough|Rear Admiral Goldsborough]] had been requesting her since July. He feared a Confederate [[sortie]] down the James River to attack his ships and did not believe that his armored [[sloop]] ''Galena'' and the prototype ironclad  ''Monitor'' would be enough. On 31 August, Secretary Welles ordered ''New Ironsides'' back to Philadelphia for post-trial repairs. Her voyage to Hampton Roads had revealed problems with her steering, gun recoil, and lack of speed. A start was made on the gun recoil problem when she was ordered to return to Hampton Roads on 23 September, but the other two problems proved to be intractable. She was kept ready to respond to a Confederate attack with steam up while mechanics were sent to fix the recoil problems and the crew was training.&lt;ref&gt;Roberts 1999, pp. 29–37&lt;/ref&gt;
+
+''New Ironsides'' joined the [[South Atlantic Blockading Squadron]] at [[Port Royal, South Carolina]], on 17 January 1863.&lt;ref&gt;Roberts 2002, p. 86&lt;/ref&gt; When she first arrived, the ship exchanged her masts and rigging for poles suitable for signaling. Rear Admiral [[Samuel Francis Du Pont|Du Pont]] ordered that the ship's [[funnel (ship)|funnel]] be cut down to improve the visibility from the conning tower, but the fumes from the funnel nearly asphyxiated the men in the conning tower and on the gun deck, and the funnel had to be restored. He also attempted to move the {{convert|18|LT|t|adj=on}} conning tower to a better position, but it was too heavy for the equipment available.&lt;ref&gt;Roberts 1999, pp. 39–41&lt;/ref&gt;
+[[File:USS New Ironsides by Gutekunst.jpg|thumb|left|''New Ironsides'' as she appeared on blockade duty.]]
+The day after the Confederate [[casemate ironclad]]s {{ship|CSS|Chicora}} and {{ship|CSS|Palmetto State}} sortied and briefly captured two Union ships on 31 January, ''New Ironsides'' was ordered to patrol off Charleston Harbor. The ship remained at Charleston for the rest of the year except for brief intervals at Port Royal. She participated in the First Battle of Charleston Harbor on 7 April 1863, when nine Union ironclads entered the harbor and conducted a prolonged, but inconclusive, bombardment of [[Fort Sumter]]. ''New Ironsides'' served as the [[flagship]] of Rear Admiral Du Pont during the battle. He and his staff occupied the conning tower during the engagement, which forced the ship's captain to command the ship from the gun deck. Admiral Du Pont's [[Maritime pilot|pilot]] was unfamiliar with ''New Ironsides''{{'}} quirks, and the channel used during the attack was shallower in places than her deep draft; she maneuvered erratically and had to anchor several times to avoid going aground. The monitors {{USS|Catskill|1862|2}} and {{USS|Nantucket|1862|2}} collided with ''New Ironsides'' as they attempted to move past her, but no damage was suffered by any of the ships. As the ship was withdrawing she anchored directly over a Confederate [[Naval mine|&quot;torpedo&quot;]] (mine) that was filled with {{convert|3000|lb|-1}} of [[gunpowder]] that failed to detonate. During the bombardment ''New Ironsides'' fired only a single broadside, but she was hit over 50 times in return without significant damage or casualties.&lt;ref&gt;Roberts 1999, pp. 52–53, 59–62&lt;/ref&gt;
+
+''New Ironsides'' repeatedly bombarded Confederate positions in the successful campaign to take [[Fort Wagner]] on [[Morris Island]] beginning with the [[Second Battle of Fort Wagner]] on 18 July through the next two months and the Second Battle of Charleston Harbor. During this time the ship was the target of a failed [[spar torpedo]] boat attack on 21 August. While resupplying ammunition on 8 September, ''New Ironsides'' was called to provide cover for the monitor {{USS|Weehawken|1862|2}} which had grounded between Fort Sumter and Cummings Point. ''New Ironsides'' anchored {{convert|1200|yd}} in front of [[Fort Moultrie]] and forced the Confederate gunners to seek cover; she fired 483 shells and was struck at least 70 times. The ship also contributed crewmen for the landing party that unsuccessfully attempted to [[Second Battle of Fort Sumter|seize Fort Sumter]] on the night of 8–9 September. Between July and October ''New Ironsides'' fired 4439 rounds and was hit by at least 150 heavy projectiles, none of which inflicted any significant damage or casualties.&lt;ref&gt;Roberts 1999, pp. 72–78&lt;/ref&gt;
+{{double image|right|Haas and Peale at Morris Island South Carolina.jpg|200|IroncladActionSep1863.jpg|200|Haas and Peale photogragh of USS New Ironsides in action off Morris Island Sept 7, 1863|George Cook photograph of three Monitors firing on Ft Sumpter Sept 8, 1863 [The New Ironsides also took part in this attack]}}
+{{double image|right|Css david attack 2.jpg|200|CSSDavidWreck.jpg|200|The attack on ''New Ironsides'' by CSS ''David''|The wreck of the CSS ''David''}}
+[[Attack on USS New Ironsides|Another spar torpedo attack]] was made by the [[semi-submersible]] {{ship|CSS|David}} on the night of 5 October 1863. The attack was successful, but the damage was minor, and only one man later died of his wounds. ''New Ironsides'' remained on station until 6 June 1864 when she returned to Port Royal preparatory to a return to Philadelphia for repairs and a general overhaul. Her masts and rigging were replaced and most of the ship's crew with time remaining on their enlistments were transferred to other ships in the squadron. The ship arrived at the [[Philadelphia Naval Shipyard]] on 24 June and was [[Ship decommissioning|decommissioned]] six days later to begin her refit.&lt;ref&gt;Roberts 1999, pp. 81–91&lt;/ref&gt;
+
+''New Ironsides'' completed her overhaul in late August 1864, now under the command of Commodore [[William Radford]], but did not join the [[North Atlantic Blockading Squadron]] in Hampton Roads until October when her crew finished gunnery training. She participated in a major assault in December on [[Fort Fisher]], [[North Carolina]], in an effort to stop blockade running into the port of [[Wilmington, North Carolina|Wilmington]]. Though this attack was called off on Christmas Day after an extensive bombardment, the Union fleet returned to resume the operation on 13 January 1865. ''New Ironsides'' was one of several warships that heavily shelled Fort Fisher, preparing the way for a ground assault that captured the position on 15 January. Afterward and for the next few months, ''New Ironsides'' supported Union activities on the [[James River]]. She was [[Ship decommissioning|decommissioned]] on 6 April 1865&lt;ref&gt;Roberts 1999, pp. 92–106&lt;/ref&gt; and was [[Glossary of nautical terms#L|laid up]] at League Island, Philadelphia, where, on the night of 16 December 1865, ''New Ironsides'' was destroyed by a fire.&lt;ref&gt;{{cite web |url= http://www.history.navy.mil/research/histories/ship-histories/danfs/n/new-ironsides.html | title= New Ironsides|last1= Evans | first1= Mark L. | date=18 August 2015 | publisher= United States Navy | access-date= 20 October 2015}}&lt;/ref&gt; The ship was towed to shallow water where she burned and sank. Her wreck was salvaged and her boilers were offered for sale in 1869.&lt;ref&gt;Roberts 1999, pp. 1–2, 127–28&lt;/ref&gt;
+{{Clear}}
+
+==Medals of Honor==
+The following crewmen of the ''New Ironsides'' were awarded the [[Medal of Honor]] for their actions during the [[Second Battle of Fort Fisher]]:&lt;ref&gt;Roberts 1999, p. 103&lt;/ref&gt;
+* [[James Barnum]], Boatswain's Mate, U.S. Navy
+* [[John Dempster (Medal of Honor)|John Dempster]], Coxswain, U.S. Navy
+* [[Thomas English (Medal of Honor)|Thomas English]], Signal Quartermaster, U.S. Navy
+* [[Edmund Haffee]], Quarter Gunner, U.S. Navy
+* [[Nicholas Lear]], Quartermaster, U.S. Navy
+* [[Daniel Milliken]], Quarter Gunner, U.S. Navy
+* [[Joseph White (Medal of Honor)|Joseph White]], Coxswain, U.S. Navy
+* [[Richard Willis (Medal of Honor)|Richard Willis]], Coxswain, U.S. Navy
+
+==Notes==
+{{Portal|American Civil War|United States Navy}}
+{{notes}}
+
+==Footnotes==
+{{reflist|30em}}
+
+==References==
+* {{cite book|last=Brown|first=David K.|title=Warrior to Dreadnought: Warship Development 1860–1905|edition=reprint of the 1997|year=2003|publisher=Caxton Editions|location=London|isbn=1-84067-529-2}}
+* {{cite book|last=Canney|first=Donald L.|title=The Old Steam Navy: The Ironclads, 1842–1885|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1993|volume=2|isbn=0-87021-586-8}}
+* {{cite book|chapter=USS New Ironsides: America's First Broadside Ironclad|title=Warship 1993|editor=Gardiner, Robert|publisher=Conway Maritime Press|location=London|year=1993|isbn=0-85177-624-8|first=William C.|last=Emerson}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich|year=1979|isbn=0-8317-0302-4}}
+* {{cite book|last=Holley|first=Alexander Lyman|title=A Treatise on Ordnance and Armor|url=https://archive.org/details/treatiseonordnan00hollrich|year=1865|publisher=D. Van Nostrand|location=New York|oclc=5079161}}
+* {{cite book|last1=Olmstead|first1=Edwin|last2=Stark|first2=Wayne E.|last3=Tucker|first3=Spencer C.|title=The Big Guns: Civil War Siege, Seacoast, and Naval Cannon|publisher=Museum Restoration Service|location=Alexandria Bay, New York|isbn=0-88855-012-X|year=1997}}
+* {{cite journal|last=Roberts|first=William H.|year=1989|title=The Neglected Ironclad: A Design and Constructional Analysis of the U.S.S. New Ironsides|journal=Warship International|publisher=International Naval Research Organization|location=Toledo, Ohio|volume=XXVI|issue=2|pages=109–35|issn=0043-0374}}
+* {{cite book|authormask=2|last=Roberts|first=William H.|title=USS New Ironsides in the Civil War|year=1999|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-695-7}}
+* {{cite book|authormask=2|last=Roberts|first=William H.|title=Civil War Ironclads: The U.S. Navy and Industrial Mobilization|series=Johns Hopkins studies in the history of technology|year=2002|publisher=Johns Hopkins University Press|location=Baltimore, Maryland|isbn=0-8018-6830-0}}
+* {{cite book|last=United States Naval War Records Office|first=|title=Official Records of the Union and Confederate Navies in the War of the Rebellion|url=http://dlxs2.library.cornell.edu/cgi/t/text/pageviewer-idx?c=moawar&amp;cc=moawar&amp;idno=ofre2001&amp;q1=new+ironsides&amp;frm=frameset&amp;view=image&amp;seq=167|series=Series II|volume=Volume 1: Statistical Data of Union and Confederate Ships; Muster Roles of Confederate Government Vessels; Letters of Marque and Reprisals; Confederate Department Investigations|year=1921|publisher=Government Printing Office|location=Washington, D. C.}}
+
+{{Union ironclads}}
+{{Featured article}}
+
+{{DEFAULTSORT:New Ironsides}}
+[[Category:1862 ships]]
+[[Category:American Civil War patrol vessels of the United States]]
+[[Category:Ships built in Philadelphia]]
+[[Category:Ships of the Union Navy]]
+[[Category:Steamships of the United States Navy]]</text>
+      <sha1>3eud8avp8203hq64etwjqmk31dovrhu</sha1>
+    </revision>
+  </page>
+</mediawiki>

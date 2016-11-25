@@ -1,0 +1,168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pillau-class cruiser</title>
+    <ns>0</ns>
+    <id>15853026</id>
+    <revision>
+      <id>736381213</id>
+      <parentid>730025632</parentid>
+      <timestamp>2016-08-27T02:47:41Z</timestamp>
+      <contributor>
+        <username>DPdH</username>
+        <id>1539540</id>
+      </contributor>
+      <comment>/* Armament and armor */ Added wikilink to (future) article about the 5.2 cm SK L/55 naval gun.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12484">{|{{Infobox ship begin}} 
+{{Infobox ship image
+|Ship image=[[File:SMS Pillau.jpg|300px]]
+|Ship caption=''Pillau'', c. 1914&amp;ndash;16
+}}
+{{Infobox ship class overview
+|Builders=[[Schichau]], [[Danzig]]
+|Operators={{Navy|German Empire}}
+|Class before={{sclass-|Graudenz|cruiser|4}}
+|Class after={{sclass-|Wiesbaden|cruiser|4}}
+|Subclasses=
+|Built range=
+|In service range=
+|Total ships building=
+|Total ships planned=2
+|Total ships completed=2
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=2
+|Total ships retired=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Light cruiser]]
+|Ship displacement=*Design: {{convert|4390|MT|abbr=on}}
+*Full load: {{convert|5252|MT|abbr=on}}
+|Ship length={{convert|135.3|m|ft|abbr=on}}
+|Ship beam={{convert|13.6|m|ft|abbr=on}}
+|Ship draft={{convert|5.98|m|ft|abbr=on}}
+|Ship propulsion=*2 × [[steam turbine]]s
+*2 × shafts
+*{{convert|30000|shp|abbr=on|-2}}
+|Ship speed={{convert|27.5|knot|km/h}}
+|Ship range={{convert|4300|nmi|abbr=on|-1}} at {{convert|12|kn}}
+|Ship complement=*21 officers
+*421 enlisted men
+|Ship armament=*8 × [[15 cm SK L/45]] guns
+*2 × [[8.8 cm SK L/45 naval gun|8.8 cm SK L/45]] guns
+*2 × {{convert|50|cm|in|abbr=on}} [[torpedo tube]]s
+*120 mines
+|Ship armor=*Deck {{convert|80|mm|abbr=on}}
+*[[Conning tower]]: {{convert|75|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+
+The '''''Pillau'' class''' of [[light cruiser]]s was a pair of ships built in Germany just before the start of [[World War I]]. The class consisted of {{SMS|Pillau}} and {{SMS|Elbing||2}}. The ships were initially ordered for the [[Imperial Russian Navy]] in 1912, and were built by the [[Schichau-Werke]] shipyard in [[Danzig]]. After the outbreak of World War I, however, the German ''[[Kaiserliche Marine]]'' (Imperial Navy) confiscated the ships before they were completed. The ships were similar in design to other German light cruisers, although they lacked an armored belt. They were the first German light cruisers to be equipped with [[15 cm SK L/45]] guns, of which they carried eight. The two ships had a top speed of {{convert|27.5|kn}}.
+
+''Pillau'' and ''Elbing'' saw extensive service with the German [[High Seas Fleet]]. ''Pillau'' participated in the [[Battle of the Gulf of Riga]] in August 1915, and ''Elbing'' took part in the [[bombardment of Yarmouth and Lowestoft]] in April 1916. The following month, both ships were heavily engaged in the [[Battle of Jutland]] on 31 May &amp;ndash;1 June; there, ''Elbing'' scored the first hit of either side in the battle. ''Elbing'' was accidentally rammed and immobilized by the German [[battleship]] {{SMS|Posen}} in the confused night fighting, and her crew were ultimately forced to scuttle her. ''Pillau'' continued to serve with the fleet until the end of the war. After the German defeat, she was ceded to Italy as a [[war prize]] and renamed ''Bari''. She served in the ''[[Regia Marina]]'' (Royal Navy) until June 1943, when she was sunk in [[Livorno]] by [[USAAF]] bombers, and eventually broken up for scrap in 1948.
+
+==Design==
+In 1912, the [[Russian Navy]] sought builders for a pair of [[light cruiser]]s; the [[Schichau-Werke]] shipyard in [[Danzig]] won the contract. The two ships were originally ordered by the Russian Navy as ''Maraviev Amurskyy'' and ''Admiral Nevelskoy'' from the Schichau-Werke that year.&lt;ref name=C161/&gt; The two ships were laid down in 1913; ''Maraviev Amurskyy'' was launched on 11 April 1914, after which [[fitting-out]] work commenced. Both ships were requisitioned by the German Navy on 5 August 1914, and were renamed ''Pillau'' and ''Elbing'', respectively. ''Elbing'' was launched on 21 November 1914. ''Pillau'' and ''Elbing'' were commissioned into the [[High Seas Fleet]] on 14 December 1914 and 4 September 1915, respectively.&lt;ref name=G1101&gt;Gröner, pp. 110–111&lt;/ref&gt;
+
+===General characteristics and machinery===
+The ''Pillau'' class ships were {{convert|134.3|m|sp=us}} [[length at the waterline|long at the waterline]] and {{convert|135.3|m|abbr=on}} [[length overall|long overall]] They had a [[beam (nautical)|beam]] of {{convert|13.6|m|abbr=on}} and a [[draft (hull)|draft]] of {{convert|5.98|m|abbr=on}} forward and {{convert|5.31|m|abbr=on}} aft. They displaced {{convert|4390|MT|sp=us}} at designed displacement and {{convert|5252|MT|abbr=on}} at full combat load.&lt;ref name=G111&gt;Gröner, p. 111&lt;/ref&gt; The ships' hulls were constructed with transverse and longitudinal steel frames. The hulls were divided into sixteen [[watertight compartment]]s and had a [[double bottom]] that extended for 51&amp;nbsp;percent of the length of the hull.&lt;ref name=G110/&gt;
+
+The ships had a crew of twenty-one officers and 421 enlisted men. They carried a number of smaller boats, including one picket boat, one barge, two [[yawl]]s, and two [[dinghy|dinghies]]. They were good sea boats, but were fairly stiff and suffered from severe roll. The cruisers were maneuverable, but were slow going into a turn. Steering was controlled by a single large rudder. They lost speed only slightly in a head sea, but lost up to sixty percent in hard turns.&lt;ref name=G110/&gt;
+
+Their propulsion system consisted of two sets of Marine [[steam turbine]]s driving two {{convert|3.5|m|adj=on|sp=us}} propellers. They were designed to give {{convert|30000|shp|lk=in|-2}}. These were powered by six coal-fired [[Yarrow boiler|Yarrow]] [[water-tube boiler]]s, and four oil-fired Yarrow boilers, trunked into three funnels on the centerline. These gave the ships a top speed of {{convert|27.5|kn}}. The two ships carried {{convert|620|MT|LT|abbr=on}} of coal, and an additional {{convert|580|MT|LT|abbr=on}} of oil that gave them a range of approximately {{convert|4300|nmi|lk=in}} at {{convert|12|kn}}. The two ships each had three turbo-generators that provided a combined electrical output of {{convert|360|kW}} at 220&amp;nbsp;[[Volt]]s.&lt;ref name=G1101/&gt;
+
+===Armament and armor===
+As designed, the ships would have mounted eight [[130 mm/55 B7 Pattern 1913|{{convert|13|cm|adj=on|sp=us}} L/55]] quick-firing guns and four {{convert|6.3|cm|abbr=on}} L/38 guns of Russian design. After they were seized by the German Navy, the planned armament was revised to be standardized with new German cruisers. The standard [[10.5 cm SK L/45 naval gun|10.5&amp;nbsp;cm SK L/45 gun]] used on previous German cruisers was considered, but abandoned in favor of a larger weapon. As completed, the ships were armed with eight [[15 cm SK L/45]] guns in single pedestal mounts. Two were placed side by side forward on the [[forecastle]], four were located amidships, two on either side, and two were side by side aft. They were the first German light cruisers to mount the 15&amp;nbsp;cm gun.&lt;ref name=C161&gt;Gardiner &amp; Gray, p. 161&lt;/ref&gt; These guns had a range of {{convert|17600|m|abbr=on}} and were supplied with a total of 1,024 rounds of ammunition. ''Pillau'' and ''Elbing'' also carried four [[5.2 cm SK L/55 naval gun|5.2&amp;nbsp;cm SK L/55]] anti-aircraft guns, though these were replaced with a pair of two 8.8&amp;nbsp;cm SK L/45 anti-aircraft guns. They were also equipped with a pair of {{convert|50|cm|abbr=on|1}} [[torpedo tube]]s mounted on the deck. The ships could also carry 120 [[naval mine|mines]].&lt;ref name=G110&gt;Gröner, p. 110&lt;/ref&gt;
+
+Since they had been ordered and designed for the Russian Navy, the ships did not possess a waterline [[belt armor|armored belt]] like contemporary German designs. The [[conning tower]] had {{convert|75|mm|abbr=on}} thick sides and a {{convert|50|mm|abbr=on}} thick roof. The deck was covered with {{convert|80|mm|abbr=on}} thick armor plate forward, which was reduced to {{convert|20|mm|abbr=on}} aft. Sloping armor {{convert|40|mm|abbr=on}} thick provided a measure of protection on the upper portion of the ships' sides. The main battery guns were equipped with 50&amp;nbsp;mm thick gun shields.&lt;ref name=G110/&gt;
+
+==Service history==
+
+===''Pillau''===
+{{main|SMS Pillau}}
+
+''Pillau'' spent the majority of her career in the [[II Scouting Group]], and saw service in both the [[Baltic Sea|Baltic]] and [[North Sea]]s. In August 1915, she participated in the [[Battle of the Gulf of Riga]] against the [[Russian Navy]],&lt;ref&gt;Halpern, p. 197&lt;/ref&gt; and on 31 May &amp;ndash; 1 June 1916, she saw significant action at the [[Battle of Jutland]].&lt;ref&gt;Tarrant, p. 62&lt;/ref&gt; She was hit by a large-caliber shell once in the engagement, but suffered only moderate damage.&lt;ref&gt;Campbell, pp. 112–113&lt;/ref&gt; She assisted the badly damaged [[battlecruiser]] {{SMS|Seydlitz}} reach port on 2 June after the conclusion of the battle.&lt;ref&gt;Campbell, pp. 330–333&lt;/ref&gt; She also took part in the [[Battle of Heligoland Bight (1917)|Second Battle of Heligoland Bight]], though was not damaged in the engagement.&lt;ref&gt;Woodward, pp. 90–91&lt;/ref&gt; ''Pillau'' was assigned to the planned, final operation of the High Seas Fleet in the closing weeks of the war,&lt;ref&gt;Woodward, p. 116&lt;/ref&gt; but a large scale mutiny in the fleet forced it to be canceled.&lt;ref&gt;Tarrant, pp. 281–282&lt;/ref&gt;
+
+After the end of the war, ''Pillau'' was ceded to Italy as a [[war prize]] in 1920.&lt;ref name=G111/&gt; Renamed ''Bari'', she was commissioned in the ''[[Regia Marina]]'' (Royal Navy) in January 1924. She was modified and rebuilt several times over the next two decades.&lt;ref name=GG265&gt;Gardiner &amp; Gray, p. 265&lt;/ref&gt; In the early years of [[World War II]], she provided gunfire support to Italian troops in several engagements in the Mediterranean.&lt;ref&gt;Whitley, pp. 156–157&lt;/ref&gt; In 1943, she was slated to become an anti-aircraft defense ship, but while awaiting conversion, she was sunk by [[USAAF]] bombers in [[Livorno]] in June 1943. The wreck was partially scrapped by the Germans in 1944, and ultimately raised for scrapping in January 1948.&lt;ref name=GG265/&gt;
+
+===''Elbing''===
+{{main|SMS Elbing}}
+
+''Elbing'' participated in only two major operations during her career. The first, the [[bombardment of Yarmouth and Lowestoft]], occurred in April 1916; there, she briefly engaged the British [[Harwich Force]].&lt;ref&gt;Tarrant, pp. 53–54&lt;/ref&gt; A month later, she took part in the Battle of Jutland, where she scored the first hit of the engagement.&lt;ref&gt;Tarrant, p. 74&lt;/ref&gt; She was heavily engaged in the confused fighting on the night of 31 May &amp;ndash; 1 June,&lt;ref&gt;Tarrant, pp. 211–214&lt;/ref&gt; and shortly after midnight she was accidentally rammed by the [[battleship]] {{SMS|Posen||2}}, which tore a hole in the ship's hull.&lt;ref&gt;Tarrant, p. 220&lt;/ref&gt; Flooding disabled the ship's engines and electrical generators, rendering her immobilized and without power.&lt;ref&gt;Campbell, p. 392&lt;/ref&gt; At around 02:00, a German [[torpedo boat]] took off most of her crew, and an hour later the remaining men [[Scuttling|scuttled]] the ship; they escaped in the ship's cutter and were later picked up by a Dutch steamer.&lt;ref&gt;Campbell, p. 295&lt;/ref&gt;
+
+==Footnotes==
+{{Commons category|Pillau class cruiser}}
+{{Reflist|colwidth=20em}}
+
+==References==
+* {{cite book |last=Campbell|first=John|title=Jutland: An Analysis of the Fighting|year=1998|location=London, UK|publisher=Conway Maritime Press|isbn=1-55821-759-2}}
+*{{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1922|year=1984|location=Annapolis, MD|publisher=Naval Institute Press|isbn=0-87021-907-3}}
+*{{Cite book |last=Gröner|first=Erich|title=German Warships: 1815–1945|year=1990|publisher=Naval Institute Press|isbn=0-87021-790-9|location=Annapolis, MD}}
+*{{Cite book |last=Halpern|first=Paul G.|title=A Naval History of World War I|year=1995|location=Annapolis, MD|publisher=Naval Institute Press|isbn=1-55750-352-4}}
+* {{cite book |last=Tarrant|first=V. E.|title=Jutland: The German Perspective|year=1995|location=London|publisher=Cassell Military Paperbacks|isbn=0-304-35848-7}}
+*{{cite book|last=Whitley|first=M J|title=Cruisers of World War Two: An International Encyclopedia|publisher=Arms and Armour Press|year=1995|location=London, UK|isbn=1-85409-225-1}}
+* {{cite book |last=Woodward|first=David|title=The Collapse of Power: Mutiny in the High Seas Fleet|year=1973|publisher=Arthur Barker Ltd|isbn=0-213-16431-0|location=London}}
+
+{{Pillau class light cruiser}}
+{{Cruisers of the Imperial Russian Navy}}
+{{WWIGermanShips}}
+
+{{Good article}}
+
+{{DEFAULTSORT:Pillau}}
+[[Category:Cruiser classes]]
+[[Category:Pillau-class cruisers| ]]
+[[Category:World War I cruisers of Germany]]</text>
+      <sha1>aj9w71v7mjsjil6aa0nt8mp4g8lol0t</sha1>
+    </revision>
+  </page>
+</mediawiki>

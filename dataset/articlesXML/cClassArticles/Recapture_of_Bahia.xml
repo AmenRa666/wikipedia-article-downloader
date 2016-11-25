@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Recapture of Bahia</title>
+    <ns>0</ns>
+    <id>27048257</id>
+    <revision>
+      <id>745116579</id>
+      <parentid>742631236</parentid>
+      <timestamp>2016-10-19T09:55:53Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15538">{{Use mdy dates|date=April 2012}}
+{{Infobox military conflict
+| conflict   = Recapture of Bahia
+| image      = [[File:La recuperación de Bahía, Maíno.jpg|300px|]]
+| caption    = [[The Recovery of Bahía de Todos los Santos]], by Fray [[Juan Bautista Maíno]], [[Museo del Prado]].
+| partof     = the [[Eighty Years' War]] and the&lt;br&gt; [[Dutch-Portuguese War]]
+| date       = 1 April – 1 May 1625
+| place      = [[Salvador da Bahia]] (present-day [[Brazil]])
+| result     =  Spanish-Portuguese victory
+| combatant1 = [[File:Estandarte Real de Felipe II.svg|20px]] [[Iberian Union]]
+*{{flagicon|Portugal|1578}} [[Kingdom of Portugal]]
+*{{flag|Crown of Castile}}
+| combatant2  = {{flag|United Provinces}}&lt;br&gt;[[Kingdom of England|English]] and [[France|French]] volunteers&lt;ref name=&quot;Duro2&quot;&gt;Duro p.49&lt;/ref&gt;&lt;ref name=&quot;Fadrique Álvarez de Toledo y Mendoza&quot;&gt;[[Fadrique Álvarez de Toledo y Mendoza]], Admiral of the Spanish fleet and Captain-General of the Army of Brazil. [http://fondosdigitales.us.es/books/digitalbook_view?oid_page=275336&amp;actual_page=275335&amp;order_page=275335&amp;order_section=10295&amp;oid_book=1220&amp;num_pages=5&amp;num_plates=0&amp;current_page=1 Letter from Don Fadrique to Philip IV.]&lt;/ref&gt;
+| commander1  = [[File:Estandarte Real de Felipe II.svg|20px]] [[Fadrique Álvarez de Toledo y Mendoza|Fadrique de Toledo]]
+| commander2  = {{flagicon|United Provinces}} [[Willem Schoutens]]&lt;br&gt;{{flagicon|United Provinces}} [[Hans Kyff]]
+| strength1   = 12,000 men&lt;br&gt; 52 ships&lt;ref name=&quot;Duro2&quot;/&gt;&lt;ref&gt;Fausto p.41&lt;/ref&gt;&lt;ref&gt;James p.91&lt;/ref&gt;
+| strength2   = 3,000 to 5,000 men&lt;ref name=&quot;Fadrique Álvarez de Toledo y Mendoza&quot;&gt;[[Fadrique Álvarez de Toledo y Mendoza]], Admiral of the Spanish fleet and Captain-General of the Army of Brazil. [http://fondosdigitales.us.es/books/digitalbook_view?oid_page=275336&amp;actual_page=275335&amp;order_page=275335&amp;order_section=10295&amp;oid_book=1220&amp;num_pages=5&amp;num_plates=0&amp;current_page=1 Letter from Don Fadrique to Philip IV.]&lt;/ref&gt;&lt;br&gt; 18 ships&lt;ref name=&quot;Duro&quot;&gt;Duro p.52&lt;/ref&gt;&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt;
+| casualties1 = At least 71 killed and 64 wounded&lt;ref name=&quot;Duro&quot;&gt;Duro p.52&lt;/ref&gt;&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt;
+| casualties2 = Unknown killed or wounded &lt;br&gt; 1,912 captured&lt;br&gt; 12 ships sunk&lt;br&gt;6 ships captured&lt;br&gt; 260 guns captured&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt;&lt;ref&gt;Duro p.53&lt;/ref&gt;
+| campaignbox = 
+{{Campaignbox Eighty Years' War}}
+{{Campaignbox Dutch-Portuguese War}}
+{{Dutch colonial campaigns}}
+{{Portuguese colonial campaigns}}
+}}
+
+The '''recapture of Bahia''' ({{lang-es|Jornada del Brasil}}; {{lang-pt|Jornada dos Vassalos}}) was a [[Spain|Spanish]]-[[Portugal|Portuguese]] military expedition in 1625 to retake the city of [[Salvador da Bahia]] in Brazil from the forces of the [[Dutch West India Company]] (WIC).
+
+In May 1624, Dutch WIC forces under [[Jacob Willekens]] captured Salvador Bahia from the Portuguese. [[Philip IV of Spain|Philip IV]], king of [[Iberian Union|Spain and Portugal]], ordered the assembly of a Spanish-Portuguese fleet with the objective of recovering the city. Sailing from the port of [[Lisbon]], under the command of [[Fadrique Álvarez de Toledo y Mendoza]], who was appointed Captain General of the Army of Brazil, the fleet crossed the Atlantic Ocean, and arrived at Salvador on April 1 of 1625.&lt;ref name=&quot;Marley2008&quot;&gt;{{cite book|author=David Marley|title=Wars of the Americas: A Chronology of Armed Conflict in the Western Hemisphere, 1492 to the Present|url=https://books.google.com/books?id=DkgGVTOr2EsC|accessdate=19 May 2013|year=2008|publisher=ABC-CLIO|isbn=978-1-59884-100-8|page=167}}&lt;/ref&gt; The town was besieged for several weeks, after which it was recaptured. This resulted in the expulsion of the Dutch from the city and the nearby areas. The city was to later play a strategically important role as a Portuguese base in the struggle against the Dutch for the control of Brazil.
+
+== Background ==
+On December 22 of 1623 a Dutch fleet under the command of Admiral [[Jacob Willekens]] and Vice Admiral [[Piet Pieterszoon Hein|Pieter Heyn]] consisting of 35 ships,&lt;ref name=&quot;Duro p.57&quot;&gt;Duro p.57&lt;/ref&gt; of which 13 were owned by the United Provinces, while the rest belonged to the WIC, sailed from [[Texel]] carrying 6,500 men en route to [[Cape Verde]],&lt;ref&gt;Pérez p.233&lt;/ref&gt; where they arrived after being scattered by a storm. There Willekens was revealed that his objective was the capture of the city of Salvador da Bahia, on the coast of Brazil, in order to use its port as a commercial base to ensure the Dutch trade with the [[East Indies]].&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt; In addition they would control much of the sugar production in the region, as Salvador was a major center of its production in the area.&lt;ref&gt;Fernández p.512&lt;/ref&gt; These intentions to invade Brazil were soon reported to the court of Madrid by the Spanish spies in the Netherlands, but [[Gaspar de Guzmán, Count-Duke of Olivares|Count-Duke of Olivares]] did not give them credit.&lt;ref name=&quot;Southey&quot;&gt;Southey p.148&lt;/ref&gt;
+
+== Campaign ==
+=== Dutch capture ===
+{{main|Capture of Bahia}}
+[[File:Dutch Squadron attacking Spanish fortress.jpg|thumb|left|275px|A Dutch Squadron attacking a Portuguese Fortress in the Far East or Brazil. Oil on panel by [[Adam Willaerts]].]]
+On May 8 the Dutch fleet appeared off Salvador. The Portuguese governor of Salvador, Diogo de Mendonça Furtado, tried to organized the defense of the town with 3,000 men hastily recruited,&lt;ref&gt;Duro p.47&lt;/ref&gt; mostly Portuguese militia of peasant levees and [[black slaves]], all of them resentful to Spanish rule.&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt; The port was protected by sea by two forts: Fort Santo António from the east and Fort São Filipe from the west. Additionally a six-gun battery was erected on the beach and the streets were barricaded.
+
+The Dutch fleet entered the bay divided into two squadrons. One sailed towards the beach of Santo António and disembarked the soldiers commanded by Colonel [[Johan van Dorth]]. The other anchored off the town and opened fire over the [[Coastal defence and fortification|coastal defenses]], which were quickly neutralized. At dawn the city was surrounded by more than 1,000 Dutch soldiers with 2 pieces of artillery.&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt; Intimidated, the Portuguese militia threw their weapons and fled, leaving Mendonça with 60 loyal soldiers.&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt; Salvador had been captured at a cost of 50 casualties among the attackers.&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt;
+
+Willekens and Heyn installed a garrison under the command of Dorth before departing on new missions, according to the orders they had received. Four ships were sent to [[Holland]] carrying booty and news back,&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt; and also instructions to call for reinforcements to secure Salvador.&lt;ref&gt;Duro p.48&lt;/ref&gt; The defenses of the city were reinforced and expanded with [[moat]]s and [[Defensive wall|rampart]]s and the garrison was soon increased to up 2,500 men with numerous Portuguese slaves seduced by promises of freedom and land.&lt;ref name=&quot;Marley2&quot;&gt;Marley p.108&lt;/ref&gt;
+
+However, the Dutch garrison soon began to be harassed by the local guerrilla organized by Bishop [[Dom (title)|Dom]] Marcos Teixeira, who had escaped inland. He managed to assemble a force of 1,400 Portuguese and 250 Indians auxiliaries,&lt;ref&gt;Calvo p.45&lt;/ref&gt;&lt;ref&gt;Solano p.245&lt;/ref&gt; who built fortifications and organized ambushes against the Dutch acting under woodland. In an attempt to drive off the attackers from the outskirts, Dorth himself was killed, and morale sagged. He was replaced by Albert Schoutens, who also perished in another ambush, being replaced by his brother Willem.
+
+=== Iberian Expedition ===
+[[File:Benedictus Mealius Lusitanus Salvador Bahia 1625.jpg|thumb|right|230px|Engraving by [[Benedictus Mealius Lusitanus]], in ''Jornada dos Vassalos da Coroa de Portugal'', Lisbon, 1625.]]
+When news of the loss of Salvador arrived to Spain in August 1624, [[Philip IV of Spain|Philip IV]] ordered to assemble a joint Spanish-Portuguese fleet under Admiral [[Fadrique Álvarez de Toledo, 1st Marquis of Villanueva de Valdueza|Fadrique Álvarez de Toledo y Mendoza]] with the mission to retake the city. On November 22, the Portuguese fleet under Manuel de Menezes, with Francisco de Almeida as second in command, left Lisbon. It was composed by 22 ships and about 4,000 men.&lt;ref name=&quot;Duro2&quot;&gt;Duro p.49&lt;/ref&gt; The Spanish fleet left the port of Cadiz on January 14 after the delay caused by bad weather. It was composed by 38 ships belonging to the armadas of Castile, Biscay, Gibraltar and Cuatro Villas,&lt;ref name=&quot;Duro2&quot;&gt;Duro p.49&lt;/ref&gt; among them 21 [[galleon]]s. It had 8,000 sailors and soldiers on board, being those latter divided in three [[Tercio]]s, of whom one was Italian and the other two Spanish. Its commanding officers were the maestros de campo Pedro Osorio, Juan de Orellana and Carlos Carraciolo, Marquis of Torrecuso. The commander-in-chief of the joint army was Pedro Rodríguez de Sebastián, seconded by Sargento Mayor Diego Ruiz.&lt;ref&gt;Céspedes p.508&lt;/ref&gt;
+
+After passing through the [[Canary Islands]] on January 28, the Spanish fleet arrived at [[Cape Verde]] on February 6, where it joined the Portuguese fleet. This one had lost a ship and 140 men drowned in the shoals of the [[Maio, Cape Verde|Isle of Maio]].&lt;ref&gt;Duro p.50&lt;/ref&gt; Five days later, after holding a council of war, the joint fleet sailed to [[Brazil]]. After waiting for some Portuguese ships delayed by rough seas and 7 [[caravel]]s under the command of Francisco de Moura sent from [[Pernambuco]], the fleet entered the [[Baía de Todos os Santos|Bay of Todos os Santos]] on March 29.
+
+===Siege===
+[[File:Planta da Restituição da BAHIA, por João Teixeira Albernaz, capitania de Portugal.jpg|thumb|left|220px|Detail of the map of joint armies in the recapture of [[Salvador, Bahia]], ''Atlas of Brazil'' (1631) by [[João Teixeira Albernaz I]]]]
+
+Toledo anchored his fleet forming a huge crescent to prevent the escape of the Dutch ships in the bay. At dawn of the following day 4,000 soldiers landed at Santo António beach with food and supplies for four days.&lt;ref name=&quot;Duro&quot;&gt;Duro p.52&lt;/ref&gt; They joined up with the Portuguese guerrilla and occupied the field above Salvador. The Dutch were forced back within their walls, warping their 18 ships beneath the protection of their batteries. Their strength at that time amounted to 2,000 Dutch, English, French and German soldiers and about 800 black auxiliaries.&lt;ref&gt;Avedaño p.2&lt;/ref&gt;
+
+The quarters of Carmen and San Benito, located both outside the walls, were occupied by the Tercios, and a new one, named Las Palmas, was built. [[Siege warfare]] ensued, with the artillery firing over the Dutch fortifications from these positions and the [[Pioneer (military)|pioneer]]s driving saplines toward the Dutch ramparts. The defenders launched several sporadic attacks to obstruct the siege works. During one of these sallies, maestro de campo Pedro Osorio and 71 Spanish officers and soldiers were killed and another 64 wounded.&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt; Nevertheless, the siege continued. 
+
+Two days later, the Dutch attempted to break the blockade sending two [[fire ship]]s against the anchored Spanish-Portuguese fleet, but they didn’t cause any damage.&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt; Some [[mutinies]] emerged among the defenders following this failure, and Willem Schoutens was deposed and replaced by Hans Kyff. He was forced to capitulate few weeks later, when the siege lines finally reached Salvador’s moats. 1,912 Dutch, English, French and German soldiers surrendered, and 18 flags, 260 guns, 6 ships, 500 black slaves and considerable amount of gunpowder, money and merchandise were captured.&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt;
+
+== Aftermath ==
+Several days after the Dutch surrender, a relief fleet of 33 ships under Admiral Boudewijn Hendricksz, seconded by Vice Admiral Andries Veron, bearded down upon the bay divided in two columns.&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt; Toledo, who was warned about its arrival, disposed 6 galleons to lure them to a murderous crossfire. However, seeing the large Spanish-Portuguese fleet anchored inside, Hendricksz decided to withdraw to open sea. Spanish warships attempted to pursue him but a galleon ran aground and the chase was abandoned.&lt;ref name=&quot;Marley&quot;&gt;Marley p.110&lt;/ref&gt; Hendricksz divided his fleet in three groups. One of them returned to Holland with the supplies and ammunition for the garrison of Salvador; the other two attacked respectively the Spanish Caribbean colonial town of [[San Juan de Puerto Rico]] and the Portuguese African trading post of the [[Elmina Castle|Castle of Elmina]] but were both decisively defeated.
+
+Francisco de Moura Rollim, appointed governor of Salvador by Fadrique de Toledo, remained in the town with a garrison of 1,000 Portuguese soldiers. During the journey back to Spain, 3 Spanish ships and 9 Portuguese ships sank in storms.&lt;ref name=&quot;Southey&quot;&gt;Southey p.148&lt;/ref&gt; Maestro de Campo Juan de Orellana was among the drowned men.&lt;ref name=&quot;Duro p.57&quot;/&gt; The Dutch prisoners were returned to the Low Countries aboard five German store ships, being the officers judged on their arrival by the loss of the city.&lt;ref name=&quot;Southey&quot;&gt;Southey p.148&lt;/ref&gt; The Dutch did not return to Brazil until 1630, when they conquered Pernambuco from the Portuguese.
+
+== Notes ==
+{{Reflist|2}}
+
+== References ==
+*Fernández Duro, Cesáreo (1898). ''Armada española desde la Unión de los Reinos de Castilla y de León.'' Madrid: Est. tipográfico &quot;Sucesores de Rivadeneyra&quot;.
+*Fausto, Boris (1999). ''A concise history of Brazil.'' Cambridge University Press. ISBN 978-0-521-56526-4
+*James, Herman G. (2007). ''Brazil After a Century of Independence.'' READ BOOKS. ISBN 978-1-4067-5586-2
+*Marley, David (1998). ''Wars of the Americas: a chronology of armed conflict in the New World, 1492 to the present.'' ABC-CLIO. ISBN 978-0-87436-837-6
+*Santos Pérez, José Manuel; Cabral de Souza, George F. (2006). ''El desafío holandés al dominio ibérico en Brasil en el siglo XVII.'' Universidad de Salamanca. ISBN 978-84-7800-467-6
+*Southey, Robert; Pinheiro, Fernandes (1862). ''Historia do Brazil, Volumen 2.'' Rio de Janeiro: B. L. Garnier.
+*Calvo, Carlos (1862). ''Colección histórica completa de los tratados: convenciones, capitulaciones, armisticios, cuestiones de límites y otros actos diplomáticos de todos los estados, comprendidos entre el golfo de Méjico y el cabo de Hornos : desde el año de 1493 hasta nuestros dias.'' Paris: A. Durand.
+*Solano Constancio, Francisco (1839). ''Historia do Brasil, desde o seu descobrimento por Pedro Alvares Cabral até a abdicação do imperador Pedro i.'' Paris: J.P. Aillaud.
+*Céspedes y Meneses, Gonzalo de (1631). ''Primera parte de la historia de D. Felippe el IIII., rey de las Espanas.'' Lisboa: Con licencia la imprimio Pedro Craesbeeck.
+*Avendaño y Vilela, Francisco de (1625). ''Relación del viaje y suceso de la armada en Brasil.'' Sevilla.
+
+{{coord|12|58|S|38|30|W|source:kolossus-eswiki|display=title}}
+
+{{DEFAULTSORT:Recapture Of Bahia}}
+[[Category:Conflicts in 1625]]
+[[Category:Battles of the Eighty Years' War]]
+[[Category:Battles of the Dutch–Portuguese War]]
+[[Category:Battles involving the Dutch Republic|Bahia]]
+[[Category:Battles involving Spain]]
+[[Category:Battles involving Portugal]]
+[[Category:1625 in South America]]
+[[Category:History of Bahia]]</text>
+      <sha1>09robi950p2bf9yda2bweyhybcx91bj</sha1>
+    </revision>
+  </page>
+</mediawiki>

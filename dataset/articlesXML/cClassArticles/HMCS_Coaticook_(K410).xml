@@ -1,0 +1,199 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMCS Coaticook (K410)</title>
+    <ns>0</ns>
+    <id>42350845</id>
+    <revision>
+      <id>725342064</id>
+      <parentid>720485083</parentid>
+      <timestamp>2016-06-15T02:43:49Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category List of ships of the Royal Canadian Navy to [[:Category:Ships of the Royal Canadian Navy]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 June 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9779">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Ff hmcs coaticook.jpg|300px]]
+|Ship caption=HMCS ''Coaticook''
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Canada
+|Ship flag={{shipboxflag|Canada|naval-1911}}
+|Ship name= ''Coaticook''
+|Ship namesake= [[Coaticook, Quebec]]
+|Ship owner=
+|Ship operator= [[Royal Canadian Navy]]
+|Ship registry=
+|Ship route=
+|Ship ordered= 1 February 1943
+|Ship awarded=
+|Ship builder=[[Davie Shipbuilding|Davie Shipbuilding &amp; Repairing Co. Ltd.]], [[Lauzon, Quebec|Lauzon]]
+|Ship original cost=
+|Ship yard number=553
+|Ship way number=
+|Ship laid down=14 June 1943
+|Ship launched=26 November 1943
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=25 July 1944
+|Ship recommissioned=
+|Ship decommissioned=29 November 1945
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=[[pennant number]]:K 410
+|Ship motto=
+|Ship nickname=
+|Ship honours=Atlantic 1944–1945&lt;ref name=Britain&gt;{{cite web|title= Battle Honours | url=http://www.britainsnavy.co.uk/Battle%20Honours/A%20Battle%20Honour%20Date.htm#1900|work=Britain's Navy|accessdate=30 March 2014}}&lt;/ref&gt;
+|Ship honors=
+|Ship captured=
+|Ship fate=sold 1948, sank as breakwater; raised 1961 and scuttled 1962 at Race Rocks off Vancouver Island.
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[River-class frigate]]
+|Ship type=
+|Ship tonnage=
+|Ship displacement=*{{convert|1445|LT|t ST|lk=in}}
+*{{convert|2110|LT|t ST|abbr=on}} (deep load)
+|Ship tons burthen=
+|Ship length=*{{convert|283|ft|m|2|abbr=on}} [[Length between perpendiculars|p/p]]
+*{{convert|301.25|ft|m|2|abbr=on}}[[Length overall|o/a]]
+|Ship beam={{convert|36.5|ft|m|2|abbr=on}}
+|Ship height=
+|Ship draught={{convert|9|ft|m|2|abbr=on}}; {{convert|13|ft|m|2|abbr=on}} (deep load)
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=2 x Admiralty 3-drum boilers, 2 shafts, [[steam engine|reciprocating vertical triple expansion]], {{convert|5500|ihp|abbr=on}}
+|Ship sail plan=
+|Ship speed=*{{convert|20|kn|km/h|1}}
+*{{convert|20.5|kn|km/h|1}} (turbine ships)
+|Ship range={{convert|646|LT|t ST|abbr=on}} oil fuel; {{convert|7500|nmi|km|0}} at {{convert|15|kn|km/h|1}}
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=157
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+* 2 × QF&amp;nbsp;4&amp;nbsp;in (102&amp;nbsp;mm) /45 Mk. XVI on twin mount [[British ordnance terms#HA/LA|HA/LA]] Mk.XIX
+* 1 × QF&amp;nbsp;12&amp;nbsp;pdr (3&amp;nbsp;in / 76&amp;nbsp;mm) 12&amp;nbsp;cwt /50 Mk. V on mounting HA/LA Mk.IX (not all ships)
+* 8 × 20 mm QF Oerlikon A/A on twin mounts Mk.V
+* 1 × Hedgehog 24 spigot A/S projector
+* up to 150 [[depth charge]]s
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+'''HMCS ''Coaticook''''' was a [[River-class frigate]] that served with the [[Royal Canadian Navy]] during the [[Second World War]]. She fought primarily in the [[Battle of the Atlantic]] as a coastal convoy escort. She was named for [[Coaticook, Quebec]].
+
+''Coaticook'' was ordered on 1 February 1943 as part of the 1943–1944 River class building programme.&lt;ref name=Macpherson&gt;{{cite book |last=Macpherson |first=Ken |last2=Burgess |first2=John |year=1981 |title=The ships of Canada's naval forces 1910–1981 : a complete pictorial history of Canadian warships |publisher=Collins |location=Toronto|pages= |isbn=0-00216-856-1}}&lt;/ref&gt;&lt;ref name=uboat&gt;{{cite web|url=http://uboat.net/allies/warships/ship/188.html|work=uboat.net |title=HMCS Coaticook (K 410) |accessdate=30 March 2014}}&lt;/ref&gt; She was laid down on 14 June 1943 by [[Davie Shipbuilding|Davie Shipbuilding &amp; Repairing Co. Ltd.]] at [[Lauzon, Quebec]] and launched 26 November 1943.&lt;ref name=uboat/&gt; She was commissioned into the Royal Canadian Navy on 25 July 1944 at [[Quebec City]].&lt;ref name=Macpherson/&gt;
+
+==Background==
+{{main|River-class frigate}}
+
+The River-class frigate was designed by William Reed of Smith's Dock Company of South Bank-on-Tees. Originally called a &quot;twin-screw corvette&quot;, its purpose was to improve on the convoy escort classes in service with the [[Royal Navy]] at the time, including the [[Flower-class corvette]]. The first orders were placed by the Royal Navy in 1940 and the vessels were named for rivers in the [[United Kingdom]], giving name to the class. In Canada they were named for towns and cities though they kept the same designation.&lt;ref name=WarMuseum&gt;{{cite web|url=https://www.friends-amis.org/index.php/en/document-repository/english/fact-sheets/44-canadian-river-class-frigate-1/file |title=Fact Sheet No. 21 – Canadian River Class Frigates |accessdate=3 April 2014}}&lt;/ref&gt; The name &quot;frigate&quot; was suggested by Vice-Admiral [[Percy Nelles]] of the Royal Canadian Navy and was adopted later that year.&lt;ref name=Macpherson2&gt;{{cite book|title=Frigates of the Royal Canadian Navy 1943–1974 |last=Macpherson |first=Ken |publisher=Vanwell Publishing |year=1989 |place=Lewiston, New York |pages=6–7, 15 |isbn=0920277225}}&lt;/ref&gt;
+
+Improvements over the corvette design included improved accommodation which was markedly better. The twin engines gave only three more knots of speed but extended the range of the ship to nearly double that of a corvette at {{convert|7200|nmi|km}} at 12 knots.&lt;ref name=Macpherson2/&gt; Among other lessons applied to the design was an armament package better designed to combat [[U-boats]] including a twin 4-inch mount forward and 12-pounder aft.&lt;ref name=WarMuseum/&gt; 15 Canadian frigates were initially fitted with a single 4-inch gun forward but with the exception of the {{HMCS|Valleyfield|K329|6}}, they were all eventually upgraded to the double mount.&lt;ref name=Macpherson2/&gt; For underwater targets, the River-class frigate was equipped with a [[Hedgehog (weapon)|Hedgehog]] anti-submarine mortar and depth charge rails aft and four side-mounted throwers.&lt;ref name=WarMuseum/&gt;
+
+River-class frigates were the first Royal Canadian Navy warships to carry the 147B Sword horizontal fan echo sonar transmitter in addition to the irregular ASDIC. This allowed the ship to maintain contact with targets even while firing unless a target was struck. Improved radar and direction-finding equipment improved the RCN's ability to find and track enemy submarines over the previous classes.&lt;ref name=WarMuseum/&gt;
+
+Canada originally ordered the construction of 33 frigates in October 1941.&lt;ref name=WarMuseum/&gt;&lt;ref name=Macpherson2/&gt; The design was too big for the shipyards on the [[Great Lakes]] so all the frigates built in Canada were built in dockyards along the west coast or along the [[St. Lawrence River]].&lt;ref name=Macpherson2/&gt; In all Canada ordered the construction of 60 frigates including ten for the Royal Navy that transferred two to the [[United States Navy]].&lt;ref name=WarMuseum/&gt;
+
+==War service==
+''Coaticook'' was sent in mid-September 1944 to [[Bermuda]] for workups after commissioning. Upon her return she was assigned to escort support group EG 27 based out of [[Halifax, Nova Scotia|Halifax]]. During this period, German [[U-boat]]s, the main foe of the River-class frigates, had adapted to the increased anti-submarine patrols with the introduction of the schnorkel, which allowed the U-boats to remain underwater while they recharged their batteries. This led to the German &quot;inshore offensive&quot; which targeted convoys along the Canadian and American coastlines that led to more forces being deployed in this area.&lt;ref name=McLean&gt;{{cite web|first=Douglas M. |last=McLean |url=http://www.cnrs-scrn.org/northern_mariner/vol03/tnm_3_4_19-35.pdf |title=The Battle of Convoy BX-141 |work=The Northern Mariner |date=October 1993 |pages=19–35}}&lt;/ref&gt; ''Coaticook'' remained in this duty until June 1945 when she sailed for [[Esquimalt, British Columbia|Esquimalt]].&lt;ref name=Macpherson/&gt; She was paid off into the reserve there on 29 November 1945.&lt;ref name=Macpherson/&gt;&lt;ref name=uboat/&gt;
+
+==Postwar service==
+In 1948, ''Coaticook'' was sold for stripping and in 1949, she was sunk as a breakwater at [[Powell River (British Columbia)|Powell River]] in [[British Columbia]] to replace the floating breakwater that had been installed.&lt;ref name=Iron&gt;{{cite web|url=http://www.nauticapedia.ca/Articles/Capital_Iron.php |title=Capital Iron &amp; Metals Ltd. – From Ship Breakers to Department Store |last=MacFarlane |first=John M. |work=nauticapedia.ca |date=2011 |accessdate=30 March 2014}}&lt;/ref&gt; In 1961, the hull was refloated in an effort to tow it to [[Victoria, British Columbia]] to be broken up.&lt;ref name=Macpherson/&gt; However en route, a storm arose and the hull suffered damage. The damage was considered significant enough to render the hull structurally unstable. The decision was made to scuttle it instead of continuing on to Victoria. Four cases of forcite, a gelatin dynamite, were placed throughout the ship.&lt;ref name=Iron/&gt; The ship was sunk near Race Rocks, off [[Vancouver Island]] in February 1962.&lt;ref name=Macpherson/&gt;&lt;ref name=Iron/&gt; Photos of the resulting explosion were taken and distributed through [[The Canadian Press]].&lt;ref name=Iron/&gt;
+
+==References==
+;Notes
+{{reflist}}
+
+;References
+*Macpherson, Ken; Burgess, John. ''The ships of Canada's naval forces 1910–1981 : a complete pictorial history of Canadian warships.'' Collins: Toronto, 1981. ISBN 0-00216-856-1
+
+{{River class frigate}}
+
+{{DEFAULTSORT:Coaticook, HMCS}}
+[[Category:Ships of the Royal Canadian Navy]]
+[[Category:River-class frigates of the Royal Canadian Navy]]
+[[Category:1944 ships]]</text>
+      <sha1>1hwoh9ygg64k21icia95xf7cbz2ts64</sha1>
+    </revision>
+  </page>
+</mediawiki>

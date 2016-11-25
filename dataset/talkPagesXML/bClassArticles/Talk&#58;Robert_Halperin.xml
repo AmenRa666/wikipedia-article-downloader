@@ -1,0 +1,87 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Robert Halperin</title>
+    <ns>1</ns>
+    <id>31088560</id>
+    <revision>
+      <id>737822390</id>
+      <parentid>711909621</parentid>
+      <timestamp>2016-09-05T06:54:03Z</timestamp>
+      <contributor>
+        <username>BU RoBOT</username>
+        <id>25993922</id>
+      </contributor>
+      <comment>Adding [[WP:WikiProject College football]] template; genfixes ([[Wikipedia:Bots/Requests_for_approval/BU_RoBOT_27|task 27]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2253">{{Talk header}}
+{{WikiProject banner shell|1=
+{{WikiProject Biography
+|living=n|class=B|listas=Halperin, Robert|military-work-group=y|military-priority=Low|sports-work-group=y|sports-priority=Low}}
+{{WikiProject Chicago|class=B|importance=}}
+{{WikiProject Pritzker-GLAM|class=start |importance=low}}
+{{WikiProject Military history|class=B
+&lt;!-- B-Class 5-criteria checklist --&gt;
+|B1 &lt;!-- Referencing and citations --&gt; =y
+|B2 &lt;!-- Coverage and accuracy --&gt; =y
+|B3 &lt;!-- Structure --&gt; =y
+|B4 &lt;!-- Grammar and style --&gt; =y
+|B5 &lt;!-- Supporting materials --&gt; =y
+|Biography=y|Maritime=y|US=y|WWII=y}}
+{{WikiProject United States|class=B|importance=Low|USMIL=y|Notre-Dame=y|Notre-Dame-importance=Low}}
+{{WikiProject National Football League|class=B|importance=Low}}
+{{WikiProject Olympics|class=B|importance=}}
+{{WikiProject Sailing|class=B|importance=}}
+{{WikiProject College football}}
+}}
+{{DYK talk|24 July|2011|entry=... that American [[NFL]] [[quarterback]] '''[[Robert Halperin]]''' was awarded the [[Navy Cross (United States)|Navy Cross]], won an Olympic bronze medal and a Pan American Games gold medal in sailing, and co-founded the [[Lands' End]] clothing retailer?}}
+
+== Possible copyright problem ==
+[[File:Copyright-problem.svg|left|50x50px|alt=|link=]] This article has been revised as part of [[WP:CCI|a large-scale clean-up project of multiple article copyright infringement]].  Earlier text must not be restored, ''unless'' it can be verified to be free of infringement. For legal reasons, Wikipedia cannot accept [[Wikipedia:Copyrights|copyrighted]] text or images borrowed from other web sites or printed material; such additions must be deleted. Contributors may use sources as a source of ''information'', but not as a source of ''sentences'' or ''phrases''. Accordingly, the material ''may'' be rewritten, but only if it does not infringe on the copyright of the original ''or'' [[Wikipedia:Plagiarism|plagiarize]] from that source. Please see our [[Wikipedia:NFC#Text|guideline on non-free text]] for how to properly implement limited quotations of copyrighted text. Wikipedia takes copyright violations very seriously. &lt;!--Signature--&gt;— [[User:Diannaa|Diannaa]] ([[User talk:Diannaa|talk]]) 17:22, 25 March 2016 (UTC) &lt;!--{{CCI}} end--&gt;</text>
+      <sha1>bn7hqalmckn1islstr16x2wwq7ugemn</sha1>
+    </revision>
+  </page>
+</mediawiki>

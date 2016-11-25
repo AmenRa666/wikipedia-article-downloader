@@ -1,0 +1,98 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>René Carmille</title>
+    <ns>0</ns>
+    <id>28859059</id>
+    <revision>
+      <id>744111497</id>
+      <parentid>733452203</parentid>
+      <timestamp>2016-10-13T05:38:33Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2709">{{Infobox person
+|birth_place=[[Trémolat]]
+|birth_date=1886
+|death_place=[[Dachau]]
+|death_date=25 January 1945
+|occupation=computer expert and [[comptroller]] general of the French Army}}
+'''René Carmille''' (born [[Trémolat]], [[Dordogne]], 1886; died [[Dachau]], [[Bavaria]], 25 January 1945) was a [[punched card]] computer expert and [[comptroller]] general of the [[French Army]] in the early 20th century. In [[World War II]] he was a [[double agent]] for the [[French Resistance]] and part of the [[Marco Polo Network]]. He ran the [[Demographics]] Department of [[Vichy]] and later [[INSEE]], France's National Statistics Service. In this capacity, he sabotaged the [[Nazi]] [[census]] of France, saving untold numbers of Jewish people from death camps. The [[IEEE]] newspaper, ''The Institute'', describes Carmille as being an early [[ethical hacker]]: &quot;Over the course of two years, Carmille and his group purposely delayed the process by mishandling the punch cards. He also hacked his own machines, reprogramming them so that they’d never punch information from Column 11 [which indicated religion] onto any census card.&quot;&lt;ref name=&quot;Davis&quot;&gt; Amanda Davis, &quot;A History of Hacking.&quot; ''The Institute'' 06 March 2015. http://theinstitute.ieee.org/technology-focus/technology-history/a-history-of-hacking.&lt;/ref&gt; He also used his department to help mobilize French resistance in Algeria.
+
+Carmille was arrested in Lyon on 3 February 1944. He was interrogated for two days by [[Klaus Barbie]] but did not break under torture. He was caught by the Nazis and sent to [[Dachau]] where he died on 25 January 1945.&lt;ref name=&quot;Black320–332&quot;&gt;{{Harvnb|Black|2001|pp=320–332}}&lt;/ref&gt;
+
+A short documentary was released about Carmille in 2010 called Interregnum&lt;ref&gt;''Interregenum: The First Hacker''. Nick Fox-Gieg. 2011. {{YouTube|tOEFO1kU8rY}}; http://design.yorku.ca/?p=627&lt;/ref&gt; which stars [[Nicole Stamp]].&lt;ref&gt;http://www.bravofact.com/2011/10/05/interregnum-2010/&lt;/ref&gt;
+
+{{Expand French|date=May 2016}}
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+'''Bibliography'''
+{{refbegin}}
+{{cite book|last=Black|first=Edwin|authorlink=Edwin Black|title=IBM and the Holocaust|url=https://books.google.com/books?id=6vYeqVT7K-sC|year=2001|publisher=[[Random House, Inc.]]|location=New York|isbn=0-609-60799-5|ref=CITEREFBlack2001}}
+{{refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carmille, Rene}}
+[[Category:1945 deaths]]
+[[Category:20th-century French military personnel]]
+[[Category:French people who died in Dachau concentration camp]]
+[[Category:French Resistance members]]
+[[Category:People from Dordogne]]
+[[Category:People of Vichy France]]
+[[Category:Rescue of Jews in the Holocaust]]
+[[Category:1886 births]]</text>
+      <sha1>5ibfeqb4yni8z0zj9soyawn57v72595</sha1>
+    </revision>
+  </page>
+</mediawiki>

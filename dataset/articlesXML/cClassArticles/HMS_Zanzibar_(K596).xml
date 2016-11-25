@@ -1,0 +1,198 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Zanzibar (K596)</title>
+    <ns>0</ns>
+    <id>34019496</id>
+    <revision>
+      <id>737333717</id>
+      <parentid>716452842</parentid>
+      <timestamp>2016-09-02T03:12:32Z</timestamp>
+      <contributor>
+        <username>BD2412bot</username>
+        <id>25180159</id>
+      </contributor>
+      <minor/>
+      <comment>/* Disposal */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]]., replaced: Brooklyn]], [[New York]] → Brooklyn]], [[New York (state)|New York]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5634">{{Use dmy dates|date=October 2012}}
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image = 
+| Ship caption = 
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = United States
+| Ship flag ={{USN flag|1947}}
+| Ship name = USS ''Prowse'' 
+| Ship owner = 
+| Ship namesake = British name assigned in anticipation of ship{{'}}s transfer to [[United Kingdom]]
+| Ship reclassified = [[Patrol frigate]], PF-92, 15 April 1943
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship ordered = 
+| Ship builder = [[Walsh-Kaiser Company]], [[Providence, Rhode Island|Providence]], [[Rhode Island]]
+| Ship laid down = 20 October 1943
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship renamed = ''Zanzibar'', 1943
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship namesake = [[Zanzibar]]
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship launched = 21 November 1943
+| Ship acquired = 
+| Ship commissioned = 
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship honors = 
+|Ship identification=PG-200
+| Ship fate = Transferred to the [[United Kingdom]], 21 June 1944
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship career
+| Hide header = yes
+| Ship acquired = Returned by United Kingdom 21 May 1946&lt;ref name=&quot;return&quot;&gt;According to [http://www.uboat.net/allies/warships/ship/294.html uboat.net HMS Zanzibar (K596)], the ship was returned on 31 May 1946.&lt;/ref&gt;
+| Ship struck = 29 October 1946
+| Ship fate = Sold for scrapping 17 June 1947
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship career
+| Hide header =title
+| Ship country = United Kingdom
+| Ship flag ={{shipboxflag|United Kingdom|naval}}
+| Ship name = HMS ''Zanzibar''
+| Ship acquired = 21 June 1944
+| Ship commissioned = 21 June 1944&lt;ref name=&quot;uboatnet&quot;&gt;[http://www.uboat.net/allies/warships/ship/294.html uboat.net HMS Zanzibar (K596)]&lt;/ref&gt;
+| Ship decommissioned = 
+| Ship in service = 
+| Ship out of service = 
+| Ship struck = 
+| Ship reinstated = 
+| Ship honours = 
+| Ship honors = 
+|Ship identification=K596
+| Ship fate = Returned to the United States, 21 May 1946&lt;ref name=&quot;return&quot;/&gt;
+| Ship status = 
+| Ship notes = 
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= {{sclass2-|Colony|frigate}}
+|Ship displacement= {{convert|1264|LT|t|lk=in}}
+|Ship length={{convert|303|ft|11|in|m|abbr=on}}
+|Ship beam= {{convert|37|ft|6|in|m|abbr=on}}
+|Ship height= 
+|Ship draft={{convert|13|ft|8|in|m|abbr=on}}
+|Ship depth=
+|Ship hold depth=
+|Ship propulsion=*3 × boilers
+*2 × turbines, {{convert|5500|shp|abbr=on}} each
+*2 shafts
+|Ship speed= {{convert|20|kn|lk=in}}
+|Ship range= 
+|Ship endurance=
+|Ship complement=190
+|Ship sensors=
+|Ship EW=
+|Ship armament=*3 × single [[3&quot;/50 caliber gun|{{convert|3|in|mm|abbr=on|0}}/50 AA guns]]
+*2 × twin [[Bofors 40 mm|40 mm guns]]
+*9 × single [[Oerlikon 20 mm cannon|20 mm]]
+*1 × [[Hedgehog (weapon)|Hedgehog]] [[anti-submarine mortar]]
+*8 × [[Depth charge projector|Y gun]] [[depth charge]] projectors
+*2 × depth charge racks
+|Ship armor=
+|Ship notes=
+}}
+|}
+'''HMS ''Zanzibar'' (K596)''' was a {{sclass2-|Colony|frigate}} of the [[United Kingdom]] that served during [[World War II]]. She originally was ordered by the [[United States Navy]] as the [[Tacoma-class frigate|''Tacoma''-class patrol frigate]] '''USS ''Prowse'' (PF-92)''' and was transferred to the [[Royal Navy]] prior to completion.
+
+==Construction and acquisition==
+The ship, originally designated a &quot;patrol [[gunboat]],&quot; '''PG-200''', was ordered by the [[United States Maritime Commission]] under a U.S. Navy contract as USS ''Prowse''. She was reclassified as a &quot;[[patrol frigate]],&quot; PF-92, on 15 April 1943 and [[Keel laying|laid down]] by the [[Walsh-Kaiser Company]] at [[Providence, Rhode Island|Providence]], [[Rhode Island]], on 20 October 1943. Intended for transfer to the United Kingdom, the ship was renamed ''Zanzibar'' by the British prior to [[Ship naming and launching|launching]] and was launched on 21 November 1943.
+
+==Service history==
+Transferred to the United Kingdom under [[Lend-Lease]] on 21 June 1944, the ship served in the [[Royal Navy]] as HMS ''Zanzibar'' (K596). She operated out of [[Derry|Londonderry]], [[Northern Ireland]], and [[Greenock]], [[Scotland]], on [[convoy]] escort duty into the western [[Atlantic Ocean]] as far as [[Boston, Massachusetts|Boston]], [[Massachusetts]]. In addition, she served as a [[weather ship]] on [[Ocean weather station|Ocean Station]] No. 19 in both the spring of 1945 and the spring of 1946.
+
+==Disposal==
+The United Kingdom returned ''Zanzibar'' to the U.S. Navy on 21 May 1946 at [[Brooklyn, New York|Brooklyn]], [[New York (state)|New York]], on 21 May 1946.&lt;ref name=&quot;return&quot;/&gt; She was stricken from the U.S. [[Naval Vessel Register]] on 29 October 1946 and sold on 17 June 1947 for scrapping.
+
+== References ==
+
+===Notes===
+{{Reflist}}
+
+===Bibliography===
+* {{DANFS|http://www.history.navy.mil/danfs/z1/zanzibar.htm}}
+* [http://www.navsource.org/archives/12/08092.htm Navsource Online: Frigate Photo Archive HMS Zanzibar (K 596) ex-Prowse ex-PF-92 ex-PG-200]
+
+==External links==
+* [http://navalhistory.flixco.info/H/193002/8330/a0.htm navalhistory.flixco.info : HMS ''Zanzibar'']
+* [http://www.navsource.org/archives/12/08092.htm Photo gallery of USS ''Prowse'']
+
+{{Tacoma class frigate}}
+
+{{DEFAULTSORT:Zanzibar (K596), HMS}}
+[[Category:1943 ships]]
+[[Category:Ships built in Providence, Rhode Island]]
+[[Category:Tacoma-class frigates]]
+[[Category:Colony-class frigates]]
+[[Category:World War II frigates and destroyer escorts of the United States]]
+[[Category:World War II frigates of the United Kingdom]]
+[[Category:Weather ships]]</text>
+      <sha1>lka3xgr5nn3s6un57e8pjv8q8wn55dp</sha1>
+    </revision>
+  </page>
+</mediawiki>

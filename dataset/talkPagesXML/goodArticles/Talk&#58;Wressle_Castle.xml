@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Wressle Castle</title>
+    <ns>1</ns>
+    <id>11556973</id>
+    <revision>
+      <id>750003089</id>
+      <parentid>741348875</parentid>
+      <timestamp>2016-11-17T08:38:23Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>BOT: Adding |oldid=715665415 to {{[[Template:GA|GA]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2044">{{GA|06:54, 17 April 2016 (UTC)|topic=Warfare|page=1|oldid=715665415}}
+{{WikiProject Yorkshire|class=GA|importance=High}}
+{{WPMILHIST|class=GA|Fortifications=yes|British=yes|Medieval-task-force=yes}}
+{{reqmapin|England}}
+
+== New draft ==
+
+Hello, I've prepared an extended draft at [[User:Richard Nevell/sandbox]]. Since it mentions work of the Castle Studies Trust and I'm on the charity's board I would appreciate it if someone could have a look and check that the balance is ok. Then if everyone's happy I'd like to copy the contents over to this article. [[User:Richard Nevell|Richard Nevell]] ([[User talk:Richard Nevell|talk]]) 16:52, 13 March 2016 (UTC)
+:Looks OK for balance at a quick read through. Probably some copy edits and changes needed in places. I could do those in the draft but then a history merge would then be required to preserve the edit history. [[User:Keith D|Keith D]] ([[User talk:Keith D|talk]]) 21:00, 13 March 2016 (UTC)
+::Copy edits very much appreciated! I'll leave it up to you where those edits take place (sandbox or here). [[User:Richard Nevell|Richard Nevell]] ([[User talk:Richard Nevell|talk]]) 21:27, 13 March 2016 (UTC)
+::{{ping|Hchc2009}} do you have any thoughts on the article? [[User:Richard Nevell|Richard Nevell]] ([[User talk:Richard Nevell|talk]]) 21:35, 15 March 2016 (UTC)
+:::Will take a quick look on Thursday night Richard. [[User:Hchc2009|Hchc2009]] ([[User talk:Hchc2009|talk]]) 21:50, 15 March 2016 (UTC)
+::::Apologies for the delay. Looks balanced and reasonable to me - nice work! Hope the Trust is going well. [[User:Hchc2009|Hchc2009]] ([[User talk:Hchc2009|talk]]) 08:24, 20 March 2016 (UTC)
+:::::Thank you :) I'll copy the text over later today. I'll look for a bit more detail on the structure and see if I can take the article to GAN. The Trust's work is certainly interesting and luckily some of the projects have been fitting with my own research. [[User:Richard Nevell|Richard Nevell]] ([[User talk:Richard Nevell|talk]]) 11:25, 20 March 2016 (UTC)
+
+{{Talk:Wressle Castle/GA1}}</text>
+      <sha1>6nt6kfgyvxpwhbjqf8kesa6bn27i5lf</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kosmos 2345</title>
+    <ns>0</ns>
+    <id>35547839</id>
+    <revision>
+      <id>708507995</id>
+      <parentid>586338981</parentid>
+      <timestamp>2016-03-06T00:09:29Z</timestamp>
+      <contributor>
+        <username>Yobot</username>
+        <id>7328338</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */[[WP:CHECKWIKI]] error fixes / ISSN syntax fixes using [[Project:AWB|AWB]] (11964)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3596">{{Infobox spaceflight
+| name                  = Kosmos 2345
+| mission_type          = [[Early warning]]
+| operator              = [[VKS]]
+| COSPAR_ID             = 1997-041A
+| SATCAT                = 24894
+| mission_duration      = 18 months
+
+| spacecraft_type       = [[US-KS]] (74Kh6)&lt;ref name=&quot;gunter&quot;/&gt;
+| manufacturer          = [[Lavochkin]]&lt;ref name=&quot;gunter&quot;/&gt;
+| launch_mass           = {{convert|2400|kg}}&lt;ref name=&quot;gunter&quot;/&gt;
+
+| launch_date           = {{start-date|14 August 1997, 20:49:00|timezone=yes}}&amp;nbsp;UTC&lt;ref name=&quot;nssdc&quot;/&gt;
+| launch_rocket         = [[Proton-K]]/[[Block D|DM-2]]
+| launch_site           = [[Baikonur Cosmodrome|Baikonur]] [[Baikonur Cosmodrome Site 200|200/39]]
+| entered_service       =
+
+| disposal_type         = 
+| deactivated           = 28 February 1999 &lt;!-- paper has 30 feb --&gt;&lt;ref name=&quot;Podvig-History&quot;/&gt;
+
+| orbit_epoch           = 
+| orbit_reference       = [[Geocentric orbit|Geocentric]]
+| orbit_regime          = [[Geostationary orbit|Geostationary]]
+| orbit_periapsis       = 
+| orbit_apoapsis        =  
+| orbit_inclination     =  
+| orbit_period          = 
+| orbit_longitude       = 
+| orbit_slot            = 
+| apsis                 = gee
+
+| instruments           = Optical telescope with {{convert|50|cm}} aperture &lt;ref name=&quot;gunter&quot;/&gt;&lt;br/&gt; Infrared sensor/s &lt;ref name=&quot;gunter&quot;/&gt;&lt;br/&gt;Smaller telescopes&lt;ref name=&quot;gunter&quot;/&gt;
+}}
+
+'''Kosmos 2345''' ({{lang-ru|''Космос 2345''}} meaning ''Cosmos 2345'') is a [[Russia]]n [[US-KS]] missile [[early warning]] [[satellite]] which was launched in 1997 as part of the [[Russian Space Forces]]' [[Oko]] programme. The satellite is designed to identify missile launches using [[optical telescope]]s and [[infrared sensor]]s.&lt;ref name=&quot;gunter&quot;/&gt;
+
+Kosmos 2345 was launched from [[Baikonur Cosmodrome Site 200|Site 200/39]] at [[Baikonur Cosmodrome]] in Kazakhstan.&lt;ref name=&quot;gunter&quot;/&gt; A [[Proton-K]] carrier rocket with a [[Block D|DM-2]] upper stage was used to perform the launch, which took place at 20:49 UTC on 14 August 1997.&lt;ref name=&quot;nssdc&quot;/&gt;&lt;ref name=&quot;Podvig-History&quot;/&gt; The launch successfully placed the satellite into [[geostationary orbit]]. It subsequently received its [[Kosmos (satellite)|Kosmos]] designation, and the [[international designator]] 1997-041A.&lt;ref name=&quot;nssdc&quot;/&gt; The [[United States Space Command]] assigned it the [[Satellite Catalog Number]] 24894.&lt;ref name=&quot;nssdc&quot;/&gt;&lt;ref name=&quot;Podvig-History&quot;/&gt;
+
+It was the last [[US-KS]] satellite and was operational for about 18 months.&lt;ref name=&quot;gunter&quot;/&gt;&lt;ref name=&quot;Podvig-History&quot;/&gt;
+
+==See also==
+*[[List of Kosmos satellites (2251–2500)]]
+
+==References==
+&lt;references&gt;
+
+&lt;ref name=&quot;nssdc&quot;&gt;{{cite web|url=http://nssdc.gsfc.nasa.gov/nmc/masterCatalog.do?sc=1997-041A|title=Cosmos 2345|publisher=National Space Science Data Centre|date=2012-04-10|accessdate=2012-04-19}}&lt;/ref&gt;
+
+&lt;ref name=&quot;gunter&quot;&gt;{{cite web|url=http://space.skyrocket.de/doc_sdat/us-ks.htm|title=US-KS (74Kh6)|publisher=Gunter's Space Page|date=2012-03-30|accessdate=2012-04-19}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Podvig-History&quot;&gt;
+{{Cite journal
+ | first = Pavel
+ | last = Podvig
+ | year = 2002
+ | title = History and the Current Status of the Russian Early-Warning System
+ | journal = Science and Global Security
+ | volume = 10
+ | pages = 21–60
+ | format = pdf
+ | issn = 0892-9882
+ | doi = 10.1080/08929880212328
+ | url = http://iis-db.stanford.edu/pubs/20734/Podvig-S&amp;GS.pdf
+ }}&lt;/ref&gt;
+
+&lt;/references&gt;
+{{Orbital launches in 1997}}
+{{Oko}}
+
+[[Category:Spacecraft launched in 1997]]
+[[Category:Spacecraft launched by Proton rockets]]
+[[Category:Kosmos satellites]]
+[[Category:Oko]]</text>
+      <sha1>qs0qcdlj59d1nldtna7xzh4uq1hfcbj</sha1>
+    </revision>
+  </page>
+</mediawiki>

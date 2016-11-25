@@ -1,0 +1,273 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Yorktown (PG-1)</title>
+    <ns>0</ns>
+    <id>1170514</id>
+    <revision>
+      <id>743620305</id>
+      <parentid>722147898</parentid>
+      <timestamp>2016-10-10T12:26:46Z</timestamp>
+      <contributor>
+        <username>Cydebot</username>
+        <id>1215485</id>
+      </contributor>
+      <minor/>
+      <comment>Robot - Moving category Ships built in Philadelphia, Pennsylvania to [[:Category:Ships built in Philadelphia]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2016 September 6]].</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="39671">{{other ships|USS Yorktown}}
+{{Use dmy dates|date=February 2013}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:USS Yorktown (PG-1), side view 1.jpg|300px|USS ''Yorktown'', c. 1890–1901]]
+|Ship caption= USS ''Yorktown'', c. 1890–1901
+}}
+{{Infobox ship career
+|Ship country=United States
+|Ship flag={{USN flag|1919}}
+|Ship name=USS ''Yorktown''
+|Ship namesake=[[Siege of Yorktown|Battle of Yorktown]]
+|Ship ordered=
+|Ship awarded=1885
+|Ship builder=*[[William Cramp and Sons]]
+*[[Philadelphia]], [[Pennsylvania]]
+|Ship original cost=
+|Ship yard number=
+|Ship laid down=14 May 1887
+|Ship launched=28 April 1888
+|Ship sponsor=Miss Mary Cameron
+|Ship completed=19 March 1889&lt;ref name=NYT-complete /&gt;
+|Ship commissioned=23 April 1889
+|Ship decommissioned=8 December 1897
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned=17 November 1898
+|Ship decommissioned=17 June 1903
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned=1 October 1906
+|Ship decommissioned=15 July 1912
+}}
+{{Infobox ship career
+|Hide header=yes
+|Ship recommissioned=1 April 1913
+|Ship decommissioned=12 June 1919
+|Ship struck=
+|Ship honors=
+|Ship fate=sold, 30 September 1921;&lt;ref name=DANFS&gt;{{cite DANFS | url = http://www.history.navy.mil/research/histories/ship-histories/danfs/y/yorktown-ii.html | title = Yorktown | accessdate =18 March 2015 }}&lt;/ref&gt; [[ship breaking|broken up]] at [[Oakland, California]]&lt;ref name=Silverstone /&gt;
+}}
+{{Infobox ship characteristics
+|Ship class={{sclass|Yorktown|gunboat|1}}
+|Ship displacement=*{{convert|1710|LT|MT}}&lt;ref name=Silverstone&gt;Silverstone, p. 67.&lt;/ref&gt;
+*{{convert|1910|LT|MT}} (fully loaded)
+|Ship length=*{{convert|244|ft|5|in|m|abbr=on}} ([[Length overall|oa]])&lt;ref name=Silverstone /&gt;
+*{{convert|230|ft|m|0|abbr=on}} ([[length at the waterline|wl]])&lt;ref name=Silverstone /&gt;
+*{{convert|226|ft|m|0}} ([[length between perpendiculars|lpp]])&lt;ref name=NYT-launch /&gt;
+|Ship beam={{convert|36|ft|m|abbr=on}}&lt;ref name=Silverstone /&gt;
+|Ship height=
+|Ship draft={{convert|14|ft|m|abbr=on}}&lt;ref name=Silverstone /&gt;
+|Ship depth=
+|Ship propulsion=*2 × horizontally mounted [[triple-expansion steam engine]]s,&lt;ref name=Silverstone /&gt; {{convert|3400|ihp|abbr=on}}&lt;ref name=Roberts-155&gt;Bauer and Roberts, p. 155.&lt;/ref&gt;
+*2 × [[screw propeller]]s
+*4 × railroad boilers
+|Ship sail plan=[[schooner rig|three-masted schooner rig]] with a total sail area of {{convert|6300|sqft|m2|abbr=on}}&lt;ref name=NYT-launch /&gt;
+|Ship speed={{convert|16|knots|km/h}}&lt;ref name=Silverstone /&gt;
+|Ship endurance={{endurance|df=yes|3443|nmi|km|10|knots|km/h}}&lt;ref name=Silverstone /&gt;
+|Ship troops=
+|Ship complement=191 officers and enlisted
+|Ship armament=*6 × [[6&quot;/30 caliber gun|{{convert|6|in|adj=on|0}}/30]] [[caliber (artillery)|caliber]] Mark 3 guns
+*2 × [[QF 6-pounder Hotchkiss#American service|6-pounder]] ({{convert|57|mm|in|2|abbr=on}}) guns
+*2 × [[QF 3-pounder Hotchkiss#US service|3-pounder]] ({{convert|47|mm|in|2|abbr=on}}) guns
+*2 × [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|2|abbr=on}}) guns
+*2 × {{convert|.30|in|mm|abbr=on}} machine guns&lt;ref name=DANFS /&gt;
+|Ship armor=*deck: {{convert|0.375|in|mm|1}}&lt;ref name=Silverstone /&gt;
+*[[conning tower]]: {{convert|2|in|mm}}&lt;ref name=Roberts-155 /&gt;
+|Ship notes=
+}}
+|}
+'''USS ''Yorktown'' (Gunboat No. 1/PG-1)''' was [[lead ship]] of [[Yorktown class gunboat|her class]] of steel-hulled, twin-screw [[gunboat]]s in the [[United States Navy]] in the late 19th and early 20th centuries. She was the second U.S. Navy ship named in honor of the [[American Revolutionary War]]'s [[Siege of Yorktown|Battle of Yorktown]].
+
+''Yorktown'' was [[keel laying|laid down]] by [[William Cramp and Sons]] of [[Philadelphia]] in May 1887 and [[launch (ship)|launched]] in April 1888. She was just over {{convert|244|ft|m}} long and {{convert|36|ft|m}} [[beam (nautical)|abeam]], and [[displace (ship)|displaced]] {{convert|1710|LT|MT}}. She was equipped with two [[steam engine]]s which were supplemented with three [[schooner rig|schooner-rigged]] [[mast (ship)|masts]]. The ship's main [[artillery battery|battery]] consisted of six {{convert|6|in|cm|1|adj=on}} guns and was augmented by an assortment of smaller-caliber guns.
+
+At launch, ''Yorktown'' joined the [[Squadron of Evolution]] of &quot;[[New Navy]]&quot; steel-hulled ships. Detached from that squadron, ''Yorktown'', under the command of [[Robley D. Evans]], sailed to [[Valparaíso]], Chile, during the 1891 [[Baltimore Crisis|''Baltimore'' Crisis]] and relieved {{USS|Baltimore|C-3|6}} at that port. After that situation was resolved, ''Yorktown'' took part in the joint British–American sealing patrol in [[Alaska]]n waters and duty on the [[Asiatic Station]] before returning to the United States in 1898. ''Yorktown'' was out of commission during the [[Spanish–American War]], but took part in actions in the [[Philippine–American War]] and the [[Boxer Rebellion]] in 1899 and 1900, respectively, after she had been recommissioned.
+
+After three years out of commission from 1903 to 1906, ''Yorktown'' hosted the [[Secretary of the Navy]] on board when he greeted the [[Great White Fleet]] on its arrival in San Francisco in May 1908. Over the next five years, most of ''Yorktown''{{'}}s time was spent in sealing patrols in Alaska and duty in [[Latin American]] ports. From July 1912, ''Yorktown'' was out of commission for alterations, but resumed duties off the Mexican, Nicaraguan, and Honduran coasts beginning in April 1913. Through [[World War I]], ''Yorktown'' continued in the same role, until she departed for the [[East Coast of the United States]] in April 1918. She served an escort for one convoy headed to [[City of Halifax|Halifax]] in August, and remained in coastal escort duties in the east until January 1919. After arrival at San Diego in February, she was [[decommission (ship)|decommissioned]] for the final time in June 1919; she was sold in 1921 to an [[Oakland, California]], firm and [[ship breaking|broken up]] that same year.
+
+== Design and construction ==
+The ''Yorktown'' class gunboats—unofficially considered third-class cruisers—were the product of a [[United States Navy]] design attempt to produce compact ships with good seakeeping abilities and, yet, able to carry a heavy [[artillery battery|battery]]. ''Yorktown'' was authorized in the 1886 fiscal year, and the contract for her construction was awarded to the [[William Cramp and Sons]] shipyard of [[Philadelphia]]. The hull for ''Yorktown'' was designed by the Navy's [[Bureau of Construction and Repair]] while the mechanical design was left to the Cramp yard.&lt;ref name=Roberts-155 /&gt; ''Yorktown''{{'}}s [[keel laying|keel was laid]] on 14 May 1887.&lt;ref name=Silverstone /&gt;
+
+The ship was [[launch (ship)|launched]] on 28 April 1888 and sponsored by Mary Cameron, the daughter of U.S. Senator [[J. Donald Cameron|Don Cameron]] of [[Pennsylvania]].&lt;ref name=DANFS /&gt; The [[dynamite gun|dynamite-gun]] cruiser {{USS|Vesuvius|1888|2}} was launched a few minutes after ''Yorktown'' in the same ceremony. According to a news account, 25 [[United States Senator]]s, 180 [[United States Representative|Congressmen]], the Secretary of the Navy [[William Collins Whitney]], and the governors of six states attended the dual ceremony, many arriving from [[Washington, D.C.]], via the [[Baltimore and Ohio Railroad]]'s passenger steamer {{SS|Columbia}}.&lt;ref name=NYT-launch&gt;{{cite news | title = The cruisers launched | url = http://query.nytimes.com/mem/archive-free/pdf?res=9A07E5DF1230E633A2575AC2A9629C94699FD7CF | format = PDF | work = The New York Times | date = 29 April 1888 | accessdate =19 April 2009 | page = 1 }}&lt;/ref&gt; By 19 March 1889, Cramp had completed ''Yorktown'' and was prepared to turn her over to the Navy.&lt;ref name=NYT-complete&gt;{{cite news | title = A taste of the spoils | url = http://query.nytimes.com/mem/archive-free/pdf?res=950DE4DB1F3EEF33A2575AC1A9659C94689FD7CF | format = PDF | work = The New York Times | date = 19 March 1889 | accessdate =19 April 2009 | page = 1 }}&lt;/ref&gt;
+
+=== Layout ===
+As built, ''Yorktown'' was {{convert|244|ft|5|in|m}} in [[length overall|length]] and {{convert|36|ft|m|0}} [[beam (nautical)|abeam]]. Her steel hull had an average [[draft (ship)|draft]] of {{convert|14|ft|m|0}},&lt;ref name=Silverstone /&gt; which was expected to give her the ability to escape from larger ships into shallow water.&lt;ref name=NYT-launch /&gt; At the waterline was a turtleback deck of ⅜-inch (9.5&amp;nbsp;mm) steel that formed a watertight seal over the lower spaces. The deck had a crown at the level of the waterline and curved downwards to {{convert|3|ft|m}} below the waterline at the sides of the ship. Below this armored deck were twelve compartments separated by watertight [[bulkhead (partition)|bulkheads]]; the spaces above were equipped with watertight doors intended to be closed during battle.&lt;ref name=NYT-launch /&gt;
+
+Above the armored deck, ''Yorktown'' had [[forecastle]] and [[poop deck|poop]] decks with an open [[gun deck]] that spanned the length of the ship between them. The [[conning tower]] was located forward on the forecastle deck and was oval-shaped to deflect shot. It was outfitted with a steam-powered [[steering wheel (ship)|steering wheel]], an [[engine order telegraph|telegraph]], and speaking tubes; it was protected by {{convert|2|in|mm}} of steel armor plate.&lt;ref name=NYT-launch /&gt;
+
+=== Propulsion ===
+''Yorktown'' was powered by two [[triple-expansion steam engine]]s which each drove one of the pair of {{convert|10.5|ft|m|adj=on}}, three-bladed [[screw propeller]]s. The cylinders of each engine were 22, 31, and 51&amp;nbsp;inches (56, 79, and 130&amp;nbsp;cm) in diameter and had a {{convert|30|in|cm|adj=on}} [[stroke (engine)|stroke]].&lt;ref name=NYT-launch /&gt; Each engine was rated at {{convert|3400|ihp}} and together were designed to move the ship at {{convert|16|knots|km/h}},&lt;ref name=NYT-launch /&gt; though the ship exceeded that in her trials.&lt;ref name=Roberts-155 /&gt;
+
+The engines, situated in separate watertight compartments, were each fed by a pair of coal-fired boilers. Each boiler was horizontally mounted and was {{convert|9|ft|6|in|m}} in diameter and {{convert|17|ft|6|in|m}} in length with a total grate area of {{convert|220|sqin|cm2}}. ''Yorktown''{{'}}s coal bunkers could carry up to {{convert|400|LT|t}} of the fuel, and were shielded from &quot;shot and shell&quot;. At a near top-speed of 16 knots, the ship could cover {{convert|2800|nmi|km}} in 6½ days; at the more economical speed of {{convert|8|knots|km/h}} she could cruiser {{convert|12000|nmi|km}} over 62 days.&lt;ref name=NYT-launch /&gt;
+
+To supplement her steam power plant, ''Yorktown'' was built with three [[mast (ship)|masts]] that were [[schooner rig|schooner-rigged]]. She had a total [[sail area]] of {{convert|6300|sqft|m2}}. The steam and sail combination was expected to allow ''Yorktown'' to remain at sea for months at a time during wartime.&lt;ref name=NYT-launch /&gt;
+
+=== Armament ===
+''Yorktown''{{'}}s main battery consisted of six [[6&quot;/30 caliber gun|{{convert|6|in|adj=on|0}}/30]] caliber Mark 3 guns,&lt;!-- number, size --&gt;&lt;ref name=DANFS /&gt;&lt;ref name=NavWeaps-6in&gt;{{cite web | last = DiGiulian | first = Tony | title = United States of America: 6&quot;/30, 6&quot;/35 and 6&quot;/40 (15.2 cm) Marks 1, 2, 3, 4 and 7  | url = http://www.navweaps.com/Weapons/WNUS_6-30_mk1.htm | work = Naval Weapons of the World | publisher = Navweaps.com | date = 25 December 2008 | accessdate =16 April 2009 }}&lt;/ref&gt;&lt;!-- calibers --&gt;&lt;ref group=Note&gt;The ''30'' denotes the length of the gun barrels; in this case, the gun is 30 [[calibers#Caliber as measurement of length|calibers]], meaning that the gun is 30 times long as it is in diameter.&lt;/ref&gt; with each gun weighing in excess of {{convert|11000|lbs|kg}}.&lt;ref name=NavWeaps-6in /&gt; Two were mounted on the forecastle deck, two on the poop deck, and the other pair amidships on the gun deck. The two guns on the gun deck were mounted {{convert|10|ft|m}} above the waterline, while the other four were {{convert|18|ft|m}} above.&lt;ref name=NYT-launch /&gt; The guns fired {{convert|105|lbs|kg|adj=on}} [[armor-piercing shot and shell|armor-piercing]] [[projectile]]s with a [[propellant]] charge weighing {{convert|18.8|lbs|kg}} at {{convert|1950|ft/s|m/s}}. At an [[elevation (ballistics)|elevation]] of 30.2°, the guns had a range of {{convert|18000|yards|m}}.&lt;ref name=NavWeaps-6in /&gt; Each gun was shielded with steel plating {{convert|3|in|mm}} thick.&lt;ref name=NYT-launch /&gt;
+
+''Yorktown''{{'}}s secondary battery consisted of two [[QF 6-pounder Hotchkiss#American service|6-pounder]] ({{convert|57|mm|in|2|abbr=on}}) guns, two [[QF 3-pounder Hotchkiss#US service|3-pounder]] ({{convert|47|mm|in|2|abbr=on}}) guns, and two [[QF 1 pounder pom-pom|1-pounder]] ({{convert|37|mm|in|2|abbr=on}}) guns.&lt;ref name=Silverstone /&gt; All were based on designs of the French arms company [[Hotchkiss et Cie|Hotchkiss]].&lt;ref name=NYT-launch /&gt; According to a 1902 [[Bureau of Ordnance]] publication, an armor-piercing round fired from a 6-pounder gun could penetrate {{convert|2|in|mm}} of armor at a distance of {{convert|1000|yards|m|sigfig=2}}.&lt;ref name=NavWeaps-6pdr&gt;{{cite web | last = DiGiulian | first = Tony | title = United States of America: 6-pdr (2.72 kg) [2.244&quot; (57&amp;nbsp;mm)] Marks 1 through 13 | url = http://www.navweaps.com/Weapons/WNUS_6pounder_m1.htm | work = Naval Weapons of the World | publisher = Navweaps.com | date = 6 April 2008 | accessdate =16 April 2009 }}&lt;/ref&gt;
+
+== 1889–1897 ==
+[[File:The White Squadron's Farewell Salute to the Body of John Ericsson, New York Bay, August 23, 1890.jpg|thumb|right|''Yorktown'' participated in the ceremonies centered on the repatriation of the remains of [[John Ericsson]] to his native Sweden in August 1890.]]
+The ship was [[commission (ship)|commissioned]] at the [[Philadelphia Navy Yard|League Island (Philadelphia) Navy Yard]] on 23 April 1889 under the command of [[Commander (United States)|Commander]] [[French Ensor Chadwick|French E. Chadwick]].&lt;ref name=DANFS /&gt;
+After ''Yorktown'' conducted her final sea trials, she was assigned to the &quot;[[Squadron of Evolution]]&quot;—sometimes also referred to as the &quot;White Squadron&quot;— in late 1889. ''Yorktown'' operated with that unit as it developed tactical maneuvers for use by the new steel-hulled naval vessels then coming into service in the United States Navy. After this duty, ''Yorktown'' departed the east coast of the United States on 7 December 1889, bound for European waters; stopped briefly at [[Fayal]] in the [[Azores]]; and arrived at [[Lisbon]], Portugal, two days before Christmas. The ship subsequently cruised the [[Mediterranean]] into the early spring of the following year, calling at ports in Spain, Morocco, France, Italy, Greece, and Malta. Following her return to the United States on 17 June 1890, the warship entered drydock at the [[New York Navy Yard]] on 1 July for repairs that lasted until 8 August. Upon the completion of these alterations, ''Yorktown'' took part in the ceremonies marking the embarkation of the remains of the noted inventor, [[John Ericsson]]—of {{USS|Monitor||2}} fame—for transportation back to his native Sweden for burial.&lt;ref name=DANFS /&gt;
+
+''Yorktown'' next again operated in the Squadron of Evolution off the eastern seaboard and into the [[Gulf of Mexico]] into the summer of 1891. Under Acting Rear Admiral [[John Grimes Walker]], the squadron normally cruised in the [[Gulf of Mexico]] from January to April and off the east coast from May to October. While in the gulf, the ships called at [[Galveston, Texas]]; [[New Orleans]]; and [[Pensacola, Florida]]; and carried out target practice in [[Tampa Bay]]. Later, the squadron conducted small arms practice at [[Yorktown, Virginia]], after arriving at [[Hampton Roads]]. In July 1891, the squadron carried out exercises and maneuvers in connection with the [[naval militia]]s of [[New York Naval Militia|New York]] and [[Massachusetts Naval Militia|Massachusetts]] during which it added torpedo attacks upon the Fleet to the usual target practices. In addition, it conducted drills and landing exercises. The [[Secretary of the Navy]]'s report for the fiscal year 1891 noted that &quot;useful experience&quot; had been gained by the Squadron of Evolution in the training of commanding, navigating, and watch officers in skillfully and safely maneuvering vessels in formation and in restricted waters. In addition, engineers were trained in regulating and maintaining economical coal consumption.&lt;ref name=DANFS /&gt;
+
+=== ''Baltimore'' crisis ===
+On 8 October 1891, ''Yorktown'', under the command of Commander [[Robley Dunglison Evans|Robley D. Evans]], departed New York to join the [[Pacific Squadron]]. The gunboat put in to [[Charlotte Amalie, United States Virgin Islands|Charlotte Amalie]], [[Danish West Indies]], to &quot;coal ship&quot; on 14 October. While the ship was engaged in this duty, ''Yorktown'' was ordered to [[Valparaíso]], Chile, in response to the [[Baltimore Crisis|''Baltimore'' Crisis]].&lt;ref name=DANFS /&gt;
+
+During the [[1891 Chilean Civil War]], the [[Itata Incident|''Itata'']], a cargo ship employed by Chilean Congressionalists, had loaded weaponry in California, but was detained in San Diego by U.S. officials.&lt;ref&gt;Hardy, pp. 204–05.&lt;/ref&gt; After ''Itata'' was able to slip away from San Diego,&lt;ref&gt;Hardy, p. 210.&lt;/ref&gt; {{USS|Charleston|C-2|2}} caught up with the ship at the Chilean port of [[Iquique]] in July 1891 and escorted the ship back to San Diego before her cargo could be unloaded.&lt;ref&gt;Hardy, p. 220–21.&lt;/ref&gt; In October, some months after the [[Itata Incident|''Itata'' Incident]] had ended, the American cruiser {{USS|Baltimore|C-3|2}} put in at Valparaíso. On 16 October, a group of sailors from ''Baltimore'' ashore on [[shore leave|liberty]] were attacked by Congressionalists, still angry at the ''Itata'' affair.&lt;ref&gt;Hardy, pp. 198–99.&lt;/ref&gt; Two of ''Baltimore''{{'}}s sailors were killed and eighteen wounded; thirty-six other American sailors were arrested by the local authorities. Tensions ran high in both Chile and the United States.&lt;ref name=DANFS /&gt;
+
+''Yorktown'', a part of the United States' response, departed Charlotte Amalie for Valparaíso on 17 October for a six-week, storm-tossed voyage around the South American continent via the [[Straits of Magellan]]. Less than two weeks after ''Yorktown''{{'}}s 30 November arrival, ''Baltimore'' departed, leaving American interests in the hands of Evans and ''Yorktown''. Over the ensuing weeks, Chile and the United States came close to war, but cooler heads prevailed. Locally, Evans' patience was &quot;dangerously tested&quot;, but it held. One inflammatory incident occurred when Chilean [[torpedo boat]]s bore down on Evans' ship, turning their helms hard over at the last possible instant to avoid a collision. On another occasion, a group of locals threw rocks at Evans and his gig as it lay at the foot of a jetty.&lt;ref name=DANFS /&gt;
+
+After a month at Valparaíso, ''Yorktown'' took on refugees from the American, Spanish, and Italian legations in mid-January 1892. She got underway on the 19th and arrived at [[Callao, Peru]], on the 25th. While ''Yorktown'' lay anchored there, tension between the United States and Chile relaxed and the crisis abated, and the Chilean later government provided compensation for the families of the American sailors that were killed.&lt;ref name=DANFS /&gt;
+
+[[File:Seal rookery, Pribilof Islands, 1891.jpg|thumb|left|''Yorktown'' took part in the sealing patrol that hoped to curb poaching of [[fur seal]]s, like these photographed at the Garbotch rookery, [[Saint Paul Island (Alaska)|Saint Paul Island]], Alaska, in August 1891.]]
+
+=== Sealing patrol ===
+''Yorktown'' stood out of Callao on 4 March 1892, steamed northward via [[San Diego]] and San Francisco, and eventually arrived at the [[Mare Island Navy Yard]], [[Vallejo, California]]. The gunboat subsequently underwent repairs there until late in the following month. Having weathered one diplomatic storm and international incident, Evans and his command soon set sail on another mission that, if handled wrongly, could have caused ill-feeling with the British.&lt;ref name=DANFS /&gt;
+
+That spring, ''Yorktown''—along with two other naval vessels and a trio of [[revenue cutter]]s—headed toward [[Arctic]] waters on 27 April to protect the great herds of seals in the [[Bering Sea]] from poachers. Traveling along the [[west coast of the United States]], the gunboat and her crew &quot;braced&quot;, in Evans' words, &quot;at the prospect of doing something&quot;. As at Valparaíso, Evans faced the possibility of becoming involved in an international incident arising from possible confrontations with Canadian sealers. Operating under the protection of the British crown, the latter had taken particularly heavy catches. Many American vessels put to sea under the British flag in an attempt to evade prosecution by their own government. The British agreed to help put an end to the slaughter of seals and decided upon joint action with the United States in prosecuting the poachers. About 110 schooners, large and small, made up the sealing fleet, typically &quot;armed&quot; with double-barrelled shotguns for killing the animals and Winchester rifles for dealing with any humans who attempted to interfere. The fact that the great majority of seals killed had been female —still with young in many cases—almost doubled the toll of slain seals. As Evans noted: &quot;the slaughter in the North Pacific was fearful&quot;.&lt;ref name=DANFS /&gt;
+
+Arriving at [[Port Townsend, Washington]], on 30 April, ''Yorktown'' put to sea on 13 May, arriving at [[Unalaska, Alaska|Iliuliuk, Unalaska]], one week later. Coaling there, the gunboat skirted the ice floes near the seal rookeries of the [[Pribilof Islands]], reconnoitering the vicinity for sealers. Assisted by a revenue cutter, ''Yorktown'' guarded the passes to the Bering Sea. The crews of the patrolling American ships lacked fresh provisions but carried on in spite of the hardships imposed by both diet and climate. Fresh fish, however, proved abundant. Codfish was the staple with an occasional gourmet treat of salmon.&lt;ref name=DANFS /&gt;
+
+=== Telescopic gunsight ===
+[[File:Bradley A. Fiske cropped.jpg|thumb|right|upright|As a lieutenant, [[Bradley Fiske]] tested a successful telescopic gun sight on ''Yorktown'' in 1892.]]
+Besides the patrols made during this deployment in northwestern waters, ''Yorktown'' conducted routine operations such as target practices. Among the officers assigned to the ship at that time was Lt. [[Bradley Fiske]], a young officer who had invented and constructed a practical telescopic gunsight. Fiske's sight had been tested in ''Baltimore'' and had favorably impressed that ship's officers—including her commander, Captain [[Winfield Scott Schley|Winfeld S. Schley]]. Evans, however, had not taken a liking to Fiske's newfangled gadget but nevertheless consented to allow a second test on board ''Yorktown'' (the first one had failed miserably). On the afternoon of 22 September 1892, during scheduled target practice, Fiske's invention worked as designed and elicited praise from Evans. As Fiske himself later wrote in the [[United States Naval Institute]]'s magazine ''[[Proceedings (magazine)|Proceedings]]'', modern naval gunnery had its birth not in the British Navy but in the American—off Unalaska on 22 September 1892, in ''Yorktown''.&lt;ref name=DANFS /&gt;
+
+''Yorktown'' continued her task of patrolling until 21 September when she departed Unalaska for the [[Mare Island Navy Yard]]. From 11 to 24 October, the ship underwent repairs there before proceeding on to the east coast via [[Cape Horn]]. ''Yorktown'' eventually arrived at [[Norfolk, Virginia]], on 24 February 1893.&lt;ref name=DANFS /&gt;
+
+After repairs at the New York Navy Yard from 25 April to 26 July, ''Yorktown'' retraced her route south and sailed again around Cape Horn back into the Pacific. She then moved north to resume patrolling the Bering Sea. She protected seal rookeries into 1894 before returning to Mare Island for repairs which lasted into mid-September.&lt;ref name=DANFS /&gt;
+
+On 24 September 1894, ''Yorktown'' sailed for the western Pacific and duty on the [[Asiatic Station]]. Sailing via [[Honolulu]], she reached [[Yokohama]], Japan, on 8 December 1894 and spent the next three years, under the command of Commander [[Charles Stockton]] touching at the principal ports-of-call along the coasts of China and Japan. She departed Yokohama early in the autumn of 1897 and made port at Mare Island on 18 November 1897. Subsequently laid up at Mare Island and decommissioned on 8 December, the gunboat remained inactive there through the [[Spanish–American War]] in 1898.&lt;ref name=DANFS /&gt;
+
+== 1898–1903 ==
+Recommissioned on 17 November 1898, with Commander [[Charles S. Sperry]] in command, ''Yorktown'' sailed again for the Far East on 7 January 1899. Rumors of German machinations in Samoa lengthened ''Yorktown''{{'}}s stay at Hawaii from a few days to a few weeks; but, when the anticipated trouble failed to materialize, ''Yorktown'' resumed her voyage to the [[Philippine Islands]]. On 23 February, she arrived at [[Cavite Navy Yard]], near [[Manila]] where patrolled to prevent gun-runners thought to be supplying guns and ammunition to the ''Insurrectos'', Filipinos fighting for independence.&lt;ref name=DANFS /&gt;
+
+At one point, rumors flew concerning possible German gun-running activities; and ''Yorktown'' patrolled off the entrance to Subic Bay and from thence to Lingayen to keep a lookout for the filibusters. She continued coastal patrol work over the next three years, cooperating with the Army, transporting and convoying troops, and patrolling wide areas of often badly charted waters. Upon occasion, ''Yorktown'' served as &quot;mother ship&quot; to smaller gunboats, providing officers and men to staff the smaller patrol craft. Ensigns [[William Harrison Standley]] and [[Harry E. Yarnell]] (both future admirals) and future naval historian and archivist [[Dudley Wright Knox]] were among the junior officers who served in ''Yorktown'' during this time.&lt;ref name=DANFS /&gt;
+
+=== Philippine–American War ===
+{{Main|Philippine–American War}}
+During the [[Philippine–American War]], ''Yorktown'' stood in to [[Baler Bay]], on the west coast of [[Luzon]], on 11 April 1899, on a mission to relieve a Spanish garrison that had been under [[Siege of Baler|siege]] by Filipino troops for nine months. Lt. [[James C. Gillmore]] and a party of sailors in the ship's [[whaleboat]] provided a decoy, ostensibly taking soundings of a nearby river. Meanwhile, Standley and an enlisted man landed farther up the coast to reconnoiter. The next day, Gillmore and his boat crew drifted into a trap, running aground too far from the river's mouth and out of sight of ''Yorktown''. Filipino troops, hidden in the jungle-covered banks, raked the boat with rifle fire. Two American sailors were killed; two were mortally wounded; and the remainder, including Gillmore, were slightly wounded. The survivors were taken prisoner until freed by U.S. Army troops. Standley completed his mission and, together with the enlisted signalman, made it back to the ship.&lt;ref name=DANFS /&gt;
+
+[[File:US Marines in China 1900 HD-SN-99-01986.jpg|thumb|left|[[United States Marine Corps|U.S. Marines]] in China during the [[Boxer Rebellion]]; Marines from ''Yorktown'' participated in operations at [[Tianjin|Tientsin]], June–July 1900.]]
+
+=== Boxer Rebellion ===
+{{Main|Boxer Rebellion}}
+In 1899, the situation in China worsened until it culminated in the [[Boxer Rebellion]]. The following spring, ''Yorktown'' was withdrawn from her patrol duties in the northern Philippines to provide assistance to the operations off the coast of North China. She departed Manila on 3 April 1900, bound for China; and, after she reached the mainland, her landing force served ashore at [[Taku Forts|Taku]].&lt;ref name=DANFS /&gt; In addition, [[United States Marine Corps|Marines]] from ''Yorktown'' participated in the actions at [[Tianjin|Tientsin]] between June and July.&lt;ref&gt;{{cite web | title = Tientsin: The Chinese Reinforce; Allied Assault Delayed | url = http://www.history.navy.mil/docs/boxer/boxer5.htm | work = Documents of the Boxer Rebellion | publisher = Navy Department, Naval Historical Center | date = 13 March 2000 | accessdate =20 April 2009 }} Also: {{cite web | title = Tientsin: The Capture of Tientsin, 13 July 1900 | url = http://www.history.navy.mil/docs/boxer/boxer6.htm | work = Documents of the Boxer Rebellion | publisher = Navy Department, Naval Historical Center | date = 13 March 2000 | accessdate =20 April 2009 }}&lt;/ref&gt; Under the command of [[Commander (United States)|Commander]] [[Edward D. Taussig]] from June 1900 to June 1901, she continued to support the [[China Relief Expedition]] forces.  In June 1900, she assisted {{USS|Oregon|BB-3|2}} back off a reef near that Chinese port.&lt;ref name=DANFS /&gt;
+
+== 1900–1903 ==
+
+The gunboat departed Shanghai on 10 September 1900 and reached Cavite on the 17th. In the Philippines, she resumed her cooperation with Army forces, still engaged in pacification operations, and continued these duties for the next two years. In between pacification missions, she performed survey work: at [[Guam]] in November 1901 and at [[Dumanquillas Bay]], Philippines, in February 1903.&lt;ref name=DANFS /&gt; In April 1902, ''Yorktown''{{'}}s [[Coxswain#Navy|Coxswain]] [[Joseph Quick (Medal of Honor recipient)|Joseph Quick]] rescued a shipmate from drowning while the ship was in port at [[Yokohama]], Japan. For his efforts, Quick was awarded a peacetime [[Medal of Honor]].&lt;ref&gt;{{cite web | title = Interim Awards, 1901–1911 | url = http://www.history.army.mil/html/moh/inter1901-11.html | work = Medal of Honor Recipients | publisher = U.S. Army Center of Military History | date = 27 January 2009 | accessdate =20 April 2009 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | title = Navy Medal of Honor: Interim Period 1901–1910 | url = http://www.history.navy.mil/faqs/moh/moh8.htm | work = The Navy's Medal of Honor | publisher = Navy Department, Naval Historical Center | date = 14 April 1997 | accessdate =20 April 2009 }}&lt;/ref&gt;
+
+''Yorktown'' departed the Far East in early 1903 and returned to Mare Island on 3 June. Two weeks later, on the 17th, she was decommissioned.&lt;ref name=DANFS /&gt;
+
+== 1906–1912 ==
+Recommissioned at Mare Island on 1 October 1906, with Commander Richard T. Mulligan in command, ''Yorktown'' was fitted out there until 9 November. Underway on that day, she operated off the west coasts of Mexico, Honduras, and Nicaragua into the following summer. After repairs at San Francisco and Mare Island, ''Yorktown'' conducted target practice at [[Magdalena Bay]], Mexico, and relieved {{USS|Albany|CL-23|2}} as station ship at [[Acapulco]]. She then cruised with the 2d Squadron of the [[U.S. Pacific Fleet|Pacific Fleet]] to Magdalena Bay and San Francisco. Over the ensuing months, ''Yorktown'' continued her regular local operations.&lt;ref name=DANFS /&gt;
+
+''Yorktown'' hosted the [[Secretary of the Navy]], [[Victor H. Metcalf]], to witness the arrival of the [[Great White Fleet]]—commanded by ''Yorktown''{{'}}s former commander, Robley &quot;Fightin' Bob&quot; Evans—into San Francisco.&lt;ref&gt;Wimmel, p. 230.&lt;/ref&gt;&lt;ref name=Albertson48&gt;Albertson, p. 48&lt;/ref&gt; The fleet arrived on 6 May 1908, and the [[flagship]] {{USS|Connecticut|BB-18|2}} saluted the secretary's flag on ''Yorktown'' with the discharge of seventeen guns. Metcalf also boarded ''Yorktown'' on the 8th to [[Naval review|review]] the assembled battleships, armored cruisers, and torpedo boats of the Pacific and Great White Fleets.&lt;ref name=Albertson48 /&gt;  On 30 May 1908, ''Yorktown'' participated in festivities for the [[Portland Rose Festival|Rose Festival]] at [[Portland, Oregon]]. From June to September, ''Yorktown'' conducted seal patrols in Alaskan waters, out of [[Nome, Alaska|Nome]], [[Unalaska]], and [[Sitka, Alaska|Sitka]] and, between 15 and 19 September, established a site for a wireless station at [[Valdez, Alaska|Valdez]]. Afterwards, ''Yorktown'' sailed south to rejoin the Pacific Fleet, conducting battle practices between 19 November and 1 December at Magdalena Bay. She later joined the armored cruisers {{USS|West Virginia|ACR-5|2}} and {{USS|Colorado|ACR-7|2}} and the tender {{USS|Glacier|AF-4|2}} at [[Acajutla]], El Salvador, before sailing for Corinto, Nicaragua, in March 1909. After more target practices at Magdalena Bay, ''Yorktown'' was repaired at Mare Island in June and into July before shifting to [[Seattle]], to participate in festivities for the [[Alaska-Yukon-Pacific Exposition]]. Later in July, the ship visited [[Esquimalt]], British Columbia. She subsequently cruised off the Pacific coast and participated in the [[Portolá Festival]] at San Francisco in October.&lt;ref name=DANFS /&gt;
+
+From 13 December 1909 to 27 March 1910, ''Yorktown'' operated off Corinto, Nicaragua, with the [[Nicaraguan Expeditionary Squadron]]. She then pursued a schedule of exercises and maneuvers, operating between California and British Columbia through June and July. She returned to a posture of readiness off Corinto and [[San Juan del Sur]] between 13 August and 7 September. She then operated off Ecuadorian, Colombian, and Peruvian ports, with the United States Consul General at Large embarked, between 19 September and 16 October before putting into Panama for coal and stores. She subsequently patrolled at [[Amapala, Honduras]], and the familiar Corinto for most of November and December. She spent Christmas at Corinto before shifting to Amapala, en route to San Francisco and Mare Island. From March to July 1911, ''Yorktown'' cruised off the west coasts of Mexico, Nicaragua, and Honduras. On 29 May, she rescued the survivors from the foundered Panamanian steamer {{SS|Taboga|1898|2}},&lt;ref name=DANFS /&gt; which had sunk with the loss of 60 of its 100 passengers and crew.&lt;ref&gt;{{cite news | title = Sixty passengers drowned | url = http://query.nytimes.com/mem/archive-free/pdf?res=9F02E7DE1E3EE233A25755C2A9639C946096D6CF | format = PDF | work = The New York Times | date = 26 May 1911 | accessdate =20 April 2009 | page = 1 }}&lt;/ref&gt; Another period of repairs and upkeep in the late summer of 1911 proceeded the ship's duties off the Pacific coasts of South and Central America. She returned to Mare Island in May 1912, and was decommissioned there for alterations on 15 July.&lt;ref name=DANFS /&gt;
+
+== 1913–1919 ==
+Recommissioned on 1 April 1913, with Commander George B. Bradshaw in command, ''Yorktown'' operated out of San Diego on shakedown into mid-April. She was soon back at Corinto, however, remaining in Nicaragua until 5 June. After a brief period of operations off the coast, she returned to Corinto on 21 June and remained there for over a month before departing on 31 July to coal at [[Salina Cruz]], Mexico. She moved to [[Mazatlán]] on 10 August and there picked up mail, delivering it to the port of [[Topolobampo, Sinaloa|Topolobampo]], Mexico, on the 11th. ''Yorktown'' remained there until mid-September.&lt;ref name=DANFS /&gt;
+
+For the remainder of 1913, ''Yorktown'' conducted local operations out of San Diego and San Francisco. In January 1914, though, the gunboat returned to Mexican waters and investigated local conditions at [[Ensenada, Baja California|Ensenada]] between 3 and 6 January before moving, in subsequent months, to a succession of Mexican ports: Mazatlán, [[San Blas, Nayarit|San Blas]], [[Miramar, Baja California|Miramar]], Topolobampo, and [[La Paz, Baja California Sur|La Paz]]. Following an overhaul at Mare Island from 24 June to 2 September 1914, ''Yorktown'' served in Mexican waters again into June 1915. From that point until the entry of the United States into [[World War I]] in April 1917, ''Yorktown'' continued her routine of patrols off Mexican, Nicaraguan, and Honduran ports with occasional repairs at Mare Island and maneuvers out of San Diego.&lt;ref name=DANFS /&gt;
+
+[[File:SobrevivientesClipperton.jpg|thumb|right|''Yorktown'' rescued the last surviving members of the [[guano]] mining settlement on [[Clipperton Island]] in July 1917.]]
+After the United States joined the [[Allies of World War I|Allies]], ''Yorktown'' operated off the coast of Mexico until August 1917, when she paused briefly at San Diego. On 18 July 1917, ''Yorktown'' rescued the last surviving members of an abandoned [[guano]] mining settlement on [[Clipperton Island]].  From a peak population of roughly 100 in 1915, only four women and seven children survived.  After her time off the Mexican coast, ''Yorktown'' then cruised off the west coasts of Central and South America into 1918. After a refit at Mare Island, ''Yorktown'', sailed for the east coast on 28 April 1918, transiting the [[Panama Canal]] en route, and arrived at New York on 20 August. The gunboat escorted a coastal convoy to [[City of Halifax|Halifax]], soon there after before returning to New York. She performed local coastwise escort duties through the end of World War I. After a period of upkeep at the [[New York Navy Yard]] in December, she departed the east coast on 2 January 1919 on her last voyage to California.&lt;ref name=DANFS /&gt;
+
+Arriving at San Diego on 15 February 1919, ''Yorktown'' was placed out of commission at Mare Island on 12 June 1919. On 17 June 1920, she was assigned the [[Hull classification symbol|hull number]] ''PG-1''. The veteran steel-hulled gunboat was sold to the Union Hide Company of [[Oakland, California]], on 30 September 1921;&lt;ref name=DANFS /&gt; she was [[ship breaking|broken up]] in Oakland sometime after that.&lt;ref name=Silverstone /&gt;
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{Reflist}}
+
+{{DANFS}}&lt;!-- link omitted because of citation above; sufficient text from DANFS is still included to justify this notice, even though the material is cited above. --&gt;
+
+== Bibliography ==
+{{Refbegin}}
+* {{cite book | last1 = Bauer | first1 = K. Jack | authorlink = K. Jack Bauer | last2 = Roberts | first2 = Stephen S. | authorlink2 = | title = Register of Ships of the U.S. Navy, 1775–1990: Major Combatants | location = New York | publisher = [[Greenwood Press]] | year = 1991 | isbn = 978-0-313-26202-9 | oclc = 24010356 }}
+* {{cite journal | last = Hardy | first = Osgood | title = The Itata Incident | journal = [[Hispanic American Historical Review|The Hispanic American Historical Review]] | volume = 5 | issue = 2 |date=May 1922 | publisher = Board of Editors of the Hispanic American Historical Review | location = [[Baltimore]] | issn = 0018-2168 | oclc = 3518594 }}
+* {{cite book | last = Silverstone | first = Paul H. | title = The New Navy, 1883–1922 | location = New York | publisher = [[Routledge]] | year = 2006 | isbn = 978-0-415-97871-2 | oclc = 63171106 }}
+* {{cite book | last = Wimmel | first = Kenneth | title = Theodore Roosevelt and the Great White Fleet: American Seapower Comes of Age | location = [[Washington, D.C.|Washington]] | publisher = Brassey's | year = 1998 | edition = 1st | isbn = 978-1-57488-153-0 | oclc = 37688348 }}
+{{Refend}}
+
+==External links==
+{{commonscat-inline}}
+
+ &lt;!-- non-breaking space to keep AWB drones from altering the space before the navbox--&gt;
+
+{{Yorktown class gunboats}}
+{{Squadron of Evolution}}
+
+{{good article}}
+
+{{DEFAULTSORT:Yorktown (PG-1)}}
+[[Category:Ships built in Philadelphia]]
+[[Category:1888 ships]]
+[[Category:Philippine–American War ships of the United States]]
+[[Category:Boxer Rebellion naval ships of the United States]]
+[[Category:Banana Wars ships of the United States]]
+[[Category:Yorktown-class gunboats]]
+[[Category:United States Navy Virginia-related ships]]</text>
+      <sha1>6oie811t6ret0s86azsxqon14jkq4l8</sha1>
+    </revision>
+  </page>
+</mediawiki>

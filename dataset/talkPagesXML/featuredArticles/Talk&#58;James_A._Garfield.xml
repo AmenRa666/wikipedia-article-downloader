@@ -1,0 +1,155 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:James A. Garfield</title>
+    <ns>1</ns>
+    <id>19729138</id>
+    <revision>
+      <id>744678301</id>
+      <parentid>744653511</parentid>
+      <timestamp>2016-10-16T19:53:47Z</timestamp>
+      <contributor>
+        <username>Wehwalt</username>
+        <id>458237</id>
+      </contributor>
+      <comment>/* Photograph of Eliza Garfield's portrait at Garfield Site's Visitor Center */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7366">{{Talk header|search=yes}}
+{{User:MiszaBot/config
+|archiveheader = {{talkarchivenav|noredlinks=y}}
+|maxarchivesize = 75K
+|counter = 2
+|minthreadsleft = 5
+|minthreadstoarchive = 2
+|algo = old(30d)
+|archive = Talk:James A. Garfield/Archive %(counter)d
+}}
+{{Auto archiving notice|bot=MiszaBot I |age=30|units=days}}
+{{User:HBC Archive Indexerbot/OptIn
+|target=Talk:James A. Garfield/Archive index
+|mask=Talk:James A. Garfield/Archive &lt;#&gt;
+|leading_zeros=0 |indexhere=yes}}
+{{ArticleHistory|action1=GAN
+|action1date=20:55, 20 May 2011
+|action1link=Talk:James A. Garfield/GA1
+|action1result=listed
+|action1oldid=430096936
+|currentstatus=FA
+|topic=World History
+
+|action2=FAC
+|action2date=2015-05-02
+|action2link=Wikipedia:Featured article candidates/James A. Garfield/archive1
+|action2result=promoted
+|action2oldid=660189705
+
+|otd1date=2011-07-02
+|otd1oldid=437402243
+|otd2date=2014-07-02
+|otd2oldid=615160072
+}}
+{{WikiProjectBannerShell|1=
+{{WP1.0|class=FA|importance=Mid|v0.7=pass|category=History|WPCD=yes}}
+{{WikiProject Biography|living=no
+|class = FA
+|politician-priority=High
+|politician-work-group=yes
+|military-work-group=yes
+|military-priority=mid
+|listas=Garfield, James A.
+}}
+{{WikiProject Cleveland|class = FA|importance=high}}
+{{WikiProject Military history|class = FA|Biography=yes
+&lt;!-- 1. It is suitably referenced, and all 
+major points are appropriately cited. --&gt;
+|B-Class-1=Yes
+&lt;!-- 2. It reasonably covers the topic, and 
+does not contain major omissions or inaccuracies. --&gt;
+|B-Class-2=yes
+&lt;!-- 3. It has a defined structure, including 
+a lead section and one or more sections of content. --&gt;
+|B-Class-3=yes
+&lt;!-- 4. It is free from major grammatical errors. --&gt;
+|B-Class-4=yes
+&lt;!-- 5. It contains appropriate supporting materials, 
+such as an infobox, images, or diagrams. --&gt;
+|B-Class-5=yes
+|US-task-force=yes
+|ACW-task-force=yes
+}}
+{{WikiProject Politics|class = FA|importance=High}}
+{{WikiProject United States|class = FA|importance=High|OH=yes|OH-importance=High|DC=yes|DC-importance=low|USGov=yes|USGov-importance=mid|USPresidents=yes|USPresidents-importance=mid|USPE=Yes|USPE-importance=Low|listas=Garfield, James A.}}
+{{WikiProject U.S. Congress|class = FA|importance=mid}}
+}}
+{{OhioSB}}
+
+== Images ==
+
+I thought I'd do a couple restorations to celebrate this reaching FA, but what do you think of this one instead of the existing Civil War image? It has a lot more gravitas, I think. http://www.loc.gov/pictures/resource/cwpbh.00947/ I'm also somewhat eyeing http://www.loc.gov/pictures/resource/cwpbh.03743/ for the lead, but think the current lead image isn't bad... &lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;'''[[User:Adam Cuerden|Adam Cuerden]]''' &lt;sup&gt;([[User talk:Adam Cuerden|talk]])&lt;/sup&gt;&lt;/span&gt; 21:34, 26 May 2015 (UTC)
+:No opinion on the Civil War image, I will leave that for {{u|Coemgenus}}.  I like the present lede image, you can see more of his face, and you get so tired of those Gilded Age profile shots.--[[User:Wehwalt|Wehwalt]] ([[User talk:Wehwalt|talk]]) 21:55, 26 May 2015 (UTC)
+:: I'm kind of partial to the current lede image, too, but I do like that new Civil War picture. --[[User:Coemgenus|Coemgenus]] ([[User talk:Coemgenus|talk]]) 01:52, 27 May 2015 (UTC)
+:::I kind of like both possible lead images, so let's use the current lead and the new Civil War. Presuming there's not major issues I discover when I start them. Would you like any of the others as well? the Library of Congress has about 200 images that come up when you search him ( http://www.loc.gov/pictures/search/?q=James%20Garfield ) , but, of course, a number of those are false hits. Although that said, please see http://www.loc.gov/pictures/item/2015645630/ and http://www.loc.gov/pictures/item/2015645629/ and, on a different tack, http://www.loc.gov/pictures/item/brh2003000492/PP/ or http://www.loc.gov/pictures/resource/cwpbh.04855/ - which might make interesting additions.  &lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;'''[[User:Adam Cuerden|Adam Cuerden]]''' &lt;sup&gt;([[User talk:Adam Cuerden|talk]])&lt;/sup&gt;&lt;/span&gt; 06:38, 27 May 2015 (UTC)
+::: If we could improve the picture of Lucretia, that would be great. I think there's room for one of Guiteau, too. I like the one of Garfield with his kid, if we can fit it in without crowding the text. --[[User:Coemgenus|Coemgenus]] ([[User talk:Coemgenus|talk]]) 12:23, 27 May 2015 (UTC)
+::::I'm starting on the Civil War one. Judgement: Annoying! But quite doable. It's one of the ones that has lots of minor damage, and a few more major challenges. If anyone wants to learn basic restoration, I could probably teach you using it, though - I could do the major challenges, then supervise you through the easy-but-repetitive part. &lt;span style=&quot;text-shadow:grey 0.118em 0.118em 0.118em; class=texhtml&quot;&gt;'''[[User:Adam Cuerden|Adam Cuerden]]''' &lt;sup&gt;([[User talk:Adam Cuerden|talk]])&lt;/sup&gt;&lt;/span&gt; 12:57, 27 May 2015 (UTC)
+
+== Presidential ranking - why so laudatory? ==
+
+&quot;Despite the effectiveness of his term, Garfield is little-remembered in the American cultural memory other than for his assassination; historians often forego listing him in rankings of U.S. presidents due to the short length of his presidency.&quot;
+
+Actually, most of the historian rankings do give Garfield a ranking, and they are generally fairly '''bad''' rankings. How does this square with the beginning of the article which seems to put him in a uniformly positive light?!  &lt;small class=&quot;autosigned&quot;&gt;—&amp;nbsp;Preceding [[Wikipedia:Signatures|unsigned]] comment added by [[Special:Contributions/116.24.11.172|116.24.11.172]] ([[User talk:116.24.11.172|talk]]) 14:57, 13 August 2015 (UTC)&lt;/small&gt;&lt;!-- Template:Unsigned IP --&gt; &lt;!--Autosigned by SineBot--&gt;
+
+== Senator-elect in infobox ==
+
+No question Garfield was senator elect, but I don't think it should be in the infobox as he was never sworn in.  And the dates are wrong, he did not stay senator-elect until March, he resigned (renounced?) so the general assembly could elect [[John Sherman]] without loss of seniority.--[[User:Wehwalt|Wehwalt]] ([[User talk:Wehwalt|talk]]) 11:10, 8 May 2016 (UTC)
+:I'd leave it out. It's not an actual office, and there are plenty of offices he did hold that make the infobox quite large already. --[[User:Coemgenus|Coemgenus]] ([[User talk:Coemgenus|talk]]) 12:33, 8 May 2016 (UTC)
+
+== Photograph of Eliza Garfield's portrait at Garfield Site's Visitor Center ==
+There is a painted portrait of [[Eliza Garfield]] in the [[James A. Garfield National Historic Site]]'s Visitor Center.  I have placed a photograph request at Eliza's article &amp; at the Center's articles but am also posting about my request here.  Eliza died when she was only a toddler, I could find no photographs of her, just this one painting.  I did find a photo of it on Flikr but that had too many restrictions.  So far as I know the painting was done outside of any possible copyright restrictions since Eliza died in 1863, so if anyone could help out that would be great. Thanks, [[User:Shearonink|Shearonink]] ([[User talk:Shearonink|talk]]) 16:38, 16 October 2016 (UTC)
+:I wonder if it is simply a reproduction of A two dimensional art work and therefore the photographer would not be able to place additional restrictions on it.--[[User:Wehwalt|Wehwalt]] ([[User talk:Wehwalt|talk]]) 19:53, 16 October 2016 (UTC)</text>
+      <sha1>e0e55776jeqe2remeqboca2trfxd15s</sha1>
+    </revision>
+  </page>
+</mediawiki>

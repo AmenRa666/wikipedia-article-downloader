@@ -1,0 +1,179 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Spanker (1889)</title>
+    <ns>0</ns>
+    <id>37026333</id>
+    <revision>
+      <id>687437855</id>
+      <parentid>685243149</parentid>
+      <timestamp>2015-10-25T16:09:10Z</timestamp>
+      <contributor>
+        <username>Nigel Ish</username>
+        <id>3000221</id>
+      </contributor>
+      <comment>fix infobox error</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7917">{{EngvarB|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{otherships|HMS Spanker}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image= [[File:HMS Spanker (1889).jpg|300px]]
+| Ship caption=
+}}
+{{Infobox ship career
+| Hide header=
+| Ship country= United Kingdom
+|Ship flag=[[Image:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+| Ship name= HMS ''Spanker''
+| Ship ordered=
+| Ship builder= [[HMNB Devonport|Devonport Dockyard]]
+| Ship laid down= 12 April 1888
+| Ship launched= 22 February 1889
+| Ship acquired=
+| Ship commissioned= 17 October 1890
+| Ship reclassified= [[Minesweeper (ship)|Minesweeper]] in 1909
+| Ship decommissioned=
+| Ship in service=
+| Ship out of service=
+| Ship struck=
+| Ship reinstated=
+| Ship honours=
+| Ship fate=Sold in 1920 for breaking
+| Ship notes=
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Header caption=
+| Ship class= {{sclass|Sharpshooter|torpedo gunboat}}
+|Ship displacement=735 tons
+|Ship length= {{convert|242|ft|m|abbr=on}} [[Length overall|oa]], {{convert|230|ft|m|abbr=on}} [[Length between perpendiculars|pp]]
+|Ship beam= {{convert|27|ft|m|abbr=on}}
+|Ship height=
+|Ship draught= {{convert|8|ft|6|in|m|abbr=on}}
+|Ship power=*{{convert|2500|ihp|kW|abbr=on|lk=in}} (natural draught)
+*{{convert|3600|ihp|kW|abbr=on}} (forced draught)
+|Ship propulsion=
+*2 × triple-expansion steam engines
+*Locomotive boilers (replaced c. 1897 by Du Temple boilers)
+*2 × screws
+|Ship speed= {{convert|19|kn|km/h|abbr=on}}
+|Ship range= {{convert|2500|nmi|km|abbr=on}} at {{convert|10|kn|km/h|abbr=on}}
+|Ship endurance=
+|Ship complement= 91
+|Ship armament=*''As torpedo gunboat'':
+* 5 × {{convert|14|in|mm|adj=on}} torpedo tubes (3 reloads)
+* 2 × [[QF 4.7 inch Gun Mk I - IV|QF {{convert|4.7|in|cm|sing=on}} guns]]
+* 4 × 3-pounder guns
+*''As minesweeper'':
+* 2 × [[QF 4.7 inch Gun Mk I - IV|QF {{convert|4.7|in|cm|sing=on}} guns]]
+* 4 × 3-pounder guns
+* minesweeping gear
+| Ship notes=
+}}
+|}
+
+'''HMS ''Spanker''''' was a [[Sharpshooter class torpedo gunboat|''Sharpshooter''-class]] [[torpedo gunboat]] of the [[Royal Navy]]. She was launched in 1889, converted to a minesweeper in 1909 and sold for breaking in 1920.
+
+==Construction==
+''Spanker'' was laid down at Devonport Dockyard on 12 April 1888 and launched on 22 February 1889. She was commissioned at Devonport on 17 October 1890.&lt;ref name=RW/&gt; It was common for the officers of smaller vessels with poor accommodation to be housed in the local guardship, and ''Spanker''{{'}}s officers were borne in {{HMS|Indus|1839|2}}.&lt;ref name=PB/&gt;
+
+Her class were fitted with 2 sets of triple-expansion steam engines, and in ''Spanker''{{'}}s case these were built by G E Bayliss &amp; Co. She was fitted at build with locomotive boilers, but these were replaced with water-tube Du Temple boilers some time between 1895 and 1898.&lt;ref name=RW/&gt; The bottom of these boilers, unlike normal Du Temple boilers, were cylindrical with end doors, instead of with bolted covers.&lt;ref name=&quot;MarineEngines&quot;&gt;{{cite book | title=Marine Steam Engines | publisher=Longmans, Green and Co. | author=Sennett, Richard | year=1899 | page=96 | isbn=9783861954590}}&lt;/ref&gt; Twin screws propelled her at up to {{convert|19|kn|lk=in}} with forced draught.&lt;ref name=RW/&gt;
+
+==Service==
+===Naval manoeuvres (1892)===
+During naval manoeuvres in 1892 ''Spanker'' and the [[monitor (warship)|monitor]] {{HMS|Gorgon|1871|2}} were disabled by leaky boilers and defective steering gear.&lt;ref&gt;{{cite news | title=British and Foreign | work=Southland Times | date=26 July 1892 | accessdate=14 September 2012 | page=2}}&lt;/ref&gt;
+
+===Naval Review (1897)===
+She was present at the Naval Review at Spithead in celebration of Queen Victoria's Diamond Jubilee on 26 June 1897.&lt;ref name=PB&gt;{{cite web|url=http://www.pbenyon.plus.com/18-1900/S/04319.html|title=Naval Database|accessdate=23 September 2012}}&lt;/ref&gt;
+
+[[File:Spanker.png|thumb|right|''Spanker'' as a torpedo gunboat pre-1909]]
+===Naval manoeuvres (1900)===
+She was mobilised for naval manoeuvres on 10 July 1900.&lt;ref name=PB/&gt; Lieutenant T. Brandreth was appointed in command 14 January 1902, when she served in the Channel Fleet.&lt;ref&gt;{{Cite newspaper The Times |articlename=Naval &amp; Military intelligence |day_of_week=Thursday |date=16 January 1902 |page_number=7 |issue=36666| }}&lt;/ref&gt;
+
+===Diving experiments (1906)===
+In 1906, ''Spanker'' took part in a [[Royal Navy]] investigation of deep-sea diving. Lieutenant Damant and Gunner Catto, from the ''Spanker'', descended into a Scottish loch in diving-suits to the depth of {{convert|210|ft}}, at that time a record for the British Isles.&lt;ref name=&quot;soda&quot; /&gt; The former records were held by employees of [[Siebe Gorman|Messrs Siebe and Gorman]], London, who, in a patented dress, descended {{convert|189|ft}} and {{convert|192|ft}}.&lt;ref name=&quot;soda&quot;&gt;{{cite news | title=Dive of 210 feet – record in British Navy experiments | work=Poverty Bay Herald | date=24 October 1906 | accessdate=14 September 2012 | page=6}}&lt;/ref&gt;
+
+===Conversion to minesweeper (1909)===
+In 1909 she and four of her sister ships were converted to minesweepers.&lt;ref name=RW/&gt; The torpedo tubes were removed, but the ships retained their guns. The minesweeping equipment constituted a [[Paravane (weapon)|kite]] winch and [[A-Frame|gallows]] fitted on the quarterdeck. She was assigned to the North Sea Fisheries as a tender to {{HMS|Halcyon|1894|2}} under the orders of the Admiral Commanding Coast Guard and Reserves.&lt;ref name=NMM/&gt;&lt;ref name=PB/&gt;
+
+===World War I===
+On 15 April 1913 ''Spanker'' was recommissioned at Portsmouth and served throughout World War I. From 1914, under Lieutenant Commander N M C Thurstan and then Lieutenant Commander F C Corbyn, she served in the North Sea.&lt;ref name=NMM/&gt; From 1917, under the command of Lieutenant H Annall RNR, she formed part of the 13th Fast Minesweeping Flotilla at Oban.&lt;ref group=Note&gt;The 13th Minesweeping Flotilla comprised the ''Sharpshooter''-class vessels ''Spanker, Speedwell, Skipjack'' and ''Gossamer'' and the {{sclass|Alarm|torpedo gunboat|0}} vessels ''Leda'' and ''Circe''. The flotilla was &quot;fast&quot; in contrast with the other Oban-based minesweeping flotilla, the 14th, which was composed of 4 paddle minesweepers.&lt;/ref&gt;&lt;ref name=NMM&gt;{{cite web|url=http://www.rmg.co.uk/upload/pdf/Warship_Histories_Vessels_x.pdf|title=Warship histories at the National Maritime Museum|accessdate=23 September 2012}}&lt;/ref&gt;
+
+{{Quote box
+|quote = The ship lying near the roadside was the ''Spanker'' ... The ship was on service all through the war, and still wears her drab active service colours, which, however, are now much weather-worn. Her fittings and gear, too, were rusty, and the ship looked a typical old veteran, which fact possibly gave her an added interest to the longshoremen, while the youngsters never missed an opportunity to roam around the vessel. Now the ''Spanker'' has moved across to the other side of the harbour, alongside all that remains of a sister ship, and soon she, too, will be reduced to a mass of broken and twisted metal, which may, possibly, some day, help in building another vessel.
+|source = ''Ilfracombe Chronicle'', Saturday 10 July 1920
+|width = 300px
+|fontsize = 75%
+|salign = right
+}}
+
+==Fate==
+By 1919 she was listed on the disposal list as a first class gunboat.&lt;ref name=PB/&gt; She was sold on 20 March 1920 to the Cornish Salvage Company of Ilfracombe for breaking.&lt;ref name=RW&gt;Winfield (2004) p.305&lt;/ref&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==References==
+{{reflist}}
+*{{winfield}}
+
+{{Commons category|Sharpshooter class torpedo gunboat}}
+
+{{Sharpshooter class torpedo gunboat}}
+
+{{DEFAULTSORT:Spanker, HMS}}
+[[Category:1889 ships]]
+[[Category:Plymouth-built ships]]
+[[Category:Sharpshooter-class torpedo gunboats]]
+[[Category:Victorian-era gunboats of the United Kingdom]]
+[[Category:World War I minesweepers of the United Kingdom]]
+[[Category:Minesweepers of the Royal Navy]]</text>
+      <sha1>pq9qyfrk35ur7s53d7lp3vrz0krewsv</sha1>
+    </revision>
+  </page>
+</mediawiki>

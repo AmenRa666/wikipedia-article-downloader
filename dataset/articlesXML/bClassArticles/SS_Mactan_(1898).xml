@@ -1,0 +1,210 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>SS Mactan (1898)</title>
+    <ns>0</ns>
+    <id>39610104</id>
+    <revision>
+      <id>747636669</id>
+      <parentid>735084005</parentid>
+      <timestamp>2016-11-03T14:01:19Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Hospital Ship */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="21819">{|{{Infobox ship begin}}
+|+
+{{Infobox ship image
+|Ship image=[[File:Mactan—AWM303558.jpg|300px]]
+|Ship caption=Aerial starboard side view of the American hospital ship, Sydney, NSW. 23 April 1942.
+}}
+{{Infobox ship career
+|Hide header=
+|Ship name=*''Mactan'' (1928)
+*''Hai Kong'' (1915—1928)
+*''Moura'' (1899—1915)
+*''North Lyell'' (1899){{sfn|Lloyd's Register 1941-42|}}{{sfn|Tyne Built Ships|}}
+|Ship owner=*Compañía Marítima (Philippines) (1928)
+*Douglas Steamship Company (1915—1928)
+*Union Steamship Company (1899—1915){{sfn|Lloyd's Register 1941-42|}}{{sfn|Tyne Built Ships|}}
+|Ship operator= Compañía Marítima, Fernandez Bros, Manila{{sfn|Lloyd's Register 1941-42|}}
+|Ship registry=United States (Philippines){{sfn|Lloyd's Register 1941-42|}}
+|Ship route=Manila, Cebu, Dumaguete, Cagayan, Dipolog, Zamboanga, Jolo, Zamboanga, Cotabato{{sfn|Larsson|2009|}}
+|Ship ordered=
+|Ship builder=[[Armstrong Whitworth|Armstrong Whitworth &amp; Co., Ltd.]], Newcastle{{sfn|Lloyd's Register 1941-42|}}
+|Ship original cost=
+|Ship yard number=688, Low Walker{{sfn|Tyne Built Ships|}}
+|Ship way number=
+|Ship laid down=
+|Ship launched=28 December 1898{{sfn|Neal|1899|p=474}}
+|Ship completed=February 1899{{sfn|Tyne Built Ships|}}
+|Ship christened=
+|Ship acquired=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship identification=
+|Ship fate=Scrapped 1956 in Hong Kong{{sfn|Tyne Built Ships|}}
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage={{GRT|2067}}{{sfn|Lloyd's Register 1941-42|}}
+|Ship displacement=
+|Ship length={{convert|300|ft|m|abbr=on}}{{sfn|Lloyd's Register 1941-42|}}
+|Ship beam={{convert|40.6|ft|m|abbr=on}}{{sfn|Lloyd's Register 1941-42|}}
+|Ship height=
+|Ship draught={{convert|20.1|ft|m|abbr=on}}{{sfn|Lloyd's Register 1941-42|}}
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=two sets, 4 crank, triple expansion engines, twin screw{{sfn| Otago Witness | 1899 |p=46}}
+|Ship speed=10-12 knots{{sfn|Tyne Built Ships|}}{{sfn| Masterson | 1949 |p=47}}
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+|}
+'''SS ''Mactan''''' was launched 28 December 1898 as the passenger/cargo ship ''North Lyell'' for [[North Mount Lyell|North Mount Lyell Copper Co.Ltd.]] intended for service between the west coast of [[Tasmania]] and [[Melbourne]]. The company no longer needed the ship on delivery in 1899 with resulting sale to [[Union Company|Union Steamship Company]] of New Zealand Ltd. and renaming as ''Moura''. In 1915 upon sale to the Douglas Steamship Company, Ltd. of [[Hong Kong]] she was renamed ''Hai Hong''. Upon sale to Philippine operators in 1928 the ship gained the final name ''Mactan''.{{sfn|Neal|1899|p=474}}{{sfn|Lloyd's Register 1941-42|}}{{sfn|Tyne Built Ships|}}{{sfn|Lunney|1995|pp=140—141}}{{sfn|TheShipsList|}}
+
+As ''Mactan'' the ship made news and history during the first months of war in the Pacific 1941-1942 as the first hospital ship, under charter to the [[American Red Cross]] through its [[Philippine Red Cross]] representative, in the [[South West Pacific theatre of World War II|Southwest Pacific Area]]. On a single voyage as the improvised hospital ship ''Mactan'' she evacuated 224 critically wounded patients, &quot;the worst cases,&quot; along with a number of Filipino doctors and nurses serving with the Army, a U.S. Army doctor and two Army nurses from the burning city of Manila just prior to its occupation by Japanese troops.{{sfn| Condon-Rall | 1998 |p=26}}{{sfn| Masterson | 1949 |p=47}}{{sfn| Bykofsky | 1990 |p=456}}
+
+==Commercial service==
+Union Steam Ship Company at the turn of the century operated a coastal New Zealand service with its main service in the [[Tasman Sea]] and [[Bass Straits]]. At the time it was venturing into extended service into the Pacific islands and even a San Francisco/Vancouver Royal Mail service. A 1907 newspaper timetable shows the ship on a [[Fiji]] route.{{sfn| Union Steam Ship Company—The Southern Octopus | 2010 |p=}}{{sfn| Timetable (''New Zealand Herald'' 25 February 1907) | 1907 |p=}}{{sfn|TheShipsList|}} Service in the Philippines was as an inter-island vessel with later references associated with the acquisition by the Red Cross as a hospital ship mentioning the copra trade.{{sfn|Larsson|2009|}}{{sfn|Angel On Embattled Seas|2011|}}
+
+==World War II==
+
+===Hospital Ship===
+On 23 December [[Douglas MacArthur|General MacArthur]]  decided to evacuate Manila, which he had declared an open city on 18 December, and on Christmas Eve he and his headquarters evacuated the city. Patients and medical personnel had begun moving to Bataan. On 25 December most of the medical personnel remaining had evacuated and by the 28th the facilities on Corregidor had become overcrowded with the last patients and personnel evacuated from Manila on New Year's Eve. MacArthur directed that the worst cases be selected for an attempt to evacuate them to Australia.{{sfn|Morton|1993|p=164}}{{sfn| Condon-Rall | 1998 |pp=25—26}} Douglas Steamship Company operated a coastal China trade.
+
+The U.S. Army had chartered the ''Mactan'' only days earlier but the urgent need to evacuate those most severely wounded patients led to the ship being chartered by the Red Cross under an agreement being brokered with Japan through Swiss intermediaries. Another ship, the ''Apo'', had been intended to serve but was unobtainable so that the choice fell to having the ''Mactan'', under captain Julian Tamayo, released from Army charter. [http://www.dnd.gov.ph/DNDWEBPAGE_files/past-snd/valdes.html Major General Basilio J. Valdes], commanding the Philippine Army and [[Manuel L. Quezon|President Quezon]] had worked with MacArthur's headquarters in that process with the ''Mactan'', an interisland [[copra]] ship, being located and designated on 28 December. Red Cross Field Director Irving Williams represented the Red Cross. The ship had been unloading supplies at Corregidor when she was recalled to Manila to be quickly be painted white with Red Cross markings, supplied and finally load patients on the afternoon of 31 December. Two-hundred and twenty-four  patients left behind at [[Sternberg General Hospital]] in Manila were selected and, under the terms, only three U.S. military personnel other than patients were allowed on board; Army surgeon Colonel Percy J. Carroll and Army nurses, Lt. Floramund A. Fellmeth and Lt. Florence MacDonald. Before sailing the ship's description and proposed course had been made known to the Japanese government, contraband items were thrown overboard and the ship was inspected by the Swiss Consul for compliance with the [[Hague Conventions of 1899 and 1907|Hague convention of 1907]].{{sfn| Condon-Rall | 1998 |pp=25—26}}{{sfn| Korson | 1945 |pp=16-36}}{{sfn| Forster | 1990 |pp=}}
+
+Although functioning as a hospital ship with Colonel Carroll and Lt. Fellmeth organizing the Filipino doctors and nurses into shifts the ship was not equipped as a hospital ship. Medical supplies had been hurriedly loaded. Patients were packed aboard with many on open decks and close to the ship's rails. The operating room was the ship's saloon. Of more concern, there was still, and never was, official Japanese government or military confirmation that the ship was recognized as a hospital ship and had been granted safe passage. Though final clearance had come from the [[International Red Cross]] in Geneva there was only official silence after the director of the Japanese Red Cross in Tokyo, [[Prince Shimadzu]], had noted within Red Cross channels that the ship's status would be respected.{{sfn| Korson | 1945 |pp=16-36}}{{sfn| Forster | 1990 |pp=}}
+
+There was a delay as the ship did not have necessary charts and the [[U.S. National Geodetic Survey|Coast and Geodetic Survey]] offices had been destroyed. A plan was made to have the Army transport [[USAT Don Esteban|''Don Esteban's'']] charts transferred as the ship left the breakwater. Shortly after midnight and the New Year ''Mactan'' got underway, still without Japanese reply of a clearance and safe passage, and in the light of the burning city and gasoline dumps at [[Pandacan, Manila|Pandacan]] anchored to wait for ''Don Esteban'' and the charts. Even though the charts delivered were more general than desirable the ship weighed anchor to meet a U.S. naval vessel for guidance through the [[mine fields]] defending Manila Bay.{{sfn| Korson | 1945 |pp=16-36}} ''Mactan'' was the last American civilian ship to leave.&lt;ref&gt;{{cite book|author=Dorothy Cave|title=Beyond Courage: One Regiment Against Japan, 1941-1945|url=https://books.google.com/books?id=uvP0jo8rURMC&amp;pg=PA91|year=2006|publisher=Sunstone Press|isbn=978-0-86534-559-1|page=91}}&lt;/ref&gt;
+
+In the Sulu Sea the presence of a dangerous reef&lt;ref group=Note&gt;The name used is &quot;Pearl Reef&quot; with a general description fitting [[Tubbataha Reef]].&lt;/ref&gt; and passing it at night was cause to turn back and steam slowly to pass the reef in daylight even though that increased contact with Japanese forces already in northeastern [[Borneo]] and [[Davao City|Davao]] on [[Mindanao]] with still no confirmation of Japanese safe passage. The reef and string of islands marking the entrance to the [[Celebes Sea]] were passed safely in daylight of 3 January when the news of Manila's occupation by Japanese troops arrived along with the beginnings of a storm. The news caused considerable distress as the Filipino medical personnel and wounded aboard had left family there and the storm caused distress on open decks, soaking cots and sending some near the ship's rail. One man died in emergency amputation during the storm.{{sfn| Korson | 1945 |pp=16-36}}
+
+The next day the ship was entering the [[Makassar Strait]] the captain informed the Red Cross representative the ship was dangerously low on both fuel and water so that it was necessary to put in to the port of [[Makassar]], one that was not on the route given the Japanese and a deviation possibly giving an excuse to attack. Meanwhile, official Japanese radio in Tokyo was reporting MacArthur wounded in the right shoulder and speculating that he was aboard the hospital ship heading to Australia.{{sfn| Korson | 1945 |pp=16-36}}{{sfn| Stubborn Fighting In Philippines | 5 January 1942 |pp=}}
+
+Arriving the next day the ''Mactan'' then spent five days in the port as United States authorities tried to determine the best course of action and consulted with Australian authorities. On 9 January, with two already dead, the ship was instructed to proceed to [[Darwin, Northern Territory|Darwin]], Australia. There the ship was escorted into harbor by an Australian gunboat to a welcome that included supplies and &quot;towels, chocolate, cookies, and comfort articles&quot; by the  [[Australian Red Cross]] and Northern Territory officials. With Darwin itself threatened instructions were given to proceed to Sydney with stops at [[Townsville]] and [[Brisbane]]. On the way to Townsville a brief fire on 15 January caused concern but was put out. The Australian Red Cross again provided assistance and the ship arrived Brisbane 24 January. There the ship and its patients were greeted by residents turned out on the river banks and hills cheering and, on tying up, by the American consul, the commander of the American base at Brisbane and other U.S. officials and learned U.S. troops had arrived there earlier.&lt;ref group=Note&gt;The [[Pensacola Convoy]] had arrived on 22 December.&lt;/ref&gt;{{sfn| Korson | 1945 |pp=16-36}}
+ 
+''Mactan'' departed the next day, 25 January, for Sydney. Shortly after one man apparently commuted suicide by going overboard from a cot near the rail. With exception of a strong storm the ship made Sydney on 27 January to be greeted by ships and residents, U.S. and Australian officials and the Australian Army with stretchers and Australian [[Red Cross Motor Corps]] with ambulances. In less than two hours the patients had been evacuated to an Australian Army hospital.{{sfn| Korson | 1945 |pp=16-36}}
+
+Director Williams now represented the [[American Red Cross]] in Australia and began locating the Filipino doctors and nurses in Australian hospitals, assisted the crew in settling and finding work and began negotiating the ship's disposal and began setting up the Red Cross support for U.S. troops in and arriving in Australia.{{sfn| Korson | 1945 |pp=16-36}}
+
+===Other service===
+Though Masterson notes the charter as being cancelled in February 1942 and, the ship being considered unseaworthy, was converted by Australians into a floating warehouse other sources note that ''Mactan'' was converted to a Red Cross service facility and recreation vessel for Army officers in Sydney.{{sfn| Masterson | 1949 |p=47}}{{sfn|Floating Service Club|1943}}{{sfn|Lunney|1995|pp=140—141}}
+
+[[File:Mactan-AWM P04853.071.jpg|thumb|right|''Mactan'' (S-188) of the Small Ships Section, United States Army Services of Supply, Southwest Pacific Area (USA SOS SWPA).]]
+
+In January 1943 the Army again acquired the ship in for its [[South West Pacific Area (command)|Southwest Pacific Area]] Small Ships Section of the permanent local fleet and converted some cargo space into troop accommodations. ''Mactan'', designated with the Small Ships number S-188, was station ship in New Guinea and served as quarters and headquarters of the commanding general of the [[South West Pacific Area (command)#U.S. Army Services of Supply|United States Army Services of Supply, Southwest Pacific Area (USASOS SWPA)]].{{sfn| Masterson | 1949 |p=47}}{{sfn|US Army Small Ships Section United States Army Services Of Supply (USASOS) In Australian Waters During WWII}} Lunney notes ''Mactan'' departed [http://www.satelliteview.co/?lid=2144869_AU_HBAY_04&amp;place=Walsh-Bay-Australia Walsh Bay] 8 August 1943 for [[Battle of Milne Bay#Geography|Waga Waga]], [[Milne Bay]] with August 1943 with two professional barbers, a chef formerly of Sydney's Hotel Carlton and a rare ice cream machine.{{sfn|Lunney|1995|pp=140—141}} On 29 November 1944 ''Mactan'' left [[Jayapura|Hollandia]] for a return to home waters carrying the advance headquarters of USASOS SWPA where she served as quarters vessel at [[Tacloban|Tacloban, Lyete]]. The ship, needing extensive repairs, was retired and about to be returned to its Philippine owners on 1 September 1945 after again serving the Army as an interisland transport.{{sfn| Masterson | 1949 |pp=47—48}}&lt;ref group=Note&gt;Some references indicate the ship was U.S. Navy or acquired by the Navy. Those appear to be in error, a common one where many Army ships were ''assumed'' to be Navy, as a search of Naval Historical and Heritage Command (including [http://www.history.navy.mil/danfs/m1-list.htm DANFS]) makes no mention of such use and Army records the ship's Army use from the few days before the brief (and probably necessary formality) Red Cross charter in late December 1941 until release back in the Philippines 1 September 1945. Occasional references to the hospital ship &quot;USS ''Mactan''&quot; are completely in error as no such ship was ever commissioned during the war or post war years.&lt;/ref&gt;
+
+The ship was scrapped in Hong Kong in 1956.{{sfn|Tyne Built Ships|}}
+
+== Notes ==
+{{reflist|group=Note}}
+
+== References ==
+{{reflist |2}}
+
+==References cited==
+{{refbegin|30em}}
+*{{cite web |url=http://mydigimag.rrd.com/article/Angel_On_Embattled_Seas/620338/59192/article.html |title=Angel On Embattled Seas |author= |date=May 29, 1990 |work=American Legion Auxiliary — Volume 1 February 2011 |publisher=American Legion Auxiliary |accessdate=7 June 2013}}
+*{{cite book |last1=Bykofsky |first1=Joseph |last2=Larson |first2=Harold |year=1990 |title=The Technical Services—The Transportation Corps: Operations Overseas |series=United States Army In World War II |location=Washington, DC |publisher=Center Of Military History, United States Army |isbn= |lccn=56-6000 |page=}}
+*{{cite book |last1=Condon-Rall |first1=Mary Ellen |last2=Cowdrey |first2=Albert E. |year=1998 |title=The Technical Services—The Medical Department: Medical Service In The War Against Japan |series=United States Army In World War II |location=Washington, DC |publisher=Center Of Military History, United States Army |isbn= |lccn=97022644  |page= |ref=harv}}
+*{{cite web |url=http://trove.nla.gov.au/ndp/del/article/61841771 |title=Floating Service Club |author= |date=9 February 1943 |work= |publisher=''Townsville Daily Bulletin'' |accessdate=7 June 2013}}
+*{{cite web |url=http://memory.loc.gov/cgi-bin/query/r?ammem/mfdip:@field%28DOCID+mfdip2007for01%29 |title=Interview with Cliff Forster |author=Forster, Cliff |date=May 29, 1990 |work=The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training |publisher=Library of Congress, Manuscript Division, Washington, D.C. 20540 USA |accessdate=7 June 2013}}
+*{{cite book |last= Grover |first= David |title= U.S. Army Ships and Watercraft of World War II |publisher= [[Naval Institute Press]] |year= 1987 |isbn= 0-87021-766-6|ref=harv}})
+*{{cite book |title=At His Side The Story Of The American Red Cross Overseas In World War II (1945) |last=Korson |first=George |authorlink= |coauthors= |year=1945 |publisher= Coward—McCann, Inc. |location=New York |isbn= |page=41 |pages= |url=https://archive.org/details/athissidethestor027200mbp |accessdate=7 June 2013 |ref=harv}}
+*{{cite web |url=http://www.timetableimages.com/maritime/images/cm.htm |title=Compañía Marítima |author=Larsson, Björn |date=April 7, 2009 |work=Maritime Timetable Images |publisher=Björn Larsson |accessdate=7 June 2013}}
+*{{cite book |title=Lloyd's Register |last= |first= |authorlink= |coauthors= |year=1942–1943 |publisher=Lloyd's Register |location= |isbn= |page= |pages= |url=http://www.plimsollshipdata.org/pdffile.php?name=42b0549.pdf |accessdate=7 June 2013|ref=harv}}
+*{{cite book |last1= Lunney |first1= Bill |last2=Finch |first2=Frank |title=Forgotten Fleet|page=|publisher=Forfleet Publishing|location=Medlowie NSW, Australia |year= 1995 |isbn= 0-646-26048-0}})
+*{{cite book |title=U. S. Army Transportation In The Southwest Pacific Area 1941-1947  |last=Masterson |first=Dr. James R. |authorlink= |coauthors= |year=1949 |publisher=Transportation Unit, Historical Division, Special Staff, U. S. Army |location=Washington, D. C. |isbn= |url= |accessdate=7 June 2013|ref=harv}}
+*{{cite journal |last1=Neal |first1=William George (Editor) |last2= |first2= |year=1899 |title=Marine Engineer and Naval Architect (1899) |journal=Marine Engineer and Naval Architect (1899) |volume=XX |issue=April 1898 - March 1899 |page=46 |publisher=Marine Engineering, Shipbuilding, Steam Navigation and Electrical Engineering. London |doi= |url=https://archive.org/details/marineengineera09unkngoog |accessdate=7 June 2013 }}
+*{{cite journal |last1=Otago Witness |first1= |last2= |first2= |year=1899 |title=The ''North Lyell'' |journal=Otago Witness |volume= |issue=2366, 29 June 1899 |page=46 |publisher=The National Library of New Zealand—Papers Past |doi= |url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;d=OW18990629.2.138.4 |accessdate=7 June 2013 }}
+*{{cite web |url=http://trove.nla.gov.au/ndp/del/article/68748425 |title=Stubborn Fighting In Philippines |author= |date=5 January 1942 |work= |publisher=''Advocate'' (Burnie, Tasmania)  |accessdate=7 June 2013}}
+*{{cite web |url=http://www.theshipslist.com/ships/lines/douglas.shtml |title=TheShipsList—Douglas Steamship Company, Ltd., Hong Kong, 1883-1976 |date=November 10, 2007 |work=TheShipsList |publisher=TheShipsList |accessdate=7 June 2013}}
+*{{cite web |url=http://www.nzshipmarine.com/history/companies |title=Union Steam Ship Company—The Southern Octopus |date=May 5, 2010 |work=New Zealand Marine History |publisher=New Zealand Ship and Marine Society |accessdate=7 June 2013}}
+*{{cite web |url=http://paperspast.natlib.govt.nz/cgi-bin/paperspast?a=d&amp;d=NZH19070225.2.3.2 |title=Timetable (''New Zealand Herald'' 25 February 1907) |date=25 February 1907 |work=''New Zealand Herald'', Volume XLIV, Issue 13421 |publisher=''New Zealand Herald'' |accessdate=7 June 2013}}
+*{{cite web |url=http://www.tynebuiltships.co.uk/N-Ships/northlyell1899.html |title=North Lyell |author=Tyne Built Ships |date= |work=Tyne Built Ships: A history of Tyne shipbuilders and the ships that they built |publisher= |accessdate=7 June 2013}}
+*{{cite web |url=http://www.ozatwar.com/usarmy/usarmysmallships.htm |title=US Army Small Ships Section United States Army Services Of Supply (USASOS) In Australian Waters During WWII |date= |work=AUSTRALIA @ WAR |publisher=WWW.OZATWAR.COM |accessdate=7 June 2013}}
+
+{{refend}}
+
+==External links==
+* [http://www.tynebuiltships.co.uk/N-Ships/northlyell1899.html Tyne Built Ships: A history of Tyne shipbuilders and the ships that they built (''North Lyell'')]
+* [http://philippinediaryproject.wordpress.com/2012/12/31/the-great-escape-of-the-s-s-mactan/ The Great Escape of the S.S. ''Mactan'': December 31, 1941]
+* [http://philippinediaryproject.wordpress.com/1941/12/29/december-29-1941-monday-2/ Diary of Basilio J. Valdes, December 29, 1941 – Monday]
+* [http://philippinediaryproject.wordpress.com/1941/12/30/december-30-1941-tuesday/ Diary of Basilio J. Valdes, December 30, 1941 – Tuesday]
+
+==Other reading==
+* ''Mactan, Ship of Destiny'', Noyer, William L., 1979, Rainbow Press, Fresno, California [http://lccn.loc.gov/79067032 LCCN 79067032]
+
+{{DEFAULTSORT:Mactan}}
+[[Category:1898 ships]]
+[[Category:Tyne-built ships]]
+[[Category:Merchant ships of the Philippines]]
+[[Category:Hospital ships in World War II]]
+[[Category:South West Pacific theatre of World War II]]
+[[Category:Military history of the Philippines during World War II]]
+[[Category:Transport ships of the United States Army]]</text>
+      <sha1>kqht6joz2g4bl3qxcbw43mdx07yl5is</sha1>
+    </revision>
+  </page>
+</mediawiki>

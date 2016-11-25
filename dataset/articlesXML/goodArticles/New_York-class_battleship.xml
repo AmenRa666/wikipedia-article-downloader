@@ -1,0 +1,397 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>New York-class battleship</title>
+    <ns>0</ns>
+    <id>1545414</id>
+    <revision>
+      <id>747890287</id>
+      <parentid>747883016</parentid>
+      <timestamp>2016-11-05T00:22:39Z</timestamp>
+      <contributor>
+        <username>The ed17</username>
+        <id>1100608</id>
+      </contributor>
+      <comment>/* Construction */ speed = propulsion, in this case</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="27357">{{good article}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:USS New York-1.jpg|300px]]
+|Ship caption=USS ''New York'', the lead ship of the class, shortly after entering service in 1915.
+}}
+{{Infobox ship class overview
+|Name=''New York''-class battleship
+|Builders=
+*[[Brooklyn Navy Yard]]
+*[[Newport News Shipbuilding Company]]
+|Operators={{flag|United States|1912}}
+|Class before={{sclass-|Wyoming|battleship|4}}
+|Class after={{sclass-|Nevada|battleship|4}}
+|Subclasses=
+|Built range=1911–1914
+|In commission range=1914–1946
+|Total ships building=
+|Total ships planned=2
+|Total ships completed=2
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=2
+|Total ships preserved=1
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption={{sfn|Gardiner|Gray|1985|p=115}}
+|Ship type=[[Battleship]]
+|Ship displacement=
+* {{cvt|27000|LT|t|lk=on|0}} (standard)
+* {{cvt|28367|LT|t|0}} (full load)
+|Ship length=
+* {{cvt|573|ft|lk=on}} ([[overall length|overall]])
+* {{cvt|565|ft|0}} ([[Waterline length|waterline]])
+|Ship beam={{cvt|95|ft|2.5|in}}
+|Ship draft=
+* {{cvt|28|ft|6|in}} (mean)
+* {{cvt|29|ft|7|in}} (max)
+|Ship power=
+* 14 × [[Babcock &amp; Wilcox]] [[coal-fired]] [[boiler]]s with oil spray (8 with [[superheater|superheating]])
+* {{cvt|28100|shp|lk=on|0}}
+|Ship propulsion=
+* 2 × vertical [[triple-expansion steam engine]]s
+* 2 × [[Propeller|screws]] 
+|Ship speed={{cvt|21|kn|lk=on}} 
+|Ship range= {{cvt|7060|nmi|mi km|-1}} at {{cvt|10|kn}}
+|Ship complement=1,042 officers and men
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+* 10 × [[14&quot;/45 caliber gun|{{cvt|14|in|0}}/45 caliber guns]]  
+* 21 × [[5&quot;/51 caliber gun|{{cvt|5|in|0}}/51 caliber guns]]
+* 4 × [[QF 3-pounder Hotchkiss#US service|3-pounder {{cvt|47|mm|2}}/40]] caliber [[Saluting gun#Heavy arms: gun salutes|saluting guns]]
+* 2 × [[QF 1-pounder pom-pom#United States|1-pounder {{cvt|37|mm|2}}]] guns
+* 4 × [[Bliss-Leavitt Mark 3 torpedo|{{cvt|21|in|0}}]] [[torpedo tube]]s (submerged)
+|Ship armor=
+*[[Belt armor|Belt]]: {{cvt|10|-|12|in|0|lk=on}}
+*Lower [[Casemate#Naval|casemate]]: {{cvt|9|-|11|in|0}}
+*Upper casemate: {{cvt|6.5|in|0}}
+*[[Barbette]]s: 10–12 in
+*[[Turret]] face: {{cvt|14|in|0}}
+*Turret top: {{cvt|4|in|0}}
+*Turret side: {{cvt|2|in|0}}
+*Turret rear: {{cvt|8|in|0}}
+*[[Deck (ship)|Deck]]s: 2 in
+*[[Conning tower]]: 12 in, 4 in (top)
+|Ship aircraft=
+|Ship notes=
+}}
+|}
+
+The '''''New York'' class''' of [[battleship]] was a [[Ship class|class]] of ships designed and constructed by the [[United States Navy]] between 1908 and 1914. The two ships of the class, {{USS|New York|BB-34|2}} and {{USS|Texas|BB-35|2}}, each saw extensive service beginning in the [[United States occupation of Veracruz|occupation of Veracruz]], [[World War I]], and [[World War II]].
+
+Designed as a more heavily armed improvement over the previous {{sclass-|Wyoming|battleship|4}}, the ''New York'' class was the first battleship to feature the [[14&quot;/45 caliber gun|{{convert|14|in|adj=on|0}}/45 caliber gun]], but was one of the last battleship classes designed with several features, including a five-turret layout and coal for fuel. The class also suffered several deficiencies such as a lack of [[anti-aircraft]] weaponry and armor layout, which were addressed with the subsequent {{sclass-|Nevada|battleship|4}}. Because of these deficiencies, both ships saw several extensive overhauls over the course of their careers which greatly changed their profiles.
+
+Both ''New York'' and ''Texas'' entered service in 1914 and immediately served in the occupation of [[Veracruz, Veracruz|Veracruz]], and service reinforcing the [[Royal Navy]]'s [[Grand Fleet]] in the [[North Sea]] during World War I, during which time ''New York'' is believed to have sunk a [[U-boat]] in an accidental collision. Both ships undertook numerous training exercises and overhauls during the interwar era, and joined the [[Neutrality Patrol]] at the beginning of World War II. Outmoded by more advanced battleships in service, both ships served primarily as convoy escorts and [[naval artillery]] during the war. ''New York'' supported [[Operation Torch]] in [[North Africa]], undertook convoy patrols and training in the Atlantic, and supported the [[Battle of Iwo Jima]] and the [[Battle of Okinawa]]. ''Texas'' supported Operation Torch, [[Operation Overlord]], the [[bombardment of Cherbourg]], [[Operation Dragoon]] and the battles at Iwo Jima and Okinawa. Following the war, ''New York'' was used as a target ship in [[Operation Crossroads]] and sunk as a target in 1948, while ''Texas'' was converted into a [[museum ship]], and remains permanently moored in [[San Jacinto State Park]] today.
+
+==Background==
+The ''New York'' class was the fifth of 11 separate classes planned by the United States Navy between 1906 and 1919, a total of 29 battleships and 6 battlecruisers. Virtually the entire American battle line was being designed from [[pre-dreadnought]] experience and observation of foreign designs.{{sfn|Friedman|1985|p=96}} The design of the ''New York''-class battleship originated in the 1908 [[Newport Conference]], which resulted in a new method for battleship design, with the [[General Board]] taking a more active role in the design process of ships, and the navy's [[Board on Construction]] would implement the design instead of creating it. While the ''New York'' class was mostly designed by the Board on Construction, lessons learned on the class allowed the General Board to take the lead on the following {{sclass-|Nevada|battleship|2}}s.{{Sfn|Friedman|1985|p=85}}
+
+The Newport Conference established a general consensus among leaders that US Navy ships should carry larger batteries in response to the increasing caliber of battleships in other countries, notably the [[BL 13.5 inch Mk V naval gun]] which had been introduced by the Royal Navy's {{sclass-|Orion|battleship|4}}, as well as the [[Imperial German Navy|German Navy]]'s shift from {{convert|28|cm|in|0|adj=on}} to {{convert|30.5|cm|in|0|adj=on}} guns. There was debate at the time as to whether the {{sclass-|Florida|battleship|2}}s, [[laid down]] in 1909, should carry heavier armament than the [[12&quot;/45 caliber Mark 5 gun|{{convert|12|in|adj=on|0}}/45 caliber Mark 5 gun]].{{Sfn|Friedman|1985|p=85}} Ultimately, on 30 March 1909, [[US Congress]] approved the construction of two &quot;Design 601&quot; battleships, also known as Battleship 1910 with six 12-inch turrets, which the General Board had selected over two 14-inch designs in 1909. These would become the {{sclass-|Wyoming|battleship|4}}.{{Sfn|Friedman|1985|p=88}} At the same time, the General Board began planning for the next class of ships, and on 21 April 1909 decided on two battleships with similar sizes, and after some debate about main guns approval of two battleships was granted on 24 June 1910.{{Sfn|Friedman|1985|p=93}} In 1911 the [[US Senate]]'s Naval Affairs Committee suggested reducing the size of the ships as part of a $24,000,000 budget reduction, but [[Secretary of the Navy]] [[George von Lengerke Meyer]] fought to keep the original design and the ships were not altered.{{Sfn|Friedman|1985|p=95}}
+
+The class is generally referred to as the ''New York'' class,{{sfn|Gardiner|Gray|1985|p=115}}{{sfn|Friedman|1985|p=88}} but it is also occasionally called the ''Texas'' class because ''New York'' was completed several months after her sister, ''Texas''.{{sfn|Kearns|Morris|1998|p=414}}
+
+==Design==
+
+=== General characteristics ===
+As designed, the ships had a [[standard displacement]] of {{cvt|27000|LT|t|lk=on|0}} and a [[full-load displacement]] of {{cvt|28367|LT|t}}. They were {{cvt|573|ft|lk=on}} in [[length overall]], {{cvt|565|ft}} [[length at the waterline|at the waterline]], and had a [[beam (nautical)|beam]] of {{cvt|95|ft|6|in}} and a [[draft (nautical)|draft]] of {{convert|28|ft|6|in}}.{{sfn|Gardiner|Gray|1985|p=115}} The ships underwent significant changes and increases in armor and armament over their operational lives. Following her fourth and final refit in 1943, ''New York'' increased her displacement to {{cvt|29340|LT|t}} standard and {{cvt|34000|LT|t}} full-load.{{sfn|Banks|2002|p=33}} The final refit for ''Texas'' came in 1945, after which she displaced {{cvt|29500|LT|t}} standard and {{cvt|32000|LT|t|}} at full load.{{sfn|Powers|1993|p=133}} As designed, the ships had a crew complement consisting of 1,042 officers and enlisted men.{{sfn|Gardiner|Gray|1985|p=115}} By 1945, ''Texas'' was carrying 1,723 officers and enlisted men with the addition of crews for additional weapons as well as a new complement of [[USMC|Marines]].{{sfn|Powers|1993|p=134}}
+
+=== Armament ===
+[[File:USS Texas13a.jpg|thumb|250px|Turrets 1 and 2 aboard ''Texas'', showing the 14-inch guns. The ''New York'' class was the first US Navy ship type to carry this heavy gun.]]
+[[File:Popular science monthly (1872) (14596330249).jpg|thumb|150px|3&quot;/50 caliber antiaircraft gun on platform atop a boat crane on ''Texas'', installed in 1916 and said to be the first AA gun installation on a US battleship.]]
+The main battery of the class consisted of ten 14-inch/45 caliber guns, arrayed in five twin turrets designated 1, 2, 3, 4, and 5. As constructed, these turrets had an elevation of 15 degrees, but this was increased to 30 degrees during an overhaul in 1940–1941. The class was the last to feature a turret mounted amidships.{{sfn|Bonner|1996|p=28}}{{sfn|Friedman|2008|p=299}} In 1910 the US Navy's Bureau of Ordnance had successfully designed and tested its 14-inch naval gun.{{sfn|Gardiner|Gray|1985|p=115}} The gun proved to have remarkable accuracy and uniformity of pattern. The ''New York'' class was the fifth class of US dreadnought battleship design created, and work had already started on the sixth design, the {{sclass-|Nevada|battleship|4}}. By 1910 no US [[dreadnought]] class battleship had yet hit the water, as all were either at some stage of building or in design. Virtually the entire US Navy battle line was being designed by drawing on experience from pre-dreadnought designs or from observation of foreign battleship designs.{{Sfn|Friedman|1985|p=96}}
+
+As built, both ships also carried 21 [[5&quot;/51 caliber gun|{{convert|5|in|adj=on|0}}/51 caliber guns]] arrayed ten to a side with one in the stern, primarily for defense against [[destroyer]]s and [[torpedo boat]]s.{{sfn|Bonner|1996|p=28}} Many of the 5-inch guns were poor in accuracy in rough seas due to being mounted near the ends of the ship and below the main deck.{{sfn|Bonner|1996|p=115}}{{sfn|Friedman|2008|p=304}} The ships were not designed with [[anti-aircraft]] (AA) defense in mind, and with the development of [[naval aviation]], this was seen as a serious drawback to the class.{{sfn|Bonner|1996|p=28}} The ''New York'' class was the first US battleship to mount anti-aircraft guns, with two [[3&quot;/50 caliber gun|{{convert|3|in|adj=on|0}}/50 caliber guns]] mounted on platforms on top of the boat cranes of ''Texas'' in 1916.{{sfn|Gardiner|Gray|1985|p=115}} In 1918, the secondary armament was reduced to 16 5-inch/51 caliber guns, eight to a side, as the guns near the ends of the ship were difficult to work in any kind of sea. When both ships were refitted 1925-26, AA defense was increased with eight 3-inch/50 caliber guns arrayed four to a side.{{sfn|Bonner|1996|p=28}} Six of the 16 remaining 5-inch guns were relocated higher in the ship to new casemates on the main deck.{{sfn|Gardiner|Gray|1985|p=115}} The ''New York'' class also initially featured four [[torpedo tube]]s, 1 each on the port side bow and stern and starboard bow and stern, for the [[Bliss-Leavitt Mark 3 torpedo]], instead of the previous two, because of advances in torpedo performance increasing the prominence of the weapon. The torpedo rooms held 12 [[torpedo]]es total, plus 12 [[naval mine|naval defense mines]].{{sfn|Friedman|1985|p=436}} However, the torpedo tubes were removed in the 1925-26 refit.{{Sfn|Friedman|1985|p=95}}
+
+Magazine and machinery spaces were enclosed in the protected hull. Magazine volume was reduced for increased machinery, with each magazine accommodating 75 to 80 shells and charges, while more shells were carried in their turrets and handling rooms.{{Sfn|Friedman|1985|p=93–94}}
+
+In 1937 eight [[1.1&quot;/75 caliber gun|{{convert|1.1|in|adj=on|0}}/75 caliber]] AA guns in two quadruple mounts were added to improve the light AA armament. The ships were more extensively refitted with large amounts of light AA guns at the expense of the 5-inch/51 caliber guns in 1942, as the [[attack on Pearl Harbor]] had shown pre-war light AA armament to be inadequate. The 1.1 inch quad mounts were removed and 24 [[Bofors 40 mm gun]]s were added in six quadruple mounts (later increased to 40 guns), while 42 [[Oerlikon 20 mm gun]]s in single mounts were also added. The 3-inch AA gun armament was increased to 10 guns, while the 5-inch gun armament was reduced to 6 guns.
+
+===Armor===
+The ships continued the armor suite of the ''Wyoming'' class with minor improvements. The deck armor scheme would continue to remain distinctly inferior to the succeeding ''Nevada'' class with their [[All or Nothing (Battleship armour)|all or nothing]] armor scheme. However the leap forward in range provided by improved fire control was not yet envisioned and had it been there would not have been time to include it within the current design. The ship provided a {{cvt|12|in|0}} belt tapering to {{cvt|10|in|0}} and {{cvt|6.5|in|0}} casemate armor with internal partitioning.{{Sfn|Friedman|1985|p=97–99}} The ''New York'' class was the first to incorporate an armored central [[plotting room]] below decks, but atop the protective deck, and enclosed in a thin box of splinter armor.{{Sfn|Friedman|1985|p=93–94}}
+
+Armor on the ''New York'' class consisted of [[belt armor]] from 10 to 12 inches thick. Their lower [[casemate]]s had between {{cvt|9|in|0}} and {{cvt|11|in|0}} of armor, and their upper casemate had {{cvt|6|in|0}} of armor. Deck armor was {{cvt|2|in|0}} thick, and turret armor was 14 inches on the face, {{cvt|4|in|0}} on the top, 2 inches on the sides, and {{cvt|8|in|0}} on the rear. Armor on her [[barbettes]] was between 10 and 12 inches. Conning towers were protected by 12 inches of armor, with 4 inches of armor on the tops.{{sfn|Gardiner|Gray|1985|p=115}} In all, the armor totaled {{cvt|261.67|t}} on the upper casemate, {{cvt|1680.33|t}} on the lower casemate, {{cvt|1549.16|t}} along the belt, {{cvt|127.42|t}} on the bulkheads, {{cvt|1,322.11|t}} on the splinter deck, {{cvt|2,085.39|t}} on the barbettes, and {{cvt|856.11|t}} on the conning tower for a total protection of {{cvt|8,120.62|t}}.{{Sfn|Friedman|1985|p=102}}
+
+=== Propulsion ===
+The ships were powered by 14 [[Babcock &amp; Wilcox]] [[coal-fired]] [[boiler]]s driving two dual-acting [[vertical triple expansion|triple expansion]] reciprocating steam engines, with {{cvt|28100|shp|lk=on|0}} producing a maximum speed of {{cvt|21|kn|lk=on}}. They had a [[range (aircraft)|range]] of {{cvt|7060|nmi|mi km|-1}} at {{cvt|10|kn}}.{{sfn|Gardiner|Gray|1985|p=115}} Initially, designs called for a 14 percent increase in power to {{cvt|32000|shp}} over the {{cvt|28000|shp}} of the preceding class.{{Sfn|Friedman|1985|p=93–94}} However, it was discovered that greater propulsive efficiency of the reciprocating engine allowed a reduction in installed power, needing only 28,100 shp to make 21 knots.{{Sfn|Friedman|1985|p=26}}
+
+The ''New York'' class was the final class of US battleship to be powered by coal. The class was designed to carry {{cvt|2850|LT}} of coal, the most of any battleship class. In 1910, the succeeding battleships of the ''Nevada'' class were designed with fuel oil in mind.{{sfn|Banks|2002|p=10}} Both ships were converted to carry fuel oil in 1926, and had a capacity of {{cvt|5200|LT}} of oil. Six new [[Bureau Express]] oil-fired boilers replaced the 14 older design coal-fired boilers at that time with no loss of power.{{sfn|Powers|1993|p=134}}
+
+== Construction ==
+[[File:New York 2405649896 ab66402479 o.jpg|left|thumb|250px|''New York'' under construction in 1912]]
+Funding for the battleships was authorized by a 24 June 1910 act, which called for the ships to cost no more than $6,000,000. The act also specified new labor policies for their construction which put strict limits on labor hours and working conditions for shipyard employees.{{sfn|Banks|2002|p=27}} Bids were solicited only for Battleship No. 35, ''Texas'', on 27 September 1910, while Battleship No. 34, ''New York'', was to be built by [[New York Navy Yard]]. Bids opened for No. 35 on 1 December.{{Sfn|Friedman|1985|p=95}} Ultimately [[Newport News Shipbuilding Company]] won the contract with a bid of $5,830,000.{{sfn|Ferguson|2007|p=35}} Battleship No. 35 began construction first, on 17 April 1911, launched 18 May 1912, and completed on 12 March 1914. Battleship No. 34 was laid down on 11 September 1911, launched on 30 October 1912, and completed on 15 April 1914.{{sfn|Gardiner|Gray|1985|p=115}}
+
+By 1926, the ''New York'' class was considered obsolete compared with other battleships in service, so both ships received a complete refit. While several other battleships in service, including {{USS|Utah|BB-31|2}} and {{USS|Florida|BB-30|2}} were converted to training ships or scrapped, ''New York'' and ''Texas'' were chosen to be overhauled to increase their speed, armor, and armament, in accordance with the [[Washington Naval Treaty]] of 1922.{{sfn|Banks|2002|p=32}} An additional {{cvt|3000|LT}} were added for defense against aerial targets and submarines. Her 14 coal-fired boilers were replaced by six Bureau Express oil-fired boilers and the twin funnels were trunked into one, aft of the forward superstructure. Tripods were fitted in place of the [[lattice mast]]s, and atop the forward tripod a control tower was installed. A tower was built amidships that contained additional fire control to backup the system on the foremast. A new [[aircraft catapult]] was installed atop turret Number 3, and cranes were installed on either side of the funnel for boat and aircraft handling. Additional deck protection was added, and each ship's beam was widened. The ships were fitted with [[anti-torpedo bulge]]s, though these made maneuvering harder at low speeds and both rolled badly, and gunfire accuracy was reduced in rough seas.{{sfn|Banks|2002|p=33}}
+
+==Service history==
+
+===USS ''New York''===
+[[File:USS New York-4.jpg|thumb|''New York'' (right) during training in 1932]]
+{{main article|USS New York (BB-34)}}
+
+Shortly after commissioning, ''New York'' became flagship for the [[United States occupation of Veracruz]] in 1914.{{sfn|Bonner|1996|p=116}} During World War I, she became flagship of [[United States Battleship Division Nine (World War I)|Battleship Division 9]], commanded by Rear Admiral [[Hugh Rodman]].{{sfn|Bonner|1996|p=117}} Sent to reinforce the British Grand Fleet in the North Sea, she conducted [[blockade]] and [[Convoy|escort]] duties.{{sfn|Bonner|1996|p=118}} She twice came into contact with [[Empire of Germany|German]] U-boats, and is believed to have accidentally sunk one.{{sfn|Banks|2002|p=31}}{{sfn|Rodman|1927|p=271}} She returned to the United States at the end of the war, and began taking on patrol and training duties.{{sfn|Banks|2002|p=32}} ''New York'' was fitted with [[XAF RADAR]] in February 1938, including the first United States [[duplexer]] so a single antenna could both send and receive.{{sfn|Macintyre|1967|p=73}}
+
+She was a part of the Neutrality Patrol following the outbreak of World War II, and In September 1939, and spent the beginning of the war escorting convoys between New York and Iceland.{{sfn|Bonner|1996|p=119}}{{sfn|Banks|2002|p=35}} She saw action supporting Operation Torch, the Allied invasion of North Africa, where she targeted shore batteries threatening the landings in November 1942.{{sfn|Banks|2002|p=35}}{{sfn|Bonner|1996|p=120}} She remained in convoy patrol and training for several years,{{sfn|Bonner|1996|p=121}}{{sfn|Banks|2002|p=37}} until she was moved to the [[US Pacific Fleet|Pacific Fleet]] late in the war and supported landings on Iwo Jima in February 1945,{{sfn|Banks|2002|p=37}} and later the invasion of Okinawa in April 1945.{{sfn|Bonner|1996|p=122}} She was lightly damaged by a ''[[kamikaze]]'' attack in this battle.{{sfn|Banks|2002|p=40}} Following the war, she was used as a target ship during Operation Crossroads and subsequently studied for its effects, before being sunk as a target in 1948.{{sfn|Banks|2002|p=38}}{{sfn|Kearns|Morris|1998|p=293}}
+
+===USS ''Texas''===
+[[File:USS Texas BB-35.jpg|thumb|right|''Texas'' at her permanent berth in [[San Jacinto State Park]], where she remains as a [[museum ship]] ]]
+{{main article|USS Texas (BB-35)}}
+''Texas'' also participated in the occupation of Veracruz for several months in 1914,{{sfn|Powers|1993|p=11}} before conducting training and upgrades to become the first ship of the US Navy to mount anti-aircraft weapons.{{sfn|Friedman|1985|p=177}} She conducted convoy patrols early in World War I and was the first US ship to fire on a German one during a convoy mission in 1917.{{sfn|Powers|1993|p=11}} She joined other US battleships in reinforcing the British fleet near the end of the war and was present for the German surrender.{{sfn|Powers|1993|p=11}} In the inter-war period she became one of the first battleships to launch and operate aircraft,{{sfn|Hone|Hone|2006|p=94–95}} and frequently alternated her time between the Atlantic and Pacific waters on training exercises.{{sfn|Powers|1993|p=17}}
+
+She was part of the Neutrality Patrol at the beginning of World War II and supported Allied landings at North Africa, and then conducted convoy patrol duty to North African and European ports throughout 1943.{{sfn|Powers|1993|p=24}} On 6 June 1944, she supported Operation Overlord, covering [[Allies of World War II|Allied]] landings on the beaches of [[Normandy, France]],{{sfn|Kearns|Morris|1998|p=414}} in particular the battle at [[Pointe du Hoc]].{{sfn|Powers|1993|p=26}} Later that month on 25 June, she supported the bombardment of Cherbourg and there was damaged when she was hit with a German artillery shell.{{sfn|Harrison|1951|p=519}} In July she moved to support [[Operation Dragoon]], the Allied invasion of southern France. Following extensive repairs and training, she moved to the Pacific and supported the invasion of Iwo Jima in February 1945. She then moved to support landings on Okinawa in April.{{sfn|Powers|1993|p=31}} Following the end of the war, ''Texas'' was decommissioned and in 1948 she was moved to San Jacinto State Park and converted into a museum ship, where she remains today.{{sfn|Powers|1993|p=37}}
+
+==Ships of the class==
+
+{| class=&quot;sortable wikitable&quot;
+|-
+!Ship Name
+!Hull No.
+!Builder
+!Laid Down
+!Launched
+!Commissioned
+!Decommissioned
+!Fate
+|-
+|[[USS New York (BB-34)|''New York'']]
+|BB-34
+|[[Brooklyn Navy Yard]]
+|11 September 1911
+|30 October 1912
+|15 May 1914
+|29 August 1946
+|Struck 13 July 1948; Sunk as target, 8 July 1948
+|-
+|[[USS Texas (BB-35)|''Texas'']]
+|BB-35
+|[[Newport News Shipbuilding]]
+|17 April 1911
+|18 May 1912
+|12 March 1914
+|21 April 1948
+|Struck 30 April 1948; [[Museum ship]] at [[San Jacinto Battleground State Historic Site]]
+|}
+
+==References==
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+{{refbegin|small}}
+* {{cite book
+  |title=USS New York (BB-34): The Old Lady of the Sea            
+  |last=Banks 
+  |first=Herbert C. (ed.) 
+  |year=2002 
+  |publisher=[[Turner Publishing Company]] 
+  |location=[[Paducah, Kentucky]] 
+  |isbn=978-1-56311-809-8
+  |oclc=55801136
+  |ref = harv
+  }}
+* {{cite book
+  |last=Bonner 
+  |first=Kermit H. 
+  |title=Final Voyages 
+  |year=1996
+  |publisher=Turner Publishing Company 
+  |location=Paducah, Kentucky 
+  |isbn= 978-1-56311-289-8 
+  |oclc=37916711
+  |ref = harv
+  }}
+* {{cite book
+  |last=Ferguson 
+  |first=John C. 
+  |title=Historic Battleship Texas: The Last Dreadnought 
+  |series=Military History of Texas #4 
+  |year=2007 
+  |publisher=State House Press 
+  |location=[[Abilene, Texas]] 
+  |isbn=1-933337-07-9 
+  |oclc=154678508
+  |ref = harv
+  }}
+* {{cite book 
+  |last=Friedman
+  |first=Norman 
+  |title=Naval Firepower: Battleship Guns and Gunnery in the Dreadnaught Era 
+  |publisher=[[Naval Institute Press]] 
+  |location=[[Annapolis, Maryland]] 
+  |year=2008 
+  |authorlink=Norman Friedman 
+  |isbn=978-1-59114-555-4
+  |oclc=154763144
+  |ref = harv
+  }}
+* {{cite book
+  |last=Friedman 
+  |first=Norman 
+  |year=1985 
+  |title=U.S. Battleships: An Illustrated Design History 
+  |location=Annapolis, Maryland 
+  |publisher=Naval Institute Press 
+  |isbn=0-87021-715-1 
+  |oclc=12214729
+  |ref = harv
+  }}
+* {{cite book
+  |last1=Gardiner 
+  |first1=Robert 
+  |last2=Gray 
+  |first2=Randal  
+  |year=1985 
+  |title=Conway's All the World's Fighting Ships: 1906–1921 
+  |publisher=[[Conway Maritime Press]] 
+  |location=[[London, United Kingdom]] 
+  |isbn=0-87021-907-3 
+  |oclc=12119866
+  |ref=harv 
+  }}
+* {{cite book
+  |last=Harrison 
+  |first=Gordon 
+  |title=United States Army in World War II: The European Theater of Operations, The Cross Channel Attack 
+  |year=1951 
+  |location=[[Washington, D.C.]] 
+  |publisher=[[United States Army Center of Military History]] 
+  |isbn=0-16-001881-1
+  |oclc=50729081
+  |ref = harv
+  }}
+* {{cite book
+  |last=Hone 
+  |first=Thomas C. 
+  |last2=Hone 
+  |first2=Trent 
+  |title=Battleline: The United States Navy 1919–1939 
+  |location=Annapolis, Maryland 
+  |publisher=Naval Institute Press 
+  |year=2006 
+  |isbn=1-59114-378-0
+  |oclc=62324475
+  |ref = harv
+  }}
+* {{cite book
+  |last=Kearns 
+  |first=Patricia M. 
+  |last2=Morris 
+  |first2=James M. 
+  |title=Historical Dictionary of the United States Navy 
+  |location=[[Lanham, Maryland]] 
+  |year=1998 
+  |publisher=[[Scarecrow Press]] 
+  |isbn=978-0-8108-3406-4
+  |oclc=37903579
+  |ref = harv
+  }}
+* {{cite book
+  |last=Powers 
+  |first=Hugh 
+  |title=Battleship Texas 
+  |location=[[College Station, Texas]] 
+  |publisher=[[Texas A&amp;M University Press]]
+  |year=1993 
+  |isbn=0-89096-519-6
+  |oclc=49569222
+  |ref = harv
+  }}
+* {{cite book
+  |last=Macintyre 
+  |first=Donald 
+  |title=Shipborne Radar 
+  |date=September 1967
+  |publisher=[[United States Naval Institute]] Proceedings 
+  |location=Annapolis, Maryland 
+  |isbn=978-0-87021-025-9
+  |oclc=8606400
+  |ref=harv
+  }} 
+* {{cite book
+  |title=Yarns of a Kentucky Admiral 
+  |last=Rodman 
+  |first=Hugh 
+  |year=1927 
+  |publisher=[[The Bobbs-Merrill Company]] 
+  |location=[[Indianapolis, Indiana]] 
+  |authorlink=Hugh Rodman 
+  |isbn=978-1-258-18786-6
+  |ref = harv
+  }}
+{{refend}}
+
+== External links ==
+* [http://www.history.navy.mil/photos/usnshtp/bb/bb34cl.htm ''New York'' class (BB-34 and BB-35)]: Online Library of Selected Images (US Navy)
+* {{navsource|01/34a}}
+* {{navsource|01/35a}}
+
+{{Portal bar|Battleships|Military of the United States|World War I|World War II}}
+{{Commons category|New York class battleships}}
+ &lt;!-- Non-breaking space for the navbox --&gt;
+
+{{New York class battleship}}
+{{WWI US ships}}
+{{WWIIUSShips}}
+
+[[Category:Battleship classes]]
+[[Category:New York-class battleships| ]]
+[[Category:World War I battleships of the United States]]
+[[Category:World War II battleships of the United States]]</text>
+      <sha1>295v29972eg9fbrnhzrjla9omk0xhox</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,225 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ORP Orzeł (1938)</title>
+    <ns>0</ns>
+    <id>433772</id>
+    <revision>
+      <id>740385120</id>
+      <parentid>737491859</parentid>
+      <timestamp>2016-09-20T18:56:34Z</timestamp>
+      <contributor>
+        <username>Staszek Lem</username>
+        <id>12536756</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="12803">{{other ships|ORP Orzeł}}
+{{refimprove|date=May 2012}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[Image:ORP Orzel.jpg|300px|Submarine ORP Orzeł entering the naval base at Hel peninsula, 1930s]]
+|Ship caption=ORP ''Orzeł'' entering the [[Hel, Poland|Hel peninsula]] naval base, 1930s
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=Poland
+|Ship flag={{shipboxflag|Poland|naval}}
+|Ship name=ORP ''Orzeł''
+|Ship namesake=[[Eagle]]
+|Ship owner=
+|Ship operator=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=De Schelde, Netherlands
+|Ship yard number=
+|Ship way=
+|Ship laid down=14 August 1936
+|Ship launched=15 January 1938
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=2 February 1939
+|Ship decommissioned=11 June 1940
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship captured=
+|Ship fate=missing, presumably sunk 
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Orzeł|submarine}}
+|Ship tonnage=
+|Ship displacement=*1,110, surfaced
+*1,473, submerged
+|Ship length={{convert|84.00|m|ftin|0|abbr=on}}
+|Ship beam={{convert|6.7|m|ftin|0|abbr=on}}
+|Ship draught={{convert|4.17|m|ftin|0|abbr=on}}
+|Ship depth=
+|Ship hold depth=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=
+|Ship speed=*{{convert|19.4|kn|lk=in}}, surfaced
+*{{convert|9|kn|abbr=on}}, submerged
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship complement=60
+|Ship crew=
+|Ship time to activate=
+|Ship troops=
+|Ship sensors=
+|Ship EW=
+|Ship armament=*1 × Bofors wz.25 {{convert|105|mm|in|abbr=on}} gun
+*1 × double [[Bofors 40 mm gun|Bofors wz.36]] {{convert|40|mm|in|abbr=on}} AA gun
+*1 × Hotchkiss {{convert|13.2|mm|in|abbr=on}} [[heavy machine gun|HMG]]
+*12 × {{convert|533|mm|in|abbr=on}} / {{convert|550|mm|in|abbr=on}} torpedo launchers (4 aft, 4 rudder, 4 waist)
+*20 [[torpedo]]es
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+'''ORP ''Orzeł''''' was the [[lead ship]] of [[Orzeł-class submarine|her class]] of [[submarine]]s serving in the [[Polish Navy]] during [[World War II]]. Her name means &quot;[[Eagle]]&quot; in [[Polish language|Polish]]. The boat is best known for the [[Orzeł incident|''Orzeł'' incident]], her escape from internment in neutral [[Estonia]] during the early stages of the [[Second World War]].
+
+==History==
+''Orzeł'' was laid down 14 August 1936 at the [[Netherlands|Dutch]] [[shipyard]] De Schelde, as the Job No. 205; launched on 15 January 1938, and commissioned on 2 February 1939. She was a modern design (designed by the joint venture of Polish and Dutch engineers), albeit quite large for the shallow waters of the [[Baltic Sea]].{{Citation needed|date=January 2008}}
+
+===World War II===
+
+====Polish Campaign====
+
+At the beginning of the [[invasion of Poland (1939)|invasion of Poland]] ''Orzeł'' was docked in [[Oksywie]]. As per the [[Worek Plan]], the submarine was deployed on patrol in a designated strategic zone of the Baltic Sea. The crew received specific orders to attack the [[pre-dreadnought]] ''[[SMS Schleswig-Holstein|Schleswig-Holstein]]'', should it leave [[Free City of Danzig|Danzig]]. With the situation rapidly deteriorating, ''Orzel'' abandoned its assigned sector on 4 September, and began to withdraw into the [[Baltic Sea]]. The submarine was attacked by the German minesweepers ''M3'' and ''M4'' and damaged, but evaded that evening.
+
+====Orzeł incident====
+{{main|Orzeł incident}}
+
+''Orzel''{{'}}s crew decided to head to [[Tallinn]], [[Estonia]] as a result of the damage. ''Orzeł'' reached Tallinn on 14 September 1939. On 15 September the captain, [[Lieutenant-Commander]] [[Henryk Kłoczkowski]], was forced to leave the submarine to undergo hospital treatment for an unknown illness he had been suffering from since 8 September. Under the [[Hague Conventions (1899 and 1907)|Hague Convention of 1907]], section XIII, Article 12,&lt;ref&gt;[http://avalon.law.yale.edu/20th_century/hague13.asp The Avalon Project - Laws of War : Rights and Duties of Neutral Powers in Naval War (Hague XIII); October 18, 1907&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; &quot;belligerent ships&quot; could enter a neutral port but were forbidden from remaining there for &quot;more than twenty-four hours.&quot; At the insistence of Germany, the Estonian military authorities boarded the ship, interned the crew, confiscated all the navigation aids and maps, and commenced removing all her armaments. However, only fifteen of her twenty torpedoes were removed before the hoist cable parted; this was because it had been secretly sabotaged by her new commander, former [[chief officer]], [[Lieutenant (navy)|Lieutenant]] [[Jan Grudzinski]].
+
+The crew of ''Orzeł'' conspired together to carry out a daring escape. Around midnight on 18 September, the submarine's Estonian guards were overpowered, the mooring lines were cut, and ''Orzeł'' got under way. The alarm was raised, and her conning tower was peppered by machine-gun fire. Running half-submerged, ''Orzeł'' ran aground on a bar at the harbour mouth, where artillery fire damaged her wireless equipment. Grudzinski managed to get the boat off the bar by blowing her tanks, and she proceeded out of the Gulf of Finland, intending to sail for a British port, the crew having heard a radio report that the Polish submarine {{ORP|Wilk||2}} had been welcomed in Britain.
+
+''Orzel'' escaped from Tallinn with two Estonian guards on board as hostages. The Estonian and German press covering the [[Orzeł incident|''Orzeł'' incident]] declared the two captured guards missing at sea. Grudzinski set them ashore in [[Sweden]], providing them with clothing, money, and food for their safe return to homeland. The Polish crew believed that those returning from the [[underworld]] &quot;deserve to travel first class only&quot;. The escape of the submarine ''Orzeł'' was used by the [[Soviet Union]] and [[Nazi Germany|Germany]] to challenge Estonian neutrality.
+
+====Scotland====
+[[Image:Orzel Submarine.jpg|thumb|right|''Orzeł'' in the United Kingdom]]
+[[Image:Submarine Orzeł 1939 Profile.svg|thumb]]
+[[File:Rio de JaneiroHSDG.jpg|thumb|right|The clandestine German transport ''Rio de Janeiro'']]
+[[Image:Tallinn orzel.jpg|thumb|The stone commemorating the &quot;''Orzeł'' incident&quot; and the escape of the submarine ''Orzeł'' in 1939, - in both Polish and Estonian languages, [[Estonian Maritime Museum]], [[Tallinn]]]] 
+Since ''Orzeł''{{'}}s navigational charts had all been removed by the Estonian authorities, Captain Grudzinski resolved to stop a German ship and take her charts. However, the only German vessels encountered were warships rather than merchantmen. The submarine's sole remaining navigational aid was a list of lighthouses, and using these as a reference, ''Orzeł'' followed a course along the Baltic coast, around Denmark, and out into the North Sea where she came under attack by British as well as German forces, since without her wireless equipment she had no means of identifying herself.
+
+Forty days after she had originally sailed from Gdynia, ''Orzeł'' made landfall, off the east coast of Scotland. She lay on the bottom until emergency repairs were made to the radio, then surfaced to transmit a message in English. A [[Royal Navy]] destroyer then came out and escorted her into port, much to the surprise of the British who had thought her long since sunk.
+
+''Orzeł'' sank no enemy vessels during her journey from Estonia to Britain, although Soviet authorities blamed her for sinking the Soviet tanker ''Metallist'' in [[Narva Bay]] on 26 September, the incident being used as a pretext for the Soviet invasion of the Baltic states.&lt;ref&gt;{{cite book | last = Polmar | first = Norman | authorlink = |author2=Jurrien Noot | title = Submarines of the Russian and Soviet navies, 1718-1990 | publisher = Naval Institute Press | year = 1991 | location = | page = 95 | url = | doi = | id = | isbn = 0-87021-570-1}}&lt;/ref&gt;
+
+====Norwegian Campaign====
+
+After a refit, ''Orzeł'' was assigned to the Royal Navy's [[2nd Submarine Flotilla]], and was assigned to patrol missions. Shortly after noon on 8 April 1940 she sank the 5,261 ton clandestine German [[troop transport]] {{ship|MS|Rio de Janeiro|1914|2}} off the small harbour village of [[Lillesand]] in southern Norway,&lt;ref&gt;[http://chrito.users1.50megs.com/handelsmarine/verlustliste8.htm Losses of the German merchant navy on the ''Rio de Janeiro''] {{de icon}}&lt;/ref&gt; killing hundreds of German troops intended for the [[Operation Weserübung|invasion of Norway]].&lt;ref&gt;[http://www.mil.no/start/aktuelt/nyheter/article.jhtml?articleID=95450 Norwegian Defence Force website on the sinking of the ''Rio de Janeiro''] {{no icon}}&lt;/ref&gt; ''Rio de Janeiro'' was heading to [[Bergen, Norway|Bergen]] in order to take part in the initial landings of [[Operation Weserübung]] - the invasion of [[Norway]] and opening move of the [[Norwegian Campaign]]. News that several hundred German soldiers were rescued by the Norwegian Navy and some had admitted their intention to [[German occupation of Norway|occupy Norway]] reached the Norwegian parliament that evening, however this news was dismissed and no steps were taken to alert their Navy or Coast Guard of the impending invasion.&lt;ref&gt;{{cite book|last=Brown|first=David|title=Naval Operations of the Campaign in Norway, April-June 1940|url=https://books.google.com.au/books?id=5ZH7AQAAQBAJ&amp;pg=PA13|year=1013|publisher=Routledge|isbn=9781135273705|page=13}}&lt;/ref&gt; Two days later ''Orzeł'' fired torpedo at a German minesweeper V 705; however, she was forced to dive before the sinking of the German ship could be confirmed-the ship was not damaged by the torpedoes.
+
+==Loss==
+''Orzeł'' departed on her seventh patrol on 23 May, to the central North Sea. On 1 and 2 June a radio message was transmitted from Rosyth ordering her to alter her patrol area and proceed to the [[Skagerrak]]. No radio signals had been received from her since she had sailed, and on 5 June she was ordered to return to base. She never acknowledged reception, and never returned to base. 8 June 1940 was officially accepted as the day of her loss. Although various theories exist regarding her loss, and it is commonly believed that she ran onto a mine in the [[Skagerrak]], the true cause of her loss remains unknown to this day. There is the possibility that ''Orzeł'' may have been sunk either by a British minefield or by an adjacent German minefield.
+
+==Search for the wreck==
+In July and August 2008 a Polish expedition searched the region of North Sea where she went missing with the hope of finding her final resting place. Wrecks of various other ships have been located, but ''Orzeł'' has not been among them and ultimately the fate of the ship remains a mystery.
+
+In June 2013 Polish Navy, following reports of a wreck of an unknown large submarine found in the North Sea, conducted one more expedition to check whether the ship could be ''Orzeł''. The wreck was surveyed and identified as {{HMS|J6}}.&lt;ref&gt;{{cite news |first=Łukasz|last=Zalesiński |title=Polacy odkryli brytyjski okręt [''The Poles discovered a British ship'']|url=http://www.polska-zbrojna.pl/home/articleshow/10005?t=Polacy-odkryli-brytyjski-okret |work=Polska Zbrojna|date= 18 October 2013|accessdate=5 February 2014|language=pl}}&lt;/ref&gt;
+
+== See also ==
+{{Commons|ORP Orzeł}}
+* [[List of World War II ships]]
+* [[ORP Jastrząb|ORP ''Jastrząb'']], another Polish submarine lost during World War II.
+* [[List of shipwrecks in 1940]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://crolick.website.pl/orporzel/ {{en icon}}
+* [http://www.orzel.one.pl/ Association of the &quot;ORZEŁ&quot; submarine search group] {{pl icon}}, {{en icon}} and {{de icon}},
+* {{IMDb title|0780554|Submarine Orzel, the underground truth}}, an 2008 Dutch documentary from filmmaker Wouter van Opdorp
+* [http://uboat.net/allies/warships/ship/5425.html Uboat.net on the ''Orzeł'']
+* [http://www.cold.waroffice.org ORP Orzel], a concept album from Cold Fusion
+
+{{Orzeł class submarine}}
+{{September 1939 shipwrecks}}
+{{May 1940 shipwrecks}}
+{{coord|54|59|N|1|00|E|region:GB_source:kolossus-plwiki|display=title}}
+
+{{DEFAULTSORT:Orzel}}
+[[Category:Orzeł-class submarines]]
+[[Category:World War II submarines of Poland]]
+[[Category:Germany–Soviet Union relations]]
+[[Category:World War II shipwrecks in the North Sea]]
+[[Category:1938 ships]]
+[[Category:Maritime incidents in September 1939]]
+[[Category:Maritime incidents in May 1940]]
+[[Category:Missing submarines of World War II]]
+[[Category:Ships built in the Netherlands]]
+[[Category:Ships lost with all hands]]</text>
+      <sha1>2f6h43j56dnlt06phldkhzaxhdpeco5</sha1>
+    </revision>
+  </page>
+</mediawiki>

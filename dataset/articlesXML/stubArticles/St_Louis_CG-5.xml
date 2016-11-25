@@ -1,0 +1,206 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>St Louis CG-5</title>
+    <ns>0</ns>
+    <id>23778222</id>
+    <revision>
+      <id>668345439</id>
+      <parentid>621718734</parentid>
+      <timestamp>2015-06-23T20:07:28Z</timestamp>
+      <contributor>
+        <username>BD2412</username>
+        <id>196446</id>
+      </contributor>
+      <minor/>
+      <comment>Consensus at [[Template talk:Aviation lists#RfC: Should this navbox be removed from non-mentioned articles?]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4523">__NOTOC__
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. --&gt;
+
+{|{{Infobox Aircraft Begin
+ | name=St.Louis CG-5
+ | image= St Louis XCG-5.jpg
+ | caption=
+}}{{Infobox Aircraft Type
+ | type=Military transport Glider
+ | national origin=United States
+ | manufacturer=[[St. Louis Aircraft Corporation]]
+ | designer=
+ | first flight=1942
+ | introduced=
+ | retired=
+ | status=
+ | primary user=
+ | number built=1
+ | program cost=$53,028 in 1942
+ | developed from= 
+ | variants with their own articles=
+ | developed into=
+}}
+|}
+The '''St. Louis CG-5''' was a 1940s [[United States|American]] prototype [[military glider|military transport glider]] designed and built by the [[St. Louis Aircraft Corporation]].&lt;ref name=&quot;cardinal&quot;&gt;{{cite web | title=The St. Louis Cardinals, et al. | url=http://www.airandspacemuseum.org/STLCARDINALS.htm | work= | publisher=Greater St. Louis Air &amp; Space Museum | date= | accessdate=2009-07-28}}&lt;/ref&gt;
+
+==Development==
+In 1941 the [[United States Army Air Force]] decided to use secondary sources to boost aircraft production and the St. Louis Aircraft Corporation was contracted to design and build a prototype of both an eight-seat and fifteen-seat troop carrying glider.&lt;ref name=&quot;cardinal&quot; /&gt; In total with the St. Louis examples, eight prototypes were ordered from different aircraft manufacturers.
+
+The model '''SL-5''' eight seat glider was given the military designation CG-5&lt;ref name=&quot;serials&quot;&gt;Andrade 1979, p. 97&lt;/ref&gt; and the prototype designated '''XCG-5'''. Howard C. Blosom test flew the XCG-5 from Lambert Field in 1942.&lt;ref&gt;{{cite journal|magazine=Skyways|title=The St. Louis Aircraft Corporation|author=David Ostrowski}}&lt;/ref&gt; It proved to have serious aerodynamic flaws and structural problems causing Dutch Roll at speed.&lt;ref name=&quot;cardinal&quot; /&gt; The heavier fifteen-seat glider (designated the '''XCG-6''') was not built.&lt;ref name=&quot;serials&quot; /&gt;
+
+The USAAF ordered the [[Waco CG-3]] for the eight/nine seat requirement, although only 100 were built. The fifteen-seat requirement was met by the [[Waco CG-4]] of which more than 13,000 were built.
+
+==Specifications (CG-5) ==
+{{Aircraft specs
+|ref=skyways&lt;!-- for giving the reference for the data --&gt;
+|prime units?=kts&lt;!-- imp or kts first for US aircraft, and UK aircraft pre-metrification, met(ric) first for all others. You MUST choose a format, or no specifications will show --&gt;
+
+|crew=2
+|capacity=6
+|length m=
+|length ft=
+|length in=
+|length note=
+|span m=
+|span ft=89
+|span in=
+|span note=
+|height m=
+|height ft=
+|height in=
+|height note=
+|wing area sqm=
+|wing area sqft=
+|wing area note=
+|aspect ratio=
+|airfoil=
+|empty weight kg=
+|empty weight lb=
+|empty weight note=
+|gross weight kg=
+|gross weight lb=3800
+|gross weight note=
+|max takeoff weight kg=
+|max takeoff weight lb=
+|max takeoff weight note=
+|fuel capacity=
+|more general=
+
+|max speed kmh=
+|max speed mph=110
+|max speed kts=
+|max speed note=(experienced [[Dutch roll]] at max speed)
+|max speed mach=
+|cruise speed kmh=
+|cruise speed mph=
+|cruise speed kts=
+|cruise speed note=
+|stall speed kmh=
+|stall speed mph=
+|stall speed kts=
+|stall speed note=
+|never exceed speed kmh=
+|never exceed speed mph=65
+|never exceed speed kts=
+|never exceed speed note=
+|minimum control speed kmh=
+|minimum control speed mph=
+|minimum control speed kts=
+|minimum control speed note=
+|endurance=
+|ceiling m=
+|ceiling ft=
+|ceiling note=
+|g limits=
+|roll rate=
+|glide ratio=
+|climb rate ms=
+|climb rate ftmin=
+|climb rate note=
+|sink rate ms=
+|sink rate ftmin=
+|sink rate note=
+|lift to drag=
+|wing loading kg/m2
+|wing loading lb/sqft=
+|wing loading note=
+
+|more performance=
+
+|avionics=
+}}
+
+==See also==
+{{aircontent
+&lt;!-- include as many lines are appropriate. additional lines/entries with carriage return. --&gt;
+|see also=
+|related=&lt;!-- related developments --&gt;
+|similar aircraft=&lt;!-- similar or comparable aircraft --&gt;
+*[[Frankfort XCG-1]]
+*[[Waco CG-3]]
+*[[Bowlus XCG-7]]
+|sequence=&lt;!-- designation sequence, if appropriate --&gt;
+|lists=&lt;!-- related lists --&gt;
+*[[List of World War II military gliders]]
+}}
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite book |last= Andrade |first= John |title= U.S.Military Aircraft Designations and Serials since 1909|year=1979 |publisher=Midland Counties Publications|isbn= 0-904597-22-9}}
+{{refend}}
+
+&lt;!-- ==External links== --&gt;
+
+{{USAAF glider aircraft}}
+
+[[Category:United States military gliders 1940–1949]]</text>
+      <sha1>kjlkq58sbnrrv6cp1rxtria4h147ta7</sha1>
+    </revision>
+  </page>
+</mediawiki>

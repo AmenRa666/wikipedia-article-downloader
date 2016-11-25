@@ -1,0 +1,328 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Mannlicher M1895</title>
+    <ns>0</ns>
+    <id>1399421</id>
+    <revision>
+      <id>751166316</id>
+      <parentid>750328594</parentid>
+      <timestamp>2016-11-23T20:10:41Z</timestamp>
+      <contributor>
+        <username>Hmains</username>
+        <id>508734</id>
+      </contributor>
+      <minor/>
+      <comment>copyedit, links and AWB general fixes, replaced: WW2. → World War II. (2), WWI, → World War I,, [[The Great War]] → [[World War I|The Great War]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24606">{{Distinguish | Dutch Mannlicher M1895}}
+{{Use dmy dates|date=December 2015}}
+{{Infobox Weapon
+|name= Infanterie Repetier-Gewehr M.95&lt;br&gt;Gyalogsági Ismétlő Puska M95&lt;br&gt;(Infantry Repeating-Rifle M95)
+|image= [[File:Mannlicher M1895 from the Swedish Army Museum.jpg|330px]]
+|caption= Mannlicher M1895 Rifle. From the collections of the [[Swedish Army Museum]].
+|origin = [[Austria-Hungary]]
+|type= [[Bolt-action rifle]]
+&lt;!-- Type selection --&gt;
+|is_ranged= yes
+&lt;!-- Service history --&gt;
+|service= 1895–1945&lt;br&gt;1895–1918 [[Austria-Hungary]]
+|used_by= See ''[[#Users|Users]]''
+|wars= [[Boxer Rebellion]]&lt;br&gt;[[First Balkan War]]&lt;br&gt;[[Second Balkan War]]&lt;br&gt;[[World War I]]&lt;br&gt;[[Russian Civil War]]&lt;ref&gt;{{cite journal |last=Scarlata |first=Paul |date=20 November 2014 |title=Russian rifles of the great war, revolution &amp; civil war—part I |url=http://www.fhhljx.com/thefreelibrary/Russian+rifles+of+the+great+war,+revolution+%26+civil+war--part+I%3A...-a0391733875 |journal=Shotgun News |access-date=19 September 2015}}&lt;/ref&gt;&lt;br&gt;[[Austro-Slovene conflict in Carinthia]]&lt;br&gt;[[Revolutions and interventions in Hungary (1918–20)|Revolutions and interventions in Hungary]]&lt;br&gt;[[Second Italo-Ethiopian War]]&lt;br&gt;[[Spanish Civil War]]&lt;ref&gt;{{cite web|url=http://www.carbinesforcollectors.com/spanishcivilwar1.html|title=spanishcivilwar1|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;&lt;br&gt;[[Second Sino-Japanese War]]&lt;br/&gt;[[Sudetendeutsches Freikorps|Sudeten German uprising 1938]]&lt;br&gt;[[World War II]]
+&lt;!-- Production history --&gt;
+|designer= [[Ferdinand Mannlicher]]
+|design_date= 1895
+|manufacturer='''1896–1918:''' [[Steyr-Mannlicher|Œ.W.G.]] in [[Steyr]]&lt;br&gt;'''1897–1918:''' [[FÉG|F.G.GY.]] in [[Budapest]]&lt;br&gt;'''1918–1920:''' [[Zbrojovka Brno]]
+|unit_cost=
+|production_date= 1896–1920
+|number= approx. 3,500,000&lt;ref name=&quot;Walter2006&quot;&gt;{{cite book|author=John Walter|title=Rifles of the World|url=https://books.google.com/books?id=Eq2Dnj4sDZIC&amp;pg=PA609|accessdate=9 September 2014|date=25 March 2006|publisher=Krause Publications|isbn=0-89689-241-7|page=265}}&lt;/ref&gt;
+|variants= See ''[[#Variants|Variants]]''
+&lt;!-- General specifications --&gt;
+|spec_label= M95 Long Rifle
+|weight= {{convert|3.78|kg|lb}}
+|length= {{convert|1272|mm|in}}
+|part_length= {{convert|765|mm|in}}
+&lt;!-- Ranged weapon specifications --&gt;
+|cartridge=M95: [[8×50mmR Mannlicher]]&lt;br&gt;M95/30 &amp; 31.M: [[8×56mmR]]&lt;br&gt;M95/24 &amp; M95M: [[8×57mm IS]]
+|action= [[Straight-pull]] bolt action
+|rate= approx. 30–35 rounds/min
+|velocity=M93 (8×50mmR): {{convert|620|m/s|ft/s|abbr=on}}&lt;br&gt;M30 (8×56mmR): {{convert|720|m/s|ft/s|abbr=on}}
+|range=
+|max_range= 
+|feed= 5-round [[Clip (ammunition)#En bloc|en bloc clip]] ([[stripper clip]] in M95/24 and M95M), internal [[Magazine (firearms)#Box|box magazine]]
+|sights= Rear V-notch flip-up sight and front post ([[telescopic sight]] on sniper variant)
+}}
+
+The '''Mannlicher M1895''' ({{lang-de|link=no|Infanterie Repetier-Gewehr M.95}}, {{lang-hu|Gyalogsági Ismétlő Puska M95}}; &quot;Infantry Repeating-Rifle M95&quot;) is a [[Bolt action|bolt-action]] rifle, designed by [[Ferdinand Mannlicher|Ferdinand Ritter von Mannlicher]] that used a refined version of his revolutionary straight-pull action bolt, much like the [[Mannlicher M1890 carbine]]. It was nicknamed the ''Ruck-Zu(rü)ck'' (German slang for &quot;back and forth&quot;) by Austrian troops and &quot;Ta-Pum&quot; by Italian troops who even wrote a song about it during [[World War I]].
+
+The M1895 is unusual in employing a straight-pull bolt action, as opposed to the more common rotating bolt-handle of other rifles. It consequently renowned for combining a high [[rate of fire]] (around 30–35 rounds per minute) with reliability and sturdiness, although this requires decent care and maintenance with an extractor that is vulnerable to breakage due to a lack of primary extraction.
+
+Originally they were chambered for the round-nosed [[8×50mmR Mannlicher|8×50mmR]] cartridge, but almost all were rechambered to accept the more powerful spitzer [[8×56mmR]] cartridge in the 1930s.
+
+== History ==
+[[File:Isonzo front colorization.jpg|thumb|left|300px|Austro-Hungarian [[Stormtrooper#Austro-Hungarian Assault Units|Stormtroops]] armed with Mannlicher M95 Stutzens at the [[Isonzo front]] in 1917 (colorized).]]
+It was initially adopted and employed by the [[Austro-Hungarian Army]] throughout [[World War I]], and retained post-war by both the [[First Austrian Republic|Austrian]] and [[Kingdom of Hungary|Hungarian]] armies. The main foreign user was [[Kingdom of Bulgaria|Bulgaria]], which, starting in 1903, acquired large numbers and continued using them throughout [[Balkan Wars|both Balkan]] and World Wars. After Austria-Hungary's defeat in [[World War I]], many were given to other Balkan states as [[war reparations]]. A number of these rifles also saw use in [[World War II]], particularly by second line, reservist, and partisan units in Romania, Yugoslavia, Italy, and to lesser degree, Germany. Post war many were sold as cheap surplus, with some finding their way to the hands of African [[guerrilla warfare|guerrillas]] in the 1970s{{citation needed|date=March 2015}} and many more being exported to the United States as sporting and collectible firearms.
+The M1895 bolt also served as an almost exact template for the ill-fated Canadian M1905 [[Ross rifle]], though the later M1910 used a complicated [[interrupted screw|interrupted-thread]] instead of two solid [[Bolt (firearms)|lugs]].
+
+== Ammunition ==
+{{multiple image
+ | width = 200
+ | footer = Five cartridges in an [[en-bloc clip]]
+ | image1 = Mannlicher en-bloc clip.jpg
+ | caption1 = Round nosed [[8×50mmR Mannlicher|8×50mmR]] cartridges
+ | image2 = Mannlicher 8x56R en-bloc clip.jpg
+ | caption2 = &lt;br&gt;Spitzer bullet [[8×56mmR]] cartridges
+ }}
+The M1895 was originally chambered in the 8mm M.1893 scharfe Patrone ([[8×50mmR Mannlicher]]) cartridge. Between the world wars, both Austria and Hungary converted the majority of their rifles to fire the more powerful [[8×56mmR]] round.&lt;br&gt;Yugoslavia&lt;ref&gt;{{cite web |url=http://www.hungariae.com/Mann95Se.htm |title=Yugoslavian Mannlicher M.95 Rifles and Carbines |publisher=Manowar's Hungarian Weapons &amp; History |accessdate=22 June 2012}}&lt;/ref&gt; converted at least some of their captured M1895s to [[7.92×57mm Mauser]], fed by [[stripper clip]]s instead of the original model's [[Clip (ammunition)#En bloc|en bloc clip]] system. This conversion was designated M95/24 and M95M. The M95/24 is often mistakenly attributed to Bulgaria, but [[8×57mm IS]] was never a standard cartridge of the Bulgarian military.&lt;ref&gt;{{cite web |url=http://www.hungariae.com/Mann95Bu.htm |title=Bulgarian Mannlicher M.95 Rifles and Carbines |publisher=Manowar's Hungarian Weapons &amp; History |accessdate=22 June 2012}}&lt;/ref&gt; These conversions are prized by collectors for their relative scarcity and chambering in a commonly available round, but suffer from a fragile [[Extractor (firearms)|extractor]] and a lack of replacement parts.
+
+== Variants ==
+For the post World War I conversions see ''[[#Conversions|Conversions]]''.
+
+=== Rifle ===
+The ({{lang-de|link=no|Infanterie Repetier-Gewehr M1895}}; &quot;Infantry Repeating-Rifle M1895&quot;) was the basic variant. It was chambered for the [[8×50mmR Mannlicher]] cartridge. Its iron sights were graduated 300–2600 [[Pace (unit)|paces]] (225–1950 m). It was used during [[World War I]] by majority of the [[Austro-Hungarian Army]] troops.
+
+=== Stutzen ===
+This stutzen or short rifle (official designation {{lang-de|link=no|Repetier-Stutzen M1895}}; &quot;Repeating-Stutzen M1895&quot;) was mainly used by special troops (i.e. [[Stormtrooper#Austro-Hungarian Assault Units|Storm troops]]) during World War I. It chambered the [[8×50mmR Mannlicher]] cartridge. Its sights were graduated 500–2400 [[Pace (unit)|paces]] (375–1800 m).
+
+Weight: {{convert|3.09|kg|lb}}&lt;br&gt;
+Length: {{convert|1003|mm|in}}&lt;br&gt;
+Barrel length: {{convert|500|mm|in}}
+
+=== Carbine ===
+The carbine (official designation {{lang-de|link=no|Kavaliere Repetier-Carabiner M1895}}; &quot;Cavalry Repeating-Carbine M1895&quot;) was chambered [[8×50mmR Mannlicher]] and used by [[cavalry]] units of the [[Austro-Hungarian Army]] as a replacement of the [[Mannlicher M1890 carbine]]. The sights were graduated 500–2400 [[Pace (unit)|paces]] (375–1800 m). Although it originally didn't have [[bayonet lug]]s, during World War I it was fitted with stutzen-like front barrel band with bayonet lugs after mounted cavalry units were found ineffective.
+
+=== Sniper rifle ===
+[[File:Mannlicher M1895 sniper rifle.png|thumb|400px|Sniper rifle variant.]]
+The main difference from the standard rifle and stutzen was the telescopic sight mount. The scope was mounted slightly to the left so the rifle could be fed by en bloc clip. Approximately 6,000 long and short barreled sniper rifles were made in the years 1915–1918.&lt;ref name=obramba&gt;{{cite journal |author= |date=December 2003 |title=[The Mannlicher family] |journal=Revija Obramba |language=Slovenian |volume=13 |issue=12 |pages= |ISSN=0353-9628}}&lt;/ref&gt;
+
+=== Conversions ===
+[[File:1672 - Salzburg - Festung Hohensalzburg - Repetierstutzen M95-30.JPG|thumb|left|350px|The Mannlicher M95/30 conversion.]]
+The '''M95/30''' was a conversion in the [[First Austrian Republic]] by [[Steyr-Mannlicher]] during 1930–1940. These rifles carry the letter '''S''' meaning [[Spitzer (bullet)|Spitzer]] stamped on the barrel. Main modification was the rechambering to [[8×56mmR]] cartridge. Other changes were the conversion of ladder sights from the older [[Pace (unit)|pace]] unit to meters and addition of a brass front sight protector. Many long rifles were cut down to Stutzen length. Most of M95/30s were sent to Bulgaria during 1938–40, where front sight protectors were removed.&lt;ref&gt;http://www.hungariae.com/Mann9530.htm&lt;/ref&gt;
+
+[[File:1626 - Salzburg - Festung Hohensalzburg - Repetier.JPG|thumb|370px|Various Mannlicher rifles and carbines. The long rifle on far left is an [[Mannlicher M1888|1888 model]] and the carbine in the middle is an [[Mannlicher M1890 carbine|1890 model carbine]]. The rest are various 1895 models.]]
+
+The '''31.M''' or M95/31 was a conversion done in the [[Kingdom of Hungary]]. Rifles were converted 1931–1935 by [[FÉG]] in [[Budapest]] and carry the letter '''H''' meaning Hegyes Töltény (pointed bullet) stamped on top of the chamber. The conversion included rechambering to the new [[8×56mmR]] pointed bullet cartridge, new metric ladder sights and addition of a front-sight protector. Long rifles were cut down to carbine length and designated 31/a.M. They were not used for much time and were withdrawn to storage when the new [[35M rifle]] was introduced. Some were reissued during World War II. A small number were rechambered but were not cut down for the Hungarian Governmental Guards; these had special long bayonets.&lt;ref&gt;http://www.hungariae.com/Mann31.htm&lt;/ref&gt;
+
+The '''M95M''' or '''M95/24''' was a conversion to [[7.92×57mm]] cartridge by the [[Zastava Arms|Kragujevac Arsenal]] in the [[Kingdom of Yugoslavia]]. These rifles feature Yugoslavian [[M24 series|M24 Mauser]] barrels, sights, similar handguards and are fed by five-round stripper clips. Their extractors are prone to breakage when being fired single-shot. Some of these rifles were found in the [[Kingdom of Greece]] by the German forces during World War II and were mistakenly attributed Greek origin.&lt;ref&gt;http://www.hungariae.com/Mann95Se.htm&lt;/ref&gt;&lt;ref&gt;http://candrsenal.com/rifle-yugoslavian-mannlicher-m95m-and-m9524/&lt;/ref&gt;
+
+=== Summary ===
+Source:&lt;ref&gt;http://candrsenal.com/a-quick-and-dirty-guide-mannlichers-straight-pull-rifles/&lt;/ref&gt;
+{| class=&quot;wikitable sortable&quot; style=&quot;font-size: 85%%; text-align: center; width: 60%&quot;
+|- 
+! 
+! [[Cartridge (firearms)|Cartridge]]
+! Length
+! Weight
+! Sling Swivels
+! Bayonet Lug
+! Notes
+|-
+! Rifle Model 1895
+| 8×50mmR
+| {{convert|128.2|cm|in|abbr=on}}
+| {{convert|3.63|kg|lb|abbr=on}}
+| Under
+| {{yes}}
+|
+|-
+! Carbine Model 1895
+| 8×50mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|2.95|kg|lb|abbr=on}}
+| Side
+| {{no}}
+| {{convert|7|in|cm|abbr=on}} gap between front and rear barrel bands
+|-
+! Stutzen Model 1895
+| 8×50mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.13|kg|lb|abbr=on}}
+| Under
+| {{yes}}
+| {{convert|5|in|cm|abbr=on}} gap between front and rear barrel bands
+|-
+! Carbine Model 1895 with Stutzen lug
+| 8×50mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.18|kg|lb|abbr=on}}
+| Side
+| {{yes}}
+| {{convert|7|in|cm|abbr=on}} gap between front and rear barrel bands
+|-
+! Carbine-Stutzen Model 1895
+| 8×50mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.22|kg|lb|abbr=on}}
+| Either
+| {{yes}}
+| {{convert|5|in|cm|abbr=on}} gap between front and rear barrel bands
+|-
+! Stutzen-Carbine Model 1895
+| 8×50mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.27|kg|lb|abbr=on}}
+| Both
+| {{yes}}
+| {{convert|7|in|cm|abbr=on}} gap between front and rear barrel bands
+|-
+! Rifle Model 1895/30
+| 8×56mmR
+| {{convert|128.2|cm|in|abbr=on}}
+| {{convert|3.63|kg|lb|abbr=on}}
+| Under
+| {{yes}}
+|
+|-
+! Stutzen Model 1895/30
+| 8×56mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.22|kg|lb|abbr=on}}
+| Either
+| {{yes}}
+|
+|-
+! Stutzen Model 1895/30 from Long Rifle
+| 8×56mmR
+| {{convert|100|cm|in|abbr=on}}
+| {{convert|3.22|kg|lb|abbr=on}}
+| Either
+| {{yes}}
+| Long rifle rear sight
+|-
+! Rifle M95M and M95/24
+| 7.92×57mm
+| {{convert|110|cm|in|abbr=on}}
+| {{convert|3.86|kg|lb|abbr=on}}
+| Both
+| {{yes}}
+|
+|-class=&quot;sortbottom&quot;
+|}
+
+== Accessories ==
+
+=== Bayonet ===
+{{multiple image|caption_align=center|header_align=center|direction=vertical
+ | width = 350
+ | image1 = Mannlicher M1895 standard and NCO bayonet.JPG
+ | caption1 = Standard (top) and NCO bayonet (bottom).
+ | image2 = Mannlicher M1895 scabbard.jpg
+ | caption2 = Scabbard and frog.
+}}
+
+There were two main variants of the [[bayonet]]; the first one was the standard bayonet, the second one was the [[Non-commissioned officer|NCO]] variant that featured a hooked quillion and a golden lanyard. The overall length was {{convert|360|mm|in}} and the blade was {{convert|248|mm|in}} long. The bayonet was unusual in that the edge faced upwards when mounted on the rifle. Majority of them were made by [[Steyr-Mannlicher|Œ.W.G.]] and [[FÉG|F.G.GY.]] Bayonets were originally not serial numbered.
+
+Late in [[World War I]] resources were limited and they started manufacturing ''replacemet'' ({{lang-de|link=no|Ersatz}}) bayonets. These were fast to produce, cheap and made completely out of metal.&lt;ref&gt;{{cite web|url=http://www.old-smithy.info/bayonets/HTNL%20DOCUMNETS/austrian%20ersatz.htm|title=Austrian Ersatz Bayonets|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+
+=== Night sights ===
+[[File:Mannlicher M1895 night sights.JPG|right|thumb|300px|A set of rear and front Luminous Sights M.1916.]]
+A number of Model 1916 night (Luminous) sights were issued during World War I.&lt;ref&gt;{{cite book |last=Ortner |first=Mario Christian |date=2006 |title=Storm Troops |publisher=Militaria Verlag |page= |access-date=13 February 2015}}&lt;/ref&gt; The rear night sight is a small brass plate that is placed underneath the rear sight leaf. The front sight clamps around the rifle's front sight base.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95a.htm|title= Mannlicher M95 Rifles and Carbines Accessories|year=2014|website=hungariae.com|access-date=10 February 2015}}&lt;/ref&gt;
+
+=== Wire destroyer ===
+A ''Drahtzerstörer'' or &quot;wire destroyer&quot; device for Mannlicher type firearms was also sometimes issued with the rifle during World War I. During assaults, when soldiers would run into barbed wire obstacles, the &quot;wire destroyer&quot; would grab one of the wires and the soldier would shoot through it. It could only be used with a mounted bayonet.&lt;br&gt;
+Various other improvised wire destroyers existed, some originally deisgned for the [[Mosin–Nagant]] rifle that were captured on the [[Eastern front (World War I)|Eastern front]] were easily modified to fit the M95. Some were also crafted by military blacksmiths.&lt;ref&gt;{{cite book |last=Ortner |first=Mario Christian |date=2006 |title=Storm Troops |publisher=Militaria Verlag |page= |access-date=10 June 2015}}&lt;/ref&gt;
+
+== Users ==
+[[File:Soldier and fallen comrade.jpg|thumb|upright|Bulgarian soldier with a fallen comrade during the [[First Balkan War]]]]
+[[File:Hungarian soldier with Mannlicher M1895 rifle, 1940.jpg|thumb|upright|Hungarian soldier with a Mannlicher 31.M in World War II.]]
+
+{{Bulleted list
+|{{flag|Albania}}: Approx. 4000 rifles were ordered by the Albanian Revolutionary Committee in 1911. Albania also received a number of rifles after [[First World War]] as war reparations.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Al.htm|title=Mannlicher M.95-type Rifles and Carbines, Albania|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|[[File:Flag of Austria.svg|22px]] [[First Austrian Republic]]: In service from October 1918 to the [[Anschluss]].
+|{{flag|Austria-Hungary}}: In service from 1895 to [[Austro-Hungarian Empire#Dissolution|Dissolution of Austria-Hungary]] in 1918. They saw a lot of action during [[World War I]] as the primary weapon of the [[Austro-Hungarian Army]].
+|{{flag|Kingdom of Bulgaria}}: Starting in 1898 Bulgaria began importing M95 Mannlicher rifles, in the beginning exclusively from [[Steyr-Mannlicher|Steyr]] and later also from [[FÉG|Budapest]]. Approx. 83,000 long rifles and 2,000 carbines were imported. These can be identified by a [[Coat of arms of Bulgaria|Bulgarian lion crest]] stamped on chamber and the manufacturer's name on the left side of the receiver.&lt;ref name=obramba /&gt;
+|{{flag|Czechoslovakia}}: Czechoslovakia had about 200,000 Mannlicher M95s in their possession. The [[Zbrojovka Brno]] factory manufactured an unknown amount of M95 barrels, stocks and barrel bands before switching to Mauser series production. Most were sold to Bulgaria in the 1930s, but some remained in storage until World War II.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Cz.htm|title=Czech Mannlicher M.95-type Rifles and Carbines|publisher=|accessdate=15 April 2015}}&lt;/ref&gt;
+|[[File:Flag of the Sudets (without CoA).Svg|25px]] [[Sudeten German Party]]
+|{{flag|Finland}}: Finland obtained approximately 2300 rifles during the 1920s in the [[8×50mmR Mannlicher]] caliber. They were marked SA and are valuable among collectors.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Fi.htm|title=Finnish Mannlicher M.95-type Rifles and Carbines|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Nazi Germany}}: Used by German police during World War II.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Ge.htm|title=German Mannlicher M.95 Stutzens &amp; Carbines|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+Netherlands
+|{{flag|Kingdom of Greece}}: Greece had a number of M95/24 and M95M rifles chambered for the [[8×57mm IS]] and after the [[Axis occupation of Greece]] in April 1941 arrived at the disposal of the Wehrmacht under the designation Gewehr 306(g).&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Gr.htm|title=Greek Austro-Hungarian Mannlicher M.95 Rifles and Carbines|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Kingdom of Hungary}}: After the dissolution of the dual monarchy the Hungarian part received its share of M95s.
+|{{flag|Kingdom of Italy}}: Captured on the [[Italian Front (World War I)|Italian Front]] and received as war reparations.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95It.htm|title=Mannlicher M95-type Rifles and Carbines|publisher=|accessdate=10 October 2014}}&lt;/ref&gt; M.95s in original caliber were used by [[Royal Corps of Colonial Troops|colonial troops]] in [[Italian East Africa]], these are marked '''AOI''' for ''Africa Orientale Italiana''. Rifles captured by the British were shipped to India as trainers.&lt;ref&gt;{{cite web |url=http://candrsenal.com/rifle-austro-hungarian-steyr-mannlicher-m-95/| title=Rifle: Austro-Hungarian Steyr-Mannlicher M.95 |publisher=C&amp;Rsenal | accessdate=15 April 2015}}&lt;/ref&gt;
+|{{flag|Ottoman Empire}}{{citation needed|date=March 2015}}
+|{{flag|Second Polish Republic}}:&lt;ref&gt;{{cite web |url=http://1939.pl/uzbrojenie/polskie/bron-strzelecka/karabinek_8mm_wz1888_mannlicher/index.html |title=Karabin i karabinek 8&amp;nbsp;mm wz.1895 &quot;Mannlicher&quot; – Kampania Wrześniowa 1939.pl |publisher=Kampania Wrześniowa 1939 |accessdate=5 June 2012}}&lt;/ref&gt; Received by armed police in the 1920s.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Ru.htm|title=Mannlicher Yasnikov M.95-type Automatic Rifle Prototype|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Portugal}}{{citation needed|date=March 2015}}
+|{{flag|Qing Dynasty}}: The elite [[Wuwei Troop]] was equipped with a significant amount of imported Mannlicher rifles.{{citation needed|date=March 2015}}
+|{{flag|Francoist Spain}}: During the Spanish Civil War, the Soviet NKVD Agency supplied the Communist Republican Forces in Spain with 20,000 Mannlicher Wz.95 rifles and carbines purchased from the Polish Ministry of Defense. The rifle shipment did not reach the Reds, it was captured by Franco's Nationalists. Most Spanish Civil War weapons ended up on the U.S. surplus market during 1959–62. These guns may have additional Spanish Civil War markings and various graffity.&lt;ref&gt;{{cite web|url=http://www.hungariae.com/Mann95Po.htm|title=Polish Austro Hungarian Mannlicher Rifles and Carbines|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Kingdom of Romania}}: Issued to second line troops.&lt;ref&gt;{{cite web|url=http://www.worldwar2.ro/foto/?id=484&amp;area=31|title=WorldWar2.ro|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Russian Empire}}: During the [[First World War]], captured rifles were widely used in the Russian army because of the lack of domestic rifles and cartridges for them.&lt;ref&gt;А. Б. Жук. Энциклопедия стрелкового оружия: револьверы, пистолеты, винтовки, пистолеты-пулеметы, автоматы. М., АСТ – Voyenizdat, 2002, p. 587&lt;/ref&gt; Russian captured rifles may carry a [[Cyrillic script|Cyrillic]] letter П (P). Russian efforts to convert their service rifle, the turning bolt-action [[Mosin–Nagant]] to self-loading action were unsuccessful, that's why they decided to alter the straight-pull Mannlicher M1895 rifle, but arrived to the conclusion that development of automatic rifles requires a diffenrent approach by inventors.&lt;ref&gt;{{cite web|url=http://milpas.cc/rifles/ZFiles/Rifles%20of/Hungary/Hungary%201897-1950/M95-type%20Rifles%20and%20Carbines/Other%20Countries/Yasnikov%27s%20Mannlicher%20M95-15%20Prototype.htm|title=Mannlicher Yasnikov M.95-type Automatic Rifle Prototype|publisher=|accessdate=10 October 2014}}&lt;/ref&gt;
+|{{flag|Kingdom of Serbia}}: Captured during the [[Balkan Wars]] from Bulgaria and Austria-Hungary during World War I, also received as war reparations in original caliber. Passed on to the Kingdom of Yugoslavia.
+|{{flag|State of Slovenes, Croats and Serbs}}: Used in the [[Austro-Slovene conflict in Carinthia]], passed on to the [[Kingdom of Yugoslavia]].
+|{{flag|Turkey}}{{citation needed|date=March 2015}}
+|{{flag|Kingdom of Yugoslavia}}: Yugoslavia inherited a great amount of Mannlicher rifles from territories that were part of Austria-Hungary up to the end of First World War and from the Kingdom of Serbia. Rifles in original configuration were used by the [[Gendarmerie]]. Around 122,000 were converted to [[7.92×57mm Mauser]] caliber as M95M and M95/24.&lt;ref&gt;{{cite web |url=http://candrsenal.com/rifle-yugoslavian-mannlicher-m95m-and-m9524/ |title=Rifle: Yugoslavian Mannlicher M95M and M95/24 |publisher=C&amp;Rsenal |accessdate=14 June 2014}}&lt;/ref&gt;
+}}
+
+== See also ==
+* [[Mannlicher M1890 Carbine]]
+* [[Mannlicher M1888]]
+* [[Weapons of the Austro-Hungarian Empire]]
+* [[M1895 Lee Navy]] – An American straight-pull rifle
+* [[Ross rifle]] – A Canadian straight-pull rifle
+
+== References ==
+&lt;references /&gt;
+
+== External links ==
+{{Commons category|Mannlicher M1895}}
+* [http://www.carbinesforcollectors.com/m95.htm  M95, M90, and identifying marks]
+* [http://world.guns.ru/rifle/rfl18-e.htm Modern Firearms – M95/30 (M1895)]
+* Photogallery of [http://www.fronta.cz/fotogalerie/karabina-mannlicher-m-1895 carabine Mannlicher M.95]
+
+{{Steyr Mannlicher}}
+{{WWIAus-HunInfWeaponsEquipment}}
+
+[[Category:1895 introductions]]
+[[Category:8&amp;nbsp;mm firearms]]
+[[Category:Firearms by Ferdinand Mannlicher]]
+[[Category:Mannlicher rifles]]
+[[Category:Rifles of Austria]]
+[[Category:Straight-pull rifles]]
+[[Category:Weapons of Austria-Hungary]]
+[[Category:World War I Austro-Hungarian infantry weapons]]</text>
+      <sha1>3xfgunllpksascxcci2fuexv1a3u41j</sha1>
+    </revision>
+  </page>
+</mediawiki>

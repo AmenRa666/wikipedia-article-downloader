@@ -1,0 +1,240 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese cruiser Tokiwa</title>
+    <ns>0</ns>
+    <id>3799080</id>
+    <revision>
+      <id>712863941</id>
+      <parentid>705874675</parentid>
+      <timestamp>2016-03-31T14:56:13Z</timestamp>
+      <contributor>
+        <username>Cyberbot II</username>
+        <id>16283967</id>
+      </contributor>
+      <comment>Rescuing 1 sources. #IABot</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="36209">{{good article}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:TokiwaColorized.jpg|300px]]
+|Ship caption=Colorized photo of ''Tokiwa'' at anchor
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= [[Empire of Japan]]
+|Ship flag={{shipboxflag|Japan|naval}}
+|Ship name=''Tokiwa''
+|Ship namesake=
+|Ship awarded=6 July 1897
+|Ship builder= [[Armstrong Whitworth]], [[United Kingdom]]
+|Ship laid down= 6 January 1897
+|Ship launched= 6 July 1898
+|Ship completed= 18 May 1899
+|Ship commissioned=19 May 1899 
+|Ship decommissioned=9 August 1945 
+|Ship in service=
+|Ship out of service=
+|Ship struck=30 November 1945
+|Ship fate=*Sunk by air attack, 9 August 1945
+*[[ship breaking|Scrapped]], 1947
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built) 
+|Ship class= {{sclass-|Asama|cruiser|0}} [[armored cruiser]]
+|Ship displacement= {{convert|9667|t|LT|abbr=on}}
+|Ship length={{convert|134.72|m|ftin|abbr=on}} ([[Length overall|o/a]])
+|Ship beam={{convert|20.48|m|ftin|abbr=on}}
+|Ship draft={{convert|7.43|m|ftin|abbr=on}}
+|Ship propulsion=*2 Shafts
+*2 [[Marine steam engine#Triple or multiple expansion|Vertical triple-expansion steam engines]]
+|Ship power=*{{convert|18000|ihp|lk=in|abbr=on}}
+*12 [[Scotch marine boiler|Cylindrical boilers]]
+|Ship speed={{convert|21|kn|lk=in}}
+|Ship range={{convert|10000|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=676
+|Ship armament=*2 × twin [[20.3 cm/45 Type 41 naval gun]]s
+*14 × single QF 6-inch guns
+*12 × single [[QF 12 pounder 12 cwt naval gun|QF 12-pounder 12-cwt guns]]
+*8 × single QF 2.5-pounder [[Hotchkiss gun|Yamauchi guns]]
+*5 × single {{convert|457|mm|in|abbr=on}} [[torpedo tube]]s
+|Ship armor=*[[Belt armor|Waterline belt]]: {{convert|89|-|178|mm|in|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|51|mm|in|abbr=on}}
+*[[Gun Turret]]: {{convert|160|mm|in|abbr=on}}
+*[[Barbette]]: {{convert|152|mm|in|abbr=on}}
+*[[Casemate]]: {{convert|51|-|152|mm|in|abbr=on}}
+*[[Conning tower]]: {{convert|356|mm|in|abbr=on}}
+*[[Bulkhead (partition)|Bulkhead]]: {{convert|127|mm|in|1|abbr=on}}
+|Ship notes=
+}}
+|}
+{{nihongo|'''''Tokiwa'''''|常盤}} was the second and last {{sclass-|Asama|cruiser|0}} [[armored cruiser]] built for the [[Imperial Japanese Navy]] (IJN) in the late 1890s. As Japan lacked the industrial capacity to build such warships herself, the ship was built in Britain. She played minor roles in the [[Boxer Rebellion]] of 1900 and [[World War I]], but was very active during the [[Russo-Japanese War]] of 1904–05 where she participated in the [[Battle of Port Arthur]], the [[Battle off Ulsan]], and the [[Battle of Tsushima]]. After the war she was sometimes used as a [[training ship]] for [[naval cadet]]s.
+
+''Tokiwa'' was converted into a [[minelayer]] in 1922–24. She was placed in [[Reserve fleet|reserve]] in 1927 after she was damaged by an accidental explosion of several [[naval mine|mines]]. The ship was deployed to Northern China in 1932–33 after the [[Japanese invasion of Manchuria]]. After her refit in 1937, ''Tokiwa'' returned to active duty and was assigned to the [[4th Fleet (Imperial Japanese Navy)|4th Fleet]] in 1939. During the Pacific War, she participated in the occupation of the [[Gilbert Islands]] and [[Battle of Rabaul (1942)|Rabaul and Kavieng]] in New Guinea. Damaged by American aircraft shortly afterwards, the ship was forced to return to Japan for repairs. ''Tokiwa'' laid [[minefield]]s during 1944–45 until she was twice damaged by American mines in 1945. After repairs were completed, the ship was badly damaged by American aircraft and her crew was forced to [[Beaching (nautical)|beach]] her lest she sink shortly before the end of the war. ''Tokiwa'' was [[Marine salvage|salvaged]] in 1947 and subsequently [[ship breaking|broken up]] for scrap.
+
+== Background and description==
+The 1896 Naval Expansion Plan was made after the [[First Sino-Japanese War]] and included four armored cruisers in addition to four more battleships, all of which had to be ordered from British shipyards as Japan lacked the capability to build them itself. Further consideration of the Russian building program caused the IJN to believe that the battleships ordered under the original plan would not be sufficient to counter the [[Imperial Russian Navy]]. Budgetary limitations prevented ordering more battleships and the IJN decided to expand the number of more affordable armored cruisers to be ordered from four to six ships. The revised plan is commonly known as the &quot;Six-Six Fleet&quot;.&lt;ref&gt;Evans &amp; Peattie, pp. 57–62&lt;/ref&gt; Unlike most of their contemporaries which were designed for [[commerce raiding]] or to defend colonies and trade routes, ''Tokiwa'' and her half-[[sister ship|sisters]] were intended as fleet scouts and to be employed in the [[line of battle|battleline]].&lt;ref&gt;Milanovich, p. 72&lt;/ref&gt;
+
+The ship was {{convert|134.72|m|ftin|sp=us}} long [[length overall|overall]] and {{convert|124.36|m|ftin|sp=us}} [[Length between perpendiculars|between perpendiculars]]. She had a [[beam (nautical)|beam]] of {{convert|20.48|m|ftin|sp=us}} and had an average [[draft (ship)|draft]] of {{convert|7.4|m|ftin|sp=us}}. ''Tokiwa'' [[Displacement (ship)|displaced]] {{convert|9667|t|LT|sp=us}} at normal load and {{convert|10476|t|LT|sp=us}} at [[deep load]]. The ship had a [[metacentric height]] of {{convert|0.88|m|ftin|sp=us}}.&lt;ref&gt;Milanovich, pp. 74, 80&lt;/ref&gt; Her crew consisted of 676 officers and enlisted men.&lt;ref name=j2&gt;Jentschura, Jung &amp; Mickel, p. 72&lt;/ref&gt;
+
+''Tokiwa'' had two 4-cylinder [[Marine steam engine#Triple or multiple expansion|triple-expansion steam engine]]s, each driving a single [[propeller shaft]].&lt;ref&gt;Milanovich, p. 81&lt;/ref&gt; Steam for the engines was provided by a dozen [[Scotch marine boiler|cylindrical boilers]] and the engines were rated at a total of {{convert|18000|ihp|lk=on}}. The ship had a designed speed of {{convert|22|kn|lk=in}} and reached {{convert|23.1|kn}} during her [[sea trial]]s from {{convert|19040|ihp|abbr=on}}. She carried up to {{convert|1410|t|LT|sp=us|disp=flip}} of coal&lt;ref name=b9&gt;Brook 1999, p. 109&lt;/ref&gt; and could steam for {{convert|10000|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref name=j2/&gt;
+
+The [[main battery|main armament]] for all of the &quot;Six-Six Fleet&quot; armored cruisers was four [[20.3 cm/45 Type 41 naval gun|eight-inch guns]] in twin-[[gun turret]]s fore and aft of the [[superstructure]]. The [[Battleship secondary armament|secondary armament]] consisted of 14 [[Elswick Ordnance Company]] &quot;Pattern Z&quot; [[quick-firing gun|quick-firing (QF)]], {{convert|6|in|mm|0|adj=on}} guns. Only four of these guns were not mounted in armored [[casemate]]s on the main and upper decks and their mounts on the upper deck were protected by [[gun shield]]s. ''Tokiwa'' was also equipped with a dozen [[QF 12 pounder 12 cwt naval gun|QF 12-pounder 12-cwt guns]]&lt;ref group=Note&gt;&quot;Cwt&quot; is the abbreviation for [[hundredweight]], 12 cwt referring to the weight of the gun.&lt;/ref&gt; and eight QF 2.5-pounder [[Hotchkiss gun|Yamauchi guns]] as close-range defense against [[torpedo boat]]s. The ship  was equipped with five {{convert|457|mm|in|abbr=on}} [[torpedo tube]]s, one above water in the bow and four submerged tubes, two on each [[broadside]].&lt;ref&gt;Milanovich, p. 78&lt;/ref&gt;
+
+All of the &quot;Six-Six Fleet&quot; armored cruisers used the same armor scheme with some minor differences, of which the most important was that the two ''Asama''-class ships used less tough [[Harvey armor]]. The [[Belt armor|waterline belt]] ran the full length of the ship and its thickness varied from {{convert|178|mm|in|sp=us}} amidships to {{convert|89|mm|in|sp=us}} at the bow and stern. It had a height of {{convert|2.13|m|ftin|sp=us}}, of which {{convert|1.52|m|ftin|sp=us}} was normally underwater. The upper [[strake]] of belt armor was {{convert|127|mm|in|sp=us}} thick and extended from the upper edge of the waterline belt to the main deck. It extended {{convert|65.42|m|ftin|sp=us}} from the forward to the rear [[barbette]]. The ''Asama'' class had oblique 127&amp;nbsp;mm armored [[bulkhead (partition)|bulkhead]]s that closed off the ends of the central armored citadel.&lt;ref&gt;Milanovich, pp. 80–81&lt;/ref&gt;
+
+The barbettes, gun turrets and the front of the casemates were all 152 millimeters thick while the sides and rear of the casemates were protected by {{convert|51|mm|in|sp=us}} of armor. The deck was also 51 millimeters thick and the armor protecting the [[conning tower]] was {{convert|356|mm|in|sp=us}} in thickness.&lt;ref name=Conway&gt;Chesneau &amp; Kolesnik, p. 224&lt;/ref&gt;
+
+==Construction and career==
+The contract for ''Tokiwa'' was signed on 6 July 1897 with [[Armstrong Whitworth]]. The ship had already been [[keel laying|laid down]] at their shipyard in [[Elswick, Tyne and Wear|Elswick]] on 6 January 1897 as a speculative venture. She was [[Ship naming and launching|launched]] on 6 July 1898 and completed on 18 May 1899. The ship departed for Japan the next day and arrived in [[Yokosuka, Kanagawa|Yokosuka]] on 16 July.&lt;ref&gt;Milanovich, p. 73&lt;/ref&gt; [[Captain (naval)|Captain]] [[Dewa Shigetō]] had been appointed on 5 April to supervise her construction and bring her to Japan. He was relieved of command after his arrival by Captain [[Nakayama Nagaaki]].&lt;ref name=hk&gt;Hackett &amp; Kingsepp&lt;/ref&gt; The following year, ''Tokiwa'' supported Japanese forces during the [[Boxer Rebellion]] in China.&lt;ref&gt;Dix, p. 307&lt;/ref&gt;
+
+===Russo-Japanese War===
+[[File:Japanese cruiser Tokiwa 1904.jpg|thumb|''Tokiwa'' anchored in 1904]]
+Sublieutenant [[Kichisaburō Nomura]], later [[Minister for Foreign Affairs (Japan)|Foreign Minister]], was appointed to the ship in July 1903 until the ship's return after the Battle off Ulsan in August 1904.&lt;ref&gt;Mauch, pp. 25–27&lt;/ref&gt; Captain [[Yoshimatsu Motaro]] assumed command of ''Tokiwa'' on 18 January 1904. At the start of the Russo-Japanese War a few weeks later, the ship was assigned to the 2nd Division of the [[2nd Fleet (Imperial Japanese Navy)|2nd Fleet]].&lt;ref&gt;Kowner, p. 465&lt;/ref&gt; She participated in the [[Battle of Port Arthur]] on 9 February 1904, when [[Vice Admiral]] [[Tōgō Heihachirō]] led the [[Combined Fleet]] in an attack on the Russian ships of the [[Pacific Fleet (Russia)|Pacific Squadron]] anchored just outside [[Lüshunkou District|Port Arthur]]. Tōgō had expected the surprise night attack by his [[destroyer]]s to be much more successful than it was, anticipating that the Russians would be badly disorganized and weakened, but they had recovered from their surprise and were ready for his attack. The Japanese ships were spotted by the [[protected cruiser]] {{ship|Russian cruiser|Boyarin|1901|2}}, which was patrolling offshore and alerted the Russians. Tōgō chose to attack the Russian coastal defenses with his main armament and engage the ships with his secondary guns. Splitting his fire proved to be a poor decision as the Japanese eight- and six-inch guns inflicted little damage on the Russian ships, which concentrated all their fire on the Japanese ships with some effect.&lt;ref&gt;Forczyk, pp. 42–43&lt;/ref&gt; Although many ships on both sides were hit, Russian casualties numbered some 150, while the Japanese suffered roughly 90 killed and wounded before Tōgō disengaged.&lt;ref&gt;Corbett, I, p. 105&lt;/ref&gt;
+
+In early March, ''Tokiwa'' was detached from the 2nd Division and reassigned to Rear Admiral Dewa's 3rd Division. On 10 March, ''Tokiwa'' and the protected cruiser {{ship|Japanese cruiser|Chitose||2}} attempted to capture the disabled destroyer {{ship|Russian destroyer|Steregushchiy||2}}, but were driven off by heavy fire from the shore defenses, although they managed to rescue the wounded crewmen.&lt;ref&gt;Corbett, I, pp. 142, 149–50&lt;/ref&gt; Tōgō successfully lured out a portion of the Russian Pacific Squadron on 13 April, including Vice Admiral [[Stepan Makarov]]'s [[flagship]], the battleship {{ship|Russian battleship|Petropavlovsk|1897|2}}. During this action, ''Tokiwa'' engaged the Russian cruisers that preceded the battleships before falling back on Tōgō's battleships.&lt;ref&gt;Warner &amp; Warner, pp. 236–38&lt;/ref&gt; When Makarov spotted the five Japanese battleships, he turned back for Port Arthur and his flagship ran into the minefield just laid by the Japanese. The ship sank in less than two minutes after one of her [[magazine (artillery)|magazine]]s exploded, and Makarov was one of the 677 killed. In addition to this loss, the battleship {{ship|Russian battleship|Pobeda||2}} was damaged by a mine.&lt;ref&gt;Forczyk, pp. 45–46&lt;/ref&gt;
+
+''Tokiwa'' rejoined the 2nd Division a few days later and Kamimura was ordered north in mid-April to cover the [[Sea of Japan]] and defend the [[Korea Strait]] against any attempt by the Vladivostok Independent Cruiser Squadron, under the command of Rear Admiral [[Karl Jessen]], to break through and unite with the Pacific Squadron. The two units narrowly missed each other on the 24th in heavy fog and the Japanese proceeded to [[Vladivostok]] where they laid several [[minefield]]s before arriving back at [[Wonsan]] on the 30th.&lt;ref&gt;Corbett, I, pp. 188–89, 191–96&lt;/ref&gt;
+
+The division failed to intercept the Russian squadron as it attacked [[Hitachi Maru Incident|several transports]] south of [[Okinoshima, Shimane|Okinoshima Island]] on 15 June due to heavy rain and fog. The Russians sortied again on 30 June and Kamimura finally was able to intercept them the next day near Okinoshima. The light was failing when they were spotted and the Russians were able to disengage in the darkness. Jessen's ships sortied again on 17 July headed for the eastern coast of Japan to act as a diversion and pull Japanese forces out of the Sea of Japan and the [[Yellow Sea]]. The Russian ships passed through [[Tsugaru Strait]] two days later and began capturing ships bound for Japan. The arrival of the Russians off [[Tokyo Bay]] on the 24th caused the [[Imperial Japanese Navy General Staff|Naval General Staff]] to order Kamimura to sail for Cape Toi Misaki, [[Kyūshū]], fearing that Jessen would circumnavigate Japan to reach Port Arthur. Two days later he was ordered north to the [[Kii Channel]] and then to Tokyo Bay on the 28th. The General Staff finally ordered him back to [[Tsushima Island]] on the 30th; later that day he received word that Jessen's ships had passed through the Tsugaru Strait early that morning and reached Vladivostok on 1 August.&lt;ref&gt;Corbett, I, pp. 283–89, 319–25, 337–51&lt;/ref&gt;
+
+====Battle off Ulsan====
+{{main|Battle off Ulsan}}
+[[File:IJN Tokiwa 4.jpg|thumb|upright|At anchor in a 1905 postcard]]
+On 10 August, the ships at Port Arthur attempted a breakout to Vladivostok, but were turned back in the [[Battle of the Yellow Sea]]. Jessen was ordered to rendezvous with them, but the order was delayed. His three armored cruisers, {{ship|Russian cruiser|Rossia||2}}, {{ship|Russian cruiser|Gromoboi||2}}, and {{ship|Russian cruiser|Rurik|1892|2}}, had to raise steam, so he did not sortie until the evening of 13 August. By dawn he had reached Tsushima, but turned back when he failed to see any ships from the Port Arthur squadron. {{Convert|36|mi|0}} north of the island he encountered Kamimura's squadron, which consisted of four modern armored cruisers, {{ship|Japanese cruiser|Iwate||2}}, {{ship|Japanese cruiser|Izumo||2}}, {{ship|Japanese cruiser|Azuma||2}}, and ''Tokiwa''. The two squadrons had passed during the night without spotting one another and each had reversed course around first light. This put the Japanese ships astride the Russian route to Vladivostok.&lt;ref&gt;Brook 2000, pp. 34, 37&lt;/ref&gt;
+
+Jessen ordered his ships to turn to the northeast when he spotted the Japanese at 05:00 and they followed suit, albeit on a slightly converging course. Both sides opened fire around 05:23 at a range of {{convert|8500|m|yd|sp=us}}. The Japanese ships concentrated their fire on ''Rurik'', the rear ship of the Russian formation. She was hit fairly quickly and began to fall astern of the other two ships. Jessen turned southeast in an attempt to open the range, but this blinded the Russian gunners with the rising sun and prevented any of their broadside guns from bearing on the Japanese. About 06:00, Jessen turned 180° to starboard in an attempt to reach the Korean coast and to allow ''Rurik'' to rejoin the squadron. Kamimura followed suit around 06:10, but turned to port, which opened the range between the squadrons. ''Azuma'' then developed engine problems and the Japanese squadron slowed to conform with her best speed. Firing recommenced at 06:24 and ''Rurik'' was hit three times in the stern, flooding her steering compartment; she had to be steered with her engines. Her speed continued to decrease, further exposing her to Japanese fire, and her steering jammed to port around 06:40.&lt;ref&gt;Brook 2000, pp. 39, 43&lt;/ref&gt;
+
+Jessen made another 180° turn in an attempt to interpose his two ships between the Japanese and ''Rurik'', but the latter ship suddenly turn to starboard and increased speed and passed between Jessen's ships and the Japanese. Kamimura turned 180° as well so that both squadrons were heading southeast on parallel courses, but Jessen quickly made another 180° turn so that they headed on opposing courses. The Russians reversed course for the third time around 07:45 in another attempt to support ''Rurik'' although ''Rossia'' was on fire herself; her fires were extinguished about twenty minutes later. Kamimura circled ''Rurik'' to the south at 08:00 and allowed the other two Russian ships to get to his north and gave them an uncontested route to Vladivostok. Despite this, Jessen turned back once more at 08:15 and ordered ''Rurik'' to make her own way back to Vladivostok before turning north at his maximum speed, about {{convert|18|kn}}.&lt;ref name=b3&gt;Brook 2000, p. 43&lt;/ref&gt;
+
+About this time Kamimura's two elderly protected cruisers, {{ship|Japanese cruiser|Naniwa||2}} and {{ship|Japanese cruiser|Takachiho||2}}, were approaching from the south. Their arrival allowed Kamimura to pursue Jessen with all of his armored cruisers while the two new arrivals dealt with ''Rurik''. They fought a running battle with the Russians for the next hour and a half; scoring enough hits on them to force their speed down to {{convert|15|kn}}. ''Azuma''{{'}}s engines again broke down during this chase and ''Tokiwa'' assumed her place in the line. The Japanese closed to a minimum of about {{convert|5000|m|yd|sp=us}}, but Kamimura then opened the range up to {{convert|6500|m|yd|sp=us}}.&lt;ref name=b3/&gt;
+
+About 10:00, Kamimura's gunnery officer erroneously informed him that ''Izumo'' had expended three-quarters of her ammunition and he turned back after a five-minute rapid-fire barrage. He did not wish to leave the Tsushima Strait unguarded and thought that he could use his remaining ammunition on ''Rurik''. By this time she had been sunk by ''Naniwa'' and ''Takachiho''. They had radioed Kamimura that she was sunk, but he did not receive the message. Shortly after the Japanese turned back, ''Gromoboi'' and ''Rossia'' were forced to [[heave-to]] to make repairs. None of the Japanese ships were seriously damaged and ''Tokiwa'' only suffered three men wounded during the battle.&lt;ref&gt;Brook 2000, pp. 43, 45&lt;/ref&gt; After the battle the cruiser was transferred to Rear Admiral Uryū Sotokichi's command who began a blockade of [[Shanghai]] on 20 August where the {{ship|Russian cruiser|Askold}} and a destroyer had taken refuge after the Battle of the Yellow Sea. He returned home on 8 September after the Chinese government formally interned the Russian ships.&lt;ref&gt;Corbett, I, p. 457&lt;/ref&gt;
+
+In mid-September, ''Tokiwa'' and ''Iwate'' were transferred to the 1st Division. In November the cruiser was sent to the [[Kure Naval Arsenal]] to refit. The ship was reassigned to the 2nd Division after the refit, which was ordered north to Wonsan on 2 February to escort the occupation force there. ''Tokiwa'' was ordered home on 12 February for another refit. On 13 April, the 2nd Division, including the armored cruisers ''Izumo'' and {{ship|Japanese cruiser|Kasuga||2}}, sailed to escort [[minelayers]] as they laid 715 [[naval mine|mines]] off Vladivostok.&lt;ref&gt;Corbett, II, pp. 52, 97, 159–60, 177&lt;/ref&gt;
+
+====Battle of Tsushima====
+{{main|Battle of Tsushima}}
+[[File:Japanese cruiser Tokiwa.jpg|thumb|Japanese postcard of ''Tokiwa'' at speed, circa 1905]]
+As the Russian [[Pacific Fleet (Russia)|2nd and 3rd Pacific Squadrons]] approached Japan on 27 May, having sailed from the [[Baltic Sea]], they were spotted by patrolling Japanese ships early that morning, but visibility was limited and radio reception poor. The preliminary reports were enough to cause Tōgō to order his ships to put to sea and the 2nd Division spotted the Russian ships under the command of Vice Admiral [[Zinovy Rozhestvensky]] at around 11:30. Kamimura closed to about a range of {{convert|8000|m|yd|sp=us}} before sheering off under fire to join Tōgō's battleships.&lt;ref&gt;Corbett, II, pp. 232, 235&lt;/ref&gt; ''Tokiwa'' was third in line of six when Tōgō opened fire on the 2nd Pacific Squadron at 14:10 and, like most of the ships in the division, engaged the battleship {{ship|Russian battleship|Oslyabya||2}} which was forced to fall out of formation at 14:50 and sank 20 minutes later. By this time the Russian formation was in disorder and ''Knyaz Suvorov'' suddenly appeared out of the mist at 15:35 at a range of about {{convert|2000|m|sp=us}}. All of Kamimura's ships engaged her for five minutes or so with ''Azuma'' and the armored cruiser {{ship|Japanese cruiser|Yakumo||2}} also firing torpedoes at the Russian ship without effect.&lt;ref&gt;Campbell, Part 2, pp. 128–32&lt;/ref&gt;
+ 
+After 17:30 Kamimura led his division in a fruitless pursuit of some of the Russian cruisers, leaving Tōgō's battleships to their own devices. He abandoned his chase around 18:03 and turned northwards to rejoin Tōgō. His ships spotted the rear of the Russian battleline around 18:30 and opened fire when the range closed to {{convert|8000|-|9000|m|yd|sp=us}}. Nothing is known of any effect on the Russians and they ceased fire by 19:30 and rejoined Tōgō at 20:08 as night was falling.&lt;ref&gt;Campbell, Part 3, pp. 186–87&lt;/ref&gt; The surviving Russian ships were spotted the next morning and the Japanese ships opened fire around 10:30, staying beyond the range at which the Russian ships could effectively reply. Rear Admiral [[Nikolai Nebogatov]] therefore decided to surrender his ships as he could neither return fire nor close the range.&lt;ref&gt;Corbett, II, pp. 319–20&lt;/ref&gt; Over the course of the battle, ''Tokiwa'' was struck by one large and seven small shells, mostly 75-millimeter. They caused only minor damage,&lt;ref name=c3&gt;Campbell, Part 4, p. 263&lt;/ref&gt; but killed one crewman and wounded fourteen.&lt;ref name=wg9&gt;Watts &amp; Gordon, p. 109&lt;/ref&gt;
+
+Captain [[Imai Kanemasa]] assumed command of the ship on 14 June,&lt;ref name=hk/&gt; as Tōgō was reorganizing the fleet for future operations. As the IJN was preparing to invade [[Sakhalin]] Island in early July, Kamimura's 2nd Division, now reduced to ''Iwate'', ''Izumo'', and ''Tokiwa'', was tasked to defend the Korea Strait before it escorted troops that made an [[amphibious landing]] in northeastern Korea. In mid-August, the division covered the landing at [[Chongjin]], closer to the Russian border.&lt;ref&gt;Corbett, II, pp. 356, 363–65, 377–80&lt;/ref&gt; In 1910, ''Tokiwa''{{'}}s boilers were replaced by Miyabara [[water-tube boiler]]s and her six-inch guns were replaced by Japanese-built models.&lt;ref name=j2/&gt; In December 1911, ''Iwate'' and ''Tokiwa'' were deployed to Port Arthur to keep order there during the [[Xinhai Revolution|Chinese Revolution]].&lt;ref&gt;Mauch, p. 38&lt;/ref&gt;
+
+===World War I===
+The ship participated in the early stages of the [[Battle of Tsingtao]] before returning to [[Sasebo, Nagasaki|Sasebo]] on 2 October 1914.&lt;ref&gt;Burdick, pp. 235, 241&lt;/ref&gt; The following month, ''Tokiwa'' was deployed to [[Singapore]] preparatory to searching for the German commerce raider {{SMS|Emden|1906|2}}, but the ship was sunk before the mission began.&lt;ref&gt;Halpern, p. 75&lt;/ref&gt; The cruiser was assigned to the Training Squadron on 1 September 1916 preparatory to her departure on 5 April 1917 with ''Yakumo'' on a training cruise to ports in [[California]], [[Hawaii]] and the [[South Sea Islands]] with cadets from the 44th class of the [[Imperial Japanese Naval Academy]]. After her return on 17 August, the ship was relieved of her assignment to the Training Squadron on 25 August&lt;ref name=lw7&gt;Lacroix &amp; Wells, p. 657&lt;/ref&gt; and sent to [[Honolulu]], Hawaii in October to protect shipping from any German commerce raiders and to allow the [[US Navy]] to redeploy its forces to the Atlantic.&lt;ref&gt;Saxon&lt;/ref&gt;
+
+''Tokiwa'' was reassigned to the Training Squadron on 10 August 1918 and returned home to prepare for her next training cruise, together with ''Azuma'', that began on 1 March 1919 for [[South Asia]] and [[Australia]] and again on 24 November 1919, also with ''Azuma'', for Singapore, [[Southeast Asia]], [[Suez Canal]] and the [[Mediterranean Sea]]. After her return on 20 May 1920, the ship was relieved of her assignment to the Training Squadron on 4 June.&lt;ref name=lw7/&gt; ''Tokiwa'' was reclassified as a 1st class [[Kaibokan|coast-defense ship]] on 30 September 1921.&lt;ref name=hk/&gt;
+
+===Converted into a minelayer===
+On 30 September 1922, ''Tokiwa'' began her conversion into a minelayer at the [[Sasebo Naval Arsenal]].&lt;ref name=hk/&gt; To accommodate her 200–300 mines, her rear 8-inch gun turret removed, as were the six 6-inch guns on the main deck. In addition, the number of light guns was reduced to two 12-pounders, although two [[8 cm/40 3rd Year Type naval gun|8&amp;nbsp;cm/40 3rd Year Type]] [[anti-aircraft gun|anti-aircraft (AA) guns]] were added.&lt;ref name=j2/&gt; These modifications were completed in March 1924. The ship's [[stern]] suffered substantial damage in an accidental explosion in [[Saiki, Oita|Saiki Bay]] on 1 August 1927 when [[fuze]]d mines were being disarmed. One mine detonated and then several others followed, killing 35 crewmen and wounding 65. ''Tokiwa'' was assigned to the reserve fleet after repairs.&lt;ref name=hk/&gt;
+
+''Tokiwa'' was assigned to the [[1st Fleet (Imperial Japanese Navy)|1st Fleet]] from January 1932 to May 1933 after the Japanese invasion of Manchuria in 1931 and patrolled northern China.&lt;ref name=hk/&gt; From November 1937 to 1938, the ship was retrofitted with eight [[Kampon]] boilers that reduced her maximum speed to {{convert|16|kn}} and her remaining torpedo tubes were removed. The space made available by these changes increased her capacity to 500 mines.&lt;ref name=j2/&gt; With the establishment of the 4th Fleet on 15 November 1939, ''Tokiwa'' was assigned to the 18th Division, and a year later to the 19th Division under the command of Rear Admiral [[Kiyohide Shima]] together with the minelayer {{ship|Japanese minelayer|Okinoshima||2}}.&lt;ref name=hk/&gt; In 1940, the ship was refitted as a training minelayer which reduced her capacity to 200-300 mines. As part of the refit, her forward 8-inch gun turret and the four amidships 6-inch guns were removed, as was one of the 8&amp;nbsp;cm/40 3rd Year Type AA guns. Her anti-aircraft armament was heavily reinforced with the addition of two single {{convert|40|mm|adj=on|sp=us}} guns and twenty license-built [[25 mm Hotchkiss anti-aircraft gun|Hotchkiss]] [[Type 96 25 mm AT/AA Gun|25-millimeter Type 96]] light AA guns in twin-gun mounts.&lt;ref&gt;Chesneau, p. 207&lt;/ref&gt;
+
+===Pacific War===
+On 9 and 10 December 1941, ''Tokiwa'' and the other minelayers of the 19th Division escorted two troop transports that carried the occupation forces for [[Butaritari|Makin]] and [[Tarawa]] in the Gilbert Islands.&lt;ref&gt;Rohwer, p. 123&lt;/ref&gt; In January 1942, the ship participated in Operation R (the invasion of [[Rabaul]] and [[Kavieng]]) and returned to [[Kwajalein Atoll]] afterwards. She was damaged in an air raid by American aircraft from the carrier {{USS|Enterprise|CV-6|6}} on 1 February 1942 and forced to return to Sasebo for repairs. ''Tokiwa'' returned to [[Chuuk Lagoon|Truk]] on 14 July, and, on 19 August, was assigned to the Japanese task force sent to reoccupy Makin Atoll after the [[Makin Raid]].&lt;ref name=hk/&gt;
+
+On 1 May 1943, the ship was reassigned to the [[Ōminato Guard District]] and departed Truk on 26 May in a convoy to Yokosuka that was unsuccessfully attacked by {{USS|Salmon|SS-182}} on 3 June. ''Tokiwa'' was reassigned to the 18th Escort Squadron of the [[7th Fleet (Imperial Japanese Navy)|7th Fleet]] on 20 January 1944. ''Tokiwa'' laid thousands of mines in the waters off [[Okinawa]] in June 1944 and [[Yakushima]] in February 1945. Ironically, ''Tokiwa'' was herself mined on 14 April 1945, approximately {{convert|78|mi|km}} off [[Kitakyushu|Hesaki, Kyūshū]] suffering moderate damage. She was later damaged again by mines laid by [[USAAF]] [[B-29 Superfortress]] bombers on 3 June 1945.&lt;ref name=hk/&gt; At some point during the war, her armament was augmented with approximately ten 25&amp;nbsp;mm Type 96 AA guns in single mounts and 80 [[depth charge]]s. In addition she was fitted with [[List of Japanese World War II radar#Land-based Radar|Type 3, Mark 1, Model 3]] and Type 2, Mark 2, Model 1 air search radars.&lt;ref&gt;Fukui, p. 13&lt;/ref&gt;
+
+[[File:Japanese cruiser Tokiwa 1945.jpg|thumb|Wrecked at the end of World War II]]
+While at Ōminato in [[Mutsu Bay]] in northern Japan at {{coord|41.20|N|141.60|E}}, ''Tokiwa'' was severely damaged by a direct bomb hit and four near misses in an air attack on 9 August 1945 by United States Navy aircraft from [[Task Force 38]], and was [[Beaching (nautical)|beached]] by her crew. On 30 November 1945 ''Tokiwa'' was removed from the [[navy list]]. After the [[surrender of Japan|end of World War II]], the wreck was refloated on 5 April 1947, towed to [[Hakodate, Hokkaidō]], and scrapped from August–October 1947.&lt;ref name=hk/&gt;
+
+==Notes==
+{{reflist|group=Note}}
+
+==Footnotes==
+{{reflist|30em}}
+
+==Bibliography==
+*{{cite book|last=Brook|first=Peter|title=Warship 2000–2001|editor=Preston, Antony|publisher=Conway Maritime Press|location=London|year=2000|chapter=Armoured Cruiser vs. Armoured Cruiser: Ulsan 14 August 1904|isbn=0-85177-791-0}}
+* {{cite book|last= Brook |first= Peter|title=Warships for Export: Armstrong Warships 1867-1927 |publisher= World Ship Society |location= Gravesend |year=1999|isbn=0-905617-89-4}}
+*{{cite book|last=Burdick|first=Charles B.|title=The Japanese Siege of Tsingtau: World War I in Asia|year=1976|publisher=Archon Books|location=Hamden, Connecticut|isbn=0-2080-1594-9}}
+*{{cite book|last=Campbell|first=N.J.M.|title=Warship|chapter=The Battle of Tsu-Shima, Parts 2, 3 and 4|editor=Preston, Antony|publisher=Conway Maritime Press|location=London|year=1978|volume=II|pages=127–35, 186–192, 258–65|isbn=0-87021-976-6}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+* {{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|lastauthoramp=y}}
+*{{cite book|last=Corbett|first=Julian Stafford|authorlink=Julian Corbett|title=Maritime Operations in the Russo-Japanese War, 1904–1905|year=1994|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=1-55750-129-7}}
+*{{cite book|last=Dix|first=Charles Cabry|title=The World's Navies in the Boxer Rebellion (China 1900)|url=https://books.google.com/books?id=fjEQAAAAYAAJ&amp;pg=PA307|year=1905|publisher=Digby, Long &amp; Co|location=London|oclc=5716842}}
+* {{cite book| last = Evans| first = David| first2 = Mark R. |last2=Peattie| year = 1997| title = Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941| publisher =Naval Institute Press| location =Annapolis, Maryland| isbn = 0-87021-192-7|lastauthoramp=y|author2link=Mark Peattie}}
+* {{cite book|title=Russian Battleship vs Japanese Battleship, Yellow Sea 1904–05|author=Forczyk, Robert|publisher=Osprey|year=2009|location=Botley, UK|isbn=978-1-84603-330-8}}
+*{{cite book|last=Fukui|first=Shizuo|title=Japanese Naval Vessels at the End of World War II|publisher=Greenhill Books|location=London|year=1991|isbn=1-85367-125-8}}
+*{{cite web | url= http://www.combinedfleet.com/tokiwa_t.htm| title=  IJN ''Tokiwa'': Tabular Record of Movement| last1 = Hackett| first1 =Bob | first2 = Sander |last2=Kingsepp| date=24 December 2011| work= FUSETSUKAN! Stories and Battle Histories of the IJN's Minelayers | publisher= Combinedfleet.com|accessdate =18 April 2015|lastauthoramp=y}}
+*{{cite book|last=Halpern|first=Paul S.|title=A Naval History of World War I|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1994|isbn=1-55750-352-4}}
+*{{cite book| last = Jentschura| first = Hansgeorg| first2 = Dieter |last2=Jung|first3=Peter |last3=Mickel| year = 1977| title = Warships of the Imperial Japanese Navy, 1869–1945| publisher = United States Naval Institute| location = Annapolis, Maryland| isbn = 0-87021-893-X|lastauthoramp=y}}
+*{{cite book|last=Kowner|first=Rotem|authorlink=Rotem Kowner|title=Historical Dictionary of the Russo-Japanese War|series=Historical Dictionaries of War, Revolution, and Civil Unrest|volume=29|year=2006|publisher=Scarecrow Press|location=Lanham, Maryland|isbn=978-0-81084-927-3}}
+*{{cite book|last1=Lacroix|first1=Eric|last2=Wells|first2=Linton|title=Japanese Cruisers of the Pacific War|publisher=Naval Institute Press|location=Annapolis, Maryland|year=1997|isbn=0-87021-311-3|lastauthoramp=y}}
+*{{cite book|last=Mauch|first=Peter|title=Sailor Diplomat: Nomura Kichisaburō and the Japanese-American War|year=2011|publisher=Harvard University Asia Center|location=Cambridge, Massachusetts|isbn=978-0-674-05599-5}}
+* {{cite book|editor=Jordan, John|chapter=Armored Cruisers of the Imperial Japanese Navy|last=Milanovich|first=Kathrin|publisher=Conway |location=London|year=2014|title=Warship 2014|isbn=978-1-84486-236-8}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+*{{cite journal|last=Saxon |first=Timothy D. |date=Winter 2000 |title=Anglo-Japanese Naval Cooperation, 1914–1918 |journal=Naval War College Review |publisher=Naval War College Press |volume=LIII |issue=1 |url=http://www.nwc.navy.mil/press/Review/2000/winter/art3-w00.htm |deadurl=yes |archiveurl=https://web.archive.org/web/20061213002648/http://www.nwc.navy.mil/press/Review/2000/winter/art3-w00.htm |archivedate=December 13, 2006 }}
+* {{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+* {{cite book|last1=Warner|first1=Denis|last2=Warner|first2=Peggy|title=The Tide at Sunrise: A History of the Russo-Japanese War, 1904–1905|publisher=Frank Cass|location=London|year=2002|edition=2nd|isbn=0-7146-5256-3|lastauthoramp=y}}
+*{{cite book|last1=Watts|first1=Anthony J.|last2=Gordon|first2=Brian G.|title=The Imperial Japanese Navy|year=1971|publisher=Doubleday|location=Garden City, New York|oclc=202878|lastauthoramp=y}}
+
+==External links==
+{{Commons category|Tokiwa (ship, 1899)|''Tokiwa''}}
+*[http://homepage2.nifty.com/nishidah/e/stc0312.htm Tokiwa on Materials of IJN]
+*[http://www.the-blueprints.com/blueprints/ships/ships-japan/15700/view/ijn_tokiwa_1905_(armored_cruiser)/ Tokiwa on The Blueprints Database]
+
+{{Asama class cruiser}}
+
+{{DEFAULTSORT:Tokiwa}}
+[[Category:Asama-class cruisers]]
+[[Category:Tyne-built ships]]
+[[Category:1898 ships]]
+[[Category:Russo-Japanese War cruisers of Japan]]
+[[Category:World War I cruisers of Japan]]
+[[Category:Minelayers of the Imperial Japanese Navy]]
+[[Category:World War II mine warfare vessels of Japan]]
+[[Category:Cruisers sunk by aircraft]]
+[[Category:Ships sunk by US aircraft]]</text>
+      <sha1>5ns1nd42an3v9zneaa6madpn5mu5fby</sha1>
+    </revision>
+  </page>
+</mediawiki>

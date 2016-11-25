@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French submarine Pluviôse</title>
+    <ns>0</ns>
+    <id>41433080</id>
+    <revision>
+      <id>736610541</id>
+      <parentid>695947070</parentid>
+      <timestamp>2016-08-28T17:36:33Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <minor/>
+      <comment>Parsecboy moved page [[French submarine Pluviôse (Q51)]] to [[French submarine Pluviôse]]: no other ships with this name, dab is unnecessary</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4741">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Le Pluviose Q51.png|300px]]
+|Ship caption=French submarine ''Pluviôse'' in [[Boulogne]] harbour
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{shipboxflag|France|naval}}
+|Ship name=''Pluviôse''
+|Ship namesake=The month of [[Pluviôse]]
+|Ship ordered=
+|Ship builder=Arsenal de [[Cherbourg]]
+|Ship laid down= 
+|Ship launched=27 May 1907
+|Ship commissioned=10 May 1908
+|Ship stricken=1919
+|Ship fate=*Sunk in collision, 26 May 1910, [[Marine salvage|raised]] and returned to service
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Pluviôse|submarine}}
+|Ship displacement=*{{Convert|404|t|LT|0|abbr=on}} (surfaced)
+* {{Convert|553|t|LT|0|abbr=on}} (submerged)
+|Ship length={{convert|51.12|m|ftin|abbr=on}} ([[o/a]])
+|Ship beam={{convert|4.96|m|ftin|abbr=on}}
+|Ship draft={{convert|3.15|m|ftin|abbr=on}}
+|Ship power=*{{convert|700|PS|kW bhp|lk=on|abbr=on}}  (steam)
+* 2 × [[Du Temple boiler]]
+* {{convert|400|PS|kW bhp|abbr=on}}  (electric motors)
+|Ship propulsion=*2 × shafts; 2 × [[Marine steam engine#Triple or multiple expansion|Triple-expansion steam engines]]s
+* 2 × [[electric motor]]s
+|Ship speed=*{{convert|12|kn|lk=in}} (surfaced)
+* {{convert|8|kn}} (submerged)
+|Ship range=*{{convert|1000|nmi|abbr=on|lk=in}} at {{convert|8.5|kn}} (surfaced)
+* {{convert|27|nmi|abbr=on}} at {{convert|5|kn}} (submerged)
+|Ship test depth=
+|Ship complement=2 officers and 23 crewmen
+|Ship armament=*1 × {{convert|450|mm|in|1|abbr=on}} bow [[torpedo tube]]
+*1 × twin 450&amp;nbsp;mm [[Drzewiecki drop collar]]
+*4 × external 450&amp;nbsp;mm torpedo launchers (2 × facing forward, 2 × aft)
+}}
+|}
+
+'''French submarine ''Pluviôse'' (Q51)''' was a [[Maxime Laubeuf|Laubeuf]] type submarine&lt;ref name=Jane&gt;Jane p199&lt;/ref&gt; built for the [[French Navy]] prior to [[World War I]]. She was the [[name ship]] of [[Pluviôse-class submarine|her class]].&lt;ref name=Conway&gt;Conway p209&lt;/ref&gt;
+
+==Design and construction== 
+''Pluviôse'' was ordered by the French Navy as part of its 1905 programme and was laid down at the [[Arsenal de Cherbourg|Cherbourg Naval Yard]] in November of that year. She was launched on 27 May 1907 and commissioned 10 May 1908. 
+''Pluviôse'' was equipped with [[Félix du Temple|Du Temple]] boilers and reciprocating steam engines for surface propulsion, and [[General Electric Company, Nancy|CGE Nancy]] electric motors for power while submerged. She carried eight torpedoes, two internally and six externally.&lt;ref name=Conway/&gt;
+''Pluviôse'' was named for [[Pluviose|a month]] of the [[French Revolutionary calendar]].
+
+==Service history==
+On the afternoon of 26 May 1910 ''Pluviôse'' was cruising off [[Calais]] when she was involved in a collision with the packet boat ''Pas de Calais''. ''Pluviôse'' sank with the loss of all hands, 27 men. 
+The vessel was later raised and repaired, though she was not returned to front-line service, being disarmed and used for compression tests.
+
+Her captain at the time of the accident  Maurice Callot, was later honoured by having [[French submarine Maurice Callot|a submarine named after him]].
+
+''Pluviôse'' was stricken in 1919 and sold for scrap in 1925.
+
+==Notes==
+{{reflist|30em}}
+
+==Bibliography==
+*{{cite book|last=Couhat|first=Jean Labayle|title=French Warships of World War I|year=1974|publisher=Ian Allen|location=London|isbn=0-7110-0445-5}}
+*{{cite book|last1=Gardiner|first1=Robert|last2=Gray|first2=Randal|title=Conway's All The World's Fighting Ships 1906–1921|year=1985|publisher=Conway Maritime Press|location=London|isbn=0-85177-245-5|lastauthoramp=y}}
+*{{cite book|last=Garier|first=Gérard|title=A l'épreuve de la Grande Guerre|series=L'odyssée technique et humaine du sous-marin en France|volume=3–2|year=2002|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-81-5|language=French}}
+*{{cite book|last=Garier|first=Gérard|title=Des ''Émeraude'' (1905-1906) au ''Charles Brun'' (1908–1933)|series=L'odyssée technique et humaine du sous-marin en France|volume=2|year=1998|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-34-3|language=French}}
+* Moore, J: ''Jane’s Fighting Ships of World War I'' (1919, reprinted 2003) ISBN 1 85170 378 0
+
+==External links==
+* [http://sous-marin.france.pagesperso-orange.fr/Q051.htm ''Pluviôse'' at Sous-marins Français 1863 - ] ('''French''')
+
+{{Pluviôse class submarines}}
+
+{{DEFAULTSORT:Pluviose}}
+[[Category:Pluviôse-class submarines]]
+[[Category:World War I submarines of France]]
+[[Category:1907 ships]]
+[[Category:Ships built in France]]
+[[Category:Ships sunk in collisions]]
+[[Category:Ships lost with all hands]]</text>
+      <sha1>fujaewef4hq7q156bqbdkxvbexw7ybv</sha1>
+    </revision>
+  </page>
+</mediawiki>

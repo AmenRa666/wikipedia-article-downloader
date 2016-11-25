@@ -1,0 +1,137 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>French submarine Gustave Zédé</title>
+    <ns>0</ns>
+    <id>50441598</id>
+    <revision>
+      <id>740518363</id>
+      <parentid>740518119</parentid>
+      <timestamp>2016-09-21T15:26:05Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>Added information.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3864">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=France
+|Ship flag={{Shipboxflag|France|naval}}
+|Ship name=''Gustave Zédé''
+|Ship namesake=
+|Ship awarded=
+|Ship builder=[[Arsenal de Cherbourg]]
+|Ship original cost=
+|Ship laid down=
+|Ship launched=20 May 1913
+|Ship christened=
+|Ship completed=10 October 1914
+|Ship commissioned= 
+|Ship struck=1937
+|Ship identification=[[Pennant number]]: Q92
+|Ship fate=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class={{sclass-|Gustave Zédé|submarine}}
+|Ship displacement=*{{Convert|849|t|LT|0|abbr=on}} (surfaced)
+* {{Convert|1098|t|LT|0|abbr=on}} (submerged)
+|Ship length={{convert|74|m|ftin|abbr=on}} ([[o/a]])
+|Ship beam={{convert|6|m|ftin|abbr=on}} (deep)
+|Ship draft={{convert|3.75|m|ftin|abbr=on}}
+|Ship power=* {{convert|1640|PS|kW bhp|lk=on|abbr=on}}  ([[electric motors]]) 
+*{{convert|3500|PS|kW bhp|abbr=on}}  ([[Du Temple boiler]]s)
+|Ship propulsion=*2 × shafts; 2 × electric motors
+*2 × [[Marine steam engine#Triple or multiple expansion|Triple-expansion steam engines]]
+|Ship speed=*{{convert|17|kn|lk=in}} (surfaced)
+* {{convert|10|-|11|kn}} (submerged)
+|Ship range=*{{convert|1400|nmi|abbr=on|lk=in}} at {{convert|10|kn}} (surfaced)
+* {{convert|135|nmi|abbr=on}} at {{convert|5|kn}} (submerged)
+|Ship test depth={{convert|50|m|abbr=on}}
+|Ship complement=47 officers and crewmen
+|Ship armament=* 2 × {{convert|450|mm|in|1|abbr=on}} bow [[torpedo tube]]s
+*3 × twin external 450&amp;nbsp;mm torpedo launchers
+}}
+|}
+The '''French submarine ''Gustave Zédé''''' was the [[lead ship]] of [[Gustave Zédé-class submarine|her class]] of [[submarine]]s built for the French Navy during the 1910s.
+
+During [[World War I]], ''Gustave Zédé'' sank in the [[Adriatic Sea]] on 24 August 1916 due to an explosion in her batteries, with the loss of four of her 40 crew. She was subsequently refloated, repaired, and returned to service.&lt;ref&gt;{{cite web|url=http://www.naval-history.net/WW1NavyFrench.htm |title=French Navy |publisher=Naval History |accessdate=21 February 2013}}&lt;/ref&gt;
+
+==Citations==
+{{reflist|30em}}
+
+==Bibliography==
+*{{cite book|last=Couhat|first=Jean Labayle|title=French Warships of World War I|year=1974|publisher=Ian Allen|location=London|isbn=0-7110-0445-5}}
+*{{cite book|last1=Gardiner|first1=Robert|last2=Gray|first2=Randal|title=Conway's All The World's Fighting Ships 1906–1921|year=1985|publisher=Conway Maritime Press|location=London|isbn=0-85177-245-5|lastauthoramp=y}}
+*{{cite book|last=Garier|first=Gérard|title=A l'épreuve de la Grande Guerre|series=L'odyssée technique et humaine du sous-marin en France|volume=3–2|year=2002|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-81-5|language=French}}
+*{{cite book|last=Garier|first=Gérard|title=Des ''Clorinde'' (1912-1916) aux ''Diane'' (1912–1917)|series=L'odyssée technique et humaine du sous-marin en France|volume=3-1|year=2000|publisher=Marines édition|location=Bourg-en-Bresse, France|isbn=2-909675-54-8|language=French}}
+* {{cite book |first=Jean-Michel |last=Roche |year=2005 |chapter=Classement par types |title=Dictionnaire des bâtiments de la flotte de guerre française de Colbert à nos jours 2, 1870 - 2006 |isbn=978-2-9525917-0-6 |oclc=165892922 |publisher=Roche |location=Toulon}}
+
+==External links==
+* [http://www.navypedia.org/ships/france/fr_ss_gustave_zedee.htm ''Gustave Zédé'' class on navypedia.org]
+
+{{Gustave Zédé-class submarine}}
+{{August 1916 shipwrecks}}
+
+{{DEFAULTSORT:Gustave Zede}}
+[[Category:Ships built in France]]
+[[Category:1913 ships]]
+[[Category:World War I submarines of France]]
+[[Category:Maritime incidents in 1916]]
+[[Category:Ships sunk by non-combat internal explosions]]
+[[Category:World War I shipwrecks in the Adriatic]]</text>
+      <sha1>r4rix9s0acmh7oxaxbvc5ecx4pk84ei</sha1>
+    </revision>
+  </page>
+</mediawiki>

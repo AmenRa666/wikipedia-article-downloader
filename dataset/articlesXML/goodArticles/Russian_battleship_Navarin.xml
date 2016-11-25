@@ -1,0 +1,190 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian battleship Navarin</title>
+    <ns>0</ns>
+    <id>5504739</id>
+    <revision>
+      <id>746166992</id>
+      <parentid>687895854</parentid>
+      <timestamp>2016-10-25T17:40:40Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* External links */ Added template and improved categories.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19514">{{other ships|Navarin (ship)}}
+{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:Battleship Navarin.jpg|300px]]
+| Ship caption = ''Navarin'' underway at slow speed
+}}
+{{Infobox ship class overview
+|Operators={{navy|Russian Empire}}
+|Class before={{ship|Russian battleship|Dvenadsat Apostolov||2}}
+|Class after={{ship|Russian battleship|Tri Sviatitelia||2}}
+|Cost=
+|Built range=1890–1896
+|In service range=1896–1905
+|In commission range=
+|Total ships completed=1
+|Total ships lost=1
+}}
+{{Infobox ship career
+| Hide header= 
+| Ship country= [[Russian Empire]]
+| Ship flag= {{shipboxflag|Russian Empire|naval}}
+| Ship name = ''Navarin''
+| Ship namesake= [[Battle of Navarino]]
+| Ship ordered = 24 April 1889&lt;ref group=Note&gt;All dates used in this article are [[Old Style and New Style dates|New Style]]&lt;/ref&gt;
+| Ship builder= [[Franco-Russian Works]], [[Saint Petersburg]]
+| Ship laid down=31 May 1890
+| Ship launched= 20 October 1891
+| Ship in service= June 1896
+| Ship fate= Sunk at the [[Battle of Tsushima]], 28 May 1905
+| Ship nickname= ''Factory'' (''Zavod'')
+| Ship notes= 
+}}
+{{Infobox ship characteristics
+|Hide header= 
+|Header caption= 
+|Ship type= [[Pre-dreadnought battleship]]
+|Ship displacement={{convert|10206|LT|t|0|lk=in|abbr=on}}
+|Ship length= {{convert|351|ft|m|1|abbr=on}}
+|Ship beam= {{convert|67|ft|m|1|abbr=on}}
+|Ship draft={{convert|27|ft|7|m|1|abbr=on}}
+|Ship propulsion=2 shafts, 2 [[Marine steam engine#Triple or multiple expansion|Vertical triple-expansion steam engines]]
+|Ship speed={{convert|15|kn|lk=in}}
+|Ship range={{convert|3050|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=24 officers, 417 men
+|Ship power=*{{convert|9000|ihp|abbr=on|0|lk=in}}
+*12 cylindrical [[boiler (steam generator)|boiler]]s
+|Ship armament=*2 × 2 – {{convert|12|in|0|abbr=on}} guns
+*8 × 1 – {{convert|6|in|0|bbr=on}} guns
+*14 × 1 – {{convert|47|mm|in|abbr=on}} guns
+*12 × 1 – {{convert|37|mm|in|abbr=on}} guns
+*6 × 1 – {{convert|15|in|0|abbr=on}} [[torpedo tube]]s
+| Ship armor=*[[Compound armor]]
+*[[Belt armor|Waterline belt]]: {{convert|12|-|16|in|mm|abbr=on|0}}
+*[[Casemate]]: {{convert|5|in|mm|abbr=on|0}}
+*[[Gun turret]]s: {{convert|12|in|mm|abbr=on|0}} (nickel steel)
+*Conning tower: {{convert|10|in|mm|abbr=on|0}}
+| Ship notes= 
+}}
+|}
+
+'''''Navarin''''' ({{lang-ru|Наварин}}) was a [[pre-dreadnought battleship]] built for the [[Imperial Russian Navy]] in the late 1880s and early 1890s. The ship was assigned to the [[Baltic Fleet]] and spent the early part of her career deployed in the Mediterranean and in the [[Far East]]. She participated in the suppression of the [[Boxer Rebellion]] in 1900 before returning to the Baltic Fleet in 1901. Several months after the beginning of the [[Russo-Japanese War]] in February 1904, she was assigned to the [[Pacific Fleet (Russia)|2nd Pacific Squadron]] to relieve the Russian forces blockaded in [[Lüshunkou District|Port Arthur]]. During the [[Battle of Tsushima]] in May 1905, she was sunk by [[Imperial Japanese Navy|Japanese]] [[destroyer]]s which spread twenty-four linked [[Naval mine|mines]] across her path during the night. ''Navarin'' struck two of these mines and capsized with the loss of most of her crew.
+
+==Design and description==
+''Navarin'' was a low-[[freeboard (nautical)|freeboard]] [[turret ship]] modeled on the British {{sclass|Trafalgar|battleship}}s. The original requirement had been for a much smaller ship, but the Navy changed its mind and required a larger ship capable of operating &quot;in all European seas and [even be] able by its coal capacity to reach the Far East.&quot;&lt;ref name=m66&gt;{{harvnb|McLaughlin|2003|p=66}}&lt;/ref&gt; Changes were made to the design after the ship was ordered that included the replacement of the main armament by more powerful guns of the same [[caliber]] and the increase in the [[Battleship secondary armament|secondary armament]] from six guns to eight.&lt;ref name=m66/&gt;
+
+The ship was {{convert|347|ft|6|in|1}} [[length at the waterline|long at the waterline]] and {{convert|351|ft|1}} long [[length overall|overall]]. She had a [[beam (nautical)|beam]] of {{convert|67|ft|1}} and a [[draft (hull)|draught]] of {{convert|27|ft|7|in|1}}. She displaced {{convert|10206|LT|t}}, almost {{convert|800|LT|t|abbr=on}} more than her designed displacement of {{convert|9476|LT|t|abbr=on}}. ''Navarin''{{'}}s crew consisted of 24 officers and 417 enlisted men.&lt;ref name=m65/&gt;
+
+She had two 3-cylinder [[Marine steam engine#Triple or multiple expansion|vertical triple-expansion steam engines]], each driving one [[propeller shaft]]. They had a total designed output of {{convert|9000|ihp|lk=in}} using steam provided by 12 cylindrical [[fire-tube boiler]]s at a pressure of {{convert|9.4|atm|kPa psi|0|abbr=on|lk=on}}. The four boiler rooms were arranged in two pairs abreast, each of which had its own [[funnel (ship)|funnel]]. This unusual arrangement gave the ship her odd nickname of Factory (''Zavod''). Trials of the first batch of boilers in May 1891 showed that they could not maintain the designed steam pressure due to flaws in their construction. The Navy demanded that the [[Franco-Russian Works]] replace them with new boilers at its own expense, but tests of the new boilers in August 1893 showed that their production of steam was inadequate. The factory asked for a year's time to rectify the problems which the Navy granted since the construction of the ship was behind schedule anyway. On her final set of [[sea trial]]s in November 1895 she reached a top speed of {{convert|15.85|knots}}. ''Navarin'' carried a maximum of {{convert|1200|LT|MT}} of coal at full load that provided a range of {{convert|3050|nmi|lk=in}} at a speed of {{convert|10|kn}}.&lt;ref&gt;{{harvnb|McLaughlin|2003|pp=65, 67, 70}}&lt;/ref&gt;
+
+The ship's main armament consisted of two pairs of {{convert|12|in|mm|0|adj=on}} Obukhov Model 1886 35-[[caliber (artillery)|caliber]] guns mounted in hydraulically powered twin-[[gun turret]]s fore and aft. The forward turret had a firing arc of 243° while the rear turret could traverse 214°. The guns had a rate of fire of two minutes 22 seconds between rounds.&lt;ref name=m68&gt;{{harvnb|McLaughlin|2003|p=68}}&lt;/ref&gt; They fired a {{convert|731.3|lb|kg|adj=on}} &quot;light&quot; shell at a [[muzzle velocity]] of {{convert|2090|ft/s|m/s|abbr=on}} to a range of {{convert|6600|yd|m}} at an elevation of 6°.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WNRussian_12-35_m1886.htm|title=Russian 12&quot;/35 (30.5 cm) Pattern 1886|date=11 September 2006|publisher=Navweaps.com |accessdate=30 July 2012}}&lt;/ref&gt; 80 rounds per gun were carried.&lt;ref name=m68/&gt; All eight {{convert|6|in|adj=on|0}} Pattern 1877 35-caliber guns of the secondary armament were mounted in [[casemate]]s in the superstructure.&lt;ref name=m68/&gt; Their &quot;light&quot; shells weighed {{convert|91.5|lb|kg|abbr=on}} and had a muzzle velocity of {{convert|2329|ft/s|m/s|abbr=on}}. They had a maximum range of {{convert|8170|yd|m}} when fired at an elevation of 12°.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WNRussian_6-35_m1877.htm|title=Russian 6&quot;/35 (15.2 cm) Pattern 1877|date=11 September 2006|publisher=Navweaps.com |accessdate=30 July 2012}}&lt;/ref&gt; Each gun was provided with 200 rounds of ammunition.&lt;ref name=m68/&gt;
+
+The anti-[[torpedo boat]] armament included fourteen {{convert|47|mm|in|adj=on}} [[Hotchkiss gun]]s were carried in the superstructure.&lt;ref name=m68/&gt; They fired a {{convert|3.3|lb|kg|adj=on}} shell at a muzzle velocity of {{convert|1476|ft/s|m/s|abbr=on}} at a rate of 20 rounds per minute to a range of {{convert|2020|yd|m}}.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WNRussian_47mm_Hotchkiss.htm|title=Russia 47 mm/5 (1.85&quot;) Hotchkiss gun 47 mm/1 (1.85&quot;) Hotchkiss gun 3-pdr (1.4 kg) Hotchkiss guns|date=1 December 2006|accessdate=22 December 2009|publisher=Navweaps.com}}&lt;/ref&gt; A total of eight {{convert|37|mm|in|adj=on}} Hotchkiss guns were mounted in the [[Top (sailing ship)|fighting top]], the other four guns may have been used to arm the ship's boats.&lt;ref name=m68/&gt; They fired a {{convert|1.1|lb|kg|adj=on}} shell at a muzzle velocity of {{convert|1450|ft/s|m/s|abbr=on}} at a rate of 20 rounds per minute to a range of {{convert|3038|yd|m}}.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WNRussian_37mm_Hotchkiss.htm|title=Russia 37 mm/5 (1.5&quot;) Hotchkiss Gun 37 mm/1 (1.5&quot;) Hotchkiss Gun 1-pdr (0.45 kg) Hotchkiss Guns |date=1 December 2006|accessdate=22 December 2009|publisher=Navweaps.com}}&lt;/ref&gt;
+
+''Navarin'' carried six above water {{convert|15|in|mm|0|adj=on}} [[torpedo tube]]s, one each in the bow and stern and two pairs of [[broadside]] tubes. The ship carried a total of 12 torpedoes.&lt;ref name=m65&gt;{{harvnb|McLaughlin|2003|p=65}}&lt;/ref&gt; The Type L torpedo carried a {{convert|141|lb|adj=on}} [[warhead]] of [[Trinitrotoluene|TNT]]. It had two speed settings which gave it a maximum range of {{convert|980|yd}} at {{convert|25|kn}} or {{convert|660|yd}} at {{convert|29|kn}}.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WTRussian_PreWWII.htm|title=Russia / USSR Torpedoes Pre-World War II|date=19 November 2008|publisher=Navweaps.com|accessdate=16 June 2010}}&lt;/ref&gt;
+
+The ship used [[compound armor]] for all armored vertical surfaces except for the gun turrets which were made from nickel steel.&lt;ref name=m68/&gt; The maximum thickness of the [[waterline]] [[Belt armor|armor belt]] was {{convert|16|in|mm|0}} which reduced to {{convert|12|-|14|in|mm|0}} abreast the [[magazine (artillery)|magazine]]s. It covered {{convert|228|ft|m|1}} of the ship's length and was {{convert|7|ft|1}} high, and tapered down to a thickness of {{convert|8|in|mm|0}} at the bottom edge. The upper {{convert|18|in|1}} of the belt was intended to be above the waterline, but the ship was significantly overweight and much of the belt was submerged. The belt terminated in {{convert|14|-|16|in|mm|0|adj=on}} transverse [[bulkhead (partition)|bulkhead]]s.&lt;ref&gt;{{harvnb|Chesneau|Kolesnik|1979|p=180}}&lt;/ref&gt;
+
+The lower casemate was above the belt, {{convert|218|ft|1}} long and {{convert|8|ft|m|1}} high, and was intended to protect the bases of the turrets. It had 16-inch sides and was closed off by 16-inch transverse bulkheads fore and aft. The upper casemate protected the six-inch guns and was {{convert|5|in|mm|0}} thick on all sides. The sides of the turrets were {{convert|16|in|0}} thick and the conning tower's sides were {{convert|12|in|mm|0}} in thickness. The armor deck was {{convert|2|in}} thick over the lower casemate, but {{convert|2.5|in}} thick forward and aft of the main armor belt to the bow and stern.&lt;ref&gt;{{harvnb|McLaughlin|2003|p=69}}&lt;/ref&gt;
+
+==Construction and career==
+''Navarin'', named after the [[Battle of Navarino]],&lt;ref&gt;{{harvnb|Silverstone|1984|p=379}}&lt;/ref&gt; was ordered on 24 April 1889 from the Franco-Russian Works and construction began on 13 July 1889 at their [[Saint Petersburg]] shipyard. The ship was [[Keel|laid down]] on 31 May 1890 and [[Ship naming and launching|launched]] on 20 October 1891. She was transferred to [[Kronstadt]] in 1893 for [[fitting out]], but did not enter service until June 1896 at a cost of over nine million [[ruble]]s. Construction was seriously delayed by problems with the boilers and late deliveries of armor plates, the gun mountings, and other components, compounded by inefficiencies in building. One example of such was that the Russian armor plate company lacked the capacity to make [[Glossary of nautical terms#G|gun port]] armor for the gun turrets of the required thickness, but the builder somehow lost track of this fact and had to place a rush order with the French company of St. Chamond.&lt;ref&gt;{{harvnb|McLaughlin|2003|pp=65–66, 68–70}}&lt;/ref&gt;
+
+''Navarin'' was assigned to the Baltic fleet and began a cruise to the Mediterranean Sea in August 1896. She visited the Greek port of [[Piraeus]] on 1 October. Together with the battleship {{ship|Russian battleship|Sissoi Veliky||2}}, the ship was ordered to the Far East in early 1898 and arrived at Port Arthur on 28 March. She took part in the suppression of the Boxer Rebellion two years later. ''Navarin'' and ''Sissoi Veliky'', together with a number of cruisers, sailed for the [[Baltic Sea|Baltic]] on 25 December 1901 and arrived at the port of [[Liepāja|Libau]] in early May 1902. She began a refit the following September that was interrupted by the start of the Russo-Japanese War in February 1904. During this refit, ''Navarin'' received {{convert|4.5|ft|m|1|adj=on}} [[Barr &amp; Stroud]] [[rangefinders]], telescopic [[gun sight]]s and [[Telefunken]] radio equipment. Her light armament was increased by four {{convert|75|mm|sp=us|adj=on}} guns that displaced an equal number of 47-millimeter guns on top of the superstructure; one of the displaced guns was mounted on each of the turret roofs.&lt;ref&gt;{{harvnb|McLaughlin|2003|pp=71, 166}}&lt;/ref&gt;
+
+On 15 October 1904, she set sail for Port Arthur from Libau along with the other vessels of the Second Pacific Squadron, under the command of [[Admiral]] [[Zinovy Rozhestvensky]].&lt;ref&gt;{{harvnb|Forczyk|2009|p=9}}&lt;/ref&gt; When his ships reached the port of [[Tangier]], Morocco, on 28 October,&lt;ref name=m167&gt;{{harvnb|McLaughlin|2003|p=167}}&lt;/ref&gt; Rozhestvensky split his forces and ordered his older ships, including ''Navarin'' and ''Sissoi Veliky'', to proceed through the Mediterranean and the [[Suez Canal]] to rendezvous with him in [[Madagascar]] as previously planned. Under the command of Rear Admiral [[Dmitry von Fölkersam]], they departed that night and reached [[Souda Bay]], [[Crete]], a week later and [[Port Said]], Egypt two weeks after that.&lt;ref&gt;{{harvnb|Pleshakov|2002|pp=111, 152–59}}&lt;/ref&gt; The two forces reunited at the island of [[Nosy Be]] on 9 January 1905 where they remained for two months while Rozhestvensky finalized his coaling arrangements. The squadron sailed for [[Camranh Bay]], [[French Indochina]], on 16 March and reached it almost a month later to await the obsolete ships of the 3rd Pacific Squadron, commanded by Rear Admiral [[Nikolai Nebogatov]]. The latter ships reached Camranh Bay on 9 May and the combined force sailed for [[Vladivostok]] on 14 May.&lt;ref name=m167/&gt;
+
+Rozhestvensky reorganized his ships into three divisions; the first consisted of the four new {{sclass-|Borodino|battleship}}s commanded by himself, von Fölkersam commanded the second division of the battleships {{ship|Russian battleship|Oslyabya||2}}, ''Navarin'', ''Sissoi Veliky'' and the armored cruiser {{ship|Russian armoured cruiser|Admiral Nakhimov||2}}, and Nebogatov retained his ships as the third division. Von Fölkersam, ill with cancer, died on 26 May and Rozhestvensky decided not to inform the fleet in order to keep morale up. The captain of ''Oslyabya'' became the commander of the 2nd Division while Nebogatov had no idea that he was now the squadron's defacto second-in-command.&lt;ref&gt;{{harvnb|Forczyk|2009|p=56}}&lt;/ref&gt;
+
+Very little is known of ''Navarin''{{'}}s actions during the Battle of Tsushima on 27–28 May as there were very few survivors from the ship and visibility was poor for most of the battle. The ship was apparently not heavily engaged during the early part of the battle, but was badly damaged later in the day when she was third from last in the Russian line of battle.&lt;ref&gt;{{harvnb|Campbell|1978|p=135}}&lt;/ref&gt; She was hit four times by large-caliber shells on the waterline that caused major flooding aft. Her quarterdeck was awash up to her rear 12-inch turret by 2100 and the ship was forced to stop for repairs. Around that time she was attacked by Japanese torpedo boats that may have made one or two torpedo hits.&lt;ref&gt;{{harvnb|McLaughlin|2003|p=169}}&lt;/ref&gt;&lt;ref name=c8&gt;{{harvnb|Campbell|1978|p=188}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Morris|2007|p=20}}&lt;/ref&gt; ''Navarin'' managed to get underway again and damaged one torpedo boat badly enough that she sank later that night. Around 0200 on 28 May, the ship was attacked again by the Fourth Destroyer Division which dropped six strings of mines ahead of her.&lt;ref name=c8/&gt; These consisted of four mines linked together with cables so that hitting any part of the string would draw the mines onto the ship. Two of these mines struck ''Navarin'', which quickly capsized and sank.&lt;ref&gt;{{harvnb|Evans|Peattie|1997|p=122}}&lt;/ref&gt; Some 70 men were able to abandon ship before she sank, but only three were alive when they were found 16 hours later. One man was rescued by a Japanese torpedo boat while the other two were rescued by a British merchant ship.&lt;ref&gt;{{harvnb|McLaughlin|2003|p=170}}&lt;/ref&gt; The rest of her crew of 674 officers and enlisted men were lost. The rescued men had said that when they called out for help, they were fired on by Japanese torpedo boats.&lt;ref&gt;{{harvnb|Warner|Warner|2002|p=514}}&lt;/ref&gt;
+
+==Notes==
+{{Reflist|group=Note}}
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+*{{cite book|last=Campbell|first=N.J.M.|title=The Battle of Tsu-Shima, Parts 1, 2, 3, and 4|editor=Preston, Antony|publisher=Conway Maritime Press|location=London|year=1978|volume=II|pages=46–49, 127–35, 186–92, 258–65|isbn=0-87021-976-6|ref=harv}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1860–1905|editor1-last=Chesneau|editor1-first=Roger|editor2-last=Kolesnik|editor2-first=Eugene M.|publisher=Conway Maritime Press|location=Greenwich, UK|year=1979|isbn=0-8317-0302-4|ref=harv}}
+* {{cite book|last1=Evans|first1=David|last2=Peattie|first2=Mark|title=Kaigun: Strategy, Tactics, and Technology in the Imperial Japanese Navy, 1887–1941|year=1997|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-192-7|ref=harv}}
+* {{cite book|title=Russian Battleship vs Japanese Battleship, Yellow Sea 1904–05|last=Forczyk |first=Robert|publisher=Osprey|year=2009|isbn=978 1-84603-330-8|location=Oxford, UK|ref=harv}}
+* {{cite book|last=McLaughlin|first=Stephen|title=Russian &amp; Soviet Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2003|isbn=1-55750-481-4|ref=harv}}
+* {{cite journal|last=Morris|first=Rear Admiral Roger|date=October 2007|title=The Night After Tsushima: The End of the Imperial Russian Fleet 27–28 May 1905|journal=Warships|publisher=World Ship Society|location=London|issue=157|pages=14–30|issn=0966-6958|ref=harv}}
+* {{cite book|last=Pleshakov|first=Constatine|title=The Tsar's Last Armada: The Epic Voyage to the Battle of Tsushima|year=2002|publisher=Basic Books|location=New York|isbn=0-465-05791-8|ref=harv}}
+*{{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0|ref=harv}}
+* {{cite book|last=Warner|first=Denis|last2=Warner|first2=Peggy|title=The Tide at Sunrise: A History of the Russo-Japanese War, 1904–1905|publisher=Frank Cass|location=London|year=2002|edition=2nd|isbn=0-7146-5256-3|ref=harv}}
+
+==External links==
+{{Portal|Battleships}}
+* {{Commonscat-inline|Russian battleship Navarin (1891)|''Navarin''}}
+* [http://ship.bsu.by/main.asp?id=101756 Russian navy encyclopaedia] {{ru icon}}
+
+{{coord missing|Pacific Ocean}}
+
+{{Navarin}}
+{{Russo-JapaneseWarRussianShips}}
+{{1905 shipwrecks}}
+
+{{DEFAULTSORT:Navarin}}
+[[Category:Russo-Japanese War battleships of Russia]]
+[[Category:1891 ships]]
+[[Category:Battleships of the Imperial Russian Navy]]
+[[Category:Ships built in St.Petersburg]]
+[[Category:Maritime incidents in 1905]]
+[[Category:Shipwrecks in the Tsushima Strait]]
+[[Category:Shipwrecks of the Russo-Japanese War]]</text>
+      <sha1>r67okknou1ugtv0dgb2lmuarancbjdh</sha1>
+    </revision>
+  </page>
+</mediawiki>

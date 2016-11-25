@@ -1,0 +1,183 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>HMS Neptune (1797)</title>
+    <ns>0</ns>
+    <id>1507593</id>
+    <revision>
+      <id>685236016</id>
+      <parentid>672127706</parentid>
+      <timestamp>2015-10-11T17:57:27Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24279">{{otherships|HMS Neptune}}
+{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Neptune Trafalgar-Sartorius.jpg|300px]]
+|Ship caption=''Neptune engaged, Trafalgar, 1805'', by [[John Francis Sartorius]]. HMS ''Neptune'', seen in bow profile, exchanges broadsides with the Spanish [[Spanish ship Nuestra Señora de la Santísima Trinidad (1769)|''Santísima Trinidad'']]
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[United Kingdom of Great Britain and Ireland|UK]]
+|Ship flag=[[File:Naval Ensign of the United Kingdom.svg|60px|Royal Navy Ensign]]
+|Ship name=HMS ''Neptune''
+|Ship ordered=15 February 1790
+|Ship builder=[[Deptford Dockyard]]
+|Ship laid down=April 1791
+|Ship launched=28 January 1797
+|Ship acquired=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship captured=
+|Ship fate=Broken up in October 1818
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=&lt;ref name=&quot;Lavery, SoLv1 p183&quot;&gt;Lavery, Ships of the Line vol.1, p183.&lt;/ref&gt;
+|Ship class={{sclass|Neptune|ship of the line|3}}
+|Ship tons burthen=2110 {{small|{{frac|53|94}}}} ([[Builder's Old Measurement|bm]])
+|Ship length={{convert|185|ft|m|abbr=on}} (gundeck)
+|Ship beam={{convert|51|ft|m|abbr=on}} 
+|Ship draught=
+|Ship hold depth={{convert|21|ft|m|abbr=on}} 
+|Ship sail plan=[[Full rigged ship]]
+|Ship propulsion=Sails
+|Ship complement=750
+|Ship armament=*Gundeck: 28 × 32-pounder guns
+*Middle gundeck: 30 × 18-pounder guns
+*Upper gundeck: 30 × 18-pounder guns
+*[[Quarterdeck|QD]]: 8 × 12-pounder guns
+*[[Forecastle|Fc]]: 2 × 12-pounder guns
+|Ship notes=
+}}
+|}
+
+'''HMS ''Neptune''''' was a 98-gun [[second rate]] [[ship of the line]] of the [[Royal Navy]]. She served on a number of stations during the [[French Revolutionary Wars|French Revolutionary]] and [[Napoleonic Wars]] and was present at the [[Battle of Trafalgar]] in 1805.
+
+''Neptune'' was built during the early years of the war with [[Revolutionary France]] and was launched in 1797. She almost immediately became caught up in the events of the [[Spithead and Nore mutinies|mutiny at the Nore]], and was one of a few loyal ships tasked with attacking mutinous vessels if they could not be brought to order. The mutiny died out before this became necessary and ''Neptune'' joined the [[Channel Fleet]]. She moved to the Mediterranean in 1799, spending the rest of the French Revolutionary Wars in operations with Vice-Admiral [[George Elphinstone, 1st Viscount Keith|Lord Keith's]] fleet. After refitting, and spending time on blockades, she formed part of [[Horatio Nelson, 1st Viscount Nelson|Lord Nelson's]] fleet at the Battle of Trafalgar, and was heavily involved in the fighting, sustaining casualties of 10 killed and 34 wounded.
+
+She was not fully repaired and returned to service until 1807, when she went out to the [[Caribbean]]. In 1809 she participated in the successful [[Invasion of Martinique (1809)|invasion of Martinique]], and the subsequent battle with [[Troude's expedition to the Caribbean|Troude's squadron]]. Returning to Britain towards the end of the wars, she was [[Reserve fleet|laid up in ordinary]], and in 1813 became a temporary [[prison ship]]. She was finally broken up in 1818.
+
+==Construction and commissioning==
+''Neptune'' was ordered from [[Deptford Dockyard]] on 15 February 1790, to a design developed by [[Surveyor of the Navy]] [[John Henslow (Surveyor of the Navy)|Sir John Henslow]].&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt; She was one of three ships of the [[Neptune class ship of the line|''Neptune'' class]], alongside her sisters {{HMS|Temeraire|1798|6}} and {{HMS|Dreadnought|1801|6}}.&lt;ref name=&quot;Lavery, SoLv1 p183&quot;/&gt;&lt;ref name=&quot;Winfield26&quot;/&gt; ''Neptune'' was laid down at Deptford in April 1791, receiving her name on 24 July 1790. The initial stages of her construction were overseen by Master Shipwright Martin Ware, though he was succeeded by Thomas Pollard in June 1795, and Pollard oversaw her completion.&lt;ref name=&quot;Winfield26&quot;&gt;{{cite book |last=Winfield |title=British Warships of the Age of Sail 1793-1817|page=26}}&lt;/ref&gt; ''Neptune'' was launched on 28 January 1797 and sailed to [[Woolwich]] to be fitted for sea.&lt;ref name=&quot;Lavery, SoLv1 p183&quot; /&gt;&lt;ref name=&quot;Winfield26&quot;/&gt; Arriving at Woolwich on 12 February, she was immediately docked to have her [[copper sheathing]] fitted, a process that was completed by 1 March.&lt;ref name=&quot;Goodwin39&quot;&gt;{{cite book |last=Goodwin |title=The Ships of Trafalgar|page=39}}&lt;/ref&gt; Launched again, she finished fitting out, and received her masts and yards. Her final costs came to £77,053, and included £61,172 spent on the hull, masts and yards, and a further £15,881 on rigging and stores.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt;
+
+She was commissioned on 25 March 1797 under Captain [[Sir Henry Stanhope, 1st Baronet|Henry Stanhope]], becoming the third ship of the Royal Navy to bear the name ''Neptune''.&lt;ref name=&quot;Goodwin38&quot;&gt;{{cite book |last=Goodwin |title=The Ships of Trafalgar|page=38}}&lt;/ref&gt; Her predecessors had been two 90-gun ships, [[HMS Neptune (1683)|the first launched in 1683]], renamed HMS ''Torbay'' in 1750 and sold in 1784. [[HMS Neptune (1757)|The second had been launched in 1757]], was used as a [[sheer hulk]] from 1784, and was broken up in 1816.&lt;ref name=&quot;Goodwin38&quot;/&gt; Stanhope sailed from Woolwich on 11 June 1797, flying the broad pendant of [[Commodore (Royal Navy)|Commodore]] [[Erasmus Gower|Sir Erasmus Gower]], and made for [[the Nore]].&lt;ref name=&quot;Goodwin39&quot;/&gt;
+
+==Mutiny at the Nore==
+Shortly after her arrival at the Nore, ''Neptune'' became caught up in the [[Spithead and Nore mutinies|mutiny that had broken out there]].&lt;ref name=&quot;Goodwin39&quot;/&gt; While lying at [[Gravesend, Kent|Gravesend]], ''Neptune'' and the 64-gun ships {{HMS|Agincourt|1796|6}} and {{HMS|Lancaster|1797|6}}, together with a fleet of [[gunboat]]s, were ordered to intercept and attack the mutinous ships at the Nore.&lt;ref name=&quot;Goodwin39&quot;/&gt; Before they could proceed word came that the mutineers had entered negotiations with the [[William Carnegie, 7th Earl of Northesk|Earl of Northesk]], captain of the 64-gun {{HMS|Monmouth|1796|6}}, and by 9 June the mutiny was on the verge of collapse.&lt;ref name=&quot;Goodwin39&quot;/&gt; The attack was called off, and on 21 September Stanhope was superseded by Gower as captain of ''Neptune''. The crisis over, ''Neptune'' joined the [[Channel Fleet]].&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt;
+
+==Mediterranean==
+Gower remained in command of ''Neptune'' until his promotion to rear-admiral of the white, at which point [[Herbert Sawyer]] became her acting-captain.&lt;ref name=&quot;Goodwin39&quot;/&gt; Sawyer was in command until 22 January 1799, and Gower left her on 28 February 1799.&lt;ref name=&quot;Goodwin39&quot;/&gt; Command of the ship formally passed to Captain [[James Vashon]] on 5 March 1799.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt; The first half of 1799 was spent with the Channel Fleet, and in June ''Neptune'' was one of 15 ships of the line assigned to join Vice-Admiral [[George Elphinstone, 1st Viscount Keith|Lord Keith's]] fleet in the Mediterranean.&lt;ref name=&quot;Goodwin39&quot;/&gt; The squadron, commanded by Rear-Admiral [[Sir Charles Cotton, 5th Baronet|Sir Charles Cotton]], rendezvoused with Keith's force at [[Minorca]] on 7 July, bringing the British fleet in the Mediterranean up to 31 ships.&lt;ref name=&quot;Goodwin39&quot;/&gt; Keith intended to intercept a large Franco-Spanish force of 42 ships under Admirals [[Étienne Eustache Bruix]] and [[Jose Mazarredo]], and set out to sea on 10 July. [[Bruix' expedition of 1799|Bruix' expedition]] evaded Keith, and reached the safety of [[Brest, France|Brest]] on 9 August.&lt;ref name=&quot;Goodwin39&quot;/&gt; ''Neptune'' went on to spend the rest of the French Revolutionary Wars in the Mediterranean.&lt;ref name=&quot;Goodwin39&quot;/&gt;
+
+Vashon was superseded on 26 March 1801, and the following day Captain [[Edward Brace]] arrived to take command.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt; ''Neptune'' became the [[flagship]] of Vice-Admiral [[James Gambier, 1st Baron Gambier|James Gambier]] during this period.&lt;ref name=&quot;Winfield26&quot;/&gt; Brace's period of command was brief, he was superseded by Captain [[Francis Austen]] on 12 September. With the draw down in hostilities prior to the signing of the [[Treaty of Amiens]] in March 1802, ''Neptune'' was one of the many ships of the Mediterranean fleet to be ordered home, arriving at [[Portsmouth]] on 24 February.&lt;ref name=&quot;Goodwin39&quot;/&gt; Austen paid her off on 29 April, but recommissioned her the next day. ''Neptune'' then underwent a brief refit, during which £5,728 was expended, £2,895 of which was spent on her hull, masts and yards.&lt;ref name=&quot;Goodwin39&quot;/&gt; Austen was superseded on 30 September 1802 and the following day Captain [[William O'Bryen Drury]] took command.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt; With ''Neptune'' fully refitted and stored, she sailed from the dockyard and joined the Channel Fleet at [[Spithead]] on 29 October.&lt;ref name=&quot;Goodwin39&quot;/&gt;
+
+==Blockade, and approach to Trafalgar==
+Drury commanded ''Neptune'' for the next two years, until his promotion to rear-admiral in 1804. He departed the ship on 13 May 1804, and the following day Captain [[Thomas Williams (Royal Navy officer)|Sir Thomas Williams]] took over.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin39&quot;/&gt; ''Neptune'' spent the rest of 1804 deployed with the Channel Fleet, blockading the French Atlantic ports.&lt;ref name=&quot;Goodwin39&quot;/&gt; During this time Captain Williams' health progressively worsened, and he was invalided back to Britain on 7 May 1805. He was replaced by Captain [[Thomas Fremantle (Royal Navy officer)|Thomas Fremantle]] on 8 May, and was sent to join [[Robert Calder]]'s force blockading [[Ferrol, Spain|Ferrol]], after the Franco-Spanish fleet had arrived there after the [[Battle of Cape Finisterre (1805)|Battle of Cape Finisterre]].&lt;ref name=&quot;c&amp;c12&quot;&gt;{{cite book |last=Clayton &amp; Craig |title=Trafalgar: The Men, the Battle, the Storm|page=12}}&lt;/ref&gt; Calder decided that his eight ships were not sufficient to resist [[Pierre-Charles Villeneuve|Villeneuve's]] fleet were it to come out of harbour, and instead went north to join Admiral [[William Cornwallis]]'s fleet off Brest. Shortly afterwards [[Horatio Nelson, 1st Viscount Nelson|Nelson's]] fleet returned from the West Indies, bringing 12 more ships, and Calder was given 18 ships, including ''Neptune'', and sent back to Ferrol to search for Villeneuve.&lt;ref name=&quot;c&amp;c12&quot;/&gt; By now Villeneuve had put into [[Cadiz]] and Calder's force was ordered to join the hastily assembled British fleet under Vice-Admiral [[Cuthbert Collingwood, 1st Baron Collingwood|Cuthbert Collingwood]], that was blockading the Franco-Spanish fleet at Cadiz.&lt;ref name=&quot;Goodwin39&quot;/&gt; As the British fleet settled in for a long blockade Fremantle commented on ''Neptune''{{'}}s sailing qualities. She had the reputation of being slow, and Fremantle complained that he did not like being in 'a large ship that don't sail and must continually be late in action.'&lt;ref name=&quot;c&amp;c66&quot;&gt;{{cite book |last=Clayton &amp; Craig |title=Trafalgar: The Men, the Battle, the Storm|page=66}}&lt;/ref&gt;&lt;ref name=&quot;Adkin311&quot;/&gt; During the battle however, Midshipman William Baddock commented that 'The old ''Neptune'', which never was a good sailer, took it into her head that morning to sail better than I ever remember to have seen her do before.'&lt;ref name=&quot;Adkin311&quot;/&gt; ''Neptune '' went into the battle 18 men short of her complement.&lt;ref name=&quot;Adkin311&quot;/&gt;
+
+==Trafalgar==
+''Neptune'' formed part of the weather column in the [[Battle of Trafalgar]] on 21 October, and was the third ship from the lead, situated between her sister HMS ''Temeraire'', and the 74-gun {{HMS|Leviathan|1790|6}}.&lt;ref name=&quot;Adkin311&quot;&gt;{{cite book |last=Adkin |title=The Trafalgar Companion |page=311}}&lt;/ref&gt; Fremantle had been promised a position second to Nelson aboard {{HMS|Victory}}, and by 10 o'clock was sailing fast enough to threaten to overtake her. Fremantle hoped to pass her, and lead the line into battle, but Nelson ordered {{'}}''Neptune'', take in your studding-sails and drop astern. I shall break the line myself.'&lt;ref name=&quot;c&amp;c1366&quot;&gt;{{cite book |last=Clayton &amp; Craig |title=Trafalgar: The Men, the Battle, the Storm|page=136}}&lt;/ref&gt; ''Neptune'' went into action with her band playing, and everyone except the officers and the band lying down on the deck to protect them from enemy fire.&lt;ref name=&quot;Adkin509&quot;&gt;{{cite book |last=Adkin |title=The Trafalgar Companion |page=508}}&lt;/ref&gt; Ahead of her Fremantle saw [[Eliab Harvey]]'s ''Temeraire'' turn to pass astern of the French [[French ship Redoutable (1791)|''Redoutable'']], but resolved to follow Nelson and HMS ''Victory'' to pass astern of the French flagship [[French ship Bucentaure (1804)|''Bucentaure'']].&lt;ref name=&quot;Adkin509&quot;/&gt; As she passed under ''Bucentaure''{{'}}s stern, ''Neptune'' discharged a double-shotted broadside from her larboard (port) guns, with devastating consequences on Villeneuve's already disabled flagship.&lt;ref name=&quot;Goodwin40&quot;&gt;{{cite book |last=Goodwin |title=The Ships of Trafalgar|page=40}}&lt;/ref&gt; Fremantle then had the helm swung hard to starboard, bringing his ship abeam of the ''Bucentaure''. He fired two more triple-shotted broadsides from nearly 50 guns at a range of less than 100 yards into the beleaguered French ship.&lt;ref name=&quot;Adkin509&quot;/&gt;
+[[File:The Battle of Trafalgar, 21 October 1805, beginning of the action.jpg|left|thumb|''The Battle of Trafalgar, 21 October 1805: beginning of the action'' by [[Thomas Buttersworth]] (oil on canvas). The ship in the right foreground is the [[French ship Bucentaure (1804)|''Bucentaure'']] in starboard-bow view, with her mizzen mast and main topgallant mast shot away. In port-bow view and passing astern of her is ''Neptune'', delivering raking fire. On the left of the picture, the port-stern of {{HMS|Victory}} is visible, passing astern of [[Spanish ship Nuestra Señora de la Santísima Trinidad (1769)|''Santísima Trinidad'']] and raking her. On ''Victory''{{'}}s starboard side is the French [[French ship Redoutable (1791)|''Redoubtable'']].]]
+Fremantle then spotted the towering mass of the Spanish four-decker [[Spanish ship Nuestra Señora de la Santísima Trinidad (1769)|''Santísima Trinidad'']] sailing away from him, and steered towards her starboard quarter in the hope of raking her stern.&lt;ref name=&quot;Adkin509&quot;/&gt; Opening fire with his larboard battery, he positioned ''Neptune'' off the Spanish vessel's starboard beam and the two exchanged heavy fire for the next hour as more British ships poured through the gap astern of ''Neptune''.&lt;ref name=&quot;Adkin509&quot;/&gt; ''Neptune'' took fire from other ships of the combined fleet as they sailed past.&lt;ref name=&quot;Goodwin40&quot;/&gt; ''Santísima Trinidad'', heavily battered by ''Neptune''{{'}}s guns, as well as those from the 74-gun ships {{HMS|Leviathan|1790|6}} and {{HMS|Conqueror|1801|6}}, became completely dismasted and covered in debris.&lt;ref name=&quot;Goodwin212&quot;&gt;{{cite book |last=Goodwin |title=The Ships of Trafalgar|page=212}}&lt;/ref&gt; She fought on until 5.30 pm, when she [[striking the colours|struck her colours]], having sustained casualties of 205 dead and 103 wounded.&lt;ref name=&quot;Goodwin212&quot;/&gt; ''Neptune'' left the 98-gun {{HMS|Prince|1788|6}} to take possession and headed north to cut off the remains of the enemy fleet, briefly becoming engaged with the French 74-gun [[French ship Intrépide (1800)|''Intrépide'']].&lt;ref name=&quot;Adkin311&quot;/&gt; During the battle ''Neptune'' suffered considerable damage to her masts, although they did not fall. Most of her rigging was cut to pieces and she sustained nine shot holes in her hull. She sustained casualties of ten killed and 34 wounded. A remarkably small proportion of her officers became casualties, with only the captain's clerk, Richard Hurrell, being wounded.&lt;ref name=&quot;Adkin311&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt;
+[[File:HMS Victory towed into Gibraltar.jpg|thumb|right|''H.M.S 'Victory' towed into Gibraltar'', watercolour study by [[Clarkson Stanfield]]. {{HMS|Victory}}, seen in full starboard view, is towed into [[Gibraltar]] by HMS ''Neptune'', seven days after the [[Battle of Trafalgar]].]]
+After the battle Collingwood transferred his flag from the damaged {{HMS|Royal Sovereign|1786|6}} to the frigate {{HMS|Euryalus|1803|6}}, and on 22 October ''Neptune'' took the ''Royal Sovereign'' in tow.&lt;ref name=&quot;Adkin311&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt; On 23 October, as the Franco-Spanish forces that had escaped into Cadiz sortied under Commodore [[Julien Cosmao]], ''Neptune'' cast off the tow, surrendering the duty to {{HMS|Mars|1794|6}}, and took on board Villeneuve and several captured [[flag captain]]s, who had originally been aboard ''Mars''.&lt;ref name=&quot;Goodwin40&quot;/&gt; As the weather continued to deteriorate ''Neptune'' sent her boats to assist in the evacuation of the ''Santísima Trinidad'' before she foundered. After riding out the storm she took the battered ''Victory'', carrying Lord Nelson's body, in tow on 26 October and brought her into [[Gibraltar]] on 28 October.&lt;ref name=&quot;Goodwin40&quot;/&gt;
+
+==West Indies==
+After undergoing some repairs at Gibraltar ''Neptune'' sailed to Britain, arriving at Portsmouth on 6 December 1805, where she was paid off.&lt;ref name=&quot;Goodwin40&quot;/&gt; She was moved to Spithead in 1806, but was back in Portsmouth on 23 November, and was moved into a dock on 24 March 1807 to undergo a refit.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt; The refit lasted until November 1807 and involved having her copper sheathing removed and her hull refitted. She was then recoppered, having had a sum of £29,053 expended on her.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt; She was recommissioned on 18 August 1807 under her old commander, Captain Sir Thomas Williams, and was relaunched three days later on 21 August to complete her refit.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt; She was initially assigned to serve in the [[English Channel]], but was moved to the West Indies in 1808. On 9 November Williams was superseded by Captain Thomas Pinto, who only spent six weeks in command before being succeeded by Captain Charles Dilkes on 20 December.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin40&quot;/&gt;
+
+In January 1809 [[Invasion of Martinique (1809)|an attack]] on the French colony of [[Martinique]], governed by Admiral [[Louis Thomas Villaret de Joyeuse]], was planned. ''Neptune'' became the flagship of the expedition's commander, Rear-Admiral [[Alexander Cochrane]], and the invasion force, consisting of 44 vessels and transports for 10,000 troops under Lieutenant-General [[George Beckwith (British Army officer)|George Beckwith]], sailed on 28 January.&lt;ref name=&quot;Goodwin40&quot;/&gt; The force arrived at Martinique on 30 January, and 3,000 troops were landed under Major-General [[Frederick Maitland]] without resistance.&lt;ref name=&quot;Goodwin40&quot;/&gt; 600 troops were put ashore at Cape Solomon under Major Henderson, both landings supervised by Captain [[William Charles Fahie]] aboard the 74-gun {{HMS|Belleisle|1795|6}}.&lt;ref name=&quot;Goodwin40&quot;/&gt; An additional force of 6,500 men were landed in the north of the island under Major-General [[George Prévost|Sir George Prévost]], and the French were driven into several fortified positions, the last of which surrendered on 24 February 1809.&lt;ref name=&quot;Goodwin41&quot;&gt;{{cite book |last=Goodwin |title=The Ships of Trafalgar|page=41}}&lt;/ref&gt;
+
+==Battle with Troude==
+[[File:Recruit &amp; D'Haupoult.jpg|thumb|right|Engraving entitled ''Intrepid behaviour of Captain Charles Napier, in HM 18 gun Brig Recruit for which he was appointed to the D' Haupoult. The 74 now pouring a broadside into her. April 15, 1809'', by [[G. W. Terry]].]]
+Cochrane's squadron remained in the area blockading the island, and in March a French squadron consisting of three 74-gun ships, [[French ship Hautpoult (1807)|''Hautpoult'']], [[French ship Courageux (1806)|''Courageux'']] and [[French ship Polonais (1808)|''Polonais'']], and two frigates, [[French frigate Félicité (1785)|''Félicité'']] and [[HMS Furieuse (1809)|''Furieuse'']], under the overall command of Commodore [[Amable Troude]], [[Troude's expedition to the Caribbean|arrived in the Caribbean]]. Finding Martinique in British hands, Troude anchored near [[Îles des Saintes]].&lt;ref name=&quot;Goodwin41&quot;/&gt; 
+
+There they were blockaded until 14 April, when Cochrane removed this threat. A British force under Major-General [[Frederick Maitland]] and Captain [[Philip Beaver]] in {{HMS|Acasta|1797|2}}, landed troops on the islands capturing them.&lt;ref&gt;{{London Gazette|issue=16262|startpage=779|endpage=782|date=30 May 1809}}&lt;/ref&gt; The British then installed heavy guns on vantage points. 
+
+Threatened, Troude put to sea, chased by Cochrane's squadron. After a running battle over several days the ''Hautpoult'' was brought to action and captured. ''Neptune''{{'}}s captain, Charles Dilkes, was given command of her, while Captain [[James Athol Wood]] succeeded him in command of ''Neptune'' on 2 August.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin41&quot;/&gt;
+
+''Neptune'' was among the naval vessels that shared in the proceeds of the capture of the islands.{{#tag:ref|The prize agent for a number of the vessels involved, Henry Abbott, went bankrupt. In May 1835 there was a final payment of a dividend from his estate. A first-class share was worth 10s 2¾d; a sixth-class share, that of an ordinary seaman, was worth 1d. Seventh-class (landsmen) and eighth-class (boys) shares were fractions of a penny, too small to pay.&lt;ref&gt;{{London Gazette|date=3 April 1835|issue=19255|startpage=643}}&lt;/ref&gt;|group=Note}}
+
+==Final years==
+Dilkes resumed command of ''Neptune'' on 2 March 1810, while Wood was exchanged into {{HMS|Pompee|1793|6}}. Dilkes had apparently been suffering poor health, and Captain N Ballard took command in an acting capacity on 22 July.&lt;ref name=&quot;Goodwin41&quot;/&gt; ''Neptune'' returned to Plymouth on 26 October and entered the dock on 9 November to be fitted for [[Reserve fleet|the ordinary]].&lt;ref name=&quot;Goodwin41&quot;/&gt; The process cost £713, and after undocking on 8 December she was laid up in the [[Hamoaze]] until late autumn 1813.&lt;ref name=&quot;Lavery, SoLv1 p183&quot; /&gt;&lt;ref name=&quot;Goodwin41&quot;/&gt; Her hull appears to have quickly deteriorated, and after a survey she was deemed unfit for further service at sea.&lt;ref name=&quot;Goodwin41&quot;/&gt; The [[Navy Board]] proposed that she be converted into a [[prison ship]], a recommendation the [[Admiralty]] accepted, and she was taken in hand for fitting out on 22 November. On the completion of the work in December she was commissioned under Lieutenant George Lawrence.&lt;ref name=&quot;Winfield26&quot;/&gt;&lt;ref name=&quot;Goodwin41&quot;/&gt; ''Neptune'' spent three years in this role, and was finally taken to pieces in October 1818.&lt;ref name=&quot;Colledge&quot;&gt;{{cite book |last=Colledge|title=Ships of the Royal Navy|page=241}}&lt;/ref&gt;
+
+==Notes, citations, and references==
+;Notes
+{{reflist|group=Note}}
+;Citations
+{{reflist|2}}
+
+'References
+{{refbegin}}
+*{{cite book |last =Adkin|first= Mark|title=The Trafalgar Companion: A Guide to History's Most Famous Sea Battle and the Life of Admiral Lord Nelson|location=London|publisher=Aurum Press|year=2007|isbn=1-84513-018-9}}
+* {{cite book |last= Clayton |first=Tim |author2=Craig, Phil  | title=Trafalgar: The Men, the Battle, the Storm | publisher=Hodder &amp; Stoughton |year=2005 |isbn=0-340-83028-X}}
+* {{Colledge}}
+* {{cite book |last= Goodwin|first=Peter|authorlink=Peter Goodwin (maritime author)|year=2005|title=The Ships of Trafalgar: The British, French and Spanish Fleets October 1805|publisher=Conway Maritime Press|isbn= 1-84486-015-9}}
+*{{cite book| last=Lavery|first=Brian|authorlink=Brian Lavery|year=2003|title=The Ship of the Line - Volume 1: The Development of the Battlefleet 1650-1850|publisher=Conway Maritime Press|isbn=0-85177-252-8}}
+*{{cite book |first=Rif|last=Winfield|title=British Warships in the Age of Sail 1793&amp;ndash;1817: Design, Construction, Careers and Fates|publisher=Seaforth|year=2007|isbn=1-86176-246-1}}
+{{refend}}
+
+{{DEFAULTSORT:Neptune (1797)}}
+[[Category:Ships of the line of the Royal Navy]]
+[[Category:Neptune-class ships of the line]]
+[[Category:Deptford-built ships]]
+[[Category:1797 ships]]</text>
+      <sha1>synu4i0opge23v3j2wxmb1vglw123t1</sha1>
+    </revision>
+  </page>
+</mediawiki>

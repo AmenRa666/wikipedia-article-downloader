@@ -1,0 +1,149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Russian submarine AG-22</title>
+    <ns>0</ns>
+    <id>38833864</id>
+    <revision>
+      <id>685283439</id>
+      <parentid>682246302</parentid>
+      <timestamp>2015-10-11T23:54:34Z</timestamp>
+      <contributor>
+        <username>Monkbot</username>
+        <id>20483999</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Monkbot/Task 9: Ship infobox lists|Task 9]]: convert line-break list(s) to unordered list(s) in ship infobox templates;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6117">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Submarines Tyulen', Utka, AG-22 at Bizerte, 1922.jpg|300px]]
+|Ship caption=''AG-22'' (on the right) in Bizerte in 1922
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Russian Empire]]
+|Ship flag={{shipboxflag|Russian Empire|naval}}
+|Ship name=''AG-22''
+|Ship ordered=
+|Ship awarded=
+|Ship builder=[[Shipyard named after 61 Communards|Russud Shipyard]], [[Mykolaiv, Ukraine|Nikolaev]]
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=1917
+|Ship launched=1919
+|Ship sponsor=
+|Ship christened=
+|Ship completed=1919
+|Ship commissioned=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Abandoned, November 1923, and subsequently [[ship breaking|scrapped]]
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[American Holland-class submarine|AG-class]] [[submarine]]
+|Ship displacement=*{{convert|355|LT}} surfaced
+*{{convert|433|LT}} submerged
+|Ship length={{convert|150|ft|3|in|m|1|abbr=on}}
+|Ship beam={{convert|16|ft|m|1|abbr=on}}
+|Ship draft={{convert|12|ft|6|in|m|1|abbr=on}}
+|Ship power=*2 × [[diesel engine]]s ({{convert|480|bhp|abbr=on|lk=in}})
+*2 × [[electric motor]]s ({{convert|640|hp|abbr=on}})
+|Ship propulsion=*2 × [[propeller shaft]]s
+*[[Diesel-electric]]
+|Ship speed=*{{convert|13|kn|lk=in}} (surfaced)
+*{{convert|10.5|kn}} (submerged)
+|Ship range=*{{convert|1750|nmi|lk=in|abbr=on}} at {{convert|7|kn}} (surfaced)
+*{{convert|25|nmi|abbr=on}} at {{convert|3|kn}} (submerged)
+|Ship test depth={{convert|164|ft|m}}
+|Ship complement=30
+|Ship armament=*4 × bow {{convert|18|in|adj=on|0}} [[torpedo tube]]s
+*(8 torpedoes)
+*1 × {{convert|47|mm|adj=on|sp=us}} gun
+|Ship notes=
+}}
+|}
+The '''Russian submarine ''AG-22''''' was an [[American Holland-class submarine|AG-class]]  [[submarine]], designed by the American Holland Torpedo Boat Company/[[Electric Boat Company]], built for the [[Imperial Russian Navy]] during [[World War I]]. The submarine was fabricated in Canada, shipped to Russia and reassembled for service with the [[Black Sea Fleet]]. Her reassembly was completed in 1919 by the [[White Movement]] during the [[Russian Civil War]], and she joined [[Wrangel's fleet]] as it evacuated the [[Crimea]] in 1920 and was interned in [[Bizerte]], [[Tunisia]] in 1921. ''AG-22'' was abandoned there and subsequently [[ship breaking|scrapped]].
+
+==Description==
+''AG-22'' was a single-hulled submarine, with a pressure hull divided into five watertight compartments. The submarine had a length of {{convert|150|ft|3|in|m|1}} [[length overall|overall]], a [[beam (nautical)|beam]] of {{convert|16|ft|m|1}} and a [[draft (ship)|draft]] of {{convert|12|ft|6|in|m|1}}. She [[displacement (ship)|displaced]] {{convert|355|LT|t}} on the surface and {{convert|433|LT|t}} submerged. The AG-class submarines had a diving depth of {{convert|164|ft|m|1}} and a crew of 30 officers and enlisted men.&lt;ref&gt;Polmar &amp; Noot, pp. 240–41&lt;/ref&gt;
+
+The submarine had two three-bladed propellers, each of which was driven by a {{convert|480|hp|lk=in|adj=on}} [[diesel engine]] as well as a {{convert|640|hp|0|adj=on}} [[electric motor]]s. This arrangement gave ''AG-22'' a maximum speed of {{convert|13|kn|lk=in}} while surfaced and {{convert|10.5|kn}} submerged. She had a range of {{convert|1750|nmi|lk=in|abbr=on}} at {{convert|7|kn}} while on the surface and {{convert|25|nmi|abbr=on}} at {{convert|3|kn}} while submerged.&lt;ref name=pn0&gt;Polmar &amp; Noot, p. 240&lt;/ref&gt; Her fuel capacity was {{convert|16.5|LT|t}} of fuel oil.&lt;ref&gt;Watts, p. 170&lt;/ref&gt;
+
+The AG-class submarines were equipped with four {{convert|18|in|adj=on|0}} [[torpedo tube]]s in the bow and carried eight torpedoes. For surface combat they had one {{convert|47|mm|adj=on|sp=us}} [[deck gun]].&lt;ref name=pn0/&gt;
+
+==Construction and service==
+The Holland 602 design was widely exported during World War I and the Imperial Russian Navy ordered a total of 17, in three batches, of a version known as the [[American Holland-class submarine|''American Holland''-class]] (AG in Russian for ''Amerikansky Golland'' (American Holland)). The submarines were to be built in Canada as [[knock-down kit]]s for assembly in Russia.&lt;ref name=pn0/&gt;
+
+Steel for the first three submarines ({{ship|Russian submarine|AG-21||2}}, ''AG-22'', and {{ship|Russian submarine|AG-23||2}}) of the second batch ordered by the Russians was assembled in [[Saint John, New Brunswick]] by May 1916. Five months later, they were sent to [[Vancouver]] by rail in sections where they were loaded into ships and shipped to [[Vladivostok]]. There they were loaded onto the [[Trans-Siberian Railroad]] and transported to [[Mykolaiv, Ukraine|Nikolaev]] where they were assembled by the [[Shipyard named after 61 Communards|Russud Shipyard]]. Assembly was delayed by the unrest caused by the [[Russian Revolution]] and the subsequent Russian Civil War and was not completed until 1919. By this time, Nikolaev was controlled by the Whites and they took ''AG-22'' with them when they evacuated the Crimea in late 1920 as part of what came to be called Wrangel's Fleet.&lt;ref&gt;Polmar &amp; Noot, pp. 68–69&lt;/ref&gt; They ultimately were granted asylum in Bizerte in February 1921. ''AG-22'' was abandoned there in November 1923 and subsequently scrapped.&lt;ref&gt;Polmar &amp; Noot, pp. 68–69, 239–40&lt;/ref&gt;
+
+==Notes==
+{{Reflist|2}}
+
+== Bibliography ==
+*{{cite book|last1=Polmar|first1=Norman|last2=Noot|first2=Jurrien|title=Submarines of the Russian and Soviet Navies, 1718–1990|year=1991|publisher=Naval Institute Press|location=Annapolis, Maryland|isbn=0-87021-570-1}}
+* {{cite book|last=Watts|first=Anthony J.|title=The Imperial Russian Navy|publisher=Arms and Armour|location=London|year=1990|isbn=0-85368-912-1}}
+
+{{United States H class submarine}}
+
+{{DEFAULTSORT:AG-22}}
+[[Category:American Holland-class submarines]]
+[[Category:Ships built in New Brunswick]]
+&lt;!-- built in sections in Canada … --&gt;
+[[Category:Ships built in Russia]]&lt;!-- …and assembled in Russia --&gt;
+[[Category:1919 ships]]
+[[Category:World War I submarines of Russia]]</text>
+      <sha1>4jb2odr7i2zj003jdm8hxe0sv04uote</sha1>
+    </revision>
+  </page>
+</mediawiki>

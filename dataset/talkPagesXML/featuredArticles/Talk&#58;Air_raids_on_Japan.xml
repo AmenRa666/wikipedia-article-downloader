@@ -1,0 +1,112 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Air raids on Japan</title>
+    <ns>1</ns>
+    <id>9566240</id>
+    <revision>
+      <id>743809312</id>
+      <parentid>742868499</parentid>
+      <timestamp>2016-10-11T11:20:12Z</timestamp>
+      <contributor>
+        <username>ClueBot III</username>
+        <id>5207410</id>
+      </contributor>
+      <minor/>
+      <comment>Archiving 1 discussion to [[Talk:Air raids on Japan/Archives/2016/October]]. (BOT)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1282">{{talkheader}}
+{{ArticleHistory
+|action1=WPR
+|action1date=30 April 2011
+|action1link=Wikipedia:WikiProject Military history/Peer review/Air raids on Japan
+|action1result=reviewed
+|action1oldid=425806608
+
+|action2=GAN
+|action2date=07:58, 18 September 2011
+|action2link=Talk:Air raids on Japan/GA1
+|action2result=listed
+|action2oldid=451106248
+
+|action3=WAR
+|action3date=05:10, 1 January 2012 (UTC)
+|action3link=Wikipedia:WikiProject Military history/Assessment/Air raids on Japan
+|action3result=approved
+|action3oldid=468249272
+
+|action4=FAC
+|action4date=11:28, 7 April 2012
+|action4link=Wikipedia:Featured article candidates/Air raids on Japan/archive1
+|action4result=promoted
+|action4oldid=485803013
+
+| itndate       = 
+| dykdate       = 
+| dykentry      = 
+| small         = 
+|topic=war
+|currentstatus=FA
+
+|maindate=2 July 2015
+}}
+{{WikiProjectBannerShell|1=
+{{WikiProject Japan|class=FA|importance=High|b1=yes|b2=yes|b3=yes|b4=yes|b5=yes|b6=yes|history=yes|milhist=yes}}
+{{WPMILHIST|class=FA|b1=y|b2=y|b3=y|b4=y|b5=y|A-Class=pass|Aviation=y|Maritime=y|Japanese=y|US=y|WWII=y}}
+}}
+{{User:ClueBot III/ArchiveThis
+|archiveprefix=Talk:Air raids on Japan/Archives/
+|format=Y/F
+|age=120
+|index=yes
+|archivebox=yes
+|box-advert=yes}}
+
+[[Category:Wikipedia pages referenced by the press]]</text>
+      <sha1>i9pq8zzt00soycf9sivjoanhzd4g26l</sha1>
+    </revision>
+  </page>
+</mediawiki>

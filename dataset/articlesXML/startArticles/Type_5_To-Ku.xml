@@ -1,0 +1,102 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Type 5 To-Ku</title>
+    <ns>0</ns>
+    <id>8887669</id>
+    <revision>
+      <id>744168174</id>
+      <parentid>743345312</parentid>
+      <timestamp>2016-10-13T14:45:43Z</timestamp>
+      <contributor>
+        <username>Kierzek</username>
+        <id>9088688</id>
+      </contributor>
+      <minor/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="2140">{{Infobox Weapon
+|name=Type 5 To-Ku
+|image=http://mailer.fsu.edu/~akirk/tanks/japan/Type5-Toky.jpg
+|caption=A blue-print
+|type=
+|is_vehicle=yes
+|origin= [[Empire of Japan]]
+|design_date=1945
+|length=10.8m (with floats){{sfn|Tomczyk|2003|p=33}}
+|width=3.0m{{sfn|Tomczyk|2003|p=33}}
+|height=3.38m{{sfn|Tomczyk|2003|p=33}}
+|weight=29.1 tons{{sfn|Tomczyk|2003|p=33}}
+|suspension=bell crank
+|speed=32 km/h (land) 10 km/h (water){{sfn|Tomczyk|2003|p=33}}
+|vehicle_range=320 km (unknown if referring to sea or land){{sfn|Tomczyk|2003|p=33}}
+|primary_armament=Type 1 47&amp;nbsp;mm gun and 25 mm gun{{sfn|Tomczyk|2003|p=33}}
+|secondary_armament=2x 7.7 mm Type 97 MG's{{sfn|Tomczyk|2003|p=33}}
+|armour=10-50&amp;nbsp;mm{{sfn|Tomczyk|2003|p=33}}
+|engine=water-cooled 12-cylinder Mitsubishi diesel
+|engine_power=240 hp{{sfn|Tomczyk|2003|p=33}}
+|pw_ratio=8 hp/1 ton
+|crew=7{{sfn|Tomczyk|2003|p=33}}
+}}
+
+The {{nihongo|'''Special Type 5 Launch To-Ku'''|特五式内火艇 トク|toku-go-shiki uchibitei To-Ku}} was a [[Japan]]ese amphibious [[tank]] built in 1945.{{sfn|Tomczyk|2003|p=32}}
+
+The To-Ku was large and heavy; it boasted extensive armor protection with 50 mm of armor plate in the front hull. The turret was a modified version of the one used on the [[Type 97 Shinhoto Chi-Ha]] medium tank and fitted with a Type 1 25 mm gun and a rear facing [[Type 97 heavy tank machine gun|Type 97 7.7 mm machine gun]].{{sfn|Tomczyk|2003|pp=32, 43}} The front hull mounted a [[Type 1 47 mm tank gun]] and a Type 97 7.7 mm machine gun.{{sfn|Tomczyk|2003|pp=32, 33}} The chassis was based on the [[Type 5 Chi-Ri]] medium tank and the suspension, pontoons and propulsion system were substantially the same as the [[Type 3 Ka-Chi]].{{sfn|Tomczyk|2003|pp=32, 43}} Only one prototype was built of this amphibious tank.{{sfn|Tomczyk|2003|p=32}}
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{cite book | last = Tomczyk | first = Andrzej | year = 2003 | title = Japanese Armor Vol. 3 | publisher = AJ Press | location = | isbn = 978-8372371287 | ref = harv }}
+
+{{Portal|Tank}}
+{{WWIIJapaneseAFVs}}
+
+[[Category:World War II tanks of Japan|5 To-Ku]]
+[[Category:Amphibious tanks]]</text>
+      <sha1>5vhpxldhgssy7gdo5bcyu4gybatcrxa</sha1>
+    </revision>
+  </page>
+</mediawiki>

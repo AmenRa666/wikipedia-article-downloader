@@ -1,0 +1,246 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese battleship Kongō</title>
+    <ns>0</ns>
+    <id>976945</id>
+    <revision>
+      <id>743020329</id>
+      <parentid>720981421</parentid>
+      <timestamp>2016-10-07T08:27:52Z</timestamp>
+      <contributor>
+        <ip>155.140.255.37</ip>
+      </contributor>
+      <comment>/* 1944: Combat and loss */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="37799">{{about||the earlier ironclad corvette|Japanese ironclad Kongō|the current JMSDF Kongō-class destroyer|JDS Kongō (DDG-173)}}
+{{Use dmy dates|date=May 2011}}
+
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:Kongo1944.png|300px]]
+|Ship caption=''Kongō'' in her 1944 configuration
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Empire of Japan]]
+|Ship flag={{shipboxflag|Empire of Japan|naval}}
+|Ship name=''Kongō''
+|Ship namesake=[[Mount Kongō]]
+|Ship ordered= 1911
+|Ship builder=[[Vickers Shipbuilding and Engineering|Vickers Shipbuilding Company]], [[Barrow-in-Furness]]
+|Ship laid down= 17 January 1911
+|Ship launched= 18 May 1912
+|Ship acquired=
+|Ship commissioned= 16 August 1913
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck= 20 January 1945
+|Ship homeport=
+|Ship honours=
+|Ship fate= Sunk by {{USS|Sealion|SS-315|6}} in the Formosa Strait, 21 November 1944
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= {{sclass-|Kongō|battlecruiser}}
+|Ship displacement={{convert|36600|LT|t|0|abbr=on}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship length={{convert|222|m|ftin|abbr=on}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship beam={{convert|31|m|ftin|abbr=on}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship draught={{convert|9.7|m|ftin|abbr=on}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship propulsion=Steam turbines, 4 shafts
+|Ship speed={{convert|30|kn|mph km/h|lk=in}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship range={{convert|10000|nmi|km|abbr=on|lk=in}} at {{convert|14|kn|km/h|abbr=on}}&lt;ref name=&quot;Conway's&quot;/&gt;
+|Ship complement=1360
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+*'''1913:'''
+* 8 × [[Vickers 14 inch/45 naval gun|{{convert|356|mm|in|0|abbr=on}} naval gun]] (4×2)&lt;ref name=&quot;Conway's&quot;/&gt;
+* 16 × [[15 cm/50 41st Year Type|{{convert|6|in|cm|adj=on}} 50 caliber naval gun]]s (16×1)&lt;ref name=NW6/&gt;
+* 8 × {{convert|76|mm|in|0|abbr=on}} naval guns (8×1)&lt;ref name=&quot;Conway's&quot;/&gt;
+* 4 × {{convert|6.5|mm|in|abbr=on}} machine gun&lt;ref name=stille17&gt;Stille (2008), p. 17&lt;/ref&gt;
+* 8 × submerged {{convert|533|mm|in|abbr=on}} [[torpedo]] tubes&lt;ref name=stille17/&gt;
+*'''1944:'''
+* 8 × [[Vickers 14 inch/45 naval gun|{{convert|356|mm|in|0|abbr=on}} naval gun]] (4×2)&lt;ref name=&quot;Conway's&quot;/&gt;
+* 8 × {{convert|152|mm|in|abbr=on}} naval gun (8×1)&lt;ref name=&quot;Conway's&quot;/&gt;
+* 8 × {{convert|127|mm|in|0|abbr=on}} guns (4×2)&lt;ref name=&quot;Conway's&quot;/&gt;
+* 122 × [[Type 96 25 mm AT/AA Gun|25 mm Type 96 Antiaircraft autocannon]]  &lt;ref name=stille18/&gt;
+|Ship armor=
+* [[Deck (ship)|Decks]]: {{convert|2.3|–|1.5|in|mm|abbr=on}} (later strengthened +101 mm on ammo storage, +76 mm on engine room)
+* [[Gun turret|Turrets]]: {{convert|9|in|mm|abbr=on}}
+* [[Barbette]]s: {{convert|10|in|mm|abbr=on}}
+* [[Belt armor|Belt]]: {{convert|8|–|11|in|mm|abbr=on}}
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}
+
+'''''Kongō''''' (金剛, &quot;Indestructible&quot;, named for [[Mount Kongō]]) was a warship of the [[Imperial Japanese Navy]] during World War I and World War II. She was the first [[battlecruiser]] of the {{sclass-|Kongō|battlecruiser|4}}, among the most heavily armed ships in any navy when built. Her designer was the British naval engineer [[George Thurston]], and she was [[Keel laying|laid down]] in 1911 at [[Barrow-in-Furness]] in Britain by [[Vickers Shipbuilding and Engineering|Vickers Shipbuilding Company]]. ''Kongō'' was the last Japanese [[capital ship]] constructed outside Japan. She was formally [[ship commissioning|commissioned]] in 1913, and patrolled off the Chinese coast during World War I.
+
+''Kongō'' underwent two major reconstructions. Beginning in 1929, the Imperial Japanese Navy rebuilt her as a [[battleship]], strengthening her armor and improving her speed and power capabilities. In 1935, her superstructure was completely rebuilt, her speed was increased, and she was equipped with [[aircraft catapult|launch catapults]] for [[floatplane]]s. Now fast enough to accompany Japan's growing carrier fleet, ''Kongō'' was reclassified as a [[fast battleship]]. During the [[Second Sino-Japanese War]], ''Kongō'' operated off the coast of mainland China before being redeployed to the Third Battleship Division in 1941. In 1942, she sailed as part of the Southern Force in preparation for the [[Battle of Singapore]].
+
+''Kongō'' fought in a large number of major naval actions of the [[Pacific War]] during World War II. She covered the Japanese Army's [[amphibious warfare|amphibious landings]] in [[British Malaya]] (part of present-day [[Malaysia]]) and the [[Dutch East Indies]] (now [[Indonesia]]) in 1942, before engaging American forces at the [[Battle of Midway]] and during the [[Guadalcanal Campaign]]. Throughout 1943, ''Kongō'' primarily remained at [[Truk Lagoon]] in the [[Caroline Islands]], [[Kure Naval District|Kure Naval Base]] (near [[Hiroshima]]), [[Sasebo Naval District|Sasebo Naval Base]] (near [[Nagasaki]]), and [[Lingga Roads]], and deployed several times in response to American [[aircraft carrier]] [[Strategic bombing|air raid]]s on Japanese island bases scattered across the Pacific. ''Kongō'' participated in the [[Battle of the Philippine Sea]] and the [[Battle of Leyte Gulf]] in 1944 (22–23 October), engaging and sinking American vessels in the latter. ''Kongō'' was torpedoed and sunk by the submarine {{USS|Sealion|SS-315|6}} while transiting the [[Formosa Strait]] on 21 November 1944. She was the only Japanese battleship sunk by submarine in the Second World War, and the last battleship sunk by submarine in history.&lt;ref name=stille20/&gt;
+
+==Design and construction==
+{{See also|Kongō-class battlecruiser}}
+''Kongō'' was the first of the [[Imperial Japanese Navy]]'s ''Kongō''-class [[list of battlecruisers of Japan|battlecruisers]], which were almost as large, costly and well-armed as [[battleship]]s, but which traded off armored protection for higher speeds. These were designed by the British naval [[engineer]] [[George Thurston]]&lt;ref name=kongoclass&gt;{{cite web |url= http://combinedfleet.com/ships/kongo|title= Combined Fleet&amp;nbsp;– ''Kongo'' class battlecruiser|accessdate=10 September 2010 |work=Parshall, Jon; Bob Hackett, Sander Kingsepp, &amp; Allyn Nevitt |year=2010 }}&lt;/ref&gt;  and were ordered in 1910 in the Japanese Emergency Naval Expansion Bill after the commissioning of {{HMS|Invincible|1907|6}} in 1908.&lt;ref name=cfrecord&gt;{{cite web|url= http://www.combinedfleet.com/kongo.htm|title= Combined Fleet&amp;nbsp;– tabular history of ''Kongō''|accessdate=10 September 2010|work=Parshall, Jon; Bob Hackett, Sander Kingsepp, &amp; Allyn Nevitt |year=2010}}&lt;/ref&gt; These four battlecruisers of the ''Kongō'' class were designed to match the naval capabilities of the battlecruisers of the other major naval powers at the time, and they have been called the battlecruiser versions of the British (formerly [[Ottoman Navy|Turkish]]) battleship {{HMS|Erin|1913|6}}.&lt;ref name=&quot;Conway's&quot;&gt;Gardiner and Gray (1980), p. 234&lt;/ref&gt;&lt;ref name=jackson-07-27&gt;Jackson (2008), p. 27&lt;/ref&gt; Their heavy armament of 14-inch naval guns and their armor protection (which took up about 23.3% of their approximately 30,000-ton displacements in 1913) were greatly superior to those of any other Japanese [[capital ship]] afloat at the time.&lt;ref name=&quot;Conway's&quot;/&gt;&lt;ref name=jackson-07-27/&gt;
+
+The [[keel]] of ''Kongō'' was laid down at [[Barrow-in-Furness]] by [[Vickers Shipbuilding and Engineering]] on 17 January 1911. Under Japan's contract with Vickers, the first vessel of the class was constructed in the [[United Kingdom]], with the remainder built in Japan.&lt;ref name=&quot;Conway's&quot;/&gt; ''Kongō'' was launched on 18 May 1912, and then transferred to the dockyards of [[Portsmouth, England]], where her [[fitting-out]] began in mid-1912.&lt;ref name=jackson-07-27/&gt; All parts used in her construction were manufactured in the U.K.&lt;ref name=&quot;Conway's&quot;/&gt; ''Kongo'' was completed on 16 April 1913.&lt;ref name=&quot;Conway's&quot;/&gt;
+
+===Armament===
+''Kongō''{{'}}s main battery consisted of eight {{convert|14|in|cm|adj=on}} heavy-caliber main [[naval gun]]s in four twin [[turret]]s (two forward and two aft).&lt;ref name=kongoclass/&gt; The turrets were noted by the U.S. Office of Naval Intelligence to be &quot;similar to the British 15-inch turrets&quot;,&lt;ref name=NW-14/&gt; with improvements made in [[explosives#Sensitivity|flash]]-tightness. Each of her main guns could fire [[high explosive]] or [[armor]]-piercing shells {{convert|38770|yd|nmi km}} at a firing rate of about two shells per minute.&lt;ref name=14/45&gt;{{cite web |url= http://combinedfleet.com/360_45.htm|title= Combined Fleet – 14&quot;/45 Naval Gun|accessdate=11 February 2009 |work=Parshall, Jon; Bob Hackett, Sander Kingsepp, and Allyn Nevitt |year=2010}}&lt;/ref&gt; In keeping with the Japanese doctrine of deploying more powerful vessels before their opponents, ''Kongō'' and her sister ships were the first vessels in the world equipped with {{convert|14|in|cm|adj=on}} guns.&lt;ref name=jackson-00-48&gt;Jackson (2000), p. 48&lt;/ref&gt; Her main guns carried ammunition for 90 shots, and they had an approximate barrel lifetime of 250 to 280 shots.&lt;ref name=NW-14&gt;{{cite web | last = DiGiulian | first = Tony | title = Japanese 14&quot;/45 (35.6&amp;nbsp;cm) 41st Year Type | url = http://navweaps.com/Weapons/WNJAP_14-45_t41.htm| publisher=Navweaps.com |year=2009 | accessdate =26 February 2009 }}&lt;/ref&gt; In 1941, separate dyes were introduced for the armor-piercing shells of the four ''Kongō''-class battleships to assist with targeting, with ''Kongō''{{'}}s armor-piercing shells using red dye.&lt;ref name=NW-14/&gt;
+
+The [[secondary battery]] of ''Kongō'' originally consisted of sixteen [[15 cm/50 41st Year Type|{{convert|6|in|cm|adj=on}} 50 caliber]] guns in single [[casemate]]s located amidships (&quot;50 calibre&quot; means that the lengths of the guns were 50 times their bore, or 300&amp;nbsp;inches),&lt;ref name=jackson-07-27/&gt; eight {{convert|3|in|cm|adj=on}} guns, and eight submerged {{convert|21|in|cm|adj=on}} torpedo tubes.&lt;ref name=kongoclass/&gt; Her six-inch naval guns could fire five to six rounds per minute, with a barrel lifetime of about 500 rounds.&lt;ref name=NW6&gt;{{cite web | last = DiGiulian | first = Tony | title = Japanese 6&quot;/50| url =http://www.navweaps.com/Weapons/WNJAP_6-50_t41.htm| publisher=Navweaps.com |year=2010 | accessdate =26 February 2009 }}&lt;/ref&gt; The 6-inch/50 calibre gun was capable of firing both antiaircraft and antiship shells, though the positioning of these guns on ''Kongō'' made antiaircraft firing mostly impractical.&lt;ref name=jackson-07-27/&gt; During her second reconstruction, the older three-inch guns were removed and then replaced with eight {{convert|5|in|cm|adj=on}} 5-inch/40 calibre dual-purpose guns. These guns could fire from eight to 14 rounds per minute, with a barrel lifetime of about 800 to 1,500 rounds.&lt;ref name=NW5&gt;{{cite web | last = DiGiulian | first = Tony | title = Japanese 5&quot;/40| url = http://www.navweaps.com/Weapons/WNJAP_5-40_t89.htm| publisher=Navweaps.com |year=2008 | accessdate =26 February 2009 }}&lt;/ref&gt; Of ''Kongō''{{'}}s guns, the 5-inch guns had the widest variety of [[artillery shell|shell]] types: antiaircraft, antiship, and illumination shells.&lt;ref name=NW5/&gt; ''Kongō'' was also armed with a large number of {{convert|1|in|cm|adj=on}} antiaircraft machine guns. By October 1944, ''Kongō''{{'}}s secondary armament was reconfigured to eight {{convert|6|in|cm|adj=on}} guns, eight {{convert|5|in|cm|adj=on}} guns, and 122 [[Type 96 25 mm AT/AA Gun|Type 96]] antiaircraft [[autocannon|rapid-fire cannons]].&lt;ref name=stille16&gt;Stille (2008), p. 16.&lt;/ref&gt;
+
+==Service history==
+
+===1913–1929: Battlecruiser===
+[[File:Japanese battleship Kongo.jpg|thumb|right|''Kongō'' in her battlecruiser configuration, pre-1927.]]
+ 
+On 16 August 1913, ''Kongō'' was completed and commissioned into the Imperial Japanese Navy (I.J.N.). Twelve days later, she departed from Portsmouth headed for Japan.&lt;ref name=stille14&gt;Stille (2008), p. 14&lt;/ref&gt; She was docked at [[Singapore]] from 20 October to 27 October, before arriving at [[Yokosuka Naval Arsenal]] on 5 November, where she was placed in First Reserve.&lt;ref name=cfrecord/&gt; In January 1914, she docked at [[Kure Naval Base]] for armament checks. On 3 August 1914, the [[German Empire]] declared war on [[France]] and then invaded via [[Belgium]], sparking the beginning of [[World War I]] in the West. Twelve days later, Japan issued a warning to [[Kaiser Wilhelm II]] of the [[German Empire]], ordering him to withdraw the German troops from their base at [[Tsingtao]], [[China]]. When the German Empire did not respond, Japan declared war on Germany on 23 August, occupying the former German possessions in the [[Caroline Islands]], [[Palau Islands]], [[Marshall Islands]], and [[Marianas Islands]].&lt;ref name=cfrecord/&gt; ''Kongō'' was quickly deployed towards the [[Pacific Ocean|Central Pacific]] to patrol the sea lines of communication of the German Empire. ''Kongō'' returned to the port of [[Yokosuka (city)|Yokosuka]], Japan, on 12 September, and one month later, she was assigned to the First Battleship Division. In October, ''Kongō'' and her new sister ship {{ship|Japanese battleship|Hiei||2}} sortied off the Chinese coast in support of Japanese army units during the [[Siege of Tsingtao]]. Then ''Kongō'' returned to [[Sasebo, Nagasaki|Sasebo Naval Base]] for upgrades to her searchlights. On 3 October 1915, ''Kongō'' and ''Hiei'' participated in the sinking of the old {{ship|Russian battleship|Imperator Nikolai I||2}} as a practice target. She was a Russian pre-[[dreadnought]] that had been captured in 1905 during the [[Russo-Japanese War]] that had next served as an I.J.N. [[warship]].&lt;ref&gt;McLaughlin (2003), pp. 44–45&lt;/ref&gt; With the defeat of the [[German East Asia Squadron]] by the [[Royal Navy]] at the [[Battle of the Falkland Islands]] in December 1914, there was little or no need for I.J.N. operations in the [[Pacific Ocean]]. ''Kongō'' spent the rest of World War I either based at Sasebo, or on patrol off the coast of China.&lt;ref name=cfrecord/&gt; In December 1918, following the end of the hostilities of World War I, ''Kongō'' was placed in &quot;Second Reserve&quot;. In April 1919, she was fitted with a new seawater flooding system for her ammunition magazines.&lt;ref name=cfrecord/&gt;
+
+With the conclusion of World War I, and the signing of the [[Washington Naval Treaty]] on 6 February 1922, the size of the I.J.N. was significantly limited, with a ratio of 5:5:3 required between the capital ships of the [[United Kingdom]], the [[United States]], and the Japanese Empire, since the latter was only responsible for one ocean, rather than the two of the other country, and fewer warships for France and [[Italy]].&lt;ref name=jackson-00-67&gt;Jackson (2000), p. 67.&lt;/ref&gt; This Treaty also banned the signatories from building any new capital ships until 1931, with no capital ship permitted to exceed {{convert|35000|LT|t}} in [[displacement (ship)|displacement]].&lt;ref name=jackson-00-68&gt;Jackson (2000), p. 68.&lt;/ref&gt; Provided that new additions did not exceed 3,000 tons of displacement, the existing capital ships were allowed to be upgraded with improved [[anti-torpedo bulge]]s and [[armor]]ed main decks.&lt;ref name=jackson-00-68/&gt; By the time that the Washington Naval Treaty had been fully implemented in Japan, only three classes of World War I type capital ships remained active: the {{sclass-|Ise|battleship|2}}s, the ''Kongō''-class battlecruisers, and the {{sclass-|Fusō|battleship|2}}s.&lt;ref&gt;Jackson (2000), p. 69&lt;/ref&gt;
+
+In April 1923, ''Kongō'' gave transportation to [[Emperor Hirohito]] during his official visit to the Japanese possession of [[Taiwan under Japanese rule|Taiwan]]. In November 1924, ''Kongo'' docked at Yokosuka, where modifications were made to her main armament, increasing the elevation of her main guns and improving her fire-control systems. In 1927, ''Kongō'' underwent major modifications to her superstructure, rebuilding it into the [[pagoda mast]] style to accommodate the growing number of fire-control systems for her main guns.&lt;ref name=stille15&gt;Stille (2008), p. 15&lt;/ref&gt; In May 1928, her steering equipment was upgraded, before she was placed in reserve in preparation for major modifications and reconstruction in 1929–31.&lt;ref name=cfrecord/&gt;
+
+===1929–1935: Reconstruction into battleship===
+[[File:Kongo after reconstruction.jpg|thumb|left|''Kongō'' in 1931, following her first reconstruction]]
+Prohibited by the Washington Treaty from constructing new capital ships until 1931, Japan resorted to upgrading their World War I era battleships and battlecruisers. Beginning in September 1929, ''Kongō'' underwent extensive modernization and modification in drydock at Yokosuka Naval Arsenal.&lt;ref name=jackson-07-27/&gt;  Over the next two years, ''Kongō''{{'}}s horizontal armor near her ammunition magazines was strengthened, and the machinery spaces within the hull were given increased torpedo protection.&lt;ref name=stille16/&gt; [[Anti-torpedo bulges]] were added along the waterline, as permitted by the Washington Treaty.&lt;ref name=jackson-07-27/&gt;  She was refitted to accommodate three Type&amp;nbsp;90 Model&amp;nbsp;0 floatplanes, though no [[aircraft catapult]]s were fitted.&lt;ref name=stille16/&gt; To increase her speed and power, all 36 of her Yarrow boilers were removed, and then replaced with 16 newer boilers, and Brown-Curtis direct-drive turbines were installed.&lt;ref name=stille16/&gt; ''Kongō''{{'}}s forward funnel was removed, and her second funnel was enlarged and lengthened. The modifications to her hull increased her armor weight from 6,502 to 10,313 [[long ton]]s, directly violating the terms of the Washington Naval Treaty.&lt;ref name=jackson-07-27/&gt; In March 1931, ''Kongō''—now capable of a speed of {{convert|29|knot|km/h}}—was reclassified as a battleship.&lt;ref name=stille16/&gt;
+
+On 22 April 1930, Japan signed the [[London Naval Treaty]], placing further restrictions on the signatories' naval forces. Several of her older battleships were scrapped, and no new capital ships were built as replacements.&lt;ref name=jackson-00-72&gt;Jackson (2000), p. 72.&lt;/ref&gt; After minor fitting-out work, ''Kongō''{{'}}s reconstruction begun in September 1929 and was declared complete on 31 March 1931. On 1 December 1931, two months after the [[Japanese invasion of Manchuria]], ''Kongō'' was assigned to the First Battleship Division and also designated the flagship of the Combined Fleet. Additional rangefinders and searchlights were fitted to her superstructure in January 1932, and Captain [[Nobutake Kondō]] assumed command of the vessel in December. In 1933, aircraft catapults were fitted between the two rear turrets.&lt;ref name=cfrecord/&gt;
+
+On 25 February 1933, following a report by the [[Lytton Commission]], the [[League of Nations]] agreed that Japan's invasion of China had violated Chinese sovereignty.&lt;ref name=jackson-00-72/&gt; Refusing to accept the judgement of this organization, Japan withdrew from the League of Nations on the same day.&lt;ref name=jackson-00-72/&gt; Japan also immediately withdrew from the Washington Naval Treaty and the [[London Naval Treaty]], thus removing all restrictions on the numbers and sizes of her capital warships.&lt;ref&gt;Willmott (2002), p. 35&lt;/ref&gt; In November 1934, ''Kongō'' was placed in Second Reserve in preparation for further modifications. On 10 January 1935, ''Kongō'' was toured by the [[Nazi German]] naval attaché to Japan, Captain [[Paul Wenneker]], as part of a gunnery demonstration.&lt;ref name=cfrecord/&gt;
+
+===1935–1941: Fast battleship===
+On 1 June 1935, ''Kongō'' was dry-docked at Yokosuka Naval Arsenal in preparation for upgrades that would enable her to escort Japan's growing fleet of [[aircraft carrier]]s. Her stern was lengthened by {{convert|26|ft|m}} to improve her [[fineness ratio]] and her 16 older boilers were removed and then replaced with 11 oil-fired Kampon Boilers and newer geared turbines.&lt;ref name=jackson-07-27/&gt; In addition, her bridge was completely reconstructed according to Japan's [[pagoda mast]] style of forward superstructure,&lt;ref name=stille16/&gt; and [[catapult]]s were added to support three [[Nakajima E8N]] or [[Kawanishi E7K]] reconnaissance and spotter floatplanes.&lt;ref name=stille18&gt;Stille (2008), p. 18&lt;/ref&gt;
+
+''Kongō''{{'}}s armor was also extensively upgraded. Her main belt was strengthened to a uniform thickness of eight inches (up from varying thicknesses of six to eight inches), and also diagonal bulkheads of depths ranging from {{convert|5|to|8|in|mm|0}} were added to reinforce the main armored belt.&lt;ref name=mccurtie185&gt;McCurtie (1989), p. 185.&lt;/ref&gt; The turret armor was strengthened to {{convert|10|in|mm|0}}, while {{convert|4|in|mm|0}} were added to portions of the deck armor.&lt;ref name=mccurtie185/&gt; ''Kongō''{{'}}s ammunition magazine protection was also strengthened to {{convert|4.0|in|cm}}.&lt;ref name=jackson-07-27/&gt; This reconstruction was finished on 8 January 1937.&lt;ref name=&quot;Conway's&quot;/&gt; Capable of greater than {{convert|30|knots|km/h}}, despite the significant increase in her hull displacement, ''Kongō'' was now reclassified as a fast battleship.&lt;ref name=stille16/&gt;
+
+In February 1937, ''Kongō'' was assigned to the [[Sasebo Naval District]], and in December she was placed under the command of [[Takeo Kurita]] in the Third Battleship Division. In April 1938, two float planes from ''Kongō'' bombed the Chinese town of [[Foochow]] during the [[Second Sino-Japanese War]].&lt;ref name=cfrecord/&gt; Throughout 1938 and 1939, ''Kongō'' steamed off the Chinese coast in support of Japanese Army operations during the war. In November 1939, Captain [[Raizo Tanaka]] assumed command of ''Kongō''. From November 1940 to April 1941, additional armor was added to ''Kongō''{{'}}s armament barbettes and [[ammunition]] tubes, while ventilation and firefighting equipment was also improved. In August 1941, she was assigned to the Third Battleship Division under the command of Vice Admiral [[Gunichi Mikawa]] alongside her fully modified sister warships ''Hiei'', {{ship|Japanese battleship|Kirishima||2}} and the {{ship|Japanese battleship|Haruna||2}}.&lt;ref name=cfrecord/&gt;
+
+===1942: Early war service===
+''Kongō'' and ''Haruna'' departed from the [[Hashirajima]] fleet anchorage on 29 November 1941 to begin the [[War in the Pacific]] as part of the Southern (Malay) Force's Main Body, under the overall command of Vice-Admiral [[Nobutake Kondō]].&lt;ref name=stille19&gt;Stille (2008), p. 19&lt;/ref&gt;  On 4 December 1941, the Main Body arrived off the coast of southern [[Thailand]] and northern Malaya in preparation for [[Battle of Malaya|the invasion of Thailand and the Malayan Peninsula]] four days later.&lt;ref&gt;Willmott (2002), p. 56&lt;/ref&gt;  When Britain's &quot;Force Z&quot;—consisting of the battleship {{HMS|Prince of Wales|53|2}} and the battlecruiser {{HMS|Repulse|1916|2}}—was [[Sinking of Prince of Wales and Repulse|quickly defeated]] by Japan's land-based aircraft from southern [[Vietnam]], ''Kongō''{{'}}s battlegroup withdrew from Malayan waters. This battlegroup subsequently sortied from [[Indochina]] for three days in mid-December to protect a reinforcement convoy traveling to Malaya, and again on 18 December to cover the Japanese Army's landing at [[Lingayen Gulf]], [[Luzon]], in the [[Philippines]]. The Main Body departed [[Cam Ranh Bay]] in [[French Indochina]] on 23 December bound for Taiwan, arriving two days later.&lt;ref name=cfrecord/&gt; In January 1942, ''Kongō'' and the [[heavy cruiser]]s {{ship|Japanese cruiser|Takao|1930|2}} and {{ship|Japanese cruiser|Atago||2}} provided distant cover for air attacks on [[Ambon Island]].&lt;ref name=cfrecord/&gt;
+
+On 21 February, ''Kongō'' was joined by ''Haruna'', four fast [[aircraft carrier]]s, five [[heavy cruiser]]s and numerous support ships in preparation for &quot;Operation J&quot;, Japan's invasion of the [[Dutch East Indies]]. On 25 February, the Third Battleship Division provided cover for air attacks on the [[Java, Indonesia|Island of Java]].&lt;ref name=jackson-07-27/&gt; ''Kongō'' bombarded [[Christmas Island]] off the western coast of [[Australia]] on 7 March 1942, and then she returned to [[Staring-baai]] for 15 days of standby alert.&lt;ref name=cfrecord/&gt; In April 1942, ''Kongō'' joined five fleet carriers [[Indian Ocean raid|in attacks]] on [[Colombo]] and [[Trincomalee]] on [[Ceylon]].&lt;ref&gt;Boyle (1998), p. 368&lt;/ref&gt; Following the destruction of the British heavy cruisers {{HMS|Dorsetshire|40|6}} and {{HMS|Cornwall|56|6}} on 5 April 1942, this [[Task force#Naval|naval task force]] moved southwest to locate the remainder of the [[British Eastern Fleet]], then under the command of [[James Somerville (admiral)|Admiral James Somerville]].&lt;ref name=boyle370&gt;Boyle (1998), p. 370&lt;/ref&gt;  On 9 April, one of ''Haruna''{{'}}s reconnaissance seaplanes spotted the aircraft carrier {{HMS|Hermes|95|6}} south of [[Trincomalee]]. On the same day, Japanese air attacks sank the carrier,&lt;ref name=boyle370/&gt; and ''Kongō'' was attacked but missed by nine British medium [[bomber]]s. Having crippled the offensive capability of Britain's Eastern Fleet, the Third Battleship Division returned to Japan. ''Kongō'' reached Sasebo on 22 April. From 23 April to 2 May, ''Kongō'' was drydocked for reconfiguration of her antiaircraft armament.&lt;ref name=cfrecord/&gt;
+
+On 27 May 1942, ''Kongō'' sortied with ''Hiei'' and the [[heavy cruiser]]s ''Atago'', {{ship|Japanese cruiser|Chōkai||2}}, {{ship|Japanese cruiser|Myōkō||2}}, and {{ship|Japanese cruiser|Haguro||2}} as part of Admiral [[Nobutake Kondō]]'s invasion force during the [[Battle of Midway]].&lt;ref name=cfrecord/&gt;&lt;ref name=stille19/&gt; Following the disastrous loss of four of the Combined Fleet's fast carriers on 4 June 1942, Kondō's force withdrew to Japan.&lt;ref&gt;Schom (2004), p. 296&lt;/ref&gt; On 14 July she was assigned as the flagship of the restructured Third Battleship Division. In August, ''Kongō'' was drydocked at Kure to receive surface-detection radar and additional range finders.&lt;ref name=stille18/&gt; In September, ''Kongō'' embarked with ''Hiei'', ''Haruna'', ''Kirishima'', three carriers, and numerous smaller warships in response to the [[U.S. Marine Corps]]'s [[amphibious landing]] on [[Guadalcanal]] in the [[Solomon Islands]]. On 20 September, this [[task force#Naval|task force]] was ordered to return to the [[Truk Lagoon|Truk Naval Base]] in the [[Pacific Ocean|Central Pacific]] north of the [[equator]].&lt;ref&gt;Willmott (2002), p. 100&lt;/ref&gt;
+
+In the aftermath of the [[Battle of Cape Esperance]], the Japanese Army opted to reinforce its troops on [[Guadalcanal]]. To protect their transport convoy from enemy air attack, Admiral [[Isoroku Yamamoto]] sent ''Haruna'' and ''Kongō'', escorted by one [[light cruiser]] and nine [[destroyer]]s, to bombard the American [[air base]] as [[Henderson Field (Guadalcanal)|Henderson Field]]. Because of their high speeds, these two battleships could bombard the [[airfield]] and then withdraw before being subjected to air attack from either land-based warplanes or American aircraft carriers.&lt;ref name=schom382&gt;Schom (2004), p. 382&lt;/ref&gt; On the night of 13 – 14 October, these two battleships shelled the area of Henderson Field from a distance of about {{convert|16000|yd|m}}, firing 973 14-inch high-explosive shells. In the most successful Japanese battleship action of the war,&lt;ref name=stille19/&gt; the bombardment heavily damaged both runways, destroyed almost all of the U.S. Marines' aviation fuel, destroyed or damaged 48 of the Marines' 90 warplanes, and killed 41 Marines.&lt;ref&gt;Swanston (2007), p. 220&lt;/ref&gt; A large Japanese troop and supply convoy reached Guadalcanal on the next day.&lt;ref name=schom382/&gt;
+
+During the [[Battle of the Santa Cruz Islands]] on 26 October 1942, ''Kongō'' was attacked by four [[Grumman TBF Avenger]] torpedo bombers, but she received no hits. In mid-November, this battleship and other warships provided distant cover for the unsuccessful mission by the I.J.N. to bombard Henderson Field again and to deliver more Army reinforcements to Guadalcanal. On 15 November 1942, following the Japanese defeat and the sinking of ''Hiei'' and ''Kirishima'' during the [[Naval Battle of Guadalcanal]], the Third Battleship Division returned to Truk, where it remained for the rest of 1942.&lt;ref name=cfrecord/&gt;
+
+===1943: Movement between bases===
+[[File:Kongo class battleship drawing.png|thumb|left|A drawing from the US [[Office of Naval Intelligence]] from 1944 or 1945 depicting the ''Kongō''-class battleship|alt=an American intelligence drawing of ''Kongō'' from the starboard side, giving particular shaded emphasis to her main and secondary guns]]
+
+Throughout 1943, ''Kongō'' engaged no enemy targets. In late January 1943, she participated in &quot;[[Operation Ke]]&quot; as part of a diversionary and distant covering force to support I.J.N. destroyers that were evacuating Army troops from Guadalcanal.&lt;ref&gt;Swanston (2007), p. 223&lt;/ref&gt; From 15 February through 20 February 1943, the Third Battleship Division was transferred from [[Chuuk Lagoon|Truk]] to the Kure Naval Base. On 27 February, ''Kongō'' was drydocked to receive upgrades to her antiaircraft armament, with the additions of two triple 25 mm gun mounts and the removal of two of her 6-inch turrets, while additional concrete protection was added near her steering gear.&lt;ref name=stille18/&gt; On 17 May 1943, in response to the [[U.S. Army]]'s invasion of [[Battle of Attu|Attu Island]], ''Kongō'' sortied alongside {{ship|Japanese battleship|Musashi||2}}, the Third Battleship Division, two fleet carriers, two [[cruiser]]s, and nine destroyers. Three days later, the American submarine {{USS|Sawfish|SS-276|6}} spotted this [[task force|naval task force]], but she was unable to attack it. On 22 May 1943, the task force arrived in [[Yokosuka]], where it was joined by an additional three fleet carriers and two [[light cruiser]]s. This force was disbanded when Attu fell to the U.S. Army before the necessary preparations for a counterattack had been finished.&lt;ref name=cfrecord/&gt;
+
+On 17 October 1943, ''Kongō'' again left Truk as part of a larger task force consisting of five battleships, three fleet carriers, eight heavy cruisers, three light cruisers, and numerous destroyers. These sortied in response to U.S. Navy [[Strategic bombing|air raid]]s on [[Wake Island]]. No contact between the two forces was made, and the Japanese task force returned to Truk on 26 October 1943. She soon left Truk for home waters, and on 16 December 1943, ''Kongō'' arrived at Sasebo for refits and training in the [[Seto Inland Sea|Inland Sea]].&lt;ref name=jackson-07-27/&gt;
+
+===1944: Combat and loss===
+[[File:Kongo under attack.jpg|thumb|right|''Kongō'' under attack during the Battle of the Philippine Sea, 20 June 1944]]
+
+In January 1944, ''Kongō'' was dry-docked for a reconfiguration of her anti-aircraft suite. Four 6-inch guns and a pair of twin 25 mm mounts were removed and replaced with four 5-inch guns and four triple 25 mm mounts.&lt;ref name=stille18/&gt; The Third Battleship Division departed Kure on 8 March 1944. Arriving at Lingga on 14 March 1944, the division remained for training until 11 May 1944.&lt;ref name=cfrecord/&gt; On 11 May 1944, ''Kongō'' and Admiral Ozawa's Mobile Fleet departed Lingga for [[Tawitawi]], where they were joined by Vice-Admiral [[Takeo Kurita]]'s &quot;Force C&quot;. On 13 June, Ozawa's Mobile Fleet departed Tawitawi for the [[Mariana Islands]].&lt;ref&gt;Willmott (2002), p. 141&lt;/ref&gt;  During the [[Battle of the Philippine Sea]], ''Kongō'' escorted Japanese fast carriers, and remained undamaged in counterattacks from US carrier aircraft on 20 June.&lt;ref name=stille20&gt;Stille (2007), p. 20&lt;/ref&gt; When she returned to Japan, 13 triple and 40 single 25-mm mounts were added to her anti-aircraft armament, for a total of over 100 mounts. In August, two more 6-inch guns were removed and another eighteen single mounts installed.&lt;ref name=stille18/&gt;
+
+In October 1944, ''Kongō'' departed Lingga in preparation for &quot;Operation Sho-1&quot;, Japan's counterattack during the [[Battle of Leyte Gulf]], the largest naval engagement in history.&lt;ref&gt;Steinberg (1980), p. 49&lt;/ref&gt;  On 24 October, ''Kongō'' was undamaged by several near misses from American carrier aircraft in the [[Battle of the Sibuyan Sea]]. On 25 October, during the [[Battle off Samar]], ''Kongō''—as part of Admiral Kurita's Centre Force—engaged the US 7th Fleet's &quot;Taffy 3&quot;, a battlegroup of [[escort carrier]]s and destroyers. She succeeded in scoring numerous hits on the escort carrier {{USS|Gambier Bay|CVE-73|2}} as well as the destroyers {{USS|Hoel|DD-533|2}} and {{USS|Heermann|DD-532|2}}. At 09:12, she sank the destroyer escort {{USS|Samuel B. Roberts|DE-413|2}}. After a fierce defensive action by the American ships, which sank three Japanese heavy cruisers, Admiral Kurita elected to withdraw, ending the battle.&lt;ref&gt;Boyle (1998), p. 508&lt;/ref&gt; While retreating, ''Kongō'' suffered damage from five near misses from attacking aircraft. The fleet arrived at [[Brunei]] on 28 October.&lt;ref name=cfrecord/&gt;
+
+On 16 November, following a US air raid on Brunei, ''Kongō'' along with {{ship|Japanese battleship|Yamato||2}}, {{ship|Japanese battleship|Nagato||2}} and the rest of the First Fleet, departed Brunei for Kure in preparation for a major reorganization of the fleet and battle repairs. On 20 November, they entered the [[Formosa Strait]]. Shortly after midnight on 21 November, the submarine {{USS|Sealion|SS-315|6}} made radar contact with the fleet at {{convert|44,000|yd|m}}.&lt;ref name=wheeler183&gt;Wheeler (1980), p. 183&lt;/ref&gt; Maneuvering into position at 02:45, ''Sealion'' fired six bow torpedoes at ''Kongō'' followed by three stern torpedoes at ''Nagato'' fifteen minutes later. One minute after the first salvo was launched, two of the torpedoes were seen to hit ''Kongō'' on the port side, while a third sank the destroyer {{ship|Japanese destroyer|Urakaze|1940|2}} with all hands.&lt;ref name=cfrecord/&gt; The torpedoes flooded two of ''Kongō''{{'}}s boiler rooms, but she was still able to make {{convert|16|kn|abbr=on}}. By 05:00, she had slowed to {{convert|11|kn|abbr=on}} and was given permission to break off from the fleet and head to the port of [[Keelung]] in [[Formosa]] along with the destroyers {{ship|Japanese destroyer|Hamakaze|1940|2}} and {{ship|Japanese destroyer|Isokaze|1939|2}} as escort.
+
+Within fifteen minutes of detaching from the main force, ''Kongō'' was listing 45 degrees and flooding uncontrollably. At 5:18 the ship lost all power and the order was given to abandon ship. At 5:24, while the evacuation was under way, the forward 14-inch magazine exploded and the broken ship sank quickly with the loss of over 1,200 of her crew including the commander of the Third Battleship Division and her captain.&lt;ref name=stille20/&gt;  The escort destroyers ''Hamakaze'' and ''Isokaze'' rescued 237 survivors.
+
+''Kongō'' is believed to have sunk in {{convert|350|ft|m}} of water approximately {{convert|55|nmi}} northwest of Keelung. She was one of only three British-built battleships sunk by submarine attack during World War II. The other two were the British {{sclass-|Revenge|battleship|2}} {{HMS|Royal Oak|08|6}} and the {{sclass-|Queen Elizabeth|battleship|2}} {{HMS|Barham|04|6}}.
+
+==See also==
+* [[List by death toll of ships sunk by submarines]]
+
+==Notes==
+{{reflist|colwidth=30em}}
+
+==References==
+{{refbegin}}
+* Boyle, David (1998). ''World War II in Photographs''. London. Rebo Productions. ISBN 1-84053-089-8.
+* {{cite book|last=Cox|first=Robert Jon|year=2010 |title=The Battle Off Samar: Taffy III at Leyte Gulf |edition=5th |publisher=Agogeebic Press, LLC|location= |isbn= 0-9822390-4-1}}
+* {{cite book |editor1-last=Gardiner |editor1-first=Robert |editor2-last=Gray |editor2-first=Randal |title=Conway's All the World's Fighting Ships: 1906–1921 |year=1984 |location=Annapolis |publisher=Naval Institute Press |isbn=0-87021-907-3 }}
+* Jackson, Robert (2000).  ''The World's Great Battleships''. Dallas: Brown Books. ISBN 1-897884-60-5.
+* Jackson, Robert (editor) (2008). ''101 Great Warships''. London: Amber Books. ISBN 978-1-905704-72-9.
+* McCurtie, Francis (1989) [1945]. ''Jane's Fighting Ships of World War II''. London: Bracken Books. ISBN 1-85170-194-X.
+* {{cite book|last=McLaughlin|first=Stephen|title=Russian &amp; Soviet Battleships|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2003|isbn=1-55750-481-4}}
+* Schom, Alan (2004). ''The Eagle and the Rising Sun; The Japanese-American War, 1941–1943''. New York: Norton &amp; Company. ISBN 0-393-32628-4.
+* Steinberg, Rafael (1980) ''Return to the Philippines''. New York: Time-Life Books Inc. ISBN 0-8094-2516-5.
+* Stille, Cdr Mark (2008). ''Imperial Japanese Navy Battleship 1941–1945''. Oxford: Osprey Publishing. ISBN 978-1-84603-280-6.
+* Swanston, Alexander &amp; Swanston, Malcolm (2007). ''The Historical Atlas of World War II''. London: Cartographica Press Ltd. ISBN 0-7858-2200-3.
+* {{cite book|last=Wheeler|first=Keith|title=War Under the Pacific|location=New York |publisher=Time-Life Books|year=1980|isbn=0-8094-3376-1}}
+* Willmott, H.P. &amp; [[John Keegan|Keegan, John]] [1999] (2002). ''The Second World War in the Far East''. Smithsonian Books. ISBN 1-58834-192-5.
+{{refend}}
+
+== External links ==
+{{Commons|HIJMS Kongō|Kongō}}
+
+{{Kongō class battleship}}
+{{November 1944 shipwrecks}}
+
+{{coord|26|09|N|121|23|E|display=title|type:landmark_source:dewiki}}
+
+{{Good Article}}
+
+{{DEFAULTSORT:Kongo}}
+[[Category:1912 ships]]
+[[Category:Barrow-built ships]]
+[[Category:Kongō-class battlecruisers]]
+[[Category:Ships sunk by American submarines]]
+[[Category:Shipwrecks in the Taiwan Strait]]
+[[Category:Vickers]]
+[[Category:World War II battleships of Japan]]
+[[Category:World War II shipwrecks in the Pacific Ocean]]
+[[Category:Maritime incidents in November 1944]]</text>
+      <sha1>e7lbcc88qlr4rzxyemjo20ugba8q7ds</sha1>
+    </revision>
+  </page>
+</mediawiki>

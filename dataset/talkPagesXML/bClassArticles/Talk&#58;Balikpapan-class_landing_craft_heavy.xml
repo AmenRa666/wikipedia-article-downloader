@@ -1,0 +1,85 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Balikpapan-class landing craft heavy</title>
+    <ns>1</ns>
+    <id>13727391</id>
+    <revision>
+      <id>674663990</id>
+      <parentid>674662127</parentid>
+      <timestamp>2015-08-05T10:39:47Z</timestamp>
+      <contributor>
+        <username>Saberwyn</username>
+        <id>329948</id>
+      </contributor>
+      <comment>/* Article structure for ships transferred from the RAN */ Advice on recovering article history sought</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4801">{{WikiProjectBannerShell|1=
+{{WikiProject Ships|class=B|B1=y|B2=y|B3=Y|B4=Y|B5=Y}}
+{{WikiProject Military history|class=B|B1=y|B2=y|B3=Y|B4=Y|B5=Y |Maritime-task-force=yes |ANZSP=yes}}
+{{WikiProject Australia|class=B |importance=Low}}
+{{WPPhilippines|class=B|importance=Low}}
+{{WikiProject Papua New Guinea|class=B|importance=Low}}
+}}
+
+== Where have Tarakan and Brunei gotten to? ==
+
+Two of the ''Balikpapan''-class vessels, ''Tarakan'' and ''Brunei'' were to be donated to the [[Philippines Navy]] in May 2015. As of mid-June, this does not appear to have occurred. The only piece of info I can find about it is from a website called The Philippine Pride, which claims [http://www.thephilippinepride.com/two-heavy-landing-crafts-donated-by-australia-to-ph-navy-on-their-way-to-philippines/ here] that delivery has been delayed by at least three months. However, although it styles itself as a news site, all of the articles are written by the one person, leading me to question its suitability as a [[WP:RS|reliable, published source]]. Can anyone shed some light on what's happened to the two landing craft (either in support of this article, or otherwise)? -- [[User:Saberwyn|saberwyn]] 04:19, 16 June 2015 (UTC)
+
+== Article structure for ships transferred from the RAN ==
+
+{{ping|Saberwyn}} I've just reverted (probably awkwardly) your moves of the articles on the two ships transferred to the Philippines Navy to their new names. I don't think that what could end up being relatively brief careers should trump their 40-year RAN careers (which are likely to always remain the dominant topic of the coverage the vessels receive), and it would be better to have separate articles on the RAN and Philippines careers of the vessels. What do you think? [[User:Nick-D|Nick-D]] ([[User talk:Nick-D|talk]]) 10:07, 25 July 2015 (UTC)
+:I'm opposed to splitting a hull's history across multiple articles, unless there is enough information available to support two comprehensive, non-overlapping articles (like in the instance of [[HMS Vengeance (R71)|HMS/HMAS/HMS Vengeance]] and [[Brazilian aircraft carrier Minas Gerais|NAeL Minas Gerais]]). At the moment, the entire Philippine history of the ships is justifiably contained within the Australian article's context. Considering the relative lack of reporting for South East Asian navies, and the likelihood that they will have short careers in Philippine service, any Philippine-specific article would probably languish at stub/start class (and if necessary, such a split can happen later).
+:I'm fairly indifferent to what name the articles should be at, beyond an (easily overruled) preference for the name any current or future reporting will happen under, and a preference for consistency where possible. At the moment we have the three PNGDF Balikpapans at their PNGDF name (including [[HMPNGS Lakekamu|the one that transferred late last year]]), one PN split across two articles with almost identical content ([[HMAS Tarakan (L 129)]] and [[BRP Batak (AT-299)]]: the latter is slightly more up to date and has the former's talk page redirecting to it), and one PN at the RAN name (and the entire pre-merge article history [https://en.wikipedia.org/w/index.php?title=HMAS_Brunei_(L_127)&amp;action=history seems to have gone AWOL]) -- [[User:Saberwyn|saberwyn]] 12:01, 25 July 2015 (UTC)
+
+:: I prefer to have the split between the ships as Philippine and Australian assets. Since both were only commissioned recently and has not been used for anything other than moving from Australia to the Philippines, it is expected that nothing can be talked about them yet. But I am expecting more from them once they are in the Philippines, since they are expected to participate in major resupply operations by the Philippine Navy to their troops in the Spratly Islands, as well as during calamities as an HADR asset. Also, there is a law in the Philippines that requires refurbished or second-hand military equipment, either given as a grant or acquired as an excess defense article, must be capable of serving for at least 15 more years upon commissioning. 15 years of facing the Chinese and typhoons could possibly give them successful careers in the Philippine Navy. Give the chance for the ships to prove themselves with the PN. And in anticipation of these, let them have their own separate articles. Thanks. [[User:Phichanad|Phichanad]] ([[User talk:Phichanad|talk]]) 05:14, 31 July 2015 (UTC)
+
+
+Note: I have asked at [[Wikipedia_talk:Requests_for_undeletion#Is_this_the_right_place_for_the_undeletion_of_an_article.27s_history.3F]] about the possibility of retrieving the pre-2015 edit history of [[HMAS Brunei (L 127)]] that disappeared following the move of [[BRP Ivatan (AT-298)]] to that title. -- [[User:Saberwyn|saberwyn]] 10:39, 5 August 2015 (UTC)</text>
+      <sha1>gdfbszcpg6qlxvvlmield6sk7s62s78</sha1>
+    </revision>
+  </page>
+</mediawiki>

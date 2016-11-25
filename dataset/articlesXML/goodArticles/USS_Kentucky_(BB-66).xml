@@ -1,0 +1,449 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>USS Kentucky (BB-66)</title>
+    <ns>0</ns>
+    <id>191744</id>
+    <revision>
+      <id>741260027</id>
+      <parentid>727404218</parentid>
+      <timestamp>2016-09-26T11:12:35Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* Bibliography */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="26418">{{Other ships|USS Kentucky}}
+
+{| {{Infobox ship begin}}
+{{Infobox ship image
+| Ship image   = [[File:USS Kentucky deck.jpg|250px|The partially completed deck of the USS ''Kentucky''|alt=Black and white photograph of a ship under construction. The ship has not been fitted with its deck, and there are three large circular holes in the superstructure visible.]]
+| Ship caption = USS ''Kentucky'' under construction. The [[barbette]]s which would have held the [[gun turret]]s are prominent.
+}}
+{{Infobox ship career
+| Hide header =
+| Ship country = United States
+| Ship flag = {{USN flag|1945}}
+| Ship name =
+| Ship namesake = [[Kentucky|State of Kentucky]]
+| Ship owner =
+| Ship operator =
+| Ship registry =
+| Ship route =
+| Ship ordered = 9 September 1940
+| Ship awarded =
+| Ship builder = [[Norfolk Naval Shipyard]]
+| Ship original cost =
+| Ship yard number =
+| Ship way number =
+| Ship laid down = 12 June 1944
+| Ship launched = Canceled prior to launch
+| Ship sponsor =
+| Ship christened =
+| Ship completed =
+| Ship acquired =
+| Ship commissioned =
+| Ship recommissioned =
+| Ship decommissioned =
+| Ship maiden voyage =
+| Ship in service =
+| Ship out of service =
+| Ship renamed =
+| Ship reclassified = BBG-1 from BB-66
+| Ship refit =
+| Ship struck = 9 June 1958
+| Ship homeport =
+| Ship identification =
+| Ship motto =
+| Ship nickname =
+| Ship honors =
+| Ship fate = Sold for scrapping 31 October 1958
+| Ship status =
+| Ship notes =
+| Ship badge =
+}}
+{{Infobox ship characteristics
+| Hide header =
+| Header caption =
+| Ship class = {{sclass-|Iowa|battleship}}
+| Ship type =
+| Ship displacement = 45,000 tons (planned)
+| Ship length = {{convert|887|ft|3|in|m|abbr=on}} (planned)
+| Ship beam = {{convert|108|ft|2|in|m|abbr=on}} (planned)
+| Ship height =
+| Ship draft =
+| Ship depth =
+| Ship decks =
+| Ship ramps =
+| Ship power =
+| Ship propulsion =
+| Ship speed = {{convert|33|kn|mph km/h|lk=in|abbr=on}} (planned)
+| Ship range =
+| Ship endurance =
+| Ship boats =
+| Ship capacity =
+| Ship troops =
+| Ship complement = 151 officers, 2,637 enlisted (planned)
+| Ship crew =
+| Ship time to activate =
+| Ship sensors =
+| Ship EW =
+| Ship armament = *(planned)
+*  9 × [[16&quot;/50 caliber Mark 7 gun|{{convert|16|in|mm|abbr=on}}/50 cal Mark 7 gun]]s
+* 10 × [[5&quot;/38 caliber gun|{{convert|5|in|mm|abbr=on}}/38 cal Mark 12 gun]]s
+* 80 × [[Bofors 40 mm|40 mm/56 cal anti-aircraft guns]]
+* 49 × [[Oerlikon 20&amp;nbsp;mm cannon|20 mm/70 cal anti-aircraft guns]]
+| Ship armor =
+* [[Belt armor|Belt]]: {{convert|12.1|in|mm|abbr=on}}
+* [[Bulkhead (partition)|Bulkheads]]: {{convert|11.3|in|mm|abbr=on}}
+* [[Barbette]]s: {{convert|11.6|to|17.3|in|mm|abbr=on}}
+* [[Turret]]s: {{convert|19.7|in|mm|abbr=on}}
+* [[Deck (ship)|Decks]]: {{convert|7.5|in|mm|abbr=on}}
+| Ship aircraft =
+| Ship aircraft facilities =
+| Ship notes =
+}}
+|}
+
+'''USS{{efn|name=never commissioned}} ''Kentucky'' (BB-66)''' was an uncompleted battleship originally intended to be the sixth and final member of the {{sclass-|Iowa|battleship|4}} constructed for the [[United States Navy]]. At the time of her construction she was the second ship of the United States Navy to be [[ship naming and launching|named]] in honor of the U.S. state of [[Kentucky]]. Hull BB-66 was originally to be the second ship of the {{sclass-|Montana|battleship|4}}. However, the U.S. Navy's experiences in [[World War II]] led it to conclude that it required more [[fast battleship]]s to escort the new {{sclass-|Essex|aircraft carrier}}s that were being built. As a result, ''Kentucky'' was reordered as an ''Iowa''-class battleship midway through the war. Like her sister ship {{USS|Illinois|BB-65|2}}, ''Kentucky'' was still under construction at the end of hostilities and was caught up in the post-war draw-down of the armed services. Her construction was suspended twice, during which times she served as a spare parts cache of sorts. In the 1950s, there were several proposals to complete the ship as a [[guided missile battleship]]. These were abandoned primarily due to cost concerns, and ''Kentucky'' ultimately was sold for scrap in 1958.
+
+== Background ==
+
+{{Main|Iowa-class battleship}}
+
+''Kentucky'' was conceived in 1935, when the United States Navy initiated design studies for the creation of an extended {{sclass-|South Dakota|battleship (1939)|4}} that was not restricted by the [[Second London Naval Treaty]]. This resulting in one of the &quot;[[fast battleship]]&quot; designs planned in 1938 by the Preliminary Design Branch at the [[Bureau of Construction and Repair]].
+
+The passage of the [[Second Vinson Act]] in 1938 had cleared the way for construction of the four [[South Dakota-class battleship (1939)|''South Dakota''-class]] battleships and the first two ''Iowa''-class [[fast battleship]]s (those with the hull numbers BB-61 and BB-62).{{sfn|Rogers|p=7}} The latter four battleships of the class, those designated with the hull numbers BB-63, BB-64, BB-65, and BB-66 (''Missouri'', ''Wisconsin'', ''Illinois'', and ''Kentucky'', respectively) were not cleared for construction until 12 July 1940,.{{sfn|Rogers|p=8}} While BB-63 and BB-64 were originally planned as the final ships in the ''Iowa''-class to serve as fast escorts for the {{sclass-|Essex|aircraft carrier}}s, BB-65 and BB-66 were intended to be the first ships of the ''Montana'' class which was larger and slower while mounting twelve {{convert|16|in|mm|abbr=on}} Mark 7 guns.{{sfn|Gardiner &amp; Chesneau|p=99}}&lt;ref name=&quot;hore222&quot;&gt;Hore, p. 222.&lt;/ref&gt; However, the passage of an emergency war building program on 19 July 1940 resulting in ''Illinois'' and ''Kentucky'' being re-ordered as the fifth and sixth ships, respectively, of the {{sclass-|Iowa|battleship|4}} in order to save time on construction, so the first ship of the {{sclass-|Montana|battleship|0}} would be reassigned as BB-67.{{sfn|Whitley|p=310}}&lt;ref name=&quot;Gardiner&quot;&gt;Gardiner, p. 99.&lt;/ref&gt;&lt;ref name=&quot;montana&quot;&gt;Johnston, pp. 108–123.&lt;/ref&gt; The orders for BB-65 and BB-66 were placed on 9 September 1940, and the ships were laid down on 6 December 1942, and 7 March 1942, respectively.
+
+By 1942 the United States Navy shifted its building focus from battleships to [[aircraft carrier]]s after the successes of carrier combat in both the [[Battle of the Coral Sea]], and to a greater extent, the [[Battle of Midway]].&lt;ref&gt;Naval Historical Center. Bureau of Ships' &quot;Spring Styles&quot; Book # 3 (1939–1944) – (Naval Historical Center Lot # S-511) – Battleship Preliminary Design Drawings. Retrieved 1 December 2007.&lt;/ref&gt; As a result, the construction of the US fleet of {{sclass-|Essex|aircraft carrier}}s had been given the highest priority for completion in the US [[shipyard]]s by the US Navy.{{sfn|Minks}} The ''Essex''-class carriers were proving vital to the war effort by enabling the [[Allies of World War II|Allies]] to gain and maintain [[air supremacy]] in the [[Pacific War]], and were rapidly becoming the principal striking arm of the United States Navy in the ongoing effort to defeat the Empire of Japan.&lt;ref name=&quot;discovery&quot;&gt;{{cite episode
+| title =Top Ten Fighting Ships: Iowa Battleship
+| series = Combat Countdown
+| network = The Discovery Channel
+| url = http://military.discovery.com/videos/top-ten-fighting-ships-iowa-battleship.html
+}}&lt;/ref&gt; Accordingly, the United States accepted shortcomings in the armor their {{sclass-|Iowa|battleship|2}}s in favor of additional speed, which could steam at a comparable speed with the ''Essex''-class and provide the carriers with the maximum amount of anti-aircraft protection.&lt;ref name=&quot;discovery&quot; /&gt; As a result, construction of the {{sclass-|Montana|battleship|0}} was canceled before their keels could be laid.
+
+== Construction ==
+''Kentucky''{{'}}s main battery would have consisted of nine [[16&quot;/50 caliber Mark 7 gun|{{convert|16|in|mm|sigfig=3|abbr=on}}/50 cal Mark 7 gun]]s, which could hurl {{convert|2700|lb|abbr=on}} armor-piercing shells some {{convert|20|mi|km|abbr=on}}. Her secondary battery would have consisted of 20 [[5&quot;/38 caliber gun|{{convert|5|in|mm|sigfig=3|abbr=on}}/38 cal gun]]s arranged in 10 gun turrets, which could fire at targets up to {{convert|10|mi|km|abbr=on}} away. With the advent of air power and the mandate to gain and maintain [[air superiority]] came a need to protect the growing fleet of Allied aircraft carriers. To this end, ''Kentucky'' was to be fitted with an array of [[Oerlikon 20&amp;nbsp;mm cannon|Oerlikon 20 mm]] and [[Bofors 40 mm]] [[Anti-aircraft warfare|anti-aircraft guns]] to defend allied carriers from enemy airstrikes.{{sfn|Johnston &amp; McAuley|p=120}}
+
+[[File:USSKentuckyBB-66.jpg|thumb|left|The hull of the incomplete ''Kentucky'' is floated out of drydock to allow {{USS|Missouri|BB-63}} to drydock for repairs|alt=Black and white photo of a white ship on a body of water with several smaller ships near it. Industrial buildings are visible behind the ships.]]
+
+Because the ''Iowa''-class torpedo defense was virtually the same as the preceding [[South Dakota-class battleship (1939)|''South Dakota''-class battleships]] it was proposed that ''Kentucky''{{'}}s [[hull (watercraft)|hull]] be redesigned to provide a greater degree of [[torpedo]] protection for the battleship. Under the original construction schematics for the class each side of the ship was protected below the waterline by two tanks mounted outside the [[belt armor]], and separated by a bulkhead. These tanks were initially planned to be empty, but in practice were filled with water or fuel oil. The armored belt tapered to a thickness of {{convert|4|in}} below the waterline. Behind the armored belt there was a void, and then another bulkhead. The outer hull was intended to detonate a torpedo, with the outer two compartments absorbing the shock and with any splinters or debris being stopped by the armored belt and the empty compartment behind it. In 1939 the Navy discovered that this system was considerably less effective than earlier torpedo defense systems,{{sfn|Friedman|p=285}}{{sfn|Lyon &amp; Moore|p=240}} and as such the intended construction format for ''Kentucky'' would have addressed this problem by providing a 20% improvement to the torpedo defense of the battleship while simultaneously reducing flooding in the event of a torpedo strike. Despite providing additional torpedo defense for ''Kentucky'' the records are unclear on the matter of whether or not the idea was actually adopted.{{sfn|Friedman|p=314}}
+
+''Kentucky''{{'}}s construction was plagued by suspensions. Her [[keel]] was laid down at the [[Norfolk Navy Yard]], [[Portsmouth, Virginia]], on 7&amp;nbsp;March 1942.{{sfn|Whitley|p=310}} However, work on the ship was suspended in June that year, and ''Kentucky''{{'}}s bottom structure was launched to make room for [[Landing Ship, Tank|LST]] construction on 10 June.{{sfn|Whitley|p=310}}{{sfn|Kentucky (BB-66), 1942–1958}}{{sfn|Sumrall|p=47}} While her construction was suspended, the Bureau of Ships considered an [[aircraft carrier]] conversion proposal for ''Kentucky'' and ''Illinois'' in the aftermath of the [[Battle of Coral Sea|Battles of Coral Sea]] and [[Battle of Midway|Midway]]. As proposed, the converted ''Kentucky'' would have had an {{convert|864|ft|adj=on}} long by {{convert|108|ft|adj=on}} wide flight deck, with armament identical to the carriers of the {{sclass-|Essex|aircraft carrier|4}}: four twin 5-inch gun mounts and four more 5-inch guns in single mounts, along with six 40&amp;nbsp;mm quadruple mounts. The idea was abandoned after the Bureau of Ships decided that the converted ships would carry fewer aircraft than the ''Essex'' class, that more ''Essex''-class carriers could be built in the same amount of time, and that the conversion project would be significantly more expensive than new ''Essex''es. Instead, ''Kentucky'' and ''Illinois'' were to be completed as battleships, but their construction was given very low priority.{{sfn|Garzke|Dulin|p=288}} Work on the ship resumed on 6&amp;nbsp;December 1944, when the keel structure was returned to the slipway. Work on the battleship proceeded at a slow pace, and her completion was projected for the third quarter of 1946. In December 1945 it was recommended that ''Kentucky'' be completed as an anti-aircraft battleship, and work on the ship was suspended in August 1946 while this was considered. Construction resumed again on 17&amp;nbsp;August 1948 without any decision having been made on her final design.{{sfn|Whitley|p=310}} Work on ''Kentucky'' continued until 20&amp;nbsp;January 1950, when it was decided to halt work on the ship.{{sfn|NVR Kentucky (BB 66)}} Following this, she was floated out of her drydock to clear a space for repairs to sister ship {{USS|Missouri|BB-63|2}}, which had run aground en route from [[Hampton Roads]].{{sfn|Doehring (BB-63)}}{{sfn|DANFS Missouri (BB-63)}}
+
+== Guided missile battleship ==
+
+&lt;!-- Deleted image removed: [[File:USS Kentucky (BBG-1) concept artwork.jpg|thumb|Impression of ''Kentucky'' as a guided missile battleship]] --&gt;
+
+As early as 1946, missile conversion projects for ''Kentucky'' and the incomplete large cruiser {{USS|Hawaii|CB-3|6}} were discussed.{{sfn|''Toledo Blade''|9 September 1946}} In the early 1950s, the advances in guided missile technology led to a proposal to create a large warship armed with both guns and missiles. To this end, the incomplete ''Kentucky'' was chosen for conversion from an all gun ship into a &quot;guided missile battleship&quot;.{{sfn|Rogers|p=13}} This proposal would have been relatively conservative, and would have involved the installation of a pair of twin arm launchers for the [[RIM-2 Terrier]] surface-to-air missile (SAM) on the aft deckhouse, with a pair of antennas for the associated [[AN/APG-55]] [[pulse doppler]] interception radar installed forward of these, and the [[AN/SPS-2]]B air search radar on a short mast.{{sfn|Scarpaci|p=4}} Since the battleship was already approximately 73% complete (construction had been halted at the main deck),{{sfn|NVR Kentucky (BB 66)}} installation of the missile system and associated electronics would have involved only adding the necessary equipment without any need to rebuild the ship to accommodate the system.{{efn|name=missiles}} Some guided missile concepts included one or two launchers for eight [[Regulus missile|Regulus II]] or [[SSM-N-2 Triton]] nuclear [[cruise missile]]s.&lt;ref&gt;Friedman, p. 398-399&lt;/ref&gt; The guided missile battleship project was authorized in 1954, and ''Kentucky'' was renumbered from BB-66 to BBG-1, with the conversion due to be complete in 1956. However, the project was soon cancelled, with the conversion ideas transferred to a smaller platform that led to the {{sclass-|Boston|cruiser|0}} guided missile cruiser.{{sfn|Scarpaci|p=4}}
+
+Another conversion project in early 1956 called for the installation of two [[UGM-27 Polaris|Polaris]] ballistic missile launchers with a capacity for sixteen weapons.{{sfn|Whitley|p=310}} She would also be equipped with four [[RIM-8 Talos]] SAM launchers with eighty missiles per launcher and twelve [[RIM-24 Tartar]] SAM launchers with 504 missiles. A July 1956 estimate projected completing the ship by July 1961, but the cost of the conversion ultimately forced the Navy to abandon the project.{{sfn|Whitley|p=311}}
+
+== Fate ==
+[[File:USSKentuckyBow.jpg|thumb|The bow of ''Kentucky'', transported in one section, by barge, to repair ''Wisconsin''.]]
+[[File:USS Kentucky towed to breakers.png|thumb|''Kentucky'' being towed to the scrapyard; note her missing bow]]
+''Kentucky'' was never completed, instead serving as a parts hulk while in the [[United States Navy reserve fleets|mothball fleet]] at the [[Philadelphia Naval Shipyard]] from about 1950 to 1958.{{sfn|Rogers|p=13}} [[Hurricane Hazel]] hit the area on 15 October 1954; the storm caused ''Kentucky'' to break free from her moorings and run aground in the [[Delaware River]].{{sfn|''Miami Daily News''|16 October 1954}} In 1956, ''Kentucky''{{'}}s [[bow (ship)|bow]] was removed and used in the repair of {{USS|Wisconsin|BB-64|2}}, which had been damaged in a collision with the destroyer {{USS|Eaton|DDE-510|6}} on 6 May 1956.{{sfn|Rogers|p=13}} Congressman [[William Huston Natcher]] attempted to block the sale of the ship by objecting to the [[Bill (proposed law)|bill]] in August 1957.{{sfn|''The Park City Daily News''|7 August 1957}} Nevertheless, ''Kentucky'' was struck from the [[Naval Vessel Register]] on 9 June 1958 and her incomplete hulk was sold for scrapping to Boston Metals Company of [[Baltimore, Maryland]], on 31 October.{{sfn|NVR Kentucky (BB 66)}}{{sfn|DANFS Kentucky (BB-66)}} Boston Metals Company paid $1,176,666 for the vessel, and towed her to their shipyard in Baltimore in February 1959.{{sfn|Whitley|p=311}}
+
+When the first two of the {{sclass-|Sacramento|fast combat support ship}}s, {{USS|Sacramento|AOE-1|2}} and {{USS|Camden|AOE-2|2}}, were laid down in 1961 and 1964, the builders used ''Kentucky''{{'}}s four turbine sets to power the ships. This would later prove to be a beneficial decision: when the Navy switched from 600&amp;nbsp;psi (4.1&amp;nbsp;MPa) boilers to 1,200&amp;nbsp;psi (8.3&amp;nbsp;MPa) boilers, sailors who had served aboard ''Sacramento'' and ''Camden'' were posted to operate the older boilers aboard {{USS|New Jersey|BB-62|2}} during her combat tour in the [[Vietnam War]] and aboard all four of the ''Iowa''s when they were recalled and modernized in the 1980s as part of the [[600-ship Navy]] plan.{{sfn|Rogers|p=13}} A pair of {{convert|150|lb|adj=on}} [[mahogany]] doors were donated by the state of Kentucky while the ship was still under construction; they were used in an officer's club in New York City before eventually being returned to the [[Kentucky Historical Society]] in early January 1994.{{sfn|''Lexington Herald-Leader''|6 January 1994}}{{sfn|''Kentucky New Era''|6 January 1994}}
+
+== Notes ==
+
+{{notes
+| colwidth =
+| notes =
+
+{{efn
+| name = never commissioned
+| Although the ''Kentucky'' was never [[ship commissioning|commissioned]] by the U.S. Navy, and therefore did not officially receive the USS ship prefix, she is conventionally referred to as USS ''Kentucky''.
+}}
+
+{{efn
+| name = missiles
+| The addition of missiles to a battleship had already been done aboard the battleship {{USS|Mississippi|BB-41|2}} (BB-41/AG-128) to test the [[terrier missile]] after World War II. See {{harvnb|DANFS Mississippi (BB-41)}}. More recently, this was done to the four completed ''Iowa''-class battleships to allow them to carry and launch [[BGM-109 Tomahawk]] missiles and [[Boeing Harpoon|RGM-84 Harpoon missiles]]. ({{cite web | url = http://archive.gao.gov/f0102/115403.pdf | title = Update of the Issues Concerning the Proposed Reactivation of the Iowa class battleships and the Aircraft Carrier Oriskany | accessdate = 7 November 2007 | author = United States General Accounting Office | authorlink = Government Accountability Office | date = 20 April 1981 | format = PDF | publisher = United States General Accounting Office | pages = 3–18 }})
+}}
+
+}}
+
+== References ==
+
+=== Footnotes ===
+
+{{reflist
+| colwidth = 20em
+| refs =
+}}
+
+=== Bibliography ===
+
+;Print sources
+{{refbegin}}
+* {{cite book
+  | last = Friedman
+  | first = Norman
+  | year = 1985
+  | title = U.S. Battleships: An Illustrated Design History
+  | publisher = Naval Institute Press
+  | location = Annapolis, Maryland
+  | isbn = 978-0-87021-715-9
+  | oclc = 12214729
+  | ref = {{sfnRef|Friedman}}
+  }}
+* {{cite book
+  | last1 = Garzke
+  | first1 = William H.
+  | last2 = Dulin
+  | first2 = Robert O., Jr.
+  | year = 1995
+  | title = Battleships: United States Battleships 1935–1992
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-1-55750-174-5
+  | oclc = 29387525
+  | ref = {{sfnRef|Garzke|Dulin}}
+  }}
+* {{cite book
+  | title = The Encyclopedia of the World's Warships: A technical directory of major fighting ships from 1900 to the present day
+  | last1 = Lyon
+  | first1 = Hugh
+  | last2 = Moore
+  | first2 = J. E.
+  | year = 1978
+  | publisher = Salamander Books
+  | location = London, England
+  | isbn = 978-0-86101-007-3
+  | ref = {{sfnRef|Lyon &amp; Moore}}
+  }}
+* {{cite book
+  | last1 = Johnston
+  | first1 = Ian
+  | last2 = McAuley
+  | first2 = Rob
+  | year = 2002
+  | title = The Battleships
+  | publisher = Channel 4 Books (an imprint of Pan Macmillan)
+  | location = London
+  | isbn = 978-0-7522-6188-1
+  | ref = {{sfnRef|Johnston &amp; McAuley}}
+  }}
+* {{cite book
+  | last = Scarpaci
+  | first = Wayne
+  | authorlink =
+  | year = 2008
+  | title = Iowa Class Battleships and Alaska Class Large Cruisers Conversion Projects 1942–1964: A Technical Reference
+  | publisher = Nimble Books
+  | location =
+  | isbn = 978-1-934840-38-2
+  | page = 4
+  | ref = {{sfnRef|Scarpaci}}
+  }}
+* {{cite book
+  | last = Sumrall
+  | first = Robert
+  | year = 1988
+  | title = Iowa Class Battleships: Their Design, Weapons &amp; Equipment
+  | publisher = Naval Institute Press
+  | location = Annapolis
+  | isbn = 978-0-87021-298-7
+  | oclc = 19282922
+  | ref = {{sfnRef|Sumrall}}
+  }}
+* {{cite book
+  | last = Whitley
+  | first = M.J.
+  | year = 1998
+  | title = Battleships of World War Two: An International Encyclopedia
+  | publisher = Arms and Armour
+  | location = London
+  | isbn = 978-1-85409-386-8
+  | ref = {{sfnRef|Whitley}}
+  }}
+{{refend}}
+
+;Online sources
+{{refbegin}}
+* {{cite web
+  | last = DiGiulian
+  | first = Tony
+  | date = 22 November 2009
+  | title = United States of America 16&quot;/50 (40.6&amp;nbsp;cm) Mark 7
+  | work = NavWeaps.com
+  | url = http://www.navweaps.com/Weapons/WNUS_16-50_mk7.htm
+  | accessdate = 15 August 2012
+  | ref = {{sfnRef|DiGiulian (Mark 7)}}
+  }}
+* {{cite web
+  | title = USS Missouri (BB-63) (subsection: Accidents aboard USS ''Missouri'')
+  | work = NavySite.de
+  | publisher = Thoralf Doehring
+  | url = http://www.navysite.de/bb/bb63.htm
+  | accessdate = 15 December 2006
+  | ref = {{sfnRef|Doehring (BB-63)}}
+  }}
+* {{cite DANFS
+  | title = Kentucky
+  | url = http://www.history.navy.mil/danfs/k3/kentucky.htm
+  | accessdate = 20 September 2011
+  | ref = {{sfnRef|DANFS Kentucky (BB-66)}}
+  }}
+* {{cite DANFS
+  | title = Mississippi
+  | url = http://www.history.navy.mil/danfs/m12/mississippi-iii.htm
+  | accessdate = 27 September 2011
+  | ref = {{sfnRef|DANFS Mississippi (BB-41)}}
+  | link = no
+  }}
+* {{cite DANFS
+  | title = Missouri
+  | url = http://www.history.navy.mil/danfs/m12/missouri-iv.htm
+  | accessdate = 20 September 2011
+  | ref = {{sfnRef|DANFS Missouri (BB-63)}}
+  | link = no
+  }}
+* {{cite news
+  | newspaper = Kentucky New Era
+  | date = 6 January 1994
+  | title = Society Gets Ship's Doors
+  | url = http://nl.newsbank.com/nl-search/we/Archives?p_product=LH&amp;s_site=kentucky&amp;p_multi=LH&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB73EFC43796B9F&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM
+  | accessdate = 14 August 2012
+  | ref = {{sfnRef|''Kentucky New Era''|6 January 1994}}
+  }}
+* {{cite news
+  | newspaper = Lexington Herald-Leader
+  | date = 6 January 1994
+  | title = Return Of Doors Opens Mystery
+  | url = http://nl.newsbank.com/nl-search/we/Archives?p_product=LH&amp;s_site=kentucky&amp;p_multi=LH&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB73EFC43796B9F&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM
+  | accessdate = 14 August 2012
+  | ref = {{sfnRef|''Lexington Herald-Leader''|6 January 1994}}
+  }}
+* {{cite news
+  | newspaper = Miami Daily News
+  | date = 16 October 1954
+  | title = Baby and Battleship Make Hurricane News
+  | url = https://news.google.com/newspapers?id=t0cyAAAAIBAJ&amp;sjid=_ugFAAAAIBAJ&amp;pg=4339,2581913&amp;dq=battleship+kentucky&amp;hl=en
+  | accessdate = 14 August 2012
+  | ref = {{sfnRef|''Miami Daily News''|16 October 1954}}
+  }}
+* {{cite web
+  | title = USS Kentucky (BB&amp;nbsp;66)
+  | url = {{NVR url|id=BB66}}
+  | work = [[Naval Vessel Register]]
+  | publisher = [[United States Navy]]
+  | accessdate = 27 September 2011
+  | ref = {{sfnRef|NVR Kentucky (BB 66)}}
+  }}
+* {{cite web
+  | title = Kentucky (BB-66), 1942–1958
+  | work = Online Library of Selected Images
+  | publisher = Department of the Navy&amp;nbsp;– Naval Historical Center
+  | url = http://www.history.navy.mil/photos/sh-usn/usnsh-k/bb66.htm
+  | accessdate = 27 September 2011
+  | ref = {{sfnRef|Kentucky (BB-66), 1942–1958}}
+  }}
+* {{cite news
+  | newspaper = The Park City Daily News
+  | date = 7 August 1957
+  | title = Natcher Blocks Move to Scuttle Kentucky
+  | url = https://news.google.com/newspapers?id=-ggeAAAAIBAJ&amp;sjid=30UEAAAAIBAJ&amp;pg=5409,3303885&amp;dq=battleship+kentucky+million&amp;hl=en
+  | accessdate = 14 August 2012
+  | ref = {{sfnRef|''The Park City Daily News''|7 August 1957}}
+  }}
+* {{cite web
+  | last = Rogers
+  | first = J. David
+  | title = Development of the World's Fastest Battleships
+  | format = PDF
+  | url = http://web.mst.edu/~rogersda/american&amp;military_history/World%27s%20Fastest%20Battleships.pdf
+  | accessdate = 27 September 2011
+  | ref = {{sfnRef|Rogers}}
+  }} {{when|date=September 2011}}
+* {{cite news
+  | newspaper = Toledo Blade
+  | date =  9 September 1946
+  | title = Rockets May Be Main Battery For 2 Battleships
+  | url = https://news.google.com/newspapers?id=Q-BOAAAAIBAJ&amp;sjid=zf8DAAAAIBAJ&amp;pg=6903,1211405&amp;dq=battleship+kentucky&amp;hl=en
+  | accessdate = 14 August 2012
+  | ref = {{sfnRef|''Toledo Blade''|9 September 1946}}
+  }}
+
+{{refend}}
+
+== Further reading ==
+
+{{refbegin}}
+* {{cite web
+  | title = Iowa Class (BB-61 through BB-66) Drawings
+  | work = Online Library of Selected Images
+  | publisher = Department of the Navy&amp;nbsp;— Naval Historical Center
+  | url = http://www.history.navy.mil/photos/usnshtp/bb/bb61cl-d.htm
+  | accessdate = 27 September 2011
+  }}
+{{refend}}
+
+== External links ==
+
+{{Portal|Battleships}}
+{{Commons category|USS Kentucky (BB-66)}}
+* [http://www.history.navy.mil/photos/sh-usn/usnsh-k/bb66.htm ''Kentucky'' (BB-66), 1942–1958]
+* [http://www.history.navy.mil/photos/usnshtp/bb/bb61cl.htm ''Iowa'' class (BB-61 through BB-66), 1940 &amp; 1941 Building Programs]
+* {{navsource|01/66|Kentucky (BB-66)}}
+
+{{Iowa class battleship}}
+{{Use dmy dates|date=February 2011}}
+{{good article}}
+
+{{DEFAULTSORT:Kentucky (BB-66)}}
+[[Category:Iowa-class battleships]]
+[[Category:Cancelled ships of the United States Navy]]
+[[Category:Ships built in Portsmouth, Virginia]]
+[[Category:United States Navy Kentucky-related ships]]
+[[Category:1944 ships]]</text>
+      <sha1>q9r466m68060cpunrkh7dbjh9cy9ay3</sha1>
+    </revision>
+  </page>
+</mediawiki>

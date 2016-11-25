@@ -1,0 +1,172 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Type 92 Heavy Armoured Car</title>
+    <ns>0</ns>
+    <id>3833362</id>
+    <revision>
+      <id>747689013</id>
+      <parentid>747401126</parentid>
+      <timestamp>2016-11-03T20:29:36Z</timestamp>
+      <contributor>
+        <username>FockeWulf FW 190</username>
+        <id>19468137</id>
+      </contributor>
+      <minor/>
+      <comment>added category</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="10262">{{Infobox Weapon
+|name=Type 92 Tankette
+|image=[[File:Type 92 Iju Sokosha Tankette.jpg|300px]]
+|caption=Type 92 tankette in 1935
+|is_vehicle=yes
+|origin= [[Empire of Japan]]
+|design_date=1931
+&lt;!-- Production history --&gt;
+| designer           =
+| manufacturer       =
+| unit_cost          =
+| production_date    = 1932–1939
+| number             = 167{{sfn|Zaloga|2007|p=10}}
+| variants           =
+&lt;!-- General specifications --&gt;
+|length={{convert|3.95|m|ftin|abbr=on}}
+|width={{convert|1.63|m|ftin|abbr=on}}
+|height={{convert|1.86|m|ftin|abbr=on}}
+|weight=3.5 tonnes (3.9 tons){{sfn|Zaloga|2007|p=7}}
+|suspension=Bell crank
+|speed={{convert|40|km/h|mph|abbr=on}}
+|vehicle_range={{convert|200|km|mi|abbr=on}}
+|primary_armament=13 mm [[Hotchkiss M1929 machine gun|Type 92 heavy machine gun]]
+|secondary_armament=1 × 7.7 mm [[Type 97 light machine gun]]
+|armour=6–12 mm
+|engine=Franklin/Ishikawajima Sumida C6 air-cooled inline 6-cylinder gasoline
+| engine_power=45 hp (34 kW)
+| pw_ratio=
+|crew=3
+}}
+
+The {{Nihongo|'''Type 92 Heavy Armoured Car'''|九二式重装甲車|Kyū-ni-shiki Jyū-sōkōsha}}, also known as the '''Type 92 cavalry tank''',{{sfn|Zaloga|2007|p=6}} was the [[Empire of Japan]]'s first indigenous [[tankette]]. Designed for use by the [[cavalry]] of the [[Imperial Japanese Army]] by Ishikawajima Motorcar Manufacturing Company (currently [[Isuzu Motors]]), the Type 92 was designed for scouting and [[infantry]] support. Although actually a light tank, it was called ''sōkōsha'' (armored car) in [[Japanese language|Japanese]] due to political sectionalism within the Japanese Army (tanks were controlled by the infantry, whereas the new weapon was intended for the cavalry). Exactly the same device was used in America with the [[M1 Combat Car]].
+
+==Developmental history==
+After [[World War I]], many European countries attempted to mechanize their cavalry. In parallel, Japanese cavalry also experimented with a variety of [[Armored car (military)|armored cars]] with limited success. These wheeled armored cars were not suitable for most operations in [[Manchuria]], due to the poor road conditions and severe winter climate. Japan's army (like the US, French, British and Russian armies) tried various methods to integrate modern armor into their traditional horse cavalry formations.&lt;ref&gt;[http://www3.plala.or.jp/takihome/ Taki's Imperial Japanese Army]&lt;/ref&gt;
+
+From the early 1920s, the Imperial Japanese Army Cavalry School based in [[Chiba prefecture]] tested a variety of European [[light tank]]s, including six [[Carden Loyd tankette]]s and several [[Renault FT]]s, and a decision was reached in 1929 to proceed with the domestic development of a new vehicle, based largely on the Carden Loyd design and intended to address the deficiencies of wheeled armored cars.&lt;ref&gt;Foss. ''Tanks: The 500''. p. 220&lt;/ref&gt;
+
+The development of the Type 92 began after the Japanese decided to develop a small vehicle in Japan for mobile operations.{{sfn|Zaloga|2007|p=6}} At first a hybrid amphibious car was considered; this had both tracks and wheels and was able to drive in forward and reverse, both in the water and on land. The experiment was not entirely successful, and the Japanese cavalry was not impressed with the performance. After this, the amphibious car concept was abandoned, and the design was changed to a tracked vehicle for land use only. 
+
+Production was initiated by Ishikawajima Motorcar Manufacturing Company.{{sfn|Zaloga|2007|p=7}} Production was plagued by technical problems and in total only 167 units were built{{sfn|Zaloga|2007|pp=7, 10}} between 1932 and 1939. After some initial problems with the running gear, the Type 92 proved well suited for the rough terrain and poor roads of Manchuria and China, and was able to attain a speed of {{convert|40|km/h|mph|abbr=on}}. Some vehicles were equipped with two searchlights for night operations and Type 94 Mk 4 ''Otsu'' radios (this 1934 model had a range of 0.6 mile and weighed 88&amp;nbsp;lb; it used a {{convert|23|ft|m|abbr=on}} long antenna of &quot;reverse L&quot; shape). The earlier series version had six road wheels and three return rollers. The later production version had a new suspension with four road wheels and two return rollers.{{sfn|Tomczyk|2002|pp=61, 63, 65}} The later production version has sometime been mistakenly referred to as a Type 93 light tank.&lt;ref&gt;[http://usacac.army.mil/cac2/cgsc/carl/wwIIspec/number34.pdf Japanese tank and antitank warfare, published by U. S. Army military history institute, 1st of August, 1945, special series No. 34]&lt;/ref&gt;
+
+
+The Type 92 was eventually replaced by the [[Type 94 Te Ke]] during the [[Second Sino-Japanese War]], although both British and American sources often confused the two models.&lt;ref name=&quot;Foss p. 106&quot;&gt;Foss. ''The Great Book of Tanks''. p. 106&lt;/ref&gt;
+
+==Armor and armament==
+[[File:Type 92 heavy armoured car 01.jpg|thumb|right|250px|Type 92 tankette with early armament and earlier suspension of six road wheels and three return rollers]]
+The Type 92 used riveted and welded [[vehicle armour|armor]] with a maximum thickness from 6&amp;nbsp;mm (in the hull) to 12&amp;nbsp;mm (in the turret). The thin armor enabled the weight to be kept to three tons; however, it could be penetrated by machine gun fire. Although its armor was thinner and its weaponry much lighter than its European contemporaries, the Type 92 was only able to reach a speed of 40&amp;nbsp;km/h.
+
+In terms of armament, the main weapons were twin machine guns, one in the turret, and one in the hull.{{sfn|Zaloga|2007|p=7}} Later, the primary weapon was a hull-mounted, manually aimed 13&amp;nbsp;mm [[13.2 mm Hotchkiss machine gun|Type 92 heavy machine gun]], license-built from [[Hotchkiss et Cie|Hotchkiss]].{{sfn|Zaloga|2007|p=7}} The weapon had limited traverse, but included a pivoting eyepiece on the gunsight optics and a high-angle mount, allowing anti-aircraft use. Secondary armament was a 6.5&amp;nbsp;mm [[Type 11 light machine gun|Type 91 machine gun]], replaced later by the 7.7&amp;nbsp;mm [[Type 97 light machine gun]] mounted in the manually traversed turret.&lt;ref name=&quot;Foss p. 106&quot;/&gt; Initially, the early models were armed with identical 6.5&amp;nbsp;mm machine guns on both the turret and the hull.{{sfn|Tomczyk|2002|p=61}}
+
+After production ended, efforts were made to improve the armament to keep the vehicle relevant on the battlefield. Attempts were also made in 1933 to mount a 37&amp;nbsp;mm tank gun in the hull of the vehicle to give it &quot;anti-tank capabilities&quot;.{{sfn|Tomczyk|2002|p=63}} It was determined to be &quot;impractical&quot; and therefore abandoned.{{sfn|Tomczyk|2002|p=63}} The Type 98 20&amp;nbsp;mm Machine Cannon was successfully mounted on the hull of a number of the vehicles after 1937, in place of the 13.2&amp;nbsp;mm machine gun.{{sfn|Tomczyk|2002|p=63}} In addition, an external anti-aircraft mount was stowed in the vehicle, which could be attached to the outer rear facing of the turret, allowing an additional Type 91 machine gun to be mounted.{{sfn|Tomczyk|2002|p=61}} The engine hatches could be opened and locked together to form a seat for the gunner using the externally mounted machine gun.
+
+==Variants==
+There were three major production variants of the Type 92. The early wheeled prototype and the experimental amphibious tank (Type 92 A-I-Go) with a watertight hull, floats and propellers (only 2 built) eventually resulted in the early production model with two bogies on each side, each with two small rubber-lined road wheels. However, this model was superseded in production by a late production model with improved suspension, when combat experience showed that the early Type 92 tended to throw its tracks in high speed turns.&lt;ref name=&quot;Foss p. 106&quot;/&gt;
+
+A Type 92 first production &quot;early&quot; model. Initial armament was two light 6.5 mm Type 91, with one mounted in the hull. This was used by the Cavalry division which took part in the attack of Harbin, 1932.
+
+The re-armed early or &quot;mid&quot; production type 92 included the 13.2mm heavy Mg in the hull. The first Special Tank Company of the 8th Division used it in the battle of Rehe, March 1933. The mid-production re-armed model allowed for some anti-air capability, increasing the utility of the vehicle.
+
+The &quot;late&quot; type 92 was deployed in Manchuria, April 1942. Modifications included a new drive train, new redesigned portholes and vision slits with different swing, a new light turret machine gun, the Type 96 re-barreled to 7.7 mm Type 99 ammunition.
+
+==Combat use==
+[[File:1941 Type92 Combat Cars near Nanking.jpg|thumb|Type 92s at Wanshi Chin near Nanking in 1941]]
+The Type 92 tankette was deployed primarily with the [[Kwantung Army]] in Manchuria and with the [[Japanese Korean Army|Chosen Army]] in [[Korea under Japanese rule|Korea]].
+
+Notable actions in which the Type 92 participated included the [[Defense of Harbin|Battle of Harbin]] with the 1st Cavalry Brigade and the [[Battle of Rehe]] with the 1st Special Tank Company of the [[8th Division (Imperial Japanese Army)|8th Division]].
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite book
+ | last = Foss
+ | first = Christopher
+ | year = 2003
+ | title = Great Book of Tanks: The World's Most Important Tanks from World War I to the Present Day
+ | publisher = Zenith Press
+ | location =
+ | isbn = 0-7603-1475-6
+}}
+*{{cite book
+ | last = Foss
+ | first = Christopher
+ | year = 2003
+ | title = Tanks: The 500
+ | publisher = Crestline
+ | location =
+ | isbn = 0-7603-1500-0
+}}
+*{{cite book | last = Tomczyk | first = Andrzej | year = 2002 | title = Japanese Armor Vol. 1 | publisher = AJ Press | location = | isbn = 83-7237-097-4 | ref = harv }}
+*{{cite book | last = Zaloga | first = Steven J. | year = 2007 | title = Japanese Tanks 1939–45 | publisher = Osprey | location = | isbn = 978-1-8460-3091-8 | ref = harv }}
+
+==External links==
+{{Commonscat|Type 92 Heavy Armoured Car}}
+{{Portal|Tank}}
+*[http://www3.plala.or.jp/takihome/92.htm Taki's Imperial Japanese Army Page]
+
+{{Interwar tanks|style=wide}}
+{{WWIIJapaneseAFVs}}
+
+[[Category:World War II tankettes]]
+[[Category:Japanese tankettes]]
+[[Category:Reconnaissance_vehicles]]
+[[Category:Reconnaissance vehicles of the Japan]]
+[[Category:Reconnaissance vehicles of World War II]]
+[[Category:Tracked reconnaissance vehicles]]
+[[Category:Tankettes]]</text>
+      <sha1>d31zor5c3806hyp4xqjqm2cnmizqfuo</sha1>
+    </revision>
+  </page>
+</mediawiki>

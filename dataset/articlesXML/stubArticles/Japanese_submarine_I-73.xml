@@ -1,0 +1,147 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Japanese submarine I-73</title>
+    <ns>0</ns>
+    <id>34732876</id>
+    <revision>
+      <id>730218781</id>
+      <parentid>712058337</parentid>
+      <timestamp>2016-07-17T15:19:03Z</timestamp>
+      <contributor>
+        <username>Mdnavman</username>
+        <id>7061136</id>
+      </contributor>
+      <comment>/* References */ Added template.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6047">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=[[Empire of Japan]]
+|Ship flag={{Shipboxflag|Empire of Japan|naval}}
+|Ship name=''I-73'' 
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=1935
+|Ship commissioned=
+|Ship in service=
+|Ship renamed=
+|Ship struck=
+|Ship fate=Sunk by [[USS Gudgeon (SS-211)|USS ''Gudgeon'']], 27 January 1942
+|Ship status=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Kaidai type submarine|''Kaidai'' type]] (KD6A sub-class)
+|Ship displacement=*{{Convert|1785|LT|t|0|disp=flip}} surfaced
+*{{Convert|2440|LT|t|0|disp=flip}} submerged
+|Ship length={{convert|104.7|m|ftin|abbr=on}}
+|Ship beam={{convert|8.2|m|ftin|abbr=on}}
+|Ship draft={{convert|4.57|m|ftin|abbr=on}}
+|Ship power=*{{convert|9000|bhp|lk=in|abbr=on}} (diesels)
+*{{convert|1800|hp|abbr=on}} (electric motors)
+|Ship propulsion=*[[Diesel-electric]]
+*2 × [[diesel engine]]s
+*2 × [[electric motor]]s
+|Ship speed=*{{convert|23|kn|lk=in}} surfaced
+*{{convert|8|kn}} submerged
+|Ship range=*{{convert|14000|nmi|abbr=on|lk=in}} at {{convert|10|kn}} surfaced
+*{{convert|65|nmi|abbr=on}} at {{convert|3|kn}} submerged
+|Ship endurance=
+|Ship test depth={{convert|75|m|ft|abbr=on}}
+|Ship complement=70
+|Ship armament=*6 × {{convert|533|mm|in|0|abbr=on}} [[torpedo tube]]s (4 bow, 2 stern)
+*1 × {{convert|100|mm|in|abbr=on}} [[deck gun]]
+*1 × {{convert|13.2|mm|in|abbr=on}} [[anti-aircraft machinegun]]
+}}
+|}
+
+The '''Japanese submarine ''I-73''''' was a [[Kaidai type submarine|''Kaidai'' type]] [[cruiser submarine]] of the KD6A [[ship class|sub-class]] built for the [[Imperial Japanese Navy]] (IJN) during the 1930s.  One month after participating in the IJN's [[attack on Pearl Harbor]], she was sunk by [[United States Navy]] submarine [[USS Gudgeon (SS-211)|USS ''Gudgeon'']].
+
+==Design and description==
+The submarines of the KD6A sub-class were versions of the preceding KD5 sub-class with greater surface speed and diving depth. They [[Displacement (ship)|displaced]] {{Convert|1785|LT|t|0|disp=flip}} surfaced and {{Convert|2440|LT|t|0|disp=flip}} submerged. The submarines were {{convert|104.7|m|ftin|sp=us}} long, had a [[beam (nautical)|beam]] of {{convert|8.2|m|ftin|sp=us}} and a [[draft (hull)|draft]] of {{convert|4.57|m|ftin|sp=us}}. The boats had a diving depth of {{convert|75|m|ft|abbr=on}}&lt;ref name=cd3&gt;Carpenter &amp; Polmar, p. 96&lt;/ref&gt;
+
+For surface running, the boats were powered by two {{convert|4500|bhp|lk=in|0|adj=on}} [[diesel engine]]s, each driving one [[propeller shaft]]. When submerged each propeller was driven by a {{convert|900|hp|0|adj=on}} [[electric motor]].&lt;ref name=c5&gt;Chesneau, p. 198&lt;/ref&gt; They could reach {{convert|23|kn|lk=in}} on the surface and {{convert|8|kn}} underwater. On the surface, the KD6As had a range of {{convert|14000|nmi|lk=in}} at {{convert|10|kn}}; submerged, they had a range of {{convert|65|nmi|abbr=on}} at {{convert|3|kn}}.&lt;ref name=b4/&gt;
+
+The boats were armed with six internal {{convert|53.3|cm|in|1|abbr=on|sp=us}} [[torpedo tube]]s, four in the bow and two in the stern. They carried a total of 14 [[torpedo]]es. They were also armed with one {{convert|100|mm|in|abbr=on}} [[deck gun]] for combat on the surface and an {{convert|13.2|mm|in|abbr=on}} [[anti-aircraft machinegun]].&lt;ref name=b4&gt;Bagnasco, p. 183&lt;/ref&gt;
+
+==Construction and career==
+''I-73'' participated in the [[attack on Pearl Harbor]] as part of the 3rd Submarine Squadron in the 6th Fleet of the IJN. It was one of the vessels created as part of Japan's [[1st Naval Armaments Supplement Programme]] in 1931. On 27 January 1942,&lt;ref&gt;{{cite DANFS | title = Gudgeon | url = http://www.hazegray.org/danfs/submar/ss211.txt | accessdate = 31 December 2011 }}&lt;/ref&gt; ''I-73'' became the first warship to be sunk by a [[United States Navy]] submarine; [[USS Gudgeon (SS-211)|USS ''Gudgeon'']] fired three torpedoes at ''I-73'' and destroyed it.&lt;ref&gt;{{Cite web|publisher=Combined Fleet|title=HIJMS Submarine I-73: Tabular Record of Movement|author=Bob Hackett|author2=Sander Kingsepp|year=2001|url=http://www.combinedfleet.com/I-73.htm|accessdate=2012-02-13}}&lt;/ref&gt; ''Gudgeon'' claimed that the torpedoes only damaged ''I-73'', but [[Station HYPO]] confirmed the loss.&lt;ref&gt;Blair, p.118, names her ''I-173''.&lt;/ref&gt;
+
+== Notes==
+{{reflist|30em}}
+
+==References==
+*{{cite book|last=Bagnasco |first=Erminio |title=Submarines of World War Two |year=1977 |publisher=Naval Institute Press |location=Annapolis, Maryland |isbn=0-87021-962-6}} 
+*{{Cite book|last=Blair|first=Clay, Jr.|title=Silent Victory|location=New York|publisher=Bantam|year=1976}}
+*{{cite book|last1=Carpenter|first1=Dorr B.|last2=Polmar|first2=Norman|title=Submarines of the Imperial Japanese Navy 1904–1945|year=1986|publisher=Conway Maritime Press|location=London|isbn=0-85177-396-6|lastauthoramp=y}}
+*{{cite book|title=Conway's All the World's Fighting Ships 1922–1946|editor1-last=Chesneau|editor1-first=Roger|publisher=Conway Maritime Press|location=Greenwich, UK|year=1980|isbn=0-85177-146-7}}
+*{{cite web |url=http://www.combinedfleet.com/I-173.htm |title=IJN Submarine I-73: Tabular Record of Movement |first1=Bob |last1=Hackett |first2=Sander |last2=Kingsepp |work=combinedfleet.com |year=2001|accessdate=15 August 2015}}
+*{{cite book|last=Rohwer|first=Jürgen|title=Chronology of the War at Sea 1939-1945: The Naval History of World War Two|publisher=Naval Institute Press|location=Annapolis, Maryland|year=2005|edition=Third Revised|isbn=1-59114-119-2|authorlink=Jürgen Rohwer}}
+
+{{Kaidai class submarine}}
+{{January 1942 shipwrecks}}
+{{coord missing}}
+
+{{DEFAULTSORT:I-73, Japanese submarine}}
+[[Category:Kaidai-class submarines]]
+[[Category:Ships built in Japan]]
+[[Category:World War II shipwrecks in the Pacific Ocean]]
+[[Category:Japanese submarines lost during World War II]]
+[[Category:1935 ships]]
+[[Category:Ships lost with all hands]]
+[[Category:Ships sunk by American submarines]]
+[[Category:Maritime incidents in January 1942]]</text>
+      <sha1>ruhkqevvsspzf2tk2xwcid48fb44ons</sha1>
+    </revision>
+  </page>
+</mediawiki>

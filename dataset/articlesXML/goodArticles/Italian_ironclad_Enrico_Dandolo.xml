@@ -1,0 +1,164 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Italian ironclad Enrico Dandolo</title>
+    <ns>0</ns>
+    <id>9364783</id>
+    <revision>
+      <id>745628093</id>
+      <parentid>722367175</parentid>
+      <timestamp>2016-10-22T08:34:51Z</timestamp>
+      <contributor>
+        <username>Bender the Bot</username>
+        <id>28903366</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */http&amp;rarr;https for [[Google Books]] and [[Google News]] using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="13383">{{good article}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:NH 88711 Enrico Dandolo.tiff|300px|''Enrico Dandolo'']]
+|Ship caption=''Enrico Dandolo'' shortly after her completion in 1882
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag={{shipboxflag|Kingdom of Italy}}
+|Ship name=''Enrico Dandolo''
+|Ship namesake=[[Enrico Dandolo]]
+|Ship ordered=
+|Ship awarded=
+|Ship builder=
+|Ship original cost=
+|Ship laid down=6 January 1873
+|Ship launched=1878
+|Ship christened=
+|Ship completed=
+|Ship commissioned=1882
+|Ship decommissioned=4 July 1920
+|Ship motto=
+|Ship nickname=
+|Ship fate=
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class={{sclass-|Caio Duilio|ironclad}} [[turret ship]]
+|Ship displacement=*{{convert|11025|MT|LT|abbr=on}} normal
+*{{convert|12037|MT|LT|abbr=on}} full
+|Ship length={{convert|109.16|m|ftin|abbr=on}}
+|Ship beam={{convert|19.65|m|ftin|abbr=on}}
+|Ship draft={{convert|8.36|m|ftin|abbr=on}}
+|Ship power=*{{convert|8045|ihp|0|abbr=on|lk=in}}
+*8 coal-fired [[boiler]]s
+|Ship propulsion=2 Shafts, 2 [[Marine steam engine#Compound engine|compound steam engines]]
+|Ship speed={{convert|15|kn|lk=in}} 
+|Ship range={{convert|3760|nmi|lk=in|abbr=on}} at {{convert|10|kn}}
+|Ship complement=420
+|Ship armament=
+*2 × twin [[RML 17.72 inch gun|17.72&amp;nbsp;in (450&amp;nbsp;mm)]] [[Muzzle-loading rifle|rifled, muzzle-loading guns]]
+*3 × {{convert|14|in|abbr=on|0}} [[torpedo tube]]s
+|Ship armor=
+* [[Belt armor|Waterline belt]]: {{convert|21.5|in|abbr=on}}
+*Transverse bulkheads: {{convert|15.75|in|abbr=on|0}}
+*[[Gun turret]]s: {{convert|17|in|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|2|in|abbr=on|0}}
+}}
+|}
+'''''Enrico Dandolo''''' was the second of two {{sclass-|Caio Duilio|ironclad}} [[turret ship]]s built for the Italian ''[[Regia Marina]]'' (Royal Navy) in the 1870s. They were fitted with the largest guns available, [[RML 17.72 inch gun|17.72&amp;nbsp;in (450&amp;nbsp;mm)]] [[Muzzle-loading rifle|rifled, muzzle-loading guns]], and were the largest, fastest and most powerful ships of their day.&lt;ref name=s5&gt;Silverstone, p. 285&lt;/ref&gt; ''Enrico Dandolo'' was built in [[La Spezia]], with her [[keel]] laid in January 1873 and her [[hull (watercraft)|hull]] launched in July 1878. Construction was finally completed in April 1882 when the ship, named for [[Enrico Dandolo|the 42nd Doge of Venice]], was commissioned into the Italian fleet.
+
+''Enrico Dandolo'' spent much of her career in the Active Squadron of the Italian fleet, primarily occupied with training exercises. She was heavily modernized in 1895&amp;ndash;98, receiving a new battery of fast-firing {{convert|10|in|abbr=on|0}} guns in place of the old 17.72&amp;nbsp;in guns. The ship served in the Reserve Squadron after 1905, and then became a gunnery [[training ship]]. During the [[Italo-Turkish War]] of 1911&amp;ndash;12, ''Enrico Dandolo'' was among the few ships of the Italian fleet to see no action. She was employed as a harbor defense ship, first in [[Tobruk]], Libya in 1913 and then in [[Brindisi]] and [[Venice]] during [[World War I]]. The ship was ultimately broken up for scrap in 1920.
+
+==Design==
+[[File:Duilio class ironclad left elevation Brasseys 1888.jpg|thumb|left|Line-drawing of the ''Caio Duilio'' class]] 
+{{main|Caio Duilio-class ironclad}}
+''Enrico Dandolo'' was {{convert|109.16|m|sp=us}} [[length overall|long overall]] and had a [[beam (nautical)|beam]] of {{convert|19.65|m|abbr=on}} and an average [[draft (hull)|draft]] of {{convert|8.36|m|abbr=on}}. She displaced {{convert|11025|MT|sp=us}} normally and up to {{convert|12037|MT|sp=us|abbr=on}} at full load. Her propulsion system consisted of two vertical [[compound engine|compound]] [[steam engine]]s each driving a single [[screw propeller]], with steam supplied by eight coal-fired, rectangular [[boiler]]s. Her engines produced a top speed of {{convert|15.6|kn|lk=in}} at {{convert|8045|ihp|lk=in}}. She could steam for {{convert|2875|nmi|lk=in}} at a speed of {{convert|13|kn}}. She had a crew of 420&amp;nbsp;officers and men, which later increased to 515.&lt;ref name=G340&gt;Gardiner, p. 340&lt;/ref&gt;
+
+''Enrico Dandolo'' was armed with a [[main battery]] of four {{convert|17.72|in|abbr=on|0}} 20-[[caliber (artillery)|caliber]] guns, mounted in two [[gun turret|turrets]] placed ''en echelon'' [[amidships]]. As was customary for [[capital ship]]s of the period, she carried three {{convert|14|in|abbr=on|0}} [[torpedo tube]]s. ''Enrico Dandolo'' was protected by [[belt armor]] that was {{convert|21.5|in|abbr=on|0}} thick at its strongest section, which protected the ship's magazines and machinery spaces. Both ends of the belt were connected by transverse [[bulkhead (partition)|bulkheads]] that were {{convert|15.75|in|abbr=on|0}} thick. She had an armored deck that was {{convert|1.1|to|2|in|abbr=on|0}} thick. Her gun turrets were armored with {{convert|17|in|abbr=on|0}} of steel plate. The ship's [[bow (ship)|bow]] and [[stern]] were not armored, but they were extensively subdivided into a cellular &quot;raft&quot; that was intended to reduce the risk of flooding.&lt;ref name=G340/&gt;
+
+==Service history==
+[[File:NH 88684 Enrico Dandolo.tiff|thumb|left|''Enrico Dandolo'' shortly before her launching in 1878]]
+''Enrico Dandolo'', named after [[Enrico Dandolo]], the 42nd [[Doge of Venice]], was laid down at [[La Spezia]] on 6 January 1873 and was launched on 10 July 1878. [[Fitting-out]] work was completed on 11 April 1882.&lt;ref name=G340/&gt; During the annual fleet maneuvers held in 1885, ''Enrico Dandolo'' served as the [[flagship]] of the 1st Division of the &quot;Western Squadron&quot;, with [[Vice Admiral]] Martini commanding. She was joined by her sister {{ship|Italian ironclad|Caio Duilio||2}}, the [[protected cruiser]] {{ship|Italian cruiser|Giovanni Bausan||2}}, and a [[sloop]]. The &quot;Western Squadron&quot; attacked the defending &quot;Eastern Squadron&quot;, simulating a Franco-Italian conflict, with operations conducted off [[Sardinia]].&lt;ref&gt;Brassey 1885, p. 141&lt;/ref&gt; During the following year's fleet maneuvers, which began on 10 June, ''Enrico Dandolo'' was assigned to the &quot;defending squadron&quot;, along with the [[ironclad warship|ironclads]] {{ship|Italian ironclad|Palestro||2}}, {{ship|Italian ironclad|Castelfidardo||2}}, and {{ship|Italian ironclad|Affondatore||2}}, the [[protected cruiser]] {{ship|Italian cruiser|Dogali||2}}, the [[torpedo cruiser]] {{ship|Italian cruiser|Folgore||2}}, and several smaller vessels. The first half of the maneuvers tested the ability to attack and defend the [[Strait of Messina]], and concluded in time for a [[fleet review]] by King [[Umberto I]] on the 21st. The second phase consisted of joint maneuvers with the Italian Army; the fleet was tasked with attempting to force an amphibious landing, which it effected at [[San Vincenzo, Tuscany|San Vicenzo]] on 30 July, the last day of the exercises.&lt;ref&gt;Beehler 1887, pp. 164, 166&lt;/ref&gt;
+
+''Enrico Dandolo'' took part in the annual 1888 fleet maneuvers, along with the ironclads {{ship|Italian ironclad|Lepanto||2}}, {{ship|Italian ironclad|Italia||2}}, ''Caio Duilio'', and {{ship|Italian ironclad|San Martino||2}}, one [[protected cruiser]], four [[torpedo cruiser]]s, and numerous smaller vessels. The maneuvers consisted of close-order drills and a simulated attack on and defense of La Spezia.&lt;ref&gt;Brassey 1889, p. 453&lt;/ref&gt; The ship served as the flagship of the 3rd Division of the Active Squadron during the 1893 fleet maneuvers, along with the ironclad {{ship|Italian ironclad|Affondatore||2}}, the [[torpedo cruiser]] {{ship|Italian cruiser|Goito||2}}, and four [[torpedo boat]]s. During the maneuvers, which lasted from 6 August to 5 September, the ships of the Active Squadron simulated a French attack on the Italian fleet.&lt;ref&gt;Clarke &amp; Thursfield, pp. 202&amp;ndash;203&lt;/ref&gt; For the rest of the year, ''Enrico Dandolo'' was assigned to the 2nd Division of the Italian fleet, along with the protected cruiser {{ship|Italian cruiser|Vesuvio||2}} and the torpedo cruiser {{ship|Italian cruiser|Partenope||2}}.&lt;ref&gt;&quot;Naval and Military Notes &amp;ndash; Italy&quot;, p. 567&lt;/ref&gt;
+
+[[File:Italian battleship Enrico Dandolo.jpg|thumb|''Enrico Dandolo'' on 6 December 1898 after her reconstruction]]
+
+She was thoroughly reconstructed between 1895 and 1898 to a design created by Inspector Engineer [[Giacinto Pulino]]. The ship's old, slow-firing 17.7&amp;nbsp;in guns were replaced with new [[quick-firing gun|quick-firing]] {{convert|10|in|abbr=on}} guns, and she received a new [[secondary battery]] to defend the ship against torpedo boats. The battery consisted of five {{convert|4.7|in|abbr=on}} 40-caliber guns, sixteen {{convert|57|mm|abbr=on}} 43-caliber quick-firing guns, eight {{convert|37|mm|abbr=on}} 20-caliber [[revolver cannon]], and four [[machine gun]]s. The main battery guns were placed in significantly smaller turrets that had {{convert|8.8|in|abbr=on}} of armor plating; the lighter guns and turrets reduced the ship's displacement to {{convert|10679|MT|abbr=on}} normally and {{convert|11264|MT|abbr=on}} at full load. ''Enrico Dandolo'' also received a new engine, though her performance remained the same. The ship's crew increased to 495.&lt;ref&gt;Gardiner, pp. 340&amp;ndash;341&lt;/ref&gt; 
+
+In 1901, ''Enrico Dandolo'' was joined in the 2nd Division by the ironclads {{ship|Italian ironclad|Andrea Doria||2}} and {{ship|Italian ironclad|Francesco Morosini||2}}, the [[armored cruiser]] {{ship|Italian cruiser|Carlo Alberto||2}}, ''Partenope'', and three torpedo boats.&lt;ref&gt;&quot;Naval Notes&quot;, p. 614&lt;/ref&gt; She remained in service in the Active Squadron the following year, with ''Andrea Doria'', ''Francesco Morosini'', the three {{sclass-|Re Umberto|ironclad|1}}s, and the new [[pre-dreadnought battleship]] {{ship|Italian battleship|Ammiraglio di Saint Bon||2}}.&lt;ref&gt;&quot;Naval and Military Notes &amp;ndash; Italy&quot;, p. 1075&lt;/ref&gt; In 1905, ''Enrico Dandolo'' was transferred to the Reserve Squadron, along with the three {{sclass-|Ruggiero di Lauria|ironclad|5}}s and the three ''Re Umberto''s, three cruisers, and sixteen torpedo boats. This squadron only entered active service for two months of the year for training maneuvers, and the rest of the year was spent with reduced crews.&lt;ref&gt;Brassey 1905, p. 45&lt;/ref&gt; She thereafter served in the Gunnery School as a [[training ship]], along with the torpedo cruiser {{ship|Italian cruiser|Saetta||2}}.&lt;ref&gt;&quot;Naval Notes – Italy&quot;, p. 1429&lt;/ref&gt; 
+
+At the start of the [[Italo-Turkish War]] of 1911&amp;ndash;12, ''Italia'' was assigned to the 5th Division of the Italian fleet, the ironclads {{ship|Italian ironclad|Italia||2}} and {{ship|Italian ironclad|Lepanto||2}}, but she saw no action during the conflict.&lt;ref&gt;Beehler 1913, p. 10&lt;/ref&gt; She became the guardship at [[Tobruk]], Libya in 1913 and was transferred to Brindisi and Venice during World War I.&lt;ref name=m3&gt;Silverstone, p. 297&lt;/ref&gt; While stationed at Brindisi, six of her 37&amp;nbsp;mm guns were removed. She was stricken on 23 January 1920 and later broken up for scrap.&lt;ref&gt;Gardiner, p. 341&lt;/ref&gt;
+
+==Notes==
+{{Reflist|20em}}
+
+==References==
+*{{cite journal|editor-last=Beehler|editor-first=W. H.|journal=Information From Abroad|title=Naval Manoevres, 1887: Italian|pages=164&amp;ndash;167|year=1887|location=Washington, D.C.|publisher=Government Printing Office|oclc=12922775}}
+*{{Cite book |last=Beehler|first=William Henry|title=The History of the Italian-Turkish War: September 29, 1911, to October 18, 1912|year=1913|location=Annapolis|publisher=United States Naval Institute|url=https://books.google.com/books?id=OWcoAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false}}
+* {{cite journal|editor-last=Brassey|editor-first=Thomas A.|title=Evolutions of the Italian Navy, 1885|journal=The Naval Annual|year=1886|location=Portsmouth|publisher=J. Griffin &amp; Co.}}
+*{{cite journal|editor-last=Brassey|editor-first=Thomas A.|journal=The Naval Annual|title=Foreign Naval Manoevres|pages=450&amp;ndash;455|year=1889|location=Portsmouth|publisher=J. Griffin &amp; Co.|oclc=5973345}}
+* Brassey, Thomas A., ed. (1905). The Naval Annual (Portsmouth: J. Griffin &amp; Co.).
+* {{cite book|last1=Clarke|first1=George S.|last2=Thursfield|first2=James R.|title=The Navy and the Nation|year=1897|location=London|publisher=John Murray}}
+* {{cite book |editor-last=Gardiner|editor-first=Robert|title=Conway's All the World's Fighting Ships: 1860–1905|year=1979|location=London|publisher=Conway Maritime Press|isbn=0-85177-133-5}}
+* {{cite journal|title=Naval Notes|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1901|volume=XLV|pages=606&amp;ndash;625|oclc=8007941}}
+* {{cite journal|title=Naval Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1904|volume=XLVIII|pages=1428&amp;ndash;1431|oclc=8007941}}
+* {{cite journal|title=Naval and Military Notes &amp;ndash; Italy|journal=Journal of the Royal United Service Institution|publisher=J. J. Keliher|location=London|year=1902|volume=XLVI|pages=1072&amp;ndash;1076|oclc=8007941}}
+*{{cite book|last=Silverstone|first=Paul H.|title=Directory of the World's Capital Ships|year=1984|publisher=Hippocrene Books|location=New York|isbn=0-88254-979-0}}
+{{Caio Duilio class battleship}}
+
+{{DEFAULTSORT:Enrico Dandolo}}
+[[Category:Caio Duilio-class battleships]]
+[[Category:Ships built in La Spezia]]
+[[Category:1878 ships]]</text>
+      <sha1>0k42k1ozeky1djfvb6dip0qjy1smca1</sha1>
+    </revision>
+  </page>
+</mediawiki>

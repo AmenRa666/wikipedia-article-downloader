@@ -1,0 +1,258 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Dunay radar</title>
+    <ns>0</ns>
+    <id>11606028</id>
+    <revision>
+      <id>724729090</id>
+      <parentid>708496332</parentid>
+      <timestamp>2016-06-11T03:11:02Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>9784415</id>
+      </contributor>
+      <minor/>
+      <comment>/* References */Fix [[:Category:Pages using citations with accessdate and no URL]] when permanent identifier present (doi|bibcode|arxiv|pmid|jstor|isbn|issn|lccn|oclc|ismn|hdl) using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="9788">{{Infobox radar
+|name      = Dunay radar
+|image     =  Doghouse dunay3 kh7 receiver.jpg
+|caption   =  Dunay-3 (NATO: Dog House) radar receiver taken by US [[KH-7]] spy satellite in 1967
+|country   =  Soviet Union
+|introdate =  1959 (Dunay-2) &lt;br/&gt;1968 (Dunay-3) &lt;br/&gt;1978 (Dunay-3M, Dunay-3U)
+|number    =  3
+|type      =  [[early warning radar]]
+|frequency =   [[UHF]] &lt;ref name=&quot;Podvig-History&quot;/&gt;
+|PRF       =   &lt;!--pulse repetition frequency--&gt;
+|beamwidth =   &lt;!--X° (horizontal), X° (vertical)--&gt;
+|pulsewidth=   &lt;!--pulse width--&gt;
+|RPM       =   &lt;!--revolutions per minute--&gt;
+|range     =   1,200 km (Dunay-2)&lt;br/&gt;2,500 km (Dunay-3M)
+|altitude  =   &lt;!--{{m to ft|X|addr=yes}}--&gt;
+|diameter  =   &lt;!--{{m to ft|X|addr=yes}}--&gt;
+|azimuth   =   &lt;!--X-Yº--&gt;
+|elevation =   &lt;!--X-Yº--&gt;
+|precision =   &lt;!--±{{m to ft|X|addr=yes}}--&gt;
+|power     = 100kW (Dunay-2)&lt;br/&gt;3MW per sector (Dunay-3M)
+|other names= [[NATO reporting name|NATO]]: Dog House, Cat House, Top Roost, Hen Roost
+}}
+
+'''Dunay radar''' ({{lang-rus|Дунай|Dunay}} literally [[Danube]]; [[NATO Reporting Name|NATO]]: Cat House, Dog House) was a system of two Soviet radars used to detect [[United States|American]] ballistic missiles fired at [[Moscow, Russia|Moscow]]. They were part of the [[A-35 anti-ballistic missile system]].&lt;ref name=&quot;PodvigBook&quot;/&gt; One sector of one of the radars, the Dunay-3U (&quot;Cat House&quot;) is still operational and is run by the [[Russian Aerospace Defence Forces]] as part of the [[Centre for Outer Space Monitoring|Main Control Centre of Outer Space]].&lt;ref name=&quot;VKO&quot;/&gt;
+
+==Dunay-2==
+The Dunay-2 was a prototype built in [[Sary Shagan]] as part of the experimental [[missile defence]] system &quot;A&quot;. It consisted of separate transmitter and receiver complexes separated by 1&amp;nbsp;km. The power of the radar was 100&amp;nbsp;kW and its range was 1,200&amp;nbsp;km.&lt;ref name=&quot;SoC-ABM&quot;/&gt;&lt;ref name=&quot;Karpenko1999&quot;/&gt; The NATO codename was &quot;Hen Roost&quot;.
+
+==Dunay-3M==
+[[File:Dunai3M radar side.jpg|thumb|right|Ruins of the Dunay-3M]]
+The Dunay-3 ({{lang-rus|Дунай-3М|Dunay-3M}}; [[NATO reporting name|NATO]]: Dog House) was an upgrade of the Dunay-2 located in [[Kubinka]], Moscow and became operational in 1968. Following an extensive upgrade in 1978 it was renamed Dunay-3M as part of the upgraded A-35M ABM system. It consisted of separate receiver and transmitter buildings separated by {{convert|2.5|km}}.
+
+The transmitter covered two sectors (roughly north and south) and its array was {{convert|200|m|ft}} long and {{convert|30|m|ft}} high. The power of each sector was about 3MW. The receiver was a building 100m x 100m containing 2 [[passive electronically scanned array]] radars as well as the [[command and control]] centre for the A-35 system. The range of the system was {{convert|2500|km}}.
+
+The radar was functional until it caught fire on May 8, 1988.
+
+==Dunay-3UP==
+This was a prototype of the Dunay-3U and was located in Sary Shagan test site.&lt;ref name=&quot;VKO&quot;/&gt; It was given the NATO codename &quot;Top Roost&quot;.
+
+==Dunay-3U==
+The Dunay-3U ({{lang-rus|Дунай-3У|Dunay-3U}}; [[NATO reporting name|NATO]]: Cat House) was built in 1978 as part of the upgraded A-35M anti-ballistic missile system. It is located in [[Chekhov, Moscow Oblast|Chekhov]] and was structurally similar to the Dunay-3M - it has a separate receiver and transmitter separated by {{convert|2.7|km}}. There are two sectors. It was capable of identifying the launch of [[Pershing II]] missiles from West Germany.&lt;ref name=&quot;FAS-cathouse&quot;/&gt;
+
+In 1995 A-35M was replaced by the [[A-135 anti-ballistic missile system]] which used the [[Don-2N]] radar. One sector was decommissioned in 1998 and is now ruined and the other is used for space surveillance of satellites in [[low earth orbit]]. As a [[UHF]] radar it can identify smaller objects (15–40&amp;nbsp;cm) than the [[VHF]] radars such as the [[Daryal radar|Daryal]] and [[Dnepr radar|Dnepr]].&lt;ref name=&quot;VKO&quot;/&gt;
+
+The Dunay-3U was commissioned in May 1978 with a life of 12 years. Both sectors were extended until 2000 but one sector (62) was decommissioned in 1998. The other one (61) has been extended in 2001 and 2005 - the last extension was until December 2009,&lt;ref name=&quot;VKO&quot;/&gt; but it may have been extended again. In 2012 the Russian Ministry of Defence issued a tender for the demolition of sector 62.&lt;ref name=&quot;mdb&quot;/&gt;
+
+Before 2003 the transmitter had 30 [[waveguide]]s each excited by a 100&amp;nbsp;kW transmitter Since 2003 the station has been operating at a reduced power of 500&amp;nbsp;kW rather than 1800&amp;nbsp;kW, with 12 transmitters (out of 24) rather than the previous maximum of 30. The radar is [[chirp]]ed.&lt;ref name=&quot;VKO&quot;/&gt;
+
+The radar's computer system is made up of 10 K340 computers.&lt;ref name=&quot;VKO&quot;/&gt;
+
+==Locations==
+{| class=&quot;wikitable&quot;
+|- align=center
+! Location !! Coordinates !! Type !! Built !! Details
+|-
+| Kubinka, Russia || {{coord|55|28|48|N|36|38|54|E|name=Dunay-3M transmitter|display=inline}} transmitter {{coord|55|29|31|N|36|40|49|E|name=Dunay-3M receiver|display=inline}}  receiver || Dunay-3M (&quot;Dog House&quot;) ||1968||Azimuth 150° and 330° &lt;ref name=&quot;Podvig-History&quot;/&gt;
+|-
+| Chekhov, Russia || {{coord|55|12|24|N|37|17|41|E|type:landmark|name=Dunay-3U transmitter|display=inline}}  transmitter {{coord|55|13|52|N|37|17|49|E|type:landmark|name=Dunay-3U receiver|display=inline}}|| Dunay-3U (&quot;Cat House&quot;)||1978||Azimuth 280° and 100° &lt;ref name=&quot;Podvig-History&quot;/&gt;
+|-
+| [[Sary Shagan]], Kazakhstan || {{coord|45|56|10|N|73|37|43|E|name=Dunay-3UP transmitter|display=inline}} &lt;ref name=&quot;SaryAdmin&quot;/&gt; transmitter {{coord|45|56|50|N|73|37|52|E|name=Dunay-3UP receiver|display=inline}} receiver&lt;ref name=&quot;SaryAdmin&quot;/&gt;|| Dunay-2 (&quot;Hen Roost&quot;)&lt;br/&gt; Dunay-3UP (&quot;Top Roost&quot;)||1957-1964 &lt;br/&gt;1968-1973 || Prototypes
+|}
+{{Location map many | Russia Moscow Oblast
+| AlternativeMap = 
+| width = 300
+| float = right
+| caption = Location of Dunay radar within Moscow region
+| label = Dunay-3M| label_size = 90
+| pos = top
+| lat_deg= 55 | lat_min=28 | lat_sec=48 | lat_dir=N
+| lon_deg= 36 | lon_min=38 | lon_sec=54 | lon_dir=E
+| label2 = Dunay-3U| label2_size = 90
+| pos2 = right
+| lat2_deg= 55 | lat2_min=12 | lat2_sec=24 | lat2_dir=N
+| lon2_deg= 37 | lon2_min=17 | lon2_sec=41 | lon2_dir=E
+}}
+
+==References==
+&lt;references&gt;
+
+&lt;ref name=&quot;FAS-cathouse&quot;&gt;{{Cite web
+| url = http://www.fas.org/spp/starwars/program/soviet/cat_house.htm
+| title = Cat House
+| accessdate = 2012-02-20
+| publisher = Federation of American Scientists
+| year = 2000
+}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Podvig-History&quot;&gt;{{Cite journal
+ | first = Pavel
+ | last = Podvig
+ | year = 2002
+ | title = History and the Current Status of the Russian Early-Warning System
+ | journal = Science and Global Security
+ | volume = 10
+ | pages = 21–60
+ | issn = 0892-9882
+ | doi = 10.1080/08929880212328
+ | url = http://iis-db.stanford.edu/pubs/20734/Podvig-S&amp;GS.pdf
+ }}&lt;/ref&gt;
+
+&lt;ref name=&quot;SoC-ABM&quot;&gt;{{Cite web
+| url = http://www.ausairpower.net/APA-Rus-ABM-Systems.html#mozTocId371125
+| title = Russian/Soviet Anti-Ballistic Missile Systems
+| accessdate = 2012-01-07
+| first = Sean
+| last = O'Connor
+| year = 2009
+| publisher = Air Power Australia
+}}&lt;/ref&gt;
+
+&lt;ref name=&quot;PodvigBook&quot;&gt;{{Cite book
+ | last = Bukharin
+ | first = Oleg
+ | last2 = Kadyshev
+ | first2 = Timur
+ | last3 = Miasnikov
+ | first3 = Eugene
+ | last4 = Podvig
+ | first4 = Pavel
+ | last5 = Sutyagin
+ | first5 = Igor
+ | last6 = Tarashenko
+ | first6 = Maxim
+ | last7 = Zhelezov
+ | first7 = Boris
+ | editor1-last = Podvig
+ | editor1-first = Pavel
+ | title = Russian Strategic Nuclear Forces
+ | year = 2001
+ | isbn = 0-262-16202-4
+ | publisher = MIT Press
+ | location = Cambridge, Massachusetts
+ }}&lt;!--| accessdate = 2012-01-29--&gt;&lt;/ref&gt;
+
+&lt;ref name=&quot;Karpenko1999&quot;&gt;{{Cite journal
+ | first = A
+ | last = Karpenko
+ | year = 1999
+ | title = ABM AND SPACE DEFENSE
+ | journal = Nevsky Bastion
+ | volume = 4
+ | pages = 2–47
+ | url = http://www.fas.org/spp/starwars/program/soviet/990600-bmd-rus.htm
+ }}&lt;/ref&gt;
+
+&lt;ref name=&quot;SaryAdmin&quot;&gt;{{Cite web
+| url = http://www.ww2.dk/new/pvo/test%20ranges/1uss.htm
+| title = 1st Administration
+| accessdate = 2012-02-24
+| first = Michael
+| last = Holm
+| year = 2011
+| publisher = Soviet Armed Forces 1945-1991
+}}&lt;/ref&gt;
+
+&lt;ref name=&quot;VKO&quot;&gt;{{Cite web
+| url = http://vko.ru/DesktopModules/Articles/ArticlesView.aspx?tabID=320&amp;ItemID=329&amp;mid=2892&amp;wversion=Staging
+| script-title=ru:Непревзойденный &quot;Дунай-3У&quot;
+| language = Russian
+| trans_title=Unsurpassed &quot;Dunay-3U&quot;
+| accessdate = 2012-04-13
+| year = 2011
+|date=n.d.
+| publisher = VKO.RU
+}}&lt;/ref&gt;
+
+&lt;ref name=&quot;mdb&quot;&gt;{{Cite journal
+ | first = Mikhail 
+ | last = Lukin
+ | year = 2012
+ | title = Brief Summary of Russian Defense Procurement Contracts in June-July 2012
+ | journal = Moscow Defense Brief
+ | publisher = Cast
+ | volume = 4
+ | url = http://www.mdb.cast.ru/mdb/4-2012/item5/article1/
+ }}&lt;/ref&gt;
+
+&lt;/references&gt;
+
+==External links==
+{{Commons category|Dunai radar}}
+*[http://urban3p.ru/object10636 Urban exploration photos from a visit to one sector of the Dunay-3U]
+*[http://vko.ru/database/images/pictures/archive/0905/54-01.jpg Plan of Dunay-3U receiver site (in Russian)]
+*[http://vko.ru/database/images/pictures/archive/0905/56-01.jpg Plan of Dunay-3U transmitter site (in Russian)]
+*[http://www.vimpel.ru/images/phocagallery/fotogallery/thumbs/phoca_thumb_l_stanchiya3_l.jpg Photograph of Dunay-3M receiver from Vympel]
+*[http://www.vimpel.ru/images/phocagallery/fotogallery/thumbs/phoca_thumb_l_stanchiya2_l.jpg Photograph of Dunay-3U receiver from Vympel]
+*[http://www.vimpel.ru/images/phocagallery/fotogallery/thumbs/phoca_thumb_l_stanchiya1_l.jpg Photograph of Dunay-3U transmitter from Vympel]
+
+{{Soviet Radar}}
+
+[[Category:Russian and Soviet military radars]]
+[[Category:Anti-ballistic missiles]]
+[[Category:Missile defense]]
+[[Category:Russian Space Forces]]</text>
+      <sha1>gfkwwklgrjuz67dkl8k14mkqhy2bje1</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,247 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Annapolis-class destroyer</title>
+    <ns>0</ns>
+    <id>13506408</id>
+    <revision>
+      <id>723007929</id>
+      <parentid>723005956</parentid>
+      <timestamp>2016-05-31T12:30:57Z</timestamp>
+      <contributor>
+        <username>AnomieBOT</username>
+        <id>7611264</id>
+      </contributor>
+      <minor/>
+      <comment>Dating maintenance tags: {{Citation needed}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="15472">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image= [[File:HMCS Nipagon - Ocean Safari 85 - DN-ST-86-02520.JPEG|300px|]]
+|Ship caption=HMCS ''Nipigon'' underway during NATO Exercise ''Ocean Safari '85''.
+}}
+{{Infobox ship class overview
+|Name=''Annapolis'' class
+|Operators=*{{navy|Canada|1911}}
+*{{navy|Canada|name=Canadian Forces}}
+|Builders=*[[Halifax Shipyards|Halifax Shipyards Ltd.]], [[City of Halifax|Halifax]]
+*[[Marine Industries Limited|Marine Industries Ltd.]], [[Sorel, Quebec|Sorel]]
+|Class before={{sclass-|Mackenzie|destroyer|4}}
+|Class after={{sclass-|Iroquois|destroyer|4}}
+|Subclasses=
+|Cost=
+|Built range=1960-1964
+|In commission range=1964-1998
+|Total ships planned=2
+|Total ships completed=2
+|Total ships cancelled=
+|Total ships retired=2
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Destroyer escort]]
+|Ship displacement={{convert|3420|LT|t|1|abbr=on}} {{small|full load}}
+|Ship length={{convert|366|ft|m|abbr=on}}
+|Ship beam={{convert|42|ft|m|abbr=on}}
+|Ship draught={{convert|23.5|ft|m|abbr=on}}
+|Ship power=
+|Ship propulsion=*2-shaft English-Electric geared steam turbines
+*2 Babcock &amp; Wilcox boilers
+*{{convert|30,000|shp|abbr=on}}
+|Ship speed={{convert|28|kn|km/h mph|1|abbr=on}}
+|Ship range=
+|Ship endurance=
+|Ship complement=228
+|Ship sensors=
+*Original:
+** 1 × SPS-12 air search radar
+** 1 × SPS-10B surface search radar
+** 1 × Sperry Mk.2 navigation radar
+** 1 × URN 20 TACAN radar
+** 1 × SQS-501 high frequency bottom profiler sonar
+** 1 × SQS-502 high frequency mortar control sonar
+** 1 × SQS-503 hull mounted active search sonar
+** 1 × SQS-504 VDS medium frequency active search sonar
+** 1 × UQC-1B &quot;Gertrude&quot; underwater telephone
+** 1 × Mk 64 GFCS fire control with SPG-48 tracker (GUNAR)
+*DELEX:
+** 1 × Marconi SPS-503 air search radar
+** 1 × Raytheon/Sylvania SPS-502 surface search radar
+** 1 × Sperry Mk.127E navigation radar
+** 1 × URN 25 TACAN radar
+** 1 × SQS-505(V) or SQS-510 hull mounted active search sonar
+** 1 × SQS-504 VDS medium frequency active search sonar
+** 1 × SQR-19(V) CANTASS towed array sonar
+** 1 × UQC-1B &quot;Gertrude&quot; underwater telephone
+** 1 × Mk 64 GFCS fire control with SPG-515 tracker
+|Ship EW=
+*Original:
+** 1 × ULQ-6 jammer
+** 1 × WLR-1C radar analyzer
+** 1 × UPD-501 radar detector
+** 1 × SRD-501 HF/DF
+*DELEX:
+** 1 × SLQ-501 intercept (CANEWS)
+** 1 × ULQ-6 jammer
+** 1 × SRD-501 HF/DF
+|Ship armament=
+*Original:
+** 1 × FMC 3-inch/50 [[3&quot;/50 caliber gun|Mk.33 twin]] gun
+** 1 × Mk. NC 10 Limbo ASW mortar
+** 1 × Mk.4 thrower with homing torpedoes
+*DELEX:
+** 1 × FMC 3-inch/50 Mk.33 twin gun
+** 2 × triple Mk.32 12.75-inch torpedo tubes firing Mk.44 or Mk.46 Mod 5 torpedoes
+|Ship armour=
+|Ship aircraft=1 [[CH-124 Sea King]] ASW helicopter
+|Ship aircraft facilities=Midships helicopter deck and hangar with [[Beartrap (helicopter device)|Beartrap]].
+|Ship notes=
+}}
+|}
+
+The '''''Annapolis''-class destroyer escort''' was a two-ship [[Ship class|class]] of [[destroyer escort]]s that saw service with the [[Royal Canadian Navy]] and [[Canadian Forces]] from the 1960s to the 1990s. The final version of the {{sclass-|St. Laurent|destroyer|0}} design,&lt;ref name=conways&gt;Gardiner and Chumbley, p. 46&lt;/ref&gt; the class was used extensively for [[anti-submarine warfare]] purposes. Both ships were sunk as artificial reefs after being retired, one on each coast of Canada.
+
+==Design and description==
+[[File:Annapolis DN-SC-87-01114.jpg|thumb|left|''Annapolis'' in 1982 before her DELEX refit]]
+The Royal Canadian Navy had intended to place a six ship order under the {{sclass-|Mackenzie|destroyer|4}} of destroyer escorts; however, during the design phase, the last two vessels ordered were altered to the ''St. Laurent'' DDH design and were classed under the new ''Annapolis'' designation.&lt;ref&gt;Hadley, p. 141&lt;/ref&gt;
+
+The ships measured {{convert|366|ft|m}} in length, with a [[Beam (nautical)|beam]] of {{convert|42|ft|m}} and a [[Draft (ship)|draught]] of {{convert|13|ft|2|in|m}}.&lt;ref name=conways2&gt;Gardiner and Chumbley, p. 44&lt;/ref&gt;&lt;ref group=note&gt;Macpherson and Barrie have the ships at 371 feet long, and a draught of 13 feet 8 inches.&lt;/ref&gt; Initially, the ships displaced {{convert|2400|t|LT}}&lt;ref name=mac1&gt;Macpherson and Barrie (2002), p. 260&lt;/ref&gt;&lt;ref group=note&gt;Macpherson and Barrie state that the displacement was 2,400 tons, while Conway's claims it was the same as the ''St. Laurent'' class, which was 2,000 tons.&lt;/ref&gt; and had a complement of 228.&lt;ref name=conways/&gt;&lt;ref group=note&gt;Macpherson and Barrie have the complement at 246. (12 officers and 234 enlisted)&lt;/ref&gt;
+
+The ships were powered by two [[Babcock &amp; Wilcox boiler]]s connected to the two-shaft English-Electric geared [[steam turbine]]s providing {{convert|30,000|shp|lk=in}}.&lt;ref name=conways2/&gt; This gave the ships a maximum speed of {{convert|28|kn|lk=in}}.&lt;ref name=mac1/&gt;
+
+The ships were initially armed with two [[3&quot;/50 caliber gun|{{convert|3|in|mm|adj=on|0}}/50 calibre]]&lt;ref group=note&gt;[[Caliber (artillery)|Calibre]] denotes the length of the barrel. In this case, 50 calibre means that the gun barrel is 50 times as long as it is in diameter&lt;/ref&gt; dual-purpose guns mounted in a single [[Gun turret|turret]] forward. The extra topweight of the helicopter required the return of the American Mk 33 3-inch gun over the heavier 3-inch/70 calibre guns used on the preceding class.&lt;ref name=conways/&gt; The 3-inch/50s weighed {{convert|1,760|lb|kg}} and fired a projectile that weighed {{convert|24|lb|kg}}. The guns had a muzzle velocity of {{convert|2,700|ft/s}} and a range of {{convert|14600|yd|m}} at a 45° angle. The guns could fire 45 - 50 rounds per minute with a lifespan of 2,050 rounds.&lt;ref name=navweaps&gt;{{cite web |url=http://www.navweaps.com/Weapons/WNUS_3-50_mk27-33-34.htm |title=United States of America 3&quot;/50 (7.62 cm) 3&quot;/50 (7.62 cm) Marks 27, 33 and 34  |website=navweaps.com |date=11 January 2011 |accessdate=14 November 2015}}&lt;/ref&gt; The guns were placed in a Mk 33 mount. The mounting allowed the guns to elevate from -15° to 85°. The elevation rate was 30° per second and train rate was 24° per second. The mounts could train 360°.&lt;ref name=navweaps/&gt;
+
+For anti-submarine warfare, the ships were armed with a Mk 10 [[Limbo (weapon)|Limbo mortar]].&lt;ref name=conways/&gt; The Limbo was a [[United Kingdom|British]]-designed three-barrel mortar capable of launching a projectile shell between {{convert|400|-|1000|yd|m}}. Placed on stabilized mountings, the projectiles always entered the water at the same angle. The total weight of the shell was {{convert|390|lb|kg}}.&lt;ref&gt;{{cite web|url=http://www.navweaps.com/Weapons/WAMBR_ASW.htm |title=Britain ASW Weapons |website=navweaps.com |date=30 May 2015 |accessdate=14 November 2015}}&lt;/ref&gt; They also had a Mk.4 thrower with homing torpedoes.&lt;ref name=mac1/&gt;
+
+Initially the ships were outfitted with one SPS-12 air search radar, one SPS-10B surface search radar, and one Sperry Mk.2 navigation radar.&lt;ref name=conways/&gt; For sensing below the surface, the class was given one SQS-501 high frequency bottom profiler sonar, one SQS-502 high frequency mortar control sonar, one SQS-503 hull mounted active search sonar and one SQS-504 VDS medium frequency active search sonar.&lt;ref name=conways/&gt; For fire control purposes they were given one Mk 64 GFCS fire control with SPG-48 tracker (GUNAR).{{citation needed|date=May 2016}}
+
+The two ''Annapolis''-class destroyers were built late enough to incorporate the helicopter hangar retrofitted to the ''St. Laurent'' class and the &quot;[[Beartrap (helicopter device)|Beartrap]]&quot; haul-down device.&lt;ref name=mac1/&gt; This allowed the destroyer escorts to deploy with one [[CH-124 Sea King]] helicopter.&lt;ref name=mac1/&gt;
+
+===DELEX refit===
+[[File:HMCS Annapolis DDH-265.jpg|thumb|left|''Annapolis'' in 1995 at Pearl Harbor. Note the large lattice mast]]
+The DEstroyer Life EXtension (DELEX) refit was born out of the need to extend the life of the steam-powered destroyer escorts of the Canadian Navy in the 1980s until the next generation of surface ship was built. Encompassing all the classes based on the initial ''St. Laurent'' (the remaining ''St. Laurent'', {{sclass-|Restigouche|destroyer|5}},  ''Mackenzie'', and ''Annapolis''-class vessels), the DELEX upgrades were meant to improve their ability to combat modern [[Soviet]] submarines,&lt;ref&gt;Milner, pp. 277-8&lt;/ref&gt; and to allow them to continue to operate as part of [[NATO]] task forces.&lt;ref&gt;Gimblett, p. 179&lt;/ref&gt;
+
+''Nipigon'' underwent a DELEX refit in 1982 and ''Annapolis'' followed in 1984. The ''Annapolis'' class received the same sensor and communications upgrades that others in the ''St Laurent'' family of ships received, including the installation of a new tactical data system (ADLIPS), updated radars and sonars, fire control and satellite navigation. They also received the new Canadian Tactical Towed Array Sensor or CANTASS which was a long-range towed sonar array that was affixed to the stern,&lt;ref name=milner1&gt;Milner, p. 278&lt;/ref&gt; which replaced the older VDS.&lt;ref name=mac1/&gt; The class also received a new lattice mast.&lt;ref name=milner1/&gt; The AN/SPS-503 radar was installed, the AN/SPS-10D replaced the older, AN/SPS-10 model. The AN/SQS-502, AN/SQS-503 and SQS-10/11 sonars were removed and replaced by AN/SQS-505(V) in a fixed dome below the waterline. The installation of the two ADLIPS units allowed the vessels to better integrate into NATO units.&lt;ref name=barrie17&gt;Barrie and Macpherson (1996), p. 17&lt;/ref&gt;
+
+They were given {{convert|12.75|in|mm|adj=on|0}} [[torpedo tube]]s to allow them to fire [[Mark 46 torpedo|Mark 46]] torpedoes. However, the Limbo mortar was removed in order to install the CANTASS. This visibly altered the overall appearance of the ships.&lt;ref name=mac1/&gt; The AN/SQR-504 was also replaced by the CANTASS. The Super RBOC chaff system was installed during the refit.&lt;ref name=barrie17/&gt;
+
+==Ships==
+{| class=&quot;sortable toccolours&quot; align=&quot;center&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;2&quot; style=&quot;border-collapse: collapse;&quot;
+|----- style=&quot;background:#006699;&quot;
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Number&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Name&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Builder&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Laid down&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Launched&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Commissioned&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;DELEX refit&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Paid off&amp;nbsp;'''
+|'''&lt;span style=&quot;color:white;&quot;&gt;&amp;nbsp;Fate&amp;nbsp;'''
+|-
+|265
+|{{HMCS|Annapolis|DDH 265|2}}
+|[[Halifax Shipyards|Halifax Shipyards Ltd.]], [[City of Halifax|Halifax]]
+|2 September 1961
+|27 April 1963
+|19 December 1964
+|15 September 1986
+|15 November 1996
+|Scuttled off [[Gambier Island]] in 2015.
+|-
+|266
+|{{HMCS|Nipigon|DDH 266|2}}
+|[[Marine Industries Limited|Marine Industries Ltd.]], [[Sorel, Quebec|Sorel]]
+|5 August 1960
+|10 December 1961
+|30 May 1964
+|22 August 1984
+|7 July 1998
+|Scuttled off [[Rimouski, Quebec|Rimouski, QC]] in 2003.
+|-
+|}
+
+==Service history==
+''Nipigon'' was [[Keel laying|laid down]] by [[Marine Industries|Marine Industries Ltd]] on 5 August 1960 and ''Annapolis'' by  [[Halifax Shipyards]] on 2 September 1961. Both ships [[Ship commissioning|commissioned]] in 1964; ''Nipigon'' on 30 May and ''Annapolis'' on 19 December.&lt;ref name=mac2&gt;Macpherson and Barrie (2002), pp. 260-1&lt;/ref&gt;
+
+Both ships spent the majority of their career split between Canada's Pacific and Atlantic coasts with the ''Annapolis'' being at [[CFB Esquimalt|Esquimalt]] and ''Nipigon'' at [[CFB Halifax|Halifax]]. They spent most of their careers participating in training exercises, such as Ocean Safari '87&lt;ref name=mac1/&gt; or representing Canada at ceremonial situations, such as commemorating the [[Battle of the Atlantic]] in May 1993 at [[Liverpool]].&lt;ref name=mac3&gt;Macpherson and Barrie (2002), p. 261&lt;/ref&gt;
+
+[[File:HMCS NIPIGON 266- summer 2003 Rimouski harbour.jpg|thumb|right|''Nipigon'' awaiting her fate in Rimouski harbour]]
+In 1994, ''Annapolis'' participated in [[Operation Forward Action]] off Haiti.&lt;ref name=mac1/&gt; In 1995, after illegal fishing had taken place in Canada's [[exclusive economic zone]], ''Nipigon'' was sent to support Canadian Coast Guard and Fisheries vessels in apprehending the perpetrators, in what became called the [[Turbot War]].&lt;ref name=mac3/&gt;
+
+''Nipigon'' remained in the fleet until 1998 as a trials ship for the ETASS Mod 5 towed sonar system which was a precursor to the CANTASS  that is currently fitted on the {{sclass-|Halifax|frigate|4}} of frigates.&lt;ref&gt;{{cite web |url=http://www.shearwateraviationmuseum.ns.ca/ships/annapolis.htm |title=Royal Canadian Navy Destroyer Escorts (Annapolis Class) |website=Shearwater Aviation Museum |accessdate=7 November 2015}}&lt;/ref&gt;  Both ''Annapolis'' and ''Nipigon'' were [[Ship decommissioning|paid off]] on 1 July 1998.&lt;ref name=mac2/&gt; ''Nipigon'' was towed to [[Rimouski, Quebec]] and sunk as an artificial reef off the coast.&lt;ref name=mac3/&gt; After years of court battles, ''Annapolis'' was sunk as an artificial reef off [[Gambier Island]], British Columbia in 2015.&lt;ref&gt;{{cite news| url=http://www.cbc.ca/news/canada/british-columbia/hmcs-annapolis-sunk-to-make-artificial-reef-1.3021329 |title=HMCS Annapolis sunk to make artificial reef |work=CBC News |date=4 April 2015 |accessdate=7 October 2015}}&lt;/ref&gt;
+
+==References==
+{{Portal|Canadian Armed Forces}}
+
+===Notes===
+{{reflist|group=note}}
+
+===Citations===
+{{Reflist|30em}}
+
+===Sources===
+* {{cite book |last=Barrie |first=Ron |last2=Macpherson |first2=Ken |date=1996 |title=Cadillac of Destroyers: HMCS St. Laurent and Her Successors |publisher=Vanwell Publishing Limited |location=St. Catharines, Ontario |isbn=1-55125-036-5}}
+*{{cite book|editor-last=Gardiner |editor-first=Robert |editor-last2=Chumbley |editor-first2=Stephen |editor-last3=Budzbon |editor-first3=Przemysław |date=1995 |title=Conway's All the World's Fighting Ships 1947-1995. |location=Annapolis, Maryland |publisher=Naval Institute Press |isbn=1-55750-132-7}}
+* {{cite book |editor-last=Gimblett |editor-first=Richard H. |date=2009 |title=The Naval Service of Canada 1910-2010: The Centennial Story   |publisher=Dundurn Press |location=Toronto |isbn=978-1-4597-1322-2}}
+* {{cite book |editor-last=Hadley |editor-first=Michael L. |editor-last2=Huebert |editor-first2=Rob |editor-last3=Crickard |editor-first3=Fred W. |date=1992 |title=A Nation's Navy: In Quest of Canadian Naval Identity |publisher=McGill-Queen's University Press |location=Montreal, Quebec and Kingston, Ontario |isbn=0-7735-1506-2}}
+*{{cite book|title=The Ships of Canada's Naval Forces 1910-2002 |last=Macpherson |first=Ken |last2=Barrie |first2=Ron |edition=Third |publisher=Vanwell Publishing Limited |location=St. Catharines, Ontario |date=2002 |isbn=1-55125-072-1}}
+*{{cite book|title=Canada's Navy: The First Century |last=Milner |first=Marc |edition=Second |publisher=University of Toronto Press |date=2010 |location=Toronto |isbn=978-0-8020-9604-3}}
+
+== External links ==
+{{Commons category|Annapolis class destroyers}}
+* [http://www.hazegray.org/navhist/canada/postwar/annapoli/ Canadian Navy of Yesterday &amp; Today: ''Annapolis'' class destroyer escort]
+*[http://www.navy.forces.gc.ca/ Canadian Navy]
+
+{{Annapolis class destroyer}}
+
+[[Category:Destroyer classes]]
+[[Category:Annapolis-class destroyers| ]]
+[[Category:Cold War destroyers of Canada| ]]</text>
+      <sha1>cx5ul81hdl3qh0erib7h609rgc8gm37</sha1>
+    </revision>
+  </page>
+</mediawiki>

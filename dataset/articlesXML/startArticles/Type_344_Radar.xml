@@ -1,0 +1,113 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Type 344 Radar</title>
+    <ns>0</ns>
+    <id>5608272</id>
+    <revision>
+      <id>708385915</id>
+      <parentid>642036402</parentid>
+      <timestamp>2016-03-05T08:16:58Z</timestamp>
+      <contributor>
+        <username>Jonpatterns</username>
+        <id>12203748</id>
+      </contributor>
+      <comment>/* top */ ref</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1846">{{refimprove|date=March 2016}}
+{{Infobox Radar 
+|name        = Type 344
+|image       = Type344_I-J-band.jpg
+|caption     = Type 344 on [[Luhu class destroyer]] 
+|country     = [[People's Republic of China]] 
+|introdate   = unknown
+|number      = unknown
+|type        = Fire Control
+|frequency   = I/J band
+|PRF       =   unknown
+|pulsewidth=   unknown
+|RPM       =   unknown
+|range       = unknown
+|altitude    = unknown
+|diameter    = unknown
+|azimuth     = 0-360°
+|elevation   = 0-85°
+|precision   = unknown
+|power       = unknown
+|other names = MR34
+}}
+
+
+The '''Type 344''' is a multifunctional fire control radar (FCR) developed by the Xian Research Institute of Navigation Technology (西安导航技术研究所)/XRINT/ No. 20th Research Institute.
+
+It can track two batches of target simultaneously and measure the position deviation between the shell and the target, constantly calibrating the gun's firing parameters in action. The system also includes a TV tracker and laser range finder. It is used to control 76m, 100mm and 130mm guns in [[People's Liberation Army Navy|PLAN]] service. 
+
+__TOC__
+
+==Specifications==
+* Uses phase scanning techniques
+* Uses pulse compression, MTI (Moving Target Indicator) and CFAR (Constant False Alarm Rate)
+* Traveling Wave Tube (TWT) amplifier
+* Independent search capability in 10&lt;sup&gt;&quot;&lt;/sup&gt; X 10&lt;sup&gt;&quot;&lt;/sup&gt;
+* Able to track both surface and airborne targets
+* TV tracking/Laser Range finding
+
+==See also==
+* Type 051C [[Luzhou class destroyer]]
+* Type 052  [[Luhu class destroyer]]
+* Type 052B [[Guangzhou class destroyer]]
+* Type 052C [[Lanzhou class destroyer]]
+* Type 054  [[Ma'anshan class frigate]]
+
+==External links==
+* [http://www.cetc.com.cn China Electronics Technology Group Corporation (CETC) ]
+
+[[Category:Sea radars]]
+[[Category:Military radars of the People's Republic of China]]</text>
+      <sha1>g1han8psof2s3mmlkybvm2p8szmmwvx</sha1>
+    </revision>
+  </page>
+</mediawiki>

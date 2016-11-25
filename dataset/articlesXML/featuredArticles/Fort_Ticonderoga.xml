@@ -47,18 +47,17 @@
     <ns>0</ns>
     <id>46710</id>
     <revision>
-      <id>750096025</id>
-      <parentid>747148893</parentid>
-      <timestamp>2016-11-17T20:08:12Z</timestamp>
+      <id>751337511</id>
+      <parentid>750096025</parentid>
+      <timestamp>2016-11-25T00:39:34Z</timestamp>
       <contributor>
-        <username>AnomieBOT</username>
-        <id>7611264</id>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
       </contributor>
-      <minor/>
-      <comment>[[User:AnomieBOT/docs/TemplateSubster|Substing templates]]: {{PDFlink}}. See [[User:AnomieBOT/docs/TemplateSubster]] for info.</comment>
+      <comment>Migrate {{Infobox NRHP}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="52302">{{Infobox NRHP
+      <text xml:space="preserve" bytes="52189">{{Infobox NRHP
  | name = Fort Ticonderoga
  | nrhp_type = nhl
  | image = Fort Ticonderoga, Ticonderoga, NY.jpg
@@ -68,10 +67,8 @@
  | location = [[Ticonderoga (village), New York|Ticonderoga]], [[New York (state)|New York]]
  | nearest_city = [[Burlington, Vermont|Burlington]], [[Vermont]]
  | locmapin = New York Adirondack Park#New York#USA
- | lat_degrees = 43 | lat_minutes = 50 | lat_seconds = 30 | lat_direction = N
- | long_degrees = 73 | long_minutes = 23 | long_seconds = 15 | long_direction = W
- | coord_parameters = region:US-NY_type:landmark
- | map_width = 300
+ | coordinates = {{coord|43|50|30|N|73|23|15|W|region:US-NY_type:landmark|display=inline,title}}
+| map_width = 300
  | map_alt = The fort is located by Lake Champlain in New York near the Vermont border, about 2/5 of the way north from New York City to Montreal.
  | area = {{Convert|21950|acre}}
  | built = 1755–1758
@@ -286,7 +283,7 @@ The name Ticonderoga has been given to [[USS Ticonderoga|five different U.S. Nav
 [[Category:Forts on the National Register of Historic Places in New York|Ticonderoga]]
 [[Category:National Register of Historic Places in Essex County, New York]]
 [[Category:American Revolution on the National Register of Historic Places]]</text>
-      <sha1>3285spn1au5d2sq0cw277i2jamwh382</sha1>
+      <sha1>guade917u4ezs8eq3nyykpezu5mlpi8</sha1>
     </revision>
   </page>
 </mediawiki>

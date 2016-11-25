@@ -1,0 +1,152 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Ian Gleeson</title>
+    <ns>0</ns>
+    <id>44199914</id>
+    <revision>
+      <id>724915649</id>
+      <parentid>701073810</parentid>
+      <timestamp>2016-06-12T11:03:22Z</timestamp>
+      <contributor>
+        <username>KasparBot</username>
+        <id>24420788</id>
+      </contributor>
+      <comment>migrating [[Wikipedia:Persondata|Persondata]] to Wikidata, [[toollabs:kasparbot/persondata/|please help]], see [[toollabs:kasparbot/persondata/challenge.php/article/Ian Gleeson|challenges for this article]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="4357">{{Infobox military person
+| honorific_prefix  = 
+| name              = Ian Rimbault Gleeson	
+| honorific_suffix  = {{Post-nominals|country=ZAR|SSAG|SD|SM}}
+| native_name       = 
+| native_name_lang  = 
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| birth_date    = {{birth date and age|df=yes|1934|08|15}}
+| death_date    = &lt;!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} death date first, then birth date --&gt;
+| birth_place   = 
+| death_place   = 
+| placeofburial = 
+| placeofburial_label = 
+| placeofburial_coordinates = &lt;!-- {{Coord|LAT|LONG|display=inline,title}} --&gt;
+| nickname      = 
+| birth_name    = 
+| allegiance    = {{ZAF}}
+| branch        = [[South African Army]]
+| serviceyears  = {{ndash}}1990
+| rank          = Lieutenant General
+| servicenumber = &lt;!--Do not use data from primary sources such as service records.--&gt;
+| unit          = 
+| commands      = {{plainlist | 
+* Chief of the Defence Force  Staff
+* Chief of Staff Operations
+* Chief of Army Staff Operations
+* GOC 101 Task Force
+* 2 South African Infantry Battalion
+}}
+| battles       = [[Battle of Cassinga]]
+| battles_label = 
+| awards        = {{plainlist |
+* {{Medal Display|SSAG|x12px}}
+* {{Medal Display|SD|x12px}}
+* {{Medal Display|SM52|x12px}}
+}}
+| memorials     =
+| spouse        = &lt;!-- Add spouse if reliably sourced --&gt; 
+| relations     =
+| laterwork     = Author of the &quot;Unknown Force&quot;
+| signature     = 
+| website       = &lt;!-- {{URL|example.com}} --&gt;
+| module        = 
+}}
+
+Lieutenant General '''Ian Rimbault Gleeson''' {{Post-nominals|country=ZAR|SSAG|SD|SM}} (born 1934)&lt;ref name=Scientaria&gt;{{cite journal|first1=C.J.|last1=Nöthling|first2=E.M.|last2=Meyers|title=Leaders through the years (1912-1982)|journal=Scientaria Militaria|year=1982|volume=12|issue=2|page=93|url=http://scientiamilitaria.journals.ac.za/pub/article/view/631}}&lt;/ref&gt; is a retired South African Army officer who served as Chief of the Defence Staff.
+
+He graduated from the Military Academy after attending Christian Brothers College in Pretoria and joined the Army in 1954.&lt;ref name=&quot;ScIMil&quot;&gt;{{cite journal | title=CIVILIAN-MILITARY INTERACTION ON THE MATIE CAMPUS: THE ‘BATTLE OF WILGENHOF’, 1957 | last1=Visser|first1=Deon | journal=Scientia Militaria, South African Journal of Military Studies | year=2009 | volume=37 | issue=2 | page=82}}&lt;/ref&gt;&lt;ref name=&quot;FMail&quot;&gt;{{cite journal | url=http://www.historicalpapers.wits.ac.za/inventories/inv_pdfo/AG1977/AG1977-A5-63-16-001-jpeg.pdf | title=The SADF: Supplement to the Financial Mail | journal=Financial Mail |date=July 1987  | page=14}}&lt;/ref&gt; He became Officer Commanding [[2 South African Infantry Battalion]] in 1971 and in 1972 OC [[Walvis Bay military base]],&lt;ref name=Scientaria /&gt; and in July 1976 became [[General officer commanding|GOC]] [[101 Task Force]]. He then became ''Chief of Army Staff Operations'' on 15 January 1978&lt;ref name=Scientaria /&gt; before taking on the recreated post of ''Chief of Defence Force Staff''.&lt;ref name=&quot;FMail&quot; /&gt;
+
+He retired in February 1990.&lt;ref name=&quot;Burger&quot;&gt;{{cite news| url=http://152.111.1.87/argief/berigte/dieburger/1990/03/01/2/12.html | title=Meiring kry bevel van leër | newspaper=[[Die Burger]] | date=1 March 1990 | accessdate=24 October 2014|language=Afrikaans|trans_title=Meiring gets command of Army}}&lt;/ref&gt;
+
+== Awards and Decorations ==
+General Gleeson has been awarded the following:
+* {{Medal Display|SSAG}}
+* {{Medal Display|SD}}
+* {{Medal Display|SM52}}
+* {{Medal Display|PP}}
+* {{Medal Display|GoodServiceG}}
+* {{Medal Display|GoodServiceS}}
+* {{Medal Display|PFGS}}
+
+==References==
+{{reflist|2}}
+
+{{s-start}}
+{{s-mil}}
+{{s-bef | before =Post reestablished in 1986 }}
+{{s-ttl | title = [[Chief of Defence Force Staff (South Africa)|Chief of Defence Force Staff]] | years =1986{{snd}}1990}}
+{{s-aft | after= [[Andreas Liebenberg]] }}
+
+{{s-bef | before = [[Jack Dutton]] }}
+{{s-ttl | title =[[Chief of Staff Operations ]]| | years = 1981{{snd}}1985}}
+{{s-aft | after = [[Jan van Loggerenberg]]  }}
+
+{{s-bef | before = Cmdt [[Alex Potgieter]] }}
+{{s-ttl | title =OC [[2 South African Infantry Battalion|2 SAI Bn Gp ]]| | years = 1971{{snd}}1972}}
+{{s-aft | after = Cmdt &quot;Boy&quot; du Toit  }}
+{{s-end}}
+
+{{DEFAULTSORT:Gleeson, Ian}}
+[[Category:South African Army generals]]
+[[Category:Living people]]
+[[Category:1934 births]]
+
+
+{{SouthAfrica-mil-bio-stub}}</text>
+      <sha1>kmlrbfrzm15qq4035ueaenu0c7438zw</sha1>
+    </revision>
+  </page>
+</mediawiki>

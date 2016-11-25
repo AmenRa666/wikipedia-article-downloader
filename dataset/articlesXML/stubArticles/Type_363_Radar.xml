@@ -1,0 +1,97 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Type 363 Radar</title>
+    <ns>0</ns>
+    <id>5491557</id>
+    <revision>
+      <id>642037145</id>
+      <parentid>332210175</parentid>
+      <timestamp>2015-01-11T17:54:02Z</timestamp>
+      <contributor>
+        <username>A. Carty</username>
+        <id>4306158</id>
+      </contributor>
+      <comment>/* See also */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="1328">{{Unreferenced|date=December 2009}}
+&lt;!-- Deleted image removed: [[Image:Type363.JPG|150px|right|Rear view of the Type 363 antenna]] --&gt;
+The '''Type 363 radar''' is often mistaken for [[Type 360 Radar]]. The main visual difference can be found on the antenna. The Type 360 has a lattice type array while the Type 363 has a single solid spine.
+
+The Type 363 have only be found to be installed on Luhu DDG 112 and selected Luda upgrades (109).
+
+==Specifications==
+* E/F - band
+* Beam: 1.65 x 8 deg csc2 (to 450)
+* Pulse width: 5.5 – 12 microsec?
+* [[Antenna gain|Antenna Gain]]: 29.5 db
+* Peak Power: 60&amp;nbsp;kW (1&amp;nbsp;kW average)
+* PRF: 2200/1100pps
+* Polarization: Circular / Linear
+* Scan Rate: 15 or 24 rpm
+* Dimensions: 4.54 m
+* Detection Range: 60&amp;nbsp;nm on 2m2 target with P(d) 50%
+* Antenna beam pattern: consecant2 up to 500
+* Transmitter: Frequency agile with pulse compression
+* Receiver: CFAR, MTI, lin, log, 4 reception chain, S/N better than 5.5 dB
+* Weight: approx 675&amp;nbsp;kg
+* Other reported names:
+** Thomson-CSF TSR 3004
+** Sea Tiger
+** DRBV-15 (In French service)
+
+All specifications based on DRBV-15
+
+==See also==
+* Type 051 [[Luda class destroyer|Luda-class]] 
+* Type 052 [[Luhu class destroyer|Luhu-class-destroyer]]
+
+[[Category:Sea radars]]
+[[Category:Military radars of the People's Republic of China]]</text>
+      <sha1>r7opjsgerpflc2ewojz3yrbq23mv16g</sha1>
+    </revision>
+  </page>
+</mediawiki>

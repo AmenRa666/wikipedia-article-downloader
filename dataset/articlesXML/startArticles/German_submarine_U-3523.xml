@@ -1,0 +1,250 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>German submarine U-3523</title>
+    <ns>0</ns>
+    <id>50328798</id>
+    <revision>
+      <id>749106654</id>
+      <parentid>748811782</parentid>
+      <timestamp>2016-11-12T12:57:45Z</timestamp>
+      <contributor>
+        <username>ÄDA - DÄP</username>
+        <id>16734816</id>
+      </contributor>
+      <minor/>
+      <comment>adding references using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="7409">{{Use dmy dates|date=April 2016}}
+{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country= [[Nazi Germany]]
+|Ship flag={{shipboxflag|Nazi Germany|naval}}
+|Ship name=''U-3523''
+|Ship ordered=6 November 1943
+|Ship builder=[[F Schichau GmbH]], [[Danzig]]
+|Ship yard number=1668
+|Ship laid down=7 October 1944
+|Ship launched=14 December 1944
+|Ship commissioned=23 January 1945
+|Ship decommissioned=
+|Ship homeport=
+|Ship motto=
+|Ship nickname=
+|Ship fate=Sunk 6 May 1945
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=[[Type XXI submarine]]
+|Ship displacement=
+*{{convert|1621|t|LT|0|lk=out|abbr=on}} surfaced
+*{{convert|1819|t|LT|0|abbr=on}} submerged
+|Ship length=
+*{{convert|76.70|m|ftin|abbr=on}} ([[o/a]])
+*{{convert|60.50|m|ftin|abbr=on}} ([[pressure hull|p/h]])
+|Ship beam=
+*{{convert|8|m|ftin|abbr=on}} (o/a)
+*{{convert|5.3|m|ftin|abbr=on}} (p/h)
+|Ship height={{convert|11.30|m|ftin|abbr=on}}
+|Ship draught={{convert|6.32|m|ftin|abbr=on}}
+|Ship power=
+*{{convert|4000|PS|kW shp|abbr=on}} (diesel drive)
+*{{convert|5000|PS|kW shp|abbr=on}} (standard electric drive)
+*{{convert|226|PS|kW shp|abbr=on}} (silent electric drive)
+|Ship propulsion=
+*Diesel/Electric
+*2 × [[MAN SE|MAN]] M6V40/46KBB [[supercharged]] 6-cylinder [[diesel engine]]s 
+*2 × [[Siemens-Schuckert|SSW]] GU365/30 [[Motor-generator|double-acting electric motors]] 
+*2 × SSW GV232/28 silent running electric motors
+|Ship speed=
+*''Surfaced'':
+*{{convert|15.6|kn}} (diesel)
+*{{convert|17.9|kn}} (electric)
+*''Submerged'':
+*{{convert|17.2|kn}} (electric)
+*{{convert|6.1|kn}} (silent running motors)
+|Ship range=
+*{{convert|15,500|nmi|abbr=on}} at {{convert|10|kn}} surfaced
+*{{convert|340|nmi|abbr=on}} at {{convert|5|kn}} submerged
+|Ship test depth={{convert|280|m|ft|abbr=on}}
+|Ship complement=57—60 crewmen
+|Ship sensors=
+*[[Hohentwiel (Radar)|Type F432 D2 Radar Transmitter]]
+*FuMB Ant 3 ''Bali'' Radar Detector
+|Ship armament=
+*6 × bow [[torpedo tube]]s
+*23 × {{convert|53.3|cm|in|0|abbr=on}} torpedoes ''or'' 17 × torpedoes and 12 × TMC [[Naval mine|mine]]s
+*4 × [[2 cm Flak 30/38/Flakvierling|{{convert|2|cm|in|1|abbr=on}} AA guns]] or
+*4 × [[3.7 cm Flak 18/36/37/43|{{convert|3.7|cm|in|1|abbr=on}} AA guns]]
+|Ship notes=
+}}
+{{Infobox service record
+|is_ship=yes
+|label=Service record
+|partof=
+*[[5th U-boat Flotilla]] (Training)
+*23 January 1945 – 6 May 1945
+|codes=
+|commanders=
+*''[[Oblt.z.S.]]'' Willi Müller&lt;ref&gt;{{cite web
+ |url=http://uboat.net/men/commanders/847.html
+ |title=Willi Müller
+ |last=Helgason
+|first=Guðmundur
+|website=German U-boats of WWII - uboat.net
+ |accessdate=26 April 2016
+}}&lt;/ref&gt;
+*21 January 1945 – 2 May 1945
+|operations=No patrols
+|victories=None
+}}
+|}
+
+'''German submarine ''U-3523''''' was a [[Type XXI submarine|Type XXI]] [[U-boat]] (one of the &quot;''[[Elektroboot]]e''&quot;) of [[Nazi Germany]]'s ''[[Kriegsmarine]]'', built for service in [[World War II]]. She was ordered on 6 November 1943, and was [[Keel laying|laid down]] on 7 October 1944 at [[F Schichau GmbH]], [[Danzig]], as yard number 1668. She was [[Ceremonial ship launching|launched]] on 14 December 1944, and [[Ship commissioning|commissioned]] under the command of ''[[Oberleutnant zur See]]'' Willi Müller, on 23 January 1945.&lt;ref name=&quot;uboat&quot;&gt;{{cite web
+|url=http://uboat.net/boats/u3523.htm
+|title=U-3523
+|last=Helgason
+|first=Guðmundur
+|website=Uboat.net
+|accessdate=26 April 2016
+}}&lt;/ref&gt;
+
+==Design==
+Like all [[Type XXI submarine|Type XXI]] [[U-boat]]s, ''U-3523'' had a displacement of {{convert|1621|t|LT}} when at the surface and {{convert|1819|t|LT}} while submerged. She had a total length of {{convert|76.70|m|ftin|abbr=on}} ([[o/a]]), a beam length of {{convert|8|m|ftin|abbr=on}}, and a draught length of {{convert|6.32|m|ftin|abbr=on}}.{{sfn|Gröner|1991|p=85}} The submarine was powered by two [[MAN SE]] supercharged six-cylinder M6V40/46KBB diesel engines each providing {{convert|4000|PS|kW shp|lk=on|abbr=off}}, two [[Siemens-Schuckert]] GU365/30 [[Motor–generator|double-acting]] electric motors each providing {{convert|5000|PS|kW shp|abbr=on}}, and two Siemens-Schuckert [[Silent running (submarine)|silent running]] GV232/28 electric motors each providing {{convert|226|PS|kW shp|abbr=on}}.{{sfn|Gröner|1991|p=85}}
+
+The submarine had a maximum surface speed of {{convert|15.6|kn}} and a submerged speed of {{convert|17.2|kn}}. When running on silent motors the boat could operate at a speed of {{convert|6.1|kn}}. When submerged, the boat could operate at {{convert|5|kn}} for {{convert|340|nmi}}; when surfaced, she could travel {{convert|15500|nmi}} at {{convert|10|kn}}.{{sfn|Gröner|1991|p=85}} ''U-3523'' was fitted with six {{convert|53.3|cm|in|abbr=on}} [[torpedo tube]]s in the bow and four {{convert|2|cm|in|1|abbr=on}} [[anti-aircraft warfare|anti-aircraft guns]]. She could carry twenty-three [[torpedo]]es or seventeen torpedoes and twelve [[Naval mine|mines]]. The [[Ship's company|complement]] was five officers and fifty-two men.{{sfn|Gröner|1991|p=85}}
+
+==Fate==
+''U-3523'' was sunk on 6 May 1945, by [[depth charge]]s, northeast of [[Skagen|Skagen Horn]], in the [[Skagerrak]]. ''U-3523'' was attacked by a [[RAF|British]] [[Consolidated B-24|B-24 Liberator]] of [[No. 86 Squadron RAF|86 Squadron/G RAF]]. All 58 crewmen were lost.&lt;ref name=&quot;uboat&quot; /&gt;
+
+The wreck is located at {{coord|57|52|N|10|49|E|display=title, inline}}.&lt;ref name=&quot;uboat&quot; /&gt;
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book | last1 = Busch | first1 = Rainer | last2 = Röll | first2 = Hans-Joachim | translator-last = Brooks | translator-first = Geoffrey | title = German U-boat commanders of World War II : a biographical dictionary | publisher = Greenhill Books, Naval Institute Press | location = London, Annapolis, Md | year = 1999 | isbn = 1-55750-186-6 | ref = harv}}
+*{{cite book
+|last1=Busch
+|first1=Rainer
+|last2=Röll
+|first2=Hans-Joachim
+|title=Deutsche U-Boot-Verluste von September 1939 bis Mai 1945
+|trans-title=German U-boat losses from September 1939 to May 1945
+|work=Der U-Boot-Krieg
+|volume=IV
+|publisher=Mittler
+|location=Hamburg, Berlin, Bonn
+|year=1999
+|isbn=3-8132-0514-2
+|language=German
+}}
+*{{cite book
+|last1=Gröner
+|first1=Erich
+|author-link1=
+|author-mask1=
+|last2=Jung
+|first2=Dieter
+|display-authors=
+|last-author-amp=
+|last3=Maass
+|first3=Martin
+|translator-last1=Thomas
+|translator-first1=Keith
+|translator-last2=Magowan
+|translator-first2=Rachel
+|year=1991
+|title=U-boats and Mine Warfare Vessels
+|volume=2
+|work=German Warships 1815–1945
+|location=London
+|publisher=Conway Maritime Press
+|isbn=0-85177-593-4
+|ref=CITEREFGr.C3.B6ner1991
+}}
+
+{{Refend}}
+
+==External links==
+* {{Cite web
+|url=http://uboat.net/boats/u3523.htm
+ |title=U-35121
+|last=Helgason
+|first=Guðmundur
+|website=German U-boats of WWII - uboat.net
+ |accessdate=26 April 2016
+}}
+
+{{German Type XXI submarines}}
+{{May 1945 shipwrecks}}
+{{Subject bar
+| portal1=Military of Germany
+| portal2=Submarine
+| portal3=World War II
+}}
+
+{{DEFAULTSORT:U3523}}
+[[Category:Type XXI submarines]]
+[[Category:U-boats commissioned in 1945]]
+[[Category:World War II submarines of Germany]]
+[[Category:1944 ships]]
+[[Category:Ships built in Danzig]]
+[[Category:Ships built by Schichau]]
+[[Category:World War II shipwrecks in the Skagerrak]]
+[[Category:Maritime incidents in May 1945]]</text>
+      <sha1>m5aqwk3m8zliesbd8hptsxgsd1cz2vx</sha1>
+    </revision>
+  </page>
+</mediawiki>

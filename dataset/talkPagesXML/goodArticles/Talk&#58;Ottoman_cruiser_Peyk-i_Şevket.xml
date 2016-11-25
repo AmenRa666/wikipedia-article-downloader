@@ -1,0 +1,80 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Talk:Ottoman cruiser Peyk-i Şevket</title>
+    <ns>1</ns>
+    <id>45287840</id>
+    <revision>
+      <id>646201216</id>
+      <parentid>646199151</parentid>
+      <timestamp>2015-02-08T16:01:08Z</timestamp>
+      <contributor>
+        <username>Legobot</username>
+        <id>7304691</id>
+      </contributor>
+      <minor/>
+      <comment>BOT: Adding |oldid=646199225 to {{[[Template:GA|GA]]}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="5395">{{GA|15:42, 8 February 2015 (UTC)|topic=Warfare|page=1|oldid=646199225}}
+{{WP Ships|class=GA|b1=y|b2=y|b3=y|b4=y|b5=y}}
+{{WPMILHIST|class=GA|b1=y|b2=y|b3=y|b4=y|b5=y|WWI=yes|Maritime=yes|Ottoman=yes}}
+
+== ID of the submarine which torpedoed Peyk-i Sevket: HMS E11 v HMAS AE2 ==
+
+Gday. This article says HMS E11 torpedoed the ship; however, to the best of my knowledge [[HMAS AE2]] also appears to have claimed to have torpedoed Peyk-i Sevket (pls see the articles on [[Gallipoli Campaign]] and [[HMAS AE2]] for details and refs). I'm no expert on the topic though so wondering if this is a contradiction between sources, or if both subs made the claim, or if each sub torpedoed a different ship which was mis-identified, etc. Is this able to be resolved? [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 22:50, 5 February 2015 (UTC)
+: Further to this: Stevens (2001) ''The Royal Australian Navy'', p. 45 states: &quot;Here, he torpedoed the large Turkish gunboat, ''Peyk I Sevket'', at the same moment diving to evade an enemy destroyer...&quot;. Yet the official history, Jose (1941) ''The Royal Australian Navy'', p. 242, quoting AE2's captain, Henry Stoker, states: &quot;A small cruiser, judged to be of ''Peik e Shetrek'' type, previously unseen, now emerged... I fired the bow torpedo... As the vessel descended, the destroyer passed overhead close, and the torpedo was heard to hit&quot;. To me there are two issues one is the different spelling of the vessel's name (although probably a tangent), and the second is that in Stoker's account it was only the ''type'' of cruiser (i.e. class) that was identified not necessarily actually the ''Peyk-I Sevket'' itself. Thoughts? [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 23:04, 5 February 2015 (UTC)
+::I think I know what the discrepancy is, though it's somewhat hard to believe that Stoker mistook [[SMS Weissenburg|a 10,000-ton battleship]] for a 750-ton torpedo cruiser. L&amp;G report that ''AE2'' attempted to torpedo ''Turgut Reis'' on the morning of 25 April, which was escorted by the torpedo boat ''Aydin Reis'' (and also reference a second attack the next day, on ''Barbaros Hayreddin'', and a third attack on the 27th on the destroyer ''Yarhisar'', neither of which is mentioned in the ''AE2'' article - both on page 35, if you're interested).
+::To seal the deal, ''Peyk'' wasn't torpedoed until 6 August 1915, so the Australian claim is a few months off. [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 01:59, 6 February 2015 (UTC)
+::: Gday thanks for clearing this up. With this in mind I've reworded the [[Gallipoli Campaign]] and [[HMAS AE2]] articles - here [https://en.wikipedia.org/w/index.php?title=Gallipoli_Campaign&amp;diff=645842064&amp;oldid=645591813] and [https://en.wikipedia.org/w/index.php?title=HMAS_AE2&amp;diff=645842676&amp;oldid=645810085]. I believe Stevens was using the Official History (Jose) as his source but might have overstretched in his interpretation. According to the OH Stoker said it was &quot;A small cruiser, judged to be of ''Peik e Shetrek'' type...&quot; not that it ''actually'' was ''Peyk-i Şevket''. Anyway could you possibly review my changes to these other articles for a sanity check pls and let me know what you think? All the best. [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 03:04, 6 February 2015 (UTC)
+:::: I also added a bit to the [[HMS E11]] article. [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 11:42, 6 February 2015 (UTC)
+:::::That looks good to me, though I think we ought to add a note to both articles stating that it was more likely ''Turgut Reis'', based on Ottoman records (or at least point out that no Ottoman record of a torpedo attack on ''Peyk-i Sevket'' that day in that location exists, and the other ship of the class, ''Berk-i Satvet'', had already been mined off the Bosporus). It would be better if we had definitive proof that ''Peyk'' was somewhere else that morning (and it likely exists in the Turkish Navy's archives, but I doubt either of us has access or can read Turkish), but unfortunately L&amp;G don't mention any activity for the ship in late April. It ''does'' seem that she never went to the Dardanelles after the outbreak of war, having been kept in the western Marmara and in the Black Sea as far as I can tell, but that's just a hunch. [[User:Parsecboy|Parsecboy]] ([[User talk:Parsecboy|talk]]) 13:02, 6 February 2015 (UTC)
+:::::: Actually I wonder if rather than ''Turgut Reis'' maybe AE2 fired on some other ship entirely (a gunboat or small cruiser which it misidentified)? As you said it would seem hard to mistake such a large battleship for a much smaller one. That said I agree we should add a note to said articles highlighting the discrepancy re AE2 and the ''Peyk-I Sevket''-class cruiser as per the sources you have used here (it would probably make Wiki one of the more complete sources on this as all sources I've seen, admittedly only Australian ones, don't seem to have picked this up). Unfortunately without direct access to the sources I don't feel in a position to write the note accurately though. As such if you get some time would it be too much trouble to ask you to add something on this at some point? Thanks again. [[User:Anotherclown|Anotherclown]] ([[User talk:Anotherclown|talk]]) 21:10, 6 February 2015 (UTC)
+
+{{Talk:Ottoman cruiser Peyk-i Şevket/GA1}}</text>
+      <sha1>pc59d93td47lg1f1kgcqdxvpprzirn3</sha1>
+    </revision>
+  </page>
+</mediawiki>

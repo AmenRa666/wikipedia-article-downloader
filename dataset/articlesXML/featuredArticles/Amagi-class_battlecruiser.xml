@@ -1,0 +1,202 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.29.0-wmf.3</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Amagi-class battlecruiser</title>
+    <ns>0</ns>
+    <id>21141589</id>
+    <revision>
+      <id>748304211</id>
+      <parentid>730215913</parentid>
+      <timestamp>2016-11-07T14:30:13Z</timestamp>
+      <contributor>
+        <username>Parsecboy</username>
+        <id>1879095</id>
+      </contributor>
+      <comment>replace with free alternative</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="24752">{|{{Infobox ship begin}}
+{{Infobox ship image
+|Ship image=[[File:Amagi class battlecruiser sketch.svg|300px|alt=Line drawing of this type of vessel; the ship had a long hull, two tall masts, five gun turrets, and two large funnels.]]
+|Ship caption=Design for the ''Amagi'' class
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=[[Imperial Japanese Navy]]
+|Class before={{sclass-|Kongō|battlecruiser|4}}
+|Class after=
+|Subclasses=
+|Built range=1920&amp;ndash;1922
+|In commission range=
+|Total ships building=
+|Total ships planned=4
+|Total ships completed=1 (converted into an [[aircraft carrier]]) (''[[Japanese aircraft carrier Akagi|Akagi]]'')
+|Total ships cancelled=3
+|Total ships lost=1
+|Total ships scrapped=3
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=[[Battlecruiser]]
+|Ship displacement=*Standard: {{convert|41217|t|LT}} normal
+*{{convert|47000|t|LT}} full load
+|Ship length={{convert|251.8|m|abbr=on}}
+|Ship beam={{convert|30.8|m|abbr=on}}
+|Ship draft={{convert|9.5|m|abbr=on}}
+|Ship propulsion=4-shaft Gihon turbines, 19 Kampon boilers 
+|Ship speed={{convert|30|knots|lk=in}}
+|Ship range={{convert|8000|nmi|abbr=on|lk=in}} at {{convert|14|kn}}
+|Ship complement=1,600
+|Ship power={{convert|131200|shp|lk=in|abbr=on}}
+|Ship EW=
+|Ship armament=*10 × [[41 cm/45 3rd Year Type naval gun|41 cm guns]]
+*16 ×  [[14 cm/50 3rd Year Type naval gun|14 cm guns]]
+*6 × [[12 cm/45 10th Year Type naval gun|12 cm]] [[anti-aircraft warfare|AA]] guns
+*8 × {{convert|61|cm|in|abbr=on}} [[torpedo tube]]s
+
+|Ship armor=*[[Belt armor|Belt]]: {{convert|250|mm|abbr=on}}
+*[[Deck (ship)|Deck]]: {{convert|95|mm|abbr=on}}
+*[[Conning tower|Conning Tower]]: {{convert|75|–|360|mm|abbr=on}}
+*Torpedo bulkheads: {{convert|73|mm|abbr=on}} [[torpedo tube]]s
+*[[Barbette]]s: {{convert|230|–|280|mm|abbr=on}}
+|Ship notes=
+}}
+|}
+
+The {{nihongo|'''''Amagi'' class'''|天城型|Amagi-gata}} was a [[ship class|series]] of four [[battlecruiser]]s planned for the [[Imperial Japanese Navy]] as part of the [[Eight-eight fleet]]. The ships were to be named ''Amagi'', {{Ship|Japanese aircraft carrier|Akagi||2}}, ''Atago'', and ''Takao'' (initially named [[:ja:愛鷹山|''Ashitaka'']]),&lt;ref&gt;Daiji Katagiri (1988), p. 93&lt;/ref&gt; after the mountains [[Mount Amagi|Amagi]], [[Mount Akagi|Akagi]], [[Mount Atago|Atago]], and [[Jingo-ji|Takao]].&lt;ref group=A&gt;''Conway's All the World's Fighting Ships'' (p. 235) states that ''Takao'' was named for the town of [[Kaohsiung|Takao, Formosa]], and some sources repeat this. However, the name ''Takao'' for Japanese warships predated the renaming of the town, and Lacroix (p. 122) states that the name was simply re-used for the battlecruiser.&lt;/ref&gt; The ''Amagi'' design was essentially a lengthened version of the {{sclass-|Tosa|battleship|0}}&lt;!--changed this from ''Kaga''-class--&gt; battleship, but with a thinner armored [[belt armor|belt]] and [[deck armor|deck]] and a modified secondary [[Artillery battery|battery]] arrangement.&lt;ref name=&quot;Conways235&quot;&gt;Gardiner and Gray (1984), p. 235&lt;/ref&gt;
+
+Limitations imposed by the 1922 [[Washington Naval Treaty]] prevented the class from being completed as designed. However, the treaty had a limited allowance for hulls already under construction to be converted into [[aircraft carrier]]s. ''Amagi'' and ''Akagi'' were both intended for conversion, but an [[1923 Great Kantō earthquake|earthquake]] damaged the hull of ''Amagi'' so extensively that the ship was scrapped. ''Akagi'' was reconstructed as an aircraft carrier and served with distinction as part of the ''[[Kido Butai]]'' during the [[World War II|Second World War]], participating in the Japanese attack on [[Attack on Pearl Harbor|Pearl Harbor]] before being sunk at the [[Battle of Midway]].
+
+==Design==
+
+===Dimensions and machinery===
+The ships had a planned displacement of {{convert|41217|t|LT ST|lk=out}} and {{convert|47000|t|LT ST|abbr=on}} at a full load. The class design was {{convert|250|m|abbr=on}} long at the [[Length at the waterline|waterline]], and {{convert|251.8|m|abbr=on}} [[Length overall|overall]]. The ships would have had a [[Beam (nautical)|beam]] of {{convert|30.8|m|abbr=on}} and a [[Draft (hull)|draft]] of {{convert|9.5|m|abbr=on}}&lt;ref name=&quot;Conways235&quot;/&gt; and would have used four propeller shafts, powered by Gihon [[Steam turbine|turbines]]. The design staff intended to use turbine engines, which were to be powered by 19 Kampon [[water-tube boiler]]s, eleven of which were oil-fired, while the other eight were to have mixed oil and coal for fuel. This system was designed to provide {{convert|131200|shp|lk=in}} for a top speed of {{convert|30|knots|km/h mph|lk=in}}. The planned fuel stores amounted to 3,900&amp;nbsp;tons of oil and 2,500&amp;nbsp;tons of coal. The ships had a planned cruising speed of {{convert|14|knots|km/h mph}}, and with full fuel stores, the ships would have had a maximum range of {{convert|8000|nmi|km mi|lk=in}}.&lt;ref name=&quot;Conways235&quot;/&gt;
+
+===Armament===
+The ships were to be equipped with a main battery of ten [[41 cm/45 3rd Year Type naval gun|41 cm L/45 guns]]&lt;ref group=A&gt;L/45 denotes the length of the gun barrels; in this case, the gun is 45 [[Calibers#Caliber as measurement of length|calibers]], meaning that the gun is 45 times long as it is in diameter.&lt;/ref&gt; guns in five twin [[Gun turret|turrets]], although an L/50 gun tested in 1920 might have been implemented instead. The guns fired {{convert|1000|kg|abbr=on}} [[Armor-piercing shot and shell|armor-piercing projectiles]] with a {{convert|224|kg|abbr=on}} [[propellant]] charge at {{convert|790|m/s|abbr=on}}, at a [[rate of fire]] between 1.5 and 2.5&amp;nbsp;rounds per minute. Each gun had 90 rounds and an approximate barrel life of 250–300 shots. The turrets would have been arranged along the centerline: two superfiring turrets fore, and three in line aft of the [[superstructure]]. The gun turrets weighed 1,004&amp;nbsp;tons (1,020&amp;nbsp;mt), and allowed for depression of −5&amp;nbsp;degrees and [[Elevation (ballistics)|elevation]] of 30&amp;nbsp;degrees.&lt;ref&gt;{{cite web|last=DiGiulian|first=Tony|title=Japanese 41 cm/45 (16.1&quot;) 3rd Year Type, 40 cm/45 (16.1&quot;) 3rd Year Type|url=http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.htm|publisher=Navweaps.com|date=19 April 2007|accessdate=18 January 2009| archiveurl= https://web.archive.org/web/20090124191457/http://www.navweaps.com/Weapons/WNJAP_161-45_3ns.htm| archivedate= 24 January 2009 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+The secondary battery was to have consisted of sixteen [[14 cm/50 3rd Year Type naval gun|14 cm L/50 guns]] mounted in [[casemate]]s along the center of the ship. These guns fired {{convert|38|kg|abbr=on}} projectiles and used {{convert|10.33|-|10.97|kg|abbr=on}} of propellant at a [[muzzle velocity]] of {{convert|850|-|855|m/s|abbr=on}}. The guns had a maximum elevation of 25&amp;nbsp;degrees, which enabled a maximum range of {{convert|17.5|km|abbr=on}}.&lt;ref&gt;{{cite web|last=DiGiulian|first=Tony|title=Japanese 5.5&quot;/50 (14 cm) 3rd Year Type|url=http://www.navweaps.com/Weapons/WNJAP_55-50_3ns.htm|publisher=Navweaps.com|date=23 August 2007|accessdate=18 January 2009| archiveurl= https://web.archive.org/web/20090106180550/http://www.navweaps.com//Weapons/WNJAP_55-50_3ns.htm| archivedate= 6 January 2009 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Four, later increased to six, [[12 cm/45 10th Year Type naval gun|12 cm]] L/45 anti-aircraft guns were to have been mounted amidships, along with eight {{convert|61|cm|abbr=on}} above-water torpedo tubes.&lt;ref name=&quot;Conways235&quot;/&gt;
+
+===Armor===
+It was planned that the ''Amagi'' class would be protected by a [[Belt armor|main belt]] {{convert|250|mm|abbr=on}} thick, sloped at 12&amp;nbsp;degrees, and a [[torpedo bulkhead]] {{convert|73|mm|abbr=on}} thick. The main battery [[barbette]]s were designed to have between {{convert|230|-|280|mm|abbr=on}} of armor plating, and the [[conning tower]] would have had armor ranging in thickness from {{convert|75|mm|abbr=on}} to a maximum of {{convert|360|mm|abbr=on}}. Deck armor was to have been {{convert|95|mm|abbr=on}} thick.&lt;ref name=&quot;Conways235&quot;/&gt;
+
+==Background==
+Experiences in the [[Russo-Japanese War]] convinced naval war planners that more fast capital ships were needed, so on 4 April 1907, the [[Imperial Defence Council]] approved an [[Eight-eight fleet|&quot;Eight-eight&quot;]] policy. This plan originally called for a fleet of eight [[battleship]]s and eight [[armored cruiser]]s that would all be under ten years old (later changed to eight [[battlecruiser]]s and reduced to eight years old). However, the advent of the [[dreadnought]] battleship crippled this plan at the beginning; given Japan's weak and underdeveloped economy and the enormous strain that had been put on it during the Russo-Japanese War (Japan emerged from the war victorious, but bankrupt),&lt;ref name=&quot;Conway's222&quot;&gt;Gardiner and Gray (1984), p. 222&lt;/ref&gt; the launch of {{HMS|Dreadnought|1906|6}} was a &quot;disaster&quot; for Japan.&lt;ref name=&quot;Conway's223&quot;&gt;Gardiner and Gray (1984), p. 223&lt;/ref&gt;
+
+In 1907, Japan was halfway to the eight-eight, with two newly delivered battleships (the {{sclass-|Katori|battleship|4}}) in the fleet and two more (the {{sclass-|Satsuma|battleship|4}}) and four armored cruisers authorized or under construction. In addition, three more battleships and four armored cruisers had been authorized, though not funded. However, naval technology was changing; older battleships, including all of Japan's battleships in commission or under construction,&lt;ref group=A&gt;While the {{sclass-|Satsuma|battleship|2}}s were technically &quot;semi-dreadnoughts&quot; due to their heavy secondary battery, they were still made obsolete by {{HMS|Dreadnought|1906|2}}.&lt;/ref&gt; were quickly rendered obsolete with the commissioning of HMS ''Dreadnought'' (hence the terms dreadnought and [[pre-dreadnought]]), and armored cruisers were seemingly useless in the face of the new battlecruisers being laid down by Great Britain and Germany. The Imperial Japanese Navy (IJN) recognized this, and proposed in 1909 that two battlecruisers be ordered from British plans, with one to be built in Great Britain and one to be built at home. These two ships became the {{sclass-|Kongō|battlecruiser|4}}.&lt;ref name=&quot;Conway's223&quot;/&gt;
+
+In 1910, there was still authorization for one battleship and four armored cruisers. This battleship, a more heavily armored version of the ''Kongō''-class battlecruisers, became Japan's first [[super-dreadnought]], {{ship|Japanese battleship|Fusō||2}}. With these ships, Japan appeared to be getting closer to the eight-eight goal; however, these new ships represented a &quot;new level of naval strength&quot; for the IJN, and they made all previous Japanese capital ships obsolete. This meant that any naval planner aiming for an eight-eight fleet would have to call for seven more battleships and four more battlecruisers&lt;ref name=&quot;Conway's223&quot;/&gt; at a time when Japan was trying to weather a worldwide economic depression.&lt;ref name=&quot;Conway's222&quot;/&gt;
+
+After proposals from the IJN in 1911 and 1912 for massive shipbuilding programs, the Cabinet compromised down to a &quot;four-four&quot; plan; under this, three new battleships and no new battlecruisers were authorized.&lt;ref&gt;Gardiner and Gray (1984), pp. 222&amp;ndash;223&lt;/ref&gt; The Navy did not agree, and instead called for an &quot;eight-four&quot; fleet, while the Imperial Defence Council called for the original eight-eight. The Cabinet relented, and by July 1914, it was decided to aim first for an eight-four fleet, followed by the eight-eight fleet. The eight-four plan was presented to the [[Diet of Japan]] in 1915; it aimed to have the eight battleships and four battlecruisers by 1923 with the building of two {{sclass-|Nagato|battleship|0}} and two {{sclass-|Tosa|battleship|2}}s. The problem with this was that the old plan intended all of the ships of the eight-eight fleet to be under eight years old; by the time these new ships were completed, ''Fusō'' and the first two ''Kongō'' ships would be past their replacement age.&lt;ref name=&quot;Conway's224&quot;&gt;Gardiner and Gray (1984), p. 224&lt;/ref&gt;
+
+The plan was approved in 1917, along with funding for two battlecruisers which became the ''Amagi'' class. In late 1917, the Navy proposed to expand the eight-four plan by adding two more battlecruisers; this was approved, and two more ''Amagi''-class ships were ordered. However, having eight {{convert|41|cm|abbr=on}} gun ships (four battleships and four battlecruisers) on order put an enormous financial strain on Japan, which was spending about a third of its national budget on the Navy. The massive size and scale of its building program was rapidly driving up the cost of naval construction and armament.&lt;ref name=&quot;Conway's224&quot;/&gt;
+
+==Construction, cancellation, and conversion==
+[[File:Japanese aircraft carrier Akagi 1925.jpg|thumb|left|240px|''Akagi'' after her launch in April 1925; she had already been converted to an aircraft carrier|alt=A large ship, covered with scaffolding, sits in harbor under a large gantry.]]
+
+{{Ship|Japanese aircraft carrier|Akagi||2}} was the first ship of the class to be laid down; construction began on 6 December 1920 at the naval yard in [[Kure, Hiroshima|Kure]]. ''Amagi'' followed ten days later at the [[Yokosuka, Kanagawa|Yokosuka]] naval yard. The projected completion dates for the first pair of ships were December and November 1923, respectively. ''Atago'' was laid down in [[Kobe]] at the [[Kawasaki Heavy Industries|Kawasaki]] shipyard on 22 November 1921, and was projected to be finished in December 1924. ''Takao'', the fourth and final ship of the class, was laid down at the [[Mitsubishi]] shipyard in [[Nagasaki]] on 19 December 1921, and was also projected to be completed in December 1924.&lt;ref name=&quot;Conways235&quot;/&gt;
+
+The [[Washington Naval Treaty]], signed in February 1922, greatly reduced the tonnage allowed for capital ships in the signatory nations. The treaty also instituted a moratorium on new warship construction; battlecruisers canceled under this included one class each from Japan, the United States, and Great Britain: the ''Amagi'' class, the {{sclass-|Lexington|battlecruiser|4}} and the [[G3 battlecruiser|G3 class]], respectively.&lt;ref&gt;See: [[s:Washington Naval Treaty, 1922#SECTION II REPLACEMENT AND SCRAPPING OF CAPITAL SHIPS|Washington Naval Treaty, Chapter II, Part III, Section II]]&lt;/ref&gt; The treaty did allow for battleship and battlecruiser hulls currently under construction to be converted into aircraft carriers, but only if these new carriers were kept under a 27,000-ton limit. Considering that the ''Amagi'' class were designed to displace {{convert|47000|t|LT ST|abbr=on}} at full load in their battlecruiser configuration,&lt;ref name=Conways235/&gt; this would have been a rather difficult displacement to obtain. However, the Americans also had the same problem when designing a conversion of their ''Lexington'' class, so an exception, spearheaded by US [[Assistant Secretary of the Navy]] [[Theodore Roosevelt, Jr.]], was added to the treaty that gave the five signatories the option of converting up to two capital ships that were under construction to 33,000-ton aircraft carriers.&lt;ref&gt;Friedman (1983), p. 43&lt;/ref&gt;&lt;ref&gt;See: [[s:Washington Naval Treaty, 1922#Article IX|Washington Naval Treaty, Chapter I, Article IX]]&lt;/ref&gt; This resulted in the United States and Japan quickly reordering two ships each. Japan chose ''Amagi'' and ''Akagi'', the two ships nearest to completion, for conversion.&lt;ref name=&quot;Conways235&quot;/&gt;
+
+The September 1923 [[1923 Great Kantō earthquake|Great Kantō earthquake]] in Tokyo caused significant stress damage to the hull of ''Amagi''. The structure was too heavily damaged to be usable, and conversion work was abandoned. ''Amagi'' was stricken from the navy list and sold for scrapping, which began on 14 April 1924. The other two ships, ''Atago'' and ''Takao'', were officially canceled two years later (31&amp;nbsp;July 1924) and were [[ship breaking|broken up]] for scrap in their [[slipway]]s.&lt;ref name=&quot;Conways235&quot;/&gt; The incomplete {{sclass-|Tosa|battleship|2}} {{ship|Japanese aircraft carrier|Kaga||2}}, on which work had stopped on 5 February 1922, was reordered as a carrier to replace ''Amagi''.&lt;ref&gt;Gardiner and Gray eds. (1984), p. 232&lt;/ref&gt;
+
+===''Akagi''{{'}}s career as an aircraft carrier===
+[[File:JapaneseAircraftCarrierAkagi3Deck cropped.jpg|thumb|right|240px|''Akagi'' on trials in 1927; the ship originally had two short take-off decks and a main landing deck|alt=An aircraft carrier steaming at full speed. Thick black smoke billows from its curved smoke stack.]]
+{{Main|Japanese aircraft carrier Akagi}}
+
+The conversion of ''Akagi'' began on 19 November 1923, and was completed in March 1927. However, the strange assortment of flight decks fitted on ''Akagi''—a main landing deck superimposed over two short take-off decks—proved unsatisfactory, and the ship was withdrawn from active service in 1935 for modernization. The lower two flight decks were removed, the main deck was lengthened to {{convert|250|m|abbr=on}}, and a third elevator was added.&lt;ref name=&quot;Stille12&quot;&gt;Stille, p. 12&lt;/ref&gt; Refitting was completed in 1938.&lt;ref name=&quot;Kotani32-33&quot;&gt;Kotani, Ken. &quot;Pearl Harbor: Japanese planning and command structure&quot; in Marston (2005), pp. 32–33&lt;/ref&gt; ''Akagi'' supported operations off China in early 1939 and 1940, and underwent an overhaul in November 1940.&lt;ref name=&quot;Kotani32-33&quot;/&gt;
+
+''Akagi'' served as Vice Admiral [[Chūichi Nagumo]]'s [[flagship]] in the [[attack on Pearl Harbor]] on 7 December 1941.&lt;ref name=&quot;NHHC-1&quot;&gt;{{cite web|url=http://www.history.navy.mil/photos/sh-fornv/japan/japsh-a/akagi2.htm|title=''Akagi'' (Aircraft Carrier, 1927–1942)|accessdate=6 October 2009|date=21 March 1999|work=|publisher=Naval History &amp; Heritage Command}}&lt;/ref&gt; Nagumo's ''[[Kido Butai]]''—composed of the carriers ''Akagi'', ''Kaga'', {{Ship|Japanese aircraft carrier|Hiryū||2}}, {{Ship|Japanese aircraft carrier|Sōryū||2}}, {{Ship|Japanese aircraft carrier|Shōkaku||2}}, and {{Ship|Japanese aircraft carrier|Zuikaku||2}}, supported by escorts—launched two waves of airstrikes on the American base at Pearl Harbor in a devastating surprise attack. American losses included four battleships and two destroyers sunk and nearly 200 aircraft destroyed.&lt;ref&gt;Hoyt (2001), pp. 225–228&lt;/ref&gt;&lt;ref&gt;Kotani, Ken. &quot;Pearl Harbor: Japanese planning and command structure&quot; in Marston (2005), pp. 40–41&lt;/ref&gt;&lt;ref name=&quot;Ireland190&quot;&gt;Ireland (1998), p. 190&lt;/ref&gt;
+
+On 19 February 1942, aircraft from ''Akagi'', ''Hiryū'', ''Sōryū'', and ''Kaga'' participated in the [[Bombing of Darwin|bombing of Darwin, Australia]].&lt;ref name=&quot;Ireland190&quot;/&gt;&lt;ref&gt;Hoyt (2001), p. 260&lt;/ref&gt; On 27 February, their bombers severely damaged the old American carrier {{USS|Langley|CV-1|6}}, which was subsequently scuttled by her escort.&lt;ref&gt;{{cite DANFS|title=Langley|url=http://www.history.navy.mil/danfs/l3/langley-i.htm|accessdate=6 October 2009}}&lt;/ref&gt;
+
+''Akagi'' and the carriers ''Hiryū'' and ''Sōryū'' were sent in March 1942 with a mixed force of battleships, cruisers, and destroyers to the Indian Ocean to engage the British fleet there and to support planned attacks on [[Ceylon]]. In the [[Easter Sunday Raid]] on 5 April, aircraft from the carriers struck the British base at [[Colombo]], destroying a number of aircraft and sinking an armed merchant cruiser and the old destroyer {{HMS|Tenedos|H04|6}} in the harbor.&lt;ref name=&quot;Ireland190&quot;/&gt;&lt;ref&gt;Hoyt (2001), p. 268&lt;/ref&gt; The Japanese fleet also spotted the heavy cruisers {{HMS|Dorsetshire|40|6}} and {{HMS|Cornwall|56|6}} at sea; both ships were sunk in an overwhelming air attack.&lt;ref name=&quot;Ireland190&quot;/&gt; On 9 April the carriers attacked British installations at [[Trincomalee]], destroying aircraft and sinking the carrier {{HMS|Hermes|95|6}}, the destroyer {{HMAS|Vampire|D68|6}}, and the corvette {{HMS|Hollyhock|K64|6}}.&lt;ref&gt;Ireland (1998), p. 191&lt;/ref&gt;
+
+===Battle of Midway===
+{{Main|Battle of Midway}}
+
+In late May 1942, in an effort to draw out and destroy the elusive American carriers, Japanese forces organized attacks on the [[Aleutian Islands Campaign|Aleutian Islands]] in Alaska and [[Battle of Midway|Midway Atoll]] in the Western Pacific.&lt;ref name=&quot;Ireland197&quot;&gt;Ireland (1998), p. 197&lt;/ref&gt; Nagumo, aboard ''Akagi'', led ''Kaga'', ''Sōryū'', and ''Hiryū'' and the support ships of the First Carrier Striking Force to Midway.&lt;ref&gt;Love, Robert. &quot;The Height of Folly&quot; in Marston (2005), p. 89&lt;/ref&gt;&lt;ref&gt;Hoyt (2001), p. 293&lt;/ref&gt; In the initial attack, Japanese planes neutralized a small force of fighter aircraft and inflicted heavy damage to American installations.&lt;ref name=&quot;Ireland197&quot;/&gt;&lt;ref name=&quot;Hoyt295&quot;&gt;Hoyt (2001), p. 295&lt;/ref&gt; Torpedo planes and dive-bombers sent from Midway to harry the Japanese fleet had little effect, but the Japanese attack plan had been deciphered by codebreakers, and the American carriers' planes were already en route.&lt;ref&gt;Love, Robert. &quot;The Height of Folly&quot; in Marston (2005), p. 93&lt;/ref&gt; Torpedo bombers from {{USS|Hornet|CV-8|6}}, {{USS|Enterprise|CV-6|6}}, and {{USS|Yorktown|CV-5|6}} joined the attack in succession, forcing the Japanese carriers to maneuver violently to avoid torpedoes and rendering them unable to launch additional aircraft.&lt;ref name=&quot;Ireland200&quot;&gt;Ireland (1998), p. 200&lt;/ref&gt; American dive-bombers, arriving late after difficulty locating the fleet, soon landed fatal strikes on ''Akagi'', ''Kaga'', and ''Sōryū''.&lt;ref name=&quot;Ireland200&quot;/&gt; ''Yorktown'', handicapped by hits from ''Hiryū''{{'}}s bombers, managed to return to the fight only to take two torpedo hits a couple of hours later.&lt;ref name=&quot;Ireland200&quot;/&gt; The burning ''Yorktown'' was abandoned, but her scouts pinpointed ''Hiryū''{{'}}s location, and bombers from ''Enterprise'' put ''Hiryū'' out of action with four bomb strikes.&lt;ref name=&quot;Ireland200&quot;/&gt; Japan lost all four carriers of the First Carrier Striking Force at Midway.&lt;ref&gt;Love, Robert. &quot;The Height of Folly&quot; in Marston (2005), p. 97&lt;/ref&gt;
+{{Clear}}
+
+== See also ==
+{{Portal|Battleships}}
+* [[Destroyermen (book series)|''Destroyermen'']], a series set in an alternate reality and featuring a rebuilt ''Amagi''
+*[[List of ships of the Second World War]]
+*[[List of ship classes of the Second World War]]
+
+==Notes==
+{{Reflist|group=A}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+&lt;div style=&quot;font-size:90%;&quot;&gt;
+* {{cite web|author =DiGiulian, Tony|title=Navweaps.com: Naval Weapons, Naval Technology and Naval Reunions|location=Bucks County, Pennsylvania|url=http://www.navweaps.com/}}
+* {{cite book|author =Friedman, Norman|title=U.S. Aircraft Carriers: An Illustrated Design History|location=Annapolis, Maryland|publisher=Naval Institute Press|year=1983|isbn=0-87021-739-9|oclc=8763586|url=https://books.google.com/books?id=-UT7MDTeKj8C}}
+* {{cite book|editor1-last=Gardiner|editor1-first=Robert|editor2-last=Gray|editor2-first=Randal|title=Conway's All the World's Fighting Ships: 1906–1921|year=1984|location=Annapolis|publisher=Naval Institute Press|isbn=0-87021-907-3|oclc=12119866}}
+* {{cite book|author =Hoyt, Edwin P.|authorlink=Edwin Palmer Hoyt|title=Japan's War: The Great Pacific Conflict|publisher=Cooper's Square Press|year=2001|isbn=0-8154-1118-9|location=New York}}
+* {{cite book|author =Ireland, Bernard|title=Jane's Naval History of World War II|publisher=HarperCollins|location=London|year=1998|isbn=0-00-472143-8}}
+* {{cite book|author =Katagiri, Daiji|title=Ship Name Chronicles of the Imperial Japanese Navy Combined Fleet|publisher=Kōjinsha|location=Japan|year=1988|isbn=4-7698-0386-9}}
+* {{cite book|author =Lacroix, Eric|title=Japanese cruisers of the Pacific War|publisher=Naval Institute Press|location=Annapolis|year=1997|isbn=0-87021-311-3}}
+* {{cite book|editor =Marston, Daniel |title=The Pacific War Companion|year=2005|publisher=Osprey Publishing Ltd|isbn=1-84176-882-0|location=[[Oxford]]}}
+* {{cite book|author =Stille, Mark|title=Imperial Japanese Navy Aircraft Carriers 1921–45|location=Oxford|publisher=Osprey Publishing|year=2005|isbn=1-84176-853-7|oclc=57638857}}
+* &quot;[[Washington Naval Treaty]]&quot; of 1922. [[Washington Naval Conference]].
+* ''[[Dictionary of American Naval Fighting Ships]]''. [[Naval History &amp; Heritage Command]], [[United States Department of the Navy]]. Print publications 1959–1991; digital version available at the [http://www.history.navy.mil/danfs/ Online DANFS Project].
+&lt;/div&gt;
+
+==External links==
+* [http://www.hazegray.org/navhist/battleships/ijn_dr.htm ''Haze Gray &amp; Underway'' page on Japanese battlecruisers, dreadnoughts and semi-dreadnoughts]
+{{Amagi class battlecruiser}}
+{{featured article}}
+
+{{DEFAULTSORT:Amagi Class Battlecruiser}}
+[[Category:Amagi-class battlecruisers| ]]
+[[Category:Battlecruiser classes]]</text>
+      <sha1>j8ikuugw34o8abv0097gvy5sb4nk7li</sha1>
+    </revision>
+  </page>
+</mediawiki>

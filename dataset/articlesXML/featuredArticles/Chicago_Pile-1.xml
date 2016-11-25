@@ -47,17 +47,17 @@
     <ns>0</ns>
     <id>1118396</id>
     <revision>
-      <id>750793580</id>
-      <parentid>750784123</parentid>
-      <timestamp>2016-11-21T21:30:42Z</timestamp>
+      <id>751342231</id>
+      <parentid>750793580</parentid>
+      <timestamp>2016-11-25T01:26:38Z</timestamp>
       <contributor>
-        <username>Hawkeye7</username>
-        <id>302229</id>
+        <username>JJMC89 bot</username>
+        <id>27446209</id>
       </contributor>
-      <comment>Undid revision 750784123 by [[Special:Contributions/InternetArchiveBot|InternetArchiveBot]] ([[User talk:InternetArchiveBot|talk]]) URL is NOT dead</comment>
+      <comment>Migrate {{Infobox NRHP}} coordinates parameters to {{Coord}}, see [[Wikipedia:Coordinates in infoboxes]]</comment>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text xml:space="preserve" bytes="61465">{{featured article}}
+      <text xml:space="preserve" bytes="61369">{{featured article}}
 
 {{Infobox NRHP
  | name = Site of the First Self Sustaining Nuclear Reaction
@@ -81,15 +81,8 @@
  | caption = Drawing of the reactor
  | location = [[Chicago]], Illinois, US
  | nearest_city =
- | lat_degrees = 41
- | lat_minutes = 47
- | lat_seconds =32
- | lat_direction = N
- | long_degrees = 87
- | long_minutes = 36
- | long_seconds = 3
- | long_direction = W
- | locmapin = United States Chicago Greater
+ | coordinates = {{coord|41|47|32|N|87|36|3|W|display=inline,title}}
+| locmapin = United States Chicago Greater
  | area =
  | built = 1942&lt;ref name=&quot;nhl&quot;/&gt;
  | architect =
@@ -334,7 +327,7 @@ Today the site of the old Stagg Field is occupied by the University's [[Regenste
 [[Category:University of Chicago]]
 [[Category:1942 establishments in Illinois]]
 [[Category:1942 in the United States]]</text>
-      <sha1>0t2r7bz7w27nq4zek1ubm170sy7kwwv</sha1>
+      <sha1>8888tvdd4hjpp51uam01b5sjmfpf4ug</sha1>
     </revision>
   </page>
 </mediawiki>

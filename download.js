@@ -22,10 +22,11 @@ const specialExportUrl = 'https://en.wikipedia.org/wiki/Special:Export/'
 //   'Start-Class_',
 //   'Stub-Class_',
 // ]
-
 const classUrls = [
-  'Start-Class_'
+  'Start-Class_',
+  'Stub-Class_',
 ]
+
 // const categories = [
 //   'biography_(military)_articles',
 //   'united_states_military_history_articles',
@@ -39,14 +40,12 @@ const category = 'military_history_articles'
 const datasetPath = 'dataset'
 
 const pathXML = path.join(datasetPath, 'articlesXML')
-// const pathClasses = ['featuredArticles', 'aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
-const pathClasses = ['startArticles']
+const pathClasses = ['featuredArticles', 'aClassArticles', 'goodArticles', 'bClassArticles', 'cClassArticles', 'startArticles', 'stubArticles']
 
 const pathTalkPageXML = path.join(datasetPath, 'talkPagesXML')
 
 const pathLists = path.join(datasetPath, 'articlesLists')
-// const lists = ['featuredArticles.txt', 'aClassArticles.txt', 'goodArticles.txt', 'bClassArticles.txt', 'cClassArticles.txt', 'startArticles.txt', 'stubArticles.txt']
-const lists = ['startArticles.txt']
+const lists = ['featuredArticles.txt', 'aClassArticles.txt', 'goodArticles.txt', 'bClassArticles.txt', 'cClassArticles.txt', 'startArticles.txt', 'stubArticles.txt']
 
 let index = 0
 let articleCount = 0
@@ -64,7 +63,7 @@ let stubArticles = []
 
 const writeList = (title, cb) => {
   // REPLACE SLASH and COLON
-  let _title = decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
+  let _title = title.replace(/\//g, '\u2215').replace(/:/g, '&#58;')
   let list = path.join(pathLists, lists[index])
   mkdirp(pathLists, (err) => {
     if (err) throw err
@@ -76,7 +75,7 @@ const writeList = (title, cb) => {
 
 const writeFile = (folder, title, contents, cb) => {
   // REPLACE SLASH and COLON
-  let _title = decodeURI(title).replace(/\//g, '\u2215').replace(/:/g, '&#58;')
+  let _title = title.replace(/\//g, '\u2215').replace(/:/g, '&#58;')
   let _path = path.join(folder, pathClasses[index])
   mkdirp(_path, (err) => {
     if (err) throw err
@@ -105,7 +104,8 @@ const downloadTalkPage = (title, cb) => {
 }
 
 const downloadXML = (title, cb) => {
-  if (title[0] == '.') {
+  let regex = /^[a-zA-Z0-9!@#£\$%\^\&*\)\(+=._-\s:,]+$/g
+  if (!regex.test(title) || title[0] == '.' || title.indexOf(category) > -1) {
     cb(null, 'Article downloaded')
   }
   else {
@@ -187,30 +187,3 @@ async.eachSeries(
     process.exit()
   }
 )
-
-
-
-
-// async.series([
-//   async.apply(writeFile, path, sanitizedTitle, body),
-//   async.apply(writeList, sanitizedTitle),
-//   async.apply(downloadTalkPage, title)
-// ])
-
-
-// const one = (x, cb) => {
-//     console.log(x);
-//     writeList('yo', cb)
-//     // cb()
-// }
-//
-// const two = (y, cb) => {
-//     console.log(y);
-//     cb()
-// }
-//
-// async.series([
-//   async.apply(writeFile, './', 'sanitizedTitle', 'body'),
-//   async.apply(writeList, 'one'),
-//   async.apply(downloadTalkPage, 'dioboia')
-// ])

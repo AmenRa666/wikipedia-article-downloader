@@ -13,16 +13,12 @@ var time = require('node-tictoc')
 const randomArticleByCategoryUrl = 'https://en.wikipedia.org/wiki/Special:RandomInCategory/'
 const specialExportUrl = 'https://en.wikipedia.org/wiki/Special:Export/'
 
-// const classUrls = [
-//   'FA-Class_',
-//   'A-Class_',
-//   'GA-Class_',
-//   'B-Class_',
-//   'C-Class_',
-//   'Start-Class_',
-//   'Stub-Class_',
-// ]
 const classUrls = [
+  'FA-Class_',
+  'A-Class_',
+  'GA-Class_',
+  'B-Class_',
+  'C-Class_',
   'Start-Class_',
   'Stub-Class_',
 ]

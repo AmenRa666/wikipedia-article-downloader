@@ -1,0 +1,175 @@
+"use strict"
+// MODULES
+const fs = require('fs')
+const time = require('node-tictoc')
+const curl = require('curlrequest')
+const xml2js = require('xml2js')
+const path = require('path')
+const async = require('async')
+const mkdirp = require('mkdirp')
+const _ = require('underscore')
+// Database Agent
+const dbAgent = require('./dbAgent.js')
+// XML Parser
+const parser = new xml2js.Parser()
+
+
+// LOGIC
+let bots = []
+let botsFile = fs.readFileSync("Bots.txt", 'utf8')
+bots = _.uniq(botsFile.trim().split(/[\n,\|]/))
+console.log(bots.length);
+console.log('Bots List: LOADED');
+
+
+let articleTitle = 'Pericles'
+
+// Starting value
+let offset = '1'
+let limit = '100'
+
+let noMoreRevisions = false
+
+const saveRevision = (revision, cb) => {
+  dbAgent.findRevisionsByRevID(revision.revid, (revisions) => {
+    if (revisions.length == 0) {
+      dbAgent.insertRevision(revision, cb)
+    }
+    else {
+      console.log('Revision found in DB');
+      cb(null, 'Revision found in DB')
+    }
+  })
+}
+
+const saveRevisions = (revisions, cb) => {
+  async.each(
+    revisions,
+    saveRevision,
+    (err, res) => {
+      if (err) throw err
+      else {
+        console.log('- - - - - - - - - - -');
+        cb(null, 'Save Revisions')
+      }
+    }
+  )
+}
+
+const revisionsPreprocessing = (revisionsFromXML, cb) => {
+  let revisions = []
+  for (let i = 0; i < revisionsFromXML.length; i++) {
+    // Check that contributor is not a bot
+    let notBot = false
+    if (
+      ( revisionsFromXML[i].contributor[0].username &&
+      bots.indexOf(revisionsFromXML[i].contributor[0].username[0]) < 0 ) ||
+      ( revisionsFromXML[i].contributor[0].ip &&
+      bots.indexOf(revisionsFromXML[i].contributor[0].ip[0]) < 0 )
+    ) {
+      notBot = true
+    }
+    if (notBot) {
+      // Check that the revision is the last revision in a series by the same contributor
+      let push = false
+      if (revisionsFromXML[i+1] == undefined) {
+        push = true
+      }
+      else if (
+        revisionsFromXML[i].contributor[0].username &&
+        revisionsFromXML[i+1].contributor[0].username &&
+        revisionsFromXML[i].contributor[0].username[0] != revisionsFromXML[i+1].contributor[0].username[0]
+      ) {
+        push = true
+      }
+      else if (
+        revisionsFromXML[i].contributor[0].ip &&
+        revisionsFromXML[i+1].contributor[0].ip &&
+        revisionsFromXML[i].contributor[0].ip[0] != revisionsFromXML[i+1].contributor[0].ip[0]
+      ) {
+        push = true
+      }
+      else if (
+        ( revisionsFromXML[i].contributor[0].username &&
+        !revisionsFromXML[i+1].contributor[0].username ) ||
+        ( !revisionsFromXML[i].contributor[0].username &&
+        revisionsFromXML[i+1].contributor[0].username )
+      ) {
+        push = true
+      }
+      if (push) {
+        let revision = {
+          articleTitle: articleTitle,
+          revid: revisionsFromXML[i].id[0],
+          timestamp: revisionsFromXML[i].timestamp[0],
+          user: null,
+          text: revisionsFromXML[i].text[0]._,
+        }
+        if (revisionsFromXML[i].contributor[0].username) {
+          revision.user = revisionsFromXML[i].contributor[0].username[0]
+        }
+        else {
+          revision.user = revisionsFromXML[i].contributor[0].ip[0]
+        }
+        revisions.push(revision)
+      }
+    }
+  }
+  saveRevisions(revisions, cb)
+}
+
+const downloadRevisions = (cb) => {
+  let url = 'https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + articleTitle + '&offset=' + offset +  '&limit=' + limit + '&action=submit'
+  let options = {
+    url: url,
+    method: 'POST'
+  }
+  curl.request(options, (err, parts) => {
+    if (err) throw err
+    else {
+      parts = parts.split('\r\n')
+      // let data = parts.pop()
+      let data = parts
+      let dir = 'tmp'
+      let filename = 'text.xml'
+      let _path = path.join(dir, filename)
+      mkdirp(dir, (err) => {
+        if (err) throw err
+        else {
+          fs.writeFileSync(_path, data)
+          let xmlHistory = fs.readFileSync(_path, 'utf8')
+          parser.parseString(xmlHistory, (err, res) => {
+            if (err) throw err
+            else if (res.mediawiki.page) {
+              console.log('Revisions retrieved:', res.mediawiki.page[0].revision.length);
+              let revisionsFromXML = res.mediawiki.page[0].revision
+              let lastRevision = revisionsFromXML[revisionsFromXML.length - 1]
+              offset = lastRevision.timestamp[0]
+              revisionsPreprocessing(revisionsFromXML, cb)
+            }
+            else {
+              noMoreRevisions = true
+              cb(null, 'End Download Revisions')
+            }
+          })
+        }
+      })
+    }
+  })
+}
+
+
+time.tic()
+
+async.whilst(
+    () => { return !noMoreRevisions },
+    downloadRevisions,
+    (err, res) => {
+      if (err) throw err
+      else {
+        console.log('All revisions have been retrieved!');
+        time.toc()
+        process.exit()
+      }
+    }
+)

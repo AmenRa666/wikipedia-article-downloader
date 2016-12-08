@@ -3,12 +3,11 @@ const Schema = mongoose.Schema;
 
 // schema maps to a MongoDB collection and defines the shape of the documents within that collection
 let revisionsSchema = new Schema({
+  articleTitle: String,
   user: String,
   timestamp: Date,
-  articleTitle: String,
   revid: String,
-  parentid: String,
-  size: Number
+  text: String
 });
 
 // instances of Models are documents

@@ -14,17 +14,36 @@ db.once('open', function() {
 
 const insertRevision = (revision, cb) => {
   Revision.create(revision, (err, obj) => {
-    if (err) return handleError(err)
+    if (err) {
+      console.log(err);
+      process.exit()
+    }
     else {
       cb(null, 'Revision Saved')
     }
   })
 }
 
-const findRevisionByArticleTitle = (articleTitle, cb) => {
+const findRevisionsByArticleTitle = (articleTitle, cb) => {
   let query = {"articleTitle":articleTitle}
   Revision.find(query, (err, revisions) => {
-    if (err) console.log(err);
+    if (err) {
+      console.log(err);
+      process.exit()
+    }
+    else {
+      cb(revisions)
+    }
+  })
+}
+
+const findRevisionsByRevID = (revid, cb) => {
+  let query = {"revid":revid}
+  Revision.find(query, (err, revisions) => {
+    if (err) {
+      console.log(err);
+      process.exit()
+    }
     else {
       cb(revisions)
     }
@@ -33,4 +52,5 @@ const findRevisionByArticleTitle = (articleTitle, cb) => {
 
 // EXPORTS
 module.exports.insertRevision = insertRevision
-module.exports.findRevisionByArticleTitle = findRevisionByArticleTitle
+module.exports.findRevisionsByArticleTitle = findRevisionsByArticleTitle
+module.exports.findRevisionsByRevID = findRevisionsByRevID

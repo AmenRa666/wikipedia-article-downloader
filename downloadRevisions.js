@@ -106,7 +106,7 @@ const revisionsPreprocessing = (revisionsFromXML, cb) => {
           text: revisionsFromXML[i].text[0]._,
         }
         if (revisionsFromXML[i].contributor[0].username) {
-          revision.user = revisionsFromXML[i].contributor[0].username[0]
+          revision.user = revisionsFromXML[i].contributor[0].username[0].replace(/ /g, '_')
         }
         else {
           revision.user = revisionsFromXML[i].contributor[0].ip[0]

@@ -62,10 +62,14 @@ const revisionsPreprocessing = (revisionsFromXML, cb) => {
     // Check that contributor is not a bot
     let notBot = false
     if (
-      ( revisionsFromXML[i].contributor[0].username &&
+      (( revisionsFromXML[i].contributor[0].username &&
+      revisionsFromXML[i].contributor[0].username[0].toLowerCase().indexOf('bot') < 0 &&
       bots.indexOf(revisionsFromXML[i].contributor[0].username[0]) < 0 ) ||
       ( revisionsFromXML[i].contributor[0].ip &&
-      bots.indexOf(revisionsFromXML[i].contributor[0].ip[0]) < 0 )
+      bots.indexOf(revisionsFromXML[i].contributor[0].ip[0]) < 0 )) &&
+      revisionsFromXML[i].text[0]._ &&
+      revisionsFromXML[i].timestamp[0] &&
+      revisionsFromXML[i].id[0]
     ) {
       notBot = true
     }

@@ -15,14 +15,15 @@ const parser = new xml2js.Parser()
 
 
 // LOGIC
-let bots = []
-let botsFile = fs.readFileSync("Bots.txt", 'utf8')
-bots = _.uniq(botsFile.trim().split(/[\n,\|]/))
-console.log(bots.length);
+let botsFilename = 'Bots.txt'
+let botsFile = fs.readFileSync(botsFilename, 'utf8')
+let bots = _.uniq(botsFile.trim().split(/[\n,\|]/))
 console.log('Bots List: LOADED');
 
-
-let articleTitle = 'Pericles'
+let articleListFilename = 'Articles.txt'
+let articleList = fs.readFileSync(articleListFilename, 'utf8').split('\n')
+articleList.pop()
+console.log('Articles List: LOADED');
 
 // Starting value
 let offset = '1'
@@ -56,7 +57,7 @@ const saveRevisions = (revisions, cb) => {
   )
 }
 
-const revisionsPreprocessing = (revisionsFromXML, cb) => {
+const revisionsPreprocessing = (articleTitle, revisionsFromXML, cb) => {
   let revisions = []
   for (let i = 0; i < revisionsFromXML.length; i++) {
     // Check that contributor is not a bot
@@ -122,7 +123,7 @@ const revisionsPreprocessing = (revisionsFromXML, cb) => {
   saveRevisions(revisions, cb)
 }
 
-const downloadRevisions = (cb) => {
+const downloadRevisions = (articleTitle, cb) => {
   let url = 'https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + articleTitle + '&offset=' + offset +  '&limit=' + limit + '&action=submit'
   let options = {
     url: url,
@@ -149,7 +150,7 @@ const downloadRevisions = (cb) => {
               let revisionsFromXML = res.mediawiki.page[0].revision
               let lastRevision = revisionsFromXML[revisionsFromXML.length - 1]
               offset = lastRevision.timestamp[0]
-              revisionsPreprocessing(revisionsFromXML, cb)
+              revisionsPreprocessing(articleTitle, revisionsFromXML, cb)
             }
             else {
               noMoreRevisions = true
@@ -162,18 +163,39 @@ const downloadRevisions = (cb) => {
   })
 }
 
+const downloadArticleRevisions = (articleTitle, cb) => {
+  console.log('- - - - - - - - - - -');
+  console.log(articleTitle);
+  console.log('- - - - - - - - - - -');
+  async.whilst(
+      () => { return !noMoreRevisions },
+      async.apply(downloadRevisions, articleTitle),
+      (err, res) => {
+        if (err) throw err
+        else {
+          console.log('All revisions of ' + articleTitle + ' have been downloaded!');
+          noMoreRevisions = false
+          offset = 1
+          cb( null, 'Download Article Revisions')
+        }
+      }
+  )
+}
 
 time.tic()
 
-async.whilst(
-    () => { return !noMoreRevisions },
-    downloadRevisions,
-    (err, res) => {
-      if (err) throw err
-      else {
-        console.log('All revisions have been retrieved!');
-        time.toc()
-        process.exit()
-      }
+async.eachSeries(
+  articleList,
+  downloadArticleRevisions,
+  (err, res) => {
+    if (err) throw err
+    else {
+      console.log('- - - - - - - - - - -')
+      console.log('All revisions have been retrieved!')
+      console.log('- - - - - - - - - - -')
+      console.log('Elasped Time:')
+      time.toc()
+      process.exit()
     }
+  }
 )

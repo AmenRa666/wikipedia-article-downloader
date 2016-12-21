@@ -168,26 +168,28 @@ const downloadArticleRevisions = (articleTitle, cb) => {
   console.log(articleTitle);
   console.log('- - - - - - - - - - -');
   let _articleTitle = articleTitle.trim()
-  if (_articleTitle.charAt(0) == '|' && _articleTitle.charAt(1) == '|') {
-    console.log("Article's revisions already downloaded!");
-    cb( null, 'Download Article Revisions')
-  }
-  else {
-    async.whilst(
-        () => { return !noMoreRevisions },
-        async.apply(downloadRevisions, _articleTitle),
-        (err, res) => {
-          if (err) throw err
-          else {
-            articleCount++
-            console.log(articleCount + ' - All revisions of ' + _articleTitle + ' have been downloaded!');
-            noMoreRevisions = false
-            offset = 1
-            cb( null, 'Download Article Revisions')
+  dbAgent.findRevisionsByArticleTitle(_articleTitle, (revisions) => {
+    if (revisions.length == 0) {
+      async.whilst(
+          () => { return !noMoreRevisions },
+          async.apply(downloadRevisions, _articleTitle),
+          (err, res) => {
+            if (err) throw err
+            else {
+              articleCount++
+              console.log(articleCount + ' - All revisions of ' + _articleTitle + ' have been downloaded!');
+              noMoreRevisions = false
+              offset = 1
+              cb( null, 'Download Article Revisions')
+            }
           }
-        }
-    )
-  }
+      )
+    }
+    else {
+      console.log("Article's revisions already downloaded!");
+      cb( null, 'Download Article Revisions')
+    }
+  })
 }
 
 time.tic()

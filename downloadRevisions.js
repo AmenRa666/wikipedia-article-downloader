@@ -21,8 +21,7 @@ let bots = _.uniq(botsFile.trim().split(/[\n,\|]/))
 console.log('Bots List: LOADED');
 
 let articleListFilename = 'Articles.txt'
-let articleList = fs.readFileSync(articleListFilename, 'utf8').split('\n')
-articleList.pop()
+let articleList = fs.readFileSync(articleListFilename, 'utf8').trim().split('\n')
 console.log('Articles List: LOADED');
 
 // Starting value
@@ -30,6 +29,7 @@ let offset = '1'
 let limit = '100'
 
 let noMoreRevisions = false
+let articleCount = 0
 
 const saveRevision = (revision, cb) => {
   dbAgent.findRevisionsByRevID(revision.revid, (revisions) => {
@@ -167,19 +167,27 @@ const downloadArticleRevisions = (articleTitle, cb) => {
   console.log('- - - - - - - - - - -');
   console.log(articleTitle);
   console.log('- - - - - - - - - - -');
-  async.whilst(
-      () => { return !noMoreRevisions },
-      async.apply(downloadRevisions, articleTitle),
-      (err, res) => {
-        if (err) throw err
-        else {
-          console.log('All revisions of ' + articleTitle + ' have been downloaded!');
-          noMoreRevisions = false
-          offset = 1
-          cb( null, 'Download Article Revisions')
+  let _articleTitle = articleTitle.trim()
+  if (_articleTitle.charAt(0) == '|' && _articleTitle.charAt(1) == '|') {
+    console.log("Article's revisions already downloaded!");
+    cb( null, 'Download Article Revisions')
+  }
+  else {
+    async.whilst(
+        () => { return !noMoreRevisions },
+        async.apply(downloadRevisions, _articleTitle),
+        (err, res) => {
+          if (err) throw err
+          else {
+            articleCount++
+            console.log(articleCount + ' - All revisions of ' + _articleTitle + ' have been downloaded!');
+            noMoreRevisions = false
+            offset = 1
+            cb( null, 'Download Article Revisions')
+          }
         }
-      }
-  )
+    )
+  }
 }
 
 time.tic()

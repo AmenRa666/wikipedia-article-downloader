@@ -125,6 +125,7 @@ const revisionsPreprocessing = (articleTitle, revisionsFromXML, cb) => {
 
 const downloadRevisions = (articleTitle, cb) => {
   let url = 'https://en.wikipedia.org/w/index.php?title=Special:Export&pages=' + articleTitle + '&offset=' + offset +  '&limit=' + limit + '&action=submit'
+  url = url.replace(/&#58;/g, ':')
   let options = {
     url: url,
     method: 'POST'
@@ -168,8 +169,8 @@ const downloadArticleRevisions = (articleTitle, cb) => {
   console.log(articleTitle);
   console.log('- - - - - - - - - - -');
   let _articleTitle = articleTitle.trim()
-  dbAgent.findRevisionsByArticleTitle(_articleTitle, (revisions) => {
-    if (revisions.length == 0) {
+  // dbAgent.findRevisionsByArticleTitle(_articleTitle, (revisions) => {
+    // if (revisions.length == 0) {
       async.whilst(
           () => { return !noMoreRevisions },
           async.apply(downloadRevisions, _articleTitle),
@@ -184,12 +185,13 @@ const downloadArticleRevisions = (articleTitle, cb) => {
             }
           }
       )
-    }
-    else {
-      console.log("Article's revisions already downloaded!");
-      cb( null, 'Download Article Revisions')
-    }
-  })
+    // }
+    // else {
+      // articleCount++
+      // console.log(articleCount + " - Article's revisions already downloaded!");
+      // cb( null, 'Download Article Revisions')
+    // }
+  // })
 }
 
 time.tic()
@@ -209,3 +211,6 @@ async.eachSeries(
     }
   }
 )
+
+// INTRODUCED SECOND DB
+// Siege_of_Calais_(1940)

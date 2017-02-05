@@ -95,9 +95,6 @@ const updateArticleRevisions = (articleTitle, cb) => {
         }
       }
     )
-
-
-
   })
 }
 

@@ -10,14 +10,14 @@ const Revision = require('./models/revisionFA.js').Revision
 var options = {
   server: {
     socketOptions: {
-      keepAlive: 300000,
-      connectTimeoutMS: 30000
+      keepAlive: 3000000,
+      connectTimeoutMS: 300000
      }
    },
    replset: {
     socketOptions: {
-      keepAlive: 300000,
-      connectTimeoutMS : 30000
+      keepAlive: 3000000,
+      connectTimeoutMS : 300000
     }
   }
 }
